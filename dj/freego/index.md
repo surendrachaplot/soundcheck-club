@@ -1,8 +1,8 @@
 # FREEGO
 
-FREEGO is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Baggerbeest, Amsterdam on Sun, 25 Oct 2026.
+FREEGO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Baggerbeest, Amsterdam on Sun, 25 Oct 2026.
 
-FREEGO is a techno and progressive house artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin and Frankfurt. Often billed alongside Zutri, WAN.1 and Ornery. Next up: Club Baggerbeest, Amsterdam on Sun 25 Oct.
+FREEGO is a techno and progressive house artist based in Italy, with 39 gigs on soundcheck across Amsterdam, Berlin and Frankfurt. Often billed alongside Zutri, WAN.1 and Ornery. Next up: Club Baggerbeest, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FREEGO is a techno and progressive house artist based in Italy, tracked on sound
 
 ## Recently played
 
-- Matrix Club Berlin (Techno Stage), Berlin — Sat, 26 Sept 2026
-- Matrix Club Berlin, Berlin — Sat, 25 Jul 2026
-- TBA - VIP Späti, Neukölln, Berlin — Sat, 11 Jul 2026
-- Matrix Club Berlin (Techno Stage), Berlin — Fri, 12 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
-- Matrix Club Berlin (Techno Stage), Berlin — Sat, 16 May 2026
-- TBA - VIP Späti, Neukölln, Berlin — Sat, 11 Apr 2026
-- OST, Berlin — Thu, 14 Aug 2025
+- Matrix Club Berlin (Techno Stage), Berlin · Sat, 26 Sept 2026
+- Matrix Club Berlin, Berlin · Sat, 25 Jul 2026
+- TBA - VIP Späti, Neukölln, Berlin · Sat, 11 Jul 2026
+- Matrix Club Berlin (Techno Stage), Berlin · Fri, 12 Jun 2026
+- Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
+- Matrix Club Berlin (Techno Stage), Berlin · Sat, 16 May 2026
+- TBA - VIP Späti, Neukölln, Berlin · Sat, 11 Apr 2026
+- OST, Berlin · Thu, 14 Aug 2025
 
 ## Shares bills with
 

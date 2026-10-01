@@ -1,8 +1,8 @@
 # Budg
 
-Budg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+Budg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
-Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Malta and Melbourne and 1 more. Often billed alongside T-RAIL, Human Safari and STK (MT). Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
+Budg is a techno and house artist based in Malta, with 35 gigs on soundcheck across Amsterdam, Berlin, Malta and Melbourne and 1 more. Often billed alongside T-RAIL, Human Safari and STK (MT). Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35
 
 ## Recently played
 
-- The Rooftop at Gianpula Village, Malta — Sun, 30 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- The Rooftop at Gianpula Village, Malta — Fri, 3 Jul 2026
-- arkaoda Berlin, Berlin — Fri, 20 Mar 2026
-- The Club House at Gianpula Village, Malta — Sat, 28 Feb 2026
-- Orangerie Neukölln, Berlin — Sat, 31 Jan 2026
-- Section 8, Melbourne — Sat, 27 Dec 2025
-- Renate, Berlin — Sat, 15 Nov 2025
+- The Rooftop at Gianpula Village, Malta · Sun, 30 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- The Rooftop at Gianpula Village, Malta · Fri, 3 Jul 2026
+- arkaoda Berlin, Berlin · Fri, 20 Mar 2026
+- The Club House at Gianpula Village, Malta · Sat, 28 Feb 2026
+- Orangerie Neukölln, Berlin · Sat, 31 Jan 2026
+- Section 8, Melbourne · Sat, 27 Dec 2025
+- Renate, Berlin · Sat, 15 Nov 2025
 
 ## Shares bills with
 

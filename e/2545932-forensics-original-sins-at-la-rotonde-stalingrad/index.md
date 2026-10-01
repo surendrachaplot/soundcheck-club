@@ -1,6 +1,6 @@
 # Forensics ⎜ Original Sins at La Rotonde Stalingrad
 
-Forensics ⎜ Original Sins at La Rotonde Stalingrad on Sat 28 Nov, Paris. Techno. Preview the line-up and save it on soundcheck.
+Forensics ⎜ Original Sins at La Rotonde Stalingrad on Sat 28 Nov, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

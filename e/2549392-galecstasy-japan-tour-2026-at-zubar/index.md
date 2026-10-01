@@ -1,6 +1,6 @@
 # Galecstasy Japan Tour 2026 at ZUBAR
 
-Galecstasy Japan Tour 2026 at ZUBAR on Fri 16 Oct, Tokyo. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Galecstasy Japan Tour 2026 at ZUBAR on Fri 16 Oct, Tokyo. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

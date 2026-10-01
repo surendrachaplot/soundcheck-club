@@ -1,6 +1,6 @@
 # The Crazy World of Arthur Brown at The Jazz Cafe
 
-The Crazy World of Arthur Brown at The Jazz Cafe on Sat 31 Oct, London. Noise and Post-Punk. Preview the line-up and save it on soundcheck.
+The Crazy World of Arthur Brown at The Jazz Cafe on Sat 31 Oct, London. Noise and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAUM.fahrt at Fundbureau
 
-RAUM.fahrt at Fundbureau on Sat 7 Nov, Hamburg. Techno. Preview the line-up and save it on soundcheck.
+RAUM.fahrt at Fundbureau on Sat 7 Nov, Hamburg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

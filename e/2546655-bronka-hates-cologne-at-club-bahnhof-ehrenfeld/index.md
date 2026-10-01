@@ -1,6 +1,6 @@
 # Bronka HATES COLOGNE at Club Bahnhof Ehrenfeld
 
-Bronka HATES COLOGNE at Club Bahnhof Ehrenfeld on Fri 27 Nov, Cologne. 1 artist on the bill: Bronka. Breakbeat and Baile Funk. Preview the line-up and save it on soundcheck.
+Bronka HATES COLOGNE at Club Bahnhof Ehrenfeld on Fri 27 Nov, Cologne. 1 artist: Bronka. Breakbeat and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

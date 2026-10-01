@@ -1,8 +1,8 @@
 # Kyli Kaos
 
-Kyli Kaos is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Kyli Kaos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
-Kyli Kaos is a house and tech house artist based in Austria, tracked on soundcheck, with 7 sets logged across Berlin and Vienna. Often billed alongside Nepomuk, DJ Grotto and Henry. Next up: Funkhaus, Vienna on Sat 3 Oct.
+Kyli Kaos is a house and tech house artist based in Austria, with 7 gigs on soundcheck across Berlin and Vienna. Often billed alongside Nepomuk, DJ Grotto and Henry. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Kyli Kaos is a house and tech house artist based in Austria, tracked on soundche
 
 ## Recently played
 
-- TBA, Berlin — Fri, 31 Oct 2025
-- TBA, Berlin — Sat, 12 Apr 2025
-- SASS Music Club, Vienna — Thu, 27 Feb 2025
-- SASS Music Club, Vienna — Sat, 18 May 2024
-- SASS Music Club, Vienna — Thu, 31 Aug 2023
-- Porto Pollo, Vienna — Thu, 27 Jul 2023
+- TBA, Berlin · Fri, 31 Oct 2025
+- TBA, Berlin · Sat, 12 Apr 2025
+- SASS Music Club, Vienna · Thu, 27 Feb 2025
+- SASS Music Club, Vienna · Sat, 18 May 2024
+- SASS Music Club, Vienna · Thu, 31 Aug 2023
+- Porto Pollo, Vienna · Thu, 27 Jul 2023
 
 ## Shares bills with
 

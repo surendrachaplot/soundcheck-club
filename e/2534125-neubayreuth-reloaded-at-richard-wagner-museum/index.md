@@ -1,6 +1,6 @@
 # NeuBayreuth Reloaded at Richard Wagner Museum
 
-NeuBayreuth Reloaded at Richard Wagner Museum on Fri 16 Oct, Bavaria. 2 artists on the bill: DJ Hell and SACID. Preview the line-up and save it on soundcheck.
+NeuBayreuth Reloaded at Richard Wagner Museum on Fri 16 Oct, Bavaria. 2 artists: DJ Hell and SACID. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

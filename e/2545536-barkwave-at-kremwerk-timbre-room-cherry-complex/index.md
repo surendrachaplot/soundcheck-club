@@ -1,6 +1,6 @@
 # Barkwave at Kremwerk-Timbre Room-Cherry Complex
 
-Barkwave at Kremwerk-Timbre Room-Cherry Complex on Sat 24 Oct, Seattle. Club and EBM. Preview the line-up and save it on soundcheck.
+Barkwave at Kremwerk-Timbre Room-Cherry Complex on Sat 24 Oct, Seattle. Club and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

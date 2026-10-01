@@ -1,6 +1,6 @@
 # Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad
 
-Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Sasha b2b Patrice Baumel - 6hrs ADE at Het Sieraad on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Maggy Smiss • MAÏA NEEL at Super7
 
-Maggy Smiss • MAÏA NEEL at Super7 on Sat 3 Oct, Lyon. 1 artist on the bill: Maggy Smiss. Preview the line-up and save it on soundcheck.
+Maggy Smiss • MAÏA NEEL at Super7 on Sat 3 Oct, Lyon. 1 artist: Maggy Smiss. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

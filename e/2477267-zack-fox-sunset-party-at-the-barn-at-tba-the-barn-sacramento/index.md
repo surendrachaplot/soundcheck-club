@@ -1,6 +1,6 @@
 # Zack Fox - Sunset Party at The Barn at TBA - The Barn Sacramento
 
-Zack Fox - Sunset Party at The Barn at TBA - The Barn Sacramento on Sun 11 Oct, California. 1 artist on the bill: Zack Fox. Preview the line-up and save it on soundcheck.
+Zack Fox - Sunset Party at The Barn at TBA - The Barn Sacramento on Sun 11 Oct, California. 1 artist: Zack Fox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DRAADLOOS at The Basement Eindhoven
 
-DRAADLOOS at The Basement Eindhoven on Sat 3 Oct, Eindhoven. 3 artists on the bill: DEY.REY, Serti and T.NO. Preview the line-up and save it on soundcheck.
+DRAADLOOS at The Basement Eindhoven on Sat 3 Oct, Eindhoven. 3 artists: DEY.REY, Serti and T.NO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SANPAPA CLUB at Especial Navidad at LAB theCLUB
 
-SANPAPA CLUB at Especial Navidad at LAB theCLUB on Sat 19 Dec, Madrid. Preview the line-up and save it on soundcheck.
+SANPAPA CLUB at Especial Navidad at LAB theCLUB on Sat 19 Dec, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

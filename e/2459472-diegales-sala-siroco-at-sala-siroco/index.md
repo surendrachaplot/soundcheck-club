@@ -1,6 +1,6 @@
 # DIEGALES - Sala Siroco at Sala Siroco
 
-DIEGALES - Sala Siroco on Thu 15 Oct, Madrid. Preview the line-up and save it on soundcheck.
+DIEGALES - Sala Siroco on Thu 15 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

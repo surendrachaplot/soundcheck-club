@@ -1,6 +1,6 @@
 # 50 Cent at LIV Nightclub Miami
 
-50 Cent at LIV Nightclub Miami on Sun 18 Oct, Miami. Preview the line-up and save it on soundcheck.
+50 Cent at LIV Nightclub Miami on Sun 18 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

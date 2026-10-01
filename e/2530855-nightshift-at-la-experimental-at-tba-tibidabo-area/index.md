@@ -1,6 +1,6 @@
 # NIGHTSHIFT at La Experimental at TBA - Tibidabo Area
 
-NIGHTSHIFT at La Experimental at TBA - Tibidabo Area on Sat 17 Oct, Barcelona. 5 artists on the bill: Bumpy Jones, Devesa, Sergi (ES) and Suonoteso and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT at La Experimental at TBA - Tibidabo Area on Sat 17 Oct, Barcelona. 5 artists: Bumpy Jones, Devesa, Sergi (ES) and Suonoteso and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

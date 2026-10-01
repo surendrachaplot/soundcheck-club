@@ -1,6 +1,6 @@
 # DISCOSCURO at Sala Siroco
 
-DISCOSCURO at Sala Siroco on Sat 10 Oct, Madrid. 1 artist on the bill: Fer Xplosion. Disco and EBM. Preview the line-up and save it on soundcheck.
+DISCOSCURO at Sala Siroco on Sat 10 Oct, Madrid. 1 artist: Fer Xplosion. Disco and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Triffulca Rentrée I Specka Club at Specka
 
-Triffulca Rentrée I Specka Club on Sat 3 Oct, Madrid. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Triffulca Rentrée I Specka Club on Sat 3 Oct, Madrid. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

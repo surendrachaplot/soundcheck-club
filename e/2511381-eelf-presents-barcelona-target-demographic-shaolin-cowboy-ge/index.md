@@ -1,6 +1,6 @@
 # EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti at Bridge 48
 
-EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti at Bridge 48 on Sat 24 Oct, Barcelona. 3 artists on the bill: GEE LEE, Shaolin Cowboy and Target Demographic. Techno and House. Preview the line-up and save it on soundcheck.
+EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti at Bridge 48 on Sat 24 Oct, Barcelona. 3 artists: GEE LEE, Shaolin Cowboy and Target Demographic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cove Sound System presents: Wax'o Paradiso at TBA - The Scarborough Hotel, Scarborough NSW
 
-Cove Sound System presents: Wax'o Paradiso at TBA - The Scarborough Hotel, Scarborough NSW on Sat 7 Nov, Sydney. 1 artist on the bill: Wax'o Paradiso. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Cove Sound System presents: Wax'o Paradiso at TBA - The Scarborough Hotel, Scarborough NSW on Sat 7 Nov, Sydney. 1 artist: Wax'o Paradiso. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

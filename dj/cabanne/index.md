@@ -1,8 +1,8 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Cabanne is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
-Cabanne is a house and minimal artist based in France, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Cabanne is a house and minimal artist based in France, with 69 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Cabanne is a house and minimal artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Tomodachi, Ibiza — Fri, 25 Sept 2026
-- Auber Garden, Paris — Fri, 11 Sept 2026
-- Club der Visionaere, Berlin — Sat, 29 Aug 2026
-- Club der Visionaere, Berlin — Sat, 11 Jul 2026
-- TBA - Agriturismo Il Paliarete, Orvieto , Rome — Fri, 10 Jul 2026
-- Village Underground Barcelona, Barcelona — Sun, 21 Jun 2026
-- essaim, Paris — Sat, 20 Jun 2026
-- Südpol, Hamburg — Sat, 13 Jun 2026
+- Tomodachi, Ibiza · Fri, 25 Sept 2026
+- Auber Garden, Paris · Fri, 11 Sept 2026
+- Club der Visionaere, Berlin · Sat, 29 Aug 2026
+- Club der Visionaere, Berlin · Sat, 11 Jul 2026
+- TBA - Agriturismo Il Paliarete, Orvieto , Rome · Fri, 10 Jul 2026
+- Village Underground Barcelona, Barcelona · Sun, 21 Jun 2026
+- essaim, Paris · Sat, 20 Jun 2026
+- Südpol, Hamburg · Sat, 13 Jun 2026
 
 ## Shares bills with
 

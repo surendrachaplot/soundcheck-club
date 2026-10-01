@@ -1,6 +1,6 @@
 # Swan Lake Remixed for ADE at GASHOUDER
 
-Swan Lake Remixed for ADE at GASHOUDER on Wed 21 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Swan Lake Remixed for ADE at GASHOUDER on Wed 21 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

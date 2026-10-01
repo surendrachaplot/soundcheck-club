@@ -1,6 +1,6 @@
 # Thaiboy Digital: Underworld Tour at Foro Puebla
 
-Thaiboy Digital: Underworld Tour at Foro Puebla on Thu 1 Oct, Mexico City. 3 artists on the bill: ETRA, Lyo XS and Thaiboy Digital. Preview the line-up and save it on soundcheck.
+Thaiboy Digital: Underworld Tour at Foro Puebla on Thu 1 Oct, Mexico City. 3 artists: ETRA, Lyo XS and Thaiboy Digital. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Last Dance at Elpa
 
-Last Dance at Elpa on Fri 2 Oct, Riga. 1 artist on the bill: MSK (LV). Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Last Dance at Elpa on Fri 2 Oct, Riga. 1 artist: MSK (LV). Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

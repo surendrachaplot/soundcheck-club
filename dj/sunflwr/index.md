@@ -1,8 +1,8 @@
 # sunflwr
 
-sunflwr is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Night Tales Loft, London on Fri, 6 Nov 2026.
+sunflwr is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales Loft, London on Fri, 6 Nov 2026.
 
-sunflwr is a house and deep house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Berlin and Brussels and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Paluma Sound. Next up: Night Tales Loft, London on Fri 6 Nov.
+sunflwr is a house and deep house artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Paluma Sound. Next up: Night Tales Loft, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ sunflwr is a house and deep house artist based in United States of America, trac
 
 ## Recently played
 
-- Public Works, San Francisco/Oakland — Sat, 16 May 2026
-- Kiss Kiss Bang Bang, Los Angeles — Thu, 19 Mar 2026
-- Wigwam, Dublin — Sat, 7 Feb 2026
-- Goya Social Club, Madrid — Fri, 6 Feb 2026
-- Sacré, Paris — Sat, 31 Jan 2026
-- The Jazz Cafe, London — Fri, 30 Jan 2026
-- The Jazz Cafe, London — Sat, 26 Jul 2025
-- The Jazz Cafe, London — Sat, 26 Jul 2025
+- Public Works, San Francisco/Oakland · Sat, 16 May 2026
+- Kiss Kiss Bang Bang, Los Angeles · Thu, 19 Mar 2026
+- Wigwam, Dublin · Sat, 7 Feb 2026
+- Goya Social Club, Madrid · Fri, 6 Feb 2026
+- Sacré, Paris · Sat, 31 Jan 2026
+- The Jazz Cafe, London · Fri, 30 Jan 2026
+- The Jazz Cafe, London · Sat, 26 Jul 2025
+- The Jazz Cafe, London · Sat, 26 Jul 2025
 
 ## Shares bills with
 

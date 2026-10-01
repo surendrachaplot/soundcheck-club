@@ -1,6 +1,6 @@
 # Temper Festival 2026 - Coupon Code 'RAVEFAM' at Petco Park
 
-Temper Festival 2026 - Coupon Code 'RAVEFAM' at Petco Park on Wed 30 Dec, San Diego. 6 artists on the bill: gaszia, Neumonic, RamonPang and Sara Landry and 2 more. Preview the line-up and save it on soundcheck.
+Temper Festival 2026 - Coupon Code 'RAVEFAM' at Petco Park on Wed 30 Dec, San Diego. 6 artists: gaszia, Neumonic, RamonPang and Sara Landry and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

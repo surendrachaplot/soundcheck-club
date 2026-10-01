@@ -1,6 +1,6 @@
 # Pandora III Aniversario vol.2 with Âme Live y Maya Jane Coles at Pandora Sevilla
 
-Pandora III Aniversario vol.2 with Âme Live y Maya Jane Coles at Pandora Sevilla on Sat 10 Oct, South. 2 artists on the bill: Âme and Maya Jane Coles. Preview the line-up and save it on soundcheck.
+Pandora III Aniversario vol.2 with Âme Live y Maya Jane Coles at Pandora Sevilla on Sat 10 Oct, South. 2 artists: Âme and Maya Jane Coles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

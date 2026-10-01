@@ -1,6 +1,6 @@
 # BLOCC PARTY: BODIES at ÆDEN x MARMORBAR: Fields & Spaces
 
-BLOCC PARTY: BODIES at ÆDEN x MARMORBAR: Fields & Spaces on Sat 3 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+BLOCC PARTY: BODIES at ÆDEN x MARMORBAR: Fields & Spaces on Sat 3 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

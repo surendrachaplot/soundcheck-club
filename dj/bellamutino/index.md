@@ -1,8 +1,8 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+Bella Mutino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at House of Yes, New York City on Sat, 3 Oct 2026.
 
-Bella Mutino is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: House of Yes, New York City on Sat 3 Oct.
+Bella Mutino is a house and techno artist based in United States of America, with 73 gigs on soundcheck across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: House of Yes, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Bella Mutino is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- The Bentway, Toronto — Sat, 19 Sept 2026
-- Roof Terrace BK, New York City — Thu, 10 Sept 2026
-- Outer Heaven, New York City — Fri, 21 Aug 2026
-- Apollo Studio, New York City — Sat, 15 Aug 2026
-- Refuge, New York City — Sat, 15 Aug 2026
-- H0l0 Yard, New York City — Sat, 8 Aug 2026
-- TBA - East Williamsburg, New York City — Sat, 8 Aug 2026
-- TBA - East Williamsburg, New York City — Sat, 8 Aug 2026
+- The Bentway, Toronto · Sat, 19 Sept 2026
+- Roof Terrace BK, New York City · Thu, 10 Sept 2026
+- Outer Heaven, New York City · Fri, 21 Aug 2026
+- Apollo Studio, New York City · Sat, 15 Aug 2026
+- Refuge, New York City · Sat, 15 Aug 2026
+- H0l0 Yard, New York City · Sat, 8 Aug 2026
+- TBA - East Williamsburg, New York City · Sat, 8 Aug 2026
+- TBA - East Williamsburg, New York City · Sat, 8 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Holy Priest, KISTENBRÜGGER => The GarD!en at D! Club
 
-Holy Priest, KISTENBRÜGGER => The GarD!en at D! Club on Sun 18 Oct, Lausanne. 1 artist on the bill: Holy Priest. Preview the line-up and save it on soundcheck.
+Holy Priest, KISTENBRÜGGER => The GarD!en at D! Club on Sun 18 Oct, Lausanne. 1 artist: Holy Priest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

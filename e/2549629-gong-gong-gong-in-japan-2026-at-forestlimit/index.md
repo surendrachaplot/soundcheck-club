@@ -1,6 +1,6 @@
 # GONG GONG GONG（工工工）IN JAPAN 2026 at Forestlimit
 
-GONG GONG GONG（工工工）IN JAPAN 2026 at Forestlimit on Thu 29 Oct, Tokyo. 1 artist on the bill: 坂田律子. Experimental and New Wave. Preview the line-up and save it on soundcheck.
+GONG GONG GONG（工工工）IN JAPAN 2026 at Forestlimit on Thu 29 Oct, Tokyo. 1 artist: 坂田律子. Experimental and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

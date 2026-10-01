@@ -1,8 +1,8 @@
 # Vani Vachi
 
-Vani Vachi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
+Vani Vachi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
 
-Vani Vachi is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Mena Berlin, Berlin on Fri 9 Oct.
+Vani Vachi is a techno and house artist, with 72 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Mena Berlin, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Vani Vachi is a techno and house artist tracked on soundcheck, with 72 sets logg
 
 ## Recently played
 
-- Den Anden Side, Copenhagen — Sat, 12 Sept 2026
-- ÆDEN, Berlin — Fri, 4 Sept 2026
-- TBA - Greifswalder Str. 24, 10405 Berlin, Berlin — Sat, 15 Aug 2026
-- Tresor / Globus, Berlin — Mon, 10 Aug 2026
-- TILLATEC, Amsterdam — Sun, 2 Aug 2026
-- Mastak, Warsaw — Fri, 3 Jul 2026
-- Fuchs2, Prague — Fri, 26 Jun 2026
-- Tresor / Globus, Berlin — Mon, 22 Jun 2026
+- Den Anden Side, Copenhagen · Sat, 12 Sept 2026
+- ÆDEN, Berlin · Fri, 4 Sept 2026
+- TBA - Greifswalder Str. 24, 10405 Berlin, Berlin · Sat, 15 Aug 2026
+- Tresor / Globus, Berlin · Mon, 10 Aug 2026
+- TILLATEC, Amsterdam · Sun, 2 Aug 2026
+- Mastak, Warsaw · Fri, 3 Jul 2026
+- Fuchs2, Prague · Fri, 26 Jun 2026
+- Tresor / Globus, Berlin · Mon, 22 Jun 2026
 
 ## Shares bills with
 

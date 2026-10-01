@@ -1,6 +1,6 @@
 # Halloween Advisory at FABRIKA
 
-Halloween Advisory at FABRIKA on Sat 31 Oct, Philadelphia. 1 artist on the bill: magglezzz. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Halloween Advisory at FABRIKA on Sat 31 Oct, Philadelphia. 1 artist: magglezzz. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Infusion - Free Residents Party at World Headquarters
 
-Infusion - Free Residents Party at World Headquarters on Sat 17 Oct, Newcastle. House and Tech House. Preview the line-up and save it on soundcheck.
+Infusion - Free Residents Party at World Headquarters on Sat 17 Oct, Newcastle. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

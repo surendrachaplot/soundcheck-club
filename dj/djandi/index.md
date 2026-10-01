@@ -1,8 +1,8 @@
 # Andi
 
-Andi is a Italo Disco and EBM artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
+Andi is a Italo Disco and EBM artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 1 Oct 2026.
 
-Andi is an italo disco and ebm artist based in United States of America, tracked on soundcheck, with 225 sets logged across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Bossa Nova Civic Club, New York City on Thu 1 Oct.
+Andi is an italo disco and ebm artist based in United States of America, with 225 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Bossa Nova Civic Club, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Andi is an italo disco and ebm artist based in United States of America, tracked
 
 ## Recently played
 
-- smartbar, Chicago — Fri, 25 Sept 2026
-- Gabriela, New York City — Thu, 24 Sept 2026
-- TBA - Downtown, Los Angeles — Fri, 18 Sept 2026
-- Gabriela, New York City — Fri, 11 Sept 2026
-- Bossa Nova Civic Club, New York City — Thu, 3 Sept 2026
-- Virage, Paris — Fri, 21 Aug 2026
-- Liberty Point, Philadelphia — Sun, 9 Aug 2026
-- TBA - Brooklyn, New York City — Sat, 8 Aug 2026
+- smartbar, Chicago · Fri, 25 Sept 2026
+- Gabriela, New York City · Thu, 24 Sept 2026
+- TBA - Downtown, Los Angeles · Fri, 18 Sept 2026
+- Gabriela, New York City · Fri, 11 Sept 2026
+- Bossa Nova Civic Club, New York City · Thu, 3 Sept 2026
+- Virage, Paris · Fri, 21 Aug 2026
+- Liberty Point, Philadelphia · Sun, 9 Aug 2026
+- TBA - Brooklyn, New York City · Sat, 8 Aug 2026
 
 ## Shares bills with
 

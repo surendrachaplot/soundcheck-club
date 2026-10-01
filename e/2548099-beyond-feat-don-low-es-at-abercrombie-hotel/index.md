@@ -1,6 +1,6 @@
 # Beyond feat. DON LOW [ES] at Abercrombie Hotel
 
-Beyond feat. DON LOW [ES] at Abercrombie Hotel on Fri 9 Oct, Sydney. 2 artists on the bill: Deens and FABZ. Bass and Club. Preview the line-up and save it on soundcheck.
+Beyond feat. DON LOW [ES] at Abercrombie Hotel on Fri 9 Oct, Sydney. 2 artists: Deens and FABZ. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

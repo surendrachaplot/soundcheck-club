@@ -1,8 +1,8 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set]" on Fri, 2 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set]" on Fri, 2 Oct 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Aldonna, Alien Communications, ASHTREY and BAILE and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Aldonna, Alien Communications, ASHTREY and BAILE and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcomi
 | Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Blossom Hill, Seb Wildblood |
 | Sun, 25 Oct 2026 | Sundays - Voigtmann, Ste Roberts, Ryan Jones | Ryan Jones, Ste Roberts, Voigtmann |
 | Thu, 29 Oct 2026 | Wrong Way Home: Launch Party | Mojay |
-| Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May (4) |
+| Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
 | Sat, 14 Nov 2026 | Riley presents Get with The Program - London |  |
 | Sat, 21 Nov 2026 | Isaac Carter - All Night Long | Isaac Carter |
 

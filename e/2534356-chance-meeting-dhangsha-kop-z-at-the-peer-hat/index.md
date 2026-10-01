@@ -1,6 +1,6 @@
 # Chance Meeting: Dhangsha + Kop-Z at The Peer Hat
 
-Chance Meeting: Dhangsha + Kop-Z at The Peer Hat on Tue 17 Nov, Manchester. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+Chance Meeting: Dhangsha + Kop-Z at The Peer Hat on Tue 17 Nov, Manchester. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

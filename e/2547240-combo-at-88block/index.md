@@ -1,6 +1,6 @@
 # Combo at 88block
 
-Combo at 88block on Fri 9 Oct, Tokyo. 2 artists on the bill: Combo and Ernest. Jazz. Preview the line-up and save it on soundcheck.
+Combo at 88block on Fri 9 Oct, Tokyo. 2 artists: Combo and Ernest. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

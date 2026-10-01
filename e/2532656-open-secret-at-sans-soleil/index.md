@@ -1,6 +1,6 @@
 # Open_Secret___ at Sans Soleil
 
-Open_Secret___ at Sans Soleil on Thu 29 Oct, Montreal. 1 artist on the bill: bell.pierre. Jazz and Acid. Preview the line-up and save it on soundcheck.
+Open_Secret___ at Sans Soleil on Thu 29 Oct, Montreal. 1 artist: bell.pierre. Jazz and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

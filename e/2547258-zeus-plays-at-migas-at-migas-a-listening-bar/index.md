@@ -1,6 +1,6 @@
 # Zeus plays at migas at migas, a listening bar
 
-Zeus plays at migas at migas, a listening bar on Sat 17 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Zeus plays at migas at migas, a listening bar on Sat 17 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

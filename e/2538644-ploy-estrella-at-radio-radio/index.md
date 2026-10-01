@@ -1,6 +1,6 @@
 # Ploy • ESTRELLA at Radio Radio
 
-Ploy • ESTRELLA at Radio Radio on Sat 17 Oct, Amsterdam. 2 artists on the bill: ESTRELLA and Ploy. House. Preview the line-up and save it on soundcheck.
+Ploy • ESTRELLA at Radio Radio on Sat 17 Oct, Amsterdam. 2 artists: ESTRELLA and Ploy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

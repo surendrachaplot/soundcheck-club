@@ -1,6 +1,6 @@
 # SALTED on the Terrace with Sandy Rivera & John Morales at The Midway
 
-SALTED on the Terrace with Sandy Rivera & John Morales at The Midway on Sun 11 Oct, San Francisco/Oakland. 5 artists on the bill: Franky Boissy, John Morales, Julius Papp and Miguel Migs and 1 more. House. Preview the line-up and save it on soundcheck.
+SALTED on the Terrace with Sandy Rivera & John Morales at The Midway on Sun 11 Oct, San Francisco/Oakland. 5 artists: Franky Boissy, John Morales, Julius Papp and Miguel Migs and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

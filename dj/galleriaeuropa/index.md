@@ -1,8 +1,8 @@
 # Galleria Europa
 
-Galleria Europa is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+Galleria Europa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
-Galleria Europa is a house and disco artist based in Italy, tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Alden Tyrell. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
+Galleria Europa is a house and disco artist based in Italy, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Alden Tyrell. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Galleria Europa is a house and disco artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Club der Visionaere, Berlin — Mon, 25 May 2026
-- RSO.BERLIN, Berlin — Fri, 17 Apr 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 6 Feb 2026
-- RSO.BERLIN, Berlin — Fri, 31 Oct 2025
-- RSO.BERLIN, Berlin — Fri, 18 Apr 2025
+- Club der Visionaere, Berlin · Mon, 25 May 2026
+- RSO.BERLIN, Berlin · Fri, 17 Apr 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 6 Feb 2026
+- RSO.BERLIN, Berlin · Fri, 31 Oct 2025
+- RSO.BERLIN, Berlin · Fri, 18 Apr 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # CLOSING PARTY at Blue Marlin Ibiza
 
-CLOSING PARTY at Blue Marlin Ibiza on Sun 4 Oct, Ibiza. 3 artists on the bill: Khenya, Mason Collective and WALTHER. Preview the line-up and save it on soundcheck.
+CLOSING PARTY at Blue Marlin Ibiza on Sun 4 Oct, Ibiza. 3 artists: Khenya, Mason Collective and WALTHER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

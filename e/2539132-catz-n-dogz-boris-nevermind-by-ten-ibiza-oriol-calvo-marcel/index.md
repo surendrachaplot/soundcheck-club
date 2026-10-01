@@ -1,6 +1,6 @@
 # Catz 'N Dogz - Boris & Nevermind by TEN Ibiza - Oriol Calvo, Marcel BS at BORIS CLUB
 
-Catz 'N Dogz - Boris & Nevermind by TEN Ibiza - Oriol Calvo, Marcel BS at BORIS CLUB on Fri 16 Oct, Barcelona. 2 artists on the bill: Catz 'N Dogz and Oriol Calvo. House. Preview the line-up and save it on soundcheck.
+Catz 'N Dogz - Boris & Nevermind by TEN Ibiza - Oriol Calvo, Marcel BS at BORIS CLUB on Fri 16 Oct, Barcelona. 2 artists: Catz 'N Dogz and Oriol Calvo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

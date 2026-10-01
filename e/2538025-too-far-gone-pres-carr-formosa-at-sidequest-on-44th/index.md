@@ -1,6 +1,6 @@
 # Too Far Gone pres. Carré & Formosa at SideQuest on 44th
 
-Too Far Gone pres. Carré & Formosa at SideQuest on 44th on Fri 9 Oct, Pittsburgh. 2 artists on the bill: Carré and Formosa. Preview the line-up and save it on soundcheck.
+Too Far Gone pres. Carré & Formosa at SideQuest on 44th on Fri 9 Oct, Pittsburgh. 2 artists: Carré and Formosa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

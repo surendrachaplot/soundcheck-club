@@ -1,6 +1,6 @@
 # Aaron Paar, Darone Sassounian, SEEPS at The Airliner
 
-Aaron Paar, Darone Sassounian, SEEPS at The Airliner on Sat 10 Oct, Los Angeles. 3 artists on the bill: Aaron Paar, Darone Sassounian and SEEPS. House and Disco. Preview the line-up and save it on soundcheck.
+Aaron Paar, Darone Sassounian, SEEPS at The Airliner on Sat 10 Oct, Los Angeles. 3 artists: Aaron Paar, Darone Sassounian and SEEPS. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

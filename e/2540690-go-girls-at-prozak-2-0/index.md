@@ -1,6 +1,6 @@
 # GO GIRLS at Prozak 2.0
 
-GO GIRLS at Prozak 2.0 on Sat 3 Oct, Krakow. Trance and Techno. Preview the line-up and save it on soundcheck.
+GO GIRLS at Prozak 2.0 on Sat 3 Oct, Krakow. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

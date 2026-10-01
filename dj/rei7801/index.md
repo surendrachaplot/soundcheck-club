@@ -1,8 +1,8 @@
 # Rei7801
 
-Rei7801 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Rei7801 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
-Rei7801 is a techno and bass artist based in Japan, tracked on soundcheck, with 23 sets logged across Kyoto, Milan and Tokyo. Often billed alongside YAMAREN, tnseei and Yui (JP). Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+Rei7801 is a techno and bass artist based in Japan, with 23 gigs on soundcheck across Kyoto, Milan and Tokyo. Often billed alongside YAMAREN, tnseei and Yui (JP). Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Rei7801 is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Tempio del Futuro Perduto, Milan — Fri, 17 Jul 2026
-- CGM - Club Giovanile Milano, Milan — Sun, 12 Apr 2026
-- CGM - Club Giovanile Milano, Milan — Sun, 8 Mar 2026
-- Tempio del Futuro Perduto, Milan — Fri, 6 Mar 2026
-- Wolf Milano, Milan — Fri, 6 Feb 2026
-- Tempio del Futuro Perduto, Milan — Fri, 14 Nov 2025
-- Tempio del Futuro Perduto, Milan — Fri, 24 Oct 2025
-- Circus Tokyo, Tokyo — Fri, 1 Aug 2025
+- Tempio del Futuro Perduto, Milan · Fri, 17 Jul 2026
+- CGM - Club Giovanile Milano, Milan · Sun, 12 Apr 2026
+- CGM - Club Giovanile Milano, Milan · Sun, 8 Mar 2026
+- Tempio del Futuro Perduto, Milan · Fri, 6 Mar 2026
+- Wolf Milano, Milan · Fri, 6 Feb 2026
+- Tempio del Futuro Perduto, Milan · Fri, 14 Nov 2025
+- Tempio del Futuro Perduto, Milan · Fri, 24 Oct 2025
+- Circus Tokyo, Tokyo · Fri, 1 Aug 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Kyra Khaldi
 
-Kyra Khaldi is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Post Bar, Helsinki on Fri, 9 Oct 2026.
+Kyra Khaldi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Post Bar, Helsinki on Fri, 9 Oct 2026.
 
-Kyra Khaldi is a house and techno artist based in Netherlands, tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Post Bar, Helsinki on Fri 9 Oct.
+Kyra Khaldi is a house and techno artist based in Netherlands, with 143 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Post Bar, Helsinki on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Kyra Khaldi is a house and techno artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- The Cause, London — Sat, 26 Sept 2026
-- Radio Radio, Amsterdam — Fri, 11 Sept 2026
-- Doka, Amsterdam — Fri, 4 Sept 2026
-- Radio Radio, Amsterdam — Fri, 28 Aug 2026
-- BRET, Amsterdam — Fri, 14 Aug 2026
-- BRET, Amsterdam — Fri, 14 Aug 2026
-- Shelter Amsterdam, Amsterdam — Sat, 1 Aug 2026
-- Renate, Berlin — Fri, 24 Jul 2026
+- The Cause, London · Sat, 26 Sept 2026
+- Radio Radio, Amsterdam · Fri, 11 Sept 2026
+- Doka, Amsterdam · Fri, 4 Sept 2026
+- Radio Radio, Amsterdam · Fri, 28 Aug 2026
+- BRET, Amsterdam · Fri, 14 Aug 2026
+- BRET, Amsterdam · Fri, 14 Aug 2026
+- Shelter Amsterdam, Amsterdam · Sat, 1 Aug 2026
+- Renate, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # stiffslack presents Joshua Japan Tour 2026 at Socore Factory
 
-stiffslack presents Joshua Japan Tour 2026 at Socore Factory on Thu 12 Nov, Osaka. 1 artist on the bill: Joshua. Hardcore. Preview the line-up and save it on soundcheck.
+stiffslack presents Joshua Japan Tour 2026 at Socore Factory on Thu 12 Nov, Osaka. 1 artist: Joshua. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

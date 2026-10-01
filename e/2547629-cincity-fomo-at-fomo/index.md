@@ -1,6 +1,6 @@
 # Cincity - FOMO at FOMO
 
-Cincity - FOMO on Sat 3 Oct, Azerbaijan. 1 artist on the bill: Cincity. Preview the line-up and save it on soundcheck.
+Cincity - FOMO on Sat 3 Oct, Azerbaijan. 1 artist: Cincity. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

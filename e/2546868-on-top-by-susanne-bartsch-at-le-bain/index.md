@@ -1,6 +1,6 @@
 # ON TOP by Susanne Bartsch at Le Bain
 
-ON TOP by Susanne Bartsch at Le Bain on Thu 1 Oct, New York City. Preview the line-up and save it on soundcheck.
+ON TOP by Susanne Bartsch at Le Bain on Thu 1 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

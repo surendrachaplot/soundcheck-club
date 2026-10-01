@@ -1,8 +1,8 @@
 # Miss Alicia
 
-Miss Alicia is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Miss Alicia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
-Miss Alicia is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across New York City. Often billed alongside Rose Kourts, JKriv and That Matt. Next up: public records, New York City on Thu 15 Oct.
+Miss Alicia is a house and disco artist based in United States of America, with 52 gigs on soundcheck across New York City. Often billed alongside Rose Kourts, JKriv and That Matt. Next up: public records, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Miss Alicia is a house and disco artist based in United States of America, track
 
 ## Recently played
 
-- H0L0, New York City — Fri, 28 Aug 2026
-- TBA - see flyer for location , New York City — Sat, 20 Jun 2026
-- Good Room, New York City — Sat, 16 May 2026
-- Nowadays, New York City — Sat, 25 Apr 2026
-- Dead Letter No. 9, New York City — Fri, 17 Apr 2026
-- TBA, New York City — Sat, 28 Mar 2026
-- Xanadu, New York City — Sun, 15 Mar 2026
-- Good Room, New York City — Fri, 9 Jan 2026
+- H0L0, New York City · Fri, 28 Aug 2026
+- TBA - see flyer for location , New York City · Sat, 20 Jun 2026
+- Good Room, New York City · Sat, 16 May 2026
+- Nowadays, New York City · Sat, 25 Apr 2026
+- Dead Letter No. 9, New York City · Fri, 17 Apr 2026
+- TBA, New York City · Sat, 28 Mar 2026
+- Xanadu, New York City · Sun, 15 Mar 2026
+- Good Room, New York City · Fri, 9 Jan 2026
 
 ## Shares bills with
 

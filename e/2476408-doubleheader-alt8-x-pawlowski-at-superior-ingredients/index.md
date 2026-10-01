@@ -1,6 +1,6 @@
 # DOUBLEHEADER: ALT8 x Pawlowski at Superior Ingredients
 
-DOUBLEHEADER: ALT8 x Pawlowski at Superior Ingredients on Fri 2 Oct, New York City. 2 artists on the bill: ALT8 and Pawlowski. Techno. Preview the line-up and save it on soundcheck.
+DOUBLEHEADER: ALT8 x Pawlowski at Superior Ingredients on Fri 2 Oct, New York City. 2 artists: ALT8 and Pawlowski. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

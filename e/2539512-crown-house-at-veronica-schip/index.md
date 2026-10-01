@@ -1,6 +1,6 @@
 # CROWN HOUSE at Veronica Schip
 
-CROWN HOUSE at Veronica Schip on Fri 2 Oct, Amsterdam. 1 artist on the bill: MelFerdi. Preview the line-up and save it on soundcheck.
+CROWN HOUSE at Veronica Schip on Fri 2 Oct, Amsterdam. 1 artist: MelFerdi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

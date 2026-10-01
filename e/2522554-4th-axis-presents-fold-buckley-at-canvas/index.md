@@ -1,6 +1,6 @@
 # 4th Axis presents: Fold & Buckley at CANVAS
 
-4th Axis presents: Fold & Buckley at CANVAS on Sat 21 Nov, Dundee. 2 artists on the bill: Buckley (UK) and Fold. Preview the line-up and save it on soundcheck.
+4th Axis presents: Fold & Buckley at CANVAS on Sat 21 Nov, Dundee. 2 artists: Buckley (UK) and Fold. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

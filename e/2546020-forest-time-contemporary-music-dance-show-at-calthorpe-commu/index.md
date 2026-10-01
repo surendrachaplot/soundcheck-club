@@ -1,6 +1,6 @@
 # Forest Time: Contemporary Music & Dance Show at Calthorpe Community Garden
 
-Forest Time: Contemporary Music & Dance Show at Calthorpe Community Garden on Fri 16 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+Forest Time: Contemporary Music & Dance Show at Calthorpe Community Garden on Fri 16 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

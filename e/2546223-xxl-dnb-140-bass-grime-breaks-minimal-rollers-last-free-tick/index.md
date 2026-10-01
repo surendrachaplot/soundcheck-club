@@ -1,6 +1,6 @@
 # XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS + FREE DRINK at Egg London
 
-XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS + FREE DRINK at Egg London on Sat 12 Dec, London. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – LAST FREE TICKETS + FREE DRINK at Egg London on Sat 12 Dec, London. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

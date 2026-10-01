@@ -1,8 +1,8 @@
 # [ares]
 
-[ares] is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
+[ares] is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
 
-[ares] is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Ibiza. Often billed alongside Mitch Oliver, Alma Linda and Anthony Middleton. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
+[ares] is a deep house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Mitch Oliver, Alma Linda and Anthony Middleton. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@
 
 ## Recently played
 
-- Noorderlicht Café, Amsterdam — Sat, 26 Sept 2026
-- Yellow House, Amsterdam — Sat, 25 Jul 2026
-- Het Sieraad, Amsterdam — Sat, 4 Jul 2026
-- THE OTHER SIDE, Amsterdam — Sat, 7 Feb 2026
-- Het Sieraad, Amsterdam — Sat, 20 Dec 2025
-- Loods 12, Amsterdam — Thu, 23 Oct 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 29 Dec 2024
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 8 Dec 2024
+- Noorderlicht Café, Amsterdam · Sat, 26 Sept 2026
+- Yellow House, Amsterdam · Sat, 25 Jul 2026
+- Het Sieraad, Amsterdam · Sat, 4 Jul 2026
+- THE OTHER SIDE, Amsterdam · Sat, 7 Feb 2026
+- Het Sieraad, Amsterdam · Sat, 20 Dec 2025
+- Loods 12, Amsterdam · Thu, 23 Oct 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 29 Dec 2024
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 8 Dec 2024
 
 ## Shares bills with
 

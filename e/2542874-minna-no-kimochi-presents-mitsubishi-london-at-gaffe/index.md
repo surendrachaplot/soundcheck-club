@@ -1,6 +1,6 @@
 # Minna-no-Kimochi presents: Mitsubishi London at Gaffe
 
-Minna-no-Kimochi presents: Mitsubishi London at Gaffe on Sat 24 Oct, London. 7 artists on the bill: Buttechno, Ekkel, Jin Synth and Minna-no-Kimochi and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Minna-no-Kimochi presents: Mitsubishi London at Gaffe on Sat 24 Oct, London. 7 artists: Buttechno, Ekkel, Jin Synth and Minna-no-Kimochi and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Maddix at Cermak Hall at Radius
 
-Maddix at Cermak Hall at Radius on Sat 10 Oct, Chicago. Trance and Techno. Preview the line-up and save it on soundcheck.
+Maddix at Cermak Hall at Radius on Sat 10 Oct, Chicago. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

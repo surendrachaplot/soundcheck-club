@@ -1,6 +1,6 @@
 # KLOUD at Club Vinyl
 
-KLOUD at Club Vinyl on Sat 7 Nov, Denver. Techno. Preview the line-up and save it on soundcheck.
+KLOUD at Club Vinyl on Sat 7 Nov, Denver. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Subvert at Town Hall Underground
 
-Subvert at Town Hall Underground on Fri 23 Oct, Hobart. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+Subvert at Town Hall Underground on Fri 23 Oct, Hobart. Minimal and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen at Post Bar
 
-FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen at Post Bar on Fri 6 Nov, Helsinki. 3 artists on the bill: DJ Aleksi, Hanna Ojanen and HiToshi. House and Disco. Preview the line-up and save it on soundcheck.
+FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen at Post Bar on Fri 6 Nov, Helsinki. 3 artists: DJ Aleksi, Hanna Ojanen and HiToshi. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

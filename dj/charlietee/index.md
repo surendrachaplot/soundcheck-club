@@ -1,8 +1,8 @@
 # Charlie Tee
 
-Charlie Tee is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Fri, 2 Oct 2026.
+Charlie Tee is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Fri, 2 Oct 2026.
 
-Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Ministry Of Sound, London on Fri 2 Oct.
+Charlie Tee is a drum & bass and bass artist based in United Kingdom, with 54 gigs on soundcheck across Auckland, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside K Motionz, BassLayerz and Hedex. Next up: Ministry Of Sound, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Charlie Tee is a drum & bass and bass artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Volks, Brighton — Sat, 26 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Finsbury Park, London — Sun, 2 Aug 2026
-- Ashton Court Estate, Bristol — Sat, 23 May 2026
-- Cupra City Garage Manchester, Manchester — Sat, 28 Mar 2026
-- TBA - Dmos People West Mid Showground, Berwick Road, Shrewsbury, SY1 2PL, Birmingham — Fri, 19 Sept 2025
-- UNO MALTA, Malta — Fri, 5 Sept 2025
-- TBA - Lake Most, Prague — Thu, 31 Jul 2025
+- Volks, Brighton · Sat, 26 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Finsbury Park, London · Sun, 2 Aug 2026
+- Ashton Court Estate, Bristol · Sat, 23 May 2026
+- Cupra City Garage Manchester, Manchester · Sat, 28 Mar 2026
+- TBA - Dmos People West Mid Showground, Berwick Road, Shrewsbury, SY1 2PL, Birmingham · Fri, 19 Sept 2025
+- UNO MALTA, Malta · Fri, 5 Sept 2025
+- TBA - Lake Most, Prague · Thu, 31 Jul 2025
 
 ## Shares bills with
 

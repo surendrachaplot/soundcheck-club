@@ -1,8 +1,8 @@
 # Crille & Tamalt
 
-Crille & Tamalt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+Crille & Tamalt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
-Crille & Tamalt are a house and techno duo based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Punani, Jaamann and Triqi. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
+Crille & Tamalt are a house and techno duo based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Punani, Jaamann and Triqi. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Crille & Tamalt are a house and techno duo based in Germany, tracked on soundche
 
 ## Recently played
 
-- Renate, Berlin — Fri, 11 Sept 2026
-- Jonny Knüppel, Berlin — Sat, 29 Aug 2026
-- Distillery, Leipzig — Sat, 1 Aug 2026
-- Bulbul Berlin, Berlin — Fri, 5 Jun 2026
-- Südpol, Hamburg — Sat, 30 May 2026
-- Klunkerkranich, Berlin — Fri, 1 May 2026
-- Südpol, Hamburg — Thu, 1 Jan 2026
-- Renate, Berlin — Wed, 31 Dec 2025
+- Renate, Berlin · Fri, 11 Sept 2026
+- Jonny Knüppel, Berlin · Sat, 29 Aug 2026
+- Distillery, Leipzig · Sat, 1 Aug 2026
+- Bulbul Berlin, Berlin · Fri, 5 Jun 2026
+- Südpol, Hamburg · Sat, 30 May 2026
+- Klunkerkranich, Berlin · Fri, 1 May 2026
+- Südpol, Hamburg · Thu, 1 Jan 2026
+- Renate, Berlin · Wed, 31 Dec 2025
 
 ## Shares bills with
 

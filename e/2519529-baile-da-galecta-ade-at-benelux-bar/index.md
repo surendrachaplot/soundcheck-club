@@ -1,6 +1,6 @@
 # Baile da Galecta ADE at Benelux BAR
 
-Baile da Galecta ADE at Benelux BAR on Sat 24 Oct, Amsterdam. Baile Funk and Electronica. Preview the line-up and save it on soundcheck.
+Baile da Galecta ADE at Benelux BAR on Sat 24 Oct, Amsterdam. Baile Funk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

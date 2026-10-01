@@ -1,6 +1,6 @@
 # Groove Shapes: Kafuné, kairavi, Krakau at Bulbul Berlin
 
-Groove Shapes: Kafuné, kairavi, Krakau at Bulbul Berlin on Thu 22 Oct, Berlin. 2 artists on the bill: Kafuné and kairavi. House and Club. Preview the line-up and save it on soundcheck.
+Groove Shapes: Kafuné, kairavi, Krakau at Bulbul Berlin on Thu 22 Oct, Berlin. 2 artists: Kafuné and kairavi. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

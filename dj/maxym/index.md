@@ -1,8 +1,8 @@
 # MAXYM
 
-MAXYM is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+MAXYM is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-MAXYM is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, I-DA and MEAKIN. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
+MAXYM is a trance and techno artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, I-DA and MEAKIN. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MAXYM is a trance and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- E1, London — Fri, 27 Feb 2026
-- Basing House, London — Fri, 6 Feb 2026
-- E1, London — Sat, 1 Nov 2025
-- E1, London — Sat, 16 Aug 2025
-- Plantroom, London — Sat, 28 Jun 2025
-- The Star Of Kings, London — Fri, 28 Mar 2025
-- The Star Of Kings, London — Fri, 28 Feb 2025
-- The Star Of Kings, London — Fri, 29 Nov 2024
+- E1, London · Fri, 27 Feb 2026
+- Basing House, London · Fri, 6 Feb 2026
+- E1, London · Sat, 1 Nov 2025
+- E1, London · Sat, 16 Aug 2025
+- Plantroom, London · Sat, 28 Jun 2025
+- The Star Of Kings, London · Fri, 28 Mar 2025
+- The Star Of Kings, London · Fri, 28 Feb 2025
+- The Star Of Kings, London · Fri, 29 Nov 2024
 
 ## Shares bills with
 

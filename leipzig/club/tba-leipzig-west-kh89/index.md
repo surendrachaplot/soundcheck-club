@@ -1,8 +1,8 @@
 # TBA - Leipzig West (KH89)
 
-TBA - Leipzig West (KH89) is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "///blush vol.2/// - curated by Geschwofe-Kollektiv" on Fri, 9 Oct 2026.
+TBA - Leipzig West (KH89) is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "///blush vol.2/// - curated by Geschwofe-Kollektiv" on Fri, 9 Oct 2026.
 
-TBA - Leipzig West (KH89) is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including Johænsson. Browse upcoming dates, start times and who's playing.
+TBA - Leipzig West (KH89) is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including Johænsson. See dates, start times and who's playing.
 
 ## What's on
 

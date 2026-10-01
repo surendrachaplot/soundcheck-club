@@ -1,6 +1,6 @@
 # SESH pres. MCR-T ANL at Schrotty
 
-SESH pres. MCR-T ANL at Schrotty on Sat 3 Oct, Cologne. 1 artist on the bill: MCR-T. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+SESH pres. MCR-T ANL at Schrotty on Sat 3 Oct, Cologne. 1 artist: MCR-T. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

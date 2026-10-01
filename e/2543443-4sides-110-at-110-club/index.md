@@ -1,6 +1,6 @@
 # 4sides @110 at 110.Club
 
-4sides @110 at 110.Club on Sat 3 Oct, Lyon. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+4sides @110 at 110.Club on Sat 3 Oct, Lyon. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

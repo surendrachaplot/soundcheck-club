@@ -1,6 +1,6 @@
 # Gassen aus Zucker - go with the slow at FLUCC
 
-Gassen aus Zucker - go with the slow at FLUCC on Sat 3 Oct, Vienna. 2 artists on the bill: Bertolt Frech and kolobok. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+Gassen aus Zucker - go with the slow at FLUCC on Sat 3 Oct, Vienna. 2 artists: Bertolt Frech and kolobok. Tech House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

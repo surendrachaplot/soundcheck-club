@@ -1,6 +1,6 @@
 # Dabeull live Band at Tempodrom
 
-Dabeull live Band at Tempodrom on Tue 3 Nov, Berlin. Electro and Disco. Preview the line-up and save it on soundcheck.
+Dabeull live Band at Tempodrom on Tue 3 Nov, Berlin. Electro and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

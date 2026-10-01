@@ -1,6 +1,6 @@
 # Cirque Du Rave Is Coming To London at The Steel Yard
 
-Cirque Du Rave Is Coming To London at The Steel Yard on Sat 17 Oct, London. Techno and House. Preview the line-up and save it on soundcheck.
+Cirque Du Rave Is Coming To London at The Steel Yard on Sat 17 Oct, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
+Kichta is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
-Kichta is a techno and trance artist based in France, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Amøn, KLING&KLANG and Eskha. Next up: TBA, Toronto on Sat 3 Oct.
+Kichta is a techno and trance artist based in France, with 44 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Amøn, KLING&KLANG and Eskha. Next up: TBA, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Kichta is a techno and trance artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 12 Sept 2026
-- Helios37, Cologne — Fri, 7 Aug 2026
-- Fuse, Brussels — Sat, 18 Jul 2026
-- Mia Mao, Paris — Fri, 3 Jul 2026
-- Das Werk, Vienna — Sat, 20 Jun 2026
-- Lokschuppen Berlin, Berlin — Sun, 14 Jun 2026
-- Plage De Torcy, Paris — Sun, 24 May 2026
-- Lokschuppen Berlin, Berlin — Fri, 22 May 2026
+- Lokschuppen Berlin, Berlin · Sat, 12 Sept 2026
+- Helios37, Cologne · Fri, 7 Aug 2026
+- Fuse, Brussels · Sat, 18 Jul 2026
+- Mia Mao, Paris · Fri, 3 Jul 2026
+- Das Werk, Vienna · Sat, 20 Jun 2026
+- Lokschuppen Berlin, Berlin · Sun, 14 Jun 2026
+- Plage De Torcy, Paris · Sun, 24 May 2026
+- Lokschuppen Berlin, Berlin · Fri, 22 May 2026
 
 ## Shares bills with
 

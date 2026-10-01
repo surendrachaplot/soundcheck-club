@@ -1,6 +1,6 @@
 # Day & Night Party - 8 Years of DRIFT at People's Leisure Club
 
-Day & Night Party - 8 Years of DRIFT at People's Leisure Club on Sat 28 Nov, Edinburgh. Experimental and Club. Preview the line-up and save it on soundcheck.
+Day & Night Party - 8 Years of DRIFT at People's Leisure Club on Sat 28 Nov, Edinburgh. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

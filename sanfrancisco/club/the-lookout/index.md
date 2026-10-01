@@ -1,8 +1,8 @@
 # The LookOut
 
-The LookOut is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Planeta Pasado" on Sat, 3 Oct 2026.
+The LookOut is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Planeta Pasado" on Sat, 3 Oct 2026.
 
-The LookOut is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Digital KitKat and MIJITO. Browse upcoming dates, start times and who's playing. 3600 16th St., San Francisco, CA 94114, United States.
+The LookOut is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Digital KitKat and MIJITO. See dates, start times and who's playing. 3600 16th St., San Francisco, CA 94114, United States.
 
 ## What's on
 

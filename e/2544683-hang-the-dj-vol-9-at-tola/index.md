@@ -1,6 +1,6 @@
 # Hang the DJ Vol.9 at Tola
 
-Hang the DJ Vol.9 at Tola on Thu 1 Oct, London. 1 artist on the bill: untitled. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Hang the DJ Vol.9 at Tola on Thu 1 Oct, London. 1 artist: untitled. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

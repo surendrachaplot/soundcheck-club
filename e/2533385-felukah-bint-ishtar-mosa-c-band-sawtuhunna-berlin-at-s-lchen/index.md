@@ -1,6 +1,6 @@
 # FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin at Säälchen
 
-FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin at Säälchen on Sat 17 Oct, Berlin. Preview the line-up and save it on soundcheck.
+FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin at Säälchen on Sat 17 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

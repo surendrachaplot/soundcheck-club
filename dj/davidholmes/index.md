@@ -1,8 +1,8 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
+David Holmes is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
 
-David Holmes is a house and electronica artist based in Ireland, tracked on soundcheck, with 42 sets logged across Belfast, Birmingham, Cork and Dublin and 7 more. Often billed alongside Sean Johnston, Daniel Avery and Optimo (Espacio). Next up: Shorts Sports & Recreation Club, Belfast on Sat 31 Oct.
+David Holmes is a house and electronica artist based in Ireland, with 42 gigs on soundcheck across Belfast, Birmingham, Cork and Dublin and 7 more. Often billed alongside Sean Johnston, Daniel Avery and Optimo (Espacio). Next up: Shorts Sports & Recreation Club, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ David Holmes is a house and electronica artist based in Ireland, tracked on soun
 
 ## Recently played
 
-- Nido Marseille, Marseille — Sat, 8 Aug 2026
-- Nido Marseille, Marseille — Sat, 8 Aug 2026
-- Are You Affiliated, Newcastle — Sat, 4 Jul 2026
-- Freight Island, Manchester — Sun, 24 May 2026
-- The Scala, London — Sun, 17 May 2026
-- The Golden Lion, Manchester — Sat, 28 Feb 2026
-- The Golden Lion, Manchester — Fri, 27 Feb 2026
-- DRUMSHEDS, London — Sat, 21 Feb 2026
+- Nido Marseille, Marseille · Sat, 8 Aug 2026
+- Nido Marseille, Marseille · Sat, 8 Aug 2026
+- Are You Affiliated, Newcastle · Sat, 4 Jul 2026
+- Freight Island, Manchester · Sun, 24 May 2026
+- The Scala, London · Sun, 17 May 2026
+- The Golden Lion, Manchester · Sat, 28 Feb 2026
+- The Golden Lion, Manchester · Fri, 27 Feb 2026
+- DRUMSHEDS, London · Sat, 21 Feb 2026
 
 ## Shares bills with
 

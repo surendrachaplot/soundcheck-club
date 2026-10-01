@@ -1,8 +1,8 @@
 # Gabunia
 
-Gabunia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
+Gabunia is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Gabunia is a club and house artist based in Georgia, tracked on soundcheck, with 7 sets logged across New York City and Tbilisi. Often billed alongside Ash Scholem, Rati and Vakho. Next up: The 1896, New York City on Sat 17 Oct.
+Gabunia is a club and house artist based in Georgia, with 7 gigs on soundcheck across New York City and Tbilisi. Often billed alongside Ash Scholem, Rati and Vakho. Next up: The 1896, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Gabunia is a club and house artist based in Georgia, tracked on soundcheck, with
 
 ## Recently played
 
-- Ciskari, Tbilisi — Fri, 27 Jun 2025
-- eZo Festival, Tbilisi — Fri, 6 Sept 2024
-- Dedaena, Tbilisi — Tue, 15 Aug 2023
-- Dedaena, Tbilisi — Tue, 27 Jun 2023
-- Love Bar, Tbilisi — Fri, 16 Jun 2023
-- Dedaena, Tbilisi — Tue, 14 Mar 2023
+- Ciskari, Tbilisi · Fri, 27 Jun 2025
+- eZo Festival, Tbilisi · Fri, 6 Sept 2024
+- Dedaena, Tbilisi · Tue, 15 Aug 2023
+- Dedaena, Tbilisi · Tue, 27 Jun 2023
+- Love Bar, Tbilisi · Fri, 16 Jun 2023
+- Dedaena, Tbilisi · Tue, 14 Mar 2023
 
 ## Shares bills with
 

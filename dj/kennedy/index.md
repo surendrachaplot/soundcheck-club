@@ -1,8 +1,8 @@
 # Kennedy
 
-Kennedy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Kennedy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
-Kennedy is a house and disco artist based in Netherlands, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Ajuma, I-F and Alessandro Parisi. Next up: ASIAT Park, Brussels on Sat 17 Oct.
+Kennedy is a house and disco artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Ajuma, I-F and Alessandro Parisi. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kennedy is a house and disco artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sat, 15 Aug 2026
-- Barba Azul, Mexico City — Sat, 11 Jul 2026
-- Doka, Amsterdam — Sat, 4 Jul 2026
-- NAR, Utrecht — Sat, 13 Jun 2026
-- Inter-City, The Hague — Thu, 14 May 2026
-- Doka, Amsterdam — Sat, 11 Apr 2026
-- NAR, Utrecht — Sat, 4 Apr 2026
-- Cantina SieteSeis, Mexico City — Wed, 1 Apr 2026
+- Thuishaven, Amsterdam · Sat, 15 Aug 2026
+- Barba Azul, Mexico City · Sat, 11 Jul 2026
+- Doka, Amsterdam · Sat, 4 Jul 2026
+- NAR, Utrecht · Sat, 13 Jun 2026
+- Inter-City, The Hague · Thu, 14 May 2026
+- Doka, Amsterdam · Sat, 11 Apr 2026
+- NAR, Utrecht · Sat, 4 Apr 2026
+- Cantina SieteSeis, Mexico City · Wed, 1 Apr 2026
 
 ## Shares bills with
 

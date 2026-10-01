@@ -1,6 +1,6 @@
 # Out The Bag: Choukroun b2b Monk at Outer Heaven
 
-Out The Bag: Choukroun b2b Monk at Outer Heaven on Wed 21 Oct, New York City. 1 artist on the bill: Monk. Preview the line-up and save it on soundcheck.
+Out The Bag: Choukroun b2b Monk at Outer Heaven on Wed 21 Oct, New York City. 1 artist: Monk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

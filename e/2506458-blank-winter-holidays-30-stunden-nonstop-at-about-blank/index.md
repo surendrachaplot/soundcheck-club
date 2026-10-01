@@ -1,6 +1,6 @@
 # Blank Winter Holidays - 30 Stunden nonstop at ://about blank
 
-Blank Winter Holidays - 30 Stunden nonstop at ://about blank on Sat 23 Jan, Berlin. 5 artists on the bill: Anna Haleta, Irakli, Portable and SKALA and 1 more. Preview the line-up and save it on soundcheck.
+Blank Winter Holidays - 30 Stunden nonstop at ://about blank on Sat 23 Jan, Berlin. 5 artists: Anna Haleta, Irakli, Portable and SKALA and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Loukeman - Montréal at Newspeak
 
-Loukeman - Montréal at Newspeak on Fri 4 Dec, Montreal. 2 artists on the bill: Brat Star and Loukeman. House and Electronica. Preview the line-up and save it on soundcheck.
+Loukeman - Montréal at Newspeak on Fri 4 Dec, Montreal. 2 artists: Brat Star and Loukeman. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

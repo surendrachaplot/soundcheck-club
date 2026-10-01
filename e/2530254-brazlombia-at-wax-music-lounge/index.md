@@ -1,6 +1,6 @@
 # BRAZLOMBIA at Wax Music Lounge
 
-BRAZLOMBIA at Wax Music Lounge on Tue 29 Dec, Melbourne. Preview the line-up and save it on soundcheck.
+BRAZLOMBIA at Wax Music Lounge on Tue 29 Dec, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

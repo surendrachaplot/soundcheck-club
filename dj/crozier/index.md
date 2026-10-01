@@ -1,8 +1,8 @@
 # Crozier
 
-Crozier is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Fri, 16 Oct 2026.
+Crozier is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OneSixOne, Melbourne on Fri, 16 Oct 2026.
 
-Crozier is a house and deep house artist based in Australia, tracked on soundcheck, with 79 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, Macmillan and Adam Trace. Next up: OneSixOne, Melbourne on Fri 16 Oct.
+Crozier is a house and deep house artist based in Australia, with 79 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Amber Ferraro, Macmillan and Adam Trace. Next up: OneSixOne, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Crozier is a house and deep house artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- 24 Moons, Melbourne — Sat, 26 Sept 2026
-- OneSixOne, Melbourne — Thu, 17 Sept 2026
-- Revolver Upstairs, Melbourne — Sat, 5 Sept 2026
-- The Lucky Cat, Sydney — Sat, 8 Aug 2026
-- Revolver Upstairs, Melbourne — Fri, 17 Jul 2026
-- OneSixOne, Melbourne — Thu, 16 Jul 2026
-- Carousel Bar & Ballroom, Sydney — Sat, 11 Jul 2026
-- OneSixOne, Melbourne — Fri, 10 Jul 2026
+- 24 Moons, Melbourne · Sat, 26 Sept 2026
+- OneSixOne, Melbourne · Thu, 17 Sept 2026
+- Revolver Upstairs, Melbourne · Sat, 5 Sept 2026
+- The Lucky Cat, Sydney · Sat, 8 Aug 2026
+- Revolver Upstairs, Melbourne · Fri, 17 Jul 2026
+- OneSixOne, Melbourne · Thu, 16 Jul 2026
+- Carousel Bar & Ballroom, Sydney · Sat, 11 Jul 2026
+- OneSixOne, Melbourne · Fri, 10 Jul 2026
 
 ## Shares bills with
 

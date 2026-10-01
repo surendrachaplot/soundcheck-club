@@ -1,8 +1,8 @@
 # Anna Collecta
 
-Anna Collecta is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at McCarren Park, New York City on Sun, 4 Oct 2026.
+Anna Collecta is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
-Anna Collecta is a house and disco artist based in United States of America, tracked on soundcheck, with 78 sets logged across Ibiza, London, Miami and New York City and 4 more. Often billed alongside Deo'jorge, Will Buck and Atilla Ural. Next up: McCarren Park, New York City on Sun 4 Oct.
+Anna Collecta is a house and disco artist based in United States of America, with 78 gigs on soundcheck across Ibiza, London, Miami and New York City and 4 more. Often billed alongside Deo'jorge, Will Buck and Atilla Ural. Next up: McCarren Park, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anna Collecta is a house and disco artist based in United States of America, tra
 
 ## Recently played
 
-- Refuge, New York City — Sun, 30 Aug 2026
-- Refuge, New York City — Sun, 23 Aug 2026
-- Refuge, New York City — Sun, 16 Aug 2026
-- Elsewhere, New York City — Fri, 24 Jul 2026
-- Xanadu, New York City — Sat, 9 May 2026
-- Danger Danger, New York City — Thu, 16 Apr 2026
-- TBA - Secret Location, New York City — Sat, 11 Apr 2026
-- 314 Scholes, New York City — Sat, 28 Mar 2026
+- Refuge, New York City · Sun, 30 Aug 2026
+- Refuge, New York City · Sun, 23 Aug 2026
+- Refuge, New York City · Sun, 16 Aug 2026
+- Elsewhere, New York City · Fri, 24 Jul 2026
+- Xanadu, New York City · Sat, 9 May 2026
+- Danger Danger, New York City · Thu, 16 Apr 2026
+- TBA - Secret Location, New York City · Sat, 11 Apr 2026
+- 314 Scholes, New York City · Sat, 28 Mar 2026
 
 ## Shares bills with
 

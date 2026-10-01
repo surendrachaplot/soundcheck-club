@@ -1,6 +1,6 @@
 # The Music of the Lord of the Rings. Tribute to Howard Shore by Mystery Ensemble at Musikverein, Vienna
 
-The Music of the Lord of the Rings. Tribute to Howard Shore by Mystery Ensemble at Musikverein, Vienna on Sat 21 Nov, Vienna. Classical. Preview the line-up and save it on soundcheck.
+The Music of the Lord of the Rings. Tribute to Howard Shore by Mystery Ensemble at Musikverein, Vienna on Sat 21 Nov, Vienna. Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Skratch Bastid
 
-Skratch Bastid is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
+Skratch Bastid is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
 
-Skratch Bastid is a hip-hop and funk / soul artist based in Canada, tracked on soundcheck, with 22 sets logged across London, Miami, Nashville and New York City and 3 more. Often billed alongside Dvize, Rich Medina and Swee. Next up: Longboat Hall, Toronto on Sun 18 Oct.
+Skratch Bastid is a hip-hop and funk / soul artist based in Canada, with 22 gigs on soundcheck across London, Miami, Nashville and New York City and 3 more. Often billed alongside Dvize, Rich Medina and Swee. Next up: Longboat Hall, Toronto on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Skratch Bastid is a hip-hop and funk / soul artist based in Canada, tracked on s
 
 ## Recently played
 
-- Sound Machine, Toronto — Sat, 25 Jul 2026
-- Harriet's Rooftop Nashville, Nashville — Sat, 23 May 2026
-- Standard Time, Toronto — Sat, 18 Apr 2026
-- Standard Time, Toronto — Sun, 8 Mar 2026
-- Fortune Sound Club, Vancouver — Thu, 29 Jan 2026
-- SOUNDS GOOD, Toronto — Sat, 17 Jan 2026
-- SOUNDS GOOD, Toronto — Fri, 26 Sept 2025
-- SOUNDS GOOD, Toronto — Sun, 27 Jul 2025
+- Sound Machine, Toronto · Sat, 25 Jul 2026
+- Harriet's Rooftop Nashville, Nashville · Sat, 23 May 2026
+- Standard Time, Toronto · Sat, 18 Apr 2026
+- Standard Time, Toronto · Sun, 8 Mar 2026
+- Fortune Sound Club, Vancouver · Thu, 29 Jan 2026
+- SOUNDS GOOD, Toronto · Sat, 17 Jan 2026
+- SOUNDS GOOD, Toronto · Fri, 26 Sept 2025
+- SOUNDS GOOD, Toronto · Sun, 27 Jul 2025
 
 ## Shares bills with
 

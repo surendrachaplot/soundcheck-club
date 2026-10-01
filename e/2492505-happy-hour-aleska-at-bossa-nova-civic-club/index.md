@@ -1,6 +1,6 @@
 # Happy Hour: Aleska at Bossa Nova Civic Club
 
-Happy Hour: Aleska at Bossa Nova Civic Club on Sat 3 Oct, New York City. 1 artist on the bill: Aleska. Techno. Preview the line-up and save it on soundcheck.
+Happy Hour: Aleska at Bossa Nova Civic Club on Sat 3 Oct, New York City. 1 artist: Aleska. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

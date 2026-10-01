@@ -1,6 +1,6 @@
 # JDRC Session 005: 5K Run + Afterparty with Alp and Ege Dai at Jupiter Disco
 
-JDRC Session 005: 5K Run + Afterparty with Alp and Ege Dai at Jupiter Disco on Wed 28 Oct, New York City. 1 artist on the bill: Alpaca_. Preview the line-up and save it on soundcheck.
+JDRC Session 005: 5K Run + Afterparty with Alp and Ege Dai at Jupiter Disco on Wed 28 Oct, New York City. 1 artist: Alpaca_. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

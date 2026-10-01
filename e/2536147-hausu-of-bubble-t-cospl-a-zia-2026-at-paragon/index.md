@@ -1,6 +1,6 @@
 # HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon
 
-HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon on Sat 17 Oct, New York City. 2 artists on the bill: LANSUH and Ly Tran. Tech House and Club. Preview the line-up and save it on soundcheck.
+HAUSU_OF_BUBBLE T: COSPL_A_ZIA 2026 at Paragon on Sat 17 Oct, New York City. 2 artists: LANSUH and Ly Tran. Tech House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

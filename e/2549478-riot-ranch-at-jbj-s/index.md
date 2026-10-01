@@ -1,6 +1,6 @@
 # RIOT RANCH at Jbj's
 
-RIOT RANCH at Jbj's on Wed 7 Oct, Nashville. Preview the line-up and save it on soundcheck.
+RIOT RANCH at Jbj's on Wed 7 Oct, Nashville. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

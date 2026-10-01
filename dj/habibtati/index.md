@@ -1,8 +1,8 @@
 # HabibTati
 
-HabibTati is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+HabibTati is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
-HabibTati is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Armenia and London. Often billed alongside RONISA, Sha3by Chic and Anahita Shamsaei. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
+HabibTati is an experimental and techno artist based in United Kingdom, with 18 gigs on soundcheck across Armenia and London. Often billed alongside RONISA, Sha3by Chic and Anahita Shamsaei. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ HabibTati is an experimental and techno artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- TBA - Yerevan, Armenia, Armenia — Sat, 26 Sept 2026
-- TBA, London — Sun, 5 Jul 2026
-- The Shacklewell Arms, London — Fri, 19 Jun 2026
-- Cu, London — Fri, 20 Feb 2026
-- UNLOCKED, London — Fri, 21 Nov 2025
-- The Post Bar Tottenham, London — Sat, 26 Jul 2025
-- Corsica Studios, London — Wed, 9 Oct 2024
-- Colour Factory, London — Fri, 6 Sept 2024
+- TBA - Yerevan, Armenia, Armenia · Sat, 26 Sept 2026
+- TBA, London · Sun, 5 Jul 2026
+- The Shacklewell Arms, London · Fri, 19 Jun 2026
+- Cu, London · Fri, 20 Feb 2026
+- UNLOCKED, London · Fri, 21 Nov 2025
+- The Post Bar Tottenham, London · Sat, 26 Jul 2025
+- Corsica Studios, London · Wed, 9 Oct 2024
+- Colour Factory, London · Fri, 6 Sept 2024
 
 ## Shares bills with
 

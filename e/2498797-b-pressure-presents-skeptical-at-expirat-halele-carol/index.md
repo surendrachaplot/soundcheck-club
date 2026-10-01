@@ -1,6 +1,6 @@
 # B:pressure presents: Skeptical at Expirat Halele Carol
 
-B:pressure presents: Skeptical at Expirat Halele Carol on Thu 3 Dec, Bucharest. 1 artist on the bill: Skeptical. Drum & Bass. Preview the line-up and save it on soundcheck.
+B:pressure presents: Skeptical at Expirat Halele Carol on Thu 3 Dec, Bucharest. 1 artist: Skeptical. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

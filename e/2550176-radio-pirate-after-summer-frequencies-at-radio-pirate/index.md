@@ -1,6 +1,6 @@
 # Radio Pirate: After Summer Frequencies at Radio Pirate
 
-Radio Pirate: After Summer Frequencies on Sat 3 Oct, Paris. 3 artists on the bill: International Mac, Shonky and Tau Car. Preview the line-up and save it on soundcheck.
+Radio Pirate: After Summer Frequencies on Sat 3 Oct, Paris. 3 artists: International Mac, Shonky and Tau Car. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

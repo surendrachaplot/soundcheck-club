@@ -1,8 +1,8 @@
 # Fringe Records NYC
 
-Fringe Records NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mark Solotroff NY Album Release Show" on Fri, 20 Nov 2026.
+Fringe Records NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mark Solotroff NY Album Release Show" on Fri, 20 Nov 2026.
 
-Fringe Records NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Fringe Records NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

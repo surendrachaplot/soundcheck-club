@@ -1,6 +1,6 @@
 # El Internacional Club at El Internacional
 
-El Internacional Club on Sat 3 Oct, Madrid. 1 artist on the bill: Maik Miroux. House and Electronica. Preview the line-up and save it on soundcheck.
+El Internacional Club on Sat 3 Oct, Madrid. 1 artist: Maik Miroux. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

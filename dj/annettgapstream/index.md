@@ -1,8 +1,8 @@
 # Annett Gapstream
 
-Annett Gapstream is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Annett Gapstream is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
-Annett Gapstream is a techno and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bangkok and Berlin and 8 more. Often billed alongside Kotoe, Frida Darko and Baba The Knife. Next up: Kater, Berlin on Fri 9 Oct.
+Annett Gapstream is a techno and house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 8 more. Often billed alongside Kotoe, Frida Darko and Baba The Knife. Next up: Kater, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Annett Gapstream is a techno and house artist based in Germany, tracked on sound
 
 ## Recently played
 
-- Fluxbau, Berlin — Sun, 20 Sept 2026
-- TBA, Berlin — Fri, 4 Sept 2026
-- SAGE, Berlin — Sat, 18 Jul 2026
-- Treptower Park, Berlin — Sat, 11 Jul 2026
-- Catonium, Hamburg — Sat, 11 Jul 2026
-- Ritter Butzke, Berlin — Sat, 27 Jun 2026
-- Odonien, Cologne — Sat, 30 May 2026
-- Cassiopeia, Berlin — Mon, 25 May 2026
+- Fluxbau, Berlin · Sun, 20 Sept 2026
+- TBA, Berlin · Fri, 4 Sept 2026
+- SAGE, Berlin · Sat, 18 Jul 2026
+- Treptower Park, Berlin · Sat, 11 Jul 2026
+- Catonium, Hamburg · Sat, 11 Jul 2026
+- Ritter Butzke, Berlin · Sat, 27 Jun 2026
+- Odonien, Cologne · Sat, 30 May 2026
+- Cassiopeia, Berlin · Mon, 25 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
+Ben Techy is a techno and industrial artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- OST, Berlin — Sat, 26 Sept 2026
-- Essigfabrik, Cologne — Sat, 12 Sept 2026
-- Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
-- DSTRKT Club Berlin, Berlin — Sat, 29 Aug 2026
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- DNA Club, Munich — Sat, 4 Jul 2026
-- OST, Berlin — Sat, 27 Jun 2026
-- Afas Live, Amsterdam — Sat, 27 Jun 2026
+- OST, Berlin · Sat, 26 Sept 2026
+- Essigfabrik, Cologne · Sat, 12 Sept 2026
+- Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
+- DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
+- DNA Club, Munich · Sat, 4 Jul 2026
+- OST, Berlin · Sat, 27 Jun 2026
+- Afas Live, Amsterdam · Sat, 27 Jun 2026
 
 ## Shares bills with
 

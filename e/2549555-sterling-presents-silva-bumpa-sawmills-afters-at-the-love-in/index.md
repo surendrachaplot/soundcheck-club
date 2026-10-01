@@ -1,6 +1,6 @@
 # STERLING presents: Silva Bumpa Sawmills Afters at The Love Inn
 
-STERLING presents: Silva Bumpa Sawmills Afters at The Love Inn on Sat 3 Oct, Bristol. 2 artists on the bill: A For Alpha and Silva Bumpa. Tech House and Club. Preview the line-up and save it on soundcheck.
+STERLING presents: Silva Bumpa Sawmills Afters at The Love Inn on Sat 3 Oct, Bristol. 2 artists: A For Alpha and Silva Bumpa. Tech House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

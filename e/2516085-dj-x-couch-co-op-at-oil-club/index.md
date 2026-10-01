@@ -1,6 +1,6 @@
 # 好摇不挑曲 精神小伙乱斗四国DJ x Couch Co-Op at OIL Club
 
-好摇不挑曲 精神小伙乱斗四国DJ x Couch Co-Op at OIL Club on Tue 6 Oct, Shenzhen. Preview the line-up and save it on soundcheck.
+好摇不挑曲 精神小伙乱斗四国DJ x Couch Co-Op at OIL Club on Tue 6 Oct, Shenzhen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

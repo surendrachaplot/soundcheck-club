@@ -1,6 +1,6 @@
 # ADE - CHAMOS PRESENTS: HAWRAVE at Skatecafe
 
-ADE - CHAMOS PRESENTS: HAWRAVE at Skatecafe on Wed 21 Oct, Amsterdam. House and Club. Preview the line-up and save it on soundcheck.
+ADE - CHAMOS PRESENTS: HAWRAVE at Skatecafe on Wed 21 Oct, Amsterdam. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

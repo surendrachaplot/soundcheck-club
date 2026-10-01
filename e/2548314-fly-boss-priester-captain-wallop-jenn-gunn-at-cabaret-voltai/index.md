@@ -1,6 +1,6 @@
 # FLY - Boss Priester, Captain Wallop, Jenn Gunn at Cabaret Voltaire
 
-FLY - Boss Priester, Captain Wallop, Jenn Gunn at Cabaret Voltaire on Fri 9 Oct, Edinburgh. 3 artists on the bill: Boss Priester, Captain Wallop and Jenn Gunn. Garage. Preview the line-up and save it on soundcheck.
+FLY - Boss Priester, Captain Wallop, Jenn Gunn at Cabaret Voltaire on Fri 9 Oct, Edinburgh. 3 artists: Boss Priester, Captain Wallop and Jenn Gunn. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

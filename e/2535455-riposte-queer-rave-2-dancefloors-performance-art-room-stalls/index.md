@@ -1,6 +1,6 @@
 # Riposte - QUEER RAVE - 2 dancefloors + performance & art room + stalls at Electrowerkz
 
-Riposte - QUEER RAVE - 2 dancefloors + performance & art room + stalls at Electrowerkz on Fri 13 Nov, London. Techno and House. Preview the line-up and save it on soundcheck.
+Riposte - QUEER RAVE - 2 dancefloors + performance & art room + stalls at Electrowerkz on Fri 13 Nov, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

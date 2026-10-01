@@ -1,6 +1,6 @@
 # CONTRATEMPOS CLUBBING & Basscalhau - TBA at Collect LX Factory
 
-CONTRATEMPOS CLUBBING & Basscalhau - TBA at Collect LX Factory on Sat 24 Oct, Lisbon. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+CONTRATEMPOS CLUBBING & Basscalhau - TBA at Collect LX Factory on Sat 24 Oct, Lisbon. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

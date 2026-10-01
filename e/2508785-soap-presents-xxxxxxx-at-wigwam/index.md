@@ -1,6 +1,6 @@
 # SOAP PRESENTS: XXXXXXX at Wigwam
 
-SOAP PRESENTS: XXXXXXX at Wigwam on Sun 27 Dec, Dublin. Trance and Techno. Preview the line-up and save it on soundcheck.
+SOAP PRESENTS: XXXXXXX at Wigwam on Sun 27 Dec, Dublin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

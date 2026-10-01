@@ -1,6 +1,6 @@
 # GEGEN BRUSSELS at C12
 
-GEGEN BRUSSELS at C12 on Sat 28 Nov, Brussels. Preview the line-up and save it on soundcheck.
+GEGEN BRUSSELS at C12 on Sat 28 Nov, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

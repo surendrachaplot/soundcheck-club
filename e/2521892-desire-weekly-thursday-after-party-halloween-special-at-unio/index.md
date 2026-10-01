@@ -1,6 +1,6 @@
 # DESIRE - Weekly Thursday After Party - HALLOWEEN SPECIAL at Union Club, Vauxhall
 
-DESIRE - Weekly Thursday After Party - HALLOWEEN SPECIAL at Union Club, Vauxhall on Thu 29 Oct, London. 4 artists on the bill: Dhez, Duwat?, Elisa Nau. and Simone Sim. Techno and Tech House. Preview the line-up and save it on soundcheck.
+DESIRE - Weekly Thursday After Party - HALLOWEEN SPECIAL at Union Club, Vauxhall on Thu 29 Oct, London. 4 artists: Dhez, Duwat?, Elisa Nau. and Simone Sim. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

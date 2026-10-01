@@ -1,8 +1,8 @@
 # Eklekt1k
 
-Eklekt1k is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+Eklekt1k is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
-Eklekt1k is a dubstep and techno artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Hovercat, Matryoschka and Plugin Ears. Next up: Lauschangriff, Berlin on Thu 1 Oct.
+Eklekt1k is a dubstep and techno artist, with 12 gigs on soundcheck across Berlin. Often billed alongside Hovercat, Matryoschka and Plugin Ears. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Eklekt1k is a dubstep and techno artist tracked on soundcheck, with 12 sets logg
 
 ## Recently played
 
-- Anzen Späti, Berlin — Sun, 21 Jun 2026
-- Drugstore im Rockhaus, Berlin — Sat, 30 May 2026
-- Lauschangriff, Berlin — Thu, 14 May 2026
-- Void Club, Berlin — Sat, 28 Mar 2026
-- Der Kegel, Berlin — Fri, 20 Mar 2026
-- Gretchen, Berlin — Sat, 14 Mar 2026
-- Gretchen, Berlin — Sat, 17 Jan 2026
-- Lauschangriff, Berlin — Thu, 11 Dec 2025
+- Anzen Späti, Berlin · Sun, 21 Jun 2026
+- Drugstore im Rockhaus, Berlin · Sat, 30 May 2026
+- Lauschangriff, Berlin · Thu, 14 May 2026
+- Void Club, Berlin · Sat, 28 Mar 2026
+- Der Kegel, Berlin · Fri, 20 Mar 2026
+- Gretchen, Berlin · Sat, 14 Mar 2026
+- Gretchen, Berlin · Sat, 17 Jan 2026
+- Lauschangriff, Berlin · Thu, 11 Dec 2025
 
 ## Shares bills with
 

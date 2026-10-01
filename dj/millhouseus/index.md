@@ -1,8 +1,8 @@
 # Millhouse (US)
 
-Millhouse (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Xuxa, Austin on Sat, 3 Oct 2026.
+Millhouse (US) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Xuxa, Austin on Sat, 3 Oct 2026.
 
-Millhouse (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin. Often billed alongside Knos, DJ HOT DONNA and DJ Ibanez. Next up: Xuxa, Austin on Sat 3 Oct.
+Millhouse (US) is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Austin. Often billed alongside Knos, DJ HOT DONNA and DJ Ibanez. Next up: Xuxa, Austin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Millhouse (US) is a house and deep house artist based in United States of Americ
 
 ## Recently played
 
-- Neon Grotto, Austin — Thu, 30 Jul 2026
-- Neon Grotto, Austin — Thu, 4 Jun 2026
-- Neon Grotto, Austin — Thu, 22 Jan 2026
-- Ivy's, Austin — Sat, 13 Dec 2025
-- Neon Grotto, Austin — Thu, 16 Oct 2025
-- Higbie's, Austin — Sat, 26 Jul 2025
-- community garden, Austin — Fri, 27 Jun 2025
-- Higbie's, Austin — Fri, 14 Mar 2025
+- Neon Grotto, Austin · Thu, 30 Jul 2026
+- Neon Grotto, Austin · Thu, 4 Jun 2026
+- Neon Grotto, Austin · Thu, 22 Jan 2026
+- Ivy's, Austin · Sat, 13 Dec 2025
+- Neon Grotto, Austin · Thu, 16 Oct 2025
+- Higbie's, Austin · Sat, 26 Jul 2025
+- community garden, Austin · Fri, 27 Jun 2025
+- Higbie's, Austin · Fri, 14 Mar 2025
 
 ## Shares bills with
 

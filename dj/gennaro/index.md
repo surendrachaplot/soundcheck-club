@@ -1,8 +1,8 @@
 # GENNARO
 
-GENNARO is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Range, Turin on Fri, 2 Oct 2026.
+GENNARO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Range, Turin on Fri, 2 Oct 2026.
 
-GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 7 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: The Range, Turin on Fri 2 Oct.
+GENNARO is a tech house and house artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Chicago, Cologne and Ibiza and 7 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: The Range, Turin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, 
 
 ## Recently played
 
-- Vera Cocina & بار, Washington DC — Fri, 11 Sept 2026
-- KOKO, London — Fri, 4 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 3 Jul 2026
-- Club Space Miami, Miami — Sat, 13 Jun 2026
-- Maya Beach Experience, Naples — Sat, 6 Jun 2026
-- Superior Ingredients, New York City — Sun, 31 May 2026
-- Prysm Nightclub, Chicago — Sat, 30 May 2026
+- Vera Cocina & بار, Washington DC · Fri, 11 Sept 2026
+- KOKO, London · Fri, 4 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
+- Pacha Ibiza, Ibiza · Fri, 3 Jul 2026
+- Club Space Miami, Miami · Sat, 13 Jun 2026
+- Maya Beach Experience, Naples · Sat, 6 Jun 2026
+- Superior Ingredients, New York City · Sun, 31 May 2026
+- Prysm Nightclub, Chicago · Sat, 30 May 2026
 
 ## Shares bills with
 

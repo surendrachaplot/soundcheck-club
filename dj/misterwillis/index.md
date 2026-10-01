@@ -1,8 +1,8 @@
 # Mister Willis
 
-Mister Willis is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Mister Willis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
-Mister Willis is a techno and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Berlin, London, Manchester and Munich and 5 more. Often billed alongside Sparkling Water Dreams, Calcium Channel and Blasha & Allatt. Next up: FOLD, London on Sat 10 Oct.
+Mister Willis is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, London, Manchester and Munich and 5 more. Often billed alongside Sparkling Water Dreams, Calcium Channel and Blasha & Allatt. Next up: FOLD, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mister Willis is a techno and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Amphitheatre by Circadian, Berlin — Sat, 13 Jun 2026
-- Renate, Berlin — Thu, 14 May 2026
-- Eastern Bloc Records, Manchester — Fri, 27 Mar 2026
-- La Redazione di Scomodo, Rome — Sat, 14 Mar 2026
-- Tresor / Globus, Berlin — Wed, 10 Dec 2025
-- Alte Meierei Berlin, Berlin — Sat, 29 Nov 2025
-- TBA - up ur bum, Berlin — Sat, 18 Oct 2025
-- Renate, Berlin — Thu, 2 Oct 2025
+- Amphitheatre by Circadian, Berlin · Sat, 13 Jun 2026
+- Renate, Berlin · Thu, 14 May 2026
+- Eastern Bloc Records, Manchester · Fri, 27 Mar 2026
+- La Redazione di Scomodo, Rome · Sat, 14 Mar 2026
+- Tresor / Globus, Berlin · Wed, 10 Dec 2025
+- Alte Meierei Berlin, Berlin · Sat, 29 Nov 2025
+- TBA - up ur bum, Berlin · Sat, 18 Oct 2025
+- Renate, Berlin · Thu, 2 Oct 2025
 
 ## Shares bills with
 

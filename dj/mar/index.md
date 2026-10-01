@@ -1,8 +1,8 @@
 # M A R
 
-M A R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+M A R is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
-M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Madrid and Mexico City. Often billed alongside Florian Pas, CHTI and Luca Mariaux. Next up: Coco Boule, Berlin on Fri 23 Oct.
+M A R is a techno and trance artist, with 35 gigs on soundcheck across Berlin, Cologne, Madrid and Mexico City. Often billed alongside Florian Pas, CHTI and Luca Mariaux. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ M A R is a techno and trance artist tracked on soundcheck, with 35 sets logged a
 
 ## Recently played
 
-- Tonal, Mexico City — Wed, 23 Sept 2026
-- Skin Club, Madrid — Sat, 8 Aug 2026
-- Mokka Mitte Bar / James Simon Park, Berlin — Sun, 21 Jun 2026
-- Else, Berlin — Fri, 19 Jun 2026
-- M01, Berlin — Sat, 18 Apr 2026
-- Fitzroy, Berlin — Sat, 28 Feb 2026
-- M01, Berlin — Sat, 20 Dec 2025
-- TBA - Flugplatz Zerbst (Saxony-Anhalt), Berlin — Thu, 21 Aug 2025
+- Tonal, Mexico City · Wed, 23 Sept 2026
+- Skin Club, Madrid · Sat, 8 Aug 2026
+- Mokka Mitte Bar / James Simon Park, Berlin · Sun, 21 Jun 2026
+- Else, Berlin · Fri, 19 Jun 2026
+- M01, Berlin · Sat, 18 Apr 2026
+- Fitzroy, Berlin · Sat, 28 Feb 2026
+- M01, Berlin · Sat, 20 Dec 2025
+- TBA - Flugplatz Zerbst (Saxony-Anhalt), Berlin · Thu, 21 Aug 2025
 
 ## Shares bills with
 

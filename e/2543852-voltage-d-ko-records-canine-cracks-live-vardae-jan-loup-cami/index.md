@@ -1,6 +1,6 @@
 # VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG at Bal Chavaux
 
-VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG at Bal Chavaux on Sat 24 Oct, Paris. 5 artists on the bill: Camion Bazar, Canine Cracks, GGGG and Jan Loup and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG at Bal Chavaux on Sat 24 Oct, Paris. 5 artists: Camion Bazar, Canine Cracks, GGGG and Jan Loup and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

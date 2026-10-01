@@ -1,6 +1,6 @@
 # Namaste at Akasha Las Dalias Club - Ibiza
 
-Namaste at Akasha Las Dalias Club - Ibiza on Wed 7 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+Namaste at Akasha Las Dalias Club - Ibiza on Wed 7 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

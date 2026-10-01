@@ -1,6 +1,6 @@
 # Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld at Good Room
 
-Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld at Good Room on Thu 22 Oct, New York City. 7 artists on the bill: Arvin T, Byld, Elle Dee and KORBEAT and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld at Good Room on Thu 22 Oct, New York City. 7 artists: Arvin T, Byld, Elle Dee and KORBEAT and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

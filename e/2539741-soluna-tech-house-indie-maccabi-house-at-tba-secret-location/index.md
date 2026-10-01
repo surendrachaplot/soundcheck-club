@@ -1,6 +1,6 @@
 # SOLUNA - TECH HOUSE - INDIE - MACCABI HOUSE at TBA - Secret location, Tarragona
 
-SOLUNA - TECH HOUSE - INDIE - MACCABI HOUSE at TBA - Secret location, Tarragona on Fri 2 Oct, Barcelona. 5 artists on the bill: Better Late, HannahLuyah, RuxXandra and Simbabelle and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+SOLUNA - TECH HOUSE - INDIE - MACCABI HOUSE at TBA - Secret location, Tarragona on Fri 2 Oct, Barcelona. 5 artists: Better Late, HannahLuyah, RuxXandra and Simbabelle and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

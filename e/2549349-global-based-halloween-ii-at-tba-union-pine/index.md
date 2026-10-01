@@ -1,6 +1,6 @@
 # Global Based: Halloween II at TBA - Union Pine
 
-Global Based: Halloween II at TBA - Union Pine on Fri 30 Oct, Portland. 1 artist on the bill: Manuka Honey. Club and Latin Bass. Preview the line-up and save it on soundcheck.
+Global Based: Halloween II at TBA - Union Pine on Fri 30 Oct, Portland. 1 artist: Manuka Honey. Club and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

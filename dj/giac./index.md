@@ -1,8 +1,8 @@
 # giac.
 
-giac. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+giac. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
-giac. is a house and techno artist tracked on soundcheck, with 48 sets logged across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
+giac. is a house and electro artist, with 48 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ giac. is a house and techno artist tracked on soundcheck, with 48 sets logged ac
 
 ## Recently played
 
-- 303 Audiophile Bar, Barcelona — Wed, 23 Sept 2026
-- Audiodise Park Montjuic, Barcelona — Sun, 16 Aug 2026
-- TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona — Wed, 12 Aug 2026
-- Dr. Dou Social Club, Barcelona — Wed, 22 Jul 2026
-- Audiodise Park Montjuic, Barcelona — Tue, 23 Jun 2026
-- Sunseabar Beach Club, Barcelona — Sun, 21 Jun 2026
-- TBA - Alt Penedès, Barcelona — Fri, 12 Jun 2026
-- Audiodise Beach Club Playa del Forum, Barcelona — Sun, 7 Jun 2026
+- 303 Audiophile Bar, Barcelona · Wed, 23 Sept 2026
+- Audiodise Park Montjuic, Barcelona · Sun, 16 Aug 2026
+- TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona · Wed, 12 Aug 2026
+- Dr. Dou Social Club, Barcelona · Wed, 22 Jul 2026
+- Audiodise Park Montjuic, Barcelona · Tue, 23 Jun 2026
+- Sunseabar Beach Club, Barcelona · Sun, 21 Jun 2026
+- TBA - Alt Penedès, Barcelona · Fri, 12 Jun 2026
+- Audiodise Beach Club Playa del Forum, Barcelona · Sun, 7 Jun 2026
 
 ## Shares bills with
 

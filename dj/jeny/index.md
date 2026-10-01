@@ -1,8 +1,8 @@
 # JENY
 
-JENY is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kaiku, Helsinki on Fri, 16 Oct 2026.
+JENY is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiku, Helsinki on Fri, 16 Oct 2026.
 
-JENY is an electronic artist based in Finland, tracked on soundcheck, with 7 sets logged across Helsinki. Often billed alongside CEB (FI), 2THEMAX and Sallidoing. Next up: Kaiku, Helsinki on Fri 16 Oct.
+JENY is an electronic artist based in Finland, with 7 gigs on soundcheck across Helsinki. Often billed alongside CEB (FI), 2THEMAX and Sallidoing. Next up: Kaiku, Helsinki on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ JENY is an electronic artist based in Finland, tracked on soundcheck, with 7 set
 
 ## Recently played
 
-- Ääniwalli, Helsinki — Sun, 21 Jun 2026
-- Post Bar, Helsinki — Fri, 5 Jun 2026
-- Ääniwalli, Helsinki — Sun, 29 Jun 2025
-- Ääniwalli, Helsinki — Sun, 30 Jun 2024
-- Ääniwalli, Helsinki — Sat, 28 Oct 2023
+- Ääniwalli, Helsinki · Sun, 21 Jun 2026
+- Post Bar, Helsinki · Fri, 5 Jun 2026
+- Ääniwalli, Helsinki · Sun, 29 Jun 2025
+- Ääniwalli, Helsinki · Sun, 30 Jun 2024
+- Ääniwalli, Helsinki · Sat, 28 Oct 2023
 
 ## Shares bills with
 

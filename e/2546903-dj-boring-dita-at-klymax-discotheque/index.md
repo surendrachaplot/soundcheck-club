@@ -1,6 +1,6 @@
 # DJ BORING, Dita at Klymax Discotheque
 
-DJ BORING, Dita at Klymax Discotheque on Fri 2 Oct, Bali. 2 artists on the bill: DITA (ID) and DJ BORING. Preview the line-up and save it on soundcheck.
+DJ BORING, Dita at Klymax Discotheque on Fri 2 Oct, Bali. 2 artists: DITA (ID) and DJ BORING. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # David Hohme, DISCOGNITION + Symstrata at TBA - Secret Location 
 
-David Hohme, DISCOGNITION + Symstrata at TBA - Secret Location  on Sat 24 Oct, Denver. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+David Hohme, DISCOGNITION + Symstrata at TBA - Secret Location  on Sat 24 Oct, Denver. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

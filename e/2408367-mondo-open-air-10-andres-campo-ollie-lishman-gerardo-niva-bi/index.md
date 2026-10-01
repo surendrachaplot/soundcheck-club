@@ -1,6 +1,6 @@
 # Mondo OPEN AIR #10: Andres Campo / Ollie Lishman / Gerardo Niva / BIXBITA / pavvvvvvlo at Mondo Open Air
 
-Mondo OPEN AIR #10: Andres Campo / Ollie Lishman / Gerardo Niva / BIXBITA / pavvvvvvlo at Mondo Open Air on Sat 3 Oct, Madrid. 5 artists on the bill: Andres Campo, BIXBITA, Gerardo Niva and Ollie Lishman and 1 more. Preview the line-up and save it on soundcheck.
+Mondo OPEN AIR #10: Andres Campo / Ollie Lishman / Gerardo Niva / BIXBITA / pavvvvvvlo at Mondo Open Air on Sat 3 Oct, Madrid. 5 artists: Andres Campo, BIXBITA, Gerardo Niva and Ollie Lishman and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DTEXX
 
-DTEXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+DTEXX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+DTEXX is a techno and trance artist based in Germany, with 63 gigs on soundcheck across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DTEXX is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Fusion Club, Munster — Sat, 26 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 29 Aug 2026
-- OST, Berlin — Sat, 22 Aug 2026
-- OST, Berlin — Fri, 7 Aug 2026
-- Ministerium Club, Lisbon — Thu, 16 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 26 Jun 2026
-- Lokschuppen Berlin, Berlin — Fri, 29 May 2026
-- ://about blank, Berlin — Sat, 23 May 2026
+- Fusion Club, Munster · Sat, 26 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
+- OST, Berlin · Sat, 22 Aug 2026
+- OST, Berlin · Fri, 7 Aug 2026
+- Ministerium Club, Lisbon · Thu, 16 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 26 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 29 May 2026
+- ://about blank, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 

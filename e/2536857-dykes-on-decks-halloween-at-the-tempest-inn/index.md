@@ -1,6 +1,6 @@
 # Dykes On Decks: Halloween at The Tempest Inn
 
-Dykes On Decks: Halloween at The Tempest Inn on Fri 30 Oct, Brighton. 2 artists on the bill: Lebby and Meg Ward. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+Dykes On Decks: Halloween at The Tempest Inn on Fri 30 Oct, Brighton. 2 artists: Lebby and Meg Ward. Techno and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

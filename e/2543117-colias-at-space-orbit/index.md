@@ -1,6 +1,6 @@
 # COLIAS at Space Orbit
 
-COLIAS at Space Orbit on Sat 14 Nov, Tokyo. House and Bass. Preview the line-up and save it on soundcheck.
+COLIAS at Space Orbit on Sat 14 Nov, Tokyo. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

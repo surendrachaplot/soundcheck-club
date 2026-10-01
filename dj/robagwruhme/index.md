@@ -1,8 +1,8 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Refuge, New York City on Fri, 2 Oct 2026.
+Robag Wruhme is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Refuge, New York City on Fri, 2 Oct 2026.
 
-Robag Wruhme is a house and techno artist based in Germany, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Refuge, New York City on Fri 2 Oct.
+Robag Wruhme is a house and techno artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Refuge, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Robag Wruhme is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- fi, Cologne — Fri, 25 Sept 2026
-- Sparta Schwimmclub, Frankfurt — Sun, 13 Sept 2026
-- SAGE, Berlin — Sat, 12 Sept 2026
-- Bikini Beach, Cologne — Fri, 28 Aug 2026
-- Distillery, Leipzig — Sat, 18 Jul 2026
-- Bevegemse Vijvers, Ghent — Fri, 10 Jul 2026
-- Kater, Berlin — Fri, 3 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
+- fi, Cologne · Fri, 25 Sept 2026
+- Sparta Schwimmclub, Frankfurt · Sun, 13 Sept 2026
+- SAGE, Berlin · Sat, 12 Sept 2026
+- Bikini Beach, Cologne · Fri, 28 Aug 2026
+- Distillery, Leipzig · Sat, 18 Jul 2026
+- Bevegemse Vijvers, Ghent · Fri, 10 Jul 2026
+- Kater, Berlin · Fri, 3 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 
 ## Shares bills with
 

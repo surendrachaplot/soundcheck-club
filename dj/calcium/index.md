@@ -1,8 +1,8 @@
 # Calcium
 
-Calcium is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Q Nightclub, Seattle on Thu, 1 Oct 2026.
+Calcium is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Nightclub, Seattle on Thu, 1 Oct 2026.
 
-Calcium is a bass and club artist based in France, tracked on soundcheck, with 8 sets logged across Austin, Paris, San Francisco/Oakland and Seattle. Often billed alongside Tommy Kid, AG (NYC) and Borne (US). Next up: Q Nightclub, Seattle on Thu 1 Oct.
+Calcium is a bass and club artist based in France, with 8 gigs on soundcheck across Austin, Paris, San Francisco/Oakland and Seattle. Often billed alongside Tommy Kid, AG (NYC) and Borne (US). Next up: Q Nightclub, Seattle on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Calcium is a bass and club artist based in France, tracked on soundcheck, with 8
 
 ## Recently played
 
-- Travis County Exposition Center, Austin — Fri, 30 May 2025
-- Travis County Exposition Center, Austin — Fri, 30 May 2025
-- La Rotonde Stalingrad, Paris — Fri, 2 Feb 2024
-- DNA Lounge, San Francisco/Oakland — Sat, 21 Oct 2023
-- La Rotonde Stalingrad, Paris — Fri, 8 Sept 2023
-- La Station - Gare des Mines, Paris — Fri, 14 Jul 2023
-- La Station - Gare des Mines, Paris — Fri, 24 Feb 2023
+- Travis County Exposition Center, Austin · Fri, 30 May 2025
+- Travis County Exposition Center, Austin · Fri, 30 May 2025
+- La Rotonde Stalingrad, Paris · Fri, 2 Feb 2024
+- DNA Lounge, San Francisco/Oakland · Sat, 21 Oct 2023
+- La Rotonde Stalingrad, Paris · Fri, 8 Sept 2023
+- La Station - Gare des Mines, Paris · Fri, 14 Jul 2023
+- La Station - Gare des Mines, Paris · Fri, 24 Feb 2023
 
 ## Shares bills with
 

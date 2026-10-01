@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 17 Oct, Manchester. 1 artist on the bill: Richy Ahmed. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 17 Oct, Manchester. 1 artist: Richy Ahmed. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

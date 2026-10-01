@@ -1,6 +1,6 @@
 # Let's Groove Anja Schneider/ Joana/ Tba at Slow Club- Other Side of Tama
 
-Let's Groove Anja Schneider/ Joana/ Tba at Slow Club- Other Side of Tama on Sat 24 Oct, Poznan. 2 artists on the bill: Anja Schneider and Joana. Preview the line-up and save it on soundcheck.
+Let's Groove Anja Schneider/ Joana/ Tba at Slow Club- Other Side of Tama on Sat 24 Oct, Poznan. 2 artists: Anja Schneider and Joana. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

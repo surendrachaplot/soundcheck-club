@@ -1,8 +1,8 @@
 # EXIL
 
-EXIL is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HITMILOW ALL NIGHT LONG" on Fri, 9 Oct 2026.
+EXIL is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HITMILOW ALL NIGHT LONG" on Fri, 9 Oct 2026.
 
-EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Fadi Mohem, HiTMiLØW, Kuona and KUSS and 1 more. Browse upcoming dates, start times and who's playing. Hardstrasse 245; 8005, Zürich; Switzerland.
+EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Fadi Mohem, HiTMiLØW, Kuona and KUSS and 1 more. See dates, start times and who's playing. Hardstrasse 245; 8005, Zürich; Switzerland.
 
 ## What's on
 

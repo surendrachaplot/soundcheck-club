@@ -1,6 +1,6 @@
 # Queens of Lovers Rock: Janet Kay & Carroll Thompson at The Fox and Firkin
 
-Queens of Lovers Rock: Janet Kay & Carroll Thompson at The Fox and Firkin on Sat 10 Oct, London. Dub and Pop. Preview the line-up and save it on soundcheck.
+Queens of Lovers Rock: Janet Kay & Carroll Thompson at The Fox and Firkin on Sat 10 Oct, London. Dub and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

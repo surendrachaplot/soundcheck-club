@@ -1,6 +1,6 @@
 # Climax feat. Dj Freshie All NIGHT! 8-Late at Aunt Charlie's Lounge
 
-Climax feat. Dj Freshie All NIGHT! 8-Late at Aunt Charlie's Lounge on Thu 1 Oct, San Francisco/Oakland. 1 artist on the bill: Italo. House and Disco. Preview the line-up and save it on soundcheck.
+Climax feat. Dj Freshie All NIGHT! 8-Late at Aunt Charlie's Lounge on Thu 1 Oct, San Francisco/Oakland. 1 artist: Italo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

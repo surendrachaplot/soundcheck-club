@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CONNECT OCT 2026" on Thu, 1 Oct 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CONNECT OCT 2026" on Thu, 1 Oct 2026.
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 16 upcoming gigs, with line-ups including Alkemiss Erika, Amino, ANCARCO and Andrew (TREKKIE TRAX) and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 16 upcoming gigs, with line-ups including Alkemiss Erika, Amino, ANCARCO and Andrew (TREKKIE TRAX) and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

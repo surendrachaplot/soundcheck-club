@@ -1,6 +1,6 @@
 # GRUB Stretford: Hip hop Chess Club at Grub Stretford
 
-GRUB Stretford: Hip hop Chess Club at Grub Stretford on Sun 18 Oct, Manchester. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Hip hop Chess Club at Grub Stretford on Sun 18 Oct, Manchester. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

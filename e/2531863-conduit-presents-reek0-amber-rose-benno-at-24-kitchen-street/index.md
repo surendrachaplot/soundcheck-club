@@ -1,6 +1,6 @@
 # Conduit presents: Reek0, Amber Rose & Benno at 24 Kitchen Street
 
-Conduit presents: Reek0, Amber Rose & Benno at 24 Kitchen Street on Fri 27 Nov, Liverpool. 2 artists on the bill: Amber Rose and Benno. House and Broken Beat. Preview the line-up and save it on soundcheck.
+Conduit presents: Reek0, Amber Rose & Benno at 24 Kitchen Street on Fri 27 Nov, Liverpool. 2 artists: Amber Rose and Benno. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

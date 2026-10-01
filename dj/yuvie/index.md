@@ -1,8 +1,8 @@
 # YUVIE
 
-YUVIE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
+YUVIE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
 
-YUVIE is a techno and house artist based in Japan, tracked on soundcheck, with 175 sets logged across Osaka, Seoul, Taipei and Tokyo. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: Circus Osaka, Osaka on Sat 3 Oct.
+YUVIE is a techno and house artist based in Japan, with 175 gigs on soundcheck across Osaka, Seoul, Taipei and Tokyo. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: Circus Osaka, Osaka on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ YUVIE is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Circus Osaka, Osaka — Fri, 25 Sept 2026
-- WOMB, Tokyo — Tue, 22 Sept 2026
-- Circus Tokyo, Tokyo — Sat, 19 Sept 2026
-- Enter Shibuya, Tokyo — Sat, 15 Aug 2026
-- Circus Tokyo, Tokyo — Thu, 6 Aug 2026
-- Circus Tokyo, Tokyo — Thu, 30 Jul 2026
-- Blvck Water, Osaka — Sat, 25 Jul 2026
-- Saloon, Tokyo — Fri, 24 Jul 2026
+- Circus Osaka, Osaka · Fri, 25 Sept 2026
+- WOMB, Tokyo · Tue, 22 Sept 2026
+- Circus Tokyo, Tokyo · Sat, 19 Sept 2026
+- Enter Shibuya, Tokyo · Sat, 15 Aug 2026
+- Circus Tokyo, Tokyo · Thu, 6 Aug 2026
+- Circus Tokyo, Tokyo · Thu, 30 Jul 2026
+- Blvck Water, Osaka · Sat, 25 Jul 2026
+- Saloon, Tokyo · Fri, 24 Jul 2026
 
 ## Shares bills with
 

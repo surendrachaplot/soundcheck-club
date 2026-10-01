@@ -1,8 +1,8 @@
 # Beavs
 
-Beavs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Beavs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-Beavs is a house and disco artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol and London. Often billed alongside Lost Track of Time, Milly on Air and SPICYIVY. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+Beavs is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and London. Often billed alongside Lost Track of Time, Milly on Air and SPICYIVY. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Beavs is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Colour Factory, London — Sun, 30 Aug 2026
-- Sawmills, Bristol — Sat, 27 Jun 2026
-- The Jago, London — Sat, 13 Jun 2026
-- The Love Inn, Bristol — Sat, 6 Jun 2026
-- Document, Bristol — Sat, 30 May 2026
-- Sawmills, Bristol — Sat, 16 May 2026
-- The Jam Jar, Bristol — Thu, 14 May 2026
-- The Christmas Steps, Bristol — Sat, 2 May 2026
+- Colour Factory, London · Sun, 30 Aug 2026
+- Sawmills, Bristol · Sat, 27 Jun 2026
+- The Jago, London · Sat, 13 Jun 2026
+- The Love Inn, Bristol · Sat, 6 Jun 2026
+- Document, Bristol · Sat, 30 May 2026
+- Sawmills, Bristol · Sat, 16 May 2026
+- The Jam Jar, Bristol · Thu, 14 May 2026
+- The Christmas Steps, Bristol · Sat, 2 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Reisender
 
-Reisender is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
+Reisender is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
 
-Reisender is a techno and experimental artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid and Malaga. Often billed alongside Noctive, Spingel and VNSTY. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
+Reisender is a techno and experimental artist based in Spain, with 11 gigs on soundcheck across Madrid and Malaga. Often billed alongside Noctive, Spingel and VNSTY. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Reisender is a techno and experimental artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- Doggy Klœb, Malaga — Thu, 10 Sept 2026
-- Doggy Klœb, Malaga — Fri, 24 Jul 2026
-- Hangar48 Club, Madrid — Fri, 26 Jun 2026
-- Doggy Klœb, Malaga — Sat, 9 May 2026
-- Hangar48 Club, Madrid — Sat, 11 Apr 2026
-- Doggy Klœb, Malaga — Sat, 21 Mar 2026
-- Doggy Klœb, Malaga — Fri, 9 Jan 2026
-- Doggy Klœb, Malaga — Sun, 7 Dec 2025
+- Doggy Klœb, Malaga · Thu, 10 Sept 2026
+- Doggy Klœb, Malaga · Fri, 24 Jul 2026
+- Hangar48 Club, Madrid · Fri, 26 Jun 2026
+- Doggy Klœb, Malaga · Sat, 9 May 2026
+- Hangar48 Club, Madrid · Sat, 11 Apr 2026
+- Doggy Klœb, Malaga · Sat, 21 Mar 2026
+- Doggy Klœb, Malaga · Fri, 9 Jan 2026
+- Doggy Klœb, Malaga · Sun, 7 Dec 2025
 
 ## Shares bills with
 

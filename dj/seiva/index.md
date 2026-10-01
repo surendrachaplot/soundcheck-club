@@ -1,8 +1,8 @@
 # seiva
 
-seiva is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+seiva is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-seiva is a breakbeat and bass artist tracked on soundcheck, with 32 sets logged across Berlin, Central, Lisbon and London and 2 more. Often billed alongside Circa Papi, Fogou and C0linas. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+seiva is a breakbeat and bass artist, with 32 gigs on soundcheck across Berlin, Central, Lisbon and London and 2 more. Often billed alongside Circa Papi, Fogou and C0linas. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ seiva is a breakbeat and bass artist tracked on soundcheck, with 32 sets logged 
 
 ## Recently played
 
-- Outra Cena, Lisbon — Sat, 18 Apr 2026
-- Outra Cena, Lisbon — Fri, 21 Nov 2025
-- Space Talk, London — Wed, 12 Nov 2025
-- Bunker, Turin — Sat, 1 Nov 2025
-- Gare Porto, Porto — Fri, 12 Sept 2025
-- Outra Cena, Lisbon — Fri, 8 Aug 2025
-- Outra Cena, Lisbon — Fri, 4 Apr 2025
-- Outra Cena, Lisbon — Sat, 22 Mar 2025
+- Outra Cena, Lisbon · Sat, 18 Apr 2026
+- Outra Cena, Lisbon · Fri, 21 Nov 2025
+- Space Talk, London · Wed, 12 Nov 2025
+- Bunker, Turin · Sat, 1 Nov 2025
+- Gare Porto, Porto · Fri, 12 Sept 2025
+- Outra Cena, Lisbon · Fri, 8 Aug 2025
+- Outra Cena, Lisbon · Fri, 4 Apr 2025
+- Outra Cena, Lisbon · Sat, 22 Mar 2025
 
 ## Shares bills with
 

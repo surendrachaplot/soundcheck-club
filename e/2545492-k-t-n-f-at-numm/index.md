@@ -1,6 +1,6 @@
 # K.T.N.F at Numm
 
-K.T.N.F at Numm on Sat 3 Oct, Tokyo. 2 artists on the bill: Kitano and U-T. Techno and House. Preview the line-up and save it on soundcheck.
+K.T.N.F at Numm on Sat 3 Oct, Tokyo. 2 artists: Kitano and U-T. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

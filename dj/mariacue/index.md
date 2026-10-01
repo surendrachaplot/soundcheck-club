@@ -1,8 +1,8 @@
 # Maria Cue
 
-Maria Cue is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Fri, 27 Nov 2026.
+Maria Cue is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Fri, 27 Nov 2026.
 
-Maria Cue is a techno and dub techno artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Serti. Next up: RADION, Amsterdam on Fri 27 Nov.
+Maria Cue is a techno and dub techno artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Serti. Next up: RADION, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Maria Cue is a techno and dub techno artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- CLUB RAUM, Amsterdam — Sat, 26 Sept 2026
-- De Fik Garden, Amsterdam — Sat, 19 Sept 2026
-- TILLATEC, Amsterdam — Fri, 18 Sept 2026
-- Café Katoen, Amsterdam — Thu, 17 Sept 2026
-- De Fik Garden, Amsterdam — Sat, 25 Jul 2026
-- Switch Bar, Barcelona — Sat, 18 Jul 2026
-- PIP Den Haag, The Hague — Sat, 4 Jul 2026
-- Ministerium Club, Lisbon — Fri, 12 Jun 2026
+- CLUB RAUM, Amsterdam · Sat, 26 Sept 2026
+- De Fik Garden, Amsterdam · Sat, 19 Sept 2026
+- TILLATEC, Amsterdam · Fri, 18 Sept 2026
+- Café Katoen, Amsterdam · Thu, 17 Sept 2026
+- De Fik Garden, Amsterdam · Sat, 25 Jul 2026
+- Switch Bar, Barcelona · Sat, 18 Jul 2026
+- PIP Den Haag, The Hague · Sat, 4 Jul 2026
+- Ministerium Club, Lisbon · Fri, 12 Jun 2026
 
 ## Shares bills with
 

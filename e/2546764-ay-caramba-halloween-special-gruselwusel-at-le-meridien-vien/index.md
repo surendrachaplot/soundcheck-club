@@ -1,6 +1,6 @@
 # Ay Caramba! Halloween Special Gruselwusel at Le Meridien Vienna
 
-Ay Caramba! Halloween Special Gruselwusel at Le Meridien Vienna on Sat 24 Oct, Vienna. Pop and Ballroom. Preview the line-up and save it on soundcheck.
+Ay Caramba! Halloween Special Gruselwusel at Le Meridien Vienna on Sat 24 Oct, Vienna. Pop and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

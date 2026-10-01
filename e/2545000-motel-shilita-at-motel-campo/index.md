@@ -1,6 +1,6 @@
 # Motel ✰ Shilita at Motel Campo
 
-Motel ✰ Shilita at Motel Campo on Sat 10 Oct, Geneva. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Motel ✰ Shilita at Motel Campo on Sat 10 Oct, Geneva. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

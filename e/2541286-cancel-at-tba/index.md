@@ -1,6 +1,6 @@
 # Cancel at TBA
 
-Cancel at TBA on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Cancel at TBA on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

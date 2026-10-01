@@ -1,6 +1,6 @@
 # Manoeuve East London Intimate Day Party at Upper East
 
-Manoeuve East London Intimate Day Party at Upper East on Sat 21 Nov, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Manoeuve East London Intimate Day Party at Upper East on Sat 21 Nov, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

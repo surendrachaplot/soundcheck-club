@@ -1,6 +1,6 @@
 # FRIDAY NIGHT at Lula Club
 
-FRIDAY NIGHT at Lula Club on Fri 23 Oct, Madrid. Preview the line-up and save it on soundcheck.
+FRIDAY NIGHT at Lula Club on Fri 23 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

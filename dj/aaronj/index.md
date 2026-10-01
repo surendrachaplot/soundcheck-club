@@ -1,8 +1,8 @@
 # Aaron J
 
-Aaron J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 7 Nov 2026.
+Aaron J is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
-Aaron J is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: FOLD, London on Sat 7 Nov.
+Aaron J is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: FOLD, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Aaron J is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
-- RADION, Amsterdam — Sun, 2 Aug 2026
-- Nowadays, New York City — Sat, 25 Jul 2026
-- TBA - Toledo, Madrid — Fri, 29 May 2026
-- TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
-- TBA - Multiple SF Venues, San Francisco/Oakland — Thu, 14 May 2026
-- TBA, Los Angeles — Sat, 9 May 2026
-- Circolo Amelia, Milan — Sat, 4 Apr 2026
-- vurt., Seoul — Fri, 27 Mar 2026
+- RADION, Amsterdam · Sun, 2 Aug 2026
+- Nowadays, New York City · Sat, 25 Jul 2026
+- TBA - Toledo, Madrid · Fri, 29 May 2026
+- TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp · Wed, 20 May 2026
+- TBA - Multiple SF Venues, San Francisco/Oakland · Thu, 14 May 2026
+- TBA, Los Angeles · Sat, 9 May 2026
+- Circolo Amelia, Milan · Sat, 4 Apr 2026
+- vurt., Seoul · Fri, 27 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # LIBERATION TECHNOLOGY at Moondog Cafe
 
-LIBERATION TECHNOLOGY at Moondog Cafe on Sat 3 Oct, Detroit. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+LIBERATION TECHNOLOGY at Moondog Cafe on Sat 3 Oct, Detroit. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

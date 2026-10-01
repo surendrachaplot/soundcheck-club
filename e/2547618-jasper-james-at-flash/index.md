@@ -1,6 +1,6 @@
 # Jasper James at Flash
 
-Jasper James at Flash on Sat 14 Nov, Washington DC. 1 artist on the bill: Jasper James. Techno and House. Preview the line-up and save it on soundcheck.
+Jasper James at Flash on Sat 14 Nov, Washington DC. 1 artist: Jasper James. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

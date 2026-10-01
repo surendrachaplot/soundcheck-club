@@ -1,6 +1,6 @@
 # A 444 bemutatja: Közért Premier x Sajtódiszkó a Toldiban (utána cicciolina.jpeg és wobe) at Toldi Klub
 
-A 444 bemutatja: Közért Premier x Sajtódiszkó a Toldiban (utána cicciolina.jpeg és wobe) at Toldi Klub on Fri 16 Oct, Budapest. Pop. Preview the line-up and save it on soundcheck.
+A 444 bemutatja: Közért Premier x Sajtódiszkó a Toldiban (utána cicciolina.jpeg és wobe) at Toldi Klub on Fri 16 Oct, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

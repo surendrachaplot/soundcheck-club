@@ -1,6 +1,6 @@
 # CLASH at AMT
 
-CLASH at AMT on Fri 16 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+CLASH at AMT on Fri 16 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

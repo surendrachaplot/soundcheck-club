@@ -1,8 +1,8 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TESTBED, Leeds on Sat, 3 Oct 2026.
+Annie Mac is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TESTBED, Leeds on Sat, 3 Oct 2026.
 
-Annie Mac is a house and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Belfast, Cardiff, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Gina Breeze and Honey Dijon. Next up: TESTBED, Leeds on Sat 3 Oct.
+Annie Mac is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Belfast, Cardiff, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Gina Breeze and Honey Dijon. Next up: TESTBED, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Annie Mac is a house and techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- NX Newcastle, Newcastle — Fri, 18 Sept 2026
-- Gunnersbury Park, London — Fri, 11 Sept 2026
-- 528 Ibiza, Ibiza — Thu, 16 Jul 2026
-- 528 Ibiza, Ibiza — Thu, 9 Jul 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- Gunnersbury Park, London — Fri, 12 Sept 2025
-- The Warehouse Project, Manchester — Sat, 6 Sept 2025
-- Various Venues, London — Thu, 20 Mar 2025
+- NX Newcastle, Newcastle · Fri, 18 Sept 2026
+- Gunnersbury Park, London · Fri, 11 Sept 2026
+- 528 Ibiza, Ibiza · Thu, 16 Jul 2026
+- 528 Ibiza, Ibiza · Thu, 9 Jul 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- Gunnersbury Park, London · Fri, 12 Sept 2025
+- The Warehouse Project, Manchester · Sat, 6 Sept 2025
+- Various Venues, London · Thu, 20 Mar 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Manic.Monday with maniac&me & Freunde at Minimal Bar
 
-Manic.Monday with maniac&me & Freunde at Minimal Bar on Mon 21 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Manic.Monday with maniac&me & Freunde at Minimal Bar on Mon 21 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

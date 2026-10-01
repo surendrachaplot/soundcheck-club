@@ -1,6 +1,6 @@
 # TASHA at Headrow House
 
-TASHA at Headrow House on Tue 27 Oct, Leeds. Preview the line-up and save it on soundcheck.
+TASHA at Headrow House on Tue 27 Oct, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

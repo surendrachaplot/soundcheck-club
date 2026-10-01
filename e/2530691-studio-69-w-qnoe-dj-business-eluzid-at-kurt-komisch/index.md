@@ -1,6 +1,6 @@
 # STUDIO 69 w/ Qnoe, DJ BUSINESS, Eluzid at Kurt & Komisch
 
-STUDIO 69 w/ Qnoe, DJ BUSINESS, Eluzid at Kurt & Komisch on Fri 6 Nov, Bavaria. 3 artists on the bill: DJ Business, Eluzid and Qnoe. Preview the line-up and save it on soundcheck.
+STUDIO 69 w/ Qnoe, DJ BUSINESS, Eluzid at Kurt & Komisch on Fri 6 Nov, Bavaria. 3 artists: DJ Business, Eluzid and Qnoe. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

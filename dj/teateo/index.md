@@ -1,8 +1,8 @@
 # Teateo
 
-Teateo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
+Teateo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
-Teateo is a techno and industrial artist based in Argentina, tracked on soundcheck, with 6 sets logged across Buenos Aires. Often billed alongside Bondarük, Invertida and Kessler (AR). Next up: Dune Park, Buenos Aires on Sun 11 Oct.
+Teateo is a techno and industrial artist based in Argentina, with 6 gigs on soundcheck across Buenos Aires. Often billed alongside Bondarük, Invertida and Kessler (AR). Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Teateo is a techno and industrial artist based in Argentina, tracked on soundche
 
 ## Recently played
 
-- Melt Underground, Buenos Aires — Sat, 22 Feb 2025
-- TBA, Buenos Aires — Thu, 13 Feb 2025
-- Wax Club, Buenos Aires — Fri, 20 Sept 2024
-- RO, Buenos Aires — Fri, 5 Jul 2024
-- RO, Buenos Aires — Sun, 20 Aug 2023
+- Melt Underground, Buenos Aires · Sat, 22 Feb 2025
+- TBA, Buenos Aires · Thu, 13 Feb 2025
+- Wax Club, Buenos Aires · Fri, 20 Sept 2024
+- RO, Buenos Aires · Fri, 5 Jul 2024
+- RO, Buenos Aires · Sun, 20 Aug 2023
 
 ## Shares bills with
 

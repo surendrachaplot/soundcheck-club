@@ -1,6 +1,6 @@
 # THE SATURDAY STUDENT FRESHERS RAVE at Egg London
 
-THE SATURDAY STUDENT FRESHERS RAVE at Egg London on Sat 3 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+THE SATURDAY STUDENT FRESHERS RAVE at Egg London on Sat 3 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Claptone - HAFLE EVENTS at Mi Pueblito Afroantillano
 
-Claptone - HAFLE EVENTS at Mi Pueblito Afroantillano on Fri 9 Oct, Panama. 1 artist on the bill: Claptone. Preview the line-up and save it on soundcheck.
+Claptone - HAFLE EVENTS at Mi Pueblito Afroantillano on Fri 9 Oct, Panama. 1 artist: Claptone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kyrxmi
 
-Kyrxmi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at High Tide, Los Angeles on Sat, 10 Oct 2026.
+Kyrxmi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at High Tide, Los Angeles on Sat, 10 Oct 2026.
 
-Kyrxmi is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam and Los Angeles. Often billed alongside Karlim, Albina Van and Aztekan. Next up: High Tide, Los Angeles on Sat 10 Oct.
+Kyrxmi is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam and Los Angeles. Often billed alongside Karlim, Albina Van and Aztekan. Next up: High Tide, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kyrxmi is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
-- TBA - DTLA, Los Angeles — Sat, 18 Jul 2026
-- John Doe, Amsterdam — Wed, 11 Feb 2026
-- TBA - Inland Empire (45min from LA), Los Angeles — Fri, 31 Oct 2025
-- TBA - Los Angeles, Los Angeles — Sat, 12 Jul 2025
-- TBA - DTLA, Los Angeles — Fri, 23 May 2025
-- TBA - San Bernardino, Los Angeles — Sat, 29 Mar 2025
-- TBA - DTLA, Los Angeles — Fri, 7 Mar 2025
-- TBA, Los Angeles — Fri, 21 Feb 2025
+- TBA - DTLA, Los Angeles · Sat, 18 Jul 2026
+- John Doe, Amsterdam · Wed, 11 Feb 2026
+- TBA - Inland Empire (45min from LA), Los Angeles · Fri, 31 Oct 2025
+- TBA - Los Angeles, Los Angeles · Sat, 12 Jul 2025
+- TBA - DTLA, Los Angeles · Fri, 23 May 2025
+- TBA - San Bernardino, Los Angeles · Sat, 29 Mar 2025
+- TBA - DTLA, Los Angeles · Fri, 7 Mar 2025
+- TBA, Los Angeles · Fri, 21 Feb 2025
 
 ## Shares bills with
 

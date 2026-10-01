@@ -1,6 +1,6 @@
 # Tricky at The Sinclair
 
-Tricky at The Sinclair on Mon 12 Oct, Boston. Downtempo. Preview the line-up and save it on soundcheck.
+Tricky at The Sinclair on Mon 12 Oct, Boston. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

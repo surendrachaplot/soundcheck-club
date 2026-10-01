@@ -1,8 +1,8 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ EZ" on Fri, 2 Oct 2026.
+NX Newcastle is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ EZ" on Fri, 2 Oct 2026.
 
-NX Newcastle is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Arthi, Azyr, Bella Claxton and Ben Prophet and 2 more. Browse upcoming dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
+NX Newcastle is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Arthi, Azyr, Bella Claxton and Ben Prophet and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
 ## What's on
 

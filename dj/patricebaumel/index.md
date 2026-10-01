@@ -1,8 +1,8 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and Progressive House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
+Patrice Bäumel is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Patrice Bäumel is a techno and progressive house artist based in Germany, tracked on soundcheck, with 156 sets logged across Adelaide, Amsterdam, Antwerp and Barcelona and 42 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
+Patrice Bäumel is a techno and progressive house artist based in Germany, with 156 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 42 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Patrice Bäumel is a techno and progressive house artist based in Germany, track
 
 ## Recently played
 
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Fri, 18 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 28 Aug 2026
-- public records, New York City — Sun, 26 Jul 2026
-- Flash, Washington DC — Fri, 24 Jul 2026
-- Stereo, Montreal — Sat, 18 Jul 2026
-- Ozmozis, Toronto — Fri, 17 Jul 2026
-- Woodstock'69, Amsterdam — Sat, 11 Jul 2026
-- Kater, Berlin — Fri, 3 Jul 2026
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Fri, 18 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 28 Aug 2026
+- public records, New York City · Sun, 26 Jul 2026
+- Flash, Washington DC · Fri, 24 Jul 2026
+- Stereo, Montreal · Sat, 18 Jul 2026
+- Ozmozis, Toronto · Fri, 17 Jul 2026
+- Woodstock'69, Amsterdam · Sat, 11 Jul 2026
+- Kater, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loft, Manchester on Fri, 9 Oct 2026.
+Fastlove is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
 
-Fastlove is a house and techno artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Angel D'lite. Next up: The Loft, Manchester on Fri 9 Oct.
+Fastlove is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Angel D'lite. Next up: The Loft, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Fastlove is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Algha's Plantroom, London — Sat, 19 Sept 2026
-- The White Hotel, Manchester — Sat, 29 Aug 2026
-- The DBA, Manchester — Sat, 8 Aug 2026
-- TILLATEC, Amsterdam — Fri, 17 Jul 2026
-- TBA - Metro's Sports and Social Club, Moss Rd., Stretford, M32 0AH, Manchester — Sat, 4 Jul 2026
-- The DBA, Manchester — Sat, 27 Jun 2026
-- The White Hotel, Manchester — Sat, 20 Jun 2026
-- Stage and Radio, Manchester — Tue, 9 Jun 2026
+- Algha's Plantroom, London · Sat, 19 Sept 2026
+- The White Hotel, Manchester · Sat, 29 Aug 2026
+- The DBA, Manchester · Sat, 8 Aug 2026
+- TILLATEC, Amsterdam · Fri, 17 Jul 2026
+- TBA - Metro's Sports and Social Club, Moss Rd., Stretford, M32 0AH, Manchester · Sat, 4 Jul 2026
+- The DBA, Manchester · Sat, 27 Jun 2026
+- The White Hotel, Manchester · Sat, 20 Jun 2026
+- Stage and Radio, Manchester · Tue, 9 Jun 2026
 
 ## Shares bills with
 

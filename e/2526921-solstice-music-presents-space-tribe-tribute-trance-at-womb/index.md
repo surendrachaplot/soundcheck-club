@@ -1,6 +1,6 @@
 # SOLSTICE MUSIC PRESENTS: SPACE TRIBE TRIBUTE (TRANCE) at WOMB
 
-SOLSTICE MUSIC PRESENTS: SPACE TRIBE TRIBUTE (TRANCE) at WOMB on Sun 11 Oct, Tokyo. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+SOLSTICE MUSIC PRESENTS: SPACE TRIBE TRIBUTE (TRANCE) at WOMB on Sun 11 Oct, Tokyo. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLUB SAUNA at Second Story Studios
 
-CLUB SAUNA at Second Story Studios on Fri 13 Nov, Melbourne. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+CLUB SAUNA at Second Story Studios on Fri 13 Nov, Melbourne. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

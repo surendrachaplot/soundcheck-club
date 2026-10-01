@@ -1,8 +1,8 @@
 # IKLECTIK
 
-IKLECTIK is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "XP+10" on Sat, 10 Oct 2026.
+IKLECTIK is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "XP+10" on Sat, 10 Oct 2026.
 
-IKLECTIK is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including ĀNJÍ, SWARMM, Voldy Moyo and Wounder. Browse upcoming dates, start times and who's playing. Peckham Levels - 95a Rye Ln, London SE15 4ST.
+IKLECTIK is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including ĀNJÍ, SWARMM, Voldy Moyo and Wounder. See dates, start times and who's playing. Peckham Levels - 95a Rye Ln, London SE15 4ST.
 
 ## What's on
 

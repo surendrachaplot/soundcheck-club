@@ -1,8 +1,8 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG" on Thu, 1 Oct 2026.
+33/45 Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG" on Thu, 1 Oct 2026.
 
-33/45 Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including buuo, CIKTRIZ, H-R-Z and Hexxe and 2 more. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
+33/45 Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including buuo, CIKTRIZ, H-R-Z and Hexxe and 2 more. See dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
 ## What's on
 

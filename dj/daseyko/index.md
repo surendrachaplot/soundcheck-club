@@ -1,8 +1,8 @@
 # DA SEYKO
 
-DA SEYKO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+DA SEYKO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
-DA SEYKO is a techno and house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Utrecht. Often billed alongside TheKoosy, AELVA K and Alex Micca. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
+DA SEYKO is a techno and house artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside TheKoosy, AELVA K and Alex Micca. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ DA SEYKO is a techno and house artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- Bijbroere, Utrecht — Sat, 1 Nov 2025
-- Lagerwal, Amsterdam — Sat, 29 Mar 2025
-- Recycle Lounge Gallery Club, Amsterdam — Fri, 3 May 2024
-- TBA - DHC Lijnden, Amsterdam — Sat, 9 Sept 2023
-- TBA - DHC Lijnden, Amsterdam — Sat, 5 Aug 2023
+- Bijbroere, Utrecht · Sat, 1 Nov 2025
+- Lagerwal, Amsterdam · Sat, 29 Mar 2025
+- Recycle Lounge Gallery Club, Amsterdam · Fri, 3 May 2024
+- TBA - DHC Lijnden, Amsterdam · Sat, 9 Sept 2023
+- TBA - DHC Lijnden, Amsterdam · Sat, 5 Aug 2023
 
 ## Shares bills with
 

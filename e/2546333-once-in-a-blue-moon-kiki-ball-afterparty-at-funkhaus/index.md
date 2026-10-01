@@ -1,6 +1,6 @@
 # Once in a Blue Moon, Kiki ball + Afterparty at Funkhaus
 
-Once in a Blue Moon, Kiki ball + Afterparty at Funkhaus on Sat 14 Nov, Vienna. House and Ballroom. Preview the line-up and save it on soundcheck.
+Once in a Blue Moon, Kiki ball + Afterparty at Funkhaus on Sat 14 Nov, Vienna. House and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFROBEATS X AFRO CARIBBEAN SATURDAY LINK UP at Lakota
 
-AFROBEATS X AFRO CARIBBEAN SATURDAY LINK UP at Lakota on Sat 3 Oct, Bristol. Dancehall and Afrobeats. Preview the line-up and save it on soundcheck.
+AFROBEATS X AFRO CARIBBEAN SATURDAY LINK UP at Lakota on Sat 3 Oct, Bristol. Dancehall and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

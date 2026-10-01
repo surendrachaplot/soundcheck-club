@@ -1,6 +1,6 @@
 # GN does a party with Nyege Nyege & Trackwork at Garage Noord
 
-GN does a party with Nyege Nyege & Trackwork at Garage Noord on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+GN does a party with Nyege Nyege & Trackwork at Garage Noord on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

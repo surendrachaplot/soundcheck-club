@@ -1,8 +1,8 @@
 # FAUST (1)
 
-FAUST (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nether Club, Bucharest on Fri, 23 Oct 2026.
+FAUST (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
 
-FAUST is a techno and trance artist based in Romania, tracked on soundcheck, with 43 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Nether Club, Bucharest on Fri 23 Oct.
+FAUST is a techno and trance artist based in Romania, with 43 gigs on soundcheck across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Nether Club, Bucharest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ FAUST is a techno and trance artist based in Romania, tracked on soundcheck, wit
 
 ## Recently played
 
-- Eiger Studios, Leeds — Sat, 19 Sept 2026
-- Sensorium, Berlin — Wed, 16 Sept 2026
-- KitKatClub, Berlin — Fri, 11 Sept 2026
-- Nether Club, Bucharest — Sat, 5 Sept 2026
-- Nether Club, Bucharest — Sat, 8 Aug 2026
-- Nether Club, Bucharest — Fri, 31 Jul 2026
-- Forge, Bucharest — Sat, 11 Jul 2026
-- TBA - Secret Location (drops event day), Bucharest — Fri, 10 Jul 2026
+- Eiger Studios, Leeds · Sat, 19 Sept 2026
+- Sensorium, Berlin · Wed, 16 Sept 2026
+- KitKatClub, Berlin · Fri, 11 Sept 2026
+- Nether Club, Bucharest · Sat, 5 Sept 2026
+- Nether Club, Bucharest · Sat, 8 Aug 2026
+- Nether Club, Bucharest · Fri, 31 Jul 2026
+- Forge, Bucharest · Sat, 11 Jul 2026
+- TBA - Secret Location (drops event day), Bucharest · Fri, 10 Jul 2026
 
 ## Shares bills with
 

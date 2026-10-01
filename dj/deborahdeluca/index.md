@@ -1,8 +1,8 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 9 Oct 2026.
+Deborah De Luca is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 9 Oct 2026.
 
-Deborah De Luca is a techno and house artist based in Italy, tracked on soundcheck, with 155 sets logged across Antwerp, Athens, Augsburg and Austin and 48 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 9 Oct.
+Deborah De Luca is a techno and house artist based in Italy, with 155 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 48 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Deborah De Luca is a techno and house artist based in Italy, tracked on soundche
 
 ## Recently played
 
-- Hafen 49, Mannheim — Sat, 26 Sept 2026
-- Epic Prague, Prague — Fri, 25 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
-- fabric, London — Fri, 18 Sept 2026
-- Cavo Paradiso, Mykonos — Sat, 29 Aug 2026
-- Kaufleuten, Zurich — Fri, 28 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
+- Hafen 49, Mannheim · Sat, 26 Sept 2026
+- Epic Prague, Prague · Fri, 25 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
+- fabric, London · Fri, 18 Sept 2026
+- Cavo Paradiso, Mykonos · Sat, 29 Aug 2026
+- Kaufleuten, Zurich · Fri, 28 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 
 ## Shares bills with
 

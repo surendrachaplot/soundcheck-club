@@ -1,6 +1,6 @@
 # Throwback - Back to 80s, 90s & 00s - Amsterdam at Het Sieraad
 
-Throwback - Back to 80s, 90s & 00s - Amsterdam at Het Sieraad on Sat 17 Oct, Amsterdam. Disco and Pop. Preview the line-up and save it on soundcheck.
+Throwback - Back to 80s, 90s & 00s - Amsterdam at Het Sieraad on Sat 17 Oct, Amsterdam. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

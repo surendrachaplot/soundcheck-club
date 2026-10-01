@@ -1,6 +1,6 @@
 # ⟣ REST⟢ at Fonderie / Usine Kugler
 
-⟣ REST⟢ at Fonderie / Usine Kugler on Sat 10 Oct, Geneva. Bass and Experimental. Preview the line-up and save it on soundcheck.
+⟣ REST⟢ at Fonderie / Usine Kugler on Sat 10 Oct, Geneva. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rickey Shannon, YUKI, HART♡CATCH & VINCENT FAVARD at DJ Bar Bridge
 
-Rickey Shannon, YUKI, HART♡CATCH & VINCENT FAVARD at DJ Bar Bridge on Sat 31 Oct, Tokyo. 2 artists on the bill: Rickey Shannon and YUKI (JP). House. Preview the line-up and save it on soundcheck.
+Rickey Shannon, YUKI, HART♡CATCH & VINCENT FAVARD at DJ Bar Bridge on Sat 31 Oct, Tokyo. 2 artists: Rickey Shannon and YUKI (JP). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

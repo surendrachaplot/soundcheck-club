@@ -1,6 +1,6 @@
 # Noctive + Cebrian + Angel Burgos at Doggy Klœb
 
-Noctive + Cebrian + Angel Burgos at Doggy Klœb on Sat 24 Oct, Malaga. 1 artist on the bill: Noctive. Techno. Preview the line-up and save it on soundcheck.
+Noctive + Cebrian + Angel Burgos at Doggy Klœb on Sat 24 Oct, Malaga. 1 artist: Noctive. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

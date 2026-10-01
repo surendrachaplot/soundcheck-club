@@ -1,6 +1,6 @@
 # Slay (DBA Halloween) at The DBA
 
-Slay (DBA Halloween) at The DBA on Sat 31 Oct, Manchester. Techno and House. Preview the line-up and save it on soundcheck.
+Slay (DBA Halloween) at The DBA on Sat 31 Oct, Manchester. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ endorphin
 
-DJ endorphin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at or, Tokyo on Sun, 4 Oct 2026.
+DJ endorphin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at or, Tokyo on Sun, 4 Oct 2026.
 
-DJ endorphin is a techno and house artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside uuu7, AKIRAM EN and Shogo Ito. Next up: or, Tokyo on Sun 4 Oct.
+DJ endorphin is a techno and house artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside uuu7, AKIRAM EN and Shogo Ito. Next up: or, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ endorphin is a techno and house artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- Z Maruyama, Tokyo — Fri, 7 Aug 2026
-- R Lounge, Tokyo — Sat, 25 Jul 2026
-- Z Maruyama, Tokyo — Sat, 20 Jun 2026
-- Z Maruyama, Tokyo — Sat, 21 Mar 2026
-- WOMB, Tokyo — Thu, 30 Oct 2025
-- Daikanyama ORD., Tokyo — Sun, 5 Oct 2025
-- MEIMEI, Tokyo — Fri, 8 Aug 2025
-- Music Cafe Bar One's, Tokyo — Sat, 26 Jul 2025
+- Z Maruyama, Tokyo · Fri, 7 Aug 2026
+- R Lounge, Tokyo · Sat, 25 Jul 2026
+- Z Maruyama, Tokyo · Sat, 20 Jun 2026
+- Z Maruyama, Tokyo · Sat, 21 Mar 2026
+- WOMB, Tokyo · Thu, 30 Oct 2025
+- Daikanyama ORD., Tokyo · Sun, 5 Oct 2025
+- MEIMEI, Tokyo · Fri, 8 Aug 2025
+- Music Cafe Bar One's, Tokyo · Sat, 26 Jul 2025
 
 ## Shares bills with
 

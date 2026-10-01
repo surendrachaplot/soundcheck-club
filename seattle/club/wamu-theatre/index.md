@@ -1,8 +1,8 @@
 # Wamu Theatre
 
-Wamu Theatre is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Boo Halloween Seattle" on Fri, 30 Oct 2026.
+Wamu Theatre is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Boo Halloween Seattle" on Fri, 30 Oct 2026.
 
-Wamu Theatre is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including A Little Sound, Azyr, Casey Club and Champion and 2 more. Browse upcoming dates, start times and who's playing. 800 Occidental Ave S, Seattle, WA.
+Wamu Theatre is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including A Little Sound, Azyr, Casey Club and Champion and 2 more. See dates, start times and who's playing. 800 Occidental Ave S, Seattle, WA.
 
 ## What's on
 

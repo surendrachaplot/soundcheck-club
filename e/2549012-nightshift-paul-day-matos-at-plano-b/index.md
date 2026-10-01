@@ -1,6 +1,6 @@
 # NIGHTSHIFT - Paul Day + Matos at Plano B
 
-NIGHTSHIFT - Paul Day + Matos at Plano B on Thu 29 Oct, Porto. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT - Paul Day + Matos at Plano B on Thu 29 Oct, Porto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

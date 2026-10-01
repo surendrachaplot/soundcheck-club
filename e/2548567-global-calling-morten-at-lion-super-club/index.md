@@ -1,6 +1,6 @@
 # GLOBAL CALLING: Morten at Lion Super Club
 
-GLOBAL CALLING: Morten at Lion Super Club on Fri 16 Oct, Seoul. 1 artist on the bill: Morten. Preview the line-up and save it on soundcheck.
+GLOBAL CALLING: Morten at Lion Super Club on Fri 16 Oct, Seoul. 1 artist: Morten. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

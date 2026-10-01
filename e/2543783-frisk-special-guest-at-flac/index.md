@@ -1,6 +1,6 @@
 # FRISK: Special Guest at Flac
 
-FRISK: Special Guest at Flac on Sat 24 Oct, Seoul. Tech House. Preview the line-up and save it on soundcheck.
+FRISK: Special Guest at Flac on Sat 24 Oct, Seoul. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

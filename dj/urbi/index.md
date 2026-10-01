@@ -1,8 +1,8 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
+Urbi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amber's, Manchester on Sat, 3 Oct 2026.
 
-Urbi is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: Amber's, Manchester on Sat 3 Oct.
+Urbi is a house and deep house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: Amber's, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Urbi is a house and deep house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- renae, Manchester — Fri, 18 Sept 2026
-- renae, Manchester — Fri, 7 Aug 2026
-- Hidden, Manchester — Fri, 17 Jul 2026
-- Soup, Manchester — Sat, 4 Jul 2026
-- PROGRESS, Manchester — Sat, 2 May 2026
-- The White Hotel, Manchester — Fri, 10 Apr 2026
-- Yes, Manchester — Sat, 7 Mar 2026
-- Blackstone Street Warehouse, Liverpool — Sat, 28 Feb 2026
+- renae, Manchester · Fri, 18 Sept 2026
+- renae, Manchester · Fri, 7 Aug 2026
+- Hidden, Manchester · Fri, 17 Jul 2026
+- Soup, Manchester · Sat, 4 Jul 2026
+- PROGRESS, Manchester · Sat, 2 May 2026
+- The White Hotel, Manchester · Fri, 10 Apr 2026
+- Yes, Manchester · Sat, 7 Mar 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 28 Feb 2026
 
 ## Shares bills with
 

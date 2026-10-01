@@ -1,8 +1,8 @@
 # Gabriele Russo
 
-Gabriele Russo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Basic Club, Naples on Fri, 16 Oct 2026.
+Gabriele Russo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Basic Club, Naples on Fri, 16 Oct 2026.
 
-Gabriele Russo is a house and tech house artist based in Italy, tracked on soundcheck, with 32 sets logged across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: Basic Club, Naples on Fri 16 Oct.
+Gabriele Russo is a house and tech house artist based in Italy, with 32 gigs on soundcheck across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: Basic Club, Naples on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gabriele Russo is a house and tech house artist based in Italy, tracked on sound
 
 ## Recently played
 
-- Rumore Nightclub Capri, Naples — Sat, 5 Sept 2026
-- Calatheabeachclub, Naples — Sat, 29 Aug 2026
-- REC Napoli, Naples — Sat, 9 May 2026
-- REC Napoli, Naples — Fri, 24 Apr 2026
-- Umoya, Naples — Sun, 19 Apr 2026
-- REC Napoli, Naples — Sat, 7 Mar 2026
-- Discoteca Paradiso, Naples — Sat, 21 Feb 2026
-- Basic Club, Naples — Sat, 22 Nov 2025
+- Rumore Nightclub Capri, Naples · Sat, 5 Sept 2026
+- Calatheabeachclub, Naples · Sat, 29 Aug 2026
+- REC Napoli, Naples · Sat, 9 May 2026
+- REC Napoli, Naples · Fri, 24 Apr 2026
+- Umoya, Naples · Sun, 19 Apr 2026
+- REC Napoli, Naples · Sat, 7 Mar 2026
+- Discoteca Paradiso, Naples · Sat, 21 Feb 2026
+- Basic Club, Naples · Sat, 22 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Malas Influencias Madrid at Malas Influencias Madrid
 
-Malas Influencias Madrid on Thu 1 Oct, Madrid. Tech House. Preview the line-up and save it on soundcheck.
+Malas Influencias Madrid on Thu 1 Oct, Madrid. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

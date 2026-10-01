@@ -1,6 +1,6 @@
 # RÉSHAU x GROOVEDESK ADE meetup at Café Van Zuylen
 
-RÉSHAU x GROOVEDESK ADE meetup at Café Van Zuylen on Tue 20 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+RÉSHAU x GROOVEDESK ADE meetup at Café Van Zuylen on Tue 20 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

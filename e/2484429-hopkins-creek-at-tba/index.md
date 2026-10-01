@@ -1,6 +1,6 @@
 # Hopkins Creek at TBA
 
-Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists on the bill: Activator (AU), Art (AU), Babycino and Bridget Small and 39 more. Preview the line-up and save it on soundcheck.
+Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists: Activator (AU), Art (AU), Babycino and Bridget Small and 39 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

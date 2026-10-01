@@ -1,6 +1,6 @@
 # 𝐈𝐍𝐓𝐄𝐍𝐒𝐄 #16 ♱ ɪɴᴠɪᴛᴇꜱ 𝐘𝐀𝐌𝐀𝐆𝐔𝐂𝐂𝐈 ▱ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 ▱ 02 . 10 . 26 at Society
 
-𝐈𝐍𝐓𝐄𝐍𝐒𝐄 #16 ♱ ɪɴᴠɪᴛᴇꜱ 𝐘𝐀𝐌𝐀𝐆𝐔𝐂𝐂𝐈 ▱ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 ▱ 02 . 10 . 26 at Society on Fri 2 Oct, Brussels. 2 artists on the bill: Belben and Yamagucci. House. Preview the line-up and save it on soundcheck.
+𝐈𝐍𝐓𝐄𝐍𝐒𝐄 #16 ♱ ɪɴᴠɪᴛᴇꜱ 𝐘𝐀𝐌𝐀𝐆𝐔𝐂𝐂𝐈 ▱ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 ▱ 02 . 10 . 26 at Society on Fri 2 Oct, Brussels. 2 artists: Belben and Yamagucci. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OVERLOAD #5 at KREUZWERK
 
-OVERLOAD #5 at KREUZWERK on Sat 19 Dec, Berlin. Preview the line-up and save it on soundcheck.
+OVERLOAD #5 at KREUZWERK on Sat 19 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

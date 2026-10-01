@@ -1,6 +1,6 @@
 # DURATIONS: DJ Sprinkles, [g] / Naone, Abby Echiverri / Eden Aurelius at public records
 
-DURATIONS: DJ Sprinkles, [g] / Naone, Abby Echiverri / Eden Aurelius at public records on Sat 14 Nov, New York City. 5 artists on the bill: Abby Echiverri, DJ Sprinkles, Eden Aurelius and Naone and 1 more. Preview the line-up and save it on soundcheck.
+DURATIONS: DJ Sprinkles, [g] / Naone, Abby Echiverri / Eden Aurelius at public records on Sat 14 Nov, New York City. 5 artists: Abby Echiverri, DJ Sprinkles, Eden Aurelius and Naone and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

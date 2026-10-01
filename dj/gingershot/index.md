@@ -1,8 +1,8 @@
 # Gingershot
 
-Gingershot is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbina, Budapest on Fri, 9 Oct 2026.
+Gingershot is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Fri, 9 Oct 2026.
 
-Gingershot is a techno and trance artist based in Hungary, tracked on soundcheck, with 71 sets logged across Berlin and Budapest. Often billed alongside Rozalina, Ben Dover and szoliver. Next up: Turbina, Budapest on Fri 9 Oct.
+Gingershot is a techno and trance artist based in Hungary, with 72 gigs on soundcheck across Berlin and Budapest. Often billed alongside Rozalina, Ben Dover and szoliver. Next up: Turbina, Budapest on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,17 +10,18 @@ Gingershot is a techno and trance artist based in Hungary, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Turbina | Budapest |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
+| Sat, 7 Nov 2026 | Turbina | Budapest |
 
 ## Recently played
 
-- Atno, Budapest — Fri, 18 Sept 2026
-- Pontoon Budapest, Budapest — Thu, 27 Aug 2026
-- Aether Club Budapest, Budapest — Fri, 31 Jul 2026
-- Toldi Klub, Budapest — Fri, 19 Jun 2026
-- TBA - Rebel Beach, Budapest — Fri, 12 Jun 2026
-- Fröccsterasz, Budapest — Sat, 6 Jun 2026
-- Turbina, Budapest — Fri, 5 Jun 2026
-- Palazzo Permanens, Budapest — Fri, 17 Apr 2026
+- Atno, Budapest · Fri, 18 Sept 2026
+- Pontoon Budapest, Budapest · Thu, 27 Aug 2026
+- Aether Club Budapest, Budapest · Fri, 31 Jul 2026
+- Toldi Klub, Budapest · Fri, 19 Jun 2026
+- TBA - Rebel Beach, Budapest · Fri, 12 Jun 2026
+- Fröccsterasz, Budapest · Sat, 6 Jun 2026
+- Turbina, Budapest · Fri, 5 Jun 2026
+- Palazzo Permanens, Budapest · Fri, 17 Apr 2026
 
 ## Shares bills with
 

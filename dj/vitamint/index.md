@@ -1,8 +1,8 @@
 # Vitamin T
 
-Vitamin T is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+Vitamin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
-Vitamin T is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin, Edinburgh, Glasgow and Hamburg and 1 more. Often billed alongside Antonym, Love Defender and SIGNAL (JP). Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
+Vitamin T is a techno and house artist, with 23 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Hamburg and 1 more. Often billed alongside Antonym, Love Defender and SIGNAL (JP). Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Vitamin T is a techno and house artist tracked on soundcheck, with 23 sets logge
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Wed, 18 Mar 2026
-- Fundbureau, Hamburg — Fri, 23 May 2025
-- Lokschuppen Berlin, Berlin — Wed, 14 May 2025
-- Uebel & Gefährlich, Hamburg — Fri, 9 May 2025
-- MS Stubnitz, Hamburg — Sat, 22 Mar 2025
-- Uebel & Gefährlich, Hamburg — Fri, 14 Feb 2025
-- Ohjo Bldg, Tokyo — Sat, 25 Jan 2025
-- HVEN, Tokyo — Fri, 20 Dec 2024
+- Lokschuppen Berlin, Berlin · Wed, 18 Mar 2026
+- Fundbureau, Hamburg · Fri, 23 May 2025
+- Lokschuppen Berlin, Berlin · Wed, 14 May 2025
+- Uebel & Gefährlich, Hamburg · Fri, 9 May 2025
+- MS Stubnitz, Hamburg · Sat, 22 Mar 2025
+- Uebel & Gefährlich, Hamburg · Fri, 14 Feb 2025
+- Ohjo Bldg, Tokyo · Sat, 25 Jan 2025
+- HVEN, Tokyo · Fri, 20 Dec 2024
 
 ## Shares bills with
 

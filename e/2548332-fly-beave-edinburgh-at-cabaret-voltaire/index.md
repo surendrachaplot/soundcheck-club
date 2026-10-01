@@ -1,6 +1,6 @@
 # FLY - Beave - Edinburgh at Cabaret Voltaire
 
-FLY - Beave - Edinburgh at Cabaret Voltaire on Fri 23 Oct, Edinburgh. House. Preview the line-up and save it on soundcheck.
+FLY - Beave - Edinburgh at Cabaret Voltaire on Fri 23 Oct, Edinburgh. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

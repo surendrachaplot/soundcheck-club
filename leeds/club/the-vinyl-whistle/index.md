@@ -1,8 +1,8 @@
 # The Vinyl Whistle
 
-The Vinyl Whistle is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Northern Groove Association X Player Records presents: Infamous Player (LIVE),Balrog,Skunkrock" on Fri, 9 Oct 2026.
+The Vinyl Whistle is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Northern Groove Association X Player Records presents: Infamous Player (LIVE),Balrog,Skunkrock" on Fri, 9 Oct 2026.
 
-The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Balrog, Player and Skunkrock. Browse upcoming dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
+The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Balrog, Player and Skunkrock. See dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
 
 ## What's on
 

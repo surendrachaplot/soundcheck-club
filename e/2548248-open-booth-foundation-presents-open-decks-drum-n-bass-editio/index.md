@@ -1,6 +1,6 @@
 # Open Booth Foundation presents: Open Decks: Drum 'N' Bass Edition at Killing Time
 
-Open Booth Foundation presents: Open Decks: Drum 'N' Bass Edition at Killing Time on Thu 22 Oct, Melbourne. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Open Booth Foundation presents: Open Decks: Drum 'N' Bass Edition at Killing Time on Thu 22 Oct, Melbourne. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

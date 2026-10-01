@@ -1,6 +1,6 @@
 # ATOMIC PULSE v1 at Dadalab
 
-ATOMIC PULSE v1 at Dadalab on Sat 10 Oct, Austin. Experimental and Noise. Preview the line-up and save it on soundcheck.
+ATOMIC PULSE v1 at Dadalab on Sat 10 Oct, Austin. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # FILAIPE
 
-FILAIPE is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Fabriek, Brussels on Fri, 2 Oct 2026.
+FILAIPE is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Fabriek, Brussels on Fri, 2 Oct 2026.
 
-FILAIPE is a baile funk and latin bass artist based in Brazil, tracked on soundcheck, with 11 sets logged across Amsterdam and Brussels. Often billed alongside AAlva, Kontronatura and Alexander T. Rose. Next up: La Fabriek, Brussels on Fri 2 Oct.
+FILAIPE is a baile funk and latin bass artist based in Brazil, with 11 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside AAlva, Kontronatura and Alexander T. Rose. Next up: La Fabriek, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FILAIPE is a baile funk and latin bass artist based in Brazil, tracked on soundc
 
 ## Recently played
 
-- Melkweg, Amsterdam — Sat, 8 Aug 2026
-- Madame Moustache, Brussels — Fri, 10 Jul 2026
-- Illegaal, Brussels — Sat, 20 Jun 2026
-- Les Tanneurs, Brussels — Fri, 8 May 2026
-- AB Club (Ancienne Belgique), Brussels — Fri, 20 Mar 2026
-- La Fabriek, Brussels — Sat, 24 Jan 2026
-- 'Skek, Amsterdam — Sat, 27 Dec 2025
-- Dali's Bar, Brussels — Fri, 28 Nov 2025
+- Melkweg, Amsterdam · Sat, 8 Aug 2026
+- Madame Moustache, Brussels · Fri, 10 Jul 2026
+- Illegaal, Brussels · Sat, 20 Jun 2026
+- Les Tanneurs, Brussels · Fri, 8 May 2026
+- AB Club (Ancienne Belgique), Brussels · Fri, 20 Mar 2026
+- La Fabriek, Brussels · Sat, 24 Jan 2026
+- 'Skek, Amsterdam · Sat, 27 Dec 2025
+- Dali's Bar, Brussels · Fri, 28 Nov 2025
 
 ## Shares bills with
 

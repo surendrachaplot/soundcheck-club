@@ -1,6 +1,6 @@
 # Situations with Wenzday at THE BATHS
 
-Situations with Wenzday at THE BATHS on Fri 13 Nov, Austin. House and Tech House. Preview the line-up and save it on soundcheck.
+Situations with Wenzday at THE BATHS on Fri 13 Nov, Austin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

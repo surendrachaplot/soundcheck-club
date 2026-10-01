@@ -1,8 +1,8 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Groove Night" on Thu, 1 Oct 2026.
+Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Groove Night" on Thu, 1 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including A. Garcia, AIDEL, Brent Shay and Cody Hammer and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including A. Garcia, AIDEL, Brent Shay and Cody Hammer and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 

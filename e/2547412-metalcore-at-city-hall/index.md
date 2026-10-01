@@ -1,6 +1,6 @@
 # METALCORE at City Hall
 
-METALCORE at City Hall on Sat 3 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+METALCORE at City Hall on Sat 3 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

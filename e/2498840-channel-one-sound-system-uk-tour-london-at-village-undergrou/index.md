@@ -1,6 +1,6 @@
 # Channel One Sound System UK Tour: London at Village Underground
 
-Channel One Sound System UK Tour: London at Village Underground on Sun 25 Oct, London. 1 artist on the bill: Channel One Sound. Dub. Preview the line-up and save it on soundcheck.
+Channel One Sound System UK Tour: London at Village Underground on Sun 25 Oct, London. 1 artist: Channel One Sound. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

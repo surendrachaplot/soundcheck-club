@@ -1,8 +1,8 @@
 # Jay Bee
 
-Jay Bee is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Jay Bee is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-Jay Bee is a drum & bass and house artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 2 more. Often billed alongside A.M.C., Basstripper and Bryan Gee. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Jay Bee is a drum & bass and house artist based in Spain, with 10 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 2 more. Often billed alongside A.M.C., Basstripper and Bryan Gee. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jay Bee is a drum & bass and house artist based in Spain, tracked on soundcheck,
 
 ## Recently played
 
-- Kable Club, Manchester — Fri, 30 Jan 2026
-- The Bread Shed, Manchester — Fri, 31 Oct 2025
-- The Trinity Centre, Bristol — Sat, 25 Oct 2025
-- Mint Warehouse, Leeds — Fri, 1 Nov 2024
-- The Digbeth Triangle, Birmingham — Sat, 3 Aug 2024
-- Impact Hub Barcelona, Barcelona — Sat, 8 Jun 2024
-- Palmera Estudio, Barcelona — Sat, 20 Apr 2024
-- Buena Onda Social Club, Barcelona — Thu, 14 Mar 2024
+- Kable Club, Manchester · Fri, 30 Jan 2026
+- The Bread Shed, Manchester · Fri, 31 Oct 2025
+- The Trinity Centre, Bristol · Sat, 25 Oct 2025
+- Mint Warehouse, Leeds · Fri, 1 Nov 2024
+- The Digbeth Triangle, Birmingham · Sat, 3 Aug 2024
+- Impact Hub Barcelona, Barcelona · Sat, 8 Jun 2024
+- Palmera Estudio, Barcelona · Sat, 20 Apr 2024
+- Buena Onda Social Club, Barcelona · Thu, 14 Mar 2024
 
 ## Shares bills with
 

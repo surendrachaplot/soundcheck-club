@@ -1,8 +1,8 @@
 # Majes
 
-Majes is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
+Majes is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
 
-Majes is an acid and techno artist based in France, tracked on soundcheck, with 2 sets logged across Amsterdam and Rennes. Often billed alongside 25EMEHEURE, ANXHELA and Britney Speed (FR). Next up: Le Château du Bois Guy, Rennes on Sat 17 Oct.
+Majes is an acid and techno artist based in France, with 2 gigs on soundcheck across Amsterdam and Rennes. Often billed alongside 25EMEHEURE, ANXHELA and Britney Speed (FR). Next up: Le Château du Bois Guy, Rennes on Sat 17 Oct.
 
 ## Upcoming shows
 

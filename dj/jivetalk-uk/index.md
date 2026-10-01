@@ -1,8 +1,8 @@
 # Jive Talk
 
-Jive Talk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Low Profile Studios, London on Sat, 3 Oct 2026.
+Jive Talk is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Low Profile Studios, London on Sat, 3 Oct 2026.
 
-Jive Talk is a house and electro artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: Low Profile Studios, London on Sat 3 Oct.
+Jive Talk is a house and electro artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: Low Profile Studios, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jive Talk is a house and electro artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Distrikt, Leeds — Fri, 11 Sept 2026
-- The Glove That Fits, London — Fri, 14 Aug 2026
-- Gaffe, London — Sat, 25 Jul 2026
-- fabric, London — Sat, 6 Jun 2026
-- Various Venues, London — Sat, 16 May 2026
-- NUMBER 90 LONDON, London — Sat, 9 May 2026
-- Patterns, Brighton — Sat, 4 Apr 2026
-- The Lion and Lamb, London — Sun, 1 Mar 2026
+- Distrikt, Leeds · Fri, 11 Sept 2026
+- The Glove That Fits, London · Fri, 14 Aug 2026
+- Gaffe, London · Sat, 25 Jul 2026
+- fabric, London · Sat, 6 Jun 2026
+- Various Venues, London · Sat, 16 May 2026
+- NUMBER 90 LONDON, London · Sat, 9 May 2026
+- Patterns, Brighton · Sat, 4 Apr 2026
+- The Lion and Lamb, London · Sun, 1 Mar 2026
 
 ## Shares bills with
 

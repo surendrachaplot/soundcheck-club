@@ -1,6 +1,6 @@
 # BÄR ...IsBurning at export
 
-BÄR ...IsBurning at export on Fri 20 Nov, Rotterdam. Techno. Preview the line-up and save it on soundcheck.
+BÄR ...IsBurning at export on Fri 20 Nov, Rotterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

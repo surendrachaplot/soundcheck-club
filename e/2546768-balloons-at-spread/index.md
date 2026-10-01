@@ -1,6 +1,6 @@
 # Balloons at Spread
 
-Balloons at Spread on Sat 17 Oct, Tokyo. 2 artists on the bill: BASiRiNO and sudden star. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Balloons at Spread on Sat 17 Oct, Tokyo. 2 artists: BASiRiNO and sudden star. Hip-Hop and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

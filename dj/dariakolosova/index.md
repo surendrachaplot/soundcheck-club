@@ -1,8 +1,8 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pandora Sevilla, South on Fri, 9 Oct 2026.
+Daria Kolosova is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pandora Sevilla, South on Fri, 9 Oct 2026.
 
-Daria Kolosova is a techno and house artist based in Ukraine, tracked on soundcheck, with 280 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside KlangKuenstler, DAX J and Patrick Mason. Next up: Pandora Sevilla, South on Fri 9 Oct.
+Daria Kolosova is a techno and house artist based in Ukraine, with 280 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside KlangKuenstler, DAX J and Patrick Mason. Next up: Pandora Sevilla, South on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Daria Kolosova is a techno and house artist based in Ukraine, tracked on soundch
 
 ## Recently played
 
-- TBA, Washington DC — Sat, 12 Sept 2026
-- Art Club, Houston — Fri, 11 Sept 2026
-- Art Club, Houston — Fri, 11 Sept 2026
-- Boomerang Beach, The Hague — Sat, 5 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 22 Aug 2026
-- Hangaren, Copenhagen — Fri, 21 Aug 2026
+- TBA, Washington DC · Sat, 12 Sept 2026
+- Art Club, Houston · Fri, 11 Sept 2026
+- Art Club, Houston · Fri, 11 Sept 2026
+- Boomerang Beach, The Hague · Sat, 5 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 22 Aug 2026
+- Hangaren, Copenhagen · Fri, 21 Aug 2026
 
 ## Shares bills with
 

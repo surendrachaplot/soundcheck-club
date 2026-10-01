@@ -1,8 +1,8 @@
 # Flores
 
-Flores is a Electronica and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Fri, 6 Nov 2026.
+Flores is a Electronica and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
 
-Flores is an electronica and industrial artist based in Ireland, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside BreakStyle, Alo and Avant-Garde Institute. Next up: fabric, London on Fri 6 Nov.
+Flores is an electronica and industrial artist based in Ireland, with 6 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside BreakStyle, Alo and Avant-Garde Institute. Next up: fabric, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Flores is an electronica and industrial artist based in Ireland, tracked on soun
 
 ## Recently played
 
-- DETROIT CLUB, Barcelona — Fri, 17 Jul 2026
-- DETROIT CLUB, Barcelona — Fri, 17 Jul 2026
-- Drama Radio Bar, Mexico City — Tue, 7 Apr 2026
-- OST, Berlin — Sun, 31 Mar 2024
-- The Sound House, Dublin — Fri, 15 Dec 2023
+- DETROIT CLUB, Barcelona · Fri, 17 Jul 2026
+- DETROIT CLUB, Barcelona · Fri, 17 Jul 2026
+- Drama Radio Bar, Mexico City · Tue, 7 Apr 2026
+- OST, Berlin · Sun, 31 Mar 2024
+- The Sound House, Dublin · Fri, 15 Dec 2023
 
 ## Shares bills with
 

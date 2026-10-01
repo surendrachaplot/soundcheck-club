@@ -1,8 +1,8 @@
 # Midnight Tokyo
 
-Midnight Tokyo is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ADE X KARMA" on Sat, 10 Oct 2026.
+Midnight Tokyo is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ADE X KARMA" on Sat, 10 Oct 2026.
 
-Midnight Tokyo is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Eline (BE) and Rebeat. Browse upcoming dates, start times and who's playing.
+Midnight Tokyo is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Eline (BE) and Rebeat. See dates, start times and who's playing.
 
 ## What's on
 

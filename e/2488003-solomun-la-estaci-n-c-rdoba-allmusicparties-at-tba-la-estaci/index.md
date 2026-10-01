@@ -1,6 +1,6 @@
 # Solomun - La Estación Córdoba - ALLMusicParties at TBA - La Estacion, Cordoba
 
-Solomun - La Estación Córdoba - ALLMusicParties at TBA - La Estacion, Cordoba on Fri 23 Oct, Argentina. 1 artist on the bill: Solomun. Preview the line-up and save it on soundcheck.
+Solomun - La Estación Córdoba - ALLMusicParties at TBA - La Estacion, Cordoba on Fri 23 Oct, Argentina. 1 artist: Solomun. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

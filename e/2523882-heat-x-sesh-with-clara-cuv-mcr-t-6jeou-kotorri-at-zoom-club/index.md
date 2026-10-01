@@ -1,6 +1,6 @@
 # HEAT X SESH with Clara Cuvé, MCR-T, 6JEOU & KOTORRI at Zoom Club
 
-HEAT X SESH with Clara Cuvé, MCR-T, 6JEOU & KOTORRI at Zoom Club on Sat 26 Dec, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+HEAT X SESH with Clara Cuvé, MCR-T, 6JEOU & KOTORRI at Zoom Club on Sat 26 Dec, Frankfurt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

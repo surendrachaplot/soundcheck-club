@@ -1,6 +1,6 @@
 # The Gardens of Babylon: The Night Sky at Amaze
 
-The Gardens of Babylon: The Night Sky at Amaze on Sat 12 Dec, Amsterdam. Preview the line-up and save it on soundcheck.
+The Gardens of Babylon: The Night Sky at Amaze on Sat 12 Dec, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

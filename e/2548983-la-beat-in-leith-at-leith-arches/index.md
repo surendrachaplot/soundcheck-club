@@ -1,6 +1,6 @@
 # LA BEAT IN LEITH at Leith Arches
 
-LA BEAT IN LEITH at Leith Arches on Sat 3 Oct, Edinburgh. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+LA BEAT IN LEITH at Leith Arches on Sat 3 Oct, Edinburgh. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

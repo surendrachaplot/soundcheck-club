@@ -1,6 +1,6 @@
 # FM Philly & Sleepwalker Ent at TBA
 
-FM Philly & Sleepwalker Ent at TBA on Fri 9 Oct, Philadelphia. 1 artist on the bill: ghost.slut. Preview the line-up and save it on soundcheck.
+FM Philly & Sleepwalker Ent at TBA on Fri 9 Oct, Philadelphia. 1 artist: ghost.slut. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

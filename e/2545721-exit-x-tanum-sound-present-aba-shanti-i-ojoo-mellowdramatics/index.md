@@ -1,6 +1,6 @@
 # EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus at EXIT Glasgow
 
-EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus at EXIT Glasgow on Fri 6 Nov, Glasgow. 3 artists on the bill: Aba Shanti-I, Mellowdramatics and ojoo. Dub. Preview the line-up and save it on soundcheck.
+EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus at EXIT Glasgow on Fri 6 Nov, Glasgow. 3 artists: Aba Shanti-I, Mellowdramatics and ojoo. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

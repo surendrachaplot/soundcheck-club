@@ -1,8 +1,8 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+ARODES is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
-ARODES is a house and afro house artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Martim Rola. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
+ARODES is a house and afro house artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Martim Rola. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ ARODES is a house and afro house artist based in United States of America, track
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- BCM, Mallorca — Sat, 19 Sept 2026
-- Void Mykonos, Mykonos — Wed, 26 Aug 2026
-- Jardins de Joan Brossa, Barcelona — Sun, 23 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
-- Void Club, Berlin — Wed, 19 Aug 2026
-- Void Mykonos, Mykonos — Wed, 12 Aug 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- BCM, Mallorca · Sat, 19 Sept 2026
+- Void Mykonos, Mykonos · Wed, 26 Aug 2026
+- Jardins de Joan Brossa, Barcelona · Sun, 23 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
+- Void Club, Berlin · Wed, 19 Aug 2026
+- Void Mykonos, Mykonos · Wed, 12 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Discoball in Shimokita at Coaster Craft Beer
 
-Discoball in Shimokita at Coaster Craft Beer on Sat 17 Oct, Tokyo. Disco and Acid. Preview the line-up and save it on soundcheck.
+Discoball in Shimokita at Coaster Craft Beer on Sat 17 Oct, Tokyo. Disco and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

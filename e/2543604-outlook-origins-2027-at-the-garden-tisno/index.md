@@ -1,6 +1,6 @@
 # Outlook Origins 2027 at The Garden Tisno
 
-Outlook Origins 2027 at The Garden Tisno on Thu 22 Jul, London. 56 artists on the bill: Addison Groove, Arsenal Mikebe, Ayanna Heaven and Bambi (FR) and 52 more. Preview the line-up and save it on soundcheck.
+Outlook Origins 2027 at The Garden Tisno on Thu 22 Jul, London. 56 artists: Addison Groove, Arsenal Mikebe, Ayanna Heaven and Bambi (FR) and 52 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

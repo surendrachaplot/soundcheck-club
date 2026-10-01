@@ -1,6 +1,6 @@
 # ALIEN ESP. XVI ANIVERSARIO - Vera Grace & Lewis Fautzi at Cosmos Club Sevilla
 
-ALIEN ESP. XVI ANIVERSARIO - Vera Grace & Lewis Fautzi at Cosmos Club Sevilla on Sat 17 Oct, South. 2 artists on the bill: Lewis Fautzi and Vera Grace. Preview the line-up and save it on soundcheck.
+ALIEN ESP. XVI ANIVERSARIO - Vera Grace & Lewis Fautzi at Cosmos Club Sevilla on Sat 17 Oct, South. 2 artists: Lewis Fautzi and Vera Grace. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

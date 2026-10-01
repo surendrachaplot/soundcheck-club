@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK: RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at The Steel Yard
 
-FREE TICKETS + FREE DRINK: RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at The Steel Yard on Fri 13 Nov, London. R&B and Reggaeton. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK: RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at The Steel Yard on Fri 13 Nov, London. R&B and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

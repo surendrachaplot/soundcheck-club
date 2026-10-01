@@ -1,6 +1,6 @@
 # Oliver Smith b2b Genix [Open to Close] at SILO
 
-Oliver Smith b2b Genix [Open to Close] at SILO on Sat 5 Dec, New York City. 1 artist on the bill: Oliver Smith. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Oliver Smith b2b Genix [Open to Close] at SILO on Sat 5 Dec, New York City. 1 artist: Oliver Smith. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

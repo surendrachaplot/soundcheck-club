@@ -1,8 +1,8 @@
 # La Rod's
 
-La Rod's is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
+La Rod's is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
 
-La Rod's is a techno and trance artist based in Cyprus, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Quolcat, Alex Pastore and Alien Rain. Next up: DNA. CLUB, Berlin on Fri 9 Oct.
+La Rod's is a techno and trance artist based in Cyprus, with 8 gigs on soundcheck across Berlin. Often billed alongside Quolcat, Alex Pastore and Alien Rain. Next up: DNA. CLUB, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ La Rod's is a techno and trance artist based in Cyprus, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Secret Location, Berlin — Fri, 25 Sept 2026
-- ÆDEN, Berlin — Thu, 30 Jul 2026
-- Lokschuppen Berlin, Berlin — Sun, 19 Jul 2026
-- ÆDEN, Berlin — Thu, 23 Apr 2026
-- Lokschuppen Berlin, Berlin — Sun, 12 Apr 2026
-- ÆDEN, Berlin — Wed, 25 Feb 2026
-- ÆDEN, Berlin — Thu, 26 Dec 2024
+- TBA - Secret Location, Berlin · Fri, 25 Sept 2026
+- ÆDEN, Berlin · Thu, 30 Jul 2026
+- Lokschuppen Berlin, Berlin · Sun, 19 Jul 2026
+- ÆDEN, Berlin · Thu, 23 Apr 2026
+- Lokschuppen Berlin, Berlin · Sun, 12 Apr 2026
+- ÆDEN, Berlin · Wed, 25 Feb 2026
+- ÆDEN, Berlin · Thu, 26 Dec 2024
 
 ## Shares bills with
 

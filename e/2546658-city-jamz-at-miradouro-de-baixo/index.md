@@ -1,6 +1,6 @@
 # City Jamz at Miradouro de Baixo
 
-City Jamz at Miradouro de Baixo on Fri 2 Oct, Lisbon. 2 artists on the bill: Guy from 1990 and Opalia. Bass and Garage. Preview the line-up and save it on soundcheck.
+City Jamz at Miradouro de Baixo on Fri 2 Oct, Lisbon. 2 artists: Guy from 1990 and Opalia. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

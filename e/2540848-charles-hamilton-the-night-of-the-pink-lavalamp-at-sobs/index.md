@@ -1,6 +1,6 @@
 # Charles Hamilton - The Night of The Pink Lavalamp at SOBs
 
-Charles Hamilton - The Night of The Pink Lavalamp at SOBs on Tue 10 Nov, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
+Charles Hamilton - The Night of The Pink Lavalamp at SOBs on Tue 10 Nov, New York City. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DāM FunK
 
-DāM FunK is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+DāM FunK is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
-DāM FunK is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 14 sets logged across Denver, Los Angeles, Miami and New York City and 3 more. Often billed alongside Abraham Othwell, DJ Koco aka Shimokita and Donny Burlin. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
+DāM FunK is a house and funk / soul artist based in United States of America, with 14 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 3 more. Often billed alongside Abraham Othwell, DJ Koco aka Shimokita and Donny Burlin. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DāM FunK is a house and funk / soul artist based in United States of America, t
 
 ## Recently played
 
-- The Matchbox, Denver — Sat, 8 Aug 2026
-- TBA - 624 S Anderson St Los Angeles CA 90023, Los Angeles — Sat, 31 Jan 2026
-- Psstudio, Los Angeles — Sat, 11 Oct 2025
-- Lodge Room, Los Angeles — Tue, 5 Aug 2025
-- Gateway Mendocino, San Francisco/Oakland — Fri, 25 Jul 2025
-- TBA - DTLA, Los Angeles — Fri, 27 Jun 2025
-- California Academy Of Sciences, San Francisco/Oakland — Thu, 20 Feb 2025
-- ZeyZey, Miami — Sat, 15 Feb 2025
+- The Matchbox, Denver · Sat, 8 Aug 2026
+- TBA - 624 S Anderson St Los Angeles CA 90023, Los Angeles · Sat, 31 Jan 2026
+- Psstudio, Los Angeles · Sat, 11 Oct 2025
+- Lodge Room, Los Angeles · Tue, 5 Aug 2025
+- Gateway Mendocino, San Francisco/Oakland · Fri, 25 Jul 2025
+- TBA - DTLA, Los Angeles · Fri, 27 Jun 2025
+- California Academy Of Sciences, San Francisco/Oakland · Thu, 20 Feb 2025
+- ZeyZey, Miami · Sat, 15 Feb 2025
 
 ## Shares bills with
 

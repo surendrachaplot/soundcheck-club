@@ -1,6 +1,6 @@
 # Index: TWOFACED at Index
 
-Index: TWOFACED on Sat 3 Oct, Dublin. Electronica. Preview the line-up and save it on soundcheck.
+Index: TWOFACED on Sat 3 Oct, Dublin. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

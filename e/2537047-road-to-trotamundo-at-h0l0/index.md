@@ -1,6 +1,6 @@
 # Road to Trotamundo at H0L0
 
-Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. House and Minimal. Preview the line-up and save it on soundcheck.
+Road to Trotamundo at H0L0 on Sat 10 Oct, New York City. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

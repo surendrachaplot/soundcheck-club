@@ -1,6 +1,6 @@
 # Milkshake at Sala Apolo
 
-Milkshake at Sala Apolo on Thu 8 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Milkshake at Sala Apolo on Thu 8 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

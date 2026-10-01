@@ -1,8 +1,8 @@
 # Mike Younger
 
-Mike Younger is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
+Mike Younger is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Db55, Amsterdam on Thu, 22 Oct 2026.
 
-Mike Younger is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam, London and Malta. Often billed alongside G CHASE, HARTY and Mazos. Next up: Db55, Amsterdam on Thu 22 Oct.
+Mike Younger is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam, London and Malta. Often billed alongside G CHASE, HARTY and Mazos. Next up: Db55, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Mike Younger is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- The Cause, London — Sat, 8 Aug 2026
-- Gianpula Village, Malta — Wed, 29 Apr 2026
+- The Cause, London · Sat, 8 Aug 2026
+- Gianpula Village, Malta · Wed, 29 Apr 2026
 
 ## Shares bills with
 

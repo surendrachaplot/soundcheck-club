@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SONIC ODYSSEY" on Thu, 1 Oct 2026.
+Système is a music venue in Montreal with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SONIC ODYSSEY" on Thu, 1 Oct 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 20 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 20 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 

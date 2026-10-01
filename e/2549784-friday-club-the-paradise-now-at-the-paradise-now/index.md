@@ -1,6 +1,6 @@
 # FRIDAY CLUB - The Paradise Now at The Paradise Now
 
-FRIDAY CLUB - The Paradise Now on Fri 16 Oct, Düsseldorf. House and Afro House. Preview the line-up and save it on soundcheck.
+FRIDAY CLUB - The Paradise Now on Fri 16 Oct, Düsseldorf. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

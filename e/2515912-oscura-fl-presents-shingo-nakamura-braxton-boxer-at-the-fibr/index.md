@@ -1,6 +1,6 @@
 # OSCURA FL presents Shingo Nakamura - Braxton - Boxer at The Fibre Penthouse
 
-OSCURA FL presents Shingo Nakamura - Braxton - Boxer at The Fibre Penthouse on Sat 14 Nov, Leeds. 4 artists on the bill: Boxer, Braxton, Shingo Nakamura and SOBAH. Progressive House and House. Preview the line-up and save it on soundcheck.
+OSCURA FL presents Shingo Nakamura - Braxton - Boxer at The Fibre Penthouse on Sat 14 Nov, Leeds. 4 artists: Boxer, Braxton, Shingo Nakamura and SOBAH. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

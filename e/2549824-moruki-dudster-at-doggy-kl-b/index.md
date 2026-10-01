@@ -1,6 +1,6 @@
 # Moruki + Dudster at Doggy Klœb
 
-Moruki + Dudster at Doggy Klœb on Fri 30 Oct, Malaga. 2 artists on the bill: Dudster and Moruki. House and Minimal. Preview the line-up and save it on soundcheck.
+Moruki + Dudster at Doggy Klœb on Fri 30 Oct, Malaga. 2 artists: Dudster and Moruki. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

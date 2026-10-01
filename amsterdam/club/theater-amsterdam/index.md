@@ -1,8 +1,8 @@
 # Theater Amsterdam
 
-Theater Amsterdam is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Eastenderz x Loveland - ADE 2026" on Thu, 22 Oct 2026.
+Theater Amsterdam is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Eastenderz x Loveland - ADE 2026" on Thu, 22 Oct 2026.
 
-Theater Amsterdam is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including AAT (NL), Ann Clue, Boris Brejcha and CamelPhat and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 5, 1013 AP Amsterdam, Netherlands.
+Theater Amsterdam is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including AAT (NL), Ann Clue, Boris Brejcha and CamelPhat and 2 more. See dates, start times and who's playing. Danzigerkade 5, 1013 AP Amsterdam, Netherlands.
 
 ## What's on
 

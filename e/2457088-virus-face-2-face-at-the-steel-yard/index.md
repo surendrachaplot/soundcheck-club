@@ -1,6 +1,6 @@
 # Virus - Face 2 Face at The Steel Yard
 
-Virus - Face 2 Face at The Steel Yard on Sat 3 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+Virus - Face 2 Face at The Steel Yard on Sat 3 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

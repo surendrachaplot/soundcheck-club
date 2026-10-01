@@ -1,6 +1,6 @@
 # Lights Down Low feat. Loukeman at TBA - Downtown LA
 
-Lights Down Low feat. Loukeman at TBA - Downtown LA on Sat 14 Nov, Los Angeles. 1 artist on the bill: Loukeman. Preview the line-up and save it on soundcheck.
+Lights Down Low feat. Loukeman at TBA - Downtown LA on Sat 14 Nov, Los Angeles. 1 artist: Loukeman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

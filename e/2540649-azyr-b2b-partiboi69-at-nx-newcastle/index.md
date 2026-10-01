@@ -1,6 +1,6 @@
 # Azyr b2b Partiboi69 at NX Newcastle
 
-Azyr b2b Partiboi69 at NX Newcastle on Sat 7 Nov, Newcastle. 2 artists on the bill: Azyr and Partiboi69. Techno. Preview the line-up and save it on soundcheck.
+Azyr b2b Partiboi69 at NX Newcastle on Sat 7 Nov, Newcastle. 2 artists: Azyr and Partiboi69. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

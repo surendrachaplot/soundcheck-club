@@ -1,6 +1,6 @@
 # 718 Sessions with Danny Krivit + That Matt at Good Room
 
-718 Sessions with Danny Krivit + That Matt at Good Room on Sun 11 Oct, New York City. 2 artists on the bill: Danny Krivit and That Matt. House and Disco. Preview the line-up and save it on soundcheck.
+718 Sessions with Danny Krivit + That Matt at Good Room on Sun 11 Oct, New York City. 2 artists: Danny Krivit and That Matt. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

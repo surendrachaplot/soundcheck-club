@@ -1,6 +1,6 @@
 # PRIMAL DUB at DJ Bar Bridge
 
-PRIMAL DUB at DJ Bar Bridge on Tue 6 Oct, Tokyo. House and Dub. Preview the line-up and save it on soundcheck.
+PRIMAL DUB at DJ Bar Bridge on Tue 6 Oct, Tokyo. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bobby. — All Night Long (Age 21+) at Cobalt Studios
 
-Bobby. — All Night Long (Age 21+) at Cobalt Studios on Fri 2 Oct, Newcastle. 1 artist on the bill: Bobby.. Preview the line-up and save it on soundcheck.
+Bobby. — All Night Long (Age 21+) at Cobalt Studios on Fri 2 Oct, Newcastle. 1 artist: Bobby.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

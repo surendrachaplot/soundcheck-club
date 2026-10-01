@@ -1,6 +1,6 @@
 # Honey Badger Records at Stoked&stoned
 
-Honey Badger Records at Stoked&stoned on Sun 4 Oct, Seoul. 2 artists on the bill: hcy. and JNS. Techno and House. Preview the line-up and save it on soundcheck.
+Honey Badger Records at Stoked&stoned on Sun 4 Oct, Seoul. 2 artists: hcy. and JNS. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

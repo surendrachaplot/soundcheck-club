@@ -1,6 +1,6 @@
 # SPORTS at Chango
 
-SPORTS at Chango on Thu 12 Nov, Madrid. Preview the line-up and save it on soundcheck.
+SPORTS at Chango on Thu 12 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

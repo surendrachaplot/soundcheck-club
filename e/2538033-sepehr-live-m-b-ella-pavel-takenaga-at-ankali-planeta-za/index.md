@@ -1,6 +1,6 @@
 # ★★: Sepehr live, MöB, Ella Pavel, Takenaga at Ankali & Planeta Za
 
-★★: Sepehr live, MöB, Ella Pavel, Takenaga at Ankali & Planeta Za on Fri 2 Oct, Prague. 4 artists on the bill: Ella Pavel, MöB, Sepehr and Takenaga. Preview the line-up and save it on soundcheck.
+★★: Sepehr live, MöB, Ella Pavel, Takenaga at Ankali & Planeta Za on Fri 2 Oct, Prague. 4 artists: Ella Pavel, MöB, Sepehr and Takenaga. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

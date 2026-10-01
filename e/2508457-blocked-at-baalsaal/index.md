@@ -1,6 +1,6 @@
 # blocked at Baalsaal
 
-blocked at Baalsaal on Sat 14 Nov, Hamburg. Preview the line-up and save it on soundcheck.
+blocked at Baalsaal on Sat 14 Nov, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BIONIC RITUAL at Flex
 
-BIONIC RITUAL at Flex on Fri 2 Oct, Vienna. Preview the line-up and save it on soundcheck.
+BIONIC RITUAL at Flex on Fri 2 Oct, Vienna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Neolitika X Music Summit Malta // John Acquaviva at The Club House at Gianpula Village
 
-Neolitika X Music Summit Malta // John Acquaviva at The Club House at Gianpula Village on Fri 9 Oct, Malta. 4 artists on the bill: Alias 1, John Acquaviva, PHYNYKS and Sound synthesis. Techno. Preview the line-up and save it on soundcheck.
+Neolitika X Music Summit Malta // John Acquaviva at The Club House at Gianpula Village on Fri 9 Oct, Malta. 4 artists: Alias 1, John Acquaviva, PHYNYKS and Sound synthesis. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

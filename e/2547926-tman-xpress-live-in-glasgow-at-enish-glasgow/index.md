@@ -1,6 +1,6 @@
 # TMAN XPRESS Live In Glasgow at Enish Glasgow
 
-TMAN XPRESS Live In Glasgow at Enish Glasgow on Fri 9 Oct, Glasgow. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+TMAN XPRESS Live In Glasgow at Enish Glasgow on Fri 9 Oct, Glasgow. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

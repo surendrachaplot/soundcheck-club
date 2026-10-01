@@ -1,6 +1,6 @@
 # Jamie xx All Night at Nowadays
 
-Jamie xx All Night at Nowadays on Thu 1 Oct, New York City. 1 artist on the bill: Jamie xx. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Jamie xx All Night at Nowadays on Thu 1 Oct, New York City. 1 artist: Jamie xx. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

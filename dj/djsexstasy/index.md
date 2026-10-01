@@ -1,8 +1,8 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
+DJ SEXSTASY is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
 
-DJ SEXSTASY is a techno and trance artist based in Brazil, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Die Rakete, Nürnberg on Fri 2 Oct.
+DJ SEXSTASY is a techno and trance artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: Die Rakete, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, tracked on soundcheck
 
 ## Recently played
 
-- The Bassement, Madrid — Thu, 24 Sept 2026
-- DNA Club, Munich — Fri, 28 Aug 2026
-- Spook Club, Valencia — Sat, 15 Aug 2026
-- Virage, Paris — Fri, 14 Aug 2026
-- Parallel, Amsterdam — Sat, 8 Aug 2026
-- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
-- DNA Club, Munich — Fri, 31 Jul 2026
-- Ritter Butzke, Berlin — Sat, 25 Jul 2026
+- The Bassement, Madrid · Thu, 24 Sept 2026
+- DNA Club, Munich · Fri, 28 Aug 2026
+- Spook Club, Valencia · Sat, 15 Aug 2026
+- Virage, Paris · Fri, 14 Aug 2026
+- Parallel, Amsterdam · Sat, 8 Aug 2026
+- TBA - Peißnitzinsel Halle, Leipzig · Sat, 1 Aug 2026
+- DNA Club, Munich · Fri, 31 Jul 2026
+- Ritter Butzke, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 

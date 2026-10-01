@@ -1,8 +1,8 @@
 # Coki
 
-Coki is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
+Coki is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Fabriek, Brussels on Fri, 9 Oct 2026.
 
-Coki is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 18 more. Often billed alongside SGT Pokes, Loefah and Mala. Next up: La Fabriek, Brussels on Fri 9 Oct.
+Coki is a dubstep and bass artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 18 more. Often billed alongside SGT Pokes, Loefah and Mala. Next up: La Fabriek, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Coki is a dubstep and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- The Cause, London — Sat, 22 Aug 2026
-- The White Hotel, Manchester — Sat, 18 Jul 2026
-- Phonox, London — Fri, 17 Jul 2026
-- The Hifi Club, Leeds — Sun, 3 May 2026
-- Melkweg, Amsterdam — Fri, 1 May 2026
-- Nowadays, New York City — Sat, 11 Apr 2026
-- HERE, London — Fri, 6 Feb 2026
-- FORGE, Sheffield — Fri, 30 Jan 2026
+- The Cause, London · Sat, 22 Aug 2026
+- The White Hotel, Manchester · Sat, 18 Jul 2026
+- Phonox, London · Fri, 17 Jul 2026
+- The Hifi Club, Leeds · Sun, 3 May 2026
+- Melkweg, Amsterdam · Fri, 1 May 2026
+- Nowadays, New York City · Sat, 11 Apr 2026
+- HERE, London · Fri, 6 Feb 2026
+- FORGE, Sheffield · Fri, 30 Jan 2026
 
 ## Shares bills with
 

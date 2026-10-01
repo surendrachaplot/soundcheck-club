@@ -1,8 +1,8 @@
 # Cora M.
 
-Cora M. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Canal 54, Geneva on Fri, 2 Oct 2026.
+Cora M. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Canal 54, Geneva on Fri, 2 Oct 2026.
 
-Cora M. is a house and minimal artist based in France, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Giorgio Maulini, Nicolas Duvoisin and Chris Llopis. Next up: Canal 54, Geneva on Fri 2 Oct.
+Cora M. is a house and minimal artist based in France, with 31 gigs on soundcheck across Barcelona, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Giorgio Maulini, Nicolas Duvoisin and Chris Llopis. Next up: Canal 54, Geneva on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cora M. is a house and minimal artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Audio Club, Geneva — Fri, 17 Jul 2026
-- Audio Club, Geneva — Sat, 27 Jun 2026
-- Weetamix, Geneva — Sat, 6 Jun 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 30 May 2026
-- Chez Jean-Luc, Geneva — Fri, 17 Apr 2026
-- Goya Social Club, Madrid — Sat, 7 Mar 2026
-- Südpol, Hamburg — Sat, 21 Feb 2026
-- Audio Club, Geneva — Sat, 17 Jan 2026
+- Audio Club, Geneva · Fri, 17 Jul 2026
+- Audio Club, Geneva · Sat, 27 Jun 2026
+- Weetamix, Geneva · Sat, 6 Jun 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 30 May 2026
+- Chez Jean-Luc, Geneva · Fri, 17 Apr 2026
+- Goya Social Club, Madrid · Sat, 7 Mar 2026
+- Südpol, Hamburg · Sat, 21 Feb 2026
+- Audio Club, Geneva · Sat, 17 Jan 2026
 
 ## Shares bills with
 

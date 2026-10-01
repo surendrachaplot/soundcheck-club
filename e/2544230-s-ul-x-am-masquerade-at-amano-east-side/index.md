@@ -1,6 +1,6 @@
 # SØUL x AMÎ MASQUERADE at Amano East-Side
 
-SØUL x AMÎ MASQUERADE at Amano East-Side on Sat 31 Oct, Berlin. House and Tech House. Preview the line-up and save it on soundcheck.
+SØUL x AMÎ MASQUERADE at Amano East-Side on Sat 31 Oct, Berlin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

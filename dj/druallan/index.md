@@ -1,8 +1,8 @@
 # Dru Allan
 
-Dru Allan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Fri, 2 Oct 2026.
+Dru Allan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
 
-Dru Allan is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Barcelona, Detroit and New York City. Often billed alongside Medha Achar, Rootsin and DIRT ROOM. Next up: Marble Bar, Detroit on Fri 2 Oct.
+Dru Allan is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Barcelona, Detroit and New York City. Often billed alongside Medha Achar, Rootsin and DIRT ROOM. Next up: Marble Bar, Detroit on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dru Allan is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Fri, 18 Sept 2026
-- Northern Lights Lounge, Detroit — Sat, 15 Aug 2026
-- TV Lounge, Detroit — Sat, 15 Aug 2026
-- MotorCity Wine, Detroit — Mon, 20 Jul 2026
-- Northern Lights Lounge, Detroit — Sat, 27 Jun 2026
-- Northern Lights Lounge, Detroit — Fri, 22 May 2026
-- TV Lounge, Detroit — Thu, 30 Apr 2026
-- Northern Lights Lounge, Detroit — Sat, 21 Feb 2026
+- Bossa Nova Civic Club, New York City · Fri, 18 Sept 2026
+- Northern Lights Lounge, Detroit · Sat, 15 Aug 2026
+- TV Lounge, Detroit · Sat, 15 Aug 2026
+- MotorCity Wine, Detroit · Mon, 20 Jul 2026
+- Northern Lights Lounge, Detroit · Sat, 27 Jun 2026
+- Northern Lights Lounge, Detroit · Fri, 22 May 2026
+- TV Lounge, Detroit · Thu, 30 Apr 2026
+- Northern Lights Lounge, Detroit · Sat, 21 Feb 2026
 
 ## Shares bills with
 

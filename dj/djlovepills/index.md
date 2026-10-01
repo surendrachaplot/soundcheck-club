@@ -1,8 +1,8 @@
 # Dj LovePills
 
-Dj LovePills is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
+Dj LovePills is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
 
-Dj LovePills is an ebm and techno artist based in Belgium, tracked on soundcheck, with 6 sets logged across Brussels. Often billed alongside Stel-R, Andreas Palmer and BoraBora. Next up: Beursschouwburg, Brussels on Sat 31 Oct.
+Dj LovePills is an ebm and techno artist based in Belgium, with 6 gigs on soundcheck across Brussels. Often billed alongside Stel-R, Andreas Palmer and BoraBora. Next up: Beursschouwburg, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Dj LovePills is an ebm and techno artist based in Belgium, tracked on soundcheck
 
 ## Recently played
 
-- Brasserie de la Senne, Brussels — Sat, 8 Nov 2025
-- Cafe Central, Brussels — Fri, 11 Jul 2025
-- Recyclart, Brussels — Sat, 3 May 2025
-- Winebunker, Brussels — Fri, 22 Mar 2024
-- Afterkaas, Brussels — Sun, 10 Dec 2023
+- Brasserie de la Senne, Brussels · Sat, 8 Nov 2025
+- Cafe Central, Brussels · Fri, 11 Jul 2025
+- Recyclart, Brussels · Sat, 3 May 2025
+- Winebunker, Brussels · Fri, 22 Mar 2024
+- Afterkaas, Brussels · Sun, 10 Dec 2023
 
 ## Shares bills with
 

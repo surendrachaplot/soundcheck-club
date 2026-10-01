@@ -1,6 +1,6 @@
 # Forever Young - Boxing Day Party at Drygate
 
-Forever Young - Boxing Day Party at Drygate on Sat 26 Dec, Glasgow. House. Preview the line-up and save it on soundcheck.
+Forever Young - Boxing Day Party at Drygate on Sat 26 Dec, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

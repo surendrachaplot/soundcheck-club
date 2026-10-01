@@ -1,6 +1,6 @@
 # BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom
 
-BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom on Sat 31 Oct, London. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+BUMPAH: GYAL-O-WEEN 2.0 at Algha's Plantroom on Sat 31 Oct, London. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

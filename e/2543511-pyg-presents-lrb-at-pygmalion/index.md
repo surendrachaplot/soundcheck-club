@@ -1,6 +1,6 @@
 # Pyg presents LRB at Pygmalion
 
-Pyg presents LRB at Pygmalion on Sat 3 Oct, Dublin. House. Preview the line-up and save it on soundcheck.
+Pyg presents LRB at Pygmalion on Sat 3 Oct, Dublin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

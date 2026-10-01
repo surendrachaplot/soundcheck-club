@@ -1,6 +1,6 @@
 # Ambient forte with Knospt at Locke
 
-Ambient forte with Knospt at Locke on Sun 4 Oct, Hamburg. 1 artist on the bill: Knospt. Preview the line-up and save it on soundcheck.
+Ambient forte with Knospt at Locke on Sun 4 Oct, Hamburg. 1 artist: Knospt. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Spin Twist Night at Akvárium Klub
 
-Spin Twist Night at Akvárium Klub on Fri 23 Oct, Budapest. Preview the line-up and save it on soundcheck.
+Spin Twist Night at Akvárium Klub on Fri 23 Oct, Budapest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

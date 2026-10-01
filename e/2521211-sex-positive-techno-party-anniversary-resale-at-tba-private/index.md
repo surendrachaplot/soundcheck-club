@@ -1,6 +1,6 @@
 # Sex-positive techno party // Anniversary // RESALE at TBA - private location, tba 48h before the event to all ticket holders
 
-Sex-positive techno party // Anniversary // RESALE at TBA - private location, tba 48h before the event to all ticket holders on Fri 2 Oct, Barcelona. 1 artist on the bill: Rowsi. Preview the line-up and save it on soundcheck.
+Sex-positive techno party // Anniversary // RESALE at TBA - private location, tba 48h before the event to all ticket holders on Fri 2 Oct, Barcelona. 1 artist: Rowsi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

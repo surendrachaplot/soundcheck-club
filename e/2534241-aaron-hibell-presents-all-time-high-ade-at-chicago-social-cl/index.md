@@ -1,6 +1,6 @@
 # Aaron Hibell PRESENTS ALL TIME HIGH ADE at Chicago Social Club
 
-Aaron Hibell PRESENTS ALL TIME HIGH ADE at Chicago Social Club on Sat 24 Oct, Amsterdam. 4 artists on the bill: Aaron Hibell, Bondo, Kotiēr and Ruthlss. Techno and House. Preview the line-up and save it on soundcheck.
+Aaron Hibell PRESENTS ALL TIME HIGH ADE at Chicago Social Club on Sat 24 Oct, Amsterdam. 4 artists: Aaron Hibell, Bondo, Kotiēr and Ruthlss. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

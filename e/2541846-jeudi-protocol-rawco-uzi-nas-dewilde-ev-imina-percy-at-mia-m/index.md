@@ -1,6 +1,6 @@
 # Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy at Mia Mao
 
-Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy at Mia Mao on Thu 1 Oct, Paris. 1 artist on the bill: Percy. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy at Mia Mao on Thu 1 Oct, Paris. 1 artist: Percy. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

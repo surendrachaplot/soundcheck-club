@@ -1,6 +1,6 @@
 # Ree vol.2 at Club Metro
 
-Ree vol.2 at Club Metro on Sat 14 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+Ree vol.2 at Club Metro on Sat 14 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

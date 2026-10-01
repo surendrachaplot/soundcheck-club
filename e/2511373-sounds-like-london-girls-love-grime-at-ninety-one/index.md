@@ -1,6 +1,6 @@
 # Sounds Like London: Girls Love Grime at Ninety One
 
-Sounds Like London: Girls Love Grime at Ninety One on Sat 10 Oct, London. 1 artist on the bill: Amber Rose. Grime. Preview the line-up and save it on soundcheck.
+Sounds Like London: Girls Love Grime at Ninety One on Sat 10 Oct, London. 1 artist: Amber Rose. Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

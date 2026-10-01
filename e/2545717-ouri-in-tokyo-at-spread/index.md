@@ -1,6 +1,6 @@
 # Ouri in Tokyo at Spread
 
-Ouri in Tokyo at Spread on Fri 9 Oct, Tokyo. 4 artists on the bill: ｎｏｎｏｋａ, Ouri, Takuma Matsunaga and Yoyou. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Ouri in Tokyo at Spread on Fri 9 Oct, Tokyo. 4 artists: ｎｏｎｏｋａ, Ouri, Takuma Matsunaga and Yoyou. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

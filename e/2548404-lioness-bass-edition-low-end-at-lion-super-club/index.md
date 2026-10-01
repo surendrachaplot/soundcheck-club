@@ -1,6 +1,6 @@
 # LIONESS Bass Edition: LOW END at Lion Super Club
 
-LIONESS Bass Edition: LOW END at Lion Super Club on Thu 8 Oct, Seoul. Preview the line-up and save it on soundcheck.
+LIONESS Bass Edition: LOW END at Lion Super Club on Thu 8 Oct, Seoul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

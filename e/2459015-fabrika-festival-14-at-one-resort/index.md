@@ -1,6 +1,6 @@
 # Fabrika Festival 14 at One Resort
 
-Fabrika Festival 14 at One Resort on Thu 5 Nov, Tunisia. 62 artists on the bill: Adema, Alexander Skancke, Aline Umber and Always Late and 58 more. Preview the line-up and save it on soundcheck.
+Fabrika Festival 14 at One Resort on Thu 5 Nov, Tunisia. 62 artists: Adema, Alexander Skancke, Aline Umber and Always Late and 58 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

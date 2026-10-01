@@ -1,6 +1,6 @@
 # Centreforce & Lee Butler Presents: TOGETHER at Freeze HiFi
 
-Centreforce & Lee Butler Presents: TOGETHER at Freeze HiFi on Sat 28 Nov, Liverpool. 1 artist on the bill: Lee Butler. House. Preview the line-up and save it on soundcheck.
+Centreforce & Lee Butler Presents: TOGETHER at Freeze HiFi on Sat 28 Nov, Liverpool. 1 artist: Lee Butler. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

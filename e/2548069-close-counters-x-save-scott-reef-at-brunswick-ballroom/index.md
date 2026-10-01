@@ -1,6 +1,6 @@
 # Close Counters x Save Scott Reef at Brunswick Ballroom
 
-Close Counters x Save Scott Reef at Brunswick Ballroom on Sat 3 Oct, Melbourne. House. Preview the line-up and save it on soundcheck.
+Close Counters x Save Scott Reef at Brunswick Ballroom on Sat 3 Oct, Melbourne. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

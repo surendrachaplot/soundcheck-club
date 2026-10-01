@@ -1,6 +1,6 @@
 # Saulo Pisa & Friends at Macarena Club
 
-Saulo Pisa & Friends at Macarena Club on Wed 21 Oct, Barcelona. 1 artist on the bill: Saulo Pisa. Preview the line-up and save it on soundcheck.
+Saulo Pisa & Friends at Macarena Club on Wed 21 Oct, Barcelona. 1 artist: Saulo Pisa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

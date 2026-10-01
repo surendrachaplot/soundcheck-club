@@ -1,6 +1,6 @@
 # Casa Groove-Berlin at Mama Maria's
 
-Casa Groove-Berlin at Mama Maria's on Fri 2 Oct, Berlin. House and Tech House. Preview the line-up and save it on soundcheck.
+Casa Groove-Berlin at Mama Maria's on Fri 2 Oct, Berlin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

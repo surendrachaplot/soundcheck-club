@@ -1,6 +1,6 @@
 # GRLS - Sala Siroco, Madrid at Sala Siroco
 
-GRLS - Sala Siroco, Madrid on Sun 11 Oct, Madrid. Preview the line-up and save it on soundcheck.
+GRLS - Sala Siroco, Madrid on Sun 11 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

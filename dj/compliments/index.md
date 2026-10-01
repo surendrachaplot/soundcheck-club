@@ -1,8 +1,8 @@
 # Compliments
 
-Compliments is a Bass and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 6 Nov 2026.
+Compliments is a Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
-Compliments is a bass and deep house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, London and New York City. Often billed alongside DJ Trebuchet, Daksh and AYAYA. Next up: M.O.T, London on Fri 6 Nov.
+Compliments is a bass and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Edinburgh, London and New York City. Often billed alongside DJ Trebuchet, Daksh and AYAYA. Next up: M.O.T, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Compliments is a bass and deep house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- The Bongo Club, Edinburgh — Sat, 6 Jun 2026
-- Vespers Club, London — Fri, 6 Feb 2026
-- Sui Generis, London — Fri, 28 Mar 2025
-- Bossa Nova Civic Club, New York City — Fri, 24 Jan 2025
-- Unit 58, London — Sat, 23 Nov 2024
-- The Glove That Fits, London — Sat, 12 Oct 2024
-- TBA, London — Fri, 16 Aug 2024
+- The Bongo Club, Edinburgh · Sat, 6 Jun 2026
+- Vespers Club, London · Fri, 6 Feb 2026
+- Sui Generis, London · Fri, 28 Mar 2025
+- Bossa Nova Civic Club, New York City · Fri, 24 Jan 2025
+- Unit 58, London · Sat, 23 Nov 2024
+- The Glove That Fits, London · Sat, 12 Oct 2024
+- TBA, London · Fri, 16 Aug 2024
 
 ## Shares bills with
 

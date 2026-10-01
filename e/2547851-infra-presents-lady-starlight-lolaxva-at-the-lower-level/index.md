@@ -1,6 +1,6 @@
 # Infra presents: Lady Starlight & LOLAXVA at The Lower Level
 
-Infra presents: Lady Starlight & LOLAXVA at The Lower Level on Sat 17 Oct, Boston. 2 artists on the bill: Lady Starlight and LOLAXVA. Techno. Preview the line-up and save it on soundcheck.
+Infra presents: Lady Starlight & LOLAXVA at The Lower Level on Sat 17 Oct, Boston. 2 artists: Lady Starlight and LOLAXVA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

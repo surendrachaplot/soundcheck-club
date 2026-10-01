@@ -1,6 +1,6 @@
 # Der 8. Tag by Electroamore at Unter Deck
 
-Der 8. Tag by Electroamore at Unter Deck on Sat 14 Nov, Munich. Techno and Electro. Preview the line-up and save it on soundcheck.
+Der 8. Tag by Electroamore at Unter Deck on Sat 14 Nov, Munich. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # JME
 
-JME is a Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+JME is a Grime artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-JME is a grime artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Copenhagen, Dublin and London and 2 more. Often billed alongside Duppy, Kruz Leone and 4am Kru. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
+JME is a grime artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, Copenhagen, Dublin and London and 2 more. Often billed alongside Duppy, Kruz Leone and 4am Kru. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ JME is a grime artist based in United Kingdom, tracked on soundcheck, with 9 set
 
 ## Recently played
 
-- Colour Factory, London — Fri, 24 Apr 2026
-- Index, Dublin — Sat, 4 Apr 2026
-- VEGA, Copenhagen — Thu, 2 Oct 2025
-- fabric, London — Fri, 18 Apr 2025
-- Archives, London — Fri, 22 Nov 2024
-- Crystal Palace Park, London — Sat, 6 Jul 2024
-- Motion Bristol, Bristol — Sat, 29 Apr 2023
+- Colour Factory, London · Fri, 24 Apr 2026
+- Index, Dublin · Sat, 4 Apr 2026
+- VEGA, Copenhagen · Thu, 2 Oct 2025
+- fabric, London · Fri, 18 Apr 2025
+- Archives, London · Fri, 22 Nov 2024
+- Crystal Palace Park, London · Sat, 6 Jul 2024
+- Motion Bristol, Bristol · Sat, 29 Apr 2023
 
 ## Shares bills with
 

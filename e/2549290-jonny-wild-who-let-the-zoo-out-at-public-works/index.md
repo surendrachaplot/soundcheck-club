@@ -1,6 +1,6 @@
 # Jonny Wild - Who Let The Zoo Out at Public Works
 
-Jonny Wild - Who Let The Zoo Out at Public Works on Fri 20 Nov, San Francisco/Oakland. Techno and House. Preview the line-up and save it on soundcheck.
+Jonny Wild - Who Let The Zoo Out at Public Works on Fri 20 Nov, San Francisco/Oakland. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

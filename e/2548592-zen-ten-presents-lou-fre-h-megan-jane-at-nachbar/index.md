@@ -1,6 +1,6 @@
 # Zen Ten presents: LOU FRE$H, Megan Jane at nachbar
 
-Zen Ten presents: LOU FRE$H, Megan Jane at nachbar on Thu 1 Oct, Amsterdam. 2 artists on the bill: LOU FRE$H and Megan Jane. Preview the line-up and save it on soundcheck.
+Zen Ten presents: LOU FRE$H, Megan Jane at nachbar on Thu 1 Oct, Amsterdam. 2 artists: LOU FRE$H and Megan Jane. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

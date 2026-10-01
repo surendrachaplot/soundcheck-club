@@ -1,6 +1,6 @@
 # Come To Butch at Chinois Ibiza
 
-Come To Butch at Chinois Ibiza on Fri 16 Oct, Ibiza. 4 artists on the bill: Bambounou, Butch, Carl Bergé and Toman. House and Tech House. Preview the line-up and save it on soundcheck.
+Come To Butch at Chinois Ibiza on Fri 16 Oct, Ibiza. 4 artists: Bambounou, Butch, Carl Bergé and Toman. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

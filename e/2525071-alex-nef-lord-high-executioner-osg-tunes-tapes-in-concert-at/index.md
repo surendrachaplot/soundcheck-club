@@ -1,6 +1,6 @@
 # Alex Nef + Lord High Executioner + OSG Tunes & Tapes in concert at Specka
 
-Alex Nef + Lord High Executioner + OSG Tunes & Tapes in concert at Specka on Sat 24 Oct, Madrid. Hip-Hop. Preview the line-up and save it on soundcheck.
+Alex Nef + Lord High Executioner + OSG Tunes & Tapes in concert at Specka on Sat 24 Oct, Madrid. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

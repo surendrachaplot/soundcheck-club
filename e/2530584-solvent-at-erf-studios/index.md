@@ -1,6 +1,6 @@
 # SOLVENT at ErF Studios
 
-SOLVENT at ErF Studios on Thu 1 Oct, New York City. 4 artists on the bill: CYCLO BONETTE, estro, Leafy Greens and Very J. Progressive House and Acid. Preview the line-up and save it on soundcheck.
+SOLVENT at ErF Studios on Thu 1 Oct, New York City. 5 artists: CYCLO BONETTE, Devoye, estro and Leafy Greens and 1 more. Progressive House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SOLVENT at ErF Studios on Thu 1 Oct, New York City. 4 artists on the bill: CYCLO
 ## Line-up
 
 - CYCLO BONETTE
+- Devoye
 - estro
 - Leafy Greens
 - Very J

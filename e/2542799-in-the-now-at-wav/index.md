@@ -1,6 +1,6 @@
 # In The Now at WaV
 
-In The Now at WaV on Fri 16 Oct, Liverpool. Techno and Club. Preview the line-up and save it on soundcheck.
+In The Now at WaV on Fri 16 Oct, Liverpool. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

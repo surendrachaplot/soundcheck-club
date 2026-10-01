@@ -1,8 +1,8 @@
 # AXION
 
-AXION is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Fri, 30 Oct 2026.
+AXION is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Fri, 30 Oct 2026.
 
-AXION is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow and Tokyo. Often billed alongside Quail, LAZLO and SINZIN. Next up: Sub Club, Glasgow on Fri 30 Oct.
+AXION is a techno and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow and Tokyo. Often billed alongside Quail, LAZLO and SINZIN. Next up: Sub Club, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ AXION is a techno and minimal techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- SWG3, Glasgow — Fri, 25 Sept 2026
-- Strange Field, Glasgow — Sat, 15 Nov 2025
-- Sub Club, Glasgow — Fri, 29 Aug 2025
-- Room 2 Glasgow, Glasgow — Fri, 28 Mar 2025
-- Audio, Glasgow — Sat, 8 Feb 2025
-- Room 2 Glasgow, Glasgow — Fri, 29 Nov 2024
-- Sub Club, Glasgow — Fri, 30 Aug 2024
-- Ruby Room, Tokyo — Sat, 13 Jul 2024
+- SWG3, Glasgow · Fri, 25 Sept 2026
+- Strange Field, Glasgow · Sat, 15 Nov 2025
+- Sub Club, Glasgow · Fri, 29 Aug 2025
+- Room 2 Glasgow, Glasgow · Fri, 28 Mar 2025
+- Audio, Glasgow · Sat, 8 Feb 2025
+- Room 2 Glasgow, Glasgow · Fri, 29 Nov 2024
+- Sub Club, Glasgow · Fri, 30 Aug 2024
+- Ruby Room, Tokyo · Sat, 13 Jul 2024
 
 ## Shares bills with
 

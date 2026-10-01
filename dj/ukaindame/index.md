@@ -1,8 +1,8 @@
 # Ukãi Ndame
 
-Ukãi Ndame is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+Ukãi Ndame is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
-Ukãi Ndame is an afro house and afro tech artist based in Angola, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Walter Griot, Hyenah and Mista Wallizz. Next up: Melkweg, Amsterdam on Sat 24 Oct.
+Ukãi Ndame is an afro house and afro tech artist based in Angola, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Walter Griot, Hyenah and Mista Wallizz. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ukãi Ndame is an afro house and afro tech artist based in Angola, tracked on so
 
 ## Recently played
 
-- Renate, Berlin — Sat, 5 Sept 2026
-- Amano East-Side, Berlin — Sun, 26 Jul 2026
-- Else, Berlin — Sat, 11 Jul 2026
-- Maaya, Berlin — Sun, 5 Jul 2026
-- Maaya, Berlin — Sat, 23 May 2026
-- Culture Box, Copenhagen — Fri, 8 May 2026
-- Studio1111, Berlin — Fri, 1 May 2026
-- Volt Club Milano, Milan — Thu, 19 Mar 2026
+- Renate, Berlin · Sat, 5 Sept 2026
+- Amano East-Side, Berlin · Sun, 26 Jul 2026
+- Else, Berlin · Sat, 11 Jul 2026
+- Maaya, Berlin · Sun, 5 Jul 2026
+- Maaya, Berlin · Sat, 23 May 2026
+- Culture Box, Copenhagen · Fri, 8 May 2026
+- Studio1111, Berlin · Fri, 1 May 2026
+- Volt Club Milano, Milan · Thu, 19 Mar 2026
 
 ## Shares bills with
 

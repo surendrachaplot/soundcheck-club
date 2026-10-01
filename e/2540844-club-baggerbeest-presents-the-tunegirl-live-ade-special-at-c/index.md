@@ -1,6 +1,6 @@
 # Club Baggerbeest presents: THE TUNEGIRL (live) - ADE SPECIAL at Club Baggerbeest
 
-Club Baggerbeest presents: THE TUNEGIRL (live) - ADE SPECIAL on Sat 24 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+Club Baggerbeest presents: THE TUNEGIRL (live) - ADE SPECIAL on Sat 24 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # S.society: Jeff Mills, Modhérée at Le Sucre
 
-S.society: Jeff Mills, Modhérée at Le Sucre on Sun 25 Oct, Lyon. 1 artist on the bill: Jeff Mills. Techno. Preview the line-up and save it on soundcheck.
+S.society: Jeff Mills, Modhérée at Le Sucre on Sun 25 Oct, Lyon. 1 artist: Jeff Mills. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

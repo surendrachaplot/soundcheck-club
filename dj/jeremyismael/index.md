@@ -1,8 +1,8 @@
 # Jeremy Ismael
 
-Jeremy Ismael is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jeremy Ismael is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Jeremy Ismael is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit, Miami and New York City. Often billed alongside Alex Cecil, Alan Epps and Danyelino. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Jeremy Ismael is a house and deep house artist based in United States of America, with 12 gigs on soundcheck across Detroit, Miami and New York City. Often billed alongside Alex Cecil, Alan Epps and Danyelino. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jeremy Ismael is a house and deep house artist based in United States of America
 
 ## Recently played
 
-- Sipsip Rum Bar, Miami — Sun, 7 Dec 2025
-- Do Not Sit On The Furniture, Miami — Thu, 13 Nov 2025
-- Marble Bar, Detroit — Sat, 25 Oct 2025
-- Earthly Delights, New York City — Mon, 7 Jul 2025
-- TBA Brooklyn, New York City — Sun, 29 Jun 2025
-- Lincoln Factory, Detroit — Sat, 21 Jun 2025
-- Coyo Taco, Miami — Sat, 29 Mar 2025
-- Club Space Miami, Miami — Sat, 22 Mar 2025
+- Sipsip Rum Bar, Miami · Sun, 7 Dec 2025
+- Do Not Sit On The Furniture, Miami · Thu, 13 Nov 2025
+- Marble Bar, Detroit · Sat, 25 Oct 2025
+- Earthly Delights, New York City · Mon, 7 Jul 2025
+- TBA Brooklyn, New York City · Sun, 29 Jun 2025
+- Lincoln Factory, Detroit · Sat, 21 Jun 2025
+- Coyo Taco, Miami · Sat, 29 Mar 2025
+- Club Space Miami, Miami · Sat, 22 Mar 2025
 
 ## Shares bills with
 

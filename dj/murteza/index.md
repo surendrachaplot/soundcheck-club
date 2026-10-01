@@ -1,8 +1,8 @@
 # Murteza
 
-Murteza is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Şahika, Istanbul on Fri, 23 Oct 2026.
+Murteza is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
 
-Murteza is a garage and bass artist based in Turkey, tracked on soundcheck, with 8 sets logged across Istanbul. Often billed alongside Particles, Jung and Rectør. Next up: Şahika, Istanbul on Fri 23 Oct.
+Murteza is a garage and bass artist based in Turkey, with 8 gigs on soundcheck across Istanbul. Often billed alongside Particles, Jung and Rectør. Next up: Şahika, Istanbul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Murteza is a garage and bass artist based in Turkey, tracked on soundcheck, with
 
 ## Recently played
 
-- Şahika, Istanbul — Fri, 27 Feb 2026
-- Roxy Club, Istanbul — Fri, 26 Dec 2025
-- Sumahan, Istanbul — Fri, 24 Oct 2025
-- Şahika, Istanbul — Fri, 11 Jul 2025
-- Şahika, Istanbul — Fri, 14 Mar 2025
-- Şahika, Istanbul — Sun, 16 Feb 2025
-- Şahika, Istanbul — Sat, 28 Dec 2024
+- Şahika, Istanbul · Fri, 27 Feb 2026
+- Roxy Club, Istanbul · Fri, 26 Dec 2025
+- Sumahan, Istanbul · Fri, 24 Oct 2025
+- Şahika, Istanbul · Fri, 11 Jul 2025
+- Şahika, Istanbul · Fri, 14 Mar 2025
+- Şahika, Istanbul · Sun, 16 Feb 2025
+- Şahika, Istanbul · Sat, 28 Dec 2024
 
 ## Shares bills with
 

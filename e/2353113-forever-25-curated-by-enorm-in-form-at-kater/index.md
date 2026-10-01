@@ -1,6 +1,6 @@
 # FOREVER 25 curated by Enorm in Form at Kater
 
-FOREVER 25 curated by Enorm in Form at Kater on Fri 9 Oct, Berlin. 27 artists on the bill: Adri Tüde, Agustin Giri, Alicia Hahn and Annett Gapstream and 23 more. House and Tech House. Preview the line-up and save it on soundcheck.
+FOREVER 25 curated by Enorm in Form at Kater on Fri 9 Oct, Berlin. 27 artists: Adri Tüde, Agustin Giri, Alicia Hahn and Annett Gapstream and 23 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

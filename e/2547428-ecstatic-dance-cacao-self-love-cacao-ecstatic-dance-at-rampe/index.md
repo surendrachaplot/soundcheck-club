@@ -1,6 +1,6 @@
 # ECSTATIC DANCE CACAO SELF LOVE CACAO + ECSTATIC DANCE at Rampe 70
 
-ECSTATIC DANCE CACAO SELF LOVE CACAO + ECSTATIC DANCE at Rampe 70 on Sat 24 Oct, Zurich. Techno and Deep House. Preview the line-up and save it on soundcheck.
+ECSTATIC DANCE CACAO SELF LOVE CACAO + ECSTATIC DANCE at Rampe 70 on Sat 24 Oct, Zurich. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

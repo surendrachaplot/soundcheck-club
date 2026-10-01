@@ -1,6 +1,6 @@
 # Tempesta Music at Macarena Club
 
-Tempesta Music at Macarena Club on Sat 17 Oct, Barcelona. 2 artists on the bill: Dj Kosmos and Mr. B. Preview the line-up and save it on soundcheck.
+Tempesta Music at Macarena Club on Sat 17 Oct, Barcelona. 2 artists: Dj Kosmos and Mr. B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

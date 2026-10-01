@@ -1,8 +1,8 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Sat, 3 Oct 2026.
+Luke Alessi is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 121 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: H0L0, New York City on Sat 3 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: H0L0, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- Quinta Mira Rio, Lisbon — Sat, 26 Sept 2026
-- The Cause, London — Sun, 20 Sept 2026
-- Hidden, Manchester — Sat, 19 Sept 2026
-- Lofi, Amsterdam — Sat, 12 Sept 2026
-- DC-10, Ibiza — Mon, 7 Sept 2026
-- Fuse, Brussels — Sat, 22 Aug 2026
-- Klub Werkstatt, Copenhagen — Fri, 21 Aug 2026
-- Shelter Amsterdam, Amsterdam — Fri, 14 Aug 2026
+- Quinta Mira Rio, Lisbon · Sat, 26 Sept 2026
+- The Cause, London · Sun, 20 Sept 2026
+- Hidden, Manchester · Sat, 19 Sept 2026
+- Lofi, Amsterdam · Sat, 12 Sept 2026
+- DC-10, Ibiza · Mon, 7 Sept 2026
+- Fuse, Brussels · Sat, 22 Aug 2026
+- Klub Werkstatt, Copenhagen · Fri, 21 Aug 2026
+- Shelter Amsterdam, Amsterdam · Fri, 14 Aug 2026
 
 ## Shares bills with
 

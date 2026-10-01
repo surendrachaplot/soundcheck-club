@@ -1,6 +1,6 @@
 # Tropical Experience 2026 with Fideles at Ble Azure Peninsula
 
-Tropical Experience 2026 with Fideles at Ble Azure Peninsula on Sun 11 Oct, Athens. 3 artists on the bill: Amelia, Fideles and Innassi. Electronica. Preview the line-up and save it on soundcheck.
+Tropical Experience 2026 with Fideles at Ble Azure Peninsula on Sun 11 Oct, Athens. 3 artists: Amelia, Fideles and Innassi. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Taylah Elaine - Venue MOT at M.O.T
 
-Taylah Elaine - Venue MOT at M.O.T on Sat 28 Nov, London. 1 artist on the bill: Taylah Elaine. Preview the line-up and save it on soundcheck.
+Taylah Elaine - Venue MOT at M.O.T on Sat 28 Nov, London. 1 artist: Taylah Elaine. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

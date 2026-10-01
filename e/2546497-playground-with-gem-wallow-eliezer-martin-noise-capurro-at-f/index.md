@@ -1,6 +1,6 @@
 # PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro at Freedonia
 
-PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro at Freedonia on Sat 3 Oct, Barcelona. 3 artists on the bill: Eliezer, Gem Wallow and Martin Noise. House and Club. Preview the line-up and save it on soundcheck.
+PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro at Freedonia on Sat 3 Oct, Barcelona. 3 artists: Eliezer, Gem Wallow and Martin Noise. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

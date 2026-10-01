@@ -1,8 +1,8 @@
 # Layer Studio 20
 
-Layer Studio 20 is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "YBDG (영보이댄싱그룹): Not Not Dance Tour, Seoul — Hosted by Palm Tree Academy" on Sat, 24 Oct 2026.
+Layer Studio 20 is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "YBDG (영보이댄싱그룹): Not Not Dance Tour, Seoul — Hosted by Palm Tree Academy" on Sat, 24 Oct 2026.
 
-Layer Studio 20 is a music venue in Seoul listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 236, Wonhyo-ro, Yongsan-gu, Seoul, 04315 Korea.
+Layer Studio 20 is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 236, Wonhyo-ro, Yongsan-gu, Seoul, 04315 Korea.
 
 ## What's on
 

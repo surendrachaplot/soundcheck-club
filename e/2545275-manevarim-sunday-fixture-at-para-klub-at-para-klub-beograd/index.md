@@ -1,6 +1,6 @@
 # MANEVARIM Sunday fixture at Para klub at Para Klub Beograd
 
-MANEVARIM Sunday fixture at Para klub at Para Klub Beograd on Sun 4 Oct, Belgrade. 3 artists on the bill: ShibiDorra, Vibrain and Zana. Techno and Club. Preview the line-up and save it on soundcheck.
+MANEVARIM Sunday fixture at Para klub at Para Klub Beograd on Sun 4 Oct, Belgrade. 3 artists: ShibiDorra, Vibrain and Zana. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

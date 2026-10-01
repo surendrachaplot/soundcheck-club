@@ -1,6 +1,6 @@
 # move my way afterparty ~ eora at The Lord Gladstone
 
-move my way afterparty ~ eora at The Lord Gladstone on Sat 3 Oct, Sydney. Preview the line-up and save it on soundcheck.
+move my way afterparty ~ eora at The Lord Gladstone on Sat 3 Oct, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

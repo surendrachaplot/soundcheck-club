@@ -1,8 +1,8 @@
 # Violetta (1)
 
-Violetta (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
+Violetta (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
-Violetta is a techno and trance artist based in Austria, tracked on soundcheck, with 40 sets logged across Berlin, Tokyo and Vienna. Often billed alongside Gerald VDH, DJ Deadlift and Hannah mit Hut. Next up: FLUCC, Vienna on Fri 2 Oct.
+Violetta is a techno and trance artist based in Austria, with 40 gigs on soundcheck across Berlin, Tokyo and Vienna. Often billed alongside Gerald VDH, DJ Deadlift and Hannah mit Hut. Next up: FLUCC, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Violetta is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Fri, 18 Sept 2026
-- PRST, Vienna — Fri, 7 Aug 2026
-- ÆDEN, Berlin — Fri, 31 Jul 2026
-- Grelle Forelle, Vienna — Fri, 24 Jul 2026
-- Grelle Forelle, Vienna — Fri, 12 Jun 2026
-- Grelle Forelle, Vienna — Fri, 8 May 2026
-- Grelle Forelle, Vienna — Fri, 17 Apr 2026
-- Grelle Forelle, Vienna — Sat, 28 Feb 2026
+- Grelle Forelle, Vienna · Fri, 18 Sept 2026
+- PRST, Vienna · Fri, 7 Aug 2026
+- ÆDEN, Berlin · Fri, 31 Jul 2026
+- Grelle Forelle, Vienna · Fri, 24 Jul 2026
+- Grelle Forelle, Vienna · Fri, 12 Jun 2026
+- Grelle Forelle, Vienna · Fri, 8 May 2026
+- Grelle Forelle, Vienna · Fri, 17 Apr 2026
+- Grelle Forelle, Vienna · Sat, 28 Feb 2026
 
 ## Shares bills with
 

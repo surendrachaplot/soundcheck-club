@@ -1,6 +1,6 @@
 # LA GOONY CHONGA at TBA - 818-724-7836
 
-LA GOONY CHONGA at TBA - 818-724-7836 on Sat 17 Oct, Los Angeles. 5 artists on the bill: BL4ZE, Chaboi, Krissy Marchante and T3KNO and 1 more. Reggaeton and Guaracha. Preview the line-up and save it on soundcheck.
+LA GOONY CHONGA at TBA - 818-724-7836 on Sat 17 Oct, Los Angeles. 5 artists: BL4ZE, Chaboi, Krissy Marchante and T3KNO and 1 more. Reggaeton and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "POR LA CUAL" on Sat, 10 Oct 2026.
+The Monkey Loft is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "POR LA CUAL" on Sat, 10 Oct 2026.
 
-The Monkey Loft is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including I.S.H. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
+The Monkey Loft is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including I.S.H. See dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
 ## What's on
 

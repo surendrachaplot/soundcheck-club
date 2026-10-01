@@ -1,6 +1,6 @@
 # Club Zimmermanns with YUE (Liquicity, NL) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Club Zimmermanns
 
-Club Zimmermanns with YUE (Liquicity, NL) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Club Zimmermanns with YUE (Liquicity, NL) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

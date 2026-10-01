@@ -1,6 +1,6 @@
 # DEEP MEDi at Open Ground - Extended Club Night at Open Ground
 
-DEEP MEDi at Open Ground - Extended Club Night on Sat 7 Nov, Wuppertal. 1 artist on the bill: Mala. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+DEEP MEDi at Open Ground - Extended Club Night on Sat 7 Nov, Wuppertal. 1 artist: Mala. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

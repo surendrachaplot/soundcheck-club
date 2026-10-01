@@ -1,8 +1,8 @@
 # CRITICAL ERROR 404
 
-CRITICAL ERROR 404 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Park.Cologne, Cologne on Sat, 3 Oct 2026.
+CRITICAL ERROR 404 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Park.Cologne, Cologne on Sat, 3 Oct 2026.
 
-CRITICAL ERROR 404 is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Atzendent, DJ Achim Feuervogel and HugoBass303. Next up: Park.Cologne, Cologne on Sat 3 Oct.
+CRITICAL ERROR 404 is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Atzendent, DJ Achim Feuervogel and HugoBass303. Next up: Park.Cologne, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ CRITICAL ERROR 404 is a techno and trance artist based in Germany, tracked on so
 
 ## Recently played
 
-- Schrotty, Cologne — Fri, 11 Sept 2026
-- Fundbureau, Hamburg — Sat, 15 Aug 2026
-- Helios37, Cologne — Fri, 12 Jun 2026
-- Lokschuppen Berlin, Berlin — Sat, 30 May 2026
-- Schrotty, Cologne — Fri, 29 May 2026
-- Fvtvr, Paris — Sat, 16 May 2026
-- TBA - KESSEL SUED at Südbrücke, Cologne — Sat, 2 May 2026
-- Hotel El Bruc, Barcelona — Sat, 25 Apr 2026
+- Schrotty, Cologne · Fri, 11 Sept 2026
+- Fundbureau, Hamburg · Sat, 15 Aug 2026
+- Helios37, Cologne · Fri, 12 Jun 2026
+- Lokschuppen Berlin, Berlin · Sat, 30 May 2026
+- Schrotty, Cologne · Fri, 29 May 2026
+- Fvtvr, Paris · Sat, 16 May 2026
+- TBA - KESSEL SUED at Südbrücke, Cologne · Sat, 2 May 2026
+- Hotel El Bruc, Barcelona · Sat, 25 Apr 2026
 
 ## Shares bills with
 

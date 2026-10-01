@@ -1,6 +1,6 @@
 # FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party at Insomnia
 
-FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party at Insomnia on Fri 20 Nov, Berlin. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party at Insomnia on Fri 20 Nov, Berlin. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

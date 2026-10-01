@@ -1,8 +1,8 @@
 # SRI (1)
 
-SRI (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
+SRI (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
-SRI is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Los Angeles and New York City. Often billed alongside ARMANA KHAN, 444 and ARINI. Next up: Elsewhere, New York City on Sat 17 Oct.
+SRI is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Los Angeles and New York City. Often billed alongside ARMANA KHAN, 444 and ARINI. Next up: Elsewhere, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SRI is a house and techno artist based in United States of America, tracked on s
 
 ## Recently played
 
-- Mood Ring, New York City — Wed, 26 Aug 2026
-- Jupiter Disco, New York City — Fri, 31 Jul 2026
-- Elsewhere, New York City — Sat, 25 Jul 2026
-- Mood Ring, New York City — Sat, 27 Jun 2026
-- Happyfun Hideaway, New York City — Sat, 11 Apr 2026
-- SILO, New York City — Fri, 3 Apr 2026
-- Garibaldi De Noche, New York City — Fri, 30 Jan 2026
-- public records, New York City — Sun, 14 Dec 2025
+- Mood Ring, New York City · Wed, 26 Aug 2026
+- Jupiter Disco, New York City · Fri, 31 Jul 2026
+- Elsewhere, New York City · Sat, 25 Jul 2026
+- Mood Ring, New York City · Sat, 27 Jun 2026
+- Happyfun Hideaway, New York City · Sat, 11 Apr 2026
+- SILO, New York City · Fri, 3 Apr 2026
+- Garibaldi De Noche, New York City · Fri, 30 Jan 2026
+- public records, New York City · Sun, 14 Dec 2025
 
 ## Shares bills with
 

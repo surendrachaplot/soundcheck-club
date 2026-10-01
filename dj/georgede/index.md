@@ -1,8 +1,8 @@
 # GEORGE aka DR.RADSPORT
 
-GEORGE aka DR.RADSPORT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Amp, Munster on Fri, 9 Oct 2026.
+GEORGE aka DR.RADSPORT is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amp, Munster on Fri, 9 Oct 2026.
 
-GEORGE aka DR.RADSPORT is a trance and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Budapest, Cologne and Düsseldorf and 9 more. Often billed alongside DJ Achim Feuervogel, DICE and zwilling.. Next up: Amp, Munster on Fri 9 Oct.
+GEORGE aka DR.RADSPORT is a trance and techno artist based in Germany, with 54 gigs on soundcheck across Berlin, Budapest, Cologne and Düsseldorf and 9 more. Often billed alongside DJ Achim Feuervogel, DICE and zwilling.. Next up: Amp, Munster on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ GEORGE aka DR.RADSPORT is a trance and techno artist based in Germany, tracked o
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 5 Sept 2026
-- Schlachthof Wiesbaden, Frankfurt — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Lehmann Club, Stuttgart — Fri, 28 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
-- OST, Berlin — Sat, 25 Jul 2026
-- OST, Berlin — Fri, 10 Jul 2026
+- Lokschuppen Berlin, Berlin · Sat, 5 Sept 2026
+- Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Lehmann Club, Stuttgart · Fri, 28 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
+- OST, Berlin · Sat, 25 Jul 2026
+- OST, Berlin · Fri, 10 Jul 2026
 
 ## Shares bills with
 

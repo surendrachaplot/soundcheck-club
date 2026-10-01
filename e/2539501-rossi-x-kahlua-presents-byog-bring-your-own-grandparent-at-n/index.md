@@ -1,6 +1,6 @@
 # Rossi. x Kahlua presents 'BYOG' - Bring Your Own Grandparent at Number 90 Bar Hackney Wick
 
-Rossi. x Kahlua presents 'BYOG' - Bring Your Own Grandparent at Number 90 Bar Hackney Wick on Thu 8 Oct, London. Preview the line-up and save it on soundcheck.
+Rossi. x Kahlua presents 'BYOG' - Bring Your Own Grandparent at Number 90 Bar Hackney Wick on Thu 8 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

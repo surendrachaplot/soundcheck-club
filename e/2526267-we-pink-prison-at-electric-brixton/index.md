@@ -1,6 +1,6 @@
 # WE Pink: Prison at Electric Brixton
 
-WE Pink: Prison at Electric Brixton on Sat 3 Oct, London. House. Preview the line-up and save it on soundcheck.
+WE Pink: Prison at Electric Brixton on Sat 3 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

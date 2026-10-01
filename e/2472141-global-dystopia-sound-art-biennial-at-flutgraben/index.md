@@ -1,6 +1,6 @@
 # Global Dystopia Sound Art Biennial at Flutgraben
 
-Global Dystopia Sound Art Biennial at Flutgraben on Fri 2 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Global Dystopia Sound Art Biennial at Flutgraben on Fri 2 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

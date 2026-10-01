@@ -1,6 +1,6 @@
 # Isolate: Ede at Frankhan Selectist
 
-Isolate: Ede at Frankhan Selectist on Fri 30 Oct, Istanbul. 3 artists on the bill: Alican, Ede and Murat Uncuoglu. House and Electronica. Preview the line-up and save it on soundcheck.
+Isolate: Ede at Frankhan Selectist on Fri 30 Oct, Istanbul. 3 artists: Alican, Ede and Murat Uncuoglu. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

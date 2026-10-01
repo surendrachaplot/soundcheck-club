@@ -1,6 +1,6 @@
 # bratty • with charli xcx & other brat coded artists • berlin at ://about blank
 
-bratty • with charli xcx & other brat coded artists • berlin at ://about blank on Fri 23 Oct, Berlin. Electro and Pop. Preview the line-up and save it on soundcheck.
+bratty • with charli xcx & other brat coded artists • berlin at ://about blank on Fri 23 Oct, Berlin. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

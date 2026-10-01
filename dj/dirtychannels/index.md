@@ -1,8 +1,8 @@
 # Dirty Channels
 
-Dirty Channels is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Open Air Genève, Geneva on Sat, 3 Oct 2026.
+Dirty Channels is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Air Genève, Geneva on Sat, 3 Oct 2026.
 
-Dirty Channels is a house and disco artist based in Italy, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Brazil and Geneva and 14 more. Often billed alongside Eternal Love, DJLMP and Bugsy. Next up: Open Air Genève, Geneva on Sat 3 Oct.
+Dirty Channels is a house and disco artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Geneva and 14 more. Often billed alongside Eternal Love, DJLMP and Bugsy. Next up: Open Air Genève, Geneva on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Dirty Channels is a house and disco artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
-- Club Malasaña, Madrid — Sat, 12 Sept 2026
-- Parco Sempione, Milan — Sun, 30 Aug 2026
-- Calatheabeachclub, Naples — Sat, 15 Aug 2026
-- Parco La Spezia, Milan — Sun, 5 Jul 2026
-- Zenn Rooftop, Liverpool — Sun, 24 May 2026
-- Arca, Milan — Sat, 23 May 2026
-- Arca, Milan — Sat, 25 Apr 2026
-- Sacré, Paris — Sat, 11 Apr 2026
+- Club Malasaña, Madrid · Sat, 12 Sept 2026
+- Parco Sempione, Milan · Sun, 30 Aug 2026
+- Calatheabeachclub, Naples · Sat, 15 Aug 2026
+- Parco La Spezia, Milan · Sun, 5 Jul 2026
+- Zenn Rooftop, Liverpool · Sun, 24 May 2026
+- Arca, Milan · Sat, 23 May 2026
+- Arca, Milan · Sat, 25 Apr 2026
+- Sacré, Paris · Sat, 11 Apr 2026
 
 ## Shares bills with
 

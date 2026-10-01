@@ -1,6 +1,6 @@
 # ALIEN LIVE - Colin Benders at COSMOS CLUB at Cosmos Club Sevilla
 
-ALIEN LIVE - Colin Benders at COSMOS CLUB at Cosmos Club Sevilla on Fri 18 Dec, South. 1 artist on the bill: Colin Benders. Preview the line-up and save it on soundcheck.
+ALIEN LIVE - Colin Benders at COSMOS CLUB at Cosmos Club Sevilla on Fri 18 Dec, South. 1 artist: Colin Benders. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

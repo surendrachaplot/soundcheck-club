@@ -1,6 +1,6 @@
 # CROW with Planetary Assault Systems live at LAB theCLUB
 
-CROW with Planetary Assault Systems live at LAB theCLUB on Fri 2 Oct, Madrid. 4 artists on the bill: Jakka, Mystral, Pärdo and Planetary Assault Systems. Techno. Preview the line-up and save it on soundcheck.
+CROW with Planetary Assault Systems live at LAB theCLUB on Fri 2 Oct, Madrid. 4 artists: Jakka, Mystral, Pärdo and Planetary Assault Systems. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

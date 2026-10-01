@@ -1,6 +1,6 @@
 # DOUBLE PHOQUE at Panic Room
 
-DOUBLE PHOQUE at Panic Room on Wed 14 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+DOUBLE PHOQUE at Panic Room on Wed 14 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

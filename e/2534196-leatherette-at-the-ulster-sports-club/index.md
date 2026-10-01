@@ -1,6 +1,6 @@
 # LEATHERETTE at The Ulster Sports Club
 
-LEATHERETTE at The Ulster Sports Club on Sat 10 Oct, Belfast. Techno and Electro. Preview the line-up and save it on soundcheck.
+LEATHERETTE at The Ulster Sports Club on Sat 10 Oct, Belfast. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Before the lights go out - LQD all nighter at Pavilon
 
-Before the lights go out - LQD all nighter at Pavilon on Sat 3 Oct, Budapest. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Before the lights go out - LQD all nighter at Pavilon on Sat 3 Oct, Budapest. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

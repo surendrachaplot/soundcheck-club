@@ -1,6 +1,6 @@
 # No Signal Techno x 2 Rooms at TBA - BLOQ Seenspace Thonglor 13 
 
-No Signal Techno x 2 Rooms at TBA - BLOQ Seenspace Thonglor 13  on Sat 3 Oct, Bangkok. Bass and Industrial. Preview the line-up and save it on soundcheck.
+No Signal Techno x 2 Rooms at TBA - BLOQ Seenspace Thonglor 13  on Sat 3 Oct, Bangkok. Bass and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

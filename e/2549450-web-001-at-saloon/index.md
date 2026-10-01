@@ -1,6 +1,6 @@
 # WEB-001 at Saloon
 
-WEB-001 at Saloon on Sun 22 Nov, Tokyo. 2 artists on the bill: illequal and Pholo. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+WEB-001 at Saloon on Sun 22 Nov, Tokyo. 2 artists: illequal and Pholo. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

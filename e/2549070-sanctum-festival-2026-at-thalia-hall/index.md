@@ -1,6 +1,6 @@
 # Sanctum Festival 2026 at Thalia Hall
 
-Sanctum Festival 2026 at Thalia Hall on Fri 30 Oct, Chicago. 3 artists on the bill: Crash Course In Science, Kontravoid and Zanias. Industrial. Preview the line-up and save it on soundcheck.
+Sanctum Festival 2026 at Thalia Hall on Fri 30 Oct, Chicago. 3 artists: Crash Course In Science, Kontravoid and Zanias. Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

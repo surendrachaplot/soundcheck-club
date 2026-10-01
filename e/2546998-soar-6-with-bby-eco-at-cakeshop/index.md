@@ -1,6 +1,6 @@
 # SOAR 6 with Bby Eco at Cakeshop
 
-SOAR 6 with Bby Eco at Cakeshop on Thu 8 Oct, Seoul. 3 artists on the bill: Bby Eco, DDD and Mount XLR. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+SOAR 6 with Bby Eco at Cakeshop on Thu 8 Oct, Seoul. 3 artists: Bby Eco, DDD and Mount XLR. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

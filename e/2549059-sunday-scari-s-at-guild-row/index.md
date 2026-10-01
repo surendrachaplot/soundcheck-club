@@ -1,6 +1,6 @@
 # Sunday Scari's at Guild Row
 
-Sunday Scari's at Guild Row on Sun 4 Oct, Chicago. 3 artists on the bill: Dj Scari, Leesh and swesdo. Downtempo. Preview the line-up and save it on soundcheck.
+Sunday Scari's at Guild Row on Sun 4 Oct, Chicago. 3 artists: Dj Scari, Leesh and swesdo. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

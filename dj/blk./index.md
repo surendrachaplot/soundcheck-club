@@ -1,8 +1,8 @@
 # blk.
 
-blk. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+blk. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
-blk. is a techno and trance artist based in Ireland, tracked on soundcheck, with 141 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
+blk. is a techno and trance artist based in Ireland, with 141 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ blk. is a techno and trance artist based in Ireland, tracked on soundcheck, with
 
 ## Recently played
 
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 7 Sept 2026
-- Boucher Road Fields, Belfast — Sun, 30 Aug 2026
-- The Telegraph Building, Belfast — Sun, 30 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
-- Hippodrome de Vincennes, Paris — Sat, 8 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 3 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 25 Jun 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
+- Boucher Road Fields, Belfast · Sun, 30 Aug 2026
+- The Telegraph Building, Belfast · Sun, 30 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 17 Aug 2026
+- Hippodrome de Vincennes, Paris · Sat, 8 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 3 Aug 2026
+- Amnesia Ibiza, Ibiza · Thu, 25 Jun 2026
 
 ## Shares bills with
 

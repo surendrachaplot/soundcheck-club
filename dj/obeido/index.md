@@ -1,8 +1,8 @@
 # Obeido
 
-Obeido is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Obeido is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Obeido is a garage and house artist based in Australia, tracked on soundcheck, with 42 sets logged across Melbourne and Sydney. Often billed alongside Bouki, Bella Bella and Jane Decks. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Obeido is a garage and house artist based in Australia, with 42 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Bella Bella and Jane Decks. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Obeido is a garage and house artist based in Australia, tracked on soundcheck, w
 
 ## Recently played
 
-- Solace, Melbourne — Sat, 13 Jun 2026
-- Chinese Laundry, Sydney — Fri, 5 Jun 2026
-- Chinese Laundry, Sydney — Fri, 15 May 2026
-- TBA, Sydney — Sun, 12 Apr 2026
-- The Ivy, Sydney — Sun, 5 Apr 2026
-- TBA, Sydney — Sat, 21 Feb 2026
-- Chinese Laundry, Sydney — Fri, 30 Jan 2026
-- Manning Bar, Sydney — Fri, 23 Jan 2026
+- Solace, Melbourne · Sat, 13 Jun 2026
+- Chinese Laundry, Sydney · Fri, 5 Jun 2026
+- Chinese Laundry, Sydney · Fri, 15 May 2026
+- TBA, Sydney · Sun, 12 Apr 2026
+- The Ivy, Sydney · Sun, 5 Apr 2026
+- TBA, Sydney · Sat, 21 Feb 2026
+- Chinese Laundry, Sydney · Fri, 30 Jan 2026
+- Manning Bar, Sydney · Fri, 23 Jan 2026
 
 ## Shares bills with
 

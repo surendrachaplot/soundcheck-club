@@ -1,6 +1,6 @@
 # On The Level: A Nightmare On Hope Street at Frederik's Bar
 
-On The Level: A Nightmare On Hope Street at Frederik's Bar on Sat 31 Oct, Liverpool. 3 artists on the bill: Beechy, Izaac Moses and LARA-RA. House and Disco. Preview the line-up and save it on soundcheck.
+On The Level: A Nightmare On Hope Street at Frederik's Bar on Sat 31 Oct, Liverpool. 3 artists: Beechy, Izaac Moses and LARA-RA. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

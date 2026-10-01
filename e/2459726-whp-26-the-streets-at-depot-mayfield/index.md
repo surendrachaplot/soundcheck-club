@@ -1,6 +1,6 @@
 # WHP 26 /// The Streets at Depot Mayfield
 
-WHP 26 /// The Streets at Depot Mayfield on Thu 5 Nov, Manchester. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+WHP 26 /// The Streets at Depot Mayfield on Thu 5 Nov, Manchester. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

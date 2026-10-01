@@ -1,8 +1,8 @@
 # Blackbox.
 
-Blackbox. is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Echoes" on Fri, 13 Nov 2026.
+Blackbox. is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Echoes" on Fri, 13 Nov 2026.
 
-Blackbox. is a music venue in Nürnberg listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Blackbox. is a music venue in Nürnberg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

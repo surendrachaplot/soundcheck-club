@@ -1,8 +1,8 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
+Avangart Tabldot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
 
-Avangart Tabldot is a house and afro house artist based in Turkey, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
+Avangart Tabldot is a house and afro house artist based in Turkey, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Avangart Tabldot is a house and afro house artist based in Turkey, tracked on so
 
 ## Recently played
 
-- Amsterdamse Bos, Amsterdam — Sat, 5 Sept 2026
-- Scorpios, Mykonos — Tue, 1 Sept 2026
-- Königsplatz München, Munich — Sat, 29 Aug 2026
-- Cova Santa, Ibiza — Fri, 28 Aug 2026
-- Scorpios, Mykonos — Thu, 27 Aug 2026
-- Chinois Ibiza, Ibiza — Sun, 9 Aug 2026
-- Sala Upload Barcelona, Barcelona — Sat, 8 Aug 2026
-- Boston Manor Park, London — Sun, 26 Jul 2026
+- Amsterdamse Bos, Amsterdam · Sat, 5 Sept 2026
+- Scorpios, Mykonos · Tue, 1 Sept 2026
+- Königsplatz München, Munich · Sat, 29 Aug 2026
+- Cova Santa, Ibiza · Fri, 28 Aug 2026
+- Scorpios, Mykonos · Thu, 27 Aug 2026
+- Chinois Ibiza, Ibiza · Sun, 9 Aug 2026
+- Sala Upload Barcelona, Barcelona · Sat, 8 Aug 2026
+- Boston Manor Park, London · Sun, 26 Jul 2026
 
 ## Shares bills with
 

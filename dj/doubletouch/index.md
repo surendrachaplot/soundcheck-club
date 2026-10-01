@@ -1,8 +1,8 @@
 # Double Touch
 
-Double Touch is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
+Double Touch is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
 
-Double Touch is a deep house and house artist based in Australia, tracked on soundcheck, with 51 sets logged across Bali, Barcelona, Byron Bay and Chicago and 15 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
+Double Touch is a deep house and house artist based in Australia, with 51 gigs on soundcheck across Bali, Barcelona, Byron Bay and Chicago and 15 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Double Touch is a deep house and house artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Industry City, New York City — Sat, 20 Jun 2026
-- TBA - Private Location, San Diego — Sun, 14 Jun 2026
-- Members, Los Angeles — Fri, 12 Jun 2026
-- Open Aera, Toronto — Sat, 6 Jun 2026
-- Ex Hacienda de San Pablo de Enmedio, Mexico City — Sat, 16 May 2026
-- Members, Los Angeles — Fri, 3 Oct 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 18 Sept 2025
-- Whispers At Oak Street Beach, Chicago — Sat, 16 Aug 2025
+- Industry City, New York City · Sat, 20 Jun 2026
+- TBA - Private Location, San Diego · Sun, 14 Jun 2026
+- Members, Los Angeles · Fri, 12 Jun 2026
+- Open Aera, Toronto · Sat, 6 Jun 2026
+- Ex Hacienda de San Pablo de Enmedio, Mexico City · Sat, 16 May 2026
+- Members, Los Angeles · Fri, 3 Oct 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 18 Sept 2025
+- Whispers At Oak Street Beach, Chicago · Sat, 16 Aug 2025
 
 ## Shares bills with
 

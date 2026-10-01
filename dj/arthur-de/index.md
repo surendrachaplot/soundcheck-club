@@ -1,8 +1,8 @@
 # Arthur (DE)
 
-Arthur (DE) is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
+Arthur (DE) is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Nowadays, New York City on Sat 24 Oct.
+Arthur (DE) is a dub and dancehall artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Golden Pudel Club, Hamburg — Sun, 6 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
-- Kelvedon Hall, London — Fri, 14 Aug 2026
-- Tresor / Globus, Berlin — Fri, 26 Jun 2026
-- Weltwirtschaft am HKW, Berlin — Sun, 21 Jun 2026
-- Oedipus Brewery, Amsterdam — Sun, 26 Apr 2026
-- San Francisco, Amsterdam — Sat, 28 Feb 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Golden Pudel Club, Hamburg · Sun, 6 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
+- Kelvedon Hall, London · Fri, 14 Aug 2026
+- Tresor / Globus, Berlin · Fri, 26 Jun 2026
+- Weltwirtschaft am HKW, Berlin · Sun, 21 Jun 2026
+- Oedipus Brewery, Amsterdam · Sun, 26 Apr 2026
+- San Francisco, Amsterdam · Sat, 28 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # B48_Live x Flug INVITES at Bridge 48
 
-B48_Live x Flug INVITES at Bridge 48 on Thu 22 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+B48_Live x Flug INVITES at Bridge 48 on Thu 22 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Go.Play with Fineberg at Minimal Bar
 
-Go.Play with Fineberg at Minimal Bar on Tue 27 Oct, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Go.Play with Fineberg at Minimal Bar on Tue 27 Oct, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

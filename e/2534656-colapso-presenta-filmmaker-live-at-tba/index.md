@@ -1,6 +1,6 @@
 # COLAPSO PRESENTA: Filmmaker LIVE at TBA
 
-COLAPSO PRESENTA: Filmmaker LIVE at TBA on Fri 13 Nov, Mexico City. 1 artist on the bill: Filmmaker. Electro and Industrial. Preview the line-up and save it on soundcheck.
+COLAPSO PRESENTA: Filmmaker LIVE at TBA on Fri 13 Nov, Mexico City. 1 artist: Filmmaker. Electro and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

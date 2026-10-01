@@ -1,6 +1,6 @@
 # WNDRHS DAY RAVE MONTREAL 001 at Jaimee Sips
 
-WNDRHS DAY RAVE MONTREAL 001 at Jaimee Sips on Sun 4 Oct, Montreal. Techno and Tech House. Preview the line-up and save it on soundcheck.
+WNDRHS DAY RAVE MONTREAL 001 at Jaimee Sips on Sun 4 Oct, Montreal. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

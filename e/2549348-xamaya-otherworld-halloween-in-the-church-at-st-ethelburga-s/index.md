@@ -1,6 +1,6 @@
 # XAMAYA: OTHERWORLD — HALLOWEEN IN THE CHURCH at St Ethelburga's Centre for Reconciliation and Peace
 
-XAMAYA: OTHERWORLD — HALLOWEEN IN THE CHURCH at St Ethelburga's Centre for Reconciliation and Peace on Sat 31 Oct, London. 4 artists on the bill: Aurora, RETTILE, Simone Liberali and Tear of Joy. Tech House. Preview the line-up and save it on soundcheck.
+XAMAYA: OTHERWORLD — HALLOWEEN IN THE CHURCH at St Ethelburga's Centre for Reconciliation and Peace on Sat 31 Oct, London. 4 artists: Aurora, RETTILE, Simone Liberali and Tear of Joy. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

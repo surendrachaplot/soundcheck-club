@@ -1,6 +1,6 @@
 # Sandrinha at Plano B
 
-Sandrinha at Plano B on Fri 30 Oct, Porto. 1 artist on the bill: Bruno. Techno and House. Preview the line-up and save it on soundcheck.
+Sandrinha at Plano B on Fri 30 Oct, Porto. 1 artist: Bruno. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

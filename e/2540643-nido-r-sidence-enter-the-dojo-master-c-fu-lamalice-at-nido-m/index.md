@@ -1,6 +1,6 @@
 # Nido résidence : Enter the Dojo - Master c-fu & LAMALICE at Nido Marseille
 
-Nido résidence : Enter the Dojo - Master c-fu & LAMALICE at Nido Marseille on Sat 24 Oct, Marseille. 2 artists on the bill: LAMALICE and Master c-fu. Preview the line-up and save it on soundcheck.
+Nido résidence : Enter the Dojo - Master c-fu & LAMALICE at Nido Marseille on Sat 24 Oct, Marseille. 2 artists: LAMALICE and Master c-fu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

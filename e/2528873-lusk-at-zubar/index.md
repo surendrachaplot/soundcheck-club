@@ -1,6 +1,6 @@
 # Lusk at ZUBAR
 
-Lusk at ZUBAR on Thu 1 Oct, Tokyo. Techno. Preview the line-up and save it on soundcheck.
+Lusk at ZUBAR on Thu 1 Oct, Tokyo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA" on Fri, 2 Oct 2026.
+Kilomètre25 is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA" on Fri, 2 Oct 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 

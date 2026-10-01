@@ -1,6 +1,6 @@
 # Ely Oaks at Bauhaus
 
-Ely Oaks at Bauhaus on Wed 11 Nov, Houston. 1 artist on the bill: Ely Oaks. Techno and House. Preview the line-up and save it on soundcheck.
+Ely Oaks at Bauhaus on Wed 11 Nov, Houston. 1 artist: Ely Oaks. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

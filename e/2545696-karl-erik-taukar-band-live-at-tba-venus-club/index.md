@@ -1,6 +1,6 @@
 # KARL-ERIK TAUKAR BAND LIVE at TBA - Venus Club
 
-KARL-ERIK TAUKAR BAND LIVE at TBA - Venus Club on Sat 3 Oct, Tallinn. Disco and Pop. Preview the line-up and save it on soundcheck.
+KARL-ERIK TAUKAR BAND LIVE at TBA - Venus Club on Sat 3 Oct, Tallinn. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

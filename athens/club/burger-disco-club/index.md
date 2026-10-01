@@ -1,8 +1,8 @@
 # Burger Disco Club
 
-Burger Disco Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "S.I.Z.E" on Fri, 2 Oct 2026.
+Burger Disco Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "S.I.Z.E" on Fri, 2 Oct 2026.
 
-Burger Disco Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including ClubKid, Lil' Louis, Roi Perez and Roubi Roubi Roubi and 2 more. Browse upcoming dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
+Burger Disco Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including ClubKid, Lil' Louis, Roi Perez and Roubi Roubi Roubi and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
 
 ## What's on
 

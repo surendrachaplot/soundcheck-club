@@ -1,6 +1,6 @@
 # Afters: ADE Warmup at Huis van Iemand Anders
 
-Afters: ADE Warmup at Huis van Iemand Anders on Fri 16 Oct, Amsterdam. 2 artists on the bill: Dr Humedo and NoMore. House and Deep House. Preview the line-up and save it on soundcheck.
+Afters: ADE Warmup at Huis van Iemand Anders on Fri 16 Oct, Amsterdam. 2 artists: Dr Humedo and NoMore. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

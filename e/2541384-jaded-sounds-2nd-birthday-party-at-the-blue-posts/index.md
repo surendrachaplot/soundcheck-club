@@ -1,6 +1,6 @@
 # Jaded Sounds: 2nd Birthday Party at The Blue Posts
 
-Jaded Sounds: 2nd Birthday Party at The Blue Posts on Sat 10 Oct, London. Hip-Hop and Baile Funk. Preview the line-up and save it on soundcheck.
+Jaded Sounds: 2nd Birthday Party at The Blue Posts on Sat 10 Oct, London. Hip-Hop and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

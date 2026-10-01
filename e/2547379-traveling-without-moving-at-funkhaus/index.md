@@ -1,6 +1,6 @@
 # traveling without moving at Funkhaus
 
-traveling without moving at Funkhaus on Sat 7 Nov, Vienna. House. Preview the line-up and save it on soundcheck.
+traveling without moving at Funkhaus on Sat 7 Nov, Vienna. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

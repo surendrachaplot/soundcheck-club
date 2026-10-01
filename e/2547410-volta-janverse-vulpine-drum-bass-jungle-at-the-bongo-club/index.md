@@ -1,6 +1,6 @@
 # Volta: Janverse, Vulpine [Drum & Bass / Jungle] at The Bongo Club
 
-Volta: Janverse, Vulpine [Drum & Bass / Jungle] at The Bongo Club on Tue 6 Oct, Edinburgh. 2 artists on the bill: Janverse and Rodent. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Volta: Janverse, Vulpine [Drum & Bass / Jungle] at The Bongo Club on Tue 6 Oct, Edinburgh. 2 artists: Janverse and Rodent. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

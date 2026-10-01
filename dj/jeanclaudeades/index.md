@@ -1,8 +1,8 @@
 # Jean Claude Ades
 
-Jean Claude Ades is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Scorpios, Mykonos on Sun, 4 Oct 2026.
+Jean Claude Ades is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Scorpios, Mykonos on Sun, 4 Oct 2026.
 
-Jean Claude Ades is a tech house and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Athens, Ibiza, Lisbon and Mykonos and 1 more. Often billed alongside MoBlack, Tripolism and WhoMadeWho. Next up: Scorpios, Mykonos on Sun 4 Oct.
+Jean Claude Ades is a tech house and house artist based in Germany, with 17 gigs on soundcheck across Athens, Ibiza, Lisbon and Mykonos and 1 more. Often billed alongside MoBlack, Tripolism and WhoMadeWho. Next up: Scorpios, Mykonos on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jean Claude Ades is a tech house and house artist based in Germany, tracked on s
 
 ## Recently played
 
-- Scorpios, Mykonos — Wed, 9 Sept 2026
-- Scorpios, Mykonos — Thu, 3 Sept 2026
-- Scorpios, Mykonos — Tue, 25 Aug 2026
-- Scorpios, Mykonos — Sun, 26 Jul 2026
-- Kais Lisbon, Lisbon — Wed, 31 Dec 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 20 Dec 2025
-- Scorpios, Mykonos — Sun, 31 Aug 2025
-- Scorpios, Mykonos — Sun, 24 Aug 2025
+- Scorpios, Mykonos · Wed, 9 Sept 2026
+- Scorpios, Mykonos · Thu, 3 Sept 2026
+- Scorpios, Mykonos · Tue, 25 Aug 2026
+- Scorpios, Mykonos · Sun, 26 Jul 2026
+- Kais Lisbon, Lisbon · Wed, 31 Dec 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 20 Dec 2025
+- Scorpios, Mykonos · Sun, 31 Aug 2025
+- Scorpios, Mykonos · Sun, 24 Aug 2025
 
 ## Shares bills with
 

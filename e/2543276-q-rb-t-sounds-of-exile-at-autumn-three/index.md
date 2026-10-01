@@ -1,6 +1,6 @@
 # qürbət: sounds of exile ||| at Autumn Three
 
-qürbət: sounds of exile ||| at Autumn Three on Sun 4 Oct, London. 2 artists on the bill: darquewonder and SLOSI. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+qürbət: sounds of exile ||| at Autumn Three on Sun 4 Oct, London. 2 artists: darquewonder and SLOSI. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

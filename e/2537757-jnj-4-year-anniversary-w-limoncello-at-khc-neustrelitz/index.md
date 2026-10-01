@@ -1,6 +1,6 @@
 # JNJ 4 YEAR ANNIVERSARY w/ Limoncello at KHC Neustrelitz
 
-JNJ 4 YEAR ANNIVERSARY w/ Limoncello at KHC Neustrelitz on Sat 24 Oct, Mecklenburg Vorpommern. 8 artists on the bill: DJILL, GRMR, JENKA and Limoncello and 4 more. Preview the line-up and save it on soundcheck.
+JNJ 4 YEAR ANNIVERSARY w/ Limoncello at KHC Neustrelitz on Sat 24 Oct, Mecklenburg Vorpommern. 8 artists: DJILL, GRMR, JENKA and Limoncello and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

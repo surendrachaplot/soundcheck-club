@@ -1,6 +1,6 @@
 # Egø Deåth // Day Rave in Hackney at Algha's Plantroom
 
-Egø Deåth // Day Rave in Hackney at Algha's Plantroom on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Egø Deåth // Day Rave in Hackney at Algha's Plantroom on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

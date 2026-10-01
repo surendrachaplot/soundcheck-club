@@ -1,6 +1,6 @@
 # The Remix at Sigurd CPH
 
-The Remix at Sigurd CPH on Sat 10 Oct, Copenhagen. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+The Remix at Sigurd CPH on Sat 10 Oct, Copenhagen. Garage and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

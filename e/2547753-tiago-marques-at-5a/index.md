@@ -1,6 +1,6 @@
 # Tiago Marques at 5A
 
-Tiago Marques at 5A on Sat 3 Oct, Lisbon. 1 artist on the bill: Tiago Marques. Preview the line-up and save it on soundcheck.
+Tiago Marques at 5A on Sat 3 Oct, Lisbon. 1 artist: Tiago Marques. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

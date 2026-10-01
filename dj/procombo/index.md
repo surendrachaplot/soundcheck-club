@@ -1,8 +1,8 @@
 # Procombo
 
-Procombo is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flux, Istanbul on Fri, 2 Oct 2026.
+Procombo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flux, Istanbul on Fri, 2 Oct 2026.
 
-Procombo is a techno and minimal techno artist based in Turkey, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Istanbul and Madrid and 2 more. Often billed alongside KVTS, Ben Klock and Boris. Next up: Flux, Istanbul on Fri 2 Oct.
+Procombo is a techno and minimal techno artist based in Turkey, with 54 gigs on soundcheck across Barcelona, Berlin, Istanbul and Madrid and 2 more. Often billed alongside KVTS, Ben Klock and Boris. Next up: Flux, Istanbul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Procombo is a techno and minimal techno artist based in Turkey, tracked on sound
 
 ## Recently played
 
-- Flux, Istanbul — Sat, 19 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 5 Sept 2026
-- Flux, Istanbul — Sat, 29 Aug 2026
-- Flux, Istanbul — Sat, 22 Aug 2026
-- Flux, Istanbul — Sat, 11 Jul 2026
-- KALT, Strasbourg — Sat, 27 Jun 2026
-- Flux, Istanbul — Sat, 6 Jun 2026
-- Klein Phönix, Istanbul — Sat, 16 May 2026
+- Flux, Istanbul · Sat, 19 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 5 Sept 2026
+- Flux, Istanbul · Sat, 29 Aug 2026
+- Flux, Istanbul · Sat, 22 Aug 2026
+- Flux, Istanbul · Sat, 11 Jul 2026
+- KALT, Strasbourg · Sat, 27 Jun 2026
+- Flux, Istanbul · Sat, 6 Jun 2026
+- Klein Phönix, Istanbul · Sat, 16 May 2026
 
 ## Shares bills with
 

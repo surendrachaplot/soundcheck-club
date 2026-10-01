@@ -1,6 +1,6 @@
 # FBI: FURRY BACKROOMS INCIDENT at Otaqlab Bangkok
 
-FBI: FURRY BACKROOMS INCIDENT at Otaqlab Bangkok on Sat 3 Oct, Bangkok. 3 artists on the bill: dandarplaya, Emptyshura and Takenbymarshall. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
+FBI: FURRY BACKROOMS INCIDENT at Otaqlab Bangkok on Sat 3 Oct, Bangkok. 3 artists: dandarplaya, Emptyshura and Takenbymarshall. Hardcore and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

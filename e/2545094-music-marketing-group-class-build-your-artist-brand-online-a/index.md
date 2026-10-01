@@ -1,6 +1,6 @@
 # Music Marketing group class: Build your ARTIST BRAND online at London Sound Academy
 
-Music Marketing group class: Build your ARTIST BRAND online at London Sound Academy on Wed 18 Nov, London. 1 artist on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+Music Marketing group class: Build your ARTIST BRAND online at London Sound Academy on Wed 18 Nov, London. 1 artist: Faded Society. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

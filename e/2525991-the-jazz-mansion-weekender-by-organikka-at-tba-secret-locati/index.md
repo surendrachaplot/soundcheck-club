@@ -1,6 +1,6 @@
 # THE JAZZ MANSION WEEKENDER BY Organikka at TBA - secret location
 
-THE JAZZ MANSION WEEKENDER BY Organikka at TBA - secret location on Sat 3 Oct, Barcelona. 3 artists on the bill: Jaayology, Sonido Tupinamba and Zonzo. Jazz. Preview the line-up and save it on soundcheck.
+THE JAZZ MANSION WEEKENDER BY Organikka at TBA - secret location on Sat 3 Oct, Barcelona. 3 artists: Jaayology, Sonido Tupinamba and Zonzo. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

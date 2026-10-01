@@ -1,6 +1,6 @@
 # Freakuency 2026 at TBA - Private Location
 
-Freakuency 2026 at TBA - Private Location on Sat 31 Oct, San Diego. 12 artists on the bill: Cole Terrazas, J.Fur, Jeff Sorkowitz and Jordan Brando and 8 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Freakuency 2026 at TBA - Private Location on Sat 31 Oct, San Diego. 12 artists: Cole Terrazas, J.Fur, Jeff Sorkowitz and Jordan Brando and 8 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

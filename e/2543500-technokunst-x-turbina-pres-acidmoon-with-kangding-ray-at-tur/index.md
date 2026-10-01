@@ -1,6 +1,6 @@
 # Technokunst x Turbina pres. Acidmoon with Kangding Ray at Turbina
 
-Technokunst x Turbina pres. Acidmoon with Kangding Ray on Fri 23 Oct, Budapest. 3 artists on the bill: isu, Kangding Ray and Mode. Techno and Acid. Preview the line-up and save it on soundcheck.
+Technokunst x Turbina pres. Acidmoon with Kangding Ray on Fri 23 Oct, Budapest. 3 artists: isu, Kangding Ray and Mode. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

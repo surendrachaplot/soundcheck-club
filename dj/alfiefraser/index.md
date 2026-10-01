@@ -1,8 +1,8 @@
 # Alfie Fraser
 
-Alfie Fraser is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
+Alfie Fraser is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Four Quarters, London on Fri, 27 Nov 2026.
 
-Alfie Fraser is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Missy P, Elemental and Kishan. Next up: Four Quarters, London on Fri 27 Nov.
+Alfie Fraser is a drum & bass and garage artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Missy P, Elemental and Kishan. Next up: Four Quarters, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Alfie Fraser is a drum & bass and garage artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Four Quarters, London — Sat, 1 Nov 2025
-- The Haggerston, London — Fri, 18 Apr 2025
-- Jardín Mexican Cocina & Tequila Bar, London — Sat, 12 Oct 2024
-- The Old Blue Last, London — Sat, 17 Aug 2024
-- Basing House, London — Fri, 2 Aug 2024
+- Four Quarters, London · Sat, 1 Nov 2025
+- The Haggerston, London · Fri, 18 Apr 2025
+- Jardín Mexican Cocina & Tequila Bar, London · Sat, 12 Oct 2024
+- The Old Blue Last, London · Sat, 17 Aug 2024
+- Basing House, London · Fri, 2 Aug 2024
 
 ## Shares bills with
 

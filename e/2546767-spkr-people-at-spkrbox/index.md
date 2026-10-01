@@ -1,6 +1,6 @@
 # SPKR PEOPLE at Spkrbox
 
-SPKR PEOPLE at Spkrbox on Sat 3 Oct, Detroit. 3 artists on the bill: AIDEL, Cody Hammer and DJ I.V.. Techno and House. Preview the line-up and save it on soundcheck.
+SPKR PEOPLE at Spkrbox on Sat 3 Oct, Detroit. 3 artists: AIDEL, Cody Hammer and DJ I.V.. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Beyond The Dance Floor: ADE Edition at RADION
 
-Beyond The Dance Floor: ADE Edition at RADION on Thu 22 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Beyond The Dance Floor: ADE Edition at RADION on Thu 22 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

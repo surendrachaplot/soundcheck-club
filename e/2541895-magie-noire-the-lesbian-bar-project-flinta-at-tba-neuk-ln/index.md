@@ -1,6 +1,6 @@
 # MAGIE NOIRE The Lesbian Bar Project: FLINTA at TBA - Neuköln
 
-MAGIE NOIRE The Lesbian Bar Project: FLINTA at TBA - Neuköln on Thu 8 Oct, Berlin. 1 artist on the bill: Charlotte Lion. Techno. Preview the line-up and save it on soundcheck.
+MAGIE NOIRE The Lesbian Bar Project: FLINTA at TBA - Neuköln on Thu 8 Oct, Berlin. 1 artist: Charlotte Lion. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

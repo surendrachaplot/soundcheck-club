@@ -1,6 +1,6 @@
 # Riot Ten - Montréal at Newspeak
 
-Riot Ten - Montréal at Newspeak on Sat 5 Dec, Montreal. Electro and Dubstep. Preview the line-up and save it on soundcheck.
+Riot Ten - Montréal at Newspeak on Sat 5 Dec, Montreal. Electro and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

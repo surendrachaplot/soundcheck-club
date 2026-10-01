@@ -1,6 +1,6 @@
 # Himmel unter Berlin Vol. III at TBA - Secret Location
 
-Himmel unter Berlin Vol. III at TBA - Secret Location on Sun 11 Oct, Berlin. 4 artists on the bill: Andreas Lutz, Kon (FR), Martin Messier and media.tribe. Preview the line-up and save it on soundcheck.
+Himmel unter Berlin Vol. III at TBA - Secret Location on Sun 11 Oct, Berlin. 4 artists: Andreas Lutz, Kon (FR), Martin Messier and media.tribe. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

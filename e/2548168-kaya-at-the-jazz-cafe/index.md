@@ -1,6 +1,6 @@
 # KaYa at The Jazz Cafe
 
-KaYa at The Jazz Cafe on Sat 3 Oct, London. 1 artist on the bill: KaYa (UK). House and Bass. Preview the line-up and save it on soundcheck.
+KaYa at The Jazz Cafe on Sat 3 Oct, London. 1 artist: KaYa (UK). House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mall Call at Stinsen
 
-Mall Call at Stinsen on Fri 27 Nov, Stockholm. 13 artists on the bill: Antony Szmierek, DJ Seinfeld, Karen Nyame KG and Miley Serious and 9 more. Preview the line-up and save it on soundcheck.
+Mall Call at Stinsen on Fri 27 Nov, Stockholm. 13 artists: Antony Szmierek, DJ Seinfeld, Karen Nyame KG and Miley Serious and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

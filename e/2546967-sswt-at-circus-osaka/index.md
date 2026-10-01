@@ -1,6 +1,6 @@
 # SSWT at Circus Osaka
 
-SSWT at Circus Osaka on Thu 15 Oct, Osaka. Hip-Hop. Preview the line-up and save it on soundcheck.
+SSWT at Circus Osaka on Thu 15 Oct, Osaka. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

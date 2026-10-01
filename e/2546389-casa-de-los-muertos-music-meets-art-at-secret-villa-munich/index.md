@@ -1,6 +1,6 @@
 # CASA DE LOS MUERTOS - MUSIC MEETS ART at Secret Villa Munich
 
-CASA DE LOS MUERTOS - MUSIC MEETS ART at Secret Villa Munich on Sat 31 Oct, Baden W Rttemberg. 2 artists on the bill: Black Box and Gareden. Preview the line-up and save it on soundcheck.
+CASA DE LOS MUERTOS - MUSIC MEETS ART at Secret Villa Munich on Sat 31 Oct, Baden W Rttemberg. 2 artists: Black Box and Gareden. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

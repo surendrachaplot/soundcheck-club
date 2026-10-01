@@ -1,6 +1,6 @@
 # Escape Halloween at NOS Event Center
 
-Escape Halloween at NOS Event Center on Fri 30 Oct, Los Angeles. 64 artists on the bill: 999999999, A Little Sound, AC Slater and Adam Ten and 60 more. Preview the line-up and save it on soundcheck.
+Escape Halloween at NOS Event Center on Fri 30 Oct, Los Angeles. 64 artists: 999999999, A Little Sound, AC Slater and Adam Ten and 60 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

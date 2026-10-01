@@ -1,6 +1,6 @@
 # Electroground - Anna Wall, James Tristan, dj come & Keeks at The Model
 
-Electroground - Anna Wall, James Tristan, dj come & Keeks at The Model on Sat 28 Nov, Nottingham. 4 artists on the bill: Anna Wall, dj come, James Tristan and Keeks. Techno and House. Preview the line-up and save it on soundcheck.
+Electroground - Anna Wall, James Tristan, dj come & Keeks at The Model on Sat 28 Nov, Nottingham. 4 artists: Anna Wall, dj come, James Tristan and Keeks. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

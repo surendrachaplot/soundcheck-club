@@ -1,6 +1,6 @@
 # 12th Knot Rooftop: Halloween Edition at 12th Knot Rooftop Bar
 
-12th Knot Rooftop: Halloween Edition at 12th Knot Rooftop Bar on Sat 31 Oct, London. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+12th Knot Rooftop: Halloween Edition at 12th Knot Rooftop Bar on Sat 31 Oct, London. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

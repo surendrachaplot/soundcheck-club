@@ -1,8 +1,8 @@
 # TBA - 2.5 Hours from Sydney
 
-TBA - 2.5 Hours from Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SUTRA MUSIC & ARTS FESTIVAL" on Sat, 3 Oct 2026.
+TBA - 2.5 Hours from Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUTRA MUSIC & ARTS FESTIVAL" on Sat, 3 Oct 2026.
 
-TBA - 2.5 Hours from Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Alex Dowsing, Caleb Jackson, Callyy and Cassette and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - 2.5 Hours from Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Alex Dowsing, Caleb Jackson, Callyy and Cassette and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

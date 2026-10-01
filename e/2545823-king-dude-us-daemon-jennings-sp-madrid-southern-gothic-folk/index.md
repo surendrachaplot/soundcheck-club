@@ -1,6 +1,6 @@
 # King Dude (US) + Daemon Jennings (SP)_Madrid_Southern Gothic_Folk at Gruta 77
 
-King Dude (US) + Daemon Jennings (SP)_Madrid_Southern Gothic_Folk at Gruta 77 on Fri 16 Oct, Madrid. Post-Punk. Preview the line-up and save it on soundcheck.
+King Dude (US) + Daemon Jennings (SP)_Madrid_Southern Gothic_Folk at Gruta 77 on Fri 16 Oct, Madrid. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pressed Play — feat. Lamarr Lyons at Pressed & Aged Cigar & Vinyl Bar
 
-Pressed Play — feat. Lamarr Lyons at Pressed & Aged Cigar & Vinyl Bar on Mon 5 Oct, Nashville. R&B. Preview the line-up and save it on soundcheck.
+Pressed Play — feat. Lamarr Lyons at Pressed & Aged Cigar & Vinyl Bar on Mon 5 Oct, Nashville. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Analog at Hutton Hotel
 
-Analog at Hutton Hotel is a music venue in Nashville with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Phoenix Rising Psychedelic Speakeasy" on Thu, 5 Nov 2026.
+Analog at Hutton Hotel is a music venue in Nashville with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Phoenix Rising Psychedelic Speakeasy" on Thu, 5 Nov 2026.
 
-Analog at Hutton Hotel is a music venue in Nashville listed on soundcheck. 2 upcoming gigs, with line-ups including Nutritious. Browse upcoming dates, start times and who's playing.
+Analog at Hutton Hotel is a music venue in Nashville listed on soundcheck. 2 upcoming gigs, with line-ups including Nutritious. See dates, start times and who's playing.
 
 ## What's on
 

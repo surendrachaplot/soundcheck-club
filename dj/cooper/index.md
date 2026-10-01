@@ -1,8 +1,8 @@
 # Cooper
 
-Cooper is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Fri, 23 Oct 2026.
+Cooper is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 23 Oct 2026.
 
-Cooper is a techno and bass artist tracked on soundcheck, with 7 sets logged across Berlin, Leipzig and London. Often billed alongside DJ OVER N OUT, RST98 and Leeza. Next up: Distillery, Leipzig on Fri 23 Oct.
+Cooper is a techno and bass artist, with 7 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside DJ OVER N OUT, RST98 and Leeza. Next up: Distillery, Leipzig on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Cooper is a techno and bass artist tracked on soundcheck, with 7 sets logged acr
 
 ## Recently played
 
-- TBA - JK (near S-Greifswalder), Berlin — Fri, 17 Oct 2025
-- Malzfabrik, Berlin — Thu, 9 May 2024
-- Fitzroy, Berlin — Sun, 11 Feb 2024
-- mjut, Leipzig — Sat, 16 Dec 2023
-- Ministry Of Sound, London — Sat, 11 Nov 2023
-- Mensch Meier, Berlin — Fri, 28 Jul 2023
+- TBA - JK (near S-Greifswalder), Berlin · Fri, 17 Oct 2025
+- Malzfabrik, Berlin · Thu, 9 May 2024
+- Fitzroy, Berlin · Sun, 11 Feb 2024
+- mjut, Leipzig · Sat, 16 Dec 2023
+- Ministry Of Sound, London · Sat, 11 Nov 2023
+- Mensch Meier, Berlin · Fri, 28 Jul 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Kings Turntable: Paul Day [24.10.2026] at Kings Arms E2
 
-Kings Turntable: Paul Day [24.10.2026] at Kings Arms E2 on Sat 24 Oct, London. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Kings Turntable: Paul Day [24.10.2026] at Kings Arms E2 on Sat 24 Oct, London. Post-Punk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

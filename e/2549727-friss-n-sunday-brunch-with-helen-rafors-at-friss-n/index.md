@@ -1,6 +1,6 @@
 # Frissón Sunday Brunch with Helen Rafors at Frissón
 
-Frissón Sunday Brunch with Helen Rafors on Sun 4 Oct, Rome. Preview the line-up and save it on soundcheck.
+Frissón Sunday Brunch with Helen Rafors on Sun 4 Oct, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

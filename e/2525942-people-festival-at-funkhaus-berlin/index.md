@@ -1,6 +1,6 @@
 # PEOPLE Festival at Funkhaus Berlin
 
-PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 5 artists on the bill: Efterklang, Egopusher, Erlend Øye and Mouse On Mars and 1 more. Preview the line-up and save it on soundcheck.
+PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 5 artists: Efterklang, Egopusher, Erlend Øye and Mouse On Mars and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

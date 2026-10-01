@@ -1,8 +1,8 @@
 # Ital Power
 
-Ital Power is a Dub and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Ital Power is a Dub and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Ital Power is a dub and dubstep artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Bristol, Geneva and Leeds and 1 more. Often billed alongside Mantra, Blackeye MC and Iration Steppas. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Ital Power is a dub and dubstep artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Bristol, Geneva and Leeds and 1 more. Often billed alongside Mantra, Blackeye MC and Iration Steppas. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ital Power is a dub and dubstep artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- The Dominion Centre, London — Sat, 15 Aug 2026
-- Distillery N17, London — Fri, 20 Mar 2026
-- The Dominion Centre, London — Sat, 14 Mar 2026
-- Crystal Club, London — Fri, 22 Aug 2025
-- The Jazz Cafe, London — Fri, 23 May 2025
-- The Jazz Cafe, London — Fri, 2 May 2025
-- The Trinity Centre, Bristol — Fri, 25 Apr 2025
-- Crystal Club, London — Sat, 28 Dec 2024
+- The Dominion Centre, London · Sat, 15 Aug 2026
+- Distillery N17, London · Fri, 20 Mar 2026
+- The Dominion Centre, London · Sat, 14 Mar 2026
+- Crystal Club, London · Fri, 22 Aug 2025
+- The Jazz Cafe, London · Fri, 23 May 2025
+- The Jazz Cafe, London · Fri, 2 May 2025
+- The Trinity Centre, Bristol · Fri, 25 Apr 2025
+- Crystal Club, London · Sat, 28 Dec 2024
 
 ## Shares bills with
 

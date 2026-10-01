@@ -1,6 +1,6 @@
 # Groove Garden at Kaufleuten
 
-Groove Garden at Kaufleuten on Sat 10 Oct, Zurich. 2 artists on the bill: ARWIN AZIZ and Dangel Twins. House and Tech House. Preview the line-up and save it on soundcheck.
+Groove Garden at Kaufleuten on Sat 10 Oct, Zurich. 2 artists: ARWIN AZIZ and Dangel Twins. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

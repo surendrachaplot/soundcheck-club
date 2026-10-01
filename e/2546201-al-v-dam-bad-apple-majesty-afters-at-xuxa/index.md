@@ -1,6 +1,6 @@
 # Al V Dam + Bad Apple + Majesty ( +AFTERS) at Xuxa
 
-Al V Dam + Bad Apple + Majesty ( +AFTERS) at Xuxa on Fri 2 Oct, Austin. 3 artists on the bill: Al V Dam, DJ BAD APPLE and MAJESTYOFDIVINITY. Techno and House. Preview the line-up and save it on soundcheck.
+Al V Dam + Bad Apple + Majesty ( +AFTERS) at Xuxa on Fri 2 Oct, Austin. 3 artists: Al V Dam, DJ BAD APPLE and MAJESTYOFDIVINITY. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

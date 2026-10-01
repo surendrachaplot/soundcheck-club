@@ -1,6 +1,6 @@
 # WORLD OF ECHOES at Le Bain
 
-WORLD OF ECHOES at Le Bain on Sun 4 Oct, New York City. 1 artist on the bill: Francois K. Preview the line-up and save it on soundcheck.
+WORLD OF ECHOES at Le Bain on Sun 4 Oct, New York City. 1 artist: Francois K. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Patterns, Brighton on Sat, 24 Oct 2026.
+p-rallel is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Patterns, Brighton on Sat, 24 Oct 2026.
 
-p-rallel is a garage and house artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: Patterns, Brighton on Sat 24 Oct.
+p-rallel is a garage and house artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: Patterns, Brighton on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ p-rallel is a garage and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- 24 Kitchen Street, Liverpool — Fri, 25 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Night Tales, London — Thu, 13 Aug 2026
-- LDN East, London — Sat, 25 Jul 2026
-- The Loft, Manchester — Sat, 23 May 2026
-- fabric, London — Fri, 20 Feb 2026
-- Depot Mayfield, Manchester — Sat, 13 Dec 2025
+- 24 Kitchen Street, Liverpool · Fri, 25 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Night Tales, London · Thu, 13 Aug 2026
+- LDN East, London · Sat, 25 Jul 2026
+- The Loft, Manchester · Sat, 23 May 2026
+- fabric, London · Fri, 20 Feb 2026
+- Depot Mayfield, Manchester · Sat, 13 Dec 2025
 
 ## Shares bills with
 

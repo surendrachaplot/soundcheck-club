@@ -1,8 +1,8 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 620 Jones, San Francisco/Oakland on Sat, 3 Oct 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 620 Jones, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-Shingo Nakamura is a progressive house and trance artist based in Japan, tracked on soundcheck, with 58 sets logged across Boston, Houston, Leeds and London and 12 more. Often billed alongside DJ NECO, Conures (DJ Tokunaga) and Nanlaze. Next up: 620 Jones, San Francisco/Oakland on Sat 3 Oct.
+Shingo Nakamura is a progressive house and trance artist based in Japan, with 58 gigs on soundcheck across Boston, Houston, Leeds and London and 12 more. Often billed alongside DJ NECO, Conures (DJ Tokunaga) and Nanlaze. Next up: 620 Jones, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, tracked
 
 ## Recently played
 
-- R Lounge, Tokyo — Wed, 30 Sept 2026
-- or, Tokyo — Sat, 26 Sept 2026
-- Z Maruyama, Tokyo — Sat, 12 Sept 2026
-- R Lounge, Tokyo — Sat, 25 Jul 2026
-- TBA - Takanawa Gateway City, Tokyo — Sat, 27 Jun 2026
-- Newspeak, Montreal — Fri, 12 Jun 2026
-- Open Aera, Toronto — Thu, 11 Jun 2026
-- Celebrities Night Club, Vancouver — Sat, 6 Jun 2026
+- R Lounge, Tokyo · Wed, 30 Sept 2026
+- or, Tokyo · Sat, 26 Sept 2026
+- Z Maruyama, Tokyo · Sat, 12 Sept 2026
+- R Lounge, Tokyo · Sat, 25 Jul 2026
+- TBA - Takanawa Gateway City, Tokyo · Sat, 27 Jun 2026
+- Newspeak, Montreal · Fri, 12 Jun 2026
+- Open Aera, Toronto · Thu, 11 Jun 2026
+- Celebrities Night Club, Vancouver · Sat, 6 Jun 2026
 
 ## Shares bills with
 

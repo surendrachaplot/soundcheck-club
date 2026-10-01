@@ -1,6 +1,6 @@
 # Ambient Hours: Alex Lustig in London at Shai Space
 
-Ambient Hours: Alex Lustig in London at Shai Space on Thu 22 Oct, London. 1 artist on the bill: Alex Lustig. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Ambient Hours: Alex Lustig in London at Shai Space on Thu 22 Oct, London. 1 artist: Alex Lustig. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

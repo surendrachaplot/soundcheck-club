@@ -1,6 +1,6 @@
 # ZURI Festival Melbourne at Pica (Port Melbourne Industrial Centre for the Arts)
 
-ZURI Festival Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Sun 20 Dec, Melbourne. 4 artists on the bill: Francis Mercier, Mahmut Orhan, Maison Ware and Marten Lou. House and Afro House. Preview the line-up and save it on soundcheck.
+ZURI Festival Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Sun 20 Dec, Melbourne. 4 artists: Francis Mercier, Mahmut Orhan, Maison Ware and Marten Lou. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Run Away Festival Halloween - Day 2 - Sun 1 Nov at Chelmsford Racecourse Essex at Chelmsford City Racecourse
 
-Run Away Festival Halloween - Day 2 - Sun 1 Nov at Chelmsford Racecourse Essex at Chelmsford City Racecourse on Sun 1 Nov, London. House and Minimal. Preview the line-up and save it on soundcheck.
+Run Away Festival Halloween - Day 2 - Sun 1 Nov at Chelmsford Racecourse Essex at Chelmsford City Racecourse on Sun 1 Nov, London. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

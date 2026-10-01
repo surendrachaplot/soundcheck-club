@@ -1,6 +1,6 @@
 # SYNC at ZEROTOKYO
 
-SYNC at ZEROTOKYO on Sun 4 Oct, Tokyo. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+SYNC at ZEROTOKYO on Sun 4 Oct, Tokyo. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

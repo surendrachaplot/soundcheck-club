@@ -1,6 +1,6 @@
 # Macadam • Binary Digit (live) ~ Multifun ~ Somoine B2B CHOREOPHILA at Macadam
 
-Macadam • Binary Digit (live) ~ Multifun ~ Somoine B2B CHOREOPHILA on Fri 4 Dec, Nantes. 4 artists on the bill: Binary Digit, CHOREOPHILA, Multifun and Somoine. Trance and House. Preview the line-up and save it on soundcheck.
+Macadam • Binary Digit (live) ~ Multifun ~ Somoine B2B CHOREOPHILA on Fri 4 Dec, Nantes. 4 artists: Binary Digit, CHOREOPHILA, Multifun and Somoine. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

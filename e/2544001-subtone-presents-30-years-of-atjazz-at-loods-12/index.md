@@ -1,6 +1,6 @@
 # Subtone presents 30 Years Of Atjazz at Loods 12
 
-Subtone presents 30 Years Of Atjazz at Loods 12 on Wed 21 Oct, Amsterdam. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Subtone presents 30 Years Of Atjazz at Loods 12 on Wed 21 Oct, Amsterdam. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

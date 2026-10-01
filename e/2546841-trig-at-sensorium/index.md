@@ -1,6 +1,6 @@
 # TRIG at Sensorium
 
-TRIG at Sensorium on Sun 25 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TRIG at Sensorium on Sun 25 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

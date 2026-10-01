@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes • Schlegel • Bochum at Schlegel Kultur Club
 
-King Kong Kicks • Indie Pop & Hypes • Schlegel • Bochum at Schlegel Kultur Club on Fri 9 Oct, Bochum. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes • Schlegel • Bochum at Schlegel Kultur Club on Fri 9 Oct, Bochum. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 25 Oct, Berlin. 2 artists on the bill: EGE363 and Lisatrix. Trance and Techno. Preview the line-up and save it on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 25 Oct, Berlin. 2 artists: EGE363 and Lisatrix. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

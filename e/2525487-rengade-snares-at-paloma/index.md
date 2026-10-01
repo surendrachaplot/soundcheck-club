@@ -1,6 +1,6 @@
 # Rengade Snares at Paloma
 
-Rengade Snares at Paloma on Fri 9 Oct, Berlin. 2 artists on the bill: Bassdee and Sven von Thülen. House and Deep House. Preview the line-up and save it on soundcheck.
+Rengade Snares at Paloma on Fri 9 Oct, Berlin. 2 artists: Bassdee and Sven von Thülen. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

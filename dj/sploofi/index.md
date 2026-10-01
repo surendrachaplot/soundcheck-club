@@ -1,8 +1,8 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Sploofi is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
-Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Montreal and New York City and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: RADION, Amsterdam on Sat 3 Oct.
+Sploofi is a techno and experimental artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Berlin, Montreal and New York City and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: RADION, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sploofi is a techno and experimental artist based in United States of America, t
 
 ## Recently played
 
-- Honey's, New York City — Fri, 18 Sept 2026
-- 618 DC, Washington DC — Sat, 22 Aug 2026
-- Bossa Nova Civic Club, New York City — Sat, 1 Aug 2026
-- Bossa Nova Civic Club, New York City — Sun, 19 Jul 2026
-- H0L0, New York City — Sun, 24 May 2026
-- Good Room, New York City — Fri, 22 May 2026
-- Bossa Nova Civic Club, New York City — Mon, 11 May 2026
-- public records, New York City — Fri, 24 Apr 2026
+- Honey's, New York City · Fri, 18 Sept 2026
+- 618 DC, Washington DC · Sat, 22 Aug 2026
+- Bossa Nova Civic Club, New York City · Sat, 1 Aug 2026
+- Bossa Nova Civic Club, New York City · Sun, 19 Jul 2026
+- H0L0, New York City · Sun, 24 May 2026
+- Good Room, New York City · Fri, 22 May 2026
+- Bossa Nova Civic Club, New York City · Mon, 11 May 2026
+- public records, New York City · Fri, 24 Apr 2026
 
 ## Shares bills with
 

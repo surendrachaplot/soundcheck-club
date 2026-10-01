@@ -1,6 +1,6 @@
 # KAPITEL Berlin at Lokschuppen Berlin
 
-KAPITEL Berlin at Lokschuppen Berlin on Sat 26 Dec, Berlin. Preview the line-up and save it on soundcheck.
+KAPITEL Berlin at Lokschuppen Berlin on Sat 26 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

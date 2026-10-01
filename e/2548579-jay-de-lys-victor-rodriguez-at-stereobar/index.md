@@ -1,6 +1,6 @@
 # Jay de Lys - Victor Rodriguez at StereoBar
 
-Jay de Lys - Victor Rodriguez at StereoBar on Fri 2 Oct, Montreal. 2 artists on the bill: Jay de Lys and VICTOR RODRIGUEZ (CA). Preview the line-up and save it on soundcheck.
+Jay de Lys - Victor Rodriguez at StereoBar on Fri 2 Oct, Montreal. 2 artists: Jay de Lys and VICTOR RODRIGUEZ (CA). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

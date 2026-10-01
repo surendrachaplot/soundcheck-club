@@ -1,6 +1,6 @@
 # Tayllor at Zumana Bali
 
-Tayllor at Zumana Bali on Wed 11 Nov, Bali. House and Afro House. Preview the line-up and save it on soundcheck.
+Tayllor at Zumana Bali on Wed 11 Nov, Bali. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

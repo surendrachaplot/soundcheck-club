@@ -1,6 +1,6 @@
 # NWHR Invites Abel // ccil // Sarah Kay at NWHR
 
-NWHR Invites Abel // ccil // Sarah Kay on Sat 3 Oct, Montreal. 2 artists on the bill: ccil and Sarah Kay. Techno. Preview the line-up and save it on soundcheck.
+NWHR Invites Abel // ccil // Sarah Kay on Sat 3 Oct, Montreal. 2 artists: ccil and Sarah Kay. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

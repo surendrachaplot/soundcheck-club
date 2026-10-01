@@ -1,6 +1,6 @@
 # Lazberry at Nyapi
 
-Lazberry at Nyapi on Thu 1 Oct, Seoul. 5 artists on the bill: Kugel, Melting 99, Soyo and Uni and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Lazberry at Nyapi on Thu 1 Oct, Seoul. 5 artists: Kugel, Melting 99, Soyo and Uni and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

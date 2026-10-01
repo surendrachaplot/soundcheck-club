@@ -1,8 +1,8 @@
 # Wagenhallen
 
-Wagenhallen is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "HALLOWEEN RAVE 2026" on Sat, 31 Oct 2026.
+Wagenhallen is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "HALLOWEEN RAVE 2026" on Sat, 31 Oct 2026.
 
-Wagenhallen is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including NYRA (DE), Ave (DE), Charleen Herzig and DonChoppa and 1 more. Browse upcoming dates, start times and who's playing. Innerer Nordbahnhof 1, 70191 Stuttgart.
+Wagenhallen is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including NYRA (DE), Ave (DE), Charleen Herzig and DonChoppa and 1 more. See dates, start times and who's playing. Innerer Nordbahnhof 1, 70191 Stuttgart.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Format Music dnb London Halloween Special Free - Entry at The Castle
 
-Format Music dnb London Halloween Special Free - Entry at The Castle on Fri 30 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Format Music dnb London Halloween Special Free - Entry at The Castle on Fri 30 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

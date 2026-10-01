@@ -1,6 +1,6 @@
 # III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey
 
-III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey on Sun 18 Oct, Miami. 5 artists on the bill: Carozilla, DB Cooper, Interplanetary Criminal and Jubilee and 1 more. Preview the line-up and save it on soundcheck.
+III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey on Sun 18 Oct, Miami. 5 artists: Carozilla, DB Cooper, Interplanetary Criminal and Jubilee and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Colette & Friends at Wax Music Lounge
 
-Colette & Friends at Wax Music Lounge on Sat 3 Oct, Melbourne. 1 artist on the bill: Colette. House and R&B. Preview the line-up and save it on soundcheck.
+Colette & Friends at Wax Music Lounge on Sat 3 Oct, Melbourne. 1 artist: Colette. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

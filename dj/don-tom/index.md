@@ -1,8 +1,8 @@
 # Don Tom
 
-Don Tom is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
+Don Tom is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
 
-Don Tom is a techno and tech house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Ibiza and Leipzig. Often billed alongside Bisk, DAV3 and DJ Doorkeeper. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
+Don Tom is a techno and tech house artist based in Germany, with 39 gigs on soundcheck across Berlin, Ibiza and Leipzig. Often billed alongside Bisk, DAV3 and DJ Doorkeeper. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Don Tom is a techno and tech house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Der Weiße Hase, Berlin — Sat, 19 Sept 2026
-- Der Weiße Hase, Berlin — Sat, 8 Aug 2026
-- Der Weiße Hase, Berlin — Sat, 4 Jul 2026
-- Der Weiße Hase, Berlin — Sun, 21 Jun 2026
-- Der Weiße Hase, Berlin — Sat, 25 Apr 2026
-- KitKatClub, Berlin — Mon, 20 Apr 2026
-- Der Weiße Hase, Berlin — Wed, 31 Dec 2025
-- Der Weiße Hase, Berlin — Fri, 26 Dec 2025
+- Der Weiße Hase, Berlin · Sat, 19 Sept 2026
+- Der Weiße Hase, Berlin · Sat, 8 Aug 2026
+- Der Weiße Hase, Berlin · Sat, 4 Jul 2026
+- Der Weiße Hase, Berlin · Sun, 21 Jun 2026
+- Der Weiße Hase, Berlin · Sat, 25 Apr 2026
+- KitKatClub, Berlin · Mon, 20 Apr 2026
+- Der Weiße Hase, Berlin · Wed, 31 Dec 2025
+- Der Weiße Hase, Berlin · Fri, 26 Dec 2025
 
 ## Shares bills with
 

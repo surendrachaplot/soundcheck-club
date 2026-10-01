@@ -1,6 +1,6 @@
 # Mango Alley Label Showcase at Kadinsky Cafe
 
-Mango Alley Label Showcase at Kadinsky Cafe on Wed 21 Oct, Amsterdam. 5 artists on the bill: Abity, ALISHA, Gai Barone and Rauschhaus and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
+Mango Alley Label Showcase at Kadinsky Cafe on Wed 21 Oct, Amsterdam. 5 artists: Abity, ALISHA, Gai Barone and Rauschhaus and 1 more. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

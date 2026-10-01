@@ -1,6 +1,6 @@
 # THERMOSTAT 9 - EXC, MONA & MORE at Le Chapiteau - Marseille
 
-THERMOSTAT 9 - EXC, MONA & MORE at Le Chapiteau - Marseille on Sat 10 Oct, Marseille. 1 artist on the bill: 2LaCasse. Techno and House. Preview the line-up and save it on soundcheck.
+THERMOSTAT 9 - EXC, MONA & MORE at Le Chapiteau - Marseille on Sat 10 Oct, Marseille. 1 artist: 2LaCasse. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Aster
 
-Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Aster on Fri 2 Oct, Los Angeles. Hip-Hop. Preview the line-up and save it on soundcheck.
+Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Aster on Fri 2 Oct, Los Angeles. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

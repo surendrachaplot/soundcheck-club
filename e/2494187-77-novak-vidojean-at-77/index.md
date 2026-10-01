@@ -1,6 +1,6 @@
 # 77: Novak & Vidojean at 77
 
-77: Novak & Vidojean on Fri 9 Oct, London. 1 artist on the bill: Novak. House. Preview the line-up and save it on soundcheck.
+77: Novak & Vidojean on Fri 9 Oct, London. 1 artist: Novak. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

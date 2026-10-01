@@ -1,6 +1,6 @@
 # [CANCELLED] CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio
 
-[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio on Fri 2 Oct, London. 2 artists on the bill: CLOSE PROXIMITY and fka.m4a. Progressive House and House. Preview the line-up and save it on soundcheck.
+[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set] at Vittoria Wharf Studio on Fri 2 Oct, London. 2 artists: CLOSE PROXIMITY and fka.m4a. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

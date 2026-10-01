@@ -1,6 +1,6 @@
 # ABOVE HALLOWEEN at MH5 Rooftop
 
-ABOVE HALLOWEEN at MH5 Rooftop on Sat 31 Oct, Munich. 1 artist on the bill: Tom Novy. House and Tech House. Preview the line-up and save it on soundcheck.
+ABOVE HALLOWEEN at MH5 Rooftop on Sat 31 Oct, Munich. 1 artist: Tom Novy. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

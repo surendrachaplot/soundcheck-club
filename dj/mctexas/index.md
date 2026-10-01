@@ -1,8 +1,8 @@
 # MC Texas
 
-MC Texas is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
+MC Texas is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
-MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Bristol and London. Often billed alongside Carasel, Flava D and Anaïs. Next up: The Prospect Building, Bristol on Sat 14 Nov.
+MC Texas is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Carasel, Flava D and Anaïs. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MC Texas is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
-- The Clock Factory, Bristol — Sat, 25 Jul 2026
-- The Prospect Building, Bristol — Sat, 25 Oct 2025
-- Gretchen, Berlin — Sat, 10 May 2025
-- The Prospect Building, Bristol — Sat, 22 Feb 2025
-- The Underground, Bristol — Sat, 8 Feb 2025
-- Motion Bristol, Bristol — Sat, 27 Jan 2024
-- E1, London — Fri, 29 Sept 2023
+- Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
+- The Clock Factory, Bristol · Sat, 25 Jul 2026
+- The Prospect Building, Bristol · Sat, 25 Oct 2025
+- Gretchen, Berlin · Sat, 10 May 2025
+- The Prospect Building, Bristol · Sat, 22 Feb 2025
+- The Underground, Bristol · Sat, 8 Feb 2025
+- Motion Bristol, Bristol · Sat, 27 Jan 2024
+- E1, London · Fri, 29 Sept 2023
 
 ## Shares bills with
 

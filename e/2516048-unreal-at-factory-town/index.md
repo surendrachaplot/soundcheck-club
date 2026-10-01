@@ -1,6 +1,6 @@
 # UNREAL at Factory Town
 
-UNREAL at Factory Town on Fri 13 Nov, Miami. Techno. Preview the line-up and save it on soundcheck.
+UNREAL at Factory Town on Fri 13 Nov, Miami. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

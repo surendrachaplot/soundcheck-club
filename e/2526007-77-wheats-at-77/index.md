@@ -1,6 +1,6 @@
 # 77: Wheats at 77
 
-77: Wheats on Fri 13 Nov, London. 1 artist on the bill: Wheats. House. Preview the line-up and save it on soundcheck.
+77: Wheats on Fri 13 Nov, London. 1 artist: Wheats. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

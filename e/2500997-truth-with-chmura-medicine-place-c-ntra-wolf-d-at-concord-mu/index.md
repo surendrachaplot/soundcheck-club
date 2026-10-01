@@ -1,6 +1,6 @@
 # Truth with CHMURA, MEDICINE PLACE, CØNTRA, WOLF'D at Concord Music Hall
 
-Truth with CHMURA, MEDICINE PLACE, CØNTRA, WOLF'D at Concord Music Hall on Fri 23 Oct, Chicago. 1 artist on the bill: Truth. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Truth with CHMURA, MEDICINE PLACE, CØNTRA, WOLF'D at Concord Music Hall on Fri 23 Oct, Chicago. 1 artist: Truth. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

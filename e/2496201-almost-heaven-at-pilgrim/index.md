@@ -1,6 +1,6 @@
 # Almost Heaven at Pilgrim
 
-Almost Heaven at Pilgrim on Sat 19 Dec, Newcastle. Preview the line-up and save it on soundcheck.
+Almost Heaven at Pilgrim on Sat 19 Dec, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

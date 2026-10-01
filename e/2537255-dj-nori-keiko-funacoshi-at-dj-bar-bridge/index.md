@@ -1,6 +1,6 @@
 # DJ NORI, KEIKO. & FUNACOSHI at DJ Bar Bridge
 
-DJ NORI, KEIKO. & FUNACOSHI at DJ Bar Bridge on Fri 27 Nov, Tokyo. 1 artist on the bill: DJ Nori. House. Preview the line-up and save it on soundcheck.
+DJ NORI, KEIKO. & FUNACOSHI at DJ Bar Bridge on Fri 27 Nov, Tokyo. 1 artist: DJ Nori. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
+DJ Strawberry is a Footwork and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
-DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundcheck, with 52 sets logged across Berlin, Denver, Hamburg and Istanbul and 10 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
+DJ Strawberry is a footwork and bass artist based in Turkey, with 52 gigs on soundcheck across Berlin, Denver, Hamburg and Istanbul and 10 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundche
 
 ## Recently played
 
-- Şahika, Istanbul — Fri, 18 Sept 2026
-- Panke, Berlin — Sat, 18 Jul 2026
-- TBA - We Süreyya, Istanbul — Sun, 12 Jul 2026
-- Arkaoda, Istanbul — Sat, 11 Jul 2026
-- Şahika, Istanbul — Fri, 10 Jul 2026
-- Backsteinboot, Berlin — Sat, 20 Jun 2026
-- Backsteinboot, Berlin — Sun, 24 May 2026
-- Jonny Knüppel, Berlin — Sat, 23 May 2026
+- Şahika, Istanbul · Fri, 18 Sept 2026
+- Panke, Berlin · Sat, 18 Jul 2026
+- TBA - We Süreyya, Istanbul · Sun, 12 Jul 2026
+- Arkaoda, Istanbul · Sat, 11 Jul 2026
+- Şahika, Istanbul · Fri, 10 Jul 2026
+- Backsteinboot, Berlin · Sat, 20 Jun 2026
+- Backsteinboot, Berlin · Sun, 24 May 2026
+- Jonny Knüppel, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 

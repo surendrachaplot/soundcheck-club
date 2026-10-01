@@ -1,6 +1,6 @@
 # participative vinyl session with DJ Klapsalon at dubble
 
-participative vinyl session with DJ Klapsalon at dubble on Sun 11 Oct, Amsterdam. 1 artist on the bill: DJ Klapsalon. Preview the line-up and save it on soundcheck.
+participative vinyl session with DJ Klapsalon at dubble on Sun 11 Oct, Amsterdam. 1 artist: DJ Klapsalon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

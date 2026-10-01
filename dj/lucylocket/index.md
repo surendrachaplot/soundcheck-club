@@ -1,8 +1,8 @@
 # Lucy Locket
 
-Lucy Locket is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
+Lucy Locket is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
 
-Lucy Locket is a disco and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds. Often billed alongside Michael Upson, Ga-briel and Harry Rook. Next up: Hyde Park Book Club, Leeds on Fri 9 Oct.
+Lucy Locket is a disco and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds. Often billed alongside Michael Upson, Ga-briel and Harry Rook. Next up: Hyde Park Book Club, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lucy Locket is a disco and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Hope House, Leeds — Thu, 11 Dec 2025
-- Outlaws Yacht Club, Leeds — Thu, 21 Aug 2025
-- Eiger Studios, Leeds — Fri, 14 Feb 2025
-- Hope House, Leeds — Sun, 3 Dec 2023
-- Wharf Chambers, Leeds — Sat, 7 Oct 2023
-- Convention House, Leeds — Sun, 6 Aug 2023
-- Wharf Chambers, Leeds — Sat, 17 Jun 2023
-- Wharf Chambers, Leeds — Sat, 28 Jan 2023
+- Hope House, Leeds · Thu, 11 Dec 2025
+- Outlaws Yacht Club, Leeds · Thu, 21 Aug 2025
+- Eiger Studios, Leeds · Fri, 14 Feb 2025
+- Hope House, Leeds · Sun, 3 Dec 2023
+- Wharf Chambers, Leeds · Sat, 7 Oct 2023
+- Convention House, Leeds · Sun, 6 Aug 2023
+- Wharf Chambers, Leeds · Sat, 17 Jun 2023
+- Wharf Chambers, Leeds · Sat, 28 Jan 2023
 
 ## Shares bills with
 

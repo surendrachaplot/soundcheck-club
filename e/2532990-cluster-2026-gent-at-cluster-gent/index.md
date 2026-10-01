@@ -1,6 +1,6 @@
 # CLUSTER 2026 - GENT at Cluster - Gent
 
-CLUSTER 2026 - GENT at Cluster - Gent on Fri 27 Nov, Ghent. Electronica. Preview the line-up and save it on soundcheck.
+CLUSTER 2026 - GENT at Cluster - Gent on Fri 27 Nov, Ghent. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

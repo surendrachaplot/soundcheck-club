@@ -1,6 +1,6 @@
 # SWARAJ at 93 Feet East
 
-SWARAJ at 93 Feet East on Fri 11 Dec, London. Bass and Club. Preview the line-up and save it on soundcheck.
+SWARAJ at 93 Feet East on Fri 11 Dec, London. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

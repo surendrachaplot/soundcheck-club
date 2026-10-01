@@ -1,6 +1,6 @@
 # Go.Play with maniac&me & Freunde at Minimal Bar
 
-Go.Play with maniac&me & Freunde at Minimal Bar on Wed 2 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Go.Play with maniac&me & Freunde at Minimal Bar on Wed 2 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

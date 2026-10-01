@@ -1,6 +1,6 @@
 # III Points Satellite Party: ZEYZEY - Stage ZAKU at ZeyZey
 
-III Points Satellite Party: ZEYZEY - Stage ZAKU at ZeyZey on Wed 14 Oct, Miami. Preview the line-up and save it on soundcheck.
+III Points Satellite Party: ZEYZEY - Stage ZAKU at ZeyZey on Wed 14 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

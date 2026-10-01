@@ -1,8 +1,8 @@
 # Sebastian Rebig
 
-Sebastian Rebig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
+Sebastian Rebig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
 
-Sebastian Rebig is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Düsseldorf. Often billed alongside Roxtone, Aubrey and Bryan Kessler. Next up: Minimal Bar, Berlin on Mon 26 Oct.
+Sebastian Rebig is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Roxtone, Aubrey and Bryan Kessler. Next up: Minimal Bar, Berlin on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sebastian Rebig is a house and techno artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Minimal Bar, Berlin — Sat, 25 Apr 2026
-- Giselle, Düsseldorf — Sat, 17 Jan 2026
-- Giselle, Düsseldorf — Sat, 4 Oct 2025
-- Golden Gate, Berlin — Sat, 24 Jun 2023
-- CUBE, Düsseldorf — Sat, 3 Jun 2023
-- CUBE, Düsseldorf — Sat, 1 Apr 2023
-- CUBE, Düsseldorf — Sat, 4 Feb 2023
-- Golzheim, Düsseldorf — Fri, 27 Jan 2023
+- Minimal Bar, Berlin · Sat, 25 Apr 2026
+- Giselle, Düsseldorf · Sat, 17 Jan 2026
+- Giselle, Düsseldorf · Sat, 4 Oct 2025
+- Golden Gate, Berlin · Sat, 24 Jun 2023
+- CUBE, Düsseldorf · Sat, 3 Jun 2023
+- CUBE, Düsseldorf · Sat, 1 Apr 2023
+- CUBE, Düsseldorf · Sat, 4 Feb 2023
+- Golzheim, Düsseldorf · Fri, 27 Jan 2023
 
 ## Shares bills with
 

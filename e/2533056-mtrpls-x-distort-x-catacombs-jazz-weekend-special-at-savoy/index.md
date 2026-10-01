@@ -1,6 +1,6 @@
 # MTRPLS x DISTORT x CATACOMBS: Jazz Weekend Special at Savoy
 
-MTRPLS x DISTORT x CATACOMBS: Jazz Weekend Special at Savoy on Fri 23 Oct, Cork. 6 artists on the bill: Ashes, MEJMI, Rebecca Delle Piane and RiaStartha and 2 more. Preview the line-up and save it on soundcheck.
+MTRPLS x DISTORT x CATACOMBS: Jazz Weekend Special at Savoy on Fri 23 Oct, Cork. 6 artists: Ashes, MEJMI, Rebecca Delle Piane and RiaStartha and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

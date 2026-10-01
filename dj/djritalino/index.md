@@ -1,8 +1,8 @@
 # DJ ritalino
 
-DJ ritalino is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+DJ ritalino is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-DJ ritalino is a techno and trance artist based in Germany, tracked on soundcheck, with 42 sets logged across Basel, Berlin, Leipzig and Malta and 1 more. Often billed alongside Desperate House Guy, :MUMM and DJ Sanity Check. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+DJ ritalino is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Basel, Berlin, Leipzig and Malta and 1 more. Often billed alongside Desperate House Guy, :MUMM and DJ Sanity Check. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ ritalino is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- elipamanoke, Leipzig — Wed, 12 Aug 2026
-- ://about blank, Berlin — Fri, 29 May 2026
-- TBA - MAW, Magdeburg, Berlin — Thu, 14 May 2026
-- Distillery, Leipzig — Thu, 30 Apr 2026
-- elipamanoke, Leipzig — Wed, 15 Apr 2026
-- elipamanoke, Leipzig — Fri, 20 Mar 2026
-- Axxon N., Leipzig — Sat, 31 Jan 2026
-- Kater, Berlin — Fri, 24 Oct 2025
+- elipamanoke, Leipzig · Wed, 12 Aug 2026
+- ://about blank, Berlin · Fri, 29 May 2026
+- TBA - MAW, Magdeburg, Berlin · Thu, 14 May 2026
+- Distillery, Leipzig · Thu, 30 Apr 2026
+- elipamanoke, Leipzig · Wed, 15 Apr 2026
+- elipamanoke, Leipzig · Fri, 20 Mar 2026
+- Axxon N., Leipzig · Sat, 31 Jan 2026
+- Kater, Berlin · Fri, 24 Oct 2025
 
 ## Shares bills with
 

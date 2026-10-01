@@ -1,8 +1,8 @@
 # Max Dewavrin
 
-Max Dewavrin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
+Max Dewavrin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
 
-Max Dewavrin is a house and techno artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Nürnberg and Paris. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: Renate, Berlin on Fri 30 Oct.
+Max Dewavrin is a house and techno artist based in France, with 16 gigs on soundcheck across Berlin, Cologne, Nürnberg and Paris. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: Renate, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Max Dewavrin is a house and techno artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- Renate, Berlin — Sat, 21 Mar 2026
-- ÆDEN, Berlin — Sat, 29 Nov 2025
-- TBA - Château de Farcheville, Paris — Thu, 24 Jul 2025
-- Kater, Berlin — Fri, 30 May 2025
-- ://about blank, Berlin — Sat, 29 Mar 2025
-- Crack Bellmer, Berlin — Sat, 1 Mar 2025
-- Fvtvr, Paris — Fri, 13 Dec 2024
-- Z-Bau, Nürnberg — Sat, 7 Dec 2024
+- Renate, Berlin · Sat, 21 Mar 2026
+- ÆDEN, Berlin · Sat, 29 Nov 2025
+- TBA - Château de Farcheville, Paris · Thu, 24 Jul 2025
+- Kater, Berlin · Fri, 30 May 2025
+- ://about blank, Berlin · Sat, 29 Mar 2025
+- Crack Bellmer, Berlin · Sat, 1 Mar 2025
+- Fvtvr, Paris · Fri, 13 Dec 2024
+- Z-Bau, Nürnberg · Sat, 7 Dec 2024
 
 ## Shares bills with
 

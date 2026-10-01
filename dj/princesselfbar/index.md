@@ -1,13 +1,14 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
+Princess Elf Bar is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vespers Club, London on Sat, 17 Oct 2026.
 
-Princess Elf Bar is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: Gorilla, Manchester on Sat 24 Oct.
+Princess Elf Bar is a trance and techno artist based in United Kingdom, with 164 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: Vespers Club, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Vespers Club | London |
 | Sat, 24 Oct 2026 | Gorilla | Manchester |
 | Sat, 24 Oct 2026 | Meraki | Liverpool |
 | Sat, 24 Oct 2026 | The Yard | Manchester |
@@ -20,14 +21,14 @@ Princess Elf Bar is a trance and techno artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- M.O.T, London — Fri, 25 Sept 2026
-- renae, Manchester — Sat, 19 Sept 2026
-- Hidden, Manchester — Fri, 18 Sept 2026
-- Yes, Manchester — Thu, 17 Sept 2026
-- Vespers Club, London — Sat, 22 Aug 2026
-- Stage and Radio, Manchester — Fri, 14 Aug 2026
-- The Glove That Fits, London — Thu, 13 Aug 2026
-- Sneaky Pete's, Edinburgh — Thu, 6 Aug 2026
+- M.O.T, London · Fri, 25 Sept 2026
+- renae, Manchester · Sat, 19 Sept 2026
+- Hidden, Manchester · Fri, 18 Sept 2026
+- Yes, Manchester · Thu, 17 Sept 2026
+- Vespers Club, London · Sat, 22 Aug 2026
+- Stage and Radio, Manchester · Fri, 14 Aug 2026
+- The Glove That Fits, London · Thu, 13 Aug 2026
+- Sneaky Pete's, Edinburgh · Thu, 6 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Vinyl Bitch Open Decks 032 at Dalston Superstore
 
-Vinyl Bitch Open Decks 032 at Dalston Superstore on Mon 5 Oct, London. Techno and House. Preview the line-up and save it on soundcheck.
+Vinyl Bitch Open Decks 032 at Dalston Superstore on Mon 5 Oct, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+Nosaj Thing is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
-Nosaj Thing is a techno and experimental artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Austin and Bangkok and 28 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
+Nosaj Thing is a techno and experimental artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 28 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Nosaj Thing is a techno and experimental artist based in United States of Americ
 
 ## Recently played
 
-- UNDERCITY, Seoul — Fri, 24 Jul 2026
-- MoN Takanawa, Tokyo — Sat, 11 Jul 2026
-- Final, Taipei — Sat, 30 May 2026
-- Circus Osaka, Osaka — Fri, 3 Apr 2026
-- Spotify O-EAST, Tokyo — Sat, 22 Nov 2025
-- Various Venues, Tokyo — Thu, 20 Nov 2025
-- Romantso, Athens — Fri, 7 Nov 2025
-- Akvárium Klub, Budapest — Mon, 3 Nov 2025
+- UNDERCITY, Seoul · Fri, 24 Jul 2026
+- MoN Takanawa, Tokyo · Sat, 11 Jul 2026
+- Final, Taipei · Sat, 30 May 2026
+- Circus Osaka, Osaka · Fri, 3 Apr 2026
+- Spotify O-EAST, Tokyo · Sat, 22 Nov 2025
+- Various Venues, Tokyo · Thu, 20 Nov 2025
+- Romantso, Athens · Fri, 7 Nov 2025
+- Akvárium Klub, Budapest · Mon, 3 Nov 2025
 
 ## Shares bills with
 

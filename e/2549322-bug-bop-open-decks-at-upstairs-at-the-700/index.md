@@ -1,6 +1,6 @@
 # Bug Bop Open Decks at Upstairs at the 700
 
-Bug Bop Open Decks at Upstairs at the 700 on Sat 10 Oct, Philadelphia. Preview the line-up and save it on soundcheck.
+Bug Bop Open Decks at Upstairs at the 700 on Sat 10 Oct, Philadelphia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

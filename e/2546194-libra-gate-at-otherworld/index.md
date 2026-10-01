@@ -1,6 +1,6 @@
 # Libra Gate at Otherworld
 
-Libra Gate at Otherworld on Fri 9 Oct, Austin. 2 artists on the bill: Gondra and Phamstar. Trance and Techno. Preview the line-up and save it on soundcheck.
+Libra Gate at Otherworld on Fri 9 Oct, Austin. 2 artists: Gondra and Phamstar. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

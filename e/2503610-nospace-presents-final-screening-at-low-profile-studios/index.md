@@ -1,6 +1,6 @@
 # nospace presents: Final Screening at Low Profile Studios
 
-nospace presents: Final Screening at Low Profile Studios on Sat 31 Oct, London. Garage and Tech House. Preview the line-up and save it on soundcheck.
+nospace presents: Final Screening at Low Profile Studios on Sat 31 Oct, London. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

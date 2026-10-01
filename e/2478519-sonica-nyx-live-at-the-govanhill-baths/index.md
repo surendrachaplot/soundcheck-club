@@ -1,6 +1,6 @@
 # Sonica: NYX Live at The Govanhill Baths
 
-Sonica: NYX Live at The Govanhill Baths on Sat 3 Oct, Glasgow. 1 artist on the bill: NYX. Experimental. Preview the line-up and save it on soundcheck.
+Sonica: NYX Live at The Govanhill Baths on Sat 3 Oct, Glasgow. 1 artist: NYX. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

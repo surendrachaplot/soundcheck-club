@@ -1,8 +1,8 @@
 # Christine Michelle
 
-Christine Michelle is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Crystal Lounge, Seattle on Fri, 4 Dec 2026.
+Christine Michelle is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crystal Lounge, Seattle on Fri, 4 Dec 2026.
 
-Christine Michelle is a house and deep house artist based in United States of America, tracked on soundcheck, with 28 sets logged across London and Seattle. Often billed alongside Black Velveteen, Mr. Linden and Tony H. Next up: Crystal Lounge, Seattle on Fri 4 Dec.
+Christine Michelle is a house and deep house artist based in United States of America, with 28 gigs on soundcheck across London and Seattle. Often billed alongside Black Velveteen, Mr. Linden and Tony H. Next up: Crystal Lounge, Seattle on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Christine Michelle is a house and deep house artist based in United States of Am
 
 ## Recently played
 
-- The Monkey Loft, Seattle — Wed, 19 Aug 2026
-- Nectar Lounge, Seattle — Sat, 6 Jun 2026
-- Nectar Lounge, Seattle — Fri, 27 Mar 2026
-- TBA - Seattle Harbor, Seattle — Fri, 27 Feb 2026
-- Secret Location, London — Fri, 27 Feb 2026
-- Orient Express, Seattle — Fri, 20 Feb 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 5 Dec 2025
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 21 Nov 2025
+- The Monkey Loft, Seattle · Wed, 19 Aug 2026
+- Nectar Lounge, Seattle · Sat, 6 Jun 2026
+- Nectar Lounge, Seattle · Fri, 27 Mar 2026
+- TBA - Seattle Harbor, Seattle · Fri, 27 Feb 2026
+- Secret Location, London · Fri, 27 Feb 2026
+- Orient Express, Seattle · Fri, 20 Feb 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 5 Dec 2025
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 21 Nov 2025
 
 ## Shares bills with
 

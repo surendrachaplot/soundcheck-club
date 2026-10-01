@@ -1,6 +1,6 @@
 # Lena Willikens, tsola at Karmakoma
 
-Lena Willikens, tsola at Karmakoma on Sat 14 Nov, Belgrade. 2 artists on the bill: Lena Willikens and tsola. Preview the line-up and save it on soundcheck.
+Lena Willikens, tsola at Karmakoma on Sat 14 Nov, Belgrade. 2 artists: Lena Willikens and tsola. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

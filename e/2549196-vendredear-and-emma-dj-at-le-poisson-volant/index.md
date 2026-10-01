@@ -1,6 +1,6 @@
 # Vendredear and Emma DJ at Le Poisson Volant
 
-Vendredear and Emma DJ at Le Poisson Volant on Thu 29 Oct, Paris. 2 artists on the bill: Emma DJ and vendredear. Preview the line-up and save it on soundcheck.
+Vendredear and Emma DJ at Le Poisson Volant on Thu 29 Oct, Paris. 2 artists: Emma DJ and vendredear. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

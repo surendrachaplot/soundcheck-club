@@ -1,8 +1,8 @@
 # TBA - ENTITY powered by VOID ACOUSTCS
 
-TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "2º ANIVERSARIO TECHSI" on Fri, 23 Oct 2026.
+TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "2º ANIVERSARIO TECHSI" on Fri, 23 Oct 2026.
 
-TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including CH3LO, DISTORT (ES), Groovemami and HERMETICA and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - ENTITY powered by VOID ACOUSTCS is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including CH3LO, DISTORT (ES), Groovemami and HERMETICA and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

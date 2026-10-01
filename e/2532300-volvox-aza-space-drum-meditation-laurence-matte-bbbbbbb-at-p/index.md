@@ -1,6 +1,6 @@
 # Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB at public records
 
-Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB at public records on Fri 2 Oct, New York City. 5 artists on the bill: AZA, BbbBbBB, Laurence Matte and Space Drum Meditation and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB at public records on Fri 2 Oct, New York City. 5 artists: AZA, BbbBbBB, Laurence Matte and Space Drum Meditation and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

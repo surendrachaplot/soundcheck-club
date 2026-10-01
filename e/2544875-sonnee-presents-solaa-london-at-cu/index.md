@@ -1,6 +1,6 @@
 # Sonnee presents: SOLAA London at Cu
 
-Sonnee presents: SOLAA London at Cu on Fri 13 Nov, London. 1 artist on the bill: Sonnee. Preview the line-up and save it on soundcheck.
+Sonnee presents: SOLAA London at Cu on Fri 13 Nov, London. 1 artist: Sonnee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

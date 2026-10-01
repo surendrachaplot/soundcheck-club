@@ -1,6 +1,6 @@
 # Real No Real : Zhao Cong + Zhu Wenbo at Nadie Nunca Nada No
 
-Real No Real : Zhao Cong + Zhu Wenbo at Nadie Nunca Nada No on Fri 2 Oct, Madrid. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Real No Real : Zhao Cong + Zhu Wenbo at Nadie Nunca Nada No on Fri 2 Oct, Madrid. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

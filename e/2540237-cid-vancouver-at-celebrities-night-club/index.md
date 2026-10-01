@@ -1,6 +1,6 @@
 # CID (Vancouver) at Celebrities Night Club
 
-CID (Vancouver) at Celebrities Night Club on Sat 17 Oct, Vancouver. House and Tech House. Preview the line-up and save it on soundcheck.
+CID (Vancouver) at Celebrities Night Club on Sat 17 Oct, Vancouver. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

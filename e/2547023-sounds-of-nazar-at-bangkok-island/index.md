@@ -1,6 +1,6 @@
 # SOUNDS OF NAZAR at Bangkok Island
 
-SOUNDS OF NAZAR at Bangkok Island on Thu 15 Oct, Bangkok. Preview the line-up and save it on soundcheck.
+SOUNDS OF NAZAR at Bangkok Island on Thu 15 Oct, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

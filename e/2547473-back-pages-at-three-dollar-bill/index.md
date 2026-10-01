@@ -1,6 +1,6 @@
 # Back Pages at Three Dollar Bill
 
-Back Pages at Three Dollar Bill on Fri 9 Oct, Toronto. Pop and Club. Preview the line-up and save it on soundcheck.
+Back Pages at Three Dollar Bill on Fri 9 Oct, Toronto. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

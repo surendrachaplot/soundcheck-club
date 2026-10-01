@@ -1,6 +1,6 @@
 # Sekta Selekta: REDA, 1AM + after Expedition at Sekta Selekta
 
-Sekta Selekta: REDA, 1AM + after Expedition on Fri 2 Oct, Krakow. 4 artists on the bill: 1 AM, Hubsond, Prosto Dre and REDA. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Sekta Selekta: REDA, 1AM + after Expedition on Fri 2 Oct, Krakow. 4 artists: 1 AM, Hubsond, Prosto Dre and REDA. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

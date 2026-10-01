@@ -1,6 +1,6 @@
 # Riot Manchester Halloween at Amber's
 
-Riot Manchester Halloween at Amber's on Fri 23 Oct, Manchester. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Riot Manchester Halloween at Amber's on Fri 23 Oct, Manchester. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

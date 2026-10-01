@@ -1,6 +1,6 @@
 # BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48
 
-BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 9 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 9 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

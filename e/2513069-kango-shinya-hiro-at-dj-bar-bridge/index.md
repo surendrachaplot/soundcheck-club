@@ -1,6 +1,6 @@
 # KANGO, SHINYA & HIRO at DJ Bar Bridge
 
-KANGO, SHINYA & HIRO at DJ Bar Bridge on Mon 5 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+KANGO, SHINYA & HIRO at DJ Bar Bridge on Mon 5 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

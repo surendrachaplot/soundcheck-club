@@ -1,6 +1,6 @@
 # Mint presents: JAZZY Peace & Patience Tour (LEEDS) at Mint Warehouse
 
-Mint presents: JAZZY Peace & Patience Tour (LEEDS) at Mint Warehouse on Fri 20 Nov, Leeds. House. Preview the line-up and save it on soundcheck.
+Mint presents: JAZZY Peace & Patience Tour (LEEDS) at Mint Warehouse on Fri 20 Nov, Leeds. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

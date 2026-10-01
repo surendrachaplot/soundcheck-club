@@ -1,6 +1,6 @@
 # Impulso I at Village Underground Lisboa
 
-Impulso I at Village Underground Lisboa on Fri 16 Oct, Lisbon. 3 artists on the bill: CIINTRA, Enkō and Luis FMR. Preview the line-up and save it on soundcheck.
+Impulso I at Village Underground Lisboa on Fri 16 Oct, Lisbon. 3 artists: CIINTRA, Enkō and Luis FMR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

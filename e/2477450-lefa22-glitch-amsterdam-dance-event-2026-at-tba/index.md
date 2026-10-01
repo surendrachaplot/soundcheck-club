@@ -1,6 +1,6 @@
 # Lefa22 Glitch Amsterdam Dance Event 2026 at TBA
 
-Lefa22 Glitch Amsterdam Dance Event 2026 at TBA on Thu 22 Oct, Helsinki. House and Deep House. Preview the line-up and save it on soundcheck.
+Lefa22 Glitch Amsterdam Dance Event 2026 at TBA on Thu 22 Oct, Helsinki. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

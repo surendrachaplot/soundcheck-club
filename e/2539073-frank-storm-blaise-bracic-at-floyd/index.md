@@ -1,6 +1,6 @@
 # Frank Storm + Blaise Bracic at Floyd
 
-Frank Storm + Blaise Bracic at Floyd on Sun 25 Oct, Miami. 2 artists on the bill: Frank Storm and Lousy Lover. House and Tech House. Preview the line-up and save it on soundcheck.
+Frank Storm + Blaise Bracic at Floyd on Sun 25 Oct, Miami. 2 artists: Frank Storm and Lousy Lover. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

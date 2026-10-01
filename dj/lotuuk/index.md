@@ -1,8 +1,8 @@
 # LOTU (UK)
 
-LOTU (UK) is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+LOTU (UK) is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-LOTU (UK) is a dubstep and dub artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Chad Dubz, SGT Pokes and MINTY. Next up: Beaver Works, Leeds on Sat 3 Oct.
+LOTU (UK) is a dubstep and dub artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Chad Dubz, SGT Pokes and MINTY. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LOTU (UK) is a dubstep and dub artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Sawmills, Bristol — Sat, 12 Sept 2026
-- Eastern Bloc Records, Manchester — Thu, 2 Jul 2026
-- The Trinity Centre, Bristol — Sat, 21 Feb 2026
-- The Love Inn, Bristol — Thu, 13 Nov 2025
-- Green Works, Bristol — Sat, 18 Oct 2025
-- Cu, London — Sat, 1 Mar 2025
-- Green Works, Bristol — Sat, 11 Jan 2025
-- 26 Leake Street, London — Tue, 31 Dec 2024
+- Sawmills, Bristol · Sat, 12 Sept 2026
+- Eastern Bloc Records, Manchester · Thu, 2 Jul 2026
+- The Trinity Centre, Bristol · Sat, 21 Feb 2026
+- The Love Inn, Bristol · Thu, 13 Nov 2025
+- Green Works, Bristol · Sat, 18 Oct 2025
+- Cu, London · Sat, 1 Mar 2025
+- Green Works, Bristol · Sat, 11 Jan 2025
+- 26 Leake Street, London · Tue, 31 Dec 2024
 
 ## Shares bills with
 

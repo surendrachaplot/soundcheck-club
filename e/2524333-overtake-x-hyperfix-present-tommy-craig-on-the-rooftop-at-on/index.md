@@ -1,6 +1,6 @@
 # Overtake x Hyperfix present: Tommy Craig on the rooftop at OneSixOne
 
-Overtake x Hyperfix present: Tommy Craig on the rooftop at OneSixOne on Sat 10 Oct, Melbourne. 1 artist on the bill: EMCD. Electro and UK Funky. Preview the line-up and save it on soundcheck.
+Overtake x Hyperfix present: Tommy Craig on the rooftop at OneSixOne on Sat 10 Oct, Melbourne. 1 artist: EMCD. Electro and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

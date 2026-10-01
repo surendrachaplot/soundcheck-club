@@ -1,6 +1,6 @@
 # Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY at Panama
 
-Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY on Sat 24 Oct, Amsterdam. 3 artists on the bill: Darah, Philip Ackowsky and Proper Banger. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Techno Agency × AH PROMOTIONS × Panama Club —ADE AFTERPARTY on Sat 24 Oct, Amsterdam. 3 artists: Darah, Philip Ackowsky and Proper Banger. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

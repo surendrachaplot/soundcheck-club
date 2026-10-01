@@ -1,6 +1,6 @@
 # Dans la Discothèque at Oxygenic
 
-Dans la Discothèque at Oxygenic on Sat 28 Nov, Newcastle. Acid and Post-Punk. Preview the line-up and save it on soundcheck.
+Dans la Discothèque at Oxygenic on Sat 28 Nov, Newcastle. Acid and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

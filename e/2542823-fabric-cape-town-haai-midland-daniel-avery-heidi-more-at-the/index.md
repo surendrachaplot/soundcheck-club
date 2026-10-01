@@ -1,6 +1,6 @@
 # fabric Cape Town: HAAi, Midland, Daniel Avery, Heidi + more at The Castle of Good Hope
 
-fabric Cape Town: HAAi, Midland, Daniel Avery, Heidi + more at The Castle of Good Hope on Sat 16 Jan, Cape Town. 4 artists on the bill: Daniel Avery, HAAi, Heidi and Midland. Preview the line-up and save it on soundcheck.
+fabric Cape Town: HAAi, Midland, Daniel Avery, Heidi + more at The Castle of Good Hope on Sat 16 Jan, Cape Town. 4 artists: Daniel Avery, HAAi, Heidi and Midland. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Future Yard presents COWBOYY at Future Yard
 
-Future Yard presents COWBOYY on Sun 29 Nov, Liverpool. Post-Punk. Preview the line-up and save it on soundcheck.
+Future Yard presents COWBOYY on Sun 29 Nov, Liverpool. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Anri (2)
 
-Anri (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at or, Tokyo on Sun, 18 Oct 2026.
+Anri (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
-Anri is a house and tech house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Yamariki, liberty (JP) and Ayantula. Next up: or, Tokyo on Sun 18 Oct.
+Anri is a house and tech house artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, liberty (JP) and Ayantula. Next up: or, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anri is a house and tech house artist based in Japan, tracked on soundcheck, wit
 
 ## Recently played
 
-- Aoyama Hachi, Tokyo — Sun, 27 Sept 2026
-- Royal Lounge, Tokyo — Sun, 19 Jul 2026
-- TBA - ROYAL LOUNGE , Tokyo — Sun, 28 Jun 2026
-- or, Tokyo — Sun, 26 Apr 2026
-- Azumaya, Tokyo — Tue, 14 Apr 2026
-- or, Tokyo — Sun, 29 Mar 2026
-- MEIMEI, Tokyo — Tue, 24 Feb 2026
-- or, Tokyo — Sun, 25 Jan 2026
+- Aoyama Hachi, Tokyo · Sun, 27 Sept 2026
+- Royal Lounge, Tokyo · Sun, 19 Jul 2026
+- TBA - ROYAL LOUNGE , Tokyo · Sun, 28 Jun 2026
+- or, Tokyo · Sun, 26 Apr 2026
+- Azumaya, Tokyo · Tue, 14 Apr 2026
+- or, Tokyo · Sun, 29 Mar 2026
+- MEIMEI, Tokyo · Tue, 24 Feb 2026
+- or, Tokyo · Sun, 25 Jan 2026
 
 ## Shares bills with
 

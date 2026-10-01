@@ -1,6 +1,6 @@
 # Planeta Pasado at The LookOut
 
-Planeta Pasado at The LookOut on Sat 3 Oct, San Francisco/Oakland. 2 artists on the bill: Digital KitKat and MIJITO. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Planeta Pasado at The LookOut on Sat 3 Oct, San Francisco/Oakland. 2 artists: Digital KitKat and MIJITO. Italo Disco and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

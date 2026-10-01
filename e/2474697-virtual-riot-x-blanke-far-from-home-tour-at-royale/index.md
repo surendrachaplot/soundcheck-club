@@ -1,6 +1,6 @@
 # Virtual Riot x Blanke: Far From Home Tour at Royale
 
-Virtual Riot x Blanke: Far From Home Tour at Royale on Fri 23 Oct, Boston. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Virtual Riot x Blanke: Far From Home Tour at Royale on Fri 23 Oct, Boston. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

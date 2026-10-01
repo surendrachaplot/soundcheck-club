@@ -1,6 +1,6 @@
 # Ring invites Carl H at Ring
 
-Ring invites Carl H on Sat 17 Oct, Seoul. 3 artists on the bill: Carl H, Hakim. and S.O.N.S. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Ring invites Carl H on Sat 17 Oct, Seoul. 3 artists: Carl H, Hakim. and S.O.N.S. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

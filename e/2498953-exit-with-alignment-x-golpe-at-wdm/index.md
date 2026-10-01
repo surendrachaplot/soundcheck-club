@@ -1,6 +1,6 @@
 # EXIT with Alignment x Golpe at WDM
 
-EXIT with Alignment x Golpe at WDM on Sat 10 Oct, Hannover. 5 artists on the bill: Alignment, CLAVD, Golpe and Meg McHugh and 1 more. Preview the line-up and save it on soundcheck.
+EXIT with Alignment x Golpe at WDM on Sat 10 Oct, Hannover. 5 artists: Alignment, CLAVD, Golpe and Meg McHugh and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

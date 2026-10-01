@@ -1,8 +1,8 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PRST, Vienna on Sat, 3 Oct 2026.
+Maher Daniel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
 
-Maher Daniel is a house and techno artist based in Palestine, tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 26 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: PRST, Vienna on Sat 3 Oct.
+Maher Daniel is a house and techno artist based in Palestine, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 26 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: PRST, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Maher Daniel is a house and techno artist based in Palestine, tracked on soundch
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Wed, 30 Sept 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 26 Sept 2026
-- Société des arts technologiques, Montreal — Sat, 26 Sept 2026
-- Société des arts technologiques, Montreal — Sat, 26 Sept 2026
-- Sophie Festival, Malaga — Sat, 19 Sept 2026
-- Port of Belgrade, Belgrade — Sat, 22 Aug 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 19 Aug 2026
-- Refuge, New York City — Sat, 18 Jul 2026
+- Chinois Ibiza, Ibiza · Wed, 30 Sept 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 26 Sept 2026
+- Société des arts technologiques, Montreal · Sat, 26 Sept 2026
+- Société des arts technologiques, Montreal · Sat, 26 Sept 2026
+- Sophie Festival, Malaga · Sat, 19 Sept 2026
+- Port of Belgrade, Belgrade · Sat, 22 Aug 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 19 Aug 2026
+- Refuge, New York City · Sat, 18 Jul 2026
 
 ## Shares bills with
 

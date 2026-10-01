@@ -1,6 +1,6 @@
 # Nikita, the Wicked at Meow Wolf Houston
 
-Nikita, the Wicked at Meow Wolf Houston on Fri 16 Oct, Houston. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Nikita, the Wicked at Meow Wolf Houston on Fri 16 Oct, Houston. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

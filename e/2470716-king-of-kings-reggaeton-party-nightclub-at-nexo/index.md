@@ -1,6 +1,6 @@
 # King of Kings Reggaeton Party Nightclub at Nexo
 
-King of Kings Reggaeton Party Nightclub at Nexo on Sat 10 Oct, New York City. Preview the line-up and save it on soundcheck.
+King of Kings Reggaeton Party Nightclub at Nexo on Sat 10 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

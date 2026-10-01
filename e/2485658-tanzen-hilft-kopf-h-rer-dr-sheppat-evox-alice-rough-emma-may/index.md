@@ -1,6 +1,6 @@
 # Tanzen Hilft/Kopf&Hörer/Dr.Sheppat/Evox/Alice Rough/Emma/Mayze/Kodex/ at Der Weiße Hase
 
-Tanzen Hilft/Kopf&Hörer/Dr.Sheppat/Evox/Alice Rough/Emma/Mayze/Kodex/ at Der Weiße Hase on Sat 28 Nov, Berlin. 4 artists on the bill: Emma, kies, Morris Fitch and Tombish. Preview the line-up and save it on soundcheck.
+Tanzen Hilft/Kopf&Hörer/Dr.Sheppat/Evox/Alice Rough/Emma/Mayze/Kodex/ at Der Weiße Hase on Sat 28 Nov, Berlin. 4 artists: Emma, kies, Morris Fitch and Tombish. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

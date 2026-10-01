@@ -1,8 +1,8 @@
 # The Buff Club
 
-The Buff Club is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Red Light Disco" on Fri, 2 Oct 2026.
+The Buff Club is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Red Light Disco" on Fri, 2 Oct 2026.
 
-The Buff Club is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Daniel Hive, djsmuz and Shaka Loves You. Browse upcoming dates, start times and who's playing. 142 Bath Lane; Glasgow, G2 4SQ; Scotland.
+The Buff Club is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Daniel Hive, djsmuz and Shaka Loves You. See dates, start times and who's playing. 142 Bath Lane; Glasgow, G2 4SQ; Scotland.
 
 ## What's on
 

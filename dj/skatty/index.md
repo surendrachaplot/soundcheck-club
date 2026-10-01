@@ -1,8 +1,8 @@
 # Skatty
 
-Skatty is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nevermind Bar, Melbourne on Sat, 10 Oct 2026.
+Skatty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nevermind Bar, Melbourne on Sat, 10 Oct 2026.
 
-Skatty is a drum & bass and jungle artist based in New Zealand, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Edan, MELTA and Aaron Static. Next up: Nevermind Bar, Melbourne on Sat 10 Oct.
+Skatty is a drum & bass and jungle artist based in New Zealand, with 7 gigs on soundcheck across Melbourne. Often billed alongside Edan, MELTA and Aaron Static. Next up: Nevermind Bar, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Skatty is a drum & bass and jungle artist based in New Zealand, tracked on sound
 
 ## Recently played
 
-- Nevermind Bar, Melbourne — Sat, 22 Aug 2026
-- QQQ ST. Park, Melbourne — Sat, 30 Aug 2025
-- Nevermind Bar, Melbourne — Sat, 24 May 2025
-- QQQ ST. Park, Melbourne — Sat, 17 May 2025
-- Nevermind Bar, Melbourne — Sat, 18 Jan 2025
-- QQQ ST. Park, Melbourne — Sat, 16 Nov 2024
+- Nevermind Bar, Melbourne · Sat, 22 Aug 2026
+- QQQ ST. Park, Melbourne · Sat, 30 Aug 2025
+- Nevermind Bar, Melbourne · Sat, 24 May 2025
+- QQQ ST. Park, Melbourne · Sat, 17 May 2025
+- Nevermind Bar, Melbourne · Sat, 18 Jan 2025
+- QQQ ST. Park, Melbourne · Sat, 16 Nov 2024
 
 ## Shares bills with
 

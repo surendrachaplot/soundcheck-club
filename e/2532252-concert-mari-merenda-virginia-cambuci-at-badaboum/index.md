@@ -1,6 +1,6 @@
 # Concert — Mari Merenda, Virginia Cambuci at Badaboum
 
-Concert — Mari Merenda, Virginia Cambuci at Badaboum on Fri 23 Oct, Paris. Preview the line-up and save it on soundcheck.
+Concert — Mari Merenda, Virginia Cambuci at Badaboum on Fri 23 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

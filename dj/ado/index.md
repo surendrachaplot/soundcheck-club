@@ -1,8 +1,8 @@
 # Ado
 
-Ado is a Minimal and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at InDeep'n'Dance Records, Amsterdam on Wed, 21 Oct 2026.
+Ado is a Minimal and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Wed, 21 Oct 2026.
 
-Ado is a minimal and dub techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Geneva and Zurich. Often billed alongside ADO (DE), Dexon and Add FM. Next up: InDeep'n'Dance Records, Amsterdam on Wed 21 Oct.
+Ado is a minimal and dub techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Berlin, Geneva and Zurich. Often billed alongside ADO (DE), Dexon and Add FM. Next up: InDeep'n'Dance Records, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Ado is a minimal and dub techno artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Renate, Berlin — Fri, 17 Jul 2026
-- Zoo, Geneva — Fri, 27 Jun 2025
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Renate, Berlin · Fri, 17 Jul 2026
+- Zoo, Geneva · Fri, 27 Jun 2025
 
 ## Shares bills with
 

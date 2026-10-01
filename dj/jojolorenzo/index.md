@@ -1,8 +1,8 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Jojo Lorenzo is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Jojo Lorenzo is a house and techno artist based in United States of America, tracked on soundcheck, with 117 sets logged across Austin, Barcelona, Boston and Chicago and 18 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Jojo Lorenzo is a house and techno artist based in United States of America, with 117 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 18 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Jojo Lorenzo is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Club Vinyl, Denver — Sun, 23 Aug 2026
-- TV Lounge, Detroit — Sat, 22 Aug 2026
-- TBA - Brooklyn, New York City — Sat, 8 Aug 2026
-- Quartyard, San Diego — Sun, 19 Jul 2026
-- The Glass House, Los Angeles — Sat, 18 Jul 2026
-- TBA - Brooklyn, New York City — Sat, 11 Jul 2026
-- Night Tales, London — Sat, 27 Jun 2026
-- The Ground at Club Space, Miami — Sat, 20 Jun 2026
+- Club Vinyl, Denver · Sun, 23 Aug 2026
+- TV Lounge, Detroit · Sat, 22 Aug 2026
+- TBA - Brooklyn, New York City · Sat, 8 Aug 2026
+- Quartyard, San Diego · Sun, 19 Jul 2026
+- The Glass House, Los Angeles · Sat, 18 Jul 2026
+- TBA - Brooklyn, New York City · Sat, 11 Jul 2026
+- Night Tales, London · Sat, 27 Jun 2026
+- The Ground at Club Space, Miami · Sat, 20 Jun 2026
 
 ## Shares bills with
 

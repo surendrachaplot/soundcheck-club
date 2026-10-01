@@ -1,6 +1,6 @@
 # AEREA at Cermak Hall at Radius
 
-AEREA at Cermak Hall at Radius on Fri 20 Nov, Chicago. Trance and Techno. Preview the line-up and save it on soundcheck.
+AEREA at Cermak Hall at Radius on Fri 20 Nov, Chicago. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

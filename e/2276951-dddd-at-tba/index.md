@@ -1,6 +1,6 @@
 # dddd at TBA
 
-dddd at TBA on Wed 7 Oct, London. Preview the line-up and save it on soundcheck.
+dddd at TBA on Wed 7 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

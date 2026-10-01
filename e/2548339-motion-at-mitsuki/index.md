@@ -1,6 +1,6 @@
 # motion at Mitsuki
 
-motion at Mitsuki on Thu 1 Oct, Tokyo. 3 artists on the bill: DVDE, Kikiorix and Nari. Techno and House. Preview the line-up and save it on soundcheck.
+motion at Mitsuki on Thu 1 Oct, Tokyo. 3 artists: DVDE, Kikiorix and Nari. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

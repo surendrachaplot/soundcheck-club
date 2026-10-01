@@ -1,6 +1,6 @@
 # DJ Habibeats presents Habibi's House at TBA
 
-DJ Habibeats presents Habibi's House at TBA on Fri 29 Jan, London. 1 artist on the bill: DJ Habibeats. Preview the line-up and save it on soundcheck.
+DJ Habibeats presents Habibi's House at TBA on Fri 29 Jan, London. 1 artist: DJ Habibeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

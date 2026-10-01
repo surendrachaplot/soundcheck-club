@@ -1,6 +1,6 @@
 # Beerghain Taproom party at Crate Brewery
 
-Beerghain Taproom party at Crate Brewery on Sat 3 Oct, London. 1 artist on the bill: calan. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Beerghain Taproom party at Crate Brewery on Sat 3 Oct, London. 1 artist: calan. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

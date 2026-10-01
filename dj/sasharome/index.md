@@ -1,8 +1,8 @@
 # Sasha Rome
 
-Sasha Rome is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
+Sasha Rome is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
 
-Sasha Rome is a garage and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago and New York City. Often billed alongside Lovelydaze, Gigi Rio and Lord of Ciphers. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
+Sasha Rome is a garage and house artist based in United States of America, with 26 gigs on soundcheck across Chicago and New York City. Often billed alongside Lovelydaze, Gigi Rio and Lord of Ciphers. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sasha Rome is a garage and house artist based in United States of America, track
 
 ## Recently played
 
-- SILO, New York City — Thu, 24 Sept 2026
-- SILO, New York City — Fri, 22 May 2026
-- Mood Ring, New York City — Tue, 17 Mar 2026
-- Alphaville, New York City — Sat, 17 Jan 2026
-- Elsewhere, New York City — Fri, 14 Nov 2025
-- Elsewhere, New York City — Fri, 26 Sept 2025
-- Our Wicked Lady, New York City — Fri, 11 Jul 2025
-- Burnham Waterfront, Chicago — Thu, 3 Jul 2025
+- SILO, New York City · Thu, 24 Sept 2026
+- SILO, New York City · Fri, 22 May 2026
+- Mood Ring, New York City · Tue, 17 Mar 2026
+- Alphaville, New York City · Sat, 17 Jan 2026
+- Elsewhere, New York City · Fri, 14 Nov 2025
+- Elsewhere, New York City · Fri, 26 Sept 2025
+- Our Wicked Lady, New York City · Fri, 11 Jul 2025
+- Burnham Waterfront, Chicago · Thu, 3 Jul 2025
 
 ## Shares bills with
 

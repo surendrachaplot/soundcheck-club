@@ -1,0 +1,16 @@
+# [CANCELLED] lovetempo (Mattie Safer of The Rapture), Moriah Plaza at Haus der Statistik
+
+[CANCELLED] lovetempo (Mattie Safer of The Rapture), Moriah Plaza at Haus der Statistik on Fri 23 Oct, Berlin. 2 artists: lovetempo and Moriah Plaza. Disco and Jazz. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | Haus der Statistik |
+| City | Berlin |
+
+## Line-up
+
+- lovetempo
+- Moriah Plaza
+
+*Source: [soundcheck](https://soundcheck.club/e/2491082-cancelled-lovetempo-mattie-safer-of-the-rapture-moriah-plaza/)*

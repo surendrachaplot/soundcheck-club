@@ -1,6 +1,6 @@
 # Heterochrony at Débris
 
-Heterochrony at Débris on Fri 2 Oct, Tokyo. 3 artists on the bill: Da Yama, KEITO and Oshi. Techno and Bass. Preview the line-up and save it on soundcheck.
+Heterochrony at Débris on Fri 2 Oct, Tokyo. 3 artists: Da Yama, KEITO and Oshi. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

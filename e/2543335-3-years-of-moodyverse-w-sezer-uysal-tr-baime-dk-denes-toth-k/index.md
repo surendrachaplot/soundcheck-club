@@ -1,6 +1,6 @@
 # 3 years of Moodyverse w Sezer Uysal (TR), Baime (DK), Denes Toth, Konik, Enyta, Zana at Aldea Club
 
-3 years of Moodyverse w Sezer Uysal (TR), Baime (DK), Denes Toth, Konik, Enyta, Zana at Aldea Club on Fri 16 Oct, Bratislava. 4 artists on the bill: Baime, Denes Toth, Konik (SK) and Sezer Uysal. Preview the line-up and save it on soundcheck.
+3 years of Moodyverse w Sezer Uysal (TR), Baime (DK), Denes Toth, Konik, Enyta, Zana at Aldea Club on Fri 16 Oct, Bratislava. 4 artists: Baime, Denes Toth, Konik (SK) and Sezer Uysal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

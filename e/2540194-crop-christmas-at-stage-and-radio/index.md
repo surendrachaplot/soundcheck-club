@@ -1,6 +1,6 @@
 # CROP CHRISTMAS at Stage and Radio
 
-CROP CHRISTMAS at Stage and Radio on Fri 11 Dec, Manchester. Preview the line-up and save it on soundcheck.
+CROP CHRISTMAS at Stage and Radio on Fri 11 Dec, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

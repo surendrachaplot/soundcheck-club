@@ -1,6 +1,6 @@
 # ACT - HIPHOP / R&B / HOUSE / UKG / BASS - at ZEROTOKYO
 
-ACT - HIPHOP / R&B / HOUSE / UKG / BASS - at ZEROTOKYO on Thu 8 Oct, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+ACT - HIPHOP / R&B / HOUSE / UKG / BASS - at ZEROTOKYO on Thu 8 Oct, Tokyo. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

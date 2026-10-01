@@ -1,8 +1,8 @@
 # Steeziskey
 
-Steeziskey is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Four Quarters, London on Thu, 1 Oct 2026.
+Steeziskey is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Four Quarters, London on Thu, 1 Oct 2026.
 
-Steeziskey is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside sbfmRADIO, Badly Drawn Banana and Chedda Bred. Next up: Four Quarters, London on Thu 1 Oct.
+Steeziskey is an uk funky and garage artist based in United Kingdom, with 14 gigs on soundcheck across Leeds and London. Often billed alongside sbfmRADIO, Badly Drawn Banana and Chedda Bred. Next up: Four Quarters, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Steeziskey is an uk funky and garage artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Hackney Bridge, London — Sat, 5 Sept 2026
-- Dalston Den, London — Sat, 15 Aug 2026
-- Lil Nans Bar 2.0, London — Thu, 21 May 2026
-- Bread and Butter, London — Fri, 20 Mar 2026
-- Notting Hill Arts Club, London — Sun, 9 Nov 2025
-- Headrow House, Leeds — Fri, 31 Oct 2025
-- Bread and Butter, London — Fri, 24 Oct 2025
-- Bread and Butter, London — Fri, 17 Oct 2025
+- Hackney Bridge, London · Sat, 5 Sept 2026
+- Dalston Den, London · Sat, 15 Aug 2026
+- Lil Nans Bar 2.0, London · Thu, 21 May 2026
+- Bread and Butter, London · Fri, 20 Mar 2026
+- Notting Hill Arts Club, London · Sun, 9 Nov 2025
+- Headrow House, Leeds · Fri, 31 Oct 2025
+- Bread and Butter, London · Fri, 24 Oct 2025
+- Bread and Butter, London · Fri, 17 Oct 2025
 
 ## Shares bills with
 

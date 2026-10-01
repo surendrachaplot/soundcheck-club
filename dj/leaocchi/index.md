@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Lea Occhi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lobster (NL), Toscan Haas and Amotik. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Lea Occhi is a techno and house artist based in France, with 191 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lobster (NL), Toscan Haas and Amotik. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Lea Occhi is a techno and house artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- Le Trabendo, Paris — Sat, 26 Sept 2026
-- HHV.de Store, Berlin — Thu, 24 Sept 2026
-- Fuchs2, Prague — Sat, 19 Sept 2026
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- Artheater, Cologne — Fri, 11 Sept 2026
-- Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
-- La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
-- Club der Visionaere, Berlin — Wed, 12 Aug 2026
+- Le Trabendo, Paris · Sat, 26 Sept 2026
+- HHV.de Store, Berlin · Thu, 24 Sept 2026
+- Fuchs2, Prague · Sat, 19 Sept 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- Artheater, Cologne · Fri, 11 Sept 2026
+- Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
+- La Station - Gare des Mines, Paris · Fri, 21 Aug 2026
+- Club der Visionaere, Berlin · Wed, 12 Aug 2026
 
 ## Shares bills with
 

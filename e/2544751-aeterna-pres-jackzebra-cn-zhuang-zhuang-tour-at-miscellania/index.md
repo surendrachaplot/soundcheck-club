@@ -1,6 +1,6 @@
 # AETERNA pres. jackzebra (CN) - Zhuang Zhuang Tour at Miscellania
 
-AETERNA pres. jackzebra (CN) - Zhuang Zhuang Tour at Miscellania on Thu 10 Dec, Melbourne. Preview the line-up and save it on soundcheck.
+AETERNA pres. jackzebra (CN) - Zhuang Zhuang Tour at Miscellania on Thu 10 Dec, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

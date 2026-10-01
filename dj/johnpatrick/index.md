@@ -1,8 +1,8 @@
 # John Patrick
 
-John Patrick is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+John Patrick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-John Patrick is a house and deep house artist based in Mexico, tracked on soundcheck, with 27 sets logged across Miami and New York City. Often billed alongside Frny, Alex Pastor and Kenia. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+John Patrick is a house and deep house artist based in Mexico, with 27 gigs on soundcheck across Miami and New York City. Often billed alongside Frny, Alex Pastor and Kenia. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ John Patrick is a house and deep house artist based in Mexico, tracked on soundc
 
 ## Recently played
 
-- Paraiso Estereo, Miami — Sun, 7 Dec 2025
-- Pari Pari, Miami — Fri, 5 Dec 2025
-- Paraiso Estereo, Miami — Thu, 4 Dec 2025
-- Paraiso Estereo, Miami — Fri, 28 Feb 2025
-- Paraiso Estereo, Miami — Fri, 7 Feb 2025
-- Miami Sound Bar, Miami — Fri, 31 Jan 2025
-- Paraiso Estereo, Miami — Sun, 8 Dec 2024
-- Terrestrial Funk, Miami — Sat, 26 Oct 2024
+- Paraiso Estereo, Miami · Sun, 7 Dec 2025
+- Pari Pari, Miami · Fri, 5 Dec 2025
+- Paraiso Estereo, Miami · Thu, 4 Dec 2025
+- Paraiso Estereo, Miami · Fri, 28 Feb 2025
+- Paraiso Estereo, Miami · Fri, 7 Feb 2025
+- Miami Sound Bar, Miami · Fri, 31 Jan 2025
+- Paraiso Estereo, Miami · Sun, 8 Dec 2024
+- Terrestrial Funk, Miami · Sat, 26 Oct 2024
 
 ## Shares bills with
 

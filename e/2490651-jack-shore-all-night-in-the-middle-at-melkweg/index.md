@@ -1,6 +1,6 @@
 # JACK SHORE - ALL NIGHT - IN THE MIDDLE at Melkweg
 
-JACK SHORE - ALL NIGHT - IN THE MIDDLE at Melkweg on Sat 21 Nov, Amsterdam. Electro and Club. Preview the line-up and save it on soundcheck.
+JACK SHORE - ALL NIGHT - IN THE MIDDLE at Melkweg on Sat 21 Nov, Amsterdam. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

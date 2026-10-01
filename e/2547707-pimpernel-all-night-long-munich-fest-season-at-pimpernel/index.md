@@ -1,6 +1,6 @@
 # Pimpernel All Night Long - Munich Fest Season at Pimpernel
 
-Pimpernel All Night Long - Munich Fest Season on Thu 1 Oct, Munich. 1 artist on the bill: JAN RIEG. House and Electro. Preview the line-up and save it on soundcheck.
+Pimpernel All Night Long - Munich Fest Season on Thu 1 Oct, Munich. 1 artist: JAN RIEG. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

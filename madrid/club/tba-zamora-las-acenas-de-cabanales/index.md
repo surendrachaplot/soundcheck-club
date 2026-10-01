@@ -1,8 +1,8 @@
 # TBA - Zamora las acenas de cabanales
 
-TBA - Zamora las acenas de cabanales is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "TRANSGRESS FESTIVAL" on Sat, 3 Oct 2026.
+TBA - Zamora las acenas de cabanales is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "TRANSGRESS FESTIVAL" on Sat, 3 Oct 2026.
 
-TBA - Zamora las acenas de cabanales is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Marta Paradise. Browse upcoming dates, start times and who's playing.
+TBA - Zamora las acenas de cabanales is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Marta Paradise. See dates, start times and who's playing.
 
 ## What's on
 

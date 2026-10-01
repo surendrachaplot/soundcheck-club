@@ -1,6 +1,6 @@
 # PLO Man (Berlin / Acting Press) at Modeci
 
-PLO Man (Berlin / Acting Press) at Modeci on Fri 2 Oct, Seoul. 6 artists on the bill: .2ndfloor, Acidwork, Hakim. and JAEHAN and 2 more. Preview the line-up and save it on soundcheck.
+PLO Man (Berlin / Acting Press) at Modeci on Fri 2 Oct, Seoul. 6 artists: .2ndfloor, Acidwork, Hakim. and JAEHAN and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PIV - The Loft at The Loft Amsterdam
 
-PIV - The Loft at The Loft Amsterdam on Thu 22 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+PIV - The Loft at The Loft Amsterdam on Thu 22 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

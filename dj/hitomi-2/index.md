@@ -1,8 +1,8 @@
 # Hitomi (DE)
 
-Hitomi (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
+Hitomi (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
-Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin and Paris. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
+Hitomi (DE) is a house and techno artist based in Japan, with 11 gigs on soundcheck across Berlin and Paris. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, 
 
 ## Recently played
 
-- La Java, Paris — Sat, 26 Sept 2026
-- Crack Bellmer, Berlin — Fri, 7 Aug 2026
-- Wagenburg Lohmühle Berlin, Berlin — Sat, 18 Jul 2026
-- AMT, Berlin — Sat, 20 Jun 2026
-- Sameheads, Berlin — Sat, 23 May 2026
-- Sameheads, Berlin — Sat, 2 May 2026
-- OST, Berlin — Fri, 1 May 2026
-- Renate, Berlin — Fri, 20 Mar 2026
+- La Java, Paris · Sat, 26 Sept 2026
+- Crack Bellmer, Berlin · Fri, 7 Aug 2026
+- Wagenburg Lohmühle Berlin, Berlin · Sat, 18 Jul 2026
+- AMT, Berlin · Sat, 20 Jun 2026
+- Sameheads, Berlin · Sat, 23 May 2026
+- Sameheads, Berlin · Sat, 2 May 2026
+- OST, Berlin · Fri, 1 May 2026
+- Renate, Berlin · Fri, 20 Mar 2026
 
 ## Shares bills with
 

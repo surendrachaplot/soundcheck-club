@@ -1,6 +1,6 @@
 # Forever Young - Halloween Party at Drygate
 
-Forever Young - Halloween Party at Drygate on Sat 31 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+Forever Young - Halloween Party at Drygate on Sat 31 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

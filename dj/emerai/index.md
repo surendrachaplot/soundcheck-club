@@ -1,8 +1,8 @@
 # emerai
 
-emerai is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+emerai is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-emerai is an electronic artist based in Poland, tracked on soundcheck, with 3 sets logged across Poland and Warsaw. Often billed alongside dtekk, Beatrice M. and Tom Boogizm. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+emerai is an electronic artist based in Poland, with 3 gigs on soundcheck across Poland and Warsaw. Often billed alongside dtekk, Beatrice M. and Tom Boogizm. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ emerai is an electronic artist based in Poland, tracked on soundcheck, with 3 se
 
 ## Recently played
 
-- Jasna 1, Warsaw — Sat, 5 Apr 2025
+- Jasna 1, Warsaw · Sat, 5 Apr 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Foghan
 
-Foghan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
+Foghan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
 
-Foghan is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, Doudou MD and Elias Mazian. Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
+Foghan is a house and tech house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, Doudou MD and Elias Mazian. Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Foghan is a house and tech house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Shelter Amsterdam, Amsterdam — Sat, 19 Sept 2026
-- BRET, Amsterdam — Sat, 5 Sept 2026
-- Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
-- NAR, Utrecht — Sat, 16 May 2026
-- Basement, Amsterdam — Fri, 15 May 2026
-- RADION, Amsterdam — Sat, 7 Mar 2026
-- Doka, Amsterdam — Sat, 24 Jan 2026
-- Shelter Amsterdam, Amsterdam — Sat, 20 Dec 2025
+- Shelter Amsterdam, Amsterdam · Sat, 19 Sept 2026
+- BRET, Amsterdam · Sat, 5 Sept 2026
+- Bar Dancing Multipla, Amsterdam · Fri, 26 Jun 2026
+- NAR, Utrecht · Sat, 16 May 2026
+- Basement, Amsterdam · Fri, 15 May 2026
+- RADION, Amsterdam · Sat, 7 Mar 2026
+- Doka, Amsterdam · Sat, 24 Jan 2026
+- Shelter Amsterdam, Amsterdam · Sat, 20 Dec 2025
 
 ## Shares bills with
 

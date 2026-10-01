@@ -1,6 +1,6 @@
 # Martin Garrix at LIV Nightclub Miami
 
-Martin Garrix at LIV Nightclub Miami on Sat 7 Nov, Miami. Preview the line-up and save it on soundcheck.
+Martin Garrix at LIV Nightclub Miami on Sat 7 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

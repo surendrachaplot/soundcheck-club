@@ -1,6 +1,6 @@
 # 8MM & Shameless/Limitless present: The Strokes Afterparty W/ Alex Cameron (DJ) at 8MM
 
-8MM & Shameless/Limitless present: The Strokes Afterparty W/ Alex Cameron (DJ) on Thu 15 Oct, Berlin. Pop and New Wave. Preview the line-up and save it on soundcheck.
+8MM & Shameless/Limitless present: The Strokes Afterparty W/ Alex Cameron (DJ) on Thu 15 Oct, Berlin. Pop and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

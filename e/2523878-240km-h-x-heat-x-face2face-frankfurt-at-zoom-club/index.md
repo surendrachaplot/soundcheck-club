@@ -1,6 +1,6 @@
 # 240KM/H x Heat x Face2Face Frankfurt at Zoom Club
 
-240KM/H x Heat x Face2Face Frankfurt at Zoom Club on Sat 5 Dec, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+240KM/H x Heat x Face2Face Frankfurt at Zoom Club on Sat 5 Dec, Frankfurt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

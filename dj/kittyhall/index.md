@@ -1,8 +1,8 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mint Warehouse, Leeds on Fri, 2 Oct 2026.
+Kitty Hall is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint Warehouse, Leeds on Fri, 2 Oct 2026.
 
-Kitty Hall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: Mint Warehouse, Leeds on Fri 2 Oct.
+Kitty Hall is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: Mint Warehouse, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kitty Hall is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- 528 Ibiza, Ibiza — Sun, 20 Sept 2026
-- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 30 Jun 2026
-- Ouseburn Garden, Newcastle — Sun, 24 May 2026
-- XOYO, London — Sat, 16 May 2026
-- Manuka Glasgow, Glasgow — Fri, 17 Apr 2026
-- The Cause, London — Sun, 5 Apr 2026
-- The Cause, London — Sun, 5 Apr 2026
+- 528 Ibiza, Ibiza · Sun, 20 Sept 2026
+- TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 30 Jun 2026
+- Ouseburn Garden, Newcastle · Sun, 24 May 2026
+- XOYO, London · Sat, 16 May 2026
+- Manuka Glasgow, Glasgow · Fri, 17 Apr 2026
+- The Cause, London · Sun, 5 Apr 2026
+- The Cause, London · Sun, 5 Apr 2026
 
 ## Shares bills with
 

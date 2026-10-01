@@ -1,6 +1,6 @@
 # Yeah Buoy - Halloween Boat Party at Inception Boat
 
-Yeah Buoy - Halloween Boat Party at Inception Boat on Sat 31 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+Yeah Buoy - Halloween Boat Party at Inception Boat on Sat 31 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

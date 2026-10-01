@@ -1,6 +1,6 @@
 # 𝐂𝐀𝐌𝐏 𝐇𝐎𝐑𝐍 at Horn
 
-𝐂𝐀𝐌𝐏 𝐇𝐎𝐑𝐍 at Horn on Sat 3 Oct, Bangkok. Techno and Club. Preview the line-up and save it on soundcheck.
+𝐂𝐀𝐌𝐏 𝐇𝐎𝐑𝐍 at Horn on Sat 3 Oct, Bangkok. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

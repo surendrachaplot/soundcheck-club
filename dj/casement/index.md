@@ -1,8 +1,8 @@
 # Casement
 
-Casement is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+Casement is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
-Casement is a bass and club artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Lara Sinclair, Sea Urchin and JI_2001. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
+Casement is a bass and club artist based in United Kingdom, with 55 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Lara Sinclair, Sea Urchin and JI_2001. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Casement is a bass and club artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Sneaky Pete's, Edinburgh — Sat, 12 Sept 2026
-- Sneaky Pete's, Edinburgh — Sun, 30 Aug 2026
-- Sneaky Pete's, Edinburgh — Sun, 29 Mar 2026
-- Sneaky Pete's, Edinburgh — Sat, 3 Jan 2026
-- Sneaky Pete's, Edinburgh — Thu, 11 Dec 2025
-- Sneaky Pete's, Edinburgh — Thu, 16 Oct 2025
-- Sneaky Pete's, Edinburgh — Fri, 19 Sept 2025
-- Sneaky Pete's, Edinburgh — Thu, 4 Sept 2025
+- Sneaky Pete's, Edinburgh · Sat, 12 Sept 2026
+- Sneaky Pete's, Edinburgh · Sun, 30 Aug 2026
+- Sneaky Pete's, Edinburgh · Sun, 29 Mar 2026
+- Sneaky Pete's, Edinburgh · Sat, 3 Jan 2026
+- Sneaky Pete's, Edinburgh · Thu, 11 Dec 2025
+- Sneaky Pete's, Edinburgh · Thu, 16 Oct 2025
+- Sneaky Pete's, Edinburgh · Fri, 19 Sept 2025
+- Sneaky Pete's, Edinburgh · Thu, 4 Sept 2025
 
 ## Shares bills with
 

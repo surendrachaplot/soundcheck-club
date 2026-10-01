@@ -1,6 +1,6 @@
 # Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS at The Island
 
-Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS at The Island on Fri 23 Oct, Bristol. 4 artists on the bill: GUS, JCVS, Kontronatura and SZAL. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS at The Island on Fri 23 Oct, Bristol. 4 artists: GUS, JCVS, Kontronatura and SZAL. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

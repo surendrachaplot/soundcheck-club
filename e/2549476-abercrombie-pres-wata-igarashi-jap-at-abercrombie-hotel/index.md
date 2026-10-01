@@ -1,6 +1,6 @@
 # Abercrombie Pres. Wata Igarashi [Jap] at Abercrombie Hotel
 
-Abercrombie Pres. Wata Igarashi [Jap] at Abercrombie Hotel on Fri 18 Dec, Sydney. 1 artist on the bill: Wata Igarashi. Techno and Electro. Preview the line-up and save it on soundcheck.
+Abercrombie Pres. Wata Igarashi [Jap] at Abercrombie Hotel on Fri 18 Dec, Sydney. 1 artist: Wata Igarashi. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

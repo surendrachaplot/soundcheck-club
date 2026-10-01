@@ -1,6 +1,6 @@
 # GRUB Stretford: Steam Radio Showcase at Grub Stretford
 
-GRUB Stretford: Steam Radio Showcase at Grub Stretford on Thu 15 Oct, Manchester. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Steam Radio Showcase at Grub Stretford on Thu 15 Oct, Manchester. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Naked Grapes with Dracaena at Orangerie Neukölln
 
-Naked Grapes with Dracaena at Orangerie Neukölln on Thu 19 Nov, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+Naked Grapes with Dracaena at Orangerie Neukölln on Thu 19 Nov, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

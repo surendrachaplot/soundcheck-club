@@ -1,6 +1,6 @@
 # Edenia at Drakiana
 
-Edenia at Drakiana on Tue 27 Oct, Crete. 3 artists on the bill: ANAMORPH_, Maximal and RAYA. Preview the line-up and save it on soundcheck.
+Edenia at Drakiana on Tue 27 Oct, Crete. 3 artists: ANAMORPH_, Maximal and RAYA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

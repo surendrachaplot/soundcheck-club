@@ -1,6 +1,6 @@
 # Bonsai presents // Tino & Wax Material at World Headquarters
 
-Bonsai presents // Tino & Wax Material at World Headquarters on Fri 9 Oct, Newcastle. 1 artist on the bill: Wax Material. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Bonsai presents // Tino & Wax Material at World Headquarters on Fri 9 Oct, Newcastle. 1 artist: Wax Material. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

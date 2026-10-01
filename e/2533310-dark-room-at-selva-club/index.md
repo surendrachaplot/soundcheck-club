@@ -1,6 +1,6 @@
 # DARK ROOM at Selva Club
 
-DARK ROOM at Selva Club on Fri 6 Nov, East. 2 artists on the bill: JOANØLIVER and RIKHTER. Preview the line-up and save it on soundcheck.
+DARK ROOM at Selva Club on Fri 6 Nov, East. 2 artists: JOANØLIVER and RIKHTER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

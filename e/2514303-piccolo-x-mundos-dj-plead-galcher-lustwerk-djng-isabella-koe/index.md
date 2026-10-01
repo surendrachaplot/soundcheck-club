@@ -1,6 +1,6 @@
 # Piccolo x Mundos: DJ Plead, Galcher Lustwerk, DJNG, Isabella Koen at Mundos
 
-Piccolo x Mundos: DJ Plead, Galcher Lustwerk, DJNG, Isabella Koen on Fri 2 Oct, Rhode Island. 3 artists on the bill: DJ Plead, Galcher Lustwerk and Isabella Koen. Preview the line-up and save it on soundcheck.
+Piccolo x Mundos: DJ Plead, Galcher Lustwerk, DJNG, Isabella Koen on Fri 2 Oct, Rhode Island. 3 artists: DJ Plead, Galcher Lustwerk and Isabella Koen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

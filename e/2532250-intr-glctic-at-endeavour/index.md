@@ -1,6 +1,6 @@
 # Intr Glctic at Endeavour
 
-Intr Glctic at Endeavour on Fri 2 Oct, London. 1 artist on the bill: NOIDMATE. Electro. Preview the line-up and save it on soundcheck.
+Intr Glctic at Endeavour on Fri 2 Oct, London. 1 artist: NOIDMATE. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

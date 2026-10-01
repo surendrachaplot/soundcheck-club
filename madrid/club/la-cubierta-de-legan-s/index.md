@@ -1,8 +1,8 @@
 # La Cubierta de Leganés
 
-La Cubierta de Leganés is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BlackWorks Halloween The Purgatory" on Fri, 30 Oct 2026.
+La Cubierta de Leganés is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BlackWorks Halloween The Purgatory" on Fri, 30 Oct 2026.
 
-La Cubierta de Leganés is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including 6EJOU, Aiden (DE), A.N.I. and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Calle del Maestro, s/n, 28914 Leganés, Madrid, Spain.
+La Cubierta de Leganés is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including 6EJOU, Aiden (DE), A.N.I. and Ben Techy and 2 more. See dates, start times and who's playing. Calle del Maestro, s/n, 28914 Leganés, Madrid, Spain.
 
 ## What's on
 

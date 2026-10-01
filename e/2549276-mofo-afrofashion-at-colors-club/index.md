@@ -1,6 +1,6 @@
 # MOFO AFROFASHION at Colors club
 
-MOFO AFROFASHION at Colors club on Fri 2 Oct, Barcelona. Afrobeat and Afrobeats. Preview the line-up and save it on soundcheck.
+MOFO AFROFASHION at Colors club on Fri 2 Oct, Barcelona. Afrobeat and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

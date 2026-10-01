@@ -1,8 +1,8 @@
 # Teddy Killerz
 
-Teddy Killerz is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Helitehas, Tallinn on Fri, 6 Nov 2026.
+Teddy Killerz is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Helitehas, Tallinn on Fri, 6 Nov 2026.
 
-Teddy Killerz is a drum & bass and bass artist based in Russia, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Brisbane and Bucharest and 22 more. Often billed alongside Black Sun Empire, Magnetude and Audio. Next up: Helitehas, Tallinn on Fri 6 Nov.
+Teddy Killerz is a drum & bass and bass artist based in Russia, with 39 gigs on soundcheck across Amsterdam, Antwerp, Brisbane and Bucharest and 22 more. Often billed alongside Black Sun Empire, Magnetude and Audio. Next up: Helitehas, Tallinn on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Teddy Killerz is a drum & bass and bass artist based in Russia, tracked on sound
 
 ## Recently played
 
-- Flex, Vienna — Sat, 27 Jun 2026
-- Maassilo, Rotterdam — Fri, 22 May 2026
-- Melkweg, Amsterdam — Fri, 8 May 2026
-- CCO La Rayonne, Lyon — Sat, 2 May 2026
-- Arena Wien, Vienna — Sat, 11 Apr 2026
-- Slakthuset, Stockholm — Fri, 10 Apr 2026
-- Maassilo, Rotterdam — Fri, 30 Jan 2026
-- Schrotty, Cologne — Sat, 20 Dec 2025
+- Flex, Vienna · Sat, 27 Jun 2026
+- Maassilo, Rotterdam · Fri, 22 May 2026
+- Melkweg, Amsterdam · Fri, 8 May 2026
+- CCO La Rayonne, Lyon · Sat, 2 May 2026
+- Arena Wien, Vienna · Sat, 11 Apr 2026
+- Slakthuset, Stockholm · Fri, 10 Apr 2026
+- Maassilo, Rotterdam · Fri, 30 Jan 2026
+- Schrotty, Cologne · Sat, 20 Dec 2025
 
 ## Shares bills with
 

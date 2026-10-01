@@ -1,6 +1,6 @@
 # Les Corts Electrònica (Free Open Air + Funktion One) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona)
 
-Les Corts Electrònica (Free Open Air + Funktion One) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona) on Sat 10 Oct, Barcelona. 8 artists on the bill: Ana Alves, Catalina, Hades PRX and PAULA ZAPY and 4 more. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Les Corts Electrònica (Free Open Air + Funktion One) at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona) on Sat 10 Oct, Barcelona. 8 artists: Ana Alves, Catalina, Hades PRX and PAULA ZAPY and 4 more. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

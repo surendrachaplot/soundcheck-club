@@ -1,6 +1,6 @@
 # Romare (live) at Melkweg
 
-Romare (live) at Melkweg on Thu 3 Dec, Amsterdam. Preview the line-up and save it on soundcheck.
+Romare (live) at Melkweg on Thu 3 Dec, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

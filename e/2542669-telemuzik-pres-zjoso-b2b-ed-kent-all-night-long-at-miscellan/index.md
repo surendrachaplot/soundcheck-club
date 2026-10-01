@@ -1,6 +1,6 @@
 # Telemuzik Pres. Zjoso B2B Ed Kent [All Night Long] at Miscellania
 
-Telemuzik Pres. Zjoso B2B Ed Kent [All Night Long] at Miscellania on Sat 17 Oct, Melbourne. 2 artists on the bill: Ed Kent and Zjoso. House and Deep House. Preview the line-up and save it on soundcheck.
+Telemuzik Pres. Zjoso B2B Ed Kent [All Night Long] at Miscellania on Sat 17 Oct, Melbourne. 2 artists: Ed Kent and Zjoso. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

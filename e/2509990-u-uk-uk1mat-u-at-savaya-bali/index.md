@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U at Savaya Bali
 
-¥ØU$UK€ ¥UK1MAT$U at Savaya Bali on Fri 6 Nov, Bali. 1 artist on the bill: ¥ØU$UK€ ¥UK1MAT$U. Trance and Techno. Preview the line-up and save it on soundcheck.
+¥ØU$UK€ ¥UK1MAT$U at Savaya Bali on Fri 6 Nov, Bali. 1 artist: ¥ØU$UK€ ¥UK1MAT$U. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

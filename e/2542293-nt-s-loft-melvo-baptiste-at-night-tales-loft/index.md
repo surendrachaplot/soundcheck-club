@@ -1,6 +1,6 @@
 # NT's Loft: Melvo Baptiste at Night Tales Loft
 
-NT's Loft: Melvo Baptiste at Night Tales Loft on Fri 18 Dec, London. 1 artist on the bill: Melvo Baptiste. Preview the line-up and save it on soundcheck.
+NT's Loft: Melvo Baptiste at Night Tales Loft on Fri 18 Dec, London. 1 artist: Melvo Baptiste. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

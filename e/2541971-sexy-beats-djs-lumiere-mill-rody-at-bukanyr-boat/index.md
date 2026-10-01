@@ -1,6 +1,6 @@
 # Sexy Beats - djs Lumiere, Mill, Rody at Bukanyr Boat
 
-Sexy Beats - djs Lumiere, Mill, Rody at Bukanyr Boat on Sat 10 Oct, Prague. 1 artist on the bill: Lumiere. Techno and House. Preview the line-up and save it on soundcheck.
+Sexy Beats - djs Lumiere, Mill, Rody at Bukanyr Boat on Sat 10 Oct, Prague. 1 artist: Lumiere. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

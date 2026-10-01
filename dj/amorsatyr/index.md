@@ -1,8 +1,8 @@
 # Amor Satyr
 
-Amor Satyr is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Athens on Sat, 7 Nov 2026.
+Amor Satyr is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
 
-Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Siu Mata, Bitter Babe and BNZ. Next up: TBA, Athens on Sat 7 Nov.
+Amor Satyr is a techno and bass artist based in France, with 137 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Siu Mata, Bitter Babe and BNZ. Next up: TBA, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- ÆDEN, Berlin — Fri, 25 Sept 2026
-- MS Club, Marseille — Sat, 15 Aug 2026
-- Green Room NYC, New York City — Sat, 8 Aug 2026
-- Floyd, Miami — Fri, 7 Aug 2026
-- Hizz Lounge, Detroit — Sat, 1 Aug 2026
-- TBA - Location With Ticket, Denver — Fri, 31 Jul 2026
-- nachbar, Amsterdam — Sat, 27 Jun 2026
-- C115, Berlin — Fri, 26 Jun 2026
+- ÆDEN, Berlin · Fri, 25 Sept 2026
+- MS Club, Marseille · Sat, 15 Aug 2026
+- Green Room NYC, New York City · Sat, 8 Aug 2026
+- Floyd, Miami · Fri, 7 Aug 2026
+- Hizz Lounge, Detroit · Sat, 1 Aug 2026
+- TBA - Location With Ticket, Denver · Fri, 31 Jul 2026
+- nachbar, Amsterdam · Sat, 27 Jun 2026
+- C115, Berlin · Fri, 26 Jun 2026
 
 ## Shares bills with
 

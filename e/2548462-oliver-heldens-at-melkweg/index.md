@@ -1,6 +1,6 @@
 # Oliver Heldens at Melkweg
 
-Oliver Heldens at Melkweg on Wed 21 Oct, Amsterdam. 4 artists on the bill: Badger (UK), J. Worra, Oliver Heldens and Will Clarke. House and Tech House. Preview the line-up and save it on soundcheck.
+Oliver Heldens at Melkweg on Wed 21 Oct, Amsterdam. 4 artists: Badger (UK), J. Worra, Oliver Heldens and Will Clarke. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

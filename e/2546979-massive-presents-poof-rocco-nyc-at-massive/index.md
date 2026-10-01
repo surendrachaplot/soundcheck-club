@@ -1,6 +1,6 @@
 # Massive presents: Poof + Rocco (NYC) at Massive
 
-Massive presents: Poof + Rocco (NYC) on Sat 3 Oct, Seattle. 1 artist on the bill: ROCCO (FIGA). House and Acid. Preview the line-up and save it on soundcheck.
+Massive presents: Poof + Rocco (NYC) on Sat 3 Oct, Seattle. 1 artist: ROCCO (FIGA). House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

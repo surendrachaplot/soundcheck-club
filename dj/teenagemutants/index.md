@@ -1,8 +1,8 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
+Teenage Mutants is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
-Teenage Mutants is a techno and tech house artist based in Germany, tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
+Teenage Mutants is a techno and tech house artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Teenage Mutants is a techno and tech house artist based in Germany, tracked on s
 
 ## Recently played
 
-- E1, London — Sat, 12 Sept 2026
-- Budapest Park, Budapest — Fri, 28 Aug 2026
-- Hangaren, Copenhagen — Sat, 22 Aug 2026
-- TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- Columbiahalle, Berlin — Sat, 15 Aug 2026
-- Bahnwärter Thiel, Munich — Fri, 10 Jul 2026
-- Långholmens Amfiteater, Stockholm — Fri, 3 Jul 2026
-- Ritter Butzke, Berlin — Fri, 3 Jul 2026
+- E1, London · Sat, 12 Sept 2026
+- Budapest Park, Budapest · Fri, 28 Aug 2026
+- Hangaren, Copenhagen · Sat, 22 Aug 2026
+- TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
+- Columbiahalle, Berlin · Sat, 15 Aug 2026
+- Bahnwärter Thiel, Munich · Fri, 10 Jul 2026
+- Långholmens Amfiteater, Stockholm · Fri, 3 Jul 2026
+- Ritter Butzke, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 

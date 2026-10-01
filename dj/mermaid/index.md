@@ -1,8 +1,8 @@
 # Mermaid
 
-Mermaid is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at EL SÓTANO, Madrid on Thu, 22 Oct 2026.
+Mermaid is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Thu, 22 Oct 2026.
 
-Mermaid is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Madrid, Osaka and Tokyo. Often billed alongside Glico, KA4U and Lemi. Next up: EL SÓTANO, Madrid on Thu 22 Oct.
+Mermaid is an electronica and experimental artist based in United States of America, with 6 gigs on soundcheck across Madrid, Osaka and Tokyo. Often billed alongside Glico, KA4U and Lemi. Next up: EL SÓTANO, Madrid on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Mermaid is an electronica and experimental artist based in United States of Amer
 
 ## Recently played
 
-- Noon + Cafe, Osaka — Thu, 20 Aug 2026
-- Forestlimit, Tokyo — Wed, 8 Jul 2026
-- Forestlimit, Tokyo — Thu, 23 Apr 2026
-- Bonobo, Tokyo — Thu, 9 Jan 2025
-- Ruby Room, Tokyo — Sat, 17 Aug 2024
+- Noon + Cafe, Osaka · Thu, 20 Aug 2026
+- Forestlimit, Tokyo · Wed, 8 Jul 2026
+- Forestlimit, Tokyo · Thu, 23 Apr 2026
+- Bonobo, Tokyo · Thu, 9 Jan 2025
+- Ruby Room, Tokyo · Sat, 17 Aug 2024
 
 ## Shares bills with
 

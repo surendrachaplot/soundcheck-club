@@ -1,6 +1,6 @@
 # ADRENALINE  pres. David Löhlein, Yasmin Regisford & THELMA at Odonien
 
-ADRENALINE  pres. David Löhlein, Yasmin Regisford & THELMA at Odonien on Sun 28 Feb, Cologne. 5 artists on the bill: David Löhlein, FLACCO, THELMA and Vagabund and 1 more. Preview the line-up and save it on soundcheck.
+ADRENALINE  pres. David Löhlein, Yasmin Regisford & THELMA at Odonien on Sun 28 Feb, Cologne. 5 artists: David Löhlein, FLACCO, THELMA and Vagabund and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

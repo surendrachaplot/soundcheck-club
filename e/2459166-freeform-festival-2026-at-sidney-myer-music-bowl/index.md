@@ -1,6 +1,6 @@
 # Freeform Festival 2026 at Sidney Myer Music Bowl
 
-Freeform Festival 2026 at Sidney Myer Music Bowl on Sat 3 Oct, Melbourne. 23 artists on the bill: Ash Lauryn, Avalon Emerson, Barry Can't Swim and Bella Claxton and 19 more. Techno and House. Preview the line-up and save it on soundcheck.
+Freeform Festival 2026 at Sidney Myer Music Bowl on Sat 3 Oct, Melbourne. 23 artists: Ash Lauryn, Avalon Emerson, Barry Can't Swim and Bella Claxton and 19 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

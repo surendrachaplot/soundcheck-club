@@ -1,6 +1,6 @@
 # Listening Session: an immersive sound experience at Emanuel Vigeland Museum
 
-Listening Session: an immersive sound experience at Emanuel Vigeland Museum on Thu 1 Oct, Oslo. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Listening Session: an immersive sound experience at Emanuel Vigeland Museum on Thu 1 Oct, Oslo. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

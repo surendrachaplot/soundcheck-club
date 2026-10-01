@@ -1,6 +1,6 @@
 # Future Yard presents And So I Watch You From Afar at Future Yard
 
-Future Yard presents And So I Watch You From Afar on Thu 3 Dec, Liverpool. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Future Yard presents And So I Watch You From Afar on Thu 3 Dec, Liverpool. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

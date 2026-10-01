@@ -1,6 +1,6 @@
 # The last rave of the year at Odonien
 
-The last rave of the year at Odonien on Tue 29 Dec, Cologne. Techno. Preview the line-up and save it on soundcheck.
+The last rave of the year at Odonien on Tue 29 Dec, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

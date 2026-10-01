@@ -1,6 +1,6 @@
 # Milo Korbenski at Headrow House
 
-Milo Korbenski at Headrow House on Wed 2 Dec, Leeds. Preview the line-up and save it on soundcheck.
+Milo Korbenski at Headrow House on Wed 2 Dec, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

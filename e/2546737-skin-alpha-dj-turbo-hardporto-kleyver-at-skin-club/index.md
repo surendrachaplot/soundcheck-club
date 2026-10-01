@@ -1,6 +1,6 @@
 # SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER at Skin Club
 
-SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER at Skin Club on Fri 2 Oct, Madrid. 1 artist on the bill: DJ TURBO. Preview the line-up and save it on soundcheck.
+SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER at Skin Club on Fri 2 Oct, Madrid. 1 artist: DJ TURBO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

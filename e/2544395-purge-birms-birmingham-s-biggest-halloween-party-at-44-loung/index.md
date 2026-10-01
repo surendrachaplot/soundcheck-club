@@ -1,6 +1,6 @@
 # Purge Birms - Birmingham's Biggest Halloween Party at 44 Lounge
 
-Purge Birms - Birmingham's Biggest Halloween Party at 44 Lounge on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Purge Birms - Birmingham's Biggest Halloween Party at 44 Lounge on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

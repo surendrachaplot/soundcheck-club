@@ -1,8 +1,8 @@
 # Kamäleon
 
-Kamäleon is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Odonien, Cologne on Fri, 9 Oct 2026.
+Kamäleon is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 9 Oct 2026.
 
-Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: Odonien, Cologne on Fri 9 Oct.
+Kamäleon is a trance and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: Odonien, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Z-Bau, Nürnberg — Sat, 26 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Schrotty, Cologne — Sat, 5 Sept 2026
-- ://about blank, Berlin — Fri, 28 Aug 2026
-- OST, Berlin — Thu, 20 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Z-Bau, Nürnberg — Sat, 18 Jul 2026
-- Grelle Forelle, Vienna — Sat, 11 Jul 2026
+- Z-Bau, Nürnberg · Sat, 26 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Schrotty, Cologne · Sat, 5 Sept 2026
+- ://about blank, Berlin · Fri, 28 Aug 2026
+- OST, Berlin · Thu, 20 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Z-Bau, Nürnberg · Sat, 18 Jul 2026
+- Grelle Forelle, Vienna · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # MAESIC – Sounds of Soluna with Kill Them with Colour at Soluna
 
-MAESIC – Sounds of Soluna with Kill Them with Colour on Fri 16 Oct, Toronto. 1 artist on the bill: Kill Them With Colour. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+MAESIC – Sounds of Soluna with Kill Them with Colour on Fri 16 Oct, Toronto. 1 artist: Kill Them With Colour. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

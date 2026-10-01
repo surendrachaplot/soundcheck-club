@@ -1,6 +1,6 @@
 # fabric x Sennheiser: East End Dubs at The View From The Shard [SOLD OUT] at The View From The Shard
 
-fabric x Sennheiser: East End Dubs at The View From The Shard [SOLD OUT] on Sun 4 Oct, London. 1 artist on the bill: East End Dubs. Preview the line-up and save it on soundcheck.
+fabric x Sennheiser: East End Dubs at The View From The Shard [SOLD OUT] on Sun 4 Oct, London. 1 artist: East End Dubs. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

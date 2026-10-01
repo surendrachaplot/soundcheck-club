@@ -1,6 +1,6 @@
 # LoveSelectors with Schuhmacher, Lizzle, Elijah at Subway
 
-LoveSelectors with Schuhmacher, Lizzle, Elijah at Subway on Fri 23 Oct, Cologne. 2 artists on the bill: Lizzle and Schuhmacher. Preview the line-up and save it on soundcheck.
+LoveSelectors with Schuhmacher, Lizzle, Elijah at Subway on Fri 23 Oct, Cologne. 2 artists: Lizzle and Schuhmacher. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

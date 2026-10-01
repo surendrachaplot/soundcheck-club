@@ -1,6 +1,6 @@
 # NORTHBASS x TIK-TECH FT DANIELE MONDELLO, ACINA, INSIDIA &MORE at Network
 
-NORTHBASS x TIK-TECH FT DANIELE MONDELLO, ACINA, INSIDIA &MORE at Network on Sat 3 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+NORTHBASS x TIK-TECH FT DANIELE MONDELLO, ACINA, INSIDIA &MORE at Network on Sat 3 Oct, Sheffield. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
