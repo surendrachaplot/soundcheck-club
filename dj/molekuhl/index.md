@@ -1,14 +1,13 @@
 # molekühl
 
-molekühl is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at flo Soakin, Osaka on Fri, 2 Oct 2026.
+molekühl is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
 
-molekühl is a house and experimental artist based in Switzerland, with 18 gigs on soundcheck across Basel, Berlin, Osaka and Strasbourg and 1 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: flo Soakin, Osaka on Fri 2 Oct.
+molekühl is a house and experimental artist based in Switzerland, with 18 gigs on soundcheck across Basel, Berlin, Osaka and Strasbourg and 1 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: Kauz, Zurich on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | flo Soakin | Osaka |
 | Sun, 25 Oct 2026 | Kauz | Zurich |
 
 ## Recently played

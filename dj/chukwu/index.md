@@ -1,14 +1,15 @@
 # CHUKWU
 
-CHUKWU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
+CHUKWU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
 
-CHUKWU is a house and disco artist based in Germany, with 14 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Akirahawks, Dee Diggs and Immy. Next up: Renate, Berlin on Fri 9 Oct.
+CHUKWU is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Jana Falcon, Akirahawks and Dee Diggs. Next up: Renate, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Renate | Berlin |
+| Sat, 21 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CHUKWU is a house and disco artist based in Germany, with 14 gigs on soundcheck 
 
 ## Shares bills with
 
-Akirahawks, Dee Diggs, Immy
+Jana Falcon, Akirahawks, Dee Diggs
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*

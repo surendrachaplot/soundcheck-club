@@ -10,7 +10,7 @@ Basement 45 is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, w
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday |  |
 | Sat, 17 Oct 2026 | Stoopid Events #003: Dungeons & Slagons |  |
-| Sat, 28 Nov 2026 | LOCA HOUSE MUSIC 1 YEAR ANNIVERSARY | RodCee |
+| Sat, 28 Nov 2026 | LOCA HOUSE MUSIC 1 YEAR ANNIVERSARY  | RodCee |
 
 ## Address
 

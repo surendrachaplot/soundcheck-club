@@ -1,14 +1,13 @@
 # Nestor
 
-Nestor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Sun, 11 Oct 2026.
+Nestor is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
 
-Nestor is a tech house and house artist based in Ukraine, with 11 gigs on soundcheck across Los Angeles, Manchester, Philadelphia and Valencia. Often billed alongside ELi, DJ Xtina and Dentadura. Next up: The White Hotel, Manchester on Sun 11 Oct.
+Nestor is a tech house and house artist based in Ukraine, with 10 gigs on soundcheck across Los Angeles, Manchester, Philadelphia and Valencia. Often billed alongside ELi, DJ Xtina and Dentadura. Next up: Stage and Radio, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | The White Hotel | Manchester |
 | Sat, 7 Nov 2026 | Stage and Radio | Manchester |
 
 ## Recently played

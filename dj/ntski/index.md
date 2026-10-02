@@ -1,14 +1,13 @@
 # NTsKi
 
-NTsKi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BAR Inc, Osaka on Fri, 2 Oct 2026.
+NTsKi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at West Harlem, Kyoto on Sat, 3 Oct 2026.
 
-NTsKi is a techno and house artist based in Japan, with 40 gigs on soundcheck across Kyoto, London, Manchester and New York City and 2 more. Often billed alongside E.O.U, Foodman and Jyn. Next up: BAR Inc, Osaka on Fri 2 Oct.
+NTsKi is a techno and house artist based in Japan, with 40 gigs on soundcheck across Kyoto, London, Manchester and New York City and 2 more. Often billed alongside E.O.U, Foodman and Jyn. Next up: West Harlem, Kyoto on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | BAR Inc | Osaka |
 | Sat, 3 Oct 2026 | West Harlem | Kyoto |
 
 ## Recently played

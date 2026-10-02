@@ -11,9 +11,9 @@ Sin É is a music venue in Dublin listed on soundcheck. 6 upcoming gigs. See dat
 | Sat, 3 Oct 2026 | Being Sarah's Basement ft: Gint |  |
 | Sat, 10 Oct 2026 | Being Sarah's Basement ft: Analog |  |
 | Sat, 17 Oct 2026 | Being Sarah's basement Ft: Unit Two Zero |  |
-| Sat, 17 Oct 2026 | Being Sarah's Basement ft: Jay Riordan |  |
 | Sat, 24 Oct 2026 | Being Sarah's Basement ft Jay Riordan |  |
 | Sat, 31 Oct 2026 | Being Sarah's Basement ft: Trontsphere |  |
+| Sat, 21 Nov 2026 | Being Sarah's Basement ft: Hostipal |  |
 
 ## Address
 

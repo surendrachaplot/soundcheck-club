@@ -1,14 +1,15 @@
 # uiava
 
-uiava is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B-SIDE, Warsaw on Sat, 3 Oct 2026.
+uiava is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at B-SIDE, Warsaw on Sat, 3 Oct 2026.
 
-uiava is a house and tech house artist based in Ukraine, with 46 gigs on soundcheck across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and Jellin. Next up: B-SIDE, Warsaw on Sat 3 Oct.
+uiava is a house and tech house artist based in Ukraine, with 47 gigs on soundcheck across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and Jellin. Next up: B-SIDE, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | B-SIDE | Warsaw |
+| Fri, 23 Oct 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played
 

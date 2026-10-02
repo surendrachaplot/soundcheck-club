@@ -1,13 +1,14 @@
 # Break
 
-Break is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Hagley Park, Christchurch on Mon, 28 Dec 2026.
+Break is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Document, Bristol on Sat, 5 Dec 2026.
 
-Break is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Auckland, Basel, Birmingham and Boston and 26 more. Often billed alongside SP:MC, MC GQ and Dillinja. Next up: TBA - Hagley Park, Christchurch on Mon 28 Dec.
+Break is a drum & bass and jungle artist based in United Kingdom, with 70 gigs on soundcheck across Auckland, Basel, Birmingham and Boston and 26 more. Often billed alongside SP:MC, MC GQ and Dillinja. Next up: Document, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Document | Bristol |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 

@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Renate Klubnacht with Spice Club x Akt" on Fri, 2 Oct 2026.
+Renate is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Renate Klubnacht with Spice Club x Akt" on Fri, 2 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Grey Lantern presents: GB [AD93] / Organ Tapes" on Fri, 2 Oct 2026.
+The White Hotel is a music venue in Manchester with 42 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Grey Lantern presents: GB [AD93] / Organ Tapes" on Fri, 2 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 42 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -16,7 +16,7 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming
 | Fri, 9 Oct 2026 | The Trilogy Tapes: Josey Rebelle / mi-el / Max Ball / Will Bankhead | Josey Rebelle, Will Bankhead, mi-el |
 | Sat, 10 Oct 2026 | NEW WORLD XI: Cyst [live] / Exploited Body / Alexi Shell [live] / Stolen Velour [live] + MORE | Alexi Shell, BABii, Exploited Body, Iglooghost, Peggy Viennetta, Stolen Velour, ZESTY (UK), quest?onmarq |
 | Sun, 11 Oct 2026 | LACE: TBA |  |
-| Sun, 11 Oct 2026 | LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó | Lupini, Miss Kittin, Nestor |
+| Sun, 11 Oct 2026 | LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó | Lupini, Miss Kittin, Nestor (IE) |
 | Tue, 13 Oct 2026 | Toast Club |  |
 
 ## Address

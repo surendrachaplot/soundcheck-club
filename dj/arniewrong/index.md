@@ -1,13 +1,14 @@
 # Arnie Wrong
 
-Arnie Wrong is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KOKO, London on Thu, 31 Dec 2026.
+Arnie Wrong is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Two More Years, London on Sat, 31 Oct 2026.
 
-Arnie Wrong is a house and disco artist based in United Kingdom, with 60 gigs on soundcheck across Liverpool and London. Often billed alongside Memory Muscle, Artwork and Charles Vaughan. Next up: KOKO, London on Thu 31 Dec.
+Arnie Wrong is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Liverpool and London. Often billed alongside Memory Muscle, Hot Cross Fun and Artwork. Next up: Two More Years, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Two More Years | London |
 | Thu, 31 Dec 2026 | KOKO | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Arnie Wrong is a house and disco artist based in United Kingdom, with 60 gigs on
 
 ## Shares bills with
 
-Memory Muscle, Artwork, Charles Vaughan
+Memory Muscle, Hot Cross Fun, Artwork
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arniewrong/)*

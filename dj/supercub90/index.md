@@ -1,14 +1,15 @@
 # SuperCub90
 
-SuperCub90 is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantso, Athens on Fri, 2 Oct 2026.
+SuperCub90 is a Electro and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantso, Athens on Fri, 2 Oct 2026.
 
-SuperCub90 is an electronic artist based in Greece, with 16 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, Datalogs and IMPVLSIV. Next up: Romantso, Athens on Fri 2 Oct.
+SuperCub90 is an electro and breakbeat artist based in Greece, with 17 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, Datalogs and IMPVLSIV. Next up: Romantso, Athens on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Romantso | Athens |
+| Sun, 4 Oct 2026 | Skull Bar | Athens |
 
 ## Recently played
 

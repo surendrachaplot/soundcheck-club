@@ -9,6 +9,6 @@ K7 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-u
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | 0-800 | Nicco Lupen, Tatomed (2), rockorosso |
-| Sat, 17 Oct 2026 | 0-800 | Nicco Lupen, Tatomed (2), rockorosso |
+| Sat, 17 Oct 2026 | 0-800 | Nicco Lupen, rockorosso |
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k7/)*

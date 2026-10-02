@@ -1,8 +1,8 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bar Shrimp: Joey T" on Fri, 2 Oct 2026.
+Bar Shrimp is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bar Shrimp: Joey T" on Fri, 2 Oct 2026.
 
-Bar Shrimp is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Joey T and Jude Race. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
+Bar Shrimp is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Joey T, Jude Race, King Kit and Kusasa and 2 more. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
 ## What's on
 
@@ -10,6 +10,14 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 2 upcoming gigs,
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Bar Shrimp: Joey T | Joey T |
 | Sat, 3 Oct 2026 | Bar Shrimp: Jude Race | Jude Race |
+| Thu, 8 Oct 2026 | Bar Shrimp: Pasta Paul |  |
+| Fri, 9 Oct 2026 | Bar Shrimp: Mainframe |  |
+| Sat, 10 Oct 2026 | Bar Shrimp: Neil Diablo | Neil Diablo |
+| Wed, 14 Oct 2026 | Bar Shrimp: Cronners |  |
+| Thu, 15 Oct 2026 | Bar Shrimp: Zuri | Zuri |
+| Sat, 17 Oct 2026 | Bar Shrimp: Rhod Parry | Rhod Parry |
+| Sun, 18 Oct 2026 | Bar Shrimp: Marwan Mounti |  |
+| Sat, 24 Oct 2026 | Bar Shrimp: Maracuya | MARACUYá |
 
 ## Address
 

@@ -10,7 +10,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Skankstasy ☆ MAKODE LINDE ☆ DJ KILLING ☆ Per Qx ☆ HOLTTER ☆ BASEMENT BOYS | DJ KILLING, Per Qx, Skankstasy |
 | Sat, 10 Oct 2026 | DJ Godfather >> Psykoterapi >> OSO >> Nous Klear at BRONX Sthlm | DJ Godfather, Nous Klear, OSO (3), Psykoterapi |
-| Sat, 17 Oct 2026 | Bronx Bronx Bronx Bronx Bronx Bronx |  |
+| Sat, 17 Oct 2026 | STRECK STRECK STRECK FROM GBG TAKE OVER at BRONX |  |
 | Sat, 24 Oct 2026 | x3butterfly a Mexican/American DJ and producer from Detroit | x3butterfly |
 | Sat, 7 Nov 2026 | CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker | CC Luna, Metapattern |
 | Sat, 21 Nov 2026 | LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX | LOLSNAKE, MERILIN, Magnuscc |

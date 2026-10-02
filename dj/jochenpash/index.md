@@ -2,7 +2,7 @@
 
 Jochen Pash is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kowalski, Stuttgart on Sat, 3 Oct 2026.
 
-Jochen Pash is a house and afro house artist, with 15 gigs on soundcheck across Munich and Stuttgart. Often billed alongside Merissa Mahilaa, AMÉMÉ and Loli. Next up: Kowalski, Stuttgart on Sat 3 Oct.
+Jochen Pash is a house and afro house artist based in Germany, with 15 gigs on soundcheck across Munich and Stuttgart. Often billed alongside Merissa Mahilaa, AMÉMÉ and Loli. Next up: Kowalski, Stuttgart on Sat 3 Oct.
 
 ## Upcoming shows
 

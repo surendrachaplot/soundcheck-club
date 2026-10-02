@@ -1,14 +1,13 @@
 # New Guernica
 
-New Guernica is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "EPOCH" on Fri, 2 Oct 2026.
+New Guernica is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Neovision pres. Sublevel 001" on Thu, 8 Oct 2026.
 
-New Guernica is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Aaliyah Salem, AKEYLAH, Alonia and bbsanii and 2 more. See dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
+New Guernica is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Aaliyah Salem, AKEYLAH, Alonia and bbsanii and 2 more. See dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | EPOCH | Elle (AU), Kait Xri |
 | Thu, 8 Oct 2026 | Neovision pres. Sublevel 001 | AKEYLAH, Alonia, GROOVEBABY, Memphis LK, Shani |
 | Fri, 9 Oct 2026 | Blurred Lines invite Cosmo | Cosmo (KR) |
 | Fri, 16 Oct 2026 | ESTRØ | Aaliyah Salem, Haus of Ralph, bbsanii |

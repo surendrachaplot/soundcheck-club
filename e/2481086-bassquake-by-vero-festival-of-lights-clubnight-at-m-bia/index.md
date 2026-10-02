@@ -1,0 +1,17 @@
+# Bassquake by Vero + Festival of Lights Clubnight at M-BIA
+
+Bassquake by Vero + Festival of Lights Clubnight at M-BIA on Fri 16 Oct, Berlin. 3 artists: Gaya Carmeli, TANZBAER and Vero_. Trance and Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 16 Oct 2026 |
+| Venue | M-BIA |
+| City | Berlin |
+
+## Line-up
+
+- Gaya Carmeli
+- TANZBAER
+- Vero_
+
+*Source: [soundcheck](https://soundcheck.club/e/2481086-bassquake-by-vero-festival-of-lights-clubnight-at-m-bia/)*

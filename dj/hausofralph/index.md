@@ -1,14 +1,13 @@
 # Haus of Ralph
 
-Haus of Ralph is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 2 Oct 2026.
+Haus of Ralph is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at New Guernica, Melbourne on Fri, 16 Oct 2026.
 
-Haus of Ralph is a bass and club artist based in Australia, with 69 gigs on soundcheck across Auckland, Bangkok, Berlin and Brisbane and 3 more. Often billed alongside Cristal No.5, Zalina and House Mum. Next up: Angel Music Bar, Melbourne on Fri 2 Oct.
+Haus of Ralph is a bass and club artist based in Australia, with 69 gigs on soundcheck across Auckland, Bangkok, Berlin and Brisbane and 3 more. Often billed alongside Cristal No.5, Zalina and House Mum. Next up: New Guernica, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 16 Oct 2026 | New Guernica | Melbourne |
 | Thu, 22 Oct 2026 | New Guernica | Melbourne |
 

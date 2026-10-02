@@ -1,14 +1,15 @@
 # Alena Vox
 
-Alena Vox is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+Alena Vox is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
-Alena Vox is a house and deep house artist based in Mexico, with 70 gigs on soundcheck across Mexico City, Portland and San Diego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
+Alena Vox is a house and deep house artist based in Mexico, with 71 gigs on soundcheck across Mexico City, Portland, San Diego and Tijuana. Often billed alongside Soul Of Hex, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Secret Location  | Mexico City |
+| Sat, 31 Oct 2026 | Marko Disco | Tijuana |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alena Vox is a house and deep house artist based in Mexico, with 70 gigs on soun
 
 ## Shares bills with
 
-Duke Skylocker (Disco Dust), Miss Voltaghe, Rubinskee
+Soul Of Hex, Duke Skylocker (Disco Dust), Miss Voltaghe
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alenavox/)*

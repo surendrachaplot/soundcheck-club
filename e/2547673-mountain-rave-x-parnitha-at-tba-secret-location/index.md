@@ -1,6 +1,6 @@
 # Mountain Rave x Parnitha at TBA - Secret Location
 
-Mountain Rave x Parnitha at TBA - Secret Location on Sat 3 Oct, Athens. Techno and Acid. Preview the line-up and save it on soundcheck.
+Mountain Rave x Parnitha at TBA - Secret Location on Sat 3 Oct, Athens. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # TOKiMONSTA
 
-TOKiMONSTA is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at HVEN, Tokyo on Fri, 2 Oct 2026.
+TOKiMONSTA is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Time Nightclub, Orange-county on Sat, 17 Oct 2026.
 
-TOKiMONSTA is a house and electronica artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Austin, Berlin and Chicago and 18 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: HVEN, Tokyo on Fri 2 Oct.
+TOKiMONSTA is a house and electronica artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Austin, Berlin and Chicago and 18 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: Time Nightclub, Orange County on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | HVEN | Tokyo |
 | Sat, 17 Oct 2026 | Time Nightclub | Orange-county |
 | Thu, 22 Oct 2026 | Standard Time | Toronto |
 | Fri, 13 Nov 2026 | The Church Nightclub | Denver |

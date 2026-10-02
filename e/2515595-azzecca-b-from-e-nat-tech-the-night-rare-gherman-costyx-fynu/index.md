@@ -1,6 +1,6 @@
 # Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu at Culture Box
 
-Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu at Culture Box on Sat 24 Oct, Copenhagen. 5 artists: Azzecca, B From E, Fynutzu and Rares Gherman and 1 more. Techno and House. See the line-up on soundcheck.
+Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu at Culture Box on Sat 24 Oct, Copenhagen. 6 artists: Azzecca, B From E, Fynutzu and NAT (SK) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu at 
 - Azzecca
 - B From E
 - Fynutzu
+- NAT (SK)
 - Rares Gherman
 - styx
 

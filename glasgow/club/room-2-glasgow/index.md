@@ -13,7 +13,7 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gig
 | Fri, 23 Oct 2026 | ABRUPT presents NEEK + more | Neek |
 | Sat, 24 Oct 2026 | Teletech Glasgow: KIRSTY [All Night Long] | KIRSTY |
 | Sat, 24 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
-| Sat, 31 Oct 2026 | DRIP Halloween | Spinefluid, polyterror, saparilla |
+| Sat, 31 Oct 2026 | DRIP Halloween | ROKI, Spinefluid, polyterror, saparilla |
 | Sat, 14 Nov 2026 | Teletech x Ali James [Room 2, Glasgow] |  |
 | Fri, 27 Nov 2026 | PHG Presents: 6EJOU (Live) | 6EJOU |
 | Sat, 28 Nov 2026 | Colours presents Mauro Picotto | Mauro Picotto |

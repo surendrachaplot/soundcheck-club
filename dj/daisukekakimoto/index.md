@@ -1,14 +1,13 @@
 # Daisuke Kakimoto
 
-Daisuke Kakimoto is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at flo Soakin, Osaka on Fri, 2 Oct 2026.
+Daisuke Kakimoto is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BAR Inc, Osaka on Fri, 23 Oct 2026.
 
-Daisuke Kakimoto is a house and disco artist based in Japan, with 33 gigs on soundcheck across Osaka. Often billed alongside Norio, Mori Ra and Roy Comanchero. Next up: flo Soakin, Osaka on Fri 2 Oct.
+Daisuke Kakimoto is a house and disco artist based in Japan, with 33 gigs on soundcheck across Osaka. Often billed alongside Norio, Mori Ra and Roy Comanchero. Next up: BAR Inc, Osaka on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | flo Soakin | Osaka |
 | Fri, 23 Oct 2026 | BAR Inc | Osaka |
 
 ## Recently played

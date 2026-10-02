@@ -1,14 +1,15 @@
 # Zuri
 
-Zuri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Fri, 2 Oct 2026.
+Zuri is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Fri, 2 Oct 2026.
 
-Zuri is a techno and house artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Hong Kong, Leeds and London and 3 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Badaboum, Paris on Fri 2 Oct.
+Zuri is a techno and house artist based in Spain, with 76 gigs on soundcheck across Amsterdam, Hong Kong, Leeds and London and 3 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Badaboum, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Badaboum | Paris |
+| Thu, 15 Oct 2026 | Bar Shrimp | Manchester |
 | Fri, 6 Nov 2026 | The Loft | Manchester |
 | Fri, 6 Nov 2026 | Headrow House | Leeds |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |

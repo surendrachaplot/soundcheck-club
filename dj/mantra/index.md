@@ -1,8 +1,8 @@
 # Mantra
 
-Mantra is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Mantra is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Mantra is a jungle and drum & bass artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Mantra is a jungle and drum & bass artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Double O, Blackeye MC and Tim Reaper. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mantra is a jungle and drum & bass artist based in United Kingdom, with 155 gigs
 | Fri, 16 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | M.O.T | London |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
+| Sat, 21 Nov 2026 | The White Hotel | Manchester |
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 | Fri, 11 Dec 2026 | EXIT Glasgow | Glasgow |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

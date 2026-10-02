@@ -1,13 +1,14 @@
 # King Kit
 
-King Kit is a Balearic and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+King Kit is a Balearic and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 31 Oct 2026.
 
-King Kit is a balearic and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside Contours, GayBoy and JAMS (UK). Next up: Honey Street Studio, Manchester on Sat 14 Nov.
+King Kit is a balearic and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside Contours, GayBoy and JAMS (UK). Next up: Bar Shrimp, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Bar Shrimp | Manchester |
 | Sat, 14 Nov 2026 | Honey Street Studio | Manchester |
 | Sat, 28 Nov 2026 | Honey Street Studio | Manchester |
 

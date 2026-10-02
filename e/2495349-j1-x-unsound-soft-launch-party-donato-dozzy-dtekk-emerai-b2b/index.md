@@ -1,6 +1,6 @@
 # J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice M, Tom Boogizm at Jasna 1
 
-J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice M, Tom Boogizm at Jasna 1 on Fri 2 Oct, Warsaw. 6 artists: Beatrice M., Donato Dozzy, dtekk and emerai and 2 more. See the line-up on soundcheck.
+J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice M, Tom Boogizm at Jasna 1 on Fri 2 Oct, Warsaw. 7 artists: androgienia, Beatrice M., Donato Dozzy and dtekk and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice 
 
 ## Line-up
 
+- androgienia
 - Beatrice M.
 - Donato Dozzy
 - dtekk

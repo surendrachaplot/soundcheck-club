@@ -1,14 +1,13 @@
 # sho&tell
 
-sho&tell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Exit Reality, Singapore on Fri, 2 Oct 2026.
+sho&tell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mdlr, Singapore on Sat, 10 Oct 2026.
 
-sho&tell is a house and techno artist based in Singapore, with 114 gigs on soundcheck across Singapore. Often billed alongside benben, Kevin Sy and VAIBS. Next up: Exit Reality, Singapore on Fri 2 Oct.
+sho&tell is a house and techno artist based in Singapore, with 114 gigs on soundcheck across Singapore. Often billed alongside benben, Kevin Sy and VAIBS. Next up: Mdlr, Singapore on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Exit Reality | Singapore |
 | Sat, 10 Oct 2026 | Mdlr | Singapore |
 
 ## Recently played

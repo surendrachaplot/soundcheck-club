@@ -1,13 +1,14 @@
 # androgienia
 
-androgienia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+androgienia is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
 
-androgienia is a techno and experimental artist, with 35 gigs on soundcheck across Amsterdam, Berlin, Krakow and Warsaw. Often billed alongside PLATTER, DiV4 and KAROLINDA. Next up: KitKatClub, Berlin on Fri 13 Nov.
+androgienia is a techno and experimental artist, with 36 gigs on soundcheck across Amsterdam, Berlin, Krakow and Warsaw. Often billed alongside PLATTER, DiV4 and KAROLINDA. Next up: Jasna 1, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played

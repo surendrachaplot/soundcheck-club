@@ -1,14 +1,15 @@
 # Diverge
 
-Diverge is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
+Diverge is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Wardrobe, Leeds on Sun, 29 Nov 2026.
 
-Diverge is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Berlin, Bristol, Dallas Fort Worth and Leeds and 6 more. Often billed alongside LD50, Solo and Goldie. Next up: The Wardrobe, Leeds on Sun 29 Nov.
+Diverge is a jungle and drum & bass artist based in United Kingdom, with 72 gigs on soundcheck across Berlin, Bristol, Dallas Fort Worth and Leeds and 6 more. Often billed alongside LD50, Solo and Goldie. Next up: The Wardrobe, Leeds on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
+| Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Thu, 10 Dec 2026 | Ductwork Dallas | Dallas-fort-worth |
 | Fri, 11 Dec 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Fri, 18 Dec 2026 | Night Tales | London |

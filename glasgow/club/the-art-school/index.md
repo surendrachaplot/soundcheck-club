@@ -1,8 +1,8 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RUSH - Cari Lekebusch 90's hybrid set" on Fri, 2 Oct 2026.
+The Art School is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RUSH - Cari Lekebusch 90's hybrid set" on Fri, 2 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Bash Man and Bristol Luke and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Bash Man and Bristol Luke and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 

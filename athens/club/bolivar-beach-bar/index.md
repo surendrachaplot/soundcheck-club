@@ -1,14 +1,15 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "UNI-PARTARA On the beach || 02 October 2026" on Fri, 2 Oct 2026.
+Bolivar Beach Bar is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "UNI-PARTARA On the beach || 02 October 2026" on Fri, 2 Oct 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Ajja and Tsuyoshi Suzuki. See dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Ajja and Tsuyoshi Suzuki. See dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | UNI-PARTARA On the beach // 02 October 2026 |  |
+| Fri, 9 Oct 2026 | UNI-PARTARA on the beach |  |
 | Sat, 10 Oct 2026 | FSI with Tsuyoshi I Ajja I Drip Drop I Sat Oct 10 Bolivar | Ajja, Tsuyoshi Suzuki |
 
 ## Address

@@ -1,14 +1,15 @@
 # Eclair Fifi
 
-Eclair Fifi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
+Eclair Fifi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
 
-Eclair Fifi is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside TSHA, LWS and Optimo (Espacio). Next up: La Cheetah Club, Glasgow on Fri 2 Oct.
+Eclair Fifi is a house and techno artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside LWS, TSHA and Optimo (Espacio). Next up: La Cheetah Club, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Cheetah Club | Glasgow |
+| Sat, 10 Oct 2026 | La Belle Angele | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Eclair Fifi is a house and techno artist based in United Kingdom, with 109 gigs 
 
 ## Shares bills with
 
-TSHA, LWS, Optimo (Espacio)
+LWS, TSHA, Optimo (Espacio)
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*

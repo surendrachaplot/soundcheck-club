@@ -2,7 +2,7 @@
 
 GOTIS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Gare / Le Gore, Paris on Sun, 27 Sept 2026.
 
-GOTIS is a techno and house artist, with 39 gigs on soundcheck across Marseille and Paris. Often billed alongside In-Tan, KEUT and Camille Doe. Next up: La Gare / Le Gore, Paris on Sun 27 Sept.
+GOTIS is a techno and house artist based in France, with 39 gigs on soundcheck across Marseille and Paris. Often billed alongside In-Tan, KEUT and Camille Doe. Next up: La Gare / Le Gore, Paris on Sun 27 Sept.
 
 ## Upcoming shows
 

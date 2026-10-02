@@ -1,8 +1,8 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
+DRS is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
 
-DRS is a drum & bass and jungle artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Hare & Hounds, Birmingham on Sat 3 Oct.
+DRS is a drum & bass and jungle artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Hare & Hounds, Birmingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DRS is a drum & bass and jungle artist based in United Kingdom, with 87 gigs on 
 | Sat, 10 Oct 2026 | Ampere | Antwerp |
 | Sat, 17 Oct 2026 | Sound Machine | Toronto |
 | Sat, 31 Oct 2026 | Volks | Brighton |
+| Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Sat, 5 Dec 2026 | The Jazz Cafe | London |
 | Fri, 11 Dec 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 12 Dec 2026 | Public Works | San Francisco/Oakland |

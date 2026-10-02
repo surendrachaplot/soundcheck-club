@@ -1,14 +1,13 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RASA, Singapore on Fri, 2 Oct 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bassement, Madrid on Sat, 10 Oct 2026.
 
-Isabel Soto is a techno and house artist based in Venezuela, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: RASA, Singapore on Fri 2 Oct.
+Isabel Soto is a techno and house artist based in Venezuela, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: The Bassement, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | RASA | Singapore |
 | Sat, 10 Oct 2026 | The Bassement | Madrid |
 | Sat, 17 Oct 2026 | Printhouse | Munich |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |

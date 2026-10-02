@@ -10,7 +10,7 @@ Dalston Den is a music venue in London listed on soundcheck. 13 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass | Agility, Blake (2), Bryn Brax, FENDI-K, Whatsname, zoneSL |
 | Fri, 9 Oct 2026 | Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks | Delian Sound, Dukesmith, Edge <3, Illegal Shipment |
-| Sat, 10 Oct 2026 | THE PARTYSANS RAVE: BELLA CIAO |  |
+| Sat, 10 Oct 2026 | THE PARTYSANS RAVE: BELLA CIAO | Takenbymarshall |
 | Fri, 16 Oct 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Thu, 22 Oct 2026 | Halloween 2026 |  |
 | Fri, 23 Oct 2026 | Jex on Dex presents: Last Dance in the Den | Jex on Dex |

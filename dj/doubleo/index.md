@@ -1,8 +1,8 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Double O is a Jungle and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Double O is a jungle and drum & bass artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Double O is a jungle and drum & bass artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Double O is a jungle and drum & bass artist based in United Kingdom, with 92 gig
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Sat, 10 Oct 2026 | Open Ground | Wuppertal |
 | Sat, 31 Oct 2026 | The Boxing Club | Bristol |
+| Sat, 21 Nov 2026 | The White Hotel | Manchester |
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 | Fri, 11 Dec 2026 | EXIT Glasgow | Glasgow |
 | Fri, 18 Dec 2026 | Atno | Budapest |

@@ -1,8 +1,8 @@
 # Takenbymarshall
 
-Takenbymarshall is a Hardcore and Breakcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
+Takenbymarshall is a Hardcore and Breakcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
 
-Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with 44 gigs on soundcheck across Bangkok, Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Otaqlab Bangkok, Bangkok on Sat 3 Oct.
+Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with 45 gigs on soundcheck across Bangkok, Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Otaqlab Bangkok, Bangkok on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, with
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Otaqlab Bangkok | Bangkok |
 | Fri, 9 Oct 2026 | Off The Cuff | London |
+| Sat, 10 Oct 2026 | Dalston Den | London |
 | Fri, 20 Nov 2026 | Vespers Club | London |
 
 ## Recently played

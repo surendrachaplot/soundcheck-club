@@ -1,8 +1,8 @@
 # Village Underground
 
-Village Underground is a music venue in London with 22 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dogshow" on Fri, 2 Oct 2026.
+Village Underground is a music venue in London with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dogshow" on Fri, 2 Oct 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including aeriform, Aleja Sanchez, Amy Wiles and Ana Alves and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Acid Arab, aeriform, Aleja Sanchez and Amy Wiles and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
