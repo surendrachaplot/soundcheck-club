@@ -1,14 +1,15 @@
 # Carotin
 
-Carotin is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+Carotin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
-Carotin is a trance and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside ELOISA, Melanchromie and Paraçek. Next up: ÆDEN, Berlin on Sat 24 Oct.
+Carotin is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside ELOISA, XIMA and Alexa Fluor. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
+| Sat, 19 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Carotin is a trance and techno artist based in Germany, with 46 gigs on soundche
 
 ## Shares bills with
 
-ELOISA, Melanchromie, Paraçek
+ELOISA, XIMA, Alexa Fluor
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carotin/)*

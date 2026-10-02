@@ -1,8 +1,8 @@
 # Love Higher
 
-Love Higher is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
+Love Higher is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
 
-Love Higher is a club and house artist based in United States of America, with 111 gigs on soundcheck across Chicago, Detroit, New York City and Vancouver. Often billed alongside wahala.wav, sola system and Nishévitha. Next up: Bossa Nova Civic Club, New York City on Fri 9 Oct.
+Love Higher is a club and house artist based in United States of America, with 112 gigs on soundcheck across Chicago, Detroit, New York City and Vancouver. Often billed alongside wahala.wav, sola system and Nishévitha. Next up: Bossa Nova Civic Club, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Love Higher is a club and house artist based in United States of America, with 1
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 15 Oct 2026 | Honey's | New York City |
+| Sat, 17 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

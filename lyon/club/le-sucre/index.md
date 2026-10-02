@@ -16,7 +16,7 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 16 Oct 2026 | club: Fasme (live), Quadratschulz (live) | Fasme, Quadratschulz |
 | Sun, 25 Oct 2026 | S.society: Jeff Mills, Modhérée | Jeff Mills |
 | Fri, 30 Oct 2026 | A week-end with Jen Cardini | CUERPOS, Maara, Warum |
-| Sat, 31 Oct 2026 | A week-end with Jen Cardini | Ciel, Maggy B, TTristana |
+| Sat, 31 Oct 2026 | A week-end with Jen Cardini | Ciel, Maggy Smiss, TTristana |
 | Sun, 1 Nov 2026 | A week-end with Jen Cardini | Jen Cardini |
 
 ## Address

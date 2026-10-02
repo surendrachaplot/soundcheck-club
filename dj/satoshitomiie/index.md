@@ -9,7 +9,7 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Polifonic.MX | Guadalajara |
-| Sun, 4 Oct 2026 | TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento | Mexico City |
+| Sun, 4 Oct 2026 | TBA | Mexico City |
 | Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |

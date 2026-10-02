@@ -1,6 +1,6 @@
 # Spiritual Sauna with umru, Proc Fiskal at Q Club
 
-Spiritual Sauna with umru, Proc Fiskal at Q Club on Fri 2 Oct, Milan. 4 artists: JOA (IT), Proc Fiskal, umru and Virginia W. Experimental and Club. See the line-up on soundcheck.
+Spiritual Sauna with umru, Proc Fiskal at Q Club on Fri 2 Oct, Milan. 3 artists: JOA (IT), Proc Fiskal and umru. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Spiritual Sauna with umru, Proc Fiskal at Q Club on Fri 2 Oct, Milan. 4 artists:
 - JOA (IT)
 - Proc Fiskal
 - umru
-- Virginia W
 
 *Source: [soundcheck](https://soundcheck.club/e/2537413-spiritual-sauna-with-umru-proc-fiskal-at-q-club/)*

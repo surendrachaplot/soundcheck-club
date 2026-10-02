@@ -1,8 +1,8 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PAXPROJECT (HOUSE/TECH HOUSE)" on Fri, 2 Oct 2026.
+Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PAXPROJECT (HOUSE/TECH HOUSE)" on Fri, 2 Oct 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including ALEXANDER M, CARTOON, DJ MARIA. and DJ Shufflemaster and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including ALEXANDER M, ASSIGN, CARTOON and DJ MARIA. and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with
 | Fri, 30 Oct 2026 | BALOCCO | MARK MILA, Nari (2), r1ku |
 | Sat, 31 Oct 2026 | PALMERA HALLOWEEN PARTY |  |
 | Sun, 15 Nov 2026 | 31st Anniversary Special X-tra gaiden -All '90s X-tra Classics!?- (TECHNO) |  |
+| Sat, 28 Nov 2026 | Rezonance | ASSIGN, ITSUKI, Maozon, kens:k |
 
 ## Address
 

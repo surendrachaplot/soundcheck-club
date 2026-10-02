@@ -2,7 +2,7 @@
 
 Pelzman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
 
-Pelzman is a techno and house artist based in Denmark, with 14 gigs on soundcheck across Copenhagen. Often billed alongside NAT(SK), YOON and DJ Spice. Next up: Culture Box, Copenhagen on Fri 6 Nov.
+Pelzman is a techno and house artist based in Denmark, with 14 gigs on soundcheck across Copenhagen. Often billed alongside NAT (SK), YOON and DJ Spice. Next up: Culture Box, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Pelzman is a techno and house artist based in Denmark, with 14 gigs on soundchec
 
 ## Shares bills with
 
-NAT(SK), YOON, DJ Spice
+NAT (SK), YOON, DJ Spice
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pelzman/)*

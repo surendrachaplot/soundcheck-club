@@ -1,6 +1,6 @@
 # GEGEN X PRNCPTL X OST NYE 34H at OST
 
-GEGEN X PRNCPTL X OST NYE 34H on Thu 31 Dec, Berlin. 28 artists: 2THEMAX, ADAM MUNNINGS, ALP (DE) and ANÍBAL and 24 more. See the line-up on soundcheck.
+GEGEN X PRNCPTL X OST NYE 34H on Thu 31 Dec, Berlin. 28 artists: 2THEMAX, ADAM MUNNINGS, ALP (DE) and ANÍBAL and 24 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

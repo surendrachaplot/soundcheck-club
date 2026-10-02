@@ -1,8 +1,8 @@
 # Jay Ramon
 
-Jay Ramon is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
+Jay Ramon is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
 
-Jay Ramon is a house and deep house artist based in Australia, with 163 gigs on soundcheck across Melbourne. Often billed alongside Cara Murphy, Adam Trace and Agent 86. Next up: OneSixOne, Melbourne on Fri 2 Oct.
+Jay Ramon is a house and deep house artist based in Australia, with 165 gigs on soundcheck across Melbourne. Often billed alongside Cara Murphy, Adam Trace and Agent 86. Next up: OneSixOne, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Jay Ramon is a house and deep house artist based in Australia, with 163 gigs on 
 | Fri, 2 Oct 2026 | OneSixOne | Melbourne |
 | Sat, 3 Oct 2026 | OneSixOne | Melbourne |
 | Fri, 9 Oct 2026 | OneSixOne | Melbourne |
+| Fri, 23 Oct 2026 | OneSixOne | Melbourne |
+| Fri, 30 Oct 2026 | OneSixOne | Melbourne |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Robin Ordell
 
-Robin Ordell is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
+Robin Ordell is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
-Robin Ordell is a house and minimal artist based in France, with 47 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Hoppetosse, Berlin on Fri 2 Oct.
+Robin Ordell is a house and minimal artist based in France, with 48 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Hoppetosse | Berlin |
+| Sat, 7 Nov 2026 | TBA | Dubai |
 | Fri, 13 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played

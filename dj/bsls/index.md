@@ -1,14 +1,15 @@
 # BSLS
 
-BSLS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OFF Kultur, Budapest on Sat, 3 Oct 2026.
+BSLS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OFF Kultur, Budapest on Sat, 3 Oct 2026.
 
-BSLS is a techno and industrial artist, with 40 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside 6EJOU, 753 and Raxeller. Next up: OFF Kultur, Budapest on Sat 3 Oct.
+BSLS is a techno and industrial artist, with 41 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside 6EJOU, 753 and Raxeller. Next up: OFF Kultur, Budapest on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | OFF Kultur | Budapest |
+| Sat, 21 Nov 2026 | Cabaret  Aléatoire | Marseille |
 
 ## Recently played
 

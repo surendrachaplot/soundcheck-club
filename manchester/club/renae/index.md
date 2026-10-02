@@ -14,7 +14,7 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, wit
 | Thu, 8 Oct 2026 | renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G | Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney |
 | Sat, 10 Oct 2026 | Llou's: imad:re, Jordan Villa, SDJ, SoundboyLJ B2B BaccanalBill, OJP B2B Earnie | Jordan Villa, imad:re |
 | Thu, 15 Oct 2026 | Polyphonic Pop-Up at T.O.P.P | Gaka, JustElliot, Matteo Dose |
-| Fri, 16 Oct 2026 | Gelassenheit 4 - Release Party At T.O.P.P | KD22LR, Medlock, Tamus |
+| Fri, 16 Oct 2026 | Gelassenheit 4 - EP Release Party At T.O.P.P | KD22LR, Medlock, Tamus |
 | Sat, 24 Oct 2026 | Rhizome in t.o.p.p | Coel Haines, Etienne Groh |
 | Thu, 29 Oct 2026 | Persona - Raphi & Jude Race (4hr Sets) | Jude Race |
 | Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |

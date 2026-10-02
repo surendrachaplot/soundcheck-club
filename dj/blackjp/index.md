@@ -1,13 +1,14 @@
 # BLACK(JP)
 
-BLACK(JP) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+BLACK(JP) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at T2 Shinjuku, Tokyo on Mon, 5 Oct 2026.
 
-BLACK(JP) is a techno and industrial artist based in Japan, with 12 gigs on soundcheck across Berlin, Osaka, Seoul and Tokyo. Often billed alongside SWAGGER, NIKI (JP) and MARU. Next up: OST, Berlin on Fri 16 Oct.
+BLACK(JP) is a techno and industrial artist based in Japan, with 13 gigs on soundcheck across Berlin, Osaka, Seoul and Tokyo. Often billed alongside SWAGGER, NIKI (JP) and MARU. Next up: T2 Shinjuku, Tokyo on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 5 Oct 2026 | T2 Shinjuku | Tokyo |
 | Fri, 16 Oct 2026 | OST | Berlin |
 
 ## Recently played

@@ -9,7 +9,7 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 19 upcom
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Nooriyah, Adele Tondu, imad:re | Nooriyah, imad:re |
-| Sat, 3 Oct 2026 | Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + special guests TBA | DJ Subaru, Paranoid London |
+| Sat, 3 Oct 2026 | Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + Turnspit | DJ Subaru, Paranoid London |
 | Fri, 9 Oct 2026 | Bronka + Manuka Honey | Bronka, Manuka Honey |
 | Sat, 10 Oct 2026 | Logic1000 | Logic1000 |
 | Fri, 16 Oct 2026 | Takuya Nakamura (Live), edv3ctor & RHI | Takuya Nakamura, edv3ctor |

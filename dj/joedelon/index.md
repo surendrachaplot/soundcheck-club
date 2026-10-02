@@ -1,13 +1,14 @@
 # Joe Delon
 
-Joe Delon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+Joe Delon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 16 Oct 2026.
 
-Joe Delon is a house and techno artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Boston and 31 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
+Joe Delon is a house and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Boston and 31 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: Lux Fragil, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 24 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |

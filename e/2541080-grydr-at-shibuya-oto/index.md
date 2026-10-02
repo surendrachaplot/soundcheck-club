@@ -1,6 +1,6 @@
 # GRYDR at Shibuya OTO
 
-GRYDR at Shibuya OTO on Sun 11 Oct, Tokyo. 4 artists: 000 (DJ), Hitch, KAIKAI and Yume. House and Tech House. See the line-up on soundcheck.
+GRYDR at Shibuya OTO on Sun 11 Oct, Tokyo. 3 artists: Hitch, KAIKAI and Yume. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ GRYDR at Shibuya OTO on Sun 11 Oct, Tokyo. 4 artists: 000 (DJ), Hitch, KAIKAI an
 
 ## Line-up
 
-- 000 (DJ)
 - Hitch
 - KAIKAI
 - Yume

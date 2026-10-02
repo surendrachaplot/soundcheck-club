@@ -1,8 +1,8 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Ella Knight is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Ella Knight is a house and disco artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Ella Knight is a house and disco artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ella Knight is a house and disco artist based in United Kingdom, with 119 gigs o
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Village Underground | London |
+| Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

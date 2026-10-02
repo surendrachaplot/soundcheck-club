@@ -12,7 +12,7 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 212 gigs
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Sat, 14 Nov 2026 | fabric | London |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 

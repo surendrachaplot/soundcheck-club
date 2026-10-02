@@ -10,7 +10,7 @@ Bibi Seck is a house and techno artist based in Belgium, with 119 gigs on soundc
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Fri, 13 Nov 2026 | Antwerp Expo | Antwerp |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |

@@ -1,6 +1,6 @@
 # UNHOLY - A KINKY PARTY at Imperial Private Club
 
-UNHOLY - A KINKY PARTY at Imperial Private Club on Fri 16 Oct, Barcelona. See the line-up on soundcheck.
+UNHOLY - A KINKY PARTY at Imperial Private Club on Fri 16 Oct, Barcelona. Club and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

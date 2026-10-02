@@ -13,7 +13,7 @@ Ticcle is a music venue in Hobart listed on soundcheck. 7 upcoming gigs, with li
 | Fri, 13 Nov 2026 | ticcle presents Powder (Japan) | Powder |
 | Sun, 29 Nov 2026 | ticcle sundays with Tim Heaney (CBR/Vessel Records) (all day long) | Tim Heaney |
 | Fri, 11 Dec 2026 | ticcle presents Marcellus Pittman (Detroit) (all night long) | Marcellus Pittman |
-| Sat, 19 Dec 2026 | ticcle presents Rick Wade (Detroit) | Rick Wade |
+| Sun, 20 Dec 2026 | ticcle presents Rick Wade (Detroit) | Rick Wade |
 | Sun, 27 Dec 2026 | ticcle sundays - santa's recovery |  |
 
 ## Address

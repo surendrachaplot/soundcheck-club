@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Teletech London: Vieze Asbak + more" on Fri, 2 Oct 2026.
+E1 is a music venue in London with 44 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Teletech London: Vieze Asbak + more" on Fri, 2 Oct 2026.
 
-E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 44 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
@@ -10,7 +10,7 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Teletech London: Vieze Asbak + more | KIRSTY, KimberlaID, Lolalita, Mad Dog, NLI, Vieze Asbak |
 | Sat, 3 Oct 2026 | Nicole Moudaber (All Night Long - UK Premiere) | Nicole Moudaber |
-| Sat, 3 Oct 2026 | Ignez & Claudio PRC | Claudio PRC, Ignez, Livid (UK), Pre Silent |
+| Sat, 3 Oct 2026 | Ignez & Claudio PRC | Antonio De Angelis, Claudio PRC, Ignez, Livid (UK), Pre Silent |
 | Fri, 9 Oct 2026 | ALIVE: Afem Syko, HU, Becky Stroke, ASHTREY | ASHTREY, Afem Syko, Becky Stroke, HU (IT) |
 | Fri, 9 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM +*BIGGEST HEADLINERS YET* LAST FREE TICKETS |  |
 | Fri, 9 Oct 2026 | XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS – LAST FREE TICKETS |  |

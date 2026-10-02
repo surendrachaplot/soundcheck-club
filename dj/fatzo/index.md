@@ -1,8 +1,8 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Fatzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Fatzo is a house and tech house artist based in France, with 136 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Fatzo is a house and tech house artist based in France, with 137 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Oden, Sam Divine and Armand Van Helden. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Fatzo is a house and tech house artist based in France, with 136 gigs on soundch
 | Sat, 28 Nov 2026 | The Independent | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | The Church Nightclub | Denver |
 | Sat, 12 Dec 2026 | Descent | Boston |
+| Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Fatzo is a house and tech house artist based in France, with 136 gigs on soundch
 
 ## Shares bills with
 
-Oden, Armand Van Helden, Danny Howard
+Oden, Sam Divine, Armand Van Helden
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

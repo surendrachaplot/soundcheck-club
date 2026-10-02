@@ -1,6 +1,6 @@
 # Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALATIUS & KALINKA at KB3
 
-Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALATIUS & KALINKA at KB3 on Fri 16 Oct, Copenhagen. 5 artists: Adrian Salcedo, DRABER666, Harrison Heat and S3PPA and 1 more. House and Electronica. See the line-up on soundcheck.
+Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALATIUS & KALINKA at KB3 on Fri 16 Oct, Copenhagen. 6 artists: Adrian Salcedo, DRABER666, GALATIUS and Harrison Heat and 2 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALA
 
 - Adrian Salcedo
 - DRABER666
+- GALATIUS
 - Harrison Heat
 - S3PPA
 - Sebastian Wibe

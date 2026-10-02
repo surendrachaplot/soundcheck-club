@@ -1,6 +1,6 @@
-# Polygonia (house set), Joe Delon, Lournco Lvgs, DJ Al, Afonso Peixoto at Lux Fragil
+# Polygonia (house set), Joe Delon, Lournco Lvgs, DJ AL, Afonso Peixoto at Lux Fragil
 
-Polygonia (house set), Joe Delon, Lournco Lvgs, DJ Al, Afonso Peixoto at Lux Fragil on Fri 16 Oct, Lisbon. 1 artist: Afonso Peixoto. See the line-up on soundcheck.
+Polygonia (house set), Joe Delon, Lournco Lvgs, DJ AL, Afonso Peixoto at Lux Fragil on Fri 16 Oct, Lisbon. 3 artists: Afonso Peixoto, Joe Delon and Polygonia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Polygonia (house set), Joe Delon, Lournco Lvgs, DJ Al, Afonso Peixoto at Lux Fra
 ## Line-up
 
 - Afonso Peixoto
+- Joe Delon
+- Polygonia
 
 *Source: [soundcheck](https://soundcheck.club/e/2547275-polygonia-house-set-joe-delon-lournco-lvgs-dj-al-afonso-peix/)*

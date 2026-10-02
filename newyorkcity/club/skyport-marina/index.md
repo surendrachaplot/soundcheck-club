@@ -9,7 +9,7 @@ Skyport Marina is a music venue in New York City listed on soundcheck. 3 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Reggaeton Boat Party NYC - Avalon Yacht – Oct 02 |  |
-| Sat, 3 Oct 2026 | Reggaeton Boat Party NYC - Avalon Yacht - Oct 03 | DJ B2B |
+| Sat, 3 Oct 2026 | Reggaeton Boat Party NYC / Cabana Yacht at Skyport Marina / Oct 03 | DJ B2B |
 | Thu, 31 Dec 2026 | All That Glitters NYE All Ages Fireworks Cruise New York City |  |
 
 ## Address

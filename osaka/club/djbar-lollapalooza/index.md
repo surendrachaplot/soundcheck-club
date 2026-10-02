@@ -1,14 +1,13 @@
 # Djbar Lollapalooza
 
-Djbar Lollapalooza is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "5th Anniversary Party02 -FREEDOM Dad MAFIA" on Fri, 2 Oct 2026.
+Djbar Lollapalooza is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "5th Anniversary Party03-ORACLEムジカ" on Sat, 3 Oct 2026.
 
-Djbar Lollapalooza is a music venue in Osaka listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 5F Shoqu Building, 2-6-10 Nishi-Shinsaibashi, Chuo-ku, Osaka 542-0086, Japan.
+Djbar Lollapalooza is a music venue in Osaka listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 5F Shoqu Building, 2-6-10 Nishi-Shinsaibashi, Chuo-ku, Osaka 542-0086, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | 5th Anniversary Party02 -FREEDOM Dad MAFIA |  |
 | Sat, 3 Oct 2026 | 5th Anniversary Party03-ORACLEムジカ |  |
 | Mon, 5 Oct 2026 | 5th Anniversary Party04- GATE -house |  |
 | Tue, 6 Oct 2026 | 5th Anniversary Party05- 位置情報 |  |

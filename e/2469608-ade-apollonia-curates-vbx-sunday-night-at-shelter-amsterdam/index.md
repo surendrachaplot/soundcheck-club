@@ -1,6 +1,6 @@
 # ADE - Apollonia curates VBX - SUNDAY NIGHT at Shelter Amsterdam
 
-ADE - Apollonia curates VBX - SUNDAY NIGHT at Shelter Amsterdam on Sun 25 Oct, Amsterdam. 4 artists: Apollonia, Jorg Kuning, Reiss and Yamour. See the line-up on soundcheck.
+ADE - Apollonia curates VBX - SUNDAY NIGHT at Shelter Amsterdam on Sun 25 Oct, Amsterdam. 8 artists: Apollonia, Jorg Kuning, Matisa and Mayell and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,10 @@ ADE - Apollonia curates VBX - SUNDAY NIGHT at Shelter Amsterdam on Sun 25 Oct, A
 
 - Apollonia
 - Jorg Kuning
+- Matisa
+- Mayell
+- Noach
+- Reflex Blue
 - Reiss
 - Yamour
 

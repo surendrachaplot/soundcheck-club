@@ -1,14 +1,13 @@
 # ast midori
 
-ast midori is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Conpass, Osaka on Fri, 2 Oct 2026.
+ast midori is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
 
-ast midori is a techno and electro artist based in Japan, with 82 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside 春麗 Chun Li, E.O.U and HSC. Next up: Conpass, Osaka on Fri 2 Oct.
+ast midori is a techno and electro artist based in Japan, with 82 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside 春麗 Chun Li, E.O.U and HSC. Next up: Club Daphnia, Osaka on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Conpass | Osaka |
 | Sat, 17 Oct 2026 | Club Daphnia | Osaka |
 
 ## Recently played

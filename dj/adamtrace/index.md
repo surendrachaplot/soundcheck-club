@@ -1,8 +1,8 @@
 # Adam Trace
 
-Adam Trace is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
+Adam Trace is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
 
-Adam Trace is a house and deep house artist based in Australia, with 109 gigs on soundcheck across Melbourne. Often billed alongside Jay Ramon, Amber Ferraro and Katie Hill. Next up: OneSixOne, Melbourne on Fri 2 Oct.
+Adam Trace is a house and deep house artist based in Australia, with 111 gigs on soundcheck across Melbourne. Often billed alongside Jay Ramon, Amber Ferraro and Katie Hill. Next up: OneSixOne, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Adam Trace is a house and deep house artist based in Australia, with 109 gigs on
 | Fri, 2 Oct 2026 | OneSixOne | Melbourne |
 | Fri, 9 Oct 2026 | OneSixOne | Melbourne |
 | Fri, 16 Oct 2026 | OneSixOne | Melbourne |
+| Fri, 23 Oct 2026 | OneSixOne | Melbourne |
+| Fri, 30 Oct 2026 | OneSixOne | Melbourne |
 
 ## Recently played
 

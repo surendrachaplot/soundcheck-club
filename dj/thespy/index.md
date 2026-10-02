@@ -9,7 +9,7 @@ The Spy is a techno and electro artist based in Netherlands, with 9 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Drugstore Beograd | Belgrade |
-| Fri, 9 Oct 2026 | TBA | Brussels |
+| Fri, 9 Oct 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

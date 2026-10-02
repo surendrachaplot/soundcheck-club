@@ -1,8 +1,8 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UMi Tulum, Tulum on Sat, 3 Oct 2026.
+Supernova is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UMi Tulum, Tulum on Sat, 3 Oct 2026.
 
-Supernova is a house and tech house artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: UMi Tulum, Tulum on Sat 3 Oct.
+Supernova is a house and tech house artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: UMi Tulum, Tulum on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Supernova is a house and tech house artist based in Italy, with 40 gigs on sound
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | UMi Tulum | Tulum |
 | Sat, 17 Oct 2026 | Rôtisserie de la Paix | Morocco |
+| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Thu, 29 Oct 2026 | The Foundry | San Francisco/Oakland |
 

@@ -1,6 +1,6 @@
 # GOODLIFE feat. Nakadia at Joule
 
-GOODLIFE feat. Nakadia at Joule on Fri 9 Oct, Osaka. 4 artists: Astro aka Akihisa Takahashi, Nakadia, NOBUYA and O-MAN. Techno. See the line-up on soundcheck.
+GOODLIFE feat. Nakadia at Joule on Fri 9 Oct, Osaka. 5 artists: Astro aka Akihisa Takahashi, Nakadia, NOBUYA and O-MAN and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ GOODLIFE feat. Nakadia at Joule on Fri 9 Oct, Osaka. 4 artists: Astro aka Akihis
 - Nakadia
 - NOBUYA (2)
 - O-MAN
+- RICHKID
 
 *Source: [soundcheck](https://soundcheck.club/e/2548773-goodlife-feat-nakadia-at-joule/)*

@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Make A Dance is a House and Disco artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 

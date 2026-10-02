@@ -1,13 +1,14 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
+Teenage Mutants is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
-Teenage Mutants is a techno and tech house artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
+Teenage Mutants is a techno and tech house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 9 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 16 Oct 2026 | Flux | Istanbul |
 | Wed, 21 Oct 2026 | Veronica Schip | Amsterdam |

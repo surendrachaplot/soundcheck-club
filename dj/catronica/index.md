@@ -1,14 +1,15 @@
 # CATRONICA
 
-CATRONICA is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
+CATRONICA is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
 
-CATRONICA is a psytrance and techno artist based in Japan, with 44 gigs on soundcheck across Kanto and Tokyo. Often billed alongside BEPPU, Kodai and Niko Silencio. Next up: TBA, Kanto on Sat 10 Oct.
+CATRONICA is a psytrance and techno artist based in Japan, with 45 gigs on soundcheck across Kanto and Tokyo. Often billed alongside BEPPU, Kodai and Niko Silencio. Next up: TBA, Kanto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Kanto |
+| Tue, 27 Oct 2026 | DeTour | Tokyo |
 | Fri, 30 Oct 2026 | Koenji Cave | Tokyo |
 
 ## Recently played

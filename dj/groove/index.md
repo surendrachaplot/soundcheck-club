@@ -1,14 +1,15 @@
 # Groove
 
-Groove is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at the inner circle vienna / wien, Vienna on Sat, 10 Oct 2026.
+Groove is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at the inner circle vienna / wien, Vienna on Sat, 10 Oct 2026.
 
-Groove is a techno and acid artist based in Bulgaria, with 23 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 9 more. Often billed alongside DANI8L, ANNA and After X. Next up: the inner circle vienna / wien, Vienna on Sat 10 Oct.
+Groove is a techno and acid artist based in Bulgaria, with 24 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 10 more. Often billed alongside DANI8L, ANNA and After X. Next up: the inner circle vienna / wien, Vienna on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | the inner circle vienna / wien | Vienna |
+| Sat, 24 Oct 2026 | Three Buttons | Singapore |
 
 ## Recently played
 

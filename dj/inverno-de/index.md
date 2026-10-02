@@ -1,14 +1,15 @@
 # INVERNO
 
-INVERNO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Fri, 2 Oct 2026.
+INVERNO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Fri, 2 Oct 2026.
 
-INVERNO is a techno and house artist based in Germany, with 74 gigs on soundcheck across Berlin, Brussels, Hamburg and Krakow and 10 more. Often billed alongside Ká (DE), Triqi and hripsime. Next up: TBA, Berlin on Fri 2 Oct.
+INVERNO is a techno and house artist based in Germany, with 75 gigs on soundcheck across Berlin, Brussels, Hamburg and Krakow and 10 more. Often billed alongside Ká (DE), Triqi and hripsime. Next up: TBA, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Berlin |
+| Fri, 6 Nov 2026 | TBA - Secret Location | Berlin |
 | Sat, 12 Dec 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played

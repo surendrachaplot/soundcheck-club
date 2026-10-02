@@ -1,14 +1,14 @@
 # Xwnia Wölf
 
-Xwnia Wölf is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento, Mexico City on Sun, 4 Oct 2026.
+Xwnia Wölf is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Mexico City on Sun, 4 Oct 2026.
 
-Xwnia Wölf is a house and minimal artist based in Mexico, with 35 gigs on soundcheck across London, Mexico City, Miami and New York City and 1 more. Often billed alongside WÖLF, Mejia and Barreto. Next up: TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento, Mexico City on Sun 4 Oct.
+Xwnia Wölf is a house and minimal artist based in Mexico, with 35 gigs on soundcheck across London, Mexico City, Miami and New York City and 1 more. Often billed alongside WÖLF, Mejia and Barreto. Next up: TBA, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento | Mexico City |
+| Sun, 4 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 

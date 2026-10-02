@@ -1,14 +1,15 @@
 # Luk.
 
-Luk. is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
+Luk. is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 16 Oct 2026.
 
-Luk. is a techno and tech house artist based in Australia, with 20 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Miscmeg, Craig Richards and DJ Kiti. Next up: Revolver Upstairs, Melbourne on Fri 16 Oct.
+Luk. is a techno and tech house artist based in Australia, with 21 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Miscmeg, Craig Richards and DJ Kiti. Next up: Revolver Upstairs, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Revolver Upstairs | Melbourne |
+| Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 

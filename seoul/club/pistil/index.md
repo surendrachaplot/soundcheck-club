@@ -10,7 +10,7 @@ Pistil is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | HOME PARTY: DDD ALL NIGHT LONG | DDD (2) |
 | Sat, 3 Oct 2026 | Concrete Jungle: 4th Party | Moon! go America, Nif Salute, Sejung, konbu |
-| Sat, 3 Oct 2026 | #FREE O2 | 2NOWAVE, HWNKYO |
+| Thu, 8 Oct 2026 | #FREE O2 | 2NOWAVE, HWNKYO |
 | Sat, 10 Oct 2026 | HOME PARTY | DDD (2) |
 
 ## Address

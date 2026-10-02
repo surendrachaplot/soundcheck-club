@@ -1,13 +1,14 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Lower Third, London on Sat, 21 Nov 2026.
+Adela is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
 
-Adela is a deep house and progressive house artist based in United Kingdom, with 50 gigs on soundcheck across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: The Lower Third, London on Sat 21 Nov.
+Adela is a deep house and progressive house artist based in United Kingdom, with 51 gigs on soundcheck across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: HQI, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | HQI | London |
 | Sat, 21 Nov 2026 | The Lower Third | London |
 | Sat, 21 Nov 2026 | XOYO | London |
 | Sat, 28 Nov 2026 | Bricks | London |

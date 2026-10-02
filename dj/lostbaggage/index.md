@@ -1,13 +1,14 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+lostbaggage is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
 
-lostbaggage is a house and techno artist based in Japan, with 162 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
+lostbaggage is a house and techno artist based in Japan, with 163 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: Forestlimit, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Forestlimit | Tokyo |
 | Fri, 9 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 16 Oct 2026 | Spread | Tokyo |
 | Fri, 30 Oct 2026 | WOMB | Tokyo |

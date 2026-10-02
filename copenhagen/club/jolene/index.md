@@ -10,7 +10,7 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, wit
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | tactual.club with Picture, ymse & inesse |  |
 | Fri, 2 Oct 2026 | Bubbling Inside with Martinou (SE), HAKEEM & Jerey Stevenson | HAKEEM (2), Jerey Stevenson, Martinou |
-| Sat, 3 Oct 2026 | Butterfly Effect with Eva Selezneva (UA), NAT, David Garset | David Garset, Eva Selezneva, NAT(SK) |
+| Sat, 3 Oct 2026 | Butterfly Effect with Eva Selezneva (UA), NAT, David Garset | David Garset, Eva Selezneva, NAT (SK) |
 | Fri, 16 Oct 2026 | Tropical Animals Copenaghen with Ricardo Baez and Kasper Bjørke | Kasper Bjorke, Ricardo Baez |
 | Sat, 24 Oct 2026 | Sounds Good 3rd Birthday with Kléo (NL) | Kléo, Lewis Hunter, Låndkruzer, Nizzy, bon Ronny |
 

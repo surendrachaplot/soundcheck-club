@@ -13,7 +13,7 @@ Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with
 | Sat, 14 Nov 2026 | En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more | Barker, Batu, Helena Hauff, Verraco, i-sha |
 | Sat, 28 Nov 2026 | Hamdi FC vs Bristol 2026 | Flava D, Hamdi (UK), Jakes, OH91 |
 | Sat, 12 Dec 2026 | SG Lewis - Bristol | ATRIP, Milly on Air, SG Lewis |
-| Thu, 31 Dec 2026 | Moon Festival 2026: The Extraordinary Civilisation | Bladerunner, Burt Cope, DJ Hazard, De Gladde Paling, Eksman, Emily Makis, Enei, Formula LDN, Hang The DJs, Original Sin, Upgrade Music |
+| Thu, 31 Dec 2026 | Moon Festival 2026: The Extraordinary Civilisation | Bladerunner, Burt Cope, Camo & Krooked, DJ Hazard, De Gladde Paling, Eksman, Emily Makis, Enei, Formula LDN, Hang The DJs, Original Sin, Upgrade Music |
 
 ## Address
 

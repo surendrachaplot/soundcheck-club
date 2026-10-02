@@ -1,6 +1,6 @@
 # New Years Eve Extravaganza: Crazy P, Horse Meat Disco at Outernet Live
 
-New Years Eve Extravaganza: Crazy P, Horse Meat Disco at Outernet Live on Thu 31 Dec, London. 4 artists: Crazy P, Horse Meat Disco, Lucy Lennox and Saturn Sisters. See the line-up on soundcheck.
+New Years Eve Extravaganza: Crazy P, Horse Meat Disco at Outernet Live on Thu 31 Dec, London. 4 artists: Crazy P, Horse Meat Disco, Lucy Lennox and Saturn Sisters. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

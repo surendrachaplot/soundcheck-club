@@ -1,8 +1,8 @@
 # Lowsteppa
 
-Lowsteppa is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Lowsteppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
-Lowsteppa is a house and tech house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Lowsteppa is a house and tech house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lowsteppa is a house and tech house artist based in United Kingdom, with 54 gigs
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Thu, 31 Dec 2026 | OVO Arena Wembley | London |
+| Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

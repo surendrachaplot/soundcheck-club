@@ -1,14 +1,15 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Subcero Club, Madrid on Sat, 3 Oct 2026.
+Manu Oubiña is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Subcero Club, Madrid on Sat, 3 Oct 2026.
 
-Manu Oubiña is a house and electro artist based in Argentina, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: Subcero Club, Madrid on Sat 3 Oct.
+Manu Oubiña is a house and electro artist based in Argentina, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: Subcero Club, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Subcero Club | Madrid |
+| Wed, 7 Oct 2026 | Rūmu | Lisbon |
 | Fri, 9 Oct 2026 | Lux Fragil | Lisbon |
 | Fri, 16 Oct 2026 | Avant Garten | Buenos Aires |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |

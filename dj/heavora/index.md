@@ -1,14 +1,15 @@
 # Heavora
 
-Heavora is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Fabriek, Brussels on Fri, 16 Oct 2026.
+Heavora is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Fabriek, Brussels on Fri, 16 Oct 2026.
 
-Heavora is a techno and hardcore artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Jacidorex, Minopolska and Abdénord. Next up: La Fabriek, Brussels on Fri 16 Oct.
+Heavora is a techno and hardcore artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels, Ghent and Lille and 1 more. Often billed alongside Jacidorex, Low E and Minopolska. Next up: La Fabriek, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | La Fabriek | Brussels |
+| Sat, 22 May 2027 | Kodz | Lille |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Heavora is a techno and hardcore artist based in Belgium, with 11 gigs on soundc
 
 ## Shares bills with
 
-Jacidorex, Minopolska, Abdénord
+Jacidorex, Low E (2), Minopolska
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*

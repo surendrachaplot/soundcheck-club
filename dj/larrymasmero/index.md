@@ -1,14 +1,15 @@
 # Larry Masmero
 
-Larry Masmero is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Republic Milano, Milan on Sat, 3 Oct 2026.
+Larry Masmero is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Republic Milano, Milan on Sat, 3 Oct 2026.
 
-Larry Masmero is a house and disco artist based in Italy, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and London and 4 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Republic Milano, Milan on Sat 3 Oct.
+Larry Masmero is a house and disco artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and London and 4 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Republic Milano, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Republic Milano | Milan |
+| Fri, 9 Oct 2026 | Apollo Club Milano | Milan |
 | Sat, 10 Oct 2026 | TBA - Wally Gelateria, Piazzale Lavater, Milano | Milan |
 | Sat, 24 Oct 2026 | Wijnhuis.Amsterdam | Amsterdam |
 

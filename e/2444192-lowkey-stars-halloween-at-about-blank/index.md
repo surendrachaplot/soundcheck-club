@@ -14,7 +14,7 @@
 - Anna Hoeber
 - antyo
 - April the pink
-- Bambii
+- CHAR
 - clubm8
 - Cottí Larje
 - Delm

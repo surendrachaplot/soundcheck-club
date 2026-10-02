@@ -11,7 +11,7 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming 
 | Fri, 9 Oct 2026 | Sequenced Minds at DSTRKT |  |
 | Sat, 7 Nov 2026 | ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax |  |
 | Fri, 13 Nov 2026 | KALTBAU |  |
-| Fri, 27 Nov 2026 | PURE PLEASURE | DBBD, HARD CANDY (GER), LOVEFOXY, Only Fire, Shanti Celeste |
+| Fri, 27 Nov 2026 | PURE PLEASURE | DBBD, HARD CANDY (GER), INEXXSTABLE, LOVEFOXY, Only Fire, Shanti Celeste |
 | Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L. A.Galuzzi/A.Henneberg/ DjHELL/ Teenage Mutants/ Umek uvm  | Andreas Henneberg, André Galluzzi, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, TBA, Teenage Mutants, Umek |
 | Sat, 5 Dec 2026 | HIVE pres. IGDA B2B Niotech ALL NIGHT LONG | IGDA, Niotech |
 | Wed, 30 Dec 2026 | ONYX NYE: 'NEW ERA' | 2HOT2PLAY, AREA ØNE, BENITO (DE), BENNETT, BIJI ON DECKS, Bruno Brero, HANÀ, KARISH, L.zwo, MISS FRENXH, OLED, Part Time Killer, Treibende Kraft, two girls one mom |

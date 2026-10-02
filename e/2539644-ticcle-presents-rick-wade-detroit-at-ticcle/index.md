@@ -1,10 +1,10 @@
 # ticcle presents Rick Wade (Detroit) at Ticcle
 
-ticcle presents Rick Wade (Detroit) at Ticcle on Sat 19 Dec, Hobart. 1 artist: Rick Wade. See the line-up on soundcheck.
+ticcle presents Rick Wade (Detroit) at Ticcle on Sun 20 Dec, Hobart. 1 artist: Rick Wade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 19 Dec 2026 |
+| Date | Sun, 20 Dec 2026 |
 | Venue | Ticcle |
 | City | Hobart |
 

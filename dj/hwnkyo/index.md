@@ -1,14 +1,14 @@
 # HWNKYO
 
-HWNKYO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pistil, Seoul on Sat, 3 Oct 2026.
+HWNKYO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pistil, Seoul on Thu, 8 Oct 2026.
 
-HWNKYO is a house and hip-hop artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside 2NOWAVE, Jinwoo and Voiid Alpha. Next up: Pistil, Seoul on Sat 3 Oct.
+HWNKYO is a house and hip-hop artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside 2NOWAVE, Jinwoo and Voiid Alpha. Next up: Pistil, Seoul on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Pistil | Seoul |
+| Thu, 8 Oct 2026 | Pistil | Seoul |
 
 ## Recently played
 

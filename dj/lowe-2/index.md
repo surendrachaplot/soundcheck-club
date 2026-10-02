@@ -1,14 +1,15 @@
 # Low E (2)
 
-Low E (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kompass Klub, Ghent on Fri, 16 Oct 2026.
+Low E (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kompass Klub, Ghent on Fri, 16 Oct 2026.
 
-Low E is a techno and trance artist based in Belgium, with 28 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lena De Roose, Helena Lauwaert and MOKER. Next up: Kompass Klub, Ghent on Fri 16 Oct.
+Low E is a techno and trance artist based in Belgium, with 29 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Lena De Roose, Helena Lauwaert and MOKER. Next up: Kompass Klub, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Kompass Klub | Ghent |
+| Sat, 22 May 2027 | Kodz | Lille |
 
 ## Recently played
 

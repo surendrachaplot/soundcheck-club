@@ -1,8 +1,8 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at VENT, Tokyo on Fri, 2 Oct 2026.
+Efdemin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at VENT, Tokyo on Fri, 2 Oct 2026.
 
-Efdemin is a techno and house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: VENT, Tokyo on Fri 2 Oct.
+Efdemin is a techno and house artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: VENT, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Efdemin is a techno and house artist based in Germany, with 126 gigs on soundche
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
+| Sat, 24 Oct 2026 | Kaiku | Helsinki |
 | Fri, 6 Nov 2026 | Gaffe | London |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |

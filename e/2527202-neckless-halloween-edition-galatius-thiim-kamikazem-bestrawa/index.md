@@ -1,6 +1,6 @@
 # NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb at Culture Box
 
-NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb at Culture Box on Fri 30 Oct, Copenhagen. 5 artists: Bestrawa, FA999, KAMIKAZEM and Thiim and 1 more. Trance and Techno. See the line-up on soundcheck.
+NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb at Culture Box on Fri 30 Oct, Copenhagen. 6 artists: Bestrawa, FA999, GALATIUS and KAMIKAZEM and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Z
 
 - Bestrawa
 - FA999
+- GALATIUS
 - KAMIKAZEM
 - Thiim
 - Ziggy Stardubb

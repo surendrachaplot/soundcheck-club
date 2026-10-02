@@ -1,14 +1,13 @@
 # møod ring
 
-møod ring is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at White Rabbit, San Francisco/Oakland on Thu, 1 Oct 2026.
+møod ring is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
 
-møod ring is a house and bass artist based in United States of America, with 10 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Camillionaire, Bea Trinidad and Castillonaire. Next up: White Rabbit, San Francisco/Oakland on Thu 1 Oct.
+møod ring is a house and bass artist based in United States of America, with 10 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Camillionaire, Bea Trinidad and Castillonaire. Next up: Mothership, San Francisco/Oakland on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | White Rabbit | San Francisco/Oakland |
 | Sun, 4 Oct 2026 | Mothership | San Francisco/Oakland |
 
 ## Recently played

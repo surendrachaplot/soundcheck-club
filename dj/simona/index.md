@@ -1,15 +1,13 @@
 # Simona Castricum
 
-Simona Castricum is a New Wave and Vaporwave artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Northcote Social Club, Melbourne on Fri, 2 Oct 2026.
+Simona Castricum is a New Wave and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Vanguard, Sydney on Fri, 9 Oct 2026.
 
-Simona Castricum is a new wave and vaporwave artist based in Australia, with 13 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Caucasian Opportunities, DJ PGZ and Aarti Jadu. Next up: Northcote Social Club, Melbourne on Fri 2 Oct.
+Simona Castricum is a new wave and vaporwave artist based in Australia, with 13 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Caucasian Opportunities, DJ PGZ and Aarti Jadu. Next up: The Vanguard, Sydney on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Northcote Social Club | Melbourne |
-| Fri, 2 Oct 2026 | Northcote Social Club | Melbourne |
 | Fri, 9 Oct 2026 | The Vanguard | Sydney |
 | Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 

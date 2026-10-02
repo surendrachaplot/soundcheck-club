@@ -1,14 +1,15 @@
 # hiroto yano
 
-hiroto yano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+hiroto yano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
 
-hiroto yano is a house and techno artist based in Japan, with 133 gigs on soundcheck across Tokyo. Often billed alongside Terax, kagurun and MINAMI. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
+hiroto yano is a house and techno artist based in Japan, with 134 gigs on soundcheck across Tokyo. Often billed alongside Terax, kagurun and MINAMI. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Aoyama Hachi | Tokyo |
+| Sat, 14 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 

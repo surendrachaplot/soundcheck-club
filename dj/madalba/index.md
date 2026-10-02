@@ -1,14 +1,15 @@
 # Madalba
 
-Madalba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hall, Berlin on Sat, 10 Oct 2026.
+Madalba is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hall, Berlin on Sat, 10 Oct 2026.
 
-Madalba is a techno and house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Handmade, Amperia and Dirty Daddy Don. Next up: Void Hall, Berlin on Sat 10 Oct.
+Madalba is a techno and house artist based in Italy, with 88 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Handmade, Amperia and Dirty Daddy Don. Next up: Void Hall, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Void Hall | Berlin |
+| Sat, 10 Oct 2026 | Zemin Art Gallery | Berlin |
 | Sun, 11 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played

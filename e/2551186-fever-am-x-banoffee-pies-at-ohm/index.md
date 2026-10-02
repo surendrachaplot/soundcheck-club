@@ -1,6 +1,6 @@
-# Fever AM X BANOFFEE PIES at OHM
+# Fever AM X Banoffee Pies at OHM
 
-Fever AM X BANOFFEE PIES at OHM on Sat 10 Oct, Berlin. 5 artists: DJ Autumn, Formella, Mor Elian and Rhyw and 1 more. Bass and Dub. See the line-up on soundcheck.
+Fever AM X Banoffee Pies at OHM on Sat 10 Oct, Berlin. 5 artists: DJ Autumn, Formella, Mor Elian and Rhyw and 1 more. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

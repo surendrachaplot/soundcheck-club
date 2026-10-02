@@ -1,8 +1,8 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Fantastic Man is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
-Fantastic Man is a house and techno artist, with 133 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: TBA, Central on Fri 2 Oct.
+Fantastic Man is a house and techno artist, with 134 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fantastic Man is a house and techno artist, with 133 gigs on soundcheck across A
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 2 Oct 2026 | The DBA | Manchester |
+| Wed, 21 Oct 2026 | Rūmu | Lisbon |
 | Sat, 24 Oct 2026 | Café Soleil Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Outernet Live | London |
 

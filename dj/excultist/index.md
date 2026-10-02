@@ -1,14 +1,15 @@
 # Excultist
 
-Excultist is a Hip-Hop and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cakeshop, Seoul on Fri, 2 Oct 2026.
+Excultist is a Electro and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cakeshop, Seoul on Fri, 2 Oct 2026.
 
-Excultist is a hip-hop and electro artist based in South Korea, with 10 gigs on soundcheck across Seoul. Often billed alongside rue, DDD and S1LVERLUV. Next up: Cakeshop, Seoul on Fri 2 Oct.
+Excultist is an electro and hip-hop artist based in South Korea, with 11 gigs on soundcheck across Seoul. Often billed alongside rue, S1LVERLUV and DDD. Next up: Cakeshop, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cakeshop | Seoul |
+| Fri, 9 Oct 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Excultist is a hip-hop and electro artist based in South Korea, with 10 gigs on 
 
 ## Shares bills with
 
-rue (3), DDD (2), S1LVERLUV
+rue (3), S1LVERLUV, DDD (2)
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excultist/)*

@@ -1,14 +1,13 @@
 # Compuma
 
-Compuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KGR(n), Tokyo on Fri, 2 Oct 2026.
+Compuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
 
-Compuma is a techno and house artist based in Japan, with 73 gigs on soundcheck across Chicago, Chubu, Kyoto and Milan and 2 more. Often billed alongside Dr. Nishimura, AKIRAM EN and Shhhhh. Next up: KGR(n), Tokyo on Fri 2 Oct.
+Compuma is a techno and house artist based in Japan, with 73 gigs on soundcheck across Chicago, Chubu, Kyoto and Milan and 2 more. Often billed alongside Dr. Nishimura, AKIRAM EN and Shhhhh. Next up: Goko Farm Auto Campground, Chubu on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | KGR(n) | Tokyo |
 | Sat, 3 Oct 2026 | Goko Farm Auto Campground | Chubu |
 
 ## Recently played

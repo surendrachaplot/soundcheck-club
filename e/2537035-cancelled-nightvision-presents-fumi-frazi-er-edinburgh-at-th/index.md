@@ -1,0 +1,17 @@
+# [CANCELLED] Nightvision presents FUMI & Frazi.er // Edinburgh at The Caves
+
+[CANCELLED] Nightvision presents FUMI & Frazi.er // Edinburgh at The Caves on Fri 2 Oct, Edinburgh. 3 artists: Frazi.er, fumi (DE) and LAUZ. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 2 Oct 2026 |
+| Venue | The Caves |
+| City | Edinburgh |
+
+## Line-up
+
+- Frazi.er
+- fumi (DE)
+- LAUZ
+
+*Source: [soundcheck](https://soundcheck.club/e/2537035-cancelled-nightvision-presents-fumi-frazi-er-edinburgh-at-th/)*

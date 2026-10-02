@@ -1,8 +1,8 @@
 # Sweeney
 
-Sweeney is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 3 Oct 2026.
+Sweeney is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 3 Oct 2026.
 
-Sweeney is a house and garage artist based in United Kingdom, with 48 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: Cabaret Voltaire, Edinburgh on Sat 3 Oct.
+Sweeney is a house and garage artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: Cabaret Voltaire, Edinburgh on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sweeney is a house and garage artist based in United Kingdom, with 48 gigs on so
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
+| Sat, 26 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 

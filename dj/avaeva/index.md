@@ -10,7 +10,7 @@ Ava Eva is a house and electro artist based in Belgium, with 57 gigs on soundche
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | UMI | Brussels |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 
 ## Recently played
 

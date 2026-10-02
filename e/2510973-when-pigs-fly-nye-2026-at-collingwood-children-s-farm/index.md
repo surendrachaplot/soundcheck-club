@@ -1,6 +1,6 @@
 # When Pigs Fly NYE 2026 at Collingwood Children's Farm
 
-When Pigs Fly NYE 2026 at Collingwood Children's Farm on Thu 31 Dec, Melbourne. 14 artists: AceMo, Cuerpo Negro, DJ Matab and DJ PGZ and 10 more. See the line-up on soundcheck.
+When Pigs Fly NYE 2026 at Collingwood Children's Farm on Thu 31 Dec, Melbourne. 14 artists: AceMo, Cuerpo Negro, DJ Matab and DJ PGZ and 10 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

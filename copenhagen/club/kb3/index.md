@@ -8,7 +8,7 @@ KB3 is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALATIUS & KALINKA | Adrian Salcedo, DRABER666, Harrison Heat, S3PPA, Sebastian Wibe |
+| Fri, 16 Oct 2026 | Phat 909: S3PPA, SkA, Adrian S., Harrison Heat, DRABER666 & Sebastian Wibe, GALATIUS & KALINKA | Adrian Salcedo, DRABER666, GALATIUS, Harrison Heat, S3PPA, Sebastian Wibe |
 | Sat, 24 Oct 2026 | TB10: Touching Bass meets All We Need with Alex Rita, Dee Brown & Errol | Alex Rita, Dee Brown, Errol |
 
 ## Address

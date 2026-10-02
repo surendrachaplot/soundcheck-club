@@ -1,6 +1,6 @@
 # ▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St
 
-▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St on Sat 3 Oct, Vancouver. 12 artists: Azmada, DjVlady, Eddie Santini and Edgar Cal and 8 more. Drum & Bass and Techno. See the line-up on soundcheck.
+▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St on Sat 3 Oct, Vancouver. 9 artists: Azmada, Eddie Santini, Edgar Cal and Ellara and 5 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@
 ## Line-up
 
 - Azmada
-- DjVlady
 - Eddie Santini
 - Edgar Cal
 - Ellara
@@ -19,8 +18,6 @@
 - Hemka
 - Henry C
 - MiiiW
-- Noble
 - POPU
-- VLAD (Terra Firma)
 
 *Source: [soundcheck](https://soundcheck.club/e/2525536-the-maze-v2-at-1201-franklin-st/)*

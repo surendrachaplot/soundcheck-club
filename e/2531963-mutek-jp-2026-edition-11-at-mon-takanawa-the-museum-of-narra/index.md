@@ -1,6 +1,6 @@
 # MUTEK.JP 2026 Edition 11 at MoN Takanawa: The Museum of Narratives
 
-MUTEK.JP 2026 Edition 11 at MoN Takanawa: The Museum of Narratives on Fri 20 Nov, Tokyo. 9 artists: Canblaster, Daito Manabe, Grand River and Hania Rani and 5 more. Experimental and IDM. See the line-up on soundcheck.
+MUTEK.JP 2026 Edition 11 at MoN Takanawa: The Museum of Narratives on Fri 20 Nov, Tokyo. 11 artists: Ali Demirel, Canblaster, Daito Manabe and Grand River and 7 more. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,13 @@ MUTEK.JP 2026 Edition 11 at MoN Takanawa: The Museum of Narratives on Fri 20 Nov
 
 ## Line-up
 
+- Ali Demirel
 - Canblaster
 - Daito Manabe
 - Grand River
 - Hania Rani
 - Max Cooper
+- Plastikman
 - Robert Lippok
 - Ryoichi Kurokawa
 - Sonority

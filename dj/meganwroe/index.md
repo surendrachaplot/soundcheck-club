@@ -1,13 +1,14 @@
 # Megan Wroe
 
-Megan Wroe is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 11 Dec 2026.
+Megan Wroe is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
-Megan Wroe is a garage and house artist based in United Kingdom, with 42 gigs on soundcheck across Aberdeen, Amsterdam, Birmingham and Brighton and 10 more. Often billed alongside Silva Bumpa, DAISY and Prozak (IRL). Next up: Piccadilly Central, Manchester on Fri 11 Dec.
+Megan Wroe is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Amsterdam, Birmingham and Brighton and 10 more. Often billed alongside Silva Bumpa, DAISY and Prozak (IRL). Next up: Yes, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Yes | Manchester |
 | Fri, 11 Dec 2026 | Piccadilly Central | Manchester |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Atsushi Izumi
 
-Atsushi Izumi is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chika-Ikkai, Osaka on Thu, 22 Oct 2026.
+Atsushi Izumi is a Experimental and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chika-Ikkai, Osaka on Thu, 22 Oct 2026.
 
-Atsushi Izumi is an industrial and techno artist based in Japan, with 10 gigs on soundcheck across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside Goth-Trad, AI.U and Aspara. Next up: Chika-Ikkai, Osaka on Thu 22 Oct.
+Atsushi Izumi is an experimental and industrial artist based in Japan, with 11 gigs on soundcheck across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside C-KAY, Goth-Trad and AI.U. Next up: Chika-Ikkai, Osaka on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Chika-Ikkai | Osaka |
+| Sat, 28 Nov 2026 | KGR(n) | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Atsushi Izumi is an industrial and techno artist based in Japan, with 10 gigs on
 
 ## Shares bills with
 
-Goth-Trad, AI.U, Aspara
+C-KAY, Goth-Trad, AI.U
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiizumi/)*

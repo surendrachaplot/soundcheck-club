@@ -1,11 +1,11 @@
-# Deviate with Downwell, The Spy Live, Ester b2b 2+2=5, GR at TBA
+# Deviate with Downwell, The Spy Live, Ester b2b 2+2=5, GR at TBA - Brussels
 
-Deviate with Downwell, The Spy Live, Ester b2b 2+2=5, GR at TBA on Fri 9 Oct, Brussels. 4 artists: 2+2=5, Downwell, False Identity and The Spy. See the line-up on soundcheck.
+Deviate with Downwell, The Spy Live, Ester b2b 2+2=5, GR at TBA - Brussels on Fri 9 Oct, Brussels. 4 artists: 2+2=5, Downwell, False Identity and The Spy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 9 Oct 2026 |
-| Venue | TBA |
+| Venue | TBA - Brussels |
 | City | Brussels |
 
 ## Line-up

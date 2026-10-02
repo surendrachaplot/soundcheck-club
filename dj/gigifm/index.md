@@ -1,14 +1,13 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tender, Melbourne on Fri, 2 Oct 2026.
+GiGi FM is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Tender, Melbourne on Fri 2 Oct.
+GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Tender | Melbourne |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | Ancient World | Adelaide |
@@ -20,6 +19,7 @@ GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaid
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
 ## Recently played
 

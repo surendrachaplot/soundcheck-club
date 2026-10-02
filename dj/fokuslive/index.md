@@ -1,8 +1,8 @@
 # FOKUS (Live)
 
-FOKUS (Live) is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Fri, 16 Oct 2026.
+FOKUS (Live) is a Techno and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Fri, 16 Oct 2026.
 
-FOKUS (Live) is a drum & bass and techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Budapest, London and Rotterdam. Often billed alongside Bildgewalt, BSLS and Khyodo. Next up: Planet Wax, London on Fri 16 Oct.
+FOKUS (Live) is a techno and drum & bass artist based in Germany, with 16 gigs on soundcheck across Berlin, Budapest, London and Rotterdam. Often billed alongside Bildgewalt, BSLS and Khyodo. Next up: Planet Wax, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FOKUS (Live) is a drum & bass and techno artist based in Germany, with 15 gigs o
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Planet Wax | London |
 | Fri, 23 Oct 2026 | Onyx (E1) | London |
+| Fri, 6 Nov 2026 | TBA - Secret Location | Berlin |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played

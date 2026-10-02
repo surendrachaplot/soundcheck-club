@@ -1,6 +1,6 @@
 # NEW YEAR'S EVE 2026/27 – ROOFTOP OVER BERLIN at Weekend
 
-NEW YEAR'S EVE 2026/27 – ROOFTOP OVER BERLIN at Weekend on Thu 31 Dec, Berlin. 2 artists: Alex Gallus and Dennis Beutler. See the line-up on soundcheck.
+NEW YEAR'S EVE 2026/27 – ROOFTOP OVER BERLIN at Weekend on Thu 31 Dec, Berlin. 2 artists: Alex Gallus and Dennis Beutler. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

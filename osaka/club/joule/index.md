@@ -9,7 +9,7 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Yonaguni Fiesta |  |
-| Fri, 9 Oct 2026 | GOODLIFE feat. Nakadia | Astro aka Akihisa Takahashi, NOBUYA (2), Nakadia, O-MAN |
+| Fri, 9 Oct 2026 | GOODLIFE feat. Nakadia | Astro aka Akihisa Takahashi, NOBUYA (2), Nakadia, O-MAN, RICHKID |
 | Sat, 10 Oct 2026 | NEBULA × OTO × BLACK NOIR | EMILIO (3), I-SO, O-MAN, STRATAH |
 | Sat, 7 Nov 2026 | Marcellus Pittman Japan Tour | Marcellus Pittman |
 

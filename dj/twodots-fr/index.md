@@ -1,8 +1,8 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Two Dots (FR) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
-Two Dots (FR) is a techno and trance artist based in France, with 12 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Bambounou, Florian Picasso and Yasmin Regisford. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
+Two Dots (FR) is a techno and trance artist based in France, with 13 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Amo (IT), Bambounou and DJ ANGEL (fr). Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Two Dots (FR) is a techno and trance artist based in France, with 12 gigs on sou
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Fri, 23 Oct 2026 | Rokin 75 / The Amsterdam View | Amsterdam |
 | Sat, 14 Nov 2026 | KALT | Strasbourg |
+| Sat, 19 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Two Dots (FR) is a techno and trance artist based in France, with 12 gigs on sou
 
 ## Shares bills with
 
-Bambounou, Florian Picasso, Yasmin Regisford
+Amo (IT), Bambounou, DJ ANGEL (fr)
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

@@ -10,7 +10,7 @@ Phanta is an electronica and ambient artist based in Mexico, with 93 gigs on sou
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Madrid 15, Colonia Tabacalera, CDMX | Mexico City |
 | Sat, 3 Oct 2026 | CHICO | Mexico City |
-| Sun, 4 Oct 2026 | TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento | Mexico City |
+| Sun, 4 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 

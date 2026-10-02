@@ -1,14 +1,13 @@
 # Moli (3)
 
-Moli (3) is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KGR(n), Tokyo on Fri, 2 Oct 2026.
+Moli (3) is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chitei 地底, Tokyo on Sat, 10 Oct 2026.
 
-Moli is an experimental and techno artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside karanaki, C-KAY and Takashi Mori. Next up: KGR(n), Tokyo on Fri 2 Oct.
+Moli is an experimental and techno artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside karanaki, C-KAY and Takashi Mori. Next up: Chitei 地底, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | KGR(n) | Tokyo |
 | Sat, 10 Oct 2026 | Chitei 地底 | Tokyo |
 | Mon, 12 Oct 2026 | KGR(n) | Tokyo |
 

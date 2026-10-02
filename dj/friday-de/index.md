@@ -1,8 +1,8 @@
 # FridaY (DE)
 
-FridaY (DE) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+FridaY (DE) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
-FridaY (DE) is a techno and bass artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Void Club, Berlin on Sat 3 Oct.
+FridaY (DE) is a techno and bass artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 10 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Void Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FridaY (DE) is a techno and bass artist based in Germany, with 44 gigs on soundc
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Void Club | Berlin |
 | Sun, 4 Oct 2026 | Zemin Art Gallery | Berlin |
+| Fri, 20 Nov 2026 | Vinoy Park | Florida |
 
 ## Recently played
 

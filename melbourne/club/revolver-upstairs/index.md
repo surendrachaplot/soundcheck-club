@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 22 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fosters & Friends x Revolver Fridays" on Fri, 2 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 24 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fosters & Friends x Revolver Fridays" on Fri, 2 Oct 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 22 upcoming gigs, with line-ups including 1NN3R53LF, 2 Factor Authentication, ADMINISTRATOR and Alex Wann and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 24 upcoming gigs, with line-ups including 1NN3R53LF, 2 Factor Authentication, ADMINISTRATOR and Alex Wann and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 22 upcomin
 | Sun, 4 Oct 2026 | Kaufmann (DE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, KELLY TEE, Kaufmann, Spacey Space |
 | Fri, 9 Oct 2026 | REVOLVER BANDROOM: TRACK WALK 3 | DJ Kilo |
 | Fri, 9 Oct 2026 | MRR pres. BENSON b2b LO'99 | 1NN3R53LF |
+| Fri, 9 Oct 2026 | Revolver Fridays | DJ Sarah, Mike Callander |
 | Sat, 10 Oct 2026 | REVOLVER BANDROOM: RESURRECT — Answer To Sickness LP Release |  |
-| Sat, 10 Oct 2026 | Bubble UKG Takeover — The Late Show | Cherokee (AU), Colette, Lewis Cancut, Tuff Trax |
 
 ## Address
 

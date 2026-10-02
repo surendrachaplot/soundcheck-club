@@ -18,7 +18,7 @@ Sam Alfred is a house and techno artist based in Egypt, with 148 gigs on soundch
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Fri, 13 Nov 2026 | fabric | London |
 
 ## Recently played

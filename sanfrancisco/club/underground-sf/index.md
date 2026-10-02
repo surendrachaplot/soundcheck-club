@@ -14,7 +14,7 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Hydroplane, Xanopticon, Øbsrvr (PDX) |
 | Fri, 16 Oct 2026 | RM 303: Ghost in the Host | CHRI5PY, Jehnee, messiuhhh |
 | Sat, 17 Oct 2026 | Feral Tendencies presents: MystyMoon | DJBstone, MystyMoon |
-| Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Oso Feo (2), Spiñorita, Three6sashia |
+| Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Oso Feo, Spiñorita, Three6sashia |
 | Sat, 24 Oct 2026 | As You Like It Unedited: Jenö b2b Markie All Night Long | Jeno, Markie |
 | Fri, 30 Oct 2026 | 𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺𝑺 𝑯𝑨𝑳𝑳𝑶𝑾𝑬𝑬𝑵 | ALICE STRIBLING |
 | Fri, 6 Nov 2026 | Party for No Reason |  |

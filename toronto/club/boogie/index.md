@@ -10,7 +10,7 @@ Boogie is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with l
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Sunday Casual w. Leo Love, Marcelo Cruz , Ray Ray |  |
 | Fri, 9 Oct 2026 | Beat Therapy VS. Giddy Up | Dan Medland |
-| Sat, 31 Oct 2026 | All Black PussyCat | Ron Allen |
+| Sat, 31 Oct 2026 | All Black PussyCat Ft. DJ Dirty Dale + Ron Allen | Ron Allen |
 
 ## Address
 

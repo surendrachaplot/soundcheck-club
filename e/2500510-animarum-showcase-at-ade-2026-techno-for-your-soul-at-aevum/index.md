@@ -1,6 +1,6 @@
 # Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam
 
-Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. 3 artists: Alena Noctis, SAMDMA and The Enveloper. Trance and Techno. See the line-up on soundcheck.
+Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. 5 artists: Alena Noctis, Patrik Pagan, Relinquo and SAMDMA and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Animarum Showcase at ADE 2026 - Techno for Your Soul at Aevum x 50:Hertz House &
 ## Line-up
 
 - Alena Noctis
+- Patrik Pagan
+- Relinquo
 - SAMDMA
 - The Enveloper
 

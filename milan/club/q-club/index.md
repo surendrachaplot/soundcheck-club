@@ -8,7 +8,7 @@ Q Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Spiritual Sauna with umru, Proc Fiskal | JOA (IT), Proc Fiskal, Virginia W, umru |
+| Fri, 2 Oct 2026 | Spiritual Sauna with umru, Proc Fiskal | JOA (IT), Proc Fiskal, umru |
 | Fri, 16 Oct 2026 | RÀTAVA - dkr X Q club with Schacke | Galilea, Lady Goccia, Schacke |
 
 ## Address

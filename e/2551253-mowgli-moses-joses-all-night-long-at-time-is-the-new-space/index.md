@@ -1,6 +1,6 @@
 # Mowgli & Moses Joses – ALL NIGHT LONG at Time is the new space
 
-Mowgli & Moses Joses – ALL NIGHT LONG at Time is the new space on Fri 16 Oct, Rotterdam. 2 artists: Moses Joses and Mowgli. See the line-up on soundcheck.
+Mowgli & Moses Joses – ALL NIGHT LONG at Time is the new space on Fri 16 Oct, Rotterdam. 2 artists: Moses Joses and Mowgli (NL). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Mowgli & Moses Joses – ALL NIGHT LONG at Time is the new space on Fri 16 Oct, 
 ## Line-up
 
 - Moses Joses
-- Mowgli
+- Mowgli (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2551253-mowgli-moses-joses-all-night-long-at-time-is-the-new-space/)*

@@ -1,6 +1,6 @@
 # Muffatwerk
 
-Muffatwerk is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "MASCHINENLIEBE (Live) - DIGITALANALOG" on Sun, 11 Oct 2026.
+Muffatwerk is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "MASCHINENLIEBE (Live) - DIGITALANALOG" on Sat, 10 Oct 2026.
 
 Muffatwerk is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Zellstr 4; 81667 Munich; Germany.
 
@@ -8,7 +8,7 @@ Muffatwerk is a music venue in Munich listed on soundcheck. 1 upcoming gig. See 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | MASCHINENLIEBE (Live) - DIGITALANALOG |  |
+| Sat, 10 Oct 2026 | MASCHINENLIEBE (Live) - DIGITALANALOG |  |
 
 ## Address
 

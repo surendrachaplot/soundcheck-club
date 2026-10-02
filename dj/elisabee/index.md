@@ -1,14 +1,16 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
+Elisa Bee is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Deposito Pontecorvo, Florence on Fri, 2 Oct 2026.
 
-Elisa Bee is a techno and house artist based in Italy, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 12 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
+Elisa Bee is a techno and tech house artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 14 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: Deposito Pontecorvo, Florence on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Deposito Pontecorvo | Florence |
 | Sat, 10 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sun, 18 Oct 2026 | Campidarte Sardegna | Central |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
 | Sat, 14 Nov 2026 | Tempio del Futuro Perduto | Milan |

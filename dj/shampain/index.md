@@ -2,7 +2,7 @@
 
 Shampain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Róisín Dubh, Galway on Sat, 17 Oct 2026.
 
-Shampain is a techno and house artist, with 84 gigs on soundcheck across Basel, Belfast, Berlin and Brisbane and 20 more. Often billed alongside Miley Serious, DJ BORING and X CLUB.. Next up: Róisín Dubh, Galway on Sat 17 Oct.
+Shampain is a techno and house artist based in Ireland, with 84 gigs on soundcheck across Basel, Belfast, Berlin and Brisbane and 20 more. Often billed alongside Miley Serious, DJ BORING and X CLUB.. Next up: Róisín Dubh, Galway on Sat 17 Oct.
 
 ## Upcoming shows
 

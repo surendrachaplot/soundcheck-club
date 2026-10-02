@@ -1,8 +1,8 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CLUB CABARET x Les InterG" on Fri, 9 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CLUB CABARET x Les InterG" on Fri, 9 Oct 2026.
 
-Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, Autechre, Bella Claxton and BonÏpso and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
+Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 12 upcoming gigs, with line-ups including 1luu, Angel Karel, Autechre and Bella Claxton and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 11 upcom
 | Sat, 7 Nov 2026 | 07/11 - LB aka LABAT curated tour with Bella Claxton & YENKOV | Bella Claxton, LB aka LABAT, YENKOV |
 | Sat, 14 Nov 2026 | Vitess To Grand V 𝘈𝘭𝘭 𝘓𝘪𝘷𝘦 𝘓𝘰𝘯𝘨 au Cabaret Aléatoire | Grand V, Vitess |
 | Fri, 20 Nov 2026 | Club Cabaret: Agoya Invite Mark Reeve | BonÏpso, Brookesia, Fab Massimo, Mark Reeve |
-| Fri, 4 Dec 2026 | Dakeez - Marseille |  |
+| Sat, 21 Nov 2026 | ORIGINS INVITE BSLS | Angel Karel, BSLS |
 
 ## Address
 

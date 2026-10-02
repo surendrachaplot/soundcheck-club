@@ -14,7 +14,7 @@ Ned Bennett is a techno and house artist based in Australia, with 67 gigs on sou
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 

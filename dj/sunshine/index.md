@@ -1,14 +1,15 @@
 # Sunshine
 
-Sunshine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
+Sunshine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
 
-Sunshine is a house and techno artist based in Australia, with 173 gigs on soundcheck across Boston, Melbourne and Sydney. Often billed alongside Agent 86, Cara Murphy and Mike Callander. Next up: Revolver Upstairs, Melbourne on Sat 3 Oct.
+Sunshine is a house and techno artist based in Australia, with 174 gigs on soundcheck across Boston, Melbourne and Sydney. Often billed alongside Agent 86, Cara Murphy and Mike Callander. Next up: Revolver Upstairs, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Revolver Upstairs | Melbourne |
+| Sat, 10 Oct 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Leefia
 
-Leefia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 4 Oct 2026.
+Leefia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 4 Oct 2026.
 
-Leefia is a techno and house artist based in Japan, with 61 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Kengo Yuasa and Mamazu. Next up: Aoyama Hachi, Tokyo on Sun 4 Oct.
+Leefia is a techno and house artist based in Japan, with 62 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Kengo Yuasa and Mamazu. Next up: Aoyama Hachi, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Aoyama Hachi | Tokyo |
+| Sat, 24 Oct 2026 | WALL & WALL | Tokyo |
 
 ## Recently played
 

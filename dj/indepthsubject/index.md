@@ -1,13 +1,14 @@
 # In Depth Subject
 
-In Depth Subject is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Toronto on Sat, 10 Oct 2026.
+In Depth Subject is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Wych, Toronto on Thu, 8 Oct 2026.
 
-In Depth Subject is a garage and bass artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside Nihility, NiUNiU and Sulk Hogan. Next up: TBA - Secret Location, Toronto on Sat 10 Oct.
+In Depth Subject is a garage and bass artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside Nihility, NiUNiU and Kara Kara. Next up: The Wych, Toronto on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | The Wych | Toronto |
 | Sat, 10 Oct 2026 | TBA - Secret Location | Toronto |
 | Fri, 30 Oct 2026 | TBA - Secret Church, Little Portugal | Toronto |
 
@@ -24,6 +25,6 @@ In Depth Subject is a garage and bass artist based in Canada, with 21 gigs on so
 
 ## Shares bills with
 
-Nihility, NiUNiU, Sulk Hogan (2)
+Nihility, NiUNiU, Kara Kara
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indepthsubject/)*

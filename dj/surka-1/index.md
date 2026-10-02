@@ -1,8 +1,8 @@
 # Surka (1)
 
-Surka (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bernard Shaw, Dublin on Fri, 16 Oct 2026.
+Surka (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bernard Shaw, Dublin on Fri, 16 Oct 2026.
 
-Surka is a house and techno artist based in Ireland, with 70 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Collie, Accomplice and Boots & Kats. Next up: The Bernard Shaw, Dublin on Fri 16 Oct.
+Surka is a house and techno artist based in Ireland, with 71 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 2 more. Often billed alongside Collie, Accomplice and Boots & Kats. Next up: The Bernard Shaw, Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Surka is a house and techno artist based in Ireland, with 70 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | The Bernard Shaw | Dublin |
 | Sat, 17 Oct 2026 | block. | Dublin |
+| Sat, 31 Oct 2026 | Burtown House | Ireland |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
+Tonno Disko is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
 
-Tonno Disko is a house and disco artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 14 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Biblioteca di Parco Sempione, Milan on Sun 4 Oct.
+Tonno Disko is a house and disco artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 14 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Biblioteca di Parco Sempione, Milan on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tonno Disko is a house and disco artist based in Netherlands, with 100 gigs on s
 | Sun, 4 Oct 2026 | Biblioteca di Parco Sempione | Milan |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
+| Sat, 31 Oct 2026 | Brixton Jamm | London |
 | Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 

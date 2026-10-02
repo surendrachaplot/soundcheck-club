@@ -1,8 +1,8 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Fattony is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
-Fattony is a house and tech house artist based in Germany, with 32 gigs on soundcheck across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Natasha Diggs and The Shapeshifters. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Fattony is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Eats Everything and Melvo Baptiste. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fattony is a house and tech house artist based in Germany, with 32 gigs on sound
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
+| Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Fattony is a house and tech house artist based in Germany, with 32 gigs on sound
 
 ## Shares bills with
 
-Horse Meat Disco, Natasha Diggs, The Shapeshifters
+Horse Meat Disco, Eats Everything, Melvo Baptiste
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

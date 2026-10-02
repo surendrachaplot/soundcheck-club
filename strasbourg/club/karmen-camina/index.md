@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CONCERT: ZIDANE (live), LA GRÈLE (live)" on Fri, 2 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CONCERT: ZIDANE (live), LA GRÈLE (live)" on Fri, 2 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 17 upcoming gigs, with line-ups including 1client, Alpha Sect, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 18 upcoming gigs, with line-ups including 1client, Alpha Sect, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 

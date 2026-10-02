@@ -1,8 +1,8 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
-Camo & Krooked are a drum & bass and jungle duo based in Austria, with 79 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
+Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 79 gigs o
 | Fri, 30 Oct 2026 | Ministry Of Sound | London |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
+| Thu, 31 Dec 2026 | Sawmills | Bristol |
 
 ## Recently played
 

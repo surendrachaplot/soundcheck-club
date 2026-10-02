@@ -11,7 +11,7 @@ Palms Trax is a house and techno artist based in Germany, with 201 gigs on sound
 | Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Fri, 23 Oct 2026 | Doka | Amsterdam |
 | Sat, 7 Nov 2026 | Basic Club | Naples |
-| Wed, 11 Nov 2026 | TBA | Ghent |
+| Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Sat, 28 Nov 2026 | fabric | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 

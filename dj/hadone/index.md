@@ -1,13 +1,14 @@
 # Hadone
 
-Hadone is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Warehouse, Paris on Sat, 31 Oct 2026.
+Hadone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ARC Seoul, South-korea on Fri, 2 Oct 2026.
 
-Hadone is a techno and house artist based in France, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: TBA - Secret Warehouse, Paris on Sat 31 Oct.
+Hadone is a techno and house artist based in France, with 172 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: ARC Seoul, South Korea on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | ARC Seoul | South-korea |
 | Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
 

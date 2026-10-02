@@ -9,7 +9,7 @@ Mejia is a house and minimal artist based in Mexico, with 133 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Fünk | Mexico City |
-| Sun, 4 Oct 2026 | TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento | Mexico City |
+| Sun, 4 Oct 2026 | TBA | Mexico City |
 | Thu, 8 Oct 2026 | Fünk | Mexico City |
 
 ## Recently played

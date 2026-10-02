@@ -1,14 +1,15 @@
 # Or:la
 
-Or:la is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Quarry, Liverpool on Sat, 17 Oct 2026.
+Or:la is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Quarry, Liverpool on Sat, 17 Oct 2026.
 
-Or:la is a house and techno artist based in Ireland, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Quarry, Liverpool on Sat 17 Oct.
+Or:la is a house and techno artist based in Ireland, with 128 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Quarry, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Quarry | Liverpool |
+| Sat, 31 Oct 2026 | Burtown House | Ireland |
 | Sat, 31 Oct 2026 | block. | Dublin |
 | Sat, 7 Nov 2026 | Palais | London |
 | Fri, 18 Dec 2026 | Soup | Manchester |

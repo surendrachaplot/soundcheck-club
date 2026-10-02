@@ -1,14 +1,15 @@
 # IDLIBRA
 
-IDLIBRA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+IDLIBRA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
-IDLIBRA is a house and techno artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Geneva and Leipzig and 7 more. Often billed alongside Alírio, Cashu and Kontronatura. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
+IDLIBRA is a house and techno artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Berlin, Geneva and Leipzig and 7 more. Often billed alongside Alírio, Cashu and KBRAL. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
+| Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ IDLIBRA is a house and techno artist based in Brazil, with 42 gigs on soundcheck
 
 ## Shares bills with
 
-Alírio, Cashu, Kontronatura
+Alírio, Cashu, KBRAL
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idlibra/)*

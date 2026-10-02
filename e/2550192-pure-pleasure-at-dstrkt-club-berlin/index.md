@@ -1,6 +1,6 @@
 # PURE PLEASURE at DSTRKT Club Berlin
 
-PURE PLEASURE at DSTRKT Club Berlin on Fri 27 Nov, Berlin. 5 artists: DBBD, HARD CANDY (GER), LOVEFOXY and Only Fire and 1 more. House and Tech House. See the line-up on soundcheck.
+PURE PLEASURE at DSTRKT Club Berlin on Fri 27 Nov, Berlin. 6 artists: DBBD, HARD CANDY (GER), INEXXSTABLE and LOVEFOXY and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ PURE PLEASURE at DSTRKT Club Berlin on Fri 27 Nov, Berlin. 5 artists: DBBD, HARD
 
 - DBBD
 - HARD CANDY (GER)
+- INEXXSTABLE
 - LOVEFOXY
 - Only Fire
 - Shanti Celeste

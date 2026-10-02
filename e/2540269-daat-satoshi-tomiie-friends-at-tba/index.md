@@ -1,6 +1,6 @@
 # DAAT - Satoshi Tomiie & Friends at TBA
 
-DAAT - Satoshi Tomiie & Friends at TBA on Sun 4 Oct, Mexico City. 7 artists on the bill: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+DAAT - Satoshi Tomiie & Friends at TBA on Sun 4 Oct, Mexico City. 7 artists: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

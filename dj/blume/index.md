@@ -1,14 +1,15 @@
 # BLUME
 
-BLUME is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 9 Oct 2026.
+BLUME is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 9 Oct 2026.
 
-BLUME is a techno and ambient artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 5 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: RSO.BERLIN, Berlin on Fri 9 Oct.
+BLUME is a techno and ambient artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 6 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: RSO.BERLIN, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 12 Dec 2026 | Sky Club | Leipzig |
 
 ## Recently played
 

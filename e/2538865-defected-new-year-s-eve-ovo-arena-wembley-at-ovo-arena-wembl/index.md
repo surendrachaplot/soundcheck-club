@@ -1,6 +1,6 @@
 # Defected New Year's Eve - OVO Arena Wembley at OVO Arena Wembley
 
-Defected New Year's Eve - OVO Arena Wembley on Thu 31 Dec, London. 4 artists: Basement Jaxx, Dennis Ferrer, Lowsteppa and Sam Divine. See the line-up on soundcheck.
+Defected New Year's Eve - OVO Arena Wembley on Thu 31 Dec, London. 4 artists: Basement Jaxx, Dennis Ferrer, Lowsteppa and Sam Divine. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

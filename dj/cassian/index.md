@@ -1,14 +1,16 @@
 # Cassian
 
-Cassian is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Cassian is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Cassian is a techno and house artist based in Australia, with 132 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: Factory Town, Miami on Fri 30 Oct.
+Cassian is a techno and house artist based in Australia, with 134 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 31 Oct 2026 | Sydney Portugal Community Club | Sydney |
+| Sat, 7 Nov 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played

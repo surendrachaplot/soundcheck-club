@@ -11,7 +11,7 @@ Flux Aeterna: Spiñorita at Underground SF on Fri 23 Oct, San Francisco/Oakland.
 ## Line-up
 
 - Digital KitKat
-- Oso Feo (2)
+- Oso Feo
 - Spiñorita
 - Three6sashia
 

@@ -1,13 +1,14 @@
 # E3
 
-E3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
+E3 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ARC Seoul, South-korea on Fri, 2 Oct 2026.
 
-E3 is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Bangkok, Portland and Seoul. Often billed alongside Joon Kwak, KONA and Kim.Qna. Next up: The Opera, Seoul on Fri 9 Oct.
+E3 is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Bangkok, Portland, Seoul and South Korea. Often billed alongside Joon Kwak, KONA and Kim.Qna. Next up: ARC Seoul, South Korea on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | ARC Seoul | South-korea |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
 | Fri, 30 Oct 2026 | Volnost | Seoul |
 

@@ -2,7 +2,7 @@
 
 Bigstate is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paname sur Seine, Paris on Sun, 4 Oct 2026.
 
-Bigstate is a tech house and minimal artist, with 12 gigs on soundcheck across Malta and Paris. Often billed alongside Catsinka, DJ Nasty Deluxe and DJ SIN. Next up: Paname sur Seine, Paris on Sun 4 Oct.
+Bigstate is a tech house and minimal artist based in France, with 12 gigs on soundcheck across Malta and Paris. Often billed alongside Catsinka, DJ Nasty Deluxe and DJ SIN. Next up: Paname sur Seine, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 

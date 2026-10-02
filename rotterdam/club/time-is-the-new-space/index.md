@@ -16,7 +16,7 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 11 upc
 | Fri, 9 Oct 2026 | TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] | Helmond Lang, Rick Baguette |
 | Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
 | Thu, 15 Oct 2026 | HIGHSCORE |  |
-| Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli |
+| Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli (NL) |
 | Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
 
 ## Address

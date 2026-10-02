@@ -1,13 +1,14 @@
 # Upgrade Music
 
-Upgrade Music is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Upgrade Music is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lakota, Bristol on Fri, 16 Oct 2026.
 
-Upgrade Music is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Antwerp, Bristol, Copenhagen and Geneva and 3 more. Often billed alongside Sub Zero, Eksman and Anaïs. Next up: Sawmills, Bristol on Thu 31 Dec.
+Upgrade Music is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Antwerp, Bristol, Copenhagen and Geneva and 3 more. Often billed alongside Eksman, Sub Zero and Anaïs. Next up: Lakota, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Lakota | Bristol |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
 
 ## Recently played
@@ -23,6 +24,6 @@ Upgrade Music is a drum & bass and jungle artist based in United Kingdom, with 1
 
 ## Shares bills with
 
-Sub Zero, Eksman, Anaïs
+Eksman, Sub Zero, Anaïs
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upgrademusic/)*

@@ -1,6 +1,6 @@
 # Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE at Culture Box
 
-Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE at Culture Box on Fri 9 Oct, Copenhagen. 2 artists: Aio and Safe Spacers. Techno and House. See the line-up on soundcheck.
+Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE at Culture Box on Fri 9 Oct, Copenhagen. 3 artists: Aio, GALATIUS and Safe Spacers. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Unravel: Aio / NAYZ / Safe Spacers / GALATIUS / B. GOODE at Culture Box on Fri 9
 ## Line-up
 
 - Aio
+- GALATIUS
 - Safe Spacers
 
 *Source: [soundcheck](https://soundcheck.club/e/2519664-unravel-aio-nayz-safe-spacers-galatius-b-goode-at-culture-bo/)*
