@@ -1,6 +1,6 @@
-# ✦ encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI
+# ✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI
 
-✦ encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 6 Oct, Berlin. 4 artists: Aero, Inverse Element, TONI BA and VINVAR. Techno. See the line-up on soundcheck.
+✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 6 Oct, Berlin. 4 artists: Aero, Inverse Element, TONI BA and VINVAR. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

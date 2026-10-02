@@ -15,7 +15,7 @@ Giri is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with lin
 | Wed, 14 Oct 2026 | Pastards | Bass, DJ Jones |
 | Thu, 15 Oct 2026 | Giri x Halal Club |  |
 | Fri, 16 Oct 2026 | Giri x Cruel Machine |  |
-| Wed, 21 Oct 2026 | Giri x Currents |  |
+| Wed, 21 Oct 2026 | Giri x Currents | Memeshift |
 | Thu, 22 Oct 2026 | Giri x Kontralamakina Records |  |
 | Fri, 23 Oct 2026 | Giri x RAWA Club |  |
 

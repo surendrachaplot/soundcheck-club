@@ -51,11 +51,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="soundcheck" />
-  <link rel="stylesheet" href="/app.59af1e53276e.css">
+  <link rel="stylesheet" href="/app.1f79a2b3c513.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790952316870">
+<meta name="sc-build" content="1790956368580">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Berlin&s=Gigs%20%26%20artist%20sets" />
   <link rel="canonical" href="https://soundcheck.club/berlin/" />
 </head>
@@ -74,7 +74,7 @@
         <button class="nl" id="nav-listen" data-nav="listen" type="button">Listen</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events, promoters and people"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="fp-ab" id="hdr-log" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><span>Log a gig</span></button>
+      <button class="fp-ab" id="hdr-log" data-ic="plus" type="button" style="display:none"><span>Log a gig</span></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -100,21 +100,21 @@
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> and tap the link to sign in.</div></div>
       <div class="b-actions">
-        <button id="signup-banner-resend" type="button">Resend</button>
-        <button id="signup-banner-dismiss" type="button">Dismiss</button>
+        <button id="signup-banner-resend" data-ic="mail" type="button">Resend</button>
+        <button id="signup-banner-dismiss" data-ic="x" type="button">Dismiss</button>
       </div>
     </div>
     <div class="shared-banner" id="shared-banner">
       <div><div class="b-h" id="shared-h">Shared with you</div><div class="b-t b-list" id="shared-t"></div></div>
       <div class="b-actions">
-        <button class="primary" id="shared-see-more" type="button">See more</button>
-        <button id="shared-dismiss" type="button">Dismiss</button>
+        <button class="primary" id="shared-see-more" data-ic="list" type="button">See more</button>
+        <button id="shared-dismiss" data-ic="x" type="button">Dismiss</button>
       </div>
     </div>
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="berlin"><h2>What&rsquo;s on in Berlin this week</h2><ul class="home-seo-dates"><li><a href="/berlin/2026-10-02/">Fri 2 Oct <span class="c">74 events</span></a></li><li><a href="/berlin/2026-10-03/">Sat 3 Oct <span class="c">81 events</span></a></li><li><a href="/berlin/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/berlin/2026-10-05/">Mon 5 Oct <span class="c">9 events</span></a></li><li><a href="/berlin/2026-10-06/">Tue 6 Oct <span class="c">17 events</span></a></li><li><a href="/berlin/2026-10-07/">Wed 7 Oct <span class="c">20 events</span></a></li><li><a href="/berlin/2026-10-08/">Thu 8 Oct <span class="c">31 events</span></a></li></ul><h2>Clubs and venues in Berlin</h2><ul class="home-seo-venues"><li><a href="/berlin/club/minimal-bar/">Minimal Bar<span class="c">86 gigs</span></a></li><li><a href="/berlin/club/lokschuppen-berlin/">Lokschuppen Berlin<span class="c">69 gigs</span></a></li><li><a href="/berlin/club/gretchen/">Gretchen<span class="c">45 gigs</span></a></li><li><a href="/berlin/club/paloma/">Paloma<span class="c">35 gigs</span></a></li><li><a href="/berlin/club/tresor-globus/">Tresor / Globus<span class="c">31 gigs</span></a></li><li><a href="/berlin/club/about-blank/">://about blank<span class="c">30 gigs</span></a></li><li><a href="/berlin/club/ritter-butzke/">Ritter Butzke<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/oxi/">OXI<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/kitkatclub/">KitKatClub<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/ost/">OST<span class="c">26 gigs</span></a></li><li><a href="/berlin/club/der-wei-e-hase/">Der Weiße Hase<span class="c">26 gigs</span></a></li><li><a href="/berlin/club/ohm/">OHM<span class="c">23 gigs</span></a></li><li><a href="/berlin/club/insomnia/">Insomnia<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/beate-uwe/">Beate Uwe<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/sensorium/">Sensorium<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/humboldthain-club/">Humboldthain Club<span class="c">21 gigs</span></a></li><li><a href="/berlin/club/crack-bellmer/">Crack Bellmer<span class="c">20 gigs</span></a></li><li><a href="/berlin/club/urban-spree/">Urban Spree<span class="c">20 gigs</span></a></li><li><a href="/berlin/club/silent-green/">Silent Green<span class="c">20 gigs</span></a></li><li><a href="/berlin/club/den/">ÆDEN<span class="c">19 gigs</span></a></li><li><a href="/berlin/club/rso-berlin/">RSO.BERLIN<span class="c">18 gigs</span></a></li><li><a href="/berlin/club/kater/">Kater<span class="c">17 gigs</span></a></li><li><a href="/berlin/club/berghain-panorama-bar-s-ule/">Berghain | Panorama Bar | Säule<span class="c">17 gigs</span></a></li><li><a href="/berlin/club/giri/">Giri<span class="c">16 gigs</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/berlin/promoters/">Berlin promoters</a> <a href="/berlin/this-weekend/">This weekend in Berlin</a> <a href="/berlin/scene/">Berlin scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="berlin"><h2>What&rsquo;s on in Berlin this week</h2><ul class="home-seo-dates"><li><a href="/berlin/2026-10-02/">Fri 2 Oct <span class="c">75 events</span></a></li><li><a href="/berlin/2026-10-03/">Sat 3 Oct <span class="c">82 events</span></a></li><li><a href="/berlin/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/berlin/2026-10-05/">Mon 5 Oct <span class="c">9 events</span></a></li><li><a href="/berlin/2026-10-06/">Tue 6 Oct <span class="c">17 events</span></a></li><li><a href="/berlin/2026-10-07/">Wed 7 Oct <span class="c">20 events</span></a></li><li><a href="/berlin/2026-10-08/">Thu 8 Oct <span class="c">31 events</span></a></li></ul><h2>Clubs and venues in Berlin</h2><ul class="home-seo-venues"><li><a href="/berlin/club/minimal-bar/">Minimal Bar<span class="c">86 gigs</span></a></li><li><a href="/berlin/club/lokschuppen-berlin/">Lokschuppen Berlin<span class="c">69 gigs</span></a></li><li><a href="/berlin/club/gretchen/">Gretchen<span class="c">45 gigs</span></a></li><li><a href="/berlin/club/paloma/">Paloma<span class="c">35 gigs</span></a></li><li><a href="/berlin/club/tresor-globus/">Tresor / Globus<span class="c">31 gigs</span></a></li><li><a href="/berlin/club/about-blank/">://about blank<span class="c">30 gigs</span></a></li><li><a href="/berlin/club/ritter-butzke/">Ritter Butzke<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/kitkatclub/">KitKatClub<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/oxi/">OXI<span class="c">28 gigs</span></a></li><li><a href="/berlin/club/ost/">OST<span class="c">26 gigs</span></a></li><li><a href="/berlin/club/der-wei-e-hase/">Der Weiße Hase<span class="c">26 gigs</span></a></li><li><a href="/berlin/club/ohm/">OHM<span class="c">23 gigs</span></a></li><li><a href="/berlin/club/sensorium/">Sensorium<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/insomnia/">Insomnia<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/beate-uwe/">Beate Uwe<span class="c">22 gigs</span></a></li><li><a href="/berlin/club/humboldthain-club/">Humboldthain Club<span class="c">21 gigs</span></a></li><li><a href="/berlin/club/crack-bellmer/">Crack Bellmer<span class="c">21 gigs</span></a></li><li><a href="/berlin/club/urban-spree/">Urban Spree<span class="c">20 gigs</span></a></li><li><a href="/berlin/club/silent-green/">Silent Green<span class="c">20 gigs</span></a></li><li><a href="/berlin/club/den/">ÆDEN<span class="c">19 gigs</span></a></li><li><a href="/berlin/club/rso-berlin/">RSO.BERLIN<span class="c">18 gigs</span></a></li><li><a href="/berlin/club/kater/">Kater<span class="c">17 gigs</span></a></li><li><a href="/berlin/club/berghain-panorama-bar-s-ule/">Berghain | Panorama Bar | Säule<span class="c">17 gigs</span></a></li><li><a href="/berlin/club/dunckerclub/">Dunckerclub<span class="c">16 gigs</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/berlin/promoters/">Berlin promoters</a> <a href="/berlin/this-weekend/">This weekend in Berlin</a> <a href="/berlin/scene/">Berlin scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -187,7 +187,7 @@
         <p>No password, we&rsquo;ll email you a magic link.</p>
         <form id="auth-form">
           <input type="email" id="auth-email" placeholder="you@email.com" autocomplete="email" inputmode="email" required>
-          <button class="go" type="submit" id="auth-go">Send me a link.</button>
+          <button class="go" type="submit" id="auth-go" data-ic="mail">Send me a link.</button>
           <div class="err" id="auth-err"></div>
         </form>
       </div>
@@ -196,7 +196,7 @@
         <h3>Check your inbox.</h3>
         <p>We sent a link to <b id="auth-sent-to"></b>. Tap the link or type the 6-character code from the email:</p>
         <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
-        <button class="go" type="button" id="auth-code-go">Sign in with code</button>
+        <button class="go" type="button" id="auth-code-go" data-ic="signin">Sign in with code</button>
         <div class="err" id="auth-code-err"></div>
         <button type="button" id="auth-sent-done" style="background:none;border:none;color:var(--muted);font:600 var(--fs-sm)/var(--lh-sm) var(--body);margin-top:12px;cursor:pointer;">Done</button>
       </div>
@@ -233,7 +233,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.59af1e53276e.js" defer></script>
+  <script src="/app.1f79a2b3c513.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

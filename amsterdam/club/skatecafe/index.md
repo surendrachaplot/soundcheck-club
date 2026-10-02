@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HET VELD: THE SECOND TRANSMISSION" on Fri, 2 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HET VELD: THE SECOND TRANSMISSION" on Fri, 2 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 

@@ -1,14 +1,13 @@
 # With Ess
 
-With Ess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
+With Ess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
-With Ess is a house and techno artist based in Australia, with 13 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: QQQ ST. Park, Melbourne on Fri 2 Oct.
+With Ess is a house and techno artist based in Australia, with 13 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | QQQ ST. Park | Melbourne |
 | Sun, 25 Oct 2026 | Runner Up Rooftop Bar | Melbourne |
 
 ## Recently played

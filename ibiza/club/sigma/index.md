@@ -9,7 +9,7 @@ Sigma is a music venue in Ibiza listed on soundcheck. 15 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Sigma presents: Berlin + Ibiza together Closing Season |  |
-| Fri, 2 Oct 2026 | Sigma Ibiza: Lucas vazz, Fefe Klotz, Cris Kai, IG Aguirre, P.A.N.C.H.I.T.O | Cris Kai, Lucas Vazz, P.A.N.C.H.I.T.O |
+| Fri, 2 Oct 2026 | BERLIN + IBIZA at Sigma Ibiza: Lucas vazz, Fefe Klotz, Cris Kai, IG Aguirre, P.A.N.C.H.I.T.O | Cris Kai, Lucas Vazz, P.A.N.C.H.I.T.O |
 | Sat, 3 Oct 2026 | DO IT FOR IBIZA |  |
 | Mon, 5 Oct 2026 | HYDRA |  |
 | Tue, 6 Oct 2026 | INDEEP |  |

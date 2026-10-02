@@ -1,13 +1,14 @@
 # Confred
 
-Confred is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Confred is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
 
-Confred is a techno artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Pajüh, Marius Holm and Rabauke. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
+Confred is a techno and house artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside Pajüh, Marius Holm and Rabauke. Next up: Klunkerkranich, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Klunkerkranich | Berlin |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # TBA - Venus Club
 
-TBA - Venus Club is a music venue in Tallinn with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CANDY SHOP" on Fri, 2 Oct 2026.
+TBA - Venus Club is a music venue in Tallinn with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CANDY SHOP" on Fri, 2 Oct 2026.
 
-TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing.
+TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
@@ -14,5 +14,6 @@ TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 6 upcoming gi
 | Fri, 9 Oct 2026 | ELAMUS SPA ESITLEB: VENUS REWIND |  |
 | Sat, 10 Oct 2026 | BIRTHDAY CLUB |  |
 | Sat, 17 Oct 2026 | TOUR DE VENUS |  |
+| Thu, 31 Dec 2026 | SPECIAL EVENT: SKY PLUS AFTERPARTY! - NEW YEARS EVE |  |
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/tba-venus-club/)*

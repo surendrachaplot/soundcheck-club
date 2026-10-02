@@ -1,14 +1,15 @@
 # Aleqs Notal
 
-Aleqs Notal is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
+Aleqs Notal is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
 
-Aleqs Notal is a house and electro artist based in France, with 36 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside Man Called Dylan, Damar Davis and Figurative Records. Next up: Nouveau Casino, Paris on Fri 2 Oct.
+Aleqs Notal is a house and techno artist based in France, with 37 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside Man Called Dylan, Damar Davis and Figurative Records. Next up: Nouveau Casino, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Nouveau Casino | Paris |
+| Sun, 8 Nov 2026 | essaim | Paris |
 
 ## Recently played
 

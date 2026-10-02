@@ -11,7 +11,7 @@ Dear Darling is a music venue in London listed on soundcheck. 4 upcoming gigs, w
 | Fri, 2 Oct 2026 | TOKRA — HOUSE EDITION | Christoph Cham, Dimanté, VITTAO |
 | Fri, 2 Oct 2026 | TOKRA - HOUSE EDITION | Christoph Cham, Dimanté, VITTAO |
 | Sat, 3 Oct 2026 | LA LUNA x Dear Darling Mayfair | Abrahamsson, Arian Saravi |
-| Thu, 8 Oct 2026 | ICONIC |  |
+| Thu, 8 Oct 2026 | ICONIC: Dear Darling, Mayfair |  |
 
 ## Address
 

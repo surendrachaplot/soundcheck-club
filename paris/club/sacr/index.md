@@ -14,7 +14,7 @@ Sacré is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with li
 | Sat, 10 Oct 2026 | Sacré présente: Tommy Villiers & Romeo Luisa | Tommy Villiers |
 | Fri, 16 Oct 2026 | Sacré présente: Régalade 3 Years Birthday | Bubs, Davera, GOME, Longneck, Magnolia |
 | Sat, 17 Oct 2026 | Sacré présente: Moi Je Live + Ixpé + Annabella |  |
-| Fri, 23 Oct 2026 | Sacré présente: Ludmila Di Pasquale | Ludmila Di Pasquale |
+| Fri, 23 Oct 2026 | Sacré présente: Ludmila Di Pasquale & Secret Guest | Ludmila Di Pasquale |
 | Sat, 24 Oct 2026 | Sacré présente: Pastel & Axelle Maga | Axelle Maga |
 | Fri, 30 Oct 2026 | Sacré présente: Butch & Family Matters | Butch, Family Matters |
 | Sat, 31 Oct 2026 | Halloween Costume Party: Baccus All Night Long | Baccus |

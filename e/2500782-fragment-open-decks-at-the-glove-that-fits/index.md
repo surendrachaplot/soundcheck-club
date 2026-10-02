@@ -1,6 +1,6 @@
 # Fragment: Open Decks at The Glove That Fits
 
-Fragment: Open Decks at The Glove That Fits on Thu 8 Oct, London. 4 artists: Amor Ante, ENFY, Lau.tastic and YOYO (UK). Techno. See the line-up on soundcheck.
+Fragment: Open Decks at The Glove That Fits on Thu 8 Oct, London. 3 artists: Amor Ante, Lau.tastic and YOYO (UK). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Fragment: Open Decks at The Glove That Fits on Thu 8 Oct, London. 4 artists: Amo
 ## Line-up
 
 - Amor Ante
-- ENFY
 - Lau.tastic
 - YOYO (UK)
 

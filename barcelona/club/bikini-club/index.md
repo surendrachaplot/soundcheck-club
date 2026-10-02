@@ -2,15 +2,15 @@
 
 Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NOM & RED presents HotLap & Budakid" on Sat, 3 Oct 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Althoff, Anja Schneider, Budakid and Chicks Luv Us and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Althoff, Anja Schneider, Babo and Budakid and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NOM & RED presents HotLap & Budakid | Budakid, HotLap, Syntonos, Volmaan |
-| Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Chicks Luv Us |
-| Sat, 10 Oct 2026 | RED SESSIONS PRESENTS Ezequiel Arias | Ezequiel Arias |
+| Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Babo, Chicks Luv Us, Mganz |
+| Sat, 10 Oct 2026 | RED SESSIONS presents Ezequiel Arias | Ezequiel Arias |
 | Fri, 16 Oct 2026 | Tunnel presents. Anja Schneider | Anja Schneider |
 | Sat, 17 Oct 2026 | NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) | Althoff, WHO ELSE, Zagitar |
 | Fri, 23 Oct 2026 | Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero | Dani Corberó, Melanie Ribbe, Ssero, Tomi & Kesh |

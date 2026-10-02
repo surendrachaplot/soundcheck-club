@@ -13,7 +13,7 @@ Weekend is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with 
 | Sat, 10 Oct 2026 | NOIRE - TAKE ME HIGHER | A.M.R, Us Two |
 | Fri, 16 Oct 2026 | WKND X OFFLINE | DJ PayPaul, Tiefschwarz, Tube & Berger |
 | Fri, 23 Oct 2026 | WKND X USHA BERLIN | Denno Matini, Kodah, MUKKIMIAU, Omaro |
-| Fri, 30 Oct 2026 | WKND X STUCK IN SPACE - PRE HALLOWEEN |  |
+| Fri, 30 Oct 2026 | WKND X STUCK IN SPACE - PRE HALLOWEEN | MIKA G, p44olo |
 | Fri, 6 Nov 2026 | WKND X DON'T TELL ANYONE | BOHO |
 | Fri, 13 Nov 2026 | WKND X OPERATOR | Dennis Beutler |
 | Fri, 20 Nov 2026 | WKND X THE MICHELINS | Misha Svirid, Phonique |

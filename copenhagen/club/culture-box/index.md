@@ -15,7 +15,7 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gig
 | Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda / ALX | Chich, Kallax, Rexxx M |
 | Sat, 17 Oct 2026 | What Happens / Perceptions: Kevin Di Serna / Tim Andresen / Albano Bastonero / Luca Abayan / B | Albano Bastonero, Kevin Di Serna, Tim Andresen |
 | Fri, 23 Oct 2026 | Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis | Anders HP, Bow Miller, Max Finney, Qwenty, Roussakis, Xinobi |
-| Sat, 24 Oct 2026 | Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu | Azzecca, B From E, Fynutzu, Rares Gherman, styx |
+| Sat, 24 Oct 2026 | Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu | Azzecca, B From E, Fynutzu, NAT (SK), Rares Gherman, styx |
 | Fri, 30 Oct 2026 | NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb | Bestrawa, FA999, GALATIUS, KAMIKAZEM, Thiim, Ziggy Stardubb |
 | Sat, 31 Oct 2026 | Culture Box Halloween 2026 | Bongo & Pusk, Denize, MiniMalene (2), Rasmus Lützen, Rexie Lex, Tim Andresen |
 

@@ -1,8 +1,8 @@
 # Taberia
 
-Taberia is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+Taberia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
-Taberia is a techno and tech house artist based in Germany, with 21 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Naicet, Daniel Neuland and Sika Akis. Next up: Lieberscholli, Munich on Sat 10 Oct.
+Taberia is a techno and tech house artist based in Germany, with 22 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Naicet, Daniel Neuland and Elias Goldmund. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Taberia is a techno and tech house artist based in Germany, with 21 gigs on soun
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Lieberscholli | Munich |
 | Fri, 16 Oct 2026 | elipamanoke | Leipzig |
+| Fri, 20 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Taberia is a techno and tech house artist based in Germany, with 21 gigs on soun
 
 ## Shares bills with
 
-Naicet, Daniel Neuland, Sika Akis
+Naicet, Daniel Neuland, Elias Goldmund
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taberia/)*

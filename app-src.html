@@ -3108,6 +3108,10 @@
 .dst-title{font:800 20px/22px var(--head);letter-spacing:-.015em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .dst-venue{font:500 12px/16px var(--body);opacity:.72;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .dst-arts{margin-top:4px;font:700 13px/17px var(--body);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* the note a person wrote on the gig (rule 9, restored 2 Oct 2026): ink body text under the artists, above the steps; 3 lines on the stub, whole in the full stub */
+.dst-note{margin-top:2px;font:400 13px/18px var(--body);white-space:pre-line;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.dst-full .dst-note{display:block;-webkit-line-clamp:unset;overflow:visible}
+.dst-full-note{margin:12px 0 0;font:400 13px/18px var(--body);color:var(--fg);white-space:pre-line;overflow-wrap:anywhere}
 .dst-steps{display:flex;flex-direction:column;gap:3px;padding-top:8px}
 .dst-bars{display:block;width:180px;height:24px}
 .dst-fig{font:600 11px/14px var(--body)}
@@ -3500,6 +3504,8 @@ a.dst-full-t:hover{text-decoration:underline}
        breakpoint — so the two were a copy waiting to drift apart. On the app
        they DID drift: three heights, three fades, three baselines. Merged here
        so the same thing cannot happen on this surface. */
+    /* FROM 760 WIDE THIS IS OVERRIDDEN: see "WEB HERO ≥760 — THE PICTURE WHOLE" at the end
+       of the sheet (2 Oct 2026). What follows is the hero below 760 (mobile web). */
     /* ENTITY HERO — FULL BLEED (HARD RULE; Paper 15LW web 1440 + mobile 402).
        Artist, venue and promoter: the artwork fills the hero edge to edge, the
        ONE scrim (the apps' HeroScrim ramp) rides over it, and the kick line +
@@ -5043,11 +5049,121 @@ a.dst-full-t:hover{text-decoration:underline}
       .skm-h{ padding:6px 20px 14px; margin:0; }
       .skm .am-i{ height:52px; gap:14px; padding:0 20px; border-radius:0; font:600 16px/20px var(--body); }
     }
+
+    /* ═══ BUTTON ICONS (founder 2 Oct 2026; Paper DS p-S-0 "24 · Button icons") ═══
+       Every PILL BUTTON is an icon + a label; one icon per action, the same on
+       web and in the apps. Text links, tabs, chips and plain rows get none;
+       icon-only round buttons keep their own.
+       HOW: the pill carries data-ic="<name>" and the icon is drawn by ::before as
+       an SVG mask in the label's colour (the way the ON check was already drawn).
+       So a label that JS rewrites ("Saving…", Follow → Following) keeps its icon,
+       and an ON pill (.on / .going / .following) still shows the check instead.
+       18 in an L pill (48), 16 in an M pill (36), 8 from the label. 24 grid,
+       stroke 1.9, round ends; Play is the one filled shape.
+       The map (label → icon) is in DESIGN-RULES.md "Button icons". "x" is not on
+       the board: it is the close cross the product already drew. */
+    :where([data-ic]:not([hidden])){ display:inline-flex; align-items:center; justify-content:center; }
+    [data-ic]{ gap:8px !important; }
+    [data-ic]::before{ content:""; flex:none; width:18px; height:18px; background:currentColor;
+      -webkit-mask:var(--ic) center/contain no-repeat; mask:var(--ic) center/contain no-repeat; }
+    .fp-ab.sm[data-ic]::before, #hdr-log[data-ic]::before, .lg-pill[data-ic]::before, .ppl-f[data-ic]::before, .gh-log[data-ic]::before,
+    .vrv-edit[data-ic]::before, .up-jump[data-ic]::before, .cal-foot button[data-ic]::before, .b-actions button[data-ic]::before,
+    .pb-rot-btn[data-ic]::before, .pb-prob-btn[data-ic]::before, .account [data-ic]::before, .nb-share[data-ic]::before, .nb-add[data-ic]::before{ width:16px; height:16px; }
+    [data-ic="play"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5v14l11-7z' fill='%23000'/%3E%3C/svg%3E"); }
+    [data-ic="heart"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 20.4s-7.4-4.5-7.4-10A4.2 4.2 0 0 1 12 7.7a4.2 4.2 0 0 1 7.4 2.7c0 5.5-7.4 10-7.4 10z' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="check"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="plus"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 5v14M5 12h14' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="share"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 15V4M8 8l4-4 4 4M6 12v7h12v-7' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="invite"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12.4 8a3.4 3.4 0 1 1-6.8 0 3.4 3.4 0 0 1 6.8 0zM3 20c.7-3.4 3-5 6-5s5.3 1.6 6 5M18.5 8v6M15.5 11h6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="directions"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 20v-8a3 3 0 0 1 3-3h11M15 5l4 4-4 4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="list"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 7h11M4 12h11M4 17h7M18 14v6M15 17h6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="ticket"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4zM14 7v2M14 11v2M14 15v2' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="edit"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 20h4L19 9l-4-4L4 16v4zM13 7l4 4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="trash"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 7h14M10 7V5h4v2M7 7l1 12h8l1-12' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="signin"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M10 16l4-4-4-4M14 12H4M14 4h5v16h-5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="signout"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M15 16l4-4-4-4M19 12H9M10 4H5v16h5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="mail"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 6h16v12H4zM4 7l8 6 8-6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="pin"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 21s-6.5-5.6-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.4 12 21 12 21zM12 12.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4z' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="calendar"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 6h14v14H5zM5 10h14M9 4v4M15 4v4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="link"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="retry"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M19 12a7 7 0 1 1-2.2-5.1M19 4v4h-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="save"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 4h10a1 1 0 0 1 1 1v15l-6-4-6 4V5a1 1 0 0 1 1-1z' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="steps"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 13h4l2-6 4 12 2-6h6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="camera"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 8h3l2-3h6l2 3h3v11H4zM12 16.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6z' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="claim"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 3l2.3 1.7 2.9-.1.9 2.7 2.3 1.7-1 2.7 1 2.7-2.3 1.7-.9 2.7-2.9-.1L12 21l-2.3-1.7-2.9.1-.9-2.7-2.3-1.7 1-2.7-1-2.7 2.3-1.7.9-2.7 2.9.1zM9 12l2 2 4-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="flag"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 21V4h11l-2 4 2 4H6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="person"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M15.6 8a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0zM5 20c.8-3.6 3.6-5.4 7-5.4s6.2 1.8 7 5.4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="x"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 6l12 12M18 6 6 18' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+
+    /* ═══ WEB HERO ≥760 — THE PICTURE WHOLE (founder 2 Oct 2026; Paper NEXT 23O1
+       "Web hero: the picture whole, not full bleed") ═══
+       Artist, gig, venue and promoter. Posters and artist photos are mostly
+       portrait, and the full-bleed band cut most of the picture away. From 760
+       up the picture sits at the left in its OWN shape (320 wide, 320 to 480
+       tall, --har = its width / height, set by heroHar / heroImgLoad) and the
+       words start at its top: warm line, name, sub line, pills, hairline, details.
+       Below 760 and in the apps the hero is still full bleed: nothing here applies.
+       .h7w = only from 760 up · .h7n = only below 760 (same DOM, two layouts).
+       LAST in the sheet on purpose: flat namespace, later wins. */
+    .h7w{ display:none !important; }
+    @media(min-width:641px) and (max-width:759.98px){ .fp-hero > .fp-hx > .fp-hdna{ margin-left:0; margin-right:0; } }
+    @media(min-width:760px){
+      .h7n{ display:none !important; }
+      .h7w{ display:block !important; }
+      .fp-pb.h7w, .fp-ab.h7w{ display:inline-flex !important; }
+      .fp-hero, .fp-event .fp-ev-hero{ display:flex; align-items:flex-start; gap:48px; overflow:visible; }
+      .fp-hero > .fp-photo, .fp-ev-hero > .fp-ev-pcol{ flex:0 0 320px; width:320px; height:auto; min-height:0; aspect-ratio:var(--har,1); border:0; border-radius:var(--r-3); overflow:hidden; }
+      /* no picture: no empty box, the words take the full width */
+      .fp-hero > .fp-photo:not(:has(img)), .fp-ev-hero > .fp-ev-pcol:not(:has(img, [style*="background-image"])){ display:none; }
+      .fp-hero > .fp-photo::after, .fp-ev-top::before{ content:none; }   /* no scrim: nothing sits on the picture */
+      .fp-ev-poster img{ object-position:50% 50%; }
+      .fp-hero > .fp-hx, .fp-ev-hero > .fp-ev-main{ display:flex; flex-direction:column; align-items:flex-start; gap:14px; flex:1 1 0; min-width:0; padding:4px 0 0; }
+      .fp-hero .fp-htop, .fp-ev-hero .fp-ev-top{ display:contents; }
+      .fp-hero > .fp-hx > *, .fp-hero .fp-htop > *, .fp-ev-hero > .fp-ev-main > *, .fp-ev-hero .fp-ev-top > *{ margin:0; max-width:100%; }
+      .fp-hero > .fp-hx > :not(.fp-htop), .fp-ev-hero > .fp-ev-main > :not(.fp-ev-top){ margin:0; order:3; }
+      /* (1) the warm line: where and when next (gig page: date, time, venue). A link to that gig. */
+      .fp-kick.fp-hk{ font:700 var(--fs-xs)/16px var(--font-mono); letter-spacing:.1em; text-transform:uppercase; color:var(--accent); }
+      a.fp-kick.fp-hk{ color:var(--accent); }
+      a.fp-kick.fp-hk:hover{ text-decoration:underline; text-underline-offset:3px; }
+      /* (2) the name */
+      .fp-hero .fp-namerow{ gap:6px 14px; }
+      .fp-ev-hero .fp-ev-title{ font-size:clamp(40px,5vw,56px); line-height:1.04; letter-spacing:-0.02em; max-width:none; text-shadow:none; }
+      /* the round share control stays in the corner: the name keeps clear of it */
+      .fp-artist > .fp-ev-share-ic{ top:0; right:0; }
+      .fp-artist:has(> .fp-ev-share-ic) .fp-namerow{ padding-right:56px; }
+      /* (3) one sub line */
+      .fp-hsub{ font:500 var(--fs-md)/24px var(--body); color:var(--muted); }
+      .fp-hsub a{ color:var(--muted); text-decoration:none; }
+      .fp-hsub a:hover{ color:var(--fg); text-decoration:underline; text-underline-offset:3px; }
+      /* (4) the pills */
+      .fp-hero .fp-acts, .fp-ev-hero .fp-ev-playbar{ padding-top:10px; }
+      .fp-hero > .fp-hx > .fp-acts{ order:1; }
+      /* (5) a hairline, then the details the page already had */
+      .fp-hhr{ order:2 !important; align-self:stretch; height:0; border:0; border-top:1px solid var(--border); margin:14px 0 4px !important; max-width:680px !important; }
+      .fp-hrows{ display:flex !important; flex-direction:column; gap:10px; align-self:stretch; max-width:680px !important; }
+      .fp-ev-hero > .fp-ev-main > .fp-hrows{ order:2; }
+      .fp-hrow{ display:flex; align-items:baseline; gap:16px; font:500 var(--fs-base)/22px var(--body); color:var(--fg); }
+      .fp-hrk{ flex:0 0 72px; font:700 var(--fs-2xs)/18px var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+      .fp-hrows.wide .fp-hrk{ flex-basis:88px; }
+      .fp-hrk.warm{ color:var(--accent); }
+      .fp-hrow a{ font-weight:700; color:var(--muted); text-decoration:none; }
+      .fp-hrow a:hover{ color:var(--fg); text-decoration:underline; text-underline-offset:3px; }
+      .fp-hero .fp-bio-wrap, .fp-hero > .fp-hx > .fp-bio, .fp-ev-hero .fp-ev-blurb{ max-width:680px; }
+      .fp-ev-hero .fp-ev-gline{ margin:0; }
+      /* venue facts (the Venue DNA rows) move up beside the picture: same rows, no box, no heading */
+      .fp-hero .fp-hdna{ align-self:stretch; max-width:680px; }
+      .fp-hero .fp-hdna:empty{ display:none; }
+      .fp-hero .fp-hdna .sec-h{ display:none; }
+      .fp-hero .fp-hdna .vd-box{ margin:0; padding:0; background:none; border:0; border-radius:0; display:flex; flex-direction:column; gap:10px; }
+      .fp-hero .fp-hdna .vd-tags{ margin:0 0 4px; }
+      .fp-hero .fp-hdna .vd-row{ padding:0; border:0; gap:16px; font:500 var(--fs-base)/22px var(--body); color:var(--fg); }
+      .fp-hero .fp-hdna .vd-k{ flex:0 0 72px; font:700 var(--fs-2xs)/18px var(--font-mono); letter-spacing:.08em; color:var(--muted); }
+    }
 </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790952316870">
+<meta name="sc-build" content="1790956368580">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5066,7 +5182,7 @@ a.dst-full-t:hover{text-decoration:underline}
         <button class="nl" id="nav-listen" data-nav="listen" type="button">Listen</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events, promoters and people"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="fp-ab" id="hdr-log" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><span>Log a gig</span></button>
+      <button class="fp-ab" id="hdr-log" data-ic="plus" type="button" style="display:none"><span>Log a gig</span></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -5092,21 +5208,21 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> and tap the link to sign in.</div></div>
       <div class="b-actions">
-        <button id="signup-banner-resend" type="button">Resend</button>
-        <button id="signup-banner-dismiss" type="button">Dismiss</button>
+        <button id="signup-banner-resend" data-ic="mail" type="button">Resend</button>
+        <button id="signup-banner-dismiss" data-ic="x" type="button">Dismiss</button>
       </div>
     </div>
     <div class="shared-banner" id="shared-banner">
       <div><div class="b-h" id="shared-h">Shared with you</div><div class="b-t b-list" id="shared-t"></div></div>
       <div class="b-actions">
-        <button class="primary" id="shared-see-more" type="button">See more</button>
-        <button id="shared-dismiss" type="button">Dismiss</button>
+        <button class="primary" id="shared-see-more" data-ic="list" type="button">See more</button>
+        <button id="shared-dismiss" data-ic="x" type="button">Dismiss</button>
       </div>
     </div>
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">131 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">107 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">133 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5179,7 +5295,7 @@ a.dst-full-t:hover{text-decoration:underline}
         <p>No password, we&rsquo;ll email you a magic link.</p>
         <form id="auth-form">
           <input type="email" id="auth-email" placeholder="you@email.com" autocomplete="email" inputmode="email" required>
-          <button class="go" type="submit" id="auth-go">Send me a link.</button>
+          <button class="go" type="submit" id="auth-go" data-ic="mail">Send me a link.</button>
           <div class="err" id="auth-err"></div>
         </form>
       </div>
@@ -5188,7 +5304,7 @@ a.dst-full-t:hover{text-decoration:underline}
         <h3>Check your inbox.</h3>
         <p>We sent a link to <b id="auth-sent-to"></b>. Tap the link or type the 6-character code from the email:</p>
         <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
-        <button class="go" type="button" id="auth-code-go">Sign in with code</button>
+        <button class="go" type="button" id="auth-code-go" data-ic="signin">Sign in with code</button>
         <div class="err" id="auth-code-err"></div>
         <button type="button" id="auth-sent-done" style="background:none;border:none;color:var(--muted);font:600 var(--fs-sm)/var(--lh-sm) var(--body);margin-top:12px;cursor:pointer;">Done</button>
       </div>
@@ -5251,7 +5367,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
     // but one number is easier to keep honest than two.
     var CITIES_V = '3';   // 2026-09-13: Helsinki added
-    var YT_SETS_V = '10';   // 2026-09-28: v9 edge-cached the OLD popular pick; v10 busts it (popular itself is read from /api/artist). 2026-09-27: set-ownership verdict purge (1fe8818). 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
+    var YT_SETS_V = '11';   // 2026-10-02: SoundCloud lists now refresh; Cloudflare held yesterday's list for /api/soundcloud/sets, v11 busts the edge copy for every artist. 2026-09-28: v9 edge-cached the OLD popular pick; v10 busts it (popular itself is read from /api/artist). 2026-09-27: set-ownership verdict purge (1fe8818). 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -5396,13 +5512,36 @@ a.dst-full-t:hover{text-decoration:underline}
     };
     // Full-bleed hero art: ask the proxy for the hero's real pixel width (it
     // never enlarges, so naturalWidth tells us what the source can give).
-    function heroImgW(){ return Math.min(1600, Math.round(Math.min(1100, window.innerWidth||1100)*(window.devicePixelRatio||1))); }
+    // From 760 up the picture is a 320 box at the left (web hero), so 640 covers it at 2x.
+    function heroImgW(){ var w=window.innerWidth||1100; return w>=760 ? Math.max(640, Math.round(320*(window.devicePixelRatio||1))) : Math.min(1600, Math.round(w*(window.devicePixelRatio||1))); }
+    // WEB HERO from 760 up: the picture box takes the picture's OWN shape.
+    // --har = width / height, held between 2:3 (480 tall) and 1:1 (320 tall).
+    function heroHarOf(w,h){ return (w>0&&h>0) ? Math.min(1, Math.max(2/3, w/h)).toFixed(3) : ''; }
+    // The shape is known BEFORE the first paint when the picture answers inside
+    // 350 ms (it is then in the cache for the <img>), so the page does not jump.
+    // ponytail: a cap, not a promise. A slower picture sets its shape on load
+    // (heroImgLoad); if that shows, send the picture's size from the API.
+    function heroHar(url){
+      return new Promise(function(res){
+        if(!url || (window.innerWidth||0)<760) return res('');
+        var im=new Image(), done=function(){ res(heroHarOf(im.naturalWidth, im.naturalHeight)); };
+        im.onload=done; im.onerror=done; setTimeout(done,350); im.src=url;
+      });
+    }
+    function heroHarAttr(har){ return har?' style="--har:'+har+'"':''; }
+    // One details row beside the picture: small-caps label, then the value (HTML, already escaped).
+    function heroRow(k, vHtml, warm){ return vHtml?'<div class="fp-hrow"><span class="fp-hrk'+(warm?' warm':'')+'">'+esc(k)+'</span><span>'+vHtml+'</span></div>':''; }
+    // "Next · Sat 17 Oct · Helena Hauff, Skee Mask + 3": two names, then a count.
+    function heroNames(names){ return names.slice(0,2).map(esc).join(', ')+(names.length>2?' + '+(names.length-2):''); }
     // A source much smaller than the full-bleed hero would be stretched into a
     // blur. Below 75% of the hero's CSS width it takes the photo-less treatment
     // instead (genHero, same as a missing image). Re-runs heroImgFail's args
     // from the inline onerror so both paths name the same seed.
     window.heroImgLoad = function(img){
-      if(!img || !img.naturalWidth || img.naturalWidth >= img.clientWidth*0.75) return;
+      if(!img || !img.naturalWidth) return;
+      var box=img.closest('.fp-photo, .fp-ev-pcol'), har=heroHarOf(img.naturalWidth, img.naturalHeight);
+      if(box && har) box.style.setProperty('--har', har);
+      if(img.naturalWidth >= img.clientWidth*0.75) return;
       var m=(img.getAttribute('onerror')||'').match(/heroImgFail\(this,'(.*?)','(.*?)'\)/);
       heroImgFail(img, m?m[1]:'', m?m[2]:'');
     };
@@ -5506,7 +5645,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
           '<h3>'+gHead+'</h3>'+
           '<p>'+gBody+'</p>'+
-          '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit">Send my link</button></form>'+
+          '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit" data-ic="mail">Send my link</button></form>'+
           '<p class="email-err" aria-live="polite"></p></div>';
         document.body.appendChild(ov);
         var input=ov.querySelector('input'), submit=ov.querySelector('button[type=submit]'),
@@ -5541,7 +5680,7 @@ a.dst-full-t:hover{text-decoration:underline}
           m.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button>'+
             '<h3>Check your <span class="ac">email</span>.</h3>'+
             '<p>We sent a link and a 6-character code to <b></b>. Tap the link or type the code here.</p>'+
-            '<form class="email-form"><input type="text" maxlength="8" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" placeholder="Code" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;" /><button type="submit">Sign me in</button></form>'+
+            '<form class="email-form"><input type="text" maxlength="8" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" placeholder="Code" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;" /><button type="submit" data-ic="signin">Sign me in</button></form>'+
             '<p class="email-err" aria-live="polite"></p>'+
             '<button type="button" class="email-later">Keep listening</button>';
           m.querySelector('b').textContent=email;   // textContent, never innerHTML — this is user input
@@ -5571,7 +5710,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<input type="email" name="email" placeholder="Your email" required autocomplete="email">'+
           '<select name="role" required><option value="" disabled selected>I&rsquo;m a&hellip;</option><option>Promoter</option><option>Artist</option><option>Venue</option></select>'+
           '<textarea name="message" rows="4" placeholder="Tell us about your event" required></textarea>'+
-          '<button type="submit">Submit</button>'+
+          '<button type="submit" data-ic="check">Submit</button>'+
         '</form>'+
         '<p class="se-note">Submit this and we&rsquo;ll get in touch to list your event.</p>'+
         '<p class="email-err" aria-live="polite"></p></div>';
@@ -5630,9 +5769,10 @@ a.dst-full-t:hover{text-decoration:underline}
     function setDockPad(){ document.body.classList.toggle('dock-collapsed', !dock.classList.contains('expanded')); }
 
     function showToast(text){ toastEl.classList.remove('act','lsn','err'); toastEl.onclick=null; toastEl.textContent=text; toastEl.classList.add('show'); clearTimeout(toastEl._t); toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },2800); }
+    // ponytail: the action pill's icon is "retry" (the circular arrow) because "Undo" is the only label sent here. A new label needs its own icon.
     function showToastAction(text, label, fn){
       toastEl.classList.remove('lsn','err'); toastEl.onclick=null;
-      toastEl.innerHTML='<span>'+esc(text)+'</span><button type="button" class="fp-ab sm toast-act">'+esc(label)+'</button>';
+      toastEl.innerHTML='<span>'+esc(text)+'</span><button type="button" class="fp-ab sm toast-act" data-ic="retry">'+esc(label)+'</button>';
       toastEl.classList.add('show','act'); clearTimeout(toastEl._t);
       var b=toastEl.querySelector('.toast-act'); if(b) b.addEventListener('click',function(){ toastEl.classList.remove('show','act'); fn(); });
       toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },5200);
@@ -6367,11 +6507,11 @@ a.dst-full-t:hover{text-decoration:underline}
       if(!bc || !bc.url){
         return '<div class="mu-empty">'+BC_GLYPH+'<h3>We don’t know '+esc(name)+'’s Bandcamp page yet.</h3>'+
           '<p>Search Bandcamp for their name. Check it is really them before you buy.</p>'+
-          (searchUrl?'<a class="fp-ab" href="'+esc(searchUrl)+'" target="_blank" rel="noopener">Search Bandcamp'+OUT_SVG+'</a>':'')+'</div>';
+          (searchUrl?'<a class="fp-ab" href="'+esc(searchUrl)+'" target="_blank" rel="noopener">'+BC_GLYPH+'<span>Search Bandcamp</span></a>':'')+'</div>';
       }
       if(!rel.length){
         return '<div class="mu-empty">'+BC_GLYPH+'<h3>Nothing for sale on their page right now.</h3>'+
-          '<a class="fp-ab" href="'+esc(bc.url)+'" target="_blank" rel="noopener">Open their Bandcamp'+OUT_SVG+'</a></div>';
+          '<a class="fp-ab" href="'+esc(bc.url)+'" target="_blank" rel="noopener">'+BC_GLYPH+'<span>Open their Bandcamp</span></a></div>';
       }
       var more='<a class="fp-lk" href="'+esc(bc.url)+'" target="_blank" rel="noopener">'+BC_GLYPH+'More on Bandcamp'+OUT_SVG+'</a>';
       return '<div class="mu-head"><div><h3>On Bandcamp</h3><p>Newest first. Buy on Bandcamp.</p></div>'+more+'</div>'+
@@ -6381,7 +6521,7 @@ a.dst-full-t:hover{text-decoration:underline}
           return '<div class="mu-card"><span class="mu-cv"'+(r.art?' style="background-image:url(\''+esc(r.art)+'\')"':'')+'></span>'+
             '<span class="mu-tx"><span class="mu-ti">'+esc(r.title||'Release')+'</span><span class="mu-m">'+esc(meta)+(pr?'<span class="mu-mp"> · '+esc(pr)+'</span>':'')+'</span></span>'+
             '<span class="mu-buy">'+(pr?'<span class="mu-pr">'+esc(pr)+'</span>':'<span></span>')+
-              '<a class="fp-ab sm" href="'+esc(r.url)+'" target="_blank" rel="noopener" aria-label="Buy '+esc(r.title||'this release')+' on Bandcamp">Buy'+OUT_SVG+'</a></span></div>';
+              '<a class="fp-ab sm" data-ic="ticket" href="'+esc(r.url)+'" target="_blank" rel="noopener" aria-label="Buy '+esc(r.title||'this release')+' on Bandcamp">Buy</a></span></div>';
         }).join('')+'</div>'+
         '<div class="mu-foot">'+more+'</div>';
     }
@@ -7616,7 +7756,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       // artist-page action buttons (immediate optimistic state, no re-render) — class-agnostic so it matches both .act-btn and the bespoke .fp-ab buttons
-      document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'||st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); b.innerHTML=(st==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(st==='seen'?'Seen':'Want to see')+'</span>'; });
+      document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'||st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); b.innerHTML='<span>'+(st==='seen'?'Seen':'Want to see')+'</span>'; });
       document.querySelectorAll('[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
@@ -7692,8 +7832,8 @@ a.dst-full-t:hover{text-decoration:underline}
         // where anybody should be pitched. Sign in opens it already flipped to
         // the returning-person words; sign up opens it as it is. One CTA in the
         // view, and it is the sunset pill, per the button rules.
-        el.innerHTML='<button class="signin-btn" id="signin-btn" type="button">Sign in</button>'+
-          '<button class="signup-btn" id="signup-btn" type="button">Sign up</button>';
+        el.innerHTML='<button class="signin-btn" id="signin-btn" data-ic="signin" type="button">Sign in</button>'+
+          '<button class="signup-btn" id="signup-btn" data-ic="signin" type="button">Sign up</button>';
         document.getElementById('signin-btn').addEventListener('click',function(){ scOnboard('email','signin'); });
         document.getElementById('signup-btn').addEventListener('click',function(){ scOnboard('email','join'); });
       }
@@ -7990,7 +8130,7 @@ a.dst-full-t:hover{text-decoration:underline}
       toastEl.classList.remove('show','act','err');
       toastEl.innerHTML='<span class="lt-th"'+(th?' style="background-image:url(\''+esc(th)+'\')"':'')+'></span>'+
         '<span class="lt-tx"><b>'+esc(text)+'</b>'+(m.title?'<small>'+esc(m.title)+'</small>':'')+'</span>'+
-        (undo?'<button type="button" class="fp-ab sm lt-undo" aria-label="Undo">Undo</button>':'');
+        (undo?'<button type="button" class="fp-ab sm lt-undo" data-ic="retry" aria-label="Undo">Undo</button>':'');
       toastEl.classList.add('lsn'); if(err) toastEl.classList.add('err');
       void toastEl.offsetWidth; toastEl.classList.add('show');
       clearTimeout(toastEl._t);
@@ -8208,7 +8348,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(!currentUser) j={ picks:await lsnPicks() };
       else { try{ var r=await authedFetch('/api/listen'); if(r.ok) j=await r.json(); }catch(_){} }
       if(seq!==_lsnSeq || currentRoute()!=='listen') return;
-      if(!j){ body.innerHTML='<p class="lsn-empty">Could not load Listen. <button class="fp-ab" type="button" id="lsn-retry">Try again</button></p>'; document.getElementById('lsn-retry').addEventListener('click', lsnRender); return; }
+      if(!j){ body.innerHTML='<p class="lsn-empty">Could not load Listen. <button class="fp-ab" type="button" id="lsn-retry" data-ic="retry">Try again</button></p>'; document.getElementById('lsn-retry').addEventListener('click', lsnRender); return; }
       var d=_lsnData={ saved:j.yours||[], artists:(j.fromWannaSee||[]).map(function(x){ return x&&x.set; }).filter(Boolean), picks:j.picks||[], heard:j.heard||[] };
       if(currentUser){
         // what the server calls saved and heard is the truth — keep the icons honest
@@ -8222,7 +8362,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var body=document.getElementById('lsn-body'), d=_lsnData; if(!body || !d) return;
       var list=d[_lsnChip]||[];
       var h='<div class="lsn-chips" role="tablist">'+LSN_CHIPS.map(function(c){ var on=c[0]===_lsnChip; return '<button class="qchip'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-chip="'+c[0]+'">'+c[1]+'</button>'; }).join('')+'</div>';
-      if(!currentUser && _lsnChip!=='picks') h+='<p class="lsn-empty">Sign in to save sets.</p><button class="fp-ab" type="button" id="lsn-signin">Sign in</button>';
+      if(!currentUser && _lsnChip!=='picks') h+='<p class="lsn-empty">Sign in to save sets.</p><button class="fp-ab" type="button" id="lsn-signin" data-ic="signin">Sign in</button>';
       else if(list.length) h+='<div class="fp-sets-grid">'+list.map(function(s,i){ return lsnCard(s, i, _lsnChip==='heard'); }).join('')+'</div>';
       else if(LSN_EMPTY[_lsnChip]) h+='<p class="lsn-empty">'+LSN_EMPTY[_lsnChip]+'</p>';
       body.innerHTML=h;
@@ -8279,7 +8419,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="eyebrow">WhatsApp</div>'+
         '<h3>Link WhatsApp to your account.</h3>'+
         '<p>Follow artists and get gig info in WhatsApp.</p>'+
-        '<button class="go" id="wa-go" type="button">Link it</button>'+
+        '<button class="go" id="wa-go" data-ic="link" type="button">Link it</button>'+
       '</div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
@@ -8313,7 +8453,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<p>How people find you on soundcheck. Letters, numbers and underscores.</p>'+
         '<div class="handle-field"><span class="hpre">u/</span><input type="text" id="hc-in" maxlength="20" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" value="'+esc(cur)+'"></div>'+
         '<div class="handle-status" id="hc-status"></div>'+
-        '<button class="go" id="hc-go" type="button" disabled>'+(isRename?'Save':'Claim it')+'</button>'+
+        '<button class="go" id="hc-go" data-ic="'+(isRename?'check':'claim')+'" type="button" disabled>'+(isRename?'Save':'Claim it')+'</button>'+
         '<div class="err" id="hc-err"></div>'+
       '</div>';
       document.body.appendChild(ov);
@@ -8373,7 +8513,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<p>This deletes your profile, gig diary, ratings, notes, follows and saved artists for good.</p>'+
         '<p>Type <b>'+esc(email)+'</b> to confirm.</p>'+
         '<div class="handle-field"><input type="email" id="da-in" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="'+attrEsc(email)+'"></div>'+
-        '<button class="go" id="da-go" type="button" disabled>Delete my account</button>'+
+        '<button class="go" id="da-go" data-ic="trash" type="button" disabled>Delete my account</button>'+
         '<div class="err" id="da-err"></div>'+
       '</div>';
       document.body.appendChild(ov);
@@ -8428,7 +8568,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<h3>Where do you go out?</h3>'+
         '<p>Set your home. You can change it anytime.</p>'+
         '<div class="handle-field"><select id="cm-sel" style="width:100%;background:none;border:0;color:var(--fg);font:inherit;padding:7px 4px">'+opts+'</select></div>'+
-        '<button class="go" id="cm-go" type="button">Save home city</button>'+
+        '<button class="go" id="cm-go" data-ic="pin" type="button">Save home city</button>'+
         (isChange?'':'<button id="cm-skip" type="button" style="display:block;width:100%;background:none;border:0;color:var(--muted);font:600 var(--fs-xs)/var(--lh-xs) var(--body);margin-top:12px;cursor:pointer">Skip for now</button>')+
       '</div>';
       document.body.appendChild(ov);
@@ -8467,7 +8607,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<input type="text" id="cl-last" placeholder="Last name" autocomplete="family-name" style="margin-top:8px">'+
         '<input type="email" id="cl-email" placeholder="email@example.com" autocomplete="email" inputmode="email" style="margin-top:8px">'+
         '<div class="handle-field" style="margin-top:8px"><span class="hpre">+44</span><input type="tel" id="cl-phone" placeholder="Phone" autocomplete="tel" inputmode="tel"></div>'+
-        '<button class="go" id="cl-go" type="button">Submit</button>'+
+        '<button class="go" id="cl-go" data-ic="check" type="button">Submit</button>'+
         '<div class="err" id="cl-err"></div>'+
       '</div>';
       document.body.appendChild(ov);
@@ -8500,9 +8640,9 @@ a.dst-full-t:hover{text-decoration:underline}
       if(!data.isOwner) return '';
       var fol=type==='venue'?(data.followers||0):((data.updates&&0)||'');
       return '<div class="pf-box owner-box" style="margin-top:14px">'+
-        '<div class="pf-h"><span class="pf-h-t">Your page</span><span class="ob-badge">OWNER</span><button class="pf-btn" id="ob-edit" type="button" style="margin-left:auto">Edit details</button></div>'+
+        '<div class="pf-h"><span class="pf-h-t">Your page</span><span class="ob-badge">OWNER</span><button class="pf-btn" id="ob-edit" data-ic="edit" type="button" style="margin-left:auto">Edit details</button></div>'+
         '<div class="ob-aud" id="ob-aud"><span class="ob-load">Loading your audience…</span></div>'+
-        '<div class="ob-compose"><textarea id="ob-bc" maxlength="500" placeholder="Post an update to the people who follow you…"></textarea><button class="pf-btn primary" id="ob-bc-send" type="button">Post update</button><div class="err" id="ob-bc-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:6px"></div></div>'+
+        '<div class="ob-compose"><textarea id="ob-bc" maxlength="500" placeholder="Post an update to the people who follow you…"></textarea><button class="pf-btn primary" id="ob-bc-send" data-ic="plus" type="button">Post update</button><div class="err" id="ob-bc-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:6px"></div></div>'+
       '</div>';
     }
     // Public "From the venue / From the artist" updates list (everyone).
@@ -8560,7 +8700,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<label class="ee-l">Booking email</label><input type="email" id="ee-booking_email" value="'+attrEsc(data.bookingEmail||'')+'" placeholder="bookings@…"><label class="ee-check"><input type="checkbox" id="ee-booking_hidden"> Hide my booking email publicly</label>';
       ov.innerHTML='<div class="auth-box ee-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Edit</div><h3>'+esc(name)+'</h3><p class="ee-note">Your edits show on your page.</p>'+
-        common+extra+'<button class="go" id="ee-save" type="button">Save</button><div class="err" id="ee-err"></div></div>';
+        common+extra+'<button class="go" id="ee-save" data-ic="check" type="button">Save</button><div class="err" id="ee-err"></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
@@ -8782,7 +8922,7 @@ a.dst-full-t:hover{text-decoration:underline}
       invClose();
       var bar=document.createElement('div'); bar.className='inv-bar'; bar.id='inv-bar';
       bar.innerHTML='<div class="inv-row">'+
-          '<button class="fp-pb" id="inv-yes" type="button">'+CHECK_SVG+'<span>I&rsquo;m in</span></button>'+
+          '<button class="fp-pb" id="inv-yes" data-ic="check" type="button">'+'<span>I&rsquo;m in</span></button>'+
           '<button class="inv-no" id="inv-no" type="button">Can&rsquo;t make it</button>'+
         '</div>'+
         '<div class="inv-note">No app needed. Answer in your browser.</div>';
@@ -8818,7 +8958,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '</div>'+
         '<div class="handle-field" style="margin-top:24px"><span class="hpre">@</span><input id="inv-h" type="text" autocomplete="username" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="your handle" maxlength="24" value="'+attrEsc(_inv.handle)+'"></div>'+
         '<input type="email" id="inv-e" placeholder="you@\u2026" autocomplete="email" inputmode="email" value="'+attrEsc(_inv.email)+'">'+
-        '<button class="ob-cta" id="inv-go" type="button">Email me a code</button>'+
+        '<button class="ob-cta" id="inv-go" data-ic="mail" type="button">Email me a code</button>'+
         '<div class="ob-err" id="inv-err"></div>'+
         '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:14px;max-width:40ch">No password. We will send you a link with a code to sign up. Already on soundcheck? Enter your email and get the code to sign in.</p>');
       var hi=el.querySelector('#inv-h'), ei=el.querySelector('#inv-e'), err=el.querySelector('#inv-err');
@@ -8851,7 +8991,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<h1 class="ob-h1">Type the code</h1>'+
         '<p class="ob-sub">We sent a 6-character code to <b style="color:var(--fg)">'+esc(_inv.email)+'</b>. The link in the email works too.</p>'+
         '<input type="text" id="inv-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase">'+
-        '<button class="ob-cta" id="inv-codego" type="button">Sign me in</button>'+
+        '<button class="ob-cta" id="inv-codego" data-ic="signin" type="button">Sign me in</button>'+
         '<div class="ob-err" id="inv-cerr"></div>'+
         '<button class="ob-alt" id="inv-resend" type="button">Nothing arrived? Send it again</button>'+
         '<button class="ob-alt" id="inv-back" type="button">Wrong email? Go back</button>'+
@@ -8861,7 +9001,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '<div style="width:40px;height:40px;border-radius:var(--r-1);flex:none;background:linear-gradient(150deg,#3d1352,#a02a63)"></div>'+
             '<div style="min-width:0;flex:1"><div style="font:800 var(--fs-base)/1.25 var(--head);color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(a0.name)+'</div>'+
             '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">From this gig\u2019s line-up</div></div>'+
-            '<button class="fp-ab" id="inv-play" type="button"><span>Play</span></button>'+
+            '<button class="fp-ab" id="inv-play" data-ic="play" type="button"><span>Play</span></button>'+
           '</div></div>'):''));
       var ci=el.querySelector('#inv-code'), cerr=el.querySelector('#inv-cerr'), cgo=el.querySelector('#inv-codego');
       async function verify(){
@@ -8920,13 +9060,13 @@ a.dst-full-t:hover{text-decoration:underline}
           '</div>'+
         '</div>'+
         '<div style="display:flex;gap:8px;margin-top:16px">'+
-          '<button class="fp-ab" id="inv-cal" type="button"><span>Add to calendar</span></button>'+
-          '<button class="fp-ab" id="inv-see" type="button"><span>See the gig</span></button>'+
+          '<button class="fp-ab" id="inv-cal" data-ic="calendar" type="button"><span>Add to calendar</span></button>'+
+          '<button class="fp-ab" id="inv-see" data-ic="ticket" type="button"><span>See the gig</span></button>'+
         '</div>'+
         '<div style="margin-top:22px;padding:16px;border-radius:var(--radius);background:var(--surface);border:1px solid var(--border);display:flex;flex-direction:column">'+
           '<div class="eyebrow" style="margin-bottom:0">Your turn</div>'+
           '<div class="evi-sub">Anyone else coming? Send them your link.</div>'+
-          '<button class="ob-cta" id="inv-share" type="button" style="margin-top:14px">Invite friends</button>'+
+          '<button class="ob-cta" id="inv-share" data-ic="invite" type="button" style="margin-top:14px">Invite friends</button>'+
         '</div>'+
         '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:18px">Saved to your gigs. <b style="color:var(--accent)">Manage</b></p>');
       el.querySelector('#inv-see').addEventListener('click',obClose);
@@ -9036,7 +9176,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var h='<h2 class="page-title">My list</h2><div class="sub">'+(currentUser?('Saved to u/'+esc(currentUser.handle)+'.'):'Saved on this device. Sign in to keep them.')+'</div>';
       if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:var(--radius-pill);background:var(--accent-grad);color:var(--accent-ink);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my list</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-pill);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
       var hasArt=Object.keys(picks.artists).length>0;
-      if(hasArt) h+='<button class="tc-cta" id="mp-taste" type="button">◆ Share your taste card</button>';
+      if(hasArt) h+='<button class="tc-cta" id="mp-taste" data-ic="share" type="button">Share your taste card</button>';
       h+='<div id="mp-shelves">'+picksShelvesHTML()+'</div><div id="mp-diary" style="margin-top:24px"></div>';
       if(has) h+='<button class="hub-row danger" id="mp-clear" type="button" style="max-width:520px;margin-top:22px"><span class="hr-tx"><span class="hr-t">Clear my list</span></span></button>';
       showPage(h);
@@ -9142,7 +9282,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     function renderNightInvite(d){
       showPage('<div class="nb-head"><div class="eyebrow">You’re invited</div><h3>'+esc(nightTitle(d))+'</h3><p class="sub">Your mates are sorting out this gig. Add your name to join in and react.</p></div>'+
-        '<button class="follow-btn" id="nb-join" type="button" style="max-width:280px">Join the gig</button>');
+        '<button class="follow-btn" id="nb-join" data-ic="check" type="button" style="max-width:280px">Join the gig</button>');
       document.getElementById('nb-join').addEventListener('click',function(){ openNightJoinModal(d.code, d); });
     }
     function openNightJoinModal(code, d){
@@ -9151,7 +9291,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="eyebrow">Join the gig</div><h3>'+esc(nightTitle(d))+'</h3>'+
         '<p>Add your name so your mates know you’re in.</p>'+
         '<input type="text" id="nj-name" maxlength="40" placeholder="Your first name" autocomplete="given-name">'+
-        '<button class="go" id="nj-go" type="button">Join the gig</button>'+
+        '<button class="go" id="nj-go" data-ic="check" type="button">Join the gig</button>'+
         '<p style="margin-top:12px;font-size:var(--fs-sm);color:var(--muted)">Have an account? <button class="b-link" id="nj-signin" type="button" style="background:none;border:none;color:var(--accent);font:inherit;cursor:pointer;padding:0">Sign in</button></p>'+
         '<div class="err" id="nj-err"></div></div>';
       document.body.appendChild(ov);
@@ -9176,9 +9316,9 @@ a.dst-full-t:hover{text-decoration:underline}
       _nightCode=d.code; setActiveNight(d.code);
       var canLog = currentUser && d.date && (String(d.date).slice(0,10) <= todayISO());
       var head='<div class="nb-head"><div class="eyebrow">Gig</div><h3>'+esc(nightTitle(d))+'</h3></div>'+
-        '<div class="nb-actions"><button class="nb-share" id="nb-share" type="button">'+SHARE_SVG+'<span>Share</span></button>'+
-        '<button class="nb-add" id="nb-add" type="button">＋ Add events</button>'+
-        (canLog?'<button class="nb-add" id="nb-log" type="button">✎ Log this gig</button>':'')+'</div>';
+        '<div class="nb-actions"><button class="nb-share" id="nb-share" data-ic="share" type="button">'+'<span>Share</span></button>'+
+        '<button class="nb-add" id="nb-add" data-ic="plus" type="button">Add events</button>'+
+        (canLog?'<button class="nb-add" id="nb-log" data-ic="plus" type="button">Log this gig</button>':'')+'</div>';
       showPage(head+'<div id="night-board"></div>');
       document.getElementById('nb-share').addEventListener('click',function(){ shareNight(d.code, nightTitle(d)); });
       document.getElementById('nb-add').addEventListener('click',function(){ setActiveNight(d.code); showToast('Browse events and tap ＋ Add to gig'); goGrid(); });
@@ -9301,7 +9441,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="tc-canvas-wrap"><div class="tc-loading">Building your card…</div><img id="tc-img" alt="Your taste card" style="display:none"></div>'+
-        '<div class="tc-actions"><button class="go" id="tc-share" type="button" disabled>Share</button><button class="tc-save" id="tc-save" type="button" disabled>Save image</button></div></div>';
+        '<div class="tc-actions"><button class="go" id="tc-share" data-ic="share" type="button" disabled>Share</button><button class="tc-save" id="tc-save" data-ic="camera" type="button" disabled>Save image</button></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
@@ -9547,11 +9687,12 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     // poster: when known, the skeleton opens with the real poster already in its
     // final position and size, so the swap to real content doesn't move it.
-    function pageSkeleton(poster){
+    function vtHarFrom(el){ var img=el && (el.tagName==='IMG' ? el : el.querySelector('img')); return img ? heroHarOf(img.naturalWidth, img.naturalHeight) : ''; }
+    function pageSkeleton(poster, har){
       var line=function(w,h,mb){ return '<div class="sk" style="width:'+w+';height:'+h+'px;border-radius:var(--radius-xs);margin-bottom:'+mb+'px"></div>'; };
       if(poster){
         return '<div class="fp-event"><div class="fp-ev-hero">'+
-          '<div class="fp-ev-pcol"><div class="fp-ev-poster sc-hero" style="background-image:url('+JSON.stringify(poster)+')"></div></div>'+
+          '<div class="fp-ev-pcol"'+heroHarAttr(har)+'><div class="fp-ev-poster sc-hero" style="background-image:url('+JSON.stringify(poster)+')"></div></div>'+
           '<div class="fp-ev-main" aria-hidden="true"><div class="fp-ev-top">'+line('40%',13,10)+line('80%',28,10)+line('55%',15,18)+line('100%',44,8)+'</div></div>'+
           '</div></div>';
       }
@@ -9616,7 +9757,7 @@ a.dst-full-t:hover{text-decoration:underline}
             (a.slug?'<a class="evm-link nav" href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'">view artist \u203a</a>':'')+'</div>';
         }).join('')+
         (m.note?'<div class="ev-mine-note">'+esc(m.note)+'</div>':'')+
-        '<button class="evm-edit" id="ev-mine-edit" type="button">\u270e Edit this gig</button>'+
+        '<button class="evm-edit" id="ev-mine-edit" data-ic="edit" type="button">Edit this gig</button>'+
       '</div>';
     }
     // ── HEALTH STATS ON A LOGGED GIG (web, READ-ONLY; Paper NEXT 18F4-0 + 17KW-0) ──
@@ -10055,7 +10196,9 @@ a.dst-full-t:hover{text-decoration:underline}
     function dstStubHTML(d, isMe){
       var title=dstTitle(d), venue=d.title?(d.venue||''):'';
       var eye=[dstDay(d), d.city?cityLabel(d.city):''].filter(Boolean).join(' · ');
-      var arts=diaryValid(d).map(function(a){ return a.name||a.slug; }).join(' · ');
+      // The artists you caught, with the stars you gave each one (the old diary row printed "name ★4" too).
+      var arts=diaryValid(d).map(function(a){ return (a.name||a.slug)+(a.rating?' \u2605'+a.rating:''); }).join(' · ');
+      var note=String(d.note||'').trim();
       var poster=d.poster_url
         ? '<div class="dst-poster" style="background-image:url(\''+esc(imgUrl(d.poster_url,300))+'\')"></div>'
         : '<div class="dst-poster" aria-hidden="true">'+esc((d.venue||title).trim().charAt(0).toUpperCase())+'</div>';
@@ -10065,6 +10208,9 @@ a.dst-full-t:hover{text-decoration:underline}
           '<div class="dst-title">'+esc(title)+'</div>'+
           (venue?'<div class="dst-venue">'+esc(venue)+'</div>':'')+
           (arts?'<div class="dst-arts">'+esc(arts)+'</div>':'')+
+          // THE NOTE. The stub redesign dropped it (founder, 2 Oct 2026: "do not remove features like this").
+          // On your diary and on another person's, as the old row did. No note → nothing.
+          (note?'<div class="dst-note">'+esc(note)+'</div>':'')+
           ((isMe&&d.health)?dstStepsHTML(d.health):'')+
         '</div>'+
         '<svg class="dst-perf" aria-hidden="true"><line x1="1" y1="8" x2="1" y2="2000" stroke="currentColor" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 5"/></svg>'+
@@ -10076,7 +10222,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function diaryTLHTML(diary, isMe, handle){
       if(!diary.length){
         return isMe
-          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Log a gig and it shows here.</p></div><span class="pb-prob-btn">Log a gig</span></button>'
+          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Log a gig and it shows here.</p></div><span class="pb-prob-btn" data-ic="plus">Log a gig</span></button>'
           : '<div class="empty">No gigs logged yet</div>';
       }
       var per={};   // "2026-9" → gigs that month
@@ -10144,7 +10290,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="vrv-q">Artists &amp; ratings</div><div class="lg-rate" id="de-arts">'+artRows()+'</div>'+
         '<input type="text" id="de-add" placeholder="Add an artist&hellip;" autocomplete="off" autocapitalize="off" style="width:100%;margin-top:8px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:9px 11px"><div class="lg-chips" id="de-sugg" style="margin-top:6px"></div>'+
         '<div class="vrv-q">Note</div><textarea id="de-note" style="width:100%;min-height:80px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:10px;font:500 var(--fs-md)/var(--lh-md) var(--body)">'+esc(d.note||'')+'</textarea>'+
-        '<button class="go" id="de-save" type="button">Save</button><div class="rv-msg" id="de-msg"></div></div>';
+        '<button class="go" id="de-save" data-ic="check" type="button">Save</button><div class="rv-msg" id="de-msg"></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
@@ -10201,7 +10347,9 @@ a.dst-full-t:hover{text-decoration:underline}
       ov.innerHTML='<div class="rc-box tc-box dst-full"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         (d.event_id?'<a class="dst-full-t" href="'+esc(evHref(d.event_id,null,d.venue))+'" data-event-id="'+esc(String(d.event_id))+'">'+t+'</a>':'<div class="dst-full-t">'+t+'</div>')+
         '<img class="dst-full-img" alt="'+attrEsc('Gig stub: '+dstTitle(d))+'" src="'+attrEsc(dstCardSrc(d,'story'))+'">'+
-        '<div class="rc-actions"><button class="pf-btn primary" id="dst-share" type="button">Share</button></div></div>';
+        // the WHOLE note, under the card (the card picture does not carry it)
+        (String(d.note||'').trim()?'<p class="dst-full-note">'+esc(String(d.note).trim())+'</p>':'')+
+        '<div class="rc-actions"><button class="pf-btn primary" id="dst-share" data-ic="share" type="button">Share</button></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); document.removeEventListener('keydown', key); }
       function key(e){ if(e.key==='Escape') close(); }
@@ -10218,6 +10366,7 @@ a.dst-full-t:hover{text-decoration:underline}
       ov.querySelector('.dst-full-img').addEventListener('error',function(){
         var c=stubEl.cloneNode(true); c.removeAttribute('role'); c.removeAttribute('tabindex'); var mb=c.querySelector('.dst-more'); if(mb) mb.remove();
         this.replaceWith(c); ov.querySelector('.rc-actions').remove();
+        var fn=ov.querySelector('.dst-full-note'); if(fn) fn.remove();   // the stub itself carries the whole note
       });
     }
     // The more menu on your own stub: Edit · Share · Remove steps (when it has steps) · Delete.
@@ -10337,9 +10486,9 @@ a.dst-full-t:hover{text-decoration:underline}
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<img class="ob-card" style="display:block;margin:0 auto 14px" alt="Scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(p.handle)+'&cb='+Date.now())+'">'+
-        '<div class="rc-actions"><button class="pf-btn primary" id="tc-share" type="button">Share the card</button>'+
-        '<button class="pf-btn" id="tc-saveimg" type="button">Save image</button>'+
-        '<button class="pf-btn" id="tc-copy" type="button">Copy link</button></div>'+
+        '<div class="rc-actions"><button class="pf-btn primary" id="tc-share" data-ic="share" type="button">Share the card</button>'+
+        '<button class="pf-btn" id="tc-saveimg" data-ic="camera" type="button">Save image</button>'+
+        '<button class="pf-btn" id="tc-copy" data-ic="link" type="button">Copy link</button></div>'+
       '</div>';
       document.body.appendChild(ov);
       ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
@@ -10359,7 +10508,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function renderRotRail(){
       var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
       if(!pbRot.length){
-        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><div><b>Start your Now Playing list</b><span>Add the artists you’re into. Friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" type="button">+ Add an artist</button></div>' : '';
+        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><div><b>Start your Now Playing list</b><span>Add the artists you’re into. Friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" data-ic="plus" type="button">Add an artist</button></div>' : '';
         var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
         return;
       }
@@ -10399,7 +10548,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="eyebrow">Now playing</div><h3>Add an artist</h3><p style="margin:6px 0 14px;color:var(--muted)">Search for artists you&rsquo;re listening to. They show on your profile.</p>'+
         '<div class="sg-wrap"><input id="rota-in" type="text" placeholder="Search artists&hellip;" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="rota-drop"></div></div>'+
         '<div class="to-chips" id="rota-chips" style="margin-top:14px"></div>'+
-        '<button class="go" id="rota-done" type="button" style="margin-top:16px">Done</button></div>';
+        '<button class="go" id="rota-done" data-ic="check" type="button" style="margin-top:16px">Done</button></div>';
       document.body.appendChild(ov);
       ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
       ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
@@ -10428,7 +10577,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="rc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         rotationCardHTML(p)+
-        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="rc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your rotation</span></div>'+
+        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="rc-copy" data-ic="link" type="button">Copy link</button><span class="rc-hint">Screenshot to share your rotation</span></div>'+
       '</div>';
       document.body.appendChild(ov);
       ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
@@ -10449,7 +10598,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function pfSegHTML(segs, shareId){
       var pills='<div class="pf-seg">'+segs.map(function(sg,i){ return '<button class="pf-segb'+(i===0?' on':'')+'" type="button" data-sub="'+sg.sub+'">'+esc(sg.label)+(sg.count!=null?'<span class="c">'+sg.count+'</span>':'')+'</button>'; }).join('')+'</div>';
       // optional per-section share sits on the pill row's right edge
-      if(shareId) pills='<div class="pf-seg-row">'+pills+'<button class="pf-btn" id="'+shareId+'" type="button">Share</button></div>';
+      if(shareId) pills='<div class="pf-seg-row">'+pills+'<button class="pf-btn" id="'+shareId+'" data-ic="share" type="button">Share</button></div>';
       var boxes=segs.map(function(sg,i){ return '<div class="pf-box'+(i===0?'':' hide')+'" id="'+sg.boxId+'" data-sub="'+sg.sub+'"></div>'; }).join('');
       return pills+boxes;
     }
@@ -10482,7 +10631,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<a class="ppl-tx nav" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'">'+
             '<b>'+esc(name)+'</b><small>@'+esc(u.handle)+'</small></a>'+
           (u.isMe ? '<span class="ppl-you">You</span>'
-                  : '<button class="ppl-f'+(u.viewerFollows?' on':'')+'" type="button" data-f="'+attrEsc(u.handle)+'">'+
+                  : '<button class="ppl-f'+(u.viewerFollows?' on':'')+'" data-ic="heart" type="button" data-f="'+attrEsc(u.handle)+'">'+
                     (u.viewerFollows?'Following':'Follow')+'</button>')+
         '</div>';
       }).join('')+'</div>';
@@ -10510,8 +10659,8 @@ a.dst-full-t:hover{text-decoration:underline}
       var seenN=(s.seen||[]).length, wannaN=(s.wannaSee||[]).length, venN=(s.venues||[]).length, savedN=(s.events||[]).length;
       var genres=st.topGenres||[];
       var acts = isMe
-        ? '<button class="pf-btn" id="pb-share" type="button">Share</button><button class="pf-btn" id="pb-edit" type="button">Settings</button>'
-        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button">Share</button>';
+        ? '<button class="pf-btn" id="pb-share" data-ic="share" type="button">Share</button><button class="pf-btn" id="pb-edit" data-ic="edit" type="button">Settings</button>'
+        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" data-ic="heart" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" data-ic="share" type="button">Share</button>';
       // Poster-wall hero (option 06): the seen-artists' photos as a dimmed collage
       // behind identity + the clickable stat ribbon. No genre tags here by design.
       // Fewer than 4 artist images → plain header (no wall).
@@ -10575,7 +10724,7 @@ a.dst-full-t:hover{text-decoration:underline}
       // Now Playing (rotation) removed for now — playlists live in the My Playlist tab instead.
       var suggest=isMe?('<div class="pf-suggest"><div class="h">Suggest a feature</div><div class="s">Tell us what’s missing.</div>'+
         '<textarea id="pf-suggest-t" placeholder="I wish soundcheck could…"></textarea>'+
-        '<div class="sc-row"><button class="pf-btn primary" id="pf-suggest-send" type="button">Send</button></div></div>'):'';
+        '<div class="sc-row"><button class="pf-btn primary" id="pf-suggest-send" data-ic="mail" type="button">Send</button></div></div>'):'';
       return '<div class="pf">'+hero+(isMe?'<div id="pb-lognudge"></div>':'')+tabsBar+panels+suggest+'</div>';
     }
     // "You said you were going. How was it?" nudges: past events marked I'm-going
@@ -10588,7 +10737,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(!evs.length){ el.innerHTML=''; return; }
       el.innerHTML=evs.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
-        return '<div class="pb-prob" data-ni="'+i+'"><div class="pb-prob-tx"><b>How was '+esc(e.title||'that gig')+'?</b><p>'+esc([e.venue,d].filter(Boolean).join(' · '))+'. You said you were going. Log it to your diary.</p></div><button class="pb-prob-btn" type="button" data-nlog="'+esc(String(e.event_id))+'">Log it</button><button class="pf-btn" type="button" data-nskip="'+esc(String(e.event_id))+'">Didn&rsquo;t go</button></div>';
+        return '<div class="pb-prob" data-ni="'+i+'"><div class="pb-prob-tx"><b>How was '+esc(e.title||'that gig')+'?</b><p>'+esc([e.venue,d].filter(Boolean).join(' · '))+'. You said you were going. Log it to your diary.</p></div><button class="pb-prob-btn" data-ic="plus" type="button" data-nlog="'+esc(String(e.event_id))+'">Log it</button><button class="pf-btn" data-ic="x" type="button" data-nskip="'+esc(String(e.event_id))+'">Didn&rsquo;t go</button></div>';
       }).join('');
       el.querySelectorAll('[data-nlog]').forEach(function(b){ b.addEventListener('click',function(){ openLog({eventId:b.dataset.nlog}); }); });
       el.querySelectorAll('[data-nskip]').forEach(function(b){ b.addEventListener('click',function(){
@@ -10834,9 +10983,9 @@ a.dst-full-t:hover{text-decoration:underline}
       var byline=[p.owner&&(p.owner.name||('u/'+p.owner.handle)), tracks.length+' track'+(tracks.length===1?'':'s'), p.collaborative?'collaborative':''].filter(Boolean).join(' · ');
       var head='<div class="plp-head"><div class="plp-sub">Playlist</div><h1 class="fp-h1" style="margin:4px 0 2px">'+esc(p.title)+'</h1><div style="color:var(--muted);font-size:var(--fs-sm)">'+esc(byline)+'</div></div>'+
         '<div class="plp-acts">'+
-          (playable.length?'<button class="pf-btn primary" id="plp-play" type="button">▶ Play all</button>':'')+
-          '<button class="pf-btn" id="plp-share" type="button">Share</button>'+
-          (p.canEdit?'':( (currentUser&&p.collaborative)?'<button class="pf-btn" id="plp-join" type="button">Join &amp; add</button>':''))+
+          (playable.length?'<button class="pf-btn primary" id="plp-play" data-ic="play" type="button">Play all</button>':'')+
+          '<button class="pf-btn" id="plp-share" data-ic="share" type="button">Share</button>'+
+          (p.canEdit?'':( (currentUser&&p.collaborative)?'<button class="pf-btn" id="plp-join" data-ic="invite" type="button">Join &amp; add</button>':''))+
         '</div>';
       var rows=tracks.map(function(t){
         var L=t.links||{};
@@ -10901,7 +11050,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var ov=document.createElement('div'); ov.className='sc-ov';
       ov.innerHTML='<div class="sc-sheet"><h4>'+esc(title||'Something wrong?')+'</h4><p class="hint">'+esc(hint||'Tell us what&rsquo;s wrong.')+'</p>'+
         '<textarea id="fb-t" placeholder="'+esc(kind==='wrong_info'?'e.g. wrong date, missing artist, dead link…':'Your idea…')+'"></textarea>'+
-        '<div class="sc-row"><button class="pf-btn" id="fb-cancel" type="button">Cancel</button><button class="pf-btn primary" id="fb-send" type="button">Send</button></div></div>';
+        '<div class="sc-row"><button class="pf-btn" id="fb-cancel" data-ic="x" type="button">Cancel</button><button class="pf-btn primary" id="fb-send" data-ic="mail" type="button">Send</button></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
@@ -10939,7 +11088,7 @@ a.dst-full-t:hover{text-decoration:underline}
         mine = mine || p.isMe;
         var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
         var nm = p.displayName||('u/'+handle);
-        var logBtn = mine ? '<button class="fp-ab" id="diary-log" type="button" style="margin-left:auto">Log a gig</button>' : '';
+        var logBtn = mine ? '<button class="fp-ab" id="diary-log" data-ic="plus" type="button" style="margin-left:auto">Log a gig</button>' : '';
         // breadcrumb back to the profile so the diary never feels like a floating page
         var CHV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>';
         var bc='<button class="diary-bc" type="button" id="diary-bc">'+CHV+'<span>'+esc(mine?'Your profile':nm)+'</span></button>';
@@ -11023,7 +11172,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var today=upS.anchor===todayISO();
       var chips=[['today','Today'],['week','Week'],['month','Month'],['all','All']].map(function(s){ return '<button class="up-chip'+(upS.scope===s[0]?' on':'')+'" type="button" data-upscope="'+s[0]+'">'+s[1]+'</button>'; }).join('');
       bar.innerHTML='<div class="up-scope">'+chips+
-        '<button class="up-jump'+(today?'':' set')+'" type="button" id="up-jump"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg><span>'+(today?'Jump to date':esc(fmtDateLabel(upS.anchor)))+'</span></button>'+
+        '<button class="up-jump'+(today?'':' set')+'" type="button" id="up-jump" data-ic="calendar"><span>'+(today?'Jump to date':esc(fmtDateLabel(upS.anchor)))+'</span></button>'+
         (today?'':'<button class="up-chip up-reset" type="button" data-upreset="1" aria-label="Back to today">&times;</button>')+'</div>';
       bar.querySelectorAll('[data-upscope]').forEach(function(b){ b.addEventListener('click',function(){ upS.scope=b.dataset.upscope; if(upS.scope==='today') upS.anchor=todayISO(); renderUpcoming(); }); });
       // Jump to date reuses the home page's on-brand calendar (openCal), not a native picker.
@@ -11776,37 +11925,48 @@ a.dst-full-t:hover{text-decoration:underline}
         var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
         var mine=artStatus(slug);
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
-        var img=a.image?'<img decoding="async" fetchpriority="high" src="'+imgUrl(a.image,heroImgW())+'" alt="'+attrEsc((a.name||slug)+' artist portrait')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(String(a.name||slug).replace(/'/g,""))+'\',\''+attrEsc(slug)+'\')">':genHero(a.name||slug, slug);
+        var _aSrc=a.image?imgUrl(a.image,heroImgW()):'', _aHar=await heroHar(_aSrc);
+        var img=a.image?'<img decoding="async" fetchpriority="high" src="'+_aSrc+'" alt="'+attrEsc((a.name||slug)+' artist portrait')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(String(a.name||slug).replace(/'/g,""))+'\',\''+attrEsc(slug)+'\')">':genHero(a.name||slug, slug);
         var fmtK=function(n){ n=+n||0; return n>=1000?(n/1000).toFixed(n>=10000?0:1).replace(/\.0$/,'')+'K':(n||''); };
         // Kick line = their next show (venue, city); falls back to country when nothing's booked.
         var _ndl=(nextGig&&nextGig.event_date)?fmtDateLabel(String(nextGig.event_date).slice(0,10)):'';
         var nextTxt=nextGig?('Next · '+[_ndl, nextGig.venue, nextGig.city?cityLabel(nextGig.city):''].filter(Boolean).map(esc).join(' · ')):'';
         var kick=nextTxt||esc(a.country||'');
         if(a.followers) kick+=(kick?' ':'')+'<b class="fp-foll">'+fmtK(a.followers)+' followers</b>';
+        // Web hero (760 up): the warm line is the next gig and opens it; the country and followers are the sub line.
+        var kickW=nextGig?'<a class="fp-kick fp-hk h7w nav" href="'+esc(evHref(nextGig.id,null,nextGig.venue))+'" data-event-id="'+esc(String(nextGig.id))+'">Next · '+[_ndl, [nextGig.venue, nextGig.city?cityLabel(nextGig.city):''].filter(Boolean).join(', ')].filter(Boolean).map(esc).join(' · ')+'</a>':'';
+        var subW=[a.country?esc(a.country):'', a.followers?fmtK(a.followers)+' followers':''].filter(Boolean).join(' · ');
         var socials=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         // Genre tags move below the description (pill style, as on the event page).
-        var genreTags=(a.genres&&a.genres.length)?'<div class="fp-ev-gline" style="margin-bottom:14px">'+a.genres.slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'';
-        var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests" style="margin-top:0;margin-bottom:14px"><b>Played at:</b> '+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
-        var gemLine=(a.hiddenGem&&a.hiddenGem.level)?'<div class="fp-gemline"><span class="gem-pill"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</span></div>':'';
+        var genreTags=(a.genres&&a.genres.length)?'<div class="fp-ev-gline">'+a.genres.slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'';
+        var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests h7n" style="margin-top:0;margin-bottom:14px"><b>Played at:</b> '+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
+        var gemLine=(a.hiddenGem&&a.hiddenGem.level)?'<div class="fp-gemline h7n"><span class="gem-pill"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</span></div>':'';
+        // Web hero (760 up): the same two facts as rows beside the picture (label, then the text).
+        var _aBio=a.bio||a.description||'';
+        var rowsW=((festLine||gemLine)?'<div class="fp-hrows wide h7w">'+
+            (festLine?heroRow('Played at', a.festivals.map(function(f){ return esc(f.name); }).join(' · ')):'')+
+            (gemLine?heroRow(a.hiddenGem.level, esc(a.hiddenGem.reason||''), true):'')+'</div>':'');
+        var hrW=(_aBio||genreTags||rowsW)?'<hr class="fp-hhr h7w">':'';
         var nextVenueAttr=(nextGig&&nextGig.venue)?' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"':'';
         var h='<div class="fp-artist">'+
           // SAME control as the event page — one share button in the product.
           '<button class="fp-ev-share-ic" id="fp-art-share" type="button" aria-label="Share this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
           '<div class="fp-hero">'+
-            '<div class="fp-photo">'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+
+            '<div class="fp-photo"'+heroHarAttr(_aHar)+'>'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin h7n">'+esc(a.country)+'</div>':'')+'</div>'+
             '<div class="fp-hx">'+
               // .fp-htop = the part that sits ON the artwork (full-bleed hero).
-              '<div class="fp-htop"><div class="fp-kick">'+kick+'</div>'+
+              '<div class="fp-htop"><div class="fp-kick h7n">'+kick+'</div>'+kickW+
               // Link discs sit right after the name (Paper 15LW); a long name wraps them under it.
-              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div></div>'+
-              bioBlock(a.bio||a.description||'')+
-              genreTags+festLine+gemLine+
+              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div>'+
+              (subW?'<div class="fp-hsub h7w">'+subW+'</div>':'')+'</div>'+
+              bioBlock(_aBio)+
+              genreTags+festLine+gemLine+hrW+rowsW+
               '<div class="fp-acts">'+
-                '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets">'+PLAY_SVG+'<span>Play</span></button>'+
+                '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' data-ic="play" type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets"><span>Play</span></button>'+
                 // founder 2 Oct: the heart by the name collided with the link discs; the pill is back. Seen artists read "Seen".
-                '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'">'+(mine==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
-                '<button class="fp-ab" id="ap-log" type="button">'+logSvg+'<span>Log a gig</span></button>'+
-                '<button class="fp-ab" id="ap-list" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4 7h11M4 12h11M4 17h7M18 14v6M15 17h6"/></svg><span>Add to list</span></button>'+
+                '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ic="heart" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'"><span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
+                '<button class="fp-ab" id="ap-log" data-ic="plus" type="button"><span>Log a gig</span></button>'+
+                '<button class="fp-ab" id="ap-list" data-ic="list" type="button"><span>Add to list</span></button>'+
               '</div>'+
             '</div>'+
           '</div>'+
@@ -11843,7 +12003,7 @@ a.dst-full-t:hover{text-decoration:underline}
         h+=artistLinksHTML(a.links||[]);   // linktree replacement — grouped, verified outbound links
         // Owner toolkit + public updates, or a claim CTA for the act/their team.
         h+=ownerToolsHTML('artist', a)+entityUpdatesHTML('artist', a);
-        if(!a.isOwner) h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Are you '+esc(a.name||slug)+' (or your team)?</div><div class="cb-s">Claim this page to edit your bio, confirm your tour dates and post to the people who follow you. It’s free.</div></div><button class="cb-btn" id="ap-claim" type="button">Claim this page</button></div>';
+        if(!a.isOwner) h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Are you '+esc(a.name||slug)+' (or your team)?</div><div class="cb-s">Claim this page to edit your bio, confirm your tour dates and post to the people who follow you. It’s free.</div></div><button class="cb-btn" id="ap-claim" data-ic="claim" type="button">Claim this page</button></div>';
         h+='</div>';
         openPanel(h);
         var ashr=document.getElementById('fp-art-share'); if(ashr) ashr.addEventListener('click',function(){ shareArtist(slug, a.name||slug); });
@@ -11891,7 +12051,7 @@ a.dst-full-t:hover{text-decoration:underline}
             if(c>0){
               box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">gig'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
                 nights.map(function(g){ var d=g.gig_date?fmtGigDate(g.gig_date):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'">View event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+
-                '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another gig</button></div>';
+                '<button class="ap-seen-log" id="ap-seen-log" data-ic="plus" type="button">Log another gig</button></div>';
             } else { box.innerHTML=''; }   // no empty-state nudge — Log a gig already lives in the header actions
             var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
             box.querySelectorAll('.ap-seen-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.eventId); }); });
@@ -11938,7 +12098,7 @@ a.dst-full-t:hover{text-decoration:underline}
             box.innerHTML=musicHTML(nm, bc, rel, j&&j.searchUrl);
           }).catch(function(){
             if(!document.body.contains(box)) return;
-            box.innerHTML='<div class="mu-err"><p>Couldn’t load their music. Try again.</p><button class="fp-ab sm" type="button" id="mu-retry">Try again</button></div>';
+            box.innerHTML='<div class="mu-err"><p>Couldn’t load their music. Try again.</p><button class="fp-ab sm" type="button" id="mu-retry" data-ic="retry">Try again</button></div>';
             var rb=document.getElementById('mu-retry'); if(rb) rb.addEventListener('click',function(){ loadMusicTab(true); });
           });
         }
@@ -12134,7 +12294,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '<div class="scn-hero-name">'+esc(mine.name)+(mine.country?'<span class="scn-hero-cc">'+esc(mine.country)+'</span>':'')+'</div>'+
             '<div class="scn-hero-meta">'+(mine.count?Number(mine.count).toLocaleString('en-GB')+' gigs':'')+
               (mine.topGenre?' &middot; '+esc(titleCaseWord(mine.topGenre)):'')+'</div>'+
-            '<button class="fp-ab go scn-hero-cta" type="button" id="sc-hero-go">'+PLAY_SVG+'<span>Open the guide</span></button>'+
+            '<button class="fp-ab go scn-hero-cta" type="button" id="sc-hero-go" data-ic="pin"><span>Open the guide</span></button>'+
           '</div></div>';
 
         var chips=conts.length>1
@@ -12285,7 +12445,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '<h2 class="page-title scg-h1">'+esc(nm)+', next 30 days</h2>'+
             '<div class="sub">'+(sub?esc(sub)+'. ':'')+'Filter by sound or area. Hit play on anything.</div>'+
           '</div>'+
-          '<button class="fp-ab go scg-play" id="cs-play" type="button">'+PLAY_SVG+'<span>Play the month</span></button>'+
+          '<button class="fp-ab go scg-play" id="cs-play" data-ic="play" type="button"><span>Play the month</span></button>'+
           '</div>'+
           '<div class="scg-wrap"><div class="scg-rail" id="cs-rail"></div>'+
           '<div class="scg-main"><div id="cs-showing"></div><div id="cs-weeks"></div>'+
@@ -12377,7 +12537,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // and falls back to SoundCloud/NTS. NOTHING here may search YouTube.
     function guidePlayHTML(n){
       if(!n) return '';
-      return '<button class="fp-ab go" id="gd-play" type="button">'+PLAY_SVG+'Play</button>';
+      return '<button class="fp-ab go" id="gd-play" data-ic="play" type="button">Play</button>';
     }
     function wireGuidePlay(play, label){
       var b=document.getElementById('gd-play'); if(!b) return;
@@ -12438,7 +12598,7 @@ a.dst-full-t:hover{text-decoration:underline}
         if(!r.ok){
           // A URL that is no longer a guide (a genre whose last event passed) is
           // not an error page — send them to the city they asked for.
-          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
+          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" data-ic="calendar" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
           var gc=document.getElementById('gd-city'); if(gc) gc.addEventListener('click',function(){ hidePage(); setCity(city,true); });
           return;
         }
@@ -12446,7 +12606,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var h='<div class="gd-head"><h2 class="page-title">'+esc(g.title)+'</h2><div class="sub">'+esc(g.subtitle||'')+'</div>'+
               (g.blurb?'<p class="seo-desc">'+esc(g.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((g.play||[]).length)+
-              '<button class="fp-ab" id="gd-share" type="button">Share</button></div></div>';
+              '<button class="fp-ab" id="gd-share" data-ic="share" type="button">Share</button></div></div>';
         (g.sections||[]).forEach(function(s,i){
           h+=secH(s.date?fmtDateLabel(s.date):s.label, i?1:0)+'<div class="gd-evs" data-sec="'+i+'"></div>';
         });
@@ -12502,7 +12662,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var h='<div class="gd-head"><h2 class="page-title">'+esc(title)+'</h2><div class="sub">'+items.length+' artists</div>'+
               '<p class="seo-desc">'+esc(blurb)+'</p>'+
               '<div class="gd-actions">'+guidePlayHTML(items.length)+
-              '<a class="fp-ab nav" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
+              '<a class="fp-ab nav" data-ic="person" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
         h+=guideArtistRowsHTML(items);
         openPanel(h);
         var canon=location.origin+url;
@@ -12520,8 +12680,8 @@ a.dst-full-t:hover{text-decoration:underline}
         var d=await r.json();
         var cn=d.cityName||cityLabel(currentCity);
         var h='<h2 class="page-title">Guides &amp; lists</h2><div class="sub">Where to go, by sound and by area. Plus lists made by people here.</div>';
-        h+='<div class="gd-actions"><button class="fp-ab go" id="gl-new" type="button">New list</button>'+
-           '<button class="fp-ab" id="gl-mine" type="button">My lists</button></div>';
+        h+='<div class="gd-actions"><button class="fp-ab go" id="gl-new" data-ic="plus" type="button">New list</button>'+
+           '<button class="fp-ab" id="gl-mine" data-ic="list" type="button">My lists</button></div>';
         if(d.weekend) h+=secH('Start here',1)+'<div class="gd-chips"><a class="gd-chip gd-chip-lg nav" href="'+esc(SC_BASE+d.city+'/this-weekend/')+'">'+esc(d.weekend.title)+'</a></div>';
         if((d.genres||[]).length) h+=secH('By sound in '+cn,1)+'<div class="gd-chips">'+d.genres.map(function(g){
           return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+g.slug+'/')+'">'+esc(g.name)+'<span class="gd-ct">'+g.count+'</span></a>';
@@ -12557,8 +12717,8 @@ a.dst-full-t:hover{text-decoration:underline}
               '<div class="sub">'+esc(L.count+(L.count===1?' artist':' artists'))+' · by <a class="nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(L.by.handle)+'/')+'">'+esc(L.by.name)+'</a>'+(L.public?'':' · private')+'</div>'+
               (L.blurb?'<p class="seo-desc">'+esc(L.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((L.play||[]).length)+
-              '<button class="fp-ab" id="gd-share" type="button">Share</button>'+
-              (L.mine?'<button class="fp-ab" id="ls-edit" type="button">Edit</button>':'')+'</div></div>';
+              '<button class="fp-ab" id="gd-share" data-ic="share" type="button">Share</button>'+
+              (L.mine?'<button class="fp-ab" id="ls-edit" data-ic="edit" type="button">Edit</button>':'')+'</div></div>';
         h+=(L.items||[]).length?guideArtistRowsHTML(L.items.filter(function(i){ return i.kind==='artist'; })):
            '<div class="empty">Nothing on this list yet.</div>';
         openPanel(h);
@@ -12588,7 +12748,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="auth-box'+(opts.cls?' '+opts.cls:'')+'"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         (eyebrow?'<div class="eyebrow">'+esc(eyebrow)+'</div>':'')+'<h3>'+esc(title)+'</h3>'+bodyHTML+
-        (opts.cta?'<button class="go" data-modal-go type="button">'+esc(opts.cta)+'</button>':'')+
+        (opts.cta?'<button class="go" data-modal-go data-ic="'+(/^(Create|New)/.test(opts.cta)?'plus':'check')+'" type="button">'+esc(opts.cta)+'</button>':'')+
         '<div class="err" data-modal-err></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); document.removeEventListener('keydown', onKey); }
@@ -12625,7 +12785,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<label class="ee-l">Title</label><input type="text" id="el-title" maxlength="120" value="'+attrEsc(L.title)+'">'+
         '<label class="ee-l">Description</label><textarea id="el-blurb" maxlength="500">'+esc(L.blurb||'')+'</textarea>'+
         '<label class="ee-check"><input type="checkbox" id="el-pub"'+(L.public?' checked':'')+'> Anyone can see this list</label>'+
-        '<button class="fp-ab ee-danger" id="el-del" type="button">Delete list</button>',
+        '<button class="fp-ab ee-danger" id="el-del" data-ic="trash" type="button">Delete list</button>',
         { cta:'Save', onGo: async function(close, o, go){
           var err=o.querySelector('[data-modal-err]'); go.disabled=true; err.textContent='';
           try{
@@ -12682,7 +12842,7 @@ a.dst-full-t:hover{text-decoration:underline}
                  '<span class="atl-name">'+esc(l.title)+'</span><span class="atl-ct">'+(l.has?'Added':'')+'</span></button>';
         }).join('');
         host.innerHTML=(rows||'<div class="empty">No lists yet. Make your first.</div>')+
-          '<button class="fp-ab" id="atl-new" type="button">New list</button>';
+          '<button class="fp-ab" id="atl-new" data-ic="plus" type="button">New list</button>';
         wire();
       }catch(_){ host.innerHTML='<div class="empty">Couldn’t load your lists. Try again.</div>'; }
     }
@@ -12773,16 +12933,26 @@ a.dst-full-t:hover{text-decoration:underline}
         var pKick=pNextArts.length?('Next · '+[_pndl, pNextArts.slice(0,6).map(esc).join(', ')].filter(Boolean).join(' · '))
                                   :['Promoter', pcity?esc(cityLabel(pcity)):''].filter(Boolean).join(' · ');
         if(p.followers>1) pKick+=(pKick?' ':'')+'<b class="fp-foll">'+p.followers+' followers</b>';
-        var pFollow='<button class="fp-ab'+(p.following?' on':'')+'" id="pf-btn" type="button" aria-pressed="'+(p.following?'true':'false')+'">'+HEART_SVG+'<span>'+(p.following?'Following':'Follow')+'</span></button>';
-        var pLogSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
-        var pLog='<button class="fp-ab" id="pp-been" type="button">'+pLogSvg+'<span>Log a gig</span></button>';
-        var pActs='<div class="fp-acts">'+(pNext0?('<button class="fp-ab go" id="pp-radio" type="button" aria-label="Play the next line-up">'+PLAY_SVG+'<span>Play</span></button>'):'')+pFollow+pLog+'</div>';
+        // Web hero (760 up): the warm line = who plays next and when (opens that gig); the sub line = the city.
+        var pKickW=(pNext0&&pNextArts.length)?'<a class="fp-kick fp-hk h7w nav" href="'+esc(evHref(pNext0.id,null,pNext0.venue))+'" data-event-id="'+esc(String(pNext0.id))+'">Next · '+[esc(_pndl), heroNames(pNextArts)].filter(Boolean).join(' · ')+'</a>':'';
+        var pSubW=[(p.cities||[]).slice(0,3).map(function(c){ return esc(cityLabel(c)); }).join(', '), p.followers>1?p.followers+' followers':''].filter(Boolean).join(' · ');
+        // The picture: a promoter has no photo of its own, so it is the poster of the
+        // next gig, else of the latest one (the apps' rule, PromoterView.heroPoster).
+        var _pPoster=((p.upcoming||[]).concat(p.past||[]).find(function(e){ return e && e.poster_url; })||{}).poster_url||'';
+        var _pSrc=_pPoster?imgUrl(_pPoster,heroImgW()):'', _pHar=await heroHar(_pSrc);
+        var _pSeed=attrEsc(String(dispName).replace(/'/g,''));
+        var pImg=_pPoster?'<img decoding="async" fetchpriority="high" src="'+_pSrc+'" alt="'+attrEsc(dispName+' gig poster')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+_pSeed+'\',\''+attrEsc(slug)+'\')">':genHero(dispName, slug);
+        var pFollow='<button class="fp-ab'+(p.following?' on':'')+'" id="pf-btn" data-ic="heart" type="button" aria-pressed="'+(p.following?'true':'false')+'"><span>'+(p.following?'Following':'Follow')+'</span></button>';
+        var pLog='<button class="fp-ab" id="pp-been" data-ic="plus" type="button"><span>Log a gig</span></button>';
+        var pActs='<div class="fp-acts">'+(pNext0?('<button class="fp-ab go" id="pp-radio" data-ic="play" type="button" aria-label="Play the next line-up"><span>Play</span></button>'):'')+pFollow+pLog+'</div>';
         h+='<div class="fp-artist"><div class="fp-hero">'+
-             '<div class="fp-photo">'+genHero(dispName, slug)+(pcity?'<div class="fp-origin">'+esc(cityLabel(pcity))+'</div>':'')+'</div>'+
+             '<div class="fp-photo"'+heroHarAttr(_pHar)+'>'+pImg+(pcity?'<div class="fp-origin h7n">'+esc(cityLabel(pcity))+'</div>':'')+'</div>'+
              '<div class="fp-hx">'+
-               '<div class="fp-htop"><div class="fp-kick">'+pKick+'</div>'+
-               '<div class="fp-namerow"><h1 class="fp-h1">'+esc(dispName)+'</h1></div></div>'+
+               '<div class="fp-htop"><div class="fp-kick h7n">'+pKick+'</div>'+pKickW+
+               '<div class="fp-namerow"><h1 class="fp-h1">'+esc(dispName)+'</h1></div>'+
+               (pSubW?'<div class="fp-hsub h7w">'+pSubW+'</div>':'')+'</div>'+
                (p.description?'<p class="fp-bio">'+esc(p.description)+'</p>':'')+
+               (p.description?'<hr class="fp-hhr h7w">':'')+
                pActs+
              '</div>'+
            '</div>';
@@ -12887,30 +13057,40 @@ a.dst-full-t:hover{text-decoration:underline}
         // Venue hero — the SAME bespoke fp-hero structure as the artist page:
         // photo block (image or generative) + kick line + big name w/ website + acts row.
         var vNext=nextPlayableEvent(v.upcoming);
-        var vImg=v.image?'<img decoding="async" fetchpriority="high" src="'+imgUrl(v.image,heroImgW())+'" alt="'+attrEsc(dispName+' venue photo')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(String(dispName).replace(/'/g,""))+'\',\''+attrEsc(String(v.slug||dispName))+'\')">':genHero(dispName, v.slug||dispName);
+        var _vSrc=v.image?imgUrl(v.image,heroImgW()):'', _vHar=await heroHar(_vSrc);
+        var vImg=v.image?'<img decoding="async" fetchpriority="high" src="'+_vSrc+'" alt="'+attrEsc(dispName+' venue photo')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(String(dispName).replace(/'/g,""))+'\',\''+attrEsc(String(v.slug||dispName))+'\')">':genHero(dispName, v.slug||dispName);
         // Kick line = who's playing next here (their line-up); falls back to area · city.
         var vNextArts=(vNext&&vNext.lineup)?vNext.lineup.map(function(a){ return a.name; }).filter(Boolean):[];
         var _vndl=(vNext&&vNext.event_date)?fmtDateLabel(String(vNext.event_date).slice(0,10)):'';
         var vKick=vNextArts.length?('Next · '+[_vndl, vNextArts.slice(0,6).map(esc).join(', ')].filter(Boolean).join(' · ')):[v.area?esc(v.area):'', v.city?esc(cityLabel(v.city)):''].filter(Boolean).join(' · ');
         if(v.followers>1) vKick+=(vKick?' ':'')+'<b class="fp-foll">'+v.followers+' followers</b>';
+        // Web hero (760 up): the warm line = who plays next and when (opens that gig); the sub line = the city.
+        var vKickW=(vNext&&vNextArts.length)?'<a class="fp-kick fp-hk h7w nav" href="'+esc(evHref(vNext.id,null,dispName))+'" data-event-id="'+esc(String(vNext.id))+'">Next · '+[esc(_vndl), heroNames(vNextArts)].filter(Boolean).join(' · ')+'</a>':'';
+        var vSubW=[v.area?esc(v.area):'', v.city?esc(cityLabel(v.citySlug||v.city)):'', v.followers>1?v.followers+' followers':''].filter(Boolean).join(' · ');
+        var vDna=dnaBoxHTML(v.dna);
         var vActs='';
         if(v.slug){
-          var vFollow='<button class="fp-ab'+(v.following?' on':'')+'" id="vf-btn" type="button" aria-pressed="'+(v.following?'true':'false')+'">'+HEART_SVG+'<span>'+(v.following?'Following':'Follow')+'</span></button>';
-          var vLogSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
-          var vBeen='<button class="fp-ab" id="vp-been" type="button">'+vLogSvg+'<span>Log a gig</span></button>';   // was "I’ve been" — now consistent with artist header
-          vActs='<div class="fp-acts">'+(vNext?('<button class="fp-ab go" id="vp-radio" type="button" aria-label="Play the next line-up at '+esc(dispName)+'">'+PLAY_SVG+'<span>Play</span></button>'):'')+vFollow+vBeen+'</div>';
+          var vFollow='<button class="fp-ab'+(v.following?' on':'')+'" id="vf-btn" data-ic="heart" type="button" aria-pressed="'+(v.following?'true':'false')+'"><span>'+(v.following?'Following':'Follow')+'</span></button>';
+          var vBeen='<button class="fp-ab" id="vp-been" data-ic="plus" type="button"><span>Log a gig</span></button>';   // was "I’ve been" — now consistent with artist header
+          vActs='<div class="fp-acts">'+(vNext?('<button class="fp-ab go" id="vp-radio" data-ic="play" type="button" aria-label="Play the next line-up at '+esc(dispName)+'"><span>Play</span></button>'):'')+vFollow+vBeen+'</div>';
         }
         var h='<div class="fp-artist">'+
           '<div class="fp-hero">'+
-            '<div class="fp-photo">'+vImg+(v.area?'<div class="fp-origin">'+esc(v.area)+'</div>':'')+'</div>'+
+            '<div class="fp-photo"'+heroHarAttr(_vHar)+'>'+vImg+(v.area?'<div class="fp-origin h7n">'+esc(v.area)+'</div>':'')+'</div>'+
             '<div class="fp-hx">'+
-              '<div class="fp-htop"><div class="fp-kick">'+vKick+'</div>'+
-              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(dispName)+'</h1>'+(socialLinksHTML({ website:v.website })?'<div class="fp-socials fp-links">'+socialLinksHTML({ website:v.website })+'</div>':'')+'</div></div>'+
-              (v.address?'<p class="fp-bio">'+esc(v.address)+'</p>':'')+
+              '<div class="fp-htop"><div class="fp-kick h7n">'+vKick+'</div>'+vKickW+
+              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(dispName)+'</h1>'+(socialLinksHTML({ website:v.website })?'<div class="fp-socials fp-links">'+socialLinksHTML({ website:v.website })+'</div>':'')+'</div>'+
+              (vSubW?'<div class="fp-hsub h7w">'+vSubW+'</div>':'')+'</div>'+
+              (v.address?'<p class="fp-bio h7n">'+esc(v.address)+'</p>':'')+
               vActs+
+              // Web hero (760 up): a hairline, WHERE, then the venue facts. The Venue DNA
+              // box is INSIDE the hero now, last, so it is beside the picture from 760 up
+              // and still under the buttons on a phone (same place as before).
+              ((v.address||vDna)?'<hr class="fp-hhr h7w">':'')+
+              (v.address?'<div class="fp-hrows h7w">'+heroRow('Where', esc(v.address))+'</div>':'')+
+              '<div id="vp-dna" class="fp-hdna">'+vDna+'</div>'+
             '</div>'+
           '</div>';
-        h+='<div id="vp-dna">'+dnaBoxHTML(v.dna)+'</div>';
         // Owner toolkit (audience + edit + broadcast) + public updates list.
         h+=ownerToolsHTML('venue', v)+entityUpdatesHTML('venue', v);
         // Content sections as in-page tabs (Upcoming / Past / Location) — same pattern as the artist page.
@@ -12923,7 +13103,7 @@ a.dst-full-t:hover{text-decoration:underline}
           h+='<div class="fp-tabs" role="tablist">'+vTabs.map(function(t){ var on=t.key===_vActive; return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tab="'+t.key+'">'+esc(t.label)+(t.count!=null?'<span class="c">'+t.count+'</span>':'')+'</button>'; }).join('')+'</div>'+
             vTabs.map(function(t){ return '<div class="fp-tabpanel'+(t.key===_vActive?'':' hide')+'" data-panel="'+t.key+'">'+t.html+'</div>'; }).join('');
         } else if(vTabs.length===1){ h+=vTabs[0].html; }
-        h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups up to date.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
+        h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups up to date.</div></div><button class="cb-btn" id="vp-claim" data-ic="claim" type="button">Claim this venue</button></div>';
         h+='</div>';   // close .fp-artist
         openPanel(h);
         var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
@@ -12968,7 +13148,7 @@ a.dst-full-t:hover{text-decoration:underline}
             var label=g.title||line||'Event';
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<a class="gh-venue nav" href="'+esc(evHref(g.id))+'" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</a>'+
-              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">Log</button></li>';
+              '<button class="gh-log" data-ic="plus" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">Log</button></li>';
           }).join('')+'</ul></div>';
           vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
@@ -13040,8 +13220,8 @@ a.dst-full-t:hover{text-decoration:underline}
       // a fresh load, back/forward) — a hop from another page starts on Line-up.
       var _evTab=(!window._scRestore && /^(dj|club|e)\//.test(currentRoute()||'')) ? 'lineup' : (((location.hash||'').replace(/^#/,'')==='lineup-sets')?'lineup-sets':'lineup');
       if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
-      var _vtPoster=vtPosterFrom(_vtSource);
-      vtRun(function(){ openPanel(pageSkeleton(_vtPoster)); });
+      var _vtPoster=vtPosterFrom(_vtSource), _vtHar=vtHarFrom(_vtSource);
+      vtRun(function(){ openPanel(pageSkeleton(_vtPoster, _vtHar)); });
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
@@ -13065,7 +13245,9 @@ a.dst-full-t:hover{text-decoration:underline}
         // a missing/broken poster AND one too small to fill the hero both take
         // genHero (heroImgLoad / heroImgFail). The viewer still opens the poster.
         var _gSeed=String(ev.title||ev.venue||'Event').replace(/'/g,'');
-        var posterArt=ev.poster?'<img decoding="async" fetchpriority="high" src="'+imgUrl(ev.poster,heroImgW())+'" alt="'+attrEsc((ev.title||'Event')+' poster')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(_gSeed)+'\',\''+attrEsc(id)+'\')">':genHero(_gSeed, id);
+        var _eSrc=ev.poster?imgUrl(ev.poster,heroImgW()):'', _eHar=_vtHar || await heroHar(_eSrc);
+        if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) return;
+        var posterArt=ev.poster?'<img decoding="async" fetchpriority="high" src="'+_eSrc+'" alt="'+attrEsc((ev.title||'Event')+' poster')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+attrEsc(_gSeed)+'\',\''+attrEsc(id)+'\')">':genHero(_gSeed, id);
         var stamp=isPickVenue(ev.venue)?'<div class="fp-ev-stamp">Pick</div>':'';
         var blurb=ev.content||ev.description||'';
         // A SEARCH for tickets, in the person's own browser — never a ticket seller
@@ -13073,17 +13255,37 @@ a.dst-full-t:hover{text-decoration:underline}
         // browser with the search results for tickets". Titles stay ticket-free.
         var ticketUrl='https://www.google.com/search?q='+encodeURIComponent((ev.title||'')+' '+(ev.venue||'')+' tickets');
         var evPicked=isEventPicked(id);
+        // WHO PUT THE NIGHT ON. A fifth of all links are the club booking its own
+        // room ("at fabric / Event by fabric" is noise), so a promoter whose name
+        // IS the venue drops out. Three names then a count: one line always.
+        var _vn=(ev.venue||'').trim().toLowerCase();
+        var _ps=(ev.promoters||[]).filter(function(p){ return p && p.name && p.name.trim().toLowerCase()!==_vn; });
+        var byHTML=_ps.length?(_ps.slice(0,3).map(function(p){
+            return '<a class="pr-link nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>';
+          }).join(', ')+(_ps.length>3?(' <span class="pr-rest">+ '+(_ps.length-3)+' more</span>'):'')):'';
+        // Web hero (760 up): the picture whole at the left; date, time and venue above the
+        // title; then WHEN / WHERE / BY / PRICE as rows beside the picture.
+        var _eDay=ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'');
+        var _eVenueA=ev.venue?'<a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">'+esc(ev.venue)+'</a>':'';
+        var kickW=[_eDay, formatTime(ev.startTime)||ev._time||'', [ev.venue, ev.city?cityLabel(ev.city):''].filter(Boolean).join(', ')].filter(Boolean).map(esc).join(' · ');
+        var rowsW='<hr class="fp-hhr h7w"><div class="fp-hrows h7w">'+
+          heroRow('When', esc([_eDay, formatTimeRange(ev.startTime,ev.endTime,ev._time).replace(' – ',' to ')].filter(Boolean).join(' · ')))+
+          heroRow('Where', _eVenueA)+(ev.venueAddress?heroRow('', esc(ev.venueAddress)):'')+
+          heroRow('By', byHTML)+
+          heroRow('Price', esc(price.replace('–',' to '+(CCY_SYMBOL[ev.currency]||''))))+'</div>';
         var h='<div class="fp-event">'+
-          '<button class="fp-ev-share-ic" id="fp-ev-share" type="button" aria-label="Share this gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
+          '<button class="fp-ev-share-ic h7n" id="fp-ev-share" type="button" aria-label="Share this gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
           '<div class="fp-ev-hero">'+
-            '<div class="fp-ev-pcol"'+(ev.poster?' id="fp-ev-pos" role="button" tabindex="0" aria-label="See the poster" style="cursor:zoom-in"':'')+'><div class="fp-ev-poster sc-hero">'+posterArt+'</div>'+((stamp||price)?'<div class="fp-ev-badges">'+stamp+(price?'<div class="fp-ev-price">'+esc(price)+'</div>':'')+'</div>':'')+'</div>'+
+            '<div class="fp-ev-pcol"'+(ev.poster?' id="fp-ev-pos" role="button" tabindex="0" aria-label="See the poster"':'')+' style="'+(ev.poster?'cursor:zoom-in;':'')+(_eHar?'--har:'+_eHar:'')+'"><div class="fp-ev-poster sc-hero">'+posterArt+'</div>'+((stamp||price)?'<div class="fp-ev-badges h7n">'+stamp+(price?'<div class="fp-ev-price">'+esc(price)+'</div>':'')+'</div>':'')+'</div>'+
             '<div class="fp-ev-main">'+
               // .fp-ev-top = the part that sits ON the poster (full-bleed hero).
               '<div class="fp-ev-top">'+
               (_invActive?'<div class="eyebrow" style="margin-bottom:6px">u/'+esc(_inviteFrom)+' invited you</div>':'')+
               // date · time · venue · city in one kick line (Paper 14N2); the venue is the link.
-              '<div class="fp-kick fp-ev-kick">'+[when?esc(when):'', ev.venue?'<a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">'+esc(ev.venue)+'</a>':'', ev.city?esc(cityLabel(ev.city)):''].filter(Boolean).join(' · ')+'</div>'+
+              (kickW?'<div class="fp-kick fp-hk h7w">'+kickW+'</div>':'')+
+              '<div class="fp-kick fp-ev-kick h7n">'+[when?esc(when):'', ev.venue?'<a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">'+esc(ev.venue)+'</a>':'', ev.city?esc(cityLabel(ev.city)):''].filter(Boolean).join(' · ')+'</div>'+
               '<h1 class="fp-ev-title">'+esc(ev.title||'Event')+'</h1>'+
+              (_eVenueA?'<div class="fp-hsub h7w">'+_eVenueA+'</div>':'')+
               (_invActive?'<div class="inv-strip"><span class="inv-av">'+esc((_inviteFrom[0]||'?').toUpperCase())+'</span><span>u/'+esc(_inviteFrom)+' is going</span></div>':'')+
               // Equal-width action row (Play same size as its siblings — grid wraps
               // to a second row on narrow screens without stretching). Share → corner icon, Tickets → below the blurb.
@@ -13094,45 +13296,31 @@ a.dst-full-t:hover{text-decoration:underline}
                 // could still end up with a single button. One button = flex, so
                 // it takes its natural width instead of stretching the page.
                 var acts=[];
-                if((ev.artists||[]).length) acts.push('<button class="fp-pb go" id="fp-ev-play" type="button">'+PLAY_SVG+'<span>Play</span></button>');
+                if((ev.artists||[]).length) acts.push('<button class="fp-pb go" id="fp-ev-play" data-ic="play" type="button"><span>Play</span></button>');
                 if(isPast){
                   // A NIGHT THAT HAS HAPPENED IS A NIGHT YOU CAN LOG. Without this
                   // the archive was read-only: the page knew you were there only if
                   // you had already logged it somewhere else, and offered no way in.
-                  acts.push('<button class="fp-pb" id="fp-ev-log" type="button">'+logSvg+'<span>'+(ev.mine?'Edit this gig':'Log this gig')+'</span></button>');
+                  acts.push('<button class="fp-pb" id="fp-ev-log" data-ic="'+(ev.mine?'edit':'plus')+'" type="button"><span>'+(ev.mine?'Edit this gig':'Log this gig')+'</span></button>');
                 } else {
-                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved':'Save')+'</button>');
-                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-evt="'+esc(id)+'" type="button">'+'I&rsquo;m going'+'</button>');
+                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-ic="heart" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved':'Save')+'</button>');
+                  acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-ic="check" data-evt="'+esc(id)+'" type="button">'+'I&rsquo;m going'+'</button>');
                   // Invite lives in the hero row now (was a band of its own under
                   // the hero). L secondary — Play stays the one gradient.
-                  if(!_invActive) acts.push('<button class="fp-pb" id="fp-ev-invite" type="button">Invite</button>');
+                  if(!_invActive) acts.push('<button class="fp-pb" id="fp-ev-invite" data-ic="invite" type="button">Invite</button>');
                 }
-                return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'</div>';
+                // From 760 up Share is a pill in this row (the corner icon is the phone's).
+                return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'<button class="fp-pb h7w" id="fp-ev-share2" data-ic="share" type="button">Share</button></div>';
               })()+
               '</div>'+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
               // WHO PUT THE NIGHT ON — a quiet credit line under the description,
-              // above the tickets link. It used to sit directly under "at <venue>"
-              // at the same weight and size, so the header read as two equal
-              // headlines and the promoter competed with the room. A promoter is
-              // an attribution, not a destination: small, below the blurb, still
-              // a real link to their page.
-              (function(){
-                // A fifth of all links are the club booking its own room. "at fabric
-                // / Event by fabric" is noise, so a promoter whose name IS the venue
-                // drops out.
-                var vn=(ev.venue||'').trim().toLowerCase();
-                var ps=(ev.promoters||[]).filter(function(p){ return p && p.name && p.name.trim().toLowerCase()!==vn; });
-                if(!ps.length) return '';
-                // Three names then a count — one line always. 77 nights name more.
-                var shown=ps.slice(0,3).map(function(p){
-                  return '<a class="pr-link nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>';
-                }).join(', ');
-                var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
-                return '<div class="fp-ev-by">Event by '+shown+rest+'</div>';
-              })()+
+              // above the tickets link (a promoter is an attribution, not a
+              // destination). From 760 up it is the BY row beside the picture.
+              (byHTML?'<div class="fp-ev-by h7n">Event by '+byHTML+'</div>':'')+
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets ↗</a>')+
+              rowsW+
 
             '</div>'+
           '</div>'+
@@ -13156,7 +13344,7 @@ a.dst-full-t:hover{text-decoration:underline}
         if(ev.venueLat!=null && ev.venueLng!=null){
           h+='<div class="fp-sec"><div class="fp-sech">Location <span>'+esc((ev.venueAddress||'').split(',').pop().trim())+'</span></div>'+
             '<div class="fp-ev-loc"><div class="fp-ev-loc-l">'+
-              '<div class="fp-ev-loc-v"><a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue||'')+'"><b>'+esc(ev.venue||'Venue')+'</b></a>'+(ev.venue_slug?'<button class="fp-ev-follow'+(ev.venueFollowing?' on':'')+'" id="fp-ev-follow" type="button" aria-pressed="'+(ev.venueFollowing?'true':'false')+'"><span>'+(ev.venueFollowing?'Following':'Follow')+'</span></button>':'')+'</div>'+
+              '<div class="fp-ev-loc-v"><a class="venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue||'')+'"><b>'+esc(ev.venue||'Venue')+'</b></a>'+(ev.venue_slug?'<button class="fp-ev-follow'+(ev.venueFollowing?' on':'')+'" id="fp-ev-follow" data-ic="heart" type="button" aria-pressed="'+(ev.venueFollowing?'true':'false')+'"><span>'+(ev.venueFollowing?'Following':'Follow')+'</span></button>':'')+'</div>'+
               (ev.venueAddress?'<div class="fp-ev-addr">'+esc(ev.venueAddress)+'</div>':'')+
               directionsLink(ev.venueLat, ev.venueLng, ev.venue||'')+
               '</div><div class="fp-ev-map" id="fp-ev-map"></div></div></div>';
@@ -13190,7 +13378,7 @@ a.dst-full-t:hover{text-decoration:underline}
         if(intBtn) intBtn.addEventListener('click',function(){ setEventGated(id, evtStatus(id)==='saved'?null:'saved', evMeta); });
         var goBtn=document.getElementById('fp-ev-going');
         if(goBtn) goBtn.addEventListener('click',function(){ setEventGated(id, evtStatus(id)==='going'?'saved':'going', evMeta); });   // un-going keeps the interest
-        var shr=document.getElementById('fp-ev-share'); if(shr) shr.addEventListener('click',function(){ shareEvent(id, ev.title, ev.venue); });
+        ['fp-ev-share','fp-ev-share2'].forEach(function(k){ var shr=document.getElementById(k); if(shr) shr.addEventListener('click',function(){ shareEvent(id, ev.title, ev.venue); }); });
         var inv=document.getElementById('fp-ev-invite'); if(inv) inv.addEventListener('click',function(){ shareInvite(id, ev.title, ev.venue); });
         if(_invActive) inviteBar(id, ev, evMeta, _inviteFrom);
         var fol=document.getElementById('fp-ev-follow'); if(fol) fol.addEventListener('click',function(){ toggleVenueFollow({slug:ev.venue_slug,name:ev.venue,following:ev.venueFollowing}, fol); });
@@ -13467,7 +13655,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '<div class="lg-field" id="lg-lineup-field"><label>Who did you see? <small class="lg-opt">tap the artists you caught</small></label><div id="lg-lineup"></div></div>'+
             '<div class="lg-field" id="lg-vrev-field" style="display:none"><label>How was <span id="lg-vrev-nm">the venue</span>? <small class="lg-opt">optional</small></label><div id="lg-vrev"></div></div>'+
             '<div class="lg-field"><label>Note</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
-            '<button id="lg-save" type="button" class="pf-btn primary block">Log the gig</button>'+
+            '<button id="lg-save" data-ic="plus" type="button" class="pf-btn primary block">Log the gig</button>'+
             '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
             '</div>'+
           '</div>'+
@@ -13562,7 +13750,7 @@ a.dst-full-t:hover{text-decoration:underline}
         if(lgVRev.toilets!=null) bits.push('Toilets '+lgVRev.toilets);
         el.innerHTML='<div class="vrv-done"><span class="vrv-done-tx">You&rsquo;ve rated this venue'+
           (bits.length?' &middot; '+esc(bits.join('  ')):'')+'</span>'+
-          '<button class="vrv-edit" id="vrv-edit" type="button">Edit</button></div>';
+          '<button class="vrv-edit" id="vrv-edit" data-ic="edit" type="button">Edit</button></div>';
         var eb=document.getElementById('vrv-edit');
         if(eb) eb.addEventListener('click', function(){ lgVRevOpen=true; renderLgVenueRev(); });
         return;
@@ -13664,7 +13852,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var id=esc(String(e.event_id));
         return '<div class="lg-erow lg-wrow" data-wid="'+id+'"><span class="le-po"'+po+'></span><span class="le-m"><span class="le-d">'+esc(d)+' &middot; '+(e.status==='going'?'Going':'Interested')+'</span><span class="le-t">'+esc(acts)+'</span>'+(e.venue?'<span class="le-s">'+esc(e.venue)+'</span>':'')+'</span>'+
           '<button type="button" class="lg-pill lg-nogo" data-nogo="'+id+'" aria-label="Didn&rsquo;t make it, '+esc(acts)+'" title="Didn&rsquo;t make it"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg><span class="tx">Didn&rsquo;t make it</span></button>'+
-          '<button type="button" class="lg-pill" data-wlog="'+id+'">Log it</button></div>';
+          '<button type="button" class="lg-pill" data-ic="plus" data-wlog="'+id+'">Log it</button></div>';
       }).join('')+'</div>';
     }
     // Shared by the log page and the profile nudge: optimistic, undoable.
@@ -13761,7 +13949,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<div class="to-chips" id="to-dis-chips"></div>'+
           '<label class="to-label">Your vibe</label>'+
           '<div class="vibe-chips" id="to-vibes">'+TASTE_VIBES.map(function(v){ return '<button type="button" class="vibe-chip" data-vibe="'+esc(v)+'">'+esc(v)+'</button>'; }).join('')+'</div>'+
-          '<button class="go" id="to-save" type="button">Build my taste profile</button>'+
+          '<button class="go" id="to-save" data-ic="plus" type="button">Build my taste profile</button>'+
           '<div class="err" id="to-err"></div>'+
         '</div>'+
         '<div id="to-result" hidden></div>'+
@@ -13788,7 +13976,7 @@ a.dst-full-t:hover{text-decoration:underline}
           rv.innerHTML='<div class="eyebrow">Your taste</div><h3>Here&rsquo;s your profile.</h3>'+
             (j.profileText?'<p class="taste-summary">'+esc(j.profileText)+'</p>':'')+
             (pills?'<div class="taste-genres">'+pills+'</div>':'<p style="color:var(--muted)">Save a few more artists and it&rsquo;ll fill in.</p>')+
-            '<button class="go" id="to-done" type="button">See what&rsquo;s on</button>';
+            '<button class="go" id="to-done" data-ic="calendar" type="button">See what&rsquo;s on</button>';
           rv.querySelector('#to-done').addEventListener('click',function(){ ov.remove(); if(currentUser&&typeof openDiscover==='function') openDiscover(); });
         }).catch(function(){ ov.querySelector('#to-err').textContent='Network error. Try again.'; btn.disabled=false; });
       });
@@ -13892,13 +14080,6 @@ a.dst-full-t:hover{text-decoration:underline}
     // The logo mark, drawn in the button's ink. The brand's own name is never
     // the flat accent, so it is never a tinted glyph — it is the ink on the
     // sunset pill, which IS the gradient.
-    function obMarkHTML(){
-      return '<svg class="ob-mark" width="21" height="21" viewBox="0 0 32 32" fill="none" stroke="currentColor" aria-hidden="true">'+
-        '<rect x="2.5" y="7.5" width="27" height="17" rx="5" stroke-width="2.3"/>'+
-        '<circle cx="11.5" cy="16" r="2.7" fill="currentColor" stroke="none"/>'+
-        '<circle cx="20.5" cy="16" r="2.7" fill="currentColor" stroke="none"/>'+
-        '<path d="M14.2 16h3.6" stroke-width="2.3" stroke-linecap="round"/></svg>';
-    }
     /**
      * THE LANDING — one fold, and the only signed-out pitch there is.
      *
@@ -13915,7 +14096,7 @@ a.dst-full-t:hover{text-decoration:underline}
      * took the only instance of it off the screen.
      *
      * No header on the phone: nothing to navigate to yet, and the bar cost a
-     * sixth of the fold. The brand moves INTO the button (obMarkHTML).
+     * sixth of the fold. The brand moved INTO the button; since 2 Oct 2026 the button wears the map's sign-in icon (button icons, same as the apps).
      */
     var OB_MODE={
       join:   { h:'Gigs, artists and your music diary. All in one place', sub:'The social diary for gigs.',
@@ -13949,7 +14130,7 @@ a.dst-full-t:hover{text-decoration:underline}
                   '<rect x="2.5" y="4.5" width="15" height="11" rx="2"/><path d="M3 5.5l7 5 7-5"/></svg>'+
                 '<input type="email" id="ob-email" placeholder="Your email" autocomplete="email" inputmode="email" value="'+attrEsc(_ob.email)+'">'+
               '</div>'+
-              '<button class="ob-lcta" id="ob-send" type="button">'+obMarkHTML()+'<span id="ob-ctat">'+m.cta+'</span></button>'+
+              '<button class="ob-lcta" id="ob-send" data-ic="signin" type="button"><span id="ob-ctat">'+m.cta+'</span></button>'+
             '</div>'+
             '<div class="ob-err" id="ob-err"></div>'+
             '<div class="ob-fine" id="ob-fine">'+m.fine+'</div>'+
@@ -14004,7 +14185,7 @@ a.dst-full-t:hover{text-decoration:underline}
         // (W3S4ZF), so a number pad cannot even type one.
         '<input type="text" id="ob-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase">'+
         '<div class="ob-err" id="ob-err"></div>'+
-        '<button class="ob-cta" id="ob-codego" type="button">Sign me in</button>'+
+        '<button class="ob-cta" id="ob-codego" data-ic="signin" type="button">Sign me in</button>'+
         '<button class="ob-alt" id="ob-resend" type="button">Send it again</button>');
       var inp=el.querySelector('#ob-code'), busy=false;
       /**
@@ -14055,7 +14236,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
         '<button class="ob-alt" id="ob-changecity" type="button">Somewhere else</button></div>'+
         '<div id="ob-citypick" style="margin-top:14px;max-width:340px" hidden>'+cityPickerHTML('ob-city','')+'</div>'+
-        '<button class="ob-cta" id="ob-citygo" type="button" disabled>That&rsquo;s me</button>');
+        '<button class="ob-cta" id="ob-citygo" data-ic="check" type="button" disabled>That&rsquo;s me</button>');
       function setCity(slug){
         var c=null; for(var i=0;i<CITY_LIST.length;i++) if(CITY_LIST[i].slug===slug) c=CITY_LIST[i];
         if(!c) return;
@@ -14098,7 +14279,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="handle-field"><span class="hpre">u/</span>'+
           '<input type="text" id="ob-h-in" maxlength="20" placeholder="yourname" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></div>'+
         '<div class="handle-status" id="ob-h-status"></div>'+
-        '<button class="ob-cta" id="ob-h-go" type="button" disabled>Claim it</button>'+
+        '<button class="ob-cta" id="ob-h-go" data-ic="claim" type="button" disabled>Claim it</button>'+
         '<div class="ob-err" id="ob-h-err"></div>'+
         // A door. A handle is changeable from the account hub, and the last step
         // of a sign-up is not the place to trap somebody.
@@ -14278,7 +14459,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="sub">On a ticket site we don&rsquo;t list yet? Paste the link, check the details and add it.</div>'+
         '<div style="max-width:540px">'+
           '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
-            '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" class="fp-ab sm" type="button">Fetch</button></div>'+
+            '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" data-ic="link" class="fp-ab sm" type="button">Fetch</button></div>'+
             '<div id="im-note" style="font-size:var(--fs-sm);color:var(--muted);margin-top:6px;min-height:1em"></div></div>'+
           '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Gig / event name"></div>'+
           '<div class="lg-field"><label>Venue</label><input type="text" id="im-venue" placeholder="Where"></div>'+
@@ -14286,7 +14467,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<div class="lg-field" style="display:flex;gap:12px"><div style="flex:1"><label>Date</label><input type="date" id="im-date"></div><div style="flex:0 0 130px"><label>Start <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(opt)</small></label><input type="time" id="im-time"></div></div>'+
           '<div class="lg-field"><label>Line-up</label><input type="text" id="im-art-in" placeholder="Type an artist, hit enter…" autocomplete="off" autocapitalize="off"><div class="to-chips" id="im-art-chips"></div></div>'+
           '<div class="lg-field"><label>Poster URL <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label><input type="url" id="im-poster" placeholder="https://…"></div>'+
-          '<button id="im-save" class="fp-ab go" type="button" style="margin-top:4px">Add event</button>'+
+          '<button id="im-save" data-ic="plus" class="fp-ab go" type="button" style="margin-top:4px">Add event</button>'+
           '<div class="err" id="im-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
         '</div>';
     }
@@ -14483,8 +14664,8 @@ a.dst-full-t:hover{text-decoration:underline}
         if(canonVal) body+='<div class="adm-was"><b>Crawled:</b> '+esc(String(canonVal).slice(0,220))+'</div>';
         body+='</div>';
       });
-      body+='<div class="adm-acts"><button class="pf-btn primary" type="button" id="adm-save">Save override</button>'+
-        '<a class="pf-btn" id="adm-view" href="#">View page</a>'+
+      body+='<div class="adm-acts"><button class="pf-btn primary" type="button" id="adm-save" data-ic="check">Save override</button>'+
+        '<a class="pf-btn" id="adm-view" data-ic="link" href="#">View page</a>'+
         '<span class="adm-note" id="adm-msg"></span></div></div>';
       admRenderRight(body);
       var view=document.getElementById('adm-view');
@@ -14539,8 +14720,8 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="adm-field"><label for="adm-g-pa">Artists</label><textarea id="adm-g-pa" placeholder="ben-klock">'+esc(((d.picks||{}).artists||[]).join('\n'))+'</textarea></div></div>'+
         '<div class="adm-sec"><div class="adm-sec-t">Areas</div><div class="adm-sec-s">Neighbourhoods, and which rooms sit in them.</div>'+
         '<div id="adm-g-areas"></div>'+
-        '<div class="adm-acts"><button class="pf-btn" type="button" id="adm-g-add">Add area</button></div></div>'+
-        '<div class="adm-acts" style="margin-top:var(--sp-5)"><button class="pf-btn primary" type="button" id="adm-g-save">Save guide</button>'+
+        '<div class="adm-acts"><button class="pf-btn" type="button" id="adm-g-add" data-ic="plus">Add area</button></div></div>'+
+        '<div class="adm-acts" style="margin-top:var(--sp-5)"><button class="pf-btn primary" type="button" id="adm-g-save" data-ic="check">Save guide</button>'+
         '<span class="adm-note" id="adm-g-msg"></span></div>'+
         '<div class="adm-miss" id="adm-g-miss"></div></div>';
       admRenderRight(h);
@@ -14559,7 +14740,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<div class="adm-field"><label for="adm-a-t-'+i+'">Note</label><textarea id="adm-a-t-'+i+'" data-ai="'+i+'" data-af="note" maxlength="400">'+esc(a.note||'')+'</textarea></div>'+
           '<div class="adm-field" style="margin-bottom:0"><label for="adm-a-v-'+i+'">Venue slugs <small style="text-transform:none;letter-spacing:0;color:var(--faint)">comma separated</small></label>'+
             '<input type="text" id="adm-a-v-'+i+'" data-ai="'+i+'" data-af="venues" value="'+attrEsc((a.venues||[]).join(', '))+'"></div>'+
-          '<div class="adm-acts"><button class="pf-btn" type="button" data-arm="'+i+'">Remove</button></div></div>';
+          '<div class="adm-acts"><button class="pf-btn" data-ic="trash" type="button" data-arm="'+i+'">Remove</button></div></div>';
       }).join('') || '<div class="adm-note">No areas yet.</div>';
       box.querySelectorAll('[data-arm]').forEach(function(b){
         b.addEventListener('click',function(){ admCaptureAreas(); admState.areas.splice(+b.dataset.arm,1); admRenderAreas(); });
@@ -14718,7 +14899,7 @@ a.dst-full-t:hover{text-decoration:underline}
         document.getElementById('shared-from').addEventListener('click',function(){ openProfile(sharedFrom); });
         var acts=document.querySelector('.shared-banner .b-actions');
         if(acts && !document.getElementById('shared-follow')){
-          var fb=document.createElement('button'); fb.id='shared-follow'; fb.className='primary'; fb.textContent='Follow @'+sharedFrom;
+          var fb=document.createElement('button'); fb.id='shared-follow'; fb.className='primary'; fb.dataset.ic='heart'; fb.textContent='Follow @'+sharedFrom;
           fb.addEventListener('click',async function(){
             if(!currentUser){ openAuth(); return; }
             // Disable while in flight, and PUT IT BACK if the follow fails.
@@ -15615,9 +15796,9 @@ a.dst-full-t:hover{text-decoration:underline}
       // cursor. Trailing pads keep it a constant 42 cells.
       for(var tp=startDow+days; tp<42; tp++) h+='<div class="cal-cell pad"></div>';
       var applyBtn = '';
-      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
-      else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
-      h+='</div><div class="cal-foot">'+(calOnRange?'<span></span>':'<button id="cal-today" type="button">Today</button>')+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
+      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" data-ic="calendar" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
+      else if(calMode==='month'){ applyBtn='<button id="cal-apply" data-ic="calendar" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
+      h+='</div><div class="cal-foot">'+(calOnRange?'<span></span>':'<button id="cal-today" data-ic="calendar" type="button">Today</button>')+applyBtn+'<button id="cal-close" data-ic="x" type="button">Close</button></div>';
       calEl.innerHTML=h;
       // wire mode toggle
       calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });

@@ -1,8 +1,8 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "INTERLINK 3Y: Regent (live), NEUX, Paula Koski, CEB" on Fri, 2 Oct 2026.
+Post Bar is a music venue in Helsinki with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "INTERLINK 3Y: Regent (live), NEUX, Paula Koski, CEB" on Fri, 2 Oct 2026.
 
-Post Bar is a music venue in Helsinki listed on soundcheck. 12 upcoming gigs, with line-ups including 2THEMAX, CEB (FI), Denzel and DJ Aleksi and 2 more. See dates, start times and who's playing. Kaikukatu 2.
+Post Bar is a music venue in Helsinki listed on soundcheck. 13 upcoming gigs, with line-ups including 2THEMAX, CEB (FI), Denzel and DJ Aleksi and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 23 Oct 2026 | Miia Magia, Ozan & Ronja | Miia Magia, Ozan |
 | Sat, 24 Oct 2026 | All Night Long — Sansibar | Sansibar |
 | Fri, 30 Oct 2026 | HENNYWEEN |  |
-| Fri, 6 Nov 2026 | FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen | DJ Aleksi, Hanna Ojanen, HiToshi |
+| Sat, 31 Oct 2026 | Post Bar Halloween Half-Marathon | Jeku, Joni DJ, Justus Valtanen, Laura MRLS, Ojelma, Sepehr |
 
 ## Address
 

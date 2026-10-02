@@ -11,7 +11,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming
 | Fri, 2 Oct 2026 | The Lounge x POSER present: Kara Okay | Becky (2), Coinín Beag, DJ-CK, Hyperfunk, Kara Okay, POSER |
 | Sat, 3 Oct 2026 | ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee | Conrad Lee, Dominic (UK), Hudson’s Choice, Lenny (UK), Ruby Savage |
 | Sun, 4 Oct 2026 | Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef | Alan Fitzpatrick, Aniaef, R.M.K |
-| Thu, 8 Oct 2026 | Fragment: Open Decks | Amor Ante, ENFY, Lau.tastic, YOYO (UK) |
+| Thu, 8 Oct 2026 | Fragment: Open Decks | Amor Ante, Lau.tastic, YOYO (UK) |
 | Thu, 15 Oct 2026 | HAiiNES presents We Are Strangers |  |
 | Fri, 16 Oct 2026 | Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) | Baby Rollén, Wilba |
 | Sat, 17 Oct 2026 | murmur - Autumn special | Aisling, Sincerely Simon |

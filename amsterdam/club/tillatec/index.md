@@ -9,7 +9,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | IKI x TILLATEC Kumamoto Fundraiser | Mia Cecille, Post Effect |
-| Fri, 9 Oct 2026 | Horse Meat Disco |  |
+| Fri, 9 Oct 2026 | Horse Meat Disco | Horse Meat Disco, Tom Trago |
 | Sat, 10 Oct 2026 | SIDERAL x Syntax Error |  |
 | Fri, 16 Oct 2026 | TILLAVISION | Jackie Ong, Jay Jay Revlon, LYLO (NL), ZOBAYDA |
 | Sat, 17 Oct 2026 | Adonis | Fancy Shews, Kasra V, Perrin, Vuur |

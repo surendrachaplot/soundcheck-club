@@ -1,13 +1,14 @@
 # Nao Nomura
 
-Nao Nomura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Area_osaka, Osaka on Sat, 10 Oct 2026.
+Nao Nomura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at CASABLANCA, Kansai on Sun, 4 Oct 2026.
 
-Nao Nomura is a techno and house artist based in Japan, with 85 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DMITRI ABSINTHE, KONDO Mitsuo and Senda. Next up: Area_osaka, Osaka on Sat 10 Oct.
+Nao Nomura is a techno and house artist based in Japan, with 86 gigs on soundcheck across Kansai, Osaka and Tokyo. Often billed alongside DMITRI ABSINTHE, KONDO Mitsuo and MAX PELA. Next up: CASABLANCA, Kansai on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | CASABLANCA | Kansai |
 | Sat, 10 Oct 2026 | Area_osaka | Osaka |
 | Fri, 16 Oct 2026 | BAR Inc | Osaka |
 
@@ -24,6 +25,6 @@ Nao Nomura is a techno and house artist based in Japan, with 85 gigs on soundche
 
 ## Shares bills with
 
-DMITRI ABSINTHE, KONDO Mitsuo, Senda
+DMITRI ABSINTHE, KONDO Mitsuo, MAX PELA
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naonomura/)*

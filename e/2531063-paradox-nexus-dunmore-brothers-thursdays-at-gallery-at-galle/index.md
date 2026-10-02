@@ -1,6 +1,6 @@
 # Paradox Nexus: Dunmore Brothers - Thursdays at Gallery at Gallery
 
-Paradox Nexus: Dunmore Brothers - Thursdays at Gallery on Thu 8 Oct, London. 1 artist: Dunmore Brothers. Tech House and Deep House. See the line-up on soundcheck.
+Paradox Nexus: Dunmore Brothers - Thursdays at Gallery on Thu 8 Oct, London. 3 artists: AUGUSTE, Billa Bazz and Dunmore Brothers. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Paradox Nexus: Dunmore Brothers - Thursdays at Gallery on Thu 8 Oct, London. 1 a
 
 ## Line-up
 
+- AUGUSTE
+- Billa Bazz
 - Dunmore Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2531063-paradox-nexus-dunmore-brothers-thursdays-at-gallery-at-galle/)*

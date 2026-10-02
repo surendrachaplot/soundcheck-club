@@ -1,8 +1,8 @@
 # Jeku
 
-Jeku is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 15 Oct 2026.
+Jeku is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 15 Oct 2026.
 
-Jeku is a techno and house artist based in Finland, with 63 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 13 more. Often billed alongside emkay (FI), Denzel and DJ JVS. Next up: Better Tomorrow, Los Angeles on Thu 15 Oct.
+Jeku is a techno and house artist based in Finland, with 64 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 13 more. Often billed alongside emkay (FI), Denzel and DJ JVS. Next up: Better Tomorrow, Los Angeles on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jeku is a techno and house artist based in Finland, with 63 gigs on soundcheck a
 | Thu, 15 Oct 2026 | Better Tomorrow | Los-angeles |
 | Sat, 17 Oct 2026 | TBA - BK | New York City |
 | Sat, 24 Oct 2026 | TBA - Premises | Chicago |
+| Sat, 31 Oct 2026 | Post Bar | Helsinki |
 
 ## Recently played
 

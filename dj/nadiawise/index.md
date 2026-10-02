@@ -1,14 +1,15 @@
 # Nadia Wise
 
-Nadia Wise is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 10 Oct 2026.
+Nadia Wise is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 10 Oct 2026.
 
-Nadia Wise is a house and disco artist based in United Kingdom, with 53 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Lisbon and 4 more. Often billed alongside Ansonica, DJ CHICHI and Tommiboy. Next up: Renate, Berlin on Sat 10 Oct.
+Nadia Wise is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Lisbon and 4 more. Often billed alongside Ansonica, DJ CHICHI and Tommiboy. Next up: Renate, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Renate | Berlin |
+| Sat, 21 Nov 2026 | Orangerie Neukölln | Berlin |
 
 ## Recently played
 

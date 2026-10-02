@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
+Octo Octa is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
+Octo Octa is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
