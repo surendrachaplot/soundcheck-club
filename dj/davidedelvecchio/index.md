@@ -1,13 +1,14 @@
 # Davide Del Vecchio
 
-Davide Del Vecchio is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The BBE Store, London on Sat, 7 Nov 2026.
+Davide Del Vecchio is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cross, London on Sat, 24 Oct 2026.
 
-Davide Del Vecchio is a disco and deep house artist based in United Kingdom, with 146 gigs on soundcheck across Berlin, Ibiza, Lisbon and Liverpool and 3 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: The BBE Store, London on Sat 7 Nov.
+Davide Del Vecchio is a disco and deep house artist based in United Kingdom, with 147 gigs on soundcheck across Berlin, Ibiza, Lisbon and Liverpool and 3 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: The Cross, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Cross | London |
 | Sat, 7 Nov 2026 | The BBE Store | London |
 
 ## Recently played

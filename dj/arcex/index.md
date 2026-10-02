@@ -1,13 +1,14 @@
 # ArceX
 
-ArceX is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at París 15, Malaga on Sat, 7 Nov 2026.
+ArceX is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M7 Club, Barcelona on Fri, 9 Oct 2026.
 
-ArceX is a techno and electronica artist based in Spain, with 30 gigs on soundcheck across Barcelona, Madrid, Malaga and Manchester. Often billed alongside Selecta (ES), Adviro and Koalaz. Next up: París 15, Malaga on Sat 7 Nov.
+ArceX is a techno and electronica artist based in Spain, with 31 gigs on soundcheck across Barcelona, Madrid, Malaga and Manchester. Often billed alongside Adviro, Selecta (ES) and Koalaz. Next up: M7 Club, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | M7 Club | Barcelona |
 | Sat, 7 Nov 2026 | París 15 | Malaga |
 | Thu, 12 Nov 2026 | M7 Club | Barcelona |
 
@@ -24,6 +25,6 @@ ArceX is a techno and electronica artist based in Spain, with 30 gigs on soundch
 
 ## Shares bills with
 
-Selecta (ES), Adviro, Koalaz
+Adviro, Selecta (ES), Koalaz
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

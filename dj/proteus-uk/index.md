@@ -1,8 +1,8 @@
 # Proteus
 
-Proteus is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 3 Oct 2026.
+Proteus is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 3 Oct 2026.
 
-Proteus is a techno and experimental artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Glasgow, London and Oslo and 1 more. Often billed alongside Glotzer, Becky Stroke and Wax Wings. Next up: EXIT Glasgow, Glasgow on Sat 3 Oct.
+Proteus is a techno and experimental artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Glasgow, London and Oslo and 1 more. Often billed alongside Glotzer, Becky Stroke and Wax Wings. Next up: EXIT Glasgow, Glasgow on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Proteus is a techno and experimental artist based in United Kingdom, with 36 gig
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | EXIT Glasgow | Glasgow |
 | Sat, 31 Oct 2026 | Deptford Junction | London |
+| Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
 

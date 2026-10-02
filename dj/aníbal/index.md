@@ -1,8 +1,8 @@
 # ANÍBAL
 
-ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
+ANÍBAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
 
-ANÍBAL is a techno and trance artist based in Portugal, with 24 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: Ministerium Club, Lisbon on Thu 15 Oct.
+ANÍBAL is a techno and house artist based in Portugal, with 24 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: Ministerium Club, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 

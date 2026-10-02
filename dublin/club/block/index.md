@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Omni presents: Jake Fitz B2B Eric Brown ANL" on Sat, 3 Oct 2026.
+block. is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Omni presents: Jake Fitz B2B Eric Brown ANL" on Sat, 3 Oct 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Boss Priester, John Digweed, Ejeca and Enzo Siragusa and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Blasha & Allatt, Boss Priester, John Digweed and Ejeca and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -16,8 +16,8 @@ block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 23 Oct 2026 | Block x Raw: SHDW | NILAAA, Phil Bass, SHDW |
 | Sat, 24 Oct 2026 | Block x Influence: LESSSS | LESSSS |
 | Sun, 25 Oct 2026 | Block x Omni: Boss Priester | Boss Priester |
+| Fri, 30 Oct 2026 | Omni x SlapFunk: Samuel Deep & Julian Anthony | Julian Anthony (US), Samuel Deep |
 | Sat, 31 Oct 2026 | Block: Spray & Or:la | Or:la, Spray |
-| Sat, 28 Nov 2026 | Block: John Digweed | John Digweed |
 
 ## Address
 

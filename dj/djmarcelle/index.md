@@ -1,13 +1,14 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 9 Oct 2026.
+DJ Marcelle is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ateliers Jeanne Barret, South-east on Fri, 2 Oct 2026.
 
-DJ Marcelle is an experimental and electronica artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: The Lubber Fiend, Newcastle on Fri 9 Oct.
+DJ Marcelle is an experimental and electronica artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: Ateliers Jeanne Barret, South East on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Ateliers Jeanne Barret | South-east |
 | Fri, 9 Oct 2026 | The Lubber Fiend | Newcastle |
 | Tue, 13 Oct 2026 | TBA | Valencia |
 | Sat, 17 Oct 2026 | 16 Toneladas | Valencia |

@@ -1,14 +1,15 @@
 # Julian Anthony (US)
 
-Julian Anthony (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Sat, 24 Oct 2026.
+Julian Anthony (US) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Sat, 24 Oct 2026.
 
-Julian Anthony (US) is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Liverpool and 3 more. Often billed alongside Laidlaw, A For Alpha and Daniel Orpi. Next up: KIT Royal Tropical Institute, Amsterdam on Sat 24 Oct.
+Julian Anthony (US) is a tech house and house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Laidlaw, A For Alpha and Daniel Orpi. Next up: KIT Royal Tropical Institute, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Fri, 30 Oct 2026 | block. | Dublin |
 
 ## Recently played
 

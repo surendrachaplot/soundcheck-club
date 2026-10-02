@@ -1,14 +1,15 @@
 # Alvaro Cabana
 
-Alvaro Cabana is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Fri, 2 Oct 2026.
+Alvaro Cabana is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Fri, 2 Oct 2026.
 
-Alvaro Cabana is an electronica and house artist based in Spain, with 113 gigs on soundcheck across Antwerp, Barcelona, Berlin and Madrid and 1 more. Often billed alongside David Ponziano, Javi Redondo and Nebari. Next up: Cadavra, Madrid on Fri 2 Oct.
+Alvaro Cabana is an electronica and house artist based in Spain, with 114 gigs on soundcheck across Antwerp, Barcelona, Berlin and Madrid and 1 more. Often billed alongside David Ponziano, Javi Redondo and TEEMON&POOMBA. Next up: Cadavra, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cadavra | Madrid |
+| Sat, 31 Oct 2026 | Specka | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alvaro Cabana is an electronica and house artist based in Spain, with 113 gigs o
 
 ## Shares bills with
 
-David Ponziano, Javi Redondo, Nebari
+David Ponziano, Javi Redondo, TEEMON&POOMBA
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvarocabana/)*

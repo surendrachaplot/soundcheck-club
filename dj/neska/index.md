@@ -1,13 +1,14 @@
 # Neska
 
-Neska is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
+Neska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at murmur, Amsterdam on Sat, 3 Oct 2026.
 
-Neska is a techno and house artist based in Spain, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 8 more. Often billed alongside dirtydms, BERTON and Jasmín. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
+Neska is a techno and house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 8 more. Often billed alongside dirtydms, BERTON and Jasmín. Next up: murmur, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | murmur | Amsterdam |
 | Sat, 10 Oct 2026 | Lantaren/Venster | Rotterdam |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 31 Oct 2026 | Shunter | Rotterdam |

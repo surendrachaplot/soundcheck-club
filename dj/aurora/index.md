@@ -10,7 +10,7 @@ Aurora is a tech house and psytrance artist based in United Kingdom, with 13 gig
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Smolna | Warsaw |
 | Sat, 31 Oct 2026 | St Ethelburga's Centre for Reconciliation and Peace | London |
-| Sun, 1 Nov 2026 | UFO im Velodrom | Berlin |
+| Sun, 1 Nov 2026 | Columbiahalle | Berlin |
 
 ## Recently played
 

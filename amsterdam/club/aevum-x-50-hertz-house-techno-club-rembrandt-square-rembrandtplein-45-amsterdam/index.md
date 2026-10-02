@@ -9,7 +9,7 @@ Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amste
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | AEVUM | DAN:EZ, SNAJDER |
-| Thu, 22 Oct 2026 | Animarum Showcase at ADE 2026 - Techno for Your Soul | Alena Noctis, SAMDMA, The Enveloper |
+| Thu, 22 Oct 2026 | Animarum Showcase at ADE 2026 - Techno for Your Soul | Alena Noctis, Patrik Pagan, Relinquo, SAMDMA, The Enveloper |
 | Thu, 22 Oct 2026 | B'fast2night & Explore - ADE Showcase |  |
 | Sat, 24 Oct 2026 | Alan Fitzpatrick & We Are The Brave presents FORMA - ADE | Alan Fitzpatrick, Estella Boersma, Fran LF |
 | Sun, 25 Oct 2026 | UND3RT3MPL3 X Musique de Lune present NOIYSE PROJECT | David J Newton, Jaap Ligthart, NOIYSE PROJECT, Oscar Rosmano, Tom Banner |

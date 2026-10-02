@@ -2,13 +2,13 @@
 
 Katsute100 Brick Lane & Bun House Disco is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco" on Fri, 23 Oct 2026.
 
-Katsute100 Brick Lane & Bun House Disco is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Auntie Klockwise, bejeebe, HITOMI SETO and JVINCENT. See dates, start times and who's playing. 147 Brick Ln, London, E1 6SB, United Kingdom & 118 Bethnal Grn Rd, London, E2 6DG, United Kingdom.
+Katsute100 Brick Lane & Bun House Disco is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Auntie Klockwise, bejeebe, HITOMI SETO and JVINCENT and 1 more. See dates, start times and who's playing. 147 Brick Ln, London, E1 6SB, United Kingdom & 118 Bethnal Grn Rd, London, E2 6DG, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco | Auntie Klockwise, HITOMI SETO, JVINCENT, bejeebe |
+| Fri, 23 Oct 2026 | Shubz: Chapter Two Katsute100 Brick Lane x Bun House Disco | Auntie Klockwise, HITOMI SETO, JVINCENT, Vince Lam, bejeebe |
 
 ## Address
 

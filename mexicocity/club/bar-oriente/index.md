@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dopamine Records Takevoer" on Thu, 1 Oct 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar)" on Fri, 2 Oct 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and Brown Sugar and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Andre VII, Borgetti and BUENDÍA and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Dopamine Records Takevoer | Brown Sugar, Odem, Toriz |
 | Fri, 2 Oct 2026 | Musumeci (Innervisions), Borgetti (Multinotes), Imanol Igoa (Gozar) | Borgetti, Musumeci |
 | Sat, 3 Oct 2026 | Eliangel, Camila Valero, Brandon Laurence | Camila Valero, Eliangel |
 | Thu, 15 Oct 2026 | Energy Segundo Aniversario | BUENDÍA, Mystery Friend |

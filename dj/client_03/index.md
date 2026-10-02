@@ -1,13 +1,14 @@
 # Client_03
 
-Client_03 is a Electro and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
+Client_03 is a Electro and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
 
-Client_03 is an electro and bass artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 6 more. Often billed alongside BLUMITSU, Giulia Tess and Alien Communications. Next up: Hidden, Manchester on Fri 13 Nov.
+Client_03 is an electro and bass artist based in United Kingdom, with 30 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 6 more. Often billed alongside BLUMITSU, Giulia Tess and Alien Communications. Next up: The Boxing Club, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Boxing Club | Bristol |
 | Fri, 13 Nov 2026 | Hidden | Manchester |
 | Sat, 21 Nov 2026 | ICA | London |
 

@@ -9,7 +9,7 @@ EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Digitalism | Digitalism |
-| Sat, 17 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |
+| Sat, 17 Oct 2026 | Takuya Nakamura (Live) [SOLD OUT] | Takuya Nakamura |
 | Sat, 24 Oct 2026 | Parable: Gui Boratto [LIVE] - Early Evening Concert | Gui Boratto |
 | Tue, 27 Oct 2026 | Marina Herlop | Marina Herlop |
 | Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Spray & Scarlett O'Malley | Scarlett O'Malley, Spray, The Trip |

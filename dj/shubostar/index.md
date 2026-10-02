@@ -1,14 +1,15 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Shubostar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Shubostar is a house and techno artist based in South Korea, with 110 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 35 more. Often billed alongside Mano Le Tough, Peter Invasion and Roman Flügel. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Shubostar is a house and techno artist based in South Korea, with 111 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 35 more. Often billed alongside Mano Le Tough, Peter Invasion and Roman Flügel. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Sat, 28 Nov 2026 | The Cause | London |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Simone Liberali
 
-Simone Liberali is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
+Simone Liberali is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Simone Liberali is a tech house and house artist, with 8 gigs on soundcheck across Barcelona, Ibiza, London and Milan and 1 more. Often billed alongside Alice Youngling, Aurora and Carlo Rewer. Next up: St Ethelburga's Centre for Reconciliation and Peace, London on Sat 31 Oct.
+Simone Liberali is a tech house and techno artist, with 9 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Alice Youngling, Aurora and Caelestis. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 31 Oct 2026 | St Ethelburga's Centre for Reconciliation and Peace | London |
 
 ## Recently played
@@ -22,6 +23,6 @@ Simone Liberali is a tech house and house artist, with 8 gigs on soundcheck acro
 
 ## Shares bills with
 
-Alice Youngling, Aurora, Carlo Rewer
+Alice Youngling, Aurora, Caelestis
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneliberali/)*

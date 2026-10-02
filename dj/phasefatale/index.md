@@ -1,8 +1,8 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
 
-Phase Fatale is a techno and ebm artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 58 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: La Belle Électrique, South East on Sat 3 Oct.
+Phase Fatale is a techno and ebm artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 58 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: La Belle Électrique, South East on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
+| Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
 

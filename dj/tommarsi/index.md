@@ -1,14 +1,13 @@
 # Tom Marsi
 
-Tom Marsi is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Thu, 1 Oct 2026.
+Tom Marsi is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
 
-Tom Marsi is a club and techno artist based in United States of America, with 104 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Montreal and 6 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: ESC, Montreal on Thu 1 Oct.
+Tom Marsi is a club and techno artist based in United States of America, with 104 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Montreal and 6 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: Jupiter Disco, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | ESC | Montreal |
 | Fri, 9 Oct 2026 | Jupiter Disco | New York City |
 | Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | El Rio | San Francisco/Oakland |

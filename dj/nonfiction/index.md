@@ -1,8 +1,8 @@
 # Nonfiction
 
-Nonfiction is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Nonfiction is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Nonfiction is a house and deep house artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Jason Merle, Kenny Dope and Michael Moog. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
+Nonfiction is a house and deep house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Jason Merle, Joel DeMarzo and Kenny Dope. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nonfiction is a house and deep house artist based in United States of America, w
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Borisov Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Bar22 | Amsterdam |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Nonfiction is a house and deep house artist based in United States of America, w
 
 ## Shares bills with
 
-Jason Merle, Kenny Dope, Michael Moog
+Jason Merle, Joel DeMarzo, Kenny Dope
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonfiction/)*

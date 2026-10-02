@@ -1,8 +1,8 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
+Spacer Woman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
 
-Spacer Woman is a techno and trance artist based in Turkey, with 136 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: glimmer, Hamburg on Fri 2 Oct.
+Spacer Woman is a techno and house artist based in Turkey, with 136 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: glimmer, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 

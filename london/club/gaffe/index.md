@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party" on Fri, 2 Oct 2026.
+Gaffe is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party" on Fri, 2 Oct 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 

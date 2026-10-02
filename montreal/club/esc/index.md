@@ -1,14 +1,13 @@
 # ESC
 
-ESC is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Tangerine" on Thu, 1 Oct 2026.
+ESC is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FREE TECHNO: LANORTH" on Fri, 2 Oct 2026.
 
-ESC is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including abel.aiff, Badgalquirit, BADJUDA and BINKY and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
+ESC is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Badgalquirit, BADJUDA, BINKY and Brendocha and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Tangerine | Pretty Privilege, Tom Marsi, abel.aiff, hÿdra, namanariii |
 | Fri, 2 Oct 2026 | FREE TECHNO: LANORTH | HUMMER, MPHS, SCHNUBB, ucanquit |
 | Sat, 3 Oct 2026 | Pikete x Club Bebe (Van): CUERPOS | BADJUDA, BINKY, Brendocha, CUERPOS, DJ Punani, La Niña Kiwi, mCherry |
 | Fri, 9 Oct 2026 | 1460BPM x ESC |  |

@@ -8,6 +8,6 @@ Various Venues, Bristol is a music venue in Bristol listed on soundcheck. 1 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Simple Things Festival 2026 | 96 Back, A Good Year, Alex Wilcox, Arsenal Mikebe, Butch Kassidy, COBRAH, COUCOU CHLOE, Caroline, DJ Dials, Fine (2), Gold Panda, Hannah Diamond, Kloyd, Lord Spikeheart, Loukeman, MONOSUM, Marla Kether, Mietze Conte, Moor Mother, Ms Ray, Muchas Problemas, Mykki Blanco, Nathan Fake, Olof Dreijer, Only Fire, PVA, Panda Bear, SILVERWINGKILLER, Shabaka, Sofie Birch, Squid, Takuya Nakamura, The Avalanches, Tony Bontana, comfort, e-kitty |
+| Sat, 7 Nov 2026 | Simple Things Festival 2026 | 96 Back, A Good Year, Alex Wilcox, Arsenal Mikebe, Butch Kassidy, COBRAH, COUCOU CHLOE, Caroline, DIALS, Fine (2), Gold Panda, Hannah Diamond, Kloyd, Lord Spikeheart, Loukeman, MONOSUM, Marla Kether, Mietze Conte, Moor Mother, Ms Ray, Muchas Problemas, Mykki Blanco, Nathan Fake, Olof Dreijer, Only Fire, PVA, Panda Bear, SILVERWINGKILLER, Shabaka, Sofie Birch, Squid, Takuya Nakamura, The Avalanches, Tony Bontana, comfort, e-kitty |
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/various-venues-bristol/)*

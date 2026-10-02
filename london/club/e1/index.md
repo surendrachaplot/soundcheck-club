@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Teletech London: Vieze Asbak + more" on Fri, 2 Oct 2026.
+E1 is a music venue in London with 44 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Teletech London: Vieze Asbak + more" on Fri, 2 Oct 2026.
 
-E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 44 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

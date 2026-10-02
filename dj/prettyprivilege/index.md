@@ -1,6 +1,6 @@
 # Pretty Privilege
 
-Pretty Privilege is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
+Pretty Privilege is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
 
 Pretty Privilege is a techno and house artist based in Canada, with 83 gigs on soundcheck across Berlin, Boston, Chicago and Dublin and 9 more. Often billed alongside CrisseMarqueur, mayalabae and Badgalquirit. Next up: Jupiter Disco, New York City on Fri 9 Oct.
 

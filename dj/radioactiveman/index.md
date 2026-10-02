@@ -1,8 +1,8 @@
 # Radioactive Man
 
-Radioactive Man is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Movers, Nottingham on Sat, 10 Oct 2026.
+Radioactive Man is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Movers, Nottingham on Sat, 10 Oct 2026.
 
-Radioactive Man is a techno and electro artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Movers, Nottingham on Sat 10 Oct.
+Radioactive Man is a techno and electro artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 19 more. Often billed alongside Unai Trotti, Craig Richards and Alien Communications. Next up: Movers, Nottingham on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Radioactive Man is a techno and electro artist based in United Kingdom, with 85 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Movers | Nottingham |
 | Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 28 Nov 2026 | The Cause | London |
 
 ## Recently played
 

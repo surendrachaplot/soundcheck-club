@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ferry to the Underworld (Sold out)" on Fri, 2 Oct 2026.
+Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ferry to the Underworld (Sold out)" on Fri, 2 Oct 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including amil raja, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including amil raja, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
