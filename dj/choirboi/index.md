@@ -1,6 +1,6 @@
 # Choirboi
 
-Choirboi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
+Choirboi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
 
 Choirboi is a house and techno artist based in Canada, with 15 gigs on soundcheck across London and Toronto. Often billed alongside Sasha Kalra, High Tide and Host (CA). Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Choirboi is a house and techno artist based in Canada, with 15 gigs on soundchec
 
 Sasha Kalra, High Tide, Host (CA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choirboi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choirboi/)*

@@ -1,6 +1,6 @@
 # Posada
 
-Posada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Siroco, Madrid on Sat, 3 Oct 2026.
+Posada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Siroco, Madrid on Sat, 3 Oct 2026.
 
 Posada is a house and techno artist based in Colombia, with 25 gigs on soundcheck across Barcelona, Madrid and Sao Paulo. Often billed alongside Elop, Lucien and Ettier. Next up: Sala Siroco, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Posada is a house and techno artist based in Colombia, with 25 gigs on soundchec
 
 Elop, Lucien (3), Ettier
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*

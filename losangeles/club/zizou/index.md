@@ -1,6 +1,6 @@
 # Zizou
 
-Zizou is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LA Selection by LAfille with Lara Sarkissian" on Fri, 2 Oct 2026.
+Zizou is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "LA Selection by LAfille with Lara Sarkissian" on Fri, 2 Oct 2026.
 
 Zizou is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2425 Daly St Los Angeles, CA 90031.
 
@@ -14,4 +14,4 @@ Zizou is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See 
 
 2425 Daly St Los Angeles, CA 90031, Los Angeles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zizou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zizou/)*

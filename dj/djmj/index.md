@@ -1,6 +1,6 @@
 # DJ MJ
 
-DJ MJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
+DJ MJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
 
 DJ MJ is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Birmingham, Brighton, Liverpool and London and 1 more. Often billed alongside Jeremy Sylvester, Mikey DJ and 808 State. Next up: Telford Arena & Rechabite Concert Hall, Midlands on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ MJ is a house and garage artist based in United Kingdom, with 10 gigs on soun
 
 Jeremy Sylvester, Mikey DJ, 808 State
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmj/)*

@@ -1,6 +1,6 @@
 # Jason Code
 
-Jason Code is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sonder Bar, Portland on Fri, 16 Oct 2026.
+Jason Code is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sonder Bar, Portland on Fri, 16 Oct 2026.
 
 Jason Code is a techno and house artist based in United States of America, with 26 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, JENN GREEN and N SO. Next up: The Sonder Bar, Portland on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Jason Code is a techno and house artist based in United States of America, with 
 
 Ross Lowder, JENN GREEN, N SO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncode/)*

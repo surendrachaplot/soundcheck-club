@@ -1,6 +1,6 @@
 # Rana Iravani
 
-Rana Iravani is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
+Rana Iravani is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha New York, New York City on Fri, 9 Oct 2026.
 
 Rana Iravani is a house and tech house artist based in United States of America, with 43 gigs on soundcheck across Miami and New York City. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Pacha New York, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Rana Iravani is a house and tech house artist based in United States of America,
 
 Auphoria, Jack Mulqueen, shanty mane
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

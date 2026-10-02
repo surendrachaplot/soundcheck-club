@@ -1,6 +1,6 @@
 # Thomas Hessler
 
-Thomas Hessler is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Thomas Hessler is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Thomas Hessler is a techno and electronica artist based in Germany, with 21 gigs on soundcheck across Prague, Tallinn and Tbilisi. Often billed alongside Mancho, Beka Wu and DJ Sense. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Thomas Hessler is a techno and electronica artist based in Germany, with 21 gigs
 
 Mancho, Beka Wu, DJ Sense
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashessler/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashessler/)*

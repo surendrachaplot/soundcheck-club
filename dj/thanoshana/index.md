@@ -1,6 +1,6 @@
 # Thanos Hana
 
-Thanos Hana is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
+Thanos Hana is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
 
 Thanos Hana is a techno and amapiano artist, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside Charlton, Bas Mooy and Kerrie. Next up: Bassiani, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Thanos Hana is a techno and amapiano artist, with 29 gigs on soundcheck across A
 
 Charlton, Bas Mooy, Kerrie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanoshana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanoshana/)*

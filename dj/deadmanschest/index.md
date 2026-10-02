@@ -1,6 +1,6 @@
 # Dead Man's Chest
 
-Dead Man's Chest is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
+Dead Man's Chest is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
 
 Dead Man's Chest is a jungle and drum & bass artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Bristol, Budapest and Denver and 7 more. Often billed alongside Double O, Decibella and Artificial Red. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dead Man's Chest is a jungle and drum & bass artist based in United Kingdom, wit
 
 Double O, Decibella, Artificial Red
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmanschest/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmanschest/)*

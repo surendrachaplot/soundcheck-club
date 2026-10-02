@@ -1,6 +1,6 @@
 # Day-Mar
 
-Day-Mar is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
+Day-Mar is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
 Day-Mar is a hardcore and gabber artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Marc Acardipane, Angerfist and Drokz. Next up: Fabrik, Madrid on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Day-Mar is a hardcore and gabber artist based in Netherlands, with 7 gigs on sou
 
 Marc Acardipane, Angerfist, Drokz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/day-mar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/day-mar/)*

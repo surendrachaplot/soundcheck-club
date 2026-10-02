@@ -1,6 +1,6 @@
 # Segun
 
-Segun is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wellenfarm, Berlin on Sat, 10 Oct 2026.
+Segun is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wellenfarm, Berlin on Sat, 10 Oct 2026.
 
 Segun is a trance and techno artist, with 26 gigs on soundcheck across Berlin and London. Often billed alongside Kopflos, A.I.F.O.S. and DaSoMaZo. Next up: Wellenfarm, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Segun is a trance and techno artist, with 26 gigs on soundcheck across Berlin an
 
 Kopflos, A.I.F.O.S., DaSoMaZo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*

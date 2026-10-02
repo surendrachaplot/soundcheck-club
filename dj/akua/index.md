@@ -1,6 +1,6 @@
 # Akua
 
-Akua is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
+Akua is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
 
 Akua is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Uber Eats Music Hall, Berlin on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Akua is a techno and house artist based in United States of America, with 211 gi
 
 1morning, DJ Stingray 313, Dr. Rubinstein
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

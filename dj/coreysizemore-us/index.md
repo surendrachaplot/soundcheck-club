@@ -1,6 +1,6 @@
 # Corey Sizemore
 
-Corey Sizemore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Corey Sizemore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Corey Sizemore is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Richie Panic, Lights Down Low and Trax Unit. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Corey Sizemore is a techno and house artist based in United States of America, w
 
 Richie Panic, Lights Down Low, Trax Unit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreysizemore-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreysizemore-us/)*

@@ -1,6 +1,6 @@
 # Køni
 
-Køni is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
+Køni is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
 
 Køni is a techno artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Lexmax, M.I.XX.I and FC Kabagar. Next up: Sala Cocó, Madrid on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Køni is a techno artist based in Spain, with 7 gigs on soundcheck across Madrid
 
 Lexmax, M.I.XX.I, FC Kabagar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koni-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koni-es/)*

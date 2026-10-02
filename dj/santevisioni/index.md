@@ -1,6 +1,6 @@
 # Sante Visioni
 
-Sante Visioni is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Bar, Tokyo on Fri, 2 Oct 2026.
+Sante Visioni is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Red Bar, Tokyo on Fri, 2 Oct 2026.
 
 Sante Visioni is a house and deep house artist based in Italy, with 86 gigs on soundcheck across Nottingham, Seoul and Tokyo. Often billed alongside Chamcham, FU (JP) and Al Jones. Next up: Red Bar, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Sante Visioni is a house and deep house artist based in Italy, with 86 gigs on s
 
 Chamcham, FU (JP), Al Jones
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santevisioni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santevisioni/)*

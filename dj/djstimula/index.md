@@ -1,6 +1,6 @@
 # DJ STIMULA
 
-DJ STIMULA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
+DJ STIMULA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
 
 DJ STIMULA is a techno and trance artist, with 53 gigs on soundcheck across Leipzig. Often billed alongside LUZI, Nienein and R-SOHR. Next up: elipamanoke, Leipzig on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ STIMULA is a techno and trance artist, with 53 gigs on soundcheck across Leip
 
 LUZI (2), Nienein, R-SOHR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstimula/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstimula/)*

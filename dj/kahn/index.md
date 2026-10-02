@@ -1,6 +1,6 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club K, Galway on Fri, 2 Oct 2026.
+Kahn is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Club K, Galway on Fri, 2 Oct 2026.
 
 Kahn is a dubstep and bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: TBA - Club K, Galway on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Kahn is a dubstep and bass artist based in United Kingdom, with 78 gigs on sound
 
 Neek, SGT Pokes, Sir Spyro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*

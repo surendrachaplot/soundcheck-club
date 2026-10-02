@@ -1,6 +1,6 @@
 # stefan mueller
 
-stefan mueller is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pracht, Frankfurt on Sat, 17 Oct 2026.
+stefan mueller is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pracht, Frankfurt on Sat, 17 Oct 2026.
 
 stefan mueller is a progressive house and electronica artist based in Germany, with 18 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Claudius (DE), Calypsis and Pauli Pocket. Next up: Pracht, Frankfurt on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ stefan mueller is a progressive house and electronica artist based in Germany, w
 
 Claudius (DE), Calypsis, Pauli Pocket
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmueller/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmueller/)*

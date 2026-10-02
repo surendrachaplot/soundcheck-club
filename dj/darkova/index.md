@@ -1,6 +1,6 @@
 # Darkova
 
-Darkova is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Darkova is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Darkova is a techno and minimal techno artist based in Canada, with 40 gigs on soundcheck across Montreal and Toronto. Often billed alongside Alley Kay, Measure Divide and Vadim Khan. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Darkova is a techno and minimal techno artist based in Canada, with 40 gigs on s
 
 Alley Kay, Measure Divide, Vadim Khan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*

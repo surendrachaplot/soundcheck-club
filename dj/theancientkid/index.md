@@ -1,6 +1,6 @@
 # The Ancient Kid
 
-The Ancient Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sat, 10 Oct 2026.
+The Ancient Kid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sat, 10 Oct 2026.
 
 The Ancient Kid is a techno and house artist based in Ukraine, with 16 gigs on soundcheck across Berlin, Frankfurt, Munich and Nürnberg and 1 more. Often billed alongside Mark Tarmonea, JSavant and RIØ (DE). Next up: Beate Uwe, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ The Ancient Kid is a techno and house artist based in Ukraine, with 16 gigs on s
 
 Mark Tarmonea, JSavant, RIØ (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*

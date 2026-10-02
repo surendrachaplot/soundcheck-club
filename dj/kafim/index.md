@@ -1,6 +1,6 @@
 # Kafim
 
-Kafim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UMI, Brussels on Sat, 24 Oct 2026.
+Kafim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Kafim is a techno and house artist based in Belgium, with 27 gigs on soundcheck across Amsterdam, Brussels and Milan. Often billed alongside Mankiyan, Hadone and Chris Ferreira. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Kafim is a techno and house artist based in Belgium, with 27 gigs on soundcheck 
 
 Mankiyan, Hadone, Chris Ferreira
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafim/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafim/)*

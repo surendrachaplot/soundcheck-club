@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
+ANNA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
 
 ANNA is a techno and house artist based in Brazil, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Vintage Culture, DJ Tennis and Artbat. Next up: Odonien, Cologne on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ ANNA is a techno and house artist based in Brazil, with 103 gigs on soundcheck a
 
 Vintage Culture, DJ Tennis, Artbat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

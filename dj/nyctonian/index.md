@@ -1,6 +1,6 @@
 # Nyctonian
 
-Nyctonian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Art School, Glasgow on Fri, 16 Oct 2026.
+Nyctonian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Art School, Glasgow on Fri, 16 Oct 2026.
 
 Nyctonian is a techno and industrial artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside XRTN, CARV and KARAH. Next up: The Art School, Glasgow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nyctonian is a techno and industrial artist based in Netherlands, with 44 gigs o
 
 XRTN, CARV, KARAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*

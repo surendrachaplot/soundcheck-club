@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ESCAPISM presents: MALUGI 3h set & More [SOLD OUT]" on Fri, 2 Oct 2026.
+Den Anden Side is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ESCAPISM presents: MALUGI 3h set & More [SOLD OUT]" on Fri, 2 Oct 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, with line-ups including Aldonna, Alegrando, AMORAL and Anastasia Kristensen and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

@@ -1,6 +1,6 @@
 # Mottomo
 
-Mottomo is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Mottomo is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 Mottomo is an electro and ambient artist, with 10 gigs on soundcheck across Berlin, Seoul and South Korea. Often billed alongside Latnam, Hansy and K-H1. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mottomo is an electro and ambient artist, with 10 gigs on soundcheck across Berl
 
 Latnam, Hansy, K-H1
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mottomo/)*

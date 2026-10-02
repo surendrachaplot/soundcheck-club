@@ -1,6 +1,6 @@
 # Brisa Then
 
-Brisa Then is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+Brisa Then is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
 Brisa Then is a house and techno artist based in Spain, with 50 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Tucu (Tucu), Savanna and ALEX FÖX. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Brisa Then is a house and techno artist based in Spain, with 50 gigs on soundche
 
 Tucu (Tucu), Savanna, ALEX FÖX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brisathen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brisathen/)*

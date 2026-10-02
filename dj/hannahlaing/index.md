@@ -1,8 +1,8 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Hannah Laing is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Hannah Laing is a techno and house artist based in United Kingdom, with 175 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Hannah Laing is a techno and house artist based in United Kingdom, with 176 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 175 gigs
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
+| Sat, 3 Jul 2027 | Camperdown Country Park | Dundee |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 175 gigs
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

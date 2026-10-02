@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
+Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius" on Fri, 2 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | DJ Plead, rrao | DJ Plead, rrao |
 | Fri, 2 Oct 2026 | Fundido ft Emma Dufaux, Gianna, Dam Vera, okDUNC, Clay Cornelius | DAM (Galaxie Nites), Fundido, Gianna G, okDUNC |
 | Sat, 3 Oct 2026 | Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) | Arvin T, Jordan Nocturne, Lady Harley, Laila Amira |
 | Fri, 9 Oct 2026 | RA25: New York City | Baalti, Galcher Lustwerk, Kilopatrah Jones, Nick León, Special Guest DJ, Stacey Hotwaxx Hale, adobeprincess |
@@ -18,9 +17,10 @@ Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gi
 | Sat, 17 Oct 2026 | 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 | JÄK-87, The Carry Nation, Timo Lee |
 | Thu, 22 Oct 2026 | Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld | Arvin T, Byld, Elle Dee, KORBEAT, S'aint Panic, okocz, skoglund |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
+| Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

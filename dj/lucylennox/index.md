@@ -1,6 +1,6 @@
 # Lucy Lennox
 
-Lucy Lennox is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
+Lucy Lennox is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
 
 Lucy Lennox is a disco and house artist, with 15 gigs on soundcheck across Bristol, Edinburgh, London and Malta. Often billed alongside The Duke, Danny Krivit and Horse Meat Disco. Next up: The Marquee Moon, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Lucy Lennox is a disco and house artist, with 15 gigs on soundcheck across Brist
 
 The Duke, Danny Krivit, Horse Meat Disco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*

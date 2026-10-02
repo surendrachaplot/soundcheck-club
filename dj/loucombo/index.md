@@ -1,6 +1,6 @@
 # Lou Combo
 
-Lou Combo is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
+Lou Combo is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
 
 Lou Combo is an electronica and tech house artist based in Switzerland, with 42 gigs on soundcheck across Basel and Zurich. Often billed alongside Kantarik, Reto Ardour and ARWIN AZIZ. Next up: Kraftwerk, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lou Combo is an electronica and tech house artist based in Switzerland, with 42 
 
 Kantarik, Reto Ardour, ARWIN AZIZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loucombo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loucombo/)*

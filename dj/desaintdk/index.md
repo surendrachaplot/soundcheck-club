@@ -1,6 +1,6 @@
 # Desaint (DK)
 
-Desaint (DK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
+Desaint (DK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
 Desaint (DK) is a techno and progressive house artist based in Denmark, with 15 gigs on soundcheck across Copenhagen. Often billed alongside MONAD (DK), Qazi and SKAI (LT). Next up: Tap1, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Desaint (DK) is a techno and progressive house artist based in Denmark, with 15 
 
 MONAD (DK), Qazi, SKAI (LT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desaintdk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desaintdk/)*

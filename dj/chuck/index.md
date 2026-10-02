@@ -1,6 +1,6 @@
 # Chuck
 
-Chuck is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 2 Oct 2026.
+Chuck is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 2 Oct 2026.
 
 Chuck is a house and deep house artist, with 6 gigs on soundcheck across Mexico City and Prague. Often billed alongside Icarian PB1, Adriana Roma and Azok. Next up: Music Club Pulse 22, Prague on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Chuck is a house and deep house artist, with 6 gigs on soundcheck across Mexico 
 
 Icarian PB1, Adriana Roma, Azok
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuck/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuck/)*

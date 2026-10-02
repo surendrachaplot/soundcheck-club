@@ -1,6 +1,6 @@
 # TechTonic
 
-TechTonic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
+TechTonic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
 
 TechTonic is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin, London and Mecklenburg Vorpommern. Often billed alongside NØA (DE), Filialleiter and MARRE. Next up: KHC Neustrelitz, Mecklenburg Vorpommern on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ TechTonic is a techno and house artist based in Germany, with 10 gigs on soundch
 
 NØA (DE), Filialleiter, MARRE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techtonic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techtonic/)*

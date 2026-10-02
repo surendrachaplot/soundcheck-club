@@ -1,6 +1,6 @@
 # Phono Lake
 
-Phono Lake is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TESTPRESS" on Fri, 2 Oct 2026.
+Phono Lake is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TESTPRESS" on Fri, 2 Oct 2026.
 
 Phono Lake is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Alpo, DJ SRA, DJ Tempo and Flo Real and 2 more. See dates, start times and who's playing. Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands.
 
@@ -17,4 +17,4 @@ Phono Lake is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, 
 
 Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*

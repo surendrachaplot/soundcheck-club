@@ -1,8 +1,8 @@
 # Charlie Conway
 
-Charlie Conway is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
+Charlie Conway is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
 
-Charlie Conway is a techno and club artist, with 8 gigs on soundcheck across Detroit and Nashville. Often billed alongside Blaine Mason, Volast and 1morning. Next up: TBA - 1012 4th Ave S, Nashville on Fri 23 Oct.
+Charlie Conway is a techno and house artist, with 8 gigs on soundcheck across Detroit and Nashville. Often billed alongside Blaine Mason, Volast and 1morning. Next up: TBA - 1012 4th Ave S, Nashville on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Charlie Conway is a techno and club artist, with 8 gigs on soundcheck across Det
 
 Blaine Mason, Volast, 1morning
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieconway/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieconway/)*

@@ -1,6 +1,6 @@
 # sooom
 
-sooom is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+sooom is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 sooom is an ambient and experimental artist, with 17 gigs on soundcheck across Seoul and South Korea. Often billed alongside Maarten Vos, Joon Kwak and Hansy. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ sooom is an ambient and experimental artist, with 17 gigs on soundcheck across S
 
 Maarten Vos, Joon Kwak, Hansy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sooom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sooom/)*

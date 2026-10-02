@@ -1,8 +1,8 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Moodroom By Day" on Sat, 3 Oct 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Moodroom By Day" on Sat, 3 Oct 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Adri Alibi, AGILY, Akua and Atavi and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Adri Alibi, AGILY, Aimé You and Akua and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with l
 | Sat, 3 Oct 2026 | Moodroom By Day | CJ Schneider, Martha O. |
 | Sat, 10 Oct 2026 | NEOJUICE - Day & Night (14h) | AGILY, CHOREOPHILA, MATHILDA (2), Rosa Kante, SACID, Schorli, Sex Wax (2), Younes Jamil |
 | Sun, 11 Oct 2026 | PV REUNION VOL 2 | DJ AYA, DJ Strawberry, HICCUP, ZANNT |
+| Fri, 16 Oct 2026 | Les Mirages x Love Reaction: Revivis, Christa K, Daisy Weweh | Aimé You, Christa K, Daisy Weweh, Revivis, cun_t |
 | Sun, 18 Oct 2026 | Dissident x Miss Dreamz | Akua, Carly Zeng, Lixi, Ojos de miel, Schacke, Sub Sahara, TAUREAN (2), VRTL, Yazzus |
 | Thu, 22 Oct 2026 | Hüft & Beinbruch |  |
 | Fri, 23 Oct 2026 | Chain Reaction | Adri Alibi, Dj handbag, Drama Hexe, Posture |
@@ -21,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

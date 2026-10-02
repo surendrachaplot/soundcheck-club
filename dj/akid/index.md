@@ -1,6 +1,6 @@
 # AKID
 
-AKID is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tigullio, Malta on Sat, 10 Oct 2026.
+AKID is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tigullio, Malta on Sat, 10 Oct 2026.
 
 AKID is a hardcore and industrial artist, with 18 gigs on soundcheck across London, Malta and Tokyo. Often billed alongside VRDKT, ØRSINI and Lombz. Next up: Tigullio, Malta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AKID is a hardcore and industrial artist, with 18 gigs on soundcheck across Lond
 
 VRDKT, ØRSINI, Lombz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akid/)*

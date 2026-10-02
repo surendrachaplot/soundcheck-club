@@ -1,6 +1,6 @@
 # akin.souls
 
-akin.souls is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
+akin.souls is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Masada, Milan on Sat, 17 Oct 2026.
 
 akin.souls is a techno artist, with 13 gigs on soundcheck across Milan. Often billed alongside Yamila, Rorschack and Spad. Next up: Masada, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ akin.souls is a techno artist, with 13 gigs on soundcheck across Milan. Often bi
 
 Yamila, Rorschack, Spad
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akin-souls/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akin-souls/)*

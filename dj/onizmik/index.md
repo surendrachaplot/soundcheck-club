@@ -1,6 +1,6 @@
 # Onizmik
 
-Onizmik is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
+Onizmik is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
 
 Onizmik is a house and tech house artist based in South Korea, with 40 gigs on soundcheck across Seoul. Often billed alongside DARIMI TABLE, Jetset Trash and Kuro. Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Onizmik is a house and tech house artist based in South Korea, with 40 gigs on s
 
 DARIMI TABLE, Jetset Trash, Kuro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onizmik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onizmik/)*

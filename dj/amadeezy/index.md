@@ -1,6 +1,6 @@
 # Amadeezy
 
-Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
+Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
 
 Amadeezy is a techno and ghetto tech artist based in United States of America, with 37 gigs on soundcheck across Berlin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: Skylight Warehouse, Vancouver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Amadeezy is a techno and ghetto tech artist based in United States of America, w
 
 Jason Code, MoMA Ready, Carl Hang
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*

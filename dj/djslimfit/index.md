@@ -1,6 +1,6 @@
 # DJ Slim Fit
 
-DJ Slim Fit is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
+DJ Slim Fit is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
 
 DJ Slim Fit is a house and breakbeat artist based in Romania, with 15 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Istanbul and 1 more. Often billed alongside Alexandra, The Apricots and Enchanted Rhythms. Next up: Hoppetosse, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ Slim Fit is a house and breakbeat artist based in Romania, with 15 gigs on so
 
 Alexandra, The Apricots, Enchanted Rhythms
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimfit/)*

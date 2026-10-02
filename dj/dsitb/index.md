@@ -1,6 +1,6 @@
 # Dsitb
 
-Dsitb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZUBAR, Tokyo on Sat, 3 Oct 2026.
+Dsitb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZUBAR, Tokyo on Sat, 3 Oct 2026.
 
 Dsitb is a techno and house artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside Kazu Ishikawa. Next up: ZUBAR, Tokyo on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Dsitb is a techno and house artist based in Japan, with 7 gigs on soundcheck acr
 
 Kazu Ishikawa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsitb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsitb/)*

@@ -1,6 +1,6 @@
 # Fouk
 
-Fouk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Fouk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Fouk is a house and deep house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Paris. Often billed alongside Heritage Listed, Klankarbeit and Le Hutin. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Fouk is a house and deep house artist based in Netherlands, with 21 gigs on soun
 
 Heritage Listed, Klankarbeit, Le Hutin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fouk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fouk/)*

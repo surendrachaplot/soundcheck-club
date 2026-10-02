@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse on Watts, Philadelphia on Fri, 9 Oct 2026.
+Grafix is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Warehouse on Watts, Philadelphia on Fri, 9 Oct 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 30 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: Warehouse on Watts, Philadelphia on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, with 50 gigs on
 
 Wilkinson, A Little Sound, BassLayerz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

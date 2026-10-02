@@ -1,6 +1,6 @@
 # Sonic Smile
 
-Sonic Smile is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
+Sonic Smile is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
 
 Sonic Smile is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Tokyo. Often billed alongside tuzuRa, WAKA XINXI and Nono THING. Next up: Fai Aoyama, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sonic Smile is a techno and house artist based in United States of America, with
 
 tuzuRa, WAKA XINXI, Nono THING
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicsmile/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicsmile/)*

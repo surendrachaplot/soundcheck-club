@@ -1,6 +1,6 @@
 # Seekersinternational
 
-Seekersinternational is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Seekersinternational is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Seekersinternational is a dub and experimental artist, with 7 gigs on soundcheck across Glasgow, London, Toronto and Utrecht and 1 more. Often billed alongside Aba Shanti-I, Azu Tiwaline and CARISTA. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Seekersinternational is a dub and experimental artist, with 7 gigs on soundcheck
 
 Aba Shanti-I, Azu Tiwaline, CARISTA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seekersinternational/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seekersinternational/)*

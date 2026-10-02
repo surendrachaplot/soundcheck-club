@@ -1,6 +1,6 @@
 # sellycious
 
-sellycious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
+sellycious is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
 
 sellycious is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Berlin and Cologne. Often billed alongside Annemalie, DJ ASS TITS and Melanchromie. Next up: Renate, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ sellycious is a techno and trance artist based in Germany, with 14 gigs on sound
 
 Annemalie, DJ ASS TITS, Melanchromie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*

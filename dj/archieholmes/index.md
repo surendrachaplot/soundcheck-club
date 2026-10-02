@@ -1,6 +1,6 @@
 # Archie Holmes
 
-Archie Holmes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
+Archie Holmes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
 
 Archie Holmes is a house and garage artist based in United Kingdom, with 57 gigs on soundcheck across Aberdeen, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside Discgrace, Mdubs and Gabriel Griffith. Next up: Last Arch, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Archie Holmes is a house and garage artist based in United Kingdom, with 57 gigs
 
 Discgrace, Mdubs, Gabriel Griffith
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archieholmes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archieholmes/)*

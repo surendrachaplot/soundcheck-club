@@ -1,6 +1,6 @@
 # Scotia
 
-Scotia is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Buffalo-rochester on Sat, 3 Oct 2026.
+Scotia is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Buffalo-rochester on Sat, 3 Oct 2026.
 
 Scotia is a techno and acid artist based in United States of America, with 47 gigs on soundcheck across Buffalo Rochester, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside Ron Like Hell, Lauren Flax and SVB. Next up: TBA, Buffalo Rochester on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Scotia is a techno and acid artist based in United States of America, with 47 gi
 
 Ron Like Hell, Lauren Flax, SVB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scotia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scotia/)*

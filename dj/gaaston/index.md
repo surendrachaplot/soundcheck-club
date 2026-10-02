@@ -1,6 +1,6 @@
 # Gaaston
 
-Gaaston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
+Gaaston is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
 
 Gaaston is a techno and house artist based in Tunisia, with 21 gigs on soundcheck across Munich and Vienna. Often billed alongside MIHEMI, Neverglass and Bless The Speakers. Next up: Kade, Munich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gaaston is a techno and house artist based in Tunisia, with 21 gigs on soundchec
 
 MIHEMI, Neverglass, Bless The Speakers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*

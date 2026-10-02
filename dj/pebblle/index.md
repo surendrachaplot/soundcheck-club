@@ -1,6 +1,6 @@
 # Pebblle
 
-Pebblle is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Pebblle is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
 Pebblle is an experimental and electronica artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Antwerp, Osaka and The Hague. Often billed alongside Willem Feltzer, Actress and Devon Rexi. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pebblle is an experimental and electronica artist based in Netherlands, with 24 
 
 Willem Feltzer, Actress, Devon Rexi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pebblle/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pebblle/)*

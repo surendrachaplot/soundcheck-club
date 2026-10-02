@@ -1,6 +1,6 @@
 # Continental GT
 
-Continental GT is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Continental GT is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Continental GT is a tech house and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and Leeds and 2 more. Often billed alongside Sammy Porter, hitty and Brian Smith. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Continental GT is a tech house and house artist based in United Kingdom, with 33
 
 Sammy Porter, hitty, Brian Smith
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/continentalgt/)*

@@ -1,6 +1,6 @@
 # Atom™
 
-Atom™ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
+Atom™ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
 
 Atom™ is a techno and house artist based in Chile, with 6 gigs on soundcheck across Barcelona, Milan, Montreal and Osaka. Often billed alongside Peter Van Hoesen, .VRIL and E-Saggila. Next up: Circolo Amelia, Milan on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Atom™ is a techno and house artist based in Chile, with 6 gigs on soundcheck a
 
 Peter Van Hoesen, .VRIL, E-Saggila
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomtm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomtm/)*

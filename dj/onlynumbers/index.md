@@ -1,6 +1,6 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Index, Dublin on Fri, 2 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Index, Dublin on Fri, 2 Oct 2026.
 
 Onlynumbers is a techno and hardcore artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Index, Dublin on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Onlynumbers is a techno and hardcore artist based in France, with 86 gigs on sou
 
 NOVAH, KLOFAMA, Basswell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

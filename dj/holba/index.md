@@ -1,6 +1,6 @@
 # Holba
 
-Holba is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Fri, 13 Nov 2026.
+Holba is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Fri, 13 Nov 2026.
 
 Holba is a house and uk funky artist, with 13 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside teepee h, Allius and Babs. Next up: Stage and Radio, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Holba is a house and uk funky artist, with 13 gigs on soundcheck across Leeds, M
 
 teepee h, Allius, Babs (3)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holba/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holba/)*

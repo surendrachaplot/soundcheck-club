@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
+Marie Montexier is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
 
 Marie Montexier is a techno and house artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: De Papierfabriek, Nijmegen on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Marie Montexier is a techno and house artist based in Germany, with 220 gigs on 
 
 DVS1, Ryan Elliott, Anetha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

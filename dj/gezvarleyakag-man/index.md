@@ -1,6 +1,6 @@
 # Gez Varley
 
-Gez Varley is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zerox, Newcastle on Fri, 2 Oct 2026.
+Gez Varley is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Zerox, Newcastle on Fri, 2 Oct 2026.
 
 Gez Varley is a techno and acid artist based in Germany, with 2 gigs on soundcheck across Malta and Newcastle. Often billed alongside Brian James, G-MAN aka Gez Varley and LFO. Next up: Zerox, Newcastle on Fri 2 Oct.
 
@@ -15,4 +15,4 @@ Gez Varley is a techno and acid artist based in Germany, with 2 gigs on soundche
 
 Brian James, G-MAN aka Gez Varley, LFO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gezvarleyakag-man/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gezvarleyakag-man/)*

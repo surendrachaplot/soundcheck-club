@@ -1,6 +1,6 @@
 # Oberman
 
-Oberman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palais, London on Sat, 3 Oct 2026.
+Oberman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palais, London on Sat, 3 Oct 2026.
 
 Oberman is a techno and house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 9 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Palais, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Oberman is a techno and house artist based in Netherlands, with 49 gigs on sound
 
 Oceanic, Konduku, Lenxi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*

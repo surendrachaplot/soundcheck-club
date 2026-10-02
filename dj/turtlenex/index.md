@@ -1,6 +1,6 @@
 # turtle nex
 
-turtle nex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+turtle nex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
 
 turtle nex is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Badgalquirit, Dijipoune and Field Note. Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ turtle nex is a house and techno artist based in United States of America, with 
 
 Badgalquirit, Dijipoune, Field Note
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlenex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlenex/)*

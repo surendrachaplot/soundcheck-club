@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Echostage, Washington DC on Fri, 2 Oct 2026.
+Peggy Gou is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Echostage, Washington DC on Fri, 2 Oct 2026.
 
 Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: Echostage, Washington DC on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Peggy Gou is a house and techno artist based in Germany, with 101 gigs on soundc
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

@@ -1,6 +1,6 @@
 # Zya (1)
 
-Zya (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
+Zya (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
 
 Zya is a minimal and house artist, with 17 gigs on soundcheck across Bucharest, Ibiza, London and Zurich. Often billed alongside Suciu, Andrei Ciubuc and Cap. Next up: Club Guesthouse, Bucharest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Zya is a minimal and house artist, with 17 gigs on soundcheck across Bucharest, 
 
 Suciu, Andrei Ciubuc, Cap
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zya-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zya-1/)*

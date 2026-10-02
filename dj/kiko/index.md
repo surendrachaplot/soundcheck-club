@@ -1,6 +1,6 @@
 # Kiko
 
-Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Kiko is a house and techno artist based in France, with 23 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Kiko is a house and techno artist based in France, with 23 gigs on soundcheck ac
 
 Darin Epsilon, La Forêt, Miss Monique
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*

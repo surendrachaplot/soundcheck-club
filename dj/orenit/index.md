@@ -1,6 +1,6 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WaterBear Venue, Brighton on Sat, 31 Oct 2026.
+Oren (IT) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WaterBear Venue, Brighton on Sat, 31 Oct 2026.
 
 Oren (IT) is an electro and house artist based in United Kingdom, with 40 gigs on soundcheck across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: WaterBear Venue, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oren (IT) is an electro and house artist based in United Kingdom, with 40 gigs o
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

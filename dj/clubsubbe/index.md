@@ -1,6 +1,6 @@
 # ClubSubbe
 
-ClubSubbe is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+ClubSubbe is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 ClubSubbe is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside JUWLZ, Ravejezuz and Thielking. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ ClubSubbe is a techno and hardcore artist based in Germany, with 7 gigs on sound
 
 JUWLZ, Ravejezuz, Thielking
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsubbe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsubbe/)*

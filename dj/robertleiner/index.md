@@ -1,6 +1,6 @@
 # Robert Leiner
 
-Robert Leiner is a Electronica and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Robert Leiner is a Electronica and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Robert Leiner is an electronica and club artist based in Sweden, with 10 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 3 more. Often billed alongside Aba Shanti-I, Ancient Methods and Andi. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Robert Leiner is an electronica and club artist based in Sweden, with 10 gigs on
 
 Aba Shanti-I, Ancient Methods, Andi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*

@@ -1,6 +1,6 @@
 # Malcolm Zeller
 
-Malcolm Zeller is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Malcolm Zeller is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Malcolm Zeller is a tech house and house artist based in United States of America, with 14 gigs on soundcheck across Chicago, Miami, New York City and Washington DC. Often billed alongside Calussa, Malone and Matt Martinez. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Malcolm Zeller is a tech house and house artist based in United States of Americ
 
 Calussa, Malone, Matt Martinez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmzeller/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmzeller/)*

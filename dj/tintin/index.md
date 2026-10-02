@@ -1,6 +1,6 @@
 # Tin Tin
 
-Tin Tin is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club04, Zurich on Fri, 16 Oct 2026.
+Tin Tin is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club04, Zurich on Fri, 16 Oct 2026.
 
 Tin Tin is a house and trance artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Ralph Lawson, Ryan O Gorman and Alex Wolfenden. Next up: Club04, Zurich on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Tin Tin is a house and trance artist based in United Kingdom, with 15 gigs on so
 
 Ralph Lawson, Ryan O Gorman, Alex Wolfenden
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*

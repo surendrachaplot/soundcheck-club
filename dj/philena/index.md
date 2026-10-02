@@ -1,6 +1,6 @@
 # Philena
 
-Philena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
+Philena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
 Philena is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ SPORTSCHUH, KIKE Friday and ZOEVITA. Next up: ://about blank, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Philena is a techno and house artist based in Germany, with 26 gigs on soundchec
 
 DJ SPORTSCHUH, KIKE Friday, ZOEVITA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philena/)*

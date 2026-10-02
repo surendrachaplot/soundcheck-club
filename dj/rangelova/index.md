@@ -1,6 +1,6 @@
 # Rangelova
 
-Rangelova is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Rangelova is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Rangelova is a techno and house artist based in Germany, with 23 gigs on soundcheck across Athens, Berlin, Birmingham and London. Often billed alongside Choronzon, Mar/us and Miss Italia. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rangelova is a techno and house artist based in Germany, with 23 gigs on soundch
 
 Choronzon, Mar/us, Miss Italia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangelova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangelova/)*

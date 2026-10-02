@@ -1,6 +1,6 @@
 # nunguja
 
-nunguja is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kauz, Zurich on Sat, 24 Oct 2026.
+nunguja is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Sat, 24 Oct 2026.
 
 nunguja is an experimental and club artist based in Germany, with 46 gigs on soundcheck across Berlin, Brussels, Frankfurt and Helsinki and 11 more. Often billed alongside Bill Kouligas, Tzusing and upsammy. Next up: Kauz, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ nunguja is an experimental and club artist based in Germany, with 46 gigs on sou
 
 Bill Kouligas, Tzusing, upsammy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*

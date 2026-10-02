@@ -1,6 +1,6 @@
 # Fideshi
 
-Fideshi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
+Fideshi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
 
 Fideshi is a house and tech house artist based in Poland, with 11 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Easy Audio, espoff and Francesco. Next up: Ciało, Wroclaw on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Fideshi is a house and tech house artist based in Poland, with 11 gigs on soundc
 
 Easy Audio, espoff, Francesco (4)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*

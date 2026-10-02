@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

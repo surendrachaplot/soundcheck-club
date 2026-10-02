@@ -1,6 +1,6 @@
 # Lange
 
-Lange is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
+Lange is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
 
 Lange is a trance and house artist based in United Kingdom, with 24 gigs on soundcheck across Aberdeen, Birmingham, Budapest and Ibiza and 7 more. Often billed alongside Dave Pearce, Rob Tissera and Seb Fontaine. Next up: NX Newcastle, Newcastle on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lange is a trance and house artist based in United Kingdom, with 24 gigs on soun
 
 Dave Pearce, Rob Tissera, Seb Fontaine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*

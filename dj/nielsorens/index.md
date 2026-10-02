@@ -1,6 +1,6 @@
 # Niels Orens
 
-Niels Orens is a Electro and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Trix, Antwerp on Wed, 7 Oct 2026.
+Niels Orens is a Electro and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Trix, Antwerp on Wed, 7 Oct 2026.
 
 Niels Orens is an electro and downtempo artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Antwerp, Brussels and London. Often billed alongside Madison Willing, dBridge and echofarmer. Next up: Trix, Antwerp on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Niels Orens is an electro and downtempo artist based in Belgium, with 13 gigs on
 
 Madison Willing, dBridge, echofarmer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nielsorens/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nielsorens/)*

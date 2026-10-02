@@ -1,6 +1,6 @@
 # Goa Pete
 
-Goa Pete is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Vancouver on Sat, 24 Oct 2026.
+Goa Pete is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Vancouver on Sat, 24 Oct 2026.
 
 Goa Pete is a techno and house artist based in Canada, with 27 gigs on soundcheck across Vancouver. Often billed alongside DK PAU, C-Star and POPU. Next up: TBA, Vancouver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Goa Pete is a techno and house artist based in Canada, with 27 gigs on soundchec
 
 DK PAU, C-Star, POPU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goapete/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goapete/)*

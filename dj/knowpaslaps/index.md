@@ -1,6 +1,6 @@
 # Knowpa Slaps
 
-Knowpa Slaps is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
+Knowpa Slaps is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Knowpa Slaps is a house and disco artist, with 19 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Mackswell, NU NOIZE and A-Trak. Next up: Madrone Art Bar, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Knowpa Slaps is a house and disco artist, with 19 gigs on soundcheck across Los 
 
 Mackswell, NU NOIZE, A-Trak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knowpaslaps/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knowpaslaps/)*

@@ -1,6 +1,6 @@
 # Panda Bear
 
-Panda Bear is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Panda Bear is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Panda Bear is a pop and experimental artist based in United States of America, with 16 gigs on soundcheck across Berlin, Bristol, Copenhagen and Lisbon and 9 more. Often billed alongside Caroline, Chloé and Erika de Casier. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Panda Bear is a pop and experimental artist based in United States of America, w
 
 Caroline, Chloé, Erika de Casier
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandabear/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandabear/)*

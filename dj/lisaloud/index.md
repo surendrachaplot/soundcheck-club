@@ -1,6 +1,6 @@
 # Lisa Loud
 
-Lisa Loud is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
+Lisa Loud is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
 
 Lisa Loud is a house and disco artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, Edinburgh, Glasgow and London and 2 more. Often billed alongside Terry Farley, Nancy Noise and Dicky Trisco. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lisa Loud is a house and disco artist based in United Kingdom, with 26 gigs on s
 
 Terry Farley, Nancy Noise, Dicky Trisco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloud/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisaloud/)*

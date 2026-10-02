@@ -1,6 +1,6 @@
 # Heling
 
-Heling is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Om Being, London on Sun, 25 Oct 2026.
+Heling is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Om Being, London on Sun, 25 Oct 2026.
 
 Heling is a bass and ambient artist, with 9 gigs on soundcheck across Berlin, Hong Kong, London and Shenzhen. Often billed alongside Dan-neo, Steve Pan and Woonjii. Next up: Om Being, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Heling is a bass and ambient artist, with 9 gigs on soundcheck across Berlin, Ho
 
 Dan-neo, Steve Pan, Woonjii
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*

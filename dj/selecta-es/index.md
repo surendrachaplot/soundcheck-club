@@ -1,6 +1,6 @@
 # Selecta (ES)
 
-Selecta (ES) is a Electronica and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Independance Club, Madrid on Fri, 2 Oct 2026.
+Selecta (ES) is a Electronica and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Independance Club, Madrid on Fri, 2 Oct 2026.
 
 Selecta (ES) is an electronica and drum & bass artist based in Spain, with 31 gigs on soundcheck across Bali, Bangkok, Barcelona and Birmingham and 7 more. Often billed alongside Rayne, ArceX and Badlokk. Next up: Sala Independance Club, Madrid on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Selecta (ES) is an electronica and drum & bass artist based in Spain, with 31 gi
 
 Rayne (1), ArceX, Badlokk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selecta-es/)*

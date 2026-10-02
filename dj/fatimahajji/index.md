@@ -1,6 +1,6 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+Fatima Hajji is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
 Fatima Hajji is a techno and house artist based in Spain, with 194 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside Alignment, Shlømo and Trym. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Fatima Hajji is a techno and house artist based in Spain, with 194 gigs on sound
 
 Alignment, Shlømo, Trym
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

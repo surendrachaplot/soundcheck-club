@@ -1,6 +1,6 @@
 # Tavish
 
-Tavish is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 10 Oct 2026.
+Tavish is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 10 Oct 2026.
 
 Tavish is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Diego. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Tavish is a house and disco artist based in United States of America, with 26 gi
 
 Dave Aju, SONNS, Stacy Christine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*

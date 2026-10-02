@@ -1,6 +1,6 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wibar, Netherlands on Fri, 2 Oct 2026.
+Ryan Elliott is a House and Techno artist with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wibar, Netherlands on Fri, 2 Oct 2026.
 
 Ryan Elliott is a house and techno artist based in United States of America, with 255 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Wibar, Netherlands on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

@@ -1,6 +1,6 @@
 # TERRA (KR)
 
-TERRA (KR) is a Club and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
+TERRA (KR) is a Club and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
 
 TERRA (KR) is a club and electro artist based in South Korea, with 51 gigs on soundcheck across Seoul and South Korea. Often billed alongside H93 (KR), AVEN (KR) and STAN MYLOR. Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ TERRA (KR) is a club and electro artist based in South Korea, with 51 gigs on so
 
 H93 (KR), AVEN (KR), STAN MYLOR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrakr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrakr/)*

@@ -1,6 +1,6 @@
 # Kessie
 
-Kessie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
+Kessie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
 
 Kessie is a techno and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DAX J, Gareth Wild and Deventi. Next up: Eiger Studios, Leeds on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kessie is a techno and house artist based in United Kingdom, with 83 gigs on sou
 
 DAX J, Gareth Wild, Deventi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*

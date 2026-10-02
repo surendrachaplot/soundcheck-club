@@ -1,6 +1,6 @@
 # Gear
 
-Gear is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Gear is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Gear is a house and techno artist based in Portugal, with 107 gigs on soundcheck across Copenhagen, Lisbon and Porto. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Gear is a house and techno artist based in Portugal, with 107 gigs on soundcheck
 
 John-E, Kaesar, Bernardo Vaz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*

@@ -1,14 +1,13 @@
 # Mikolai
 
-Mikolai is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Palazzo, Morocco on Wed, 30 Sept 2026.
+Mikolai is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
 
-Mikolai is a house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Lisbon, Morocco and Mykonos. Often billed alongside Ben Vedren, Holly Molly and Luisa. Next up: Le Palazzo, Morocco on Wed 30 Sept.
+Mikolai is a house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Lisbon, Morocco and Mykonos. Often billed alongside Ben Vedren, Holly Molly and Luisa. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Le Palazzo | Morocco |
 | Sat, 3 Oct 2026 | Quinta do Miratejo | Lisbon |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mikolai is a house and deep house artist based in United Kingdom, with 25 gigs o
 
 Ben Vedren, Holly Molly, Luisa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikolai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikolai/)*

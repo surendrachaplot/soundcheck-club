@@ -1,6 +1,6 @@
 # Michel7000
 
-Michel7000 is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
+Michel7000 is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
 
 Michel7000 is a minimal and house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Cez, JA JA and Lenny Mailleau. Next up: Club der Visionaere, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Michel7000 is a minimal and house artist based in Germany, with 15 gigs on sound
 
 Cez (1), JA JA, Lenny Mailleau
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michel7000/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michel7000/)*

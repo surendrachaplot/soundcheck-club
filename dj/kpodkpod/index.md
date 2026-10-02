@@ -1,6 +1,6 @@
 # KPODKPOD
 
-KPODKPOD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+KPODKPOD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 KPODKPOD is a house and techno artist based in Thailand, with 32 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside KWH (DE), DJ Krit Morton and Elaheh. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ KPODKPOD is a house and techno artist based in Thailand, with 32 gigs on soundch
 
 KWH (DE), DJ Krit Morton, Elaheh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*

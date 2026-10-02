@@ -1,6 +1,6 @@
 # Andrea Vietti
 
-Andrea Vietti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
+Andrea Vietti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
 
 Andrea Vietti is a house and techno artist based in Italy, with 12 gigs on soundcheck across Turin. Often billed alongside Andrea Martello, Sick Seek and Voodoos and Taboos. Next up: Banco Vini, Turin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Andrea Vietti is a house and techno artist based in Italy, with 12 gigs on sound
 
 Andrea Martello, Sick Seek, Voodoos and Taboos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreavietti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreavietti/)*

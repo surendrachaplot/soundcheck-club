@@ -1,6 +1,6 @@
 # mishLXY
 
-mishLXY is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+mishLXY is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 mishLXY is a techno and dub techno artist based in Australia, with 11 gigs on soundcheck across Melbourne and Shanghai. Often billed alongside Steve Pan, Aaliyah Salem and Aidan Rudd. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ mishLXY is a techno and dub techno artist based in Australia, with 11 gigs on so
 
 Steve Pan, Aaliyah Salem, Aidan Rudd
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*

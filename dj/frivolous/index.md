@@ -1,6 +1,6 @@
 # Frivolous
 
-Frivolous is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Sat, 3 Oct 2026.
+Frivolous is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Sat, 3 Oct 2026.
 
 Frivolous is a house and techno artist based in Canada, with 15 gigs on soundcheck across Berlin, Porto, San Francisco/Oakland and Stockholm and 3 more. Often billed alongside Nils Ohrmann, Matt Main and Mattia Prete. Next up: Golden Gate, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Frivolous is a house and techno artist based in Canada, with 15 gigs on soundche
 
 Nils Ohrmann, Matt Main, Mattia Prete
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frivolous/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frivolous/)*

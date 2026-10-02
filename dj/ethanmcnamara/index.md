@@ -1,6 +1,6 @@
 # Ethan McNamara
 
-Ethan McNamara is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Ethan McNamara is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
 Ethan McNamara is an electro and techno artist based in United Kingdom, with 69 gigs on soundcheck across Barcelona, Berlin, Bucharest and Leeds and 5 more. Often billed alongside Ryan Ingleby, Louie G and A.L.C. Next up: Distrikt, Leeds on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ethan McNamara is an electro and techno artist based in United Kingdom, with 69 
 
 Ryan Ingleby, Louie G, A.L.C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*

@@ -1,6 +1,6 @@
 # Mona Matsuoka
 
-Mona Matsuoka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
+Mona Matsuoka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
 
 Mona Matsuoka is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Mexico City and New York City. Often billed alongside Matt FX, Tim Lucent and The Fitness. Next up: Jupiter Disco, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mona Matsuoka is a house and techno artist based in United States of America, wi
 
 Matt FX, Tim Lucent, The Fitness
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monamatsuoka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monamatsuoka/)*

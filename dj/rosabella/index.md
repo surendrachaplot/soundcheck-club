@@ -1,6 +1,6 @@
 # Rosabella
 
-Rosabella is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Impiety Hour, Manchester on Fri, 16 Oct 2026.
+Rosabella is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Impiety Hour, Manchester on Fri, 16 Oct 2026.
 
 Rosabella is an ambient and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside LSMarley, VMS Angel and tadhor. Next up: Impiety Hour, Manchester on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Rosabella is an ambient and experimental artist based in United Kingdom, with 8 
 
 LSMarley, VMS Angel, tadhor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosabella/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosabella/)*

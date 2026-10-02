@@ -1,6 +1,6 @@
 # Matt Davies
 
-Matt Davies is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PINK, Manchester on Sat, 17 Oct 2026.
+Matt Davies is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at PINK, Manchester on Sat, 17 Oct 2026.
 
 Matt Davies is an experimental and house artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Bristol, Brussels and Hong Kong and 4 more. Often billed alongside FRESCO (UK), ABADIR and Adela. Next up: PINK, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Matt Davies is an experimental and house artist based in United Kingdom, with 18
 
 FRESCO (UK), ABADIR, Adela
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdavies/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdavies/)*

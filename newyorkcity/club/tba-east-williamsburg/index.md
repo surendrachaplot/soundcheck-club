@@ -1,6 +1,6 @@
 # TBA - East Williamsburg
 
-TBA - East Williamsburg is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Golden Record NYC presents ARPO with Call Super & Shanti Celeste" on Sat, 17 Oct 2026.
+TBA - East Williamsburg is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Golden Record NYC presents ARPO with Call Super & Shanti Celeste" on Sat, 17 Oct 2026.
 
 TBA - East Williamsburg is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including adobeprincess, Armii1n, Ash Lauryn and Bill Patrick and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - East Williamsburg is a music venue in New York City listed on soundcheck. 
 | Fri, 13 Nov 2026 | SYSTEM |  |
 | Sat, 5 Dec 2026 | Golden Record NYC presents Traumer All Night Long | Traumer |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-east-williamsburg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-east-williamsburg/)*

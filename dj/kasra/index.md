@@ -1,6 +1,6 @@
 # Kasra
 
-Kasra is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Kasra is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
 Kasra is a drum & bass and bass artist based in United Kingdom, with 58 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 18 more. Often billed alongside Enei, Jakes and Mantmast. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Kasra is a drum & bass and bass artist based in United Kingdom, with 58 gigs on 
 
 Enei, Jakes, Mantmast
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*

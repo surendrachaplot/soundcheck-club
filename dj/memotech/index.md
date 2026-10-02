@@ -1,6 +1,6 @@
 # Memotech
 
-Memotech is a Bass and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Memotech is a Bass and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Memotech is a bass and deep house artist based in Georgia, with 94 gigs on soundcheck across Cologne, Copenhagen, Istanbul and Tbilisi and 1 more. Often billed alongside Kraumur, Routes Not Roots and Sevda. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Memotech is a bass and deep house artist based in Georgia, with 94 gigs on sound
 
 Kraumur, Routes Not Roots, Sevda
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memotech/)*

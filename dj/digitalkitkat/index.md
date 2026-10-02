@@ -1,6 +1,6 @@
 # Digital KitKat
 
-Digital KitKat is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The LookOut, San Francisco/Oakland on Sat, 3 Oct 2026.
+Digital KitKat is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The LookOut, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Digital KitKat is a house and club artist based in United States of America, with 50 gigs on soundcheck across Berlin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Freaky Emo, HEAVENLY ARCH and Saint Triste. Next up: The LookOut, San Francisco/Oakland on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Digital KitKat is a house and club artist based in United States of America, wit
 
 Freaky Emo, HEAVENLY ARCH, Saint Triste
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalkitkat/)*

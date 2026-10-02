@@ -1,6 +1,6 @@
 # retropxssy
 
-retropxssy is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
+retropxssy is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
 
 retropxssy is a hip-hop and experimental artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 1 more. Often billed alongside JoeJas, ACE C0NWAY and anti.Net. Next up: Fuzzbrain Studios, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ retropxssy is a hip-hop and experimental artist based in United Kingdom, with 28
 
 JoeJas, ACE C0NWAY, anti.Net
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retropxssy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retropxssy/)*

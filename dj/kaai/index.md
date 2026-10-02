@@ -1,6 +1,6 @@
 # KAAI
 
-KAAI is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Flinders, Sydney on Fri, 9 Oct 2026.
+KAAI is a Techno and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Flinders, Sydney on Fri, 9 Oct 2026.
 
 KAAI is a techno and dub techno artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Cologne and 12 more. Often billed alongside Slam, Kairogen and Charlie Sparks. Next up: The Flinders, Sydney on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ KAAI is a techno and dub techno artist based in United Kingdom, with 43 gigs on 
 
 Slam, Kairogen, Charlie Sparks
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*

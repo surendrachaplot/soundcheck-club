@@ -1,6 +1,6 @@
 # Pat Lok
 
-Pat Lok is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Departamento, Mexico City on Fri, 2 Oct 2026.
+Pat Lok is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Departamento, Mexico City on Fri, 2 Oct 2026.
 
 Pat Lok is a house and disco artist based in Canada, with 36 gigs on soundcheck across Denver, Lisbon, Los Angeles and Mexico City and 7 more. Often billed alongside Keys N Krates, Sabrosito and Eliangel. Next up: Departamento, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Pat Lok is a house and disco artist based in Canada, with 36 gigs on soundcheck 
 
 Keys N Krates, Sabrosito, Eliangel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patlok/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patlok/)*

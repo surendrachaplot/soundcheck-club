@@ -1,6 +1,6 @@
 # Andy Foundations
 
-Andy Foundations is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 10 Oct 2026.
+Andy Foundations is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Sat, 10 Oct 2026.
 
 Andy Foundations is a jungle and drum & bass artist based in United Kingdom, with 14 gigs on soundcheck across Berlin and London. Often billed alongside Joe Joiner, EN.VEE and Arkyn. Next up: Planet Wax, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Andy Foundations is a jungle and drum & bass artist based in United Kingdom, wit
 
 Joe Joiner, EN.VEE, Arkyn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfoundations/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfoundations/)*

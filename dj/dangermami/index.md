@@ -1,6 +1,6 @@
 # Dangermami
 
-Dangermami is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Dangermami is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Dangermami is a bass and techno artist, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 20 more. Often billed alongside MSJY, Marie Midori and DJ Fuckoff. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dangermami is a bass and techno artist, with 90 gigs on soundcheck across Amster
 
 MSJY, Marie Midori, DJ Fuckoff
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*

@@ -1,15 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Soundset Sessions with NewTone" on Thu, 1 Oct 2026.
+M7 Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bipolar Disorder x Sociedad Groove" on Fri, 2 Oct 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and CLANDESTINE and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and DAISY and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Soundset Sessions with NewTone | CLANDESTINE (2), NewTone, REGOR_ |
-| Thu, 1 Oct 2026 | HARD BOUNCE [Güti & Marc Fx] |  |
 | Fri, 2 Oct 2026 | Bipolar Disorder x Sociedad Groove | DD.MATTS, GLIA, H-R-Z, SYM, The Chronics |
 | Fri, 2 Oct 2026 | HARD BOUNCE [Xexo, Adviro, Marc Fx] | FØBIA |
 | Sat, 3 Oct 2026 | M7 presenta [Up Room] Xavi BCN, BreakStyle, Javi Guerrero [Main Room] Adviro, Kova & Vicks | Adviro, BreakStyle, Vicks (ES), Xavi BCN |
@@ -22,4 +20,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, wit
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

@@ -1,6 +1,6 @@
 # Robin Ball
 
-Robin Ball is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Patterns, Brighton on Sat, 17 Oct 2026.
+Robin Ball is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Patterns, Brighton on Sat, 17 Oct 2026.
 
 Robin Ball is a techno and electro artist based in United Kingdom, with 14 gigs on soundcheck across Brighton and London. Often billed alongside Daniel Avery, A Guy Called Gerald and Anna Wall. Next up: Patterns, Brighton on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Robin Ball is a techno and electro artist based in United Kingdom, with 14 gigs 
 
 Daniel Avery, A Guy Called Gerald, Anna Wall
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinball/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinball/)*

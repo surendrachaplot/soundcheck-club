@@ -1,6 +1,6 @@
 # Matteo Diop
 
-Matteo Diop is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at T7 Paris, Paris on Fri, 2 Oct 2026.
+Matteo Diop is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at T7 Paris, Paris on Fri, 2 Oct 2026.
 
 Matteo Diop is a house and tech house artist based in France, with 27 gigs on soundcheck across Ibiza, London, Munich and Naples and 2 more. Often billed alongside II FACES, Arthur Nozen and Parea (FR). Next up: T7 Paris, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Matteo Diop is a house and tech house artist based in France, with 27 gigs on so
 
 II FACES, Arthur Nozen, Parea (FR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*

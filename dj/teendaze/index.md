@@ -1,6 +1,6 @@
 # Teen Daze
 
-Teen Daze is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hosoi, Stockholm on Fri, 2 Oct 2026.
+Teen Daze is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hosoi, Stockholm on Fri, 2 Oct 2026.
 
 Teen Daze is a house and balearic artist based in Canada, with 39 gigs on soundcheck across Austin, Denver, Los Angeles and Montreal and 6 more. Often billed alongside Pacific Coliseum, DJ D.Dee and Kozue. Next up: Hosoi, Stockholm on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Teen Daze is a house and balearic artist based in Canada, with 39 gigs on soundc
 
 Pacific Coliseum, DJ D.Dee, Kozue
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teendaze/)*

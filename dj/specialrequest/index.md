@@ -1,6 +1,6 @@
 # Special Request
 
-Special Request is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Paradise Lakes, New-jersey on Thu, 1 Oct 2026.
+Special Request is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Paradise Lakes, New-jersey on Thu, 1 Oct 2026.
 
 Special Request is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 48 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: TBA - Paradise Lakes, New Jersey on Thu 1 Oct.
 
@@ -20,6 +20,7 @@ Special Request is a techno and house artist based in United Kingdom, with 171 g
 
 ## Recently played
 
+- TBA - Paradise Lakes, New-jersey · Thu, 1 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
 - Electric Studios, Sheffield · Fri, 4 Sept 2026
 - Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
@@ -27,10 +28,9 @@ Special Request is a techno and house artist based in United Kingdom, with 171 g
 - Hï Ibiza, Ibiza · Fri, 3 Jul 2026
 - Colwick Country Park, Nottingham · Fri, 26 Jun 2026
 - The Cause, London · Sat, 20 Jun 2026
-- Brockwell Park, London · Sat, 23 May 2026
 
 ## Shares bills with
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

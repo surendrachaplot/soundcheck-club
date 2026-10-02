@@ -1,6 +1,6 @@
 # Miradouro de Baixo
 
-Miradouro de Baixo is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "City Jamz" on Fri, 2 Oct 2026.
+Miradouro de Baixo is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "City Jamz" on Fri, 2 Oct 2026.
 
 Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Guy from 1990 and Opalia. See dates, start times and who's playing. Rua de São Lázaro 72, 1150-330 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming g
 
 Rua de São Lázaro 72, 1150-330 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*

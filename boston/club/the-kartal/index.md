@@ -1,6 +1,6 @@
 # The Kartal
 
-The Kartal is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MajiK III 'The art of together'" on Thu, 29 Oct 2026.
+The Kartal is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MajiK III 'The art of together'" on Thu, 29 Oct 2026.
 
 The Kartal is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 520 Tremont Street Boston MA, 02118.
 
@@ -15,4 +15,4 @@ The Kartal is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See
 
 520 Tremont Street Boston MA, 02118, Boston
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-kartal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-kartal/)*

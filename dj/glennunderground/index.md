@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
+Glenn Underground is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 6 more. Often billed alongside Aaron Dae, Adorio and Disgonuts. Next up: Marble Bar, Detroit on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Adorio, Disgonuts
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

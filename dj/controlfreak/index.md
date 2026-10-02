@@ -1,6 +1,6 @@
 # Control Freak
 
-Control Freak is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Fri, 2 Oct 2026.
+Control Freak is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Fri, 2 Oct 2026.
 
 Control Freak is a techno and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, London and Washington DC. Often billed alongside Lola Haro, Dorisburg and Emily Jeanne. Next up: FOLD, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Control Freak is a techno and minimal artist based in United Kingdom, with 20 gi
 
 Lola Haro, Dorisburg, Emily Jeanne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlfreak/)*

@@ -1,6 +1,6 @@
 # Seb Wildblood
 
-Seb Wildblood is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yes, Manchester on Fri, 16 Oct 2026.
+Seb Wildblood is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yes, Manchester on Fri, 16 Oct 2026.
 
 Seb Wildblood is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Austin, Bangkok and Berlin and 32 more. Often billed alongside Blossom Hill, Tom VR and Baalti. Next up: Yes, Manchester on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Seb Wildblood is a house and techno artist based in United Kingdom, with 80 gigs
 
 Blossom Hill, Tom VR, Baalti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*

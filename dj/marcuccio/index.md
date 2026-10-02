@@ -1,6 +1,6 @@
 # MARCUCCIO
 
-MARCUCCIO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mastak, Warsaw on Fri, 16 Oct 2026.
+MARCUCCIO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mastak, Warsaw on Fri, 16 Oct 2026.
 
 MARCUCCIO is a techno and electro artist based in Belarus, with 16 gigs on soundcheck across Warsaw. Often billed alongside koktelbel, mirormir and Salat. Next up: Mastak, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MARCUCCIO is a techno and electro artist based in Belarus, with 16 gigs on sound
 
 koktelbel, mirormir, Salat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuccio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuccio/)*

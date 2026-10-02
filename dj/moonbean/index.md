@@ -1,6 +1,6 @@
 # MOONBEAN
 
-MOONBEAN is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Houndstooth, Toronto on Fri, 2 Oct 2026.
+MOONBEAN is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Houndstooth, Toronto on Fri, 2 Oct 2026.
 
 MOONBEAN is an electro and experimental artist based in Canada, with 8 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Alex Iso, Jaw Jones and LUCIE. Next up: Houndstooth, Toronto on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ MOONBEAN is an electro and experimental artist based in Canada, with 8 gigs on s
 
 Alex Iso, Jaw Jones, LUCIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbean/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbean/)*

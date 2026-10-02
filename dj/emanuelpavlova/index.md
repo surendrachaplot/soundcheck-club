@@ -1,6 +1,6 @@
 # Emanuel Pavlova
 
-Emanuel Pavlova is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 6 Nov 2026.
+Emanuel Pavlova is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Fri, 6 Nov 2026.
 
 Emanuel Pavlova is an electronica and disco artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Bena, Chameleonas and Gaby D'Annunzio. Next up: Club Cheek, London on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Emanuel Pavlova is an electronica and disco artist based in United Kingdom, with
 
 Bena, Chameleonas, Gaby D'Annunzio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*

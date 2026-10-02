@@ -1,6 +1,6 @@
 # Scène Bar
 
-Scène Bar is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afrosteria with MAMÖRO" on Fri, 2 Oct 2026.
+Scène Bar is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Afrosteria with MAMÖRO" on Fri, 2 Oct 2026.
 
 Scène Bar is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Aytiwan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Scène Bar is a music venue in Brussels listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Afrosteria with MAMÖRO | Aytiwan |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/sc-ne-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/sc-ne-bar/)*

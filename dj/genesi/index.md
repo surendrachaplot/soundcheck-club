@@ -1,6 +1,6 @@
 # GENESI
 
-GENESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Sun, 11 Oct 2026.
+GENESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Knockdown Center, New York City on Sun, 11 Oct 2026.
 
 GENESI is a house and techno artist based in Italy, with 53 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Knockdown Center, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ GENESI is a house and techno artist based in Italy, with 53 gigs on soundcheck a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

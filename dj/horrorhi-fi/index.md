@@ -1,6 +1,6 @@
 # Horror Hi-Fi
 
-Horror Hi-Fi is a Italo Disco and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
+Horror Hi-Fi is a Italo Disco and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
 Horror Hi-Fi is an italo disco and ebm artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, Miami and San Francisco/Oakland. Often billed alongside Roxanne Roll, Alex Oxley and ALMAS. Next up: ZeyZey, Miami on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Horror Hi-Fi is an italo disco and ebm artist based in United States of America,
 
 Roxanne Roll, Alex Oxley, ALMAS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horrorhi-fi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horrorhi-fi/)*

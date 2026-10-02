@@ -1,6 +1,6 @@
 # Rob Goodspeed
 
-Rob Goodspeed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kockiri, Seoul on Fri, 2 Oct 2026.
+Rob Goodspeed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kockiri, Seoul on Fri, 2 Oct 2026.
 
 Rob Goodspeed is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Seoul. Often billed alongside A.Attack, Shlemba and Hansy. Next up: Kockiri, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rob Goodspeed is a house and techno artist based in United States of America, wi
 
 A.Attack, Shlemba, Hansy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*

@@ -1,6 +1,6 @@
 # Afra
 
-Afra is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at export, Rotterdam on Fri, 2 Oct 2026.
+Afra is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at export, Rotterdam on Fri, 2 Oct 2026.
 
 Afra is a techno and house artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: export, Rotterdam on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Afra is a techno and house artist based in Netherlands, with 117 gigs on soundch
 
 Serge, Mary Lake, TWIENA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

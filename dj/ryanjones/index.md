@@ -1,6 +1,6 @@
 # Ryan Jones
 
-Ryan Jones is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
+Ryan Jones is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
 
 Ryan Jones is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Voigtmann, Amaliah and Eddie Richards. Next up: Vittoria Wharf Studio, London on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Ryan Jones is a house and tech house artist based in United Kingdom, with 8 gigs
 
 Voigtmann, Amaliah, Eddie Richards
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*

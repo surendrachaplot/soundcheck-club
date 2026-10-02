@@ -1,6 +1,6 @@
 # Elliver
 
-Elliver is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+Elliver is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
 Elliver is a techno and house artist, with 23 gigs on soundcheck across Berlin, Hamburg and Zurich. Often billed alongside Suse, Crille & Tamalt and Gwen Wayne. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Elliver is a techno and house artist, with 23 gigs on soundcheck across Berlin, 
 
 Suse, Crille & Tamalt, Gwen Wayne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliver/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliver/)*

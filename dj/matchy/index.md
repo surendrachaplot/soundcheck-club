@@ -1,6 +1,6 @@
 # Matchy
 
-Matchy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
+Matchy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
 
 Matchy is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Lexer, Katzengold and Claudius (DE). Next up: Ritter Butzke, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Matchy is a techno and house artist based in Germany, with 47 gigs on soundcheck
 
 Lexer, Katzengold, Claudius (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matchy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matchy/)*

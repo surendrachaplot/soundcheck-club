@@ -1,6 +1,6 @@
 # Protokseed
 
-Protokseed is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Quartier Libre de Rouen, North on Sat, 3 Oct 2026.
+Protokseed is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Quartier Libre de Rouen, North on Sat, 3 Oct 2026.
 
 Protokseed is a techno and acid artist based in France, with 42 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 13 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: Le Quartier Libre de Rouen, North on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Protokseed is a techno and acid artist based in France, with 42 gigs on soundche
 
 Sköne, FLKN, DXPE (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*

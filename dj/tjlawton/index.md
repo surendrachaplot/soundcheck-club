@@ -1,6 +1,6 @@
 # TJ Lawton
 
-TJ Lawton is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+TJ Lawton is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 TJ Lawton is a trance and techno artist, with 7 gigs on soundcheck across Amsterdam and London. Often billed alongside Exoco, Marksman and AVANTIME. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ TJ Lawton is a trance and techno artist, with 7 gigs on soundcheck across Amster
 
 Exoco, Marksman, AVANTIME
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjlawton/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjlawton/)*

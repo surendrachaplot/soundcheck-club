@@ -1,6 +1,6 @@
 # Marc Silva
 
-Marc Silva is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 8 Oct 2026.
+Marc Silva is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 8 Oct 2026.
 
 Marc Silva is a techno artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside Djomby, Avraxas and BACO. Next up: Les Enfants Brillants, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Marc Silva is a techno artist based in Spain, with 10 gigs on soundcheck across 
 
 Djomby, Avraxas, BACO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsilva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsilva/)*

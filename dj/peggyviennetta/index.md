@@ -1,6 +1,6 @@
 # Peggy Viennetta
 
-Peggy Viennetta is a Hardcore and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
+Peggy Viennetta is a Hardcore and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
 
 Peggy Viennetta is a hardcore and trance artist based in United Kingdom, with 58 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 14 more. Often billed alongside Trancey Beaker, DJ Fingerblast and Holly Warcup. Next up: Distillery N17, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Peggy Viennetta is a hardcore and trance artist based in United Kingdom, with 58
 
 Trancey Beaker, DJ Fingerblast, Holly Warcup
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggyviennetta/)*

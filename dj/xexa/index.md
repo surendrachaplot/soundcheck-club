@@ -1,6 +1,6 @@
 # Xexa
 
-Xexa is a Experimental and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Xexa is a Experimental and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Xexa is an experimental and afro house artist based in Portugal, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 7 more. Often billed alongside Dj Danifox, DJ Nigga Fox and DJ Lycox. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Xexa is an experimental and afro house artist based in Portugal, with 23 gigs on
 
 Dj Danifox, DJ Nigga Fox, DJ Lycox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xexa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xexa/)*

@@ -1,6 +1,6 @@
 # Alex Gaskill
 
-Alex Gaskill is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquidate, Manchester on Fri, 2 Oct 2026.
+Alex Gaskill is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquidate, Manchester on Fri, 2 Oct 2026.
 
 Alex Gaskill is a techno and acid artist based in United Kingdom, with 24 gigs on soundcheck across London and Manchester. Often billed alongside Jack Moss, John Paynter and Nessa Johnston. Next up: Liquidate, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Alex Gaskill is a techno and acid artist based in United Kingdom, with 24 gigs o
 
 Jack Moss, John Paynter, Nessa Johnston
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgaskill/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgaskill/)*

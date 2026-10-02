@@ -1,6 +1,6 @@
 # Bruno Pronsato
 
-Bruno Pronsato is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
+Bruno Pronsato is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
 
 Bruno Pronsato is a minimal techno and minimal artist based in United States of America, with 10 gigs on soundcheck across Berlin, The Hague and Valencia. Often billed alongside Sammy Dee, Thomas Melchior and AAA+. Next up: Laak, The Hague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bruno Pronsato is a minimal techno and minimal artist based in United States of 
 
 Sammy Dee, Thomas Melchior, AAA+
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunopronsato/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunopronsato/)*

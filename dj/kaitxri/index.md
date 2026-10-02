@@ -1,6 +1,6 @@
 # Kait Xri
 
-Kait Xri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New Guernica, Melbourne on Fri, 2 Oct 2026.
+Kait Xri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Guernica, Melbourne on Fri, 2 Oct 2026.
 
 Kait Xri is a techno and house artist based in Australia, with 19 gigs on soundcheck across Melbourne. Often billed alongside Hasvat Informant, Ari (AU) and ADMINISTRATOR. Next up: New Guernica, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kait Xri is a techno and house artist based in Australia, with 19 gigs on soundc
 
 Hasvat Informant, Ari (AU), ADMINISTRATOR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitxri/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitxri/)*

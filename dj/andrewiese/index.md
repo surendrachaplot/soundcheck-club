@@ -1,6 +1,6 @@
 # andré wiese
 
-andré wiese is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
+andré wiese is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
 
 andré wiese is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin and Cologne. Often billed alongside Dj Bowlz, Kashinski and PATEK. Next up: Odonien, Cologne on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ andré wiese is a techno and trance artist based in Germany, with 12 gigs on sou
 
 Dj Bowlz, Kashinski, PATEK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewiese/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewiese/)*

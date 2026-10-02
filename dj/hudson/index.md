@@ -1,6 +1,6 @@
 # Hudson
 
-Hudson is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Hudson is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Hudson is a techno and disco artist based in United Kingdom, with 11 gigs on soundcheck across Detroit and Tbilisi. Often billed alongside Gio Shengelia, Hatsvali and Pasha. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hudson is a techno and disco artist based in United Kingdom, with 11 gigs on sou
 
 Gio Shengelia, Hatsvali, Pasha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*

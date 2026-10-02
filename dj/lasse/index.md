@@ -1,6 +1,6 @@
 # Lasse
 
-Lasse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Lasse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
 Lasse is a techno and house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lasse is a techno and house artist based in Netherlands, with 93 gigs on soundch
 
 Lasse Top, Flits, Isaiah (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*

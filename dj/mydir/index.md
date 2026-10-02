@@ -1,6 +1,6 @@
 # MYDIR
 
-MYDIR is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
+MYDIR is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
 
 MYDIR is a house and afro house artist based in United Kingdom, with 18 gigs on soundcheck across London and Manchester. Often billed alongside Bushman (UK), Kakura and Mixed Message Music. Next up: Bread and Butter, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MYDIR is a house and afro house artist based in United Kingdom, with 18 gigs on 
 
 Bushman (UK), Kakura, Mixed Message Music
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*

@@ -1,6 +1,6 @@
 # Gianpula Main Room
 
-Gianpula Main Room is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "G7 presents: HALLOWEEN VILLAGE 2026" on Fri, 30 Oct 2026.
+Gianpula Main Room is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "G7 presents: HALLOWEEN VILLAGE 2026" on Fri, 30 Oct 2026.
 
 Gianpula Main Room is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including INVERTED (MT), Kobosil, PEACHY and Reactant. See dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -15,4 +15,4 @@ Gianpula Main Room is a music venue in Malta listed on soundcheck. 2 upcoming gi
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*

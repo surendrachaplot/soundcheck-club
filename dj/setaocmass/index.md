@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Mõss Club Valladolid, North on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 183 gigs 
 
 Philippa Pacho, Altinbas, Phara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

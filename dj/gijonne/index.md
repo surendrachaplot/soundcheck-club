@@ -1,6 +1,6 @@
 # Gijonne
 
-Gijonne is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Fri, 2 Oct 2026.
+Gijonne is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barco Sound House, Madrid on Fri, 2 Oct 2026.
 
 Gijonne is a house and club artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside The Flying Robin, 1st Degree and Carlos Alcañiz. Next up: Barco Sound House, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gijonne is a house and club artist based in Spain, with 17 gigs on soundcheck ac
 
 The Flying Robin, 1st Degree, Carlos Alcañiz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gijonne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gijonne/)*

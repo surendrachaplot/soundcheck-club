@@ -1,13 +1,14 @@
 # Cosmic Force
 
-Cosmic Force is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Cosmic Force is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
 
-Cosmic Force is a house and acid artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Mexico City, Milan and Rotterdam and 2 more. Often billed alongside Richelle Soigni, Alessandro Parisi and Aroy Dee. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
+Cosmic Force is an electro and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Mexico City, Milan and Rotterdam and 3 more. Often billed alongside Pawel Blot, Richelle Soigni and Alessandro Parisi. Next up: K-Bar Powiśle, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 12 Dec 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
@@ -23,6 +24,6 @@ Cosmic Force is a house and acid artist based in Netherlands, with 10 gigs on so
 
 ## Shares bills with
 
-Richelle Soigni, Alessandro Parisi, Aroy Dee
+Pawel Blot, Richelle Soigni, Alessandro Parisi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*

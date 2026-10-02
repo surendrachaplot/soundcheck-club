@@ -1,6 +1,6 @@
 # demenz
 
-demenz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+demenz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 demenz is a house and tech house artist based in Venezuela, with 46 gigs on soundcheck across Los Angeles and Miami. Often billed alongside Lou Flores, Diego Teran and Mai iachetti. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ demenz is a house and tech house artist based in Venezuela, with 46 gigs on soun
 
 Lou Flores, Diego Teran, Mai iachetti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demenz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demenz/)*

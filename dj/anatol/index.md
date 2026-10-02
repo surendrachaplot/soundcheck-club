@@ -1,6 +1,6 @@
 # Anatol
 
-Anatol is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
+Anatol is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
 
 Anatol is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Vienna. Often billed alongside Hannah mit Hut, Silentsevir and THURI. Next up: Das Werk, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Anatol is a techno and trance artist based in Germany, with 9 gigs on soundcheck
 
 Hannah mit Hut, Silentsevir, THURI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anatol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anatol/)*

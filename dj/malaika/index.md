@@ -1,6 +1,6 @@
 # Mala ika
 
-Mala ika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Mala ika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Mala ika is a house and techno artist based in France, with 36 gigs on soundcheck across Antwerp, Berlin, Frankfurt and Ghent and 8 more. Often billed alongside Cormac, Ixpé and A-440. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mala ika is a house and techno artist based in France, with 36 gigs on soundchec
 
 Cormac, Ixpé, A-440
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaika/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaika/)*

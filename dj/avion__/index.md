@@ -1,6 +1,6 @@
 # avion__
 
-avion__ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+avion__ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 avion__ is a techno and house artist based in Japan, with 61 gigs on soundcheck across Tokyo. Often billed alongside Drunken Kong, Dani Savant and Shogo Ito. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ avion__ is a techno and house artist based in Japan, with 61 gigs on soundcheck 
 
 Drunken Kong, Dani Savant, Shogo Ito
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avion__/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avion__/)*

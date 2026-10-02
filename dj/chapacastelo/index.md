@@ -1,6 +1,6 @@
 # Chapa & Castelo
 
-Chapa & Castelo is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
+Chapa & Castelo is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
 
 Chapa & Castelo are a tech house and deep house duo, with 22 gigs on soundcheck across Barcelona, Berlin, Brazil and Buenos Aires and 6 more. Often billed alongside Jay de Lys, Bob Tosh and COLLISION. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Chapa & Castelo are a tech house and deep house duo, with 22 gigs on soundcheck 
 
 Jay de Lys, Bob Tosh, COLLISION
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chapacastelo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chapacastelo/)*

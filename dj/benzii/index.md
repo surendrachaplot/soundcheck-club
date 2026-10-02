@@ -1,6 +1,6 @@
 # benzii
 
-benzii is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+benzii is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 benzii is a club and experimental artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Warlord®, bod [包家巷] and 0neo. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ benzii is a club and experimental artist based in Germany, with 33 gigs on sound
 
 Warlord®, bod [包家巷], 0neo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzii/)*

@@ -1,6 +1,6 @@
 # Romina Mazzini
 
-Romina Mazzini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Romina Mazzini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Romina Mazzini is a techno and house artist based in Peru, with 8 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Alex Volta, Aliha and Alviker. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Romina Mazzini is a techno and house artist based in Peru, with 8 gigs on soundc
 
 Alex Volta, Aliha, Alviker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rominamazzini/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rominamazzini/)*

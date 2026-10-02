@@ -1,6 +1,6 @@
 # magic.made.by.r
 
-magic.made.by.r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 3 Oct 2026.
+magic.made.by.r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 3 Oct 2026.
 
 magic.made.by.r is a house and techno artist based in Ukraine, with 22 gigs on soundcheck across Berlin, Hamburg and Warsaw. Often billed alongside Manu Strasse, Adron_ and Antoine Baiser. Next up: Klunkerkranich, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ magic.made.by.r is a house and techno artist based in Ukraine, with 22 gigs on s
 
 Manu Strasse, Adron_, Antoine Baiser
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*

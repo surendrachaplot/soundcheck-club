@@ -1,6 +1,6 @@
 # Gaya Carmeli
 
-Gaya Carmeli is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M-BIA, Berlin on Fri, 16 Oct 2026.
+Gaya Carmeli is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M-BIA, Berlin on Fri, 16 Oct 2026.
 
 Gaya Carmeli is a techno and industrial artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin and Utrecht. Often billed alongside CØPTER, Alex Sharp and MIESØ. Next up: M-BIA, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gaya Carmeli is a techno and industrial artist based in Netherlands, with 22 gig
 
 CØPTER, Alex Sharp, MIESØ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayacarmeli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayacarmeli/)*

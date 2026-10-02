@@ -1,6 +1,6 @@
 # anusha
 
-anusha is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+anusha is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 anusha is a bass and techno artist based in Australia, with 38 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Alilia, Galiba and D-Grade. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ anusha is a bass and techno artist based in Australia, with 38 gigs on soundchec
 
 Alilia, Galiba, D-Grade
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anusha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anusha/)*

@@ -1,6 +1,6 @@
 # Dj Maphorisa
 
-Dj Maphorisa is a Amapiano and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
+Dj Maphorisa is a Amapiano and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
 
 Dj Maphorisa is an amapiano and afro tech artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 6 more. Often billed alongside BOJ, Charisse C and DBN Gogo. Next up: DRUMSHEDS, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Dj Maphorisa is an amapiano and afro tech artist, with 15 gigs on soundcheck acr
 
 BOJ (1), Charisse C, DBN Gogo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaphorisa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaphorisa/)*

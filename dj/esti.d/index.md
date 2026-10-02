@@ -1,6 +1,6 @@
 # esti.d
 
-esti.d is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
+esti.d is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
 
 esti.d is a pop and techno artist based in Austria, with 34 gigs on soundcheck across Glasgow, London, Prague and Vienna. Often billed alongside neon.kotze, Peter Puenktlich and saschka. Next up: Flex, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ esti.d is a pop and techno artist based in Austria, with 34 gigs on soundcheck a
 
 neon.kotze, Peter Puenktlich (2), saschka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esti.d/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esti.d/)*

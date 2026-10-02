@@ -1,6 +1,6 @@
 # Laura Lynn
 
-Laura Lynn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 16 Oct 2026.
+Laura Lynn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 16 Oct 2026.
 
 Laura Lynn is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Berlin, Miami, New York City and Tokyo. Often billed alongside Soul Clap, Acid Alien and David Kiss. Next up: Dead Letter No. 9, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Laura Lynn is a house and techno artist based in United States of America, with 
 
 Soul Clap, Acid Alien, David Kiss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauralynn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauralynn/)*

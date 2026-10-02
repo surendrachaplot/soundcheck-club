@@ -1,6 +1,6 @@
 # Laura MRLS
 
-Laura MRLS is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 12 Dec 2026.
+Laura MRLS is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 12 Dec 2026.
 
 Laura MRLS is a techno and ambient artist based in Germany, with 34 gigs on soundcheck across Barcelona, Berlin, Helsinki and London and 1 more. Often billed alongside Exploited Body, JASSASS and Katerina. Next up: TBA - Secret Location, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Laura MRLS is a techno and ambient artist based in Germany, with 34 gigs on soun
 
 Exploited Body, JASSASS, Katerina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*

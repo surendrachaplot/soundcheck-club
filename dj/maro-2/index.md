@@ -1,6 +1,6 @@
 # MARØ (2)
 
-MARØ (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
+MARØ (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
 MARØ is a techno and house artist based in Austria, with 10 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, KRAWALLBARBIE and BLUDHOUND. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MARØ is a techno and house artist based in Austria, with 10 gigs on soundcheck 
 
 Anna Ullrich, KRAWALLBARBIE, BLUDHOUND
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-2/)*

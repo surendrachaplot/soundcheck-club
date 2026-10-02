@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Sylo (all night)" on Fri, 2 Oct 2026.
+Bastet is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DJ Sylo (all night)" on Fri, 2 Oct 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including Baejawn, Coffintexts, Cubby and Cyrus (PHL) and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -18,4 +18,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

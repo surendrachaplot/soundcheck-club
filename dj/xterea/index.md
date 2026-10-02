@@ -1,6 +1,6 @@
 # Xterea
 
-Xterea is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
+Xterea is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Xterea is an experimental and club artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Liverpool and 4 more. Often billed alongside Ben Vince, John T. Gast and Josey Rebelle. Next up: ISOamsterdam, Amsterdam on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Xterea is an experimental and club artist based in United Kingdom, with 20 gigs 
 
 Ben Vince, John T. Gast, Josey Rebelle
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*

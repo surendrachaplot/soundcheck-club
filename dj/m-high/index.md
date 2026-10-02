@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Thu, 1 Oct 2026.
+M-High is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sub Club, Glasgow on Thu, 1 Oct 2026.
 
 M-High is a house and tech house artist based in Netherlands, with 188 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 35 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Sub Club, Glasgow on Thu 1 Oct.
 
@@ -23,6 +23,7 @@ M-High is a house and tech house artist based in Netherlands, with 188 gigs on s
 
 ## Recently played
 
+- Sub Club, Glasgow · Thu, 1 Oct 2026
 - Thuishaven, Amsterdam · Sun, 27 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 26 Sept 2026
 - Colorado Charlie, The Hague · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ M-High is a house and tech house artist based in Netherlands, with 188 gigs on s
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Flash, Washington DC · Fri, 18 Sept 2026
 - block., Dublin · Sat, 5 Sept 2026
-- SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, Sidney Charles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

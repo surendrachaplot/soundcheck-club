@@ -1,6 +1,6 @@
 # Breezywav
 
-Breezywav is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
+Breezywav is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
 
 Breezywav is a house and electro artist based in Spain, with 22 gigs on soundcheck across Barcelona and London. Often billed alongside Farres, Jean Bressan and Civic Grief. Next up: 303 Audiophile Bar, Barcelona on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Breezywav is a house and electro artist based in Spain, with 22 gigs on soundche
 
 Farres, Jean Bressan, Civic Grief
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breezywav/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breezywav/)*

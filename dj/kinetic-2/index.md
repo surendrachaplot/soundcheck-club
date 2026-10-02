@@ -1,6 +1,6 @@
 # Kinetic (2)
 
-Kinetic (2) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at LAUT, Barcelona on Fri, 9 Oct 2026.
+Kinetic (2) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at LAUT, Barcelona on Fri, 9 Oct 2026.
 
 Kinetic is an electro and techno artist based in Spain, with 31 gigs on soundcheck across Barcelona, Brussels, Madrid and Marseille. Often billed alongside Ed Warner, Deckard and Lyonel. Next up: LAUT, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Kinetic is an electro and techno artist based in Spain, with 31 gigs on soundche
 
 Ed Warner, Deckard, Lyonel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic-2/)*

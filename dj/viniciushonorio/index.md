@@ -1,6 +1,6 @@
 # Vinicius Honorio
 
-Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fever, Bilbao on Fri, 2 Oct 2026.
+Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fever, Bilbao on Fri, 2 Oct 2026.
 
 Vinicius Honorio is a techno and dub techno artist based in Brazil, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bilbao and 16 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: Fever, Bilbao on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Vinicius Honorio is a techno and dub techno artist based in Brazil, with 45 gigs
 
 R.M.K, DJ Bone, Steven Shade
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viniciushonorio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viniciushonorio/)*

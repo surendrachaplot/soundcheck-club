@@ -1,6 +1,6 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TESTBED, Leeds on Sat, 3 Oct 2026.
+Marcia Carr is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TESTBED, Leeds on Sat, 3 Oct 2026.
 
 Marcia Carr is a house and disco artist based in United Kingdom, with 78 gigs on soundcheck across Brighton, Bristol, Helsinki and Leeds and 4 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: TESTBED, Leeds on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 78 gigs on
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

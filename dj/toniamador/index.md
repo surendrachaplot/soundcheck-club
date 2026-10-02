@@ -1,6 +1,6 @@
 # Toni Amador
 
-Toni Amador is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Toni Amador is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Toni Amador is a techno and house artist based in Spain, with 29 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Ikari. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Toni Amador is a techno and house artist based in Spain, with 29 gigs on soundch
 
 Ana Alves, Hades PRX, Ikari
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toniamador/)*

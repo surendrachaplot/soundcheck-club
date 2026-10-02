@@ -1,6 +1,6 @@
 # DDUCATI
 
-DDUCATI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ÆDEN, Berlin on Sat, 10 Oct 2026.
+DDUCATI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 10 Oct 2026.
 
 DDUCATI is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Amo (IT), GM1 (IT) and Hanne B. Next up: ÆDEN, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DDUCATI is a trance and techno artist based in Germany, with 7 gigs on soundchec
 
 Amo (IT), GM1 (IT), Hanne B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dducati/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dducati/)*

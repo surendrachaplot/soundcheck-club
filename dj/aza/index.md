@@ -1,6 +1,6 @@
 # AZA
 
-AZA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Fri, 2 Oct 2026.
+AZA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Fri, 2 Oct 2026.
 
 AZA is a techno and electro artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 8 more. Often billed alongside Daniel Bell, Huey Mnemonic and BMG. Next up: public records, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ AZA is a techno and electro artist based in United States of America, with 26 gi
 
 Daniel Bell, Huey Mnemonic, BMG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*

@@ -1,6 +1,6 @@
 # sumi’
 
-sumi’ is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 3 Oct 2026.
+sumi’ is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 3 Oct 2026.
 
 sumi’ is a house and minimal artist based in Japan, with 17 gigs on soundcheck across Osaka. Often billed alongside Mercy., Motel Paraiso and NAGATA. Next up: Teranoma Tidepool, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ sumi’ is a house and minimal artist based in Japan, with 17 gigs on soundcheck
 
 Mercy., Motel Paraiso, NAGATA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi/)*

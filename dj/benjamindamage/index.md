@@ -1,6 +1,6 @@
 # Benjamin Damage
 
-Benjamin Damage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Krftwrk, Odense on Sat, 10 Oct 2026.
+Benjamin Damage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Krftwrk, Odense on Sat, 10 Oct 2026.
 
 Benjamin Damage is a techno and bass artist, with 22 gigs on soundcheck across Berlin, Birmingham, Dublin and Frankfurt and 8 more. Often billed alongside Anetha, Lacchesi and VEL (MA). Next up: Krftwrk, Odense on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Benjamin Damage is a techno and bass artist, with 22 gigs on soundcheck across B
 
 Anetha, Lacchesi, VEL (MA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*

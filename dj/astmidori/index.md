@@ -1,6 +1,6 @@
 # ast midori
 
-ast midori is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Conpass, Osaka on Fri, 2 Oct 2026.
+ast midori is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Conpass, Osaka on Fri, 2 Oct 2026.
 
 ast midori is a techno and electro artist based in Japan, with 82 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside 春麗 Chun Li, E.O.U and HSC. Next up: Conpass, Osaka on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ast midori is a techno and electro artist based in Japan, with 82 gigs on soundc
 
 春麗 Chun Li, E.O.U, HSC (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astmidori/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astmidori/)*

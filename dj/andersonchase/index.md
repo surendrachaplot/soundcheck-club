@@ -1,6 +1,6 @@
 # Anderson Chase
 
-Anderson Chase is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 24 Oct 2026.
+Anderson Chase is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Anderson Chase is a house and disco artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Joe Fro, Combover and Louiv. Next up: TBA - San Francisco, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Anderson Chase is a house and disco artist based in United States of America, wi
 
 Joe Fro, Combover, Louiv
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonchase/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonchase/)*

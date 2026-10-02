@@ -1,6 +1,6 @@
 # anu
 
-anu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground, London on Fri, 2 Oct 2026.
+anu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground, London on Fri, 2 Oct 2026.
 
 anu is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside 404 eros, Avsluta and NIKS. Next up: Village Underground, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ anu is a house and techno artist based in United Kingdom, with 54 gigs on soundc
 
 404 eros, Avsluta, NIKS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anu/)*

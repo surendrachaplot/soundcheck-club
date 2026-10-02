@@ -1,6 +1,6 @@
 # Kiawash
 
-Kiawash is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Kiawash is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
 Kiawash is an electronica and bass artist based in Germany, with 26 gigs on soundcheck across Cologne, Munich, Stuttgart and Vienna. Often billed alongside Sarmabot, tbhase and Kareem El Morr. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kiawash is an electronica and bass artist based in Germany, with 26 gigs on soun
 
 Sarmabot, tbhase, Kareem El Morr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*

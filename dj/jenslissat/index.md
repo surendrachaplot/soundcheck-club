@@ -1,6 +1,6 @@
 # Jens Lissat
 
-Jens Lissat is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+Jens Lissat is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 Jens Lissat is a disco and techno artist, with 7 gigs on soundcheck across Brussels, Cologne and Ibiza. Often billed alongside Peacharoo, Eric Sneo and A Y L A. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Jens Lissat is a disco and techno artist, with 7 gigs on soundcheck across Bruss
 
 Peacharoo, Eric Sneo, A Y L A
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenslissat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenslissat/)*

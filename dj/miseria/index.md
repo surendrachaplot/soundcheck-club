@@ -1,6 +1,6 @@
 # MISERIA
 
-MISERIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
+MISERIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Department 184, Milan on Fri, 16 Oct 2026.
 
 MISERIA is a techno and house artist based in Italy, with 21 gigs on soundcheck across Milan. Often billed alongside RIBLX, Vittorio Di Mango and Münich. Next up: Department 184, Milan on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ MISERIA is a techno and house artist based in Italy, with 21 gigs on soundcheck 
 
 RIBLX, Vittorio Di Mango, Münich
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miseria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miseria/)*

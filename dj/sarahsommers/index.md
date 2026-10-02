@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
+Sarah Sommers is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
 Sarah Sommers is a techno and acid artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 21 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: Fuchs2, Prague on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Sarah Sommers is a techno and acid artist based in Germany, with 56 gigs on soun
 
 Josef Kunz, Ellen Allien, Tomo in der Muhlen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

@@ -1,6 +1,6 @@
 # Westside Bass
 
-Westside Bass is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Westside Bass is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Westside Bass is a techno and house artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside PyjamaMama, Error507 and Ravejezuz. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Westside Bass is a techno and house artist based in Germany, with 25 gigs on sou
 
 PyjamaMama, Error507, Ravejezuz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westsidebass/)*

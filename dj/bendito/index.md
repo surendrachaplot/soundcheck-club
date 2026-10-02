@@ -1,6 +1,6 @@
 # Bendito
 
-Bendito is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - SpinnaVerse BK, New York City on Sun, 4 Oct 2026.
+Bendito is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SpinnaVerse BK, New York City on Sun, 4 Oct 2026.
 
 Bendito is a house and disco artist based in United States of America, with 89 gigs on soundcheck across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: TBA - SpinnaVerse BK, New York City on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Bendito is a house and disco artist based in United States of America, with 89 g
 
 Jeremy Giros, Donis, Elephantglasses
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*

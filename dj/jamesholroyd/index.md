@@ -1,6 +1,6 @@
 # James Holroyd
 
-James Holroyd is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
+James Holroyd is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 James Holroyd is a house and acid artist based in United Kingdom, with 40 gigs on soundcheck across Birmingham, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside Il Bosco, Crazy P and Jon Dasilva. Next up: Pikes Ibiza, Ibiza on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ James Holroyd is a house and acid artist based in United Kingdom, with 40 gigs o
 
 Il Bosco, Crazy P, Jon Dasilva
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*

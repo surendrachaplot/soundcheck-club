@@ -1,6 +1,6 @@
 # KYLE MIKASA
 
-KYLE MIKASA is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forestlimit, Tokyo on Fri, 16 Oct 2026.
+KYLE MIKASA is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Fri, 16 Oct 2026.
 
 KYLE MIKASA is a hardcore and techno artist based in Japan, with 51 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: Forestlimit, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ KYLE MIKASA is a hardcore and techno artist based in Japan, with 51 gigs on soun
 
 RICKY, KAMIKAZE, egomania
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*

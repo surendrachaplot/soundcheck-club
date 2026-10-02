@@ -1,6 +1,6 @@
 # Innershades
 
-Innershades is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Basic Club, Naples on Fri, 2 Oct 2026.
+Innershades is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Basic Club, Naples on Fri, 2 Oct 2026.
 
 Innershades is a techno and house artist based in Belgium, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside DC Salas, Phara and Border One. Next up: Basic Club, Naples on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Innershades is a techno and house artist based in Belgium, with 64 gigs on sound
 
 DC Salas, Phara, Border One
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*

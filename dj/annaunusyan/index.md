@@ -1,6 +1,6 @@
 # Anna Unusyan
 
-Anna Unusyan is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Anna Unusyan is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
 Anna Unusyan is a techno and afro house artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Ibiza and London. Often billed alongside Indira Paganotto, Akoriz and Juliet Fox. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Anna Unusyan is a techno and afro house artist based in United Kingdom, with 11 
 
 Indira Paganotto, Akoriz, Juliet Fox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaunusyan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaunusyan/)*

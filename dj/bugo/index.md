@@ -1,6 +1,6 @@
 # B'UGO
 
-B'UGO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Montreal on Sun, 25 Oct 2026.
+B'UGO is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Montreal on Sun, 25 Oct 2026.
 
 B'UGO is a house and disco artist, with 15 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Ashley Gauthier, Lost Heroes and Burn Baby. Next up: Stereo, Montreal on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ B'UGO is a house and disco artist, with 15 gigs on soundcheck across Montreal, T
 
 Ashley Gauthier, Lost Heroes, Burn Baby
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bugo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bugo/)*

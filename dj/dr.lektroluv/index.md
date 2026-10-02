@@ -1,6 +1,6 @@
 # Dr. Lektroluv
 
-Dr. Lektroluv is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
+Dr. Lektroluv is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
 
 Dr. Lektroluv is an electronica and house artist based in Belgium, with 6 gigs on soundcheck across Amsterdam, Belgium and Ghent. Often billed alongside Alexander Koning, Digitalism and Kenny Montana. Next up: Radar, Belgium on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Dr. Lektroluv is an electronica and house artist based in Belgium, with 6 gigs o
 
 Alexander Koning, Digitalism, Kenny Montana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*

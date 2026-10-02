@@ -1,6 +1,6 @@
 # A.tari
 
-A.tari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Studio1111, Berlin on Fri, 2 Oct 2026.
+A.tari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Studio1111, Berlin on Fri, 2 Oct 2026.
 
 A.tari is a house and disco artist based in Germany, with 28 gigs on soundcheck across Berlin and Munich. Often billed alongside Kapote, Arpy Brown and Max NRG Supply. Next up: Studio1111, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ A.tari is a house and disco artist based in Germany, with 28 gigs on soundcheck 
 
 Kapote, Arpy Brown, Max NRG Supply
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*

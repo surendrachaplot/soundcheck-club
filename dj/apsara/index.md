@@ -1,6 +1,6 @@
 # Apsara
 
-Apsara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unit 58, London on Sat, 3 Oct 2026.
+Apsara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Sat, 3 Oct 2026.
 
 Apsara is a techno and house artist based in Indonesia, with 6 gigs on soundcheck across Bali, London, Los Angeles and Singapore and 1 more. Often billed alongside AHREUM, ATT and DJ Emma. Next up: Unit 58, London on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Apsara is a techno and house artist based in Indonesia, with 6 gigs on soundchec
 
 AHREUM, ATT, DJ Emma
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara/)*

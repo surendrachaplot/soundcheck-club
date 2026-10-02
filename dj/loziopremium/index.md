@@ -1,6 +1,6 @@
 # LOZIO PREMIUM
 
-LOZIO PREMIUM is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Minimarket, Milan on Fri, 2 Oct 2026.
+LOZIO PREMIUM is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Minimarket, Milan on Fri, 2 Oct 2026.
 
 LOZIO PREMIUM is a tech house and techno artist based in Italy, with 20 gigs on soundcheck across Milan. Often billed alongside Re Pigi, CRHERZ and Mark Wark. Next up: TBA - Minimarket, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ LOZIO PREMIUM is a tech house and techno artist based in Italy, with 20 gigs on 
 
 Re Pigi, CRHERZ, Mark Wark
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loziopremium/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loziopremium/)*

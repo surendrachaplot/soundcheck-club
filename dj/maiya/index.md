@@ -1,6 +1,6 @@
 # MAIYA
 
-MAIYA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Fri, 16 Oct 2026.
+MAIYA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Elsewhere, New York City on Fri, 16 Oct 2026.
 
 MAIYA is a club and hip-hop artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, New York City and Washington DC. Often billed alongside 444, Krithi and Nishévitha. Next up: Elsewhere, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MAIYA is a club and hip-hop artist based in United States of America, with 11 gi
 
 444 (1), Krithi, Nishévitha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiya/)*

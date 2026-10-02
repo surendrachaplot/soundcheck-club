@@ -1,6 +1,6 @@
 # BOTHER
 
-BOTHER is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at High Club Room, Madrid on Sat, 24 Oct 2026.
+BOTHER is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at High Club Room, Madrid on Sat, 24 Oct 2026.
 
 BOTHER is an electronica and house artist based in Spain, with 31 gigs on soundcheck across Barcelona and Madrid. Often billed alongside frankydrama, TWO EX and Cesc (ES). Next up: High Club Room, Madrid on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ BOTHER is an electronica and house artist based in Spain, with 31 gigs on soundc
 
 frankydrama, TWO EX, Cesc (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bother/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bother/)*

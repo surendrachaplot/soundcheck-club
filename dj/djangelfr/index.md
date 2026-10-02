@@ -1,6 +1,6 @@
 # DJ ANGEL (fr)
 
-DJ ANGEL (fr) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Soul SKG, Thessaloniki on Sat, 31 Oct 2026.
+DJ ANGEL (fr) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Soul SKG, Thessaloniki on Sat, 31 Oct 2026.
 
 DJ ANGEL (fr) is a techno and trance artist based in France, with 30 gigs on soundcheck across Berlin, Hamburg, Lisbon and Malta and 3 more. Often billed alongside Ketarina, future.666 and Amo (IT). Next up: Soul SKG, Thessaloniki on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ ANGEL (fr) is a techno and trance artist based in France, with 30 gigs on sou
 
 Ketarina, future.666, Amo (IT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djangelfr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djangelfr/)*

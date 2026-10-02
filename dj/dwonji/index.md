@@ -1,6 +1,6 @@
 # Dwonji
 
-Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kraftwerket, Copenhagen on Fri, 2 Oct 2026.
+Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kraftwerket, Copenhagen on Fri, 2 Oct 2026.
 
 Dwonji is a drum & bass and dubstep artist based in Denmark, with 19 gigs on soundcheck across Copenhagen and Osaka. Often billed alongside HDN (DK), CALIFANO and Arsom. Next up: Kraftwerket, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dwonji is a drum & bass and dubstep artist based in Denmark, with 19 gigs on sou
 
 HDN (DK), CALIFANO, Arsom
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*

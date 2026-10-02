@@ -1,6 +1,6 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Boombox, Miami on Sat, 3 Oct 2026.
+DJ Marfox is a Kuduro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boombox, Miami on Sat, 3 Oct 2026.
 
 DJ Marfox is a kuduro and techno artist, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: The Boombox, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Marfox is a kuduro and techno artist, with 66 gigs on soundcheck across Amste
 
 Nídia, DJ Lycox, DJ Nigga Fox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

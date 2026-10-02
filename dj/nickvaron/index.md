@@ -1,6 +1,6 @@
 # Nick Varon
 
-Nick Varon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 2 Oct 2026.
+Nick Varon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 2 Oct 2026.
 
 Nick Varon is a progressive house and house artist based in Spain, with 49 gigs on soundcheck across Amsterdam, Athens, Barcelona and Budapest and 7 more. Often billed alongside Hernan Cattaneo, Gespona and Panayotee. Next up: TBA - La Biblioteca, San Telmo, Buenos Aires on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nick Varon is a progressive house and house artist based in Spain, with 49 gigs 
 
 Hernan Cattaneo, Gespona, Panayotee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickvaron/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickvaron/)*

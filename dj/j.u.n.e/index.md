@@ -1,6 +1,6 @@
 # J.U.N.E
 
-J.U.N.E is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hertz, Seoul on Fri, 2 Oct 2026.
+J.U.N.E is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hertz, Seoul on Fri, 2 Oct 2026.
 
 J.U.N.E is a club and house artist based in South Korea, with 29 gigs on soundcheck across Seoul. Often billed alongside Isoz, aso and SEOD. Next up: Hertz, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ J.U.N.E is a club and house artist based in South Korea, with 29 gigs on soundch
 
 Isoz, aso (1), SEOD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.u.n.e/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.u.n.e/)*

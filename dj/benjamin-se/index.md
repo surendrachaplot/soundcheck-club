@@ -1,6 +1,6 @@
 # Benjamin.
 
-Benjamin. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KPGT, Belgrade on Fri, 2 Oct 2026.
+Benjamin. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KPGT, Belgrade on Fri, 2 Oct 2026.
 
 Benjamin. is a house and electro artist based in Serbia, with 8 gigs on soundcheck across Belgrade and London. Often billed alongside Gerun, TOMÆ and 7OGI. Next up: KPGT, Belgrade on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Benjamin. is a house and electro artist based in Serbia, with 8 gigs on soundche
 
 Gerun, TOMÆ, 7OGI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamin-se/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamin-se/)*

@@ -1,6 +1,6 @@
 # NEPTUNEWAVEY
 
-NEPTUNEWAVEY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
+NEPTUNEWAVEY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
 
 NEPTUNEWAVEY is a house and club artist, with 37 gigs on soundcheck across Atlanta, Los Angeles and New York City. Often billed alongside DeFacto X, Alxander Ivey and Terrell Brooke. Next up: Lunchbox, Atlanta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ NEPTUNEWAVEY is a house and club artist, with 37 gigs on soundcheck across Atlan
 
 DeFacto X, Alxander Ivey, Terrell Brooke
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neptunewavey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neptunewavey/)*

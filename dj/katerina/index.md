@@ -1,6 +1,6 @@
 # Katerina
 
-Katerina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Post Bar, Helsinki on Sat, 17 Oct 2026.
+Katerina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Post Bar, Helsinki on Sat, 17 Oct 2026.
 
 Katerina is a techno and house artist based in Finland, with 91 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Nantes and 2 more. Often billed alongside DJ JVS, Justus Valtanen and Ozan. Next up: Post Bar, Helsinki on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Katerina is a techno and house artist based in Finland, with 91 gigs on soundche
 
 DJ JVS, Justus Valtanen, Ozan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katerina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katerina/)*

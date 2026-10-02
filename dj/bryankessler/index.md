@@ -1,6 +1,6 @@
 # Bryan Kessler
 
-Bryan Kessler is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
+Bryan Kessler is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
 Bryan Kessler is a house and techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 2 more. Often billed alongside Audrey Danza, DJ City and DJ KILLING. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bryan Kessler is a house and techno artist based in Germany, with 20 gigs on sou
 
 Audrey Danza, DJ City, DJ KILLING
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*

@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FLATLINE V1.1" on Sat, 10 Oct 2026.
+The Red Rattler is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FLATLINE V1.1" on Sat, 10 Oct 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Arsonist, Broccoli Effect, Index and Jane Decks and 2 more. See dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -17,4 +17,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming gigs
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

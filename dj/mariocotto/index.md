@@ -1,6 +1,6 @@
 # Mario Cotto
 
-Mario Cotto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Fri, 2 Oct 2026.
+Mario Cotto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Fri, 2 Oct 2026.
 
 Mario Cotto is a techno and house artist based in United States of America, with 41 gigs on soundcheck across Los Angeles and Philadelphia. Often billed alongside Zillas on Acid, Westov Temple and Dave P. Next up: The Sound Lounge at Percy, Philadelphia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mario Cotto is a techno and house artist based in United States of America, with
 
 Zillas on Acid, Westov Temple, Dave P
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*

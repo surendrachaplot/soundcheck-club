@@ -1,6 +1,6 @@
 # Adrian Grösser
 
-Adrian Grösser is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
+Adrian Grösser is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
 
 Adrian Grösser is a house and techno artist, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Derovio, Brizas and Abas. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Adrian Grösser is a house and techno artist, with 30 gigs on soundcheck across 
 
 Derovio, Brizas, Abas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriangrosser/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriangrosser/)*

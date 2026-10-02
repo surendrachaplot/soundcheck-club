@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TURBINA x DAAD GATHERING w/ Dasha Rush" on Fri, 2 Oct 2026.
+Turbina is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TURBINA x DAAD GATHERING w/ Dasha Rush" on Fri, 2 Oct 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including 96zen, AGA2L, Akác and Arash Ete and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -23,4 +23,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, wit
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

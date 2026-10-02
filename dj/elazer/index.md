@@ -1,6 +1,6 @@
 # Elazer
 
-Elazer is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 10 Oct 2026.
+Elazer is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 10 Oct 2026.
 
 Elazer is a breakbeat and electronica artist based in Germany, with 11 gigs on soundcheck across Berlin, Glasgow and Hamburg. Often billed alongside Alexander Arpeggio, DJ AOL and Anton Jonathan. Next up: EXIT Glasgow, Glasgow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Elazer is a breakbeat and electronica artist based in Germany, with 11 gigs on s
 
 Alexander Arpeggio, DJ AOL, Anton Jonathan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elazer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elazer/)*

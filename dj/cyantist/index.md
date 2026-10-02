@@ -1,6 +1,6 @@
 # Cyantist
 
-Cyantist is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Cyantist is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 Cyantist is a techno and house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam. Often billed alongside Maarten Spoor, Stoac and Jochem Hamerling. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Cyantist is a techno and house artist based in Netherlands, with 12 gigs on soun
 
 Maarten Spoor, Stoac, Jochem Hamerling
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyantist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyantist/)*

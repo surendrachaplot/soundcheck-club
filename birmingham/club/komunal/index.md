@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ferg, Jack Damage, Azzz + Bran Timms" on Fri, 2 Oct 2026.
+komunal is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ferg, Jack Damage, Azzz + Bran Timms" on Fri, 2 Oct 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, with line-ups including GMDS. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -20,4 +20,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

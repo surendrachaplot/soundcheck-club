@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUNDAY THERAPY by Synthetica at Malaga W/ Y DAPT, CRHERZ, Mark Wark, MEIER" on Sun, 4 Oct 2026.
+Malaga Sin City is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SUNDAY THERAPY by Synthetica at Malaga W/ Y DAPT, CRHERZ, Mark Wark, MEIER" on Sun, 4 Oct 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Andy's Echo, CRHERZ, HYLO (IT) and Mark Wark and 2 more. See dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -16,4 +16,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 3 upcoming gigs,
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

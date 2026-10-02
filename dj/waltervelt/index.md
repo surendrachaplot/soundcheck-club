@@ -1,6 +1,6 @@
 # Waltervelt
 
-Waltervelt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
+Waltervelt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
 
 Waltervelt is a techno and house artist based in Brazil, with 12 gigs on soundcheck across Auckland, Buenos Aires, Melbourne and Sao Paulo and 1 more. Often billed alongside DJ Murphy, Anderson Noise and Bervon. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Waltervelt is a techno and house artist based in Brazil, with 12 gigs on soundch
 
 DJ Murphy, Anderson Noise, Bervon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waltervelt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waltervelt/)*

@@ -1,6 +1,6 @@
 # Daddybisht
 
-Daddybisht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Daddybisht is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Daddybisht is a house and techno artist based in Palestine, with 9 gigs on soundcheck across Barcelona, Berlin, Boston and Lisbon and 3 more. Often billed alongside DJ Senc, JO SZT and KARBONI. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Daddybisht is a house and techno artist based in Palestine, with 9 gigs on sound
 
 DJ Senc, JO SZT, KARBONI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddybisht/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddybisht/)*

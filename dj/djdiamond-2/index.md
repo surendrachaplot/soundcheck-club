@@ -1,6 +1,6 @@
 # DJ DIAMOND (2)
 
-DJ DIAMOND (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
+DJ DIAMOND (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
 
 DJ DIAMOND is a techno and trance artist based in Austria, with 14 gigs on soundcheck across Stockholm and Vienna. Often billed alongside MARAws, S.verin and ephemer. Next up: Flex, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ DIAMOND is a techno and trance artist based in Austria, with 14 gigs on sound
 
 MARAws, S.verin, ephemer (4)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiamond-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiamond-2/)*

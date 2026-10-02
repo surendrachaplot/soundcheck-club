@@ -1,6 +1,6 @@
 # Mikey!
 
-Mikey! is a Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rosso, Seoul on Fri, 2 Oct 2026.
+Mikey! is a Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rosso, Seoul on Fri, 2 Oct 2026.
 
 Mikey! is a club artist based in South Korea, with 48 gigs on soundcheck across Seoul. Often billed alongside Cheno, Austen and Guno. Next up: Rosso, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mikey! is a club artist based in South Korea, with 48 gigs on soundcheck across 
 
 Cheno, Austen, Guno
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey!/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey!/)*

@@ -1,6 +1,6 @@
 # Jelsen
 
-Jelsen is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jelsen is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Jelsen is a garage and house artist based in United Kingdom, with 33 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside simmo, MUNNI and Josh Baker. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jelsen is a garage and house artist based in United Kingdom, with 33 gigs on sou
 
 simmo, MUNNI, Josh Baker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*

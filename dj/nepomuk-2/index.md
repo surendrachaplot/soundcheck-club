@@ -1,6 +1,6 @@
 # Nepomuk (2)
 
-Nepomuk (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Nepomuk (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
 Nepomuk is a house and techno artist based in Austria, with 12 gigs on soundcheck across Berlin and Vienna. Often billed alongside Henry, Kyli Kaos and DJ Grotto. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nepomuk is a house and techno artist based in Austria, with 12 gigs on soundchec
 
 Henry (2), Kyli Kaos, DJ Grotto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nepomuk-2/)*

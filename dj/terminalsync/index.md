@@ -1,6 +1,6 @@
 # Terminal Sync
 
-Terminal Sync is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mastak, Warsaw on Sun, 4 Oct 2026.
+Terminal Sync is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mastak, Warsaw on Sun, 4 Oct 2026.
 
 Terminal Sync is a techno and house artist, with 7 gigs on soundcheck across Bangkok, Budapest, Hong Kong and London and 2 more. Often billed alongside Nujeat, BUSYBOI and DJ Sweed. Next up: Mastak, Warsaw on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ Terminal Sync is a techno and house artist, with 7 gigs on soundcheck across Ban
 
 Nujeat, BUSYBOI, DJ Sweed
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminalsync/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminalsync/)*

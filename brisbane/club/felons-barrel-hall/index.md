@@ -1,6 +1,6 @@
 # Felons Barrel Hall
 
-Felons Barrel Hall is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GHETTO KUMBE (COLOMBIA) Live in Brisbane" on Fri, 2 Oct 2026.
+Felons Barrel Hall is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "GHETTO KUMBE (COLOMBIA) Live in Brisbane" on Fri, 2 Oct 2026.
 
 Felons Barrel Hall is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Cuerpo Negro, David Penn, Sam Divine and Murphy's Law and 2 more. See dates, start times and who's playing. 5 Boundary St, Brisbane City QLD 4000, Australia.
 
@@ -15,4 +15,4 @@ Felons Barrel Hall is a music venue in Brisbane listed on soundcheck. 2 upcoming
 
 5 Boundary St, Brisbane City QLD 4000, Australia, Brisbane
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/felons-barrel-hall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/felons-barrel-hall/)*

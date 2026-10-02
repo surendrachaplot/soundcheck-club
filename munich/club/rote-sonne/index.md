@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RAUM Records x Rote Sonne" on Sat, 3 Oct 2026.
+Rote Sonne is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "RAUM Records x Rote Sonne" on Sat, 3 Oct 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including manu abeca, Obscur and Verhall. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -14,4 +14,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 1 upcoming gig, with
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

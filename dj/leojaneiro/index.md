@@ -1,6 +1,6 @@
 # Leo Janeiro
 
-Leo Janeiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+Leo Janeiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
 
 Leo Janeiro is a house and techno artist based in Brazil, with 27 gigs on soundcheck across Austin, Barcelona, Berlin and Brazil and 3 more. Often billed alongside Leo J, From House to Disco and Bernardo Campos. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Leo Janeiro is a house and techno artist based in Brazil, with 27 gigs on soundc
 
 Leo J, From House to Disco, Bernardo Campos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*

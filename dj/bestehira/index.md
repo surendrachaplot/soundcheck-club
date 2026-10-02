@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Beste Hira is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Beste Hira is a techno and house artist based in Netherlands, with 184 gigs on s
 
 Rødhåd, Freddy K, Lobster (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

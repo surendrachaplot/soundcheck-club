@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Toy Tonics Jam - Los Angeles" on Fri, 2 Oct 2026.
+TBA - DTLA is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Toy Tonics Jam - Los Angeles" on Fri, 2 Oct 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 17 upcoming gigs, with line-ups including 5p3c141, 6 SENSE, MORENXXX and BAE BAE and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 17 upcoming gig
 | Sat, 17 Oct 2026 | CLOSER x TYF x DELINQUENT present MOONDANCE |  |
 | Fri, 23 Oct 2026 | Witching Hours | Kittamami |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

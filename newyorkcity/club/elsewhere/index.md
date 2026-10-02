@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BKG: Boydell, sasababy, Ladler" on Thu, 1 Oct 2026.
+Elsewhere is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Whipped Cream, MUSUBI" on Fri, 2 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | BKG: Boydell, sasababy, Ladler | Boydell, sasababy |
 | Fri, 2 Oct 2026 | Whipped Cream, MUSUBI |  |
 | Fri, 2 Oct 2026 | Dusky, dj poolboi (open to close), Rae Sada, shimmer: After Wes, dunne, fruitgrl, softsky | Dusky, dj poolboi, softsky |
 | Fri, 2 Oct 2026 | Perreito |  |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gi
 | Fri, 16 Oct 2026 | MIRCHI: Halla, Krithi, MAIYA | Krithi, MAIYA |
 | Sat, 17 Oct 2026 | Tye Turner + ZABAAN presents CLUB CHUTIYA: SRI, ANA.GHA, LILLA, YUVI | LILLA, SRI (1), Tye Turner, YUVI (UA) |
 | Fri, 23 Oct 2026 | Franc Moody DJ Set, Cody Currie (open to close) | Cody Currie |
+| Sat, 24 Oct 2026 | 10 Years of CruCast: Harriet Jaxxon, [IVY], SKEPSIS, Voltage, oomfRAVE | oomfhaver |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

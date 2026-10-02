@@ -1,6 +1,6 @@
 # TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France)
 
-TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN" on Sat, 24 Oct 2026.
+TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN" on Sat, 24 Oct 2026.
 
 TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) is a music venue in Lyon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) is a music venue in 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-le-110-110-quai-de-pierre-scize-69005-lyon-france/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-le-110-110-quai-de-pierre-scize-69005-lyon-france/)*

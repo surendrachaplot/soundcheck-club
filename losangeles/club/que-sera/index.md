@@ -1,6 +1,6 @@
 # Que Sera
 
-Que Sera is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "INFIERNO" on Sat, 3 Oct 2026.
+Que Sera is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "INFIERNO" on Sat, 3 Oct 2026.
 
 Que Sera is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Diablito, Hexagon and Shay De Castro. See dates, start times and who's playing. 1923 E 7th St,  Long Beach, CA 90813.
 
@@ -15,4 +15,4 @@ Que Sera is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, 
 
 1923 E 7th St,  Long Beach, CA 90813, Los Angeles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*

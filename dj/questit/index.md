@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 9 Oct 2026.
+Quest (IT) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 9 Oct 2026.
 
 Quest (IT) is a house and techno artist based in Italy, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Quest (IT) is a house and techno artist based in Italy, with 173 gigs on soundch
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

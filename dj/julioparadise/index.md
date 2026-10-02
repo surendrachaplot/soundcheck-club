@@ -1,6 +1,6 @@
 # Julio Paradise
 
-Julio Paradise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Julio Paradise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Julio Paradise is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg and Nürnberg. Often billed alongside Gwen Wayne, Suse and Crille & Tamalt. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Julio Paradise is a techno and house artist based in Germany, with 27 gigs on so
 
 Gwen Wayne, Suse, Crille & Tamalt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julioparadise/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julioparadise/)*

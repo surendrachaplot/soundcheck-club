@@ -1,6 +1,6 @@
 # Sean UNI
 
-Sean UNI is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Acadana, Hong Kong on Fri, 2 Oct 2026.
+Sean UNI is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Acadana, Hong Kong on Fri, 2 Oct 2026.
 
 Sean UNI is a techno and bass artist based in China, with 21 gigs on soundcheck across Hong Kong, Shenzhen and Tokyo. Often billed alongside Mad Ctrl, MZee HK and Woonjii. Next up: Acadana, Hong Kong on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sean UNI is a techno and bass artist based in China, with 21 gigs on soundcheck 
 
 Mad Ctrl, MZee HK, Woonjii
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanuni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanuni/)*

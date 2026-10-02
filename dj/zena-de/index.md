@@ -1,6 +1,6 @@
 # ZE:NA
 
-ZE:NA is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Berlin on Sun, 11 Oct 2026.
+ZE:NA is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Sun, 11 Oct 2026.
 
 ZE:NA is a bass and dub artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London. Often billed alongside PJ Bridger, Distal_ and zunz. Next up: TBA, Berlin on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ ZE:NA is a bass and dub artist based in United Kingdom, with 32 gigs on soundche
 
 PJ Bridger, Distal_, zunz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-de/)*

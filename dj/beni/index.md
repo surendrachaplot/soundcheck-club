@@ -1,6 +1,6 @@
 # BeNi
 
-BeNi is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Daphnia, Osaka on Tue, 3 Nov 2026.
+BeNi is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Daphnia, Osaka on Tue, 3 Nov 2026.
 
 BeNi is a techno and breakbeat artist based in Germany, with 6 gigs on soundcheck across Munich, Osaka, Paris and Tokyo. Often billed alongside Lowkey, FLUONITE and MIHEMI. Next up: Club Daphnia, Osaka on Tue 3 Nov.
 
@@ -22,4 +22,4 @@ BeNi is a techno and breakbeat artist based in Germany, with 6 gigs on soundchec
 
 Lowkey, FLUONITE, MIHEMI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*

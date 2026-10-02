@@ -1,6 +1,6 @@
 # BUTTCHIN
 
-BUTTCHIN is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
+BUTTCHIN is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
 
 BUTTCHIN is a house and pop artist, with 32 gigs on soundcheck across Berlin. Often billed alongside AWSM, Cotumo and Ele Luz. Next up: Cassiopeia, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BUTTCHIN is a house and pop artist, with 32 gigs on soundcheck across Berlin. Of
 
 AWSM, Cotumo, Ele Luz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buttchin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buttchin/)*

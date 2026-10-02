@@ -1,6 +1,6 @@
 # Jin Mustafa
 
-Jin Mustafa is a Techno and Noise artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
+Jin Mustafa is a Techno and Noise artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
 
 Jin Mustafa is a techno and noise artist based in Sweden, with 18 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Oslo and 2 more. Often billed alongside Anthony Linell, Evigt Mörker and Donato Dozzy. Next up: Southside Gallery, Stockholm on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jin Mustafa is a techno and noise artist based in Sweden, with 18 gigs on soundc
 
 Anthony Linell, Evigt Mörker, Donato Dozzy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinmustafa-se/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinmustafa-se/)*

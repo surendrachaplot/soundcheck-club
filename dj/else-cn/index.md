@@ -1,6 +1,6 @@
 # Elise Massoni
 
-Elise Massoni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Badaboum, Paris on Fri, 9 Oct 2026.
+Elise Massoni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Fri, 9 Oct 2026.
 
 Elise Massoni is a techno and house artist based in France, with 75 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 16 more. Often billed alongside François X, Anastasia Kristensen and JKS. Next up: Badaboum, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Elise Massoni is a techno and house artist based in France, with 75 gigs on soun
 
 François X, Anastasia Kristensen, JKS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/else-cn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/else-cn/)*

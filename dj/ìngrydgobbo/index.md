@@ -1,6 +1,6 @@
 # Ìngryd Gobbo
 
-Ìngryd Gobbo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow House, Amsterdam on Fri, 2 Oct 2026.
+Ìngryd Gobbo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow House, Amsterdam on Fri, 2 Oct 2026.
 
 Ìngryd Gobbo is a minimal and tech house artist, with 8 gigs on soundcheck across Amsterdam. Often billed alongside Be Lion, AAlva and BRB. Next up: Yellow House, Amsterdam on Fri 2 Oct.
 
@@ -24,4 +24,4 @@
 
 Be Lion, AAlva, BRB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ìngrydgobbo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ìngrydgobbo/)*

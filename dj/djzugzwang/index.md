@@ -1,6 +1,6 @@
 # DJ Zugzwang
 
-DJ Zugzwang is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amp, Munster on Fri, 9 Oct 2026.
+DJ Zugzwang is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amp, Munster on Fri, 9 Oct 2026.
 
 DJ Zugzwang is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside KLING&KLANG, DJ Henk and Amøn. Next up: Amp, Munster on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ DJ Zugzwang is a trance and techno artist based in Germany, with 41 gigs on soun
 
 KLING&KLANG, DJ Henk, Amøn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzugzwang/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzugzwang/)*

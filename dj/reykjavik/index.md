@@ -1,6 +1,6 @@
 # Rey&Kjavik
 
-Rey&Kjavik is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sanctuary, Milan on Fri, 23 Oct 2026.
+Rey&Kjavik is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sanctuary, Milan on Fri, 23 Oct 2026.
 
 Rey&Kjavik is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Frankfurt, Geneva and Hamburg and 9 more. Often billed alongside Barseghian, Dominik Eulberg and Glani. Next up: The Sanctuary, Milan on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rey&Kjavik is a techno and house artist based in Germany, with 37 gigs on soundc
 
 Barseghian, Dominik Eulberg, Glani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reykjavik/)*

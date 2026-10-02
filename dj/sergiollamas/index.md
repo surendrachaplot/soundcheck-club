@@ -1,6 +1,6 @@
 # Sergio LLamas
 
-Sergio LLamas is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  Jet Aparments , Ibiza on Fri, 2 Oct 2026.
+Sergio LLamas is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA -  Jet Aparments , Ibiza on Fri, 2 Oct 2026.
 
 Sergio LLamas is a deep house and house artist, with 52 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside VITALI, Violeta Reynal and Bill Hates. Next up: TBA -  Jet Aparments , Ibiza on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sergio LLamas is a deep house and house artist, with 52 gigs on soundcheck acros
 
 VITALI (1), Violeta Reynal, Bill Hates
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

@@ -1,6 +1,6 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Sat, 3 Oct 2026.
+Slim Soledad is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 3 Oct 2026.
 
 Slim Soledad is a techno and house artist based in Brazil, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: The Cause, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Slim Soledad is a techno and house artist based in Brazil, with 137 gigs on soun
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

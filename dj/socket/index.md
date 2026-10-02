@@ -1,6 +1,6 @@
 # SOCKET
 
-SOCKET is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
+SOCKET is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
 
 SOCKET is a techno and tech house artist based in Germany, with 45 gigs on soundcheck across Berlin. Often billed alongside DJ BenGalo, DaSoMaZo and MØABEAT. Next up: MaHalla, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SOCKET is a techno and tech house artist based in Germany, with 45 gigs on sound
 
 DJ BenGalo, DaSoMaZo, MØABEAT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/socket/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/socket/)*

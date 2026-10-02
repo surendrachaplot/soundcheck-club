@@ -1,6 +1,6 @@
 # Chichöl
 
-Chichöl is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
+Chichöl is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
 
 Chichöl is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Mhauro, Misla and Angel Mellado. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Chichöl is a house and electronica artist based in Spain, with 29 gigs on sound
 
 Mhauro, Misla, Angel Mellado
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chichol/)*

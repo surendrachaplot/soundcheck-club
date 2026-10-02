@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 57 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bag Raiders (DJ)" on Fri, 2 Oct 2026.
+The Jazz Cafe is a music venue in London with 57 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bag Raiders (DJ)" on Fri, 2 Oct 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 57 upcoming gigs, with line-ups including AMARI, Bag Raiders, Clara Rosa and Crackazat and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 57 upcoming gigs,
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

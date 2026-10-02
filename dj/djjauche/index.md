@@ -1,6 +1,6 @@
 # DJ Jauche
 
-DJ Jauche is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
+DJ Jauche is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
 
 DJ Jauche is a techno and house artist, with 40 gigs on soundcheck across Berlin and Newcastle. Often billed alongside Tanith, Der Würfler and WolleXDP. Next up: Der Weiße Hase, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Jauche is a techno and house artist, with 40 gigs on soundcheck across Berlin
 
 Tanith, Der Würfler, WolleXDP
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjauche/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjauche/)*

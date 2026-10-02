@@ -1,6 +1,6 @@
 # Peroli
 
-Peroli is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
+Peroli is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
 Peroli is a baile funk and house artist, with 21 gigs on soundcheck across London and Sao Paulo. Often billed alongside Suelen Mesmo, Deekapz and Corvina. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Peroli is a baile funk and house artist, with 21 gigs on soundcheck across Londo
 
 Suelen Mesmo, Deekapz, Corvina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peroli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peroli/)*

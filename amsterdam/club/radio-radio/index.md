@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Elevate with Ken Ming • Lamique • Lara Renner" on Thu, 1 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ian Pooley • Merel Helderman" on Fri, 2 Oct 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Elevate with Ken Ming • Lamique • Lara Renner | Lamique, Lara Renner |
 | Fri, 2 Oct 2026 | Ian Pooley • Merel Helderman | Ian Pooley, Merel Helderman |
 | Sat, 3 Oct 2026 | Cinnaman • Casper Tielrooij | Casper Tielrooij, Cinnaman |
 | Thu, 8 Oct 2026 | A Listening Journey: The History and Sound of Palestine with Hiba Salameh |  |
@@ -18,9 +17,10 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs
 | Sat, 17 Oct 2026 | Ploy • ESTRELLA | ESTRELLA, Ploy |
 | Wed, 21 Oct 2026 | Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey | Bambii, Busy P, Chloé, Greg (2), Logic1000, Mad Rey, Miley Serious, Tatyana Jane |
 | Thu, 22 Oct 2026 | ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs | Demi Riquisimo, Kamma, Lulah Francs, Retromigration |
+| Fri, 23 Oct 2026 | ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman | Benny Rodrigues, Laura Meester, Merel Helderman |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

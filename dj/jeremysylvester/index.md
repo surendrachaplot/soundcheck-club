@@ -1,6 +1,6 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+Jeremy Sylvester is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
 Jeremy Sylvester is a garage and house artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 20 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Jeremy Sylvester is a garage and house artist based in United Kingdom, with 114 
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

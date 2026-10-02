@@ -1,16 +1,16 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schwuz, Berlin on Thu, 1 Oct 2026.
+BIIANCO is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Ankara on Sat, 3 Oct 2026.
 
-BIIANCO is a techno and trance artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
+BIIANCO is a techno and trance artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Schwuz | Berlin |
 | Sat, 3 Oct 2026 | TBA | Ankara |
 | Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
+| Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
 | Sat, 10 Oct 2026 | Gotec | Karlsruhe |
@@ -23,6 +23,7 @@ BIIANCO is a techno and trance artist based in United States of America, with 10
 
 ## Recently played
 
+- Schwuz, Berlin · Thu, 1 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Echostage, Washington DC · Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ BIIANCO is a techno and trance artist based in United States of America, with 10
 - Industry City, New York City · Sat, 5 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Tempelhof Airport, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

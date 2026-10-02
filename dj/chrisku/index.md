@@ -1,6 +1,6 @@
 # Chris Ku
 
-Chris Ku is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Chris Ku is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
 Chris Ku is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Tajik, Chris Beulich and Boutiq.808. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Chris Ku is a house and tech house artist based in Germany, with 17 gigs on soun
 
 Tajik, Chris Beulich, Boutiq.808
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisku/)*

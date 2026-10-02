@@ -1,6 +1,6 @@
 # Lebby
 
-Lebby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
+Lebby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
 
 Lebby is a techno and house artist based in United Kingdom, with 27 gigs on soundcheck across Brighton and London. Often billed alongside Jack Jeffrey, Spinks and Acid Carbon. Next up: The Tempest Inn, Brighton on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lebby is a techno and house artist based in United Kingdom, with 27 gigs on soun
 
 Jack Jeffrey, Spinks, Acid Carbon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebby/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebby/)*

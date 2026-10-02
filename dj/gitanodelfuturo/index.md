@@ -1,6 +1,6 @@
 # gitano del futuro
 
-gitano del futuro is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
+gitano del futuro is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
 
 gitano del futuro is a techno and hardcore artist based in Spain, with 21 gigs on soundcheck across Barcelona, Madrid, New York City and Valencia. Often billed alongside MIA FLAW, BZZHOUND and Linapary. Next up: Atlantic Sound, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ gitano del futuro is a techno and hardcore artist based in Spain, with 21 gigs o
 
 MIA FLAW, BZZHOUND, Linapary
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gitanodelfuturo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gitanodelfuturo/)*

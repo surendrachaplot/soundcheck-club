@@ -1,6 +1,6 @@
 # Steve Rachmad
 
-Steve Rachmad is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Steve Rachmad is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Steve Rachmad is a techno and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside STERAC, Fadi Mohem and Richard Akingbehin. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Steve Rachmad is a techno and house artist based in Netherlands, with 51 gigs on
 
 STERAC, Fadi Mohem, Richard Akingbehin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*

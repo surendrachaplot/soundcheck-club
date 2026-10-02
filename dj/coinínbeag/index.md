@@ -1,6 +1,6 @@
 # Coinín Beag
 
-Coinín Beag is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Fri, 2 Oct 2026.
+Coinín Beag is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
 Coinín Beag is a house and techno artist based in Ireland, with 7 gigs on soundcheck across Dublin and London. Often billed alongside DJ-CK, Becky and POSER. Next up: The Glove That Fits, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Coinín Beag is a house and techno artist based in Ireland, with 7 gigs on sound
 
 DJ-CK, Becky (2), POSER
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coinínbeag/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coinínbeag/)*

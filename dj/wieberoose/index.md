@@ -1,6 +1,6 @@
 # Wiebe Roose
 
-Wiebe Roose is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Galerie Art de Nuit, South-east on Fri, 2 Oct 2026.
+Wiebe Roose is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Galerie Art de Nuit, South-east on Fri, 2 Oct 2026.
 
 Wiebe Roose is a techno and tech house artist based in Belgium, with 144 gigs on soundcheck across Bangkok, Barcelona, Berlin and Cologne and 6 more. Often billed alongside DAV3, Monty and Epicx. Next up: La Galerie Art de Nuit, South East on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Wiebe Roose is a techno and tech house artist based in Belgium, with 144 gigs on
 
 DAV3, Monty, Epicx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*

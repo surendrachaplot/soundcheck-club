@@ -1,6 +1,6 @@
 # Zum Böhmischen Dorf
 
-Zum Böhmischen Dorf is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Chemistry Club" on Fri, 2 Oct 2026.
+Zum Böhmischen Dorf is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chemistry Club" on Fri, 2 Oct 2026.
 
 Zum Böhmischen Dorf is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Winchester, bad_dubs, Robot Girl and Wedge. See dates, start times and who's playing. Sanderstraße 11, 12047 Berlin.
 
@@ -15,4 +15,4 @@ Zum Böhmischen Dorf is a music venue in Berlin listed on soundcheck. 2 upcoming
 
 Sanderstraße 11, 12047 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zum-b-hmischen-dorf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zum-b-hmischen-dorf/)*

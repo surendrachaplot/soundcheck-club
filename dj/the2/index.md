@@ -1,14 +1,15 @@
 # the2$
 
-the2$ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Thu, 8 Oct 2026.
+the2$ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Thu, 8 Oct 2026.
 
-the2$ is a techno and industrial artist based in Japan, with 78 gigs on soundcheck across Seoul, Shenzhen and Tokyo. Often billed alongside Golpe Mortal, KOSEI and TEI TEI. Next up: WOMB, Tokyo on Thu 8 Oct.
+the2$ is a techno and industrial artist based in Japan, with 79 gigs on soundcheck across Kanto, Seoul, Shenzhen and Tokyo. Often billed alongside Golpe Mortal, KOSEI and TEI TEI. Next up: WOMB, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | WOMB | Tokyo |
+| Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ the2$ is a techno and industrial artist based in Japan, with 78 gigs on soundche
 
 Golpe Mortal, KOSEI, TEI TEI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*

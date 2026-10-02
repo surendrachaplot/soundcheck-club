@@ -1,6 +1,6 @@
 # High Fidelity
 
-High Fidelity is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wigwam, Dublin on Fri, 2 Oct 2026.
+High Fidelity is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wigwam, Dublin on Fri, 2 Oct 2026.
 
 High Fidelity is an electro and ghetto tech artist based in Ireland, with 29 gigs on soundcheck across Berlin, Dublin, Mexico City and Prague. Often billed alongside Surka, DIEBYVEG and Derv. Next up: Wigwam, Dublin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ High Fidelity is an electro and ghetto tech artist based in Ireland, with 29 gig
 
 Surka (1), DIEBYVEG, Derv
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*

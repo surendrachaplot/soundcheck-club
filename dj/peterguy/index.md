@@ -1,6 +1,6 @@
 # PETER GUY
 
-PETER GUY is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
+PETER GUY is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
 
 PETER GUY is a minimal and house artist, with 30 gigs on soundcheck across Detroit and Miami. Often billed alongside CoveLove, Bernat and Julian Abel. Next up: Marble Bar, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ PETER GUY is a minimal and house artist, with 30 gigs on soundcheck across Detro
 
 CoveLove, Bernat, Julian Abel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguy/)*

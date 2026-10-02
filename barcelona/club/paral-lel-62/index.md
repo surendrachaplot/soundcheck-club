@@ -1,6 +1,6 @@
 # Paral•lel 62
 
-Paral•lel 62 is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "She Makes Noise x Taiwán" on Fri, 9 Oct 2026.
+Paral•lel 62 is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "She Makes Noise x Taiwán" on Fri, 9 Oct 2026.
 
 Paral•lel 62 is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Baba Sy, FKS, Julietta Ferrari and Mango and 2 more. See dates, start times and who's playing. Av. del Paral·lel, 62, 08001 Barcelona.
 
@@ -15,4 +15,4 @@ Paral•lel 62 is a music venue in Barcelona listed on soundcheck. 2 upcoming gi
 
 Av. del Paral·lel, 62, 08001 Barcelona, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/paral-lel-62/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/paral-lel-62/)*

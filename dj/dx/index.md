@@ -1,6 +1,6 @@
 # Dx
 
-Dx is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Dx is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Dx is a jungle and drum & bass artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside MileZ, Acrocanthosaurus and DJ Kensei. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dx is a jungle and drum & bass artist based in Japan, with 19 gigs on soundcheck
 
 MileZ, Acrocanthosaurus, DJ Kensei
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dx/)*

@@ -1,6 +1,6 @@
 # Julez (live)
 
-Julez (live) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+Julez (live) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Julez (live) is a techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Dr. Spree and Frisqo. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Julez (live) is a techno artist based in Germany, with 9 gigs on soundcheck acro
 
 Dshanna, Dr. Spree, Frisqo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*

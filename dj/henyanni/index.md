@@ -1,6 +1,6 @@
 # HEN YANNI
 
-HEN YANNI is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Silencio, Paris on Fri, 2 Oct 2026.
+HEN YANNI is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Silencio, Paris on Fri, 2 Oct 2026.
 
 HEN YANNI is a house and electro artist based in France, with 38 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Mexico City and 1 more. Often billed alongside Agathe Mougin, Alejandro Molinari and Daniel Weil. Next up: Silencio, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HEN YANNI is a house and electro artist based in France, with 38 gigs on soundch
 
 Agathe Mougin, Alejandro Molinari, Daniel Weil
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henyanni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henyanni/)*

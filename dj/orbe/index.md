@@ -1,6 +1,6 @@
 # ORBE
 
-ORBE is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
+ORBE is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
 
 ORBE is a techno and minimal techno artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: Studio Club Malaga, Malaga on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ ORBE is a techno and minimal techno artist based in Spain, with 81 gigs on sound
 
 Psyk, Fadi Mohem, MARRØN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

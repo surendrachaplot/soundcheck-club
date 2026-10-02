@@ -1,6 +1,6 @@
 # LUKAS & FRANK
 
-LUKAS & FRANK is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Sat, 3 Oct 2026.
+LUKAS & FRANK is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Superior Ingredients, New York City on Sat, 3 Oct 2026.
 
 LUKAS & FRANK are an afro house and house duo based in Germany, with 12 gigs on soundcheck across Brighton, Düsseldorf, Edinburgh and Ibiza and 6 more. Often billed alongside Noel Holler. Next up: Superior Ingredients, New York City on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ LUKAS & FRANK are an afro house and house duo based in Germany, with 12 gigs on 
 
 Noel Holler
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasfrank/)*

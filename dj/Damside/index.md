@@ -1,6 +1,6 @@
 # damside
 
-damside is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 2 Oct 2026.
+damside is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 2 Oct 2026.
 
 damside is a house and techno artist based in Germany, with 48 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Gregor AM, noodle and yung kidd. Next up: People's Leisure Club, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ damside is a house and techno artist based in Germany, with 48 gigs on soundchec
 
 Gregor AM, noodle, yung kidd
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Damside/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Damside/)*

@@ -1,6 +1,6 @@
 # JUNG(KR)
 
-JUNG(KR) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter, Seoul on Sat, 3 Oct 2026.
+JUNG(KR) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter, Seoul on Sat, 3 Oct 2026.
 
 JUNG(KR) is an electro and techno artist based in South Korea, with 68 gigs on soundcheck across Seoul. Often billed alongside Honn, X2C and MOVIN.KR. Next up: Shelter, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ JUNG(KR) is an electro and techno artist based in South Korea, with 68 gigs on s
 
 Honn, X2C (1), MOVIN.KR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungkr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungkr/)*

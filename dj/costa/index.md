@@ -1,6 +1,6 @@
 # Costa (FR)
 
-Costa (FR) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Costa (FR) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Costa (FR) is a techno and breakbeat artist based in France, with 24 gigs on soundcheck across Austin, Berlin, Dundee and Hamburg and 3 more. Often billed alongside Sariim, VIĆERO and Chaosy. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Costa (FR) is a techno and breakbeat artist based in France, with 24 gigs on sou
 
 Sariim, VIĆERO, Chaosy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*

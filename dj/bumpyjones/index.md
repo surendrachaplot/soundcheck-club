@@ -1,6 +1,6 @@
 # Bumpy Jones
 
-Bumpy Jones is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Bumpy Jones is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
 Bumpy Jones is a house and electro artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona and Mallorca. Often billed alongside Slow Hodge, DJ Service and .cosm. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Bumpy Jones is a house and electro artist based in United Kingdom, with 23 gigs 
 
 Slow Hodge, DJ Service, .cosm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpyjones/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpyjones/)*

@@ -1,8 +1,8 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Café De Plak, Nijmegen on Sat, 3 Oct 2026.
+David Vunk is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Café De Plak, Nijmegen on Sat, 3 Oct 2026.
 
-David Vunk is a house and techno artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Marsman, Afra and Anetha. Next up: Café De Plak, Nijmegen on Sat 3 Oct.
+David Vunk is a house and techno artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Marsman, Afra and Anetha. Next up: Café De Plak, Nijmegen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ David Vunk is a house and techno artist based in Netherlands, with 166 gigs on s
 | Fri, 27 Nov 2026 | EKKO | Utrecht |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sun, 27 Dec 2026 | McChuills Music Bar | Glasgow |
+| Thu, 31 Dec 2026 | Ampere | Antwerp |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ David Vunk is a house and techno artist based in Netherlands, with 166 gigs on s
 
 Marsman, Afra, Anetha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*

@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Grace Sands is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
 Grace Sands is a house and deep house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 148 g
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

@@ -1,6 +1,6 @@
 # Robbie Akbal
 
-Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BAR Inc, Osaka on Fri, 6 Nov 2026.
+Robbie Akbal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BAR Inc, Osaka on Fri, 6 Nov 2026.
 
 Robbie Akbal is a house and deep house artist, with 35 gigs on soundcheck across Hong Kong, Ibiza, Los Angeles and Mexico City and 7 more. Often billed alongside Conan, Ground and Gyusco. Next up: BAR Inc, Osaka on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Robbie Akbal is a house and deep house artist, with 35 gigs on soundcheck across
 
 Conan, Ground (1), Gyusco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieakbal/)*

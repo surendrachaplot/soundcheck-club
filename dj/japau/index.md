@@ -1,6 +1,6 @@
 # JAPAU
 
-JAPAU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
+JAPAU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
 JAPAU is a techno and industrial artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 9 more. Often billed alongside Aphøtic, Raxeller and KARAH. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ JAPAU is a techno and industrial artist based in Germany, with 36 gigs on soundc
 
 Aphøtic, Raxeller, KARAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/japau/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/japau/)*

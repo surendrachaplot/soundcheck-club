@@ -1,6 +1,6 @@
 # Verena
 
-Verena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Verena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Verena is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Copenhagen, Frankfurt and Hamburg. Often billed alongside Danjo, Falke and Hardy Heller. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Verena is a techno and house artist based in Germany, with 7 gigs on soundcheck 
 
 Danjo, Falke, Hardy Heller
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verena/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verena/)*

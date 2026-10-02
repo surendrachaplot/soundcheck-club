@@ -1,6 +1,6 @@
 # DJ Trade Trainer
 
-DJ Trade Trainer is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
+DJ Trade Trainer is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
 
 DJ Trade Trainer is an ambient and experimental artist based in United States of America, with 21 gigs on soundcheck across Berlin. Often billed alongside MADAKYA, Organza and Robin Flux. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Trade Trainer is an ambient and experimental artist based in United States of
 
 MADAKYA, Organza, Robin Flux
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*

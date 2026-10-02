@@ -1,6 +1,6 @@
 # gau7t
 
-gau7t is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
+gau7t is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
 gau7t is a techno and house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Dundee and Edinburgh and 3 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ gau7t is a techno and house artist based in United Kingdom, with 82 gigs on soun
 
 Oakley Carter, Tedzx, HERBS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*

@@ -1,6 +1,6 @@
 # Databass
 
-Databass is a Drum & Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Prague on Fri, 30 Oct 2026.
+Databass is a Drum & Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distrikt, Prague on Fri, 30 Oct 2026.
 
 Databass is a drum & bass and broken beat artist based in Taiwan, with 9 gigs on soundcheck across London, Prague and Vienna. Often billed alongside Urbik, Charlie Price and Daito. Next up: Distrikt, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Databass is a drum & bass and broken beat artist based in Taiwan, with 9 gigs on
 
 Urbik, Charlie Price, Daito
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/databass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/databass/)*

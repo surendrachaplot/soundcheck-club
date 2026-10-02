@@ -1,6 +1,6 @@
 # Charlie Dark
 
-Charlie Dark is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The System, Sheffield on Sat, 14 Nov 2026.
+Charlie Dark is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The System, Sheffield on Sat, 14 Nov 2026.
 
 Charlie Dark is a house and funk / soul artist based in United Kingdom, with 56 gigs on soundcheck across Barcelona, Brighton, Bristol and Copenhagen and 8 more. Often billed alongside Dean Bryce, MiNNA and Tash LC. Next up: The System, Sheffield on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Charlie Dark is a house and funk / soul artist based in United Kingdom, with 56 
 
 Dean Bryce, MiNNA, Tash LC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*

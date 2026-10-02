@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "You&Me Closing Party" on Thu, 1 Oct 2026.
+Amnesia Ibiza is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Glitterbox" on Fri, 2 Oct 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Adrian Mills, Alexandria, ALISHA and Bella Claxton and 2 more. See dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with line-ups including Adrian Mills, Bella Claxton, Benwal and blk. and 2 more. See dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | You&Me Closing Party | ALISHA, Alexandria, Enzo Siragusa, Jamie Fielding, Josh Baker, Laidlaw, Local Dub, Marsolo, Max Dean, Moxie, Reeshy, Silva Bumpa, jWave |
 | Fri, 2 Oct 2026 | Glitterbox | Coco & Breezy, Danny Tenaglia, Dave Lee, Denis Sulta, Eats Everything, Jamie Love, Todd Terry |
 | Sun, 4 Oct 2026 | Pyramid Closing Party | Adrian Mills, Franco Cinelli, Luca Donzelli, Mar-T, Nina Kraviz, Raresh, Ricardo Villalobos, Seth Troxler, Shanti Celeste |
 | Mon, 5 Oct 2026 | Max Dean presents NEXUP | Chopper, Joss Dean, Lily C-D, Locky, Luke Dean_, Max Dean, Tommy Phillips |
@@ -19,4 +18,4 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, w
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

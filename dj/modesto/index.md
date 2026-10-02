@@ -1,6 +1,6 @@
 # Modesto
 
-Modesto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skin Club, Madrid on Sun, 11 Oct 2026.
+Modesto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skin Club, Madrid on Sun, 11 Oct 2026.
 
 Modesto is a techno and house artist based in Spain, with 47 gigs on soundcheck across Madrid and Munich. Often billed alongside Reitze, Kamboya and Mario Gagliardi. Next up: Skin Club, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Modesto is a techno and house artist based in Spain, with 47 gigs on soundcheck 
 
 Reitze, Kamboya, Mario Gagliardi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modesto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modesto/)*

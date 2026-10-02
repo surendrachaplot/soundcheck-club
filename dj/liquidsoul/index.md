@@ -1,6 +1,6 @@
 # Liquid Soul
 
-Liquid Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Arzenal, Budapest on Sat, 3 Oct 2026.
+Liquid Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Arzenal, Budapest on Sat, 3 Oct 2026.
 
 Liquid Soul is a psytrance and techno artist based in Switzerland, with 31 gigs on soundcheck across Berlin, Budapest, Cologne and Los Angeles and 7 more. Often billed alongside Ambient Pino, Animato and Astrix. Next up: Arzenal, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Liquid Soul is a psytrance and techno artist based in Switzerland, with 31 gigs 
 
 Ambient Pino, Animato, Astrix
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*

@@ -1,6 +1,6 @@
 # Wookie
 
-Wookie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Brixton Storeys, London on Sat, 31 Oct 2026.
+Wookie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Brixton Storeys, London on Sat, 31 Oct 2026.
 
 Wookie is a garage and house artist based in United Kingdom, with 36 gigs on soundcheck across Birmingham, Edinburgh, Liverpool and London and 3 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: Brixton Storeys, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wookie is a garage and house artist based in United Kingdom, with 36 gigs on sou
 
 Matt Jam Lamont, DJ Spoony, Mark Radford
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*

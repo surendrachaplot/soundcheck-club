@@ -1,6 +1,6 @@
 # Submerse
 
-Submerse is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 88block, Tokyo on Fri, 2 Oct 2026.
+Submerse is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 88block, Tokyo on Fri, 2 Oct 2026.
 
 Submerse is a jungle and bass artist based in United Kingdom, with 53 gigs on soundcheck across London, Osaka, Seoul and Tokyo. Often billed alongside Stupid Kozo, Yamaneko and MileZ. Next up: 88block, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Submerse is a jungle and bass artist based in United Kingdom, with 53 gigs on so
 
 Stupid Kozo, Yamaneko, MileZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submerse/)*

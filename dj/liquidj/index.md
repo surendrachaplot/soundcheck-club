@@ -1,6 +1,6 @@
 # Liquid J
 
-Liquid J is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 23 Oct 2026.
+Liquid J is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 23 Oct 2026.
 
 Liquid J is a house and club artist based in United States of America, with 39 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside Milo Ziro, Berrakka and Bodegaparty. Next up: Jolene Downtown Miami, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Liquid J is a house and club artist based in United States of America, with 39 g
 
 Milo Ziro, Berrakka, Bodegaparty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidj/)*

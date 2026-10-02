@@ -1,6 +1,6 @@
 # tech_punk
 
-tech_punk is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
+tech_punk is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
 
 tech_punk is an electro and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Heshumi, Holywanderer and DJ Fiona. Next up: Mena Berlin, Berlin on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ tech_punk is an electro and techno artist based in Germany, with 4 gigs on sound
 
 Heshumi, Holywanderer, DJ Fiona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tech_punk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tech_punk/)*

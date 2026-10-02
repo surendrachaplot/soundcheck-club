@@ -1,6 +1,6 @@
 # Naomi Baldacchino
 
-Naomi Baldacchino is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
+Naomi Baldacchino is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
 
 Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates, with 50 gigs on soundcheck across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Liquid Club, Malta on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates,
 
 Kingsmo, A-THØX, Alex Micca
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*

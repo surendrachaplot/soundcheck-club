@@ -1,6 +1,6 @@
 # ishka machina
 
-ishka machina is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
+ishka machina is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
 
 ishka machina is a techno and trance artist based in India, with 72 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and zazitech. Next up: Bukanyr Boat, Prague on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ ishka machina is a techno and trance artist based in India, with 72 gigs on soun
 
 Takē, AVHD, zazitech
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishkamachina/)*

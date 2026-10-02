@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Two Shell is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 84 g
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

@@ -1,6 +1,6 @@
 # GavWhitehouse
 
-GavWhitehouse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
+GavWhitehouse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
 
 GavWhitehouse is a techno and tech house artist based in Australia, with 58 gigs on soundcheck across Amsterdam and Melbourne. Often billed alongside Andrea Guadalupi, Etwas and Ophelie Mercury. Next up: TBA - Il Mercato Centrale, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ GavWhitehouse is a techno and tech house artist based in Australia, with 58 gigs
 
 Andrea Guadalupi, Etwas, Ophelie Mercury
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavwhitehouse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavwhitehouse/)*

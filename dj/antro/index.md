@@ -1,6 +1,6 @@
 # ANTRO
 
-ANTRO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
+ANTRO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
 
 ANTRO is a techno and house artist based in Finland, with 11 gigs on soundcheck across Berlin and Helsinki. Often billed alongside PHLOXO, HAUSBRAND and NØSARA. Next up: Giri, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ANTRO is a techno and house artist based in Finland, with 11 gigs on soundcheck 
 
 PHLOXO, HAUSBRAND, NØSARA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antro/)*

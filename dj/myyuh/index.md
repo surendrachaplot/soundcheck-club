@@ -1,6 +1,6 @@
 # Myyuh
 
-Myyuh is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Friends & Lovers, New York City on Sat, 3 Oct 2026.
+Myyuh is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Friends & Lovers, New York City on Sat, 3 Oct 2026.
 
 Myyuh is a house and club artist based in United States of America, with 21 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside MNSA, Nadim Maghzal and Saphe. Next up: Friends & Lovers, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Myyuh is a house and club artist based in United States of America, with 21 gigs
 
 MNSA, Nadim Maghzal, Saphe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*

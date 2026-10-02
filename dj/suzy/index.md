@@ -1,6 +1,6 @@
 # su:zy
 
-su:zy is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Sat, 17 Oct 2026.
+su:zy is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
 su:zy is a techno and progressive house artist based in Belgium, with 24 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Ampe, Fais Le Beau and STDJ. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ su:zy is a techno and progressive house artist based in Belgium, with 24 gigs on
 
 Ampe, Fais Le Beau, STDJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzy/)*

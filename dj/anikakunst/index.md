@@ -1,6 +1,6 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gare Porto, Porto on Fri, 2 Oct 2026.
+Anika Kunst is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gare Porto, Porto on Fri, 2 Oct 2026.
 
 Anika Kunst is a techno and acid artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Gare Porto, Porto on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Anika Kunst is a techno and acid artist based in Spain, with 131 gigs on soundch
 
 Stojche, Ben Sims, Montero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

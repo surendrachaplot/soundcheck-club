@@ -1,6 +1,6 @@
 # Spraoi Mór
 
-Spraoi Mór is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
+Spraoi Mór is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
 
 Spraoi Mór is an acid and disco artist based in Ireland, with 17 gigs on soundcheck across Belfast, Berlin, Dublin and Ibiza and 1 more. Often billed alongside Dar Molloy, Holten and Bella Festa. Next up: Yamamori Tengu, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Spraoi Mór is an acid and disco artist based in Ireland, with 17 gigs on soundc
 
 Dar Molloy (2), Holten, Bella Festa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*

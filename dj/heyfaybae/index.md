@@ -1,6 +1,6 @@
 # HEYFAYBAE
 
-HEYFAYBAE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
+HEYFAYBAE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 15 Oct 2026.
 
 HEYFAYBAE is a techno and club artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside DJanae, R-DNA and Aleska. Next up: Boyfriend co-op, New York City on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ HEYFAYBAE is a techno and club artist based in United States of America, with 8 
 
 DJanae, R-DNA, Aleska
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heyfaybae/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heyfaybae/)*

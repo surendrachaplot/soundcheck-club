@@ -1,6 +1,6 @@
 # Roger That
 
-Roger That is a Funk / Soul and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Black Gold, Amsterdam on Thu, 22 Oct 2026.
+Roger That is a Funk / Soul and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Black Gold, Amsterdam on Thu, 22 Oct 2026.
 
 Roger That is a funk / soul and experimental artist based in United States of America, with 4 gigs on soundcheck across Amsterdam and Denver. Often billed alongside Han Litz, Kid Sublime and Marcel Vogel. Next up: Black Gold, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Roger That is a funk / soul and experimental artist based in United States of Am
 
 Han Litz, Kid Sublime, Marcel Vogel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogerthat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rogerthat/)*

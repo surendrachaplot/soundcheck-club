@@ -1,6 +1,6 @@
 # Soluna
 
-Soluna is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MELOKO – Sounds of Soluna with Kill Them with Colour" on Fri, 2 Oct 2026.
+Soluna is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MELOKO – Sounds of Soluna with Kill Them with Colour" on Fri, 2 Oct 2026.
 
 Soluna is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Kill Them With Colour and Melokolektiv. See dates, start times and who's playing. 312 Queen St W, Toronto, ON M5V 2A2, Canada.
 
@@ -15,4 +15,4 @@ Soluna is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with l
 
 312 Queen St W, Toronto, ON M5V 2A2, Canada, Toronto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soluna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soluna/)*

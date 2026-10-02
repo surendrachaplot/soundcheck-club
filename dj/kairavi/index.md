@@ -1,6 +1,6 @@
 # kairavi
 
-kairavi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 22 Oct 2026.
+kairavi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 22 Oct 2026.
 
 kairavi is a house and club artist based in India, with 15 gigs on soundcheck across Berlin. Often billed alongside Mati Amoretti, The Burrell Connection and oulcan. Next up: Bulbul Berlin, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ kairavi is a house and club artist based in India, with 15 gigs on soundcheck ac
 
 Mati Amoretti, The Burrell Connection, oulcan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*

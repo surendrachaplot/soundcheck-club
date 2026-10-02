@@ -1,6 +1,6 @@
 # Le Saint
 
-Le Saint is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Glazart, Paris on Sun, 4 Oct 2026.
+Le Saint is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Glazart, Paris on Sun, 4 Oct 2026.
 
 Le Saint is a techno and electro artist based in France, with 29 gigs on soundcheck across Barcelona, Berlin, Brussels and Lyon and 4 more. Often billed alongside Aubry, Illatonik and Naominitel. Next up: Glazart, Paris on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Le Saint is a techno and electro artist based in France, with 29 gigs on soundch
 
 Aubry, Illatonik, Naominitel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesaint/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesaint/)*

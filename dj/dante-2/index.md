@@ -1,6 +1,6 @@
 # Dante (H501)
 
-Dante (H501) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
+Dante (H501) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
 
 Dante (H501) is a house and tech house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Brussels, London and Madrid and 3 more. Often billed alongside Leo Benassi, AGNES (IT) and Pancratio. Next up: TBA - Santa Maria della Pietà, Rome on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Dante (H501) is a house and tech house artist based in Italy, with 80 gigs on so
 
 Leo Benassi, AGNES (IT), Pancratio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-2/)*

@@ -1,6 +1,6 @@
 # INEXXSTABLE
 
-INEXXSTABLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
+INEXXSTABLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
 
 INEXXSTABLE is a house and techno artist based in Spain, with 119 gigs on soundcheck across Barcelona and Belgrade. Often billed alongside CLANDESTINE, Cucut and Brieela. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ INEXXSTABLE is a house and techno artist based in Spain, with 119 gigs on soundc
 
 CLANDESTINE (2), Cucut, Brieela
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*

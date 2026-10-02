@@ -1,6 +1,6 @@
 # LIKE61
 
-LIKE61 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
+LIKE61 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
 
 LIKE61 is a house and disco artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Drabes, Kirilski and AIS De La Montagne. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ LIKE61 is a house and disco artist based in Netherlands, with 4 gigs on soundche
 
 Drabes, Kirilski, AIS De La Montagne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*

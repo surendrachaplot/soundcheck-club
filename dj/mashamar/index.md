@@ -1,6 +1,6 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complex 19, Ontario on Sat, 10 Oct 2026.
+Masha Mar is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complex 19, Ontario on Sat, 10 Oct 2026.
 
 Masha Mar is a house and techno artist based in Serbia, with 158 gigs on soundcheck across Athens, Belgrade, Berlin and Denver and 15 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: Complex 19, Ontario on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Masha Mar is a house and techno artist based in Serbia, with 158 gigs on soundch
 
 Heidi Lawden, Masha, Stacy Christine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

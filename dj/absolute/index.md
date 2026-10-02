@@ -1,6 +1,6 @@
 # ABSOLUTE.
 
-ABSOLUTE. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
+ABSOLUTE. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
 
 ABSOLUTE. is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brighton and 13 more. Often billed alongside Bimini, Ferdiyei and Bella Claxton. Next up: TBA, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ABSOLUTE. is a house and techno artist based in United Kingdom, with 52 gigs on 
 
 Bimini, Ferdiyei, Bella Claxton
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*

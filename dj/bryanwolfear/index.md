@@ -1,6 +1,6 @@
 # Bryan Wolf Ear
 
-Bryan Wolf Ear is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Bryan Wolf Ear is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
 Bryan Wolf Ear is a progressive house and electronica artist based in Canada, with 7 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside Kostya Outta, Alísha and Pedro Mercado. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Bryan Wolf Ear is a progressive house and electronica artist based in Canada, wi
 
 Kostya Outta, Alísha, Pedro Mercado
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanwolfear/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanwolfear/)*

@@ -1,6 +1,6 @@
 # Moreon
 
-Moreon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 17 Oct 2026.
+Moreon is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 17 Oct 2026.
 
 Moreon is a house and tech house artist based in Venezuela, with 41 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Baffa. Next up: 303 Audiophile Bar, Barcelona on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Moreon is a house and tech house artist based in Venezuela, with 41 gigs on soun
 
 LM, DECA (VE), Baffa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreon/)*

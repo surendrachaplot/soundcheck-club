@@ -1,6 +1,6 @@
 # cowntrydog
 
-cowntrydog is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+cowntrydog is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
 
 cowntrydog is a club and pop artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside Babybruise, Lyo XS and dj mico. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ cowntrydog is a club and pop artist based in Mexico, with 11 gigs on soundcheck 
 
 Babybruise, Lyo XS, dj mico
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cowntrydog/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cowntrydog/)*

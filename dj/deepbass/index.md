@@ -1,6 +1,6 @@
 # Deepbass
 
-Deepbass is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
+Deepbass is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
 
 Deepbass is a techno and ambient artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Budapest, Glasgow and Malta and 2 more. Often billed alongside Fernie, Repart and Derrick Burns. Next up: McChuills Music Bar, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Deepbass is a techno and ambient artist based in United Kingdom, with 16 gigs on
 
 Fernie, Repart, Derrick Burns
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepbass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepbass/)*

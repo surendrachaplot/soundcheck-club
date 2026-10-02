@@ -1,6 +1,6 @@
 # Shinya Okamoto
 
-Shinya Okamoto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mitsuki, Tokyo on Fri, 2 Oct 2026.
+Shinya Okamoto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mitsuki, Tokyo on Fri, 2 Oct 2026.
 
 Shinya Okamoto is a house and techno artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Toshiya Kawasaki, DJ SO and Matsunami. Next up: Mitsuki, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Shinya Okamoto is a house and techno artist based in Japan, with 11 gigs on soun
 
 Toshiya Kawasaki, DJ SO, Matsunami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyaokamoto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyaokamoto/)*

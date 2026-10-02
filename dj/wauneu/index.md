@@ -1,6 +1,6 @@
 # wauneu
 
-wauneu is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stalownia, Warsaw on Fri, 9 Oct 2026.
+wauneu is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stalownia, Warsaw on Fri, 9 Oct 2026.
 
 wauneu is a bass and dubstep artist based in Poland, with 27 gigs on soundcheck across Warsaw. Often billed alongside KarateKnur, eylau and Abuelita. Next up: Stalownia, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ wauneu is a bass and dubstep artist based in Poland, with 27 gigs on soundcheck 
 
 KarateKnur, eylau, Abuelita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wauneu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wauneu/)*

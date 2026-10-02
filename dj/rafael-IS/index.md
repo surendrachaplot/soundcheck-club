@@ -1,6 +1,6 @@
 # Rafael (IS)
 
-Rafael (IS) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
+Rafael (IS) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
 
 Rafael (IS) is a tech house and house artist based in Israel, with 25 gigs on soundcheck across Austin, Barcelona, Berlin and Brisbane and 14 more. Often billed alongside Jamie Jones, Dennis Cruz and Afriqua. Next up: [UNVRS], Ibiza on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rafael (IS) is a tech house and house artist based in Israel, with 25 gigs on so
 
 Jamie Jones, Dennis Cruz, Afriqua
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*

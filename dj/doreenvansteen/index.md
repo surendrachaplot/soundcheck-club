@@ -1,6 +1,6 @@
 # Doreen Van Steen
 
-Doreen Van Steen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
+Doreen Van Steen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
 
 Doreen Van Steen is a house and techno artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Antwerp and Ghent. Often billed alongside AMARE, Mona Lee and Cierk du Nuit. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Doreen Van Steen is a house and techno artist based in Belgium, with 13 gigs on 
 
 AMARE, Mona Lee, Cierk du Nuit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doreenvansteen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doreenvansteen/)*

@@ -1,6 +1,6 @@
 # Stavroz
 
-Stavroz is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
+Stavroz is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Stavroz is a house and electronica artist based in Belgium, with 65 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 22 more. Often billed alongside Mira, Lola Bozzano and Myd. Next up: Seaseaclub Barcelona, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Stavroz is a house and electronica artist based in Belgium, with 65 gigs on soun
 
 Mira, Lola Bozzano, Myd
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*

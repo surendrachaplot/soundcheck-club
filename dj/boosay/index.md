@@ -1,6 +1,6 @@
 # BOOSAY
 
-BOOSAY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
+BOOSAY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
 
 BOOSAY is a house and techno artist, with 15 gigs on soundcheck across Istanbul. Often billed alongside undrtow, Borec and GARAN GARAN. Next up: Frankhan Selectist, Istanbul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BOOSAY is a house and techno artist, with 15 gigs on soundcheck across Istanbul.
 
 undrtow, Borec, GARAN GARAN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boosay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boosay/)*

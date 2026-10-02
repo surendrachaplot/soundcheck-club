@@ -1,6 +1,6 @@
 # 2flowers
 
-2flowers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 2 Oct 2026.
+2flowers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 2 Oct 2026.
 
 2flowers is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Vancouver. Often billed alongside LVT, DJ Hockey and INNEZZ. Next up: Gorg-O-Mish, Vancouver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 LVT, DJ Hockey, INNEZZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*

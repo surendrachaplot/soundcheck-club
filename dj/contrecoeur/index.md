@@ -1,6 +1,6 @@
 # Contrecoeur
 
-Contrecoeur is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacré, Paris on Fri, 9 Oct 2026.
+Contrecoeur is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacré, Paris on Fri, 9 Oct 2026.
 
 Contrecoeur is a house and electro artist based in France, with 38 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 2 more. Often billed alongside Bellaire, Georges and Kirollus. Next up: Sacré, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Contrecoeur is a house and electro artist based in France, with 38 gigs on sound
 
 Bellaire, Georges, Kirollus
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/contrecoeur/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/contrecoeur/)*

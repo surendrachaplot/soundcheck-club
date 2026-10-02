@@ -1,6 +1,6 @@
 # alex.aubyn
 
-alex.aubyn is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
+alex.aubyn is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
 
 alex.aubyn is a bass and house artist based in United Kingdom, with 23 gigs on soundcheck across Sheffield. Often billed alongside MYNA, Hames and 96 Back. Next up: Peddler Warehouse, Sheffield on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ alex.aubyn is a bass and house artist based in United Kingdom, with 23 gigs on s
 
 MYNA, Hames, 96 Back
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.aubyn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.aubyn/)*

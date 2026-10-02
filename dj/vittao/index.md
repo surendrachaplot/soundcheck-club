@@ -1,6 +1,6 @@
 # VITTAO
 
-VITTAO is a Afro Tech and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dear Darling, London on Fri, 2 Oct 2026.
+VITTAO is a Afro Tech and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dear Darling, London on Fri, 2 Oct 2026.
 
 VITTAO is an afro tech and afro house artist based in Brazil, with 12 gigs on soundcheck across Amsterdam and London. Often billed alongside Christoph Cham, LGNA and Mauzk. Next up: Dear Darling, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ VITTAO is an afro tech and afro house artist based in Brazil, with 12 gigs on so
 
 Christoph Cham, LGNA, Mauzk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*

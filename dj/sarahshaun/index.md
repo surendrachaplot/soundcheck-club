@@ -1,6 +1,6 @@
 # Sarah/Shaun
 
-Sarah/Shaun is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Sat, 12 Dec 2026.
+Sarah/Shaun is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Sat, 12 Dec 2026.
 
 Sarah/Shaun is an electro and experimental artist, with 8 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Accident Machine, Bikini Body and Auntie Flo. Next up: Leith FAB Cricket Club, Edinburgh on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Sarah/Shaun is an electro and experimental artist, with 8 gigs on soundcheck acr
 
 Accident Machine, Bikini Body, Auntie Flo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahshaun/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahshaun/)*

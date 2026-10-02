@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "disko kix: a disco party" on Fri, 2 Oct 2026.
+Movers is a music venue in Nottingham with 26 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "disko kix: a disco party" on Fri, 2 Oct 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, wi
 | Thu, 15 Oct 2026 | Pool Table Launch: Pool, Board Games & Cocktails |  |
 | Fri, 16 Oct 2026 | Electroclash: indie, dance & post-punk |  |
 | Sat, 17 Oct 2026 | Macca [NTS, One Glove], Golden Lights & Mucho Maas | Golden Lights, Macca. |
+| Thu, 22 Oct 2026 | Ballistik: Pool Tournament |  |
 | Fri, 23 Oct 2026 | Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop |  |
-| Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # Q'hey
 
-Q'hey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 3 Oct 2026.
+Q'hey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 3 Oct 2026.
 
 Q'hey is a techno and house artist, with 49 gigs on soundcheck across Tokyo. Often billed alongside Takami, Drunken Kong and BEPPU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Q'hey is a techno and house artist, with 49 gigs on soundcheck across Tokyo. Oft
 
 Takami, Drunken Kong, BEPPU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qhey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qhey/)*

@@ -1,14 +1,15 @@
 # Rikuto Shibazaki
 
-Rikuto Shibazaki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Rikuto Shibazaki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
-Rikuto Shibazaki is a techno and bass artist based in Japan, with 58 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Rikuto, shimosoma and Kotaro Shimizu. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+Rikuto Shibazaki is a techno and bass artist based in Japan, with 59 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Rikuto, shimosoma and Kotaro Shimizu. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Circus Tokyo | Tokyo |
+| Sun, 4 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rikuto Shibazaki is a techno and bass artist based in Japan, with 58 gigs on sou
 
 Rikuto, shimosoma, Kotaro Shimizu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutoshibazaki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutoshibazaki/)*

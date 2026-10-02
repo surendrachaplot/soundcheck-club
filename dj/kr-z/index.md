@@ -1,8 +1,8 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NWHR, Montreal on Fri, 2 Oct 2026.
+Kr!z is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Fri, 2 Oct 2026.
 
-Kr!z is a techno and acid artist based in Belgium, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: NWHR, Montreal on Fri 2 Oct.
+Kr!z is a techno and acid artist based in Belgium, with 105 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: NWHR, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kr!z is a techno and acid artist based in Belgium, with 104 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | NWHR | Montreal |
 | Sat, 3 Oct 2026 | TBA | Toronto |
+| Sat, 10 Oct 2026 | Sonotone 2.0 | South-west |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kr!z is a techno and acid artist based in Belgium, with 104 gigs on soundcheck a
 
 Phara, Border One, Marie-Julie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

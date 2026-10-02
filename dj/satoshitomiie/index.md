@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 2 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 2 Oct 2026.
 
 Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: Polifonic.MX, Guadalajara on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on sou
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

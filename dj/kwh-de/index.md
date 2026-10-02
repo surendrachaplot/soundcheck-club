@@ -1,6 +1,6 @@
 # KWH (DE)
 
-KWH (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, Bangkok on Fri, 2 Oct 2026.
+KWH (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Elsewhere, Bangkok on Fri, 2 Oct 2026.
 
 KWH (DE) is a house and techno artist based in Germany, with 41 gigs on soundcheck across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside KPODKPOD, Elaheh and Mumsfilibaba. Next up: Elsewhere, Bangkok on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KWH (DE) is a house and techno artist based in Germany, with 41 gigs on soundche
 
 KPODKPOD, Elaheh, Mumsfilibaba
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwh-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwh-de/)*

@@ -1,6 +1,6 @@
 # Zerø
 
-Zerø is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cieloterra, Rome on Fri, 16 Oct 2026.
+Zerø is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cieloterra, Rome on Fri, 16 Oct 2026.
 
 Zerø is a techno and house artist based in Italy, with 78 gigs on soundcheck across London, Naples, Rome and Tokyo and 1 more. Often billed alongside Fabrizio Sala, Giorgio Gigli and 000vda. Next up: Cieloterra, Rome on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zerø is a techno and house artist based in Italy, with 78 gigs on soundcheck ac
 
 Fabrizio Sala, Giorgio Gigli, 000vda
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zer0/)*

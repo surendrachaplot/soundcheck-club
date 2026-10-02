@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BASSROOM - KEY KLAU + JC + BB NOISE + JEY JEY + MURTHERFACE + TEKNOIZE KIDS + BLOUDY" on Sat, 3 Oct 2026.
+Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BASSROOM - KEY KLAU + JC + BB NOISE + JEY JEY + MURTHERFACE + TEKNOIZE KIDS + BLOUDY" on Sat, 3 Oct 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Atrâm, Chamo, Keyklau and Nita Key and 2 more. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -20,4 +20,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

@@ -1,8 +1,8 @@
 # Drifting Clouds
 
-Drifting Clouds is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Drifting Clouds is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Drifting Clouds is a house and electronica artist based in Australia, with 7 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Bridget Small, Elsie and Intermood. Next up: TBA, Victoria on Fri 6 Nov.
+Drifting Clouds is a house and disco artist based in Australia, with 7 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Bridget Small, Elsie and Intermood. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Drifting Clouds is a house and electronica artist based in Australia, with 7 gig
 
 Bridget Small (2), Elsie, Intermood
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driftingclouds/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driftingclouds/)*

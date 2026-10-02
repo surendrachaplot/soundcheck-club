@@ -1,6 +1,6 @@
 # A2XBY
 
-A2XBY is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+A2XBY is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 A2XBY is an industrial and techno artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Berlin, Dublin and Madrid and 2 more. Often billed alongside SOBER (NL), PARAPHER and 2FEL. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ A2XBY is an industrial and techno artist based in Netherlands, with 8 gigs on so
 
 SOBER (NL), PARAPHER, 2FEL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a2xby/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a2xby/)*

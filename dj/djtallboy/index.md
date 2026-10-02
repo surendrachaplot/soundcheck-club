@@ -1,6 +1,6 @@
 # DJ Tallboy
 
-DJ Tallboy is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ansgarikirchhof Bremen, Bremen on Fri, 2 Oct 2026.
+DJ Tallboy is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ansgarikirchhof Bremen, Bremen on Fri, 2 Oct 2026.
 
 DJ Tallboy is a trance and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Bremen, Cologne and Hamburg and 10 more. Often billed alongside DJ Discostoff, Rosilicious and 4NOUK. Next up: Ansgarikirchhof Bremen, Bremen on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ DJ Tallboy is a trance and techno artist based in Germany, with 63 gigs on sound
 
 DJ Discostoff, Rosilicious, 4NOUK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*

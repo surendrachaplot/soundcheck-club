@@ -1,6 +1,6 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sankeys, Manchester on Sat, 31 Oct 2026.
+Miguel Campbell is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sankeys, Manchester on Sat, 31 Oct 2026.
 
 Miguel Campbell is a house and deep house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 7 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: Sankeys, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, with 3
 
 Alexis Raphael, Steven Cee, Boon (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*

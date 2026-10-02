@@ -1,6 +1,6 @@
 # Founder
 
-Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
+Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
 
 Founder is a reggaeton and pop artist based in United Kingdom, with 2 gigs on soundcheck across Barcelona. Often billed alongside DJ Howard. Next up: TBA - Sky Sinner Barcelona, Barcelona on Fri 2 Oct.
 
@@ -15,4 +15,4 @@ Founder is a reggaeton and pop artist based in United Kingdom, with 2 gigs on so
 
 DJ Howard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*

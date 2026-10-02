@@ -1,6 +1,6 @@
 # LATEX GIRL
 
-LATEX GIRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Menjo's, Detroit on Sat, 3 Oct 2026.
+LATEX GIRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Menjo's, Detroit on Sat, 3 Oct 2026.
 
 LATEX GIRL is a techno and electro artist based in United States of America, with 183 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: Menjo's, Detroit on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ LATEX GIRL is a techno and electro artist based in United States of America, wit
 
 Wax Assassin, Garrison XR, we1sman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*

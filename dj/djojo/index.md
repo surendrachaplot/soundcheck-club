@@ -1,6 +1,6 @@
 # DJ ojo
 
-DJ ojo is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spanners, London on Fri, 30 Oct 2026.
+DJ ojo is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spanners, London on Fri, 30 Oct 2026.
 
 DJ ojo is an experimental and bass artist, with 22 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside Sam Purcell, k means and Alicia (UK). Next up: Spanners, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ ojo is an experimental and bass artist, with 22 gigs on soundcheck across Ber
 
 Sam Purcell, k means, Alicia (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djojo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djojo/)*

@@ -1,6 +1,6 @@
 # RATONC1T0
 
-RATONC1T0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
+RATONC1T0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
 
 RATONC1T0 is a techno and electro artist based in Puerto Rico, with 20 gigs on soundcheck across Chicago, New York City and Washington DC. Often billed alongside Ether Pleaser, D. Strange and DAIYAH. Next up: Paragon, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RATONC1T0 is a techno and electro artist based in Puerto Rico, with 20 gigs on s
 
 Ether Pleaser, D. Strange, DAIYAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*

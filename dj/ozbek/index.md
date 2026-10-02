@@ -1,6 +1,6 @@
 # OZBEK
 
-OZBEK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
+OZBEK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
 OZBEK is a house and techno artist based in Turkey, with 25 gigs on soundcheck across Amsterdam, Athens and Istanbul. Often billed alongside BARAN YILDIRIM, Ertug Karakas and Fratello. Next up: Escape, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ OZBEK is a house and techno artist based in Turkey, with 25 gigs on soundcheck a
 
 BARAN YILDIRIM, Ertug Karakas, Fratello
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozbek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozbek/)*

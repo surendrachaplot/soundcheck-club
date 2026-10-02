@@ -1,6 +1,6 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "crispy fingers / MoFo /Rammvigo" on Fri, 2 Oct 2026.
+B side Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "crispy fingers / MoFo /Rammvigo" on Fri, 2 Oct 2026.
 
 B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including crispy fingers and Rammvigo. See dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
@@ -15,4 +15,4 @@ B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs, 
 
 Mavrokordatou 6, Athina 106 78, Greece, Athens
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*

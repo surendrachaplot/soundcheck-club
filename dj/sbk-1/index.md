@@ -1,6 +1,6 @@
 # sbk (1)
 
-sbk (1) is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Final, Taipei on Fri, 2 Oct 2026.
+sbk (1) is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Final, Taipei on Fri, 2 Oct 2026.
 
 sbk is a garage and grime artist, with 8 gigs on soundcheck across Bristol, London, Osaka and Taipei and 1 more. Often billed alongside No Faking DJs, Betsy Mae and Bladerunner. Next up: Final, Taipei on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ sbk is a garage and grime artist, with 8 gigs on soundcheck across Bristol, Lond
 
 No Faking DJs, Betsy Mae, Bladerunner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbk-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbk-1/)*

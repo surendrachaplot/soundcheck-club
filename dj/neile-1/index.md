@@ -1,6 +1,6 @@
 # Neil E
 
-Neil E is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dual, Bangkok on Sat, 10 Oct 2026.
+Neil E is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dual, Bangkok on Sat, 10 Oct 2026.
 
 Neil E is a techno and house artist based in Australia, with 24 gigs on soundcheck across Bangkok, Berlin, Melbourne and Sydney. Often billed alongside Billus, DJ Camov and Snad. Next up: Dual, Bangkok on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Neil E is a techno and house artist based in Australia, with 24 gigs on soundche
 
 Billus, DJ Camov, Snad
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neile-1/)*

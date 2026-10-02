@@ -1,6 +1,6 @@
 # Vanessa Sa
 
-Vanessa Sa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FLUCC, Vienna on Sat, 3 Oct 2026.
+Vanessa Sa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
 Vanessa Sa is a techno and trance artist based in Austria, with 29 gigs on soundcheck across Amsterdam, Berlin, London and Vienna. Often billed alongside BRX, Who is ela¿ and Aleta. Next up: FLUCC, Vienna on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Vanessa Sa is a techno and trance artist based in Austria, with 29 gigs on sound
 
 BRX (2), Who is ela¿, Aleta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*

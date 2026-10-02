@@ -1,6 +1,6 @@
 # Skyyy
 
-Skyyy is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Section 8, Melbourne on Sat, 3 Oct 2026.
+Skyyy is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Section 8, Melbourne on Sat, 3 Oct 2026.
 
 Skyyy is a deep house and house artist, with 16 gigs on soundcheck across Melbourne. Often billed alongside The PDC, Blană and Macmillan. Next up: Section 8, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Skyyy is a deep house and house artist, with 16 gigs on soundcheck across Melbou
 
 The PDC, Blană, Macmillan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyyy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyyy/)*

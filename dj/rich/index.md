@@ -1,6 +1,6 @@
 # Rich
 
-Rich is a Broken Beat and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grow, London on Fri, 2 Oct 2026.
+Rich is a Broken Beat and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grow, London on Fri, 2 Oct 2026.
 
 Rich is a broken beat and progressive house artist based in Sweden, with 14 gigs on soundcheck across Budapest, Leeds, London and Prague and 2 more. Often billed alongside Old & Rich, Akira and Austin Powers. Next up: Grow, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rich is a broken beat and progressive house artist based in Sweden, with 14 gigs
 
 Old & Rich, Akira, Austin Powers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rich/)*

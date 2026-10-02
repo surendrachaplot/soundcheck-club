@@ -1,6 +1,6 @@
 # Romane Santarelli
 
-Romane Santarelli is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
+Romane Santarelli is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
 
 Romane Santarelli is a techno and electro artist based in France, with 7 gigs on soundcheck across Geneva, Lyon, Marseille and Montreal and 1 more. Often billed alongside NTO, Trym and Acid Arab. Next up: Virage, Paris on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Romane Santarelli is a techno and electro artist based in France, with 7 gigs on
 
 NTO, Trym, Acid Arab
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanesantarelli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanesantarelli/)*

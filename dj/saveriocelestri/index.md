@@ -1,6 +1,6 @@
 # Saverio Celestri
 
-Saverio Celestri is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Luma, Milan on Sat, 3 Oct 2026.
+Saverio Celestri is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Luma, Milan on Sat, 3 Oct 2026.
 
 Saverio Celestri is an electro and techno artist based in Italy, with 31 gigs on soundcheck across Barcelona, Berlin, Bucharest and Buenos Aires and 5 more. Often billed alongside Enrico Vivaldi, Psycho Mind Transmission and Avo (ES). Next up: Luma, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saverio Celestri is an electro and techno artist based in Italy, with 31 gigs on
 
 Enrico Vivaldi, Psycho Mind Transmission, Avo (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*

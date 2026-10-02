@@ -1,6 +1,6 @@
 # A.Well
 
-A.Well is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
+A.Well is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
 A.Well is a house and techno artist based in Australia, with 57 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and Chris Stevo. Next up: Stanley's, Sydney on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ A.Well is a house and techno artist based in Australia, with 57 gigs on soundche
 
 Andrew88, Yugwan, Chris Stevo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*

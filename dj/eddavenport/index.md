@@ -1,6 +1,6 @@
 # Ed Davenport
 
-Ed Davenport is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
+Ed Davenport is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
 Ed Davenport is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Leipzig, Ljubljana and London and 1 more. Often billed alongside Answer Code Request, DJ Nobu and Monty Luke. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ed Davenport is a house and techno artist based in Germany, with 21 gigs on soun
 
 Answer Code Request, DJ Nobu, Monty Luke
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddavenport/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddavenport/)*

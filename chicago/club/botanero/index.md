@@ -1,6 +1,6 @@
 # Botanero
 
-Botanero is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Arcadia Sound System presents: Club Arcadia Vol 4" on Sat, 17 Oct 2026.
+Botanero is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Arcadia Sound System presents: Club Arcadia Vol 4" on Sat, 17 Oct 2026.
 
 Botanero is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Abisai. See dates, start times and who's playing. 1413 N Ashland, Chicago, IL,  60622.
 
@@ -14,4 +14,4 @@ Botanero is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with 
 
 1413 N Ashland, Chicago, IL,  60622, Chicago
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/botanero/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/botanero/)*

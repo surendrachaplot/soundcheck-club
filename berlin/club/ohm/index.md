@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ARA x OHM" on Thu, 1 Oct 2026.
+OHM is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Body Language pres. Body Talk" on Fri, 2 Oct 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including aeriform, AliA, Anja Schneider and Anti Ribeiro and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including aeriform, AliA, Anja Schneider and Anti Ribeiro and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | ARA x OHM |  |
 | Fri, 2 Oct 2026 | Body Language pres. Body Talk | Manolo. (DE), Stella Zekri, Tam Tam |
 | Sat, 3 Oct 2026 | PuMp Berlin daytime hosted by Anja Schneider with Karotte | Anja Schneider, Karotte |
 | Sat, 3 Oct 2026 | BRAINDANCE | Makam, TAFKAMP |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line
 | Sat, 10 Oct 2026 | Fever AM X BANOFFEE PIES | DJ Autumn, Formella, Mor Elian, Rhyw, yungfya |
 | Thu, 15 Oct 2026 | Fear Of Silence x Ghosttown | Brootworth, Delta Division, Harba, Rompa, Vorraum, re:ni |
 | Sat, 17 Oct 2026 | nice 2 be nice | Asphalt DJ, Dj Heartbreak, Jesse G, Naomi (Berlin), Reduks, Shuray & Walle |
+| Sun, 18 Oct 2026 | subglow | CCL |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

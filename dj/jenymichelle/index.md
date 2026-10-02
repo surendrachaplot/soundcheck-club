@@ -1,6 +1,6 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+Jeny Michelle is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 Jeny Michelle is a house and minimal artist based in Mexico, with 74 gigs on soundcheck across London, Mexico City, New York City and San Diego and 1 more. Often billed alongside Auphoria, Amba and shanty mane. Next up: Green Room NYC, New York City on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Jeny Michelle is a house and minimal artist based in Mexico, with 74 gigs on sou
 
 Auphoria, Amba, shanty mane
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

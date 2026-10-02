@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hardpop, Ciudad-ju-rez on Fri, 2 Oct 2026.
+Julya Karma is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hardpop, Ciudad-ju-rez on Fri, 2 Oct 2026.
 
 Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Hardpop, Ciudad Ju Rez on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Ams
 
 Âme, Jimi Jules, Dixon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

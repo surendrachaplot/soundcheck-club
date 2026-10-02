@@ -1,6 +1,6 @@
 # cute boys
 
-cute boys is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Sat, 3 Oct 2026.
+cute boys is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
 cute boys is a trance and pop artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Mood Ring, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ cute boys is a trance and pop artist based in United States of America, with 11 
 
 ASTER (DJ), Tasheff, Lilflower
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*

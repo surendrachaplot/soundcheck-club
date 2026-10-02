@@ -1,6 +1,6 @@
 # Jurek Przezdziecki
 
-Jurek Przezdziecki is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Jurek Przezdziecki is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Jurek Przezdziecki is a techno and acid artist based in Poland, with 13 gigs on soundcheck across Gdansk, Krakow and Warsaw. Often billed alongside Kuba Sojka, Sabre (PL) and Gary Holldman. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jurek Przezdziecki is a techno and acid artist based in Poland, with 13 gigs on 
 
 Kuba Sojka, Sabre (PL), Gary Holldman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurekprzezdziecki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurekprzezdziecki/)*

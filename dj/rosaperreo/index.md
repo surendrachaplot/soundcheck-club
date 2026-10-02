@@ -1,6 +1,6 @@
 # Rosa Perreo
 
-Rosa Perreo is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+Rosa Perreo is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
 Rosa Perreo is a reggaeton and techno artist based in United States of America, with 24 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside Dos Flakos, DADA COZMIC and Andi. Next up: Industry City, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rosa Perreo is a reggaeton and techno artist based in United States of America, 
 
 Dos Flakos, DADA COZMIC, Andi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaperreo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaperreo/)*

@@ -1,6 +1,6 @@
 # Ramón
 
-Ramón is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
+Ramón is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
 
 Ramón is a house and techno artist, with 4 gigs on soundcheck across Cologne and Munich. Often billed alongside ANNA, Bergen and Cecilia Tosh. Next up: Odonien, Cologne on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Ramón is a house and techno artist, with 4 gigs on soundcheck across Cologne an
 
 ANNA, Bergen, Cecilia Tosh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramon/)*

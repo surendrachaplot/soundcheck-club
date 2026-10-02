@@ -1,6 +1,6 @@
 # Romy Mats
 
-Romy Mats is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Fri, 2 Oct 2026.
+Romy Mats is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
 Romy Mats is a techno and house artist based in Japan, with 151 gigs on soundcheck across Hong Kong, Kyoto, Seoul and Shenzhen and 1 more. Often billed alongside Romy, Albino Sound and Pine. Next up: Saloon, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Romy Mats is a techno and house artist based in Japan, with 151 gigs on soundche
 
 Romy, Albino Sound, Pine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*

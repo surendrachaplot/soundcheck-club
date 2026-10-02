@@ -1,6 +1,6 @@
 # Diogo Accioly
 
-Diogo Accioly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at D-EDGE, Sao Paulo on Sun, 4 Oct 2026.
+Diogo Accioly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at D-EDGE, Sao Paulo on Sun, 4 Oct 2026.
 
 Diogo Accioly is a house and tech house artist, with 71 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Phonique, NILU and Adnan Sharif. Next up: D-EDGE, Sao Paulo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Diogo Accioly is a house and tech house artist, with 71 gigs on soundcheck acros
 
 Phonique, NILU, Adnan Sharif
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diogoaccioly/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diogoaccioly/)*

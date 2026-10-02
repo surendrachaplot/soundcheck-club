@@ -1,6 +1,6 @@
 # Shhau
 
-Shhau is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Shhau is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Shhau is an electronic artist based in Armenia, with 2 gigs on soundcheck across Armenia. Often billed alongside Animistic Beliefs, Kogeno and MEROUJ. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Shhau is an electronic artist based in Armenia, with 2 gigs on soundcheck across
 
 Animistic Beliefs, Kogeno, MEROUJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhau/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhau/)*

@@ -1,6 +1,6 @@
 # Bungalovv
 
-Bungalovv is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
+Bungalovv is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
 
 Bungalovv is an experimental and club artist based in Argentina, with 54 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 11 more. Often billed alongside TUFI, Isaka and CÁRPATOS. Next up: TBA - Secret Location, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Bungalovv is an experimental and club artist based in Argentina, with 54 gigs on
 
 TUFI, Isaka, CÁRPATOS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*

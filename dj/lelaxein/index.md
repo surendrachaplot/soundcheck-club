@@ -1,6 +1,6 @@
 # Lela Xein
 
-Lela Xein is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Alcazar Live, Rome on Fri, 13 Nov 2026.
+Lela Xein is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alcazar Live, Rome on Fri, 13 Nov 2026.
 
 Lela Xein is a house and disco artist based in Italy, with 29 gigs on soundcheck across Rome. Often billed alongside Jason K (IT), Fusco Stefano and Sofiget. Next up: Alcazar Live, Rome on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lela Xein is a house and disco artist based in Italy, with 29 gigs on soundcheck
 
 Jason K (IT), Fusco Stefano, Sofiget
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelaxein/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelaxein/)*

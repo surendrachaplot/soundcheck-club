@@ -1,6 +1,6 @@
 # Bizzarro Universe
 
-Bizzarro Universe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fundbureau, Hamburg on Fri, 23 Oct 2026.
+Bizzarro Universe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fundbureau, Hamburg on Fri, 23 Oct 2026.
 
 Bizzarro Universe is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside MikAH, Nina Hepburn and Carluschka. Next up: Fundbureau, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bizzarro Universe is a techno and house artist based in Germany, with 79 gigs on
 
 MikAH, Nina Hepburn, Carluschka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizzarrouniverse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizzarrouniverse/)*

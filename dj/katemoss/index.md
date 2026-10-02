@@ -1,6 +1,6 @@
 # Kate Moss
 
-Kate Moss is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Itzel Club, London on Fri, 2 Oct 2026.
+Kate Moss is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Itzel Club, London on Fri, 2 Oct 2026.
 
 Kate Moss is a tech house and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Athens, London and Malta. Often billed alongside CENKK, VENERE and Yashar (UK). Next up: Itzel Club, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kate Moss is a tech house and deep house artist based in United Kingdom, with 24
 
 CENKK, VENERE, Yashar (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katemoss/)*

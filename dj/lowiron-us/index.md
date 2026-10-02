@@ -1,6 +1,6 @@
 # low iron
 
-low iron is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Fri, 9 Oct 2026.
+low iron is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Fri, 9 Oct 2026.
 
 low iron is a club and techno artist, with 94 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside Phreakwency, Nail Salon and JEWELSSEA. Next up: Val’s Lesbian Bar, Philadelphia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ low iron is a club and techno artist, with 94 gigs on soundcheck across New York
 
 Phreakwency, Nail Salon (2), JEWELSSEA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*

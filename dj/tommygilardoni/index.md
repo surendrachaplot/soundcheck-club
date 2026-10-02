@@ -1,6 +1,6 @@
 # TOMMY GILARDONI
 
-TOMMY GILARDONI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
+TOMMY GILARDONI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
 
 TOMMY GILARDONI is a house and minimal artist based in United Kingdom, with 12 gigs on soundcheck across London, Milan and Paris. Often billed alongside AOB, Wolfram and Ardishko. Next up: Theata, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TOMMY GILARDONI is a house and minimal artist based in United Kingdom, with 12 g
 
 AOB, Wolfram, Ardishko
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommygilardoni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommygilardoni/)*

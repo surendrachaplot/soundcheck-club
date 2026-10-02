@@ -1,6 +1,6 @@
 # Tony Humphries
 
-Tony Humphries is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at smartbar, Chicago on Sat, 3 Oct 2026.
+Tony Humphries is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Sat, 3 Oct 2026.
 
 Tony Humphries is a house and disco artist based in United States of America, with 96 gigs on soundcheck across Berlin, Chicago, Detroit and Helsinki and 13 more. Often billed alongside G-HA, Olanskii and DJ Heather. Next up: smartbar, Chicago on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Tony Humphries is a house and disco artist based in United States of America, wi
 
 G-HA, Olanskii, DJ Heather
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*

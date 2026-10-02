@@ -1,6 +1,6 @@
 # Chico Sonido
 
-Chico Sonido is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
+Chico Sonido is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
 
 Chico Sonido is a latin bass and electronica artist based in Mexico, with 10 gigs on soundcheck across London and Mexico City. Often billed alongside Ruiseñor, 1tbsp and Dj Babatr. Next up: Antro Juan, Mexico City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Chico Sonido is a latin bass and electronica artist based in Mexico, with 10 gig
 
 Ruiseñor, 1tbsp, Dj Babatr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicosonido/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicosonido/)*

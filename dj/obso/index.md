@@ -1,6 +1,6 @@
 # Obso
 
-Obso is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 16 Oct 2026.
+Obso is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 16 Oct 2026.
 
 Obso is an experimental and electronica artist, with 7 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Isabassi, Tutu Ta and Daisy Ray. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Obso is an experimental and electronica artist, with 7 gigs on soundcheck across
 
 Isabassi, Tutu Ta, Daisy Ray
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obso/)*

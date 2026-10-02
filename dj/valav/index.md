@@ -1,6 +1,6 @@
 # ValaV
 
-ValaV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+ValaV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 ValaV is a techno and trance artist based in Venezuela, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 7 more. Often billed alongside REXER, Lola Kay and AMARANTE. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ValaV is a techno and trance artist based in Venezuela, with 53 gigs on soundche
 
 REXER, Lola Kay, AMARANTE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valav/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valav/)*

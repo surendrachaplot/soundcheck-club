@@ -1,6 +1,6 @@
 # Kostello
 
-Kostello is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Waterfront.Events, Montreal on Fri, 2 Oct 2026.
+Kostello is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Waterfront.Events, Montreal on Fri, 2 Oct 2026.
 
 Kostello is a deep house and dub techno artist, with 9 gigs on soundcheck across Montreal. Often billed alongside Okin, Audio Sin and Boomy. Next up: Waterfront.Events, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kostello is a deep house and dub techno artist, with 9 gigs on soundcheck across
 
 Okin, Audio Sin, Boomy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostello/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostello/)*

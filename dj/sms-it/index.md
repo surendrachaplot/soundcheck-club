@@ -1,6 +1,6 @@
 # SMS (IT)
 
-SMS (IT) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
+SMS (IT) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
 
 SMS (IT) is a techno and electro artist based in Italy, with 27 gigs on soundcheck across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside Pabie, Marcolino and GNMR. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SMS (IT) is a techno and electro artist based in Italy, with 27 gigs on soundche
 
 Pabie, Marcolino, GNMR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sms-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sms-it/)*

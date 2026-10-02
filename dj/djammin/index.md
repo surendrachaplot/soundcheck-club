@@ -1,6 +1,6 @@
 # Djammin
 
-Djammin is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Djammin is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 Djammin is a house and afro house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Bristol, Ibiza and London and 5 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -15,6 +15,7 @@ Djammin is a house and afro house artist based in United Kingdom, with 34 gigs o
 
 ## Recently played
 
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - Hï Ibiza, Ibiza · Sat, 18 Jul 2026
 - Ministry Of Sound, London · Sat, 18 Jul 2026
 - Chinois Ibiza, Ibiza · Thu, 16 Jul 2026
@@ -22,10 +23,9 @@ Djammin is a house and afro house artist based in United Kingdom, with 34 gigs o
 - Hï Ibiza, Ibiza · Sat, 2 May 2026
 - fabric, London · Fri, 3 Apr 2026
 - fabric, London · Fri, 20 Feb 2026
-- Ministry Of Sound, London · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Meeshy, Ossie, Skepta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

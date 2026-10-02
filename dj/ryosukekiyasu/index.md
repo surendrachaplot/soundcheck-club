@@ -1,6 +1,6 @@
 # Ryosuke Kiyasu
 
-Ryosuke Kiyasu is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
+Ryosuke Kiyasu is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
 
 Ryosuke Kiyasu is an experimental and techno artist, with 17 gigs on soundcheck across Antwerp, Copenhagen, Glasgow and Kyoto and 8 more. Often billed alongside FUJI TRILL, Isabelle Beaucamp and YUUKI YOSHIYAMA. Next up: Het Burgerweeshuis, Netherlands on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ryosuke Kiyasu is an experimental and techno artist, with 17 gigs on soundcheck 
 
 FUJI TRILL, Isabelle Beaucamp, YUUKI YOSHIYAMA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosukekiyasu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosukekiyasu/)*

@@ -1,6 +1,6 @@
 # Sheriff
 
-Sheriff is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
+Sheriff is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
 
 Sheriff is a drum & bass and techno artist based in Germany, with 11 gigs on soundcheck across Cologne, Hamburg, Prague and Rotterdam and 1 more. Often billed alongside Eska, BIANKA and Bea. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sheriff is a drum & bass and techno artist based in Germany, with 11 gigs on sou
 
 Eska, BIANKA, Bea (7)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheriff/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheriff/)*

@@ -1,6 +1,6 @@
 # Nycky Estrella
 
-Nycky Estrella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marmorbar, Berlin on Fri, 2 Oct 2026.
+Nycky Estrella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marmorbar, Berlin on Fri, 2 Oct 2026.
 
 Nycky Estrella is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Leipzig. Often billed alongside Rakans, SOCIAL VLAD and DiskoTitties. Next up: Marmorbar, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Nycky Estrella is a house and techno artist based in Germany, with 18 gigs on so
 
 Rakans, SOCIAL VLAD, DiskoTitties
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyckyestrella/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyckyestrella/)*

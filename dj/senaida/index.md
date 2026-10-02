@@ -1,6 +1,6 @@
 # SENAIDA
 
-SENAIDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 2 Oct 2026.
+SENAIDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 2 Oct 2026.
 
 SENAIDA is a techno and house artist based in Canada, with 54 gigs on soundcheck across Athens, Bangkok, Berlin and Brussels and 7 more. Often billed alongside estro, AnEmD and CRYFXB. Next up: Tempio del Futuro Perduto, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SENAIDA is a techno and house artist based in Canada, with 54 gigs on soundcheck
 
 estro, AnEmD, CRYFXB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*

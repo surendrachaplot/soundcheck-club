@@ -1,6 +1,6 @@
 # Cono (3)
 
-Cono (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 9 Oct 2026.
+Cono (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 9 Oct 2026.
 
 Cono is a techno artist based in Argentina, with 9 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside 10961, DURØ and P3PA. Next up: 7833 Soundlab, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Cono is a techno artist based in Argentina, with 9 gigs on soundcheck across Bar
 
 10961, DURØ, P3PA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cono-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cono-3/)*

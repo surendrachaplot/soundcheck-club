@@ -1,6 +1,6 @@
 # Somme Farris
 
-Somme Farris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marmorbar, Berlin on Sat, 10 Oct 2026.
+Somme Farris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marmorbar, Berlin on Sat, 10 Oct 2026.
 
 Somme Farris is a techno and house artist, with 35 gigs on soundcheck across Berlin, Brighton, London and Paris. Often billed alongside ANAHITA, Anahita Shamsaei and S_STEELE. Next up: Marmorbar, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Somme Farris is a techno and house artist, with 35 gigs on soundcheck across Ber
 
 ANAHITA, Anahita Shamsaei, S_STEELE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*

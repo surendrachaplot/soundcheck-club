@@ -1,6 +1,6 @@
 # Countdown NYE at NOS Event Center
 
-Countdown NYE at NOS Event Center on Thu 31 Dec, Los Angeles. 30 artists: Alesso, Archie Hamilton, ARLO (UK) and Borne (US) and 26 more. See the line-up on soundcheck.
+Countdown NYE at NOS Event Center on Thu 31 Dec, Los Angeles. 30 artists: Alesso, Archie Hamilton, ARLO (UK) and Borne (US) and 26 more. Progressive House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

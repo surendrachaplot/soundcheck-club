@@ -1,6 +1,6 @@
 # Jamie Love
 
-Jamie Love is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Jamie Love is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Jamie Love is a house and pop artist based in United Kingdom, with 123 gigs on soundcheck across Ibiza, London and Los Angeles. Often billed alongside Parris Taylor, Perry Martin and Alex Mills. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jamie Love is a house and pop artist based in United Kingdom, with 123 gigs on s
 
 Parris Taylor, Perry Martin, Alex Mills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*

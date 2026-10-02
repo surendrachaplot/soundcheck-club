@@ -1,6 +1,6 @@
 # The Brokers
 
-The Brokers is a Progressive House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
+The Brokers is a Progressive House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
 
 The Brokers is a progressive house and italo disco artist based in United Kingdom, with 24 gigs on soundcheck across Manchester. Often billed alongside Róisín W, Aural-B and Demetae. Next up: TBA - Metro's Social Club, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The Brokers is a progressive house and italo disco artist based in United Kingdo
 
 Róisín W, Aural-B, Demetae
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*

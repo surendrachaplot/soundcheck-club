@@ -1,6 +1,6 @@
 # Rada (1)
 
-Rada (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ormside Projects, London on Thu, 8 Oct 2026.
+Rada (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ormside Projects, London on Thu, 8 Oct 2026.
 
 Rada is a house and tech house artist, with 9 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 2 more. Often billed alongside Adrian Eftimie, Alan (UA) and Cetateanu. Next up: Ormside Projects, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Rada is a house and tech house artist, with 9 gigs on soundcheck across Barcelon
 
 Adrian Eftimie, Alan (UA), Cetateanu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rada-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rada-1/)*

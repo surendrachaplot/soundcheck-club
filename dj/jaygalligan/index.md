@@ -1,6 +1,6 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Jay Galligan is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 Jay Galligan is a techno and electro artist based in Ireland, with 16 gigs on soundcheck across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Jay Galligan is a techno and electro artist based in Ireland, with 16 gigs on so
 
 Ario, Lynne, RS Tangent
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

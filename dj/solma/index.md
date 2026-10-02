@@ -1,6 +1,6 @@
 # Solma
 
-Solma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Solma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
 Solma is a techno and trance artist based in France, with 28 gigs on soundcheck across Barcelona, Brussels, Copenhagen and Dublin and 7 more. Often billed alongside Fluid Matter, Jan Swam and EMA. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Solma is a techno and trance artist based in France, with 28 gigs on soundcheck 
 
 Fluid Matter, Jan Swam, EMA (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solma/)*

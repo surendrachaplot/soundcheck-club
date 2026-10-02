@@ -1,6 +1,6 @@
 # Wolk
 
-Wolk is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 23 Oct 2026.
+Wolk is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 23 Oct 2026.
 
 Wolk is a techno and hardcore artist based in France, with 40 gigs on soundcheck across Berlin, Madrid and Marseille. Often billed alongside BenzØ, Angel Karel and Bours?. Next up: Cabaret  Aléatoire, Marseille on Fri 23 Oct.
 
@@ -9,7 +9,7 @@ Wolk is a techno and hardcore artist based in France, with 40 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Cabaret  Aléatoire | Marseille |
-| Thu, 31 Dec 2026 | TBA - La Plateforme | Marseille |
+| Thu, 31 Dec 2026 | La Plateforme | Marseille |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Wolk is a techno and hardcore artist based in France, with 40 gigs on soundcheck
 
 BenzØ, Angel Karel, Bours?
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwolk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwolk/)*

@@ -1,6 +1,6 @@
 # QT-XTC
 
-QT-XTC is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
+QT-XTC is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
 
 QT-XTC is a breakbeat and bass artist based in Germany, with 9 gigs on soundcheck across Cologne, Frankfurt and Hamburg. Often billed alongside Back2Bass, BUTTMONEY and Slimgirl fat. Next up: JAKI, Cologne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ QT-XTC is a breakbeat and bass artist based in Germany, with 9 gigs on soundchec
 
 Back2Bass, BUTTMONEY, Slimgirl fat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qt-xtc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qt-xtc/)*

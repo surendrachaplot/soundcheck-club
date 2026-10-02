@@ -1,8 +1,8 @@
 # 24 Kitchen Street
 
-24 Kitchen Street is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie" on Fri, 2 Oct 2026.
+24 Kitchen Street is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie" on Fri, 2 Oct 2026.
 
-24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Amber Rose, Bel Cobain, Benno and Channel One Sound and 2 more. See dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
+24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Amber Rose, Bel Cobain, Benno and Channel One Sound and 2 more. See dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Wonder Pot: Unai Trotti, DMC, Luna Thee Frenchie | DMC., Luna Thee Frenchie, Unai Trotti |
 | Fri, 9 Oct 2026 | KS X Axon pres: Y U QT b2b Clouds - ANL - Liverpool | Clouds, Y U QT |
+| Sat, 10 Oct 2026 | David Rodigan: Decks & Dialogue | David Rodigan |
 | Sat, 17 Oct 2026 | Big Squeeze (Liverpool) |  |
 | Fri, 23 Oct 2026 | Conducta (all night long) | Conducta |
 | Sat, 24 Oct 2026 | Bel Cobain at 24 Kitchen St | Bel Cobain |
@@ -17,10 +18,9 @@
 | Fri, 6 Nov 2026 | Channel One Sound System UK Tour: Liverpool | Channel One Sound |
 | Fri, 20 Nov 2026 | MPH - Kitchen Street, Liverpool | MPH (1) |
 | Fri, 20 Nov 2026 | Ritual presents FROND | FROND |
-| Fri, 27 Nov 2026 | Conduit presents: Reek0, Amber Rose & Benno | Amber Rose, Benno |
 
 ## Address
 
 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom, Liverpool
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*

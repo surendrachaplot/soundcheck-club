@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - East Van location , Vancouver on Sat, 3 Oct 2026.
+Sharlese is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - East Van location , Vancouver on Sat, 3 Oct 2026.
 
 Sharlese is a techno and house artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: TBA - East Van location , Vancouver on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Sharlese is a techno and house artist based in United States of America, with 14
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

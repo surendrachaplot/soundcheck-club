@@ -1,6 +1,6 @@
 # PICCELL
 
-PICCELL is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+PICCELL is a Techno and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
 PICCELL is a techno and amapiano artist based in Angola, with 7 gigs on soundcheck across Berlin, Cologne and Wuppertal. Often billed alongside Frau Beji, Foudjo and DORITOS DJ. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ PICCELL is a techno and amapiano artist based in Angola, with 7 gigs on soundche
 
 Frau Beji, Foudjo, DORITOS DJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piccell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piccell/)*

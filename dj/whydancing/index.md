@@ -1,6 +1,6 @@
 # WHYDANCING
 
-WHYDANCING is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar du Matin, Brussels on Fri, 2 Oct 2026.
+WHYDANCING is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar du Matin, Brussels on Fri, 2 Oct 2026.
 
 WHYDANCING is a trance and techno artist, with 4 gigs on soundcheck across Barcelona and Brussels. Often billed alongside Kriika. Next up: Bar du Matin, Brussels on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ WHYDANCING is a trance and techno artist, with 4 gigs on soundcheck across Barce
 
 Kriika
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whydancing/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whydancing/)*

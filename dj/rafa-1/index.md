@@ -1,6 +1,6 @@
 # Rafa (1)
 
-Rafa (1) is a Electro and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Rafa (1) is a Electro and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Rafa is an electro and reggaeton artist, with 11 gigs on soundcheck across Berlin, Miami, Montreal and New York City and 2 more. Often billed alongside Hagel, Johnny D and MASA. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Rafa is an electro and reggaeton artist, with 11 gigs on soundcheck across Berli
 
 Hagel, Johnny D, MASA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafa-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafa-1/)*

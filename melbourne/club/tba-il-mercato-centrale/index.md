@@ -1,8 +1,8 @@
 # TBA - Il Mercato Centrale
 
-TBA - Il Mercato Centrale is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUPERSONIC FRIDAYS feat. Dale Howard (UK)" on Fri, 2 Oct 2026.
+TBA - Il Mercato Centrale is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SUPERSONIC FRIDAYS feat. Dale Howard (UK)" on Fri, 2 Oct 2026.
 
-TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Dale Howard, Etwas, FLKN and GavWhitehouse and 2 more. See dates, start times and who's playing.
+TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Andrea Guadalupi, Bambii, Dale Howard and Etwas and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -13,5 +13,6 @@ TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 5 
 | Sat, 10 Oct 2026 | Eat The Beat Saturdays | Etwas, KAAI, Korey Dobson, LULU (1), Nick Reverse, Shredder (1), Stacks, Unalome |
 | Sat, 17 Oct 2026 | Eat The Beat Saturdays | FLKN, Ghosty (1) |
 | Sat, 24 Oct 2026 | Eat The Beat Saturdays - Oct 17 feat. Laura King | HYBE, LOOQS, Laura King, Unalome |
+| Thu, 31 Dec 2026 | NYE 2026 - Eat The Beat | AK SPORTS, Andrea Guadalupi, Bambii, Etwas, HYBE, John Course, Matteo Freyrie, Roja, VLAD (Terra Firma) |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-il-mercato-centrale/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-il-mercato-centrale/)*

@@ -1,6 +1,6 @@
 # Chiara Kickdrum
 
-Chiara Kickdrum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
+Chiara Kickdrum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
 
 Chiara Kickdrum is a techno and house artist based in Australia, with 50 gigs on soundcheck across Melbourne. Often billed alongside Mike Callander, Acid Safari and DJ Kiti. Next up: Revolver Upstairs, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chiara Kickdrum is a techno and house artist based in Australia, with 50 gigs on
 
 Mike Callander, Acid Safari, DJ Kiti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*

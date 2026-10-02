@@ -1,6 +1,6 @@
 # .Paragon
 
-.Paragon is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmakoma, Belgrade on Fri, 2 Oct 2026.
+.Paragon is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmakoma, Belgrade on Fri, 2 Oct 2026.
 
 .Paragon is a techno and electronica artist based in Serbia, with 31 gigs on soundcheck across Belgrade. Often billed alongside Lollipop Janosz, Impedance and Luka Jukic. Next up: Karmakoma, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@
 
 Lollipop Janosz, Impedance, Luka Jukic
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.paragon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.paragon/)*

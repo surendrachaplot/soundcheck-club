@@ -1,6 +1,6 @@
 # Ken Spieker
 
-Ken Spieker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 3 Oct 2026.
+Ken Spieker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 3 Oct 2026.
 
 Ken Spieker is a house and garage artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Bali, Melbourne and The Hague and 1 more. Often billed alongside Cas Tang, A'DAM and AUTOFLOWER. Next up: Oosterbar, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ken Spieker is a house and garage artist based in Netherlands, with 12 gigs on s
 
 Cas Tang, A'DAM, AUTOFLOWER
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenspieker/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenspieker/)*

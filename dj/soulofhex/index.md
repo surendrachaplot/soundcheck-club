@@ -1,6 +1,6 @@
 # Soul Of Hex
 
-Soul Of Hex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
+Soul Of Hex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
 
 Soul Of Hex is a house and techno artist based in Mexico, with 30 gigs on soundcheck across Los Angeles, Mexico City, Paris and San Diego and 2 more. Often billed alongside Alena Vox, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Sunday Sunday, Mexico City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Soul Of Hex is a house and techno artist based in Mexico, with 30 gigs on soundc
 
 Alena Vox, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofhex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofhex/)*

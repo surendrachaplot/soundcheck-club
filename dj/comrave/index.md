@@ -1,6 +1,6 @@
 # Comrave
 
-Comrave is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
+Comrave is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
 Comrave is a techno and hardcore artist, with 7 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Lisbon and 3 more. Often billed alongside Amphetamax, D|K|OXY and HOTBOI2300. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Comrave is a techno and hardcore artist, with 7 gigs on soundcheck across Amster
 
 Amphetamax, D|K|OXY, HOTBOI2300
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrave/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrave/)*

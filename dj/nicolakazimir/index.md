@@ -1,6 +1,6 @@
 # Nicola Kazimir
 
-Nicola Kazimir is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oath, Tokyo on Fri, 2 Oct 2026.
+Nicola Kazimir is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oath, Tokyo on Fri, 2 Oct 2026.
 
 Nicola Kazimir is a techno and bass artist, with 23 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 4 more. Often billed alongside Alex Dallas, Audino and Bonnie OK. Next up: Oath, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nicola Kazimir is a techno and bass artist, with 23 gigs on soundcheck across Ba
 
 Alex Dallas, Audino, Bonnie OK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolakazimir/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolakazimir/)*

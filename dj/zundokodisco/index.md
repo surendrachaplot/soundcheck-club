@@ -1,6 +1,6 @@
 # ZUNDOKO DISCO
 
-ZUNDOKO DISCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
+ZUNDOKO DISCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
 
 ZUNDOKO DISCO is a techno and house artist based in Japan, with 29 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YAMARCHY, teppei and DJ Krush. Next up: MIDNIGHT EAST, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ZUNDOKO DISCO is a techno and house artist based in Japan, with 29 gigs on sound
 
 YAMARCHY, teppei, DJ Krush
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*

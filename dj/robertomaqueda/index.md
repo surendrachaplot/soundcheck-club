@@ -1,6 +1,6 @@
 # Roberto Maqueda
 
-Roberto Maqueda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+Roberto Maqueda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
 Roberto Maqueda is an experimental and techno artist based in Spain, with 8 gigs on soundcheck across Basel, Berlin, Glasgow and Helsinki and 1 more. Often billed alongside Andriy K., AXT and Agonis. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Roberto Maqueda is an experimental and techno artist based in Spain, with 8 gigs
 
 Andriy K., AXT, Agonis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*

@@ -1,6 +1,6 @@
 # MASSA (JP)
 
-MASSA (JP) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
+MASSA (JP) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
 
 MASSA (JP) is a minimal and house artist based in Japan, with 22 gigs on soundcheck across New York City, Seoul and Tokyo. Often billed alongside Junya, 135 and Yos.. Next up: WOMB, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ MASSA (JP) is a minimal and house artist based in Japan, with 22 gigs on soundch
 
 Junya, 135 (1), Yos.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massa-jp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massa-jp/)*

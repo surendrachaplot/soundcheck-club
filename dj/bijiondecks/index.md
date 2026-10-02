@@ -1,6 +1,6 @@
 # BIJI ON DECKS
 
-BIJI ON DECKS is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Wed, 30 Dec 2026.
+BIJI ON DECKS is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Wed, 30 Dec 2026.
 
 BIJI ON DECKS is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Bélavie, HANÀ and KARISH. Next up: DSTRKT Club Berlin, Berlin on Wed 30 Dec.
 
@@ -22,4 +22,4 @@ BIJI ON DECKS is a trance and techno artist based in Germany, with 6 gigs on sou
 
 Bélavie, HANÀ, KARISH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bijiondecks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bijiondecks/)*

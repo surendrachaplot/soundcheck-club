@@ -1,6 +1,6 @@
 # Odds and Ends
 
-Odds and Ends is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Shutdown (CPH): Back 2 Basics" on Fri, 2 Oct 2026.
+Odds and Ends is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Shutdown (CPH): Back 2 Basics" on Fri, 2 Oct 2026.
 
 Odds and Ends is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Sunrise Xavier. See dates, start times and who's playing. Oceanvej 1 2150 København.
 
@@ -14,4 +14,4 @@ Odds and Ends is a music venue in Copenhagen listed on soundcheck. 1 upcoming gi
 
 Oceanvej 1 2150 København, Copenhagen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/odds-and-ends/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/odds-and-ends/)*

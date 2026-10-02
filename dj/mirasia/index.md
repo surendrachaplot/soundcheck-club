@@ -1,6 +1,6 @@
 # MIRASIA
 
-MIRASIA is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nursery At Flemington, Melbourne on Fri, 1 Jan 2027.
+MIRASIA is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Nursery At Flemington, Melbourne on Fri, 1 Jan 2027.
 
 MIRASIA is a club and house artist based in Australia, with 50 gigs on soundcheck across Auckland, Berlin, Brisbane and Geneva and 3 more. Often billed alongside C.FRIM, Brown Suga Princess and HALF QUEEN. Next up: The Nursery At Flemington, Melbourne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ MIRASIA is a club and house artist based in Australia, with 50 gigs on soundchec
 
 C.FRIM, Brown Suga Princess, HALF QUEEN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*

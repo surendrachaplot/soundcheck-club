@@ -1,6 +1,6 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
+Tre Reynolds is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Tre Reynolds is a tech house and house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside AMMARA, Andhim and Armand Van Helden. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Tre Reynolds is a tech house and house artist based in United Kingdom, with 51 g
 
 AMMARA, Andhim, Armand Van Helden
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trereynolds/)*

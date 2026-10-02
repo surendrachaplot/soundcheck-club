@@ -1,6 +1,6 @@
 # GLASSBASS
 
-GLASSBASS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
+GLASSBASS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
 
 GLASSBASS is a techno and industrial artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 5 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: TBA - Secret Location, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ GLASSBASS is a techno and industrial artist based in Germany, with 51 gigs on so
 
 Gabrielle (DE), ATR DJ-TEAM, JOTAno
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glassbass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glassbass/)*

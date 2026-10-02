@@ -1,6 +1,6 @@
 # Karashnikov
 
-Karashnikov is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
+Karashnikov is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
 
 Karashnikov is a techno and industrial artist, with 19 gigs on soundcheck across Antwerp, Brussels, Budapest and Dublin and 10 more. Often billed alongside Angel Karel, Brojski and LiXaa. Next up: LA Rítmica Club, Valencia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Karashnikov is a techno and industrial artist, with 19 gigs on soundcheck across
 
 Angel Karel, Brojski, LiXaa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*

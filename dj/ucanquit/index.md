@@ -1,6 +1,6 @@
 # ucanquit
 
-ucanquit is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
+ucanquit is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
 
 ucanquit is a techno and industrial artist based in Ukraine, with 23 gigs on soundcheck across Montreal and Toronto. Often billed alongside BUYMEFLOVVERS, Karscher and MPHS. Next up: ESC, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ucanquit is a techno and industrial artist based in Ukraine, with 23 gigs on sou
 
 BUYMEFLOVVERS, Karscher, MPHS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ucanquit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ucanquit/)*

@@ -1,6 +1,6 @@
 # ADIRA
 
-ADIRA is a Pop and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+ADIRA is a Pop and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 ADIRA is a pop and latin bass artist based in Germany, with 12 gigs on soundcheck across Antwerp, Berlin, Brussels and Vienna. Often billed alongside Hassandra, T4NIT and ABADIR. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ADIRA is a pop and latin bass artist based in Germany, with 12 gigs on soundchec
 
 Hassandra, T4NIT, ABADIR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adira/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adira/)*

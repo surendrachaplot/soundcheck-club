@@ -1,6 +1,6 @@
 # DJ Knife
 
-DJ Knife is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
+DJ Knife is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
 
 DJ Knife is a deep house and house artist based in Mexico, with 22 gigs on soundcheck across Boston and Mexico City. Often billed alongside DJ OYSTER, PHONYFAKE and DJ FIASCO. Next up: Club Bermellón, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Knife is a deep house and house artist based in Mexico, with 22 gigs on sound
 
 DJ OYSTER, PHONYFAKE, DJ FIASCO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djknife/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djknife/)*

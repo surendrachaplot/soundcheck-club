@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frame, Dublin on Fri, 2 Oct 2026.
+Christian AB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Frame, Dublin on Fri, 2 Oct 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Frame, Dublin on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 32 gigs 
 
 Christian AB, Francesco Del Garda, Call Super
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

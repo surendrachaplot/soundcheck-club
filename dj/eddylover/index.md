@@ -1,6 +1,6 @@
 # Eddy Lover
 
-Eddy Lover is a Reggaeton and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Eddy Lover is a Reggaeton and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Eddy Lover is a reggaeton and dancehall artist based in Colombia, with 8 gigs on soundcheck across Barcelona, Colombia, Geneva and Mexico City. Often billed alongside AAK (MX), Andrés (otra vez) and Andy Martin. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -24,4 +24,4 @@ Eddy Lover is a reggaeton and dancehall artist based in Colombia, with 8 gigs on
 
 AAK (MX), Andrés (otra vez), Andy Martin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddylover/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddylover/)*

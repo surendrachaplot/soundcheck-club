@@ -1,6 +1,6 @@
 # Rumbler Bar
 
-Rumbler Bar is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ALLEY TUNES TAKEOVER Rumbler Bar" on Fri, 2 Oct 2026.
+Rumbler Bar is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ALLEY TUNES TAKEOVER Rumbler Bar" on Fri, 2 Oct 2026.
 
 Rumbler Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Name and MAXVEGAS. See dates, start times and who's playing. 125 Chapel St, Windsor VIC 3181.
 
@@ -15,4 +15,4 @@ Rumbler Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs,
 
 125 Chapel St, Windsor VIC 3181, Melbourne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/rumbler-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/rumbler-bar/)*

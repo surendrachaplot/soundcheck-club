@@ -1,6 +1,6 @@
 # AlFaer
 
-AlFaer is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Passos Manuel, Porto on Fri, 2 Oct 2026.
+AlFaer is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Passos Manuel, Porto on Fri, 2 Oct 2026.
 
 AlFaer is a techno and ebm artist based in Portugal, with 44 gigs on soundcheck across Barcelona, Lisbon, Porto and Warsaw. Often billed alongside Amulador, Maria Callapez and Mind Archives. Next up: Passos Manuel, Porto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ AlFaer is a techno and ebm artist based in Portugal, with 44 gigs on soundcheck 
 
 Amulador, Maria Callapez, Mind Archives
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaer/)*

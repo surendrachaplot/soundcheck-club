@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tigris, Detroit on Sat, 3 Oct 2026.
+Ani Phoebe is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tigris, Detroit on Sat, 3 Oct 2026.
 
 Ani Phoebe is a house and balearic artist, with 73 gigs on soundcheck across Bangkok, Berlin, Detroit and Helsinki and 16 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: Tigris, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ani Phoebe is a house and balearic artist, with 73 gigs on soundcheck across Ban
 
 Seelie, Vio PRG, Heels & Souls
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

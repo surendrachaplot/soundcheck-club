@@ -1,6 +1,6 @@
 # John Plaza
 
-John Plaza is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
+John Plaza is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 John Plaza is a techno and dub techno artist based in Chile, with 27 gigs on soundcheck across Barcelona, Budapest, Buenos Aires and London and 5 more. Often billed alongside Dhant, ABSIS and DJ SO. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ John Plaza is a techno and dub techno artist based in Chile, with 27 gigs on sou
 
 Dhant, ABSIS, DJ SO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnplaza/)*

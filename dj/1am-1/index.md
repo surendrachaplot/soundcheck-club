@@ -1,6 +1,6 @@
 # 1 AM (1)
 
-1 AM (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
+1 AM (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
 
 1 AM is a techno and house artist, with 45 gigs on soundcheck across Detroit, Krakow, London and Sheffield and 2 more. Often billed alongside Nadezh No, outta_8 and Aetha. Next up: Sekta Selekta, Krakow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Nadezh No, outta_8, Aetha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*

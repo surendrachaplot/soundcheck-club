@@ -1,6 +1,6 @@
 # Upside Wynwood
 
-Upside Wynwood is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUNDANCE w/ ELLA ROMAND + HANNA LEON" on Sun, 4 Oct 2026.
+Upside Wynwood is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SUNDANCE w/ ELLA ROMAND + HANNA LEON" on Sun, 4 Oct 2026.
 
 Upside Wynwood is a music venue in Miami listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 59 NW 28th St, Miami, FL 33127.
 
@@ -19,4 +19,4 @@ Upside Wynwood is a music venue in Miami listed on soundcheck. 6 upcoming gigs. 
 
 59 NW 28th St, Miami, FL 33127, Miami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/upside-wynwood/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/upside-wynwood/)*

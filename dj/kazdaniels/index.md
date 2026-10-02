@@ -1,6 +1,6 @@
 # Kaz Daniels
 
-Kaz Daniels is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dunnings 2, London on Sat, 3 Oct 2026.
+Kaz Daniels is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dunnings 2, London on Sat, 3 Oct 2026.
 
 Kaz Daniels is a garage and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Chloe K, Shenin Amara and Fatal. Next up: Dunnings 2, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kaz Daniels is a garage and house artist based in United Kingdom, with 12 gigs o
 
 Chloe K, Shenin Amara, Fatal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazdaniels/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazdaniels/)*

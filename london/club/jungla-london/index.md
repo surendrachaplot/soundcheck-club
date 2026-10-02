@@ -1,6 +1,6 @@
 # Jungla London
 
-Jungla London is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ITC Records presents AWAKEN V, Elliot Moriarty, Arterapsy, Harry Wilson" on Fri, 2 Oct 2026.
+Jungla London is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ITC Records presents AWAKEN V, Elliot Moriarty, Arterapsy, Harry Wilson" on Fri, 2 Oct 2026.
 
 Jungla London is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Arterapsy, Christian J, DJ Hybrid and Elliot Moriarty and 1 more. See dates, start times and who's playing. 22 Inverness St, London NW1 7HJ.
 
@@ -15,4 +15,4 @@ Jungla London is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 22 Inverness St, London NW1 7HJ, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*

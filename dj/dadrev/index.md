@@ -1,6 +1,6 @@
 # Dadrev
 
-Dadrev is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+Dadrev is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 Dadrev is a techno and trance artist based in United States of America, with 25 gigs on soundcheck across Berlin, Miami and Philadelphia. Often billed alongside DomnRob, PROLETAR and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dadrev is a techno and trance artist based in United States of America, with 25 
 
 DomnRob, PROLETAR, Mr. Proper
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadrev/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadrev/)*

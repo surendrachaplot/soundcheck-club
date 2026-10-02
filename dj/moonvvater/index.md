@@ -1,6 +1,6 @@
 # Moonvvater
 
-Moonvvater is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
+Moonvvater is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Moonvvater is a house and reggaeton artist, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Martinignaccio, Kasa Ma and 888Thieves. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Moonvvater is a house and reggaeton artist, with 12 gigs on soundcheck across Sa
 
 Martinignaccio, Kasa Ma, 888Thieves
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonvvater/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonvvater/)*

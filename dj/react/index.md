@@ -1,6 +1,6 @@
 # Re/Act
 
-Re/Act is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Patision65, Athens on Sat, 31 Oct 2026.
+Re/Act is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Patision65, Athens on Sat, 31 Oct 2026.
 
 Re/Act is a techno and electro artist based in Greece, with 43 gigs on soundcheck across Athens and Berlin. Often billed alongside Petros Spatharos, Bekha Mujiri and Extase Urbaine. Next up: Patision65, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Re/Act is a techno and electro artist based in Greece, with 43 gigs on soundchec
 
 Petros Spatharos, Bekha Mujiri, Extase Urbaine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*

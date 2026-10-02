@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+Ollie Lishman is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
 Ollie Lishman is a techno and trance artist based in Australia, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Ollie Lishman is a techno and trance artist based in Australia, with 130 gigs on
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

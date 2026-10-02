@@ -1,6 +1,6 @@
 # DA BOOK
 
-DA BOOK is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
+DA BOOK is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
 
 DA BOOK is a hip-hop and house artist based in Sweden, with 19 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ATAMI, DJ B2B and Mori. Next up: ZEROTOKYO, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DA BOOK is a hip-hop and house artist based in Sweden, with 19 gigs on soundchec
 
 ATAMI, DJ B2B, Mori
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabook/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabook/)*

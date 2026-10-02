@@ -1,6 +1,6 @@
 # 4D (UK)
 
-4D (UK) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+4D (UK) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 4D (UK) is a house and electro artist based in United Kingdom, with 34 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Aerofunk, Aly P and Kirwan. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -27,4 +27,4 @@
 
 Aerofunk, Aly P, Kirwan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4duk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4duk/)*

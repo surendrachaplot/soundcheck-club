@@ -1,6 +1,6 @@
 # LTJ Bukem
 
-LTJ Bukem is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+LTJ Bukem is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 LTJ Bukem is a drum & bass and jungle artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 39 more. Often billed alongside Roni Size, Ruthless and DjRUM. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LTJ Bukem is a drum & bass and jungle artist based in United Kingdom, with 101 g
 
 Roni Size, Ruthless, DjRUM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ltjbukem/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ltjbukem/)*

@@ -1,6 +1,6 @@
 # Lakeside Pavilion
 
-Lakeside Pavilion is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE" on Sat, 24 Oct 2026.
+Lakeside Pavilion is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE" on Sat, 24 Oct 2026.
 
 Lakeside Pavilion is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including BETHANY, DOREY, Kade Hoey and VANNA and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Lakeside Pavilion is a music venue in Melbourne listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE | BETHANY (1), DOREY, Kade Hoey, VANNA, Vivace (UK) |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/lakeside-pavilion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/lakeside-pavilion/)*

@@ -1,6 +1,6 @@
 # Pingpong (KR)
 
-Pingpong (KR) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
+Pingpong (KR) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
 
 Pingpong (KR) is a house and disco artist, with 42 gigs on soundcheck across Seoul. Often billed alongside Better, Adroit Joe and Gyusco. Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Pingpong (KR) is a house and disco artist, with 42 gigs on soundcheck across Seo
 
 Better, Adroit Joe, Gyusco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong-kr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong-kr/)*

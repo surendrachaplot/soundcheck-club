@@ -1,6 +1,6 @@
 # Boghian
 
-Boghian is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Boghian is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Boghian is a minimal and house artist based in Romania, with 6 gigs on soundcheck across Miami. Often billed alongside Adam Bogdan, demenz and Michelle Mavris. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Boghian is a minimal and house artist based in Romania, with 6 gigs on soundchec
 
 Adam Bogdan, demenz, Michelle Mavris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*

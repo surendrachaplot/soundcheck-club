@@ -1,6 +1,6 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sameheads, Berlin on Fri, 2 Oct 2026.
+Jan Loup is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sameheads, Berlin on Fri, 2 Oct 2026.
 
 Jan Loup is a bass and techno artist based in France, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside Maquis Son Sistèm, ojoo and A Strange Wedding. Next up: Sameheads, Berlin on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Jan Loup is a bass and techno artist based in France, with 66 gigs on soundcheck
 
 Maquis Son Sistèm, ojoo, A Strange Wedding
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*

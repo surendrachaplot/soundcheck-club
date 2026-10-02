@@ -1,6 +1,6 @@
 # Resident Denver
 
-Resident Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Racket Club at Resident" on Fri, 2 Oct 2026.
+Resident Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Racket Club at Resident" on Fri, 2 Oct 2026.
 
 Resident Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including 19:26 and Racket Club. See dates, start times and who's playing. 1037 N Broadway, Denver CO 80205.
 
@@ -15,4 +15,4 @@ Resident Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs
 
 1037 N Broadway, Denver CO 80205, Denver
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/resident-denver/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/resident-denver/)*

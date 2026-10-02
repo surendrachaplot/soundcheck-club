@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NEON DREAMS COLOGNE" on Fri, 2 Oct 2026.
+Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NEON DREAMS COLOGNE" on Fri, 2 Oct 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, Alalkih, Amøn and Blame The Mono and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -20,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

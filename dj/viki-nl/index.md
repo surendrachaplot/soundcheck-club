@@ -1,6 +1,6 @@
 # VIKI
 
-VIKI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paramour, Brussels on Fri, 9 Oct 2026.
+VIKI is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paramour, Brussels on Fri, 9 Oct 2026.
 
 VIKI is a drum & bass and techno artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Barmus, 1991 and Amperia. Next up: Paramour, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ VIKI is a drum & bass and techno artist based in Germany, with 12 gigs on soundc
 
 Barmus, 1991, Amperia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viki-nl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viki-nl/)*

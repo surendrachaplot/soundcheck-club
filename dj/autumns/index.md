@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club K, Galway on Fri, 2 Oct 2026.
+Autumns is a Industrial and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Club K, Galway on Fri, 2 Oct 2026.
 
 Autumns is an industrial and techno artist based in Ireland, with 36 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 12 more. Often billed alongside Kahn, Batu and CCL. Next up: TBA - Club K, Galway on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Autumns is an industrial and techno artist based in Ireland, with 36 gigs on sou
 
 Kahn, Batu, CCL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

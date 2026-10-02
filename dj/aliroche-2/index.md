@@ -1,6 +1,6 @@
 # Ali Roche (2)
 
-Ali Roche (2) is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
+Ali Roche (2) is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
 
 Ali Roche is a bass and trance artist based in Ireland, with 7 gigs on soundcheck across Manchester. Often billed alongside blo rida, Club Penguin and Anop. Next up: Stage and Radio, Manchester on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Ali Roche is a bass and trance artist based in Ireland, with 7 gigs on soundchec
 
 blo rida, Club Penguin, Anop
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliroche-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliroche-2/)*

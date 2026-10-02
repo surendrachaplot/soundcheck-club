@@ -1,6 +1,6 @@
 # Berenice
 
-Berenice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
+Berenice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
 
 Berenice is a techno and house artist based in Spain, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside ISAbella, JOVENDELAPERLA and Mama Yha Yha. Next up: Acud Macht NEU, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Berenice is a techno and house artist based in Spain, with 55 gigs on soundcheck
 
 ISAbella, JOVENDELAPERLA, Mama Yha Yha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berenice/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berenice/)*

@@ -1,6 +1,6 @@
 # The Marquee Moon
 
-The Marquee Moon is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "A Night For Crisis" on Fri, 2 Oct 2026.
+The Marquee Moon is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "A Night For Crisis" on Fri, 2 Oct 2026.
 
 The Marquee Moon is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Babyccino, Jack Love, Joey Fontaine and Lucy Lennox and 2 more. See dates, start times and who's playing. 48 Stoke Newington Road, N16 7XJ.
 
@@ -16,4 +16,4 @@ The Marquee Moon is a music venue in London listed on soundcheck. 3 upcoming gig
 
 48 Stoke Newington Road, N16 7XJ, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*

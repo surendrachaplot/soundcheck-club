@@ -1,6 +1,6 @@
 # Matt Star
 
-Matt Star is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 24 Oct 2026.
+Matt Star is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 24 Oct 2026.
 
 Matt Star is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Frankfurt and Prague. Often billed alongside Robert Drewek, Dana Ruh and Move D. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Matt Star is a house and techno artist based in Germany, with 21 gigs on soundch
 
 Robert Drewek, Dana Ruh, Move D
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattstar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattstar/)*

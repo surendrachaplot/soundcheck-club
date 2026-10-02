@@ -1,6 +1,6 @@
 # AMVN
 
-AMVN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rotunde, Bochum on Sat, 10 Oct 2026.
+AMVN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rotunde, Bochum on Sat, 10 Oct 2026.
 
 AMVN is a techno and trance artist based in Morocco, with 6 gigs on soundcheck across Bochum, Frankfurt and London. Often billed alongside A.T.E.K, Ahadadream and Anil (UK). Next up: Rotunde, Bochum on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ AMVN is a techno and trance artist based in Morocco, with 6 gigs on soundcheck a
 
 A.T.E.K, Ahadadream, Anil (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amvn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amvn/)*

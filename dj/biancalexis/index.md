@@ -1,6 +1,6 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 2 Oct 2026.
+Bianca Lexis is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Bianca Lexis is a house and electronica artist based in United States of America, with 56 gigs on soundcheck across London, Los Angeles, Madrid and Melbourne and 8 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Bar Part Time, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Bianca Lexis is a house and electronica artist based in United States of America
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

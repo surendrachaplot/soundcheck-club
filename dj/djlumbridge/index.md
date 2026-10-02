@@ -1,6 +1,6 @@
 # DJ LUMBRIDGE
 
-DJ LUMBRIDGE is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
+DJ LUMBRIDGE is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
 
 DJ LUMBRIDGE is a techno and uk funky artist based in United Kingdom, with 9 gigs on soundcheck across Leeds. Often billed alongside IDACARE, SICNOTE and EDGE (UK). Next up: Headrow House, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ LUMBRIDGE is a techno and uk funky artist based in United Kingdom, with 9 gig
 
 IDACARE, SICNOTE, EDGE (UK) (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumbridge/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumbridge/)*

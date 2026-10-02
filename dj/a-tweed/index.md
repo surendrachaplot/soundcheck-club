@@ -1,6 +1,6 @@
 # A-Tweed
 
-A-Tweed is a Downtempo and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
+A-Tweed is a Downtempo and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
 
 A-Tweed is a downtempo and acid artist based in Italy, with 38 gigs on soundcheck across Barcelona, Berlin, Brussels and Cologne and 10 more. Often billed alongside Collider, DJ Very Good Plus and Fukinsei. Next up: MIDNIGHT EAST, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ A-Tweed is a downtempo and acid artist based in Italy, with 38 gigs on soundchec
 
 Collider, DJ Very Good Plus, Fukinsei
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*

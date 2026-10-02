@@ -1,6 +1,6 @@
 # JAGU4R
 
-JAGU4R is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lore, Atlanta on Fri, 2 Oct 2026.
+JAGU4R is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lore, Atlanta on Fri, 2 Oct 2026.
 
 JAGU4R is a techno and trance artist, with 8 gigs on soundcheck across Atlanta, New York City and Washington DC. Often billed alongside Amarji King, Cyb3r Bull and DJ Firmeza. Next up: Lore, Atlanta on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ JAGU4R is a techno and trance artist, with 8 gigs on soundcheck across Atlanta, 
 
 Amarji King, Cyb3r Bull, DJ Firmeza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jagu4r/)*

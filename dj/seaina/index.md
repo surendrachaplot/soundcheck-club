@@ -1,6 +1,6 @@
 # Seaina
 
-Seaina is a Ambient and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
+Seaina is a Ambient and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
 
 Seaina is an ambient and balearic artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside TRIXYTRICKS, Ghidra and INFRABABY. Next up: Razzmatazz, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Seaina is an ambient and balearic artist based in Spain, with 11 gigs on soundch
 
 TRIXYTRICKS, Ghidra, INFRABABY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seaina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seaina/)*

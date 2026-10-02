@@ -1,6 +1,6 @@
 # Gefra
 
-Gefra is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Focà London, London on Sat, 3 Oct 2026.
+Gefra is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Focà London, London on Sat, 3 Oct 2026.
 
 Gefra is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Barcelona, Ibiza and London. Often billed alongside Colaps, VENERE and MAÏS. Next up: TBA - Focà London, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gefra is a house and disco artist based in United Kingdom, with 24 gigs on sound
 
 Colaps, VENERE, MAÏS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gefra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gefra/)*

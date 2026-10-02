@@ -1,6 +1,6 @@
 # FASHION (US)
 
-FASHION (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
+FASHION (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
 
 FASHION (US) is a techno and club artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Makadsi, Memphy and Sausha. Next up: BASEMENT, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ FASHION (US) is a techno and club artist based in United States of America, with
 
 Makadsi, Memphy, Sausha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*

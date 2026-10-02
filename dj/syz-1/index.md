@@ -1,6 +1,6 @@
 # Syz
 
-Syz is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ballroom at Palais, London on Fri, 2 Oct 2026.
+Syz is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ballroom at Palais, London on Fri, 2 Oct 2026.
 
 Syz is a techno and bass artist, with 47 gigs on soundcheck across Berlin, Bristol, Copenhagen and Edinburgh and 6 more. Often billed alongside Allecto, Dj wiggles and Dyslecta. Next up: Ballroom at Palais, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Syz is a techno and bass artist, with 47 gigs on soundcheck across Berlin, Brist
 
 Allecto, Dj wiggles, Dyslecta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syz-1/)*

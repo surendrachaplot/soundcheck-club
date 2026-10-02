@@ -1,6 +1,6 @@
 # Chris Stevo
 
-Chris Stevo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
+Chris Stevo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
 Chris Stevo is a house and tech house artist based in Australia, with 18 gigs on soundcheck across Sydney. Often billed alongside Miliard, A.Well and Alternate State. Next up: Stanley's, Sydney on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Chris Stevo is a house and tech house artist based in Australia, with 18 gigs on
 
 Miliard, A.Well, Alternate State
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*

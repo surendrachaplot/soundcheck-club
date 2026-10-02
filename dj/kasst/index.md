@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNLOCKED, London on Fri, 2 Oct 2026.
+KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNLOCKED, London on Fri, 2 Oct 2026.
 
 KAS:ST is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: UNLOCKED, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ KAS:ST is a techno and house artist based in France, with 91 gigs on soundcheck 
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

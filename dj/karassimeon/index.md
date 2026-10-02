@@ -1,6 +1,6 @@
 # Karassimeon
 
-Karassimeon is a EBM and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Club, Berlin on Fri, 2 Oct 2026.
+Karassimeon is a EBM and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 Karassimeon is an ebm and italo disco artist based in France, with 17 gigs on soundcheck across Berlin, Brussels, Lyon and Nantes and 4 more. Often billed alongside Kendal, Andi and Melanie Havens. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Karassimeon is an ebm and italo disco artist based in France, with 17 gigs on so
 
 Kendal, Andi, Melanie Havens
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karassimeon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karassimeon/)*

@@ -1,6 +1,6 @@
 # Louie G
 
-Louie G is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
+Louie G is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
 
 Louie G is an electro and techno artist based in United Kingdom, with 80 gigs on soundcheck across Barcelona, Berlin, Bucharest and Glasgow and 9 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: 1520, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Louie G is an electro and techno artist based in United Kingdom, with 80 gigs on
 
 Ryan Ingleby, Ethan McNamara, DMC.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*

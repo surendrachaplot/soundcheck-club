@@ -1,6 +1,6 @@
 # Ralph Lawson
 
-Ralph Lawson is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
+Ralph Lawson is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 Ralph Lawson is a house and deep house artist based in United Kingdom, with 48 gigs on soundcheck across Barcelona, Birmingham, Bristol and Buenos Aires and 9 more. Often billed alongside Graeme Park, Alex Wolfenden and B.Love. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ralph Lawson is a house and deep house artist based in United Kingdom, with 48 g
 
 Graeme Park, Alex Wolfenden, B.Love
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*

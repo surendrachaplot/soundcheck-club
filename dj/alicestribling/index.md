@@ -1,6 +1,6 @@
 # ALICE STRIBLING
 
-ALICE STRIBLING is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at White Horse Inn, San Francisco/Oakland on Fri, 16 Oct 2026.
+ALICE STRIBLING is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at White Horse Inn, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 ALICE STRIBLING is an electronica and house artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Charles Hawthorne, Bored Lord and Del. Next up: White Horse Inn, San Francisco/Oakland on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ ALICE STRIBLING is an electronica and house artist based in United States of Ame
 
 Charles Hawthorne, Bored Lord, Del (4)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicestribling/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicestribling/)*

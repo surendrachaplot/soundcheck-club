@@ -1,6 +1,6 @@
 # DJBstone
 
-DJBstone is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kilowatt Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
+DJBstone is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kilowatt Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 DJBstone is a techno and latin bass artist based in United States of America, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside @djlobottomy, AMBAR F. MARQUEZ and DJ Mutant Otter. Next up: Kilowatt Bar, San Francisco/Oakland on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ DJBstone is a techno and latin bass artist based in United States of America, wi
 
 @djlobottomy, AMBAR F. MARQUEZ, DJ Mutant Otter
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbstone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbstone/)*

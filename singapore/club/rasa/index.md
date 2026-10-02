@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RASA presents YELLOWUHURU (JP) & Isabel Soto (DE)" on Fri, 2 Oct 2026.
+RASA is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RASA presents YELLOWUHURU (JP) & Isabel Soto (DE)" on Fri, 2 Oct 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with line-ups including A'alely, Alam, Dan Stezo and dBridge and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ RASA is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with l
 | Fri, 30 Oct 2026 | RASA x The Deep End presents Temple of Dance with Patrice Bäumel | Patrice Bäumel |
 | Sat, 7 Nov 2026 | Lee Burridge - Singapore 2026 | Lee Burridge |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

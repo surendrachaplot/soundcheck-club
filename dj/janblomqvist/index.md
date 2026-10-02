@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Jan Blomqvist is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
 Jan Blomqvist is a deep house and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Jan Blomqvist is a deep house and house artist based in Germany, with 134 gigs o
 
 Bedouin, WhoMadeWho, Colyn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

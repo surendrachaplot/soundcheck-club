@@ -1,6 +1,6 @@
 # Yebisu303
 
-Yebisu303 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 14 Nov 2026.
+Yebisu303 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 14 Nov 2026.
 
 Yebisu303 is a techno and house artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Atsushi Asada. Next up: Nakano Heavysick Zero, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yebisu303 is a techno and house artist based in Japan, with 14 gigs on soundchec
 
 BEPPU, Q'hey, Atsushi Asada
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yebisu303-jp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yebisu303-jp/)*

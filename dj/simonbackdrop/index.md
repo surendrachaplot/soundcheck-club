@@ -1,6 +1,6 @@
 # Simon (Backdrop)
 
-Simon (Backdrop) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
+Simon (Backdrop) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Simon (Backdrop) is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Frankfurt, Rio De Janeiro and Sydney and 1 more. Often billed alongside House Violence, Chika Luna and LiaRako. Next up: TBA - Centro, Rio De Janeiro on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Simon (Backdrop) is a techno and house artist based in United Kingdom, with 14 g
 
 House Violence, Chika Luna, LiaRako
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbackdrop/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbackdrop/)*

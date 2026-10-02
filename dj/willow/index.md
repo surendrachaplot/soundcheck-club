@@ -1,6 +1,6 @@
 # Willow
 
-Willow is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 10 Oct 2026.
+Willow is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 10 Oct 2026.
 
 Willow is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: Collect LX Factory, Lisbon on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Willow is a house and techno artist based in United Kingdom, with 127 gigs on so
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

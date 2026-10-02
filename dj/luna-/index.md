@@ -1,6 +1,6 @@
 # Luna*
 
-Luna* is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
+Luna* is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
 
 Luna* is a house and disco artist, with 11 gigs on soundcheck across Kanto, London and Tokyo. Often billed alongside DQ Sakura, DJ ZiL and CATRONICA. Next up: TBA, Kanto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luna* is a house and disco artist, with 11 gigs on soundcheck across Kanto, Lond
 
 DQ Sakura, DJ ZiL, CATRONICA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-/)*

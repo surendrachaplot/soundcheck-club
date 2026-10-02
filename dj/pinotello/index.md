@@ -1,6 +1,6 @@
 # Pinotello
 
-Pinotello is a Hardcore and Gabber artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 2 Oct 2026.
+Pinotello is a Hardcore and Gabber artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 2 Oct 2026.
 
 Pinotello is a hardcore and gabber artist based in Netherlands, with 26 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 8 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: Complex Maastricht, Netherlands on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Pinotello is a hardcore and gabber artist based in Netherlands, with 26 gigs on 
 
 The Dark Horror, Lekkerfaces, Major Conspiracy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*

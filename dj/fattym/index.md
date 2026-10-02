@@ -1,6 +1,6 @@
 # Fatty M
 
-Fatty M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Fatty M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Fatty M is a techno and house artist based in Czech Republic, with 62 gigs on soundcheck across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Fatty M is a techno and house artist based in Czech Republic, with 62 gigs on so
 
 S.Tian, Teresi, Raketa95
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*

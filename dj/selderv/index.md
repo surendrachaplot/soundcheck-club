@@ -1,6 +1,6 @@
 # Selderv
 
-Selderv is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MODULE, Copenhagen on Fri, 2 Oct 2026.
+Selderv is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MODULE, Copenhagen on Fri, 2 Oct 2026.
 
 Selderv is a techno and house artist, with 21 gigs on soundcheck across Copenhagen and Istanbul. Often billed alongside Baime, Kipp and SCHAARUP. Next up: MODULE, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Selderv is a techno and house artist, with 21 gigs on soundcheck across Copenhag
 
 Baime, Kipp, SCHAARUP
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selderv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selderv/)*

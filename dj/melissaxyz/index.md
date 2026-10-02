@@ -1,6 +1,6 @@
 # Melissa XYZ
 
-Melissa XYZ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Melissa XYZ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 Melissa XYZ is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside 19:26, Rïa Mehta and SunrYse. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Melissa XYZ is a house and deep house artist based in United States of America, 
 
 19:26, Rïa Mehta, SunrYse
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melissaxyz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melissaxyz/)*

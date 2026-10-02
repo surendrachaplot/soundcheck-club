@@ -1,6 +1,6 @@
 # Baumann
 
-Baumann is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Locke, Hamburg on Sat, 10 Oct 2026.
+Baumann is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Locke, Hamburg on Sat, 10 Oct 2026.
 
 Baumann is a tech house and house artist based in Germany, with 6 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside CiKi, Dr. Motte and Gabriel Padrevita. Next up: Locke, Hamburg on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Baumann is a tech house and house artist based in Germany, with 6 gigs on soundc
 
 CiKi, Dr. Motte, Gabriel Padrevita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baumann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baumann/)*

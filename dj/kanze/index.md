@@ -1,6 +1,6 @@
 # KANZE
 
-KANZE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moondog Hifi, New York City on Fri, 2 Oct 2026.
+KANZE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moondog Hifi, New York City on Fri, 2 Oct 2026.
 
 KANZE is a house and techno artist based in France, with 39 gigs on soundcheck across New York City. Often billed alongside DBL_BBL, Jack Tonelli and Celebrity Bitcrush. Next up: Moondog Hifi, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KANZE is a house and techno artist based in France, with 39 gigs on soundcheck a
 
 DBL_BBL, Jack Tonelli, Celebrity Bitcrush
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanze/)*

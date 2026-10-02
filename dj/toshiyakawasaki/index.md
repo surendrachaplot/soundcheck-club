@@ -1,6 +1,6 @@
 # Toshiya Kawasaki
 
-Toshiya Kawasaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mitsuki, Tokyo on Fri, 2 Oct 2026.
+Toshiya Kawasaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mitsuki, Tokyo on Fri, 2 Oct 2026.
 
 Toshiya Kawasaki is a house and techno artist based in Japan, with 50 gigs on soundcheck across Copenhagen, Denver, Hong Kong and Los Angeles and 12 more. Often billed alongside Kuniyuki, KZA and Shinya Okamoto. Next up: Mitsuki, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Toshiya Kawasaki is a house and techno artist based in Japan, with 50 gigs on so
 
 Kuniyuki, KZA, Shinya Okamoto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyakawasaki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyakawasaki/)*

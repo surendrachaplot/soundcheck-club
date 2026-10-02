@@ -1,6 +1,6 @@
 # lu:ka
 
-lu:ka is a EBM and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
+lu:ka is a EBM and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
 
 lu:ka is an ebm and electronica artist based in Serbia, with 15 gigs on soundcheck across Belgrade. Often billed alongside tsola, Ali Guney and Edin (Oma). Next up: Drugstore Beograd, Belgrade on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ lu:ka is an ebm and electronica artist based in Serbia, with 15 gigs on soundche
 
 tsola, Ali Guney, Edin (Oma)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luka/)*

@@ -1,6 +1,6 @@
 # NATURTALENT
 
-NATURTALENT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MTW, Frankfurt on Fri, 2 Oct 2026.
+NATURTALENT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
 NATURTALENT is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Frankfurt and Leipzig. Often billed alongside The Belgian Stallion, ANN-LUX and DeGuzman. Next up: MTW, Frankfurt on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ NATURTALENT is a techno and trance artist based in Germany, with 8 gigs on sound
 
 The Belgian Stallion, ANN-LUX, DeGuzman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturtalent/)*

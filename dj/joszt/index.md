@@ -1,6 +1,6 @@
 # JO SZT
 
-JO SZT is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
+JO SZT is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
 
 JO SZT is a house and electro artist based in France, with 15 gigs on soundcheck across Barcelona, Berlin, Lyon and Marseille and 2 more. Often billed alongside Atree, ALINA and KERN1000. Next up: Nido Marseille, Marseille on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JO SZT is a house and electro artist based in France, with 15 gigs on soundcheck
 
 Atree, ALINA (3), KERN1000
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joszt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joszt/)*

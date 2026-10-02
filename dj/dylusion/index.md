@@ -1,6 +1,6 @@
 # DYLUSION
 
-DYLUSION is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
+DYLUSION is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
 
 DYLUSION is a techno and club artist, with 19 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside Beverly Chills, Papa Xanny and nonsuit. Next up: Podlasie Club, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DYLUSION is a techno and club artist, with 19 gigs on soundcheck across Chicago 
 
 Beverly Chills, Papa Xanny, nonsuit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylusion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylusion/)*

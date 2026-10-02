@@ -1,6 +1,6 @@
 # Lovellious
 
-Lovellious is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Miso, Newcastle on Fri, 16 Oct 2026.
+Lovellious is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Miso, Newcastle on Fri, 16 Oct 2026.
 
 Lovellious is a house and broken beat artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bristol, London and Newcastle. Often billed alongside Santa Leticia, PIP. and ROSIE. Next up: Miso, Newcastle on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lovellious is a house and broken beat artist based in United Kingdom, with 14 gi
 
 Santa Leticia, PIP., ROSIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovellious/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovellious/)*

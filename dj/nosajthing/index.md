@@ -1,6 +1,6 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+Nosaj Thing is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
 Nosaj Thing is a techno and experimental artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 28 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Nosaj Thing is a techno and experimental artist based in United States of Americ
 
 Jacques Greene, Daito Manabe, Chloé Caillet
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*

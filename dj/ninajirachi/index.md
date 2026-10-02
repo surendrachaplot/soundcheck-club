@@ -1,8 +1,8 @@
 # Ninajirachi
 
-Ninajirachi is a Pop and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Franklin Music Hall, Philadelphia on Fri, 2 Oct 2026.
+Ninajirachi is a Pop and Club artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Franklin Music Hall, Philadelphia on Fri, 2 Oct 2026.
 
-Ninajirachi is a pop and club artist based in Australia, with 60 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Franklin Music Hall, Philadelphia on Fri 2 Oct.
+Ninajirachi is a pop and club artist based in Australia, with 61 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 27 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Franklin Music Hall, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ninajirachi is a pop and club artist based in Australia, with 60 gigs on soundch
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
+| Sun, 10 Jan 2027 | Radius | Chicago |
 | Sat, 23 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -29,4 +30,4 @@ Ninajirachi is a pop and club artist based in Australia, with 60 gigs on soundch
 
 umru, Izzy Camina, KAVARI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

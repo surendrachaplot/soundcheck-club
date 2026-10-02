@@ -1,6 +1,6 @@
 # Arty
 
-Arty is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
+Arty is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
 
 Arty is a house and progressive house artist based in Russia, with 32 gigs on soundcheck across Bangkok, Boston, Chicago and Denver and 10 more. Often billed alongside Jartley, Binyamhn and Eli Shaw. Next up: Distrikt, Leeds on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Arty is a house and progressive house artist based in Russia, with 32 gigs on so
 
 Jartley, Binyamhn, Eli Shaw
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty/)*

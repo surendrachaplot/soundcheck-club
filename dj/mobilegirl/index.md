@@ -1,6 +1,6 @@
 # Mobilegirl
 
-Mobilegirl is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground, London on Sat, 14 Nov 2026.
+Mobilegirl is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground, London on Sat, 14 Nov 2026.
 
 Mobilegirl is a club and bass artist, with 69 gigs on soundcheck across Amsterdam, Basel, Berlin and Brisbane and 15 more. Often billed alongside Nico Adomako, Kanucia and Why Be. Next up: Village Underground, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mobilegirl is a club and bass artist, with 69 gigs on soundcheck across Amsterda
 
 Nico Adomako, Kanucia, Why Be
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*

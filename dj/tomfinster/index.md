@@ -1,6 +1,6 @@
 # Tom Finster
 
-Tom Finster is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
+Tom Finster is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
 
 Tom Finster is a drum & bass and dubstep artist, with 7 gigs on soundcheck across Brighton, Budapest, Hamburg and Leipzig and 3 more. Often billed alongside Blooom, Bandulera and Bensley. Next up: Onyx (E1), London on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Tom Finster is a drum & bass and dubstep artist, with 7 gigs on soundcheck acros
 
 Blooom, Bandulera, Bensley
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*

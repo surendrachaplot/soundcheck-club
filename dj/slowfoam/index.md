@@ -1,6 +1,6 @@
 # Slowfoam
 
-Slowfoam is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 90mil, Berlin on Sun, 11 Oct 2026.
+Slowfoam is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 90mil, Berlin on Sun, 11 Oct 2026.
 
 Slowfoam is an experimental and club artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Conna Haraway, Avsluta and Dylan Kerr. Next up: 90mil, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Slowfoam is an experimental and club artist based in United States of America, w
 
 Conna Haraway, Avsluta, Dylan Kerr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*

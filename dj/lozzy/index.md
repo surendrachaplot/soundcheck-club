@@ -1,6 +1,6 @@
 # Lozzy
 
-Lozzy is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
+Lozzy is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
 
 Lozzy is an uk funky and bass artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Riel, Tibor and Bushbby. Next up: Club Cheek, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lozzy is an uk funky and bass artist based in United Kingdom, with 9 gigs on sou
 
 Riel, Tibor, Bushbby
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lozzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lozzy/)*

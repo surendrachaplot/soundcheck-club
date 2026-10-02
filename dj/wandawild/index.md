@@ -1,6 +1,6 @@
 # Wanda Wild
 
-Wanda Wild is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Wanda Wild is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Wanda Wild is a techno and tech house artist based in Germany, with 72 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Moritz Butschek, Rad.Lez and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Wanda Wild is a techno and tech house artist based in Germany, with 72 gigs on s
 
 Moritz Butschek, Rad.Lez, Maurice Mino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*

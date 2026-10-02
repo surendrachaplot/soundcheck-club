@@ -1,6 +1,6 @@
 # Baltra
 
-Baltra is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
+Baltra is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
 
 Baltra is a house and techno artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Flash, Washington DC on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Baltra is a house and techno artist based in United States of America, with 88 g
 
 dj poolboi, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*

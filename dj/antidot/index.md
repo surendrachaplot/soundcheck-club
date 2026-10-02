@@ -1,6 +1,6 @@
 # Antidot
 
-Antidot is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Antidot is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Antidot is a techno and acid artist based in Germany, with 7 gigs on soundcheck across Brussels, Ghent, Ibiza and Lyon and 1 more. Often billed alongside DICA (FR), Maz (BR) and AJNA. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Antidot is a techno and acid artist based in Germany, with 7 gigs on soundcheck 
 
 DICA (FR), Maz (BR), AJNA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antidot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antidot/)*

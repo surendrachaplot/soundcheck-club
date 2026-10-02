@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RANDALE IM FUNDI" on Fri, 2 Oct 2026.
+Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RANDALE IM FUNDI" on Fri, 2 Oct 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, w
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

@@ -1,6 +1,6 @@
 # Adam F
 
-Adam F is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Adam F is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
 Adam F is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Birmingham, Budapest, Liverpool and London and 5 more. Often billed alongside Harry Shotta, Krust and 2Shy MC. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Adam F is a drum & bass and jungle artist based in United Kingdom, with 15 gigs 
 
 Harry Shotta, Krust, 2Shy MC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*

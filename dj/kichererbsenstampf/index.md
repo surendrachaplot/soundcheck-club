@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Neue Welle, Leipzig on Sat, 10 Oct 2026.
+kichererbsenstampf is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Neue Welle, Leipzig on Sat, 10 Oct 2026.
 
 kichererbsenstampf is a trance and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside VLUNA, DJ Schnürschuh and Jaszaloth. Next up: Neue Welle, Leipzig on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ kichererbsenstampf is a trance and techno artist based in Germany, with 43 gigs 
 
 VLUNA, DJ Schnürschuh, Jaszaloth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

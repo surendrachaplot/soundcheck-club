@@ -1,6 +1,6 @@
 # CRKS290
 
-CRKS290 is a Electro and Dembow artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
+CRKS290 is a Electro and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
 
 CRKS290 is an electro and dembow artist based in Spain, with 46 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Umami, BRAVA and Umami (ES). Next up: Sala Siroco, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CRKS290 is an electro and dembow artist based in Spain, with 46 gigs on soundche
 
 Umami, BRAVA, Umami (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crks290/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crks290/)*

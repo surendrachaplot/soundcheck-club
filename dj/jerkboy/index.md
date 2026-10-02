@@ -1,6 +1,6 @@
 # Jerk Boy
 
-Jerk Boy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Jerk Boy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Jerk Boy is a house and disco artist based in Australia, with 21 gigs on soundcheck across Amsterdam, Sydney and Tokyo. Often billed alongside Oscar de Lima, Mimi J and CA LOU. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jerk Boy is a house and disco artist based in Australia, with 21 gigs on soundch
 
 Oscar de Lima, Mimi J, CA LOU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerkboy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerkboy/)*

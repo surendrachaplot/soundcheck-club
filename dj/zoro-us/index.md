@@ -1,6 +1,6 @@
 # zoro!
 
-zoro! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Honey's, New York City on Fri, 9 Oct 2026.
+zoro! is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Honey's, New York City on Fri, 9 Oct 2026.
 
 zoro! is a techno and house artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside KYRUH, dj s and fleet.dreams. Next up: Honey's, New York City on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ zoro! is a techno and house artist based in United States of America, with 8 gig
 
 KYRUH, dj s (7), fleet.dreams
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoro-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoro-us/)*

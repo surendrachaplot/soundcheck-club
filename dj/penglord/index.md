@@ -1,6 +1,6 @@
 # Penglord
 
-Penglord is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
+Penglord is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
 
 Penglord is a techno and house artist based in Germany, with 67 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Monarch, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Penglord is a techno and house artist based in Germany, with 67 gigs on soundche
 
 P.Vanillaboy, EliaHaze, Hello Sasy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*

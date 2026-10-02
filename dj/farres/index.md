@@ -1,6 +1,6 @@
 # Farres
 
-Farres is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Sat, 31 Oct 2026.
+Farres is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sat, 31 Oct 2026.
 
 Farres is a house and electro artist based in Spain, with 27 gigs on soundcheck across Athens, Barcelona, Ibiza and Lisbon. Often billed alongside Breezywav, Jean Bressan and Lina Prey. Next up: Macarena Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Farres is a house and electro artist based in Spain, with 27 gigs on soundcheck 
 
 Breezywav, Jean Bressan, Lina Prey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farres/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farres/)*

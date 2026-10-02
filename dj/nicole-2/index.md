@@ -1,6 +1,6 @@
 # Nicole.
 
-Nicole. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Nicole. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Nicole. is a techno and house artist based in Georgia, with 52 gigs on soundcheck across Berlin, Bucharest, Copenhagen and Hamburg and 5 more. Often billed alongside DJ Troy, Bekuchi and NX. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nicole. is a techno and house artist based in Georgia, with 52 gigs on soundchec
 
 DJ Troy, Bekuchi, NX (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*

@@ -1,6 +1,6 @@
 # Skrimor
 
-Skrimor is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Salzhaus, Zurich on Sat, 3 Oct 2026.
+Skrimor is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Salzhaus, Zurich on Sat, 3 Oct 2026.
 
 Skrimor is a drum & bass artist based in Poland, with 8 gigs on soundcheck across Athens, Cologne, London and Prague and 2 more. Often billed alongside Neonlight, Phace and Shmido. Next up: Salzhaus, Zurich on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Skrimor is a drum & bass artist based in Poland, with 8 gigs on soundcheck acros
 
 Neonlight, Phace, Shmido
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*

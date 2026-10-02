@@ -1,6 +1,6 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Charades XIV feat. Ogazón b2b U-Khan" on Sat, 3 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Charades XIV feat. Ogazón b2b U-Khan" on Sat, 3 Oct 2026.
 
 Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Black Dave and Craig McWhinney and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
@@ -19,4 +19,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

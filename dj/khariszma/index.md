@@ -1,6 +1,6 @@
 # khariszma
 
-khariszma is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+khariszma is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 khariszma is a drum & bass and jungle artist based in United States of America, with 57 gigs on soundcheck across Iowa, Portland and San Francisco/Oakland. Often billed alongside duchess, mf mama and Jamal. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ khariszma is a drum & bass and jungle artist based in United States of America, 
 
 duchess, mf mama, Jamal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khariszma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khariszma/)*

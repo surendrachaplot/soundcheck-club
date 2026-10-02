@@ -1,6 +1,6 @@
 # Ninetoes
 
-Ninetoes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Paradise Now, Düsseldorf on Sat, 14 Nov 2026.
+Ninetoes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Paradise Now, Düsseldorf on Sat, 14 Nov 2026.
 
 Ninetoes is a house and tech house artist, with 24 gigs on soundcheck across Berlin, Chicago, Copenhagen and Düsseldorf and 11 more. Often billed alongside Ale Castro, Alex Clavijo and Alexander Maier. Next up: The Paradise Now, Düsseldorf on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ninetoes is a house and tech house artist, with 24 gigs on soundcheck across Ber
 
 Ale Castro, Alex Clavijo, Alexander Maier
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninetoes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninetoes/)*

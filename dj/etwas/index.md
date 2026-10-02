@@ -1,14 +1,15 @@
 # Etwas
 
-Etwas is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
+Etwas is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
 
-Etwas is a techno and tech house artist based in Australia, with 76 gigs on soundcheck across Melbourne. Often billed alongside Matteo Freyrie, Lisa May and Ophelie Mercury. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 10 Oct.
+Etwas is a techno and tech house artist based in Australia, with 77 gigs on soundcheck across Melbourne. Often billed alongside Matteo Freyrie, Lisa May and Ophelie Mercury. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
+| Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Etwas is a techno and tech house artist based in Australia, with 76 gigs on soun
 
 Matteo Freyrie, Lisa May, Ophelie Mercury
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etwas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etwas/)*

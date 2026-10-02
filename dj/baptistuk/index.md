@@ -1,6 +1,6 @@
 # Baptist (UK)
 
-Baptist (UK) is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Colour Factory, London on Fri, 23 Oct 2026.
+Baptist (UK) is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Colour Factory, London on Fri, 23 Oct 2026.
 
 Baptist (UK) is a hardcore and techno artist based in United Kingdom, with 37 gigs on soundcheck across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: Colour Factory, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Baptist (UK) is a hardcore and techno artist based in United Kingdom, with 37 gi
 
 Synapsefirer, Lau.tastic, Dres Codex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*

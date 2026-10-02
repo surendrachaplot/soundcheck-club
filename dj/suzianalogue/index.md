@@ -1,6 +1,6 @@
 # Suzi Analogue
 
-Suzi Analogue is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
+Suzi Analogue is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
 
 Suzi Analogue is a club and experimental artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Brussels, Detroit and London and 8 more. Often billed alongside Le Poodle, Nsasi and AK (US). Next up: The Ground at Club Space, Miami on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Suzi Analogue is a club and experimental artist based in United States of Americ
 
 Le Poodle, Nsasi, AK (US)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzianalogue/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzianalogue/)*

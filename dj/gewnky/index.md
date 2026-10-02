@@ -1,6 +1,6 @@
 # Gewnky
 
-Gewnky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
+Gewnky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
 
 Gewnky is a house and techno artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Jm3Yoci and Endote. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gewnky is a house and techno artist based in Japan, with 35 gigs on soundcheck a
 
 SIGNAL (JP), Jm3Yoci, Endote
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gewnky/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gewnky/)*

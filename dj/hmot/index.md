@@ -1,6 +1,6 @@
 # HMOT
 
-HMOT is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+HMOT is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 HMOT is an experimental and techno artist based in Switzerland, with 9 gigs on soundcheck across Armenia, Basel, Berlin and Turin. Often billed alongside Kali Malone, Rabih Beaini and Riccardo La Foresta. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ HMOT is an experimental and techno artist based in Switzerland, with 9 gigs on s
 
 Kali Malone, Rabih Beaini, Riccardo La Foresta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*

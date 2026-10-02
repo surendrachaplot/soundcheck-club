@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Black Coffee" on Thu, 1 Oct 2026.
+[UNVRS] is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "David Guetta presents Galactic Circus - CLOSING PARTY" on Fri, 2 Oct 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Black Coffee | Black Coffee |
 | Fri, 2 Oct 2026 | David Guetta presents Galactic Circus - CLOSING PARTY | David Guetta, James Hype (UK), Liva K |
 | Sat, 3 Oct 2026 | elrow Ibiza - CLOSING PARTY | ATT, Chelina Manuhutu, Ilario Alicante, Paco Osuna, Tini Gessler |
 | Sun, 4 Oct 2026 | Carl Cox - CLOSING PARTY | Carl Cox, Melon Bomb |
@@ -22,4 +21,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

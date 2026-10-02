@@ -1,6 +1,6 @@
 # ARWEN
 
-ARWEN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
+ARWEN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
 
 ARWEN is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh, Hamburg, Manchester and Mexico City and 1 more. Often billed alongside PASO, TOOKAST and BORLEY. Next up: Revo Rooftop, Mexico City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ARWEN is a house and techno artist based in United Kingdom, with 18 gigs on soun
 
 PASO, TOOKAST, BORLEY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arwen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arwen/)*

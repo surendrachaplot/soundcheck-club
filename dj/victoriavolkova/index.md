@@ -1,6 +1,6 @@
 # Victoria Volkova
 
-Victoria Volkova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Mexico City on Sat, 17 Oct 2026.
+Victoria Volkova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Mexico City on Sat, 17 Oct 2026.
 
 Victoria Volkova is a house and techno artist based in Mexico, with 30 gigs on soundcheck across Mexico City. Often billed alongside Bruja Prieta, Mystery Affair and Celice Monnette. Next up: TBA, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Victoria Volkova is a house and techno artist based in Mexico, with 30 gigs on s
 
 Bruja Prieta, Mystery Affair, Celice Monnette
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriavolkova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriavolkova/)*

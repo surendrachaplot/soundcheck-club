@@ -1,6 +1,6 @@
 # Anselmus
 
-Anselmus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+Anselmus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
 Anselmus is a techno and house artist, with 17 gigs on soundcheck across Berlin. Often billed alongside Crille & Tamalt, Julio Paradise and 2 Girls 1 Club. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Anselmus is a techno and house artist, with 17 gigs on soundcheck across Berlin.
 
 Crille & Tamalt, Julio Paradise, 2 Girls 1 Club
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anselmus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anselmus/)*

@@ -1,6 +1,6 @@
 # Lowel
 
-Lowel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Auxerrexpo, Central on Sat, 3 Oct 2026.
+Lowel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Auxerrexpo, Central on Sat, 3 Oct 2026.
 
 Lowel is a techno and acid artist, with 8 gigs on soundcheck across Central and Paris. Often billed alongside Blame The Mono, Bruyant and DJ Reiz. Next up: Auxerrexpo, Central on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Lowel is a techno and acid artist, with 8 gigs on soundcheck across Central and 
 
 Blame The Mono, Bruyant, DJ Reiz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowel-fr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowel-fr/)*

@@ -1,6 +1,6 @@
 # Cloud & Spirits
 
-Cloud & Spirits is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Basement Project (Masquerade)" on Fri, 30 Oct 2026.
+Cloud & Spirits is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Basement Project (Masquerade)" on Fri, 30 Oct 2026.
 
 Cloud & Spirits is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including DJ Bookworm. See dates, start times and who's playing. 795 Main St, Cambridge, MA 02139.
 
@@ -14,4 +14,4 @@ Cloud & Spirits is a music venue in Boston listed on soundcheck. 1 upcoming gig,
 
 795 Main St, Cambridge, MA 02139, Boston
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*

@@ -1,6 +1,6 @@
 # Jon Dasilva
 
-Jon Dasilva is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
+Jon Dasilva is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
 
 Jon Dasilva is an acid and house artist based in United Kingdom, with 37 gigs on soundcheck across Bangkok, Birmingham, Brighton and Glasgow and 5 more. Often billed alongside Posthuman, Graeme Park and DJ Paulette. Next up: The Golden Lion, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jon Dasilva is an acid and house artist based in United Kingdom, with 37 gigs on
 
 Posthuman, Graeme Park, DJ Paulette
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jondasilva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jondasilva/)*

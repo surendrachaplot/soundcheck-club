@@ -1,6 +1,6 @@
 # Terence Fixmer
 
-Terence Fixmer is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
+Terence Fixmer is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
 
 Terence Fixmer is a techno and ebm artist based in France, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside DJ Hell, Olivia and Phase Fatale. Next up: Good Room, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Terence Fixmer is a techno and ebm artist based in France, with 43 gigs on sound
 
 DJ Hell, Olivia, Phase Fatale
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terencefixmer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terencefixmer/)*

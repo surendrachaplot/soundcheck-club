@@ -1,6 +1,6 @@
 # Deon Jamar
 
-Deon Jamar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
+Deon Jamar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
 
 Deon Jamar is a house and techno artist based in United States of America, with 106 gigs on soundcheck across Chicago, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside Meftah, Mickey Perez and Toribio. Next up: Marble Bar, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Deon Jamar is a house and techno artist based in United States of America, with 
 
 Meftah, Mickey Perez, Toribio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*

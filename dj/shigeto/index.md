@@ -1,6 +1,6 @@
 # Shigeto
 
-Shigeto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
+Shigeto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
 
 Shigeto is a house and techno artist based in United States of America, with 232 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 6 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: Lanificio 159, Rome on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Shigeto is a house and techno artist based in United States of America, with 232
 
 Kenjiro, Tammy Lakkis, Charles Trees
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*

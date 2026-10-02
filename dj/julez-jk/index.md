@@ -1,6 +1,6 @@
 # JULEZ JK
 
-JULEZ JK is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Heaven0711, Stuttgart on Sat, 31 Oct 2026.
+JULEZ JK is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heaven0711, Stuttgart on Sat, 31 Oct 2026.
 
 JULEZ JK is an acid and house artist based in Germany, with 9 gigs on soundcheck across Barcelona and Stuttgart. Often billed alongside Coppola (DE), DAWIT and Cem. Next up: Heaven0711, Stuttgart on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JULEZ JK is an acid and house artist based in Germany, with 9 gigs on soundcheck
 
 Coppola (DE), DAWIT, Cem (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-jk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julez-jk/)*

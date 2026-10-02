@@ -1,6 +1,6 @@
 # Tibasko
 
-Tibasko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
+Tibasko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
 
 Tibasko is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Amsterdam, Bristol and Chicago and 15 more. Often billed alongside Bklava, Elderbrook and Fliss Mayo. Next up: Moon Club, Bristol on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tibasko is a house and techno artist based in United Kingdom, with 41 gigs on so
 
 Bklava, Elderbrook, Fliss Mayo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tibasko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tibasko/)*

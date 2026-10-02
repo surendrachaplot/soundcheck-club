@@ -1,6 +1,6 @@
 # KARMÅ
 
-KARMÅ is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+KARMÅ is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 KARMÅ is a techno and afro house artist based in United States of America, with 16 gigs on soundcheck across Athens, Chicago, Los Angeles and San Diego. Often billed alongside Tamara Lanza, A.N.I. and Aaron Hibell. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ KARMÅ is a techno and afro house artist based in United States of America, with
 
 Tamara Lanza, A.N.I., Aaron Hibell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karma-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karma-us/)*

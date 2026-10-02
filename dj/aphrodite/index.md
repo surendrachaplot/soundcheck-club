@@ -1,6 +1,6 @@
 # Aphrodite
 
-Aphrodite is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Aphrodite is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Aphrodite is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Athens, Auckland, Berlin and Brighton and 16 more. Often billed alongside Alex Kósh, Da Mike and Diaz-Soto. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Aphrodite is a drum & bass and jungle artist based in United Kingdom, with 37 gi
 
 Alex Kósh, Da Mike, Diaz-Soto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphrodite/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphrodite/)*

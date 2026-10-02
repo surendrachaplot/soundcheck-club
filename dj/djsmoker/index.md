@@ -1,6 +1,6 @@
 # DJ Smoker
 
-DJ Smoker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
+DJ Smoker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
 
 DJ Smoker is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Lovejoy, Andy Barton and Craigen. Next up: The Berkeley Suite, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Smoker is a techno and trance artist based in United Kingdom, with 49 gigs on
 
 Lovejoy, Andy Barton, Craigen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmoker/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmoker/)*

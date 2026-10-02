@@ -1,6 +1,6 @@
 # Julian Shore
 
-Julian Shore is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Prisma, Berlin on Fri, 13 Nov 2026.
+Julian Shore is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prisma, Berlin on Fri, 13 Nov 2026.
 
 Julian Shore is a techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside D.Sociation, Der Freak and maniaclina. Next up: Prisma, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Julian Shore is a techno artist based in Germany, with 7 gigs on soundcheck acro
 
 D.Sociation, Der Freak, maniaclina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianshore/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianshore/)*

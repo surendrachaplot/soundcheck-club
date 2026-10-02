@@ -1,6 +1,6 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Underpass, Melbourne on Sun, 1 Nov 2026.
+1-800 GIRLS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Underpass, Melbourne on Sun, 1 Nov 2026.
 
 1-800 GIRLS is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 20 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: TBA - The Underpass, Melbourne on Sun 1 Nov.
 
@@ -27,4 +27,4 @@
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

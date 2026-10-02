@@ -1,6 +1,6 @@
 # Colette
 
-Colette is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 3 Oct 2026.
+Colette is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 3 Oct 2026.
 
 Colette is a house and techno artist based in Australia, with 112 gigs on soundcheck across Chicago, Los Angeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, DJ JNETT and 3rd Orbit. Next up: Wax Music Lounge, Melbourne on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Colette is a house and techno artist based in Australia, with 112 gigs on soundc
 
 Lewis Cancut, DJ JNETT, 3rd Orbit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*

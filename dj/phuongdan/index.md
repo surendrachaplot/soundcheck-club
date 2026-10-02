@@ -1,6 +1,6 @@
 # Phuong Dan
 
-Phuong Dan is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 10 Oct 2026.
+Phuong Dan is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 10 Oct 2026.
 
 Phuong Dan is a techno and electronica artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 16 more. Often billed alongside Cloud Management, Yadin Moha and 404.zero. Next up: Golden Pudel Club, Hamburg on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Phuong Dan is a techno and electronica artist based in Germany, with 50 gigs on 
 
 Cloud Management, Yadin Moha, 404.zero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*

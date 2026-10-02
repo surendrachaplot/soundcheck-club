@@ -1,6 +1,6 @@
 # EMilio (2)
 
-EMilio (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Sun, 18 Oct 2026.
+EMilio (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sun, 18 Oct 2026.
 
 EMilio is a techno and electro artist based in Uruguay, with 55 gigs on soundcheck across Barcelona, Liverpool, London and Madrid and 3 more. Often billed alongside Z@p, DJ Koolt and KINO (UY). Next up: Macarena Club, Barcelona on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ EMilio is a techno and electro artist based in Uruguay, with 55 gigs on soundche
 
 Z@p, DJ Koolt, KINO (UY)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*

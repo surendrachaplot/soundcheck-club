@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "36th Akbank Jazz Festival: Mehmet Uluğ Night - Bugge Wesseltoft ft Gülşah Erol" on Fri, 2 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "36th Akbank Jazz Festival: Mehmet Uluğ Night - Bugge Wesseltoft ft Gülşah Erol" on Fri, 2 Oct 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 16 upcoming gigs, with line-ups including Alican, Andhim, Berkan V8 and BOOSAY and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -23,4 +23,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 16 upcomin
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

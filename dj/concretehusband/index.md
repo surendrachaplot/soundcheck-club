@@ -1,8 +1,8 @@
 # Concrete Husband
 
-Concrete Husband is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Sat, 3 Oct 2026.
+Concrete Husband is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BASEMENT, New York City on Sat, 3 Oct 2026.
 
-Concrete Husband is a techno and house artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Berlin, Boston and Copenhagen and 6 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: BASEMENT, New York City on Sat 3 Oct.
+Concrete Husband is a techno and house artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Berlin, Boston and Copenhagen and 6 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: BASEMENT, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Concrete Husband is a techno and house artist based in United States of America,
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | BASEMENT | New York City |
 | Fri, 16 Oct 2026 | Signal | New York City |
+| Sat, 17 Oct 2026 | TBA - Brooklyn | New York City |
 | Thu, 22 Oct 2026 | nachbar | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Concrete Husband is a techno and house artist based in United States of America,
 
 ALL EXITS, Juana, KXAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*

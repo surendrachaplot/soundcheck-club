@@ -1,6 +1,6 @@
 # pavvvvvvlo
 
-pavvvvvvlo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+pavvvvvvlo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
 pavvvvvvlo is a techno and trance artist based in Spain, with 58 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 2 more. Often billed alongside Gerardo Niva, Alba Franch and Madson Carpenter. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ pavvvvvvlo is a techno and trance artist based in Spain, with 58 gigs on soundch
 
 Gerardo Niva, Alba Franch, Madson Carpenter
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavvvvvvlo/)*

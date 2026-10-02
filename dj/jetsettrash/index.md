@@ -1,6 +1,6 @@
 # Jetset Trash
 
-Jetset Trash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Jetset Trash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 Jetset Trash is a house and techno artist based in South Korea, with 90 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside DARIMI TABLE, kyogi and JAMIEST. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jetset Trash is a house and techno artist based in South Korea, with 90 gigs on 
 
 DARIMI TABLE, kyogi, JAMIEST
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsettrash/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsettrash/)*

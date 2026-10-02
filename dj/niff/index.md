@@ -1,6 +1,6 @@
 # Niff
 
-Niff is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
+Niff is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
 
 Niff is an electro and techno artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Brasi, Domenico Rosa and GNMR. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Niff is an electro and techno artist based in Italy, with 44 gigs on soundcheck 
 
 Brasi, Domenico Rosa, GNMR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niff/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niff/)*

@@ -1,13 +1,14 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 31 Oct 2026.
+Gene Farris is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 16 Oct 2026.
 
-Gene Farris is a house and tech house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: The Comfort Zone, Toronto on Sat 31 Oct.
+Gene Farris is a house and tech house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: Prysm Nightclub, Chicago on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Prysm Nightclub | Chicago |
 | Sat, 31 Oct 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gene Farris is a house and tech house artist based in United States of America, 
 
 OFFAIAH, Mark Knight, Anthony Attalla
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

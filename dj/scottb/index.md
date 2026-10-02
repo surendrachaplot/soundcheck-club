@@ -1,6 +1,6 @@
 # Scott B
 
-Scott B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 27 Nov 2026.
+Scott B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 27 Nov 2026.
 
 Scott B is a techno and house artist based in China, with 38 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside Faxtory, Jordy Lee and ADRIANNA.C. Next up: 宀 Club, Hong Kong on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Scott B is a techno and house artist based in China, with 38 gigs on soundcheck 
 
 Faxtory, Jordy Lee, ADRIANNA.C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottb/)*

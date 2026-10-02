@@ -1,6 +1,6 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Jeneva is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
 Jeneva is a techno and house artist, with 41 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jeneva is a techno and house artist, with 41 gigs on soundcheck across Berlin, L
 
 Greg Brockmann, LO-LOW, Mar/us
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

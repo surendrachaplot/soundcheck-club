@@ -1,6 +1,6 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
+Dimuth K is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
 
 Dimuth K is a progressive house and deep house artist, with 23 gigs on soundcheck across Amsterdam, London, Melbourne and Montreal and 2 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: Watsons EQ, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dimuth K is a progressive house and deep house artist, with 23 gigs on soundchec
 
 Simply City, Hernan Cattaneo, Adiel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*

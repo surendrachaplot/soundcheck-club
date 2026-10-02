@@ -1,6 +1,6 @@
 # Marixia
 
-Marixia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
+Marixia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
 
 Marixia is a techno and minimal techno artist based in Serbia, with 10 gigs on soundcheck across Ibiza and Malta. Often billed alongside Philip Ackowsky, DJ SIN and Abdy. Next up: The Vault at Gianpula Village, Malta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marixia is a techno and minimal techno artist based in Serbia, with 10 gigs on s
 
 Philip Ackowsky, DJ SIN, Abdy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marixia/)*

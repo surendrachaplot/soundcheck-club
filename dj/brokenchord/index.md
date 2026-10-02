@@ -1,6 +1,6 @@
 # Brokenchord
 
-Brokenchord is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Social, London on Fri, 9 Oct 2026.
+Brokenchord is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Social, London on Fri, 9 Oct 2026.
 
 Brokenchord is a balearic and house artist based in Lithuania, with 10 gigs on soundcheck across Amsterdam, Berlin, London and Madrid and 1 more. Often billed alongside Rosie Ama, Ajukaja and Ats and Alex Kassian. Next up: The Social, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Brokenchord is a balearic and house artist based in Lithuania, with 10 gigs on s
 
 Rosie Ama, Ajukaja and Ats, Alex Kassian
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*

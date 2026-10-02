@@ -1,6 +1,6 @@
 # Guidomik
 
-Guidomik is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at berlinClub, Madrid on Fri, 16 Oct 2026.
+Guidomik is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at berlinClub, Madrid on Fri, 16 Oct 2026.
 
 Guidomik is a house and afro house artist based in Argentina, with 48 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Tucu (Tucu), Alexis mayer and Brisa Then. Next up: berlinClub, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Guidomik is a house and afro house artist based in Argentina, with 48 gigs on so
 
 Tucu (Tucu), Alexis mayer, Brisa Then
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidomik/)*

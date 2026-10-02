@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lena Willikens is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -36,4 +36,4 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

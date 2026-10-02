@@ -1,6 +1,6 @@
 # Beryll
 
-Beryll is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+Beryll is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
 
 Beryll is a techno and house artist based in Germany, with 33 gigs on soundcheck across Belgrade and Berlin. Often billed alongside DJ Speed, Freigeist and Npoint_O. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Beryll is a techno and house artist based in Germany, with 33 gigs on soundcheck
 
 DJ Speed, Freigeist, Npoint_O
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beryll/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beryll/)*

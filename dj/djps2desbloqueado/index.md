@@ -1,6 +1,6 @@
 # DJ PS2 DESBLOQUEADO
 
-DJ PS2 DESBLOQUEADO is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
+DJ PS2 DESBLOQUEADO is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
 
 DJ PS2 DESBLOQUEADO is a baile funk and bass artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside ceza, Chediak and Crosstalk (BR). Next up: Kaiki, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ PS2 DESBLOQUEADO is a baile funk and bass artist based in Japan, with 13 gigs
 
 ceza, Chediak, Crosstalk (BR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djps2desbloqueado/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djps2desbloqueado/)*

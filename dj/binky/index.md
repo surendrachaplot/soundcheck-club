@@ -1,6 +1,6 @@
 # BINKY
 
-BINKY is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
+BINKY is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
 
 BINKY is a club and techno artist based in Canada, with 35 gigs on soundcheck across London, Montreal, Toronto and Vancouver. Often billed alongside Brendocha, EtOH and soratora. Next up: ESC, Montreal on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ BINKY is a club and techno artist based in Canada, with 35 gigs on soundcheck ac
 
 Brendocha, EtOH, soratora
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binky/)*

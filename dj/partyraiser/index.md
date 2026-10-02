@@ -1,6 +1,6 @@
 # Partyraiser
 
-Partyraiser is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Partyraiser is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Partyraiser is a hardcore and gabber artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Dortmund Essen and 6 more. Often billed alongside Angerfist, Bulletproof and Act of Rage. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Partyraiser is a hardcore and gabber artist based in Netherlands, with 26 gigs o
 
 Angerfist, Bulletproof, Act of Rage
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*

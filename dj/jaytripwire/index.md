@@ -1,6 +1,6 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Utopia, Los Angeles on Fri, 2 Oct 2026.
+Jay Tripwire is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Utopia, Los Angeles on Fri, 2 Oct 2026.
 
 Jay Tripwire is a house and minimal artist based in Canada, with 91 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: Utopia, Los Angeles on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Jay Tripwire is a house and minimal artist based in Canada, with 91 gigs on soun
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

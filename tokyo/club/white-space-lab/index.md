@@ -1,6 +1,6 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PALM HOUSE" on Fri, 2 Oct 2026.
+White Space Lab is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PALM HOUSE" on Fri, 2 Oct 2026.
 
 White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including ALLY, B.A.R.K, Fabian Laute and TECSTONE and 1 more. See dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
@@ -17,4 +17,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs,
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

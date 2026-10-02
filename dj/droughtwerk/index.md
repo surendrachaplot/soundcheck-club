@@ -1,6 +1,6 @@
 # Droughtwerk
 
-Droughtwerk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
+Droughtwerk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
 Droughtwerk is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Flotte Motte, Kaldera and Anne-Lu. Next up: ://about blank, Berlin on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Droughtwerk is a techno and house artist based in Germany, with 7 gigs on soundc
 
 Flotte Motte, Kaldera, Anne-Lu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/droughtwerk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/droughtwerk/)*

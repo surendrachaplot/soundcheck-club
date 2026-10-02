@@ -1,6 +1,6 @@
 # Backseat Driver
 
-Backseat Driver is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
+Backseat Driver is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
 
 Backseat Driver is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Brisbane and Sheffield. Often billed alongside Paniolo, Bubbles (UK) and Aquamarine. Next up: Gut Level, Sheffield on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Backseat Driver is a house and techno artist based in United Kingdom, with 13 gi
 
 Paniolo, Bubbles (UK), Aquamarine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backseatdriver/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backseatdriver/)*

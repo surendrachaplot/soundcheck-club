@@ -1,6 +1,6 @@
 # Waycool Junior
 
-Waycool Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Upstairs at the 700, Philadelphia on Sat, 3 Oct 2026.
+Waycool Junior is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Upstairs at the 700, Philadelphia on Sat, 3 Oct 2026.
 
 Waycool Junior is a house and techno artist, with 18 gigs on soundcheck across Philadelphia. Often billed alongside Anne Fahn, tj groover and Big Queso. Next up: Upstairs at the 700, Philadelphia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Waycool Junior is a house and techno artist, with 18 gigs on soundcheck across P
 
 Anne Fahn, tj groover, Big Queso
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waycooljunior/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waycooljunior/)*

@@ -1,6 +1,6 @@
 # Ital Power
 
-Ital Power is a Dub and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Ital Power is a Dub and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Ital Power is a dub and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Bristol, Bucharest and Geneva and 2 more. Often billed alongside Mantra, Blackeye MC and Iration Steppas. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Ital Power is a dub and dubstep artist based in United Kingdom, with 14 gigs on 
 
 Mantra, Blackeye MC, Iration Steppas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/italpower/)*

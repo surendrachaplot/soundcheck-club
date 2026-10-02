@@ -1,6 +1,6 @@
 # Lu2k
 
-Lu2k is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+Lu2k is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
 
 Lu2k is a techno and club artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Austin, Belgrade and Chicago and 18 more. Often billed alongside Miley Serious, Hyas and Jetty. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Lu2k is a techno and club artist based in United States of America, with 51 gigs
 
 Miley Serious, Hyas, Jetty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu2k/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu2k/)*

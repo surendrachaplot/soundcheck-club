@@ -1,6 +1,6 @@
 # Izzy
 
-Izzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+Izzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
 Izzy is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and DANBERG. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Izzy is a house and tech house artist based in United States of America, with 21
 
 Comrage, Daniel Morgenstern, DANBERG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzy/)*

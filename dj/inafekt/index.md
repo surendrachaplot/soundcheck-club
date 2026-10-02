@@ -1,6 +1,6 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Inafekt is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 Inafekt is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Inafekt is a techno and house artist based in United Kingdom, with 56 gigs on so
 
 Kyle Starkey, Entasia, DART
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

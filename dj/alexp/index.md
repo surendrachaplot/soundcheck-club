@@ -1,6 +1,6 @@
 # Alex P
 
-Alex P is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Random, Rome on Fri, 2 Oct 2026.
+Alex P is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Random, Rome on Fri, 2 Oct 2026.
 
 Alex P is a house and tech house artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, Liverpool, London and Rome. Often billed alongside Brandon Block, Tristan Ingram and Bongo Ben. Next up: TBA - The Random, Rome on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Alex P is a house and tech house artist based in United Kingdom, with 26 gigs on
 
 Brandon Block, Tristan Ingram, Bongo Ben
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*

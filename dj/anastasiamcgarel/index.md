@@ -1,6 +1,6 @@
 # Anastasia McGarel
 
-Anastasia McGarel is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+Anastasia McGarel is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
 
 Anastasia McGarel is a house and funk / soul artist based in United Kingdom, with 10 gigs on soundcheck across Leeds. Often billed alongside James Frances, Spilly and Liam Oades. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Anastasia McGarel is a house and funk / soul artist based in United Kingdom, wit
 
 James Frances, Spilly, Liam Oades
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiamcgarel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiamcgarel/)*

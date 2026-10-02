@@ -1,6 +1,6 @@
 # Giorgio Gigli
 
-Giorgio Gigli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
+Giorgio Gigli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
 
 Giorgio Gigli is a techno and house artist based in Italy, with 40 gigs on soundcheck across Berlin, Naples and Rome. Often billed alongside Zerø, GNMR and Alessandro Adriani. Next up: Hotel Butterfly, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Giorgio Gigli is a techno and house artist based in Italy, with 40 gigs on sound
 
 Zerø, GNMR, Alessandro Adriani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*

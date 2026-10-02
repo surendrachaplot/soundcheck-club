@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Sao Paulo on Sat, 3 Oct 2026.
+Cashu is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Sao Paulo on Sat, 3 Oct 2026.
 
 Cashu is a techno and house artist based in Brazil, with 153 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: TBA, Sao Paulo on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Cashu is a techno and house artist based in Brazil, with 153 gigs on soundcheck 
 
 BADSISTA, RHR, Alírio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

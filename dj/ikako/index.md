@@ -1,6 +1,6 @@
 # IKAKO
 
-IKAKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Resume Valencia, Valencia on Fri, 16 Oct 2026.
+IKAKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Resume Valencia, Valencia on Fri, 16 Oct 2026.
 
 IKAKO is a tech house and house artist based in Georgia, with 43 gigs on soundcheck across Tbilisi and Valencia. Often billed alongside BEQA, Gio Shengelia and SUMO. Next up: Resume Valencia, Valencia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ IKAKO is a tech house and house artist based in Georgia, with 43 gigs on soundch
 
 BEQA, Gio Shengelia, SUMO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*

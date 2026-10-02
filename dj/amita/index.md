@@ -1,6 +1,6 @@
 # amita
 
-amita is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
+amita is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
 
 amita is a jungle and techno artist based in United States of America, with 43 gigs on soundcheck across Boston, New York City, Philadelphia and Tokyo. Often billed alongside Petal, Kaili and Takuya Nakamura. Next up: H0L0, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ amita is a jungle and techno artist based in United States of America, with 43 g
 
 Petal, Kaili, Takuya Nakamura
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amita/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amita/)*

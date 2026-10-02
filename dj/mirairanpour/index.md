@@ -1,6 +1,6 @@
 # Mira Iranpour
 
-Mira Iranpour is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplex Berlin, Berlin on Sat, 3 Oct 2026.
+Mira Iranpour is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Komplex Berlin, Berlin on Sat, 3 Oct 2026.
 
 Mira Iranpour is a trance and techno artist based in Iran, with 7 gigs on soundcheck across Berlin and Stockholm. Often billed alongside Marcus Christiansen. Next up: Komplex Berlin, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Mira Iranpour is a trance and techno artist based in Iran, with 7 gigs on soundc
 
 Marcus Christiansen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*

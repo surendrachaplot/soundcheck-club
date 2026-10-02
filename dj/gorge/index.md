@@ -1,6 +1,6 @@
 # Gorge
 
-Gorge is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Gorge is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Gorge is a house and deep house artist based in Germany, with 13 gigs on soundcheck across Auckland, Bali, Barcelona and Copenhagen and 6 more. Often billed alongside Alain Hellion, Danjo and Hardy Heller. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gorge is a house and deep house artist based in Germany, with 13 gigs on soundch
 
 Alain Hellion, Danjo, Hardy Heller
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*

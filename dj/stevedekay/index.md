@@ -1,6 +1,6 @@
 # Steve Dekay
 
-Steve Dekay is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Steve Dekay is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Steve Dekay is a techno and trance artist based in Colombia, with 7 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Los Angeles and 2 more. Often billed alongside Allen Watts, Artbat and Astrix. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Steve Dekay is a techno and trance artist based in Colombia, with 7 gigs on soun
 
 Allen Watts, Artbat, Astrix
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*

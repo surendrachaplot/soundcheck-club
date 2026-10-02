@@ -1,6 +1,6 @@
 # Jade Rolt
 
-Jade Rolt is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 29 Oct 2026.
+Jade Rolt is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 29 Oct 2026.
 
 Jade Rolt is a house and downtempo artist based in Spain, with 24 gigs on soundcheck across Barcelona. Often billed alongside Eli Kapowski, Isa Rojas and Dixon. Next up: 303 Audiophile Bar, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Jade Rolt is a house and downtempo artist based in Spain, with 24 gigs on soundc
 
 Eli Kapowski, Isa Rojas, Dixon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaderolt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaderolt/)*

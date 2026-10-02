@@ -1,6 +1,6 @@
 # Morgan's Bar
 
-Morgan's Bar is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dance Now Talk Later with Make A Dance" on Sat, 17 Oct 2026.
+Morgan's Bar is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dance Now Talk Later with Make A Dance" on Sat, 17 Oct 2026.
 
 Morgan's Bar is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Make A Dance. See dates, start times and who's playing. 30 Talbot Rd, Old Trafford, Stretford, Manchester M16 0PF.
 
@@ -14,4 +14,4 @@ Morgan's Bar is a music venue in Manchester listed on soundcheck. 1 upcoming gig
 
 30 Talbot Rd, Old Trafford, Stretford, Manchester M16 0PF, Manchester
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/morgan-s-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/morgan-s-bar/)*

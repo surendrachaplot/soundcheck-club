@@ -1,6 +1,6 @@
 # DJ ADHD
 
-DJ ADHD is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 9 Oct 2026.
+DJ ADHD is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 9 Oct 2026.
 
 DJ ADHD is a techno and bass artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 32 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: La Cheetah Club, Glasgow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ ADHD is a techno and bass artist based in United States of America, with 84 g
 
 Chloé Robinson, Nikki Nair, Papa Nugs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*

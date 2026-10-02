@@ -1,6 +1,6 @@
 # Organ Tapes
 
-Organ Tapes is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Fri, 2 Oct 2026.
+Organ Tapes is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Fri, 2 Oct 2026.
 
 Organ Tapes is an experimental and ambient artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Madjestic Kasual, DJ Python and MUNNI. Next up: The White Hotel, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Organ Tapes is an experimental and ambient artist based in United Kingdom, with 
 
 Madjestic Kasual, DJ Python, MUNNI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*

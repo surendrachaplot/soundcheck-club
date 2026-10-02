@@ -1,6 +1,6 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 2 Oct 2026.
+Dantiez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Fri, 2 Oct 2026.
 
 Dantiez is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Detroit, Los Angeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT and Kevin Saunderson. Next up: Paragon, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dantiez is a house and techno artist based in United States of America, with 48 
 
 Damarii Saunderson, JMT (2), Kevin Saunderson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*

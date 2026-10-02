@@ -1,6 +1,6 @@
 # teiaaa
 
-teiaaa is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
+teiaaa is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
 
 teiaaa is an experimental and bass artist, with 8 gigs on soundcheck across Berlin and Lisbon. Often billed alongside missteikk, ulises4000 and Alada. Next up: 90mil, Berlin on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ teiaaa is an experimental and bass artist, with 8 gigs on soundcheck across Berl
 
 missteikk, ulises4000, Alada
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teiaaa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teiaaa/)*

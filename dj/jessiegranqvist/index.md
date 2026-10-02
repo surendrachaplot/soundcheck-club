@@ -1,6 +1,6 @@
 # Jessie Granqvist
 
-Jessie Granqvist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
+Jessie Granqvist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
 
 Jessie Granqvist is a techno and house artist based in Sweden, with 94 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Istanbul and 7 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: Ministerium Club, Lisbon on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Jessie Granqvist is a techno and house artist based in Sweden, with 94 gigs on s
 
 Maris Shilton, Anthony Linell, Evigt Mörker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*

@@ -1,6 +1,6 @@
 # Johnny Fiore
 
-Johnny Fiore is a Disco and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Sun, 18 Oct 2026.
+Johnny Fiore is a Disco and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gwenda, London on Sun, 18 Oct 2026.
 
 Johnny Fiore is a disco and club artist, with 23 gigs on soundcheck across London and Rome. Often billed alongside Marcelo Tag, Shamiso and Zeth. Next up: Gwenda, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Johnny Fiore is a disco and club artist, with 23 gigs on soundcheck across Londo
 
 Marcelo Tag, Shamiso, Zeth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*

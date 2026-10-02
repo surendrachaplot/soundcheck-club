@@ -1,6 +1,6 @@
 # SCHNUBB
 
-SCHNUBB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
+SCHNUBB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
 
 SCHNUBB is a techno and trance artist, with 11 gigs on soundcheck across Montreal. Often billed alongside ENAMOR, Inside Blur and Karscher. Next up: ESC, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SCHNUBB is a techno and trance artist, with 11 gigs on soundcheck across Montrea
 
 ENAMOR, Inside Blur, Karscher
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schnubb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schnubb/)*

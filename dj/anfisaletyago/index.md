@@ -1,6 +1,6 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Audio Club, Geneva on Fri, 2 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Audio Club, Geneva on Fri, 2 Oct 2026.
 
 Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Audio Club, Geneva on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on sou
 
 Enrico Sangiuliano, Eli Brown, Héctor Oaks
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

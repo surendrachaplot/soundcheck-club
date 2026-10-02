@@ -1,6 +1,6 @@
 # Espen Iden
 
-Espen Iden is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Villa, Oslo on Fri, 2 Oct 2026.
+Espen Iden is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Villa, Oslo on Fri, 2 Oct 2026.
 
 Espen Iden is a techno and trance artist, with 15 gigs on soundcheck across Oslo. Often billed alongside Naboklage, foufou malade and MEV. Next up: The Villa, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Espen Iden is a techno and trance artist, with 15 gigs on soundcheck across Oslo
 
 Naboklage, foufou malade, MEV (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espeniden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espeniden/)*

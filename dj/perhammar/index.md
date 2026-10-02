@@ -1,6 +1,6 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Per Hammar is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Per Hammar is a minimal and house artist based in Sweden, with 86 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Olga Korol, And.re and Abbas. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Per Hammar is a minimal and house artist based in Sweden, with 86 gigs on soundc
 
 Olga Korol, And.re, Abbas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

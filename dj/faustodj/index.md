@@ -1,6 +1,6 @@
 # Faustø
 
-Faustø is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - SAN TELMO, CABA. , Buenos Aires on Sat, 3 Oct 2026.
+Faustø is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SAN TELMO, CABA. , Buenos Aires on Sat, 3 Oct 2026.
 
 Faustø is a techno and electronica artist based in Argentina, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 3 more. Often billed alongside Mariano DC, JULIETA LAKE and Cia Rebeck. Next up: TBA - SAN TELMO, CABA. , Buenos Aires on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Faustø is a techno and electronica artist based in Argentina, with 32 gigs on s
 
 Mariano DC, JULIETA LAKE, Cia Rebeck
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustodj/)*

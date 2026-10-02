@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Sun, 11 Oct 2026.
+La Vega is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Outer Heaven, New York City on Sun, 11 Oct 2026.
 
 La Vega is a house and deep house artist based in United States of America, with 44 gigs on soundcheck across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Luciio and Marteen. Next up: Outer Heaven, New York City on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ La Vega is a house and deep house artist based in United States of America, with
 
 Javier de la Vega, Luciio, Marteen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

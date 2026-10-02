@@ -1,6 +1,6 @@
 # Augustus Muller
 
-Augustus Muller is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at smartbar, Chicago on Fri, 2 Oct 2026.
+Augustus Muller is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Fri, 2 Oct 2026.
 
 Augustus Muller is a techno and ebm artist, with 12 gigs on soundcheck across Barcelona, Chicago, Montreal and New York City and 3 more. Often billed alongside Boy Harsher, Arvin T and Joey Beltram. Next up: smartbar, Chicago on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Augustus Muller is a techno and ebm artist, with 12 gigs on soundcheck across Ba
 
 Boy Harsher, Arvin T, Joey Beltram
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustusmuller/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustusmuller/)*

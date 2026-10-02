@@ -1,6 +1,6 @@
 # Oh See
 
-Oh See is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
+Oh See is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
 
 Oh See is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Brighton, Cardiff and London. Often billed alongside Minister Ballantine, Osmaan and Tiffany Quinn. Next up: M.O.T, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Oh See is a house and techno artist based in United Kingdom, with 43 gigs on sou
 
 Minister Ballantine, Osmaan, Tiffany Quinn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*

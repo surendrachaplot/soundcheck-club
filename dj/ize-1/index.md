@@ -1,6 +1,6 @@
 # Ize (1)
 
-Ize (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Ize (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
 Ize is a house and garage artist based in United Kingdom, with 28 gigs on soundcheck across Brighton and London. Often billed alongside Tenzin, Alfaz and ARLYSS. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ize is a house and garage artist based in United Kingdom, with 28 gigs on soundc
 
 Tenzin, Alfaz, ARLYSS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*

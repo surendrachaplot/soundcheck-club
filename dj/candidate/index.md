@@ -1,6 +1,6 @@
 # Candidate
 
-Candidate is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Candidate is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Candidate is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Glasgow, Ibiza and Leeds and 7 more. Often billed alongside Max Dean, Chopper (UK) and DXNBY. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Candidate is a house and tech house artist based in United Kingdom, with 37 gigs
 
 Max Dean, Chopper (UK), DXNBY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candidate/)*

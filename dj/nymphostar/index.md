@@ -1,6 +1,6 @@
 # Nymphostar
 
-Nymphostar is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+Nymphostar is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
 
 Nymphostar is a techno and club artist, with 34 gigs on soundcheck across New York City and Washington DC. Often billed alongside jo_sway, &more and senoritajuicy. Next up: Honey's, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nymphostar is a techno and club artist, with 34 gigs on soundcheck across New Yo
 
 jo_sway, &more, senoritajuicy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymphostar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymphostar/)*

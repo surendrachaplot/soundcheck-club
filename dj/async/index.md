@@ -1,6 +1,6 @@
 # ASYNC
 
-ASYNC is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
+ASYNC is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
 
 ASYNC is a techno and minimal artist based in South Korea, with 50 gigs on soundcheck across Seoul, South Korea and Toronto. Often billed alongside DJ SIN, mizae lim and Deekay. Next up: TBA - 강원도 화천, South Korea on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ ASYNC is a techno and minimal artist based in South Korea, with 50 gigs on sound
 
 DJ SIN, mizae lim, Deekay
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/async/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/async/)*

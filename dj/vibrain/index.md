@@ -1,6 +1,6 @@
 # Vibrain
 
-Vibrain is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 4 Oct 2026.
+Vibrain is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 4 Oct 2026.
 
 Vibrain is a techno and club artist, with 12 gigs on soundcheck across Belgrade, Budapest and Malta. Often billed alongside Essio, aleksssa and DAD4. Next up: Para Klub Beograd, Belgrade on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Vibrain is a techno and club artist, with 12 gigs on soundcheck across Belgrade,
 
 Essio, aleksssa, DAD4
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrain/)*

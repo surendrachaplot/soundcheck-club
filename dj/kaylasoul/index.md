@@ -1,6 +1,6 @@
 # KayLaSoul
 
-KayLaSoul is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
+KayLaSoul is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
 
 KayLaSoul is a house and deep house artist based in United States of America, with 83 gigs on soundcheck across New York City and Washington DC. Often billed alongside G.E.N.E., enz.O and Jus Nowhere. Next up: Flash, Washington DC on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KayLaSoul is a house and deep house artist based in United States of America, wi
 
 G.E.N.E., enz.O, Jus Nowhere
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylasoul/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylasoul/)*

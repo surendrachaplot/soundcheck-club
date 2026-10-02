@@ -1,6 +1,6 @@
 # Border One
 
-Border One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
+Border One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
 Border One is a techno and house artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Border One is a techno and house artist based in Belgium, with 89 gigs on soundc
 
 Kr!z, Phara, Marie-Julie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borderone/)*

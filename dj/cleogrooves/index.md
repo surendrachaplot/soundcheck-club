@@ -1,6 +1,6 @@
 # Cleo Grooves
 
-Cleo Grooves is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klokgebouw, Eindhoven on Thu, 31 Dec 2026.
+Cleo Grooves is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klokgebouw, Eindhoven on Thu, 31 Dec 2026.
 
 Cleo Grooves is a house and disco artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Berlin, Eindhoven and Paris and 2 more. Often billed alongside Aphøtic, B. Clarke and BISOUX. Next up: Klokgebouw, Eindhoven on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Cleo Grooves is a house and disco artist based in Netherlands, with 10 gigs on s
 
 Aphøtic, B. Clarke, BISOUX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*

@@ -1,6 +1,6 @@
 # Christian Wunsch
 
-Christian Wunsch is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Christian Wunsch is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Christian Wunsch is a techno artist based in Monaco, with 10 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 2 more. Often billed alongside Lewis Fautzi, Reeko and Dj Manglés. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Christian Wunsch is a techno artist based in Monaco, with 10 gigs on soundcheck 
 
 Lewis Fautzi, Reeko, Dj Manglés
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianwunsch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianwunsch/)*

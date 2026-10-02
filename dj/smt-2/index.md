@@ -1,6 +1,6 @@
 # SMT (2)
 
-SMT (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
+SMT (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
 SMT is a techno and trance artist based in Argentina, with 17 gigs on soundcheck across Buenos Aires. Often billed alongside Bondarük, HERS and Gaston Fiore. Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ SMT is a techno and trance artist based in Argentina, with 17 gigs on soundcheck
 
 Bondarük, HERS, Gaston Fiore
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smt-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smt-2/)*

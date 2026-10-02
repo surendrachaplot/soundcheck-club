@@ -1,6 +1,6 @@
 # Marius Bø
 
-Marius Bø is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
+Marius Bø is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
 
 Marius Bø is a techno and trance artist based in Norway, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Ekkel, Mikkel Rev and Oprofessionell. Next up: Lasociaciøn, Madrid on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Marius Bø is a techno and trance artist based in Norway, with 59 gigs on soundc
 
 Ekkel, Mikkel Rev, Oprofessionell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariusbo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariusbo/)*

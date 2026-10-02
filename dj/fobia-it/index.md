@@ -1,6 +1,6 @@
 # FØBIA
 
-FØBIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M7 Club, Barcelona on Fri, 2 Oct 2026.
+FØBIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M7 Club, Barcelona on Fri, 2 Oct 2026.
 
 FØBIA is a techno and trance artist based in Italy, with 9 gigs on soundcheck across Barcelona, Berlin, Madrid and Malta and 1 more. Often billed alongside Amo (IT), DOCTOR MÜCKE and Amøn. Next up: M7 Club, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FØBIA is a techno and trance artist based in Italy, with 9 gigs on soundcheck a
 
 Amo (IT), DOCTOR MÜCKE, Amøn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*

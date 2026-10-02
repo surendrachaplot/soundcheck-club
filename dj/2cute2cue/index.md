@@ -1,6 +1,6 @@
 # 2CUTE2CUE
 
-2CUTE2CUE is a Jungle and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rebellion, Manchester on Fri, 2 Oct 2026.
+2CUTE2CUE is a Jungle and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
 2CUTE2CUE is a jungle and experimental artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Medallion Man, Sid The Science Bitch and Sissy Cinnamon. Next up: Rebellion, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Medallion Man, Sid The Science Bitch, Sissy Cinnamon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2cute2cue/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2cute2cue/)*

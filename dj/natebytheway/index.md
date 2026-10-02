@@ -1,14 +1,15 @@
 # natebytheway
 
-natebytheway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
+natebytheway is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-natebytheway is a house and techno artist based in United States of America, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
+natebytheway is a house and techno artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland and Seattle. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Foundry | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | TBA - Private Venue | Seattle |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ natebytheway is a house and techno artist based in United States of America, wit
 
 Phil Spank, Clancy Hickinbotham, Jimmy B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*

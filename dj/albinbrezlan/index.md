@@ -1,6 +1,6 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at O der Klub, Vienna on Fri, 2 Oct 2026.
+Albin Brezlan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at O der Klub, Vienna on Fri, 2 Oct 2026.
 
 Albin Brezlan is a techno and house artist based in Austria, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: O der Klub, Vienna on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Albin Brezlan is a techno and house artist based in Austria, with 133 gigs on so
 
 Huebl, Mark Michael, Dana Melissa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*

@@ -1,6 +1,6 @@
 # Awedinary
 
-Awedinary is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
+Awedinary is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
 
 Awedinary is a bass and techno artist based in United Kingdom, with 20 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside AEON FUX, Kusasa and Ship Sket. Next up: The Greyhound, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Awedinary is a bass and techno artist based in United Kingdom, with 20 gigs on s
 
 AEON FUX, Kusasa, Ship Sket
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awedinary/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awedinary/)*

@@ -1,6 +1,6 @@
 # Pavilon
 
-Pavilon is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "uh! a Pavilonban" on Fri, 2 Oct 2026.
+Pavilon is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "uh! a Pavilonban" on Fri, 2 Oct 2026.
 
 Pavilon is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including sqto. See dates, start times and who's playing. Nehru part Budapest, Hungary 1093.
 
@@ -15,4 +15,4 @@ Pavilon is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with
 
 Nehru part Budapest, Hungary 1093, Budapest
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*

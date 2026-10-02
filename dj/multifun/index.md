@@ -1,6 +1,6 @@
 # Multifun
 
-Multifun is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Multifun is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 Multifun is a trance and techno artist based in Germany, with 113 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Hanna Baertig, CHOREOPHILA and tamarawrx3. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Multifun is a trance and techno artist based in Germany, with 113 gigs on soundc
 
 Hanna Baertig, CHOREOPHILA, tamarawrx3
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/multifun/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/multifun/)*

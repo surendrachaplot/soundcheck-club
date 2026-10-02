@@ -1,6 +1,6 @@
 # HUMMER
 
-HUMMER is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
+HUMMER is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
 
 HUMMER is a techno artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside AliK2, Ada Dielman and Alex Quillard. Next up: ESC, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HUMMER is a techno artist based in Canada, with 11 gigs on soundcheck across Mon
 
 AliK2, Ada Dielman, Alex Quillard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hummer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hummer/)*

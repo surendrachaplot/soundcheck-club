@@ -1,6 +1,6 @@
 # Marc Hype
 
-Marc Hype is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gretchen, Berlin on Tue, 27 Oct 2026.
+Marc Hype is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gretchen, Berlin on Tue, 27 Oct 2026.
 
 Marc Hype is a hip-hop and funk / soul artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Femdelic, Soulski and Boogie Dan. Next up: Gretchen, Berlin on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Marc Hype is a hip-hop and funk / soul artist based in Germany, with 20 gigs on 
 
 Femdelic, Soulski, Boogie Dan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchype/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchype/)*

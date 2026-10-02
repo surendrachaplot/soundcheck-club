@@ -1,6 +1,6 @@
 # Odrik
 
-Odrik is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 9 Oct 2026.
+Odrik is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 9 Oct 2026.
 
 Odrik is a house and funk / soul artist based in France, with 20 gigs on soundcheck across Barcelona, Brussels, Ibiza and London. Often billed alongside Cucut, Mayssa and Wurz. Next up: BORIS CLUB, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Odrik is a house and funk / soul artist based in France, with 20 gigs on soundch
 
 Cucut, Mayssa, Wurz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odrik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odrik/)*

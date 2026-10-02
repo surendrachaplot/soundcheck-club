@@ -1,6 +1,6 @@
 # DJ Beverage
 
-DJ Beverage is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klättermusens Verkstad, Stockholm on Sun, 11 Oct 2026.
+DJ Beverage is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klättermusens Verkstad, Stockholm on Sun, 11 Oct 2026.
 
 DJ Beverage is a house and disco artist based in Sweden, with 12 gigs on soundcheck across London, Stockholm and Tokyo. Often billed alongside DJ Assault, Charisse C and Craig Richards. Next up: Klättermusens Verkstad, Stockholm on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DJ Beverage is a house and disco artist based in Sweden, with 12 gigs on soundch
 
 DJ Assault, Charisse C, Craig Richards
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeverage/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeverage/)*

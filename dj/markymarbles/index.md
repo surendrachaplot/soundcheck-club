@@ -1,6 +1,6 @@
 # Marky Marbles
 
-Marky Marbles is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hillhead Bookclub, Glasgow on Fri, 2 Oct 2026.
+Marky Marbles is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hillhead Bookclub, Glasgow on Fri, 2 Oct 2026.
 
 Marky Marbles is a garage and uk funky artist based in United Kingdom, with 25 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Corran, Temple Sniper and Akintore. Next up: Hillhead Bookclub, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Marky Marbles is a garage and uk funky artist based in United Kingdom, with 25 g
 
 Corran, Temple Sniper, Akintore
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*

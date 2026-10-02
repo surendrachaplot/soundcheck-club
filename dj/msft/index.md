@@ -1,6 +1,6 @@
 # msft
 
-msft is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 10 Oct 2026.
+msft is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 10 Oct 2026.
 
 msft is a garage and bass artist based in Italy, with 17 gigs on soundcheck across Brighton, Budapest, London and Milan and 2 more. Often billed alongside Mareeo, baeker and BOPINTROUBLE. Next up: Circus Tokyo, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ msft is a garage and bass artist based in Italy, with 17 gigs on soundcheck acro
 
 Mareeo, baeker, BOPINTROUBLE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msft/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msft/)*

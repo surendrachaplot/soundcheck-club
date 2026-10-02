@@ -1,6 +1,6 @@
 # Kuba Sojka
 
-Kuba Sojka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Kuba Sojka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Kuba Sojka is a techno and house artist based in Poland, with 8 gigs on soundcheck across Gdansk, Krakow and Warsaw. Often billed alongside Gary Holldman, Jurek Przezdziecki and Aetha. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Kuba Sojka is a techno and house artist based in Poland, with 8 gigs on soundche
 
 Gary Holldman, Jurek Przezdziecki, Aetha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubasojka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubasojka/)*

@@ -1,6 +1,6 @@
 # LPV
 
-LPV is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gate Milano, Milan on Fri, 2 Oct 2026.
+LPV is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
 LPV is a techno and trance artist based in Italy, with 19 gigs on soundcheck across Athens, Berlin, Cardiff and Helsinki and 6 more. Often billed alongside Fran LF, Lars Huismann and Parallx. Next up: Gate Milano, Milan on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ LPV is a techno and trance artist based in Italy, with 19 gigs on soundcheck acr
 
 Fran LF, Lars Huismann, Parallx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*

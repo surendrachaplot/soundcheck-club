@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gate Milano, Milan on Fri, 2 Oct 2026.
+Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Gate Milano, Milan on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Elli Acula is a techno and house artist based in Germany, with 218 gigs on sound
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

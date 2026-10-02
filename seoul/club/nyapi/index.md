@@ -1,6 +1,6 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Taxi Driver with Bahnya Sound System" on Fri, 2 Oct 2026.
+Nyapi is a music venue in Seoul with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Taxi Driver with Bahnya Sound System" on Fri, 2 Oct 2026.
 
 Nyapi is a music venue in Seoul listed on soundcheck. 13 upcoming gigs, with line-ups including .2ndfloor, Juncheol, ASIANPAYDAY and aso and 2 more. See dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
@@ -23,4 +23,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 13 upcoming gigs, with lin
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

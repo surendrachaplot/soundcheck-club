@@ -1,6 +1,6 @@
 # bebot
 
-bebot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 2 Oct 2026.
+bebot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 2 Oct 2026.
 
 bebot is a house and tech house artist, with 11 gigs on soundcheck across Chicago. Often billed alongside Saxogene, Airwolf Paradise and Avi Sic. Next up: Smoke & Mirrors, Chicago on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ bebot is a house and tech house artist, with 11 gigs on soundcheck across Chicag
 
 Saxogene, Airwolf Paradise, Avi Sic
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebot/)*

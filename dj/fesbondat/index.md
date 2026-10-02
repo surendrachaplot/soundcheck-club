@@ -1,6 +1,6 @@
 # Fes Bondat
 
-Fes Bondat is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
+Fes Bondat is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
 
 Fes Bondat is a house and afro house artist based in Spain, with 9 gigs on soundcheck across Valencia. Often billed alongside Gurrex, alvar. and Clemente (ES). Next up: Spook Club, Valencia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Fes Bondat is a house and afro house artist based in Spain, with 9 gigs on sound
 
 Gurrex, alvar., Clemente (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fesbondat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fesbondat/)*

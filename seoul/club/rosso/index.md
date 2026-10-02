@@ -1,6 +1,6 @@
 # Rosso
 
-Rosso is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DO NOT DISTURB #4" on Fri, 2 Oct 2026.
+Rosso is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DO NOT DISTURB #4" on Fri, 2 Oct 2026.
 
 Rosso is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Guno and Mikey!. See dates, start times and who's playing. Yongsangu Daesagwan-ro 31-gil, Seoul, Korea.
 
@@ -15,4 +15,4 @@ Rosso is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line
 
 Yongsangu Daesagwan-ro 31-gil, Seoul, Korea, Seoul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rosso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rosso/)*

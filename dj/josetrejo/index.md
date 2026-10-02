@@ -1,6 +1,6 @@
 # José Trejo
 
-José Trejo is a Dub Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LugarOSO, Mexico City on Sat, 17 Oct 2026.
+José Trejo is a Dub Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at LugarOSO, Mexico City on Sat, 17 Oct 2026.
 
 José Trejo is a dub techno and electronica artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Jonathan Jou, Spacial Guest and Anali. Next up: LugarOSO, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ José Trejo is a dub techno and electronica artist based in Mexico, with 10 gigs
 
 Jonathan Jou, Spacial Guest, Anali
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josetrejo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josetrejo/)*

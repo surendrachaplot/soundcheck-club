@@ -1,6 +1,6 @@
 # LAALLS
 
-LAALLS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
+LAALLS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
 
 LAALLS is a house and techno artist, with 46 gigs on soundcheck across London, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Tottie, Maddy Maia and Ardalan. Next up: Better Tomorrow, Los Angeles on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ LAALLS is a house and techno artist, with 46 gigs on soundcheck across London, L
 
 Tottie, Maddy Maia, Ardalan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laalls/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laalls/)*

@@ -1,6 +1,6 @@
 # Waxid
 
-Waxid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teritorija, Riga on Sat, 3 Oct 2026.
+Waxid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Teritorija, Riga on Sat, 3 Oct 2026.
 
 Waxid is a house and techno artist, with 35 gigs on soundcheck across Riga. Often billed alongside Esoniq, Ksenia Kamikaza and PUPA. Next up: Teritorija, Riga on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Waxid is a house and techno artist, with 35 gigs on soundcheck across Riga. Ofte
 
 Esoniq, Ksenia Kamikaza, PUPA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxid/)*

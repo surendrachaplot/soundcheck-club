@@ -1,6 +1,6 @@
 # Nazarud
 
-Nazarud is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
+Nazarud is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
 
 Nazarud is a techno and house artist based in Malaysia, with 26 gigs on soundcheck across Kuala Lumpur. Often billed alongside Jason Voon, Alam and Jaehaan. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nazarud is a techno and house artist based in Malaysia, with 26 gigs on soundche
 
 Jason Voon, Alam, Jaehaan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazarud/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazarud/)*

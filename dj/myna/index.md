@@ -1,6 +1,6 @@
 # MYNA
 
-MYNA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gut Level, Sheffield on Fri, 2 Oct 2026.
+MYNA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gut Level, Sheffield on Fri, 2 Oct 2026.
 
 MYNA is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 3 more. Often billed alongside Gracie T, Shannon From Admin and colecta. Next up: Gut Level, Sheffield on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ MYNA is a techno and house artist based in United Kingdom, with 58 gigs on sound
 
 Gracie T, Shannon From Admin, colecta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

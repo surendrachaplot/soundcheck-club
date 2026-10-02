@@ -1,6 +1,6 @@
 # Joe NBO
 
-Joe NBO is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Fri, 2 Oct 2026.
+Joe NBO is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Fri, 2 Oct 2026.
 
 Joe NBO is a drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Alcemist, Ada and Ama (UK). Next up: Ministry Of Sound, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Joe NBO is a drum & bass artist based in United Kingdom, with 7 gigs on soundche
 
 Alcemist, Ada, Ama (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joenbo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joenbo/)*

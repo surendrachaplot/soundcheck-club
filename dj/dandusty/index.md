@@ -1,6 +1,6 @@
 # Dan Dusty
 
-Dan Dusty is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Dan Dusty is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Dan Dusty is a house and minimal artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam. Often billed alongside Luis Ripa, Benjamin Berg and De Sluwe Vos. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dan Dusty is a house and minimal artist based in Netherlands, with 29 gigs on so
 
 Luis Ripa, Benjamin Berg, De Sluwe Vos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*

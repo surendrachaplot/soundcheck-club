@@ -1,6 +1,6 @@
 # Mo-Shi
 
-Mo-Shi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Mo-Shi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
 Mo-Shi is a house and deep house artist based in France, with 28 gigs on soundcheck across Bali, Bangkok, Hong Kong and Mexico City and 2 more. Often billed alongside Milam, Leon (FR) and Nino (FR). Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mo-Shi is a house and deep house artist based in France, with 28 gigs on soundch
 
 Milam, Leon (FR), Nino (FR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-shi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-shi/)*

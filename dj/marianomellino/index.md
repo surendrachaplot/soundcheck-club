@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Sunshine Coast, South-australia on Fri, 2 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Sunshine Coast, South-australia on Fri, 2 Oct 2026.
 
 Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: TBA - Sunshine Coast, South Australia on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 
 Guy J, Colyn, Henry Saiz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

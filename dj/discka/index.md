@@ -1,6 +1,6 @@
 # Discka
 
-Discka is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Discka is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Discka is an experimental and club artist based in Germany, with 10 gigs on soundcheck across Berlin, Brussels and Tbilisi. Often billed alongside Mark Dartau, Aliar and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Discka is an experimental and club artist based in Germany, with 10 gigs on soun
 
 Mark Dartau, Aliar, bod [包家巷]
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discka/)*

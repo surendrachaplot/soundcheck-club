@@ -1,6 +1,6 @@
 # Sherø
 
-Sherø is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Sherø is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
 Sherø is a house and techno artist based in Germany, with 63 gigs on soundcheck across Antwerp, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside 131bpm, ADAM MUNNINGS and Flemish.Fetish. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sherø is a house and techno artist based in Germany, with 63 gigs on soundcheck
 
 131bpm, ADAM MUNNINGS, Flemish.Fetish
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shero-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shero-de/)*

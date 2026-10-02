@@ -1,6 +1,6 @@
 # Granulized Rhythm
 
-Granulized Rhythm is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 2 Oct 2026.
+Granulized Rhythm is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 2 Oct 2026.
 
 Granulized Rhythm is a tech house and house artist based in Italy, with 4 gigs on soundcheck across London and Rome. Often billed alongside Bread & Butter, DANSKUL and Itswilliamquintero. Next up: Circolo degli Illuminati, Rome on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Granulized Rhythm is a tech house and house artist based in Italy, with 4 gigs o
 
 Bread & Butter, DANSKUL, Itswilliamquintero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/granulizedrhythm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/granulizedrhythm/)*

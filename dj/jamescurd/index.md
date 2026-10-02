@@ -1,6 +1,6 @@
 # James Curd
 
-James Curd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 10 Oct 2026.
+James Curd is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 10 Oct 2026.
 
 James Curd is a house and deep house artist based in United States of America, with 7 gigs on soundcheck across Bali, Chicago, Melbourne and San Diego and 1 more. Often billed alongside Derrick Carter, AROHA and Anna Morgan. Next up: Collingwood Basement, Melbourne on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ James Curd is a house and deep house artist based in United States of America, w
 
 Derrick Carter, AROHA, Anna Morgan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescurd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescurd/)*

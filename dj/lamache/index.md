@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Lamache is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Lamache is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Lamache is a house and techno artist based in Germany, with 114 gigs on soundche
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

@@ -1,8 +1,8 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
+Jubilee is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
 
-Jubilee is a house and techno artist based in United States of America, with 157 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
+Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Jubilee is a house and techno artist based in United States of America, with 157
 | Fri, 23 Oct 2026 | BASEMENT | New York City |
 | Sat, 31 Oct 2026 | Industry City | New York City |
 | Sun, 22 Nov 2026 | BAR Inc | Osaka |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Jubilee is a house and techno artist based in United States of America, with 157
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

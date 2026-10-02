@@ -1,6 +1,6 @@
 # Vektor - The Klub
 
-Vektor - The Klub is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VEKTOR OPENING - SOAKIN' GROOVE: Sicion (FR), AGA2L, Daniel Moritz, Rovizz, THIRD 2HIFT" on Fri, 16 Oct 2026.
+Vektor - The Klub is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "VEKTOR OPENING - SOAKIN' GROOVE: Sicion (FR), AGA2L, Daniel Moritz, Rovizz, THIRD 2HIFT" on Fri, 16 Oct 2026.
 
 Vektor - The Klub is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including ädene, AGA2L, Daniel Moritz and Johanna Bozai and 2 more. See dates, start times and who's playing. Budapest, 1075, Gozsdu Court hotel, Király u. 13,.
 
@@ -15,4 +15,4 @@ Vektor - The Klub is a music venue in Budapest listed on soundcheck. 2 upcoming 
 
 Budapest, 1075, Gozsdu Court hotel, Király u. 13,, Budapest
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*

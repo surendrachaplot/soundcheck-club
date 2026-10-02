@@ -1,6 +1,6 @@
 # Cinna Peyghamy
 
-Cinna Peyghamy is a Experimental and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Cinna Peyghamy is a Experimental and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Cinna Peyghamy is an experimental and dub techno artist based in France, with 33 gigs on soundcheck across Armenia, Basel, Berlin and Brussels and 7 more. Often billed alongside Azu Tiwaline, Mahmood Schricker and Ale Hop. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Cinna Peyghamy is an experimental and dub techno artist based in France, with 33
 
 Azu Tiwaline, Mahmood Schricker, Ale Hop
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnapeyghamy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnapeyghamy/)*

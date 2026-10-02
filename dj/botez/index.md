@@ -1,6 +1,6 @@
 # Botez
 
-Botez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Pink, Detroit on Fri, 9 Oct 2026.
+Botez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Big Pink, Detroit on Fri, 9 Oct 2026.
 
 Botez is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Chicago and Detroit. Often billed alongside Michael Nigro, Dantiez and Nathan Maxwell. Next up: Big Pink, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Botez is a house and techno artist based in United States of America, with 56 gi
 
 Michael Nigro, Dantiez, Nathan Maxwell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botez/)*

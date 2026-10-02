@@ -1,6 +1,6 @@
 # Dodo
 
-Dodo is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Twist Bar, Prague on Fri, 16 Oct 2026.
+Dodo is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Twist Bar, Prague on Fri, 16 Oct 2026.
 
 Dodo is a disco and techno artist, with 8 gigs on soundcheck across Brussels, Bucharest, Budapest and Prague and 1 more. Often billed alongside Old & Rich, Adis Is OK and Arash Ete. Next up: Twist Bar, Prague on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Dodo is a disco and techno artist, with 8 gigs on soundcheck across Brussels, Bu
 
 Old & Rich, Adis Is OK, Arash Ete
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodo/)*

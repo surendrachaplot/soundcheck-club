@@ -1,6 +1,6 @@
 # Soul of Sydney
 
-Soul of Sydney is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Greenwood Hotel, Sydney on Sun, 28 Feb 2027.
+Soul of Sydney is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greenwood Hotel, Sydney on Sun, 28 Feb 2027.
 
 Soul of Sydney is a disco and funk / soul artist, with 17 gigs on soundcheck across Sydney. Often billed alongside Phil Toke, Adrian Benedek and Edseven. Next up: The Greenwood Hotel, Sydney on Sun 28 Feb.
 
@@ -25,4 +25,4 @@ Soul of Sydney is a disco and funk / soul artist, with 17 gigs on soundcheck acr
 
 Phil Toke, Adrian Benedek, Edseven
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofsydney/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofsydney/)*

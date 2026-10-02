@@ -1,6 +1,6 @@
 # Anthity
 
-Anthity is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
+Anthity is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
 
 Anthity is a tech house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Pulziv, Nathalie Henriette and BASSIKS. Next up: Onder Hans, Amsterdam on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Anthity is a tech house and techno artist based in Netherlands, with 9 gigs on s
 
 Pulziv, Nathalie Henriette, BASSIKS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthity/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthity/)*

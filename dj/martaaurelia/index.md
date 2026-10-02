@@ -1,6 +1,6 @@
 # Marta Aurelia
 
-Marta Aurelia is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Marta Aurelia is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Marta Aurelia is a house and tech house artist based in Germany, with 25 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Surreal (DE), Le.Fu and Marco Baskind. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Marta Aurelia is a house and tech house artist based in Germany, with 25 gigs on
 
 Surreal (DE), Le.Fu, Marco Baskind
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*

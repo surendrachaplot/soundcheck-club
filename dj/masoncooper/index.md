@@ -1,6 +1,6 @@
 # Mason Cooper
 
-Mason Cooper is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Mason Cooper is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Mason Cooper is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Joss Dean, Tommy Phillips and Luke Dean_. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Mason Cooper is a house and tech house artist based in United Kingdom, with 24 g
 
 Joss Dean, Tommy Phillips, Luke Dean_
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncooper/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncooper/)*

@@ -1,6 +1,6 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Apollonia is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 Apollonia is a house and techno artist based in France, with 102 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: FOLD, London on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Apollonia is a house and techno artist based in France, with 102 gigs on soundch
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

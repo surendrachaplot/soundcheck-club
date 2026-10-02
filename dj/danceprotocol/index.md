@@ -1,6 +1,6 @@
 # DANCE PROTOCOL
 
-DANCE PROTOCOL is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
+DANCE PROTOCOL is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
 
 DANCE PROTOCOL is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Ibiza, Leeds and London. Often billed alongside Hamish & Toby, Heels & Souls and Mari.te. Next up: NDR2 Red Room, London on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ DANCE PROTOCOL is a house and deep house artist based in United Kingdom, with 8 
 
 Hamish & Toby, Heels & Souls, Mari.te
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceprotocol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceprotocol/)*

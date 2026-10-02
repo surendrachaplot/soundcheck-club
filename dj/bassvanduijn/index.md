@@ -1,6 +1,6 @@
 # Bass van Duijn
 
-Bass van Duijn is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+Bass van Duijn is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
 Bass van Duijn is a disco and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and London. Often billed alongside Around Us, Callecat and Gustin. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Bass van Duijn is a disco and house artist based in Netherlands, with 6 gigs on 
 
 Around Us, Callecat, Gustin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvanduijn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvanduijn/)*

@@ -1,6 +1,6 @@
 # James Blake
 
-James Blake is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Grand Rex, Paris on Mon, 12 Oct 2026.
+James Blake is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Grand Rex, Paris on Mon, 12 Oct 2026.
 
 James Blake is an electro and experimental artist based in United Kingdom, with 32 gigs on soundcheck across Bali, Barcelona, Bristol and Chicago and 15 more. Often billed alongside Airhead, Overmono and DJ Holographic. Next up: Le Grand Rex, Paris on Mon 12 Oct.
 
@@ -26,4 +26,4 @@ James Blake is an electro and experimental artist based in United Kingdom, with 
 
 Airhead, Overmono, DJ Holographic
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*

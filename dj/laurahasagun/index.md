@@ -1,6 +1,6 @@
 # Laura Hasagun
 
-Laura Hasagun is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
+Laura Hasagun is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
 
 Laura Hasagun is a techno artist based in Portugal, with 20 gigs on soundcheck across Lisbon and Porto. Often billed alongside Brusca, Midinoize and Alarico. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Laura Hasagun is a techno artist based in Portugal, with 20 gigs on soundcheck a
 
 Brusca, Midinoize, Alarico
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurahasagun/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurahasagun/)*

@@ -1,6 +1,6 @@
 # Razhden
 
-Razhden is a Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 2 Oct 2026.
+Razhden is a Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 2 Oct 2026.
 
 Razhden is a tech house artist based in Georgia, with 39 gigs on soundcheck across Tbilisi. Often billed alongside Dirac, Parna and Gio Shengelia. Next up: Mtkvarze, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Razhden is a tech house artist based in Georgia, with 39 gigs on soundcheck acro
 
 Dirac, Parna, Gio Shengelia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razhden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razhden/)*

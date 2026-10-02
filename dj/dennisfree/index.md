@@ -1,6 +1,6 @@
 # Dennis Free
 
-Dennis Free is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Dennis Free is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Dennis Free is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, London, Miami and New York City and 1 more. Often billed alongside MESA (DJ), Pedrose and EDEN BEKELE. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Dennis Free is a house and techno artist based in United States of America, with
 
 MESA (DJ), Pedrose, EDEN BEKELE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisfree/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisfree/)*

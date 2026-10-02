@@ -1,6 +1,6 @@
 # Kamixlo
 
-Kamixlo is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
+Kamixlo is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
 
 Kamixlo is an experimental and club artist based in United Kingdom, with 51 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Isabella Lovestory, Felix Lee and Mechatok. Next up: TBA, Los Angeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kamixlo is an experimental and club artist based in United Kingdom, with 51 gigs
 
 Isabella Lovestory, Felix Lee, Mechatok
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*

@@ -1,6 +1,6 @@
 # sakali
 
-sakali is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 9 Oct 2026.
+sakali is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 9 Oct 2026.
 
 sakali is a downtempo and house artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside Demofather, Keras and Nathalie Seres. Next up: TBA - secret location, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ sakali is a downtempo and house artist based in Italy, with 27 gigs on soundchec
 
 Demofather, Keras, Nathalie Seres
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakali/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakali/)*

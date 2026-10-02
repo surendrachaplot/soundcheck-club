@@ -1,6 +1,6 @@
 # Dub Athlete
 
-Dub Athlete is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
+Dub Athlete is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
 Dub Athlete is a bass and dubstep artist based in United Kingdom, with 60 gigs on soundcheck across Auckland, Berlin, Brighton and Bristol and 5 more. Often billed alongside DUKU, SGT Pokes and MC Toast. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dub Athlete is a bass and dubstep artist based in United Kingdom, with 60 gigs o
 
 DUKU, SGT Pokes, MC Toast
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubathlete/)*

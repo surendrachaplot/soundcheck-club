@@ -1,6 +1,6 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Dome, Liverpool on Fri, 30 Oct 2026.
+Don't F**k with Disco is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Dome, Liverpool on Fri, 30 Oct 2026.
 
 Don't F**k with Disco is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Birmingham, Bristol, Glasgow and Ibiza and 3 more. Often billed alongside Cj Cooper, Daisybelle and M'Lover. Next up: The Dome, Liverpool on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Don't F**k with Disco is a house and disco artist based in United Kingdom, with 
 
 Cj Cooper, Daisybelle, M'Lover
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

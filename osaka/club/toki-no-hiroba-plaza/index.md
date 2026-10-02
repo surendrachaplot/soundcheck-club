@@ -1,6 +1,6 @@
 # Toki No Hiroba Plaza
 
-Toki No Hiroba Plaza is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ONDO LAND" on Mon, 12 Oct 2026.
+Toki No Hiroba Plaza is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "ONDO LAND" on Mon, 12 Oct 2026.
 
 Toki No Hiroba Plaza is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including Daito Manabe, Foodman, Kuniyuki and machìna. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Toki No Hiroba Plaza is a music venue in Osaka listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Mon, 12 Oct 2026 | ONDO LAND | Daito Manabe, Foodman, Kuniyuki, machìna |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/toki-no-hiroba-plaza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/toki-no-hiroba-plaza/)*

@@ -1,6 +1,6 @@
 # DJ FUMI
 
-DJ FUMI is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+DJ FUMI is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 DJ FUMI is a techno and psytrance artist, with 14 gigs on soundcheck across Bangkok, Kyushu, Osaka and Tokyo. Often billed alongside FUMI, BEENIE PIMP and Blackship. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ FUMI is a techno and psytrance artist, with 14 gigs on soundcheck across Bang
 
 FUMI, BEENIE PIMP, Blackship
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfumi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfumi/)*

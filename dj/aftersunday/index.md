@@ -1,6 +1,6 @@
 # Aftersunday
 
-Aftersunday is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Aftersunday is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Aftersunday is a house and tech house artist based in Poland, with 27 gigs on soundcheck across Amsterdam, Düsseldorf and Warsaw. Often billed alongside NuCasa, Kuvau and Angelo Mike. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Aftersunday is a house and tech house artist based in Poland, with 27 gigs on so
 
 NuCasa, Kuvau, Angelo Mike
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aftersunday/)*

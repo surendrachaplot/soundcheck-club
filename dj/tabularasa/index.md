@@ -1,6 +1,6 @@
 # Tabula Rasa
 
-Tabula Rasa is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meraki, Liverpool on Fri, 2 Oct 2026.
+Tabula Rasa is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meraki, Liverpool on Fri, 2 Oct 2026.
 
 Tabula Rasa is a drum & bass and hardcore artist based in Germany, with 14 gigs on soundcheck across Boston, Bucharest, Liverpool and Madrid and 1 more. Often billed alongside Loucid, Xoce and Atrâm. Next up: Meraki, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tabula Rasa is a drum & bass and hardcore artist based in Germany, with 14 gigs 
 
 Loucid, Xoce, Atrâm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tabularasa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tabularasa/)*

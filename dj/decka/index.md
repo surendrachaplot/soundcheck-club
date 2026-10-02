@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gare Porto, Porto on Fri, 2 Oct 2026.
+Decka is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gare Porto, Porto on Fri, 2 Oct 2026.
 
 Decka is a techno and electronica artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Belgrade, Berlin and Birmingham and 12 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Gare Porto, Porto on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Decka is a techno and electronica artist based in United Kingdom, with 47 gigs o
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

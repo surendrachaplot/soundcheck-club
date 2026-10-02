@@ -1,6 +1,6 @@
 # Stasi Sanlin
 
-Stasi Sanlin is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Stasi Sanlin is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Stasi Sanlin is a house and afro house artist based in Kazakhstan, with 17 gigs on soundcheck across Amsterdam, Athens, Bali and Brussels and 7 more. Often billed alongside &ME, 999999999 and AJNA. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Stasi Sanlin is a house and afro house artist based in Kazakhstan, with 17 gigs 
 
 &ME, 999999999, AJNA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*

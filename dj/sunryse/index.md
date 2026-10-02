@@ -1,6 +1,6 @@
 # SunrYse
 
-SunrYse is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
+SunrYse is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
 
 SunrYse is a progressive house and trance artist based in United States of America, with 32 gigs on soundcheck across Austin, Miami, New York City and Philadelphia. Often billed alongside TOMMYLOGIK, Asch Pintura and Dan Miles. Next up: One77 Brooklyn, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SunrYse is a progressive house and trance artist based in United States of Ameri
 
 TOMMYLOGIK, Asch Pintura, Dan Miles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*

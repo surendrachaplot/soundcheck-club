@@ -1,6 +1,6 @@
 # Katatonic Silentio
 
-Katatonic Silentio is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+Katatonic Silentio is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 Katatonic Silentio is a techno and bass artist based in Italy, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Stenny, Skee Mask and Odd Shy Guy. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Katatonic Silentio is a techno and bass artist based in Italy, with 86 gigs on s
 
 Stenny, Skee Mask, Odd Shy Guy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katatonicsilentio-it/)*

@@ -1,6 +1,6 @@
 # Sonia Sol
 
-Sonia Sol is a Hip-Hop and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
+Sonia Sol is a Hip-Hop and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
 
 Sonia Sol is a hip-hop and afrobeat artist based in United States of America, with 31 gigs on soundcheck across Berlin, Copenhagen, London and Los Angeles and 7 more. Often billed alongside AceMo, Cquestt and JVINCENT. Next up: Altes Postlager, Rhineland Palatinate on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sonia Sol is a hip-hop and afrobeat artist based in United States of America, wi
 
 AceMo, Cquestt, JVINCENT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*

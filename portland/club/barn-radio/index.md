@@ -1,6 +1,6 @@
 # Barn Radio
 
-Barn Radio is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "barn: 172. The Equation (AceMo & Swami Sound)" on Sat, 3 Oct 2026.
+Barn Radio is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "barn: 172. The Equation (AceMo & Swami Sound)" on Sat, 3 Oct 2026.
 
 Barn Radio is a music venue in Portland listed on soundcheck. 2 upcoming gigs, with line-ups including AceMo, Miley Serious and Swami Sound. See dates, start times and who's playing. 215 SW 1st Ave, Portland, OR 97204, United States.
 
@@ -15,4 +15,4 @@ Barn Radio is a music venue in Portland listed on soundcheck. 2 upcoming gigs, w
 
 215 SW 1st Ave, Portland, OR 97204, United States, Portland
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*

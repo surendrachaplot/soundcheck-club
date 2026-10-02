@@ -1,6 +1,6 @@
 # fuxia
 
-fuxia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
+fuxia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
 
 fuxia is a techno and electro artist based in Germany, with 10 gigs on soundcheck across Berlin, Buenos Aires, Leipzig and Munich. Often billed alongside Pascal Rudert, Aio and Konfusia. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ fuxia is a techno and electro artist based in Germany, with 10 gigs on soundchec
 
 Pascal Rudert, Aio, Konfusia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuxia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuxia/)*

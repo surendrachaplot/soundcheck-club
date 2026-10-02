@@ -1,6 +1,6 @@
 # Boyd Schidt
 
-Boyd Schidt is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Boyd Schidt is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Boyd Schidt is a techno and ebm artist based in Georgia, with 86 gigs on soundcheck across Athens, Bangkok, Berlin and Dublin and 11 more. Often billed alongside Frequency Shifter, Vulkanski and Liza Rivs. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Boyd Schidt is a techno and ebm artist based in Georgia, with 86 gigs on soundch
 
 Frequency Shifter, Vulkanski, Liza Rivs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boydschidt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boydschidt/)*

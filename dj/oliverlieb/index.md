@@ -1,6 +1,6 @@
 # Oliver Lieb
 
-Oliver Lieb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
+Oliver Lieb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
 
 Oliver Lieb is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Frankfurt, Helsinki and London and 2 more. Often billed alongside DJ Dag, DJ JVS and Glayden. Next up: Gaffe, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Oliver Lieb is a techno and trance artist based in Germany, with 10 gigs on soun
 
 DJ Dag, DJ JVS, Glayden
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*

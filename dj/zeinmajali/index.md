@@ -1,6 +1,6 @@
 # Zein Majali
 
-Zein Majali is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wapping Hydraulic Power Station, London on Sat, 17 Oct 2026.
+Zein Majali is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wapping Hydraulic Power Station, London on Sat, 17 Oct 2026.
 
 Zein Majali is an experimental and industrial artist based in Palestine, with 7 gigs on soundcheck across Berlin and London. Often billed alongside Sippin' T, Kinlaw and Bianca Scout. Next up: Wapping Hydraulic Power Station, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Zein Majali is an experimental and industrial artist based in Palestine, with 7 
 
 Sippin' T, Kinlaw, Bianca Scout
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeinmajali/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeinmajali/)*

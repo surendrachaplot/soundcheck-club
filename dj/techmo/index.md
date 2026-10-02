@@ -1,6 +1,6 @@
 # Techmo
 
-Techmo is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+Techmo is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
 
 Techmo is a techno and drum & bass artist based in Germany, with 76 gigs on soundcheck across Berlin, Bucharest, Cologne and Frankfurt and 5 more. Often billed alongside Upzet, DJ Jordan and Fab Massimo. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Techmo is a techno and drum & bass artist based in Germany, with 76 gigs on soun
 
 Upzet, DJ Jordan, Fab Massimo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techmo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techmo/)*

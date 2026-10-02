@@ -1,6 +1,6 @@
 # Roja (2)
 
-Roja (2) is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Nacional, Melbourne on Sat, 3 Oct 2026.
+Roja (2) is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Radio Nacional, Melbourne on Sat, 3 Oct 2026.
 
 Roja is a house and afro tech artist based in Malaysia, with 7 gigs on soundcheck across Melbourne. Often billed alongside From the Tropics, Perka and Skyyy. Next up: Radio Nacional, Melbourne on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Roja is a house and afro tech artist based in Malaysia, with 7 gigs on soundchec
 
 From the Tropics, Perka, Skyyy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roja-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roja-2/)*

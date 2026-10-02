@@ -1,6 +1,6 @@
 # 5ogol
 
-5ogol is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
+5ogol is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
 
 5ogol is a techno and industrial artist based in Iran, with 48 gigs on soundcheck across Berlin, Birmingham, Budapest and Geneva and 3 more. Often billed alongside Barbad, VRODAK and Akác. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Barbad, VRODAK, Akác
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ogol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ogol/)*

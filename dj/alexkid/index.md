@@ -1,6 +1,6 @@
 # Alexkid
 
-Alexkid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Alexkid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Alexkid is a house and techno artist based in France, with 38 gigs on soundcheck across Berlin, Brisbane, Melbourne and Paris and 2 more. Often billed alongside Robert Drewek, Johannes Albert and Julie Marghilano. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Alexkid is a house and techno artist based in France, with 38 gigs on soundcheck
 
 Robert Drewek, Johannes Albert, Julie Marghilano
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkid/)*

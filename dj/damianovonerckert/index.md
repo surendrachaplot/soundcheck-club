@@ -1,6 +1,6 @@
 # Damiano von Erckert
 
-Damiano von Erckert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
+Damiano von Erckert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
 
 Damiano von Erckert is a house and techno artist based in Germany, with 43 gigs on soundcheck across Barcelona, Berlin, Cologne and Düsseldorf and 12 more. Often billed alongside Sven Vath, Maurizio Schmitz and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Damiano von Erckert is a house and techno artist based in Germany, with 43 gigs 
 
 Sven Vath, Maurizio Schmitz, Ana Molina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianovonerckert/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianovonerckert/)*

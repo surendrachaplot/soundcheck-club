@@ -1,6 +1,6 @@
 # VCL (FR)
 
-VCL (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Virage, Paris on Sat, 24 Oct 2026.
+VCL (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Virage, Paris on Sat, 24 Oct 2026.
 
 VCL (FR) is a techno and trance artist based in France, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 9 more. Often billed alongside DXPE (ES), EARGASM GOD and GRAViiTY. Next up: Virage, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VCL (FR) is a techno and trance artist based in France, with 27 gigs on soundche
 
 DXPE (ES), EARGASM GOD, GRAViiTY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vclfr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vclfr/)*

@@ -1,6 +1,6 @@
 # Riki Boro
 
-Riki Boro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Riki Boro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Riki Boro is a techno and house artist based in Kazakhstan, with 44 gigs on soundcheck across Prague. Often billed alongside Thomas Tesla, Diva and KAWA. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Riki Boro is a techno and house artist based in Kazakhstan, with 44 gigs on soun
 
 Thomas Tesla, Diva, KAWA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*

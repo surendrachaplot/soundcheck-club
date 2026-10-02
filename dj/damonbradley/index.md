@@ -1,6 +1,6 @@
 # Damon Bradley
 
-Damon Bradley is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KEYBAR, New York City on Sat, 10 Oct 2026.
+Damon Bradley is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KEYBAR, New York City on Sat, 10 Oct 2026.
 
 Damon Bradley is a techno and industrial artist based in United States of America, with 9 gigs on soundcheck across Chicago, Copenhagen, Detroit and New York City and 1 more. Often billed alongside Jahveri, Juana and 999999999. Next up: KEYBAR, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Damon Bradley is a techno and industrial artist based in United States of Americ
 
 Jahveri, Juana, 999999999
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*

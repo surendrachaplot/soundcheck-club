@@ -1,6 +1,6 @@
 # Joe Kay
 
-Joe Kay is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BERHTA, Washington DC on Sat, 10 Oct 2026.
+Joe Kay is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BERHTA, Washington DC on Sat, 10 Oct 2026.
 
 Joe Kay is a house and afro house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 8 more. Often billed alongside Meedy, Carozilla and JAEL. Next up: BERHTA, Washington DC on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joe Kay is a house and afro house artist based in Germany, with 26 gigs on sound
 
 Meedy, Carozilla, JAEL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joekay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joekay/)*

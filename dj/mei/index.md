@@ -1,6 +1,6 @@
 # M E I
 
-M E I is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+M E I is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 M E I is a techno and hip-hop artist based in Canada, with 8 gigs on soundcheck across Berlin, Montreal and Tokyo. Often billed alongside Amu, Assassin and Drunken Kong. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ M E I is a techno and hip-hop artist based in Canada, with 8 gigs on soundcheck 
 
 Amu (1), Assassin, Drunken Kong
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mei/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mei/)*

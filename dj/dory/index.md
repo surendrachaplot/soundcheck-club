@@ -1,6 +1,6 @@
 # Dory
 
-Dory is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Dory is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Dory is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Bali, Bristol, Lisbon and Lyon and 3 more. Often billed alongside DJ Three, Robag Wruhme and 2HOT2PLAY. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dory is a house and deep house artist based in United States of America, with 10
 
 DJ Three, Robag Wruhme, 2HOT2PLAY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dory/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dory/)*

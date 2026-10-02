@@ -1,6 +1,6 @@
 # August Artier
 
-August Artier is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+August Artier is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 August Artier is a house and breakbeat artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Ibiza and Mallorca and 1 more. Often billed alongside DENA (IT), Cami Jones and Cassy. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ August Artier is a house and breakbeat artist based in Spain, with 25 gigs on so
 
 DENA (IT), Cami Jones, Cassy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustartier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustartier/)*

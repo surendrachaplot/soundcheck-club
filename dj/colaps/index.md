@@ -1,6 +1,6 @@
 # Colaps
 
-Colaps is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
+Colaps is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
 
 Colaps is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Gefra, Jo Cruz and Dom James U.K. Next up: TBA, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Colaps is a house and techno artist based in United Kingdom, with 41 gigs on sou
 
 Gefra, Jo Cruz, Dom James U.K
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colaps/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colaps/)*

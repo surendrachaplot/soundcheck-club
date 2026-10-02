@@ -1,6 +1,6 @@
 # eosap
 
-eosap is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
+eosap is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
 
 eosap is a house and techno artist based in United Kingdom, with 36 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Sammy Peeps, Sonho and Is Kill. Next up: Leith FAB Cricket Club, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ eosap is a house and techno artist based in United Kingdom, with 36 gigs on soun
 
 Sammy Peeps, Sonho, Is Kill
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eosap/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eosap/)*

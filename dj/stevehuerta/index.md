@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oven Club, Valencia on Fri, 2 Oct 2026.
+Huerta is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oven Club, Valencia on Fri, 2 Oct 2026.
 
 Huerta is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Oven Club, Valencia on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Huerta is a house and techno artist based in United States of America, with 125 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

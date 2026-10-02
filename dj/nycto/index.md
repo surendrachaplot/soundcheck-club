@@ -1,6 +1,6 @@
 # NYCTO
 
-NYCTO is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sensorium, Berlin on Fri, 9 Oct 2026.
+NYCTO is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sensorium, Berlin on Fri, 9 Oct 2026.
 
 NYCTO is a tech house and minimal artist based in Germany, with 31 gigs on soundcheck across Berlin, Budapest, Los Angeles and Montreal and 1 more. Often billed alongside SAAMO, Blck-Swan and Blosvenn. Next up: Sensorium, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ NYCTO is a tech house and minimal artist based in Germany, with 31 gigs on sound
 
 SAAMO, Blck-Swan, Blosvenn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*

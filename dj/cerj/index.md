@@ -1,6 +1,6 @@
 # CERJ
 
-CERJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+CERJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
 CERJ is a techno and house artist based in Denmark, with 51 gigs on soundcheck across Copenhagen, Frankfurt and London. Often billed alongside Aja Gulris, Only Ollie and Anders HP. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CERJ is a techno and house artist based in Denmark, with 51 gigs on soundcheck a
 
 Aja Gulris, Only Ollie, Anders HP
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cerj/)*

@@ -1,6 +1,6 @@
 # BAR (DE)
 
-BAR (DE) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
+BAR (DE) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
 
 BAR (DE) is a tech house and house artist based in Germany, with 38 gigs on soundcheck across Athens, Birmingham, London and Marseille and 6 more. Often billed alongside Pau Pérez, Blanch and Ariezzz. Next up: Oven Club, Valencia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ BAR (DE) is a tech house and house artist based in Germany, with 38 gigs on soun
 
 Pau Pérez, Blanch, Ariezzz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*

@@ -1,6 +1,6 @@
 # GuyOhm
 
-GuyOhm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plein Publiek, Antwerp on Sat, 3 Oct 2026.
+GuyOhm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plein Publiek, Antwerp on Sat, 3 Oct 2026.
 
 GuyOhm is a techno and electro artist based in France, with 13 gigs on soundcheck across Antwerp and Barcelona. Often billed alongside Undo, Headbirds and CANVI. Next up: Plein Publiek, Antwerp on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GuyOhm is a techno and electro artist based in France, with 13 gigs on soundchec
 
 Undo, Headbirds, CANVI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyohm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyohm/)*

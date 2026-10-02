@@ -1,6 +1,6 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+Mr. V is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
 Mr. V is a house and deep house artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside Julius Papp, David Harness and Franky Boissy. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mr. V is a house and deep house artist based in United States of America, with 1
 
 Julius Papp, David Harness, Franky Boissy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

@@ -1,6 +1,6 @@
 # Café Van Zuylen
 
-Café Van Zuylen is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RÉSHAU x GROOVEDESK ADE meetup" on Tue, 20 Oct 2026.
+Café Van Zuylen is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "RÉSHAU x GROOVEDESK ADE meetup" on Tue, 20 Oct 2026.
 
 Café Van Zuylen is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Torensteeg 8, 1012 VK Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Café Van Zuylen is a music venue in Amsterdam listed on soundcheck. 1 upcoming 
 
 Torensteeg 8, 1012 VK Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-van-zuylen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-van-zuylen/)*

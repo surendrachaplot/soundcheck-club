@@ -1,6 +1,6 @@
 # Juan Mare
 
-Juan Mare is a Ambient and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
+Juan Mare is a Ambient and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
 
 Juan Mare is an ambient and breakbeat artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside eosap, SSID and Ann Tweak. Next up: Leith FAB Cricket Club, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Juan Mare is an ambient and breakbeat artist based in United Kingdom, with 9 gig
 
 eosap, SSID, Ann Tweak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmare/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmare/)*

@@ -1,6 +1,6 @@
 # TTX (GER)
 
-TTX (GER) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
+TTX (GER) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
 
 TTX (GER) is a house and bass artist based in Germany, with 27 gigs on soundcheck across Hamburg. Often billed alongside Tana, DJ Babyblade and DJ Hochzeit. Next up: glimmer, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ TTX (GER) is a house and bass artist based in Germany, with 27 gigs on soundchec
 
 Tana (2), DJ Babyblade, DJ Hochzeit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ttxger/)*

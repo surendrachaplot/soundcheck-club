@@ -1,6 +1,6 @@
 # Brent Burns
 
-Brent Burns is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
+Brent Burns is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
 
 Brent Burns is a house and balearic artist based in Thailand, with 80 gigs on soundcheck across Bangkok, Budapest, Hong Kong and Seoul and 2 more. Often billed alongside Seelie, Mumsfilibaba and Mr.Mowgli. Next up: Bar Temp., Bangkok on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Brent Burns is a house and balearic artist based in Thailand, with 80 gigs on so
 
 Seelie, Mumsfilibaba, Mr.Mowgli
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentburns/)*

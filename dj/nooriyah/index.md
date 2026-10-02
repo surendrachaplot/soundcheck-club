@@ -1,6 +1,6 @@
 # Nooriyah
 
-Nooriyah is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New Century Locker, Manchester on Fri, 2 Oct 2026.
+Nooriyah is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Century Locker, Manchester on Fri, 2 Oct 2026.
 
 Nooriyah is a house and club artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Jyoty, NIKS and Soichi Terada. Next up: New Century Locker, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nooriyah is a house and club artist based in United Kingdom, with 61 gigs on sou
 
 Jyoty, NIKS, Soichi Terada
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nooriyah/)*

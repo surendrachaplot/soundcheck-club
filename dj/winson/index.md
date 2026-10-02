@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Winson is a Techno and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 Winson is a techno and deep house artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 26 more. Often billed alongside KLOFAMA, KARAH and KUKO. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -30,4 +30,4 @@ Winson is a techno and deep house artist based in France, with 68 gigs on soundc
 
 KLOFAMA, KARAH, KUKO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

@@ -1,6 +1,6 @@
 # Chloe K
 
-Chloe K is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lock Inn Camden, London on Sat, 31 Oct 2026.
+Chloe K is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lock Inn Camden, London on Sat, 31 Oct 2026.
 
 Chloe K is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Kaz Daniels, Alfie Hart and Chloe Fontaine. Next up: Lock Inn Camden, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chloe K is a garage and house artist based in United Kingdom, with 10 gigs on so
 
 Kaz Daniels, Alfie Hart, Chloe Fontaine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloek/)*

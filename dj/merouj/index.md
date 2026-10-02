@@ -1,6 +1,6 @@
 # MEROUJ
 
-MEROUJ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+MEROUJ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 MEROUJ is a techno and house artist, with 5 gigs on soundcheck across Armenia, Berlin and Tbilisi. Often billed alongside TaronX, Animistic Beliefs and Dave N.A.. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ MEROUJ is a techno and house artist, with 5 gigs on soundcheck across Armenia, B
 
 TaronX, Animistic Beliefs, Dave N.A.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merouj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merouj/)*

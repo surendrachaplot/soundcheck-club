@@ -1,6 +1,6 @@
 # TBA - ALL AROUND LONDON
 
-TBA - ALL AROUND LONDON is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "A PARTY ON A MOVING BUS (+ After party )" on Fri, 30 Oct 2026.
+TBA - ALL AROUND LONDON is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "A PARTY ON A MOVING BUS (+ After party )" on Fri, 30 Oct 2026.
 
 TBA - ALL AROUND LONDON is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ALL AROUND LONDON is a music venue in London listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | A PARTY ON A MOVING BUS (+ After party ) |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-all-around-london/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-all-around-london/)*

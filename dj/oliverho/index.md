@@ -1,6 +1,6 @@
 # Oliver Ho
 
-Oliver Ho is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Oliver Ho is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Oliver Ho is a techno and industrial artist based in United Kingdom, with 11 gigs on soundcheck across Athens, Berlin, Birmingham and Colombia and 2 more. Often billed alongside Regis, Rangelova and Choronzon. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Oliver Ho is a techno and industrial artist based in United Kingdom, with 11 gig
 
 Regis, Rangelova, Choronzon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*

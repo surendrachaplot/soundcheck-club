@@ -1,6 +1,6 @@
 # g3kko
 
-g3kko is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+g3kko is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 g3kko is a techno and club artist based in Poland, with 11 gigs on soundcheck across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, PLATTER and BOYCA. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ g3kko is a techno and club artist based in Poland, with 11 gigs on soundcheck ac
 
 androgienia, PLATTER, BOYCA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g3kko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g3kko/)*

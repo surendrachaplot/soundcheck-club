@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Ricardo Villalobos is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Ricardo Villalobos is a techno and house artist based in Chile, with 125 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 125 gigs on
 
 Raresh, Tomas Station, O.BEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

@@ -1,6 +1,6 @@
 # Samuel Rohrer
 
-Samuel Rohrer is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
+Samuel Rohrer is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 Samuel Rohrer is a downtempo and ambient artist based in Switzerland, with 7 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Deadbeat, Rouge Mécanique and e/tape. Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Samuel Rohrer is a downtempo and ambient artist based in Switzerland, with 7 gig
 
 Deadbeat, Rouge Mécanique, e/tape
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrohrer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrohrer/)*

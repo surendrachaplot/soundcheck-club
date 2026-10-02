@@ -1,6 +1,6 @@
 # Mark Williams
 
-Mark Williams is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
+Mark Williams is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
 Mark Williams is a techno and industrial artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 5 more. Often billed alongside DJ Bone, Yeti Mind Tricks and Azucy. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mark Williams is a techno and industrial artist based in United Kingdom, with 13
 
 DJ Bone, Yeti Mind Tricks, Azucy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliams/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliams/)*

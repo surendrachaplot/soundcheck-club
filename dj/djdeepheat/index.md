@@ -1,6 +1,6 @@
 # DJ Deep Heat
 
-DJ Deep Heat is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
+DJ Deep Heat is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
 DJ Deep Heat is a trance and house artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Deep Heat, Lo Shea and 96 Back. Next up: FORGE, Sheffield on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ DJ Deep Heat is a trance and house artist based in United Kingdom, with 34 gigs 
 
 Deep Heat, Lo Shea, 96 Back
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeepheat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeepheat/)*

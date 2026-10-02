@@ -1,6 +1,6 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Sat, 3 Oct 2026.
+Cristoph is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Digital, Newcastle on Sat, 3 Oct 2026.
 
 Cristoph is a techno and progressive house artist based in United Kingdom, with 147 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 34 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Digital, Newcastle on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Cristoph is a techno and progressive house artist based in United Kingdom, with 
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

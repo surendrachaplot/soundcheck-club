@@ -1,6 +1,6 @@
 # Louden
 
-Louden is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Louden is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
 Louden is a house and tech house artist based in Italy, with 26 gigs on soundcheck across Barcelona, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside DXNBY, Candidate and Chopper (UK). Next up: Ministry Of Sound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Louden is a house and tech house artist based in Italy, with 26 gigs on soundche
 
 DXNBY, Candidate, Chopper (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louden/)*

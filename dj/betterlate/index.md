@@ -1,6 +1,6 @@
 # Better Late
 
-Better Late is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
+Better Late is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
 
 Better Late is a house and disco artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: TBA - Secret location, Tarragona, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Better Late is a house and disco artist based in United Kingdom, with 76 gigs on
 
 HannahLuyah, Mimsy, DJ Will Grant
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*

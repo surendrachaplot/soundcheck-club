@@ -1,6 +1,6 @@
 # Naluu
 
-Naluu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
+Naluu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
 
 Naluu is a house and minimal artist based in Japan, with 23 gigs on soundcheck across Amsterdam and Osaka. Often billed alongside DMITRI ABSINTHE, Jonathan Coe and MAX PELA. Next up: Blast Galaxy, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Naluu is a house and minimal artist based in Japan, with 23 gigs on soundcheck a
 
 DMITRI ABSINTHE, Jonathan Coe, MAX PELA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naluu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naluu/)*

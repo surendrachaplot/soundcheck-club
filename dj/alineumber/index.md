@@ -1,8 +1,8 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plaza Camden, London on Sat, 10 Oct 2026.
+Aline Umber is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Plaza Camden, London on Sat, 10 Oct 2026.
 
-Aline Umber is a house and minimal artist based in France, with 106 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Plaza Camden, London on Sat 10 Oct.
+Aline Umber is a house and minimal artist based in France, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Plaza Camden, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Aline Umber is a house and minimal artist based in France, with 106 gigs on soun
 | Sun, 1 Nov 2026 | Flash | Washington DC |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 28 Nov 2026 | TBA | Mexico City |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Aline Umber is a house and minimal artist based in France, with 106 gigs on soun
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

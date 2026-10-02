@@ -1,6 +1,6 @@
 # Dj Heartbreak
 
-Dj Heartbreak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
+Dj Heartbreak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
 
 Dj Heartbreak is a house and deep house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Oslo. Often billed alongside Naomi (Berlin), Arthur Baron and Natalie Robinson. Next up: OHM, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dj Heartbreak is a house and deep house artist based in Germany, with 24 gigs on
 
 Naomi (Berlin), Arthur Baron, Natalie Robinson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartbreak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartbreak/)*

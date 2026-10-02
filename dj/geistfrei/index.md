@@ -1,14 +1,14 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Fri, 2 Oct 2026.
+GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Xing Dance Theatre, Toronto on Fri, 2 Oct 2026.
 
-GEISTFREI is a techno and ambient artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: TBA, Toronto on Fri 2 Oct.
+GEISTFREI is a techno and ambient artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 7 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: Xing Dance Theatre, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Toronto |
+| Fri, 2 Oct 2026 | Xing Dance Theatre | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ GEISTFREI is a techno and ambient artist based in Germany, with 35 gigs on sound
 
 Verhall, Melchiorr, Colum Urton
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*

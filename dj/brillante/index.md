@@ -1,8 +1,8 @@
 # Brillante
 
-Brillante is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 9 Oct 2026.
+Brillante is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 9 Oct 2026.
 
-Brillante is a techno and acid artist, with 37 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside Dove Quiete, Sister Effect and Volantis. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 9 Oct.
+Brillante is a techno and acid artist based in Italy, with 37 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside Dove Quiete, Sister Effect and Volantis. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Brillante is a techno and acid artist, with 37 gigs on soundcheck across Berlin,
 
 Dove Quiete, Sister Effect, Volantis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*

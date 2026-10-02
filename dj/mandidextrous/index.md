@@ -1,6 +1,6 @@
 # Mandidextrous
 
-Mandidextrous is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
+Mandidextrous is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
 
 Mandidextrous is a drum & bass and bass artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 29 more. Often billed alongside Samurai Breaks, Camo & Krooked and Carasel. Next up: Mint XL, Leeds on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mandidextrous is a drum & bass and bass artist based in United Kingdom, with 86 
 
 Samurai Breaks, Camo & Krooked, Carasel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*

@@ -1,6 +1,6 @@
 # Swan Drama
 
-Swan Drama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
+Swan Drama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
 Swan Drama is a techno and house artist based in Russia, with 20 gigs on soundcheck across Chicago and New York City. Often billed alongside Vesolo, Glamour Cadaver and Mina Mills. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Swan Drama is a techno and house artist based in Russia, with 20 gigs on soundch
 
 Vesolo, Glamour Cadaver, Mina Mills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swandrama/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swandrama/)*

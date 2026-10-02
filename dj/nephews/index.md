@@ -1,6 +1,6 @@
 # Nephews
 
-Nephews is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Nephews is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Nephews is a house and disco artist based in Germany, with 62 gigs on soundcheck across Berlin, Geneva, Leipzig and Tbilisi. Often billed alongside Luca Olivotto, Eva Crystaltips and Quadrakey. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nephews is a house and disco artist based in Germany, with 62 gigs on soundcheck
 
 Luca Olivotto, Eva Crystaltips, Quadrakey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nephews/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nephews/)*

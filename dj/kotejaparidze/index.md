@@ -1,6 +1,6 @@
 # Kote Japaridze
 
-Kote Japaridze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 2 Oct 2026.
+Kote Japaridze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 2 Oct 2026.
 
 Kote Japaridze is a house and techno artist based in Georgia, with 48 gigs on soundcheck across Berlin, Istanbul and Tbilisi. Often billed alongside SUMO, Cobert and Gio Shengelia. Next up: Mtkvarze, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kote Japaridze is a house and techno artist based in Georgia, with 48 gigs on so
 
 SUMO, Cobert, Gio Shengelia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotejaparidze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotejaparidze/)*

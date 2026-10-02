@@ -1,6 +1,6 @@
 # VIKk
 
-VIKk is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
+VIKk is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
 
 VIKk is a house and electro artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ VIKk is a house and electro artist based in Spain, with 76 gigs on soundcheck ac
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

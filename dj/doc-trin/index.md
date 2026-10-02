@@ -1,6 +1,6 @@
 # Doc'trin
 
-Doc'trin is a New Wave and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sans Soleil, Montreal on Sun, 18 Oct 2026.
+Doc'trin is a New Wave and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sans Soleil, Montreal on Sun, 18 Oct 2026.
 
 Doc'trin is a new wave and garage artist, with 16 gigs on soundcheck across Montreal. Often billed alongside Lexis (Music Is My Sanctuary), Alina (MTL) and Ellxandra. Next up: Sans Soleil, Montreal on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Doc'trin is a new wave and garage artist, with 16 gigs on soundcheck across Mont
 
 Lexis (Music Is My Sanctuary), Alina (MTL), Ellxandra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-trin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-trin/)*

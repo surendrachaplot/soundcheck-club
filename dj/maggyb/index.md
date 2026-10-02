@@ -1,6 +1,6 @@
 # Maggy B
 
-Maggy B is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Thu, 15 Oct 2026.
+Maggy B is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Thu, 15 Oct 2026.
 
 Maggy B is a jungle and drum & bass artist, with 9 gigs on soundcheck across Leeds, Lyon and Manchester. Often billed alongside Kniiight, Xodiak and Slidge. Next up: Stage and Radio, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Maggy B is a jungle and drum & bass artist, with 9 gigs on soundcheck across Lee
 
 Kniiight, Xodiak, Slidge
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggyb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggyb/)*

@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 2 Oct 2026.
+John Talabot is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 2 Oct 2026.
 
 John Talabot is a house and techno artist based in Spain, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: The Observatory, Ho Chi Minh City on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ John Talabot is a house and techno artist based in Spain, with 185 gigs on sound
 
 mad miran, Nicolas Lutz, Christian AB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

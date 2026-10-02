@@ -1,6 +1,6 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 14 Oct 2026.
+GI.O is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 14 Oct 2026.
 
 GI.O is a techno and trance artist based in Brazil, with 77 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: Lokschuppen Berlin, Berlin on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ GI.O is a techno and trance artist based in Brazil, with 77 gigs on soundcheck a
 
 Cara Elizabeth, The Jakob Sister, A.N.I.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio/)*

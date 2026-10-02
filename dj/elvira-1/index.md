@@ -1,6 +1,6 @@
 # Elvira (1)
 
-Elvira (1) is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Elvira (1) is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
 Elvira is a techno and dub artist based in India, with 22 gigs on soundcheck across Brussels, London, Milan and Paris and 1 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Elvira is a techno and dub artist based in India, with 22 gigs on soundcheck acr
 
 Subsism, Odd Shy Guy, Fatale Furylax
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*

@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "EAU DE COLOGNE" on Fri, 2 Oct 2026.
+KREUZWERK is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "EAU DE COLOGNE" on Fri, 2 Oct 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -22,4 +22,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

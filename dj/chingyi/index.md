@@ -1,6 +1,6 @@
 # Chingyi
 
-Chingyi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Acadana, Hong Kong on Fri, 2 Oct 2026.
+Chingyi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Acadana, Hong Kong on Fri, 2 Oct 2026.
 
 Chingyi is a techno and house artist based in China, with 30 gigs on soundcheck across Hong Kong, Lisbon, Seoul and Shanghai. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: Acadana, Hong Kong on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chingyi is a techno and house artist based in China, with 30 gigs on soundcheck 
 
 ADRIANNA.C, AngeliKa, Faxtory
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*

@@ -1,6 +1,6 @@
 # Ruvs Presents X Gusto: Carlos Souffront at TBA - 1012 4th Ave S
 
-Ruvs Presents X Gusto: Carlos Souffront at TBA - 1012 4th Ave S on Fri 23 Oct, Nashville. 4 artists: Blaine Mason, Carlos Souffront, Charlie Conway and Volast. See the line-up on soundcheck.
+Ruvs Presents X Gusto: Carlos Souffront at TBA - 1012 4th Ave S on Fri 23 Oct, Nashville. 4 artists: Blaine Mason, Carlos Souffront, Charlie Conway and Volast. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

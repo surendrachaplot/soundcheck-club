@@ -1,6 +1,6 @@
 # 4AM NYC
 
-4AM NYC is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 2 Oct 2026.
+4AM NYC is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 2 Oct 2026.
 
 4AM NYC is a house and disco artist based in United States of America, with 107 gigs on soundcheck across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: The Dolphin, Philadelphia on Fri 2 Oct.
 
@@ -28,4 +28,4 @@
 
 Shigeto, Toribio, Planet B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*

@@ -1,6 +1,6 @@
 # Brewboy
 
-Brewboy is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
+Brewboy is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
 
 Brewboy is a bass and drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Dance No Evil, Lewis Robertson and Speki C. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Brewboy is a bass and drum & bass artist based in United Kingdom, with 10 gigs o
 
 Dance No Evil, Lewis Robertson, Speki C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brewboy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brewboy/)*

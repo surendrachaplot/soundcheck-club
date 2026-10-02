@@ -1,6 +1,6 @@
 # Bambi Uzi
 
-Bambi Uzi is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Bambi Uzi is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Bambi Uzi is a drum & bass and dubstep artist based in Poland, with 22 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 4 more. Often billed alongside Alegria, Abuelita and 2K88. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bambi Uzi is a drum & bass and dubstep artist based in Poland, with 22 gigs on s
 
 Alegria, Abuelita, 2K88
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*

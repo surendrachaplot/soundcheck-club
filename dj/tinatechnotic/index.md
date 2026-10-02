@@ -1,6 +1,6 @@
 # Tina Technotic
 
-Tina Technotic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Colours Hoxton, London on Sat, 24 Oct 2026.
+Tina Technotic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Colours Hoxton, London on Sat, 24 Oct 2026.
 
 Tina Technotic is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, London, Madrid and Vienna. Often billed alongside Yukari, Kazuki Takahashi and Emilion Dollar Baby. Next up: Colours Hoxton, London on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Tina Technotic is a house and techno artist based in United Kingdom, with 9 gigs
 
 ## Recently played
 
+- Araña Club, Madrid · Thu, 1 Oct 2026
 - Distillery N17, London · Fri, 25 Sept 2026
 - Colours Hoxton, London · Sat, 22 Aug 2026
 - 45 London, London · Sat, 18 Jul 2026
@@ -24,4 +25,4 @@ Tina Technotic is a house and techno artist based in United Kingdom, with 9 gigs
 
 Yukari, Kazuki Takahashi, Emilion Dollar Baby
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatechnotic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatechnotic/)*

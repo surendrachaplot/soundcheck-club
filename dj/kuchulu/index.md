@@ -1,6 +1,6 @@
 # KUCHULU
 
-KUCHULU is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Sat, 24 Oct 2026.
+KUCHULU is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Sat, 24 Oct 2026.
 
 KUCHULU is a club and bass artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Suzie The Cockroach, DJ Cunt and DJ Travella. Next up: Christianshavns Beboerhus, Copenhagen on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ KUCHULU is a club and bass artist based in Denmark, with 5 gigs on soundcheck ac
 
 Suzie The Cockroach, DJ Cunt, DJ Travella
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuchulu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuchulu/)*

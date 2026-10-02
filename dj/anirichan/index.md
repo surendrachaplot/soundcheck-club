@@ -1,6 +1,6 @@
 # Aniri Chan
 
-Aniri Chan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spilve Airport, Riga on Fri, 2 Oct 2026.
+Aniri Chan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spilve Airport, Riga on Fri, 2 Oct 2026.
 
 Aniri Chan is a techno and house artist based in Latvia, with 34 gigs on soundcheck across Riga. Often billed alongside Existal, Ksenia Kamikaza and ANGEDONIYA. Next up: Spilve Airport, Riga on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Aniri Chan is a techno and house artist based in Latvia, with 34 gigs on soundch
 
 Existal, Ksenia Kamikaza, ANGEDONIYA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*

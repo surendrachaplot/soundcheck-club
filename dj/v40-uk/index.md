@@ -1,6 +1,6 @@
 # V.40
 
-V.40 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+V.40 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
 V.40 is a techno and industrial artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Denise Rabe, Keti Monro and Laura MRLS. Next up: M.O.T, London on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ V.40 is a techno and industrial artist based in United Kingdom, with 8 gigs on s
 
 Denise Rabe, Keti Monro, Laura MRLS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v40-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v40-uk/)*

@@ -1,6 +1,6 @@
 # Andrés Mokk
 
-Andrés Mokk is a Tech House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 3 Oct 2026.
+Andrés Mokk is a Tech House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 3 Oct 2026.
 
 Andrés Mokk is a tech house and club artist based in Spain, with 18 gigs on soundcheck across Barcelona and Madrid. Often billed alongside REDIG, Retoric and INARE. Next up: Hangar48 Club, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Andrés Mokk is a tech house and club artist based in Spain, with 18 gigs on sou
 
 REDIG, Retoric, INARE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresmokk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresmokk/)*

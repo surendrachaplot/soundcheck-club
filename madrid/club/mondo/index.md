@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Fuckoff / Gerardo Niva / doccudder" on Thu, 1 Oct 2026.
+Mondo is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo" on Sat, 3 Oct 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | DJ Fuckoff / Gerardo Niva / doccudder | DJ Fuckoff, Gerardo Niva, doccudder |
 | Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo | Andres Campo, BIXBITA, Gerardo Niva, Ollie Lishman, pavvvvvvlo |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
 | Sat, 10 Oct 2026 | Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto | DJ SWISHERMAN, Diffrent, Emi Koto, Gerardo Niva |
@@ -18,9 +17,10 @@ Mondo is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with li
 | Thu, 22 Oct 2026 | Inafekt / Gerardo Niva / DJ SWISHERMAN B2B doccudder | DJ SWISHERMAN, Gerardo Niva, Inafekt, doccudder |
 | Sat, 24 Oct 2026 | Pablo Bozzi / Gerardo Niva | Gerardo Niva, Pablo Bozzi |
 | Thu, 29 Oct 2026 | Papa Nugs / Gerardo Niva / doccudder | Gerardo Niva, Papa Nugs, doccudder |
+| Sat, 31 Oct 2026 | AFTERPARTY EXTENDED: HALLOWEEN WEEKENDER: The Hacker / Gerardo Niva / RUIZ OSC1 / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, RUIZ OSC1, The Hacker |
 
 ## Address
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

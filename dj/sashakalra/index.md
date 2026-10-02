@@ -1,6 +1,6 @@
 # Sasha Kalra
 
-Sasha Kalra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
+Sasha Kalra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
 
 Sasha Kalra is a house and techno artist based in Canada, with 22 gigs on soundcheck across London, Seoul, Tokyo and Toronto. Often billed alongside Choirboi, High Tide and Host (CA). Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sasha Kalra is a house and techno artist based in Canada, with 22 gigs on soundc
 
 Choirboi, High Tide, Host (CA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakalra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakalra/)*

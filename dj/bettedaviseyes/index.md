@@ -1,6 +1,6 @@
 # Bette Davis Eyes
 
-Bette Davis Eyes is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
+Bette Davis Eyes is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
 
 Bette Davis Eyes is an electro and breakbeat artist, with 7 gigs on soundcheck across Berlin, Copenhagen and Warsaw. Often billed alongside Record Turnover, Aslamin and Christopher Bo. Next up: Mesteren & Lærlingen, Copenhagen on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Bette Davis Eyes is an electro and breakbeat artist, with 7 gigs on soundcheck a
 
 Record Turnover, Aslamin, Christopher Bo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettedaviseyes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettedaviseyes/)*

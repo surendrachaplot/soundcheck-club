@@ -1,6 +1,6 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WDM, Hannover on Fri, 2 Oct 2026.
+PRADA2000 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WDM, Hannover on Fri, 2 Oct 2026.
 
 PRADA2000 is a techno and trance artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: WDM, Hannover on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ PRADA2000 is a techno and trance artist based in Germany, with 167 gigs on sound
 
 Cleopard2000, Adrian Mills, Mika Heggemann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prada2000/)*

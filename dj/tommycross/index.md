@@ -1,6 +1,6 @@
 # Tommy Cross
 
-Tommy Cross is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
+Tommy Cross is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
 
 Tommy Cross is a dub techno and house artist, with 39 gigs on soundcheck across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: 1520, Manchester on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Tommy Cross is a dub techno and house artist, with 39 gigs on soundcheck across 
 
 AdomasLP, MEMP3, Ruf Dug
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*

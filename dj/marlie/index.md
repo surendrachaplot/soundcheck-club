@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Marlie is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Marlie is a house and tech house artist, with 130 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Marlie is a house and tech house artist, with 130 gigs on soundcheck across Amst
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

@@ -1,6 +1,6 @@
 # Sonhan
 
-Sonhan is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
+Sonhan is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
 
 Sonhan is a techno and ebm artist based in Belgium, with 52 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Souleiman, Marie-Julie and Phara. Next up: Bodies in Space, Brussels on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Sonhan is a techno and ebm artist based in Belgium, with 52 gigs on soundcheck a
 
 Souleiman, Marie-Julie, Phara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*

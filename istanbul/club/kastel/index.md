@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BAD BOOMBOX power by MIDNIGHT BISCUIT" on Fri, 2 Oct 2026.
+Kastel is a music venue in Istanbul with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BAD BOOMBOX power by MIDNIGHT BISCUIT" on Fri, 2 Oct 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 10 upcoming gigs, with line-ups including Alican, Benny Benassi, Fault and Fuchs and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -23,4 +23,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 10 upcoming gigs, with
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

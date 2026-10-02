@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 2 Oct 2026.
+.VRIL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 2 Oct 2026.
 
 .VRIL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: Abercrombie Hotel, Sydney on Fri 2 Oct.
 
@@ -32,4 +32,4 @@
 
 DJ Dustin, Edward, Konstantin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

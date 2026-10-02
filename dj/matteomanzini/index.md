@@ -1,6 +1,6 @@
 # Matteo Manzini
 
-Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Arsenale Cenci, Rome on Sat, 10 Oct 2026.
+Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Arsenale Cenci, Rome on Sat, 10 Oct 2026.
 
 Matteo Manzini is a techno and electro artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Bucharest, London and New York City and 1 more. Often billed alongside Bobby., Craig Richards and Harry McCanna. Next up: TBA - Arsenale Cenci, Rome on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Matteo Manzini is a techno and electro artist based in United Kingdom, with 34 g
 
 Bobby., Craig Richards, Harry McCanna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*

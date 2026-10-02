@@ -1,6 +1,6 @@
 # Ayato
 
-Ayato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Teranoma Tidepool, Osaka on Fri, 9 Oct 2026.
+Ayato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Teranoma Tidepool, Osaka on Fri, 9 Oct 2026.
 
 Ayato is a techno and house artist based in Japan, with 23 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SASAKI Hiroaki, ALEXANDER M and CARTOON. Next up: Teranoma Tidepool, Osaka on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ayato is a techno and house artist based in Japan, with 23 gigs on soundcheck ac
 
 SASAKI Hiroaki, ALEXANDER M, CARTOON
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayato/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayato/)*

@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing" on Fri, 2 Oct 2026.
+Culture Box is a music venue in Copenhagen with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing" on Fri, 2 Oct 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gigs, with line-ups including Adelina, Aerocell, Aio and Aja Gulris and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

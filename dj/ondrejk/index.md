@@ -1,8 +1,8 @@
 # Ondrej K
 
-Ondrej K is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 9 Oct 2026.
+Ondrej K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 9 Oct 2026.
 
-Ondrej K is a house and techno artist based in Czech Republic, with 77 gigs on soundcheck across Prague. Often billed alongside Identic, Hugorieri and DJ Lumiere. Next up: Bukanyr Boat, Prague on Fri 9 Oct.
+Ondrej K is a house and techno artist based in Czech Republic, with 78 gigs on soundcheck across Prague. Often billed alongside Identic, Hugorieri and DJ Lumiere. Next up: Bukanyr Boat, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ondrej K is a house and techno artist based in Czech Republic, with 77 gigs on s
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Bukanyr Boat | Prague |
 | Fri, 30 Oct 2026 | Sky Lounge 360 | Prague |
+| Thu, 31 Dec 2026 | Sky Lounge 360 | Prague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ondrej K is a house and techno artist based in Czech Republic, with 77 gigs on s
 
 Identic, Hugorieri, DJ Lumiere
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*

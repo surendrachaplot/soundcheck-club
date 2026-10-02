@@ -1,6 +1,6 @@
 # TiTi
 
-TiTi is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+TiTi is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
 TiTi is a techno and hardcore artist based in China, with 24 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Cologne and 10 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ TiTi is a techno and hardcore artist based in China, with 24 gigs on soundcheck 
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

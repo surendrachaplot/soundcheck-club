@@ -1,6 +1,6 @@
 # Da Maria
 
-Da Maria is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "INNO HALLOWEEN" on Wed, 28 Oct 2026.
+Da Maria is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "INNO HALLOWEEN" on Wed, 28 Oct 2026.
 
 Da Maria is a music venue in Bali listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Jalan Petitenget No.170, Kerobokan Kelod, Kuta Utara, Kabupaten Badung,, Bali 803, Denpasar, Bali, Indonesia.
 
@@ -14,4 +14,4 @@ Da Maria is a music venue in Bali listed on soundcheck. 1 upcoming gig. See date
 
 Jalan Petitenget No.170, Kerobokan Kelod, Kuta Utara, Kabupaten Badung,, Bali 803, Denpasar, Bali, Indonesia, Bali
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/da-maria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/da-maria/)*

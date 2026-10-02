@@ -1,6 +1,6 @@
 # VEZ.
 
-VEZ. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Boston on Thu, 8 Oct 2026.
+VEZ. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Boston on Thu, 8 Oct 2026.
 
 VEZ. is a techno and trance artist based in United States of America, with 12 gigs on soundcheck across Boston and New York City. Often billed alongside DAIYAH, Halcion and Poochie. Next up: TBA, Boston on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ VEZ. is a techno and trance artist based in United States of America, with 12 gi
 
 DAIYAH, Halcion, Poochie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vez./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vez./)*

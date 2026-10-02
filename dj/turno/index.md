@@ -1,15 +1,18 @@
 # Turno
 
-Turno is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 30 Oct 2026.
+Turno is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Divide Nightclub, Adelaide on Fri, 23 Oct 2026.
 
-Turno is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Birmingham and 24 more. Often billed alongside Hedex, Bou (UK) and Voltage. Next up: Carousel Bar & Ballroom, Sydney on Fri 30 Oct.
+Turno is a drum & bass and jungle artist based in United Kingdom, with 74 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 27 more. Often billed alongside Hedex, Bou (UK) and Voltage. Next up: Divide Nightclub, Adelaide on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Divide Nightclub | Adelaide |
+| Sat, 24 Oct 2026 | The Court Hotel | Perth |
 | Fri, 30 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Sat, 31 Oct 2026 | The Brightside | Brisbane |
+| Fri, 6 Nov 2026 | The Assembly | Christchurch |
 | Fri, 11 Dec 2026 | The Drake Hotel | Toronto |
 | Sat, 12 Dec 2026 | The Beehive | Los Angeles |
 
@@ -28,4 +31,4 @@ Turno is a drum & bass and jungle artist based in United Kingdom, with 71 gigs o
 
 Hedex, Bou (UK), Voltage
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*

@@ -1,6 +1,6 @@
 # Kutkh Jackdaw
 
-Kutkh Jackdaw is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
+Kutkh Jackdaw is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
 Kutkh Jackdaw is a techno and ebm artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Brighton, Brussels and London and 1 more. Often billed alongside DSD uk, DUKU and Acid Carbon. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kutkh Jackdaw is a techno and ebm artist based in United Kingdom, with 25 gigs o
 
 DSD uk, DUKU, Acid Carbon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkhjackdaw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kutkhjackdaw/)*

@@ -1,6 +1,6 @@
 # Özten
 
-Özten is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Colour Factory, London on Fri, 16 Oct 2026.
+Özten is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Colour Factory, London on Fri, 16 Oct 2026.
 
 Özten is a house and garage artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Marco (UK), Adela and Chedda Bred. Next up: Colour Factory, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 Marco (UK), Adela, Chedda Bred
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*

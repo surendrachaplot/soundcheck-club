@@ -1,6 +1,6 @@
 # Paul Ray
 
-Paul Ray is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
+Paul Ray is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
 
 Paul Ray is a techno and progressive house artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Berlin, Munich and The Hague. Often billed alongside #Damur, Acid Rebels and Alienata. Next up: OXI, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Paul Ray is a techno and progressive house artist based in Germany, with 5 gigs 
 
 #Damur, Acid Rebels, Alienata
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulray/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulray/)*

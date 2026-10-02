@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "studio mule" on Fri, 2 Oct 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "studio mule" on Fri, 2 Oct 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including Carl H, Dan Andrei, DJ MARIA. and DOTT and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -21,4 +21,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with li
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

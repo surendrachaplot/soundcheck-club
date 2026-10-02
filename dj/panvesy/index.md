@@ -1,6 +1,6 @@
 # PanVesy
 
-PanVesy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bolero, Seoul on Fri, 2 Oct 2026.
+PanVesy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bolero, Seoul on Fri, 2 Oct 2026.
 
 PanVesy is a techno and electro artist, with 19 gigs on soundcheck across New York City and Seoul. Often billed alongside MAR VISTA, BLUMIN and Coziest. Next up: Bolero, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ PanVesy is a techno and electro artist, with 19 gigs on soundcheck across New Yo
 
 MAR VISTA, BLUMIN, Coziest
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panvesy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panvesy/)*

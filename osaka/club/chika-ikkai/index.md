@@ -1,6 +1,6 @@
 # Chika-Ikkai
 
-Chika-Ikkai is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "2riend tour in OSAKA" on Fri, 2 Oct 2026.
+Chika-Ikkai is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "2riend tour in OSAKA" on Fri, 2 Oct 2026.
 
 Chika-Ikkai is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Aspara, *asuro, Atsushi Izumi and D.J.Fulltono and 2 more. See dates, start times and who's playing. 1-1-12 B1F, Minamisenba, Osaka, 542-0081, Japan.
 
@@ -17,4 +17,4 @@ Chika-Ikkai is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, wit
 
 1-1-12 B1F, Minamisenba, Osaka, 542-0081, Japan, Osaka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/chika-ikkai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/chika-ikkai/)*

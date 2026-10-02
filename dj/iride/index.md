@@ -1,6 +1,6 @@
 # IRIDE
 
-IRIDE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
+IRIDE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
 
 IRIDE is a techno and electro artist based in Italy, with 48 gigs on soundcheck across Milan and Rome. Often billed alongside GNMR, Marcolino and Marc Anthony Bowen. Next up: Hotel Butterfly, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ IRIDE is a techno and electro artist based in Italy, with 48 gigs on soundcheck 
 
 GNMR, Marcolino, Marc Anthony Bowen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iride/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iride/)*

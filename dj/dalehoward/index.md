@@ -1,6 +1,6 @@
 # Dale Howard
 
-Dale Howard is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
+Dale Howard is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
 
 Dale Howard is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 7 more. Often billed alongside Anthony Attalla, Archie Hamilton and Ardio Zemog. Next up: TBA - Il Mercato Centrale, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dale Howard is a tech house and house artist based in United Kingdom, with 14 gi
 
 Anthony Attalla, Archie Hamilton, Ardio Zemog
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehoward/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehoward/)*

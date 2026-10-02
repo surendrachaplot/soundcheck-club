@@ -1,6 +1,6 @@
 # Brad Scott
 
-Brad Scott is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
+Brad Scott is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
 
 Brad Scott is an ebm and electro artist based in United States of America, with 30 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and Joe Hart (US). Next up: Talon Bar, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Brad Scott is an ebm and electro artist based in United States of America, with 
 
 DJ Baby Berlin, Ivy Oh, Joe Hart (US)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*

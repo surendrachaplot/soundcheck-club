@@ -1,6 +1,6 @@
 # Bar Theo
 
-Bar Theo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "IN HOUSE WE TRUST" on Fri, 2 Oct 2026.
+Bar Theo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "IN HOUSE WE TRUST" on Fri, 2 Oct 2026.
 
 Bar Theo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including AKIYE, Dany E, Elisa Batti and Ferrari and 2 more. See dates, start times and who's playing. Rozengracht 160, 1016 NJ, Amsterdam.
 
@@ -16,4 +16,4 @@ Bar Theo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wi
 
 Rozengracht 160, 1016 NJ, Amsterdam, Amsterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-theo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-theo/)*

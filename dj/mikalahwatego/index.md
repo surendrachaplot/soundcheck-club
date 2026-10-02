@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Mikalah Watego is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Mikalah Watego is a techno and house artist based in Australia, with 38 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Ed Kent, Hasvat Informant and Moopie. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Mikalah Watego is a techno and house artist based in Australia, with 38 gigs on 
 
 Ed Kent, Hasvat Informant, Moopie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

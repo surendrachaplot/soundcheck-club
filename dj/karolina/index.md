@@ -1,6 +1,6 @@
 # KAROLINA
 
-KAROLINA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FLUCC, Vienna on Fri, 2 Oct 2026.
+KAROLINA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 KAROLINA is a techno and house artist based in Poland, with 56 gigs on soundcheck across Berlin, Lisbon, Munich and Vienna. Often billed alongside FX-31, GEN97 and KRAWALLBARBIE. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ KAROLINA is a techno and house artist based in Poland, with 56 gigs on soundchec
 
 FX-31, GEN97, KRAWALLBARBIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*

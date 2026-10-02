@@ -1,6 +1,6 @@
 # Unpin
 
-Unpin is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Unpin is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Unpin is a techno and bass artist based in Australia, with 16 gigs on soundcheck across New South Wales and Sydney. Often billed alongside D-Grade, anusha and Alilia. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Unpin is a techno and bass artist based in Australia, with 16 gigs on soundcheck
 
 D-Grade, anusha, Alilia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unpin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unpin/)*

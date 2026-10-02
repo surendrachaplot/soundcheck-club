@@ -1,6 +1,6 @@
 # Cipriani Wall Street
 
-Cipriani Wall Street is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "E11EVEN x Cipriani: All Hallows' Eve" on Sat, 31 Oct 2026.
+Cipriani Wall Street is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "E11EVEN x Cipriani: All Hallows' Eve" on Sat, 31 Oct 2026.
 
 Cipriani Wall Street is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 55 Wall Street, New York City, NY, 10005, USA.
 
@@ -14,4 +14,4 @@ Cipriani Wall Street is a music venue in New York City listed on soundcheck. 1 u
 
 55 Wall Street, New York City, NY, 10005, USA, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/cipriani-wall-street/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/cipriani-wall-street/)*

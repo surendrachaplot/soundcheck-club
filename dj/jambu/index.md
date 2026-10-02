@@ -1,6 +1,6 @@
 # Jambu
 
-Jambu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Jambu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Jambu is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside jeanska, Limoncello and MEEMA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jambu is a techno and trance artist based in Germany, with 11 gigs on soundcheck
 
 jeanska, Limoncello, MEEMA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu/)*

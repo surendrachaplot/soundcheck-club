@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 2 Oct 2026.
+Horse Meat Disco is a House and Disco artist with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 2 Oct 2026.
 
 Horse Meat Disco is a house and disco artist based in United Kingdom, with 401 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Fidelity Studio, Dublin on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 401 g
 
 Luke Howard, James Hillard, Severino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

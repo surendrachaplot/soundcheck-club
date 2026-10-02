@@ -1,6 +1,6 @@
 # Jar:ex
 
-Jar:ex is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WARRECORDS, Antwerp on Fri, 23 Oct 2026.
+Jar:ex is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WARRECORDS, Antwerp on Fri, 23 Oct 2026.
 
 Jar:ex is a techno and trance artist, with 10 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent. Often billed alongside Berfu, Felix Porte and Jane Muss. Next up: WARRECORDS, Antwerp on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jar:ex is a techno and trance artist, with 10 gigs on soundcheck across Antwerp,
 
 Berfu, Felix Porte, Jane Muss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarex/)*

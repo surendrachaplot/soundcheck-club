@@ -1,6 +1,6 @@
 # Ketato M
 
-Ketato M is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 3 Oct 2026.
+Ketato M is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 3 Oct 2026.
 
 Ketato M is an electronic artist based in Georgia, with 31 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Seqta, Sevda and Mancho. Next up: Mtkvarze, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ketato M is an electronic artist based in Georgia, with 31 gigs on soundcheck ac
 
 Seqta, Sevda, Mancho
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketatom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketatom/)*

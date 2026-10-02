@@ -1,6 +1,6 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
+Maceo Plex is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
 
 Maceo Plex is a techno and house artist based in United States of America, with 191 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Sevilla, South on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Maceo Plex is a techno and house artist based in United States of America, with 
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

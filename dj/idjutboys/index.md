@@ -1,6 +1,6 @@
 # Idjut Boys
 
-Idjut Boys is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Idjut Boys is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 Idjut Boys is a disco and house artist based in United Kingdom, with 32 gigs on soundcheck across Athens, Bali, Barcelona and Copenhagen and 9 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Idjut Boys is a disco and house artist based in United Kingdom, with 32 gigs on 
 
 C.L.A.W.S., Galen, Grace Sands
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*

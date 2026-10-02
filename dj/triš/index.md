@@ -1,6 +1,6 @@
 # Triš
 
-Triš is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
+Triš is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
 
 Triš is an experimental and ambient artist, with 18 gigs on soundcheck across Berlin. Often billed alongside Neue Medecina, Buttechno and Carrier. Next up: TBA - Secret Location, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Triš is an experimental and ambient artist, with 18 gigs on soundcheck across B
 
 Neue Medecina, Buttechno, Carrier
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triš/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triš/)*

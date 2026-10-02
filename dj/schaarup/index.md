@@ -1,6 +1,6 @@
 # SCHAARUP
 
-SCHAARUP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
+SCHAARUP is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
 
 SCHAARUP is a house and techno artist based in Denmark, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Baime, Aja Gulris and NILU. Next up: Culture Box, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SCHAARUP is a house and techno artist based in Denmark, with 89 gigs on soundche
 
 Baime, Aja Gulris, NILU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schaarup/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schaarup/)*

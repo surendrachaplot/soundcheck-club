@@ -1,6 +1,6 @@
 # keller
 
-keller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
+keller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
 
 keller is a techno and house artist based in Germany, with 53 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Andre Keller, Fabian Kaa and Anna Reusch. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ keller is a techno and house artist based in Germany, with 53 gigs on soundcheck
 
 Andre Keller, Fabian Kaa, Anna Reusch
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keller/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keller/)*

@@ -1,8 +1,8 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NIIKO X SWAE" on Fri, 2 Oct 2026.
+Elektricity is a music venue in Detroit with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NIIKO X SWAE" on Fri, 2 Oct 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 16 upcoming gigs, with line-ups including ARCS, Casey Club, Johnny Malek and Mary Droppinz and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 17 upcoming gigs, with line-ups including ARCS, Casey Club, Johnny Malek and Mary Droppinz and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 16 upcoming gigs, 
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

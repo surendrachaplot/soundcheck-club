@@ -1,6 +1,6 @@
 # Thom Parris
 
-Thom Parris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+Thom Parris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
 Thom Parris is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across London. Often billed alongside Son of Paul, Alfie Aukett and Make A Dance. Next up: fabric, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Thom Parris is a house and techno artist based in United Kingdom, with 30 gigs o
 
 Son of Paul, Alfie Aukett, Make A Dance
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*

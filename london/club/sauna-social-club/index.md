@@ -1,6 +1,6 @@
 # Sauna Social Club
 
-Sauna Social Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ambient Sauna • Stella Z & Laura Not" on Fri, 2 Oct 2026.
+Sauna Social Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ambient Sauna • Stella Z & Laura Not" on Fri, 2 Oct 2026.
 
 Sauna Social Club is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including ANNX, Avsluta, colell and Gillielove and 2 more. See dates, start times and who's playing. Railway Arch 842 Brayards Road, Peckham, SE15 2AG.
 
@@ -19,4 +19,4 @@ Sauna Social Club is a music venue in London listed on soundcheck. 6 upcoming gi
 
 Railway Arch 842 Brayards Road, Peckham, SE15 2AG, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*

@@ -1,6 +1,6 @@
 # JOKI
 
-JOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 7 Oct 2026.
+JOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 7 Oct 2026.
 
 JOKI is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and 永z遼 / Ryo Nagase. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ JOKI is a house and techno artist based in United States of America, with 20 gig
 
 Momentune, Ohishi, 永z遼 / Ryo Nagase
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*

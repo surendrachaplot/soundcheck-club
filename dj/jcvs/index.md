@@ -1,6 +1,6 @@
 # JCVS
 
-JCVS is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
+JCVS is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
 
 JCVS is a club and baile funk artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 3 more. Often billed alongside DJ RaMeMes, N3LYSTAR and SILVASURFER. Next up: The Island, Bristol on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ JCVS is a club and baile funk artist based in United Kingdom, with 14 gigs on so
 
 DJ RaMeMes, N3LYSTAR, SILVASURFER
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jcvs/)*

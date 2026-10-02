@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kulturbrauerei, Berlin on Sat, 31 Oct 2026.
+Waikiki is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kulturbrauerei, Berlin on Sat, 31 Oct 2026.
 
 Waikiki is a techno and tech house artist, with 35 gigs on soundcheck across Berlin. Often billed alongside DJ Jordan, Das Amt and Match Hoffman. Next up: Kulturbrauerei, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Waikiki is a techno and tech house artist, with 35 gigs on soundcheck across Ber
 
 DJ Jordan, Das Amt, Match Hoffman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*

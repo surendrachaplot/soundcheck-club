@@ -1,18 +1,18 @@
 # IZA (6)
 
-IZA (6) is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 1 Oct 2026.
+IZA (6) is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 31 Oct 2026.
 
-IZA is a drum & bass and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Upzet, Agem and Anna Hoeber. Next up: Klunkerkranich, Berlin on Thu 1 Oct.
+IZA is a drum & bass and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Upzet, Agem and Anna Hoeber. Next up: Void Club, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Klunkerkranich | Berlin |
 | Sat, 31 Oct 2026 | Void Club | Berlin |
 
 ## Recently played
 
+- Klunkerkranich, Berlin · Thu, 1 Oct 2026
 - Cassiopeia, Berlin · Fri, 18 Sept 2026
 - Odds and Ends, Copenhagen · Sun, 5 Apr 2026
 - Void Club, Berlin · Sat, 14 Mar 2026
@@ -23,4 +23,4 @@ IZA is a drum & bass and hardcore artist based in Germany, with 7 gigs on soundc
 
 Upzet, Agem, Anna Hoeber
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*

@@ -1,6 +1,6 @@
 # Carlo Karacho
 
-Carlo Karacho is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
+Carlo Karacho is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
 
 Carlo Karacho is a breakbeat and electronica artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside SQF2000, 3LNA and BBetriebswirt. Next up: glimmer, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Carlo Karacho is a breakbeat and electronica artist based in Germany, with 32 gi
 
 SQF2000, 3LNA, BBetriebswirt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*

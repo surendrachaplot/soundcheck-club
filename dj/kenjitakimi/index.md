@@ -1,6 +1,6 @@
 # Kenji Takimi
 
-Kenji Takimi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
+Kenji Takimi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
 
 Kenji Takimi is a house and disco artist based in Japan, with 90 gigs on soundcheck across Auckland, Bali, Melbourne and Osaka and 4 more. Often billed alongside YAMARCHY, Monkey Timers and Daichi. Next up: National Art School, Sydney on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Kenji Takimi is a house and disco artist based in Japan, with 90 gigs on soundch
 
 YAMARCHY, Monkey Timers, Daichi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*

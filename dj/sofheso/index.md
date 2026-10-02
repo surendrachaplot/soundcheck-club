@@ -1,6 +1,6 @@
 # Sofheso
 
-Sofheso is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Forestlimit, Tokyo on Sun, 18 Oct 2026.
+Sofheso is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Sun, 18 Oct 2026.
 
 Sofheso is an experimental and electronica artist based in Japan, with 9 gigs on soundcheck across Berlin and Tokyo. Often billed alongside AKIRAM EN, TOGASHI and Forster. Next up: Forestlimit, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Sofheso is an experimental and electronica artist based in Japan, with 9 gigs on
 
 AKIRAM EN, TOGASHI, Forster (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofheso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofheso/)*

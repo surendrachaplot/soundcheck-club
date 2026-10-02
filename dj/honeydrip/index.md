@@ -1,6 +1,6 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
+Honeydrip is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
 
 Honeydrip is a bass and techno artist based in Canada, with 69 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 15 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Honeydrip is a bass and techno artist based in Canada, with 69 gigs on soundchec
 
 Deadbeat, Jen Cardini, Mossy Mugler
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

@@ -1,6 +1,6 @@
 # Eli Iwasa
 
-Eli Iwasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+Eli Iwasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
 
 Eli Iwasa is a house and techno artist, with 58 gigs on soundcheck across Bali, Barcelona, Brazil and Dublin and 7 more. Often billed alongside From House to Disco, L_cio and Nana Kohat. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Eli Iwasa is a house and techno artist, with 58 gigs on soundcheck across Bali, 
 
 From House to Disco, L_cio, Nana Kohat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*

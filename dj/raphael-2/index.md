@@ -1,6 +1,6 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 16 Oct 2026.
+RAPHAËL (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 16 Oct 2026.
 
 RAPHAËL is a house and techno artist based in United States of America, with 14 gigs on soundcheck across Denver, Detroit and Tokyo. Often billed alongside Disc Jockey George, Fullbodydurag and Sinistarr. Next up: Koenji Cave, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ RAPHAËL is a house and techno artist based in United States of America, with 14
 
 Disc Jockey George, Fullbodydurag, Sinistarr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*

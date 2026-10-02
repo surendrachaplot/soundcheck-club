@@ -1,6 +1,6 @@
 # Anthik
 
-Anthik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Anthik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 Anthik is a house and techno artist based in Switzerland, with 36 gigs on soundcheck across Basel, Geneva and Zurich. Often billed alongside Kellerkind, Animal Trainer and ACID FLORA. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Anthik is a house and techno artist based in Switzerland, with 36 gigs on soundc
 
 Kellerkind, Animal Trainer, ACID FLORA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*

@@ -1,6 +1,6 @@
 # uphoria
 
-uphoria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kodz, Lille on Sat, 3 Oct 2026.
+uphoria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kodz, Lille on Sat, 3 Oct 2026.
 
 uphoria is a techno and hardcore artist based in France, with 36 gigs on soundcheck across Belfast, Brussels, Ghent and Lille and 11 more. Often billed alongside Emma Ollivary, Cera Khin and ECZODIA. Next up: Kodz, Lille on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ uphoria is a techno and hardcore artist based in France, with 36 gigs on soundch
 
 Emma Ollivary, Cera Khin, ECZODIA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*

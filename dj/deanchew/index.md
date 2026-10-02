@@ -1,6 +1,6 @@
 # Dean Chew
 
-Dean Chew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
+Dean Chew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pawnshop, Taipei on Sat, 17 Oct 2026.
 
 Dean Chew is a house and techno artist based in Singapore, with 61 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 17 more. Often billed alongside Daryl Knows, Dexter Colt and Marco Weibel. Next up: Pawnshop, Taipei on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dean Chew is a house and techno artist based in Singapore, with 61 gigs on sound
 
 Daryl Knows, Dexter Colt, Marco Weibel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*

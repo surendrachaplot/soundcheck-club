@@ -1,6 +1,6 @@
 # Switch
 
-Switch is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Boys Noize" on Fri, 2 Oct 2026.
+Switch is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Boys Noize" on Fri, 2 Oct 2026.
 
 Switch is a music venue in Porto listed on soundcheck. 2 upcoming gigs, with line-ups including Boys Noize and Marco Shuttle. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Switch is a music venue in Porto listed on soundcheck. 2 upcoming gigs, with lin
 | Fri, 2 Oct 2026 | Boys Noize | Boys Noize |
 | Sat, 3 Oct 2026 | Marco Shuttle - Switch Porto | Marco Shuttle |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*

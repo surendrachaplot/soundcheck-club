@@ -1,6 +1,6 @@
 # Bonza
 
-Bonza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
+Bonza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
 Bonza is a house and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Bucharest and Rome. Often billed alongside Orli, Fabrizio Sala and FRANKIEE. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bonza is a house and techno artist based in Italy, with 31 gigs on soundcheck ac
 
 Orli, Fabrizio Sala, FRANKIEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*

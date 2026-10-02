@@ -1,6 +1,6 @@
 # Francisca Urbano
 
-Francisca Urbano is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Francisca Urbano is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Francisca Urbano is a techno and house artist based in Portugal, with 61 gigs on soundcheck across Lisbon, Porto and Zurich. Often billed alongside Johan (PT), Tíago and Amulador. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Francisca Urbano is a techno and house artist based in Portugal, with 61 gigs on
 
 Johan (PT), Tíago, Amulador
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*

@@ -1,8 +1,8 @@
 # SHDW
 
-SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 2 Oct 2026.
+SHDW is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 2 Oct 2026.
 
-SHDW is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 2 Oct.
+SHDW is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist based in Germany, with 214 gigs on soundcheck 
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

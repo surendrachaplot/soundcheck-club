@@ -1,6 +1,6 @@
 # noRecall
 
-noRecall is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
+noRecall is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
 
 noRecall is a techno and bass artist based in United States of America, with 28 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, Hünter and Jason Code. Next up: TBA - Share Date of Event, Seattle on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ noRecall is a techno and bass artist based in United States of America, with 28 
 
 Ross Lowder, Hünter, Jason Code
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norecall/)*

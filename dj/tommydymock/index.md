@@ -1,6 +1,6 @@
 # Tommy Dymock
 
-Tommy Dymock is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Thu, 8 Oct 2026.
+Tommy Dymock is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Thu, 8 Oct 2026.
 
 Tommy Dymock is a house and electro artist, with 26 gigs on soundcheck across Bristol, London and Newcastle. Often billed alongside Woody, Betsy Mae and Eksish. Next up: The Love Inn, Bristol on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Tommy Dymock is a house and electro artist, with 26 gigs on soundcheck across Br
 
 Woody (3), Betsy Mae, Eksish
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommydymock/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommydymock/)*

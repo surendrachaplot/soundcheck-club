@@ -1,6 +1,6 @@
 # Nixtrove
 
-Nixtrove is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
+Nixtrove is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at SB – Space Between, Nürnberg on Fri, 2 Oct 2026.
 
 Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on soundcheck across Brussels, Los Angeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: SB – Space Between, Nürnberg on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on 
 
 ## Recently played
 
+- RAUM RESONANZ KÖRPER (RRK), Munich · Thu, 1 Oct 2026
 - Brasserie Beaubien, Montreal · Sat, 9 May 2026
 - Import Export, Munich · Thu, 22 Jan 2026
 - Société des arts technologiques, Montreal · Fri, 24 Oct 2025
@@ -19,10 +20,9 @@ Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on 
 - TBA - Montreal, Montreal · Fri, 16 Feb 2024
 - La Sotterenea, Montreal · Fri, 19 Jan 2024
 - La Fonderie, Brussels · Fri, 24 Nov 2023
-- The Grey Space In The Middle, The Hague · Thu, 23 Nov 2023
 
 ## Shares bills with
 
 Neo Edo, gonima, indek
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixtrove/)*

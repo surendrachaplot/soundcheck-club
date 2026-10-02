@@ -1,6 +1,6 @@
 # WheelUP
 
-WheelUP is a Funk / Soul and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Patterns, Brighton on Sun, 4 Oct 2026.
+WheelUP is a Funk / Soul and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Patterns, Brighton on Sun, 4 Oct 2026.
 
 WheelUP is a funk / soul and broken beat artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Patterns, Brighton on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ WheelUP is a funk / soul and broken beat artist based in United Kingdom, with 21
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

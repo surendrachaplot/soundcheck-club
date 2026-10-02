@@ -1,6 +1,6 @@
 # Lorkestra
 
-Lorkestra is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
+Lorkestra is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
 
 Lorkestra is a baile funk and club artist based in France, with 24 gigs on soundcheck across Athens, Geneva, Hamburg and London and 3 more. Often billed alongside ARTEM (FR), Saari and Bob Sleigh. Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lorkestra is a baile funk and club artist based in France, with 24 gigs on sound
 
 ARTEM (FR), Saari, Bob Sleigh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorkestra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorkestra/)*

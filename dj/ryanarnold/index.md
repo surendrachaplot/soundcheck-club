@@ -1,6 +1,6 @@
 # Ryan Arnold
 
-Ryan Arnold is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
+Ryan Arnold is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
 
 Ryan Arnold is a house and drum & bass artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and Leeds and 4 more. Often billed alongside ACT ON, George Mensah and Sammy Porter. Next up: XOYO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ryan Arnold is a house and drum & bass artist based in United Kingdom, with 31 g
 
 ACT ON, George Mensah, Sammy Porter
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanarnold/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanarnold/)*

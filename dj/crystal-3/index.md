@@ -1,6 +1,6 @@
 # Crystal (3)
 
-Crystal (3) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Fri, 23 Oct 2026.
+Crystal (3) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Fri, 23 Oct 2026.
 
 Crystal is a club and house artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, London and Prague. Often billed alongside Femur, Agua con gas and Aiden Francis. Next up: Distillery N17, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Crystal is a club and house artist based in United Kingdom, with 9 gigs on sound
 
 Femur, Agua con gas, Aiden Francis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystal-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystal-3/)*

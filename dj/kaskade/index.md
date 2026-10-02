@@ -1,6 +1,6 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Kaskade is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Kaskade is a house and bass artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Austin, Chicago and Detroit and 11 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Kaskade is a house and bass artist based in United States of America, with 54 gi
 
 Green Velvet, Chris Lake, Eli Brown
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*

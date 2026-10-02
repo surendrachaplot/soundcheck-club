@@ -1,6 +1,6 @@
 # JT Donaldson
 
-JT Donaldson is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
+JT Donaldson is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New-york-city on Sat, 17 Oct 2026.
 
 JT Donaldson is a house and hip-hop artist based in United States of America, with 37 gigs on soundcheck across Austin, Chicago, Los Angeles and Miami and 5 more. Often billed alongside Dvize, Lumin and Brett Johnson. Next up: Green Room NYC, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ JT Donaldson is a house and hip-hop artist based in United States of America, wi
 
 Dvize, Lumin, Brett Johnson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*

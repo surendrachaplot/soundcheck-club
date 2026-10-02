@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23" on Fri, 2 Oct 2026.
+Green Room NYC is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23" on Fri, 2 Oct 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Armii1n, Auphoria, Bambounou and BEIGE and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 9 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

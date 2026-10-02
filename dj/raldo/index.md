@@ -1,6 +1,6 @@
 # Raldo
 
-Raldo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kizuna, London on Sat, 31 Oct 2026.
+Raldo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kizuna, London on Sat, 31 Oct 2026.
 
 Raldo is a tech house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Ibiza and London. Often billed alongside Suly Aslan, Mas Fuego and Thomas Galbardi. Next up: Kizuna, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Raldo is a tech house and techno artist based in United Kingdom, with 51 gigs on
 
 Suly Aslan, Mas Fuego, Thomas Galbardi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raldo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raldo/)*

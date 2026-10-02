@@ -1,6 +1,6 @@
 # Aarti Jadu
 
-Aarti Jadu is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grace Darling Hotel, Melbourne on Fri, 2 Oct 2026.
+Aarti Jadu is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grace Darling Hotel, Melbourne on Fri, 2 Oct 2026.
 
 Aarti Jadu is an experimental and electronica artist, with 20 gigs on soundcheck across Bali, Melbourne, New South Wales and Sydney. Often billed alongside Emelyne, CS + Kreme and Harold. Next up: Grace Darling Hotel, Melbourne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Aarti Jadu is an experimental and electronica artist, with 20 gigs on soundcheck
 
 Emelyne, CS + Kreme, Harold
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aartijadu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aartijadu/)*

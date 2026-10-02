@@ -1,6 +1,6 @@
 # Black Tiger Sex Machine
 
-Black Tiger Sex Machine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 3 Oct 2026.
+Black Tiger Sex Machine is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 3 Oct 2026.
 
 Black Tiger Sex Machine is a bass and dubstep artist based in Canada, with 18 gigs on soundcheck across Austin, Boston, Buenos Aires and Los Angeles and 8 more. Often billed alongside Lilly Palmer, Benny Benassi and Boys Noize. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Black Tiger Sex Machine is a bass and dubstep artist based in Canada, with 18 gi
 
 Lilly Palmer, Benny Benassi, Boys Noize
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*

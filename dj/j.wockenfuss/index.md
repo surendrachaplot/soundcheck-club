@@ -1,6 +1,6 @@
 # J.WOCKENFUSS
 
-J.WOCKENFUSS is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+J.WOCKENFUSS is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 J.WOCKENFUSS is a techno and downtempo artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Maria Theresia von Eberg, Danilo Kupfernagel and Kalipo. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ J.WOCKENFUSS is a techno and downtempo artist based in Germany, with 18 gigs on 
 
 Maria Theresia von Eberg, Danilo Kupfernagel, Kalipo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.wockenfuss/)*

@@ -1,6 +1,6 @@
 # Daryl Knows
 
-Daryl Knows is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+Daryl Knows is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
 Daryl Knows is a house and techno artist based in Singapore, with 52 gigs on soundcheck across Bali, Bangkok, Hong Kong and Kuala Lumpur and 4 more. Often billed alongside Dexter Colt, Dean Chew and Bongomann. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Daryl Knows is a house and techno artist based in Singapore, with 52 gigs on sou
 
 Dexter Colt, Dean Chew, Bongomann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darylknows/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darylknows/)*

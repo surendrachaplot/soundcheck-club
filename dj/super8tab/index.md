@@ -1,6 +1,6 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
+Super8 & Tab is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
 
 Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gigs on soundcheck across Auckland, Birmingham, Glasgow and Helsinki and 9 more. Often billed alongside Amy Wiles, Leena Punks and Dave Pearce. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gi
 
 Amy Wiles, Leena Punks, Dave Pearce
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

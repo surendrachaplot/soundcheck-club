@@ -1,6 +1,6 @@
 # Mike ruff cut Lloyd
 
-Mike ruff cut Lloyd is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales, London on Sun, 1 Nov 2026.
+Mike ruff cut Lloyd is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales, London on Sun, 1 Nov 2026.
 
 Mike ruff cut Lloyd is a garage and house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside MC Creed, Chris Jones and DJ S (UK). Next up: Night Tales, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Mike ruff cut Lloyd is a garage and house artist based in United Kingdom, with 2
 
 MC Creed, Chris Jones, DJ S (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeruffcutlloyd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeruffcutlloyd/)*

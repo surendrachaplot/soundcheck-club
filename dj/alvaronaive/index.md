@@ -1,6 +1,6 @@
 # Álvaro Naive
 
-Álvaro Naive is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 2 Oct 2026.
+Álvaro Naive is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 2 Oct 2026.
 
 Álvaro Naive is a house and electronica artist based in Spain, with 12 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Maik Miroux, Mica Wagner and Akainu. Next up: Casa Amante Club, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Maik Miroux, Mica Wagner, Akainu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaronaive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaronaive/)*

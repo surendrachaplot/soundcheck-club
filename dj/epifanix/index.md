@@ -1,6 +1,6 @@
 # Epifanix
 
-Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Roxy Club, Istanbul on Sat, 3 Oct 2026.
+Epifanix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Roxy Club, Istanbul on Sat, 3 Oct 2026.
 
 Epifanix is a techno and industrial artist, with 18 gigs on soundcheck across Istanbul. Often billed alongside Inf3ris, 2TAL and VRDS. Next up: Roxy Club, Istanbul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Epifanix is a techno and industrial artist, with 18 gigs on soundcheck across Is
 
 Inf3ris, 2TAL, VRDS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epifanix/)*

@@ -1,6 +1,6 @@
 # DJ F (ES)
 
-DJ F (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Thu, 22 Oct 2026.
+DJ F (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barco Sound House, Madrid on Thu, 22 Oct 2026.
 
 DJ F (ES) is a house and techno artist based in Spain, with 31 gigs on soundcheck across Barcelona, Buenos Aires, Madrid and Tokyo. Often billed alongside Damian Schwartz, Avo (ES) and Glossy Mario. Next up: Barco Sound House, Madrid on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ DJ F (ES) is a house and techno artist based in Spain, with 31 gigs on soundchec
 
 Damian Schwartz, Avo (ES), Glossy Mario
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djf-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djf-es/)*

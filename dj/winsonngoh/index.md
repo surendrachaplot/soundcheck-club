@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Barcelona on Sun, 11 Oct 2026.
+Winson Ngoh is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Barcelona on Sun, 11 Oct 2026.
 
 Winson Ngoh is a techno and industrial artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 26 more. Often billed alongside KUKO, Fantasm and KLOFAMA. Next up: TBA, Barcelona on Sun 11 Oct.
 
@@ -34,4 +34,4 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 39 gigs
 
 KUKO, Fantasm, KLOFAMA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

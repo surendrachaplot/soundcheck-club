@@ -1,6 +1,6 @@
 # Hi-C
 
-Hi-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Fri, 2 Oct 2026.
+Hi-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Fri, 2 Oct 2026.
 
 Hi-C is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Glasgow, London, Los Angeles and Osaka and 3 more. Often billed alongside Bayymack, ALIXN and AJ Mora. Next up: WOMB, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hi-C is a techno and house artist based in United States of America, with 9 gigs
 
 Bayymack, ALIXN, AJ Mora
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-c/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-c/)*

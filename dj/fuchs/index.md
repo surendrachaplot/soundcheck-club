@@ -1,6 +1,6 @@
 # Fuchs
 
-Fuchs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kastel, Istanbul on Sat, 17 Oct 2026.
+Fuchs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kastel, Istanbul on Sat, 17 Oct 2026.
 
 Fuchs is a house and techno artist, with 29 gigs on soundcheck across Berlin and Istanbul. Often billed alongside Subsky, Semih Akay and Yunus Guvenen. Next up: Kastel, Istanbul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fuchs is a house and techno artist, with 29 gigs on soundcheck across Berlin and
 
 Subsky, Semih Akay, Yunus Guvenen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchs/)*

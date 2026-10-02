@@ -1,6 +1,6 @@
 # Irrational Language
 
-Irrational Language is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+Irrational Language is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 Irrational Language is a techno and electro artist based in Spain, with 9 gigs on soundcheck across Barcelona, Madrid and Malaga. Often billed alongside BETTS, Judy (ES) and Aöcram. Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Irrational Language is a techno and electro artist based in Spain, with 9 gigs o
 
 BETTS, Judy (ES), Aöcram
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irrationallanguage/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irrationallanguage/)*

@@ -1,6 +1,6 @@
 # Mariposa x Lyra
 
-Mariposa x Lyra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
+Mariposa x Lyra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
 
 Mariposa x Lyra are a techno and trance duo based in Germany, with 5 gigs on soundcheck across Leipzig. Often billed alongside Richie Rollin, ALLES ATZIG and CLEO. Next up: Absturz, Leipzig on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Mariposa x Lyra are a techno and trance duo based in Germany, with 5 gigs on sou
 
 Richie Rollin, ALLES ATZIG, CLEO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposaxlyra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposaxlyra/)*

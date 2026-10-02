@@ -1,6 +1,6 @@
 # Ellaweeez
 
-Ellaweeez is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 2 Oct 2026.
+Ellaweeez is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 2 Oct 2026.
 
 Ellaweeez is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Antwerp and London. Often billed alongside Kojay, Ariane V and DJ Bone. Next up: fabric, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ellaweeez is a house and garage artist based in United Kingdom, with 16 gigs on 
 
 Kojay, Ariane V, DJ Bone
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*

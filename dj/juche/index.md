@@ -1,6 +1,6 @@
 # Juche
 
-Juche is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+Juche is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 Juche is a bass and club artist, with 11 gigs on soundcheck across Berlin, Brussels, Iowa and Krakow and 1 more. Often billed alongside enjoii, Djedi and REMNANT.exe. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Juche is a bass and club artist, with 11 gigs on soundcheck across Berlin, Bruss
 
 enjoii, Djedi, REMNANT.exe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juche/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juche/)*

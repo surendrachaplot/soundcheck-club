@@ -1,6 +1,6 @@
 # Lucca
 
-Lucca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Lucca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 Lucca is a techno and tech house artist, with 9 gigs on soundcheck across Barcelona, Leeds, Mexico City and Paris and 1 more. Often billed alongside Orbith, Subgate and Tømas Sinn. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lucca is a techno and tech house artist, with 9 gigs on soundcheck across Barcel
 
 Orbith, Subgate, Tømas Sinn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucca/)*

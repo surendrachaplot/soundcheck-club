@@ -1,6 +1,6 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASIS, Utrecht on Fri, 2 Oct 2026.
+SANTØS is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BASIS, Utrecht on Fri, 2 Oct 2026.
 
 SANTØS is a techno and industrial artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: BASIS, Utrecht on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ SANTØS is a techno and industrial artist based in Netherlands, with 111 gigs on
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

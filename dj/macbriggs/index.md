@@ -1,6 +1,6 @@
 # Mac Briggs
 
-Mac Briggs is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Fri, 2 Oct 2026.
+Mac Briggs is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Outer Heaven, New York City on Fri, 2 Oct 2026.
 
 Mac Briggs is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Armii1n, Bella Mutino and EREZ.JPG. Next up: Outer Heaven, New York City on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Mac Briggs is a house and tech house artist based in United States of America, w
 
 Armii1n, Bella Mutino, EREZ.JPG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*

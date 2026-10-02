@@ -1,6 +1,6 @@
 # Safahs
 
-Safahs is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
+Safahs is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
 
 Safahs is a techno and electro artist based in Germany, with 36 gigs on soundcheck across Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Kade, Munich on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Safahs is a techno and electro artist based in Germany, with 36 gigs on soundche
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Kim_Twiddle
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safahs/)*

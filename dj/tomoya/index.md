@@ -1,6 +1,6 @@
 # Tomoya
 
-Tomoya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
+Tomoya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
 
 Tomoya is a techno and house artist based in Japan, with 40 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside Celter, Jacob Husley and AKIRAM EN. Next up: Aoyama Hachi, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Tomoya is a techno and house artist based in Japan, with 40 gigs on soundcheck a
 
 Celter, Jacob Husley, AKIRAM EN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*

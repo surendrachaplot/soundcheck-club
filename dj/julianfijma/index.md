@@ -1,8 +1,8 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Julian Fijma is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Julian Fijma is a house and tech house artist based in Netherlands, with 114 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 35 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Julian Fijma is a house and tech house artist based in Netherlands, with 115 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 35 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 114 gig
 | Sat, 31 Oct 2026 | Descent | Boston |
 | Fri, 13 Nov 2026 | Night We Met | Nashville |
 | Wed, 18 Nov 2026 | Substation | Seattle |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
@@ -32,4 +33,4 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 114 gig
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

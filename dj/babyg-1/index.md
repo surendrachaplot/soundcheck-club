@@ -1,6 +1,6 @@
 # Baby G
 
-Baby G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 31 Oct 2026.
+Baby G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 31 Oct 2026.
 
 Baby G is a house and techno artist based in Australia, with 49 gigs on soundcheck across Hobart, London, Melbourne and New York City and 1 more. Often billed alongside Bertie, DAWS and Hannah D. Next up: Abercrombie Hotel, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Baby G is a house and techno artist based in Australia, with 49 gigs on soundche
 
 Bertie, DAWS, Hannah D
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*

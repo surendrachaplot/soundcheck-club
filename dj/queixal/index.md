@@ -1,6 +1,6 @@
 # Queixal
 
-Queixal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Queixal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Queixal is a techno and house artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside Mod.1, Linkan Ray and Tetric. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Queixal is a techno and house artist based in Spain, with 10 gigs on soundcheck 
 
 Mod.1, Linkan Ray, Tetric
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*

@@ -1,6 +1,6 @@
 # Teslasonic
 
-Teslasonic is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 2 Oct 2026.
+Teslasonic is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 2 Oct 2026.
 
 Teslasonic is an electronic artist, with 7 gigs on soundcheck across Athens, Barcelona and Rome. Often billed alongside Andi, Codex Empire and Cyber. Next up: THE MAGICK BAR, Rome on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Teslasonic is an electronic artist, with 7 gigs on soundcheck across Athens, Bar
 
 Andi, Codex Empire, Cyber (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teslasonic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teslasonic/)*

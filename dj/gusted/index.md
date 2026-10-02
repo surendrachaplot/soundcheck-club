@@ -1,6 +1,6 @@
 # Gusted
 
-Gusted is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 2 Oct 2026.
+Gusted is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Gusted is a trance and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Mija, Bad Boombox and Janis Zielinski. Next up: Underground SF, San Francisco/Oakland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Gusted is a trance and techno artist based in United States of America, with 29 
 
 Mija, Bad Boombox, Janis Zielinski
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*

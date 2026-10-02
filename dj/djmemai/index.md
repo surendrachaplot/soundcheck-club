@@ -1,6 +1,6 @@
 # DJ MEMAI
 
-DJ MEMAI is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Soup, Tokyo on Sun, 11 Oct 2026.
+DJ MEMAI is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Soup, Tokyo on Sun, 11 Oct 2026.
 
 DJ MEMAI is an experimental and noise artist, with 16 gigs on soundcheck across Tokyo. Often billed alongside Cal Lyall, POPPO and Yan (CZ). Next up: Soup, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DJ MEMAI is an experimental and noise artist, with 16 gigs on soundcheck across 
 
 Cal Lyall, POPPO, Yan (CZ)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmemai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmemai/)*

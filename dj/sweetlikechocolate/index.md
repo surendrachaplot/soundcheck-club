@@ -1,6 +1,6 @@
 # Sweet Like Chocolate
 
-Sweet Like Chocolate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
+Sweet Like Chocolate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
 
 Sweet Like Chocolate is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Chicago, Los Angeles, Miami and San Diego and 1 more. Often billed alongside Boys Noize, Chris Lake and Mary Droppinz. Next up: Gallagher Square, San Diego on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sweet Like Chocolate is a house and techno artist based in United States of Amer
 
 Boys Noize, Chris Lake, Mary Droppinz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetlikechocolate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetlikechocolate/)*

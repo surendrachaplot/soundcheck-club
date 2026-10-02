@@ -1,14 +1,15 @@
 # Jannik van der Vegt
 
-Jannik van der Vegt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
+Jannik van der Vegt is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
 
-Jannik van der Vegt is a trance and techno artist, with 18 gigs on soundcheck across Augsburg, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Cassa Cristano, DJ SODBRENNEN and GEORGE aka DR.RADSPORT. Next up: Kesselhaus Augsburg, Augsburg on Fri 2 Oct.
+Jannik van der Vegt is a trance and techno artist, with 19 gigs on soundcheck across Amsterdam, Augsburg, Berlin and Cologne and 4 more. Often billed alongside Cassa Cristano, DJ SODBRENNEN and DeGuzman. Next up: Kesselhaus Augsburg, Augsburg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kesselhaus Augsburg | Augsburg |
+| Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jannik van der Vegt is a trance and techno artist, with 18 gigs on soundcheck ac
 
 ## Shares bills with
 
-Cassa Cristano, DJ SODBRENNEN, GEORGE aka DR.RADSPORT
+Cassa Cristano, DJ SODBRENNEN, DeGuzman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*

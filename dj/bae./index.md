@@ -1,6 +1,6 @@
 # Bae.
 
-Bae. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ring, Seoul on Sat, 31 Oct 2026.
+Bae. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ring, Seoul on Sat, 31 Oct 2026.
 
 Bae. is a techno and house artist, with 14 gigs on soundcheck across Seoul. Often billed alongside Lyumin, Antwork and Hakim.. Next up: Ring, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bae. is a techno and house artist, with 14 gigs on soundcheck across Seoul. Ofte
 
 Lyumin, Antwork, Hakim.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*

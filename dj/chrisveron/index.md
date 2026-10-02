@@ -1,6 +1,6 @@
 # Chris Veron
 
-Chris Veron is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Slakthuset, Stockholm on Fri, 30 Oct 2026.
+Chris Veron is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Slakthuset, Stockholm on Fri, 30 Oct 2026.
 
 Chris Veron is a techno and progressive house artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Lisbon and Stockholm and 1 more. Often billed alongside Kos:mo, Disturbed Berlin and Emanuel Eisbrenner. Next up: Slakthuset, Stockholm on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chris Veron is a techno and progressive house artist based in Germany, with 32 g
 
 Kos:mo, Disturbed Berlin, Emanuel Eisbrenner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisveron/)*

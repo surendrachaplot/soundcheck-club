@@ -1,6 +1,6 @@
 # OMO (US)
 
-OMO (US) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
+OMO (US) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
 
 OMO (US) is a techno and experimental artist based in United States of America, with 27 gigs on soundcheck across Detroit. Often billed alongside Kuuma, Seanni B and RETCON. Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ OMO (US) is a techno and experimental artist based in United States of America, 
 
 Kuuma, Seanni B, RETCON
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*

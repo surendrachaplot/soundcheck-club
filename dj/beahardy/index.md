@@ -1,6 +1,6 @@
 # Bea Hardy
 
-Bea Hardy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
+Bea Hardy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
 Bea Hardy is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Montreal and New York City. Often billed alongside Doug Witte, Kanykei and Orson.NYC. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bea Hardy is a house and techno artist based in United States of America, with 1
 
 Doug Witte, Kanykei, Orson.NYC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beahardy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beahardy/)*

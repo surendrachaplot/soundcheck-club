@@ -1,6 +1,6 @@
 # Matteo Busan
 
-Matteo Busan is a Club and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bluesquare, Milan on Sat, 10 Oct 2026.
+Matteo Busan is a Club and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bluesquare, Milan on Sat, 10 Oct 2026.
 
 Matteo Busan is a club and minimal techno artist, with 20 gigs on soundcheck across Milan. Often billed alongside Cristian Comes, HAAS (IT) and Dogs I Know. Next up: Bluesquare, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Matteo Busan is a club and minimal techno artist, with 20 gigs on soundcheck acr
 
 Cristian Comes, HAAS (IT), Dogs I Know
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobusan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobusan/)*

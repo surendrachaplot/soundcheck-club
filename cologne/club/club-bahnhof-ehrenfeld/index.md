@@ -1,6 +1,6 @@
 # Club Bahnhof Ehrenfeld
 
-Club Bahnhof Ehrenfeld is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Chin Chin - Tiere der Nacht" on Fri, 2 Oct 2026.
+Club Bahnhof Ehrenfeld is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chin Chin - Tiere der Nacht" on Fri, 2 Oct 2026.
 
 Club Bahnhof Ehrenfeld is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including Bronka, clubm8 and Patrik Berg. See dates, start times and who's playing. Bartholomäus-Schink-Strasse 65 / 67; 50825 Cologne; Germany.
 
@@ -17,4 +17,4 @@ Club Bahnhof Ehrenfeld is a music venue in Cologne listed on soundcheck. 4 upcom
 
 Bartholomäus-Schink-Strasse 65 / 67; 50825 Cologne; Germany, Cologne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-bahnhof-ehrenfeld/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-bahnhof-ehrenfeld/)*

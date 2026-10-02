@@ -1,6 +1,6 @@
 # clubm8
 
-clubm8 is a Techno and Pop artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Bahnhof Ehrenfeld, Cologne on Fri, 2 Oct 2026.
+clubm8 is a Techno and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Bahnhof Ehrenfeld, Cologne on Fri, 2 Oct 2026.
 
 clubm8 is a techno and pop artist based in Germany, with 3 gigs on soundcheck across Berlin and Cologne. Often billed alongside Andara Nox, Anna Hoeber and April the pink. Next up: Club Bahnhof Ehrenfeld, Cologne on Fri 2 Oct.
 
@@ -16,4 +16,4 @@ clubm8 is a techno and pop artist based in Germany, with 3 gigs on soundcheck ac
 
 Andara Nox, Anna Hoeber, April the pink
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubm8/)*

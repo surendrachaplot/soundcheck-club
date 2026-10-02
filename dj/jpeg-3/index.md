@@ -1,6 +1,6 @@
 # JPEG (3)
 
-JPEG (3) is a Acid and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+JPEG (3) is a Acid and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 JPEG is an acid and funk / soul artist based in United Kingdom, with 17 gigs on soundcheck across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside Cheff The Boy, A For Alpha and A:sine. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ JPEG is an acid and funk / soul artist based in United Kingdom, with 17 gigs on 
 
 Cheff The Boy, A For Alpha, A:sine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpeg-3/)*

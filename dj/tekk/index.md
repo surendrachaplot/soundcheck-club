@@ -1,6 +1,6 @@
 # Tekk
 
-Tekk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M-BIA, Berlin on Fri, 2 Oct 2026.
+Tekk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M-BIA, Berlin on Fri, 2 Oct 2026.
 
 Tekk is a techno and hardcore artist based in Slovakia, with 18 gigs on soundcheck across Berlin, Frankfurt and Leipzig. Often billed alongside Techno Frühstück, A² and Bass. Next up: M-BIA, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tekk is a techno and hardcore artist based in Slovakia, with 18 gigs on soundche
 
 Techno Frühstück, A², Bass
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*

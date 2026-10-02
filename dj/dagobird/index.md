@@ -1,6 +1,6 @@
 # Dagobird
 
-Dagobird is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
+Dagobird is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
 Dagobird is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Frankfurt and Stuttgart. Often billed alongside Osiris, DiskoJochen and HØLLE. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dagobird is a techno and trance artist based in Germany, with 38 gigs on soundch
 
 Osiris (2), DiskoJochen, HØLLE (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagobird/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagobird/)*

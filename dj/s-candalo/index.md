@@ -1,6 +1,6 @@
 # S-candalo
 
-S-candalo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+S-candalo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 S-candalo is a house and techno artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside THC, DHC and Byron Yeates. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ S-candalo is a house and techno artist based in Germany, with 71 gigs on soundch
 
 THC, DHC, Byron Yeates
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-candalo/)*

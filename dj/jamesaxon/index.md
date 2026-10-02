@@ -1,6 +1,6 @@
 # James Axon
 
-James Axon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+James Axon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
 James Axon is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland and 2 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ James Axon is a house and techno artist based in United States of America, with 
 
 Masha Mar, Sergio Rodriguez, Jason Kendig
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*

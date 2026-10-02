@@ -1,6 +1,6 @@
 # EXZ
 
-EXZ is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sun, 25 Oct 2026.
+EXZ is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sun, 25 Oct 2026.
 
 EXZ is a deep house and downtempo artist, with 15 gigs on soundcheck across Berlin, Hamburg and Paris. Often billed alongside Ektoplast, ple:xy and Amo (NO). Next up: Beate Uwe, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ EXZ is a deep house and downtempo artist, with 15 gigs on soundcheck across Berl
 
 Ektoplast, ple:xy, Amo (NO)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exz-br/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exz-br/)*

@@ -1,6 +1,6 @@
 # Abel Aguilera
 
-Abel Aguilera is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+Abel Aguilera is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
 Abel Aguilera is a tech house and house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Montreal and Puerto Vallarta. Often billed alongside Alfonso Tan, Aluna and Barbara Tucker. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Abel Aguilera is a tech house and house artist based in United States of America
 
 Alfonso Tan, Aluna, Barbara Tucker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abelaguilera/)*

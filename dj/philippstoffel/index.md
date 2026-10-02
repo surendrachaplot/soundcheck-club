@@ -1,6 +1,6 @@
 # Philipp Stoffel
 
-Philipp Stoffel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
+Philipp Stoffel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
 
 Philipp Stoffel is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Cologne. Often billed alongside Michael Mayer, oskø and AMSL. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Philipp Stoffel is a techno and house artist based in Germany, with 17 gigs on s
 
 Michael Mayer, oskø, AMSL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstoffel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstoffel/)*

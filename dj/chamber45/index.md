@@ -1,6 +1,6 @@
 # CHAMBER45
 
-CHAMBER45 is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
+CHAMBER45 is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
 
 CHAMBER45 is a bass and uk funky artist based in United Kingdom, with 30 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside Novelist, Kruz Leone and Manga Saint Hilare. Next up: Club Cheek, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ CHAMBER45 is a bass and uk funky artist based in United Kingdom, with 30 gigs on
 
 Novelist, Kruz Leone, Manga Saint Hilare
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamber45/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamber45/)*

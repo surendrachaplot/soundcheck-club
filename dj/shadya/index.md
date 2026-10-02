@@ -1,6 +1,6 @@
 # Shadya
 
-Shadya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Système, Montreal on Thu, 15 Oct 2026.
+Shadya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Thu, 15 Oct 2026.
 
 Shadya is a techno and electro artist based in Canada, with 27 gigs on soundcheck across Montreal. Often billed alongside D.B.Y., Mok-T and Bless You. Next up: Système, Montreal on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Shadya is a techno and electro artist based in Canada, with 27 gigs on soundchec
 
 D.B.Y., Mok-T, Bless You
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadya/)*

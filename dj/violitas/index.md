@@ -1,6 +1,6 @@
 # VIØLITAS
 
-VIØLITAS is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
+VIØLITAS is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
 
 VIØLITAS is a techno and electro artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Sonse, Brizze and Abimixx. Next up: MaHalla, Berlin on Fri 2 Oct.
 
@@ -16,4 +16,4 @@ VIØLITAS is a techno and electro artist based in Germany, with 3 gigs on soundc
 
 Sonse, Brizze, Abimixx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violitas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violitas/)*

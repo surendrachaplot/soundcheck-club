@@ -1,6 +1,6 @@
 # ANNA PURA
 
-ANNA PURA is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+ANNA PURA is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
 ANNA PURA is a techno and baile funk artist based in Canada, with 28 gigs on soundcheck across London, Miami and New York City. Often billed alongside Pauli Cakes, Caín Lima and Papi Weli. Next up: The Social, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ANNA PURA is a techno and baile funk artist based in Canada, with 28 gigs on sou
 
 Pauli Cakes, Caín Lima, Papi Weli
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annapura/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annapura/)*

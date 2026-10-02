@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SWING pres ÜBERKIKZ & SHDW" on Fri, 2 Oct 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SWING pres ÜBERKIKZ & SHDW" on Fri, 2 Oct 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 21 upcoming gigs, with line-ups including Beste Hira, Chris Avantgarde, Colin Benders and Deborah De Luca and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

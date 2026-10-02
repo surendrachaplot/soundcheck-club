@@ -1,6 +1,6 @@
 # TheNext
 
-TheNext is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+TheNext is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 TheNext is a bass and dubstep artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Phokus, Der Vinylizer and Doc Bader. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ TheNext is a bass and dubstep artist based in Germany, with 17 gigs on soundchec
 
 Phokus, Der Vinylizer, Doc Bader
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thenext/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thenext/)*

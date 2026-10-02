@@ -1,6 +1,6 @@
 # Dj Fra
 
-Dj Fra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Dj Fra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
 Dj Fra is a techno and house artist based in Spain, with 43 gigs on soundcheck across Barcelona, Berlin and Boston. Often billed alongside M8NSE, Crystallmess and Verushka. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dj Fra is a techno and house artist based in Spain, with 43 gigs on soundcheck a
 
 M8NSE, Crystallmess, Verushka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfra/)*

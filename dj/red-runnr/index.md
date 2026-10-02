@@ -1,6 +1,6 @@
 # RED-RUNNR
 
-RED-RUNNR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
+RED-RUNNR is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
 
 RED-RUNNR is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Danger Carey, Optimistic Soul and Southside Acid Movement. Next up: The Ivory Hotel, Glasgow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ RED-RUNNR is a house and disco artist based in United Kingdom, with 23 gigs on s
 
 Danger Carey, Optimistic Soul, Southside Acid Movement
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/red-runnr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/red-runnr/)*

@@ -1,6 +1,6 @@
 # HomeSick
 
-HomeSick is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
+HomeSick is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
 
 HomeSick is a techno and hardcore artist based in Canada, with 33 gigs on soundcheck across Barcelona, Berlin, Bristol and Melbourne and 3 more. Often billed alongside Katamina, mayalabae and CrisseMarqueur. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ HomeSick is a techno and hardcore artist based in Canada, with 33 gigs on soundc
 
 Katamina, mayalabae, CrisseMarqueur
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/homesick/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/homesick/)*

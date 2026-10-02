@@ -1,6 +1,6 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Sat, 3 Oct 2026.
+Laila Amira is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Good Room, New York City on Sat, 3 Oct 2026.
 
 Laila Amira is a house and disco artist based in United States of America, with 59 gigs on soundcheck across Montreal, New York City and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: Good Room, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Laila Amira is a house and disco artist based in United States of America, with 
 
 Tim Lucent, Lady Harley, Pleasure Jams
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*

@@ -1,6 +1,6 @@
 # Evil Activities
 
-Evil Activities is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Evil Activities is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Evil Activities is a hardcore and techno artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Frankfurt, Glasgow and Madrid and 3 more. Often billed alongside Mad Dog, Yeyo and Art of Fighters. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Evil Activities is a hardcore and techno artist based in Netherlands, with 12 gi
 
 Mad Dog, Yeyo, Art of Fighters
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilactivities/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilactivities/)*

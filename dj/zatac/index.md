@@ -1,6 +1,6 @@
 # ZATAC
 
-ZATAC is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
+ZATAC is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Butterfly, Rome on Sat, 3 Oct 2026.
 
 ZATAC is a techno and electro artist based in Italy, with 16 gigs on soundcheck across London, Milan, Rome and Turin. Often billed alongside Luca Armando, GLEDIS and IRIDE. Next up: Hotel Butterfly, Rome on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ZATAC is a techno and electro artist based in Italy, with 16 gigs on soundcheck 
 
 Luca Armando, GLEDIS, IRIDE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zatac/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zatac/)*

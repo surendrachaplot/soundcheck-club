@@ -1,6 +1,6 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+DJ Sneak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 DJ Sneak is a house and deep house artist based in Canada, with 76 gigs on soundcheck across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Heather and DJ Dan. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Sneak is a house and deep house artist based in Canada, with 76 gigs on sound
 
 Doc Martin, DJ Heather, DJ Dan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsneak/)*

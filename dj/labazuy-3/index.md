@@ -1,6 +1,6 @@
 # Labåzuy
 
-Labåzuy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Maze Venue, Cyprus on Sat, 3 Oct 2026.
+Labåzuy is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Maze Venue, Cyprus on Sat, 3 Oct 2026.
 
 Labåzuy is a techno and industrial artist based in United Kingdom, with 74 gigs on soundcheck across Brighton, Budapest, Cyprus and London and 4 more. Often billed alongside Lau.tastic, Lezcano and SHARKA. Next up: Maze Venue, Cyprus on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Labåzuy is a techno and industrial artist based in United Kingdom, with 74 gigs
 
 Lau.tastic, Lezcano, SHARKA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*

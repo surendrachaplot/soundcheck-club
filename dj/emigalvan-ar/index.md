@@ -1,6 +1,6 @@
 # Emi Galvan
 
-Emi Galvan is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Emi Galvan is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Emi Galvan is a progressive house and techno artist based in Argentina, with 39 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Kamilo Sanclemente, NOIYSE PROJECT and Baliology. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Emi Galvan is a progressive house and techno artist based in Argentina, with 39 
 
 Kamilo Sanclemente, NOIYSE PROJECT, Baliology
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*

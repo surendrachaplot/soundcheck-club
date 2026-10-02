@@ -1,6 +1,6 @@
 # Marc.
 
-Marc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Marc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Marc. is an electronic artist based in Germany, with 8 gigs on soundcheck across Berlin, Greece, Munich and Rome. Often billed alongside Elia Nafzger, Jules (DE) and Alexia. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Marc. is an electronic artist based in Germany, with 8 gigs on soundcheck across
 
 Elia Nafzger, Jules (DE), Alexia (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marc./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marc./)*

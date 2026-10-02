@@ -1,6 +1,6 @@
 # BOOTYCORNFED
 
-BOOTYCORNFED is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+BOOTYCORNFED is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 BOOTYCORNFED is a club and techno artist based in Canada, with 27 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Sofia Fly and Ard1n. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BOOTYCORNFED is a club and techno artist based in Canada, with 27 gigs on soundc
 
 999ADJ, Sofia Fly, Ard1n
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bootycornfed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bootycornfed/)*

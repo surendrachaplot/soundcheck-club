@@ -1,6 +1,6 @@
 # grooveman Spot
 
-grooveman Spot is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+grooveman Spot is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 grooveman Spot is a hip-hop and house artist based in Japan, with 20 gigs on soundcheck across Auckland, Kyoto, Kyushu and Melbourne and 2 more. Often billed alongside Muro, 3rill and ANCHIN. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ grooveman Spot is a hip-hop and house artist based in Japan, with 20 gigs on sou
 
 Muro, 3rill, ANCHIN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemanspot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemanspot/)*

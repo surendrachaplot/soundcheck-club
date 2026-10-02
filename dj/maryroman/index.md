@@ -1,6 +1,6 @@
 # Mary Roman
 
-Mary Roman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Mary Roman is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Mary Roman is a house and disco artist based in Brazil, with 12 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside Carlim, Craig Ouar and Dioun. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Mary Roman is a house and disco artist based in Brazil, with 12 gigs on soundche
 
 Carlim, Craig Ouar, Dioun
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryroman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryroman/)*

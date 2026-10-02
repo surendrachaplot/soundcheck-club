@@ -1,6 +1,6 @@
 # Sirius
 
-Sirius is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Suki10c, Birmingham on Sat, 3 Oct 2026.
+Sirius is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Suki10c, Birmingham on Sat, 3 Oct 2026.
 
 Sirius is a jungle and drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across Barcelona, Birmingham, Ghent and London and 1 more. Often billed alongside Blackout, Brain Impact and Degs. Next up: Suki10c, Birmingham on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Sirius is a jungle and drum & bass artist based in United Kingdom, with 7 gigs o
 
 Blackout, Brain Impact, Degs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirius/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirius/)*

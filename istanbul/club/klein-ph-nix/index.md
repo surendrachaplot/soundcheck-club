@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mahmut Orhan // Official Afterparty" on Fri, 2 Oct 2026.
+Klein Phönix is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Mahmut Orhan // Official Afterparty" on Fri, 2 Oct 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Anfisa Letyago, Avangart Tabldot, Black Batu and BUSSI and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -21,4 +21,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

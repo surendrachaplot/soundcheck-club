@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Technoabteil with A.N.I., dasstudach, IGDA" on Fri, 2 Oct 2026.
+MÄX is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Technoabteil with A.N.I., dasstudach, IGDA" on Fri, 2 Oct 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including Ahmet Sisman, Aiden (DE), ALT8 and A.N.I. and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -23,4 +23,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with lin
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

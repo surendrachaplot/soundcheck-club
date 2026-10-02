@@ -1,6 +1,6 @@
 # Basile de Suresnes
 
-Basile de Suresnes is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
+Basile de Suresnes is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
 
 Basile de Suresnes is a house and electro artist based in France, with 26 gigs on soundcheck across Berlin, Lyon, Marseille and Paris. Often billed alongside Ten Fingerz, Art of Tones and Balthazar Martinez. Next up: Cabaret Sauvage, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Basile de Suresnes is a house and electro artist based in France, with 26 gigs o
 
 Ten Fingerz, Art of Tones, Balthazar Martinez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basiledesuresnes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basiledesuresnes/)*

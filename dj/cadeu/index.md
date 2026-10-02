@@ -1,6 +1,6 @@
 # cadeu
 
-cadeu is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
+cadeu is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
 
 cadeu is an experimental and electro artist based in Germany, with 6 gigs on soundcheck across Berlin and Netherlands. Often billed alongside silend, Alejandro Mosso and Eigenform. Next up: Het Burgerweeshuis, Netherlands on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ cadeu is an experimental and electro artist based in Germany, with 6 gigs on sou
 
 silend, Alejandro Mosso, Eigenform
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeu/)*

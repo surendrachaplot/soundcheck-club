@@ -1,6 +1,6 @@
 # Baby Jane
 
-Baby Jane is a Electro and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fairmount Theatre, Montreal on Wed, 2 Dec 2026.
+Baby Jane is a Electro and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fairmount Theatre, Montreal on Wed, 2 Dec 2026.
 
 Baby Jane is an electro and hardcore artist based in United States of America, with 3 gigs on soundcheck across Montreal, Portland and San Diego. Often billed alongside Flapjack. Next up: Fairmount Theatre, Montreal on Wed 2 Dec.
 
@@ -19,4 +19,4 @@ Baby Jane is an electro and hardcore artist based in United States of America, w
 
 Flapjack
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*

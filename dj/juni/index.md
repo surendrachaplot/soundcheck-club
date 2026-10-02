@@ -1,6 +1,6 @@
 # Juni
 
-Juni is a House and Classical artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fi, Cologne on Sat, 3 Oct 2026.
+Juni is a House and Classical artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Sat, 3 Oct 2026.
 
 Juni is a house and classical artist based in South Korea, with 49 gigs on soundcheck across Auckland, Cologne, Mexico City and Osaka and 2 more. Often billed alongside Black Daria, Solaris and Dj Dizam. Next up: fi, Cologne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Juni is a house and classical artist based in South Korea, with 49 gigs on sound
 
 Black Daria, Solaris, Dj Dizam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*

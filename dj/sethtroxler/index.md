@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at T7 Paris, Paris on Fri, 2 Oct 2026.
+Seth Troxler is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at T7 Paris, Paris on Fri, 2 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 319 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: T7 Paris, Paris on Fri 2 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: T7 Paris, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

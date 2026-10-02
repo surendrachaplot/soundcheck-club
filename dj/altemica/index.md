@@ -1,6 +1,6 @@
 # Altemica
 
-Altemica is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
+Altemica is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
 
 Altemica is a drum & bass and bass artist based in Japan, with 45 gigs on soundcheck across Tokyo. Often billed alongside CRAZYHYUGA, SAKO and ATAMI. Next up: ZEROTOKYO, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Altemica is a drum & bass and bass artist based in Japan, with 45 gigs on soundc
 
 CRAZYHYUGA, SAKO, ATAMI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altemica/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altemica/)*

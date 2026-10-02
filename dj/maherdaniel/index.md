@@ -1,6 +1,6 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
+Maher Daniel is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
 
 Maher Daniel is a house and techno artist based in Palestine, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 26 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: PRST, Vienna on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Maher Daniel is a house and techno artist based in Palestine, with 108 gigs on s
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

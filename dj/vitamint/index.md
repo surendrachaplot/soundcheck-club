@@ -1,6 +1,6 @@
 # Vitamin T
 
-Vitamin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+Vitamin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
 Vitamin T is a techno and house artist, with 23 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Hamburg and 1 more. Often billed alongside Antonym, Love Defender and SIGNAL (JP). Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Vitamin T is a techno and house artist, with 23 gigs on soundcheck across Berlin
 
 Antonym, Love Defender, SIGNAL (JP)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamint/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitamint/)*

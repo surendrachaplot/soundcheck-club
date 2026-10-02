@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Headrow House, Leeds on Fri, 2 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Headrow House, Leeds on Fri, 2 Oct 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 250 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Headrow House, Leeds on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

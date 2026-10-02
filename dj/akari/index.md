@@ -1,6 +1,6 @@
 # AKARI
 
-AKARI is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Fri, 2 Oct 2026.
+AKARI is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at HVEN, Tokyo on Fri, 2 Oct 2026.
 
 AKARI is a house and bass artist based in Japan, with 38 gigs on soundcheck across Osaka, Paris, Seoul and Tokyo. Often billed alongside M.I.O, Tada and MUNÉO. Next up: HVEN, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ AKARI is a house and bass artist based in Japan, with 38 gigs on soundcheck acro
 
 M.I.O, Tada, MUNÉO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akari/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akari/)*

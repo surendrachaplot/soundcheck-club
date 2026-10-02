@@ -1,6 +1,6 @@
 # Jimbo Jones
 
-Jimbo Jones is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Dublin on Sat, 3 Oct 2026.
+Jimbo Jones is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Dublin on Sat, 3 Oct 2026.
 
 Jimbo Jones is a house and electronica artist based in Ireland, with 14 gigs on soundcheck across Dublin and Madrid. Often billed alongside JULSVSC, Pipo Campari and Ruptura. Next up: TBA, Dublin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jimbo Jones is a house and electronica artist based in Ireland, with 14 gigs on 
 
 JULSVSC, Pipo Campari, Ruptura
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojones/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbojones/)*

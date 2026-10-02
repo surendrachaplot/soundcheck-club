@@ -1,6 +1,6 @@
 # Andy Arts
 
-Andy Arts is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ART 8 HOUSE" on Sat, 7 Nov 2026.
+Andy Arts is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "ART 8 HOUSE" on Sat, 7 Nov 2026.
 
 Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
 
@@ -14,4 +14,4 @@ Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See 
 
 3000 Fenkell Ave, Detroit, MI 48238, USA, Detroit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/andy-arts/)*

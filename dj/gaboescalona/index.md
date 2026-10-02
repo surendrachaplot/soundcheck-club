@@ -1,6 +1,6 @@
 # Gabo Escalona
 
-Gabo Escalona is a Techno and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Gabo Escalona is a Techno and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Gabo Escalona is a techno and neo perreo artist based in Venezuela, with 12 gigs on soundcheck across Miami. Often billed alongside ALEJO (US), GRUE5OME and Miguel Clark. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gabo Escalona is a techno and neo perreo artist based in Venezuela, with 12 gigs
 
 ALEJO (US), GRUE5OME, Miguel Clark
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboescalona/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaboescalona/)*

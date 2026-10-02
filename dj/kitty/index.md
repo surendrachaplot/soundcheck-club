@@ -1,6 +1,6 @@
 # Kitty
 
-Kitty is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
+Kitty is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
 
 Kitty is a club and bass artist, with 61 gigs on soundcheck across Berlin, Buenos Aires, Hong Kong and New York City and 4 more. Often billed alongside KISEWA, mokhzolla and NET GALA. Next up: Klunkerkranich, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kitty is a club and bass artist, with 61 gigs on soundcheck across Berlin, Bueno
 
 KISEWA, mokhzolla, NET GALA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitty/)*

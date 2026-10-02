@@ -1,6 +1,6 @@
 # Becky Stroke
 
-Becky Stroke is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 9 Oct 2026.
+Becky Stroke is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 9 Oct 2026.
 
 Becky Stroke is a techno and industrial artist based in United Kingdom, with 56 gigs on soundcheck across London and Lyon. Often billed alongside ASHTREY, Labåzuy and Lewis G. Burton. Next up: E1, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Becky Stroke is a techno and industrial artist based in United Kingdom, with 56 
 
 ASHTREY, Labåzuy, Lewis G. Burton
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beckystroke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beckystroke/)*

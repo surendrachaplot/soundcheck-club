@@ -1,6 +1,6 @@
 # Nog
 
-Nog is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Nog is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Nog is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across New York City and Toronto. Often billed alongside Anthony Romano, James Cook and LEFTI. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nog is a house and tech house artist based in United States of America, with 13 
 
 Anthony Romano, James Cook, LEFTI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nog-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nog-1/)*

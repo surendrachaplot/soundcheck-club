@@ -1,6 +1,6 @@
 # Jeremy Sunsets
 
-Jeremy Sunsets is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Audio Club, Geneva on Sat, 3 Oct 2026.
+Jeremy Sunsets is a Electro and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Audio Club, Geneva on Sat, 3 Oct 2026.
 
 Jeremy Sunsets is an electro and deep house artist based in Switzerland, with 16 gigs on soundcheck across Berlin, Geneva and Oslo. Often billed alongside Cosmokolor, David Armada and La Forêt. Next up: Audio Club, Geneva on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jeremy Sunsets is an electro and deep house artist based in Switzerland, with 16
 
 Cosmokolor, David Armada, La Forêt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysunsets/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysunsets/)*

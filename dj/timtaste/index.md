@@ -1,6 +1,6 @@
 # TiM TASTE
 
-TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Goethebunker, Dortmund-essen on Fri, 16 Oct 2026.
+TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Goethebunker, Dortmund-essen on Fri, 16 Oct 2026.
 
 TiM TASTE is a techno and minimal techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Lampé, Roman Adam and Fast (DE). Next up: Goethebunker, Dortmund Essen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TiM TASTE is a techno and minimal techno artist based in Germany, with 31 gigs o
 
 Lampé, Roman Adam, Fast (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*

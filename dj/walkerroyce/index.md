@@ -1,6 +1,6 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Music Yard, Charlotte on Fri, 2 Oct 2026.
+Walker & Royce is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Music Yard, Charlotte on Fri, 2 Oct 2026.
 
 Walker & Royce are a house and tech house duo based in United States of America, with 83 gigs on soundcheck across Austin, Boston, Charlotte and Chicago and 14 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: The Music Yard, Charlotte on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Walker & Royce are a house and tech house duo based in United States of America,
 
 Vnssa, Kyle Watson, Sara Landry
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*

@@ -1,6 +1,6 @@
 # Queermom
 
-Queermom is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Queermom is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Queermom is a techno and club artist based in United States of America, with 27 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Queermom is a techno and club artist based in United States of America, with 27 
 
 Discnogirl, RITCHRD, Tom Marsi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queermom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queermom/)*

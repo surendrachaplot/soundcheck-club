@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fvtvr, Paris on Sat, 3 Oct 2026.
+DJ Gigola is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fvtvr, Paris on Sat, 3 Oct 2026.
 
 DJ Gigola is a techno and house artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Fvtvr, Paris on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ DJ Gigola is a techno and house artist based in Germany, with 250 gigs on soundc
 
 MCR-T, KI/KI, Anetha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

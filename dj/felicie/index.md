@@ -1,6 +1,6 @@
 # Félicie
 
-Félicie is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Fri, 2 Oct 2026.
+Félicie is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Exil, Vienna on Fri, 2 Oct 2026.
 
 Félicie is a techno and trance artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Club Exil, Vienna on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Félicie is a techno and trance artist based in Netherlands, with 107 gigs on so
 
 Cleric, Koboyo, Alignment
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

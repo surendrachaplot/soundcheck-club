@@ -1,6 +1,6 @@
 # RAAJ
 
-RAAJ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mdlr, Singapore on Sat, 3 Oct 2026.
+RAAJ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mdlr, Singapore on Sat, 3 Oct 2026.
 
 RAAJ is a house and afro house artist based in Singapore, with 32 gigs on soundcheck across Bali, Melbourne and Singapore. Often billed alongside Kylie Nicole, James Selva and Raja Rani. Next up: Mdlr, Singapore on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RAAJ is a house and afro house artist based in Singapore, with 32 gigs on soundc
 
 Kylie Nicole, James Selva, Raja Rani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raaj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raaj/)*

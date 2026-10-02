@@ -1,6 +1,6 @@
 # CONFLICT BUREAU
 
-CONFLICT BUREAU is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Temple Bar, Detroit on Sat, 17 Oct 2026.
+CONFLICT BUREAU is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Temple Bar, Detroit on Sat, 17 Oct 2026.
 
 CONFLICT BUREAU is an acid and house artist based in United States of America, with 16 gigs on soundcheck across Chicago, Detroit, New York City and Nottingham and 1 more. Often billed alongside Dretraxx, Eric Schwab and Max Daley. Next up: Temple Bar, Detroit on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CONFLICT BUREAU is an acid and house artist based in United States of America, w
 
 Dretraxx, Eric Schwab, Max Daley
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*

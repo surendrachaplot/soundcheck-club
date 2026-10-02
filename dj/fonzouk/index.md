@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+Fonzo (UK) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 10 more. Often billed alongside Yemz, Arthi and Notion. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, with 38 gigs on 
 
 Yemz, Arthi, Notion
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Carré is a Bass and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Carré is a bass and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 20 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Carré is a bass and techno artist based in United States of America, with 78 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

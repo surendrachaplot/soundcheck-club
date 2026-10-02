@@ -1,6 +1,6 @@
 # Nefeli
 
-Nefeli is a Minimal and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuse, Brussels on Fri, 2 Oct 2026.
+Nefeli is a Minimal and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuse, Brussels on Fri, 2 Oct 2026.
 
 Nefeli is a minimal and trance artist based in Belgium, with 28 gigs on soundcheck across Antwerp, Athens, Brussels and Ghent and 2 more. Often billed alongside STDJ, DJ Rino and Emma Caers. Next up: Fuse, Brussels on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nefeli is a minimal and trance artist based in Belgium, with 28 gigs on soundche
 
 STDJ, DJ Rino, Emma Caers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*

@@ -1,6 +1,6 @@
 # S.verin
 
-S.verin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+S.verin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
 S.verin is a techno and electro artist based in Austria, with 22 gigs on soundcheck across Berlin, Budapest and Vienna. Often billed alongside Inou Ki Endo, Alpha Tracks and DJ DIAMOND. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ S.verin is a techno and electro artist based in Austria, with 22 gigs on soundch
 
 Inou Ki Endo, Alpha Tracks, DJ DIAMOND (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.verin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.verin/)*

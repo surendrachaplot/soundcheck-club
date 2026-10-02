@@ -1,6 +1,6 @@
 # zolf
 
-zolf is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
+zolf is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
 zolf is a grime and dubstep artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside spxo, netgf and JI_2001. Next up: Stereo, Glasgow on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ zolf is a grime and dubstep artist based in United Kingdom, with 24 gigs on soun
 
 spxo, netgf, JI_2001
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zolf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zolf/)*

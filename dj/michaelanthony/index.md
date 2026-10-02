@@ -1,6 +1,6 @@
 # Michael Anthony
 
-Michael Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Outernet Live, London on Fri, 23 Oct 2026.
+Michael Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Outernet Live, London on Fri, 23 Oct 2026.
 
 Michael Anthony is a house and techno artist based in United States of America, with 10 gigs on soundcheck across London, New York City and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Combover and Daizz. Next up: Outernet Live, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Michael Anthony is a house and techno artist based in United States of America, 
 
 Anthony Mansfield, Combover, Daizz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony/)*

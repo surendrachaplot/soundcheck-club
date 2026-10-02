@@ -1,6 +1,6 @@
 # xcessive
 
-xcessive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+xcessive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
 xcessive is a techno and trance artist based in Poland, with 28 gigs on soundcheck across Hamburg, Krakow and Warsaw. Often billed alongside marcelitumelis, VRAXX and Józef Keuner. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ xcessive is a techno and trance artist based in Poland, with 28 gigs on soundche
 
 marcelitumelis, VRAXX, Józef Keuner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*

@@ -1,6 +1,6 @@
 # The Checkup
 
-The Checkup is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bridge 48, Barcelona on Fri, 2 Oct 2026.
+The Checkup is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bridge 48, Barcelona on Fri, 2 Oct 2026.
 
 The Checkup is a house and techno artist based in France, with 53 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Piem, Nesi and Leo Janeiro. Next up: Bridge 48, Barcelona on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ The Checkup is a house and techno artist based in France, with 53 gigs on soundc
 
 Piem, Nesi, Leo Janeiro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*

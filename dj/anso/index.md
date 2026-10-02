@@ -1,6 +1,6 @@
 # Anso
 
-Anso is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
+Anso is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
 
 Anso is a house and electro artist based in Spain, with 31 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Melbourne. Often billed alongside Laia, Aizikovic and DJ Fuckoff. Next up: TBA - LFO, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Anso is a house and electro artist based in Spain, with 31 gigs on soundcheck ac
 
 Laia, Aizikovic, DJ Fuckoff
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anso/)*

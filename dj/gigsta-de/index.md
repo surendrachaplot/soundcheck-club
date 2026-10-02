@@ -1,6 +1,6 @@
 # Nono Gigsta
 
-Nono Gigsta is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Nono Gigsta is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Nono Gigsta is a bass and techno artist based in Belgium, with 72 gigs on soundcheck across Amsterdam, Armenia, Berlin and Bristol and 23 more. Often billed alongside CCL, Minor Science and Nazar. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Nono Gigsta is a bass and techno artist based in Belgium, with 72 gigs on soundc
 
 CCL, Minor Science, Nazar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*

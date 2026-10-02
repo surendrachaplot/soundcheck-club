@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "glimmer – Opening Day 1" on Fri, 2 Oct 2026.
+glimmer is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "glimmer – Opening Day 1" on Fri, 2 Oct 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Ani con Gas, ANNĒ, BNZN and Carlo Karacho and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

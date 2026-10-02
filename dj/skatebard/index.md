@@ -1,6 +1,6 @@
 # Skatebård
 
-Skatebård is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Østre, Bergen on Fri, 2 Oct 2026.
+Skatebård is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Østre, Bergen on Fri, 2 Oct 2026.
 
 Skatebård is a house and techno artist based in Norway, with 88 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Bergen and 25 more. Often billed alongside G-HA, Olanskii and Anders Hajem. Next up: Østre, Bergen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Skatebård is a house and techno artist based in Norway, with 88 gigs on soundch
 
 G-HA, Olanskii, Anders Hajem
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*

@@ -1,14 +1,15 @@
 # DANDAN
 
-DANDAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
+DANDAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
 
-DANDAN is a techno and house artist based in Japan, with 84 gigs on soundcheck across Berlin, Hong Kong, Lisbon and Melbourne and 5 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
+DANDAN is a techno and house artist based in Japan, with 85 gigs on soundcheck across Berlin, Hong Kong, Kyushu and Lisbon and 6 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Enter Shibuya | Tokyo |
+| Sat, 7 Nov 2026 | Sound space α | Kyushu |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DANDAN is a techno and house artist based in Japan, with 84 gigs on soundcheck a
 
 DANA NADA, TEI TEI, Kojiro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*

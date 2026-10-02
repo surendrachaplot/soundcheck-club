@@ -1,6 +1,6 @@
 # Montse
 
-Montse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
+Montse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
 
 Montse is a techno and house artist based in Spain, with 18 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Netherlands and 1 more. Often billed alongside Joya Astou, Mees Javois and Prance. Next up: Lasociaciøn, Madrid on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Montse is a techno and house artist based in Spain, with 18 gigs on soundcheck a
 
 Joya Astou, Mees Javois, Prance
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*

@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Boy Harsher presents Nude Club feat. Augustus Muller - Justin Aulis Long - Miss Twink USA" on Fri, 2 Oct 2026.
+smartbar is a music venue in Chicago with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Boy Harsher presents Nude Club feat. Augustus Muller - Justin Aulis Long - Miss Twink USA" on Fri, 2 Oct 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 23 upcoming gigs, with line-ups including Andrew Emil, Augustus Muller, Brenda and Chris Cruse and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 23 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

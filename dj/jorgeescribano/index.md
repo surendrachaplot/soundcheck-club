@@ -1,6 +1,6 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 2 Oct 2026.
+Jorge Escribano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 2 Oct 2026.
 
 Jorge Escribano is a house and techno artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: La Terrrazza, Barcelona on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Jorge Escribano is a house and techno artist based in Spain, with 83 gigs on sou
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

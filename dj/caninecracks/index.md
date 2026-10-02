@@ -1,6 +1,6 @@
 # Canine Cracks
 
-Canine Cracks is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nido Marseille, Marseille on Thu, 15 Oct 2026.
+Canine Cracks is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nido Marseille, Marseille on Thu, 15 Oct 2026.
 
 Canine Cracks is a techno and bass artist based in France, with 6 gigs on soundcheck across Brussels, Marseille and Paris. Often billed alongside Joshua Murphy, Nova Materia and Abajour. Next up: Nido Marseille, Marseille on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Canine Cracks is a techno and bass artist based in France, with 6 gigs on soundc
 
 Joshua Murphy, Nova Materia, Abajour
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*

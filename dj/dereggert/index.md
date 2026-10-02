@@ -1,6 +1,6 @@
 # Der Eggert
 
-Der Eggert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
+Der Eggert is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
 
 Der Eggert is a techno and drum & bass artist based in Germany, with 54 gigs on soundcheck across Berlin. Often billed alongside Upzet, Modulatos and Orpheuz. Next up: Der Weiße Hase, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Der Eggert is a techno and drum & bass artist based in Germany, with 54 gigs on 
 
 Upzet, Modulatos, Orpheuz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*

@@ -1,6 +1,6 @@
 # PEAKING
 
-PEAKING is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+PEAKING is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 PEAKING is a techno and house artist based in Japan, with 24 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Kojiro, SuperUser and TEI TEI. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PEAKING is a techno and house artist based in Japan, with 24 gigs on soundcheck 
 
 Kojiro, SuperUser, TEI TEI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaking/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaking/)*

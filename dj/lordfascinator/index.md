@@ -1,6 +1,6 @@
 # Lord Fascinator
 
-Lord Fascinator is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 16 Oct 2026.
+Lord Fascinator is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 16 Oct 2026.
 
 Lord Fascinator is a house and electro artist based in Australia, with 13 gigs on soundcheck across Melbourne, New York City and Tokyo. Often billed alongside Christian Tokyo, Mitch Tonta and Andi. Next up: Dead Letter No. 9, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lord Fascinator is a house and electro artist based in Australia, with 13 gigs o
 
 Christian Tokyo, Mitch Tonta, Andi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordfascinator/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordfascinator/)*

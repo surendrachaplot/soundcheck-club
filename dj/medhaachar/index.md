@@ -1,6 +1,6 @@
 # Medha Achar
 
-Medha Achar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
+Medha Achar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
 
 Medha Achar is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across Detroit. Often billed alongside Dru Allan, Jorissen and hypemelo. Next up: Marble Bar, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Medha Achar is a house and deep house artist based in United States of America, 
 
 Dru Allan, Jorissen, hypemelo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medhaachar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medhaachar/)*

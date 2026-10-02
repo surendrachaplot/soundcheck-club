@@ -1,6 +1,6 @@
 # Haeterna
 
-Haeterna is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Volnost, Seoul on Fri, 2 Oct 2026.
+Haeterna is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Volnost, Seoul on Fri, 2 Oct 2026.
 
 Haeterna is a techno and minimal artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside mizae lim, A Strange Wedding and Asllan. Next up: Volnost, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Haeterna is a techno and minimal artist based in South Korea, with 9 gigs on sou
 
 mizae lim, A Strange Wedding, Asllan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeterna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeterna/)*

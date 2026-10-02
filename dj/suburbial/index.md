@@ -1,6 +1,6 @@
 # Suburbial
 
-Suburbial is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club der Visionaere, Berlin on Sun, 4 Oct 2026.
+Suburbial is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club der Visionaere, Berlin on Sun, 4 Oct 2026.
 
 Suburbial is a minimal techno and progressive house artist based in Spain, with 20 gigs on soundcheck across Berlin. Often billed alongside Alex Kraemer, Luc Ringeisen and Maki Polne. Next up: Club der Visionaere, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Suburbial is a minimal techno and progressive house artist based in Spain, with 
 
 Alex Kraemer, Luc Ringeisen, Maki Polne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suburbial/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suburbial/)*

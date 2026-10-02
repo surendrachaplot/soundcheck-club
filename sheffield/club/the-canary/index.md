@@ -1,6 +1,6 @@
 # The Canary
 
-The Canary is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "DANSE MODE" on Sat, 24 Oct 2026.
+The Canary is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "DANSE MODE" on Sat, 24 Oct 2026.
 
 The Canary is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Canary is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | DANSE MODE |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-canary/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-canary/)*

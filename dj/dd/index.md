@@ -1,6 +1,6 @@
 # DD
 
-DD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 3 Oct 2026.
+DD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 3 Oct 2026.
 
 DD is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh, Rotterdam, Seoul and Toronto and 1 more. Often billed alongside DOMEL, MATRIX3K and Adroit Joe. Next up: K-Bar Powiśle, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DD is a techno and house artist based in United Kingdom, with 9 gigs on soundche
 
 DOMEL, MATRIX3K, Adroit Joe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dd/)*

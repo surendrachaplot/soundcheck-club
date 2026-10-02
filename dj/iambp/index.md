@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pier 15, Breda, Netherlands on Fri, 2 Oct 2026.
+IAMBP is a Electro and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pier 15, Breda, Netherlands on Fri, 2 Oct 2026.
 
 IAMBP is an electro and house artist based in France, with 91 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 17 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Pier 15, Breda, Netherlands on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ IAMBP is an electro and house artist based in France, with 91 gigs on soundcheck
 
 HearThug, Occibel, Alyhas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

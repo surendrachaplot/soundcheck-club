@@ -1,6 +1,6 @@
 # Tommy Wada
 
-Tommy Wada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
+Tommy Wada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Sat, 17 Oct 2026.
 
 Tommy Wada is a techno and house artist, with 32 gigs on soundcheck across Tokyo. Often billed alongside YURI VALEN, AHREUM and SAITO. Next up: WOMB, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tommy Wada is a techno and house artist, with 32 gigs on soundcheck across Tokyo
 
 YURI VALEN, AHREUM, SAITO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommywada/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommywada/)*

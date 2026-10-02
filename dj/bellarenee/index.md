@@ -1,6 +1,6 @@
 # Bella Renee
 
-Bella Renee is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Bella Renee is a Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Bella Renee is a bass and tech house artist, with 6 gigs on soundcheck across Chicago, Los Angeles, Miami and Nashville and 1 more. Often billed alongside AMPRS&ND, Adam Beyer and Alley Kay. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -22,4 +22,4 @@ Bella Renee is a bass and tech house artist, with 6 gigs on soundcheck across Ch
 
 AMPRS&ND, Adam Beyer, Alley Kay
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarenee/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarenee/)*

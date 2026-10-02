@@ -1,6 +1,6 @@
 # Jim Bane
 
-Jim Bane is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 21 Nov 2026.
+Jim Bane is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 21 Nov 2026.
 
 Jim Bane is a jungle and drum & bass artist based in United Kingdom, with 30 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Means&3rd, Esmé and Joey T. Next up: Eastern Bloc Records, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jim Bane is a jungle and drum & bass artist based in United Kingdom, with 30 gig
 
 Means&3rd, Esmé, Joey T
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbane/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimbane/)*

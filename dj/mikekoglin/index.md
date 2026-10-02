@@ -1,6 +1,6 @@
 # Mike Koglin
 
-Mike Koglin is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
+Mike Koglin is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
 
 Mike Koglin is a progressive house and trance artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Berlin and Osaka. Often billed alongside MoodFreak, Michael Ritter and Alex Narrow. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Mike Koglin is a progressive house and trance artist based in United Kingdom, wi
 
 MoodFreak, Michael Ritter, Alex Narrow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekoglin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekoglin/)*

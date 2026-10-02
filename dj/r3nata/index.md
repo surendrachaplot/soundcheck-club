@@ -1,6 +1,6 @@
 # R3NATA
 
-R3NATA is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
+R3NATA is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
 
 R3NATA is a progressive house and techno artist, with 27 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Miami and 1 more. Often billed alongside Urem, Corios and Elias Goldmund. Next up: Kraftwerk, Zurich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ R3NATA is a progressive house and techno artist, with 27 gigs on soundcheck acro
 
 Urem, Corios, Elias Goldmund
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*

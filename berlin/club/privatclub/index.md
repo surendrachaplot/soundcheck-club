@@ -1,6 +1,6 @@
 # Privatclub
 
-Privatclub is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TENDER" on Tue, 6 Oct 2026.
+Privatclub is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TENDER" on Tue, 6 Oct 2026.
 
 Privatclub is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Acuario Cosmico and Lynnic. See dates, start times and who's playing. Skalitzer Straße 85-86, 10997 Berlin.
 
@@ -16,4 +16,4 @@ Privatclub is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Skalitzer Straße 85-86, 10997 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/privatclub/)*

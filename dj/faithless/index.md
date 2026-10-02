@@ -1,6 +1,6 @@
 # Faithless
 
-Faithless is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Faithless is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Faithless is a house and trance artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Bali, Berlin and Brighton and 13 more. Often billed alongside Anfisa Letyago, Charlotte de Witte and Enrico Sangiuliano. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Faithless is a house and trance artist based in United Kingdom, with 23 gigs on 
 
 Anfisa Letyago, Charlotte de Witte, Enrico Sangiuliano
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faithless/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faithless/)*

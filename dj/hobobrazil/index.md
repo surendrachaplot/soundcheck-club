@@ -1,6 +1,6 @@
 # HOBOBRAZIL
 
-HOBOBRAZIL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Metro, Kyoto on Fri, 2 Oct 2026.
+HOBOBRAZIL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Metro, Kyoto on Fri, 2 Oct 2026.
 
 HOBOBRAZIL is a house and techno artist based in Japan, with 23 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, MDMC and bungo. Next up: Club Metro, Kyoto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ HOBOBRAZIL is a house and techno artist based in Japan, with 23 gigs on soundche
 
 KA4U, MDMC, bungo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*

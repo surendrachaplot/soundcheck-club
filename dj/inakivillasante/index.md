@@ -1,6 +1,6 @@
 # Iñaki Villasante
 
-Iñaki Villasante is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Specka, Madrid on Fri, 2 Oct 2026.
+Iñaki Villasante is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Specka, Madrid on Fri, 2 Oct 2026.
 
 Iñaki Villasante is a techno and acid artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Mr.Preacher, Abel Ramos and Arnaud Le Texier. Next up: Specka, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Iñaki Villasante is a techno and acid artist based in Spain, with 9 gigs on sou
 
 Mr.Preacher, Abel Ramos, Arnaud Le Texier
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakivillasante/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakivillasante/)*

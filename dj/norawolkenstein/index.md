@@ -1,6 +1,6 @@
 # Nora Wolkenstein
 
-Nora Wolkenstein is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
+Nora Wolkenstein is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
 
 Nora Wolkenstein is a house and deep house artist, with 13 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Ligal Tamir, In Between and Inch of Shadow. Next up: Beate Uwe, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nora Wolkenstein is a house and deep house artist, with 13 gigs on soundcheck ac
 
 Ligal Tamir, In Between, Inch of Shadow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norawolkenstein/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norawolkenstein/)*

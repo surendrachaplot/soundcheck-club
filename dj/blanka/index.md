@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gewölbe, Cologne on Fri, 2 Oct 2026.
+BLANKA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Fri, 2 Oct 2026.
 
 BLANKA is a techno and house artist based in Spain, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Angioma, Jeff Mills and Phil Berg. Next up: Gewölbe, Cologne on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ BLANKA is a techno and house artist based in Spain, with 152 gigs on soundcheck 
 
 Angioma, Jeff Mills, Phil Berg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

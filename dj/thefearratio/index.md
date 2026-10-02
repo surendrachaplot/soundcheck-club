@@ -1,6 +1,6 @@
 # The Fear Ratio
 
-The Fear Ratio is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
+The Fear Ratio is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
 
 The Fear Ratio is a techno and experimental artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Berlin, London and Montreal and 2 more. Often billed alongside Annie Hall, James Ruskin and Mark Broom. Next up: Paradiso, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ The Fear Ratio is a techno and experimental artist based in United Kingdom, with
 
 Annie Hall, James Ruskin, Mark Broom
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*

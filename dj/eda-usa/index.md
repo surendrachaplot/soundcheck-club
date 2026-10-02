@@ -1,6 +1,6 @@
 # EDA (2)
 
-EDA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
+EDA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
 
 EDA is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Los Angeles. Often billed alongside Konstantin, Leafar Legov and Arthur Onni. Next up: TBA - Arts District LA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EDA is a house and techno artist based in United States of America, with 11 gigs
 
 Konstantin, Leafar Legov, Arthur Onni
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eda-usa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eda-usa/)*

@@ -1,6 +1,6 @@
 # The Apricots
 
-The Apricots is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Sat, 7 Nov 2026.
+The Apricots is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Şahika, Istanbul on Sat, 7 Nov 2026.
 
 The Apricots is a house and breakbeat artist based in Romania, with 20 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Ghent and 2 more. Often billed alongside Alexandra, DJ Slim Fit and Enchanted Rhythms. Next up: Şahika, Istanbul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ The Apricots is a house and breakbeat artist based in Romania, with 20 gigs on s
 
 Alexandra, DJ Slim Fit, Enchanted Rhythms
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theapricots/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theapricots/)*

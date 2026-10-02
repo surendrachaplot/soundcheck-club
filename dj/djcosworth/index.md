@@ -1,6 +1,6 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
+DJ Cosworth is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
 DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 21 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Mint XL, Leeds on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ DJ Cosworth is a garage and house artist based in United Kingdom, with 82 gigs o
 
 Oldboy, Dr Dubplate, Bakey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

@@ -1,6 +1,6 @@
 # Andrae Durden
 
-Andrae Durden is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Andrae Durden is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Andrae Durden is a bass and techno artist based in Spain, with 17 gigs on soundcheck across Barcelona, Glasgow, Madrid and Manchester and 1 more. Often billed alongside Tyre Pressure, Chicha and DJ COLL. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Andrae Durden is a bass and techno artist based in Spain, with 17 gigs on soundc
 
 Tyre Pressure, Chicha (2), DJ COLL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andraedurden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andraedurden/)*

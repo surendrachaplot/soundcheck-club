@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
+ED (MX) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Bermellón, Mexico City on Fri, 2 Oct 2026.
 
 ED (MX) is a house and minimal artist based in Mexico, with 40 gigs on soundcheck across Copenhagen, Mexico City, Miami and Paris. Often billed alongside Itza Chacón, Mejia and Alo. Next up: Club Bermellón, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ED (MX) is a house and minimal artist based in Mexico, with 40 gigs on soundchec
 
 Itza Chacón, Mejia, Alo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

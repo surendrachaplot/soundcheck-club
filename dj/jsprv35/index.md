@@ -1,6 +1,6 @@
 # JSPRV35
 
-JSPRV35 is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
+JSPRV35 is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
 
 JSPRV35 is a techno and minimal techno artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 12 more. Often billed alongside Beau Didier, Grace Dahl and Isaiah (NL). Next up: nachbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ JSPRV35 is a techno and minimal techno artist based in Netherlands, with 51 gigs
 
 Beau Didier, Grace Dahl, Isaiah (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsprv35/)*

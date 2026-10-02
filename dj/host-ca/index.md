@@ -1,6 +1,6 @@
 # Host (CA)
 
-Host (CA) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Host (CA) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
 Host (CA) is a house and garage artist based in Canada, with 29 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Cardiac, Choirboi and Craft. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Host (CA) is a house and garage artist based in Canada, with 29 gigs on soundche
 
 Cardiac, Choirboi, Craft
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*

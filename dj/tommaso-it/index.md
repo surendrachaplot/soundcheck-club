@@ -1,6 +1,6 @@
 # Tommaso (IT)
 
-Tommaso (IT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
+Tommaso (IT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
 
 Tommaso (IT) is a house and disco artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Chicago, Detroit and London and 6 more. Often billed alongside CTRLZORA, Gene Hunt and TonyDeepDisco. Next up: De La Playa Records & Leisure, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tommaso (IT) is a house and disco artist based in Italy, with 57 gigs on soundch
 
 CTRLZORA, Gene Hunt, TonyDeepDisco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*

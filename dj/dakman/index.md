@@ -1,6 +1,6 @@
 # Dakman
 
-Dakman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
+Dakman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
 
 Dakman is a house and tech house artist based in Serbia, with 29 gigs on soundcheck across Belgrade and London. Often billed alongside Dakissa, Nemax and Cosmic G. Next up: Kult, Belgrade on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dakman is a house and tech house artist based in Serbia, with 29 gigs on soundch
 
 Dakissa, Nemax, Cosmic G
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dakman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dakman/)*

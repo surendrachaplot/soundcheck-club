@@ -1,6 +1,6 @@
 # Spectribe
 
-Spectribe is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
+Spectribe is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
 
 Spectribe is a techno artist, with 14 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside Blazej Malinowski, Nowosad and PAWEL (PL). Next up: Ciało, Wroclaw on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Spectribe is a techno artist, with 14 gigs on soundcheck across Berlin, Krakow, 
 
 Blazej Malinowski, Nowosad, PAWEL (PL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spectribe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spectribe/)*

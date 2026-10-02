@@ -1,6 +1,6 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
+CUERPOS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
 
 CUERPOS is a techno and house artist based in Canada, with 16 gigs on soundcheck across Lyon, Montreal, Norway and Toronto. Often billed alongside Dj Hermano, Maara and Ficilio. Next up: ESC, Montreal on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ CUERPOS is a techno and house artist based in Canada, with 16 gigs on soundcheck
 
 Dj Hermano, Maara, Ficilio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*

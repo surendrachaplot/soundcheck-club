@@ -1,6 +1,6 @@
 # Emre Senol
 
-Emre Senol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yan Gastro, Istanbul on Fri, 2 Oct 2026.
+Emre Senol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yan Gastro, Istanbul on Fri, 2 Oct 2026.
 
 Emre Senol is a house and techno artist, with 14 gigs on soundcheck across Bali and Istanbul. Often billed alongside Eren (Vamonos, IST), Aldebaran and Emirhan Kacar. Next up: Yan Gastro, Istanbul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Emre Senol is a house and techno artist, with 14 gigs on soundcheck across Bali 
 
 Eren (Vamonos, IST), Aldebaran, Emirhan Kacar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emresenol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emresenol/)*

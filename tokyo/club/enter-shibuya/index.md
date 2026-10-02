@@ -1,6 +1,6 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "松果体 =shoukatai= 6th Anniversary" on Fri, 2 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "松果体 =shoukatai= 6th Anniversary" on Fri, 2 Oct 2026.
 
 Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including age, AMIDAdrive, Amps and Blackship and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
@@ -23,4 +23,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, 
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

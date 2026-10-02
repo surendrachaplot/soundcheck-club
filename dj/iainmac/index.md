@@ -1,6 +1,6 @@
 # Iain Mac
 
-Iain Mac is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Golden Lion, Manchester on Sat, 12 Dec 2026.
+Iain Mac is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Golden Lion, Manchester on Sat, 12 Dec 2026.
 
 Iain Mac is a house and electro artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds and Manchester. Often billed alongside Joe Morris, Bod Min and Roya Brehl. Next up: The Golden Lion, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Iain Mac is a house and electro artist based in United Kingdom, with 16 gigs on 
 
 Joe Morris, Bod Min, Roya Brehl
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iainmac/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iainmac/)*

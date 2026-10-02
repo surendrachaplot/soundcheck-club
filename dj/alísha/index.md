@@ -1,6 +1,6 @@
 # Alísha
 
-Alísha is a Progressive House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Alísha is a Progressive House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 Alísha is a progressive house and electronica artist based in Poland, with 7 gigs on soundcheck across Amsterdam, Milan and Warsaw. Often billed alongside Kostya Outta, Abity and Bryan Wolf Ear. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Alísha is a progressive house and electronica artist based in Poland, with 7 gi
 
 Kostya Outta, Abity, Bryan Wolf Ear
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alísha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alísha/)*

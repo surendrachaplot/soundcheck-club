@@ -1,13 +1,14 @@
 # Jeremy Underground
 
-Jeremy Underground is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 23 Oct 2026.
+Jeremy Underground is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bazaar St So, Lille on Fri, 16 Oct 2026.
 
-Jeremy Underground is a house and disco artist based in France, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 22 more. Often billed alongside Kerri Chandler, Mr. G and AliA. Next up: Cabaret Sauvage, Paris on Fri 23 Oct.
+Jeremy Underground is a house and disco artist based in France, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Kerri Chandler, Mr. G and AliA. Next up: Bazaar St So, Lille on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bazaar St So | Lille |
 | Fri, 23 Oct 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jeremy Underground is a house and disco artist based in France, with 93 gigs on 
 
 Kerri Chandler, Mr. G, AliA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*

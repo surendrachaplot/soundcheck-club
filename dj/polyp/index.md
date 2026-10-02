@@ -1,6 +1,6 @@
 # polyp
 
-polyp is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+polyp is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 polyp is an experimental and club artist, with 25 gigs on soundcheck across Cork, Dublin, Glasgow and London. Often billed alongside Rory Sweeney, Naoise and Roo Honeychild. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ polyp is an experimental and club artist, with 25 gigs on soundcheck across Cork
 
 Rory Sweeney, Naoise, Roo Honeychild
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyp/)*

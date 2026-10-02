@@ -1,6 +1,6 @@
 # Minji
 
-Minji is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
+Minji is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
 
 Minji is a house and tech house artist based in South Korea, with 70 gigs on soundcheck across Seoul. Often billed alongside Better, Conan and Grace Kim. Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Minji is a house and tech house artist based in South Korea, with 70 gigs on sou
 
 Better, Conan, Grace Kim
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*

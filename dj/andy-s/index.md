@@ -1,6 +1,6 @@
 # Andy-S
 
-Andy-S is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
+Andy-S is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
 
 Andy-S is a house and disco artist based in United Kingdom, with 29 gigs on soundcheck across Hong Kong. Often billed alongside The Heman, JayMe and 100%WONG. Next up: 宀 Club, Hong Kong on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Andy-S is a house and disco artist based in United Kingdom, with 29 gigs on soun
 
 The Heman, JayMe, 100%WONG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-s/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-s/)*

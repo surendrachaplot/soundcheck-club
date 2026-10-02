@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PRíNCIPE 15 YEARS" on Thu, 1 Oct 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Hamam Nights" on Fri, 2 Oct 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Adi (CO) and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Justine Perry, Aba Shanti-I, abs8lute and Adi (CO) and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | PRíNCIPE 15 YEARS | DJ Firmeza, DJ Nigga Fox |
 | Fri, 2 Oct 2026 | Hamam Nights | Eoin DJ, Kevin Aviance, Rumi de Baires, Sedef Adasï |
 | Sat, 3 Oct 2026 | Klubnacht | AMORAL, Answer Code Request, BLANKA, Barbara Preisinger, Barker, Biesmans, Carlos Valdes, Cormac, DVS1, Mano Le Tough, PARAMIDA, Ryan Elliott, Shonky, The Lady Machine, abs8lute |
 | Thu, 8 Oct 2026 | weeeirdos | BRALLE, Budino, LOLSNAKE, SALOME, VINVAR |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Thu, 15 Oct 2026 | Hunger To Create | Anthony Linell, Dasha Rush, Megan Leber |
 | Fri, 16 Oct 2026 | Sister | Ben UFO, DJ Senc, Dulce (1), Nathalie Seres, Samuel Deep |
 | Sat, 17 Oct 2026 | Klubnacht | Binh, Blasha & Allatt, Darwin, Fadi Mohem, Justine Perry, Kyle Geiger, Lakuti, Lucas Depta, Mystery Affair, Phara, Phase Fatale, Richard Akingbehin, Rødhåd, Setaoc Mass, Victor (DE), Violetta (DE) |
+| Thu, 22 Oct 2026 | Nous'klaer | Nikos (live), Oberman, Thaïs (FR) |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

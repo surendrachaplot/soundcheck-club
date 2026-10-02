@@ -1,6 +1,6 @@
 # Jean-Paul
 
-Jean-Paul is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dada, New York City on Fri, 2 Oct 2026.
+Jean-Paul is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dada, New York City on Fri, 2 Oct 2026.
 
 Jean-Paul is a house and tech house artist based in Colombia, with 38 gigs on soundcheck across Miami and New York City. Often billed alongside Shahar, Motum and Pablo Romero. Next up: Dada, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jean-Paul is a house and tech house artist based in Colombia, with 38 gigs on so
 
 Shahar, Motum, Pablo Romero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-paul-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-paul-2/)*

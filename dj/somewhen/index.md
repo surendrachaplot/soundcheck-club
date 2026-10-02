@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Strasse E, Dresden on Fri, 2 Oct 2026.
+Somewhen is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Strasse E, Dresden on Fri, 2 Oct 2026.
 
 Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Strasse E, Dresden on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundc
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

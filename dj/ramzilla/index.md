@@ -1,6 +1,6 @@
 # Ramzilla
 
-Ramzilla is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Système, Montreal on Thu, 8 Oct 2026.
+Ramzilla is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Thu, 8 Oct 2026.
 
 Ramzilla is a house and techno artist based in Canada, with 23 gigs on soundcheck across Berlin, Melbourne, Milan and Montreal and 3 more. Often billed alongside RAMZi, Elsie and Fergus Jones. Next up: Système, Montreal on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Ramzilla is a house and techno artist based in Canada, with 23 gigs on soundchec
 
 RAMZi, Elsie, Fergus Jones
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzilla/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzilla/)*

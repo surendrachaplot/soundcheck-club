@@ -1,6 +1,6 @@
 # Hugh Hardie
 
-Hugh Hardie is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Hugh Hardie is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
 
 Hugh Hardie is a drum & bass and jungle artist, with 27 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 11 more. Often billed alongside Etherwood, Solah and London Elektricity. Next up: halle02, Heidelberg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hugh Hardie is a drum & bass and jungle artist, with 27 gigs on soundcheck acros
 
 Etherwood, Solah, London Elektricity
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hughhardie/)*

@@ -1,6 +1,6 @@
 # Grouf$
 
-Grouf$ is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Locke, Hamburg on Fri, 2 Oct 2026.
+Grouf$ is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Locke, Hamburg on Fri, 2 Oct 2026.
 
 Grouf$ is an electronic artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Fokko, fluence and Alphamob. Next up: Locke, Hamburg on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Grouf$ is an electronic artist based in Germany, with 8 gigs on soundcheck acros
 
 Fokko, fluence, Alphamob
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grouf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grouf/)*

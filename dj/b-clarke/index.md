@@ -1,6 +1,6 @@
 # B. Clarke
 
-B. Clarke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
+B. Clarke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
 
 B. Clarke is a house and disco artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Lisbon and 1 more. Often billed alongside Phil Paruschke, DJ Jetski and MALAGÜERA. Next up: Urban Spree, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ B. Clarke is a house and disco artist based in Germany, with 31 gigs on soundche
 
 Phil Paruschke, DJ Jetski, MALAGÜERA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-clarke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-clarke/)*

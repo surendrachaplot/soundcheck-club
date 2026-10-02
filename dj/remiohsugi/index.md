@@ -1,6 +1,6 @@
 # Remi Ohsugi
 
-Remi Ohsugi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
+Remi Ohsugi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 Remi Ohsugi is a techno and house artist based in Japan, with 72 gigs on soundcheck across Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Hackmarkt and Da Yama. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Remi Ohsugi is a techno and house artist based in Japan, with 72 gigs on soundch
 
 AMG SAIMURA (TECHVANE), Hackmarkt, Da Yama
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remiohsugi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remiohsugi/)*

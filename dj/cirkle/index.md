@@ -1,6 +1,6 @@
 # Cirkle
 
-Cirkle is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at AUX Club, Athens on Fri, 2 Oct 2026.
+Cirkle is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at AUX Club, Athens on Fri, 2 Oct 2026.
 
 Cirkle is a techno and house artist based in Greece, with 128 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside a.metz, Até. and SALIN. Next up: AUX Club, Athens on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Cirkle is a techno and house artist based in Greece, with 128 gigs on soundcheck
 
 a.metz, Até., SALIN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cirkle/)*

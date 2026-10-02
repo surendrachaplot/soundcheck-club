@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales, London on Fri, 2 Oct 2026.
+SHUFFA is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales, London on Fri, 2 Oct 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Belfast and 16 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: Night Tales, London on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ SHUFFA is a garage and house artist based in United Kingdom, with 49 gigs on sou
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

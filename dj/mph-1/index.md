@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+MPH (1) is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 MPH is a garage and house artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 40 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ MPH is a garage and house artist based in United Kingdom, with 121 gigs on sound
 
 Oppidan, Flava D, Hamdi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

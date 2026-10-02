@@ -1,6 +1,6 @@
 # Ale Bi
 
-Ale Bi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grandangolo, Rome on Sat, 3 Oct 2026.
+Ale Bi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grandangolo, Rome on Sat, 3 Oct 2026.
 
 Ale Bi is a tech house and house artist based in Italy, with 9 gigs on soundcheck across Rome. Often billed alongside Ces Garçons, Chaos In The CBD and Dante (H501). Next up: Grandangolo, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ale Bi is a tech house and house artist based in Italy, with 9 gigs on soundchec
 
 Ces Garçons, Chaos In The CBD, Dante (H501)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alebi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alebi/)*

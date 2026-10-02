@@ -1,6 +1,6 @@
 # Klangpusch
 
-Klangpusch is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 13 Oct 2026.
+Klangpusch is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 13 Oct 2026.
 
 Klangpusch is a techno and industrial artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne and Krakow. Often billed alongside Felix Reichelt, ZÖ and Jordan.nsx. Next up: Der Weiße Hase, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Klangpusch is a techno and industrial artist based in Germany, with 49 gigs on s
 
 Felix Reichelt, ZÖ (1), Jordan.nsx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangpusch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangpusch/)*

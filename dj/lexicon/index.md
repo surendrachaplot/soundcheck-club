@@ -1,8 +1,8 @@
 # Lexicon
 
-Lexicon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Lexicon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Lexicon is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), sfcowboy and /KATA/. Next up: Wollman Rink, New York City on Fri 2 Oct.
+Lexicon is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), sfcowboy and /KATA/. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lexicon is a techno and house artist based in United States of America, with 34 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Fri, 16 Oct 2026 | YuYu Cine Club | Mexico City |
+| Fri, 30 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lexicon is a techno and house artist based in United States of America, with 34 
 
 erika (SF), sfcowboy, /KATA/
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*

@@ -1,6 +1,6 @@
 # EMIR-B
 
-EMIR-B is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Core, Madrid on Sat, 3 Oct 2026.
+EMIR-B is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Core, Madrid on Sat, 3 Oct 2026.
 
 EMIR-B is a techno and electronica artist based in Argentina, with 55 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid. Often billed alongside ANGEL, Bat (US) and DISTORT (ES). Next up: Core, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ EMIR-B is a techno and electronica artist based in Argentina, with 55 gigs on so
 
 ANGEL (3), Bat (US), DISTORT (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emir-b/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emir-b/)*

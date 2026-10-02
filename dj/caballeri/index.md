@@ -1,6 +1,6 @@
 # Caballeri
 
-Caballeri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Resume Valencia, Valencia on Fri, 2 Oct 2026.
+Caballeri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Resume Valencia, Valencia on Fri, 2 Oct 2026.
 
 Caballeri is a house and tech house artist based in Spain, with 19 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Camiel Daamen, Pizzicatto and Varis. Next up: Resume Valencia, Valencia on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Caballeri is a house and tech house artist based in Spain, with 19 gigs on sound
 
 Camiel Daamen, Pizzicatto, Varis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caballeri/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caballeri/)*

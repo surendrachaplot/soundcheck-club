@@ -1,6 +1,6 @@
 # Hanten
 
-Hanten is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
+Hanten is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
 
 Hanten is a techno and trance artist based in Argentina, with 21 gigs on soundcheck across Barcelona, Buenos Aires, Madrid and Valencia. Often billed alongside Hexxe, Xé and Carlos Flores. Next up: Barraca, Valencia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hanten is a techno and trance artist based in Argentina, with 21 gigs on soundch
 
 Hexxe, Xé (1), Carlos Flores
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanten/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanten/)*

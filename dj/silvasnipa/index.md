@@ -1,8 +1,8 @@
 # Silva Snipa
 
-Silva Snipa is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
+Silva Snipa is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Pop-Up du Label, Paris on Fri, 2 Oct 2026.
 
-Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside VXRGO, The Bass Injector and Janaway. Next up: Le Pop-Up du Label, Paris on Fri 2 Oct.
+Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside VXRGO, The Bass Injector and Janaway. Next up: Le Pop-Up du Label, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 107
 | Thu, 29 Oct 2026 | The Bongo Club | Edinburgh |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
 | Fri, 27 Nov 2026 | XLR | Manchester |
+| Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -33,4 +34,4 @@ Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 107
 
 VXRGO, The Bass Injector, Janaway
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*

@@ -1,6 +1,6 @@
 # Vandiaz
 
-Vandiaz is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
+Vandiaz is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
 
 Vandiaz is a techno and electro artist based in Spain, with 55 gigs on soundcheck across Madrid. Often billed alongside Javier Klash, Dyans and Reitze. Next up: Sala Siroco, Madrid on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Vandiaz is a techno and electro artist based in Spain, with 55 gigs on soundchec
 
 Javier Klash, Dyans, Reitze
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*

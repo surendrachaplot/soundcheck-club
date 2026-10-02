@@ -1,6 +1,6 @@
 # Zuri Adia
 
-Zuri Adia is a Guaracha and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
+Zuri Adia is a Guaracha and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
 
 Zuri Adia is a guaracha and house artist based in United States of America, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Xochii, Alxander Ivey and AndreasOne. Next up: TBA - 818-724-7836, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Zuri Adia is a guaracha and house artist based in United States of America, with
 
 Xochii, Alxander Ivey, AndreasOne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuriadia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuriadia/)*

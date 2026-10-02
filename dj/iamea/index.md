@@ -1,6 +1,6 @@
 # IAMEA
 
-IAMEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+IAMEA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 IAMEA is a techno and trance artist based in Georgia, with 38 gigs on soundcheck across Berlin, Hamburg, Stuttgart and Tbilisi. Often billed alongside Vakho, Zurkin and Gio Shengelia. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ IAMEA is a techno and trance artist based in Georgia, with 38 gigs on soundcheck
 
 Vakho, Zurkin, Gio Shengelia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamea/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamea/)*

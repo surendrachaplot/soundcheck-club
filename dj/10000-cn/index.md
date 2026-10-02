@@ -1,6 +1,6 @@
 # 10000 (CN)
 
-10000 (CN) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+10000 (CN) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 10000 (CN) is an experimental and club artist, with 6 gigs on soundcheck across Buenos Aires, Shanghai and Shenzhen. Often billed alongside DJ EBP, chuan and AntiSocialPrincess. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -9,10 +9,10 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Heim Shanghai | Shanghai |
-| Thu, 1 Oct 2026 | POTENT | Shanghai |
 
 ## Recently played
 
+- POTENT, Shanghai · Thu, 1 Oct 2026
 - Heim Shanghai, Shanghai · Wed, 30 Sept 2026
 - TBA - No. 535, Jinqiao Road, Pudong New Area, Shanghai, Shanghai · Sat, 23 May 2026
 - POTENT, Shanghai · Sat, 23 May 2026
@@ -23,4 +23,4 @@
 
 DJ EBP, chuan, AntiSocialPrincess
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*

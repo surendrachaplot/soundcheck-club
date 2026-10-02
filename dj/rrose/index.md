@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
+Rrose is a Techno and Experimental artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
 
 Rrose is a techno and experimental artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: Podlasie Club, Chicago on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Rrose is a techno and experimental artist based in United States of America, wit
 
 Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Slave to Rock" on Fri, 2 Oct 2026.
+Insomnia is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Slave to Rock" on Fri, 2 Oct 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including ANAMORPH_, BOHO, BOOTHBUNNY and djst4rlight and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

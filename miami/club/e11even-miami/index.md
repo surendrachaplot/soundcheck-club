@@ -1,6 +1,6 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rockwell at E11EVEN" on Thu, 1 Oct 2026.
+E11EVEN MIAMI is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Rockwell at E11EVEN" on Thu, 1 Oct 2026.
 
 E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
@@ -17,4 +17,4 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 4 upcoming gigs. S
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

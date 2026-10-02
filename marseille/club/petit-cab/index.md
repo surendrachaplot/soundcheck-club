@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Abstraxion × Encore Encore - Pour Correns @ Petit Cab" on Fri, 2 Oct 2026.
+Petit CAB is a music venue in Marseille with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Abstraxion × Encore Encore - Pour Correns @ Petit Cab" on Fri, 2 Oct 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 14 upcoming gigs, with line-ups including Abstraxion, Dj Schnake, Kendal and Kenny Larkin and 2 more. See dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -23,4 +23,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 14 upcoming gigs, 
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

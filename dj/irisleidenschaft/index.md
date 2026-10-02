@@ -1,6 +1,6 @@
 # Iris Leidenschaft
 
-Iris Leidenschaft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Enter Enter, Bogot on Fri, 2 Oct 2026.
+Iris Leidenschaft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Enter Enter, Bogot on Fri, 2 Oct 2026.
 
 Iris Leidenschaft is a techno and house artist based in Colombia, with 14 gigs on soundcheck across Berlin, Bogot, Brussels and Colombia and 3 more. Often billed alongside Innexen, SAVBEA and VISNEACS. Next up: Enter Enter Enter, Bogot on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Iris Leidenschaft is a techno and house artist based in Colombia, with 14 gigs o
 
 Innexen, SAVBEA, VISNEACS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*

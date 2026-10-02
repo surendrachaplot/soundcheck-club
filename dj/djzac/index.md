@@ -1,6 +1,6 @@
 # DJ ZAC
 
-DJ ZAC is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
+DJ ZAC is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
 
 DJ ZAC is a progressive house and deep house artist, with 22 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 6 more. Often billed alongside 2melo, Catori and David Hohme. Next up: Marina Navegantes São João, Brazil on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ DJ ZAC is a progressive house and deep house artist, with 22 gigs on soundcheck 
 
 2melo, Catori, David Hohme
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*

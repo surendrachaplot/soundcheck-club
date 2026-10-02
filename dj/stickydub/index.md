@@ -1,6 +1,6 @@
 # Sticky Dub
 
-Sticky Dub is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Sticky Dub is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
 
 Sticky Dub is a broken beat and house artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 4 more. Often billed alongside Alexander Nut, Saige Sounds and Beat Detective. Next up: Open Ground, Wuppertal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sticky Dub is a broken beat and house artist based in United Kingdom, with 38 gi
 
 Alexander Nut, Saige Sounds, Beat Detective
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*

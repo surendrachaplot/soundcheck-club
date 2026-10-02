@@ -1,6 +1,6 @@
 # Akemiö Grey
 
-Akemiö Grey is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+Akemiö Grey is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
 Akemiö Grey is a hardcore and trance artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Belgrade, Leipzig and Rotterdam and 1 more. Often billed alongside Gysèle, Jorn Liefdeshuis and DJ Ruffneck. Next up: Levenslang Amsterdam, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Akemiö Grey is a hardcore and trance artist based in Netherlands, with 16 gigs 
 
 Gysèle, Jorn Liefdeshuis, DJ Ruffneck
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akemiogrey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akemiogrey/)*

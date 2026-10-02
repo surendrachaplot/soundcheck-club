@@ -1,6 +1,6 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Louie Vega is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Louie Vega is a house and disco artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -19,6 +19,7 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - [UNVRS], Ibiza · Sun, 13 Sept 2026
 - Cabaret Sauvage, Paris · Sat, 5 Sept 2026
 - KOKO, London · Fri, 4 Sept 2026
@@ -26,10 +27,9 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 - Clifton Downs, Bristol · Sat, 1 Aug 2026
 - Blue Marlin Ibiza, Ibiza · Wed, 22 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 17 Jul 2026
-- TBA - Downtown Los Angeles, Los Angeles · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

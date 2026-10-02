@@ -1,6 +1,6 @@
 # Aki Dolanikov
 
-Aki Dolanikov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 10 Oct 2026.
+Aki Dolanikov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 10 Oct 2026.
 
 Aki Dolanikov is a house and techno artist based in Japan, with 73 gigs on soundcheck across Tokyo. Often billed alongside arow, okadada and K8 (TYO GQOM). Next up: Nakano Heavysick Zero, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Aki Dolanikov is a house and techno artist based in Japan, with 73 gigs on sound
 
 arow, okadada, K8 (TYO GQOM)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akidolanikov/)*

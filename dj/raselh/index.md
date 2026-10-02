@@ -1,6 +1,6 @@
 # rasel h
 
-rasel h is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Sat, 3 Oct 2026.
+rasel h is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Club, Bristol on Sat, 3 Oct 2026.
 
 rasel h is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, Bristol and London. Often billed alongside Jake Moree, Eksish and Adam Chapman. Next up: Moon Club, Bristol on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ rasel h is a techno and house artist based in United Kingdom, with 17 gigs on so
 
 Jake Moree, Eksish, Adam Chapman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raselh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raselh/)*

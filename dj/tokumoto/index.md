@@ -1,6 +1,6 @@
 # Tokumoto
 
-Tokumoto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at rake?raka?, Osaka on Fri, 2 Oct 2026.
+Tokumoto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at rake?raka?, Osaka on Fri, 2 Oct 2026.
 
 Tokumoto is a house and tech house artist based in Japan, with 43 gigs on soundcheck across Osaka. Often billed alongside fb5, DMITRI ABSINTHE and KENJI MARUI. Next up: rake?raka?, Osaka on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tokumoto is a house and tech house artist based in Japan, with 43 gigs on soundc
 
 fb5 (1), DMITRI ABSINTHE, KENJI MARUI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokumoto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokumoto/)*

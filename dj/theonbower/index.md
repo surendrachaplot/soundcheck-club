@@ -1,6 +1,6 @@
 # Theon Bower
 
-Theon Bower is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
+Theon Bower is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
 Theon Bower is a house and disco artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Madeline (UK), Scarlett O'Malley and Fred Mann. Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Theon Bower is a house and disco artist based in United Kingdom, with 46 gigs on
 
 Madeline (UK), Scarlett O'Malley, Fred Mann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*

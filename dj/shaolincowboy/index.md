@@ -1,6 +1,6 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
+Shaolin Cowboy is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
 
 Shaolin Cowboy is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Target Demographic, dj poolboi and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Shaolin Cowboy is a house and techno artist based in United Kingdom, with 56 gig
 
 Target Demographic, dj poolboi, DJ Cinéma Quartier Latin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*

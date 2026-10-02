@@ -1,6 +1,6 @@
 # SANA
 
-SANA is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+SANA is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 SANA is a bass and club artist based in Spain, with 28 gigs on soundcheck across Amsterdam, Brighton, London and Marseille and 2 more. Often billed alongside MINÄ, Trae Joly and CRAIC DAVID. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SANA is a bass and club artist based in Spain, with 28 gigs on soundcheck across
 
 MINÄ, Trae Joly, CRAIC DAVID
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana/)*

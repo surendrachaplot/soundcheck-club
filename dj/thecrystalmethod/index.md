@@ -1,6 +1,6 @@
 # The Crystal Method
 
-The Crystal Method is a Trance and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Racket NY, New York City on Sat, 31 Oct 2026.
+The Crystal Method is a Trance and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Racket NY, New York City on Sat, 31 Oct 2026.
 
 The Crystal Method is a trance and breakbeat artist based in United States of America, with 13 gigs on soundcheck across Austin, Denver, Detroit and Houston and 7 more. Often billed alongside Paul Oakenfold, Orbital and DJ Hyper. Next up: Racket NY, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ The Crystal Method is a trance and breakbeat artist based in United States of Am
 
 Paul Oakenfold, Orbital, DJ Hyper
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

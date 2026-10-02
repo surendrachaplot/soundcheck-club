@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Arder: Kr!z // Hemka // Milkē" on Fri, 2 Oct 2026.
+NWHR is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Arder: Kr!z // Hemka // Milkē" on Fri, 2 Oct 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Anabasine, BPlease, Breakcheck and ccil and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -23,4 +23,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with l
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

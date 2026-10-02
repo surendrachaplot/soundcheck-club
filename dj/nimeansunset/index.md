@@ -1,6 +1,6 @@
 # Nimean Sunset
 
-Nimean Sunset is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Terraza Catedral, Mexico City on Fri, 2 Oct 2026.
+Nimean Sunset is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Terraza Catedral, Mexico City on Fri, 2 Oct 2026.
 
 Nimean Sunset is a house and minimal artist based in Mexico, with 45 gigs on soundcheck across Mexico City. Often billed alongside Dimaio, Barreto and Wolffer. Next up: Terraza Catedral, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nimean Sunset is a house and minimal artist based in Mexico, with 45 gigs on sou
 
 Dimaio, Barreto, Wolffer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimeansunset/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimeansunset/)*

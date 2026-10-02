@@ -1,6 +1,6 @@
 # JA JA
 
-JA JA is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
+JA JA is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
 
 JA JA is a techno and deep house artist based in France, with 7 gigs on soundcheck across Berlin and Brussels. Often billed alongside Cez, Michel7000 and Andrea Ferlin. Next up: Club der Visionaere, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ JA JA is a techno and deep house artist based in France, with 7 gigs on soundche
 
 Cez (1), Michel7000, Andrea Ferlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaja/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaja/)*

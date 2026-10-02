@@ -1,6 +1,6 @@
 # GLEDIS
 
-GLEDIS is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 8 Oct 2026.
+GLEDIS is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 8 Oct 2026.
 
 GLEDIS is a techno artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Milan and Turin. Often billed alongside Franz Bush, SYNN and Luca Armando. Next up: Tempio del Futuro Perduto, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ GLEDIS is a techno artist based in Italy, with 29 gigs on soundcheck across Amst
 
 Franz Bush, SYNN, Luca Armando
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gledis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gledis/)*

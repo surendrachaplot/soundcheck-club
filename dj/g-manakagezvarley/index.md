@@ -1,6 +1,6 @@
 # G-MAN aka Gez Varley
 
-G-MAN aka Gez Varley is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Zerox, Newcastle on Fri, 2 Oct 2026.
+G-MAN aka Gez Varley is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zerox, Newcastle on Fri, 2 Oct 2026.
 
 G-MAN aka Gez Varley is an acid and house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Bucharest, Leeds and London and 3 more. Often billed alongside LFO, Simon Scott and XDB. Next up: Zerox, Newcastle on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ G-MAN aka Gez Varley is an acid and house artist based in United Kingdom, with 9
 
 LFO, Simon Scott, XDB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-manakagezvarley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-manakagezvarley/)*

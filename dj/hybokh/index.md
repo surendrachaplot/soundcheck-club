@@ -1,18 +1,18 @@
 # Hybokh
 
-Hybokh is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Latraac, Athens on Thu, 1 Oct 2026.
+Hybokh is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alaska, Athens on Sat, 3 Oct 2026.
 
-Hybokh is a techno and electronica artist based in Greece, with 12 gigs on soundcheck across Athens, London and Seoul. Often billed alongside Baggymilziade, Chico Naral and Eiger Drums Propaganda. Next up: Latraac, Athens on Thu 1 Oct.
+Hybokh is a techno and electronica artist based in Greece, with 12 gigs on soundcheck across Athens, London and Seoul. Often billed alongside Baggymilziade, Chico Naral and Eiger Drums Propaganda. Next up: Alaska, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Latraac | Athens |
 | Sat, 3 Oct 2026 | Alaska | Athens |
 
 ## Recently played
 
+- Latraac, Athens · Thu, 1 Oct 2026
 - Latraac, Athens · Sun, 20 Sept 2026
 - Samis Bar, Athens · Fri, 11 Sept 2026
 - Latraac, Athens · Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ Hybokh is a techno and electronica artist based in Greece, with 12 gigs on sound
 - Latraac, Athens · Sat, 27 Jun 2026
 - Samis Bar, Athens · Sat, 27 Jun 2026
 - Latraac, Athens · Sat, 16 May 2026
-- Cakeshop, Seoul · Fri, 11 Jul 2025
 
 ## Shares bills with
 
 Baggymilziade, Chico Naral, Eiger Drums Propaganda
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybokh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hybokh/)*

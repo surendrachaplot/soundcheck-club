@@ -1,6 +1,6 @@
 # BK
 
-BK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
+BK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
 
 BK is a techno and trance artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Copenhagen, Dundee and Helsinki and 7 more. Often billed alongside Andy Farley, Anahita Shamsaei and Hannah Laing. Next up: Den Anden Side, Copenhagen on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ BK is a techno and trance artist based in United Kingdom, with 21 gigs on soundc
 
 Andy Farley, Anahita Shamsaei, Hannah Laing
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bk/)*

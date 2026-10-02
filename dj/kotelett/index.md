@@ -1,6 +1,6 @@
 # Kotelett
 
-Kotelett is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Fri, 2 Oct 2026.
+Kotelett is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Fri, 2 Oct 2026.
 
 Kotelett is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Foolik, Pauli Pocket and Mimi Love. Next up: Golden Gate, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Kotelett is a house and techno artist based in Germany, with 46 gigs on soundche
 
 Foolik, Pauli Pocket, Mimi Love
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*

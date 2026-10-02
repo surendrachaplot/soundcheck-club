@@ -1,6 +1,6 @@
 # Gamine
 
-Gamine is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UMI, Brussels on Sat, 24 Oct 2026.
+Gamine is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Gamine is a house and electro artist based in Belgium, with 27 gigs on soundcheck across Antwerp, Brussels, Ghent and Lisbon and 4 more. Often billed alongside Maito, DJ Rino and Kuba'97. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gamine is a house and electro artist based in Belgium, with 27 gigs on soundchec
 
 Maito, DJ Rino, Kuba'97
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gamine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gamine/)*

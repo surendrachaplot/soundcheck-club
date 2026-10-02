@@ -1,6 +1,6 @@
 # Narima Satori
 
-Narima Satori is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
+Narima Satori is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
 
 Narima Satori is a house and electro artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside Lowkey Loud, DC81 and JOCHI. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Narima Satori is a house and electro artist based in Spain, with 9 gigs on sound
 
 Lowkey Loud, DC81, JOCHI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narimasatori-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narimasatori-es/)*

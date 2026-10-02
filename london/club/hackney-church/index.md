@@ -1,6 +1,6 @@
 # Hackney Church
 
-Hackney Church is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Apparat" on Sat, 3 Oct 2026.
+Hackney Church is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Apparat" on Sat, 3 Oct 2026.
 
 Hackney Church is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Apparat, Royksopp and SWIM (AU). See dates, start times and who's playing. St John at Hackney, Lower Clapton Rd, London E5 0PD.
 
@@ -19,4 +19,4 @@ Hackney Church is a music venue in London listed on soundcheck. 6 upcoming gigs,
 
 St John at Hackney, Lower Clapton Rd, London E5 0PD, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-church/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-church/)*

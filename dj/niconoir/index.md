@@ -1,6 +1,6 @@
 # Nico Noir
 
-Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dada, New York City on Fri, 2 Oct 2026.
+Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dada, New York City on Fri, 2 Oct 2026.
 
 Nico Noir is a house and minimal artist based in Argentina, with 21 gigs on soundcheck across Berlin and New York City. Often billed alongside Yochanan, Alex Raouf and Amy Jor. Next up: Dada, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nico Noir is a house and minimal artist based in Argentina, with 21 gigs on soun
 
 Yochanan, Alex Raouf, Amy Jor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*

@@ -1,14 +1,13 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rooléh + Alessio Cristiano" on Thu, 1 Oct 2026.
+Volt Club Milano is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Darco + Alessio Cristiano" on Fri, 2 Oct 2026.
 
-Volt Club Milano is a music venue in Milan listed on soundcheck. 15 upcoming gigs, with line-ups including ALDAVE, Alessio Cristiano, AMÉMÉ and Auggië and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
+Volt Club Milano is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line-ups including ALDAVE, Alessio Cristiano, AMÉMÉ and Auggië and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Rooléh + Alessio Cristiano | Alessio Cristiano, Rooléh |
 | Fri, 2 Oct 2026 | Darco + Alessio Cristiano | Alessio Cristiano, Darco |
 | Sat, 3 Oct 2026 | Ede B3B Auggië B3B Ivory — BLESSINGS | Auggië, Ede, Ivory |
 | Thu, 8 Oct 2026 | HoneyLuv + BEAMOUR | HoneyLuv |
@@ -18,9 +17,10 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 15 upcoming gig
 | Fri, 16 Oct 2026 | AMÉMÉ + AWEN | AMÉMÉ, AWEN |
 | Sat, 17 Oct 2026 | Toman + Giulio Domi | Giulio Domi, Toman |
 | Thu, 22 Oct 2026 | Max Styler + CALLIOPE | Max Styler |
+| Fri, 23 Oct 2026 | Maxi Meraki + MARA BRAVO | MARA BRAVO, Maxi Meraki |
 
 ## Address
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

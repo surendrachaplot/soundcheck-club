@@ -1,6 +1,6 @@
 # BILL.E
 
-BILL.E is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Henz Club, Seoul on Fri, 2 Oct 2026.
+BILL.E is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Henz Club, Seoul on Fri, 2 Oct 2026.
 
 BILL.E is a club and hip-hop artist, with 43 gigs on soundcheck across Bangkok, London and Seoul. Often billed alongside Daul, KINGMCK and SKiiDA. Next up: The Henz Club, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BILL.E is a club and hip-hop artist, with 43 gigs on soundcheck across Bangkok, 
 
 Daul, KINGMCK, SKiiDA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bill.e/)*

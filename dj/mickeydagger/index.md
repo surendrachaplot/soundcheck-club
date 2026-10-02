@@ -1,6 +1,6 @@
 # Mickey Dagger
 
-Mickey Dagger is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Mickey Dagger is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Mickey Dagger is an industrial and experimental artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside M Salaciak, Creature (CA) and Draris. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mickey Dagger is an industrial and experimental artist based in Canada, with 11 
 
 M Salaciak, Creature (CA), Draris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeydagger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeydagger/)*

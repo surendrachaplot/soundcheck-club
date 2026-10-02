@@ -1,6 +1,6 @@
 # The Burrell Connection
 
-The Burrell Connection is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+The Burrell Connection is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
 The Burrell Connection is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Budapest, Edinburgh and Ghent and 4 more. Often billed alongside DJ CHICHI, Amanita and Craigie Knowes. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ The Burrell Connection is a house and techno artist based in United Kingdom, wit
 
 DJ CHICHI, Amanita, Craigie Knowes
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*

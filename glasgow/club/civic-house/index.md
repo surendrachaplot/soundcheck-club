@@ -1,6 +1,6 @@
 # Civic House
 
-Civic House is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Another People Place" on Sat, 24 Oct 2026.
+Civic House is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Another People Place" on Sat, 24 Oct 2026.
 
 Civic House is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 26 Civic Street, G4 9RH, Scotland, United Kingdom.
 
@@ -14,4 +14,4 @@ Civic House is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. Se
 
 26 Civic Street, G4 9RH, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/civic-house/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/civic-house/)*

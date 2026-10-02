@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BRET, Amsterdam on Fri, 2 Oct 2026.
+Arapu is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BRET, Amsterdam on Fri, 2 Oct 2026.
 
 Arapu is a house and minimal artist based in Romania, with 152 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: BRET, Amsterdam on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Arapu is a house and minimal artist based in Romania, with 152 gigs on soundchec
 
 Priku, Seth Troxler, Sossa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

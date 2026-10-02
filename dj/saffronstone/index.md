@@ -1,6 +1,6 @@
 # Saffron Stone
 
-Saffron Stone is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha Ibiza, Ibiza on Mon, 5 Oct 2026.
+Saffron Stone is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Saffron Stone is a tech house and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Liverpool and 6 more. Often billed alongside Saffron, Sonny Fodera and Danny Howard. Next up: Pacha Ibiza, Ibiza on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ Saffron Stone is a tech house and house artist based in United Kingdom, with 34 
 
 Saffron, Sonny Fodera, Danny Howard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffronstone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saffronstone/)*

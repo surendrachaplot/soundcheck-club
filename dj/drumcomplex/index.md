@@ -1,6 +1,6 @@
 # Drumcomplex
 
-Drumcomplex is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
+Drumcomplex is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
 
 Drumcomplex is a techno and tech house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 7 more. Often billed alongside Frank Sonic, MILAN MILANO and Gregor Tresher. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Drumcomplex is a techno and tech house artist based in Germany, with 22 gigs on 
 
 Frank Sonic, MILAN MILANO, Gregor Tresher
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcomplex/)*

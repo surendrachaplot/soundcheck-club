@@ -1,6 +1,6 @@
 # Yoshitake EXPE
 
-Yoshitake EXPE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Yoshitake EXPE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 Yoshitake EXPE is a techno and house artist based in Japan, with 12 gigs on soundcheck across Kyushu, Osaka and Tokyo. Often billed alongside DJ Compufunk, CHIE and Chie Otomi. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Yoshitake EXPE is a techno and house artist based in Japan, with 12 gigs on soun
 
 DJ Compufunk, CHIE, Chie Otomi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakeexpe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakeexpe/)*

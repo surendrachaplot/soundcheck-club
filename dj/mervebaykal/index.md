@@ -1,6 +1,6 @@
 # Merve Baykal
 
-Merve Baykal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kastel, Istanbul on Fri, 2 Oct 2026.
+Merve Baykal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kastel, Istanbul on Fri, 2 Oct 2026.
 
 Merve Baykal is a house and techno artist based in Turkey, with 13 gigs on soundcheck across Istanbul. Often billed alongside Vitalic, Ferhat Albayrak and Marlò. Next up: Kastel, Istanbul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Merve Baykal is a house and techno artist based in Turkey, with 13 gigs on sound
 
 Vitalic, Ferhat Albayrak, Marlò
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mervebaykal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mervebaykal/)*

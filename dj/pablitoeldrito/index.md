@@ -1,6 +1,6 @@
 # Pablito el Drito
 
-Pablito el Drito is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THC MILANO, Milan on Sun, 4 Oct 2026.
+Pablito el Drito is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THC MILANO, Milan on Sun, 4 Oct 2026.
 
 Pablito el Drito is a techno and electro artist based in Italy, with 12 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside D'Arcangelo, Lory D and Pearl River Sound. Next up: THC MILANO, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Pablito el Drito is a techno and electro artist based in Italy, with 12 gigs on 
 
 D'Arcangelo, Lory D, Pearl River Sound
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*

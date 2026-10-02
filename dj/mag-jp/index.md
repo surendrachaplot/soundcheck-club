@@ -1,6 +1,6 @@
 # mag (JP)
 
-mag (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Alibi, Rome on Sat, 10 Oct 2026.
+mag (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alibi, Rome on Sat, 10 Oct 2026.
 
 mag (JP) is a house and techno artist, with 37 gigs on soundcheck across Rome and Tokyo. Often billed alongside Rena19, Yoshiki Aoyama and BANANA-CHAN. Next up: Alibi, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ mag (JP) is a house and techno artist, with 37 gigs on soundcheck across Rome an
 
 Rena19, Yoshiki Aoyama, BANANA-CHAN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*

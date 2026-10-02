@@ -1,6 +1,6 @@
 # Lila Turanga (2)
 
-Lila Turanga (2) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Left Bank, Tbilisi on Fri, 2 Oct 2026.
+Lila Turanga (2) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Left Bank, Tbilisi on Fri, 2 Oct 2026.
 
 Lila Turanga is a house and trance artist, with 11 gigs on soundcheck across Tbilisi. Often billed alongside Kath J, Astrobee and Ani Kvirkvelia. Next up: Left Bank, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lila Turanga is a house and trance artist, with 11 gigs on soundcheck across Tbi
 
 Kath J, Astrobee, Ani Kvirkvelia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaturanga-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaturanga-2/)*

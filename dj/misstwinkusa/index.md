@@ -1,6 +1,6 @@
 # Miss Twink USA
 
-Miss Twink USA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at smartbar, Chicago on Fri, 2 Oct 2026.
+Miss Twink USA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Fri, 2 Oct 2026.
 
 Miss Twink USA is a techno and house artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Athens, Berlin and Chicago and 11 more. Often billed alongside Ariel Zetina, Flores Negras and Vesolo. Next up: smartbar, Chicago on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Miss Twink USA is a techno and house artist based in United States of America, w
 
 Ariel Zetina, Flores Negras, Vesolo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstwinkusa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstwinkusa/)*

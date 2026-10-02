@@ -1,6 +1,6 @@
 # Darco
 
-Darco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Volt Club Milano, Milan on Fri, 2 Oct 2026.
+Darco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Volt Club Milano, Milan on Fri, 2 Oct 2026.
 
 Darco is a house and techno artist based in Ukraine, with 10 gigs on soundcheck across Chicago, Ibiza, Los Angeles and Mexico City and 3 more. Often billed alongside BLOND:ISH, SIEGEL and Yamagucci. Next up: Volt Club Milano, Milan on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Darco is a house and techno artist based in Ukraine, with 10 gigs on soundcheck 
 
 BLOND:ISH, SIEGEL (2), Yamagucci
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*

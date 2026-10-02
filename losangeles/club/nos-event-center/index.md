@@ -1,18 +1,19 @@
 # NOS Event Center
 
-NOS Event Center is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Escape Halloween" on Fri, 30 Oct 2026.
+NOS Event Center is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Escape Halloween" on Fri, 30 Oct 2026.
 
-NOS Event Center is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including 999999999, AC Slater, Adam Ten and Adventure Club and 2 more. See dates, start times and who's playing. 689 South E Street, San Bernardino, CA 92408.
+NOS Event Center is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including 999999999, AC Slater, Adam Ten and Adventure Club and 2 more. See dates, start times and who's playing. 689 South E Street, San Bernardino, CA 92408.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Escape Halloween | 999999999, A Little Sound, AC Slater, Adam Ten, Adventure Club, Alex Chapman, Alok, Andruss, Anime, Avalon Emerson, Azyr, Benny Benassi, Bou (UK), CHRYSALIS, Cat (US), Cera Khin, Champion, Clara Cuvé, Cloonee, Coone, Cyclops, DJ Heartstring, DJ Tennis, Dabin, Darren Styles, Dimitri Vegas & Like Mike, Excision, Franky Rizardo, Frontliner, Funk Assault, Galantis, Gammer, HerShe, Ian Asher, Indira Paganotto, JSMN, Jamie Jones, Joseph Capriati, KLOUD, KREAM, Kana Hishiya, Kill The Kid, LNY TNZ, LUMI, Liquid Stranger, MALUGI, Maddix, Mish, Morelia, Morten, Nervo, Nina Kraviz, Pixie Dust, Richie Hawtin, SOSA (UK), Sedef Adasï, Showtek, Silvie Loto, Steve Aoki, Trancemaster Krause, Trym, Yanamaste, Zedd, Zoe Gitter |
+| Thu, 31 Dec 2026 | Countdown NYE 2026 |  |
 | Thu, 31 Dec 2026 | Countdown NYE | ARLO (UK), Alesso, Archie Hamilton, Borne (US), Bushbaby, DJ GUESTLIST, DJ Snake, Esse, Flosstradamus, GRAVEDGR, Gordo, James Hype (UK), Joshwa (IT), KHROME, KLOUD, LAVERN, Matroda, Mija, Noise Mafia, Oliver Heldens, R3hab, Ranger Trucco, Rinzen, Seven Lions, TOBEHONEST, TOKiMONSTA, Tchami, TroyBoi, Walker & Royce, sim0ne |
 
 ## Address
 
 689 South E Street, San Bernardino, CA 92408, Los Angeles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*

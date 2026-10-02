@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Socore Factory, Osaka on Fri, 2 Oct 2026.
+Akira is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Socore Factory, Osaka on Fri, 2 Oct 2026.
 
 Akira is a techno and hip-hop artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 14 more. Often billed alongside Kanti, BiBiYUA and Hermanez. Next up: Socore Factory, Osaka on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Akira is a techno and hip-hop artist based in Belgium, with 66 gigs on soundchec
 
 Kanti, BiBiYUA, Hermanez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

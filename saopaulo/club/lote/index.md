@@ -1,6 +1,6 @@
 # Lote
 
-Lote is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Azul Drama presents: Vésper Drama" on Sun, 4 Oct 2026.
+Lote is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Azul Drama presents: Vésper Drama" on Sun, 4 Oct 2026.
 
 Lote is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including Encanto and Transvegana. See dates, start times and who's playing. R. Padre João Gonçalves, 80 - Pinheiros, São Paulo - SP, 05432-040.
 
@@ -14,4 +14,4 @@ Lote is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with li
 
 R. Padre João Gonçalves, 80 - Pinheiros, São Paulo - SP, 05432-040, Sao Paulo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/lote/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/lote/)*

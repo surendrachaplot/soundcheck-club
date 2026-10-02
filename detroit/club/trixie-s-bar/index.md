@@ -1,6 +1,6 @@
 # Trixie's Bar
 
-Trixie's Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Detroit Alternative Rock — SugarFang + Sandbox + Evergreen" on Fri, 2 Oct 2026.
+Trixie's Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Detroit Alternative Rock — SugarFang + Sandbox + Evergreen" on Fri, 2 Oct 2026.
 
 Trixie's Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2656 Carpenter, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ Trixie's Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs. 
 
 2656 Carpenter, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/trixie-s-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/trixie-s-bar/)*

@@ -1,6 +1,6 @@
 # jojoj
 
-jojoj is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
+jojoj is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
 
 jojoj is a techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Paris and The Hague. Often billed alongside 751, Amaliah and BASHKKA. Next up: Laak, The Hague on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ jojoj is a techno and house artist based in Netherlands, with 8 gigs on soundche
 
 751, Amaliah, BASHKKA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoj/)*

@@ -1,6 +1,6 @@
 # Tolga
 
-Tolga is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
+Tolga is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
 
 Tolga is a house and deep house artist based in United States of America, with 43 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside KOZLOW, Jack Mulqueen and Choukroun. Next up: TBA, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tolga is a house and deep house artist based in United States of America, with 4
 
 KOZLOW, Jack Mulqueen, Choukroun
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tolga/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tolga/)*

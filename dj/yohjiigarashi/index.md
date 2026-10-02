@@ -1,6 +1,6 @@
 # Yohji Igarashi
 
-Yohji Igarashi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
+Yohji Igarashi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
 
 Yohji Igarashi is a techno and house artist based in Japan, with 64 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside ecec, JUN INAGAWA and Licaxxx. Next up: ZEROTOKYO, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Yohji Igarashi is a techno and house artist based in Japan, with 64 gigs on soun
 
 ecec, JUN INAGAWA, Licaxxx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yohjiigarashi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yohjiigarashi/)*

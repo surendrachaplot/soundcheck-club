@@ -1,6 +1,6 @@
 # Wednesday
 
-Wednesday is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+Wednesday is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 Wednesday is a techno and trance artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside ANNX, Aquamarine and Kmya. Next up: FOLD, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Wednesday is a techno and trance artist based in United Kingdom, with 42 gigs on
 
 ANNX, Aquamarine, Kmya
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wednesday/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wednesday/)*

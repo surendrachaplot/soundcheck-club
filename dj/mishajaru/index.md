@@ -1,13 +1,14 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
+Misha Jaru is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
-Misha Jaru is a techno and house artist based in Ukraine, with 67 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
+Misha Jaru is a techno and house artist based in Ukraine, with 68 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Jènemar Passéjure | Prague |
 | Fri, 23 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 
@@ -26,4 +27,4 @@ Misha Jaru is a techno and house artist based in Ukraine, with 67 gigs on soundc
 
 S.Tian, Feenicks, Dash (CZ)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

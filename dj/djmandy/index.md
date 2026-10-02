@@ -1,6 +1,6 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night We Met, Nashville on Fri, 2 Oct 2026.
+DJ MANDY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Night We Met, Nashville on Fri, 2 Oct 2026.
 
 DJ MANDY is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Boston, Dallas Fort Worth, Detroit and Houston and 9 more. Often billed alongside Gryffin, I Hate Models and Josh Baker. Next up: Night We Met, Nashville on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ DJ MANDY is a house and techno artist based in United States of America, with 23
 
 Gryffin, I Hate Models, Josh Baker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

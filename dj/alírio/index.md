@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Alírio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Alírio is a house and techno artist based in Brazil, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Alírio is a house and techno artist based in Brazil, with 85 gigs on soundcheck
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

@@ -1,6 +1,6 @@
 # BUTZ
 
-BUTZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
+BUTZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
 
 BUTZ is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, London and Paris. Often billed alongside Moritz Biebl, Dj handbag and ENNIO. Next up: KREUZWERK, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ BUTZ is a techno and house artist based in Germany, with 31 gigs on soundcheck a
 
 Moritz Biebl, Dj handbag, ENNIO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*

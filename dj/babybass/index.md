@@ -1,6 +1,6 @@
 # BabyBass
 
-BabyBass is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frissón, Rome on Fri, 2 Oct 2026.
+BabyBass is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Frissón, Rome on Fri, 2 Oct 2026.
 
 BabyBass is a house and afro house artist, with 26 gigs on soundcheck across Istanbul, London, Miami and Milan and 2 more. Often billed alongside Tony Serban, Andrea Saba and Francesco Maria. Next up: Frissón, Rome on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ BabyBass is a house and afro house artist, with 26 gigs on soundcheck across Ist
 
 Tony Serban, Andrea Saba, Francesco Maria
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass/)*

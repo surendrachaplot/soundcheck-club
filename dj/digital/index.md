@@ -1,6 +1,6 @@
 # DIGITAL
 
-DIGITAL is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+DIGITAL is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 DIGITAL is a jungle and drum & bass artist based in Russia, with 16 gigs on soundcheck across Amsterdam, Birmingham, London and Sheffield and 3 more. Often billed alongside Doc Scott, Cleveland Watkiss and DJ Storm. Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DIGITAL is a jungle and drum & bass artist based in Russia, with 16 gigs on soun
 
 Doc Scott, Cleveland Watkiss, DJ Storm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digital/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digital/)*

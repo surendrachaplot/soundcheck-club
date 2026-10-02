@@ -1,6 +1,6 @@
 # R-010
 
-R-010 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+R-010 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 R-010 is an electro and techno artist based in Spain, with 23 gigs on soundcheck across Barcelona, Madrid and Seoul. Often billed alongside Judy (ES), Alexandre Laeddis and Tuber. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ R-010 is an electro and techno artist based in Spain, with 23 gigs on soundcheck
 
 Judy (ES), Alexandre Laeddis, Tuber
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-010/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-010/)*

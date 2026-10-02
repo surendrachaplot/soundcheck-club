@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Ambient artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
+Kangding Ray is a Techno and Ambient artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
 
 Kangding Ray is a techno and ambient artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Q35 WAREHOUSE, Turin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Kangding Ray is a techno and ambient artist based in Germany, with 139 gigs on s
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

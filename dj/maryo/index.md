@@ -1,6 +1,6 @@
 # MARYO
 
-MARYO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+MARYO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 MARYO is a house and minimal artist based in Spain, with 75 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 4 more. Often billed alongside Lisandro Mustapic, Sampol and Alvaro Medina. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MARYO is a house and minimal artist based in Spain, with 75 gigs on soundcheck a
 
 Lisandro Mustapic, Sampol, Alvaro Medina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*

@@ -1,6 +1,6 @@
 # RESA (IT)
 
-RESA (IT) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Company Club, Milan on Sat, 3 Oct 2026.
+RESA (IT) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Company Club, Milan on Sat, 3 Oct 2026.
 
 RESA (IT) is a techno and acid artist, with 29 gigs on soundcheck across Berlin and Milan. Often billed alongside AMRED, Lara David (IT) and Re Pigi. Next up: Company Club, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RESA (IT) is a techno and acid artist, with 29 gigs on soundcheck across Berlin 
 
 AMRED, Lara David (IT), Re Pigi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resait/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resait/)*

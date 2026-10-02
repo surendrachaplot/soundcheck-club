@@ -1,6 +1,6 @@
 # Satoshi Otsuki
 
-Satoshi Otsuki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
+Satoshi Otsuki is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
 
 Satoshi Otsuki is a techno and house artist based in Japan, with 104 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Okinawa and 3 more. Often billed alongside levolant, P-YAN and KABUTO. Next up: WOMB, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Satoshi Otsuki is a techno and house artist based in Japan, with 104 gigs on sou
 
 levolant, P-YAN, KABUTO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshiotsuki/)*

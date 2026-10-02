@@ -1,6 +1,6 @@
 # Nat Gohl
 
-Nat Gohl is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at UNLOCKED, London on Fri, 20 Nov 2026.
+Nat Gohl is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UNLOCKED, London on Fri, 20 Nov 2026.
 
 Nat Gohl is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside A.B.U., Anabel Arroyo and Andhim. Next up: UNLOCKED, London on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Nat Gohl is a house and deep house artist based in United Kingdom, with 8 gigs o
 
 A.B.U., Anabel Arroyo, Andhim
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natgohl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natgohl/)*

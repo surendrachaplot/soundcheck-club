@@ -1,8 +1,8 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
+Lee Foss is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, with 80 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Claptone and Sonny Fodera. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
+Lee Foss is a house and tech house artist based in United States of America, with 81 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 22 more. Often billed alongside Deeper Purpose, Claptone and Sonny Fodera. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lee Foss is a house and tech house artist based in United States of America, wit
 | Sat, 3 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Sat, 28 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Lee Foss is a house and tech house artist based in United States of America, wit
 
 Deeper Purpose, Claptone, Sonny Fodera
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

@@ -1,6 +1,6 @@
 # Yubik
 
-Yubik is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 2 Oct 2026.
+Yubik is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 2 Oct 2026.
 
 Yubik is a techno and house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside 19:26, Davko and Denes Toth. Next up: TBA - Crobar Club, Palermo, Buenos Aires on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Yubik is a techno and house artist based in Germany, with 45 gigs on soundcheck 
 
 19:26, Davko, Denes Toth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*

@@ -1,6 +1,6 @@
 # AY (10)
 
-AY (10) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
+AY (10) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
 AY is a techno and house artist based in Japan, with 53 gigs on soundcheck across Kyoto, Paris and Tokyo. Often billed alongside TAKUTO, DADO and O.Goo. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AY is a techno and house artist based in Japan, with 53 gigs on soundcheck acros
 
 TAKUTO (2), DADO, O.Goo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ay-10/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ay-10/)*

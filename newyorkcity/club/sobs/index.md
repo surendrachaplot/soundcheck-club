@@ -1,14 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jozzy: Get Her Back Tour" on Thu, 1 Oct 2026.
+SOBs is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DAY26 & J. Howell" on Sat, 3 Oct 2026.
 
-SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 444, Joon, Token and VANI. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including 444, Joon, Token and VANI. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Jozzy: Get Her Back Tour |  |
 | Sat, 3 Oct 2026 | DAY26 & J. Howell |  |
 | Sun, 4 Oct 2026 | The Legends 'La Sinfonica' |  |
 | Tue, 6 Oct 2026 | Jeff Bernat - Luv Language Tour |  |
@@ -18,9 +17,10 @@ SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs, w
 | Fri, 9 Oct 2026 | A Little Motion, A Little Picture | 444 (1), VANI |
 | Sat, 10 Oct 2026 | Chello & Friends |  |
 | Sat, 10 Oct 2026 | Caribbean Saturdays Debut |  |
+| Sun, 11 Oct 2026 | Token: I'm Leaving Soon Tour | Token |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

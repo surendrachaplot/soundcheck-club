@@ -1,6 +1,6 @@
 # Esther Côté
 
-Esther Côté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - west end , Toronto on Fri, 2 Oct 2026.
+Esther Côté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - west end , Toronto on Fri, 2 Oct 2026.
 
 Esther Côté is a techno and house artist based in Canada, with 35 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside esme (US), Lis Dalton and 1111hz. Next up: TBA - west end , Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Esther Côté is a techno and house artist based in Canada, with 35 gigs on soun
 
 esme (US), Lis Dalton, 1111hz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esthercote/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esthercote/)*

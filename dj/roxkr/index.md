@@ -1,6 +1,6 @@
 # ROX (KR)
 
-ROX (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
+ROX (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
 
 ROX (KR) is a club artist, with 10 gigs on soundcheck across Seoul and South Korea. Often billed alongside H93 (KR), HADO (KR) and TERRA (KR). Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ROX (KR) is a club artist, with 10 gigs on soundcheck across Seoul and South Kor
 
 H93 (KR), HADO (KR), TERRA (KR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxkr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxkr/)*

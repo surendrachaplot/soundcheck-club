@@ -1,6 +1,6 @@
 # Numa Gama
 
-Numa Gama is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
+Numa Gama is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
 
 Numa Gama is an experimental and ambient artist based in Brazil, with 12 gigs on soundcheck across Berlin, Montreal, Sao Paulo and Tokyo. Often billed alongside 7e, FrEaKyNoRiKy and Shhhhh. Next up: Bar Datcha, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Numa Gama is an experimental and ambient artist based in Brazil, with 12 gigs on
 
 7e, FrEaKyNoRiKy, Shhhhh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numagama/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numagama/)*

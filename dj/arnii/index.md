@@ -1,6 +1,6 @@
 # Arnii
 
-Arnii is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
+Arnii is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
 
 Arnii is a techno and club artist based in Georgia, with 46 gigs on soundcheck across Berlin, Malta, Oslo and Prague and 1 more. Often billed alongside NEW MAGIC MEDIA, Nina Farrina and Kaa Glo. Next up: Left Bank, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Arnii is a techno and club artist based in Georgia, with 46 gigs on soundcheck a
 
 NEW MAGIC MEDIA, Nina Farrina, Kaa Glo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnii/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnii/)*

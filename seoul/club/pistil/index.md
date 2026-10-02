@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HOME PARTY: DDD ALL NIGHT LONG" on Fri, 2 Oct 2026.
+Pistil is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HOME PARTY: DDD ALL NIGHT LONG" on Fri, 2 Oct 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including 2NOWAVE, DDD, HWNKYO and konbu and 2 more. See dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -17,4 +17,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

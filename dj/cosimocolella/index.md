@@ -1,6 +1,6 @@
 # Cosimo Colella
 
-Cosimo Colella is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sound Department, South on Sat, 3 Oct 2026.
+Cosimo Colella is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sound Department, South on Sat, 3 Oct 2026.
 
 Cosimo Colella is a house and electro artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Milan and Naples and 2 more. Often billed alongside Jorge Escribano, .VRIL and ANDREA SALVAGGIO. Next up: Sound Department, South on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cosimo Colella is a house and electro artist, with 9 gigs on soundcheck across A
 
 Jorge Escribano, .VRIL, ANDREA SALVAGGIO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimocolella/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimocolella/)*

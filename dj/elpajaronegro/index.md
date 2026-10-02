@@ -1,6 +1,6 @@
 # El Pájaro Negro
 
-El Pájaro Negro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+El Pájaro Negro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
 El Pájaro Negro is a house and techno artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Brisa Then, Evelyn Jaz and Tucu (Tucu). Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ El Pájaro Negro is a house and techno artist based in Spain, with 7 gigs on sou
 
 Brisa Then, Evelyn Jaz, Tucu (Tucu)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpajaronegro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpajaronegro/)*

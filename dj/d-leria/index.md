@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
+D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
 
 D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

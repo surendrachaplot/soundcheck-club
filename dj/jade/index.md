@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 16 Oct 2026.
+Jade is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 16 Oct 2026.
 
 Jade is a techno and drum & bass artist based in Lebanon, with 29 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 13 more. Often billed alongside DJ Marky, Ed Rush and Kasra. Next up: Nulab Chengdu, Chengdu on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jade is a techno and drum & bass artist based in Lebanon, with 29 gigs on soundc
 
 DJ Marky, Ed Rush, Kasra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*

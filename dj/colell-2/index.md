@@ -1,6 +1,6 @@
 # colell
 
-colell is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sauna Social Club, London on Sat, 3 Oct 2026.
+colell is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sauna Social Club, London on Sat, 3 Oct 2026.
 
 colell is a trance and techno artist based in Spain, with 44 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 5 more. Often billed alongside HØLEIGH, April (UK) and Medlock. Next up: Sauna Social Club, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ colell is a trance and techno artist based in Spain, with 44 gigs on soundcheck 
 
 HØLEIGH, April (UK), Medlock
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

@@ -1,6 +1,6 @@
 # Dj Nico
 
-Dj Nico is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+Dj Nico is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Dj Nico is a club and ghetto tech artist based in United States of America, with 54 gigs on soundcheck across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dj Nico is a club and ghetto tech artist based in United States of America, with
 
 Cquestt, Qemist, shekdash
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

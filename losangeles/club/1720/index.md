@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "I Love DNB: Lens" on Sat, 10 Oct 2026.
+1720 is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "I Love DNB: Lens" on Sat, 10 Oct 2026.
 
 1720 is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Bag Raiders, CSS, Degs and Juliet Mendoza and 2 more. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -17,4 +17,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

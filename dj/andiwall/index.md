@@ -1,6 +1,6 @@
 # ANDI WALL
 
-ANDI WALL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
+ANDI WALL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
 
 ANDI WALL is a house and deep house artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Sol System, Fabricated Ambiance and Fattie Bee. Next up: TBA - Little Shop of Soil, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ANDI WALL is a house and deep house artist based in United States of America, wi
 
 Sol System, Fabricated Ambiance, Fattie Bee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andiwall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andiwall/)*

@@ -1,6 +1,6 @@
 # Spiñorita
 
-Spiñorita is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
+Spiñorita is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
 
 Spiñorita is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Chicago, Detroit, Los Angeles and Mexico City and 3 more. Often billed alongside BAE BAE, Daddy Kev and SEEPS. Next up: TBA - DTLA, Los Angeles on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Spiñorita is a house and techno artist based in United States of America, with 
 
 BAE BAE, Daddy Kev, SEEPS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*

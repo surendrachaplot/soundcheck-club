@@ -1,6 +1,6 @@
 # Meero
 
-Meero is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lowkey Seoul, Seoul on Fri, 2 Oct 2026.
+Meero is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lowkey Seoul, Seoul on Fri, 2 Oct 2026.
 
 Meero is an electronic artist based in South Korea, with 22 gigs on soundcheck across Seoul. Often billed alongside REDBUTSOBER, Jamflat and BENZA. Next up: Lowkey Seoul, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Meero is an electronic artist based in South Korea, with 22 gigs on soundcheck a
 
 REDBUTSOBER, Jamflat, BENZA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meero/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meero/)*

@@ -1,6 +1,6 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
+Dom Dolla is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
 
 Dom Dolla is a house and tech house artist based in Australia, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 31 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Flushing Meadows Corona Park, New York City on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Dom Dolla is a house and tech house artist based in Australia, with 116 gigs on 
 
 Patrick Topping, Ewan McVicar, Charlotte de Witte
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*

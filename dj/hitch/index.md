@@ -1,6 +1,6 @@
 # Hitch
 
-Hitch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shibuya OTO, Tokyo on Sun, 11 Oct 2026.
+Hitch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shibuya OTO, Tokyo on Sun, 11 Oct 2026.
 
 Hitch is a techno and house artist based in Spain, with 101 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 5 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: Shibuya OTO, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Hitch is a techno and house artist based in Spain, with 101 gigs on soundcheck a
 
 Alex (ES), Sampol, Javier Carballo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*

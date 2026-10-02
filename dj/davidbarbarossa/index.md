@@ -1,6 +1,6 @@
 # David Barbarossa
 
-David Barbarossa is a Disco and Balearic artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cheetah Club, Glasgow on Sun, 4 Oct 2026.
+David Barbarossa is a Disco and Balearic artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Sun, 4 Oct 2026.
 
 David Barbarossa is a disco and balearic artist based in United Kingdom, with 199 gigs on soundcheck across Edinburgh, Glasgow and Sheffield. Often billed alongside OOFT, Fergus Clark and Percy Main. Next up: La Cheetah Club, Glasgow on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ David Barbarossa is a disco and balearic artist based in United Kingdom, with 19
 
 OOFT, Fergus Clark, Percy Main
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbarbarossa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbarbarossa/)*

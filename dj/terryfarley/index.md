@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Terry Farley is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Terry Farley is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Bali, Brighton, Cardiff and Glasgow and 7 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -16,17 +16,17 @@ Terry Farley is a house and disco artist based in United Kingdom, with 73 gigs o
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - The North London Tavern, London · Sun, 30 Aug 2026
 - Crowdedhouse, Leeds · Sat, 29 Aug 2026
 - 93 Feet East, London · Sat, 11 Jul 2026
 - Freight Brixton, London · Fri, 3 Jul 2026
 - El Charcon Beach, Malaga · Sat, 6 Jun 2026
 - The Dutch Master, London · Sat, 30 May 2026
-- The Golden Lion, Manchester · Sat, 16 May 2026
-- Various Venues, London · Sat, 2 May 2026
 
 ## Shares bills with
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

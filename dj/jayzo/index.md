@@ -1,6 +1,6 @@
 # Jayzo
 
-Jayzo is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
+Jayzo is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
 
 Jayzo is a techno and tech house artist based in Netherlands, with 132 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Melkweg, Amsterdam on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Jayzo is a techno and tech house artist based in Netherlands, with 132 gigs on s
 
 Dexon, Soothsayer, Compound Rhythm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayzo/)*

@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Guilty Pleasures" on Fri, 2 Oct 2026.
+Kaiku is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Guilty Pleasures" on Fri, 2 Oct 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, with line-ups including babybel, Beau Didier, Ben Bostik and C4KE and 2 more. See dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -21,4 +21,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

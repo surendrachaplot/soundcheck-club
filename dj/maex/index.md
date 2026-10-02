@@ -1,6 +1,6 @@
 # Maex
 
-Maex is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Maex is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Maex is a house and tech house artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Bali and Frankfurt. Often billed alongside Claudius (DE), James Taylor (AU) and Juliet Sikora. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Maex is a house and tech house artist based in Germany, with 30 gigs on soundche
 
 Claudius (DE), James Taylor (AU), Juliet Sikora
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maex/)*

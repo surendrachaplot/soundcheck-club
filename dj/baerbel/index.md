@@ -1,6 +1,6 @@
 # Baerbel
 
-Baerbel is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
+Baerbel is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
 
 Baerbel is a techno and house artist based in Germany, with 74 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside JUSTICE (DE), Ciao 3lla and VIVI (DE). Next up: Klunkerkranich, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Baerbel is a techno and house artist based in Germany, with 74 gigs on soundchec
 
 JUSTICE (DE), Ciao 3lla, VIVI (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*

@@ -1,6 +1,6 @@
 # Robi Lora
 
-Robi Lora is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jazzclub Hipoza, Poland on Sat, 3 Oct 2026.
+Robi Lora is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jazzclub Hipoza, Poland on Sat, 3 Oct 2026.
 
 Robi Lora is a house and tech house artist based in Poland, with 19 gigs on soundcheck across Krakow, London, Poland and Warsaw. Often billed alongside Mabu, HANICZ and KEVS. Next up: Jazzclub Hipoza, Poland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Robi Lora is a house and tech house artist based in Poland, with 19 gigs on soun
 
 Mabu, HANICZ, KEVS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robilora/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robilora/)*

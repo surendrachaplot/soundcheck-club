@@ -1,6 +1,6 @@
 # Amz
 
-Amz is a Dubstep and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
+Amz is a Dubstep and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
 Amz is a dubstep and garage artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Bristol and Utrecht. Often billed alongside Lily Huu, IZZIT and Dorpy. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Amz is a dubstep and garage artist based in United Kingdom, with 21 gigs on soun
 
 Lily Huu, IZZIT, Dorpy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amz/)*

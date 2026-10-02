@@ -1,6 +1,6 @@
 # pam (unofficial)
 
-pam (unofficial) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
+pam (unofficial) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
 
 pam (unofficial) is a club and electro artist based in France, with 19 gigs on soundcheck across Berlin, Brussels, Mexico City and Paris and 1 more. Often billed alongside Clara!, VINESSETT and Violeta West. Next up: Le Poisson Volant, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ pam (unofficial) is a club and electro artist based in France, with 19 gigs on s
 
 Clara!, VINESSETT, Violeta West
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pam-fr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pam-fr/)*

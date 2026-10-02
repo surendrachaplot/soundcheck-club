@@ -1,6 +1,6 @@
 # Josephine Moriko
 
-Josephine Moriko is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
+Josephine Moriko is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Southside Gallery, Stockholm on Fri, 2 Oct 2026.
 
 Josephine Moriko is an experimental and club artist, with 13 gigs on soundcheck across Copenhagen, London and Stockholm. Often billed alongside Julian Artur, Lokey and Peder Mannerfelt. Next up: Southside Gallery, Stockholm on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Josephine Moriko is an experimental and club artist, with 13 gigs on soundcheck 
 
 Julian Artur, Lokey, Peder Mannerfelt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*

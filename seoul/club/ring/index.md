@@ -1,6 +1,6 @@
 # Ring
 
-Ring is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ring invites Daura" on Fri, 2 Oct 2026.
+Ring is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ring invites Daura" on Fri, 2 Oct 2026.
 
 Ring is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including .2ndfloor, Antwork, Bae. and Carl H and 2 more. See dates, start times and who's playing. 2F, 165-6 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -22,4 +22,4 @@ Ring is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-
 
 2F, 165-6 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ring/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ring/)*

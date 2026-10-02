@@ -1,6 +1,6 @@
 # Lawrence Hart
 
-Lawrence Hart is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Lawrence Hart is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Lawrence Hart is an electronica and house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Model Man, Giulia Tess and Mera Bhai. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Lawrence Hart is an electronica and house artist based in United Kingdom, with 2
 
 Model Man, Giulia Tess, Mera Bhai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencehart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencehart/)*

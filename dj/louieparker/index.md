@@ -1,6 +1,6 @@
 # Louie Parker
 
-Louie Parker is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kockiri, Seoul on Sat, 3 Oct 2026.
+Louie Parker is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kockiri, Seoul on Sat, 3 Oct 2026.
 
 Louie Parker is a techno and garage artist, with 16 gigs on soundcheck across London, Manchester and Seoul. Often billed alongside Arjayes, Pallister and Vivra Verra. Next up: Kockiri, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Louie Parker is a techno and garage artist, with 16 gigs on soundcheck across Lo
 
 Arjayes, Pallister, Vivra Verra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieparker/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louieparker/)*

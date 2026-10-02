@@ -1,6 +1,6 @@
 # MONOCOLOR
 
-MONOCOLOR is a Experimental and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
+MONOCOLOR is a Experimental and IDM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
 
 MONOCOLOR is an experimental and idm artist based in Austria, with 6 gigs on soundcheck across Bangkok, Prague, Utrecht and Vienna. Often billed alongside MARAws, Seba Kayan and AfroNinja. Next up: Beatrixgebouw, Utrecht on Thu 1 Oct.
 
@@ -13,6 +13,7 @@ MONOCOLOR is an experimental and idm artist based in Austria, with 6 gigs on sou
 
 ## Recently played
 
+- Beatrixgebouw, Utrecht · Thu, 1 Oct 2026
 - Planetárium Praha, Prague · Sat, 29 Aug 2026
 - Semmelweisklinik, Vienna · Fri, 16 May 2025
 - TBA - Multiple Venues, Vienna · Tue, 12 Nov 2024
@@ -22,4 +23,4 @@ MONOCOLOR is an experimental and idm artist based in Austria, with 6 gigs on sou
 
 MARAws, Seba Kayan, AfroNinja
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monocolor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monocolor/)*

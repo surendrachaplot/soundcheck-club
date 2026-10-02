@@ -1,6 +1,6 @@
 # Roque Ybarra
 
-Roque Ybarra is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Thu, 8 Oct 2026.
+Roque Ybarra is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Thu, 8 Oct 2026.
 
 Roque Ybarra is a house and breakbeat artist based in United States of America, with 10 gigs on soundcheck across Detroit. Often billed alongside Mekato, BeatLoaf and Aathee. Next up: Marble Bar, Detroit on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Roque Ybarra is a house and breakbeat artist based in United States of America, 
 
 Mekato, BeatLoaf, Aathee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roqueybarra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roqueybarra/)*

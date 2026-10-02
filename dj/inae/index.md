@@ -1,6 +1,6 @@
 # INAE
 
-INAE is a Electronica and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kockiri, Seoul on Fri, 2 Oct 2026.
+INAE is a Electronica and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kockiri, Seoul on Fri, 2 Oct 2026.
 
 INAE is an electronica and amapiano artist based in Japan, with 38 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside RUKE, MUNÉO and DJ POIPOI. Next up: Kockiri, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ INAE is an electronica and amapiano artist based in Japan, with 38 gigs on sound
 
 RUKE, MUNÉO, DJ POIPOI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inae/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inae/)*

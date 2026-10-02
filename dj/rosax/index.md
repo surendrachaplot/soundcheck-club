@@ -1,6 +1,6 @@
 # Rosax
 
-Rosax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barton Fink, Melbourne on Fri, 2 Oct 2026.
+Rosax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barton Fink, Melbourne on Fri, 2 Oct 2026.
 
 Rosax is a techno and house artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, AUNTY H!ST@M!NE and Ed Kent. Next up: Barton Fink, Melbourne on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Rosax is a techno and house artist based in Australia, with 5 gigs on soundcheck
 
 Joey Coco, AUNTY H!ST@M!NE, Ed Kent
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*

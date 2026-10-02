@@ -1,6 +1,6 @@
 # Lovelydaze
 
-Lovelydaze is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
+Lovelydaze is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
 
 Lovelydaze is a garage and drum & bass artist based in United States of America, with 45 gigs on soundcheck across New York City. Often billed alongside Lord of Ciphers, Sasha Rome and J.N.R.. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lovelydaze is a garage and drum & bass artist based in United States of America,
 
 Lord of Ciphers, Sasha Rome, J.N.R.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelydaze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelydaze/)*

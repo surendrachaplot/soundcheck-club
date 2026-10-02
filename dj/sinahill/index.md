@@ -1,6 +1,6 @@
 # SINAHILL
 
-SINAHILL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+SINAHILL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
 SINAHILL is a house and techno artist based in South Korea, with 88 gigs on soundcheck across Seoul, Tokyo and Toronto. Often billed alongside DJ Funny, Oldshoes and Pseudobaul. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
@@ -13,6 +13,7 @@ SINAHILL is a house and techno artist based in South Korea, with 88 gigs on soun
 
 ## Recently played
 
+- Kockiri, Seoul · Thu, 1 Oct 2026
 - Space Nodeul K, Seoul · Sat, 12 Sept 2026
 - Kote, Seoul · Sat, 5 Sept 2026
 - Hertz, Seoul · Fri, 31 Jul 2026
@@ -20,10 +21,9 @@ SINAHILL is a house and techno artist based in South Korea, with 88 gigs on soun
 - Modeci, Seoul · Sat, 4 Jul 2026
 - Arga, Seoul · Fri, 22 May 2026
 - Modeci, Seoul · Fri, 1 May 2026
-- Modeci, Seoul · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 DJ Funny, Oldshoes, Pseudobaul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinahill/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinahill/)*

@@ -1,6 +1,6 @@
 # E.V.A
 
-E.V.A is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Giri, Berlin on Fri, 2 Oct 2026.
+E.V.A is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Giri, Berlin on Fri, 2 Oct 2026.
 
 E.V.A is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Moritz Sachse, DJ STIMULA and Leon Licht. Next up: Giri, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ E.V.A is a techno and trance artist based in Germany, with 15 gigs on soundcheck
 
 Moritz Sachse, DJ STIMULA, Leon Licht
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva1./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva1./)*

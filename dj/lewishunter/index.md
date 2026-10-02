@@ -1,6 +1,6 @@
 # Lewis Hunter
 
-Lewis Hunter is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
+Lewis Hunter is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
 
 Lewis Hunter is a breakbeat and house artist, with 10 gigs on soundcheck across Copenhagen. Often billed alongside Nizzy, Niko Nuevo and Samuel Rees. Next up: Jolene, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lewis Hunter is a breakbeat and house artist, with 10 gigs on soundcheck across 
 
 Nizzy, Niko Nuevo, Samuel Rees
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewishunter/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewishunter/)*

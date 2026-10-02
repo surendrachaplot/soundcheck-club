@@ -1,6 +1,6 @@
 # grandmalheur
 
-grandmalheur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Sat, 31 Oct 2026.
+grandmalheur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Sat, 31 Oct 2026.
 
 grandmalheur is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Roko, Big Honey and Carlotta Jacobi. Next up: Distillery, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ grandmalheur is a house and techno artist based in Germany, with 10 gigs on soun
 
 Roko (2), Big Honey, Carlotta Jacobi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmalheur/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmalheur/)*

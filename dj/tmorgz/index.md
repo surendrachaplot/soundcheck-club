@@ -1,6 +1,6 @@
 # TMORGZ
 
-TMORGZ is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
+TMORGZ is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
 
 TMORGZ is a pop and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam. Often billed alongside Absoluut, Bass Btch and FREY.. Next up: THE OTHER SIDE, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ TMORGZ is a pop and house artist based in Netherlands, with 17 gigs on soundchec
 
 Absoluut, Bass Btch, FREY.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmorgz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmorgz/)*

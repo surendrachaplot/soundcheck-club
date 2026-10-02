@@ -1,6 +1,6 @@
 # Capt'n
 
-Capt'n is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Capt'n is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Capt'n is a downtempo and techno artist based in Switzerland, with 13 gigs on soundcheck across Berlin and Zurich. Often billed alongside And Hazel, De La Maso and ARWIN AZIZ. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Capt'n is a downtempo and techno artist based in Switzerland, with 13 gigs on so
 
 And Hazel, De La Maso, ARWIN AZIZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capt-n/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capt-n/)*

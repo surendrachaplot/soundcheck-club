@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Re:cital" on Fri, 2 Oct 2026.
+88block is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Re:cital" on Fri, 2 Oct 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Acrocanthosaurus, Combo, Diceman and Ernest and 2 more. See dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -17,4 +17,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

@@ -1,6 +1,6 @@
 # Evan Oswald
 
-Evan Oswald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Lagerhaus#5, Detroit on Fri, 30 Oct 2026.
+Evan Oswald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Lagerhaus#5, Detroit on Fri, 30 Oct 2026.
 
 Evan Oswald is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Detroit. Often billed alongside Pitchblnd, Deeper Waters and Kuuma. Next up: TBA - Lagerhaus#5, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Evan Oswald is a techno and house artist based in United States of America, with
 
 Pitchblnd, Deeper Waters, Kuuma
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoswald/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoswald/)*

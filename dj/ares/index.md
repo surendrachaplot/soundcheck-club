@@ -1,6 +1,6 @@
 # Åres
 
-Åres is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yachtklub, Frankfurt on Sat, 3 Oct 2026.
+Åres is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yachtklub, Frankfurt on Sat, 3 Oct 2026.
 
 Åres is a minimal and tech house artist based in Germany, with 16 gigs on soundcheck across Frankfurt. Often billed alongside Vaio, Chris Wood and Denny Spektor. Next up: Yachtklub, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@
 
 Vaio, Chris Wood, Denny Spektor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ares/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ares/)*

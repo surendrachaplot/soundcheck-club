@@ -1,6 +1,6 @@
 # Vignette
 
-Vignette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Portland on Sat, 3 Oct 2026.
+Vignette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Portland on Sat, 3 Oct 2026.
 
 Vignette is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Portland. Often billed alongside ALoSo, DJ Lady D and Phreaker Fighter. Next up: TBA, Portland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Vignette is a house and techno artist based in United States of America, with 9 
 
 ALoSo, DJ Lady D, Phreaker Fighter
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vignette/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vignette/)*

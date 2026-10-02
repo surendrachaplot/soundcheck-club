@@ -1,6 +1,6 @@
 # INESSA
 
-INESSA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rhiz, Vienna on Fri, 2 Oct 2026.
+INESSA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rhiz, Vienna on Fri, 2 Oct 2026.
 
 INESSA is a techno and house artist, with 13 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside David Radi, Carl Haze and Chris Freud. Next up: Rhiz, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ INESSA is a techno and house artist, with 13 gigs on soundcheck across Amsterdam
 
 David Radi, Carl Haze, Chris Freud
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inessa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inessa/)*

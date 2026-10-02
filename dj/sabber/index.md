@@ -1,6 +1,6 @@
 # SABBER
 
-SABBER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atno, Budapest on Fri, 2 Oct 2026.
+SABBER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atno, Budapest on Fri, 2 Oct 2026.
 
 SABBER is a techno and trance artist based in Hungary, with 42 gigs on soundcheck across Berlin, Budapest, Tbilisi and Vienna. Often billed alongside D'ILLEGAL, THIRD 2HIFT and Valenthin. Next up: Atno, Budapest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SABBER is a techno and trance artist based in Hungary, with 42 gigs on soundchec
 
 D'ILLEGAL, THIRD 2HIFT, Valenthin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabber/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabber/)*

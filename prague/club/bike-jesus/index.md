@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu" on Fri, 2 Oct 2026.
+Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu" on Fri, 2 Oct 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Dare, AVHD, Big Lil and CEREAL and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -23,4 +23,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

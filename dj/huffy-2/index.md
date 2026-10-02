@@ -1,6 +1,6 @@
 # Huffy (2)
 
-Huffy (2) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Thu, 8 Oct 2026.
+Huffy (2) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Thu, 8 Oct 2026.
 
 Huffy is a house and disco artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside vRok, FELINE (JP) and FeLine. Next up: Moonglow Oakland, San Francisco/Oakland on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Huffy is a house and disco artist based in United States of America, with 12 gig
 
 vRok, FELINE (JP), FeLine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huffy-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huffy-2/)*

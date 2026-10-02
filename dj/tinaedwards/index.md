@@ -1,6 +1,6 @@
 # Tina Edwards
 
-Tina Edwards is a Jazz and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grow, London on Sat, 21 Nov 2026.
+Tina Edwards is a Jazz and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grow, London on Sat, 21 Nov 2026.
 
 Tina Edwards is a jazz and disco artist based in United Kingdom, with 29 gigs on soundcheck across Brighton, Glasgow, Helsinki and Leeds and 5 more. Often billed alongside Tim Garcia, Joi La Frique and Nonna Fab. Next up: Grow, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Tina Edwards is a jazz and disco artist based in United Kingdom, with 29 gigs on
 
 Tim Garcia, Joi La Frique, Nonna Fab
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*

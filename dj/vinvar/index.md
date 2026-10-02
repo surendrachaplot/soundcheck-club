@@ -1,6 +1,6 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
+VINVAR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
 VINVAR is a techno and house artist, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Rakans, LOLSNAKE and Spikey Lee. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ VINVAR is a techno and house artist, with 114 gigs on soundcheck across Amsterda
 
 Rakans, LOLSNAKE, Spikey Lee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

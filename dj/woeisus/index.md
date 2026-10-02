@@ -1,6 +1,6 @@
 # WOE is us
 
-WOE is us is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
+WOE is us is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
 
 WOE is us is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh. Often billed alongside DJ LG, Dani Sonder and Keyte. Next up: The Safari Lounge, Edinburgh on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ WOE is us is a house and techno artist based in United Kingdom, with 6 gigs on s
 
 DJ LG, Dani Sonder, Keyte
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woeisus/)*

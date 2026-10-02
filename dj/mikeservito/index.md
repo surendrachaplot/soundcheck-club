@@ -1,8 +1,8 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+Mike Servito is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 295 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 29 more. Often billed alongside Erika, Shaun J. Wright and BMG. Next up: Green Room NYC, New York City on Fri 2 Oct.
+Mike Servito is a house and techno artist based in United States of America, with 296 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 29 more. Often billed alongside Erika, Shaun J. Wright and BMG. Next up: Green Room NYC, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Erika, Shaun J. Wright, BMG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

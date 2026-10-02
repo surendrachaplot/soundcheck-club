@@ -1,6 +1,6 @@
 # CLAIR (BAI)
 
-CLAIR (BAI) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 2 Oct 2026.
+CLAIR (BAI) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 2 Oct 2026.
 
 CLAIR (BAI) is a trance and techno artist based in China, with 17 gigs on soundcheck across Brisbane, Madrid, Melbourne and Seoul and 3 more. Often billed alongside zzm, Beibeilon and DJ ALI (AU). Next up: Angel Music Bar, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CLAIR (BAI) is a trance and techno artist based in China, with 17 gigs on soundc
 
 zzm (2), Beibeilon, DJ ALI (AU)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*

@@ -1,6 +1,6 @@
 # Blooom
 
-Blooom is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+Blooom is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
 Blooom is a drum & bass and dubstep artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 11 more. Often billed alongside Delta Heavy, Black Sun Empire and Camo & Krooked. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Blooom is a drum & bass and dubstep artist based in Germany, with 28 gigs on sou
 
 Delta Heavy, Black Sun Empire, Camo & Krooked
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*

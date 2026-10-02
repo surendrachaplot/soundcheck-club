@@ -1,6 +1,6 @@
 # Jinga
 
-Jinga is a Afro House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Forestlimit, Tokyo on Wed, 14 Oct 2026.
+Jinga is a Afro House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Wed, 14 Oct 2026.
 
 Jinga is an afro house and electronica artist based in United States of America, with 10 gigs on soundcheck across Mexico City, New York City and Tokyo. Often billed alongside Xamd, lazydoll and Bby Eco. Next up: Forestlimit, Tokyo on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Jinga is an afro house and electronica artist based in United States of America,
 
 Xamd, lazydoll, Bby Eco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinga/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinga/)*

@@ -1,6 +1,6 @@
 # Miata Boys
 
-Miata Boys is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
+Miata Boys is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
 
 Miata Boys is a house and trance artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Poolhaus, Auphoria and Bella Mutino. Next up: H0L0, New York City on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Miata Boys is a house and trance artist based in United States of America, with 
 
 Poolhaus, Auphoria, Bella Mutino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miataboys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miataboys/)*

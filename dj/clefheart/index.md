@@ -1,6 +1,6 @@
 # Clefheart
 
-Clefheart is a Italo Disco and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Sun, 1 Nov 2026.
+Clefheart is a Italo Disco and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onyx (E1), London on Sun, 1 Nov 2026.
 
 Clefheart is an italo disco and club artist based in United Kingdom, with 21 gigs on soundcheck across Brighton and London. Often billed alongside Deceivr and D.X.D. Next up: Onyx (E1), London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Clefheart is an italo disco and club artist based in United Kingdom, with 21 gig
 
 Deceivr, D.X.D
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clefheart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clefheart/)*

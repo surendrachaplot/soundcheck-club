@@ -1,6 +1,6 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Legion, Manchester on Fri, 9 Oct 2026.
+Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Legion, Manchester on Fri, 9 Oct 2026.
 
 Kerrie is a techno and house artist based in Ireland, with 130 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 36 more. Often billed alongside Mareena, DJ Bone and Sunil Sharpe. Next up: The Legion, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Kerrie is a techno and house artist based in Ireland, with 130 gigs on soundchec
 
 Mareena, DJ Bone, Sunil Sharpe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

@@ -1,6 +1,6 @@
 # Koji Nakamura
 
-Koji Nakamura is a Minimal and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at flo Soakin, Osaka on Sat, 10 Oct 2026.
+Koji Nakamura is a Minimal and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at flo Soakin, Osaka on Sat, 10 Oct 2026.
 
 Koji Nakamura is a minimal and post-punk artist based in Japan, with 7 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ SPOT and RReona. Next up: flo Soakin, Osaka on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Koji Nakamura is a minimal and post-punk artist based in Japan, with 7 gigs on s
 
 AOI BLOOM, DJ SPOT, RReona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*

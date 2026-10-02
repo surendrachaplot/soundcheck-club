@@ -1,6 +1,6 @@
 # Freakycent
 
-Freakycent is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Post Bar, Helsinki on Fri, 9 Oct 2026.
+Freakycent is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Post Bar, Helsinki on Fri, 9 Oct 2026.
 
 Freakycent is a tech house and house artist based in Finland, with 8 gigs on soundcheck across Helsinki. Often billed alongside Carlina Carpelan, DJ JVS and Beth Alana. Next up: Post Bar, Helsinki on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Freakycent is a tech house and house artist based in Finland, with 8 gigs on sou
 
 Carlina Carpelan, DJ JVS, Beth Alana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakycent/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakycent/)*

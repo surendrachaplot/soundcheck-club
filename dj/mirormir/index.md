@@ -1,6 +1,6 @@
 # mirormir
 
-mirormir is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mastak, Warsaw on Fri, 16 Oct 2026.
+mirormir is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mastak, Warsaw on Fri, 16 Oct 2026.
 
 mirormir is a techno and acid artist based in Belarus, with 15 gigs on soundcheck across Warsaw. Often billed alongside Slowmode, Salat and MARCUCCIO. Next up: Mastak, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ mirormir is a techno and acid artist based in Belarus, with 15 gigs on soundchec
 
 Slowmode, Salat, MARCUCCIO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirormir/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirormir/)*

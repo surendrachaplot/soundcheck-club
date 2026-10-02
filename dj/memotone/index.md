@@ -1,6 +1,6 @@
 # Memotone
 
-Memotone is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Strange Brew, Bristol on Wed, 7 Oct 2026.
+Memotone is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Strange Brew, Bristol on Wed, 7 Oct 2026.
 
 Memotone is an experimental and club artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bristol, Cork and London and 1 more. Often billed alongside i-sha, Jabu and Dan Johnson. Next up: Strange Brew, Bristol on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Memotone is an experimental and club artist based in United Kingdom, with 20 gig
 
 i-sha, Jabu, Dan Johnson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memotone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memotone/)*

@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Edward is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Edward is a house and minimal artist based in Germany, with 137 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -32,4 +32,4 @@ Edward is a house and minimal artist based in Germany, with 137 gigs on soundche
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

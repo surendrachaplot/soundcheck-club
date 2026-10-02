@@ -1,6 +1,6 @@
 # DEP (LV)
 
-DEP (LV) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Korpuss, Riga on Fri, 2 Oct 2026.
+DEP (LV) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Korpuss, Riga on Fri, 2 Oct 2026.
 
 DEP (LV) is a techno and breakbeat artist based in Latvia, with 11 gigs on soundcheck across Riga. Often billed alongside Aniri Chan, Existal and Gretjane. Next up: Korpuss, Riga on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DEP (LV) is a techno and breakbeat artist based in Latvia, with 11 gigs on sound
 
 Aniri Chan, Existal, Gretjane
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deplv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deplv/)*

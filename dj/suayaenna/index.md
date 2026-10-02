@@ -1,6 +1,6 @@
 # Suay Aenna
 
-Suay Aenna is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Locke, Hamburg on Sat, 3 Oct 2026.
+Suay Aenna is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Locke, Hamburg on Sat, 3 Oct 2026.
 
 Suay Aenna is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Hamburg and Stuttgart. Often billed alongside Alex Benz, DJ Pinky Promise and Dirty Disco Divas. Next up: Locke, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Suay Aenna is a trance and techno artist based in Germany, with 11 gigs on sound
 
 Alex Benz, DJ Pinky Promise, Dirty Disco Divas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suayaenna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suayaenna/)*

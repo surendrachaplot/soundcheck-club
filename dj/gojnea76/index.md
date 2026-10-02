@@ -1,6 +1,6 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fünk, Mexico City on Fri, 2 Oct 2026.
+Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fünk, Mexico City on Fri, 2 Oct 2026.
 
 Gojnea76 is a house and minimal artist, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside G76, Alexander Skancke and BILA. Next up: Fünk, Mexico City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Gojnea76 is a house and minimal artist, with 25 gigs on soundcheck across Amster
 
 G76, Alexander Skancke, BILA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

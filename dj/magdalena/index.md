@@ -1,6 +1,6 @@
 # Magdalena
 
-Magdalena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Magdalena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Magdalena is a techno and house artist based in Colombia, with 23 gigs on soundcheck across Austin, Barcelona, Buenos Aires and Cologne and 12 more. Often billed alongside Annicka, Brina Knauss and ELIF. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Magdalena is a techno and house artist based in Colombia, with 23 gigs on soundc
 
 Annicka, Brina Knauss, ELIF
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena/)*

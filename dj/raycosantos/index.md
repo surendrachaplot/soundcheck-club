@@ -1,6 +1,6 @@
 # Rayco Santos
 
-Rayco Santos is a Deep House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Rayco Santos is a Deep House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
 Rayco Santos is a deep house and balearic artist based in Spain, with 20 gigs on soundcheck across Barcelona, Berlin, Ibiza and Seoul. Often billed alongside Valentin Huedo, Viktor Olle and Alex Kentucky. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rayco Santos is a deep house and balearic artist based in Spain, with 20 gigs on
 
 Valentin Huedo, Viktor Olle, Alex Kentucky
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raycosantos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raycosantos/)*

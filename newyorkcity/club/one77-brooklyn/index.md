@@ -1,6 +1,6 @@
 # One77 Brooklyn
 
-One77 Brooklyn is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Trance, Bro! Festival Opening Party - Nilsix, Daxson, Orjan Nilsen, Mark Sixma" on Fri, 4 Dec 2026.
+One77 Brooklyn is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Trance, Bro! Festival Opening Party - Nilsix, Daxson, Orjan Nilsen, Mark Sixma" on Fri, 4 Dec 2026.
 
 One77 Brooklyn is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Orjan Nilsen and SunrYse. See dates, start times and who's playing. 177 2nd Ave Brooklyn, NY  11215 , USA.
 
@@ -15,4 +15,4 @@ One77 Brooklyn is a music venue in New York City listed on soundcheck. 2 upcomin
 
 177 2nd Ave Brooklyn, NY  11215 , USA, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/one77-brooklyn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/one77-brooklyn/)*

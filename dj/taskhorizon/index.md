@@ -1,6 +1,6 @@
 # Task Horizon
 
-Task Horizon is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Salzhaus, Zurich on Sat, 3 Oct 2026.
+Task Horizon is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Salzhaus, Zurich on Sat, 3 Oct 2026.
 
 Task Horizon is a drum & bass artist based in Switzerland, with 11 gigs on soundcheck across London, Prague and Zurich. Often billed alongside Ekwols, Black Sun Empire and Magnetude. Next up: Salzhaus, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Task Horizon is a drum & bass artist based in Switzerland, with 11 gigs on sound
 
 Ekwols, Black Sun Empire, Magnetude
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taskhorizon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taskhorizon/)*

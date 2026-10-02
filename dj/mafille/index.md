@@ -1,6 +1,6 @@
 # Mafille
 
-Mafille is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Point Ephémère, Paris on Fri, 2 Oct 2026.
+Mafille is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Point Ephémère, Paris on Fri, 2 Oct 2026.
 
 Mafille is a bass and techno artist based in France, with 15 gigs on soundcheck across Istanbul, London, Marseille and Nantes and 1 more. Often billed alongside BabyB, Shfoosja and Akira (Buntai). Next up: Point Ephémère, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mafille is a bass and techno artist based in France, with 15 gigs on soundcheck 
 
 BabyB, Shfoosja, Akira (Buntai)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*

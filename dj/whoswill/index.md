@@ -1,6 +1,6 @@
 # whoswill
 
-whoswill is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales, London on Fri, 2 Oct 2026.
+whoswill is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales, London on Fri, 2 Oct 2026.
 
 whoswill is a garage and house artist based in United Kingdom, with 14 gigs on soundcheck across Leeds and London. Often billed alongside camukg, DJ LUMBRIDGE and Fiaa. Next up: Night Tales, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ whoswill is a garage and house artist based in United Kingdom, with 14 gigs on s
 
 camukg, DJ LUMBRIDGE, Fiaa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*

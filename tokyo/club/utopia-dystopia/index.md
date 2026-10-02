@@ -1,6 +1,6 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hi-TEK Electronica" on Fri, 2 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Hi-TEK Electronica" on Fri, 2 Oct 2026.
 
 UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including 雷庵(RYan), Akira, Anri and ANZU and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
@@ -20,4 +20,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

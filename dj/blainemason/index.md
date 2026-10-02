@@ -1,6 +1,6 @@
 # Blaine Mason
 
-Blaine Mason is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
+Blaine Mason is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
 
 Blaine Mason is a techno and house artist, with 10 gigs on soundcheck across Chicago, Detroit, Dublin and Nashville. Often billed alongside Charlie Conway, 1morning and Murchadh. Next up: TBA - 1012 4th Ave S, Nashville on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Blaine Mason is a techno and house artist, with 10 gigs on soundcheck across Chi
 
 Charlie Conway, 1morning, Murchadh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blainemason/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blainemason/)*

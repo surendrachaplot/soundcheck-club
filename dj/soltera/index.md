@@ -1,6 +1,6 @@
 # SOLTERA
 
-SOLTERA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Airliner, Los Angeles on Sat, 3 Oct 2026.
+SOLTERA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Airliner, Los Angeles on Sat, 3 Oct 2026.
 
 SOLTERA is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Barcelona, Brisbane, Denver and London and 10 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: The Airliner, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SOLTERA is a house and techno artist based in United States of America, with 32 
 
 1tbsp, Killian, Bitter Babe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*

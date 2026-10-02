@@ -1,6 +1,6 @@
 # Yannick Weineck
 
-Yannick Weineck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ipse, Berlin on Sat, 3 Oct 2026.
+Yannick Weineck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ipse, Berlin on Sat, 3 Oct 2026.
 
 Yannick Weineck is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Berlin and Buenos Aires. Often billed alongside Feel .MA, Jaycap and ChéRebel. Next up: Ipse, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Yannick Weineck is a techno and trance artist based in Germany, with 29 gigs on 
 
 Feel .MA, Jaycap, ChéRebel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickweineck/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickweineck/)*

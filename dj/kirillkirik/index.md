@@ -1,6 +1,6 @@
 # Kirill Kirik
 
-Kirill Kirik is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PRST, Vienna on Sat, 10 Oct 2026.
+Kirill Kirik is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PRST, Vienna on Sat, 10 Oct 2026.
 
 Kirill Kirik is a house and minimal artist based in Ukraine, with 13 gigs on soundcheck across Barcelona, Belgrade, Bucharest and Ibiza and 6 more. Often billed alongside Aleksan'dru, Ammé and Andrei Ciubuc. Next up: PRST, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kirill Kirik is a house and minimal artist based in Ukraine, with 13 gigs on sou
 
 Aleksan'dru, Ammé, Andrei Ciubuc
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillkirik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillkirik/)*

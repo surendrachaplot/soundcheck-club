@@ -1,6 +1,6 @@
 # Savage The Girl
 
-Savage The Girl is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 12 Dec 2026.
+Savage The Girl is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 12 Dec 2026.
 
 Savage The Girl is a garage and drum & bass artist based in Australia, with 28 gigs on soundcheck across Melbourne. Often billed alongside Ango (AU), JUPiTA and MARLINA (AU). Next up: Wax Music Lounge, Melbourne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Savage The Girl is a garage and drum & bass artist based in Australia, with 28 g
 
 Ango (AU), JUPiTA, MARLINA (AU)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savagethegirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savagethegirl/)*

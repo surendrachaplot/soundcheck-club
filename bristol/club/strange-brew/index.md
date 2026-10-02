@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Carla dal Forno + Ulla" on Fri, 2 Oct 2026.
+Strange Brew is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Carla dal Forno + Ulla" on Fri, 2 Oct 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with line-ups including Anina, Bakey, Berwick and BLUMITSU and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

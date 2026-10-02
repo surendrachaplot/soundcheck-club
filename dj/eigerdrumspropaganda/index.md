@@ -1,6 +1,6 @@
 # Eiger Drums Propaganda
 
-Eiger Drums Propaganda is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 2 Oct 2026.
+Eiger Drums Propaganda is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 2 Oct 2026.
 
 Eiger Drums Propaganda is a downtempo and house artist based in France, with 20 gigs on soundcheck across Amsterdam, Athens, Brussels and London and 4 more. Often billed alongside OKO DJ, Onarrivenow and Baggymilziade. Next up: YuYu Cine Club, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Eiger Drums Propaganda is a downtempo and house artist based in France, with 20 
 
 OKO DJ, Onarrivenow, Baggymilziade
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eigerdrumspropaganda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eigerdrumspropaganda/)*

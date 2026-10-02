@@ -1,6 +1,6 @@
 # InterStella
 
-InterStella is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Sat, 10 Oct 2026.
+InterStella is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Sat, 10 Oct 2026.
 
 InterStella is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Leipzig and Los Angeles. Often billed alongside Hypnosta, Al Aslan and DJ G1NA R.. Next up: Distillery, Leipzig on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ InterStella is a techno and trance artist based in Germany, with 26 gigs on soun
 
 Hypnosta, Al Aslan, DJ G1NA R.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interstella/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interstella/)*

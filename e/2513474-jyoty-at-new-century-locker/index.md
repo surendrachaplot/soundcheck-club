@@ -1,6 +1,6 @@
 # Jyoty at New Century Locker
 
-Jyoty at New Century Locker on Sat 5 Dec, Manchester. 1 artist: Jyoty. Garage and Baile Funk. See the line-up on soundcheck.
+Jyoty at New Century Locker on Sat 5 Dec, Manchester. 1 artist: Jyoty. Baile Funk and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+AMORAL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 AMORAL is a techno and house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ AMORAL is a techno and house artist based in Netherlands, with 166 gigs on sound
 
 MARRØN, Rene Wise, Lobster (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

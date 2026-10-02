@@ -1,6 +1,6 @@
 # Ashes (2)
 
-Ashes (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
+Ashes (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
 
 Ashes is a techno and house artist, with 18 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside Hooligan, MEJMI and Jamie Behan. Next up: Savoy, Cork on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ashes is a techno and house artist, with 18 gigs on soundcheck across Cork, Dubl
 
 Hooligan, MEJMI, Jamie Behan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashes-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashes-2/)*

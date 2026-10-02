@@ -1,6 +1,6 @@
 # Symplicit
 
-Symplicit is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
+Symplicit is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
 
 Symplicit is a house and electro artist based in Australia, with 21 gigs on soundcheck across London and Sydney. Often billed alongside Stizz, Said Dami and Accent'. Next up: TBA - Inner West Secret Location, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Symplicit is a house and electro artist based in Australia, with 21 gigs on soun
 
 Stizz, Said Dami, Accent'
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symplicit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symplicit/)*

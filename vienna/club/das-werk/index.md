@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GDN KLUBNACHT with Golpe" on Fri, 2 Oct 2026.
+Das Werk is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "GDN KLUBNACHT with Golpe" on Fri, 2 Oct 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Albin Brezlan, Anatol, AUDIO303 and Comrade Martin and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -21,4 +21,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

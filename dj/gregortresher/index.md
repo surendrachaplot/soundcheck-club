@@ -1,6 +1,6 @@
 # Gregor Tresher
 
-Gregor Tresher is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri, 2 Oct 2026.
+Gregor Tresher is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri, 2 Oct 2026.
 
 Gregor Tresher is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 22 more. Often billed alongside Lilly Palmer, Karotte and Emanuel Satie. Next up: TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Gregor Tresher is a techno and house artist based in Germany, with 74 gigs on so
 
 Lilly Palmer, Karotte, Emanuel Satie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*

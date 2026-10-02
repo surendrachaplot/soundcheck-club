@@ -1,6 +1,6 @@
 # Morris (1)
 
-Morris (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
+Morris (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
 
 Morris is a house and techno artist based in Spain, with 7 gigs on soundcheck across Amsterdam, Los Angeles, Malta and Paris. Often billed alongside Sudo (US), Billy Hills and Dekkatess. Next up: Liquid Club, Malta on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Morris is a house and techno artist based in Spain, with 7 gigs on soundcheck ac
 
 Sudo (US), Billy Hills, Dekkatess
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morris-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morris-1/)*

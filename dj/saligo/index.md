@@ -1,6 +1,6 @@
 # Saligo
 
-Saligo is a Breakbeat and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Saligo is a Breakbeat and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
 Saligo is a breakbeat and ghetto tech artist based in France, with 9 gigs on soundcheck across Paris, San Diego, Strasbourg and Toronto. Often billed alongside Cannonbar, 999ADJ and AA/XX. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Saligo is a breakbeat and ghetto tech artist based in France, with 9 gigs on sou
 
 Cannonbar, 999ADJ, AA/XX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*

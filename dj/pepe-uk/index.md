@@ -1,6 +1,6 @@
 # Pépe
 
-Pépe is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Thu, 15 Oct 2026.
+Pépe is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Thu, 15 Oct 2026.
 
 Pépe is a techno and electronica artist based in Spain, with 34 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Baldman, Just Claudia and AINES. Next up: El Pumarejo Barcelona, Barcelona on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Pépe is a techno and electronica artist based in Spain, with 34 gigs on soundch
 
 Baldman, Just Claudia, AINES
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*

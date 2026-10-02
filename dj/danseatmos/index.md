@@ -1,6 +1,6 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cheetah Club, Glasgow on Tue, 13 Oct 2026.
+Danse Atmos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Tue, 13 Oct 2026.
 
 Danse Atmos is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: La Cheetah Club, Glasgow on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Danse Atmos is a house and disco artist based in United Kingdom, with 39 gigs on
 
 Stevie Cox, Hayley Zalassi, Big Miz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*

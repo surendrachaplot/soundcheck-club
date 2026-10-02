@@ -1,6 +1,6 @@
 # Harba
 
-Harba is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
+Harba is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
 
 Harba is a techno and bass artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside re:ni, DJ Slug and Delta Division. Next up: OHM, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Harba is a techno and bass artist based in United Kingdom, with 11 gigs on sound
 
 re:ni, DJ Slug, Delta Division
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harba/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harba/)*

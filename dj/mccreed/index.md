@@ -1,6 +1,6 @@
 # MC Creed
 
-MC Creed is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dunnings 2, London on Sat, 3 Oct 2026.
+MC Creed is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dunnings 2, London on Sat, 3 Oct 2026.
 
 MC Creed is a garage and house artist based in United Kingdom, with 37 gigs on soundcheck across London. Often billed alongside MC DT, MC CKP and Pied Piper. Next up: Dunnings 2, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MC Creed is a garage and house artist based in United Kingdom, with 37 gigs on s
 
 MC DT, MC CKP, Pied Piper
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mccreed/)*

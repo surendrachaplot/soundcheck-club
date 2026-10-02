@@ -1,6 +1,6 @@
 # Iriky
 
-Iriky is a Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Altenburg 1964, Prague on Sat, 10 Oct 2026.
+Iriky is a Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Altenburg 1964, Prague on Sat, 10 Oct 2026.
 
 Iriky is a baile funk artist, with 7 gigs on soundcheck across Prague. Often billed alongside mata rubia, AVHD and Ayiaa. Next up: Altenburg 1964, Prague on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Iriky is a baile funk artist, with 7 gigs on soundcheck across Prague. Often bil
 
 mata rubia, AVHD, Ayiaa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iriky/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iriky/)*

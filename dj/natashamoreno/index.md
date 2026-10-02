@@ -1,6 +1,6 @@
 # Natasha Moreno
 
-Natasha Moreno is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
+Natasha Moreno is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 2 Oct 2026.
 
 Natasha Moreno is a techno and ambient artist based in Belarus, with 9 gigs on soundcheck across Berlin, Helsinki and Vienna. Often billed alongside A_Phan, Yakkushi and Alex Zhang Hungtai. Next up: Kollektiv Kaorle, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Natasha Moreno is a techno and ambient artist based in Belarus, with 9 gigs on s
 
 A_Phan, Yakkushi, Alex Zhang Hungtai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashamoreno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashamoreno/)*

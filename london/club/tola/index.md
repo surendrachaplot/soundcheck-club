@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hang the DJ Vol.9" on Thu, 1 Oct 2026.
+Tola is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Studio56 with Ed From Balham" on Fri, 2 Oct 2026.
 
-Tola is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Althoff, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Althoff, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Hang the DJ Vol.9 | untitled (2) |
 | Fri, 2 Oct 2026 | Studio56 with Ed From Balham |  |
 | Sat, 3 Oct 2026 | LO MID HI with Special Guests @ Tola Peckham  | Althoff, ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
 | Fri, 9 Oct 2026 | Parallel Sounds with Yesca | Nick Parallel, Yesca, dan.e.l.a |
@@ -18,9 +17,10 @@ Tola is a music venue in London listed on soundcheck. 12 upcoming gigs, with lin
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos | Daisybelle, Ghosts Of Dance |
 | Sat, 31 Oct 2026 | one:2 eight presents: LE CIRQUE CLANDESTIN | Not From Concentrate, Sophia Nicole |
 | Sat, 7 Nov 2026 | Bloom Sound presents: Special Guests TBA | Brandon Tourle, Diego Gee, Jaden Pace, Wes Colstock |
+| Sat, 7 Nov 2026 | Jatozuki & FRIENDS | Dukesmith |
 
 ## Address
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

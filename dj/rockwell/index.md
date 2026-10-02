@@ -1,6 +1,6 @@
 # Rockwell
 
-Rockwell is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Four Quarters, London on Fri, 2 Oct 2026.
+Rockwell is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Four Quarters, London on Fri, 2 Oct 2026.
 
 Rockwell is a drum & bass and bass artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside Phace, Koherent and Kyrist. Next up: Four Quarters, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rockwell is a drum & bass and bass artist based in United Kingdom, with 20 gigs 
 
 Phace, Koherent, Kyrist
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockwell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockwell/)*

@@ -1,6 +1,6 @@
 # Fabio Monesi
 
-Fabio Monesi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studionotte, Milan on Sat, 3 Oct 2026.
+Fabio Monesi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Studionotte, Milan on Sat, 3 Oct 2026.
 
 Fabio Monesi is a house and electro artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: Studionotte, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Fabio Monesi is a house and electro artist based in Italy, with 45 gigs on sound
 
 Hiroko Hacci, Bradley Zero, Creamy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*

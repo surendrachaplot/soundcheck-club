@@ -1,6 +1,6 @@
 # Bonnie
 
-Bonnie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Bonnie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Bonnie is a house and techno artist based in Switzerland, with 25 gigs on soundcheck across Austin, Chicago, Hamburg and Los Angeles and 4 more. Often billed alongside Clyde, arow and Liquid Stranger. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bonnie is a house and techno artist based in Switzerland, with 25 gigs on soundc
 
 Clyde (2), arow, Liquid Stranger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnie/)*

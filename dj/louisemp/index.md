@@ -1,6 +1,6 @@
 # Louis EMP
 
-Louis EMP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Goldener Reiter, Munich on Fri, 16 Oct 2026.
+Louis EMP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Goldener Reiter, Munich on Fri, 16 Oct 2026.
 
 Louis EMP is a techno and house artist, with 62 gigs on soundcheck across Berlin and Munich. Often billed alongside Leon Haller, MRTI and Alicea. Next up: Goldener Reiter, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Louis EMP is a techno and house artist, with 62 gigs on soundcheck across Berlin
 
 Leon Haller, MRTI, Alicea
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisemp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisemp/)*

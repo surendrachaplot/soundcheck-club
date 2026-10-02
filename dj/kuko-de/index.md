@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 2 Oct 2026.
+KUKO is a Techno and Trance artist with 20 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Schrotty, Cologne on Fri, 2 Oct 2026.
 
 KUKO is a techno and trance artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Schrotty, Cologne on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, with 223 gigs on soundcheck
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

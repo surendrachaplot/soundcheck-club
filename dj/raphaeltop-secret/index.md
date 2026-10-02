@@ -1,6 +1,6 @@
 # Raphaël Top-Secret
 
-Raphaël Top-Secret is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plantation, Paris on Sat, 10 Oct 2026.
+Raphaël Top-Secret is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plantation, Paris on Sat, 10 Oct 2026.
 
 Raphaël Top-Secret is a house and balearic artist based in France, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 12 more. Often billed alongside Pitaya Soundsystem, Adriana and Alex From Tokyo. Next up: Plantation, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Raphaël Top-Secret is a house and balearic artist based in France, with 27 gigs
 
 Pitaya Soundsystem, Adriana (1), Alex From Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeltop-secret/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeltop-secret/)*

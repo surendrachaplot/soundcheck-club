@@ -1,6 +1,6 @@
 # Giacomo-XL
 
-Giacomo-XL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Giacomo-XL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Giacomo-XL is a house and techno artist, with 9 gigs on soundcheck across London and Rome. Often billed alongside Nathan Colinet, Thom Grant and CAPTNNN'. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Giacomo-XL is a house and techno artist, with 9 gigs on soundcheck across London
 
 Nathan Colinet, Thom Grant, CAPTNNN'
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-xl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-xl/)*

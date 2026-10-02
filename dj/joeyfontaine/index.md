@@ -1,6 +1,6 @@
 # Joey Fontaine
 
-Joey Fontaine is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
+Joey Fontaine is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
 
 Joey Fontaine is a progressive house and house artist, with 14 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Emilia G, Compass and Liam (Handclap). Next up: The Marquee Moon, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Joey Fontaine is a progressive house and house artist, with 14 gigs on soundchec
 
 Emilia G, Compass, Liam (Handclap)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyfontaine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyfontaine/)*

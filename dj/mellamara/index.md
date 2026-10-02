@@ -1,6 +1,6 @@
 # MELLA MARA
 
-MELLA MARA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+MELLA MARA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 MELLA MARA is a house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin and Ibiza. Often billed alongside Pilar Jordan, kattastrophe and rundom. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ MELLA MARA is a house and techno artist based in Germany, with 23 gigs on soundc
 
 Pilar Jordan, kattastrophe, rundom
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*

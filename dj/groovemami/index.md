@@ -1,6 +1,6 @@
 # Groovemami
 
-Groovemami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
+Groovemami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - LFO, Madrid on Fri, 16 Oct 2026.
 
 Groovemami is a house and techno artist based in Spain, with 26 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CH3LO, Amphia and DISTORT (ES). Next up: TBA - LFO, Madrid on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Groovemami is a house and techno artist based in Spain, with 26 gigs on soundche
 
 CH3LO, Amphia, DISTORT (ES)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovemami/)*

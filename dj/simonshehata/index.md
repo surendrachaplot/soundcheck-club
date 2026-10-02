@@ -1,6 +1,6 @@
 # Simon Shehata
 
-Simon Shehata is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Simon Shehata is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Simon Shehata is a techno and deep house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Leonid K, Khoshekh and Alythia Kwan. Next up: Basing House, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Simon Shehata is a techno and deep house artist based in United Kingdom, with 12
 
 Leonid K, Khoshekh, Alythia Kwan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonshehata/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonshehata/)*

@@ -1,6 +1,6 @@
 # LEO.PARDYY
 
-LEO.PARDYY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+LEO.PARDYY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
 LEO.PARDYY is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Cologne. Often billed alongside 2HOT2PLAY, 333CXT and ADEMES. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ LEO.PARDYY is a techno and trance artist based in Germany, with 3 gigs on soundc
 
 2HOT2PLAY, 333CXT, ADEMES
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo.pardyy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo.pardyy/)*

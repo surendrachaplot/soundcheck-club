@@ -1,6 +1,6 @@
 # Ben Mono
 
-Ben Mono is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
+Ben Mono is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
 
 Ben Mono is a garage and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin and Stockholm. Often billed alongside TMSN, Kidnappa Koko and PJ Bridger. Next up: Paloma, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ben Mono is a garage and house artist based in Germany, with 24 gigs on soundche
 
 TMSN, Kidnappa Koko, PJ Bridger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmono/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmono/)*

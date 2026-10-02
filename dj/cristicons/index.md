@@ -1,6 +1,6 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
+Cristi Cons is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
 
 Cristi Cons is a house and minimal artist based in Romania, with 115 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 34 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: BORIS CLUB, Barcelona on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Cristi Cons is a house and minimal artist based in Romania, with 115 gigs on sou
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

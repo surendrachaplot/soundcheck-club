@@ -1,6 +1,6 @@
 # Inner West
 
-Inner West is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
+Inner West is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
 
 Inner West is a deep house and tech house artist based in Australia, with 14 gigs on soundcheck across Belfast, London and Sydney. Often billed alongside Data Flow, Mannequin and Steamy Bumplings. Next up: NDR2 Red Room, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Inner West is a deep house and tech house artist based in Australia, with 14 gig
 
 Data Flow, Mannequin, Steamy Bumplings
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerwest/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerwest/)*

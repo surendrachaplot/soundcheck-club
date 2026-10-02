@@ -1,6 +1,6 @@
 # Cardinal Sin
 
-Cardinal Sin is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 16 Oct 2026.
+Cardinal Sin is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 16 Oct 2026.
 
 Cardinal Sin is a deep house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Brighton, Edinburgh, London and Manchester and 1 more. Often billed alongside PHJ.WAV, Goose and Josh Wuf. Next up: People's Leisure Club, Edinburgh on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Cardinal Sin is a deep house and garage artist based in United Kingdom, with 7 g
 
 PHJ.WAV, Goose (3), Josh Wuf
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsin/)*

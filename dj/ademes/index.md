@@ -1,6 +1,6 @@
 # ADEMES
 
-ADEMES is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+ADEMES is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
 ADEMES is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 3 more. Often billed alongside Amøn, LELO and nordcorreia.mp3. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ ADEMES is a techno and trance artist based in Germany, with 51 gigs on soundchec
 
 Amøn, LELO, nordcorreia.mp3
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*

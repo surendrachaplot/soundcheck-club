@@ -1,6 +1,6 @@
 # Tino Machauer
 
-Tino Machauer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Zimmer, Mannheim on Sat, 3 Oct 2026.
+Tino Machauer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Das Zimmer, Mannheim on Sat, 3 Oct 2026.
 
 Tino Machauer is a techno and house artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside lex_shockwerk, slin and MATRIX3K. Next up: Das Zimmer, Mannheim on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Tino Machauer is a techno and house artist based in Germany, with 42 gigs on sou
 
 lex_shockwerk, slin, MATRIX3K
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*

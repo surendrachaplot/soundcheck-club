@@ -1,6 +1,6 @@
 # MPHS
 
-MPHS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
+MPHS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 2 Oct 2026.
 
 MPHS is a techno and trance artist, with 31 gigs on soundcheck across Montreal. Often billed alongside Bianca Badita, Christø and Mike Larry. Next up: ESC, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MPHS is a techno and trance artist, with 31 gigs on soundcheck across Montreal. 
 
 Bianca Badita, Christø, Mike Larry
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mphs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mphs/)*

@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Design By Accident with Lucy Park" on Fri, 2 Oct 2026.
+Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Design By Accident with Lucy Park" on Fri, 2 Oct 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

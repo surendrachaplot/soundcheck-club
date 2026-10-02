@@ -1,6 +1,6 @@
 # David Herrero
 
-David Herrero is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wiggle Room, Toronto on Sun, 11 Oct 2026.
+David Herrero is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sun, 11 Oct 2026.
 
 David Herrero is a tech house and house artist based in Spain, with 10 gigs on soundcheck across Miami, Montreal and Toronto. Often billed alongside Adriano Longi, Manzone & Strong and TAKiN. Next up: Wiggle Room, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ David Herrero is a tech house and house artist based in Spain, with 10 gigs on s
 
 Adriano Longi, Manzone & Strong, TAKiN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidherrero/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidherrero/)*

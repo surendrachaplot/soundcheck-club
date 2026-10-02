@@ -1,6 +1,6 @@
 # CalvoMusic
 
-CalvoMusic is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+CalvoMusic is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 CalvoMusic is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Chicago, Glasgow, London and New York City and 2 more. Often billed alongside Kade Young, DJ-SUN and Syd (US). Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ CalvoMusic is a club and techno artist based in United States of America, with 2
 
 Kade Young, DJ-SUN, Syd (US)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*

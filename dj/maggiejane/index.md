@@ -1,6 +1,6 @@
 # Maggie Jane
 
-Maggie Jane is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
+Maggie Jane is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
 
 Maggie Jane is an electronic artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Spinneck, Benni B and Inspektor Lenny. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Maggie Jane is an electronic artist based in Germany, with 11 gigs on soundcheck
 
 Spinneck, Benni B, Inspektor Lenny
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*

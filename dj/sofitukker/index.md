@@ -1,6 +1,6 @@
 # SOFI TUKKER
 
-SOFI TUKKER is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha New York, New York City on Fri, 2 Oct 2026.
+SOFI TUKKER is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha New York, New York City on Fri, 2 Oct 2026.
 
 SOFI TUKKER is a house and tech house artist based in United States of America, with 38 gigs on soundcheck across Arkansas, Austin, Buenos Aires and Chicago and 13 more. Often billed alongside Anabel Englund, LP Giobbi and Eli Brown. Next up: Pacha New York, New York City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ SOFI TUKKER is a house and tech house artist based in United States of America, 
 
 Anabel Englund, LP Giobbi, Eli Brown
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*

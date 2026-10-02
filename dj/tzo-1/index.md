@@ -1,6 +1,6 @@
 # TZO (1)
 
-TZO (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cova, Hamburg on Fri, 9 Oct 2026.
+TZO (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cova, Hamburg on Fri, 9 Oct 2026.
 
 TZO is a techno and industrial artist based in Germany, with 27 gigs on soundcheck across Hamburg. Often billed alongside KIM AHLF, TRYPTAJ and AH-N!CE. Next up: La Cova, Hamburg on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ TZO is a techno and industrial artist based in Germany, with 27 gigs on soundche
 
 KIM AHLF, TRYPTAJ, AH-N!CE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*

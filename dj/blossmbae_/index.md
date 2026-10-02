@@ -1,6 +1,6 @@
 # Blossmbae
 
-Blossmbae is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
+Blossmbae is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
 
 Blossmbae is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside bbymeister, jeanska and subga. Next up: DNA. CLUB, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Blossmbae is a techno and trance artist based in Germany, with 32 gigs on soundc
 
 bbymeister, jeanska, subga
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossmbae_/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossmbae_/)*

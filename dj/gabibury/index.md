@@ -1,6 +1,6 @@
 # Gabi Bury
 
-Gabi Bury is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mastak, Warsaw on Fri, 2 Oct 2026.
+Gabi Bury is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mastak, Warsaw on Fri, 2 Oct 2026.
 
 Gabi Bury is a techno and electronica artist based in Poland, with 41 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Aetha, Hellix and Eta Hox. Next up: Mastak, Warsaw on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Gabi Bury is a techno and electronica artist based in Poland, with 41 gigs on so
 
 Aetha, Hellix, Eta Hox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabibury/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabibury/)*

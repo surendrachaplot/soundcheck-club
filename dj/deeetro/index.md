@@ -1,6 +1,6 @@
 # Deeetro
 
-Deeetro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DURO, Milan on Fri, 2 Oct 2026.
+Deeetro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DURO, Milan on Fri, 2 Oct 2026.
 
 Deeetro is a house and techno artist, with 9 gigs on soundcheck across Milan. Often billed alongside Giorgio Di Majo, Ilya Blinkov and Vannelli Bros. Next up: DURO, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Deeetro is a house and techno artist, with 9 gigs on soundcheck across Milan. Of
 
 Giorgio Di Majo, Ilya Blinkov, Vannelli Bros
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeetro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeetro/)*

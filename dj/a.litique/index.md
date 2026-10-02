@@ -1,6 +1,6 @@
 # A.Litique
 
-A.Litique is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
+A.Litique is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
 A.Litique is a techno and house artist based in France, with 11 gigs on soundcheck across Berlin and Paris. Often billed alongside Equus Belli, Maris Shilton and Jessie Granqvist. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ A.Litique is a techno and house artist based in France, with 11 gigs on soundche
 
 Equus Belli, Maris Shilton, Jessie Granqvist
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.litique/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.litique/)*

@@ -1,6 +1,6 @@
 # Enrico Chirchiello
 
-Enrico Chirchiello is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
+Enrico Chirchiello is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
 
 Enrico Chirchiello is a tech house and techno artist based in Italy, with 175 gigs on soundcheck across Barcelona, Ibiza, London and Milan and 4 more. Often billed alongside Francesco Poggi, Cristian Ebasta and Thomas Galbardi. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Enrico Chirchiello is a tech house and techno artist based in Italy, with 175 gi
 
 Francesco Poggi, Cristian Ebasta, Thomas Galbardi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricochirchiello/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricochirchiello/)*

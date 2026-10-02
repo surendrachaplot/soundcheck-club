@@ -1,6 +1,6 @@
 # Jimmy Switch
 
-Jimmy Switch is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 23 Oct 2026.
+Jimmy Switch is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 23 Oct 2026.
 
 Jimmy Switch is a deep house and house artist based in United Kingdom, with 10 gigs on soundcheck across London, Malta and Manchester. Often billed alongside Jnr Windross, Boon (UK) and Steven Cee. Next up: Joshua Brooks, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jimmy Switch is a deep house and house artist based in United Kingdom, with 10 g
 
 Jnr Windross, Boon (UK), Steven Cee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyswitch-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyswitch-uk/)*

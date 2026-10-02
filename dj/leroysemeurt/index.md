@@ -1,6 +1,6 @@
 # Leroy Se Meurt
 
-Leroy Se Meurt is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+Leroy Se Meurt is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
 Leroy Se Meurt is an ebm and techno artist, with 13 gigs on soundcheck across Athens, Berlin, Brussels and Leipzig and 8 more. Often billed alongside Alessandro Adriani, Alice in Flames and Alpha Sect. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Leroy Se Meurt is an ebm and techno artist, with 13 gigs on soundcheck across At
 
 Alessandro Adriani, Alice in Flames, Alpha Sect
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*

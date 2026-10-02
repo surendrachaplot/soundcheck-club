@@ -1,6 +1,6 @@
 # Drozza
 
-Drozza is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Foundry Collective, London on Sun, 1 Nov 2026.
+Drozza is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Foundry Collective, London on Sun, 1 Nov 2026.
 
 Drozza is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside QWAK, Stellarator and katamine. Next up: The Foundry Collective, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Drozza is a house and minimal artist based in United Kingdom, with 13 gigs on so
 
 QWAK, Stellarator, katamine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*

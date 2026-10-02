@@ -1,6 +1,6 @@
 # Cosimo Damiano
 
-Cosimo Damiano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 3 Oct 2026.
+Cosimo Damiano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 3 Oct 2026.
 
 Cosimo Damiano is a techno and electronica artist based in Italy, with 45 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Future Nomadz, Gattonero and Neel. Next up: THE MAGICK BAR, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cosimo Damiano is a techno and electronica artist based in Italy, with 45 gigs o
 
 Future Nomadz, Gattonero, Neel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimodamiano/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimodamiano/)*

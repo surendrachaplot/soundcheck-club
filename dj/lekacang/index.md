@@ -1,6 +1,6 @@
 # LE KACANG
 
-LE KACANG is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
+LE KACANG is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
 
 LE KACANG is a garage and bass artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Bevan, CARISTA and CHALÉ. Next up: Doka, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ LE KACANG is a garage and bass artist based in Netherlands, with 10 gigs on soun
 
 Bevan, CARISTA, CHALÉ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekacang/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekacang/)*

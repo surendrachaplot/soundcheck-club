@@ -1,6 +1,6 @@
 # Joe Tyler
 
-Joe Tyler is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Arch 14, London on Fri, 2 Oct 2026.
+Joe Tyler is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Arch 14, London on Fri, 2 Oct 2026.
 
 Joe Tyler is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Mary X, macchiato and A ranger. Next up: Arch 14, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Joe Tyler is a house and techno artist based in United Kingdom, with 7 gigs on s
 
 Mary X, macchiato, A ranger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*

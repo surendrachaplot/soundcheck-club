@@ -1,6 +1,6 @@
 # Villaseñor
 
-Villaseñor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CHICO, Mexico City on Sat, 24 Oct 2026.
+Villaseñor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CHICO, Mexico City on Sat, 24 Oct 2026.
 
 Villaseñor is a techno and house artist based in Mexico, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 7 more. Often billed alongside Enya Botello, sadgal and Portugal. Next up: CHICO, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Villaseñor is a techno and house artist based in Mexico, with 113 gigs on sound
 
 Enya Botello, sadgal, Portugal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*

@@ -1,6 +1,6 @@
 # Jyn (1)
 
-Jyn (1) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BAR Inc, Osaka on Fri, 2 Oct 2026.
+Jyn (1) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BAR Inc, Osaka on Fri, 2 Oct 2026.
 
 Jyn is a bass and techno artist based in Japan, with 5 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside NTsKi, Taigen Kawabe and Daigos. Next up: BAR Inc, Osaka on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Jyn is a bass and techno artist based in Japan, with 5 gigs on soundcheck across
 
 NTsKi, Taigen Kawabe, Daigos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyn-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyn-1/)*

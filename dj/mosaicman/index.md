@@ -1,6 +1,6 @@
 # Mosaic Man
 
-Mosaic Man is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Mosaic Man is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
 Mosaic Man is a house and disco artist, with 14 gigs on soundcheck across Amsterdam, Glasgow and Utrecht. Often billed alongside Kyra Khaldi, Redleg On A Roll and Budino. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mosaic Man is a house and disco artist, with 14 gigs on soundcheck across Amster
 
 Kyra Khaldi, Redleg On A Roll, Budino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaicman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosaicman/)*

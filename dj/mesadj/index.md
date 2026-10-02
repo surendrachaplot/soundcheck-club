@@ -1,6 +1,6 @@
 # MESA (DJ)
 
-MESA (DJ) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
+MESA (DJ) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
 
 MESA (DJ) is a house and techno artist based in United States of America, with 22 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Dennis Free, Marcel Ruiz and Pedrose. Next up: Green Room NYC, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MESA (DJ) is a house and techno artist based in United States of America, with 2
 
 Dennis Free, Marcel Ruiz, Pedrose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesadj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesadj/)*

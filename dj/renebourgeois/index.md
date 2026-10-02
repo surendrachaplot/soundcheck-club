@@ -1,6 +1,6 @@
 # Rene Bourgeois
 
-Rene Bourgeois is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Rene Bourgeois is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Rene Bourgeois is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Haito, ASK:ME and Kopflos. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rene Bourgeois is a techno and tech house artist based in Germany, with 10 gigs 
 
 Haito, ASK:ME, Kopflos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renebourgeois/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renebourgeois/)*

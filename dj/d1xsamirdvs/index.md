@@ -1,6 +1,6 @@
 # D1 x Samir (DVS)
 
-D1 x Samir (DVS) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+D1 x Samir (DVS) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 D1 x Samir (DVS) are a tech house and deep house duo based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Samir (DVS), FrezZ and Azire. Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ D1 x Samir (DVS) are a tech house and deep house duo based in United Kingdom, wi
 
 Samir (DVS), FrezZ, Azire
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*

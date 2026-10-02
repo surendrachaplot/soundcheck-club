@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mala is a Dubstep and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mala is a dubstep and bass artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Mia Koden, SGT Pokes and Verraco. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Mala is a dubstep and bass artist based in United Kingdom, with 114 gigs on soun
 
 Mia Koden, SGT Pokes, Verraco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

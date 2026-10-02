@@ -1,8 +1,8 @@
 # UNiiQU3
 
-UNiiQU3 is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
+UNiiQU3 is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
 
-UNiiQU3 is a club and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 32 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: The Cafe, San Francisco/Oakland on Thu 15 Oct.
+UNiiQU3 is a club and techno artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 32 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: The Cafe, San Francisco/Oakland on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ UNiiQU3 is a club and techno artist based in United States of America, with 102 
 | Thu, 15 Oct 2026 | The Cafe | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | Don Quixote | Los Angeles |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ UNiiQU3 is a club and techno artist based in United States of America, with 102 
 
 ARMANA KHAN, Bambii, Bianca Oblivion
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*

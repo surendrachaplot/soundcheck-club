@@ -1,6 +1,6 @@
 # Brandon Tourle
 
-Brandon Tourle is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
+Brandon Tourle is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
 Brandon Tourle is a tech house and house artist, with 26 gigs on soundcheck across London. Often billed alongside Diego Gee, Jaden Pace and Geo DJ. Next up: Tola, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Brandon Tourle is a tech house and house artist, with 26 gigs on soundcheck acro
 
 Diego Gee, Jaden Pace, Geo DJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandontourle/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandontourle/)*

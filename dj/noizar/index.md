@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Lubber Fiend, Newcastle on Sat, 3 Oct 2026.
+Noizar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Lubber Fiend, Newcastle on Sat, 3 Oct 2026.
 
 Noizar is a techno and house artist based in Ukraine, with 119 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Shakolin, Karine and Marie K. Next up: The Lubber Fiend, Newcastle on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Noizar is a techno and house artist based in Ukraine, with 119 gigs on soundchec
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

@@ -1,6 +1,6 @@
 # The Exaltics
 
-The Exaltics is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kassablanca, Jena on Fri, 2 Oct 2026.
+The Exaltics is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kassablanca, Jena on Fri, 2 Oct 2026.
 
 The Exaltics is a techno and electro artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 11 more. Often billed alongside Serge, Chino and Dolce Potente. Next up: Kassablanca, Jena on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ The Exaltics is a techno and electro artist based in Germany, with 26 gigs on so
 
 Serge, Chino, Dolce Potente
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theexaltics/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theexaltics/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Keep My Letters with Guy J" on Fri, 2 Oct 2026.
+Ritter Butzke is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Keep My Letters with Guy J" on Fri, 2 Oct 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Stein and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 28 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

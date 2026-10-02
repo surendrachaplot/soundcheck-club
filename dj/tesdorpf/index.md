@@ -1,6 +1,6 @@
 # Tesdorpf
 
-Tesdorpf is a Acid and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
+Tesdorpf is a Acid and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
 
 Tesdorpf is an acid and trance artist, with 18 gigs on soundcheck across Basel, Tbilisi and Zurich. Often billed alongside Mark Lando, Belia Winnewisser and Cepheì. Next up: Nest, Basel on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tesdorpf is an acid and trance artist, with 18 gigs on soundcheck across Basel, 
 
 Mark Lando, Belia Winnewisser, Cepheì
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tesdorpf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tesdorpf/)*

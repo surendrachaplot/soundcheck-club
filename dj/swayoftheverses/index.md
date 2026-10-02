@@ -1,6 +1,6 @@
 # Sway Of The Verses
 
-Sway Of The Verses is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sauna Social Club, London on Fri, 9 Oct 2026.
+Sway Of The Verses is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sauna Social Club, London on Fri, 9 Oct 2026.
 
 Sway Of The Verses is a dub and jazz artist, with 18 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Amrisha, Mithun and the butcher bird. Next up: Sauna Social Club, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sway Of The Verses is a dub and jazz artist, with 18 gigs on soundcheck across B
 
 Amrisha, Mithun, the butcher bird
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swayoftheverses/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swayoftheverses/)*

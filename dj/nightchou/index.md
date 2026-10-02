@@ -1,6 +1,6 @@
 # Nightchou
 
-Nightchou is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Badaboum, Paris on Sat, 3 Oct 2026.
+Nightchou is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Sat, 3 Oct 2026.
 
 Nightchou is a house and disco artist based in France, with 48 gigs on soundcheck across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Adri and Arp Frique. Next up: Badaboum, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Nightchou is a house and disco artist based in France, with 48 gigs on soundchec
 
 Romain Dafalgang, Adri, Arp Frique
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*

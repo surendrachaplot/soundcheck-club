@@ -1,6 +1,6 @@
 # Rowland
 
-Rowland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+Rowland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
 Rowland is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rowland is a techno and house artist based in United Kingdom, with 16 gigs on so
 
 Mezla, Lucky Penny, Basic Function
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*

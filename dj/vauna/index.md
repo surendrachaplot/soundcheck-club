@@ -1,6 +1,6 @@
 # vauna
 
-vauna is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+vauna is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
 
 vauna is a techno and ebm artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside AEKO, Air Protection Office and Artifex (DE). Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ vauna is a techno and ebm artist based in Germany, with 7 gigs on soundcheck acr
 
 AEKO, Air Protection Office, Artifex (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vauna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vauna/)*

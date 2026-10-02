@@ -1,6 +1,6 @@
 # RUXI
 
-RUXI is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+RUXI is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
 RUXI is an electronic artist based in China, with 17 gigs on soundcheck across Barcelona and Madrid. Often billed alongside DJ2D2, Kanti and Dirti Larita. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RUXI is an electronic artist based in China, with 17 gigs on soundcheck across B
 
 DJ2D2, Kanti, Dirti Larita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxi/)*

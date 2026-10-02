@@ -1,6 +1,6 @@
 # Sash (BCN)
 
-Sash (BCN) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
+Sash (BCN) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
 
 Sash (BCN) is a house and electronica artist, with 27 gigs on soundcheck across Barcelona, Birmingham and Paris. Often billed alongside Alice Caroline, Onna Boo and Monile. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sash (BCN) is a house and electronica artist, with 27 gigs on soundcheck across 
 
 Alice Caroline, Onna Boo, Monile
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sash-bcn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sash-bcn/)*

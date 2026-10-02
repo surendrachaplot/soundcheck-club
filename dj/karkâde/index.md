@@ -1,6 +1,6 @@
 # KARKÂDÉ
 
-KARKÂDÉ is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mr Watson, Amsterdam on Fri, 23 Oct 2026.
+KARKÂDÉ is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mr Watson, Amsterdam on Fri, 23 Oct 2026.
 
 KARKÂDÉ is an afro tech and afro house artist based in Ukraine, with 10 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside SOROUSH, MEMFIS and Amethy. Next up: Mr Watson, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ KARKÂDÉ is an afro tech and afro house artist based in Ukraine, with 10 gigs o
 
 SOROUSH, MEMFIS, Amethy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karkâde/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karkâde/)*

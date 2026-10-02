@@ -1,6 +1,6 @@
 # Francesco Menduni
 
-Francesco Menduni is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Francesco Menduni is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
 Francesco Menduni is a house and minimal artist based in Germany, with 18 gigs on soundcheck across Berlin, Copenhagen, Frankfurt and Ibiza and 1 more. Often billed alongside nd_baumecker, Robert Drewek and Luigi Rossi. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Francesco Menduni is a house and minimal artist based in Germany, with 18 gigs o
 
 nd_baumecker, Robert Drewek, Luigi Rossi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomenduni/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomenduni/)*

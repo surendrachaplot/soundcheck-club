@@ -1,6 +1,6 @@
 # Queenie
 
-Queenie is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Queenie is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
 Queenie is a house and grime artist based in United Kingdom, with 14 gigs on soundcheck across Brighton, London, Mexico City and Shanghai. Often billed alongside Manga Saint Hilare, Ikävä Pii and Novelist. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Queenie is a house and grime artist based in United Kingdom, with 14 gigs on sou
 
 Manga Saint Hilare, Ikävä Pii, Novelist
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queenie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queenie/)*

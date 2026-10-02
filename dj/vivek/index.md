@@ -1,6 +1,6 @@
 # V.I.V.E.K.
 
-V.I.V.E.K. is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+V.I.V.E.K. is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 V.I.V.E.K. is a dub and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Bucharest, Dublin and Glasgow and 7 more. Often billed alongside Beatrice M., DJ Flight and Darwin. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ V.I.V.E.K. is a dub and drum & bass artist based in United Kingdom, with 18 gigs
 
 Beatrice M., DJ Flight, Darwin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivek/)*

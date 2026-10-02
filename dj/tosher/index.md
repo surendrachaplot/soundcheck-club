@@ -1,6 +1,6 @@
 # Tosher
 
-Tosher is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 3 Oct 2026.
+Tosher is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 3 Oct 2026.
 
 Tosher is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Brody James, Sweeney and Big Miz. Next up: Cabaret Voltaire, Edinburgh on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Tosher is a house and techno artist based in United Kingdom, with 11 gigs on sou
 
 Brody James, Sweeney, Big Miz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosher/)*

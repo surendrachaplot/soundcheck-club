@@ -1,6 +1,6 @@
 # Purrdition
 
-Purrdition is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+Purrdition is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
 Purrdition is a techno and minimal techno artist based in Austria, with 35 gigs on soundcheck across Berlin, Prague and Vienna. Often billed alongside Alecid, Anni Herzer and NESS T. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Purrdition is a techno and minimal techno artist based in Austria, with 35 gigs 
 
 Alecid, Anni Herzer, NESS T
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purrdition/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purrdition/)*

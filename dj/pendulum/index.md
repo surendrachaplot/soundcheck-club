@@ -1,6 +1,6 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Pendulum is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
 
 Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs on soundcheck across Auckland, Austin, Birmingham and Brighton and 30 more. Often billed alongside Mozey, Kanine and Metrik. Next up: halle02, Heidelberg on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Pendulum is a drum & bass and bass artist based in United Kingdom, with 54 gigs 
 
 Mozey, Kanine, Metrik
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

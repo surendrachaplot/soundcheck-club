@@ -1,6 +1,6 @@
 # JESSICA JANE
 
-JESSICA JANE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Apotheke, Los Angeles on Sat, 3 Oct 2026.
+JESSICA JANE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Apotheke, Los Angeles on Sat, 3 Oct 2026.
 
 JESSICA JANE is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Chicago, Los Angeles and San Diego. Often billed alongside Derrick Carter, Derrick Wize and Louis Hale. Next up: Apotheke, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ JESSICA JANE is a house and deep house artist based in United States of America,
 
 Derrick Carter, Derrick Wize, Louis Hale
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicajane/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicajane/)*

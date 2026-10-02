@@ -1,6 +1,6 @@
 # Stan Christ
 
-Stan Christ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Stan Christ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
 Stan Christ is a techno and industrial artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 37 more. Often billed alongside DYEN, DIØN and Cynthia Spiering. Next up: Smolna, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Stan Christ is a techno and industrial artist based in Netherlands, with 126 gig
 
 DYEN, DIØN, Cynthia Spiering
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*

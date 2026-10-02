@@ -1,6 +1,6 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Paloma, Barcelona on Fri, 2 Oct 2026.
+Stump Valley is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Paloma, Barcelona on Fri, 2 Oct 2026.
 
 Stump Valley is a house and disco artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: La Paloma, Barcelona on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Stump Valley is a house and disco artist based in Germany, with 76 gigs on sound
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

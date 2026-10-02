@@ -1,6 +1,6 @@
 # Mykey (2)
 
-Mykey (2) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 88block, Tokyo on Fri, 2 Oct 2026.
+Mykey (2) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 88block, Tokyo on Fri, 2 Oct 2026.
 
 Mykey is a bass and techno artist based in Japan, with 31 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Leefia, Ozwick and KCT. Next up: 88block, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mykey is a bass and techno artist based in Japan, with 31 gigs on soundcheck acr
 
 Leefia, Ozwick, KCT (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*

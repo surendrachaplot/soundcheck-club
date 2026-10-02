@@ -1,6 +1,6 @@
 # CAM GIRL
 
-CAM GIRL is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New Guernica, Melbourne on Thu, 22 Oct 2026.
+CAM GIRL is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Guernica, Melbourne on Thu, 22 Oct 2026.
 
 CAM GIRL is a pop and club artist, with 12 gigs on soundcheck across Detroit, Hong Kong, Los Angeles and Melbourne and 5 more. Often billed alongside MAMA SAN, ABRA and BAAWLA. Next up: New Guernica, Melbourne on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ CAM GIRL is a pop and club artist, with 12 gigs on soundcheck across Detroit, Ho
 
 MAMA SAN, ABRA, BAAWLA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*

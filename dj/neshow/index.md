@@ -1,6 +1,6 @@
 # NESHOW
 
-NESHOW is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+NESHOW is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 NESHOW is a house and tech house artist based in Poland, with 7 gigs on soundcheck across Amsterdam and Warsaw. Often billed alongside Aftersunday, Konca and Angelo Mike. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ NESHOW is a house and tech house artist based in Poland, with 7 gigs on soundche
 
 Aftersunday, Konca, Angelo Mike
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neshow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neshow/)*

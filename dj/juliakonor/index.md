@@ -1,6 +1,6 @@
 # Julia Konor
 
-Julia Konor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 8 Oct 2026.
+Julia Konor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 8 Oct 2026.
 
 Julia Konor is a techno and house artist based in Spain, with 13 gigs on soundcheck across Bangkok, Barcelona, Berlin and Madrid and 1 more. Often billed alongside RŌ (FLX4), Arista and Bojak. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Julia Konor is a techno and house artist based in Spain, with 13 gigs on soundch
 
 RŌ (FLX4), Arista, Bojak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakonor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakonor/)*

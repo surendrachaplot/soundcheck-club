@@ -1,6 +1,6 @@
 # AGILY
 
-AGILY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+AGILY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
 AGILY is a house and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Hamburg, Leipzig and Mexico City and 1 more. Often billed alongside Rosa Kante, Hanna Baertig and tamarawrx3. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ AGILY is a house and techno artist based in Germany, with 33 gigs on soundcheck 
 
 Rosa Kante, Hanna Baertig, tamarawrx3
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agily/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agily/)*

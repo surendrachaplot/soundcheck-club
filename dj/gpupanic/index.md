@@ -1,6 +1,6 @@
 # GPU Panic
 
-GPU Panic is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Lisbon on Sat, 10 Oct 2026.
+GPU Panic is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Lisbon on Sat, 10 Oct 2026.
 
 GPU Panic is an electronica and house artist based in Portugal, with 34 gigs on soundcheck across Amsterdam, Istanbul, Lisbon and London and 3 more. Often billed alongside Moullinex, MXGPU and Xinobi. Next up: TBA, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ GPU Panic is an electronica and house artist based in Portugal, with 34 gigs on 
 
 Moullinex, MXGPU, Xinobi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gpupanic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gpupanic/)*

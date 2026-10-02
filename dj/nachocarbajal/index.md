@@ -1,6 +1,6 @@
 # Nacho Carbajal
 
-Nacho Carbajal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Forge, Bucharest on Fri, 2 Oct 2026.
+Nacho Carbajal is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forge, Bucharest on Fri, 2 Oct 2026.
 
 Nacho Carbajal is a house and deep house artist based in Argentina, with 20 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 2 more. Often billed alongside Chuki Juri, Mati Amoretti and No Silver Bullet. Next up: Forge, Bucharest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nacho Carbajal is a house and deep house artist based in Argentina, with 20 gigs
 
 Chuki Juri, Mati Amoretti, No Silver Bullet
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocarbajal/)*

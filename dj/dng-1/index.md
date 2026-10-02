@@ -1,6 +1,6 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 2 Oct 2026.
+DNG (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 2 Oct 2026.
 
 DNG is a house and techno artist based in Japan, with 130 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari, KOTSU and Lomax. Next up: Aoyama Tunnel, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ DNG is a house and techno artist based in Japan, with 130 gigs on soundcheck acr
 
 Nari (2), KOTSU, Lomax
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*

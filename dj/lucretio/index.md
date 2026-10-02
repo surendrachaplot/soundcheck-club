@@ -1,6 +1,6 @@
 # Lucretio
 
-Lucretio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Mon, 5 Oct 2026.
+Lucretio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Mon, 5 Oct 2026.
 
 Lucretio is a house and electro artist based in Germany, with 9 gigs on soundcheck across Barcelona, Milan, Naples and Rome. Often billed alongside Corra DN, DONALD - BIIG_DONNY and Denaila. Next up: Macarena Club, Barcelona on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ Lucretio is a house and electro artist based in Germany, with 9 gigs on soundche
 
 Corra DN, DONALD - BIIG_DONNY, Denaila
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucretio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucretio/)*

@@ -1,6 +1,6 @@
 # Michael Manahan
 
-Michael Manahan is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+Michael Manahan is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
 Michael Manahan is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Los Angeles, Portland and Seattle. Often billed alongside Jamie Schwabl, Doza and Pezzner. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ Michael Manahan is a house and deep house artist based in United States of Ameri
 
 Jamie Schwabl, Doza, Pezzner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmanahan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmanahan/)*

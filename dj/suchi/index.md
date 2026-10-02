@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+SUCHI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
 SUCHI is a house and techno artist based in Norway, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 17 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: SISSI'S Amsterdam, Amsterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SUCHI is a house and techno artist based in Norway, with 64 gigs on soundcheck a
 
 Amaliah, Anz, Heléna Star
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

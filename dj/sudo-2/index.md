@@ -1,6 +1,6 @@
 # SUDO
 
-SUDO is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
+SUDO is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
 
 SUDO is a techno and minimal techno artist, with 26 gigs on soundcheck across Berlin, Cologne, Frankfurt and Nürnberg and 3 more. Often billed alongside Marko Nastic, Pauli Pocket and Drunken Kong. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SUDO is a techno and minimal techno artist, with 26 gigs on soundcheck across Be
 
 Marko Nastic, Pauli Pocket, Drunken Kong
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudo-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudo-2/)*

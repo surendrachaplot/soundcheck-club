@@ -1,6 +1,6 @@
 # Stupid Crew
 
-Stupid Crew is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Mon, 12 Oct 2026.
+Stupid Crew is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Melkweg, Amsterdam on Mon, 12 Oct 2026.
 
 Stupid Crew is a drum & bass and dubstep artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Istanbul. Often billed alongside AAlva, Adam Pits and Faru. Next up: Melkweg, Amsterdam on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Stupid Crew is a drum & bass and dubstep artist based in Netherlands, with 9 gig
 
 AAlva, Adam Pits, Faru
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidcrew/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidcrew/)*

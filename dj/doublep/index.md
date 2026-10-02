@@ -1,6 +1,6 @@
 # DOUBLE P
 
-DOUBLE P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
+DOUBLE P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 DOUBLE P is a techno and house artist based in Belgium, with 7 gigs on soundcheck across Antwerp. Often billed alongside DJNO, Rostgoed and Butchpm. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DOUBLE P is a techno and house artist based in Belgium, with 7 gigs on soundchec
 
 DJNO, Rostgoed, Butchpm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doublep/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doublep/)*

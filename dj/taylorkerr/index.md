@@ -1,6 +1,6 @@
 # Taylor Kerr
 
-Taylor Kerr is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Concept Haus, Manchester on Sat, 17 Oct 2026.
+Taylor Kerr is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Concept Haus, Manchester on Sat, 17 Oct 2026.
 
 Taylor Kerr is an electro and house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds and Manchester. Often billed alongside Alex Q, Loa Szala and DMC.. Next up: Concept Haus, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Taylor Kerr is an electro and house artist based in United Kingdom, with 17 gigs
 
 Alex Q (2), Loa Szala, DMC.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorkerr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorkerr/)*

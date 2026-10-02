@@ -1,6 +1,6 @@
 # Burak55
 
-Burak55 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
+Burak55 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
 
 Burak55 is a house and techno artist based in Germany, with 7 gigs on soundcheck across Hamburg. Often billed alongside Alexej, JASHTECH and NELØ. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Burak55 is a house and techno artist based in Germany, with 7 gigs on soundcheck
 
 Alexej, JASHTECH, NELØ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burak55/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burak55/)*

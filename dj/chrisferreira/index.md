@@ -1,6 +1,6 @@
 # Chris Ferreira
 
-Chris Ferreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Chris Ferreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 Chris Ferreira is a house and techno artist based in Belgium, with 23 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Dana Kuehr, Kong DJ and Stanislawa. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Chris Ferreira is a house and techno artist based in Belgium, with 23 gigs on so
 
 Dana Kuehr, Kong DJ, Stanislawa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisferreira/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisferreira/)*

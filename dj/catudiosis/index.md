@@ -1,6 +1,6 @@
 # Catu Diosis
 
-Catu Diosis is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Catu Diosis is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Catu Diosis is an experimental and bass artist based in Uganda, with 37 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Rafush, De Schuurman and Assyouti. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Catu Diosis is an experimental and bass artist based in Uganda, with 37 gigs on 
 
 Rafush, De Schuurman, Assyouti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*

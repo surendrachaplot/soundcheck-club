@@ -1,6 +1,6 @@
 # Corran
 
-Corran is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hillhead Bookclub, Glasgow on Fri, 2 Oct 2026.
+Corran is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hillhead Bookclub, Glasgow on Fri, 2 Oct 2026.
 
 Corran is a drum & bass and jungle artist based in United Kingdom, with 101 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Akintore, Marky Marbles and SOL. Next up: Hillhead Bookclub, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Corran is a drum & bass and jungle artist based in United Kingdom, with 101 gigs
 
 Akintore, Marky Marbles, SOL (8)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corran/)*

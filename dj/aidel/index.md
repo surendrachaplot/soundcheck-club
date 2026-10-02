@@ -1,6 +1,6 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spkrbox, Detroit on Sat, 3 Oct 2026.
+AIDEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spkrbox, Detroit on Sat, 3 Oct 2026.
 
 AIDEL is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Spkrbox, Detroit on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ AIDEL is a techno and house artist based in United States of America, with 36 gi
 
 Amino, Wax Assassin, we1sman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*

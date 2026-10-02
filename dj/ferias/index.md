@@ -1,6 +1,6 @@
 # Ferias
 
-Ferias is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Balcon, Montreal on Sat, 3 Oct 2026.
+Ferias is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Balcon, Montreal on Sat, 3 Oct 2026.
 
 Ferias is a house and disco artist based in Canada, with 34 gigs on soundcheck across Detroit, Montreal, New York City and San Francisco/Oakland. Often billed alongside Guthrie, Alina (MTL) and Andie. Next up: Le Balcon, Montreal on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Ferias is a house and disco artist based in Canada, with 34 gigs on soundcheck a
 
 Guthrie, Alina (MTL), Andie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferias/)*

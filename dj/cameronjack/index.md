@@ -1,6 +1,6 @@
 # Cameron Jack
 
-Cameron Jack is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
+Cameron Jack is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
 
 Cameron Jack is a house and deep house artist based in United Kingdom, with 65 gigs on soundcheck across Bali, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Damian Lazarus, Black Coffee and Paul Reynolds. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cameron Jack is a house and deep house artist based in United Kingdom, with 65 g
 
 Damian Lazarus, Black Coffee, Paul Reynolds
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronjack/)*

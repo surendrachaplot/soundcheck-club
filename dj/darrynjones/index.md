@@ -1,6 +1,6 @@
 # Darryn Jones
 
-Darryn Jones is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Darryn Jones is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Darryn Jones is a house and disco artist based in United States of America, with 44 gigs on soundcheck across Antwerp, Auckland, Barcelona and Berlin and 14 more. Often billed alongside Material, Ge-ology and Rich Medina. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Darryn Jones is a house and disco artist based in United States of America, with
 
 Material (1), Ge-ology, Rich Medina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*

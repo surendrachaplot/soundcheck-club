@@ -1,8 +1,8 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 314 Scholes, New York City on Fri, 2 Oct 2026.
+Samuel Moriero (2) is a Techno and Industrial artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 314 Scholes, New York City on Fri, 2 Oct 2026.
 
-Samuel Moriero is a techno and trance artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Onlynumbers, Restricted and ASLO. Next up: 314 Scholes, New York City on Fri 2 Oct.
+Samuel Moriero is a techno and industrial artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Onlynumbers, Restricted and ASLO. Next up: 314 Scholes, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and trance artist based in Italy, with 26 gigs on sou
 
 Onlynumbers, Restricted, ASLO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

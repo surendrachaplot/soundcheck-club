@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Casale Dell'Arte, Sicily on Fri, 2 Oct 2026.
+Brasi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Il Casale Dell'Arte, Sicily on Fri, 2 Oct 2026.
 
 Brasi is a techno and house artist based in Italy, with 137 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 33 more. Often billed alongside Niff, Jane Fitz and Alexia Glensy. Next up: TBA - Il Casale Dell'Arte, Sicily on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Brasi is a techno and house artist based in Italy, with 137 gigs on soundcheck a
 
 Niff, Jane Fitz, Alexia Glensy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

@@ -1,6 +1,6 @@
 # Moodena
 
-Moodena is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
+Moodena is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
 
 Moodena is a disco and house artist, with 30 gigs on soundcheck across Brighton, Dublin, Düsseldorf and Galway and 6 more. Often billed alongside Clint H, Dave Lee and Jaegerossa. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Moodena is a disco and house artist, with 30 gigs on soundcheck across Brighton,
 
 Clint H, Dave Lee, Jaegerossa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodena/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodena/)*

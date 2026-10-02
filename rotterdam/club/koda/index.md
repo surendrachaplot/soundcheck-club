@@ -1,6 +1,6 @@
 # Koda
 
-Koda is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Daydreaming with Nuria & Stervelingen" on Sun, 4 Oct 2026.
+Koda is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Daydreaming with Nuria & Stervelingen" on Sun, 4 Oct 2026.
 
 Koda is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Makkersstraat 11, Schiedam.
 
@@ -15,4 +15,4 @@ Koda is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs. See da
 
 Makkersstraat 11, Schiedam, Rotterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/koda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/koda/)*

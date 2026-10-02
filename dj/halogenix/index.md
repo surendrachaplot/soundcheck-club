@@ -1,6 +1,6 @@
 # Halogenix
 
-Halogenix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Halogenix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Halogenix is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Basel and Birmingham and 22 more. Often billed alongside SP:MC, Skeptical and Workforce. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Halogenix is a drum & bass and jungle artist based in United Kingdom, with 56 gi
 
 SP:MC, Skeptical, Workforce
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*

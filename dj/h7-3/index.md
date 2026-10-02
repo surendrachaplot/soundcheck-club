@@ -1,6 +1,6 @@
 # H7 (3)
 
-H7 (3) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+H7 (3) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 H7 is a techno and tech house artist based in France, with 33 gigs on soundcheck across Berlin. Often billed alongside Blck-Swan, The Kiss and Benua. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ H7 is a techno and tech house artist based in France, with 33 gigs on soundcheck
 
 Blck-Swan, The Kiss, Benua
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*

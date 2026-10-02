@@ -1,6 +1,6 @@
 # The Magician
 
-The Magician is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BCM, Mallorca on Sat, 3 Oct 2026.
+The Magician is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BCM, Mallorca on Sat, 3 Oct 2026.
 
 The Magician is a house and disco artist based in Belgium, with 45 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 13 more. Often billed alongside A-Trak, Martin Garrix and HAI-LIFE. Next up: BCM, Mallorca on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ The Magician is a house and disco artist based in Belgium, with 45 gigs on sound
 
 A-Trak, Martin Garrix, HAI-LIFE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themagician/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themagician/)*

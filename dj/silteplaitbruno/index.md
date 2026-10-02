@@ -1,6 +1,6 @@
 # S'il Te Plait Bruno
 
-S'il Te Plait Bruno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 9 Oct 2026.
+S'il Te Plait Bruno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 9 Oct 2026.
 
 S'il Te Plait Bruno is a techno and house artist, with 41 gigs on soundcheck across Paris. Often billed alongside Aeter, Powrtoch and Pontcho. Next up: La Gare / Le Gore, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ S'il Te Plait Bruno is a techno and house artist, with 41 gigs on soundcheck acr
 
 Aeter, Powrtoch, Pontcho
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silteplaitbruno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silteplaitbruno/)*

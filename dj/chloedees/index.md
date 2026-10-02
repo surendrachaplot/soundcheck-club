@@ -1,6 +1,6 @@
 # Chloëdees
 
-Chloëdees is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+Chloëdees is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
 
 Chloëdees is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across London, Los Angeles and New York City. Often billed alongside Damar Davis, Aaron Paar and Ashley Younniä. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Chloëdees is a house and disco artist based in United Kingdom, with 39 gigs on 
 
 Damar Davis, Aaron Paar, Ashley Younniä
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloedees/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloedees/)*

@@ -1,6 +1,6 @@
 # Anna Kost
 
-Anna Kost is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Haus73, Hamburg on Sat, 10 Oct 2026.
+Anna Kost is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Haus73, Hamburg on Sat, 10 Oct 2026.
 
 Anna Kost is a techno and house artist, with 25 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 4 more. Often billed alongside Toni Dextor, Guava and Juri Heidemann. Next up: Haus73, Hamburg on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Anna Kost is a techno and house artist, with 25 gigs on soundcheck across Amster
 
 Toni Dextor, Guava, Juri Heidemann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annakost/)*

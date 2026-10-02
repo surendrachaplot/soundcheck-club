@@ -1,6 +1,6 @@
 # Yukke
 
-Yukke is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
+Yukke is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
 
 Yukke is a house and dubstep artist, with 10 gigs on soundcheck across Chugoku, Kyoto, Osaka and Tokyo. Often billed alongside yuitty, Ryogo and droove. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yukke is a house and dubstep artist, with 10 gigs on soundcheck across Chugoku, 
 
 yuitty, Ryogo, droove
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukke/)*

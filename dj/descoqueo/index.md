@@ -1,6 +1,6 @@
 # Descoqueo
 
-Descoqueo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Quinta Las Rosas, Mendoza, Argentina on Sun, 22 Nov 2026.
+Descoqueo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Quinta Las Rosas, Mendoza, Argentina on Sun, 22 Nov 2026.
 
 Descoqueo is a techno and electronica artist, with 6 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 1 more. Often billed alongside KLARENZ, Cambric and Lino Fuso. Next up: TBA - Quinta Las Rosas, Mendoza, Argentina on Sun 22 Nov.
 
@@ -22,4 +22,4 @@ Descoqueo is a techno and electronica artist, with 6 gigs on soundcheck across A
 
 KLARENZ, Cambric, Lino Fuso
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/descoqueo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/descoqueo/)*

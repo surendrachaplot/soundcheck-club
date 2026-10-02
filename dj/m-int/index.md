@@ -1,6 +1,6 @@
 # m-int
 
-m-int is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
+m-int is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
 
 m-int is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside arow, Terax and Hue Ray. Next up: Saloon, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ m-int is a techno and house artist based in Japan, with 37 gigs on soundcheck ac
 
 arow, Terax, Hue Ray
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*

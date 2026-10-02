@@ -1,6 +1,6 @@
 # Citty
 
-Citty is a Trance and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
+Citty is a Trance and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
 
 Citty is a trance and ambient artist based in Czech Republic, with 20 gigs on soundcheck across Berlin and Prague. Often billed alongside Nior, Axis Alpha and Elektrabel. Next up: Ankali & Planeta Za, Prague on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Citty is a trance and ambient artist based in Czech Republic, with 20 gigs on so
 
 Nior, Axis Alpha, Elektrabel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citty/)*

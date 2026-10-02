@@ -1,6 +1,6 @@
 # Mareike Bautz
 
-Mareike Bautz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Mareike Bautz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Mareike Bautz is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mareike Bautz is a techno and trance artist based in Germany, with 109 gigs on s
 
 KLING&KLANG, DJ Primitivo, Justin Tinderdate
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*

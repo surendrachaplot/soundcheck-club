@@ -1,6 +1,6 @@
 # Scotty Cal
 
-Scotty Cal is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Scotty Cal is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Scotty Cal is a house and disco artist based in Australia, with 36 gigs on soundcheck across Bali, Indonesia and Sydney. Often billed alongside Kaiser Waldon, Ben Nott and Jimmy Galvin. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Scotty Cal is a house and disco artist based in Australia, with 36 gigs on sound
 
 Kaiser Waldon, Ben Nott, Jimmy Galvin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*

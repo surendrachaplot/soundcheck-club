@@ -1,8 +1,8 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Luke Dean_ is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Luke Dean_ is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 30 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Luke Dean_ is a house and tech house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 30 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 112 gi
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
@@ -32,4 +33,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 112 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

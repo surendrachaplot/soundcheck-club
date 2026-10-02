@@ -1,6 +1,6 @@
 # ttyfal
 
-ttyfal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Illegaal, Brussels on Sat, 3 Oct 2026.
+ttyfal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
 ttyfal is a techno and house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Fais Le Beau, AGY3NA and Cleo SNK. Next up: Illegaal, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ttyfal is a techno and house artist based in Germany, with 88 gigs on soundcheck
 
 Fais Le Beau, AGY3NA, Cleo SNK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ttyfal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ttyfal/)*

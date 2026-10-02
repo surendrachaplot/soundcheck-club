@@ -1,6 +1,6 @@
 # LA BITCHENCIO
 
-LA BITCHENCIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 3 Oct 2026.
+LA BITCHENCIO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 3 Oct 2026.
 
 LA BITCHENCIO is a house and techno artist based in Chile, with 9 gigs on soundcheck across Berlin. Often billed alongside Anne-Sophie Selig, DJ Paradox and Der olle Kramer. Next up: Bulbul Berlin, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ LA BITCHENCIO is a house and techno artist based in Chile, with 9 gigs on soundc
 
 Anne-Sophie Selig, DJ Paradox, Der olle Kramer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*

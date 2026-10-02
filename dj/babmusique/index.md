@@ -1,6 +1,6 @@
 # BAB MUSIQUE
 
-BAB MUSIQUE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
+BAB MUSIQUE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
 
 BAB MUSIQUE is a house and techno artist based in France, with 20 gigs on soundcheck across Berlin, Bordeaux, Marseille and Paris. Often billed alongside KasbaH, LeLeon and PEPIITA. Next up: Bien Public, Bordeaux on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ BAB MUSIQUE is a house and techno artist based in France, with 20 gigs on soundc
 
 KasbaH, LeLeon, PEPIITA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babmusique/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babmusique/)*

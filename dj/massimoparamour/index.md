@@ -1,6 +1,6 @@
 # Massimo Paramour
 
-Massimo Paramour is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
+Massimo Paramour is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
 
 Massimo Paramour is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, London and Paris. Often billed alongside Feel .MA, Jaycap and Ben Manson. Next up: TBA, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Massimo Paramour is a techno and house artist based in United Kingdom, with 16 g
 
 Feel .MA, Jaycap, Ben Manson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimoparamour/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimoparamour/)*

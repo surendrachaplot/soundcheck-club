@@ -1,6 +1,6 @@
 # Broccoli Effect
 
-Broccoli Effect is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
+Broccoli Effect is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
 
 Broccoli Effect is a house and bass artist, with 14 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Fanaa and Jane Decks. Next up: The Red Rattler, Sydney on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Broccoli Effect is a house and bass artist, with 14 gigs on soundcheck across Sy
 
 Ari Kiko, Fanaa, Jane Decks
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broccolieffect/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broccolieffect/)*

@@ -1,6 +1,6 @@
 # Daniel Steinberg
 
-Daniel Steinberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Daniel Steinberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Daniel Steinberg is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Austria, Barcelona, Berlin and Milan and 1 more. Often billed alongside Kristin Velvet, BB Deng and Nils Ohrmann. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Daniel Steinberg is a house and tech house artist based in Germany, with 13 gigs
 
 Kristin Velvet, BB Deng, Nils Ohrmann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsteinberg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsteinberg/)*

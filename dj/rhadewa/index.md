@@ -1,6 +1,6 @@
 # Rhadewa
 
-Rhadewa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Rhadewa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Rhadewa is a techno and house artist based in Indonesia, with 26 gigs on soundcheck across Tokyo. Often billed alongside Drinkss, SuperUser and Takumi's Afterparty. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rhadewa is a techno and house artist based in Indonesia, with 26 gigs on soundch
 
 Drinkss, SuperUser, Takumi's Afterparty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadewa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadewa/)*

@@ -1,6 +1,6 @@
 # Rote Flora
 
-Rote Flora is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "INTERSECT #2" on Sat, 17 Oct 2026.
+Rote Flora is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "INTERSECT #2" on Sat, 17 Oct 2026.
 
 Rote Flora is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Val Vashar. See dates, start times and who's playing. Achidi John Platz 1; 20357 Hamburg; Germany.
 
@@ -14,4 +14,4 @@ Rote Flora is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, wit
 
 Achidi John Platz 1; 20357 Hamburg; Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/rote-flora/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/rote-flora/)*

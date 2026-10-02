@@ -1,6 +1,6 @@
 # Ujin
 
-Ujin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Ujin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
 
 Ujin is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Dundee, Edinburgh and Nürnberg and 1 more. Often billed alongside Annina, Cyko and Jonaku (DE). Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ujin is a techno and house artist based in Germany, with 29 gigs on soundcheck a
 
 Annina, Cyko, Jonaku (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ujin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ujin/)*

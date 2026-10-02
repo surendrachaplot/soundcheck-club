@@ -1,6 +1,6 @@
 # Tube & Berger
 
-Tube & Berger is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garagen, Cologne on Fri, 2 Oct 2026.
+Tube & Berger is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Garagen, Cologne on Fri, 2 Oct 2026.
 
 Tube & Berger are a house and techno duo based in Germany, with 36 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 12 more. Often billed alongside Juliet Sikora, Felix Kröcher and AKA AKA. Next up: Garagen, Cologne on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Tube & Berger are a house and techno duo based in Germany, with 36 gigs on sound
 
 Juliet Sikora, Felix Kröcher, AKA AKA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tubeberger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tubeberger/)*

@@ -1,6 +1,6 @@
 # Lalo Campo
 
-Lalo Campo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 2 Oct 2026.
+Lalo Campo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 2 Oct 2026.
 
 Lalo Campo is a house and minimal artist, with 36 gigs on soundcheck across Vancouver. Often billed alongside Ev O'Reilly, Paul Franc and Briser Gonzalez. Next up: Gorg-O-Mish, Vancouver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lalo Campo is a house and minimal artist, with 36 gigs on soundcheck across Vanc
 
 Ev O'Reilly, Paul Franc, Briser Gonzalez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalocampo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalocampo/)*

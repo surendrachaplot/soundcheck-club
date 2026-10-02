@@ -1,6 +1,6 @@
 # Darren Tate
 
-Darren Tate is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
+Darren Tate is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
 
 Darren Tate is a progressive house and trance artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Simon Gregory, nümind and Above & Beyond. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Darren Tate is a progressive house and trance artist based in United Kingdom, wi
 
 Simon Gregory, nümind, Above & Beyond
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrentate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrentate/)*

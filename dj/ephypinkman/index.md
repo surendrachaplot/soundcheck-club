@@ -1,6 +1,6 @@
 # Ephy Pinkman
 
-Ephy Pinkman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+Ephy Pinkman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
 Ephy Pinkman is a techno and trance artist based in Germany, with 86 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 10 more. Often billed alongside Polytoxic, Kacy and Zoe Zett. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ephy Pinkman is a techno and trance artist based in Germany, with 86 gigs on sou
 
 Polytoxic, Kacy, Zoe Zett
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*

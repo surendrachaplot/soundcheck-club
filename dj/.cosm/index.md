@@ -1,6 +1,6 @@
 # .cosm
 
-.cosm is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
+.cosm is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
 
 .cosm is a house and electro artist based in United Kingdom, with 30 gigs on soundcheck across Bali, Barcelona, Berlin and Leeds and 3 more. Often billed alongside Nikol, Alex Picone and pekkuliar. Next up: TBA - secret location, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 Nikol, Alex Picone, pekkuliar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.cosm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.cosm/)*

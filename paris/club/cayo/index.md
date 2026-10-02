@@ -1,6 +1,6 @@
 # Cayo
 
-Cayo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hicky & Kalo x PROGRESSIVE PARIS" on Sat, 17 Oct 2026.
+Cayo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Hicky & Kalo x PROGRESSIVE PARIS" on Sat, 17 Oct 2026.
 
 Cayo is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Hicky & Kalo. See dates, start times and who's playing. 9 rue du Chevaleret 75013 Paris.
 
@@ -14,4 +14,4 @@ Cayo is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-u
 
 9 rue du Chevaleret 75013 Paris, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cayo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cayo/)*

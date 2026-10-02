@@ -1,6 +1,6 @@
 # The Bass Injector
 
-The Bass Injector is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
+The Bass Injector is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
 
 The Bass Injector is a jungle and garage artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 4 more. Often billed alongside Janaway, Guido YZ and Mousai. Next up: M.O.T, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ The Bass Injector is a jungle and garage artist based in United Kingdom, with 57
 
 Janaway, Guido YZ, Mousai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebassinjector/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebassinjector/)*

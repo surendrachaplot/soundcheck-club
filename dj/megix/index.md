@@ -1,6 +1,6 @@
 # Megix
 
-Megix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MÄX, Zurich on Sat, 3 Oct 2026.
+Megix is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MÄX, Zurich on Sat, 3 Oct 2026.
 
 Megix is a techno and industrial artist based in Switzerland, with 86 gigs on soundcheck across Basel, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside CAERMI, Galopp and dasstudach. Next up: MÄX, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Megix is a techno and industrial artist based in Switzerland, with 86 gigs on so
 
 CAERMI, Galopp, dasstudach
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*

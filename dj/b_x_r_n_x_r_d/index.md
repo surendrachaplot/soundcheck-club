@@ -1,6 +1,6 @@
 # B_X_R_N_X_R_D
 
-B_X_R_N_X_R_D is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Pennsylvania on Sat, 10 Oct 2026.
+B_X_R_N_X_R_D is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Pennsylvania on Sat, 10 Oct 2026.
 
 B_X_R_N_X_R_D is a techno and club artist based in United States of America, with 31 gigs on soundcheck across Detroit, Los Angeles, Pennsylvania and Portland and 1 more. Often billed alongside STUKES, Diyanna Monet and Jett. Next up: TBA, Pennsylvania on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ B_X_R_N_X_R_D is a techno and club artist based in United States of America, wit
 
 STUKES, Diyanna Monet, Jett
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b_x_r_n_x_r_d/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b_x_r_n_x_r_d/)*

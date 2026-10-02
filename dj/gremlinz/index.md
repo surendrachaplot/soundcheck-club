@@ -1,6 +1,6 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Gremlinz is a drum & bass and jungle artist based in Canada, with 45 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Denver and 10 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Gremlinz is a drum & bass and jungle artist based in Canada, with 45 gigs on sou
 
 Jesta, Rumbleton, Rhythmo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*

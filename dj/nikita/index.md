@@ -1,6 +1,6 @@
 # Nikita
 
-Nikita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
+Nikita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
 
 Nikita is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 13 more. Often billed alongside Ray Zuniga, SVS and Vivian Wang. Next up: Hotel Via, San Francisco/Oakland on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Nikita is a house and techno artist based in United States of America, with 81 g
 
 Ray Zuniga, SVS (1), Vivian Wang
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*

@@ -1,8 +1,8 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unité.22, Marseille on Sat, 3 Oct 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unité.22, Marseille on Sat, 3 Oct 2026.
 
-Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Unité.22, Marseille on Sat 3 Oct.
+Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Unité.22, Marseille on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 | Fri, 30 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
+| Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -32,4 +33,4 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

@@ -1,6 +1,6 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+ENGALANAN is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 ENGALANAN is a techno and club artist based in Spain, with 71 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Twang. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ ENGALANAN is a techno and club artist based in Spain, with 71 gigs on soundcheck
 
 softchaos, M8NSE, Twang
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*

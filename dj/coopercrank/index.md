@@ -1,6 +1,6 @@
 # COOPER CRANK
 
-COOPER CRANK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
+COOPER CRANK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
 
 COOPER CRANK is a techno and house artist, with 8 gigs on soundcheck across Detroit. Often billed alongside DJ DARIA, clairvoyant and DJ Good Evening. Next up: Marble Bar, Detroit on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ COOPER CRANK is a techno and house artist, with 8 gigs on soundcheck across Detr
 
 DJ DARIA, clairvoyant, DJ Good Evening
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coopercrank/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coopercrank/)*

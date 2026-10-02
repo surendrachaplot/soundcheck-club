@@ -1,6 +1,6 @@
 # Robert PM
 
-Robert PM is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Departamento, Mexico City on Fri, 2 Oct 2026.
+Robert PM is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Departamento, Mexico City on Fri, 2 Oct 2026.
 
 Robert PM is a house and disco artist based in United States of America, with 14 gigs on soundcheck across Berlin, Mexico City and New York City. Often billed alongside Borbón, Dee Diggs and HunnyBunny. Next up: Departamento, Mexico City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Robert PM is a house and disco artist based in United States of America, with 14
 
 Borbón, Dee Diggs, HunnyBunny
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpm/)*

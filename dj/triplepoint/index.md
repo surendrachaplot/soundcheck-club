@@ -1,6 +1,6 @@
 # Triple Point
 
-Triple Point is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Triple Point is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
 Triple Point is a jungle and breakbeat artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Yasmine (UK), Rebekah Abdeen and Denham Audio. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Triple Point is a jungle and breakbeat artist based in United Kingdom, with 13 g
 
 Yasmine (UK), Rebekah Abdeen, Denham Audio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triplepoint/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triplepoint/)*

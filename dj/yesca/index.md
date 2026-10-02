@@ -1,6 +1,6 @@
 # Yesca
 
-Yesca is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Sat, 3 Oct 2026.
+Yesca is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Sat, 3 Oct 2026.
 
 Yesca is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Copenhagen, Glasgow and London and 1 more. Often billed alongside Dan be, McCart and FROSKI. Next up: radial, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Yesca is a house and techno artist based in United Kingdom, with 23 gigs on soun
 
 Dan be, McCart, FROSKI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesca/)*

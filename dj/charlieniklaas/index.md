@@ -1,6 +1,6 @@
 # Charlie Niklaas
 
-Charlie Niklaas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Bêtises, Paris on Fri, 2 Oct 2026.
+Charlie Niklaas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Bêtises, Paris on Fri, 2 Oct 2026.
 
 Charlie Niklaas is a house and tech house artist based in Mexico, with 8 gigs on soundcheck across Paris. Often billed alongside Alea Cosme, T-noux and Nomade 130. Next up: Les Bêtises, Paris on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Charlie Niklaas is a house and tech house artist based in Mexico, with 8 gigs on
 
 Alea Cosme, T-noux, Nomade 130
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieniklaas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieniklaas/)*

@@ -1,8 +1,8 @@
 # Laura Meester
 
-Laura Meester is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
+Laura Meester is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-Laura Meester is a house and disco artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 2 more. Often billed alongside Tonno Disko, Boris Coelman and Kyra Khaldi. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
+Laura Meester is a house and disco artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 2 more. Often billed alongside Tonno Disko, Boris Coelman and Kyra Khaldi. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Laura Meester is a house and disco artist based in Netherlands, with 106 gigs on
 | Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Fri, 23 Oct 2026 | Radio Radio | Amsterdam |
+| Sat, 24 Oct 2026 | Huis van Iemand Anders | Amsterdam |
 | Sat, 14 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
@@ -32,4 +33,4 @@ Laura Meester is a house and disco artist based in Netherlands, with 106 gigs on
 
 Tonno Disko, Boris Coelman, Kyra Khaldi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurameester/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurameester/)*

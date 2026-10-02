@@ -1,6 +1,6 @@
 # PAX
 
-PAX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Droowning, Guangzhou on Sat, 3 Oct 2026.
+PAX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Droowning, Guangzhou on Sat, 3 Oct 2026.
 
 PAX is a house and tech house artist, with 15 gigs on soundcheck across Amsterdam, Guangzhou, Liverpool and London and 3 more. Often billed alongside CONR, Kayley Harriet and Ryan Spicer. Next up: Club Droowning, Guangzhou on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ PAX is a house and tech house artist, with 15 gigs on soundcheck across Amsterda
 
 CONR, Kayley Harriet, Ryan Spicer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pax/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pax/)*

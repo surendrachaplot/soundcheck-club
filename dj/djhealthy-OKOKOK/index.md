@@ -1,6 +1,6 @@
 # DJ Healthy (OKOKOK)
 
-DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
+DJ Healthy (OKOKOK) is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saloon, Tokyo on Fri, 9 Oct 2026.
 
 DJ Healthy (OKOKOK) is a house and experimental artist based in China, with 9 gigs on soundcheck across Berlin, Leipzig, Los Angeles and New York City and 1 more. Often billed alongside 131bpm, 2FARO and 7e. Next up: Saloon, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Healthy (OKOKOK) is a house and experimental artist based in China, with 9 gi
 
 131bpm, 2FARO, 7e
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy-OKOKOK/)*

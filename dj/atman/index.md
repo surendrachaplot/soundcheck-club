@@ -1,6 +1,6 @@
 # Atman
 
-Atman is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 16 Oct 2026.
+Atman is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 7833 Soundlab, Barcelona on Fri, 16 Oct 2026.
 
 Atman is a house and progressive house artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside ÜNAM, Mutul and ARCK. Next up: 7833 Soundlab, Barcelona on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Atman is a house and progressive house artist, with 6 gigs on soundcheck across 
 
 ÜNAM, Mutul, ARCK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atman/)*

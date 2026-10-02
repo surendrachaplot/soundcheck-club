@@ -1,6 +1,6 @@
 # Notte Infinita
 
-Notte Infinita is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
+Notte Infinita is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
 
 Notte Infinita is a techno and bass artist based in Italy, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Konduku, Marylou and OK EG. Next up: TBA - Share Date of Event, Seattle on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Notte Infinita is a techno and bass artist based in Italy, with 47 gigs on sound
 
 Konduku, Marylou, OK EG
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*

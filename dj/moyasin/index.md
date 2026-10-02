@@ -1,6 +1,6 @@
 # Mo Yasin
 
-Mo Yasin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
+Mo Yasin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DJ Bar Bridge, Tokyo on Fri, 16 Oct 2026.
 
 Mo Yasin is a house and disco artist based in United States of America, with 36 gigs on soundcheck across Boston, Brussels, Detroit and Leeds and 4 more. Often billed alongside Stonie Blue, JADALAREIGN and CARISTA. Next up: DJ Bar Bridge, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mo Yasin is a house and disco artist based in United States of America, with 36 
 
 Stonie Blue, JADALAREIGN, CARISTA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moyasin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moyasin/)*

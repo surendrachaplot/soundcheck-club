@@ -1,6 +1,6 @@
 # Eran Hersh
 
-Eran Hersh is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Zumana Bali, Bali on Sat, 3 Oct 2026.
+Eran Hersh is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zumana Bali, Bali on Sat, 3 Oct 2026.
 
 Eran Hersh is an afro house and house artist, with 43 gigs on soundcheck across Amsterdam, Bali, Berlin and Düsseldorf and 12 more. Often billed alongside Hugel, Savage & She and Juany Bravo. Next up: Zumana Bali, Bali on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eran Hersh is an afro house and house artist, with 43 gigs on soundcheck across 
 
 Hugel, Savage & She, Juany Bravo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranhersh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranhersh/)*

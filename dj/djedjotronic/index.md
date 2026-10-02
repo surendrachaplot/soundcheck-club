@@ -1,6 +1,6 @@
 # Djedjotronic
 
-Djedjotronic is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klub K4, Ljubljana on Fri, 16 Oct 2026.
+Djedjotronic is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub K4, Ljubljana on Fri, 16 Oct 2026.
 
 Djedjotronic is a techno and ebm artist based in France, with 25 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ljubljana and 7 more. Often billed alongside Kendal, Zaatar and Belaria. Next up: Klub K4, Ljubljana on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Djedjotronic is a techno and ebm artist based in France, with 25 gigs on soundch
 
 Kendal, Zaatar, Belaria
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*

@@ -1,8 +1,8 @@
 # Workshow
 
-Workshow is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DEVIANCE PARIS PRIDE Party + After" on Sat, 3 Oct 2026.
+Workshow is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DEVIANCE PARIS PRIDE Party + After" on Sat, 3 Oct 2026.
 
-Workshow is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 173 rue Saint-Martin, 75003 Paris.
+Workshow is a music venue in Paris listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 173 rue Saint-Martin, 75003 Paris.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Workshow is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See da
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | DEVIANCE PARIS PRIDE Party + After |  |
 | Sat, 31 Oct 2026 | DEVIANCE HORROR PARTY + AFTER |  |
+| Thu, 31 Dec 2026 | DEVIANCE New Year - Party + After - LGBT+ FRIENDLY |  |
 
 ## Address
 
 173 rue Saint-Martin, 75003 Paris, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/workshow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/workshow/)*

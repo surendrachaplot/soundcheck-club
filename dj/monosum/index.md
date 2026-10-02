@@ -1,6 +1,6 @@
 # MONOSUM
 
-MONOSUM is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lavallée, Brussels on Sun, 11 Oct 2026.
+MONOSUM is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lavallée, Brussels on Sun, 11 Oct 2026.
 
 MONOSUM is a dub and bass artist based in United Kingdom, with 3 gigs on soundcheck across Berlin, Bristol and Brussels. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Lavallée, Brussels on Sun 11 Oct.
 
@@ -16,4 +16,4 @@ MONOSUM is a dub and bass artist based in United Kingdom, with 3 gigs on soundch
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monosum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monosum/)*

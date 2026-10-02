@@ -1,6 +1,6 @@
 # Frits Wentink
 
-Frits Wentink is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Récré, Montreal on Fri, 27 Nov 2026.
+Frits Wentink is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Récré, Montreal on Fri, 27 Nov 2026.
 
 Frits Wentink is a house and acid artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Serge, Ben Diggins and Infinite Pleasure. Next up: La Récré, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Frits Wentink is a house and acid artist, with 15 gigs on soundcheck across Amst
 
 Serge, Ben Diggins, Infinite Pleasure
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*

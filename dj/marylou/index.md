@@ -1,6 +1,6 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
+Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
 Marylou is an experimental and club artist based in France, with 109 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Marylou is an experimental and club artist based in France, with 109 gigs on sou
 
 ophélie, Darwin, Marco Shuttle
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

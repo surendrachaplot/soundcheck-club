@@ -1,6 +1,6 @@
 # Be Lion
 
-Be Lion is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow House, Amsterdam on Fri, 2 Oct 2026.
+Be Lion is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow House, Amsterdam on Fri, 2 Oct 2026.
 
 Be Lion is a tech house and minimal artist, with 11 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Ìngryd Gobbo, Hris East and Sanne Dammers. Next up: Yellow House, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Be Lion is a tech house and minimal artist, with 11 gigs on soundcheck across Am
 
 Ìngryd Gobbo, Hris East, Sanne Dammers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*

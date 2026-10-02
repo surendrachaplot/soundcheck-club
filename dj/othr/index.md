@@ -1,6 +1,6 @@
 # OTHR
 
-OTHR is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+OTHR is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 OTHR is a techno and ebm artist based in Georgia, with 66 gigs on soundcheck across Barcelona, Berlin, Madrid and Paris and 2 more. Often billed alongside Ancient Methods, Vulkanski and Knaughty. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OTHR is a techno and ebm artist based in Georgia, with 66 gigs on soundcheck acr
 
 Ancient Methods, Vulkanski, Knaughty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/othr/)*

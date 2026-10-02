@@ -1,6 +1,6 @@
 # Abisai
 
-Abisai is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
+Abisai is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
 Abisai is a techno and minimal techno artist based in United States of America, with 8 gigs on soundcheck across Chicago. Often billed alongside Valentina Cappellari, 1morning and Brenda. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Abisai is a techno and minimal techno artist based in United States of America, 
 
 Valentina Cappellari, 1morning, Brenda
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*

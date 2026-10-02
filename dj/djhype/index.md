@@ -1,6 +1,6 @@
 # DJ Hype
 
-DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Bikini, South-west on Fri, 2 Oct 2026.
+DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Bikini, South-west on Fri, 2 Oct 2026.
 
 DJ Hype is a jungle and drum & bass artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 19 more. Often billed alongside IC3, Nicky Blackmarket and Kenny Ken. Next up: Le Bikini, South West on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ DJ Hype is a jungle and drum & bass artist based in United Kingdom, with 81 gigs
 
 IC3, Nicky Blackmarket, Kenny Ken
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*

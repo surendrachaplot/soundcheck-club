@@ -1,6 +1,6 @@
 # ysheso__
 
-ysheso__ is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+ysheso__ is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 ysheso__ is a house and breakbeat artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 4 more. Often billed alongside Shaolin Cowboy, Target Demographic and BEARCAT. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ ysheso__ is a house and breakbeat artist based in United States of America, with
 
 Shaolin Cowboy, Target Demographic, BEARCAT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*

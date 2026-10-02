@@ -1,6 +1,6 @@
 # Max Daley
 
-Max Daley is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 2 Oct 2026.
+Max Daley is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 2 Oct 2026.
 
 Max Daley is a funk / soul and jazz artist based in United States of America, with 28 gigs on soundcheck across Detroit. Often billed alongside Eric Schwab, Charles Trees and Ryan Spencer. Next up: Traverse City Whiskey Co. Outpost, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Max Daley is a funk / soul and jazz artist based in United States of America, wi
 
 Eric Schwab, Charles Trees, Ryan Spencer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdaley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdaley/)*

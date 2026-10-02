@@ -1,8 +1,8 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Smoke & Mirrors, Chicago on Thu, 8 Oct 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Thu, 8 Oct 2026.
 
-Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 86 gigs on soundcheck across Antwerp, Auckland, Austin and Berlin and 31 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Smoke & Mirrors, Chicago on Thu 8 Oct.
+Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 87 gigs on soundcheck across Antwerp, Arkansas, Auckland and Austin and 32 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Smoke & Mirrors, Chicago on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 86 gigs o
 | Sun, 11 Oct 2026 | Le Belmont | Montreal |
 | Thu, 15 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Thu, 22 Oct 2026 | The Momentary | Arkansas |
 | Sat, 24 Oct 2026 | Public Works | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Kavka Oudaan | Antwerp |
 | Sat, 14 Nov 2026 | Kassa Boat | Budapest |
@@ -35,4 +36,4 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 86 gigs o
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

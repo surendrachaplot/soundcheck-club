@@ -1,6 +1,6 @@
 # MoodFreak
 
-MoodFreak is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
+MoodFreak is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
 
 MoodFreak is a progressive house and techno artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin and Leipzig. Often billed alongside Michael Ritter, Mike Koglin and Wiebe Roose. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MoodFreak is a progressive house and techno artist based in Germany, with 14 gig
 
 Michael Ritter, Mike Koglin, Wiebe Roose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodfreak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodfreak/)*

@@ -1,6 +1,6 @@
 # RAHA
 
-RAHA is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tomodachi, Ibiza on Fri, 2 Oct 2026.
+RAHA is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tomodachi, Ibiza on Fri, 2 Oct 2026.
 
 RAHA is a minimal and house artist based in Japan, with 42 gigs on soundcheck across Berlin, Bucharest, Ibiza and Kyoto and 2 more. Often billed alongside monielu.h, Ariaray and Machiko. Next up: Tomodachi, Ibiza on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ RAHA is a minimal and house artist based in Japan, with 42 gigs on soundcheck ac
 
 monielu.h, Ariaray, Machiko
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*

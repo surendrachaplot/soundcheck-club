@@ -1,6 +1,6 @@
 # Bekka
 
-Bekka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
+Bekka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
 
 Bekka is a house and techno artist, with 29 gigs on soundcheck across Berlin and Hamburg. Often billed alongside - C2C -, Bruder Jakob and Handwerk. Next up: Cassiopeia, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bekka is a house and techno artist, with 29 gigs on soundcheck across Berlin and
 
 - C2C -, Bruder Jakob, Handwerk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekka/)*

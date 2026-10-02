@@ -1,6 +1,6 @@
 # Hofmann (BE)
 
-Hofmann (BE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
+Hofmann (BE) is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rest Favignana, Sicily on Fri, 16 Oct 2026.
 
 Hofmann (BE) is an electronic artist, with 12 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Yela, Daan Donk and Ada Kaleh. Next up: Rest Favignana, Sicily on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Hofmann (BE) is an electronic artist, with 12 gigs on soundcheck across Amsterda
 
 Yela, Daan Donk, Ada Kaleh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmannbe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmannbe/)*

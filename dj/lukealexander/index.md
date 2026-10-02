@@ -1,6 +1,6 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Nightclub, Seattle on Fri, 2 Oct 2026.
+Luke Alexander is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Nightclub, Seattle on Fri, 2 Oct 2026.
 
 Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Q Nightclub, Seattle on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

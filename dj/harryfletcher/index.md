@@ -1,6 +1,6 @@
 # Harry Fletcher
 
-Harry Fletcher is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Thu, 15 Oct 2026.
+Harry Fletcher is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Thu, 15 Oct 2026.
 
 Harry Fletcher is a house and deep house artist, with 21 gigs on soundcheck across New York City and Osaka. Often billed alongside Jared Maharaj, Ali Coleman and Asha Jasz. Next up: Mood Ring, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Harry Fletcher is a house and deep house artist, with 21 gigs on soundcheck acro
 
 Jared Maharaj, Ali Coleman, Asha Jasz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*

@@ -1,6 +1,6 @@
 # Cosmic JD
 
-Cosmic JD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Système, Montreal on Sun, 4 Oct 2026.
+Cosmic JD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Sun, 4 Oct 2026.
 
 Cosmic JD is a techno and house artist, with 86 gigs on soundcheck across Bangkok, Barcelona, Berlin and Dublin and 13 more. Often billed alongside Alex Picone, DJ Zenta and Desyn. Next up: Système, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Cosmic JD is a techno and house artist, with 86 gigs on soundcheck across Bangko
 
 Alex Picone, DJ Zenta, Desyn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicjd/)*

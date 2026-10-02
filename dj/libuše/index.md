@@ -1,6 +1,6 @@
 # Libuše
 
-Libuše is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Glob, Denver on Sat, 24 Oct 2026.
+Libuše is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glob, Denver on Sat, 24 Oct 2026.
 
 Libuše is a jungle and techno artist based in United States of America, with 9 gigs on soundcheck across Denver and New York City. Often billed alongside Bored Lord, A1C3 and Alala.One. Next up: Glob, Denver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Libuše is a jungle and techno artist based in United States of America, with 9 
 
 Bored Lord, A1C3, Alala.One
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libuše/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libuše/)*

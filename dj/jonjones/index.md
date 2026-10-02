@@ -1,6 +1,6 @@
 # Jon Jones
 
-Jon Jones is a Balearic and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Jon Jones is a Balearic and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Jon Jones is a balearic and tech house artist, with 13 gigs on soundcheck across Brighton, Melbourne and Victoria. Often billed alongside Hannah D, Dawn Again and Emelexy. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jon Jones is a balearic and tech house artist, with 13 gigs on soundcheck across
 
 Hannah D, Dawn Again, Emelexy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonjones/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonjones/)*

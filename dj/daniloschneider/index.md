@@ -1,6 +1,6 @@
 # Danilo Schneider
 
-Danilo Schneider is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Minimal Bar, Berlin on Sat, 14 Nov 2026.
+Danilo Schneider is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Minimal Bar, Berlin on Sat, 14 Nov 2026.
 
 Danilo Schneider is a minimal and house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Utip, Eveline Fink and BRYZ. Next up: Minimal Bar, Berlin on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Danilo Schneider is a minimal and house artist based in Germany, with 7 gigs on 
 
 Utip, Eveline Fink, BRYZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloschneider/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloschneider/)*

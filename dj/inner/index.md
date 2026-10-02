@@ -1,6 +1,6 @@
 # Inner
 
-Inner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club der Visionaere, Berlin on Fri, 2 Oct 2026.
+Inner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club der Visionaere, Berlin on Fri, 2 Oct 2026.
 
 Inner is a techno and house artist, with 32 gigs on soundcheck across Berlin, Bucharest, Buenos Aires and Milan and 1 more. Often billed alongside Clovis, Elli.on and Fanfarrosa. Next up: Club der Visionaere, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Inner is a techno and house artist, with 32 gigs on soundcheck across Berlin, Bu
 
 Clovis, Elli.on, Fanfarrosa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inner/)*

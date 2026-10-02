@@ -1,6 +1,6 @@
 # Orphx
 
-Orphx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Hamilton on Fri, 2 Oct 2026.
+Orphx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Hamilton on Fri, 2 Oct 2026.
 
 Orphx is a techno and industrial artist, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 16 more. Often billed alongside Adam X, Ancient Methods and Regis. Next up: TBA, Hamilton on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Orphx is a techno and industrial artist, with 34 gigs on soundcheck across Amste
 
 Adam X, Ancient Methods, Regis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orphx/)*

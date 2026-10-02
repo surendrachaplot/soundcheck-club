@@ -1,6 +1,6 @@
 # Disco Paese
 
-Disco Paese is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plantation, Paris on Fri, 2 Oct 2026.
+Disco Paese is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plantation, Paris on Fri, 2 Oct 2026.
 
 Disco Paese is a house and disco artist based in France, with 9 gigs on soundcheck across Lyon, Milan and Paris. Often billed alongside Petru Misher, Funkastle and Blanco. Next up: Plantation, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Disco Paese is a house and disco artist based in France, with 9 gigs on soundche
 
 Petru Misher, Funkastle, Blanco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discopaese/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discopaese/)*

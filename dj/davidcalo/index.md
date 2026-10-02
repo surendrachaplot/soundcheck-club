@@ -1,6 +1,6 @@
 # David Calo
 
-David Calo is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at berlinClub, Madrid on Sun, 11 Oct 2026.
+David Calo is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at berlinClub, Madrid on Sun, 11 Oct 2026.
 
 David Calo is a progressive house and techno artist, with 8 gigs on soundcheck across Buenos Aires and Madrid. Often billed alongside Dunkel Dame, FedeFink and Inner. Next up: berlinClub, Madrid on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ David Calo is a progressive house and techno artist, with 8 gigs on soundcheck a
 
 Dunkel Dame, FedeFink, Inner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcalo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcalo/)*

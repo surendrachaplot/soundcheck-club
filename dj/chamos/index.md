@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mansion Nightclub, Vancouver on Fri, 23 Oct 2026.
+CHAMOS is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mansion Nightclub, Vancouver on Fri, 23 Oct 2026.
 
 CHAMOS is a club and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Anish Kumar, Arthi and Bardia Ghobadi. Next up: Mansion Nightclub, Vancouver on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ CHAMOS is a club and house artist based in Netherlands, with 29 gigs on soundche
 
 Anish Kumar, Arthi, Bardia Ghobadi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

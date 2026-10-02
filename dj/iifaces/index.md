@@ -1,6 +1,6 @@
 # II FACES
 
-II FACES is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 2 Oct 2026.
+II FACES is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 II FACES is a house and tech house artist based in France, with 42 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ibiza and 7 more. Often billed alongside CHRIS STASSY, Matteo Diop and Marco Carola. Next up: Pacha Ibiza, Ibiza on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ II FACES is a house and tech house artist based in France, with 42 gigs on sound
 
 CHRIS STASSY, Matteo Diop, Marco Carola
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iifaces/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iifaces/)*

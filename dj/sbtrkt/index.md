@@ -1,6 +1,6 @@
 # SBTRKT
 
-SBTRKT is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
+SBTRKT is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
 
 SBTRKT is an electronica and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: Lanificio 159, Rome on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ SBTRKT is an electronica and house artist based in United Kingdom, with 46 gigs 
 
 Dixon, Little Dragon, Marcel Dettmann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*

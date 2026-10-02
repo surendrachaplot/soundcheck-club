@@ -1,6 +1,6 @@
 # Daniel Darkhofer
 
-Daniel Darkhofer is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Loop, Vienna on Sat, 3 Oct 2026.
+Daniel Darkhofer is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loop, Vienna on Sat, 3 Oct 2026.
 
 Daniel Darkhofer is a progressive house and electronica artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Edictum, Fede Frostl and Enoltra. Next up: Loop, Vienna on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Daniel Darkhofer is a progressive house and electronica artist based in Austria,
 
 Edictum, Fede Frostl, Enoltra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldarkhofer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldarkhofer/)*

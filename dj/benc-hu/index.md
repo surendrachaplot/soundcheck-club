@@ -1,6 +1,6 @@
 # Benc
 
-Benc is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gólya Presszó, Budapest on Fri, 13 Nov 2026.
+Benc is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gólya Presszó, Budapest on Fri, 13 Nov 2026.
 
 Benc is a jungle and drum & bass artist based in Hungary, with 19 gigs on soundcheck across Budapest and Vienna. Often billed alongside Mentalien, Aikatherina and Andre S.. Next up: Gólya Presszó, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Benc is a jungle and drum & bass artist based in Hungary, with 19 gigs on soundc
 
 Mentalien, Aikatherina, Andre S.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benc-hu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benc-hu/)*

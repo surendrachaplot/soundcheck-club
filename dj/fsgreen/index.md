@@ -1,6 +1,6 @@
 # FS Green
 
-FS Green is a Hip-Hop and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Magno, Madrid on Thu, 19 Nov 2026.
+FS Green is a Hip-Hop and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Magno, Madrid on Thu, 19 Nov 2026.
 
 FS Green is a hip-hop and dancehall artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Chicago and 13 more. Often billed alongside Jarreau Vandal, Arthi and Tiffany Calver. Next up: Club Magno, Madrid on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ FS Green is a hip-hop and dancehall artist based in Netherlands, with 51 gigs on
 
 Jarreau Vandal, Arthi, Tiffany Calver
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*

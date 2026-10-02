@@ -1,6 +1,6 @@
 # Zénith Paris - La Villette
 
-Zénith Paris - La Villette is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mosimann" on Sun, 18 Oct 2026.
+Zénith Paris - La Villette is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Mosimann" on Sun, 18 Oct 2026.
 
 Zénith Paris - La Villette is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Chase & Status and Mosimann. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris, France.
 
@@ -15,4 +15,4 @@ Zénith Paris - La Villette is a music venue in Paris listed on soundcheck. 2 up
 
 211 avenue Jean Jaurès; 75019; Paris, France, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/z-nith-paris-la-villette/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/z-nith-paris-la-villette/)*

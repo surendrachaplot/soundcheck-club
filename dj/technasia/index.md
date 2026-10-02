@@ -1,6 +1,6 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
+Technasia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
 
 Technasia is a tech house and house artist based in France, with 50 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 15 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Ritter Butzke, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Technasia is a tech house and house artist based in France, with 50 gigs on soun
 
 Lexlay, Carlo Lio, Dub Tiger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*

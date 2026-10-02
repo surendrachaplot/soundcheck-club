@@ -1,6 +1,6 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Allyship" on Fri, 2 Oct 2026.
+Hafenklang is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Allyship" on Fri, 2 Oct 2026.
 
 Hafenklang is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including beccs, DJ Babyblade, Erik Bruns and Ian Pilosa and 2 more. See dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
@@ -17,4 +17,4 @@ Hafenklang is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, wi
 
 Große Elbstrasse 84; 22767 Hamburg; Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*

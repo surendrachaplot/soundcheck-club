@@ -1,6 +1,6 @@
 # Monolink
 
-Monolink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
+Monolink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
 
 Monolink is a techno and house artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Vintage Culture, Bedouin and Carlita. Next up: Santa Monica Pier, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Monolink is a techno and house artist based in Germany, with 82 gigs on soundche
 
 Vintage Culture, Bedouin, Carlita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*

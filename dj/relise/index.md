@@ -1,6 +1,6 @@
 # r:elise
 
-r:elise is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ballroom at Palais, London on Sat, 10 Oct 2026.
+r:elise is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ballroom at Palais, London on Sat, 10 Oct 2026.
 
 r:elise is a trance and progressive house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside ASHTREY, Elkka and DJ AYA. Next up: Ballroom at Palais, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ r:elise is a trance and progressive house artist based in United Kingdom, with 7
 
 ASHTREY, Elkka, DJ AYA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*

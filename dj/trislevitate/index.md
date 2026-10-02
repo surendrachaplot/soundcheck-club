@@ -1,6 +1,6 @@
 # Tris Levitate
 
-Tris Levitate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Lower Third, London on Sat, 28 Nov 2026.
+Tris Levitate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Lower Third, London on Sat, 28 Nov 2026.
 
 Tris Levitate is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Carina Lawrence, Jesabel and Sahar. Next up: The Lower Third, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tris Levitate is a techno and house artist based in United Kingdom, with 10 gigs
 
 Carina Lawrence, Jesabel, Sahar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trislevitate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trislevitate/)*

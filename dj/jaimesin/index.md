@@ -1,6 +1,6 @@
 # Jaime Sin
 
-Jaime Sin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
+Jaime Sin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
 
 Jaime Sin is a house and club artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside Prince Josh, OMG.BLOG and Young Teesh. Next up: Osler Records, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jaime Sin is a house and club artist based in Canada, with 13 gigs on soundcheck
 
 Prince Josh, OMG.BLOG, Young Teesh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimesin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimesin/)*

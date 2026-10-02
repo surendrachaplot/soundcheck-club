@@ -1,6 +1,6 @@
 # lenox
 
-lenox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+lenox is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 lenox is a house and techno artist based in Germany, with 7 gigs on soundcheck across Hamburg, New York City and Toronto. Often billed alongside AKIIM, Lenard Klein and SPORTMANN. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ lenox is a house and techno artist based in Germany, with 7 gigs on soundcheck a
 
 AKIIM, Lenard Klein, SPORTMANN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*

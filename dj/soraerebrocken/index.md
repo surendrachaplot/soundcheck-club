@@ -1,6 +1,6 @@
 # Soraere Brocken
 
-Soraere Brocken is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Soraere Brocken is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
 Soraere Brocken is a techno and electro artist based in South Korea, with 84 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Soraere Brocken is a techno and electro artist based in South Korea, with 84 gig
 
 Kuro, Honn, Minehero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soraerebrocken/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soraerebrocken/)*

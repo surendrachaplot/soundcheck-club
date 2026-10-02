@@ -1,6 +1,6 @@
 # Chris Collins
 
-Chris Collins is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 2 Oct 2026.
+Chris Collins is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 2 Oct 2026.
 
 Chris Collins is an amapiano and afrobeat artist based in United States of America, with 11 gigs on soundcheck across London, Madrid and Paris. Often billed alongside Harriet Bella, Adiba and DJ Nate. Next up: La Machine Du Moulin Rouge, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chris Collins is an amapiano and afrobeat artist based in United States of Ameri
 
 Harriet Bella, Adiba, DJ Nate
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscollins/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscollins/)*

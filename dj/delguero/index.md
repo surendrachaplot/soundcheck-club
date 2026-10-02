@@ -1,6 +1,6 @@
 # Delguero
 
-Delguero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
+Delguero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
 
 Delguero is a techno and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam and Kuala Lumpur. Often billed alongside Jayzo, RawB and Alex Sharp. Next up: Melkweg, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Delguero is a techno and house artist based in Netherlands, with 13 gigs on soun
 
 Jayzo, RawB, Alex Sharp
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delguero/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delguero/)*

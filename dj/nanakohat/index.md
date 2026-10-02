@@ -1,6 +1,6 @@
 # Nana Kohat
 
-Nana Kohat is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
+Nana Kohat is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
 
 Nana Kohat is a house and disco artist based in Brazil, with 40 gigs on soundcheck across Berlin, Brazil and Sao Paulo. Often billed alongside Eli Iwasa, Exequiel and From House to Disco. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Nana Kohat is a house and disco artist based in Brazil, with 40 gigs on soundche
 
 Eli Iwasa, Exequiel, From House to Disco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakohat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakohat/)*

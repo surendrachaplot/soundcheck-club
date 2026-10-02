@@ -1,6 +1,6 @@
 # Doktor
 
-Doktor is a Drum & Bass and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Doktor is a Drum & Bass and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Doktor is a drum & bass and afrobeat artist, with 15 gigs on soundcheck across Brighton, Bristol, Istanbul and London and 2 more. Often billed alongside Benny Page, Solah and Unglued. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Doktor is a drum & bass and afrobeat artist, with 15 gigs on soundcheck across B
 
 Benny Page, Solah, Unglued
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doktor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doktor/)*

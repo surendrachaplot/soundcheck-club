@@ -1,6 +1,6 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Fri, 2 Oct 2026.
+Blkvirgo is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafeteria, Toronto on Fri, 2 Oct 2026.
 
 Blkvirgo is a house and deep house artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: Cafeteria, Toronto on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Blkvirgo is a house and deep house artist based in Canada, with 24 gigs on sound
 
 Amedeo (CA), Chinelo, DJ Chris (CA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*

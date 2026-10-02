@@ -1,6 +1,6 @@
 # Jordss
 
-Jordss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
+Jordss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
 
 Jordss is a hip-hop and house artist based in United Kingdom, with 38 gigs on soundcheck across Belfast, Birmingham, Bristol and London and 3 more. Often billed alongside Juls, p-rallel and Charisse C. Next up: Night Tales, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jordss is a hip-hop and house artist based in United Kingdom, with 38 gigs on so
 
 Juls, p-rallel, Charisse C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordss/)*

@@ -1,6 +1,6 @@
 # Stella Stellar
 
-Stella Stellar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Stella Stellar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Stella Stellar is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Einfach Taffo, smeik and AHAB. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Stella Stellar is a techno and house artist based in Germany, with 29 gigs on so
 
 Einfach Taffo, smeik, AHAB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellastellar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellastellar/)*

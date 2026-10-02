@@ -1,6 +1,6 @@
 # DJ ASS TITS
 
-DJ ASS TITS is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
+DJ ASS TITS is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
 
 DJ ASS TITS is a house and techno artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 4 more. Often billed alongside HiHat, DJ Palga and paaradoxx. Next up: Renate, Berlin on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ DJ ASS TITS is a house and techno artist based in Germany, with 60 gigs on sound
 
 HiHat, DJ Palga, paaradoxx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*

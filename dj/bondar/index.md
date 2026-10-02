@@ -1,6 +1,6 @@
 # Bondar
 
-Bondar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bacan Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Bondar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bacan Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Bondar is a house and tech house artist, with 11 gigs on soundcheck across Amsterdam and San Diego. Often billed alongside CJ Posada, Malik Mantra and Nat Siriani. Next up: Bacan Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Bondar is a house and tech house artist, with 11 gigs on soundcheck across Amste
 
 CJ Posada, Malik Mantra, Nat Siriani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondar/)*

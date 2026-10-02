@@ -1,0 +1,20 @@
+# Gaia 6.33 with BIIANCO, future.666, KTK, Supergloss at Kømplex Lisbon
+
+Gaia 6.33 with BIIANCO, future.666, KTK, Supergloss at Kømplex Lisbon on Sun 4 Oct, Lisbon. 6 artists: BIIANCO, FURAVIA, future.666 and KTK (DE) and 2 more. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 4 Oct 2026 |
+| Venue | Kømplex Lisbon |
+| City | Lisbon |
+
+## Line-up
+
+- BIIANCO
+- FURAVIA
+- future.666
+- KTK (DE)
+- ophell
+- Supergloss
+
+*Source: [soundcheck](https://soundcheck.club/e/2551148-gaia-6-33-with-biianco-future-666-ktk-supergloss-at-k-mplex/)*

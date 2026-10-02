@@ -1,6 +1,6 @@
 # Gillielove
 
-Gillielove is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
+Gillielove is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
 
 Gillielove is a bass and experimental artist based in Australia, with 24 gigs on soundcheck across London, Melbourne, Nantes and Paris and 2 more. Often billed alongside Cotton Pills, DJ Plead and Thaïs (FR). Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Gillielove is a bass and experimental artist based in Australia, with 24 gigs on
 
 Cotton Pills, DJ Plead, Thaïs (FR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*

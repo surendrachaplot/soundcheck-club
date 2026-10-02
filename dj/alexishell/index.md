@@ -1,6 +1,6 @@
 # Alexi Shell
 
-Alexi Shell is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
+Alexi Shell is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
 
 Alexi Shell is a techno and club artist based in France, with 26 gigs on soundcheck across London, Manchester, Paris and Strasbourg. Often billed alongside DJ Football, RAG and TTristana. Next up: The White Hotel, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alexi Shell is a techno and club artist based in France, with 26 gigs on soundch
 
 DJ Football, RAG, TTristana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*

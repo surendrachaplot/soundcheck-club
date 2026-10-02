@@ -1,6 +1,6 @@
 # Jean Pierre
 
-Jean Pierre is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Jean Pierre is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Jean Pierre is a tech house and house artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Frankfurt and 19 more. Often billed alongside Jesse Calosso, The Martinez Brothers and Mason Collective. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Jean Pierre is a tech house and house artist based in United States of America, 
 
 Jesse Calosso, The Martinez Brothers, Mason Collective
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*

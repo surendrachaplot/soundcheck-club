@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha New York, New-york-city on Sat, 3 Oct 2026.
+BLOND:ISH is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha New York, New-york-city on Sat, 3 Oct 2026.
 
 BLOND:ISH is a house and techno artist based in Canada, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Boston and 30 more. Often billed alongside Marco Carola, Seth Troxler and Vintage Culture. Next up: Pacha New York, New York City on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ BLOND:ISH is a house and techno artist based in Canada, with 138 gigs on soundch
 
 Marco Carola, Seth Troxler, Vintage Culture
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

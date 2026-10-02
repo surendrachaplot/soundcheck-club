@@ -1,6 +1,6 @@
 # Orson Sinaka
 
-Orson Sinaka is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+Orson Sinaka is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Subcero Club, Madrid on Fri, 9 Oct 2026.
 
 Orson Sinaka is an electronica and house artist based in Spain, with 20 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Cortazar, Almuedo and Hugo Martinez. Next up: Subcero Club, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Orson Sinaka is an electronica and house artist based in Spain, with 20 gigs on 
 
 Cortazar, Almuedo, Hugo Martinez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orsonsinaka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orsonsinaka/)*

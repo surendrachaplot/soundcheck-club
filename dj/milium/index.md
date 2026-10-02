@@ -1,6 +1,6 @@
 # Milium
 
-Milium is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Sat, 3 Oct 2026.
+Milium is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sat, 3 Oct 2026.
 
 Milium is an electro and ebm artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig, Rotterdam and The Hague. Often billed alongside Charlie, DJ Leroy and Jetti. Next up: Paloma, Berlin on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Milium is an electro and ebm artist based in Germany, with 8 gigs on soundcheck 
 
 Charlie, DJ Leroy, Jetti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milium/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milium/)*

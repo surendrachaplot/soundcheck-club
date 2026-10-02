@@ -1,6 +1,6 @@
 # White Rabbit
 
-White Rabbit is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Inner Circle x FAHM Takeover feat. Broad Stokes + møod ring + Malaro" on Thu, 1 Oct 2026.
+White Rabbit is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Inner Circle x FAHM Takeover feat. Broad Stokes + møod ring + Malaro" on Thu, 1 Oct 2026.
 
 White Rabbit is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Mackswell, møod ring and YUKA YU. See dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
 
@@ -15,4 +15,4 @@ White Rabbit is a music venue in San Francisco/Oakland listed on soundcheck. 2 u
 
 3138 Fillmore St, San Francisco, CA 94123, United States, San Francisco/Oakland
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-rabbit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-rabbit/)*

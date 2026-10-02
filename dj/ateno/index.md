@@ -1,6 +1,6 @@
 # Aténo
 
-Aténo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
+Aténo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
 
 Aténo is a house and techno artist based in Austria, with 6 gigs on soundcheck across Berlin, Frankfurt, Munich and Stockholm and 1 more. Often billed alongside Pascal Fischer, Anaté and Anja Schneider. Next up: OXI, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Aténo is a house and techno artist based in Austria, with 6 gigs on soundcheck 
 
 Pascal Fischer, Anaté, Anja Schneider
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ateno/)*

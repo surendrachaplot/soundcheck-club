@@ -1,6 +1,6 @@
 # Paul Wolf
 
-Paul Wolf is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Fri, 2 Oct 2026.
+Paul Wolf is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Fri, 2 Oct 2026.
 
 Paul Wolf is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Bremen and Cologne. Often billed alongside monervo, Holy Priest and Mark Dekoda. Next up: OST, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Paul Wolf is a techno and trance artist based in Germany, with 38 gigs on soundc
 
 monervo, Holy Priest, Mark Dekoda
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*

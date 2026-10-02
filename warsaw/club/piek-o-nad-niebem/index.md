@@ -1,6 +1,6 @@
 # Piekło nad Niebem
 
-Piekło nad Niebem is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FOREVER RAVERS" on Fri, 2 Oct 2026.
+Piekło nad Niebem is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "FOREVER RAVERS" on Fri, 2 Oct 2026.
 
 Piekło nad Niebem is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. ul. Nowy Świat, 21, Warsaw, Poland.
 
@@ -14,4 +14,4 @@ Piekło nad Niebem is a music venue in Warsaw listed on soundcheck. 1 upcoming g
 
 ul. Nowy Świat, 21, Warsaw, Poland, Warsaw
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/piek-o-nad-niebem/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/piek-o-nad-niebem/)*

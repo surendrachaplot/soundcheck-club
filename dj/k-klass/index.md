@@ -1,6 +1,6 @@
 # K-Klass
 
-K-Klass is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Freeze HiFi, Liverpool on Sat, 10 Oct 2026.
+K-Klass is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Freeze HiFi, Liverpool on Sat, 10 Oct 2026.
 
 K-Klass is a house and club artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Birmingham, Bristol and Glasgow and 8 more. Often billed alongside Todd Terry, Graeme Park and Seb Fontaine. Next up: Freeze HiFi, Liverpool on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ K-Klass is a house and club artist based in United Kingdom, with 56 gigs on soun
 
 Todd Terry, Graeme Park, Seb Fontaine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*

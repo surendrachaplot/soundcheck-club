@@ -1,6 +1,6 @@
 # mae.ly
 
-mae.ly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
+mae.ly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
 
 mae.ly is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin and Cologne. Often billed alongside FORKLYFTER, Bélavie and FLACCO. Next up: Artheater, Cologne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ mae.ly is a techno and house artist based in Germany, with 14 gigs on soundcheck
 
 FORKLYFTER, Bélavie, FLACCO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mae.ly/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mae.ly/)*

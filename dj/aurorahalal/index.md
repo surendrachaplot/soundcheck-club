@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+Aurora Halal is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 53 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 Priori, Avalon Emerson, Kia (AU)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

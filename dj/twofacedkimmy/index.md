@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
 TWOFACEDKIMMY is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside Unromantic, TRYPTAJ and Cherries040. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ TWOFACEDKIMMY is a techno and trance artist based in Germany, with 23 gigs on so
 
 Unromantic, TRYPTAJ, Cherries040
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

@@ -1,6 +1,6 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Virage, Paris on Fri, 2 Oct 2026.
+Alex Wilcox is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Virage, Paris on Fri, 2 Oct 2026.
 
 Alex Wilcox is a techno and trance artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 34 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Virage, Paris on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Alex Wilcox is a techno and trance artist based in United States of America, wit
 
 Ben UFO, DJ Nobu, DVS1
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*

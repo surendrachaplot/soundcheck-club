@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Astoria, Turin on Fri, 2 Oct 2026.
+Connor Wall is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Astoria, Turin on Fri, 2 Oct 2026.
 
 Connor Wall is a techno and house artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 22 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: Astoria, Turin on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Connor Wall is a techno and house artist based in Australia, with 43 gigs on sou
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

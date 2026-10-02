@@ -1,6 +1,6 @@
 # Sylvie Maziarz
 
-Sylvie Maziarz is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WDM, Hannover on Fri, 2 Oct 2026.
+Sylvie Maziarz is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WDM, Hannover on Fri, 2 Oct 2026.
 
 Sylvie Maziarz is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside KLING&KLANG, Alex.Do and DJ Traytex. Next up: WDM, Hannover on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Sylvie Maziarz is a techno and trance artist based in Germany, with 80 gigs on s
 
 KLING&KLANG, Alex.Do, DJ Traytex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemaziarz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemaziarz/)*

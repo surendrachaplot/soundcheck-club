@@ -1,6 +1,6 @@
 # Brad Bradley
 
-Brad Bradley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
+Brad Bradley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
 Brad Bradley is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Burly Chassis and Safiye. Next up: The Model, Nottingham on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Brad Bradley is a house and techno artist based in United Kingdom, with 33 gigs 
 
 SPICYIVY, Burly Chassis, Safiye
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradbradley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradbradley/)*

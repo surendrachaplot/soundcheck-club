@@ -1,6 +1,6 @@
 # Jo & Joe Rooftop
 
-Jo & Joe Rooftop is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LIBERI LIVE - FALL DANCE" on Sat, 3 Oct 2026.
+Jo & Joe Rooftop is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "LIBERI LIVE - FALL DANCE" on Sat, 3 Oct 2026.
 
 Jo & Joe Rooftop is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Europaplatz 1/6, 1150 Wien, Austria.
 
@@ -14,4 +14,4 @@ Jo & Joe Rooftop is a music venue in Vienna listed on soundcheck. 1 upcoming gig
 
 Europaplatz 1/6, 1150 Wien, Austria, Vienna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/jo-joe-rooftop/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/jo-joe-rooftop/)*

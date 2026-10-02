@@ -1,6 +1,6 @@
 # Onoffon
 
-Onoffon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 8 Oct 2026.
+Onoffon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 8 Oct 2026.
 
 Onoffon is a house and techno artist based in Venezuela, with 74 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Chicago and 12 more. Often billed alongside Rufo, Sebastián and Christian Arcila. Next up: 303 Audiophile Bar, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Onoffon is a house and techno artist based in Venezuela, with 74 gigs on soundch
 
 Rufo, Sebastián, Christian Arcila
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*

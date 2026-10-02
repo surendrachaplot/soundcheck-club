@@ -1,6 +1,6 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
+ohjeelo is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
 
 ohjeelo is a bass and techno artist based in Ivory Coast, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Le Poisson Volant, Paris on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ ohjeelo is a bass and techno artist based in Ivory Coast, with 60 gigs on soundc
 
 Nico Adomako, Franssouax, Bamao Yendé
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*

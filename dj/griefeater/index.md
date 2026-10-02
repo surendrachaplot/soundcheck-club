@@ -1,6 +1,6 @@
 # griefeater
 
-griefeater is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+griefeater is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 griefeater is a club and experimental artist based in Germany, with 30 gigs on soundcheck across Berlin. Often billed alongside Taylor Cherry, Dmitra and REBE. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ griefeater is a club and experimental artist based in Germany, with 30 gigs on s
 
 Taylor Cherry, Dmitra, REBE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*

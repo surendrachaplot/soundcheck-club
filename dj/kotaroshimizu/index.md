@@ -1,14 +1,15 @@
 # Kotaro Shimizu
 
-Kotaro Shimizu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Kotaro Shimizu is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
-Kotaro Shimizu is a techno and house artist based in Japan, with 38 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Lynta. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+Kotaro Shimizu is a techno and house artist based in Japan, with 39 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Lynta. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Circus Tokyo | Tokyo |
+| Thu, 29 Oct 2026 | Saloon | Tokyo |
 | Fri, 13 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kotaro Shimizu is a techno and house artist based in Japan, with 38 gigs on soun
 
 Yui (JP), tnseei, Lynta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*

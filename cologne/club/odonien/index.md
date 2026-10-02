@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WIR Schwestern with Cecilia Tosh (Tresor Berlin), So So Klein Piano Liveset" on Fri, 2 Oct 2026.
+Odonien is a music venue in Cologne with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "WIR Schwestern with Cecilia Tosh (Tresor Berlin), So So Klein Piano Liveset" on Fri, 2 Oct 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line-ups including Aio, andré wiese, Avocado and Belasto and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

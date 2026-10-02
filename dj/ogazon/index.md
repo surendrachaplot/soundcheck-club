@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ogazón is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Ogazón is a techno and house artist based in Luxembourg, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist based in Luxembourg, with 284 gigs on sound
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

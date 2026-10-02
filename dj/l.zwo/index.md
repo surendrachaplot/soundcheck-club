@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+L.zwo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 L.zwo is a techno and trance artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside 2HOT2PLAY, OCIN and Antonym. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ L.zwo is a techno and trance artist based in Germany, with 94 gigs on soundcheck
 
 2HOT2PLAY, OCIN, Antonym
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

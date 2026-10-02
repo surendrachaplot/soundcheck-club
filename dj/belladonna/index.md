@@ -1,14 +1,15 @@
 # BELLADONNA
 
-BELLADONNA is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+BELLADONNA is a Tech House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-BELLADONNA is a tech house and minimal techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Ibiza and 2 more. Often billed alongside belladonna of sadness, Afshin Momadi and theories. Next up: Knockdown Center, New York City on Fri 2 Oct.
+BELLADONNA is a tech house and minimal techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Ibiza and 3 more. Often billed alongside belladonna of sadness, Afshin Momadi and theories. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Knockdown Center | New York City |
+| Sat, 7 Nov 2026 | TBA - SKY CLUB | Malta |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BELLADONNA is a tech house and minimal techno artist based in Germany, with 10 g
 
 belladonna of sadness, Afshin Momadi, theories
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*

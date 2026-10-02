@@ -1,6 +1,6 @@
 # MEHMOOD
 
-MEHMOOD is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
+MEHMOOD is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
 
 MEHMOOD is a techno and tech house artist based in Pakistan, with 8 gigs on soundcheck across Berlin. Often billed alongside Deniz Kars, Fakhar and Jalal K.. Next up: DNA. CLUB, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ MEHMOOD is a techno and tech house artist based in Pakistan, with 8 gigs on soun
 
 Deniz Kars, Fakhar, Jalal K.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehmood/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehmood/)*

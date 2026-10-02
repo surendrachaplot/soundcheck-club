@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
+Nicole Moudaber is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
 
 Nicole Moudaber is a techno and house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: E1, London on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 134 g
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

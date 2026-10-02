@@ -1,6 +1,6 @@
 # Lil Lawaw
 
-Lil Lawaw is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Fri, 16 Oct 2026.
+Lil Lawaw is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
 Lil Lawaw is a house and electro artist based in Belgium, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 2 more. Often billed alongside askmelater, DTM Funk and DJ Corridor. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lil Lawaw is a house and electro artist based in Belgium, with 49 gigs on soundc
 
 askmelater, DTM Funk, DJ Corridor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillawaw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillawaw/)*

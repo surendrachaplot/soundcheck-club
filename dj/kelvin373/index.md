@@ -1,6 +1,6 @@
 # Kelvin 373
 
-Kelvin 373 is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 10 Oct 2026.
+Kelvin 373 is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 10 Oct 2026.
 
 Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 8 more. Often billed alongside Aries, Kelvin and Crossy. Next up: Beaver Works, Leeds on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Kelvin 373 is a drum & bass and jungle artist based in United Kingdom, with 45 g
 
 Aries, Kelvin, Crossy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*

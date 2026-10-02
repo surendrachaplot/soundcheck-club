@@ -1,6 +1,6 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+Carly Zeng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
 Carly Zeng is a techno and house artist based in China, with 135 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Carly Zeng is a techno and house artist based in China, with 135 gigs on soundch
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

@@ -1,6 +1,6 @@
 # DJ Bookworm
 
-DJ Bookworm is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 30 Oct 2026.
+DJ Bookworm is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cloud & Spirits, Boston on Fri, 30 Oct 2026.
 
 DJ Bookworm is a house and progressive house artist based in United States of America, with 12 gigs on soundcheck across Boston and New York City. Often billed alongside FRANZIV, ViV:On and 1R.fm. Next up: Cloud & Spirits, Boston on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Bookworm is a house and progressive house artist based in United States of Am
 
 FRANZIV, ViV:On, 1R.fm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbookworm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbookworm/)*

@@ -1,6 +1,6 @@
 # NEW YEAR'S EVE at TBA - Secret Warehouse (Barcelona)
 
-NEW YEAR'S EVE at TBA - Secret Warehouse (Barcelona) on Thu 31 Dec, Barcelona. 1 artist: Squaric. See the line-up on soundcheck.
+NEW YEAR'S EVE at TBA - Secret Warehouse (Barcelona) on Thu 31 Dec, Barcelona. 1 artist: Squaric. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

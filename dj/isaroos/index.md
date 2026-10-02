@@ -1,6 +1,6 @@
 # Isa Roos
 
-Isa Roos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Isa Roos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Isa Roos is an afro house and house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Antwerp, Athens and Brussels and 4 more. Often billed alongside AJNA, Deer Jade and Kasango. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Isa Roos is an afro house and house artist based in Netherlands, with 14 gigs on
 
 AJNA, Deer Jade, Kasango
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*

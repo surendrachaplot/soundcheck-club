@@ -1,6 +1,6 @@
 # Krotone
 
-Krotone is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Headrow House, Leeds on Fri, 6 Nov 2026.
+Krotone is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Headrow House, Leeds on Fri, 6 Nov 2026.
 
 Krotone is a dubstep and dub artist based in United Kingdom, with 24 gigs on soundcheck across Brussels, Leeds, London and Manchester. Often billed alongside Breakfake, Lioness Power and Felixculpah. Next up: Headrow House, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Krotone is a dubstep and dub artist based in United Kingdom, with 24 gigs on sou
 
 Breakfake, Lioness Power, Felixculpah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krotone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krotone/)*

@@ -1,6 +1,6 @@
 # Toura
 
-Toura is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Fri, 9 Oct 2026.
+Toura is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Model, Nottingham on Fri, 9 Oct 2026.
 
 Toura is a techno and dubstep artist based in United Kingdom, with 22 gigs on soundcheck across Bristol, Helsinki, London and Nottingham. Often billed alongside M75, MIDRIB and CHAMBER45. Next up: The Model, Nottingham on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Toura is a techno and dubstep artist based in United Kingdom, with 22 gigs on so
 
 M75 (1), MIDRIB, CHAMBER45
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toura/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toura/)*

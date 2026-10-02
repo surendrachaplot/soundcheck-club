@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THE BATHS, Austin on Fri, 2 Oct 2026.
+Chinonegro is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE BATHS, Austin on Fri, 2 Oct 2026.
 
 Chinonegro is a tech house and house artist based in Peru, with 28 gigs on soundcheck across Amsterdam, Austin, Barcelona and Buenos Aires and 11 more. Often billed alongside BLOND:ISH, Luuk van Dijk and Sidney Charles. Next up: THE BATHS, Austin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chinonegro is a tech house and house artist based in Peru, with 28 gigs on sound
 
 BLOND:ISH, Luuk van Dijk, Sidney Charles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

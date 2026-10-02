@@ -1,6 +1,6 @@
 # Ann Tweak
 
-Ann Tweak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 2 Oct 2026.
+Ann Tweak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 2 Oct 2026.
 
 Ann Tweak is a disco and house artist based in United Kingdom, with 77 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Percy Main. Next up: West Port Oracle, Edinburgh on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ann Tweak is a disco and house artist based in United Kingdom, with 77 gigs on s
 
 Jacuzzi General, Fierro Grande, Percy Main
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*

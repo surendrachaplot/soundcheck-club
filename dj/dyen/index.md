@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+DYEN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
 DYEN is a techno and house artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ DYEN is a techno and house artist based in Netherlands, with 202 gigs on soundch
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

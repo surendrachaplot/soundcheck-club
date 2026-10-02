@@ -1,6 +1,6 @@
 # LEFTYT
 
-LEFTYT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Athens on Sat, 10 Oct 2026.
+LEFTYT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Athens on Sat, 10 Oct 2026.
 
 LEFTYT is a techno and trance artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside R4ST, Deadly 8 and Mariø. Next up: TBA, Athens on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ LEFTYT is a techno and trance artist based in Greece, with 8 gigs on soundcheck 
 
 R4ST, Deadly 8, Mariø
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftyt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftyt/)*

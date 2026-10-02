@@ -1,6 +1,6 @@
 # Nuno Carneiro
 
-Nuno Carneiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Nuno Carneiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Nuno Carneiro is a house and techno artist based in Portugal, with 37 gigs on soundcheck across Barcelona, Berlin, Lisbon and New York City and 2 more. Often billed alongside Alfonsvs, Da Ni and Adriana Ruas. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nuno Carneiro is a house and techno artist based in Portugal, with 37 gigs on so
 
 Alfonsvs, Da Ni, Adriana Ruas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*

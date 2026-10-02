@@ -1,6 +1,6 @@
 # GEOTHEORY
 
-GEOTHEORY is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
+GEOTHEORY is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
 GEOTHEORY is a deep house and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside IKAROS ESCAPE, DAYE. and Sasha Rome. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ GEOTHEORY is a deep house and house artist based in United States of America, wi
 
 IKAROS ESCAPE, DAYE., Sasha Rome
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geotheory/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geotheory/)*

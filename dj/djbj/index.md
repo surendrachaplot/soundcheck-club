@@ -1,6 +1,6 @@
 # DJ BJ
 
-DJ BJ is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 3 Oct 2026.
+DJ BJ is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 3 Oct 2026.
 
 DJ BJ is a tech house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Hamburg, Leeds and Leipzig and 3 more. Often billed alongside Benny Rodrigues, Hollt and Joyhauser. Next up: Sooki Lounge, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ BJ is a tech house and techno artist based in United Kingdom, with 12 gigs on
 
 Benny Rodrigues, Hollt, Joyhauser
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbj/)*

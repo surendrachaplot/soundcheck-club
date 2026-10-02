@@ -1,6 +1,6 @@
 # Madison Willing
 
-Madison Willing is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
+Madison Willing is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
 
 Madison Willing is a drum & bass and bass artist, with 9 gigs on soundcheck across Brussels, London and West Wales. Often billed alongside dBridge, FYI Robyn and Kincaid. Next up: Three Pools, West Wales on Fri 30 Apr.
 
@@ -25,4 +25,4 @@ Madison Willing is a drum & bass and bass artist, with 9 gigs on soundcheck acro
 
 dBridge, FYI Robyn, Kincaid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonwilling/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonwilling/)*

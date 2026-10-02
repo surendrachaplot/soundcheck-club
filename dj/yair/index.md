@@ -1,6 +1,6 @@
 # Yair
 
-Yair is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
+Yair is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
 
 Yair is a minimal and house artist based in Mexico, with 24 gigs on soundcheck across Los Angeles, Mexico City, Seattle and Seoul. Often billed alongside Enzo Muro, Artur (US) and Connor Mikami. Next up: TBA - Outdoor Location - DTLA , Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Yair is a minimal and house artist based in Mexico, with 24 gigs on soundcheck a
 
 Enzo Muro, Artur (US), Connor Mikami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yair/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yair/)*

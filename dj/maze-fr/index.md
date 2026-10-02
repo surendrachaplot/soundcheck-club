@@ -1,6 +1,6 @@
 # Maze (FR)
 
-Maze (FR) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
+Maze (FR) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
 
 Maze (FR) is a drum & bass and bass artist based in France, with 19 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bristol and 6 more. Often billed alongside Basstripper, ATMOS and Delta Heavy. Next up: Antwerp Expo, Antwerp on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maze (FR) is a drum & bass and bass artist based in France, with 19 gigs on soun
 
 Basstripper, ATMOS, Delta Heavy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-fr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-fr/)*

@@ -1,6 +1,6 @@
 # PHonolith (FR)
 
-PHonolith (FR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Mazette, Paris on Sat, 24 Oct 2026.
+PHonolith (FR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Mazette, Paris on Sat, 24 Oct 2026.
 
 PHonolith (FR) is a techno and house artist based in France, with 11 gigs on soundcheck across Lyon and Paris. Often billed alongside Hadj y Baba, Bérou and Colapso. Next up: Le Mazette, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PHonolith (FR) is a techno and house artist based in France, with 11 gigs on sou
 
 Hadj y Baba, Bérou, Colapso
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonolithfr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonolithfr/)*

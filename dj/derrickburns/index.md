@@ -1,6 +1,6 @@
 # Derrick Burns
 
-Derrick Burns is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - SECRET LAVANDERIA, Barcelona on Fri, 2 Oct 2026.
+Derrick Burns is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SECRET LAVANDERIA, Barcelona on Fri, 2 Oct 2026.
 
 Derrick Burns is a techno and acid artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona and Glasgow. Often billed alongside Fernie, Deepbass and Repart. Next up: TBA - SECRET LAVANDERIA, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Derrick Burns is a techno and acid artist based in United Kingdom, with 18 gigs 
 
 Fernie, Deepbass, Repart
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickburns/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickburns/)*

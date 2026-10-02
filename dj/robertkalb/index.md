@@ -1,6 +1,6 @@
 # Robert Kalb
 
-Robert Kalb is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Keith Bar, Berlin on Fri, 2 Oct 2026.
+Robert Kalb is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Keith Bar, Berlin on Fri, 2 Oct 2026.
 
 Robert Kalb is an italo disco and house artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Steve Blom, eira haul and Tallac. Next up: Keith Bar, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Robert Kalb is an italo disco and house artist, with 13 gigs on soundcheck acros
 
 Steve Blom, eira haul, Tallac
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkalb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkalb/)*

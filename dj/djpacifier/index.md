@@ -1,6 +1,6 @@
 # DJ Pacifier
 
-DJ Pacifier is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
+DJ Pacifier is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
 
 DJ Pacifier is a hardcore and techno artist, with 43 gigs on soundcheck across Amsterdam, Montreal, New York City and Toronto and 1 more. Often billed alongside Baby Bimbo, Outback and the bald girl. Next up: ESC, Montreal on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Pacifier is a hardcore and techno artist, with 43 gigs on soundcheck across A
 
 Baby Bimbo, Outback, the bald girl
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpacifier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpacifier/)*

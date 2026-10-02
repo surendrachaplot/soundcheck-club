@@ -1,6 +1,6 @@
 # Museum Of Youth Culture
 
-Museum Of Youth Culture is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Black Pride Reimagined" on Sat, 3 Oct 2026.
+Museum Of Youth Culture is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Black Pride Reimagined" on Sat, 3 Oct 2026.
 
 Museum Of Youth Culture is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Museum Of Youth Culture is a music venue in London listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Black Pride Reimagined |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/museum-of-youth-culture/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/museum-of-youth-culture/)*

@@ -1,6 +1,6 @@
 # Gulp
 
-Gulp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 3 Oct 2026.
+Gulp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 3 Oct 2026.
 
 Gulp is a house and techno artist based in Argentina, with 33 gigs on soundcheck across Berlin, Buenos Aires, Malta and Miami and 1 more. Often billed alongside Lamache, Momo Trosman and Andrés Zacco. Next up: Mad Radio Miami, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gulp is a house and techno artist based in Argentina, with 33 gigs on soundcheck
 
 Lamache, Momo Trosman, Andrés Zacco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*

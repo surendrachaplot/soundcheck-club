@@ -1,6 +1,6 @@
 # AALEX
 
-AALEX is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
+AALEX is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
 
 AALEX is a deep house and progressive house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: Folklore, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ AALEX is a deep house and progressive house artist based in United Kingdom, with
 
 Alythia Kwan, MARIUS SEBASTIAN, MEAKIN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalex/)*

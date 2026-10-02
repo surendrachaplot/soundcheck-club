@@ -1,6 +1,6 @@
 # CAMMMMM
 
-CAMMMMM is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
+CAMMMMM is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
 
 CAMMMMM is a tech house and house artist based in Spain, with 41 gigs on soundcheck across Amsterdam, London, Valencia and Vienna. Often billed alongside Ariezzz, Ladrillovitz and ELi. Next up: Oven Club, Valencia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ CAMMMMM is a tech house and house artist based in Spain, with 41 gigs on soundch
 
 Ariezzz, Ladrillovitz, ELi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cammmmm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cammmmm/)*

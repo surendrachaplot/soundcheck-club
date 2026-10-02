@@ -1,6 +1,6 @@
 # Maxinne
 
-Maxinne is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bricks, London on Fri, 2 Oct 2026.
+Maxinne is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bricks, London on Fri, 2 Oct 2026.
 
 Maxinne is a house and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Austin, Chicago, Frankfurt and Ibiza and 11 more. Often billed alongside Amine Edge & DANCE, Anabel Englund and Anthony Attalla. Next up: Bricks, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Maxinne is a house and tech house artist based in United Kingdom, with 36 gigs o
 
 Amine Edge & DANCE, Anabel Englund, Anthony Attalla
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxinne/)*

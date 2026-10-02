@@ -1,8 +1,8 @@
 # EFESIAN
 
-EFESIAN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sydney Showgrounds, Sydney on Sat, 16 Jan 2027.
+EFESIAN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sydney Showgrounds, Sydney on Sat, 16 Jan 2027.
 
-EFESIAN is a techno and tech house artist, with 21 gigs on soundcheck across Helsinki, Hobart, Melbourne and Sydney. Often billed alongside Malfunkt, Deaf Toucan and GMOZ. Next up: Sydney Showgrounds, Sydney on Sat 16 Jan.
+EFESIAN is a techno and tech house artist based in Australia, with 21 gigs on soundcheck across Helsinki, Hobart, Melbourne and Sydney. Often billed alongside Malfunkt, Deaf Toucan and GMOZ. Next up: Sydney Showgrounds, Sydney on Sat 16 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ EFESIAN is a techno and tech house artist, with 21 gigs on soundcheck across Hel
 
 Malfunkt, Deaf Toucan, GMOZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efesian/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efesian/)*

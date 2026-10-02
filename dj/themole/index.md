@@ -1,6 +1,6 @@
 # The Mole
 
-The Mole is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZENNER, Berlin on Fri, 2 Oct 2026.
+The Mole is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZENNER, Berlin on Fri, 2 Oct 2026.
 
 The Mole is a house and techno artist based in Canada, with 18 gigs on soundcheck across Berlin, Mexico City, Montreal and Vancouver. Often billed alongside Mike Shannon, Sammy Dee and Zip. Next up: ZENNER, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ The Mole is a house and techno artist based in Canada, with 18 gigs on soundchec
 
 Mike Shannon, Sammy Dee, Zip
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themole/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themole/)*

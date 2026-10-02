@@ -1,6 +1,6 @@
 # KUDZU AUDIO
 
-KUDZU AUDIO is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
+KUDZU AUDIO is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 KUDZU AUDIO is a techno and ambient artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Poisonfrog, jaql and Angel D'lite. Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ KUDZU AUDIO is a techno and ambient artist based in United States of America, wi
 
 Poisonfrog, jaql, Angel D'lite
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kudzuaudio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kudzuaudio/)*

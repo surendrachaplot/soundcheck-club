@@ -1,6 +1,6 @@
 # VenuX
 
-VenuX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 28 Oct 2026.
+VenuX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 28 Oct 2026.
 
 VenuX is a techno and hardcore artist based in United States of America, with 8 gigs on soundcheck across Detroit and New York City. Often billed alongside ALL EXITS, CRYFXB and Paradøx. Next up: Bossa Nova Civic Club, New York City on Wed 28 Oct.
 
@@ -24,4 +24,4 @@ VenuX is a techno and hardcore artist based in United States of America, with 8 
 
 ALL EXITS, CRYFXB, Paradøx
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venux/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venux/)*

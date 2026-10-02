@@ -1,6 +1,6 @@
 # noodle
 
-noodle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 2 Oct 2026.
+noodle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 2 Oct 2026.
 
 noodle is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and Telfort. Next up: People's Leisure Club, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ noodle is a house and techno artist based in United Kingdom, with 62 gigs on sou
 
 Iris Pertegaz, Domenic Cappello, Telfort
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*

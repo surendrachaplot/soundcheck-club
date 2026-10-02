@@ -1,6 +1,6 @@
 # Carmen Lisa (2)
 
-Carmen Lisa (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
+Carmen Lisa (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
 
 Carmen Lisa is a techno and house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Marseille and 5 more. Often billed alongside MYRA (NL), SOLE DOSI and Secret Cinema. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Carmen Lisa is a techno and house artist based in Netherlands, with 31 gigs on s
 
 MYRA (NL), SOLE DOSI, Secret Cinema
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenlisa-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenlisa-2/)*

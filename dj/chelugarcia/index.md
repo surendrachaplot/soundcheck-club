@@ -1,6 +1,6 @@
 # Chelu Garcia
 
-Chelu Garcia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 24 Oct 2026.
+Chelu Garcia is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 24 Oct 2026.
 
 Chelu Garcia is a house and minimal artist based in Spain, with 29 gigs on soundcheck across Ibiza, Paris and Zurich. Often billed alongside Richie Cutanda, Hessa and Los Suruba. Next up: Esbirra Ibiza, Ibiza on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chelu Garcia is a house and minimal artist based in Spain, with 29 gigs on sound
 
 Richie Cutanda, Hessa, Los Suruba
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelugarcia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chelugarcia/)*

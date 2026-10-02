@@ -1,6 +1,6 @@
 # Eran Aviner
 
-Eran Aviner is a Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
+Eran Aviner is a Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
 
 Eran Aviner is a progressive house artist based in Belgium, with 14 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Warsaw. Often billed alongside Sebastien Leger, Guy J and Roy Rosenfeld. Next up: Club Vaag, Antwerp on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Eran Aviner is a progressive house artist based in Belgium, with 14 gigs on soun
 
 Sebastien Leger, Guy J, Roy Rosenfeld
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranaviner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranaviner/)*

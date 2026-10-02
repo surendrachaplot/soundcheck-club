@@ -1,6 +1,6 @@
 # Nick Mason
 
-Nick Mason is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
+Nick Mason is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
 
 Nick Mason is a progressive house and techno artist based in Greece, with 8 gigs on soundcheck across Amsterdam, Antwerp, Athens and Ibiza. Often billed alongside SurfingDJs, Major K and Jana Vitiligo. Next up: Nicholas Groente & Fruit, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Nick Mason is a progressive house and techno artist based in Greece, with 8 gigs
 
 SurfingDJs, Major K, Jana Vitiligo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmason/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmason/)*

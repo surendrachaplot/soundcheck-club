@@ -1,6 +1,6 @@
 # Murrin
 
-Murrin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ferro Bar, Porto on Fri, 2 Oct 2026.
+Murrin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ferro Bar, Porto on Fri, 2 Oct 2026.
 
 Murrin is a house and techno artist based in Ireland, with 21 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dublin and 3 more. Often billed alongside Tania Just, Mark Gill and Adam Purnell. Next up: Ferro Bar, Porto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Murrin is a house and techno artist based in Ireland, with 21 gigs on soundcheck
 
 Tania Just, Mark Gill, Adam Purnell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murrin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murrin/)*

@@ -1,6 +1,6 @@
 # AAguilAA
 
-AAguilAA is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at C12, Brussels on Fri, 16 Oct 2026.
+AAguilAA is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at C12, Brussels on Fri, 16 Oct 2026.
 
 AAguilAA is a house and pop artist based in Belgium, with 39 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: C12, Brussels on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ AAguilAA is a house and pop artist based in Belgium, with 39 gigs on soundcheck 
 
 The Stress, Daniel Wang, Afonso Peixoto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*

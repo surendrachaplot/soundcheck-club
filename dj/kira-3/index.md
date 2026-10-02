@@ -1,6 +1,6 @@
 # Kira (3)
 
-Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+Kira (3) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 Kira is a drum & bass and jungle artist based in Moldova, with 14 gigs on soundcheck across Amsterdam, Berlin, Bristol and Krakow and 2 more. Often billed alongside Break, Breakage and Clive Henry. Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kira is a drum & bass and jungle artist based in Moldova, with 14 gigs on soundc
 
 Break, Breakage, Clive Henry
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kira-3/)*

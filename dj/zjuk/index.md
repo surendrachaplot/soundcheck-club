@@ -1,6 +1,6 @@
 # ZJ (UK)
 
-ZJ (UK) is a UK Funky and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grub Stretford, Manchester on Sat, 10 Oct 2026.
+ZJ (UK) is a UK Funky and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grub Stretford, Manchester on Sat, 10 Oct 2026.
 
 ZJ (UK) is an uk funky and club artist, with 18 gigs on soundcheck across Bristol, Leeds, London and Manchester. Often billed alongside Lo5ive, Ynigo and Belk. Next up: Grub Stretford, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ZJ (UK) is an uk funky and club artist, with 18 gigs on soundcheck across Bristo
 
 Lo5ive, Ynigo, Belk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zjuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zjuk/)*

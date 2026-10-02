@@ -1,6 +1,6 @@
 # Sideshow
 
-Sideshow is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Fri, 2 Oct 2026.
+Sideshow is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Club, Bristol on Fri, 2 Oct 2026.
 
 Sideshow is a drum & bass and house artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Detroit, London and Manchester and 1 more. Often billed alongside Deselecta, Tom Oakley and A.N.T. Next up: Moon Club, Bristol on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sideshow is a drum & bass and house artist based in United Kingdom, with 14 gigs
 
 Deselecta, Tom Oakley, A.N.T
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow/)*

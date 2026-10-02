@@ -1,6 +1,6 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Fri, 2 Oct 2026.
+Kiki LeFreak is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Fri, 2 Oct 2026.
 
 Kiki LeFreak is a house and disco artist based in Canada, with 121 gigs on soundcheck across Chicago, Detroit, Mexico City and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: TBA, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kiki LeFreak is a house and disco artist based in Canada, with 121 gigs on sound
 
 Vjollca, Iced Misto, Jodie D
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*

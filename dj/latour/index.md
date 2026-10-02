@@ -1,6 +1,6 @@
 # Latour
 
-Latour is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vino Disco, Montreal on Fri, 2 Oct 2026.
+Latour is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Vino Disco, Montreal on Fri, 2 Oct 2026.
 
 Latour is a house and deep house artist based in Canada, with 26 gigs on soundcheck across Amsterdam, Brisbane, Montreal and San Diego. Often billed alongside Manuel Falardeau, Bienfait & Latour and David Maters. Next up: Vino Disco, Montreal on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Latour is a house and deep house artist based in Canada, with 26 gigs on soundch
 
 Manuel Falardeau, Bienfait & Latour, David Maters
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latour/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latour/)*

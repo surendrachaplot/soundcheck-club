@@ -1,6 +1,6 @@
 # Mystique (2)
 
-Mystique (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Makeda, Marseille on Sat, 10 Oct 2026.
+Mystique (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Makeda, Marseille on Sat, 10 Oct 2026.
 
 Mystique is a techno and club artist, with 28 gigs on soundcheck across Basel, Marseille, Paris and Strasbourg. Often billed alongside Vanda Forte, GLITTER55 and guerre maladie famine. Next up: Le Makeda, Marseille on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mystique is a techno and club artist, with 28 gigs on soundcheck across Basel, M
 
 Vanda Forte, GLITTER55, guerre maladie famine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique-2/)*

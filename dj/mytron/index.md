@@ -1,6 +1,6 @@
 # Mytron
 
-Mytron is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
+Mytron is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
 
 Mytron is a balearic and house artist based in United Kingdom, with 7 gigs on soundcheck across London, Manchester, Montreal and Warsaw. Often billed alongside Romare, ATARMAL and Alex Kassian. Next up: Bar Datcha, Montreal on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Mytron is a balearic and house artist based in United Kingdom, with 7 gigs on so
 
 Romare, ATARMAL, Alex Kassian
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mytron/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mytron/)*

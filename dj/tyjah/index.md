@@ -1,6 +1,6 @@
 # TYJAH
 
-TYJAH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Rawhide, New York City on Fri, 2 Oct 2026.
+TYJAH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Rawhide, New York City on Fri, 2 Oct 2026.
 
 TYJAH is a techno and club artist based in United States of America, with 17 gigs on soundcheck across Berlin and New York City. Often billed alongside Feonix, OZA and ANCIRA. Next up: Club Rawhide, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ TYJAH is a techno and club artist based in United States of America, with 17 gig
 
 Feonix (2), OZA, ANCIRA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyjah/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyjah/)*

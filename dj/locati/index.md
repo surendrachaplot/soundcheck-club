@@ -1,6 +1,6 @@
 # Locati
 
-Locati is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Locati is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Locati is an electronica and techno artist based in Spain, with 26 gigs on soundcheck across Berlin, Malaga, Mallorca and South. Often billed alongside Miguel Payda, DJ LOCATI and INTERVALO. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Locati is an electronica and techno artist based in Spain, with 26 gigs on sound
 
 Miguel Payda, DJ LOCATI, INTERVALO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locati/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locati/)*

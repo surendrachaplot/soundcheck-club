@@ -1,6 +1,6 @@
 # bellxsxs
 
-bellxsxs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
+bellxsxs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
 
 bellxsxs is a house and techno artist based in Australia, with 51 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Boogs, Ben Silver and Jordan Corey. Next up: Revolver Upstairs, Melbourne on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ bellxsxs is a house and techno artist based in Australia, with 51 gigs on soundc
 
 Boogs, Ben Silver, Jordan Corey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*

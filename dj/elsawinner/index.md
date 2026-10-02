@@ -1,6 +1,6 @@
 # elsa winner
 
-elsa winner is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at B21, Brussels on Fri, 13 Nov 2026.
+elsa winner is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B21, Brussels on Fri, 13 Nov 2026.
 
 elsa winner is a house and bass artist based in Venezuela, with 13 gigs on soundcheck across Brussels, Lyon, Madrid and Paris. Often billed alongside Elsa Bernini, ENERVIU and Echo/Dawn. Next up: B21, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ elsa winner is a house and bass artist based in Venezuela, with 13 gigs on sound
 
 Elsa Bernini, ENERVIU, Echo/Dawn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsawinner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsawinner/)*

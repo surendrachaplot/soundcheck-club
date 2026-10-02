@@ -1,6 +1,6 @@
 # The Wildlands
 
-The Wildlands is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Strawberry Fields" on Fri, 20 Nov 2026.
+The Wildlands is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Strawberry Fields" on Fri, 20 Nov 2026.
 
 The Wildlands is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Benny Salvador, Charlie Bucket, Harvey Sutherland and Kuzco and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Wildlands is a music venue in Melbourne listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Strawberry Fields | Benny Salvador, Charlie Bucket, Harvey Sutherland, Kuzco, Mike Gurrieri, RAH (1), Sky High Trio, Tom Eclect, Zafiro, Zjoso |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-wildlands/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-wildlands/)*

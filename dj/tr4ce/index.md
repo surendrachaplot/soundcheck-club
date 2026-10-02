@@ -1,6 +1,6 @@
 # TR4CE
 
-TR4CE is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Fri, 23 Oct 2026.
+TR4CE is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafeteria, Toronto on Fri, 23 Oct 2026.
 
 TR4CE is a tech house and techno artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside JOOOF, Donny Vega and Angelphroot. Next up: Cafeteria, Toronto on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ TR4CE is a tech house and techno artist based in Canada, with 7 gigs on soundche
 
 JOOOF, Donny Vega, Angelphroot
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ce/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ce/)*

@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Terrible Twos with The Spy" on Fri, 2 Oct 2026.
+Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Terrible Twos with The Spy" on Fri, 2 Oct 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including Asarri, Carbon Based Lifeforms, Cosmic G and Daria Kolosova and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -21,4 +21,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

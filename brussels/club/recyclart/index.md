@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Female Boyfriends" on Fri, 2 Oct 2026.
+Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Female Boyfriends" on Fri, 2 Oct 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Butchpm, Chlorys, Erykah and Joost de Lyser and 2 more. See dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -15,4 +15,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at House of Q, Stockholm on Sat, 24 Oct 2026.
+Wes Baggaley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at House of Q, Stockholm on Sat, 24 Oct 2026.
 
 Wes Baggaley is a techno and house artist based in United Kingdom, with 72 gigs on soundcheck across Berlin, Birmingham, Bristol and Dublin and 17 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: House of Q, Stockholm on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Wes Baggaley is a techno and house artist based in United Kingdom, with 72 gigs 
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

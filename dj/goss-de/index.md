@@ -1,6 +1,6 @@
 # G.oss
 
-G.oss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
+G.oss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
 
 G.oss is a techno and house artist based in Italy, with 37 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside Flight Mode (DE), Kobzev and Daniel Norrel. Next up: Distillery N17, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ G.oss is a techno and house artist based in Italy, with 37 gigs on soundcheck ac
 
 Flight Mode (DE), Kobzev, Daniel Norrel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*

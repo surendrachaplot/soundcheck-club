@@ -1,6 +1,6 @@
 # Antss
 
-Antss is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
+Antss is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
 
 Antss is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Bristol, Ibiza and Leeds and 2 more. Often billed alongside ALISHA, DXNBY and Hot Since 82. Next up: The Timber Loft, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Antss is a tech house and house artist based in United Kingdom, with 19 gigs on 
 
 ALISHA, DXNBY, Hot Since 82
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antss/)*

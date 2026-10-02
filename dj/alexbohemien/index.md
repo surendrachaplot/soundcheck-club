@@ -1,6 +1,6 @@
 # Alex Bohemien
 
-Alex Bohemien is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bulldog Palace, Naples on Fri, 23 Oct 2026.
+Alex Bohemien is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bulldog Palace, Naples on Fri, 23 Oct 2026.
 
 Alex Bohemien is a tech house and house artist based in Italy, with 56 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Broosk, Key Eff and Redical. Next up: The Bulldog Palace, Naples on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alex Bohemien is a tech house and house artist based in Italy, with 56 gigs on s
 
 Broosk, Key Eff, Redical
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

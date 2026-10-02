@@ -1,6 +1,6 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+Foxtrot (2) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
 
 Foxtrot is a techno and tech house artist based in New Zealand, with 10 gigs on soundcheck across Auckland, Brisbane, London and Nantes and 1 more. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Foxtrot is a techno and tech house artist based in New Zealand, with 10 gigs on 
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

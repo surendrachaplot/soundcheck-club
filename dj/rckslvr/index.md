@@ -1,6 +1,6 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Raspoutine Los Angeles, Los Angeles on Fri, 2 Oct 2026.
+RCKSLVR is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Raspoutine Los Angeles, Los Angeles on Fri, 2 Oct 2026.
 
 RCKSLVR is a tech house and house artist based in United States of America, with 51 gigs on soundcheck across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Raspoutine Los Angeles, Los Angeles on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ RCKSLVR is a tech house and house artist based in United States of America, with
 
 Tempo, GRLFRND, DENYC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*

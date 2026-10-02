@@ -1,6 +1,6 @@
 # Michelle Kay
 
-Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
+Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
 
 Michelle Kay is a techno and minimal techno artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 4 more. Often billed alongside Ramsey Neville, Adrian Hex and Junkfile. Next up: nachbar, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Michelle Kay is a techno and minimal techno artist based in United States of Ame
 
 Ramsey Neville, Adrian Hex, Junkfile
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*

@@ -1,6 +1,6 @@
 # Rhiz
 
-Rhiz is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "sometimes/always" on Fri, 2 Oct 2026.
+Rhiz is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "sometimes/always" on Fri, 2 Oct 2026.
 
 Rhiz is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including INESSA, LAVO and Malounadou. See dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
 
@@ -17,4 +17,4 @@ Rhiz is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line
 
 U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080, Vienna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*

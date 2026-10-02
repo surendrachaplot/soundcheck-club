@@ -1,6 +1,6 @@
 # SOCIAL VLAD
 
-SOCIAL VLAD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marmorbar, Berlin on Fri, 2 Oct 2026.
+SOCIAL VLAD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marmorbar, Berlin on Fri, 2 Oct 2026.
 
 SOCIAL VLAD is a techno and house artist based in Ukraine, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside OLHA, Sergey Chernyshov and wallflower_. Next up: Marmorbar, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SOCIAL VLAD is a techno and house artist based in Ukraine, with 45 gigs on sound
 
 OLHA, Sergey Chernyshov, wallflower_
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/socialvlad/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/socialvlad/)*

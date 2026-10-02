@@ -1,6 +1,6 @@
 # Goutham
 
-Goutham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 16 Oct 2026.
+Goutham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 16 Oct 2026.
 
 Goutham is a house and techno artist based in United Kingdom, with 36 gigs on soundcheck across Copenhagen, Leeds, London and Manchester and 5 more. Often billed alongside Jon Brady, Boink and Charley. Next up: Starlane Pizza Bar, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Goutham is a house and techno artist based in United Kingdom, with 36 gigs on so
 
 Jon Brady, Boink, Charley
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goutham/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goutham/)*

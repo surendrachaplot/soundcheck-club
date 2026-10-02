@@ -1,6 +1,6 @@
 # YPSY
 
-YPSY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+YPSY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
 YPSY is a house and techno artist based in Austria, with 22 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Milan and 2 more. Often billed alongside AEND, DJ Lelo and IVAN.. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ YPSY is a house and techno artist based in Austria, with 22 gigs on soundcheck a
 
 AEND, DJ Lelo, IVAN.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsy/)*

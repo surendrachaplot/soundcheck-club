@@ -1,6 +1,6 @@
 # Bruno Bleckmann
 
-Bruno Bleckmann is a Deep House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
+Bruno Bleckmann is a Deep House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
 
 Bruno Bleckmann is a deep house and dub techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside maniac&me and Clarence. Next up: Rosie's Bar, Berlin on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Bruno Bleckmann is a deep house and dub techno artist based in Germany, with 3 g
 
 maniac&me, Clarence (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobleckmann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobleckmann/)*

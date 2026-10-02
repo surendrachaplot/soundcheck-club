@@ -1,6 +1,6 @@
 # parashoot
 
-parashoot is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 16 Oct 2026.
+parashoot is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 16 Oct 2026.
 
 parashoot is a house and garage artist based in Denmark, with 23 gigs on soundcheck across Copenhagen and London. Often billed alongside Mary Harp, ELOQ and DAISY. Next up: M.O.T, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ parashoot is a house and garage artist based in Denmark, with 23 gigs on soundch
 
 Mary Harp, ELOQ, DAISY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*

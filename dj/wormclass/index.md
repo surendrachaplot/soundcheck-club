@@ -1,6 +1,6 @@
 # Worm Class
 
-Worm Class is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 10 Oct 2026.
+Worm Class is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 10 Oct 2026.
 
 Worm Class is a techno and house artist, with 43 gigs on soundcheck across Lisbon and Porto. Often billed alongside Schlingen, Solid-Funk and Luisa. Next up: Ministerium Club, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Worm Class is a techno and house artist, with 43 gigs on soundcheck across Lisbo
 
 Schlingen, Solid-Funk, Luisa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*

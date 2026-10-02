@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
+Kanine is a Drum & Bass and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
 Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 40 more. Often billed alongside Mozey, Disrupta and Bou (UK). Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs o
 
 Mozey, Disrupta, Bou (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

@@ -1,19 +1,19 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mad Radio Miami, Miami on Thu, 1 Oct 2026.
+Nicole Gallamini is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Nicole Gallamini is a house and tech house artist based in United States of America, with 51 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Mad Radio Miami, Miami on Thu 1 Oct.
+Nicole Gallamini is a house and tech house artist based in United States of America, with 51 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Mad Radio Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Mad Radio Miami, Miami · Thu, 1 Oct 2026
 - Floyd, Miami · Fri, 11 Sept 2026
 - Floyd, Miami · Sat, 29 Aug 2026
 - Jolene Downtown Miami, Miami · Fri, 21 Aug 2026
@@ -21,10 +21,9 @@ Nicole Gallamini is a house and tech house artist based in United States of Amer
 - Jolene Downtown Miami, Miami · Sun, 28 Jun 2026
 - The Ground at Club Space, Miami · Sat, 20 Jun 2026
 - MAD Radio NYC, New York City · Thu, 14 May 2026
-- Factory Town, Miami · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 DIFFER, Thunderpony, Berrakka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*

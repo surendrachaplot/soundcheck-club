@@ -1,6 +1,6 @@
 # MAMA LOVE
 
-MAMA LOVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+MAMA LOVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 MAMA LOVE is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Madrid and 1 more. Often billed alongside caipora, materia hache and Bizzarro Universe. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MAMA LOVE is a techno and house artist based in Germany, with 37 gigs on soundch
 
 caipora, materia hache, Bizzarro Universe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*

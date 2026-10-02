@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tender, Melbourne on Fri, 2 Oct 2026.
+GiGi FM is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tender, Melbourne on Fri, 2 Oct 2026.
 
 GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Tender, Melbourne on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaid
 
 Altinbas, Polygonia, DVS1
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

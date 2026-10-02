@@ -1,6 +1,6 @@
 # SPICYIVY
 
-SPICYIVY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
+SPICYIVY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
 SPICYIVY is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside Safiye, Brad Bradley and Burly Chassis. Next up: The Model, Nottingham on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SPICYIVY is a house and disco artist based in United Kingdom, with 52 gigs on so
 
 Safiye, Brad Bradley, Burly Chassis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicyivy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicyivy/)*

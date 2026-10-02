@@ -1,6 +1,6 @@
 # Kingsmo
 
-Kingsmo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - SECRET LOCATION (BARCELONA), Barcelona on Fri, 2 Oct 2026.
+Kingsmo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SECRET LOCATION (BARCELONA), Barcelona on Fri, 2 Oct 2026.
 
 Kingsmo is a techno and tech house artist based in France, with 13 gigs on soundcheck across Barcelona, Dortmund Essen and Malta. Often billed alongside Naomi Baldacchino, ERØXX and Gouzz. Next up: TBA - SECRET LOCATION (BARCELONA), Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kingsmo is a techno and tech house artist based in France, with 13 gigs on sound
 
 Naomi Baldacchino, ERØXX, Gouzz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*

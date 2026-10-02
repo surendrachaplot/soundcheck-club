@@ -1,6 +1,6 @@
 # stargirl
 
-stargirl is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Fri, 2 Oct 2026.
+stargirl is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Fri, 2 Oct 2026.
 
 stargirl is a techno and bass artist based in Canada, with 24 gigs on soundcheck across Barcelona, Berlin, Cologne and Detroit and 5 more. Often billed alongside Aura, Jimmy Rocket and Presley Gray. Next up: Planet Wax, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ stargirl is a techno and bass artist based in Canada, with 24 gigs on soundcheck
 
 Aura, Jimmy Rocket, Presley Gray
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stargirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stargirl/)*

@@ -1,6 +1,6 @@
 # DJ Sandwich
 
-DJ Sandwich is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+DJ Sandwich is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
 DJ Sandwich is a house and electronica artist based in Spain, with 70 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Ion Pananides, Pisano and Cucut. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Sandwich is a house and electronica artist based in Spain, with 70 gigs on so
 
 Ion Pananides, Pisano, Cucut
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsandwich/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsandwich/)*

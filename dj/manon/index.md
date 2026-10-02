@@ -1,6 +1,6 @@
 # Manon
 
-Manon is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 2 Oct 2026.
+Manon is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 2 Oct 2026.
 
 Manon is a techno and electronica artist, with 10 gigs on soundcheck across Berlin, Ghent, Tokyo and Tunisia and 1 more. Often billed alongside STARKIDS, ecec and HIMAWARI. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Manon is a techno and electronica artist, with 10 gigs on soundcheck across Berl
 
 STARKIDS, ecec, HIMAWARI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon/)*

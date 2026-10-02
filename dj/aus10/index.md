@@ -1,6 +1,6 @@
 # AUS10
 
-AUS10 is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bolero, Seoul on Sat, 3 Oct 2026.
+AUS10 is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bolero, Seoul on Sat, 3 Oct 2026.
 
 AUS10 is a house and hip-hop artist based in South Korea, with 87 gigs on soundcheck across Seoul. Often billed alongside Cheno, FAKEDEEPLEE and Anton Borin. Next up: Bolero, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ AUS10 is a house and hip-hop artist based in South Korea, with 87 gigs on soundc
 
 Cheno, FAKEDEEPLEE, Anton Borin (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aus10/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aus10/)*

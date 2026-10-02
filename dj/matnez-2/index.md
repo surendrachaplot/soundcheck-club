@@ -1,6 +1,6 @@
 # Matnez (2)
 
-Matnez (2) is a Tech House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+Matnez (2) is a Tech House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
 Matnez is a tech house and afro tech artist based in Colombia, with 12 gigs on soundcheck across London. Often billed alongside Andres Forero, Pedro Villa and Tato. Next up: 45 London, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Matnez is a tech house and afro tech artist based in Colombia, with 12 gigs on s
 
 Andres Forero, Pedro Villa, Tato (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matnez-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matnez-2/)*

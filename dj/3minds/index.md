@@ -1,6 +1,6 @@
 # 3 Minds
 
-3 Minds is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
+3 Minds is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
 
 3 Minds is a house and tech house artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: Gaffe, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@
 
 Terry Francis, Eddie Richards, Silverlining
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*

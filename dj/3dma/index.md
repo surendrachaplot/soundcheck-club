@@ -1,6 +1,6 @@
 # 3DMA
 
-3DMA is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
+3DMA is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
 
 3DMA is a hardcore and trance artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 18 more. Often billed alongside Holly Warcup, alterum and Peggy Viennetta. Next up: The Bag Factory, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Holly Warcup, alterum, Peggy Viennetta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*

@@ -1,6 +1,6 @@
 # vish
 
-vish is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Jazz Cafe, London on Fri, 9 Oct 2026.
+vish is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jazz Cafe, London on Fri, 9 Oct 2026.
 
 vish is a bass and garage artist based in United Kingdom, with 19 gigs on soundcheck across Leeds and London. Often billed alongside MF Ceól, MUSICKLUNATIC and Make Money Mafia. Next up: The Jazz Cafe, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ vish is a bass and garage artist based in United Kingdom, with 19 gigs on soundc
 
 MF Ceól, MUSICKLUNATIC, Make Money Mafia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vish/)*

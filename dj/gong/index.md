@@ -1,6 +1,6 @@
 # Gong
 
-Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Department.en, Seoul on Sat, 3 Oct 2026.
+Gong is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Department.en, Seoul on Sat, 3 Oct 2026.
 
 Gong is a house and minimal artist based in South Korea, with 22 gigs on soundcheck across Liverpool and Seoul. Often billed alongside Cy Nico, Shinyoung and LEEKUNHEE. Next up: Department.en, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gong is a house and minimal artist based in South Korea, with 22 gigs on soundch
 
 Cy Nico, Shinyoung, LEEKUNHEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gong/)*

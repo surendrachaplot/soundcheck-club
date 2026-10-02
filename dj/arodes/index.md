@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+ARODES is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
 ARODES is a house and afro house artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Martim Rola. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ ARODES is a house and afro house artist based in United States of America, with 
 
 Andrea Oliva, Shimza, Martim Rola
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

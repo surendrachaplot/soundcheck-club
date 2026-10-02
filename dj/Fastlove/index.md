@@ -1,6 +1,6 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
+Fastlove is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
 
 Fastlove is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Angel D'lite. Next up: The Loft, Manchester on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Fastlove is a house and techno artist based in United Kingdom, with 80 gigs on s
 
 Aiden Francis, Merve, Angel D'lite
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*

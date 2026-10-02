@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Selectors with Anika Kunst, Decka, Ernesto" on Fri, 2 Oct 2026.
+Gare Porto is a music venue in Porto with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Selectors with Anika Kunst, Decka, Ernesto" on Fri, 2 Oct 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 11 upcoming gigs, with line-ups including AlFaer, Amulador, Ana JORHS. and Anika Kunst and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -23,4 +23,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 11 upcoming gigs, wit
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

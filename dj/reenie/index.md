@@ -1,6 +1,6 @@
 # Reenie
 
-Reenie is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club 77, Sydney on Sat, 10 Oct 2026.
+Reenie is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club 77, Sydney on Sat, 10 Oct 2026.
 
 Reenie is a house and techno artist based in Australia, with 118 gigs on soundcheck across Brisbane, Edinburgh, London and Melbourne and 1 more. Often billed alongside Kato, Mazzacles and AHJU. Next up: Club 77, Sydney on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Reenie is a house and techno artist based in Australia, with 118 gigs on soundch
 
 Kato, Mazzacles, AHJU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*

@@ -1,6 +1,6 @@
 # Jack the Jackal
 
-Jack the Jackal is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
+Jack the Jackal is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
 
 Jack the Jackal is a psytrance and trance artist based in Thailand, with 15 gigs on soundcheck across Bangkok, Ghent and Kuala Lumpur. Often billed alongside Puffer P, C!AO and KAOS. Next up: TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jack the Jackal is a psytrance and trance artist based in Thailand, with 15 gigs
 
 Puffer P, C!AO, KAOS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*

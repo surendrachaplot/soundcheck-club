@@ -1,6 +1,6 @@
 # Toki Fuko
 
-Toki Fuko is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
+Toki Fuko is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
 
 Toki Fuko is a techno and experimental artist based in Russia, with 8 gigs on soundcheck across Barcelona, Berlin, Paris and Rome and 2 more. Often billed alongside Cobahn, Marco Shuttle and Nathalia. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Toki Fuko is a techno and experimental artist based in Russia, with 8 gigs on so
 
 Cobahn, Marco Shuttle, Nathalia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokifuko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokifuko/)*

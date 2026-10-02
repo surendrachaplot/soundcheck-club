@@ -1,6 +1,6 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
+Jovonn is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
 
 Jovonn is a house and deep house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Jolene Sound Room Brooklyn, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Jovonn is a house and deep house artist based in United States of America, with 
 
 Chez Damier, Garrett David, Omer Mil
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*

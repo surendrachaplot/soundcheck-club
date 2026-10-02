@@ -1,6 +1,6 @@
 # serafitz
 
-serafitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+serafitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 serafitz is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Miami. Often billed alongside Bort, Milo Ziro and CHAOS!. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ serafitz is a house and techno artist based in United States of America, with 21
 
 Bort, Milo Ziro, CHAOS!
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafitz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafitz/)*

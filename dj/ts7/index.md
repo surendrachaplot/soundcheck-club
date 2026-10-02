@@ -1,6 +1,6 @@
 # TS7
 
-TS7 is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
+TS7 is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
 
 TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: The Clock Factory, Bristol on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundche
 
 Burgaboy, Chad Harrison, DJ Q
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*

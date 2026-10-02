@@ -1,6 +1,6 @@
 # Lewis Lowe
 
-Lewis Lowe is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
+Lewis Lowe is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
 
 Lewis Lowe is a bass and techno artist based in United Kingdom, with 55 gigs on soundcheck across Berlin, Bristol, Copenhagen and Edinburgh and 5 more. Often billed alongside Bake, ELANDA and Pseudopolis. Next up: Sneaky Pete's, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lewis Lowe is a bass and techno artist based in United Kingdom, with 55 gigs on 
 
 Bake, ELANDA, Pseudopolis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewislowe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewislowe/)*

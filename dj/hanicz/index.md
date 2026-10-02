@@ -1,6 +1,6 @@
 # HANICZ
 
-HANICZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
+HANICZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
 
 HANICZ is a techno and house artist based in Ukraine, with 62 gigs on soundcheck across Warsaw. Often billed alongside Mabu, KEVS and KoZa. Next up: Luzztro, Warsaw on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HANICZ is a techno and house artist based in Ukraine, with 62 gigs on soundcheck
 
 Mabu, KEVS, KoZa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanicz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanicz/)*

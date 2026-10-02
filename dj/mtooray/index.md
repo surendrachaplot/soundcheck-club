@@ -1,6 +1,6 @@
 # MTooray
 
-MTooray is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fortune Sound Club, Vancouver on Sun, 11 Oct 2026.
+MTooray is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fortune Sound Club, Vancouver on Sun, 11 Oct 2026.
 
 MTooray is a baile funk and amapiano artist based in United States of America, with 36 gigs on soundcheck across Detroit, London, Los Angeles and Mexico City and 4 more. Often billed alongside Bianca Maieli, DJ SUDI and Aku. Next up: Fortune Sound Club, Vancouver on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ MTooray is a baile funk and amapiano artist based in United States of America, w
 
 Bianca Maieli, DJ SUDI, Aku
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtooray/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtooray/)*

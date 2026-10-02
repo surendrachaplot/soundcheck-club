@@ -1,6 +1,6 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at QUIVR, Brisbane on Fri, 2 Oct 2026.
+Jamz Supernova is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at QUIVR, Brisbane on Fri, 2 Oct 2026.
 
 Jamz Supernova is a house and funk / soul artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: QUIVR, Brisbane on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Jamz Supernova is a house and funk / soul artist based in United Kingdom, with 1
 
 Tash LC, Ezra Collective, Gilles Peterson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*

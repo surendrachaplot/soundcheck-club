@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ritmo Collective feat .VRIL [LIVE]" on Fri, 2 Oct 2026.
+Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ritmo Collective feat .VRIL [LIVE]" on Fri, 2 Oct 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Baby G, BASHKKA, Ciel and DAWS and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -23,4 +23,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming g
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

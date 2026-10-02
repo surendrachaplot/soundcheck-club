@@ -1,6 +1,6 @@
 # Jared Maharaj
 
-Jared Maharaj is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Thu, 15 Oct 2026.
+Jared Maharaj is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Thu, 15 Oct 2026.
 
 Jared Maharaj is a house and minimal artist, with 14 gigs on soundcheck across New York City. Often billed alongside Harry Fletcher, Eklektik and Hugo (US). Next up: Mood Ring, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Jared Maharaj is a house and minimal artist, with 14 gigs on soundcheck across N
 
 Harry Fletcher, Eklektik, Hugo (US)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredmaharaj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredmaharaj/)*

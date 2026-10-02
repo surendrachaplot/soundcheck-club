@@ -1,6 +1,6 @@
 # PANA (Ger)
 
-PANA (Ger) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
+PANA (Ger) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
 
 PANA (Ger) is a techno and house artist based in Germany, with 12 gigs on soundcheck across Basel, Berlin, Cologne and New York City and 2 more. Often billed alongside DJ Cringey, Paraçek and Alex Friday. Next up: OST, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ PANA (Ger) is a techno and house artist based in Germany, with 12 gigs on soundc
 
 DJ Cringey, Paraçek, Alex Friday
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pana-ger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pana-ger/)*

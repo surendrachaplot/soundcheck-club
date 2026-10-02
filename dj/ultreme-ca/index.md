@@ -1,6 +1,6 @@
 # Ultreme
 
-Ultreme is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Vino Disco, Montreal on Sat, 10 Oct 2026.
+Ultreme is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Vino Disco, Montreal on Sat, 10 Oct 2026.
 
 Ultreme is a house and funk / soul artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside ultreme, Andie and BisouBizou. Next up: Vino Disco, Montreal on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Ultreme is a house and funk / soul artist based in Canada, with 8 gigs on soundc
 
 ultreme, Andie, BisouBizou
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultreme-ca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultreme-ca/)*

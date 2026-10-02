@@ -1,6 +1,6 @@
 # Bernd Bugatti
 
-Bernd Bugatti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
+Bernd Bugatti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 2 Oct 2026.
 
 Bernd Bugatti is a techno and house artist, with 12 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Liebe Nachbarn, Anna Lazer and DJ Nebelmaschine. Next up: Klunkerkranich, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Bernd Bugatti is a techno and house artist, with 12 gigs on soundcheck across Be
 
 Liebe Nachbarn, Anna Lazer, DJ Nebelmaschine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berndbugatti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berndbugatti/)*

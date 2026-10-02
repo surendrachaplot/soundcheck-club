@@ -1,6 +1,6 @@
 # gaszia
 
-gaszia is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+gaszia is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 gaszia is a club and techno artist based in United States of America, with 12 gigs on soundcheck across Chicago, Denver, Los Angeles and New York City and 4 more. Often billed alongside RamonPang, umru and Donatachi. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ gaszia is a club and techno artist based in United States of America, with 12 gi
 
 RamonPang, umru, Donatachi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaszia/)*

@@ -1,6 +1,6 @@
 # Lea Corio
 
-Lea Corio is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
+Lea Corio is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
 
 Lea Corio is a deep house and house artist based in Argentina, with 31 gigs on soundcheck across Barcelona and Copenhagen. Often billed alongside Manu López Sound, Andrea Castells and Frucula. Next up: 303 Audiophile Bar, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Lea Corio is a deep house and house artist based in Argentina, with 31 gigs on s
 
 Manu López Sound, Andrea Castells, Frucula
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leacorio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leacorio/)*

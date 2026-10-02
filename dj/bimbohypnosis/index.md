@@ -1,6 +1,6 @@
 # Bimbo Hypnosis
 
-Bimbo Hypnosis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Massive, Seattle on Thu, 17 Dec 2026.
+Bimbo Hypnosis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Massive, Seattle on Thu, 17 Dec 2026.
 
 Bimbo Hypnosis is a techno and house artist based in United States of America, with 15 gigs on soundcheck across New York City and Seattle. Often billed alongside Mirin Doja, Succubass and 550am. Next up: Massive, Seattle on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Bimbo Hypnosis is a techno and house artist based in United States of America, w
 
 Mirin Doja, Succubass, 550am
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimbohypnosis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimbohypnosis/)*

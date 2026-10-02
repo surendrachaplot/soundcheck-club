@@ -1,6 +1,6 @@
 # Gibbin
 
-Gibbin is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
+Gibbin is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
 
 Gibbin is a house and dub artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Feldspar, Allecto and Antepop. Next up: The Greyhound, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gibbin is a house and dub artist based in United Kingdom, with 9 gigs on soundch
 
 Feldspar, Allecto, Antepop
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbin/)*

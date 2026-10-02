@@ -1,6 +1,6 @@
 # Helio
 
-Helio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 2 Oct 2026.
+Helio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 2 Oct 2026.
 
 Helio is a house and techno artist based in Portugal, with 87 gigs on soundcheck across Lisbon, Malaga and Paris. Often billed alongside Manuel Cotta, Tíago and Andre Cascais. Next up: Ministerium Club, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Helio is a house and techno artist based in Portugal, with 87 gigs on soundcheck
 
 Manuel Cotta, Tíago, Andre Cascais
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helio/)*

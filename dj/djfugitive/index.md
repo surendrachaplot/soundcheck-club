@@ -1,6 +1,6 @@
 # Dj Fugitive
 
-Dj Fugitive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ÆDEN, Berlin on Fri, 2 Oct 2026.
+Dj Fugitive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Fri, 2 Oct 2026.
 
 Dj Fugitive is a house and techno artist, with 24 gigs on soundcheck across Berlin and Dublin. Often billed alongside The Camel, Al Aslan and Tiem. Next up: ÆDEN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dj Fugitive is a house and techno artist, with 24 gigs on soundcheck across Berl
 
 The Camel, Al Aslan, Tiem
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfugitive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfugitive/)*

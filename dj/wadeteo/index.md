@@ -1,6 +1,6 @@
 # Wade Teo
 
-Wade Teo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
+Wade Teo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
 
 Wade Teo is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Ibiza, London, Midlands and Seoul. Often billed alongside Davide Del Vecchio, Anthony Roachman and Dan Cluskey. Next up: Telford Arena & Rechabite Concert Hall, Midlands on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Wade Teo is a house and techno artist based in United Kingdom, with 20 gigs on s
 
 Davide Del Vecchio, Anthony Roachman, Dan Cluskey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wadeteo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wadeteo/)*

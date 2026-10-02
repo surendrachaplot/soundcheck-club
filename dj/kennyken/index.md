@@ -1,6 +1,6 @@
 # Kenny Ken
 
-Kenny Ken is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Kenny Ken is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 61 gi
 
 Nicky Blackmarket, DJ Hype, Grooverider
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*

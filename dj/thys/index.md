@@ -1,6 +1,6 @@
 # Thys
 
-Thys is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Prisma, Berlin on Tue, 13 Oct 2026.
+Thys is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prisma, Berlin on Tue, 13 Oct 2026.
 
 Thys is a techno and drum & bass artist based in Poland, with 24 gigs on soundcheck across Amsterdam, Bali, Berlin and Brighton and 15 more. Often billed alongside Dan Brocksmith, Flowdan and Imanu. Next up: Prisma, Berlin on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Thys is a techno and drum & bass artist based in Poland, with 24 gigs on soundch
 
 Dan Brocksmith, Flowdan, Imanu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*

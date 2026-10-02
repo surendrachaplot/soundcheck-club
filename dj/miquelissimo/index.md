@@ -1,6 +1,6 @@
 # MIQUELISSIMO
 
-MIQUELISSIMO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+MIQUELISSIMO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
 MIQUELISSIMO is a techno and house artist based in Spain, with 10 gigs on soundcheck across Madrid. Often billed alongside DISTORT (ES), Maya B and Rubén Secaduras. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MIQUELISSIMO is a techno and house artist based in Spain, with 10 gigs on soundc
 
 DISTORT (ES), Maya B, Rubén Secaduras
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miquelissimo/)*

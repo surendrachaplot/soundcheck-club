@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palladium, Geneva on Fri, 9 Oct 2026.
+HAAi is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palladium, Geneva on Fri, 9 Oct 2026.
 
-HAAi is a techno and house artist based in Australia, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside DJ Tennis, Saoirse and salute. Next up: Palladium, Geneva on Fri 9 Oct.
+HAAi is a techno and house artist based in Australia, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: Palladium, Geneva on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ HAAi is a techno and house artist based in Australia, with 214 gigs on soundchec
 
 ## Shares bills with
 
-DJ Tennis, Saoirse, salute
+salute, DJ Tennis, Saoirse
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

@@ -1,6 +1,6 @@
 # DJ MBq
 
-DJ MBq is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Coil, Melbourne on Fri, 2 Oct 2026.
+DJ MBq is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Coil, Melbourne on Fri, 2 Oct 2026.
 
 DJ MBq is a house and disco artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside DJ SWELLA, Mark Moon and Norm De Plume. Next up: Coil, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ MBq is a house and disco artist based in Australia, with 15 gigs on soundchec
 
 DJ SWELLA, Mark Moon, Norm De Plume
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmbq/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmbq/)*

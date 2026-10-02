@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
+Jamie 3:26 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
 
 Jamie 3:26 is a house and disco artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

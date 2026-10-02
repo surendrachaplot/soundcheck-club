@@ -1,6 +1,6 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+UniKhatu is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 UniKhatu is a techno and tech house artist based in Georgia, with 60 gigs on soundcheck across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ UniKhatu is a techno and tech house artist based in Georgia, with 60 gigs on sou
 
 pink-panther, James Cherry, Ayham
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*

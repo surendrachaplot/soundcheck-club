@@ -1,6 +1,6 @@
 # Liam Bailey
 
-Liam Bailey is a Dancehall and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Liam Bailey is a Dancehall and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Liam Bailey is a dancehall and dub artist, with 16 gigs on soundcheck across Bristol, Gdansk, London and Manchester and 2 more. Often billed alongside Izco, Capo Lee and DRS. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Liam Bailey is a dancehall and dub artist, with 16 gigs on soundcheck across Bri
 
 Izco, Capo Lee, DRS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*

@@ -1,6 +1,6 @@
 # Pierre Antoine
 
-Pierre Antoine is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
+Pierre Antoine is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat, 10 Oct 2026.
 
 Pierre Antoine is a disco and funk / soul artist based in Peru, with 11 gigs on soundcheck across Barcelona, London and Newcastle. Often billed alongside Santa Leticia, Habibi Funk and Miramizu. Next up: TBA - Outdoors Garden (30 Mins From Bcn), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Pierre Antoine is a disco and funk / soul artist based in Peru, with 11 gigs on 
 
 Santa Leticia, Habibi Funk, Miramizu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreantoine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierreantoine/)*

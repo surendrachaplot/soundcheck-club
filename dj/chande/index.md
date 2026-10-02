@@ -1,6 +1,6 @@
 # Chande
 
-Chande is a Electro and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sandbar Withington, Manchester on Sat, 10 Oct 2026.
+Chande is a Electro and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sandbar Withington, Manchester on Sat, 10 Oct 2026.
 
 Chande is an electro and latin bass artist based in United Kingdom, with 28 gigs on soundcheck across Bangkok, London and Manchester. Often billed alongside Izzi, Qwirk and Darama. Next up: Sandbar Withington, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chande is an electro and latin bass artist based in United Kingdom, with 28 gigs
 
 Izzi, Qwirk, Darama
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chande/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chande/)*

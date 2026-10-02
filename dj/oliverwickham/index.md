@@ -1,6 +1,6 @@
 # Oliver Wickham
 
-Oliver Wickham is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
+Oliver Wickham is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
 
 Oliver Wickham is a progressive house and trance artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside Anyasa, Ashkan Dian and Braxton. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Oliver Wickham is a progressive house and trance artist based in Canada, with 7 
 
 Anyasa, Ashkan Dian, Braxton
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverwickham/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverwickham/)*

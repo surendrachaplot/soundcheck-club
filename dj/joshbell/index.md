@@ -1,6 +1,6 @@
 # Josh Bell
 
-Josh Bell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 10 Oct 2026.
+Josh Bell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 10 Oct 2026.
 
 Josh Bell is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, London, Manchester and Newcastle. Often billed alongside Alisdair, Chaddy and LEN.. Next up: Cobalt Studios, Newcastle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Josh Bell is a techno and house artist based in United Kingdom, with 16 gigs on 
 
 Alisdair, Chaddy, LEN.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbell/)*

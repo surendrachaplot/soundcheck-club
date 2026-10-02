@@ -1,6 +1,6 @@
 # Samuel Rees
 
-Samuel Rees is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Box, Copenhagen on Fri, 13 Nov 2026.
+Samuel Rees is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Fri, 13 Nov 2026.
 
 Samuel Rees is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Copenhagen. Often billed alongside Nizzy, Niko Nuevo and Lewis Hunter. Next up: Culture Box, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Samuel Rees is a techno and house artist based in United Kingdom, with 17 gigs o
 
 Nizzy, Niko Nuevo, Lewis Hunter
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrees/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrees/)*

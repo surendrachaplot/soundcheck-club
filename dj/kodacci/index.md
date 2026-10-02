@@ -1,6 +1,6 @@
 # Kodacci
 
-Kodacci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 2 Oct 2026.
+Kodacci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE MAGICK BAR, Rome on Fri, 2 Oct 2026.
 
 Kodacci is a techno and house artist based in Italy, with 47 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside San Nicola, Joe Rosh and DJ Red. Next up: THE MAGICK BAR, Rome on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kodacci is a techno and house artist based in Italy, with 47 gigs on soundcheck 
 
 San Nicola, Joe Rosh, DJ Red
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodacci/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodacci/)*

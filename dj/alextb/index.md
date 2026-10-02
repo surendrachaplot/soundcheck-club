@@ -1,6 +1,6 @@
 # Alex TB
 
-Alex TB is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
+Alex TB is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
 
 Alex TB is a techno and industrial artist based in Brazil, with 9 gigs on soundcheck across Barcelona, Lisbon and Naples. Often billed alongside Buchecha, 5ogol and Barbers. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Alex TB is a techno and industrial artist based in Brazil, with 9 gigs on soundc
 
 Buchecha, 5ogol, Barbers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextb/)*

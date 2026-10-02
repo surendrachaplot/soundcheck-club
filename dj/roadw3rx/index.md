@@ -1,6 +1,6 @@
 # Roadw3rx
 
-Roadw3rx is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
+Roadw3rx is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
 
 Roadw3rx is a techno and footwork artist, with 7 gigs on soundcheck across Brisbane and Osaka. Often billed alongside RA66IT, Goodrug and Oscar Oscar. Next up: Black Bear Lodge, Brisbane on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ Roadw3rx is a techno and footwork artist, with 7 gigs on soundcheck across Brisb
 
 RA66IT, Goodrug, Oscar Oscar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roadw3rx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roadw3rx/)*

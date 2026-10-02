@@ -1,6 +1,6 @@
 # PALMA
 
-PALMA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jungle Island, Miami on Sat, 3 Oct 2026.
+PALMA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jungle Island, Miami on Sat, 3 Oct 2026.
 
 PALMA is a house and deep house artist based in France, with 9 gigs on soundcheck across Amsterdam, Miami, New York City and Seattle. Often billed alongside AMÉMÉ, Antonio Estrada and CISUMMI. Next up: Jungle Island, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ PALMA is a house and deep house artist based in France, with 9 gigs on soundchec
 
 AMÉMÉ, Antonio Estrada, CISUMMI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*

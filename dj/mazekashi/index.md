@@ -1,6 +1,6 @@
 # Maze Kashi
 
-Maze Kashi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at AMT, Berlin on Sat, 14 Nov 2026.
+Maze Kashi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at AMT, Berlin on Sat, 14 Nov 2026.
 
 Maze Kashi is a techno and tech house artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside FRÆD, Dennis Beutler and Bombata. Next up: AMT, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Maze Kashi is a techno and tech house artist based in Germany, with 23 gigs on s
 
 FRÆD, Dennis Beutler, Bombata
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazekashi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazekashi/)*

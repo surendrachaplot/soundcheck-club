@@ -1,6 +1,6 @@
 # Children of Valis
 
-Children of Valis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Children of Valis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Children of Valis is a house and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Christian AB, Noach and Ogazón. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Children of Valis is a house and techno artist based in Netherlands, with 33 gig
 
 Christian AB, Noach, Ogazón
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofvalis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofvalis/)*

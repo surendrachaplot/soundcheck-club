@@ -1,6 +1,6 @@
 # Philth
 
-Philth is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Four Quarters, London on Fri, 2 Oct 2026.
+Philth is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Four Quarters, London on Fri, 2 Oct 2026.
 
 Philth is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Brighton, Bristol and London and 4 more. Often billed alongside Deefa, Dillinja and Ascension. Next up: Four Quarters, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Philth is a drum & bass and jungle artist based in United Kingdom, with 26 gigs 
 
 Deefa, Dillinja, Ascension
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philth/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philth/)*

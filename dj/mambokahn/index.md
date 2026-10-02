@@ -1,6 +1,6 @@
 # Mambo Kahn
 
-Mambo Kahn is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Haus73, Hamburg on Sat, 10 Oct 2026.
+Mambo Kahn is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Haus73, Hamburg on Sat, 10 Oct 2026.
 
 Mambo Kahn is a bass and techno artist, with 12 gigs on soundcheck across Berlin, Hamburg and Paris. Often billed alongside Ian Pilosa, soo:k and Mayflo. Next up: Haus73, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mambo Kahn is a bass and techno artist, with 12 gigs on soundcheck across Berlin
 
 Ian Pilosa, soo:k, Mayflo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mambokahn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mambokahn/)*

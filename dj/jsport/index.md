@@ -1,6 +1,6 @@
 # JSPORT
 
-JSPORT is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
+JSPORT is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
 
 JSPORT is a club and techno artist, with 9 gigs on soundcheck across Brussels, Chicago, Glasgow and New York City and 1 more. Often billed alongside ARCHANGEL (US), Andy4000 and Archangel. Next up: Bossa Nova Civic Club, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ JSPORT is a club and techno artist, with 9 gigs on soundcheck across Brussels, C
 
 ARCHANGEL (US), Andy4000, Archangel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsport/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsport/)*

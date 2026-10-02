@@ -1,6 +1,6 @@
 # OSO (3)
 
-OSO (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eventhuset, Stockholm on Sat, 10 Oct 2026.
+OSO (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eventhuset, Stockholm on Sat, 10 Oct 2026.
 
 OSO is a techno and tech house artist based in Sweden, with 10 gigs on soundcheck across Stockholm. Often billed alongside Nous Klear, CC Luna and MERILIN. Next up: Eventhuset, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ OSO is a techno and tech house artist based in Sweden, with 10 gigs on soundchec
 
 Nous Klear, CC Luna, MERILIN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oso-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oso-3/)*

@@ -1,6 +1,6 @@
 # ONHELL
 
-ONHELL is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+ONHELL is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 ONHELL is a bass and club artist, with 26 gigs on soundcheck across Austin, Chicago, Detroit and Iowa and 11 more. Often billed alongside Bianca Oblivion, Shades and Anna Morgan. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ONHELL is a bass and club artist, with 26 gigs on soundcheck across Austin, Chic
 
 Bianca Oblivion, Shades, Anna Morgan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onhell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onhell/)*

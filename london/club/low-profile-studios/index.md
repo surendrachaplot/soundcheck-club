@@ -1,6 +1,6 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Klub Kid" on Fri, 2 Oct 2026.
+Low Profile Studios is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Klub Kid" on Fri, 2 Oct 2026.
 
 Low Profile Studios is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including AKnight, ANNX, Demetzy and ebb/flow collective and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
@@ -23,4 +23,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 16 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

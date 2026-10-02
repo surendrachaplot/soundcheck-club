@@ -1,6 +1,6 @@
 # Zona Cinco
 
-Zona Cinco is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at smartbar, Chicago on Fri, 16 Oct 2026.
+Zona Cinco is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Fri, 16 Oct 2026.
 
 Zona Cinco is a techno and acid artist based in United States of America, with 44 gigs on soundcheck across Chicago and Detroit. Often billed alongside Flores Negras, Miss Twink USA and Makeen. Next up: smartbar, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Zona Cinco is a techno and acid artist based in United States of America, with 4
 
 Flores Negras, Miss Twink USA, Makeen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*

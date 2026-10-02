@@ -1,14 +1,15 @@
 # deesco
 
-deesco is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Star Jazz Club, Los Angeles on Fri, 2 Oct 2026.
+deesco is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Star Jazz Club, Los Angeles on Fri, 2 Oct 2026.
 
-deesco is a club and house artist based in United States of America, with 20 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Banoffee, Alxander Ivey and Alima Lee. Next up: Grand Star Jazz Club, Los Angeles on Fri 2 Oct.
+deesco is a club and house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Banoffee, Alxander Ivey and Alima Lee. Next up: Grand Star Jazz Club, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Grand Star Jazz Club | Los Angeles |
+| Fri, 30 Oct 2026 | Baby Battista @ Nico's | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ deesco is a club and house artist based in United States of America, with 20 gig
 
 Banoffee, Alxander Ivey, Alima Lee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*

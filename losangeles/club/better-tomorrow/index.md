@@ -1,6 +1,6 @@
 # Better Tomorrow
 
-Better Tomorrow is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sunday Dance with Tom of England and SOUND METAPHORS DJ'S" on Sun, 4 Oct 2026.
+Better Tomorrow is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sunday Dance with Tom of England and SOUND METAPHORS DJ'S" on Sun, 4 Oct 2026.
 
 Better Tomorrow is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Rose, Capes, Crisco and fun2bjane and 2 more. See dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
 
@@ -18,4 +18,4 @@ Better Tomorrow is a music venue in Los Angeles listed on soundcheck. 5 upcoming
 
 1133 Venice Blvd Los Angeles CA 90033, Los Angeles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*

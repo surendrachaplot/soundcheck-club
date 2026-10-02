@@ -1,6 +1,6 @@
 # Shannen Blessing
 
-Shannen Blessing is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
+Shannen Blessing is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
 
 Shannen Blessing is a techno and trance artist based in Ireland, with 55 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 5 more. Often billed alongside MAV666, Aero and JWY. Next up: Pawn Shop, Dublin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Shannen Blessing is a techno and trance artist based in Ireland, with 55 gigs on
 
 MAV666, Aero (1), JWY (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannenblessing/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannenblessing/)*

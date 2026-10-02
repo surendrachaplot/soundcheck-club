@@ -1,6 +1,6 @@
 # Little Gay Brother
 
-Little Gay Brother is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Little Gay Brother is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Little Gay Brother is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Karlie Marx, Donnie Sunshine and Harry Gay. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Little Gay Brother is a house and disco artist based in United Kingdom, with 10 
 
 Karlie Marx, Donnie Sunshine, Harry Gay
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littlegaybrother/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littlegaybrother/)*

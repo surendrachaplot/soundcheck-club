@@ -1,6 +1,6 @@
 # Bryan Ro
 
-Bryan Ro is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+Bryan Ro is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
 Bryan Ro is a techno and psytrance artist based in Germany, with 60 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Michael Scheppert, JNTN and JACK ROOTS. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bryan Ro is a techno and psytrance artist based in Germany, with 60 gigs on soun
 
 Michael Scheppert, JNTN, JACK ROOTS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanro/)*

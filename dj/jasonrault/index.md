@@ -1,6 +1,6 @@
 # Jason Rault
 
-Jason Rault is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jason Rault is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jason Rault is a house and tech house artist based in Mauritius, with 45 gigs on soundcheck across Miami. Often billed alongside Grove Shaman, Bakke and Soto Music. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jason Rault is a house and tech house artist based in Mauritius, with 45 gigs on
 
 Grove Shaman, Bakke, Soto Music
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*

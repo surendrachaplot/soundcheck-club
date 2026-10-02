@@ -1,6 +1,6 @@
 # OMBRAR
 
-OMBRAR is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
+OMBRAR is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
 
 OMBRAR is a techno and experimental artist, with 17 gigs on soundcheck across Berlin, Bristol, London and Montreal and 1 more. Often billed alongside Labåzuy, BLACK ANTHEM RESTORE and BUYMEFLOVVERS. Next up: The Love Inn, Bristol on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ OMBRAR is a techno and experimental artist, with 17 gigs on soundcheck across Be
 
 Labåzuy, BLACK ANTHEM RESTORE, BUYMEFLOVVERS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ombrar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ombrar/)*

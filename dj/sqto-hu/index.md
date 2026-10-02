@@ -1,6 +1,6 @@
 # sqto
 
-sqto is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pavilon, Budapest on Fri, 2 Oct 2026.
+sqto is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pavilon, Budapest on Fri, 2 Oct 2026.
 
 sqto is a house and breakbeat artist, with 20 gigs on soundcheck across Budapest. Often billed alongside AIRKEY, ARGO (HU) and La La. Next up: Pavilon, Budapest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ sqto is a house and breakbeat artist, with 20 gigs on soundcheck across Budapest
 
 AIRKEY, ARGO (HU), La La
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*

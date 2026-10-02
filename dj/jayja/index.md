@@ -1,6 +1,6 @@
 # Jayja
 
-Jayja is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
+Jayja is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
 
 Jayja is a house and deep house artist based in Thailand, with 49 gigs on soundcheck across Bangkok. Often billed alongside Kunanon, MOODYBOOM and Mumsfilibaba. Next up: TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Jayja is a house and deep house artist based in Thailand, with 49 gigs on soundc
 
 Kunanon, MOODYBOOM, Mumsfilibaba
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayja/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayja/)*

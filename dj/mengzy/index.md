@@ -1,6 +1,6 @@
 # Mengzy
 
-Mengzy is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Social Room, Hong Kong on Sat, 24 Oct 2026.
+Mengzy is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Social Room, Hong Kong on Sat, 24 Oct 2026.
 
 Mengzy is a drum & bass and techno artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Hong Kong, London and Seoul and 1 more. Often billed alongside Magnetic Soul, JFÜNG and DJ FU. Next up: Social Room, Hong Kong on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mengzy is a drum & bass and techno artist based in Netherlands, with 40 gigs on 
 
 Magnetic Soul, JFÜNG, DJ FU (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mengzy/)*

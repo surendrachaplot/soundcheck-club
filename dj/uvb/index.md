@@ -1,6 +1,6 @@
 # UVB
 
-UVB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
+UVB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
 UVB is a techno and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Bas Mooy, Virginia and Ancient Methods. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ UVB is a techno and house artist based in France, with 59 gigs on soundcheck acr
 
 Bas Mooy, Virginia, Ancient Methods
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvb/)*

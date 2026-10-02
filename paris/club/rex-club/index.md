@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rex Club presents: Joris Delacroix all night long" on Thu, 1 Oct 2026.
+Rex Club is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Rex Club presents: Dam Swindle all night long" on Fri, 2 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Rex Club presents: Joris Delacroix all night long | Joris Delacroix |
 | Fri, 2 Oct 2026 | Rex Club presents: Dam Swindle all night long | Dam Swindle |
 | Sat, 3 Oct 2026 | Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA | Andy4000, Busy P, DJ SWISHA, Didi Han |
 | Wed, 7 Oct 2026 | Tape: Maudux, PEAKSOU, Vespera, Naïs | Maudux, Naïs, PEAKSOU |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with 
 | Thu, 15 Oct 2026 | Vaudou Cochon: 2ManyDJs (djset), Anja Sugar, Eddie Megraoui | 2ManyDJs, Anja Sugar |
 | Fri, 16 Oct 2026 | Love International: Ivan Smagghe b2b Dave Harvey, Lola Haro, OK Williams | Dave Harvey, Ivan Smagghe, Lola Haro, OK Williams |
 | Sat, 17 Oct 2026 | Romain Garcia & Friends: CRi, Nicky Elisabeth, Pete K, Romain Garcia | CRi, Nicky Elisabeth, Pete K, Romain Garcia |
+| Wed, 21 Oct 2026 | Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar | Quazar, Vinka Wydro |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

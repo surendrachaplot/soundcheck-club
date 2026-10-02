@@ -1,6 +1,6 @@
 # Jacko
 
-Jacko is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+Jacko is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 Jacko is a tech house and techno artist, with 16 gigs on soundcheck across Amsterdam, Athens, Glasgow and Leeds and 2 more. Often billed alongside Jayzo, Mágafas and Binyamhn. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jacko is a tech house and techno artist, with 16 gigs on soundcheck across Amste
 
 Jayzo, Mágafas, Binyamhn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacko/)*

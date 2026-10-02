@@ -1,6 +1,6 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Greyhound, London on Fri, 2 Oct 2026.
+X-Coast is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Fri, 2 Oct 2026.
 
 X-Coast is a techno and house artist based in Serbia, with 180 gigs on soundcheck across Aberdeen, Amsterdam, Arkansas and Auckland and 61 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: The Greyhound, London on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ X-Coast is a techno and house artist based in Serbia, with 180 gigs on soundchec
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

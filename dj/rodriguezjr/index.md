@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at D! Club, Lausanne on Fri, 2 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at D! Club, Lausanne on Fri, 2 Oct 2026.
 
 Rodriguez Jr. is a house and techno artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: D! Club, Lausanne on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Ralf Kollmann, ARODES
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

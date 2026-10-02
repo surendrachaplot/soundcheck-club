@@ -1,6 +1,6 @@
 # Lavenge
 
-Lavenge is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
+Lavenge is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
 
 Lavenge is a house and tech house artist based in United States of America, with 127 gigs on soundcheck across Los Angeles and Mexico City. Often billed alongside Max Rush, BLANC MAMBA and Tamara Lanza. Next up: Somewhere Special, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lavenge is a house and tech house artist based in United States of America, with
 
 Max Rush, BLANC MAMBA, Tamara Lanza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*

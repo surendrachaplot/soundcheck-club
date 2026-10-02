@@ -1,6 +1,6 @@
 # Agent
 
-Agent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tausend, Berlin on Fri, 2 Oct 2026.
+Agent is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tausend, Berlin on Fri, 2 Oct 2026.
 
 Agent is a house and techno artist, with 10 gigs on soundcheck across Berlin, Nürnberg and Toronto. Often billed alongside Alex Lentini, Andy Kolwes and Bernhard Groeger. Next up: Tausend, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Agent is a house and techno artist, with 10 gigs on soundcheck across Berlin, N�
 
 Alex Lentini, Andy Kolwes, Bernhard Groeger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent/)*

@@ -1,6 +1,6 @@
 # Reinhaudt
 
-Reinhaudt is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Reinhaudt is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Reinhaudt is an experimental and techno artist based in Germany, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside PAX, Midnight Climax and truthspeaker. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Reinhaudt is an experimental and techno artist based in Germany, with 13 gigs on
 
 PAX (2), Midnight Climax, truthspeaker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhaudt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhaudt/)*

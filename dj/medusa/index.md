@@ -1,6 +1,6 @@
 # Medusa
 
-Medusa is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
+Medusa is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
 
 Medusa is a hardcore and gabber artist based in Germany, with 24 gigs on soundcheck across Basel, Bristol, Detroit and Leeds and 6 more. Often billed alongside Edgerunner, Pada and cyaabottom. Next up: Mia Mao, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Medusa is a hardcore and gabber artist based in Germany, with 24 gigs on soundch
 
 Edgerunner, Pada, cyaabottom
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*

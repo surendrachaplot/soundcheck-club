@@ -1,6 +1,6 @@
 # odkis
 
-odkis is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at vurt., Seoul on Fri, 2 Oct 2026.
+odkis is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at vurt., Seoul on Fri, 2 Oct 2026.
 
 odkis is a techno and electro artist based in South Korea, with 31 gigs on soundcheck across Seoul. Often billed alongside Siot, DJ SIN and ASYNC. Next up: vurt., Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ odkis is a techno and electro artist based in South Korea, with 31 gigs on sound
 
 Siot, DJ SIN, ASYNC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odkis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odkis/)*

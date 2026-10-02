@@ -1,6 +1,6 @@
 # Ramy Hasnawe
 
-Ramy Hasnawe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+Ramy Hasnawe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 Ramy Hasnawe is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside BAHAA AL DEEN, Karim Alkhayat and E.lias. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ramy Hasnawe is a house and techno artist based in Germany, with 26 gigs on soun
 
 BAHAA AL DEEN, Karim Alkhayat, E.lias
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyhasnawe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyhasnawe/)*

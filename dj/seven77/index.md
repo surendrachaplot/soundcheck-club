@@ -1,6 +1,6 @@
 # SEVEN77
 
-SEVEN77 is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+SEVEN77 is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 SEVEN77 is a tech house and minimal artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 2 more. Often billed alongside Sandra Silver, Tacchi and Tato. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SEVEN77 is a tech house and minimal artist based in Spain, with 12 gigs on sound
 
 Sandra Silver, Tacchi, Tato (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seven77/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seven77/)*

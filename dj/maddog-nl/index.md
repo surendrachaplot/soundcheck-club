@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: E1, London on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundche
 
 Angerfist, Korsakoff, CLTX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

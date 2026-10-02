@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Flava D is a Drum & Bass and Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: The Regency Ballroom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 106 gigs 
 
 P Money, Whiney, Andy C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

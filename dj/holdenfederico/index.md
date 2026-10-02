@@ -1,6 +1,6 @@
 # Holden Federico
 
-Holden Federico is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
+Holden Federico is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
 
 Holden Federico is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dublin and 8 more. Often billed alongside Analog Soul, MARRØN and Philippa Pacho. Next up: Lincoln Factory, Detroit on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Holden Federico is a techno and house artist based in United States of America, 
 
 Analog Soul, MARRØN, Philippa Pacho
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*

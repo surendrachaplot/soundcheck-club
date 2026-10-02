@@ -1,6 +1,6 @@
 # Omon Breaker
 
-Omon Breaker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Omon Breaker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Omon Breaker is a techno and trance artist based in Ukraine, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 9 more. Often billed alongside Supergloss, Punktmidi and Escape on Tape. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Omon Breaker is a techno and trance artist based in Ukraine, with 47 gigs on sou
 
 Supergloss, Punktmidi, Escape on Tape
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omonbreaker/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omonbreaker/)*

@@ -1,6 +1,6 @@
 # Mario Niain
 
-Mario Niain is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
+Mario Niain is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Mario Niain is a house and electro artist based in Spain, with 9 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Angelo Cortines, F.R.E.D.Y. and Zedlav. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mario Niain is a house and electro artist based in Spain, with 9 gigs on soundch
 
 Angelo Cortines, F.R.E.D.Y., Zedlav
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioniain/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioniain/)*

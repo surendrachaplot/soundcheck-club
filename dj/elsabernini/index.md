@@ -1,6 +1,6 @@
 # Elsa Bernini
 
-Elsa Bernini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
+Elsa Bernini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
 
 Elsa Bernini is a house and techno artist based in France, with 17 gigs on soundcheck across Lyon, Paris and Strasbourg. Often billed alongside elsa winner, Elsa (CH) and Javier. Next up: La Java, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Elsa Bernini is a house and techno artist based in France, with 17 gigs on sound
 
 elsa winner, Elsa (CH), Javier (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsabernini/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsabernini/)*

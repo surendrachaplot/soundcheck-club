@@ -1,6 +1,6 @@
 # Eynka
 
-Eynka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Fri, 9 Oct 2026.
+Eynka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Fri, 9 Oct 2026.
 
 Eynka is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Athens, Budapest and Ibiza and 2 more. Often billed alongside Korolova, Deep Dish and ELIF. Next up: Ministry Of Sound, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Eynka is a house and deep house artist based in United Kingdom, with 15 gigs on 
 
 Korolova, Deep Dish, ELIF
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eynka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eynka/)*

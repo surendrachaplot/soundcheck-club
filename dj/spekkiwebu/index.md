@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Spekki Webu is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Spekki Webu is a techno and house artist based in Netherlands, with 208 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 208 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

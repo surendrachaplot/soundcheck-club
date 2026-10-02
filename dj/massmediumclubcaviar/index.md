@@ -1,6 +1,6 @@
 # Mass Medium / Club Caviar
 
-Mass Medium / Club Caviar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
+Mass Medium / Club Caviar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
 
 Mass Medium / Club Caviar is a house and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Belfast, Brisbane and Bristol and 5 more. Often billed alongside Mass Medium, Club Caviar and DJ Deep Heat. Next up: The Marlborough Red Room, Glasgow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mass Medium / Club Caviar is a house and techno artist based in Netherlands, wit
 
 Mass Medium, Club Caviar, DJ Deep Heat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massmediumclubcaviar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massmediumclubcaviar/)*

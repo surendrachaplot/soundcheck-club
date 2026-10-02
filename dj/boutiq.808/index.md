@@ -1,6 +1,6 @@
 # Boutiq.808
 
-Boutiq.808 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Boutiq.808 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
 Boutiq.808 is a house and tech house artist, with 94 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Hamburg and 3 more. Often billed alongside Chris Beulich, Chris Wood and Valenzia. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Boutiq.808 is a house and tech house artist, with 94 gigs on soundcheck across B
 
 Chris Beulich, Chris Wood, Valenzia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boutiq.808/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boutiq.808/)*

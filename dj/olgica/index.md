@@ -1,6 +1,6 @@
 # Olgica
 
-Olgica is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Olgica is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
 Olgica is a house and bass artist based in Serbia, with 20 gigs on soundcheck across Amsterdam, Belgrade, Ghent and Munich and 2 more. Often billed alongside Sun People, BØRT and Katia Curie. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Olgica is a house and bass artist based in Serbia, with 20 gigs on soundcheck ac
 
 Sun People, BØRT, Katia Curie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*

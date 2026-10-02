@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Joe Rolét is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Joe Rolét is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Berlin, Dublin and Ibiza and 7 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Joe Rolét is a tech house and house artist based in United Kingdom, with 25 gig
 
 Fleur Shore, Max Dean, Olive F
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

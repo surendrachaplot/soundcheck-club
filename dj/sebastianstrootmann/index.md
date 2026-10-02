@@ -1,6 +1,6 @@
 # Sebastian Strootmann
 
-Sebastian Strootmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Absturz, Leipzig on Fri, 16 Oct 2026.
+Sebastian Strootmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Absturz, Leipzig on Fri, 16 Oct 2026.
 
 Sebastian Strootmann is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, Bernd Bugatti and Ebicake. Next up: Absturz, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Strootmann is a techno and house artist based in Germany, with 13 gigs
 
 Fredsn, Bernd Bugatti, Ebicake
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianstrootmann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianstrootmann/)*

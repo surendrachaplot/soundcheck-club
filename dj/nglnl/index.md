@@ -1,6 +1,6 @@
 # NGL (NL)
 
-NGL (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
+NGL (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at LA Rítmica Club, Valencia on Fri, 2 Oct 2026.
 
 NGL (NL) is a techno and industrial artist, with 7 gigs on soundcheck across Belfast, Cologne, Glasgow and Nürnberg and 2 more. Often billed alongside LOOKY, Cassa Cristano and Charlie. Next up: LA Rítmica Club, Valencia on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ NGL (NL) is a techno and industrial artist, with 7 gigs on soundcheck across Bel
 
 LOOKY, Cassa Cristano, Charlie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*

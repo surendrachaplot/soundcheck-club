@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bike Jesus, Prague on Fri, 2 Oct 2026.
+Sandrien is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bike Jesus, Prague on Fri, 2 Oct 2026.
 
 Sandrien is a techno and house artist based in Netherlands, with 174 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Bike Jesus, Prague on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Sandrien is a techno and house artist based in Netherlands, with 174 gigs on sou
 
 JakoJako, DVS1, Fafi Abdel Nour
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

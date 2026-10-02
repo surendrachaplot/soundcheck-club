@@ -1,6 +1,6 @@
 # Felix Joy
 
-Felix Joy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Felix Joy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Felix Joy is a house and disco artist based in United Kingdom, with 28 gigs on soundcheck across Bristol. Often billed alongside A For Alpha, Milly on Air and AÆE. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Felix Joy is a house and disco artist based in United Kingdom, with 28 gigs on s
 
 A For Alpha, Milly on Air, AÆE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixjoy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixjoy/)*

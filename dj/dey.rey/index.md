@@ -1,6 +1,6 @@
 # DEY.REY
 
-DEY.REY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
+DEY.REY is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
 
 DEY.REY is a techno and breakbeat artist, with 28 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and The Hague and 1 more. Often billed alongside Passion DEEZ, Deez and DJ Shahmaran. Next up: The Basement Eindhoven, Eindhoven on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DEY.REY is a techno and breakbeat artist, with 28 gigs on soundcheck across Amst
 
 Passion DEEZ, Deez, DJ Shahmaran
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dey.rey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dey.rey/)*

@@ -1,6 +1,6 @@
 # Koki
 
-Koki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
+Koki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
 
 Koki is a house and techno artist based in Japan, with 47 gigs on soundcheck across Montreal, Osaka, Seoul and Tokyo and 1 more. Often billed alongside FLEDtokyo, Revoxx and SIGNAL (JP). Next up: Z Maruyama, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Koki is a house and techno artist based in Japan, with 47 gigs on soundcheck acr
 
 FLEDtokyo, Revoxx, SIGNAL (JP)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koki/)*

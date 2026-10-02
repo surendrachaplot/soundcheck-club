@@ -1,6 +1,6 @@
 # SAMBA7
 
-SAMBA7 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
+SAMBA7 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
 
 SAMBA7 is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Leipzig. Often billed alongside Meyhartt, VLUNA and CAVVØ. Next up: Absturz, Leipzig on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SAMBA7 is a trance and techno artist based in Germany, with 10 gigs on soundchec
 
 Meyhartt, VLUNA, CAVVØ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*

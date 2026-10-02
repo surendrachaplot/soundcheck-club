@@ -1,6 +1,6 @@
 # Ben Wild
 
-Ben Wild is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Rawhide, New York City on Sun, 4 Oct 2026.
+Ben Wild is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Rawhide, New York City on Sun, 4 Oct 2026.
 
 Ben Wild is a house and deep house artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, Melbourne and New York City. Often billed alongside Grant Tyler, autogyro and Aspirin. Next up: Club Rawhide, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Ben Wild is a house and deep house artist based in United States of America, wit
 
 Grant Tyler, autogyro, Aspirin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwild/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwild/)*

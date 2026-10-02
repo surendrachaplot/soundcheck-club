@@ -1,6 +1,6 @@
 # Jurgen Booi
 
-Jurgen Booi is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
+Jurgen Booi is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
 
 Jurgen Booi is a tech house and afro house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Juan Diabl, Jorick Croes and Kenny Kelly. Next up: Toffler, Rotterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jurgen Booi is a tech house and afro house artist based in Netherlands, with 11 
 
 Juan Diabl, Jorick Croes, Kenny Kelly
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurgenbooi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurgenbooi/)*

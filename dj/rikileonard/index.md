@@ -1,6 +1,6 @@
 # Riki Leonard
 
-Riki Leonard is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 外 Soto, Kyoto on Fri, 9 Oct 2026.
+Riki Leonard is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 外 Soto, Kyoto on Fri, 9 Oct 2026.
 
 Riki Leonard is an electronica and techno artist based in Japan, with 9 gigs on soundcheck across Kyoto. Often billed alongside Paul Leonard, NHK yx koyxen and SAITO. Next up: 外 Soto, Kyoto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Riki Leonard is an electronica and techno artist based in Japan, with 9 gigs on 
 
 Paul Leonard, NHK yx koyxen, SAITO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikileonard/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikileonard/)*

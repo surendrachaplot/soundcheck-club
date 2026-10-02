@@ -1,6 +1,6 @@
 # Delfonic
 
-Delfonic is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
+Delfonic is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
 
 Delfonic is a disco and house artist based in Germany, with 61 gigs on soundcheck across Barcelona, Berlin, Cologne and Düsseldorf and 8 more. Often billed alongside Kapote, Daniel Best and Andrea Dama. Next up: OXI, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Delfonic is a disco and house artist based in Germany, with 61 gigs on soundchec
 
 Kapote, Daniel Best, Andrea Dama
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*

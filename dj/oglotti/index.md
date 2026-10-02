@@ -1,6 +1,6 @@
 # OG Lotti
 
-OG Lotti is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nordstern, Basel on Fri, 2 Oct 2026.
+OG Lotti is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nordstern, Basel on Fri, 2 Oct 2026.
 
 OG Lotti is a techno and trance artist based in Switzerland, with 15 gigs on soundcheck across Basel and Zurich. Often billed alongside Twenny5, kso12 and AEREA. Next up: Nordstern, Basel on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OG Lotti is a techno and trance artist based in Switzerland, with 15 gigs on sou
 
 Twenny5, kso12, AEREA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*

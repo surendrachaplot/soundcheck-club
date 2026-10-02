@@ -1,6 +1,6 @@
 # Sean Rickett
 
-Sean Rickett is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 8 Oct 2026.
+Sean Rickett is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 8 Oct 2026.
 
 Sean Rickett is a techno and house artist based in Malta, with 28 gigs on soundcheck across Malta. Often billed alongside Acidulant, Manthrax and Damz. Next up: Hard Rock Hotel Malta, Malta on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Sean Rickett is a techno and house artist based in Malta, with 28 gigs on soundc
 
 Acidulant, Manthrax, Damz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*

@@ -1,6 +1,6 @@
 # Wasabi
 
-Wasabi is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+Wasabi is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 Wasabi is a techno and psytrance artist based in United States of America, with 7 gigs on soundcheck across Barcelona, Iowa, Miami and Milan and 2 more. Often billed alongside ATRIP, Agent O and B-SIDE. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Wasabi is a techno and psytrance artist based in United States of America, with 
 
 ATRIP, Agent O, B-SIDE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wasabi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wasabi/)*

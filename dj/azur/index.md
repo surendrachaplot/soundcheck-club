@@ -1,6 +1,6 @@
 # Azur
 
-Azur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Hall, Berlin on Sat, 17 Oct 2026.
+Azur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hall, Berlin on Sat, 17 Oct 2026.
 
 Azur is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, London, Manchester and Miami and 1 more. Often billed alongside Animalize, Audeo and BEKIMACHINE. Next up: Void Hall, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Azur is a house and techno artist based in United Kingdom, with 15 gigs on sound
 
 Animalize, Audeo, BEKIMACHINE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azur/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azur/)*

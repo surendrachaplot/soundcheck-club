@@ -1,6 +1,6 @@
 # Hardcore Babes
 
-Hardcore Babes is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rebellion, Manchester on Sat, 3 Oct 2026.
+Hardcore Babes is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rebellion, Manchester on Sat, 3 Oct 2026.
 
 Hardcore Babes is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Liverpool, London and Manchester and 1 more. Often billed alongside 4am Kru, Pacemaker and Sexy Lady Massive. Next up: Rebellion, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hardcore Babes is a jungle and drum & bass artist based in United Kingdom, with 
 
 4am Kru, Pacemaker, Sexy Lady Massive
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcorebabes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcorebabes/)*

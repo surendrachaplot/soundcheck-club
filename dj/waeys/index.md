@@ -1,6 +1,6 @@
 # Waeys
 
-Waeys is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thirty3hz, South-east on Fri, 2 Oct 2026.
+Waeys is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Thirty3hz, South-east on Fri, 2 Oct 2026.
 
 Waeys is a drum & bass and jungle artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 15 more. Often billed alongside Kasra, Enei and SP:MC. Next up: Thirty3hz, South East on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Waeys is a drum & bass and jungle artist based in Netherlands, with 34 gigs on s
 
 Kasra, Enei, SP:MC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*

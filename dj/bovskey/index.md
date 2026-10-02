@@ -1,6 +1,6 @@
 # Bovskey
 
-Bovskey is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
+Bovskey is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
 
 Bovskey is a hip-hop and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside AbuGlitsch, Carl Hang and DJ Cringey. Next up: Prince Charles, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Bovskey is a hip-hop and techno artist based in Germany, with 26 gigs on soundch
 
 AbuGlitsch, Carl Hang, DJ Cringey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovskey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovskey/)*

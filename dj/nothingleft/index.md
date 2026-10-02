@@ -1,6 +1,6 @@
 # Nothing Left
 
-Nothing Left is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
+Nothing Left is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
 
 Nothing Left is a techno and industrial artist based in France, with 31 gigs on soundcheck across Berlin, Budapest, Marseille and Paris and 2 more. Often billed alongside Axciid, Pomah and Skungal. Next up: DNA. CLUB, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nothing Left is a techno and industrial artist based in France, with 31 gigs on 
 
 Axciid, Pomah, Skungal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingleft/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingleft/)*

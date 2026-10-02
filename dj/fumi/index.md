@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+FUMI is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 FUMI is a techno and industrial artist based in France, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ FUMI is a techno and industrial artist based in France, with 98 gigs on soundche
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

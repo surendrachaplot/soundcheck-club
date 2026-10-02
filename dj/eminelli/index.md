@@ -1,6 +1,6 @@
 # Eminelli
 
-Eminelli is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+Eminelli is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
 Eminelli is a techno and drum & bass artist based in Austria, with 7 gigs on soundcheck across Vienna. Often billed alongside VOLTMARIE, ninon. and PAUNA. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Eminelli is a techno and drum & bass artist based in Austria, with 7 gigs on sou
 
 VOLTMARIE, ninon., PAUNA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eminelli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eminelli/)*

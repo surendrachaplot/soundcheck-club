@@ -1,6 +1,6 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at AUX Club, Athens on Fri, 2 Oct 2026.
+Speedy J is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at AUX Club, Athens on Fri, 2 Oct 2026.
 
 Speedy J is a techno and house artist based in Netherlands, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: AUX Club, Athens on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Speedy J is a techno and house artist based in Netherlands, with 139 gigs on sou
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

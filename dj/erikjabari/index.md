@@ -1,6 +1,6 @@
 # Erik Jabari
 
-Erik Jabari is a Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Thu, 8 Oct 2026.
+Erik Jabari is a Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Thu, 8 Oct 2026.
 
 Erik Jabari is a dub techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Brussels, Krakow and London and 1 more. Often billed alongside DJ Pete, Moritz von Oswald and Skee Mask. Next up: Paloma, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Erik Jabari is a dub techno artist based in Germany, with 19 gigs on soundcheck 
 
 DJ Pete, Moritz von Oswald, Skee Mask
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjabari/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikjabari/)*

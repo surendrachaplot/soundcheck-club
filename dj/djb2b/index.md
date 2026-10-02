@@ -1,6 +1,6 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grace Darling Hotel, Melbourne on Fri, 2 Oct 2026.
+DJ B2B is a Hip-Hop and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grace Darling Hotel, Melbourne on Fri, 2 Oct 2026.
 
 DJ B2B is a hip-hop and techno artist based in Mexico, with 215 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Grace Darling Hotel, Melbourne on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ DJ B2B is a hip-hop and techno artist based in Mexico, with 215 gigs on soundche
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

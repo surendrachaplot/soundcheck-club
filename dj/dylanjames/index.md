@@ -1,6 +1,6 @@
 # Dylan James
 
-Dylan James is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
+Dylan James is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
 
 Dylan James is a techno and tech house artist based in United Kingdom, with 21 gigs on soundcheck across London and Melbourne. Often billed alongside Harral, Etwas and Andrea Guadalupi. Next up: TBA - Secret East London Location, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dylan James is a techno and tech house artist based in United Kingdom, with 21 g
 
 Harral, Etwas, Andrea Guadalupi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanjames/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanjames/)*

@@ -1,6 +1,6 @@
 # Nu:Tone
 
-Nu:Tone is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Nu:Tone is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Nu:Tone is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 12 more. Often billed alongside London Elektricity, Metrik and Fred V. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Nu:Tone is a drum & bass and jungle artist based in United Kingdom, with 32 gigs
 
 London Elektricity, Metrik, Fred V
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nutone/)*

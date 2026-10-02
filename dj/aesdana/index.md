@@ -1,6 +1,6 @@
 # Aes Dana
 
-Aes Dana is a Trance and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Band on the Wall, Manchester on Fri, 2 Oct 2026.
+Aes Dana is a Trance and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Band on the Wall, Manchester on Fri, 2 Oct 2026.
 
 Aes Dana is a trance and ambient artist based in France, with 6 gigs on soundcheck across Athens, London and Manchester. Often billed alongside Carbon Based Lifeforms, Miktek and Sync24. Next up: Band on the Wall, Manchester on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Aes Dana is a trance and ambient artist based in France, with 6 gigs on soundche
 
 Carbon Based Lifeforms, Miktek, Sync24
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aesdana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aesdana/)*

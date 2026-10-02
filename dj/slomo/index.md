@@ -1,6 +1,6 @@
 # SloMo
 
-SloMo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
+SloMo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kade, Munich on Fri, 2 Oct 2026.
 
 SloMo is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Munich, Osaka and Stockholm and 2 more. Often billed alongside Neverglass, Toobris and VSSL. Next up: Kade, Munich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SloMo is a techno and house artist based in Germany, with 24 gigs on soundcheck 
 
 Neverglass, Toobris, VSSL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slomo/)*

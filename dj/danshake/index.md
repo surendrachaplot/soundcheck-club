@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Dan Shake is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, with 197 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -23,17 +23,17 @@ Dan Shake is a house and disco artist based in United Kingdom, with 197 gigs on 
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 25 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - MIDNIGHT EAST, Tokyo · Fri, 11 Sept 2026
 - Soap Seoul., Seoul · Sat, 5 Sept 2026
 - 528 Ibiza, Ibiza · Thu, 3 Sept 2026
 - Fuse, Brussels · Sat, 22 Aug 2026
-- Else, Berlin · Fri, 21 Aug 2026
-- Amnesia Ibiza, Ibiza · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Eliza Rose, Eats Everything, MiNNA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Magnet House, Perth on Fri, 2 Oct 2026.
+bradeazy is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Magnet House, Perth on Fri, 2 Oct 2026.
 
 bradeazy is a tech house and house artist based in United States of America, with 37 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 19 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Magnet House, Perth on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ bradeazy is a tech house and house artist based in United States of America, wit
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

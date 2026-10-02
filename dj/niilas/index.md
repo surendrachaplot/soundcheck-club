@@ -1,6 +1,6 @@
 # Niilas
 
-Niilas is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Niilas is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Niilas is an experimental and techno artist based in Norway, with 17 gigs on soundcheck across Barcelona and Oslo. Often billed alongside Posner, Espen Cook and Loveshy. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Niilas is an experimental and techno artist based in Norway, with 17 gigs on sou
 
 Posner, Espen Cook, Loveshy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*

@@ -1,6 +1,6 @@
 # DJ Nelson
 
-DJ Nelson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Glamorama, Melbourne on Sat, 3 Oct 2026.
+DJ Nelson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glamorama, Melbourne on Sat, 3 Oct 2026.
 
 DJ Nelson is a house and techno artist, with 19 gigs on soundcheck across Melbourne. Often billed alongside Ango (AU), Hugh Marcus and MARLINA (AU). Next up: Glamorama, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Nelson is a house and techno artist, with 19 gigs on soundcheck across Melbou
 
 Ango (AU), Hugh Marcus, MARLINA (AU)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnelson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnelson/)*

@@ -1,6 +1,6 @@
 # edge
 
-edge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+edge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
 
 edge is a house and techno artist based in Japan, with 59 gigs on soundcheck across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ edge is a house and techno artist based in Japan, with 59 gigs on soundcheck acr
 
 35DH-1, Kulage, Takami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-jp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge-jp/)*

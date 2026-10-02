@@ -1,6 +1,6 @@
 # MAGA
 
-MAGA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+MAGA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
 MAGA is a house and techno artist based in France, with 86 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: TBA - Archi Club, Costanera, Buenos Aires on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ MAGA is a house and techno artist based in France, with 86 gigs on soundcheck ac
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

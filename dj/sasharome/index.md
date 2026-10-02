@@ -1,6 +1,6 @@
 # Sasha Rome
 
-Sasha Rome is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
+Sasha Rome is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
 
 Sasha Rome is a garage and house artist based in United States of America, with 26 gigs on soundcheck across Chicago and New York City. Often billed alongside Lovelydaze, Gigi Rio and Lord of Ciphers. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Sasha Rome is a garage and house artist based in United States of America, with 
 
 Lovelydaze, Gigi Rio, Lord of Ciphers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*

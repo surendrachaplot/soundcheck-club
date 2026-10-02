@@ -1,6 +1,6 @@
 # Mathias Birnbaum
 
-Mathias Birnbaum is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 2 Oct 2026.
+Mathias Birnbaum is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 2 Oct 2026.
 
 Mathias Birnbaum is a techno and tech house artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Honschu Lee, Maschine and Oliver Raumklang. Next up: Der Weiße Hase, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mathias Birnbaum is a techno and tech house artist based in Germany, with 38 gig
 
 Honschu Lee, Maschine, Oliver Raumklang
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiasbirnbaum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiasbirnbaum/)*

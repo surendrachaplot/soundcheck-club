@@ -1,6 +1,6 @@
 # Paulo Sea
 
-Paulo Sea is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at C12, Brussels on Sat, 31 Oct 2026.
+Paulo Sea is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at C12, Brussels on Sat, 31 Oct 2026.
 
 Paulo Sea is a house and techno artist based in Belgium, with 30 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent. Often billed alongside Fais Le Beau, Dana Kuehr and Sixsixsixties. Next up: C12, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Paulo Sea is a house and techno artist based in Belgium, with 30 gigs on soundch
 
 Fais Le Beau, Dana Kuehr, Sixsixsixties
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulosea/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulosea/)*

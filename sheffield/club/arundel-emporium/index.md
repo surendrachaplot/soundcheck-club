@@ -1,6 +1,6 @@
 # Arundel Emporium
 
-Arundel Emporium is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Heads Will Roll Sheffield" on Sat, 17 Oct 2026.
+Arundel Emporium is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Heads Will Roll Sheffield" on Sat, 17 Oct 2026.
 
 Arundel Emporium is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 16 Matilda Street, Sheffield City Centre, S1 4QD.
 
@@ -14,4 +14,4 @@ Arundel Emporium is a music venue in Sheffield listed on soundcheck. 1 upcoming 
 
 16 Matilda Street, Sheffield City Centre, S1 4QD, Sheffield
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/arundel-emporium/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/arundel-emporium/)*

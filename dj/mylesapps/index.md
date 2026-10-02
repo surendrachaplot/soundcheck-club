@@ -1,6 +1,6 @@
 # Myles Apps
 
-Myles Apps is a Electro and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Endeavour, London on Fri, 2 Oct 2026.
+Myles Apps is a Electro and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Endeavour, London on Fri, 2 Oct 2026.
 
 Myles Apps is an electro and tech house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Rhys Dyer, Aaron Burr and Calla. Next up: Endeavour, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Myles Apps is an electro and tech house artist based in United Kingdom, with 13 
 
 Rhys Dyer, Aaron Burr (2), Calla
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesapps/)*

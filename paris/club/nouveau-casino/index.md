@@ -1,6 +1,6 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Stingray 313" on Fri, 2 Oct 2026.
+Nouveau Casino is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DJ Stingray 313" on Fri, 2 Oct 2026.
 
 Nouveau Casino is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Aleqs Notal, Ben Manson, DJ Stingray 313 and Jean Nipon and 2 more. See dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
@@ -17,4 +17,4 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 4 upcoming gigs, 
 
 109 Rue Oberkampf, 75011 Paris, France, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*

@@ -1,6 +1,6 @@
 # TBA - Join our Telegram
 
-TBA - Join our Telegram is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "VRTXXX" on Thu, 8 Oct 2026.
+TBA - Join our Telegram is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "VRTXXX" on Thu, 8 Oct 2026.
 
 TBA - Join our Telegram is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Ixa and KALI.. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Join our Telegram is a music venue in Berlin listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | VRTXXX | Ixa (2), KALI. |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-join-our-telegram/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-join-our-telegram/)*

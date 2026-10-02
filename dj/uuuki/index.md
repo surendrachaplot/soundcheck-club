@@ -1,6 +1,6 @@
 # UUUKi
 
-UUUKi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Koara, Tokyo on Sat, 10 Oct 2026.
+UUUKi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Koara, Tokyo on Sat, 10 Oct 2026.
 
 UUUKi is a house and tech house artist, with 32 gigs on soundcheck across Tokyo. Often billed alongside Rio Kawamoto, Mikio Kaminakamura and Genki Tanaka. Next up: Koara, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ UUUKi is a house and tech house artist, with 32 gigs on soundcheck across Tokyo.
 
 Rio Kawamoto, Mikio Kaminakamura, Genki Tanaka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuuki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuuki/)*

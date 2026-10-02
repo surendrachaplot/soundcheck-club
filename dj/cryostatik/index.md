@@ -1,6 +1,6 @@
 # Cryostatik
 
-Cryostatik is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
+Cryostatik is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
 
 Cryostatik is a drum & bass and techno artist based in United States of America, with 23 gigs on soundcheck across New York City. Often billed alongside Alex Viper, DJ girlcrush and 400PROOF. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cryostatik is a drum & bass and techno artist based in United States of America,
 
 Alex Viper, DJ girlcrush, 400PROOF
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryostatik/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryostatik/)*

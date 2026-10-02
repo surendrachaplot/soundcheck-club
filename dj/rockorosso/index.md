@@ -1,6 +1,6 @@
 # rockorosso
 
-rockorosso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
+rockorosso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
 
 rockorosso is a house and tech house artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside Nicco Lupen, Tatomed and Rajky. Next up: K7, Prague on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ rockorosso is a house and tech house artist based in Czech Republic, with 4 gigs
 
 Nicco Lupen, Tatomed (2), Rajky
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockorosso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockorosso/)*

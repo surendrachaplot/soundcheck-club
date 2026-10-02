@@ -1,6 +1,6 @@
 # Caspa
 
-Caspa is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ramova Theatre, Chicago on Sat, 7 Nov 2026.
+Caspa is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ramova Theatre, Chicago on Sat, 7 Nov 2026.
 
 Caspa is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Bristol, Chicago and London and 8 more. Often billed alongside MINTY, Deep Tempo and ENiGMA Dubz. Next up: Ramova Theatre, Chicago on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Caspa is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs 
 
 MINTY, Deep Tempo, ENiGMA Dubz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspa/)*

@@ -1,6 +1,6 @@
 # Krystal Klear - NEW YEARS EVE at The Merchant
 
-Krystal Klear - NEW YEARS EVE at The Merchant on Thu 31 Dec, Liverpool. 2 artists: Krystal Klear and Love Machine. See the line-up on soundcheck.
+Krystal Klear - NEW YEARS EVE at The Merchant on Thu 31 Dec, Liverpool. 2 artists: Krystal Klear and Love Machine. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

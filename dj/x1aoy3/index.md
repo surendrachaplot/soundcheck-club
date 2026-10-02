@@ -1,6 +1,6 @@
 # x1aoy3
 
-x1aoy3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Announced to Ticketholders Day Of, Seattle on Sat, 10 Oct 2026.
+x1aoy3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Announced to Ticketholders Day Of, Seattle on Sat, 10 Oct 2026.
 
 x1aoy3 is a techno and club artist based in China, with 7 gigs on soundcheck across Detroit, Seattle and Tokyo. Often billed alongside Hünter, noRecall and AllA. Next up: TBA - Announced to Ticketholders Day Of, Seattle on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ x1aoy3 is a techno and club artist based in China, with 7 gigs on soundcheck acr
 
 Hünter, noRecall, AllA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x1aoy3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x1aoy3/)*

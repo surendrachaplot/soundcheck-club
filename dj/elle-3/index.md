@@ -1,6 +1,6 @@
 # Elle (AU)
 
-Elle (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New Guernica, Melbourne on Fri, 2 Oct 2026.
+Elle (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Guernica, Melbourne on Fri, 2 Oct 2026.
 
 Elle (AU) is a techno and trance artist based in Australia, with 19 gigs on soundcheck across Melbourne. Often billed alongside Willem (AU), Missé and Monfreaq. Next up: New Guernica, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Elle (AU) is a techno and trance artist based in Australia, with 19 gigs on soun
 
 Willem (AU), Missé, Monfreaq
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elle-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elle-3/)*

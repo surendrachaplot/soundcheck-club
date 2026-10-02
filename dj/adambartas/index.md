@@ -1,6 +1,6 @@
 # Adam Bartas
 
-Adam Bartas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
+Adam Bartas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
 
 Adam Bartas is a techno and house artist, with 6 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside ASLO, Boris Brejcha and Claptone. Next up: Arena Joondalup, Perth on Fri 15 Jan.
 
@@ -22,4 +22,4 @@ Adam Bartas is a techno and house artist, with 6 gigs on soundcheck across Brisb
 
 ASLO, Boris Brejcha, Claptone
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambartas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambartas/)*

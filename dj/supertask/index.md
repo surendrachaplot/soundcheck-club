@@ -1,6 +1,6 @@
 # Supertask
 
-Supertask is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+Supertask is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 Supertask is a bass and downtempo artist, with 13 gigs on soundcheck across Chicago, Denver, Houston and Iowa and 8 more. Often billed alongside ATYYA, Agent O and Daizy. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Supertask is a bass and downtempo artist, with 13 gigs on soundcheck across Chic
 
 ATYYA, Agent O, Daizy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supertask/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supertask/)*

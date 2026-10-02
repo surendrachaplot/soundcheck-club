@@ -1,18 +1,18 @@
 # Egui
 
-Egui is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Thu, 1 Oct 2026.
+Egui is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Yard, Manchester on Sat, 31 Oct 2026.
 
-Egui is a techno and trance artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Deventi, Kuriboh and Connor (UK). Next up: The White Hotel, Manchester on Thu 1 Oct.
+Egui is a techno and trance artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Deventi, Kuriboh and Connor (UK). Next up: The Yard, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | The White Hotel | Manchester |
 | Sat, 31 Oct 2026 | The Yard | Manchester |
 
 ## Recently played
 
+- The White Hotel, Manchester · Thu, 1 Oct 2026
 - The DBA, Manchester · Fri, 28 Aug 2026
 - Stage and Radio, Manchester · Fri, 19 Jun 2026
 - Meraki, Liverpool · Fri, 5 Jun 2026
@@ -20,10 +20,9 @@ Egui is a techno and trance artist based in United Kingdom, with 29 gigs on soun
 - TBA - secret, London · Sat, 9 May 2026
 - The DBA, Manchester · Thu, 30 Apr 2026
 - The Radio Room @ Stage & Radio, Manchester · Sat, 21 Mar 2026
-- The Bag Factory, Manchester · Sun, 8 Mar 2026
 
 ## Shares bills with
 
 Deventi, Kuriboh, Connor (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egui/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egui/)*

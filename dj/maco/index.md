@@ -1,6 +1,6 @@
 # Maco
 
-Maco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZUBAR, Tokyo on Sun, 1 Nov 2026.
+Maco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZUBAR, Tokyo on Sun, 1 Nov 2026.
 
 Maco is a house and techno artist, with 39 gigs on soundcheck across London, Paris and Tokyo. Often billed alongside Kojiro, Kane Solo and Reda Dare. Next up: ZUBAR, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Maco is a house and techno artist, with 39 gigs on soundcheck across London, Par
 
 Kojiro, Kane Solo, Reda Dare
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maco/)*

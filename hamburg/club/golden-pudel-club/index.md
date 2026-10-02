@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Give Me A Break" on Thu, 1 Oct 2026.
+Golden Pudel Club is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RAWDOGS vol. 3 with Yass & Mali" on Fri, 2 Oct 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Anton Jonathan, Bézier, BrthrMidnyt and cristian zanotti and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Give Me A Break | Farsight, Ivaldo Gino, Nassstya, PUSS1 BABA, Ring41 |
 | Fri, 2 Oct 2026 | RAWDOGS vol. 3 with Yass & Mali | Enzo V8, Yass & Mali |
 | Sat, 3 Oct 2026 | Leatherette | BrthrMidnyt, Bézier, DSGNRPSSY, La Carpio, cristian zanotti |
 | Fri, 9 Oct 2026 | GOME + The Gang with Muallem | GOME, Muallem |
@@ -19,4 +18,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

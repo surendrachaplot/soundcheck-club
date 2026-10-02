@@ -1,6 +1,6 @@
 # ELISAVETA
 
-ELISAVETA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
+ELISAVETA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
 ELISAVETA is a techno and trance artist based in Greece, with 15 gigs on soundcheck across Athens. Often billed alongside Cirkle, VSSLS and Até.. Next up: Universe Athens, Athens on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ELISAVETA is a techno and trance artist based in Greece, with 15 gigs on soundch
 
 Cirkle, VSSLS, Até.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaveta/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaveta/)*

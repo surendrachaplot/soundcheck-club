@@ -1,6 +1,6 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Vaag, Antwerp on Fri, 2 Oct 2026.
+Faster Horses is a Techno and Trance artist with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vaag, Antwerp on Fri, 2 Oct 2026.
 
 Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: Club Vaag, Antwerp on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 250 gi
 
 Azyr, Leaha, Kander
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

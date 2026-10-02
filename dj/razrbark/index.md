@@ -1,6 +1,6 @@
 # Razrbark
 
-Razrbark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 14x21, Los Angeles on Fri, 2 Oct 2026.
+Razrbark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 14x21, Los Angeles on Fri, 2 Oct 2026.
 
 Razrbark is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, New York City and Seattle. Often billed alongside Larry Termite, Alien D and Day Cart. Next up: TBA - 14x21, Los Angeles on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Razrbark is a techno and house artist based in United States of America, with 22
 
 Larry Termite, Alien D, Day Cart
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razrbark/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razrbark/)*

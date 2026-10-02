@@ -1,6 +1,6 @@
 # Neutralised
 
-Neutralised is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
+Neutralised is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
 
 Neutralised is a bass and hardcore artist based in Germany, with 10 gigs on soundcheck across Berlin and Bristol. Often billed alongside Baxua, Dr. Dickey and FoxMind. Next up: Blue Velvet, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Neutralised is a bass and hardcore artist based in Germany, with 10 gigs on soun
 
 Baxua, Dr. Dickey, FoxMind
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neutralised/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neutralised/)*

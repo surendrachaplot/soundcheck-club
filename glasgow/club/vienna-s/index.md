@@ -1,6 +1,6 @@
 # Vienna's
 
-Vienna's is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "I AM A RAVER presents NANNA MAKINA" on Fri, 13 Nov 2026.
+Vienna's is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "I AM A RAVER presents NANNA MAKINA" on Fri, 13 Nov 2026.
 
 Vienna's is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Nanna Makina. See dates, start times and who's playing. 20 New St, Paisley PA1 1YB.
 
@@ -16,4 +16,4 @@ Vienna's is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with
 
 20 New St, Paisley PA1 1YB, Glasgow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vienna-s/)*

@@ -1,6 +1,6 @@
 # Casa Kobrae
 
-Casa Kobrae is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
+Casa Kobrae is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
 
 Casa Kobrae is a techno and ghetto tech artist, with 56 gigs on soundcheck across Montreal and Toronto. Often billed alongside JASHIM, Katamina and nastygloss. Next up: ESC, Montreal on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Casa Kobrae is a techno and ghetto tech artist, with 56 gigs on soundcheck acros
 
 JASHIM, Katamina, nastygloss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*

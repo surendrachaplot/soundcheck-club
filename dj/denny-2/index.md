@@ -1,14 +1,15 @@
 # denny
 
-denny is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Modeci, Seoul on Sat, 3 Oct 2026.
+denny is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Modeci, Seoul on Sat, 3 Oct 2026.
 
-denny is a house and club artist, with 46 gigs on soundcheck across Seoul. Often billed alongside Oldshoes, Acidwork and Chae. Next up: Modeci, Seoul on Sat 3 Oct.
+denny is a house and club artist, with 47 gigs on soundcheck across Seoul. Often billed alongside Oldshoes, Acidwork and DJ Soulscape. Next up: Modeci, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Modeci | Seoul |
+| Fri, 16 Oct 2026 | Modeci | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ denny is a house and club artist, with 46 gigs on soundcheck across Seoul. Often
 
 ## Shares bills with
 
-Oldshoes, Acidwork, Chae
+Oldshoes, Acidwork, DJ Soulscape
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denny-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denny-2/)*

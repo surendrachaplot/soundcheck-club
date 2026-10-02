@@ -1,6 +1,6 @@
 # El Zárate
 
-El Zárate is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mola, Austin on Sat, 3 Oct 2026.
+El Zárate is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mola, Austin on Sat, 3 Oct 2026.
 
 El Zárate is a house and minimal artist based in United States of America, with 21 gigs on soundcheck across Austin, Barcelona, Berlin and Mexico City and 2 more. Often billed alongside Jacques-André, Mauricio Meade and ALKMST. Next up: TBA - Mola, Austin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ El Zárate is a house and minimal artist based in United States of America, with
 
 Jacques-André, Mauricio Meade, ALKMST
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elzarate/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elzarate/)*

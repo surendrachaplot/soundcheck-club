@@ -1,6 +1,6 @@
 # JoeJas
 
-JoeJas is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
+JoeJas is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
 
 JoeJas is a hip-hop and experimental artist, with 38 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside retropxssy, anti.Net and ACE C0NWAY. Next up: Fuzzbrain Studios, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ JoeJas is a hip-hop and experimental artist, with 38 gigs on soundcheck across A
 
 retropxssy, anti.Net, ACE C0NWAY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*

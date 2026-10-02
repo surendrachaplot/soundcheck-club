@@ -1,6 +1,6 @@
 # elle xxo
 
-elle xxo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
+elle xxo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
 elle xxo is a techno and house artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside Crush Club, Aleska and Cowgrrrl. Next up: Mood Ring, New York City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ elle xxo is a techno and house artist based in United States of America, with 34
 
 Crush Club, Aleska, Cowgrrrl
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*

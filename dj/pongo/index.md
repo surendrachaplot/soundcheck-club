@@ -1,6 +1,6 @@
 # Pongo
 
-Pongo is a Kuduro and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Wintercircus, Ghent on Tue, 1 Dec 2026.
+Pongo is a Kuduro and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Wintercircus, Ghent on Tue, 1 Dec 2026.
 
 Pongo is a kuduro and afrobeat artist based in Angola, with 14 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 6 more. Often billed alongside Miss Monique, AARON and ABIBA. Next up: Club Wintercircus, Ghent on Tue 1 Dec.
 
@@ -26,4 +26,4 @@ Pongo is a kuduro and afrobeat artist based in Angola, with 14 gigs on soundchec
 
 Miss Monique, AARON, ABIBA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo/)*

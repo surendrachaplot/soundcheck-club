@@ -1,6 +1,6 @@
 # Destin
 
-Destin is a Footwork and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blank Site, Seoul on Fri, 16 Oct 2026.
+Destin is a Footwork and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blank Site, Seoul on Fri, 16 Oct 2026.
 
 Destin is a footwork and hip-hop artist, with 6 gigs on soundcheck across Seoul. Often billed alongside Delic'amarr, MSG and HYUNHXEE. Next up: Blank Site, Seoul on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Destin is a footwork and hip-hop artist, with 6 gigs on soundcheck across Seoul.
 
 Delic'amarr, MSG (2), HYUNHXEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destin/)*

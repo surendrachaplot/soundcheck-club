@@ -1,6 +1,6 @@
 # morrolander
 
-morrolander is a Bass and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Sat, 3 Oct 2026.
+morrolander is a Bass and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Şahika, Istanbul on Sat, 3 Oct 2026.
 
 morrolander is a bass and acid artist based in Turkey, with 13 gigs on soundcheck across Istanbul and Paris. Often billed alongside jtamul, Supu and matrus. Next up: Şahika, Istanbul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ morrolander is a bass and acid artist based in Turkey, with 13 gigs on soundchec
 
 jtamul, Supu, matrus
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morrolander/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morrolander/)*

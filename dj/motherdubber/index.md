@@ -1,6 +1,6 @@
 # Mother Dubber
 
-Mother Dubber is a Dancehall and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kauz, Zurich on Fri, 16 Oct 2026.
+Mother Dubber is a Dancehall and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Fri, 16 Oct 2026.
 
 Mother Dubber is a dancehall and dub artist, with 12 gigs on soundcheck across Geneva, Lausanne and Zurich. Often billed alongside Blaise Deville, Bony Fly and O.B.F. Next up: Kauz, Zurich on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mother Dubber is a dancehall and dub artist, with 12 gigs on soundcheck across G
 
 Blaise Deville, Bony Fly, O.B.F
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motherdubber/)*

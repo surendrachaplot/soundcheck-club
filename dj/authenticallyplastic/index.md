@@ -1,6 +1,6 @@
 # Authentically Plastic
 
-Authentically Plastic is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Authentically Plastic is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 Authentically Plastic is a techno and club artist based in Uganda, with 57 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 20 more. Often billed alongside Nsasi, Soft Break and Turkana. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Authentically Plastic is a techno and club artist based in Uganda, with 57 gigs 
 
 Nsasi, Soft Break, Turkana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*

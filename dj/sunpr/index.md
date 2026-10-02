@@ -1,6 +1,6 @@
 # Sunpr
 
-Sunpr is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 3 Oct 2026.
+Sunpr is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 3 Oct 2026.
 
 Sunpr is a techno and tech house artist based in France, with 17 gigs on soundcheck across Strasbourg. Often billed alongside Doudeh, Joey 808 and 1client. Next up: Karmen Camina, Strasbourg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sunpr is a techno and tech house artist based in France, with 17 gigs on soundch
 
 Doudeh, Joey 808, 1client
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunpr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunpr/)*

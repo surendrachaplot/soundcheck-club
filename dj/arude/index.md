@@ -1,6 +1,6 @@
 # Arude
 
-Arude is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Smolna, Warsaw on Fri, 2 Oct 2026.
+Arude is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Fri, 2 Oct 2026.
 
 Arude is a techno and house artist based in Poland, with 13 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Krakow and 2 more. Often billed alongside Sincz, Biodan and GHEIST. Next up: Smolna, Warsaw on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Arude is a techno and house artist based in Poland, with 13 gigs on soundcheck a
 
 Sincz, Biodan, GHEIST
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arude/)*

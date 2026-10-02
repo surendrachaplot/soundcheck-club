@@ -1,14 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Laidlaw is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 34 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 34 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Fri, 16 Oct 2026 | Nitsa Club | Barcelona |
@@ -22,6 +21,7 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs 
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
 - Mint XL, Leeds · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
@@ -29,10 +29,9 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs 
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Ouseburn Garden, Newcastle · Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 3 Sept 2026
-- The Nest, Nottingham · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

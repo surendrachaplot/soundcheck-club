@@ -1,6 +1,6 @@
 # fr. JPLA
 
-fr. JPLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Hall, Berlin on Fri, 2 Oct 2026.
+fr. JPLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hall, Berlin on Fri, 2 Oct 2026.
 
 fr. JPLA is a techno and house artist based in Germany, with 80 gigs on soundcheck across Berlin, Hamburg, Leipzig and Toronto and 1 more. Often billed alongside karete bu, Barbara Hofmann and Hang Aoki. Next up: Void Hall, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ fr. JPLA is a techno and house artist based in Germany, with 80 gigs on soundche
 
 karete bu, Barbara Hofmann, Hang Aoki
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fr.jpla/)*

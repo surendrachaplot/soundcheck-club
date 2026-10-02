@@ -1,6 +1,6 @@
 # N:in (DE)
 
-N:in (DE) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
+N:in (DE) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
 
 N:in (DE) is a bass and techno artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Christian Kluge, Laetizia and Ivaldo Gino. Next up: Hafenklang, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ N:in (DE) is a bass and techno artist based in Germany, with 49 gigs on soundche
 
 Christian Kluge, Laetizia, Ivaldo Gino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*

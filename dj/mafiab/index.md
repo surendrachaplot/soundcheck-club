@@ -1,6 +1,6 @@
 # Mafia B
 
-Mafia B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Mafia B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Mafia B is a house and techno artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Rami Paradise, ANDG LUNA and ASMOT. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mafia B is a house and techno artist based in United States of America, with 12 
 
 Rami Paradise, ANDG LUNA, ASMOT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiab/)*

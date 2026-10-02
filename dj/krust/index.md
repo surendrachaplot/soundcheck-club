@@ -1,6 +1,6 @@
 # Krust
 
-Krust is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Krust is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Krust is a drum & bass and jungle artist based in United Kingdom, with 36 gigs on soundcheck across Birmingham, Brighton, Bristol and Ibiza and 3 more. Often billed alongside Jumping Jack Frost, Bryan Gee and DJ Die. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Krust is a drum & bass and jungle artist based in United Kingdom, with 36 gigs o
 
 Jumping Jack Frost, Bryan Gee, DJ Die
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krust/)*

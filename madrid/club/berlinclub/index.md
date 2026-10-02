@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Danke 5th Anniversary · Mihai Pol + DHERMIDA B2B Manu Rochina" on Fri, 2 Oct 2026.
+berlinClub is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Danke 5th Anniversary · Mihai Pol + DHERMIDA B2B Manu Rochina" on Fri, 2 Oct 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Alejandro Paz, Alexis mayer, Daddy Squad and David Calo and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -21,4 +21,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

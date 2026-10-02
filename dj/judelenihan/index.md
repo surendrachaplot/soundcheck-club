@@ -1,6 +1,6 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
+Jude Lenihan is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
 
 Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: Eiger Studios, Leeds on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 g
 
 Benji King, Phill de Janeiro, j:me
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*

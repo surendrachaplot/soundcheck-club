@@ -1,6 +1,6 @@
 # BbbBbBB (2)
 
-BbbBbBB (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Fri, 2 Oct 2026.
+BbbBbBB (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Fri, 2 Oct 2026.
 
 BbbBbBB is a techno artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside AZA, Callie Reiff and Cosmo. Next up: public records, New York City on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ BbbBbBB is a techno artist based in United States of America, with 7 gigs on sou
 
 AZA, Callie Reiff, Cosmo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb-2/)*

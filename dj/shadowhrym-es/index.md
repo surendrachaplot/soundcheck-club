@@ -1,6 +1,6 @@
 # Shadow Hrym (ES)
 
-Shadow Hrym (ES) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
+Shadow Hrym (ES) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
 
 Shadow Hrym (ES) is a techno and acid artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 4 more. Often billed alongside Roll Dann, Laia and Olivia Mendez. Next up: Mõss Club Valladolid, North on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Shadow Hrym (ES) is a techno and acid artist based in Spain, with 43 gigs on sou
 
 Roll Dann, Laia, Olivia Mendez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowhrym-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowhrym-es/)*

@@ -1,6 +1,6 @@
 # LOKI (2)
 
-LOKI (2) is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sun, 11 Oct 2026.
+LOKI (2) is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Sun, 11 Oct 2026.
 
 LOKI is an afro house and afro tech artist, with 11 gigs on soundcheck across London. Often billed alongside DJ IC, Porsh DJ and N Fostell. Next up: Planet Wax, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ LOKI is an afro house and afro tech artist, with 11 gigs on soundcheck across Lo
 
 DJ IC, Porsh DJ, N Fostell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-2/)*

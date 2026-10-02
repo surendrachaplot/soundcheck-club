@@ -1,6 +1,6 @@
 # Rimarkable
 
-Rimarkable is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
+Rimarkable is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
 
 Rimarkable is a house and techno artist based in United States of America, with 122 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 11 more. Often billed alongside LADYMONIX, Stacey Hotwaxx Hale and Carl Craig. Next up: Lincoln Factory, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rimarkable is a house and techno artist based in United States of America, with 
 
 LADYMONIX, Stacey Hotwaxx Hale, Carl Craig
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimarkable-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimarkable-us/)*

@@ -1,6 +1,6 @@
 # Naajet (2)
 
-Naajet (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
+Naajet (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
 
 Naajet is a house and techno artist based in France, with 32 gigs on soundcheck across Amsterdam, Berlin, Lyon and Nantes and 2 more. Often billed alongside LeLeon, Bande de Filles and Goldie B. Next up: Stereolux, Nantes on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Naajet is a house and techno artist based in France, with 32 gigs on soundcheck 
 
 LeLeon, Bande de Filles, Goldie B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*

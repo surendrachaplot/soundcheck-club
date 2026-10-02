@@ -1,6 +1,6 @@
 # Shanne
 
-Shanne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Shanne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Shanne is a house and tech house artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Job de Jong, Anil Aras and M-High. Next up: Shelter Amsterdam, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Shanne is a house and tech house artist based in Netherlands, with 46 gigs on so
 
 Job de Jong, Anil Aras, M-High
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanne/)*

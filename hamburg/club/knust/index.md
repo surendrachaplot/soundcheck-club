@@ -1,6 +1,6 @@
 # Knust
 
-Knust is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Obsimo (live set) - Hamburg" on Sat, 3 Oct 2026.
+Knust is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Obsimo (live set) - Hamburg" on Sat, 3 Oct 2026.
 
 Knust is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Obsimo. See dates, start times and who's playing. Neuer Kamp 30, 20357 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Knust is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with li
 
 Neuer Kamp 30, 20357 Hamburg, Germany, Hamburg
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/knust/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/knust/)*

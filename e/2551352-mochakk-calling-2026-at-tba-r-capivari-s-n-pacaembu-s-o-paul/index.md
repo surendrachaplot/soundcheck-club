@@ -1,6 +1,6 @@
 # MOCHAKK CALLING 2026 at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010
 
-MOCHAKK CALLING 2026 at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010 on Sat 3 Oct, Sao Paulo. 4 artists: Anastazja, Corvina, Mochakk and Peroli. See the line-up on soundcheck.
+MOCHAKK CALLING 2026 at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010 on Sat 3 Oct, Sao Paulo. 4 artists: Anastazja, Corvina, Mochakk and Peroli. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

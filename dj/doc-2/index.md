@@ -1,6 +1,6 @@
 # DOC (2)
 
-DOC (2) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+DOC (2) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 DOC is a techno and ambient artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Barcelona and Tokyo. Often billed alongside Ario, Cobahn and Vand. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DOC is a techno and ambient artist based in Netherlands, with 18 gigs on soundch
 
 Ario, Cobahn, Vand
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doc-2/)*

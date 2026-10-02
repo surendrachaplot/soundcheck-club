@@ -1,6 +1,6 @@
 # SKiiDA
 
-SKiiDA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Henz Club, Seoul on Fri, 2 Oct 2026.
+SKiiDA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Henz Club, Seoul on Fri, 2 Oct 2026.
 
 SKiiDA is a club and hip-hop artist based in South Korea, with 152 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside DOBERMAN, Multivsn and ANDOW. Next up: The Henz Club, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SKiiDA is a club and hip-hop artist based in South Korea, with 152 gigs on sound
 
 DOBERMAN, Multivsn, ANDOW
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiida/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiida/)*

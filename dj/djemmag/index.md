@@ -1,6 +1,6 @@
 # DJ Emma G
 
-DJ Emma G is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at migas, a listening bar, Berlin on Sat, 10 Oct 2026.
+DJ Emma G is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at migas, a listening bar, Berlin on Sat, 10 Oct 2026.
 
 DJ Emma G is a jungle and drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across Berlin and London. Often billed alongside Doc Scott, Ant TC1 and Bailey (UK). Next up: migas, a listening bar, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DJ Emma G is a jungle and drum & bass artist based in United Kingdom, with 7 gig
 
 Doc Scott, Ant TC1, Bailey (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemmag/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemmag/)*

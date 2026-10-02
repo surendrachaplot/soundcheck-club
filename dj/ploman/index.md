@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Modeci, Seoul on Fri, 2 Oct 2026.
+PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Modeci, Seoul on Fri, 2 Oct 2026.
 
 PLO Man is a techno and house artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Modeci, Seoul on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ PLO Man is a techno and house artist based in Germany, with 163 gigs on soundche
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

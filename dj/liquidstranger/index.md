@@ -1,6 +1,6 @@
 # Liquid Stranger
 
-Liquid Stranger is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Liquid Stranger is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Liquid Stranger is a bass and dubstep artist based in Sweden, with 17 gigs on soundcheck across Amsterdam, Austin, Chicago and London and 6 more. Often billed alongside Galantis, KREAM and Zedd. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Liquid Stranger is a bass and dubstep artist based in Sweden, with 17 gigs on so
 
 Galantis, KREAM, Zedd
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*

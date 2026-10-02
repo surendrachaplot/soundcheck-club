@@ -1,6 +1,6 @@
 # ACID FLORA
 
-ACID FLORA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
+ACID FLORA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 ACID FLORA is a house and deep house artist based in Switzerland, with 44 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Lisbon and 4 more. Often billed alongside Animal Trainer, Mira and Britta Arnold. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ACID FLORA is a house and deep house artist based in Switzerland, with 44 gigs o
 
 Animal Trainer, Mira, Britta Arnold
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidflora/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidflora/)*

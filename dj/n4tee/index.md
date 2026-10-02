@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales Loft, London on Fri, 2 Oct 2026.
+n4tee is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales Loft, London on Fri, 2 Oct 2026.
 
 n4tee is a garage and house artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: Night Tales Loft, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ n4tee is a garage and house artist based in United Kingdom, with 41 gigs on soun
 
 Auramatic, Skeptic, DAISY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

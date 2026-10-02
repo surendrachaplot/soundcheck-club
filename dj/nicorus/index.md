@@ -1,6 +1,6 @@
 # Nicorus
 
-Nicorus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Nicorus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 Nicorus is a techno and house artist, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Leon Licht, Elli Altenberger and Bora Project. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nicorus is a techno and house artist, with 12 gigs on soundcheck across Berlin a
 
 Leon Licht, Elli Altenberger, Bora Project
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicorus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicorus/)*

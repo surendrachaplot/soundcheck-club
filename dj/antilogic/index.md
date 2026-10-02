@@ -1,6 +1,6 @@
 # Antilogic
 
-Antilogic is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+Antilogic is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
 Antilogic is a bass and baile funk artist based in France, with 6 gigs on soundcheck across Marseille, Nantes, Paris and Rennes. Often billed alongside ARTEM (FR), Blood of Aza and CWTCH. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
@@ -12,6 +12,7 @@ Antilogic is a bass and baile funk artist based in France, with 6 gigs on soundc
 
 ## Recently played
 
+- Théâtre du Vieux St-Étienne, Rennes · Thu, 1 Oct 2026
 - Macadam, Nantes · Thu, 20 Aug 2026
 - Badaboum, Paris · Fri, 22 May 2026
 - Le Sample, Paris · Sat, 21 Mar 2026
@@ -22,4 +23,4 @@ Antilogic is a bass and baile funk artist based in France, with 6 gigs on soundc
 
 ARTEM (FR), Blood of Aza, CWTCH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antilogic/)*

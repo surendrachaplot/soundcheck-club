@@ -1,6 +1,6 @@
 # Cari Lekebusch
 
-Cari Lekebusch is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Art School, Glasgow on Fri, 2 Oct 2026.
+Cari Lekebusch is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Art School, Glasgow on Fri, 2 Oct 2026.
 
 Cari Lekebusch is a techno and acid artist based in Sweden, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: The Art School, Glasgow on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cari Lekebusch is a techno and acid artist based in Sweden, with 15 gigs on soun
 
 Christian AB, Olof Dreijer, Polygonia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*

@@ -1,6 +1,6 @@
 # Tommy Holohan
 
-Tommy Holohan is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Tommy Holohan is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Tommy Holohan is a techno and house artist based in Ireland, with 122 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 42 more. Often billed alongside KETTAMA, Clouds and X CLUB.. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Tommy Holohan is a techno and house artist based in Ireland, with 122 gigs on so
 
 KETTAMA, Clouds, X CLUB.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyholohan/)*

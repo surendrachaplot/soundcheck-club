@@ -1,6 +1,6 @@
 # Lukas Klötz
 
-Lukas Klötz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+Lukas Klötz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 Lukas Klötz is a house and techno artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside Baldman, Reptile (ES) and Toro(008). Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lukas Klötz is a house and techno artist based in Spain, with 11 gigs on soundc
 
 Baldman, Reptile (ES), Toro(008)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasklotz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasklotz/)*

@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Magazzini Generali, Milan on Fri, 2 Oct 2026.
+The Blaze is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Magazzini Generali, Milan on Fri, 2 Oct 2026.
 
 The Blaze is a house and techno artist based in France, with 53 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Magazzini Generali, Milan on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ The Blaze is a house and techno artist based in France, with 53 gigs on soundche
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

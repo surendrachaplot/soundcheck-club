@@ -1,6 +1,6 @@
 # DANA NADA
 
-DANA NADA is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at VENT, Tokyo on Fri, 2 Oct 2026.
+DANA NADA is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at VENT, Tokyo on Fri, 2 Oct 2026.
 
 DANA NADA is a techno and psytrance artist, with 77 gigs on soundcheck across Berlin, Lisbon, Melbourne and Osaka and 4 more. Often billed alongside DANDAN, Dani Savant and Kojiro. Next up: VENT, Tokyo on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DANA NADA is a techno and psytrance artist, with 77 gigs on soundcheck across Be
 
 DANDAN, Dani Savant, Kojiro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dananada/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dananada/)*

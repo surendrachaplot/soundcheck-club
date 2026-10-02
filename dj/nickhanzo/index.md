@@ -1,6 +1,6 @@
 # Nick Hanzo
 
-Nick Hanzo is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Celeste, Vienna on Fri, 16 Oct 2026.
+Nick Hanzo is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Celeste, Vienna on Fri, 16 Oct 2026.
 
 Nick Hanzo is a disco and acid artist based in Austria, with 29 gigs on soundcheck across Berlin, Budapest and Vienna. Often billed alongside Kormos, Kim Wexler and Joyce Muniz. Next up: Celeste, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nick Hanzo is a disco and acid artist based in Austria, with 29 gigs on soundche
 
 Kormos, Kim Wexler, Joyce Muniz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*

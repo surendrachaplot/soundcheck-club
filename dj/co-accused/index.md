@@ -1,13 +1,14 @@
 # Co-Accused
 
-Co-Accused is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
+Co-Accused is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fubar, Scotland on Fri, 2 Oct 2026.
 
-Co-Accused is a techno and acid artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Dundee and 2 more. Often billed alongside Gary Beck, Fear-E and Lee Cee. Next up: Pawn Shop, Dublin on Fri 27 Nov.
+Co-Accused is a techno and acid artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Dundee and 3 more. Often billed alongside Gary Beck, Fear-E and Lee Cee. Next up: Fubar, Scotland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Fubar | Scotland |
 | Fri, 27 Nov 2026 | Pawn Shop | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Co-Accused is a techno and acid artist based in United Kingdom, with 31 gigs on 
 
 Gary Beck, Fear-E, Lee Cee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*

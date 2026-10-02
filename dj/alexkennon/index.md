@@ -1,6 +1,6 @@
 # Alex Kennon
 
-Alex Kennon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Supermarket, Zurich on Sat, 3 Oct 2026.
+Alex Kennon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Supermarket, Zurich on Sat, 3 Oct 2026.
 
 Alex Kennon is a tech house and house artist based in Italy, with 37 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 12 more. Often billed alongside And Hazel, Gonçalo and Kantarik. Next up: Supermarket, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Alex Kennon is a tech house and house artist based in Italy, with 37 gigs on sou
 
 And Hazel, Gonçalo, Kantarik
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*

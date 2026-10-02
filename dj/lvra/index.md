@@ -1,6 +1,6 @@
 # LVRA
 
-LVRA is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Low Profile Studios, London on Fri, 9 Oct 2026.
+LVRA is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Low Profile Studios, London on Fri, 9 Oct 2026.
 
 LVRA is a hip-hop and techno artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Geneva and 8 more. Often billed alongside Soda Plains, KOPI O and Manuka Honey. Next up: Low Profile Studios, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ LVRA is a hip-hop and techno artist based in United Kingdom, with 24 gigs on sou
 
 Soda Plains, KOPI O, Manuka Honey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvra/)*

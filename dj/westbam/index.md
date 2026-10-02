@@ -1,6 +1,6 @@
 # Westbam
 
-Westbam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 12 Dec 2026.
+Westbam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 12 Dec 2026.
 
 Westbam is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside K-Paul, Dr. Motte and Hardy Hard. Next up: Fridas Pier, Stuttgart on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Westbam is a techno and house artist based in Germany, with 25 gigs on soundchec
 
 K-Paul, Dr. Motte, Hardy Hard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*

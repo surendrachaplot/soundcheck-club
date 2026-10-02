@@ -1,6 +1,6 @@
 # Heshumi
 
-Heshumi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
+Heshumi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
 
 Heshumi is a techno and electro artist based in Russia, with 6 gigs on soundcheck across Berlin. Often billed alongside Holywanderer, doctor doms and tech_punk. Next up: Madame Claude, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Heshumi is a techno and electro artist based in Russia, with 6 gigs on soundchec
 
 Holywanderer, doctor doms, tech_punk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heshumi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heshumi/)*

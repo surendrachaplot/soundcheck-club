@@ -1,6 +1,6 @@
 # Ranjit Nijjer
 
-Ranjit Nijjer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
+Ranjit Nijjer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
 
 Ranjit Nijjer is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Simon Slieker, Andrew Till and ALIEN-A. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Ranjit Nijjer is a techno and house artist based in Australia, with 14 gigs on s
 
 Simon Slieker, Andrew Till, ALIEN-A
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*

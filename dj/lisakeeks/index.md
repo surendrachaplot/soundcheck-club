@@ -1,6 +1,6 @@
 # LISAKEEKS
 
-LISAKEEKS is a Hip-Hop and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
+LISAKEEKS is a Hip-Hop and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
 
 LISAKEEKS is a hip-hop and uk funky artist based in United Kingdom, with 27 gigs on soundcheck across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: Duo Clapham, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LISAKEEKS is a hip-hop and uk funky artist based in United Kingdom, with 27 gigs
 
 BABY JACKZ, DotTV, TEBI TV
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*

@@ -1,6 +1,6 @@
 # Luca Hagenmüller
 
-Luca Hagenmüller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Svennis Nachtshop, Berlin on Sat, 10 Oct 2026.
+Luca Hagenmüller is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Svennis Nachtshop, Berlin on Sat, 10 Oct 2026.
 
 Luca Hagenmüller is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Ponybarker, DJ SPORTSCHUH and Euphrat. Next up: Svennis Nachtshop, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luca Hagenmüller is a techno and house artist based in Germany, with 9 gigs on 
 
 Ponybarker, DJ SPORTSCHUH, Euphrat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*

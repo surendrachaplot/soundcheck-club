@@ -1,6 +1,6 @@
 # Plaza Hotel Sydney
 
-Plaza Hotel Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Chaos In The CBD [Sydney]" on Fri, 18 Dec 2026.
+Plaza Hotel Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chaos In The CBD [Sydney]" on Fri, 18 Dec 2026.
 
 Plaza Hotel Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Chaos In The CBD. See dates, start times and who's playing. 600 George Street, Sydney, 2000.
 
@@ -14,4 +14,4 @@ Plaza Hotel Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming g
 
 600 George Street, Sydney, 2000, Sydney
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/plaza-hotel-sydney/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/plaza-hotel-sydney/)*

@@ -1,6 +1,6 @@
 # MZR
 
-MZR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+MZR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
 MZR is a techno and tech house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Budapest and Frankfurt and 6 more. Often billed alongside KETCH, Maris Shilton and no.name (IT). Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MZR is a techno and tech house artist based in Germany, with 48 gigs on soundche
 
 KETCH, Maris Shilton, no.name (IT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*

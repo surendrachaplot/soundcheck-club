@@ -1,6 +1,6 @@
 # Dorota
 
-Dorota is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
+Dorota is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
 Dorota is a techno and minimal techno artist based in Hungary, with 50 gigs on soundcheck across Budapest. Often billed alongside Acsa, Andrija Jäger and BELLITTA. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dorota is a techno and minimal techno artist based in Hungary, with 50 gigs on s
 
 Acsa, Andrija Jäger, BELLITTA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorota/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorota/)*

@@ -1,6 +1,6 @@
 # TBA -  Select Fm London
 
-TBA -  Select Fm London is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Grace Bones presents House of Chic Radio" on Fri, 2 Oct 2026.
+TBA -  Select Fm London is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Grace Bones presents House of Chic Radio" on Fri, 2 Oct 2026.
 
 TBA -  Select Fm London is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including GraceBones and Leftwing & Kody. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  Select Fm London is a music venue in Los Angeles listed on soundcheck. 1 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Grace Bones presents House of Chic Radio | GraceBones, Leftwing & Kody |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-fm-london/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-fm-london/)*

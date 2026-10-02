@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Friday with Bladerunner" on Fri, 2 Oct 2026.
+A38 is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Friday with Bladerunner" on Fri, 2 Oct 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Bladerunner, Kanine, Mala and Markov. See dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -21,4 +21,4 @@ A38 is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with lin
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

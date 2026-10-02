@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a House and Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Vinyl, Denver on Fri, 2 Oct 2026.
+Baauer is a House and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vinyl, Denver on Fri, 2 Oct 2026.
 
 Baauer is a house and bass artist based in United States of America, with 24 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 9 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and A-Trak. Next up: Club Vinyl, Denver on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Baauer is a house and bass artist based in United States of America, with 24 gig
 
 Bianca Oblivion, Hudson Mohawke, A-Trak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

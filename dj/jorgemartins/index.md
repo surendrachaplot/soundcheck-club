@@ -1,6 +1,6 @@
 # Jorge Martins
 
-Jorge Martins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
+Jorge Martins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
 
 Jorge Martins is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Diego Genn, Aidan Doherty and Muther. Next up: Village Underground Lisboa, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jorge Martins is a techno and house artist based in United Kingdom, with 42 gigs
 
 Diego Genn, Aidan Doherty, Muther
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgemartins/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgemartins/)*

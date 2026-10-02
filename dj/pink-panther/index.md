@@ -1,6 +1,6 @@
 # pink-panther
 
-pink-panther is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+pink-panther is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 pink-panther is a techno and tech house artist based in Tunisia, with 48 gigs on soundcheck across Berlin. Often billed alongside UniKhatu, Rovin and Ilyas S. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ pink-panther is a techno and tech house artist based in Tunisia, with 48 gigs on
 
 UniKhatu, Rovin, Ilyas S
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pink-panther/)*

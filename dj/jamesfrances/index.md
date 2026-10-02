@@ -1,6 +1,6 @@
 # James Frances
 
-James Frances is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+James Frances is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
 
 James Frances is a house and funk / soul artist based in United Kingdom, with 27 gigs on soundcheck across Leeds. Often billed alongside Anastasia McGarel, Spilly and Liam Oades. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ James Frances is a house and funk / soul artist based in United Kingdom, with 27
 
 Anastasia McGarel, Spilly, Liam Oades
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfrances/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfrances/)*

@@ -1,6 +1,6 @@
 # Eltouss
 
-Eltouss is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
+Eltouss is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
 
 Eltouss is an electronic artist based in France, with 8 gigs on soundcheck across Berlin, London, Marseille and Paris and 1 more. Often billed alongside Oscar Faivre, 192 GmbH and AT-XYA. Next up: Nido Marseille, Marseille on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Eltouss is an electronic artist based in France, with 8 gigs on soundcheck acros
 
 Oscar Faivre, 192 GmbH, AT-XYA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eltouss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eltouss/)*

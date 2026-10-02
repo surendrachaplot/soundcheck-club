@@ -1,6 +1,6 @@
 # Solstice
 
-Solstice is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+Solstice is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
 Solstice is a tech house and house artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Frankfurt and 3 more. Often billed alongside KANON, Wildstylez and Cryex. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Solstice is a tech house and house artist based in Italy, with 14 gigs on soundc
 
 KANON (1), Wildstylez, Cryex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solstice/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solstice/)*

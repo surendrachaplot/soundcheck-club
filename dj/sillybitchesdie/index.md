@@ -1,6 +1,6 @@
 # SILLYBITCHESDIE
 
-SILLYBITCHESDIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Indoor Inner-west location, Sydney on Sat, 17 Oct 2026.
+SILLYBITCHESDIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Indoor Inner-west location, Sydney on Sat, 17 Oct 2026.
 
 SILLYBITCHESDIE is a techno and house artist based in Australia, with 40 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Crescendoll (AU) and DAYZZI. Next up: TBA - Indoor Inner-west location, Sydney on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SILLYBITCHESDIE is a techno and house artist based in Australia, with 40 gigs on
 
 Bouki, Crescendoll (AU), DAYZZI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*

@@ -1,6 +1,6 @@
 # AdomasLP
 
-AdomasLP is a Dub Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
+AdomasLP is a Dub Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
 
 AdomasLP is a dub techno and downtempo artist, with 36 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Tommy Cross, MEMP3 and Ruf Dug. Next up: 1520, Manchester on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ AdomasLP is a dub techno and downtempo artist, with 36 gigs on soundcheck across
 
 Tommy Cross, MEMP3, Ruf Dug
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adomaslp/)*

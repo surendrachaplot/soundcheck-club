@@ -1,6 +1,6 @@
 # NLI
 
-NLI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
+NLI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
 
 NLI is a techno and trance artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Birmingham and London. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: E1, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ NLI is a techno and trance artist based in United Kingdom, with 27 gigs on sound
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*

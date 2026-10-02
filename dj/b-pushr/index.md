@@ -1,6 +1,6 @@
 # B-Pushr
 
-B-Pushr is a Ambient and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Chicago on Fri, 2 Oct 2026.
+B-Pushr is a Ambient and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Chicago on Fri, 2 Oct 2026.
 
 B-Pushr is an ambient and acid artist based in United Kingdom, with 6 gigs on soundcheck across Chicago and London. Often billed alongside Scape One, m50 and Benebe. Next up: TBA, Chicago on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ B-Pushr is an ambient and acid artist based in United Kingdom, with 6 gigs on so
 
 Scape One, m50, Benebe
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*

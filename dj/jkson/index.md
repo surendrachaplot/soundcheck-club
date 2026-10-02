@@ -1,6 +1,6 @@
 # Jkson
 
-Jkson is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kraftwerk, Zurich on Sun, 25 Oct 2026.
+Jkson is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kraftwerk, Zurich on Sun, 25 Oct 2026.
 
 Jkson is a downtempo and electronica artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Izumi Yamamoto. Next up: Kraftwerk, Zurich on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Jkson is a downtempo and electronica artist based in Switzerland, with 6 gigs on
 
 Izumi Yamamoto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkson/)*

@@ -1,6 +1,6 @@
 # Alonia
 
-Alonia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New Guernica, Melbourne on Thu, 8 Oct 2026.
+Alonia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Guernica, Melbourne on Thu, 8 Oct 2026.
 
 Alonia is a techno and trance artist, with 8 gigs on soundcheck across Melbourne. Often billed alongside Cookies & Cream, AKEYLAH and AQUA-X. Next up: New Guernica, Melbourne on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Alonia is a techno and trance artist, with 8 gigs on soundcheck across Melbourne
 
 Cookies & Cream, AKEYLAH, AQUA-X
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonia/)*

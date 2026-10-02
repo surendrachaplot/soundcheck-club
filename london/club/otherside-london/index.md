@@ -1,6 +1,6 @@
 # Otherside London
 
-Otherside London is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jososick - Live set at Otherside" on Fri, 2 Oct 2026.
+Otherside London is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Jososick - Live set at Otherside" on Fri, 2 Oct 2026.
 
 Otherside London is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 261 Portobello Road, London, W11 1LR.
 
@@ -14,4 +14,4 @@ Otherside London is a music venue in London listed on soundcheck. 1 upcoming gig
 
 261 Portobello Road, London, W11 1LR, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*

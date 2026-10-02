@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
+Carluschka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Fri, 2 Oct 2026.
 
 Carluschka is a house and techno artist based in Germany, with 126 gigs on soundcheck across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: glimmer, Hamburg on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Carluschka is a house and techno artist based in Germany, with 126 gigs on sound
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

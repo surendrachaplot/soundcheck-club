@@ -1,6 +1,6 @@
 # De La Reef
 
-De La Reef is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales Loft, London on Sat, 3 Oct 2026.
+De La Reef is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales Loft, London on Sat, 3 Oct 2026.
 
 De La Reef is a house and techno artist based in Spain, with 63 gigs on soundcheck across Barcelona, Berlin, Brighton and Edinburgh and 2 more. Often billed alongside Alien Communications, Jos and Ste Roberts. Next up: Night Tales Loft, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ De La Reef is a house and techno artist based in Spain, with 63 gigs on soundche
 
 Alien Communications, Jos, Ste Roberts
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*

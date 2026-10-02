@@ -1,6 +1,6 @@
 # GUZZ.
 
-GUZZ. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
+GUZZ. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
 
 GUZZ. is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Belfast. Often billed alongside HUTS, Skellyoz and Casual. Next up: Happys Belfast, Belfast on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ GUZZ. is a techno and house artist based in United Kingdom, with 10 gigs on soun
 
 HUTS, Skellyoz, Casual
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*

@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Espacio Riesco Expo Centre, Santiago on Fri, 2 Oct 2026.
+Miss Monique is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Espacio Riesco Expo Centre, Santiago on Fri, 2 Oct 2026.
 
 Miss Monique is a techno and house artist based in Ukraine, with 234 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Espacio Riesco Expo Centre, Santiago on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Miss Monique is a techno and house artist based in Ukraine, with 234 gigs on sou
 
 Hugel, Artbat, CamelPhat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

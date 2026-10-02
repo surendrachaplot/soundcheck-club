@@ -1,6 +1,6 @@
 # VCO
 
-VCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+VCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
 VCO is a techno and house artist based in Germany, with 50 gigs on soundcheck across Barcelona, Berlin, Boston and Buenos Aires and 4 more. Often billed alongside Handmade, THIRTEEN DOZE and Manuela Mayoral. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ VCO is a techno and house artist based in Germany, with 50 gigs on soundcheck ac
 
 Handmade, THIRTEEN DOZE, Manuela Mayoral
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vco/)*

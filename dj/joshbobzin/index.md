@@ -1,6 +1,6 @@
 # Josh Bobzin
 
-Josh Bobzin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Josh Bobzin is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Josh Bobzin is a techno and electronica artist based in Germany, with 13 gigs on soundcheck across Bangkok, Berlin, Hamburg and Oslo. Often billed alongside Gamma.cws, Gladee and Laetizia. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Josh Bobzin is a techno and electronica artist based in Germany, with 13 gigs on
 
 Gamma.cws, Gladee, Laetizia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbobzin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbobzin/)*

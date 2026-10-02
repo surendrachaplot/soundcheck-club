@@ -1,6 +1,6 @@
 # Vlad Ioachimescu
 
-Vlad Ioachimescu is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Greyhound, London on Sun, 4 Oct 2026.
+Vlad Ioachimescu is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Sun, 4 Oct 2026.
 
 Vlad Ioachimescu is a minimal techno and minimal artist based in Romania, with 47 gigs on soundcheck across Berlin, Hong Kong, London and Los Angeles and 2 more. Often billed alongside Obreja., LUUD and Myriam. Next up: The Greyhound, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Vlad Ioachimescu is a minimal techno and minimal artist based in Romania, with 4
 
 Obreja., LUUD, Myriam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladioachimescu/)*

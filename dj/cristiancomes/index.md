@@ -1,6 +1,6 @@
 # Cristian Comes
 
-Cristian Comes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Anfiteatro Monte Stella, Milan on Sat, 3 Oct 2026.
+Cristian Comes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Anfiteatro Monte Stella, Milan on Sat, 3 Oct 2026.
 
 Cristian Comes is a techno and house artist based in Italy, with 54 gigs on soundcheck across Malaga, Milan and Munich. Often billed alongside HAAS (IT), Matteo Busan and Shawliar. Next up: Anfiteatro Monte Stella, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Cristian Comes is a techno and house artist based in Italy, with 54 gigs on soun
 
 HAAS (IT), Matteo Busan, Shawliar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancomes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancomes/)*

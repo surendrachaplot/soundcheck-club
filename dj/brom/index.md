@@ -1,6 +1,6 @@
 # BROM
 
-BROM is a Breakbeat and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Thu, 15 Oct 2026.
+BROM is a Breakbeat and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Thu, 15 Oct 2026.
 
 BROM is a breakbeat and experimental artist based in France, with 12 gigs on soundcheck across Brussels, Cologne, Frankfurt and London and 2 more. Often billed alongside DJ Brom, Sarah San and 41ISSA. Next up: Planet Wax, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ BROM is a breakbeat and experimental artist based in France, with 12 gigs on sou
 
 DJ Brom, Sarah San, 41ISSA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*

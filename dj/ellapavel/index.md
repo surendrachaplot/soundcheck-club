@@ -1,6 +1,6 @@
 # Ella Pavel
 
-Ella Pavel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
+Ella Pavel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 2 Oct 2026.
 
 Ella Pavel is a techno and trance artist based in United States of America, with 10 gigs on soundcheck across Lisbon and Prague. Often billed alongside Takenaga, Dash (CZ) and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ella Pavel is a techno and trance artist based in United States of America, with
 
 Takenaga, Dash (CZ), Misha Jaru
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellapavel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellapavel/)*

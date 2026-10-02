@@ -1,6 +1,6 @@
 # Vivace (UK)
 
-Vivace (UK) is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
+Vivace (UK) is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Vivace (UK) is a house and trance artist based in United Kingdom, with 7 gigs on soundcheck across Aberdeen, Belfast, Edinburgh and Leeds and 2 more. Often billed alongside STÜM, Faster Horses and Kyle Starkey. Next up: The Warehouse, Leeds on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Vivace (UK) is a house and trance artist based in United Kingdom, with 7 gigs on
 
 STÜM, Faster Horses, Kyle Starkey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*

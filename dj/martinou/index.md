@@ -1,6 +1,6 @@
 # Martinou
 
-Martinou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene, Copenhagen on Fri, 2 Oct 2026.
+Martinou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene, Copenhagen on Fri, 2 Oct 2026.
 
 Martinou is a techno and house artist based in Sweden, with 35 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside Hame, Ben Kaczor and Hafa. Next up: Jolene, Copenhagen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Martinou is a techno and house artist based in Sweden, with 35 gigs on soundchec
 
 Hame (1), Ben Kaczor, Hafa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*

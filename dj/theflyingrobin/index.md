@@ -1,6 +1,6 @@
 # The Flying Robin
 
-The Flying Robin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Fri, 2 Oct 2026.
+The Flying Robin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barco Sound House, Madrid on Fri, 2 Oct 2026.
 
 The Flying Robin is a house and disco artist, with 14 gigs on soundcheck across Madrid. Often billed alongside Gijonne, WO KEM and 1st Degree. Next up: Barco Sound House, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ The Flying Robin is a house and disco artist, with 14 gigs on soundcheck across 
 
 Gijonne, WO KEM, 1st Degree
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflyingrobin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflyingrobin/)*

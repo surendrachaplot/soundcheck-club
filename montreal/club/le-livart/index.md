@@ -1,6 +1,6 @@
 # Le Livart
 
-Le Livart is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sonotopia invites Agustin Ficarra, Dexter Crowe, Marjaba" on Fri, 2 Oct 2026.
+Le Livart is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sonotopia invites Agustin Ficarra, Dexter Crowe, Marjaba" on Fri, 2 Oct 2026.
 
 Le Livart is a music venue in Montreal listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada.
 
@@ -14,4 +14,4 @@ Le Livart is a music venue in Montreal listed on soundcheck. 1 upcoming gig. See
 
 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada, Montreal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*

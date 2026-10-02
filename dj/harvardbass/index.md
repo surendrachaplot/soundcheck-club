@@ -1,6 +1,6 @@
 # Harvard Bass
 
-Harvard Bass is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spin, San Diego on Sat, 3 Oct 2026.
+Harvard Bass is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spin, San Diego on Sat, 3 Oct 2026.
 
 Harvard Bass is a house and techno artist, with 28 gigs on soundcheck across Chicago, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside Paparazzi, DJ IDeaL and Ardalan. Next up: Spin, San Diego on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Harvard Bass is a house and techno artist, with 28 gigs on soundcheck across Chi
 
 Paparazzi, DJ IDeaL, Ardalan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harvardbass/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harvardbass/)*

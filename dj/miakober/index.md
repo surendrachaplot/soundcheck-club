@@ -1,6 +1,6 @@
 # Mia Kober
 
-Mia Kober is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sun, 4 Oct 2026.
+Mia Kober is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sun, 4 Oct 2026.
 
 Mia Kober is a house and techno artist based in New Zealand, with 35 gigs on soundcheck across Auckland, Berlin, Copenhagen and Munich. Often billed alongside DirdyGerdi, Dylan C and Sanoi. Next up: Beate Uwe, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mia Kober is a house and techno artist based in New Zealand, with 35 gigs on sou
 
 DirdyGerdi, Dylan C, Sanoi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*

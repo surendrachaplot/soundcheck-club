@@ -1,6 +1,6 @@
 # Nachtsucht
 
-Nachtsucht is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+Nachtsucht is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 Nachtsucht is a techno and industrial artist based in Portugal, with 16 gigs on soundcheck across Basel, Bucharest, Lisbon and Rotterdam and 2 more. Often billed alongside BRAINDAAMAGE, Megix and kso12. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nachtsucht is a techno and industrial artist based in Portugal, with 16 gigs on 
 
 BRAINDAAMAGE, Megix, kso12
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtsucht/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtsucht/)*

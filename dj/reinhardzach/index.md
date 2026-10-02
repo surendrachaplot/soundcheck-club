@@ -1,6 +1,6 @@
 # Reinhard Zach
 
-Reinhard Zach is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
+Reinhard Zach is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
 
 Reinhard Zach is a house and acid artist based in Austria, with 86 gigs on soundcheck across Vienna. Often billed alongside Fabiano José, Stipo and Apua. Next up: PRST, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Reinhard Zach is a house and acid artist based in Austria, with 86 gigs on sound
 
 Fabiano José, Stipo, Apua
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardzach/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardzach/)*

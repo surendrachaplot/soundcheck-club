@@ -1,6 +1,6 @@
 # Moses Joses
 
-Moses Joses is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
+Moses Joses is a Acid and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
 
 Moses Joses is an acid and breakbeat artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Erika Lowin, Marie Pravda and Naone. Next up: Time is the new space, Rotterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Moses Joses is an acid and breakbeat artist based in Germany, with 21 gigs on so
 
 Erika Lowin, Marie Pravda, Naone
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*

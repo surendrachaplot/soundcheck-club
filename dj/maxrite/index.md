@@ -1,6 +1,6 @@
 # Max Rite
 
-Max Rite is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - ROMA NORTE , Mexico City on Fri, 2 Oct 2026.
+Max Rite is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - ROMA NORTE , Mexico City on Fri, 2 Oct 2026.
 
 Max Rite is a house and tech house artist, with 26 gigs on soundcheck across Mexico City. Often billed alongside Redorta, FOOLBEAT and Edward Gall. Next up: TBA - ROMA NORTE , Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Max Rite is a house and tech house artist, with 26 gigs on soundcheck across Mex
 
 Redorta, FOOLBEAT, Edward Gall
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrite/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxrite/)*

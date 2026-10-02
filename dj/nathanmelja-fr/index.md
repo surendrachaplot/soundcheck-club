@@ -1,6 +1,6 @@
 # Nathan Melja
 
-Nathan Melja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
+Nathan Melja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
 
 Nathan Melja is a house and techno artist, with 27 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Marseille and 5 more. Often billed alongside Flørist, Labouts and Woddd. Next up: Karmen Camina, Strasbourg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nathan Melja is a house and techno artist, with 27 gigs on soundcheck across Bar
 
 Flørist, Labouts, Woddd
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanmelja-fr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanmelja-fr/)*

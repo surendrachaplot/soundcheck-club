@@ -1,6 +1,6 @@
 # De La Maso
 
-De La Maso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Fri, 2 Oct 2026.
+De La Maso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
 De La Maso is a house and tech house artist based in Switzerland, with 24 gigs on soundcheck across Basel, Berlin, Frankfurt and Zurich. Often billed alongside And Hazel, Daughter In Law and ARWIN AZIZ. Next up: Hive Club, Zurich on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ De La Maso is a house and tech house artist based in Switzerland, with 24 gigs o
 
 And Hazel, Daughter In Law, ARWIN AZIZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*

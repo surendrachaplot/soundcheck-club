@@ -1,6 +1,6 @@
 # Onleash
 
-Onleash is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
+Onleash is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
 
 Onleash is a trance and techno artist based in Norway, with 14 gigs on soundcheck across Berlin, Glasgow, London and Oslo and 3 more. Often billed alongside Fakethias, AKUMU and Async Figure. Next up: OIL Club, Shenzhen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Onleash is a trance and techno artist based in Norway, with 14 gigs on soundchec
 
 Fakethias, AKUMU, Async Figure
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*

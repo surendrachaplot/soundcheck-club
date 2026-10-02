@@ -1,6 +1,6 @@
 # RAXA
 
-RAXA is a Trance and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MAW, Tokyo on Sat, 3 Oct 2026.
+RAXA is a Trance and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MAW, Tokyo on Sat, 3 Oct 2026.
 
 RAXA is a trance and industrial artist based in Germany, with 11 gigs on soundcheck across Berlin and Tokyo. Often billed alongside ZOEVITA, Cara Elizabeth and Kø:lab. Next up: MAW, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ RAXA is a trance and industrial artist based in Germany, with 11 gigs on soundch
 
 ZOEVITA, Cara Elizabeth, Kø:lab
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxa/)*

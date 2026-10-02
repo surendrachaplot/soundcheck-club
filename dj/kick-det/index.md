@@ -1,6 +1,6 @@
 # KICK (DET)
 
-KICK (DET) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Vault 313, Detroit on Sat, 10 Oct 2026.
+KICK (DET) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Vault 313, Detroit on Sat, 10 Oct 2026.
 
 KICK (DET) is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Detroit. Often billed alongside Redax, moregasm and DJ SPHiNX. Next up: The Vault 313, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KICK (DET) is a techno and house artist based in United States of America, with 
 
 Redax, moregasm, DJ SPHiNX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kick-det/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kick-det/)*

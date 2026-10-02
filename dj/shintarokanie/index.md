@@ -1,6 +1,6 @@
 # Shintarø Kanie
 
-Shintarø Kanie is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
+Shintarø Kanie is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
 
 Shintarø Kanie is a techno and industrial artist based in Japan, with 29 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Kanie, B.A.R.K and c0ca. Next up: R Lounge, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Shintarø Kanie is a techno and industrial artist based in Japan, with 29 gigs o
 
 Kanie, B.A.R.K, c0ca
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shintarokanie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shintarokanie/)*

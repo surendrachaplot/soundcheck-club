@@ -1,6 +1,6 @@
 # TBA - Lyon, France
 
-TBA - Lyon, France is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026" on Sun, 11 Oct 2026.
+TBA - Lyon, France is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026" on Sun, 11 Oct 2026.
 
 TBA - Lyon, France is a music venue in Lyon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lyon, France is a music venue in Lyon listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026 |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-lyon-france/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-lyon-france/)*

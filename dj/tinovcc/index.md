@@ -1,6 +1,6 @@
 # Tinovcc
 
-Tinovcc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 77, London on Sat, 3 Oct 2026.
+Tinovcc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 77, London on Sat, 3 Oct 2026.
 
 Tinovcc is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam and London. Often billed alongside Darrell Privett, ORARO and BADBOX. Next up: 77, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tinovcc is a house and tech house artist based in United Kingdom, with 14 gigs o
 
 Darrell Privett, ORARO, BADBOX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinovcc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinovcc/)*

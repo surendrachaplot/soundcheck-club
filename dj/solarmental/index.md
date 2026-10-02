@@ -1,6 +1,6 @@
 # Solarmental
 
-Solarmental is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
+Solarmental is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
 
 Solarmental is a techno and acid artist based in Georgia, with 7 gigs on soundcheck across Barcelona and Tbilisi. Often billed alongside BLNDFLD, Tsott and Amares. Next up: LAUT, Barcelona on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Solarmental is a techno and acid artist based in Georgia, with 7 gigs on soundch
 
 BLNDFLD, Tsott, Amares
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarmental/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarmental/)*

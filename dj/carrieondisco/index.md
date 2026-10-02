@@ -1,6 +1,6 @@
 # Carrieondisco
 
-Carrieondisco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
+Carrieondisco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Carrieondisco is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Los Angeles, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside DJ M3, Chuck Gunn and Mark O'Brien. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Carrieondisco is a house and disco artist based in United States of America, wit
 
 DJ M3, Chuck Gunn, Mark O'Brien
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrieondisco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrieondisco/)*

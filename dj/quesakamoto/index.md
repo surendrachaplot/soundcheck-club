@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Tlaxcala on Fri, 2 Oct 2026.
+Que Sakamoto is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Tlaxcala on Fri, 2 Oct 2026.
 
 Que Sakamoto is a house and techno artist based in Japan, with 63 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 22 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: TBA, Tlaxcala on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Que Sakamoto is a house and techno artist based in Japan, with 63 gigs on soundc
 
 André Galluzzi, Annyrock, Cabanne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

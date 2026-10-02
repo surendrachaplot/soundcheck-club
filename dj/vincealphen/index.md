@@ -1,6 +1,6 @@
 # Vince Alphen
 
-Vince Alphen is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Vaag, Antwerp on Fri, 30 Oct 2026.
+Vince Alphen is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vaag, Antwerp on Fri, 30 Oct 2026.
 
 Vince Alphen is a trance and techno artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside Blame the Booker, DØEMP. and FEMMI. Next up: Club Vaag, Antwerp on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vince Alphen is a trance and techno artist based in Belgium, with 15 gigs on sou
 
 Blame the Booker, DØEMP., FEMMI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincealphen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincealphen/)*

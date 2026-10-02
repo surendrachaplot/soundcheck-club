@@ -1,6 +1,6 @@
 # Faux Sommets
 
-Faux Sommets is a Classical and Ballroom artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Système, Montreal on Fri, 2 Oct 2026.
+Faux Sommets is a Classical and Ballroom artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Fri, 2 Oct 2026.
 
 Faux Sommets is a classical and ballroom artist based in Canada, with 15 gigs on soundcheck across Montreal. Often billed alongside MOAB, Esther Côté and Frankie Teardrop. Next up: Système, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Faux Sommets is a classical and ballroom artist based in Canada, with 15 gigs on
 
 MOAB, Esther Côté, Frankie Teardrop
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxsommets/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxsommets/)*

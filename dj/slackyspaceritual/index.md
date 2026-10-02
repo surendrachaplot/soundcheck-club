@@ -1,6 +1,6 @@
 # Slacky [Space Ritual]
 
-Slacky [Space Ritual] is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
+Slacky [Space Ritual] is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
 
 Slacky [Space Ritual] is a downtempo and ambient artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Simon Scott, Ana K Miller and Hooley. Next up: Outlaws Yacht Club, Leeds on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Slacky [Space Ritual] is a downtempo and ambient artist based in United Kingdom,
 
 Simon Scott, Ana K Miller, Hooley
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slackyspaceritual/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slackyspaceritual/)*

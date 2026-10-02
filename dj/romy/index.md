@@ -1,6 +1,6 @@
 # Romy
 
-Romy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
+Romy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
 
 Romy is a techno and house artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Romy Mats, HAAi and Your Muther. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Romy is a techno and house artist based in United States of America, with 132 gi
 
 Romy Mats, HAAi, Your Muther
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*

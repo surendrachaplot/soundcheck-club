@@ -1,6 +1,6 @@
 # Picep
 
-Picep is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
+Picep is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
 
 Picep is a tech house and techno artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside MEERA (UK), Dimanté and Aur0m. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Picep is a tech house and techno artist based in United Kingdom, with 32 gigs on
 
 MEERA (UK), Dimanté, Aur0m
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

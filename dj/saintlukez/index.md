@@ -1,6 +1,6 @@
 # Saint Lukez
 
-Saint Lukez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 2 Oct 2026.
+Saint Lukez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 2 Oct 2026.
 
 Saint Lukez is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Edinburgh, Ghent and Liverpool and 5 more. Often billed alongside Jade Edwards, Chris Wheatley and Davide Del Vecchio. Next up: Amigo, Ghent on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Saint Lukez is a house and disco artist based in United Kingdom, with 35 gigs on
 
 Jade Edwards, Chris Wheatley, Davide Del Vecchio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*

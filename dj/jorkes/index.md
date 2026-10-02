@@ -1,6 +1,6 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SASS Music Club, Vienna on Fri, 2 Oct 2026.
+Jorkes is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SASS Music Club, Vienna on Fri, 2 Oct 2026.
 
 Jorkes is a house and techno artist based in Greece, with 145 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: SASS Music Club, Vienna on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Jorkes is a house and techno artist based in Greece, with 145 gigs on soundcheck
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

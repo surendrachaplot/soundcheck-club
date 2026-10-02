@@ -1,6 +1,6 @@
 # Shannon Brothers
 
-Shannon Brothers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Fri, 23 Oct 2026.
+Shannon Brothers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Fri, 23 Oct 2026.
 
 Shannon Brothers is a techno and house artist based in Japan, with 33 gigs on soundcheck across Tokyo. Often billed alongside JUNKO ONAGI, Louis Shannon and TARO TOKO. Next up: WOMB, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Shannon Brothers is a techno and house artist based in Japan, with 33 gigs on so
 
 JUNKO ONAGI, Louis Shannon, TARO TOKO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonbrothers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonbrothers/)*

@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+SPFDJ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 SPFDJ is a techno and house artist based in Sweden, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 72 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -35,4 +35,4 @@ SPFDJ is a techno and house artist based in Sweden, with 234 gigs on soundcheck 
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

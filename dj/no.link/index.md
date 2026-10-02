@@ -1,6 +1,6 @@
 # NO.LINK
 
-NO.LINK is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter, Seoul on Fri, 2 Oct 2026.
+NO.LINK is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter, Seoul on Fri, 2 Oct 2026.
 
 NO.LINK is a techno and electro artist based in South Korea, with 103 gigs on soundcheck across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Shelter, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ NO.LINK is a techno and electro artist based in South Korea, with 103 gigs on so
 
 Honn, MOVIN.KR, Apachi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*

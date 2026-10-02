@@ -1,6 +1,6 @@
 # Herman Saiz
 
-Herman Saiz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Silent Studios, Auckland on Sat, 17 Oct 2026.
+Herman Saiz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Silent Studios, Auckland on Sat, 17 Oct 2026.
 
 Herman Saiz is a tech house and house artist based in Chile, with 10 gigs on soundcheck across Auckland. Often billed alongside Isaac Denny, Logan Baker and Connor Tomoana. Next up: Silent Studios, Auckland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Herman Saiz is a tech house and house artist based in Chile, with 10 gigs on sou
 
 Isaac Denny, Logan Baker, Connor Tomoana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermansaiz/)*

@@ -1,6 +1,6 @@
 # loumo
 
-loumo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+loumo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 loumo is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Lisbon, Munich and Stuttgart. Often billed alongside SchokoZitrone, Phil Biehler and BENDOM. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ loumo is a trance and techno artist based in Germany, with 25 gigs on soundcheck
 
 SchokoZitrone, Phil Biehler, BENDOM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loumo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loumo/)*

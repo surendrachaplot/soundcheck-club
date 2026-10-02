@@ -1,6 +1,6 @@
 # Valeria (DE)
 
-Valeria (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Valeria (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Valeria (DE) is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside OLIV, Alex Kassian and Amy Dabbs. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Valeria (DE) is a house and techno artist based in Germany, with 11 gigs on soun
 
 OLIV, Alex Kassian, Amy Dabbs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria-de/)*

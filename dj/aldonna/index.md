@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at e.dh.e, Kosovo on Fri, 2 Oct 2026.
+Aldonna is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at e.dh.e, Kosovo on Fri, 2 Oct 2026.
 
 Aldonna is a house and techno artist based in Australia, with 137 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 27 more. Often billed alongside Tjade, D Stone and DAWS. Next up: e.dh.e, Kosovo on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Aldonna is a house and techno artist based in Australia, with 137 gigs on soundc
 
 Tjade, D Stone, DAWS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

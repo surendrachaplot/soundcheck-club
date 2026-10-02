@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at vurt., Seoul on Fri, 2 Oct 2026.
+Erika is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at vurt., Seoul on Fri, 2 Oct 2026.
 
 Erika is a techno and acid artist, with 114 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 19 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: vurt., Seoul on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Erika is a techno and acid artist, with 114 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

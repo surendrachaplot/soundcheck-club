@@ -1,6 +1,6 @@
 # Laren
 
-Laren is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
+Laren is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
 Laren is a techno and trance artist based in Turkey, with 24 gigs on soundcheck across Berlin and Istanbul. Often billed alongside DJ HOTMAIL, MATT. and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Laren is a techno and trance artist based in Turkey, with 24 gigs on soundcheck 
 
 DJ HOTMAIL, MATT., 4NOUK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laren-tk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laren-tk/)*

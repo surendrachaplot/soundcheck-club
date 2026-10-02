@@ -1,6 +1,6 @@
 # Ushko
 
-Ushko is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+Ushko is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 Ushko is an experimental and club artist based in United Kingdom, with 34 gigs on soundcheck across Brighton, Glasgow, London and Manchester. Often billed alongside Moa Pillar, Slayphex Twins and HIKIING. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ushko is an experimental and club artist based in United Kingdom, with 34 gigs o
 
 Moa Pillar, Slayphex Twins, HIKIING
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ushko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ushko/)*

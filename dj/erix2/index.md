@@ -1,6 +1,6 @@
 # ERIx2
 
-ERIx2 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
+ERIx2 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
 ERIx2 is a techno and industrial artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside YOSHIMASA, DJ 34 and AY. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ERIx2 is a techno and industrial artist based in Japan, with 10 gigs on soundche
 
 YOSHIMASA, DJ 34, AY (10)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erix2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erix2/)*

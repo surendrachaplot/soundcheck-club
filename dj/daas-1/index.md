@@ -1,6 +1,6 @@
 # DAAS (1)
 
-DAAS (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 9 Oct 2026.
+DAAS (1) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 9 Oct 2026.
 
 DAAS is a house and deep house artist, with 14 gigs on soundcheck across Berlin and Marseille. Often billed alongside MARIE.MOON, No Silver Bullet and Daya Pruna. Next up: Cabaret  Aléatoire, Marseille on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DAAS is a house and deep house artist, with 14 gigs on soundcheck across Berlin 
 
 MARIE.MOON, No Silver Bullet, Daya Pruna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*

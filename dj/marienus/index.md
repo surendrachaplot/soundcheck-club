@@ -1,6 +1,6 @@
 # marienus
 
-marienus is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
+marienus is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
 
 marienus is a techno and electro artist, with 10 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside kimmah, Garçon Taupe and Moodswings. Next up: Wibar, Netherlands on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ marienus is a techno and electro artist, with 10 gigs on soundcheck across Amste
 
 kimmah, Garçon Taupe, Moodswings
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marienus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marienus/)*

@@ -1,6 +1,6 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Fri, 2 Oct 2026.
+DJ Godfather is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Fri, 2 Oct 2026.
 
 DJ Godfather is a techno and electro artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: TBA - Downtown LA, Los Angeles on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ DJ Godfather is a techno and electro artist based in United States of America, w
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

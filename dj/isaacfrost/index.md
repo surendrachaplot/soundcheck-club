@@ -1,6 +1,6 @@
 # Isaac Frost
 
-Isaac Frost is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
+Isaac Frost is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
 
 Isaac Frost is a house and electro artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Leeds, London and Manchester. Often billed alongside Oliver Kristian, Torin Grady and Oldfield. Next up: Avalon Cafe Bermondsey, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Isaac Frost is a house and electro artist based in United Kingdom, with 23 gigs 
 
 Oliver Kristian, Torin Grady, Oldfield
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacfrost/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacfrost/)*

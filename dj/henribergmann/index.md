@@ -1,6 +1,6 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pasaje America, Mexico City on Sat, 3 Oct 2026.
+Henri Bergmann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pasaje America, Mexico City on Sat, 3 Oct 2026.
 
 Henri Bergmann is a techno and house artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Pasaje America, Mexico City on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 96 gig
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

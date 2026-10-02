@@ -1,6 +1,6 @@
 # DJ Howard
 
-DJ Howard is a Tech House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
+DJ Howard is a Tech House and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
 
 DJ Howard is a tech house and pop artist based in Spain, with 18 gigs on soundcheck across Barcelona. Often billed alongside DJ DMG, bankrow and ARGAN. Next up: TBA - Sky Sinner Barcelona, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Howard is a tech house and pop artist based in Spain, with 18 gigs on soundch
 
 DJ DMG, bankrow, ARGAN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhoward/)*

@@ -1,6 +1,6 @@
 # Loa Szala
 
-Loa Szala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cadavra, Madrid on Sat, 31 Oct 2026.
+Loa Szala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Sat, 31 Oct 2026.
 
 Loa Szala is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jos, Andy Luff and Alien Communications. Next up: Cadavra, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Loa Szala is a house and techno artist based in United Kingdom, with 114 gigs on
 
 Jos, Andy Luff, Alien Communications
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*

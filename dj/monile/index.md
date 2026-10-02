@@ -1,6 +1,6 @@
 # Monile
 
-Monile is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
+Monile is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
 
 Monile is a house and techno artist based in Morocco, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Desirée Falessi, Jonny Rock and Lamache. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Monile is a house and techno artist based in Morocco, with 117 gigs on soundchec
 
 Desirée Falessi, Jonny Rock, Lamache
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

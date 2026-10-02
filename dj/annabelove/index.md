@@ -1,6 +1,6 @@
 # Anna Belove
 
-Anna Belove is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Weekend, Berlin on Fri, 9 Oct 2026.
+Anna Belove is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Weekend, Berlin on Fri, 9 Oct 2026.
 
 Anna Belove is a house and progressive house artist based in Ukraine, with 6 gigs on soundcheck across Berlin. Often billed alongside Misha Svirid, Ante Perry and Alexander ALAR. Next up: Weekend, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Anna Belove is a house and progressive house artist based in Ukraine, with 6 gig
 
 Misha Svirid, Ante Perry, Alexander ALAR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelove/)*

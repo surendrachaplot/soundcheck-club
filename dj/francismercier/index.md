@@ -1,8 +1,8 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
+Francis Mercier is a Afro House and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: D! Club, Lausanne on Sun 4 Oct.
+Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: D! Club, Lausanne on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | D! Club | Lausanne |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | OMNIA Dayclub | Las-vegas |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sun, 11 Oct 2026 | Pacha New York | New York City |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
@@ -19,7 +20,6 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 | Sat, 21 Nov 2026 | KOKO | London |
 | Sun, 22 Nov 2026 | KOKO | London |
 | Fri, 11 Dec 2026 | A.i Warehouse | Washington DC |
-| Sat, 19 Dec 2026 | White Bay Power Station | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

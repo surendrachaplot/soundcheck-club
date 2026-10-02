@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Ueberrest is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 98 gigs on so
 
 Kobosil, Somewhen, KUKO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

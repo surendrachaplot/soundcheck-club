@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wiggle Room, Toronto on Sat, 17 Oct 2026.
+DJ Colette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sat, 17 Oct 2026.
 
 DJ Colette is a house and deep house artist based in United States of America, with 74 gigs on soundcheck across Chicago, Detroit, Los Angeles and Melbourne and 10 more. Often billed alongside DJ Heather, Pete Moss and Bear Who?. Next up: Wiggle Room, Toronto on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ DJ Colette is a house and deep house artist based in United States of America, w
 
 DJ Heather, Pete Moss, Bear Who?
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

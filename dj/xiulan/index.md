@@ -1,6 +1,6 @@
 # Xiulan
 
-Xiulan is a Electro and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Xiulan is a Electro and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
 Xiulan is an electro and idm artist based in Germany, with 9 gigs on soundcheck across Berlin, Munich, Vienna and Warsaw. Often billed alongside Valverde, Galvin and Gio. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Xiulan is an electro and idm artist based in Germany, with 9 gigs on soundcheck 
 
 Valverde, Galvin, Gio (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiulan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiulan/)*

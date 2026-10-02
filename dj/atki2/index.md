@@ -1,6 +1,6 @@
 # Atki2
 
-Atki2 is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sugar Loaf, Bristol on Fri, 9 Oct 2026.
+Atki2 is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sugar Loaf, Bristol on Fri, 9 Oct 2026.
 
 Atki2 is a club and garage artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Edinburgh and London. Often billed alongside Jonesy Wales, Skillis and Dub Boy. Next up: The Sugar Loaf, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Atki2 is a club and garage artist based in United Kingdom, with 24 gigs on sound
 
 Jonesy Wales, Skillis, Dub Boy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*

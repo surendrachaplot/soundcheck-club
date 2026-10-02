@@ -1,6 +1,6 @@
 # Vivax
 
-Vivax is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gare Porto, Porto on Fri, 23 Oct 2026.
+Vivax is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gare Porto, Porto on Fri, 23 Oct 2026.
 
 Vivax is a techno and electro artist, with 15 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside AlFaer, Catarina Silva and D/F/S. Next up: Gare Porto, Porto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Vivax is a techno and electro artist, with 15 gigs on soundcheck across Berlin, 
 
 AlFaer, Catarina Silva, D/F/S
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivax/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivax/)*

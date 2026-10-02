@@ -1,6 +1,6 @@
 # Daul
 
-Daul is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paper, Seoul on Fri, 2 Oct 2026.
+Daul is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paper, Seoul on Fri, 2 Oct 2026.
 
 Daul is a house and hip-hop artist based in South Korea, with 100 gigs on soundcheck across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: Paper, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Daul is a house and hip-hop artist based in South Korea, with 100 gigs on soundc
 
 TRUEUNSOL, DJ Wow, Gyusco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*

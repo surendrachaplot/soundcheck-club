@@ -1,6 +1,6 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dear Darling, London on Fri, 2 Oct 2026.
+Dimanté is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dear Darling, London on Fri, 2 Oct 2026.
 
 Dimanté is a techno and progressive house artist based in Ukraine, with 11 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Picep. Next up: Dear Darling, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Dimanté is a techno and progressive house artist based in Ukraine, with 11 gigs
 
 Moonz, Any Koh, Picep
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

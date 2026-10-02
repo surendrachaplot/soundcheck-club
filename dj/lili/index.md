@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
+LILI is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
 
 LILI is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Ibiza, Leeds and London and 4 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Renate, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ LILI is a tech house and house artist based in United Kingdom, with 29 gigs on s
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

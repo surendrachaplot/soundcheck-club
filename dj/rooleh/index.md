@@ -1,14 +1,13 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
+Rooléh is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
-Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Volt Club Milano, Milan on Thu 1 Oct.
+Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 3 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 17 Oct 2026 | KOKO | London |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
@@ -20,6 +19,7 @@ Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on s
 
 ## Recently played
 
+- Volt Club Milano, Milan · Thu, 1 Oct 2026
 - Brisa Open Air, Barcelona · Sun, 20 Sept 2026
 - TBA, Lisbon · Fri, 18 Sept 2026
 - Night Tales, London · Fri, 11 Sept 2026
@@ -27,10 +27,9 @@ Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on s
 - West Street, Glasgow · Sat, 15 Aug 2026
 - Flevopark, Amsterdam · Sat, 25 Jul 2026
 - Sportpark Riekerhaven, Amsterdam · Sat, 18 Jul 2026
-- Blue Marlin Ibiza, Ibiza · Wed, 15 Jul 2026
 
 ## Shares bills with
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

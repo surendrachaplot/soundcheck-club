@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Someone Sunny" on Fri, 2 Oct 2026.
+Georgia Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Someone Sunny" on Fri, 2 Oct 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Geminis and Someone Sunny. See dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

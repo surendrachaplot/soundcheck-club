@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
+ANXHELA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
 ANXHELA is a techno and trance artist based in Albania, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: OST, Berlin on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ ANXHELA is a techno and trance artist based in Albania, with 124 gigs on soundch
 
 Alignment, KØZLØV, DIØN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

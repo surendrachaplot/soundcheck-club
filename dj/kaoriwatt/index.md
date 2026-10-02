@@ -1,6 +1,6 @@
 # Kaori Watt
 
-Kaori Watt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
+Kaori Watt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 10 Oct 2026.
 
 Kaori Watt is a techno and industrial artist based in Japan, with 47 gigs on soundcheck across Tokyo. Often billed alongside marimari, Akiko Iwahara and BEPPU. Next up: Z Maruyama, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kaori Watt is a techno and industrial artist based in Japan, with 47 gigs on sou
 
 marimari, Akiko Iwahara, BEPPU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*

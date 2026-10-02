@@ -1,6 +1,6 @@
 # Kara (3)
 
-Kara (3) is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Kara (3) is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Kara is a drum & bass and dub artist based in Italy, with 9 gigs on soundcheck across Amsterdam, Brighton and Milan. Often billed alongside Odd Shy Guy, Al Paino and Nicodemo. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kara is a drum & bass and dub artist based in Italy, with 9 gigs on soundcheck a
 
 Odd Shy Guy, Al Paino, Nicodemo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-3/)*

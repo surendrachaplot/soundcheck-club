@@ -1,6 +1,6 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blob Party: Watch Me" on Fri, 2 Oct 2026.
+Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Blob Party: Watch Me" on Fri, 2 Oct 2026.
 
 Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Wilcox, Ciel, Clouds and CUERPOS and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
@@ -23,4 +23,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

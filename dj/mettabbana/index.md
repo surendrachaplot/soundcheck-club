@@ -1,6 +1,6 @@
 # Mettabbana
 
-Mettabbana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sun, 4 Oct 2026.
+Mettabbana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sun, 4 Oct 2026.
 
 Mettabbana is a house and deep house artist based in United States of America, with 20 gigs on soundcheck across Hamburg and Washington DC. Often billed alongside TierraDelFuego, Jus Nowhere and TiERRA. Next up: Flash, Washington DC on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mettabbana is a house and deep house artist based in United States of America, w
 
 TierraDelFuego, Jus Nowhere, TiERRA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mettabbana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mettabbana/)*

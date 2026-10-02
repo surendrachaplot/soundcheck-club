@@ -1,6 +1,6 @@
 # Atrevido
 
-Atrevido is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Atrevido is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
 
 Atrevido is a techno and downtempo artist based in United States of America, with 17 gigs on soundcheck across Lisbon, Los Angeles, San Diego and Seattle. Often billed alongside Crushed Peanut, Bill Converse and Yessi. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Atrevido is a techno and downtempo artist based in United States of America, wit
 
 Crushed Peanut, Bill Converse, Yessi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrevido/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrevido/)*

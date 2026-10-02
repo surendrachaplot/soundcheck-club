@@ -1,6 +1,6 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+L.P. Rhythm is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 L.P. Rhythm is a house and tech house artist based in United Kingdom, with 183 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 33 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 183 g
 
 Gaskin, Luuk van Dijk, Sidney Charles
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

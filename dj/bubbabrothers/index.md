@@ -1,6 +1,6 @@
 # Bubba Brothers
 
-Bubba Brothers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+Bubba Brothers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
 
 Bubba Brothers is a house and deep house artist based in Portugal, with 10 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Ibiza and 1 more. Often billed alongside Eddy Romero, Frink and Pornbugs. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bubba Brothers is a house and deep house artist based in Portugal, with 10 gigs 
 
 Eddy Romero, Frink, Pornbugs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubbabrothers/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubbabrothers/)*

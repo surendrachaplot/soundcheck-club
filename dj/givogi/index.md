@@ -1,6 +1,6 @@
 # givogi
 
-givogi is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nyapi, Seoul on Sat, 3 Oct 2026.
+givogi is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nyapi, Seoul on Sat, 3 Oct 2026.
 
 givogi is a house and minimal artist based in South Korea, with 169 gigs on soundcheck across Berlin, Hong Kong, Seoul and Shanghai and 1 more. Often billed alongside Lyumin, Riskii and JNS. Next up: Nyapi, Seoul on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ givogi is a house and minimal artist based in South Korea, with 169 gigs on soun
 
 Lyumin, Riskii (2), JNS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givogi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givogi/)*

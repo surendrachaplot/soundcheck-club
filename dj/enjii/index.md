@@ -1,6 +1,6 @@
 # ENJII
 
-ENJII is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+ENJII is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 ENJII is a house and progressive house artist, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Anderson Bourne, ALMAS and DNEB. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ ENJII is a house and progressive house artist, with 7 gigs on soundcheck across 
 
 Anderson Bourne, ALMAS, DNEB
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enjii/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enjii/)*

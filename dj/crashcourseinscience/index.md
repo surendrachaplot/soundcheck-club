@@ -1,6 +1,6 @@
 # Crash Course In Science
 
-Crash Course In Science is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Great American Music Hall, San Francisco/Oakland on Thu, 22 Oct 2026.
+Crash Course In Science is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Great American Music Hall, San Francisco/Oakland on Thu, 22 Oct 2026.
 
 Crash Course In Science is an industrial and new wave artist, with 6 gigs on soundcheck across Chicago, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Antal, Avalon Emerson and Ben UFO. Next up: Great American Music Hall, San Francisco/Oakland on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Crash Course In Science is an industrial and new wave artist, with 6 gigs on sou
 
 Antal, Avalon Emerson, Ben UFO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashcourseinscience/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashcourseinscience/)*

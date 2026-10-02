@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Freqy Rhythm pres. Hard Launch: A Queer Party" on Thu, 1 Oct 2026.
+The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Lounge x POSER present: Kara Okay" on Fri, 2 Oct 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Freqy Rhythm pres. Hard Launch: A Queer Party | Bertie, Cheriii, HOLY C, Marie Malarie, Tina Disco, Ysanne |
 | Fri, 2 Oct 2026 | The Lounge x POSER present: Kara Okay | Becky (2), Coinín Beag, DJ-CK, Hyperfunk, Kara Okay, POSER |
 | Sat, 3 Oct 2026 | ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee | Conrad Lee, Dominic (UK), Hudson’s Choice, Lenny (UK), Ruby Savage |
 | Sun, 4 Oct 2026 | Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef | Alan Fitzpatrick, Aniaef, R.M.K |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 | Sat, 17 Oct 2026 | murmur - Autumn special | Aisling, Sincerely Simon |
 | Thu, 22 Oct 2026 | INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand |  |
 | Fri, 23 Oct 2026 | 7005 Vol.7 |  |
+| Sat, 24 Oct 2026 | Strange DNA: Microdosed | Ryan Licchelli, Tom Place |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

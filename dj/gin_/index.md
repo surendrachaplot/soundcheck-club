@@ -1,6 +1,6 @@
 # GIN_
 
-GIN_ is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at So36, Berlin on Fri, 2 Oct 2026.
+GIN_ is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at So36, Berlin on Fri, 2 Oct 2026.
 
 GIN_ is a house and broken beat artist based in United Kingdom, with 10 gigs on soundcheck across Berlin and London. Often billed alongside Josh Caffé, Mica Coca and Donnie Sunshine. Next up: So36, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ GIN_ is a house and broken beat artist based in United Kingdom, with 10 gigs on 
 
 Josh Caffé, Mica Coca, Donnie Sunshine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gin_/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gin_/)*

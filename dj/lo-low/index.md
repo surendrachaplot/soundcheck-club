@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Fri, 2 Oct 2026.
+LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Fri, 2 Oct 2026.
 
 LO-LOW is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, David Ramsay and Someone Sunny. Next up: radial, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ LO-LOW is a techno and house artist based in United Kingdom, with 85 gigs on sou
 
 Samantha Togni, David Ramsay, Someone Sunny
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

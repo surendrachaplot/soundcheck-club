@@ -1,6 +1,6 @@
 # Stëh
 
-Stëh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
+Stëh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
 
 Stëh is a techno and hardcore artist based in Brazil, with 83 gigs on soundcheck across Barcelona, Basel, Berlin and Ibiza and 8 more. Often billed alongside Madson Carpenter, Ornella and Taxsh. Next up: Gotec, Karlsruhe on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Stëh is a techno and hardcore artist based in Brazil, with 83 gigs on soundchec
 
 Madson Carpenter, Ornella, Taxsh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*

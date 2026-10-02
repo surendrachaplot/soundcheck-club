@@ -1,6 +1,6 @@
 # Sofi Lucius
 
-Sofi Lucius is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
+Sofi Lucius is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
 Sofi Lucius is a techno and house artist based in Argentina, with 24 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Hamburg and 3 more. Often billed alongside SEMREH, Midirama and Dash (CZ). Next up: Fuchs2, Prague on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Sofi Lucius is a techno and house artist based in Argentina, with 24 gigs on sou
 
 SEMREH, Midirama, Dash (CZ)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofilucius/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofilucius/)*

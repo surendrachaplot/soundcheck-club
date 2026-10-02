@@ -1,6 +1,6 @@
 # Mr.A
 
-Mr.A is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiku, Helsinki on Sat, 17 Oct 2026.
+Mr.A is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaiku, Helsinki on Sat, 17 Oct 2026.
 
 Mr.A is a house and garage artist, with 15 gigs on soundcheck across Helsinki and London. Often billed alongside CEB (FI), HARTY and Darrell Privett. Next up: Kaiku, Helsinki on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mr.A is a house and garage artist, with 15 gigs on soundcheck across Helsinki an
 
 CEB (FI), HARTY, Darrell Privett
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mra-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mra-uk/)*

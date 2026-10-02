@@ -1,6 +1,6 @@
 # Jon Hussey
 
-Jon Hussey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at John Doe, Amsterdam on Sat, 3 Oct 2026.
+Jon Hussey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Sat, 3 Oct 2026.
 
 Jon Hussey is a techno and house artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Berlin, Cork and Dublin and 1 more. Often billed alongside Ayolxi, Cailín and EMMIE. Next up: John Doe, Amsterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Jon Hussey is a techno and house artist based in Ireland, with 23 gigs on soundc
 
 Ayolxi, Cailín, EMMIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhussey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhussey/)*

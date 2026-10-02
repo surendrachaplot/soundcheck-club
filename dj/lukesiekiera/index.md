@@ -1,6 +1,6 @@
 # LUKE SIEKIERA
 
-LUKE SIEKIERA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
+LUKE SIEKIERA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Egg London, London on Sat, 17 Oct 2026.
 
 LUKE SIEKIERA is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Ibiza and London. Often billed alongside AndThen, Carlos Van D and DRSJ. Next up: Egg London, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LUKE SIEKIERA is a house and tech house artist based in United Kingdom, with 9 g
 
 AndThen, Carlos Van D, DRSJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesiekiera/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesiekiera/)*

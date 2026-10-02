@@ -1,6 +1,6 @@
 # Creams
 
-Creams is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Sat, 31 Oct 2026.
+Creams is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bassiani, Tbilisi on Sat, 31 Oct 2026.
 
 Creams is a techno and pop artist based in Georgia, with 23 gigs on soundcheck across Basel, Berlin, Detroit and Düsseldorf and 4 more. Often billed alongside 2ciu, Annie Lew and BEQA. Next up: Bassiani, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Creams is a techno and pop artist based in Georgia, with 23 gigs on soundcheck a
 
 2ciu, Annie Lew, BEQA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creams/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creams/)*

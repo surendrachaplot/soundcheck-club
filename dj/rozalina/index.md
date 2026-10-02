@@ -1,6 +1,6 @@
 # Rozalina
 
-Rozalina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+Rozalina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
 Rozalina is a techno and trance artist based in Hungary, with 83 gigs on soundcheck across Berlin, Budapest and Leipzig. Often billed alongside Gingershot, CRB and Meduzah. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rozalina is a techno and trance artist based in Hungary, with 83 gigs on soundch
 
 Gingershot, CRB, Meduzah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozalina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozalina/)*

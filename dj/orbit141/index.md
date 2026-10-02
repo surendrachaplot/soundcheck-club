@@ -1,6 +1,6 @@
 # ORBIT141
 
-ORBIT141 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 13 Nov 2026.
+ORBIT141 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 13 Nov 2026.
 
 ORBIT141 is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Frankfurt and Nürnberg and 2 more. Often billed alongside Isabelle Beaucamp, Mødze and SANDRA ROMINA. Next up: Fridas Pier, Stuttgart on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ORBIT141 is a techno and trance artist based in Germany, with 16 gigs on soundch
 
 Isabelle Beaucamp, Mødze, SANDRA ROMINA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbit141/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbit141/)*

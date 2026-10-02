@@ -1,6 +1,6 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Baila Ritmo W/ José Fajardo ANL" on Fri, 2 Oct 2026.
+Goya Social Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Baila Ritmo W/ José Fajardo ANL" on Fri, 2 Oct 2026.
 
 Goya Social Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Ferrari, FIRZA, Hugo Carter and jose fajardo and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Goya Social Club is a music venue in Madrid listed on soundcheck. 4 upcoming gig
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

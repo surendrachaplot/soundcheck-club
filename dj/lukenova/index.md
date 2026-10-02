@@ -1,6 +1,6 @@
 # Luke Nova
 
-Luke Nova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sky Lounge 360, Prague on Sat, 3 Oct 2026.
+Luke Nova is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sky Lounge 360, Prague on Sat, 3 Oct 2026.
 
 Luke Nova is a house and techno artist based in Czech Republic, with 20 gigs on soundcheck across Prague. Often billed alongside Axis Alpha, DJ Lumiere and Pink Concrete. Next up: Sky Lounge 360, Prague on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Luke Nova is a house and techno artist based in Czech Republic, with 20 gigs on 
 
 Axis Alpha, DJ Lumiere, Pink Concrete
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukenova/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukenova/)*

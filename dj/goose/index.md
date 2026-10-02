@@ -1,6 +1,6 @@
 # Goose
 
-Goose is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Goose is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Goose is a techno and trance artist, with 7 gigs on soundcheck across Istanbul, Jacksonville, Seoul and Stuttgart and 1 more. Often billed alongside AK SPORTS, ANNA and Alif Hilal. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Goose is a techno and trance artist, with 7 gigs on soundcheck across Istanbul, 
 
 AK SPORTS, ANNA, Alif Hilal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goose/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goose/)*

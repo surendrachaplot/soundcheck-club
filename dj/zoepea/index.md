@@ -1,6 +1,6 @@
 # Zoe Pea
 
-Zoe Pea is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unter Deck, Munich on Fri, 9 Oct 2026.
+Zoe Pea is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unter Deck, Munich on Fri, 9 Oct 2026.
 
 Zoe Pea is a dub and downtempo artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Rat Section, babyschön and floor length skirts. Next up: Unter Deck, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Zoe Pea is a dub and downtempo artist based in United Kingdom, with 20 gigs on s
 
 Rat Section, babyschön, floor length skirts
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*

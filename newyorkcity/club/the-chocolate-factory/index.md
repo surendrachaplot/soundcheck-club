@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Joris Voorn - Trip to Galaxy Tour" on Fri, 2 Oct 2026.
+The Chocolate Factory is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Joris Voorn - Trip to Galaxy Tour" on Fri, 2 Oct 2026.
 
 The Chocolate Factory is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including ARMANA KHAN, BABEITSPURR, Byrell The Great and Joris Voorn and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 9 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

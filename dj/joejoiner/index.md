@@ -1,6 +1,6 @@
 # Joe Joiner
 
-Joe Joiner is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Fri, 2 Oct 2026.
+Joe Joiner is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Club, Bristol on Fri, 2 Oct 2026.
 
 Joe Joiner is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across Bristol and London. Often billed alongside Pressa, Andy Foundations and Highlander. Next up: Moon Club, Bristol on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Joe Joiner is a jungle and drum & bass artist based in United Kingdom, with 20 g
 
 Pressa, Andy Foundations, Highlander
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*

@@ -1,6 +1,6 @@
 # SELL (KR)
 
-SELL (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
+SELL (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
 
 SELL (KR) is a club artist based in South Korea, with 10 gigs on soundcheck across Seoul and South Korea. Often billed alongside HADO (KR), TERRA (KR) and H93 (KR). Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ SELL (KR) is a club artist based in South Korea, with 10 gigs on soundcheck acro
 
 HADO (KR), TERRA (KR), H93 (KR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellkr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellkr/)*

@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 2 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 2 Oct 2026.
 
 Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Klein Phönix, Istanbul on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 
 Francis Mercier, Shimza, ARODES
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

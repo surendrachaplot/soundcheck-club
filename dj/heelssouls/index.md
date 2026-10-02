@@ -1,6 +1,6 @@
 # Heels & Souls
 
-Heels & Souls is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
+Heels & Souls is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
 
 Heels & Souls are a house and balearic duo, with 82 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Hamish & Toby, James Andrew and Professor Roth. Next up: The Carpet Shop, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Heels & Souls are a house and balearic duo, with 82 gigs on soundcheck across Am
 
 Hamish & Toby, James Andrew, Professor Roth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*

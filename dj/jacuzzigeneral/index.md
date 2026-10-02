@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradise Palms, Edinburgh on Fri, 2 Oct 2026.
+Jacuzzi General is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Paradise Palms, Edinburgh on Fri, 2 Oct 2026.
 
 Jacuzzi General is a house and balearic artist based in United Kingdom, with 111 gigs on soundcheck across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: Paradise Palms, Edinburgh on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jacuzzi General is a house and balearic artist based in United Kingdom, with 111
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

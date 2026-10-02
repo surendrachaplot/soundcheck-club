@@ -1,6 +1,6 @@
 # Vidaloca
 
-Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Opium Barcelona, Barcelona on Fri, 9 Oct 2026.
+Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Opium Barcelona, Barcelona on Fri, 9 Oct 2026.
 
 Vidaloca is a tech house and house artist based in Spain, with 80 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 6 more. Often billed alongside Pau Guilera, DIROS and Abdon. Next up: Opium Barcelona, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Vidaloca is a tech house and house artist based in Spain, with 80 gigs on soundc
 
 Pau Guilera, DIROS, Abdon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*

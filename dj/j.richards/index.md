@@ -1,6 +1,6 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at feedbk, New York City on Sun, 11 Oct 2026.
+J. Richards is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at feedbk, New York City on Sun, 11 Oct 2026.
 
 J. Richards is a house and techno artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ibiza and 10 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: feedbk, New York City on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ J. Richards is a house and techno artist based in United States of America, with
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

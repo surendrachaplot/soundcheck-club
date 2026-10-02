@@ -1,6 +1,6 @@
 # Cristina Tosio
 
-Cristina Tosio is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
+Cristina Tosio is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
 
 Cristina Tosio is a house and electronica artist, with 25 gigs on soundcheck across Barcelona, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Maceo Plex, Lola Bozzano and ARODES. Next up: Sevilla, South on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cristina Tosio is a house and electronica artist, with 25 gigs on soundcheck acr
 
 Maceo Plex, Lola Bozzano, ARODES
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinatosio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinatosio/)*

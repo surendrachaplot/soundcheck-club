@@ -1,6 +1,6 @@
 # Essē (IT)
 
-Essē (IT) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
+Essē (IT) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
 
 Essē (IT) is a techno and electronica artist based in Italy, with 10 gigs on soundcheck across Milan. Often billed alongside Enrico Vivaldi, Lady Goccia and Marc Anthony Bowen. Next up: Circolo Amelia, Milan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Essē (IT) is a techno and electronica artist based in Italy, with 10 gigs on so
 
 Enrico Vivaldi, Lady Goccia, Marc Anthony Bowen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esse-it/)*

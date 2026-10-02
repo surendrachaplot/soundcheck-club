@@ -1,6 +1,6 @@
 # DJ Delish
 
-DJ Delish is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
+DJ Delish is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
 
 DJ Delish is a house and ballroom artist based in United States of America, with 41 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside DJ Dommis, Archangel and BLAIZE. Next up: Bossa Nova Civic Club, New York City on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ DJ Delish is a house and ballroom artist based in United States of America, with
 
 DJ Dommis, Archangel, BLAIZE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*

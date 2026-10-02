@@ -1,6 +1,6 @@
 # Nicolas Duque
 
-Nicolas Duque is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Nicolas Duque is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Nicolas Duque is a house and breakbeat artist based in Colombia, with 16 gigs on soundcheck across Barcelona, Berlin, Boston and Bristol and 6 more. Often billed alongside Benny (El Rio Hostel), Federico Molinari and Adi (CO). Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Nicolas Duque is a house and breakbeat artist based in Colombia, with 16 gigs on
 
 Benny (El Rio Hostel), Federico Molinari, Adi (CO)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduque/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduque/)*

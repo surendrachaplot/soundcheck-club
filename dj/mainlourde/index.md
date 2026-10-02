@@ -1,6 +1,6 @@
 # Main Lourde
 
-Main Lourde is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Main Lourde is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
 Main Lourde is a house and trance artist based in France, with 9 gigs on soundcheck across Paris. Often billed alongside Alben, Aldonna and Apéro Notturno. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Main Lourde is a house and trance artist based in France, with 9 gigs on soundch
 
 Alben, Aldonna, Apéro Notturno
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainlourde/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainlourde/)*

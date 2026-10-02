@@ -1,6 +1,6 @@
 # Powder Ranger
 
-Powder Ranger is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+Powder Ranger is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 Powder Ranger is a bass and electro artist based in Czech Republic, with 16 gigs on soundcheck across Prague. Often billed alongside Mother Menace, A/PM and Hermeth. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Powder Ranger is a bass and electro artist based in Czech Republic, with 16 gigs
 
 Mother Menace, A/PM, Hermeth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powderranger/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powderranger/)*

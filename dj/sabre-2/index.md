@@ -1,6 +1,6 @@
 # Sabre (PL)
 
-Sabre (PL) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
+Sabre (PL) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
 Sabre (PL) is a techno and acid artist, with 33 gigs on soundcheck across Amsterdam, Bucharest, Edinburgh and Gdansk and 3 more. Often billed alongside Mislaw, Lucyd and Sept. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sabre (PL) is a techno and acid artist, with 33 gigs on soundcheck across Amster
 
 Mislaw, Lucyd, Sept
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*

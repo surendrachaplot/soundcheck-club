@@ -1,6 +1,6 @@
 # CLEO
 
-CLEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
+CLEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
 
 CLEO is a techno and house artist based in France, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside Cleo (AU), Cleo SNK and EROS IN FURS. Next up: elipamanoke, Leipzig on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CLEO is a techno and house artist based in France, with 42 gigs on soundcheck ac
 
 Cleo (AU), Cleo SNK, EROS IN FURS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*

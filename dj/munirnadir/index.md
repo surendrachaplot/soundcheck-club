@@ -1,6 +1,6 @@
 # Munir Nadir
 
-Munir Nadir is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Munir Nadir is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Munir Nadir is a techno and house artist based in Morocco, with 73 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Alex Dima, Cristian Sarde and Lorenzo Aribone. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Munir Nadir is a techno and house artist based in Morocco, with 73 gigs on sound
 
 Alex Dima, Cristian Sarde, Lorenzo Aribone
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munirnadir/)*

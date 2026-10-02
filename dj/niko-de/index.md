@@ -1,6 +1,6 @@
 # NIKØ
 
-NIKØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Thu, 22 Oct 2026.
+NIKØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Thu, 22 Oct 2026.
 
 NIKØ is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside Maurice Werner, DJ Spaßgetränk and Konsument. Next up: OXI, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ NIKØ is a techno and trance artist based in Germany, with 25 gigs on soundcheck
 
 Maurice Werner, DJ Spaßgetränk, Konsument
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niko-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niko-de/)*

@@ -1,6 +1,6 @@
 # buildupbreakdown
 
-buildupbreakdown is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volume Village, Aarhus on Fri, 2 Oct 2026.
+buildupbreakdown is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volume Village, Aarhus on Fri, 2 Oct 2026.
 
 buildupbreakdown is an electronic artist based in Denmark, with 6 gigs on soundcheck across Aarhus and Copenhagen. Often billed alongside Europa, Franarchy and Ryong. Next up: Volume Village, Aarhus on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ buildupbreakdown is an electronic artist based in Denmark, with 6 gigs on soundc
 
 Europa (1), Franarchy, Ryong
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*

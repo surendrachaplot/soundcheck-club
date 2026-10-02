@@ -1,6 +1,6 @@
 # Pedro Night
 
-Pedro Night is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Pedro Night is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Pedro Night is a house and reggaeton artist based in United States of America, with 12 gigs on soundcheck across New York City, San Francisco/Oakland and Washington DC. Often billed alongside EL SUCIO, ILUSM and MANGUMAMI. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Pedro Night is a house and reggaeton artist based in United States of America, w
 
 EL SUCIO, ILUSM, MANGUMAMI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedronight/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedronight/)*

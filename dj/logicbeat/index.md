@@ -1,6 +1,6 @@
 # LogicBeat
 
-LogicBeat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 3 Oct 2026.
+LogicBeat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 3 Oct 2026.
 
 LogicBeat is a techno and house artist based in Japan, with 51 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), THE RATA and Alex Ormond. Next up: Enter Shibuya, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ LogicBeat is a techno and house artist based in Japan, with 51 gigs on soundchec
 
 SIGNAL (JP), THE RATA, Alex Ormond
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logicbeat/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logicbeat/)*

@@ -1,6 +1,6 @@
 # Zedd
 
-Zedd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Zedd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Zedd is a house and techno artist based in Germany, with 29 gigs on soundcheck across Arizona, Bali, Bangkok and Berlin and 13 more. Often billed alongside Galantis, Dom Dolla and SOFI TUKKER. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Zedd is a house and techno artist based in Germany, with 29 gigs on soundcheck a
 
 Galantis, Dom Dolla, SOFI TUKKER
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*

@@ -1,6 +1,6 @@
 # Mario Kassian
 
-Mario Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at West Harlem, Kyoto on Fri, 2 Oct 2026.
+Mario Kassian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at West Harlem, Kyoto on Fri, 2 Oct 2026.
 
 Mario Kassian is a house and techno artist based in Japan, with 45 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Matthias Abe, EUREKA and Lomax. Next up: West Harlem, Kyoto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mario Kassian is a house and techno artist based in Japan, with 45 gigs on sound
 
 Matthias Abe, EUREKA, Lomax
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariokassian/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariokassian/)*

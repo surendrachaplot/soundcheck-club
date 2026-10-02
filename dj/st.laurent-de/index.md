@@ -1,6 +1,6 @@
 # St. Laurent
 
-St. Laurent is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 10 Oct 2026.
+St. Laurent is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 10 Oct 2026.
 
 St. Laurent is a house and disco artist based in France, with 2 gigs on soundcheck across Berlin. Often billed alongside Akirahawks, Alison Swing and Sciarada. Next up: Orangerie Neukölln, Berlin on Sat 10 Oct.
 
@@ -15,4 +15,4 @@ St. Laurent is a house and disco artist based in France, with 2 gigs on soundche
 
 Akirahawks, Alison Swing, Sciarada
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/st.laurent-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/st.laurent-de/)*

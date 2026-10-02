@@ -1,6 +1,6 @@
 # Fhiga
 
-Fhiga is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Fhiga is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Fhiga is a techno and acid artist based in Spain, with 24 gigs on soundcheck across Barcelona, Budapest, Madrid and Malaga and 2 more. Often billed alongside GNRØ, PÜCH and Boys Noize. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fhiga is a techno and acid artist based in Spain, with 24 gigs on soundcheck acr
 
 GNRØ, PÜCH, Boys Noize
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhiga/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhiga/)*

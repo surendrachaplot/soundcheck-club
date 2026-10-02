@@ -1,6 +1,6 @@
 # Reshio
 
-Reshio is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
+Reshio is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
 
 Reshio is a tech house and trance artist, with 48 gigs on soundcheck across Barcelona, Berlin, Krakow and Tbilisi. Often billed alongside Trotsky, Gio Shengelia and Mtvare. Next up: Left Bank, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Reshio is a tech house and trance artist, with 48 gigs on soundcheck across Barc
 
 Trotsky, Gio Shengelia, Mtvare
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*

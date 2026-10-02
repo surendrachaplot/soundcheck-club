@@ -1,6 +1,6 @@
 # OYYSTER
 
-OYYSTER is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
+OYYSTER is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
 
 OYYSTER is a techno and latin bass artist based in United States of America, with 11 gigs on soundcheck across Houston, Mexico City and New York City. Often billed alongside Roman Sensation, Aleroj and Iris Estefanía. Next up: The Chocolate Factory, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ OYYSTER is a techno and latin bass artist based in United States of America, wit
 
 Roman Sensation, Aleroj, Iris Estefanía
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyyster/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyyster/)*

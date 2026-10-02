@@ -1,6 +1,6 @@
 # Al V Dam
 
-Al V Dam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Xuxa, Austin on Fri, 2 Oct 2026.
+Al V Dam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Xuxa, Austin on Fri, 2 Oct 2026.
 
 Al V Dam is a techno and house artist, with 33 gigs on soundcheck across Austin, Denver, New York City and Washington DC. Often billed alongside M. Shogi, Brett Johnson and DJ BAD APPLE. Next up: Xuxa, Austin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Al V Dam is a techno and house artist, with 33 gigs on soundcheck across Austin,
 
 M. Shogi, Brett Johnson, DJ BAD APPLE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvdam/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvdam/)*

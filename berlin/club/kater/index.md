@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy" on Fri, 2 Oct 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy" on Fri, 2 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Aio and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

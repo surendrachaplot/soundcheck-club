@@ -1,6 +1,6 @@
 # Vida
 
-Vida is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
+Vida is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
 
 Vida is a house and tech house artist based in Germany, with 8 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside IZIK, Ox:Fox and Vann Essa. Next up: Hotel Via, San Francisco/Oakland on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Vida is a house and tech house artist based in Germany, with 8 gigs on soundchec
 
 IZIK, Ox:Fox, Vann Essa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vida/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vida/)*

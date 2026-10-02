@@ -1,6 +1,6 @@
 # T. Jacques
 
-T. Jacques is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
+T. Jacques is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
 
 T. Jacques is a house and garage artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Edinburgh and 7 more. Often billed alongside Jive Talk, Penzik & Burns and Adam Chapman. Next up: The Marquee Moon, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ T. Jacques is a house and garage artist based in United Kingdom, with 50 gigs on
 
 Jive Talk, Penzik & Burns, Adam Chapman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjacques/)*

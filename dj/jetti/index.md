@@ -1,6 +1,6 @@
 # Jetti
 
-Jetti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 2 Oct 2026.
+Jetti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 2 Oct 2026.
 
 Jetti is a techno and house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: Garage Noord, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jetti is a techno and house artist based in Netherlands, with 58 gigs on soundch
 
 Post, Jeans (NL), David Vunk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

@@ -1,6 +1,6 @@
 # Gerald VDH
 
-Gerald VDH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Halle 5, Austria on Sat, 3 Oct 2026.
+Gerald VDH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Halle 5, Austria on Sat, 3 Oct 2026.
 
 Gerald VDH is a techno and house artist based in Austria, with 65 gigs on soundcheck across Austria, Bangkok, Berlin and Hamburg and 5 more. Often billed alongside Annika Stein, Mischa Beton and Boris. Next up: Halle 5, Austria on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Gerald VDH is a techno and house artist based in Austria, with 65 gigs on soundc
 
 Annika Stein, Mischa Beton, Boris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geraldvdh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geraldvdh/)*

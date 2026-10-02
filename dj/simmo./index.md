@@ -1,6 +1,6 @@
 # Simmo.
 
-Simmo. is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorilla, Manchester on Sat, 17 Oct 2026.
+Simmo. is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gorilla, Manchester on Sat, 17 Oct 2026.
 
 Simmo. is a jungle and bass artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Gorilla, Manchester on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Simmo. is a jungle and bass artist based in United Kingdom, with 7 gigs on sound
 
 Amelia Leigh, Sweetly, DAIZ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*

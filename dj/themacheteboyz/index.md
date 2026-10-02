@@ -1,6 +1,6 @@
 # The Machete Boyz
 
-The Machete Boyz is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
+The Machete Boyz is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Spaceroom, Tbilisi on Fri, 23 Oct 2026.
 
 The Machete Boyz is a dubstep and bass artist based in Georgia, with 7 gigs on soundcheck across Tbilisi. Often billed alongside Goka, RafDog and irrationalizard. Next up: TBA - Spaceroom, Tbilisi on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ The Machete Boyz is a dubstep and bass artist based in Georgia, with 7 gigs on s
 
 Goka, RafDog, irrationalizard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themacheteboyz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themacheteboyz/)*

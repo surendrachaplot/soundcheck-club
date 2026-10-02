@@ -1,6 +1,6 @@
 # Yomi
 
-Yomi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Faust, Seoul on Sat, 3 Oct 2026.
+Yomi is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Faust, Seoul on Sat, 3 Oct 2026.
 
 Yomi is a techno and electro artist based in South Korea, with 74 gigs on soundcheck across Mexico City, Paris, Seoul and Tokyo and 1 more. Often billed alongside Honn, MOVIN.KR and rerekat. Next up: Faust, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Yomi is a techno and electro artist based in South Korea, with 74 gigs on soundc
 
 Honn, MOVIN.KR, rerekat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yomi/)*

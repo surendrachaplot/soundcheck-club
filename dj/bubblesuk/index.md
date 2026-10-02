@@ -1,6 +1,6 @@
 # Bubbles (UK)
 
-Bubbles (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
+Bubbles (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gut Level, Sheffield on Sat, 12 Dec 2026.
 
 Bubbles (UK) is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Mexico City, San Francisco/Oakland, Sheffield and Tokyo. Often billed alongside Backseat Driver, Paniolo and Host (CA). Next up: Gut Level, Sheffield on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Bubbles (UK) is a house and techno artist based in United Kingdom, with 11 gigs 
 
 Backseat Driver, Paniolo, Host (CA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*

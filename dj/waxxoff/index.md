@@ -1,6 +1,6 @@
 # WAXX OFF
 
-WAXX OFF is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+WAXX OFF is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
 WAXX OFF is a garage and bass artist, with 24 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bangkok and 9 more. Often billed alongside Prizefight, Baron Von Trax and IsGwan. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ WAXX OFF is a garage and bass artist, with 24 gigs on soundcheck across Amsterda
 
 Prizefight, Baron Von Trax, IsGwan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*

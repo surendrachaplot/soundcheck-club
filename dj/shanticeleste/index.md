@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kapsule, Liverpool on Fri, 2 Oct 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kapsule, Liverpool on Fri, 2 Oct 2026.
 
 Shanti Celeste is a house and techno artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Kapsule, Liverpool on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 216 gi
 
 Peach, Saoirse, Ogazón
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

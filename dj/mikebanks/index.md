@@ -1,6 +1,6 @@
 # Mike Banks
 
-Mike Banks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Mike Banks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Mike Banks is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Carl Craig, Moodymann and Charlotte de Witte. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Mike Banks is a techno and house artist based in United States of America, with 
 
 Carl Craig, Moodymann, Charlotte de Witte
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebanks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebanks/)*

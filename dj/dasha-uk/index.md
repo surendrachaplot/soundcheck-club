@@ -1,6 +1,6 @@
 # DASHA (UK)
 
-DASHA (UK) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
+DASHA (UK) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
 
 DASHA (UK) is a house and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Copenhagen, London and Melbourne. Often billed alongside AVANTIME, Addiy and Bibiminor. Next up: Culture Box, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DASHA (UK) is a house and electronica artist based in United Kingdom, with 19 gi
 
 AVANTIME, Addiy, Bibiminor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*

@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Resident, Denver on Fri, 2 Oct 2026.
+Rafael Cerato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Resident, Denver on Fri, 2 Oct 2026.
 
 Rafael Cerato is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 33 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Resident, Denver on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rafael Cerato is a house and techno artist based in United Kingdom, with 65 gigs
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

@@ -1,6 +1,6 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 SPRKLBB is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, BEIGE and Ciel. Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SPRKLBB is a house and techno artist based in United States of America, with 70 
 
 Mutualism, BEIGE, Ciel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

@@ -1,6 +1,6 @@
 # Hyas
 
-Hyas is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 4 Oct 2026.
+Hyas is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 4 Oct 2026.
 
 Hyas is a bass and breakbeat artist based in France, with 103 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Pura Pura, Kaba and Beatrice M.. Next up: Bossa Nova Civic Club, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Hyas is a bass and breakbeat artist based in France, with 103 gigs on soundcheck
 
 Pura Pura, Kaba, Beatrice M.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyas/)*

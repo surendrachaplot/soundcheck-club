@@ -1,6 +1,6 @@
 # Luca Eck
 
-Luca Eck is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
+Luca Eck is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
 
 Luca Eck is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 20 more. Often billed alongside Miss Bashful, DJ Hyaluron and GIA. Next up: Sala El Sol, Madrid on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Luca Eck is a techno and trance artist based in Germany, with 74 gigs on soundch
 
 Miss Bashful, DJ Hyaluron, GIA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*

@@ -1,6 +1,6 @@
 # Ziggy's
 
-Ziggy's is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Inversions: An Evening of Improvised Music and Movement" on Mon, 12 Oct 2026.
+Ziggy's is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Inversions: An Evening of Improvised Music and Movement" on Mon, 12 Oct 2026.
 
 Ziggy's is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ziggy's is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Mon, 12 Oct 2026 | Inversions: An Evening of Improvised Music and Movement |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/ziggy-s/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/ziggy-s/)*

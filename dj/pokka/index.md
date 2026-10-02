@@ -1,6 +1,6 @@
 # pokka
 
-pokka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+pokka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 pokka is a house and techno artist based in Germany, with 25 gigs on soundcheck across Basel, Berlin, Hamburg and Leipzig. Often billed alongside Thomas Stieler, Uferkind and ANKA. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ pokka is a house and techno artist based in Germany, with 25 gigs on soundcheck 
 
 Thomas Stieler, Uferkind, ANKA (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pokka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pokka/)*

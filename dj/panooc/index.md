@@ -1,6 +1,6 @@
 # Panooc
 
-Panooc is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Fri, 2 Oct 2026.
+Panooc is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Şahika, Istanbul on Fri, 2 Oct 2026.
 
 Panooc is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Michelle Manetti, Robin Flux and materia hache. Next up: Şahika, Istanbul on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Panooc is a house and techno artist based in United Kingdom, with 46 gigs on sou
 
 Michelle Manetti, Robin Flux, materia hache
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*

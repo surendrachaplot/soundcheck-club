@@ -1,6 +1,6 @@
 # GEM (UK)
 
-GEM (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
+GEM (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
 
 GEM (UK) is a techno and house artist, with 26 gigs on soundcheck across Bristol and London. Often billed alongside Debba, Delano (UK) and Joe Polar. Next up: M.O.T, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GEM (UK) is a techno and house artist, with 26 gigs on soundcheck across Bristol
 
 Debba, Delano (UK), Joe Polar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gem-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gem-uk/)*

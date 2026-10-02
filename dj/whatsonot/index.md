@@ -1,14 +1,15 @@
 # What So Not
 
-What So Not is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
+What So Not is a Bass and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
 
-What So Not is a bass and drum & bass artist based in Australia, with 29 gigs on soundcheck across Amsterdam, Bali, Berlin and London and 11 more. Often billed alongside BABii, Big Gigantic and DJ Snake. Next up: Gretchen, Berlin on Fri 23 Oct.
+What So Not is a bass and drum & bass artist based in Australia, with 30 gigs on soundcheck across Amsterdam, Bali, Berlin and London and 12 more. Often billed alongside BABii, Big Gigantic and DJ Snake. Next up: Gretchen, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Gretchen | Berlin |
+| Sat, 7 Nov 2026 | Pandora Sevilla | South |
 | Thu, 12 Nov 2026 | Club Magno | Madrid |
 | Fri, 13 Nov 2026 | Oslo Hackney | London |
 
@@ -27,4 +28,4 @@ What So Not is a bass and drum & bass artist based in Australia, with 29 gigs on
 
 BABii, Big Gigantic, DJ Snake
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*

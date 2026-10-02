@@ -1,6 +1,6 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Pureblast is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
 Pureblast is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, DJ Physical and Egna. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Pureblast is a techno and trance artist based in France, with 39 gigs on soundch
 
 Audrey Danza, DJ Physical, Egna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*

@@ -1,6 +1,6 @@
 # Choronzon
 
-Choronzon is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Choronzon is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Choronzon is a techno and industrial artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Berlin, Birmingham and Glasgow and 2 more. Often billed alongside Dahc Dermur VIII, Rangelova and Ancient Methods. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Choronzon is a techno and industrial artist based in United Kingdom, with 33 gig
 
 Dahc Dermur VIII, Rangelova, Ancient Methods
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*

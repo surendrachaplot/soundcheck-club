@@ -1,6 +1,6 @@
 # Lake Chalco
 
-Lake Chalco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+Lake Chalco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
 Lake Chalco is a house and disco artist based in Mexico, with 49 gigs on soundcheck across Mexico City. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Pablo Miya. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lake Chalco is a house and disco artist based in Mexico, with 49 gigs on soundch
 
 Duke Skylocker (Disco Dust), Miss Voltaghe, Pablo Miya
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakechalco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakechalco/)*

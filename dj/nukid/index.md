@@ -1,6 +1,6 @@
 # NUKiD
 
-NUKiD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Faust, Seoul on Fri, 2 Oct 2026.
+NUKiD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Faust, Seoul on Fri, 2 Oct 2026.
 
 NUKiD is a techno and house artist based in South Korea, with 37 gigs on soundcheck across Seoul. Often billed alongside Marcus L, Nocturnal (KR) and Kim Bo Yeon. Next up: Faust, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ NUKiD is a techno and house artist based in South Korea, with 37 gigs on soundch
 
 Marcus L, Nocturnal (KR), Kim Bo Yeon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nukid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nukid/)*

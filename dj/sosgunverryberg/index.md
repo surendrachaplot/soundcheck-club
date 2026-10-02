@@ -1,6 +1,6 @@
 # SØS Gunver Ryberg
 
-SØS Gunver Ryberg is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at B&W Hallerne, Copenhagen on Fri, 9 Oct 2026.
+SØS Gunver Ryberg is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B&W Hallerne, Copenhagen on Fri, 9 Oct 2026.
 
 SØS Gunver Ryberg is an experimental and electronica artist based in Denmark, with 9 gigs on soundcheck across Berlin, Copenhagen, Prague and Vienna. Often billed alongside Alessandra Leone, Anton Friisgaard and MSJY. Next up: B&W Hallerne, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SØS Gunver Ryberg is an experimental and electronica artist based in Denmark, w
 
 Alessandra Leone, Anton Friisgaard, MSJY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosgunverryberg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosgunverryberg/)*

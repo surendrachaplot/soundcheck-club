@@ -1,6 +1,6 @@
 # CHXMERAS
 
-CHXMERAS is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Viff Centre, Vancouver on Sat, 3 Oct 2026.
+CHXMERAS is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Viff Centre, Vancouver on Sat, 3 Oct 2026.
 
 CHXMERAS is a dub and experimental artist based in Canada, with 9 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Bored Lord, Liliane Chlela and Maara. Next up: Viff Centre, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ CHXMERAS is a dub and experimental artist based in Canada, with 9 gigs on soundc
 
 Bored Lord, Liliane Chlela, Maara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chxmeras/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chxmeras/)*

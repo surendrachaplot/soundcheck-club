@@ -1,6 +1,6 @@
 # Bibiminor
 
-Bibiminor is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
+Bibiminor is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
 
 Bibiminor is a house and deep house artist based in Italy, with 27 gigs on soundcheck across London. Often billed alongside Francesco Poggi, Donnie Bianco and Harry Wilson. Next up: radial, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Bibiminor is a house and deep house artist based in Italy, with 27 gigs on sound
 
 Francesco Poggi, Donnie Bianco, Harry Wilson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiminor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiminor/)*

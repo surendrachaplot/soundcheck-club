@@ -1,6 +1,6 @@
 # Roberta Deflorio
 
-Roberta Deflorio is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tausend, Berlin on Fri, 2 Oct 2026.
+Roberta Deflorio is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tausend, Berlin on Fri, 2 Oct 2026.
 
 Roberta Deflorio is a house and balearic artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Camilo Miranda, Frinda di Lanco and Alexander Arpeggio. Next up: Tausend, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Roberta Deflorio is a house and balearic artist based in Italy, with 30 gigs on 
 
 Camilo Miranda, Frinda di Lanco, Alexander Arpeggio
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertadeflorio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertadeflorio/)*

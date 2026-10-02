@@ -1,6 +1,6 @@
 # ZSÁGER BALÁZS
 
-ZSÁGER BALÁZS is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Wed, 21 Oct 2026.
+ZSÁGER BALÁZS is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Turbina, Budapest on Wed, 21 Oct 2026.
 
 ZSÁGER BALÁZS is an experimental and ambient artist based in Hungary, with 16 gigs on soundcheck across Berlin, Budapest and Malta. Often billed alongside Rozi Mákó, Disandat and Garpo. Next up: Turbina, Budapest on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ ZSÁGER BALÁZS is an experimental and ambient artist based in Hungary, with 16 
 
 Rozi Mákó, Disandat, Garpo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*

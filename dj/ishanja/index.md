@@ -1,6 +1,6 @@
 # Ish Anja
 
-Ish Anja is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
+Ish Anja is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
 
 Ish Anja is a techno and tech house artist based in United States of America, with 22 gigs on soundcheck across Melbourne. Often billed alongside Etwas, Lisa May and Matteo Freyrie. Next up: QQQ ST. Park, Melbourne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ish Anja is a techno and tech house artist based in United States of America, wi
 
 Etwas, Lisa May, Matteo Freyrie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishanja/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishanja/)*

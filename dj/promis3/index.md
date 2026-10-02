@@ -1,6 +1,6 @@
 # Promis3
 
-Promis3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
+Promis3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
 Promis3 is a techno and trance artist, with 45 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Stinny Stone, Kander and Lola Cerise. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Promis3 is a techno and trance artist, with 45 gigs on soundcheck across Amsterd
 
 Stinny Stone, Kander, Lola Cerise
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*

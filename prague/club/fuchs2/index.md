@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius" on Fri, 2 Oct 2026.
+Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TECHNO ALLIANCE: Sarah Sommers ☆ Lindsey Herbert ☆ Nastya Muravyova ☆ Sofi Lucius" on Fri, 2 Oct 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including AVHD, Berlin Bunny, Cristian Marras and Demonika and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -22,4 +22,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with li
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

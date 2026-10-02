@@ -1,6 +1,6 @@
 # D I N
 
-D I N is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at B2 Rīga, Riga on Fri, 2 Oct 2026.
+D I N is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B2 Rīga, Riga on Fri, 2 Oct 2026.
 
 D I N is a house and minimal artist based in Latvia, with 42 gigs on soundcheck across Barcelona, Berlin, Budapest and Ibiza and 2 more. Often billed alongside iOAN (LV), Adroit and Ikss. Next up: B2 Rīga, Riga on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ D I N is a house and minimal artist based in Latvia, with 42 gigs on soundcheck 
 
 iOAN (LV), Adroit, Ikss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*

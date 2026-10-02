@@ -1,6 +1,6 @@
 # Mia Carucci
 
-Mia Carucci is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los-angeles on Sat, 31 Oct 2026.
+Mia Carucci is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los-angeles on Sat, 31 Oct 2026.
 
 Mia Carucci is a house and baile funk artist, with 8 gigs on soundcheck across Los Angeles. Often billed alongside VICTORIA MOURA, BAE BAE and DJ Kita. Next up: TBA, Los Angeles on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Mia Carucci is a house and baile funk artist, with 8 gigs on soundcheck across L
 
 VICTORIA MOURA, BAE BAE, DJ Kita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miacarucci/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miacarucci/)*

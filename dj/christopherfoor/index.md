@@ -1,6 +1,6 @@
 # Christopher Foor
 
-Christopher Foor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Christopher Foor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Christopher Foor is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside 2dahlia, Alexx in Chainss and Amino. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Christopher Foor is a techno and house artist based in United States of America,
 
 2dahlia, Alexx in Chainss, Amino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherfoor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherfoor/)*

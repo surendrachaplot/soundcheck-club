@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
+James Andrew is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
 
 James Andrew is a house and deep house artist based in United Kingdom, with 42 gigs on soundcheck across Barcelona, Brussels, Ibiza and Leeds and 9 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ James Andrew is a house and deep house artist based in United Kingdom, with 42 g
 
 Charley, Heels & Souls, Apple B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

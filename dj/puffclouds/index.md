@@ -1,6 +1,6 @@
 # puffclouds
 
-puffclouds is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Den, Tokyo on Wed, 14 Oct 2026.
+puffclouds is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Den, Tokyo on Wed, 14 Oct 2026.
 
 puffclouds is a techno and house artist based in France, with 4 gigs on soundcheck across Tokyo. Often billed alongside ALLY, Doom Tempo and SIGNAL (JP). Next up: TBA - The Den, Tokyo on Wed 14 Oct.
 
@@ -20,4 +20,4 @@ puffclouds is a techno and house artist based in France, with 4 gigs on soundche
 
 ALLY, Doom Tempo, SIGNAL (JP)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puffclouds/)*

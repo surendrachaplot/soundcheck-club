@@ -1,6 +1,6 @@
 # Foodman
 
-Foodman is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at West Harlem, Kyoto on Sat, 3 Oct 2026.
+Foodman is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at West Harlem, Kyoto on Sat, 3 Oct 2026.
 
 Foodman is a techno and experimental artist based in Japan, with 65 gigs on soundcheck across Chicago, Denver, Glasgow and Kyoto and 10 more. Often billed alongside Taigen Kawabe, E.O.U and NTsKi. Next up: West Harlem, Kyoto on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Foodman is a techno and experimental artist based in Japan, with 65 gigs on soun
 
 Taigen Kawabe, E.O.U, NTsKi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foodman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foodman/)*

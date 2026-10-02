@@ -1,6 +1,6 @@
 # Ramyen
 
-Ramyen is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Ramyen is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Ramyen is a deep house and house artist based in France, with 53 gigs on soundcheck across Amsterdam, Athens, Budapest and Central and 10 more. Often billed alongside Notre Dame, Saraga and Shimza. Next up: TBA, Central on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Ramyen is a deep house and house artist based in France, with 53 gigs on soundch
 
 Notre Dame, Saraga, Shimza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*

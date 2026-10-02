@@ -1,6 +1,6 @@
 # Midland
 
-Midland is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+Midland is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 Midland is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: FOLD, London on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Midland is a house and techno artist based in United Kingdom, with 114 gigs on s
 
 NIKS, Peach, Job Jobse
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

@@ -1,8 +1,8 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Bar, Athens on Fri, 2 Oct 2026.
+The Dreamer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Big Bar, Athens on Fri, 2 Oct 2026.
 
-The Dreamer is a house and techno artist, with 91 gigs on soundcheck across Athens, Berlin, London and Paris and 1 more. Often billed alongside WrappeD In PlastiC, ClubKid and Bill Sanders. Next up: Big Bar, Athens on Fri 2 Oct.
+The Dreamer is a house and techno artist based in Greece, with 92 gigs on soundcheck across Athens, Berlin, London and Paris and 2 more. Often billed alongside WrappeD In PlastiC, ClubKid and Bill Sanders. Next up: Big Bar, Athens on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ The Dreamer is a house and techno artist, with 91 gigs on soundcheck across Athe
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Big Bar | Athens |
 | Fri, 9 Oct 2026 | SMUT Athens | Athens |
+| Sat, 10 Oct 2026 | Ypsilon | Thessaloniki |
 | Sat, 24 Oct 2026 | House of Q | Stockholm |
 
 ## Recently played
@@ -27,4 +28,4 @@ The Dreamer is a house and techno artist, with 91 gigs on soundcheck across Athe
 
 WrappeD In PlastiC, ClubKid, Bill Sanders
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

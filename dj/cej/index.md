@@ -1,6 +1,6 @@
 # CEJ
 
-CEJ is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
+CEJ is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
 
 CEJ is a techno and psytrance artist based in United States of America, with 7 gigs on soundcheck across Chicago. Often billed alongside Rrose, Madeline (Chi) and frail808. Next up: Podlasie Club, Chicago on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ CEJ is a techno and psytrance artist based in United States of America, with 7 g
 
 Rrose, Madeline (Chi), frail808
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cej/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cej/)*

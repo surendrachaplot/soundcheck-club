@@ -1,6 +1,6 @@
 # Repart
 
-Repart is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
+Repart is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at McChuills Music Bar, Glasgow on Fri, 9 Oct 2026.
 
 Repart is a techno and ambient artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona and Glasgow. Often billed alongside Fernie, Deepbass and Derrick Burns. Next up: McChuills Music Bar, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Repart is a techno and ambient artist based in United Kingdom, with 9 gigs on so
 
 Fernie, Deepbass, Derrick Burns
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/repart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/repart/)*

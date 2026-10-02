@@ -1,6 +1,6 @@
 # REDA
 
-REDA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
+REDA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
 
 REDA is a house and minimal artist based in Algeria, with 32 gigs on soundcheck across Barcelona, Krakow, London and Paris. Often billed alongside Nadezh No, nuarrrrr and Badalian. Next up: Sekta Selekta, Krakow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ REDA is a house and minimal artist based in Algeria, with 32 gigs on soundcheck 
 
 Nadezh No, nuarrrrr, Badalian
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reda/)*

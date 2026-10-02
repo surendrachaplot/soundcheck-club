@@ -1,6 +1,6 @@
 # Tomodachi
 
-Tomodachi is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tomodachi w/ RAHA " on Fri, 2 Oct 2026.
+Tomodachi is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Tomodachi w/ RAHA " on Fri, 2 Oct 2026.
 
 Tomodachi is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with line-ups including Jeremy Weeks, Nicolau and RAHA. See dates, start times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.
 
@@ -18,4 +18,4 @@ Tomodachi is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with 
 
 Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomodachi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomodachi/)*

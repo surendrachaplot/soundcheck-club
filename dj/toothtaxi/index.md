@@ -1,6 +1,6 @@
 # TOOTHTAXI
 
-TOOTHTAXI is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 3 Oct 2026.
+TOOTHTAXI is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 3 Oct 2026.
 
 TOOTHTAXI is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and SAN.SAN. Next up: M.O.T, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ TOOTHTAXI is a techno and electro artist based in United Kingdom, with 24 gigs o
 
 DELARA, LIZAZA, SAN.SAN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*

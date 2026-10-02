@@ -1,6 +1,6 @@
 # Dar Molloy (2)
 
-Dar Molloy (2) is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
+Dar Molloy (2) is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
 
 Dar Molloy is an acid and italo disco artist based in Ireland, with 22 gigs on soundcheck across Berlin, Dublin, Ibiza and London. Often billed alongside Holten, Spraoi Mór and David Diamond. Next up: Yamamori Tengu, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Dar Molloy is an acid and italo disco artist based in Ireland, with 22 gigs on s
 
 Holten, Spraoi Mór, David Diamond
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darmolloy-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darmolloy-2/)*

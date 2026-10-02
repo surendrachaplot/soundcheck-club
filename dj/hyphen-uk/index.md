@@ -1,6 +1,6 @@
 # Hyphen
 
-Hyphen is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Baggen, Copenhagen on Fri, 2 Oct 2026.
+Hyphen is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Baggen, Copenhagen on Fri, 2 Oct 2026.
 
 Hyphen is a house and garage artist based in United Kingdom, with 14 gigs on soundcheck across Budapest, Copenhagen, London and Manchester and 1 more. Often billed alongside PJ Statham, Molly Sinnott and PHJ.WAV. Next up: Baggen, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hyphen is a house and garage artist based in United Kingdom, with 14 gigs on sou
 
 PJ Statham, Molly Sinnott, PHJ.WAV
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyphen-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyphen-uk/)*

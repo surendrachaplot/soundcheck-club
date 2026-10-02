@@ -1,6 +1,6 @@
 # SSID
 
-SSID is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
+SSID is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
 
 SSID is a funk / soul and house artist based in United Kingdom, with 30 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Toni McVey, Juan Mare and Last Days of Pompeii. Next up: Leith FAB Cricket Club, Edinburgh on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SSID is a funk / soul and house artist based in United Kingdom, with 30 gigs on 
 
 Toni McVey, Juan Mare, Last Days of Pompeii
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssid/)*

@@ -1,6 +1,6 @@
 # MXGN
 
-MXGN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
+MXGN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
 
 MXGN is a techno and trance artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Edinburgh, Hannover and Ibiza and 4 more. Often billed alongside Alex Farell, Faster Horses and PALØ. Next up: WDM, Hannover on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ MXGN is a techno and trance artist based in United Kingdom, with 17 gigs on soun
 
 Alex Farell, Faster Horses, PALØ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*

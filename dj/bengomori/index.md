@@ -1,6 +1,6 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Goldener Reiter, Munich on Fri, 16 Oct 2026.
+Ben Gomori is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Goldener Reiter, Munich on Fri, 16 Oct 2026.
 
 Ben Gomori is a house and disco artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Budapest and Dundee and 10 more. Often billed alongside Gaucho (UK), Ariane V and Sarahtonin. Next up: Goldener Reiter, Munich on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 55 gigs on 
 
 Gaucho (UK), Ariane V, Sarahtonin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

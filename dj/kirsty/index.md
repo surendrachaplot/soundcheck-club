@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
+KIRSTY is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
 
 KIRSTY is a techno and house artist based in Ireland, with 73 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: E1, London on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ KIRSTY is a techno and house artist based in Ireland, with 73 gigs on soundcheck
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

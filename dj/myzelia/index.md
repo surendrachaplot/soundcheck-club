@@ -1,6 +1,6 @@
 # myzelia
 
-myzelia is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+myzelia is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 myzelia is a trance and techno artist based in Germany, with 17 gigs on soundcheck across Berlin and Geneva. Often billed alongside Carotin, ELOISA and Limoncello. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ myzelia is a trance and techno artist based in Germany, with 17 gigs on soundche
 
 Carotin, ELOISA, Limoncello
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myzelia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myzelia/)*

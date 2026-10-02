@@ -1,6 +1,6 @@
 # Saudade (1)
 
-Saudade (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Minimal Bar, Berlin on Mon, 2 Nov 2026.
+Saudade (1) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Minimal Bar, Berlin on Mon, 2 Nov 2026.
 
 Saudade is a tech house and house artist based in France, with 13 gigs on soundcheck across Berlin, Brussels, Lisbon and Paris. Often billed alongside Atawël, Le Beat-qui-nique and Wooka. Next up: Minimal Bar, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Saudade is a tech house and house artist based in France, with 13 gigs on soundc
 
 Atawël, Le Beat-qui-nique, Wooka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saudade/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saudade/)*

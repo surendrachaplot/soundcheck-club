@@ -1,6 +1,6 @@
 # Major K
 
-Major K is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 93 Feet East, London on Sat, 3 Oct 2026.
+Major K is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 93 Feet East, London on Sat, 3 Oct 2026.
 
 Major K is a tech house and techno artist based in Belgium, with 17 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: 93 Feet East, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Major K is a tech house and techno artist based in Belgium, with 17 gigs on soun
 
 Judoc, Jana Vitiligo, Munay
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*

@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bus Hexperience" on Fri, 2 Oct 2026.
+BUS Hexperience is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bus Hexperience" on Fri, 2 Oct 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including BECCA SORANA, Cetratelli, Frucula and HANIE. See dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -18,4 +18,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 5 upcoming g
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

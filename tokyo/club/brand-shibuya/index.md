@@ -1,6 +1,6 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PARTY GATE" on Fri, 2 Oct 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PARTY GATE" on Fri, 2 Oct 2026.
 
 BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including ANiIIIIiiiKii, Kamaida, Krankent and NOHR and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
@@ -23,4 +23,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, 
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

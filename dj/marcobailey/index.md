@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 36 more. Often billed alongside SNTS, Chris Liebing and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on
 
 SNTS, Chris Liebing, Dave Clarke
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

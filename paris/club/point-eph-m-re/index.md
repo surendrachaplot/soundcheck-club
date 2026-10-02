@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BabeCore Launch Showcase (Jerk Off After Party)" on Fri, 2 Oct 2026.
+Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BabeCore Launch Showcase (Jerk Off After Party)" on Fri, 2 Oct 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Butch2Bitch, Cleo (AU), Daviaa and Erna (FR) and 2 more. See dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -17,4 +17,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

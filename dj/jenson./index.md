@@ -1,6 +1,6 @@
 # Jenson.
 
-Jenson. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
+Jenson. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
 
 Jenson. is a house and minimal artist based in United Kingdom, with 28 gigs on soundcheck across Leeds and London. Often billed alongside Robbo, Josh Keit and The Darrs. Next up: Club Cheek, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Jenson. is a house and minimal artist based in United Kingdom, with 28 gigs on s
 
 Robbo, Josh Keit, The Darrs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenson./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenson./)*

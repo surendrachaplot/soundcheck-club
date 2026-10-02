@@ -1,6 +1,6 @@
 # Sphynx
 
-Sphynx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Sao Paulo on Sat, 3 Oct 2026.
+Sphynx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Sao Paulo on Sat, 3 Oct 2026.
 
 Sphynx is a house and disco artist, with 11 gigs on soundcheck across Athens, Los Angeles, New York City and Sao Paulo. Often billed alongside Renato Cohen, Vermelho and Zopelar. Next up: TBA, Sao Paulo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sphynx is a house and disco artist, with 11 gigs on soundcheck across Athens, Lo
 
 Renato Cohen, Vermelho, Zopelar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*

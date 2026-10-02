@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CELESTIA: Velvet Room" on Fri, 2 Oct 2026.
+Angel Music Bar is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CELESTIA: Velvet Room" on Fri, 2 Oct 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including ADMINISTRATOR, CLAIR (BAI), Coloursound and Dashé and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -17,4 +17,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 4 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

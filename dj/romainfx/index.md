@@ -1,6 +1,6 @@
 # Romain Fx
 
-Romain Fx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Romain Fx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
 Romain Fx is a house and disco artist based in China, with 52 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bucharest and 20 more. Often billed alongside Maï-Linh, Ryu and KOTSU. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Romain Fx is a house and disco artist based in China, with 52 gigs on soundcheck
 
 Maï-Linh, Ryu (2), KOTSU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainfx/)*

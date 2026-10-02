@@ -1,6 +1,6 @@
 # Terre Thaemlitz
 
-Terre Thaemlitz is a Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Terre Thaemlitz is a Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Terre Thaemlitz is an experimental artist based in United States of America, with 3 gigs on soundcheck across New York City and Sheffield. Often billed alongside 96 Back, Aba Shanti-I and Abby Echiverri. Next up: public records, New York City on Mon 9 Nov.
 
@@ -19,4 +19,4 @@ Terre Thaemlitz is an experimental artist based in United States of America, wit
 
 96 Back, Aba Shanti-I, Abby Echiverri
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrethaemlitz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrethaemlitz/)*

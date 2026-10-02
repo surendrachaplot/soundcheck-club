@@ -1,6 +1,6 @@
 # HSC (1)
 
-HSC (1) is a Deep House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at rake?raka?, Osaka on Mon, 5 Oct 2026.
+HSC (1) is a Deep House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at rake?raka?, Osaka on Mon, 5 Oct 2026.
 
 HSC is a deep house and minimal techno artist based in Japan, with 243 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside ALTF4, Cine and OSHALEY. Next up: rake?raka?, Osaka on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ HSC is a deep house and minimal techno artist based in Japan, with 243 gigs on s
 
 ALTF4, Cine, OSHALEY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*

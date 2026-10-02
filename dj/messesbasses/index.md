@@ -1,6 +1,6 @@
 # Messes Basses
 
-Messes Basses is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacré, Paris on Fri, 6 Nov 2026.
+Messes Basses is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacré, Paris on Fri, 6 Nov 2026.
 
 Messes Basses is a house and techno artist based in France, with 42 gigs on soundcheck across Paris and Sao Paulo. Often billed alongside Alyhas, Mézigue and AA/XX. Next up: Sacré, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Messes Basses is a house and techno artist based in France, with 42 gigs on soun
 
 Alyhas, Mézigue, AA/XX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messesbasses/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messesbasses/)*

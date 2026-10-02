@@ -1,6 +1,6 @@
 # Anapol
 
-Anapol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Anapol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Anapol is a techno and house artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside Drinkss, uuu7 and Takumi's Afterparty. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Anapol is a techno and house artist based in Japan, with 19 gigs on soundcheck a
 
 Drinkss, uuu7, Takumi's Afterparty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*

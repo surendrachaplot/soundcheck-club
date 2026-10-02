@@ -1,6 +1,6 @@
 # Oscar (MITHA)
 
-Oscar (MITHA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
+Oscar (MITHA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
 
 Oscar (MITHA) is a house and techno artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Leeds and London. Often billed alongside Ruby Ruby, Blubear and By. Jansz. Next up: Eiger Studios, Leeds on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Oscar (MITHA) is a house and techno artist based in United Kingdom, with 24 gigs
 
 Ruby Ruby, Blubear, By. Jansz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmitha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmitha/)*

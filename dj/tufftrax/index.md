@@ -1,6 +1,6 @@
 # Tuff Trax
 
-Tuff Trax is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 10 Oct 2026.
+Tuff Trax is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 10 Oct 2026.
 
 Tuff Trax is a garage and house artist based in Australia, with 46 gigs on soundcheck across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside IsGwan, Kovac and Lewis Cancut. Next up: Revolver Upstairs, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tuff Trax is a garage and house artist based in Australia, with 46 gigs on sound
 
 IsGwan, Kovac, Lewis Cancut
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*

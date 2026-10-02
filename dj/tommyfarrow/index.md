@@ -1,6 +1,6 @@
 # Tommy Farrow
 
-Tommy Farrow is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
+Tommy Farrow is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
 
 Tommy Farrow is a house and progressive house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Brighton, Leeds and Lisbon and 5 more. Often billed alongside Leena Punks, Asch Pintura and Nour (UK). Next up: Crane Hotel Faralda, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Tommy Farrow is a house and progressive house artist based in United Kingdom, wi
 
 Leena Punks, Asch Pintura, Nour (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfarrow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfarrow/)*

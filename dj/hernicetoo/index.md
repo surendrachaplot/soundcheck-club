@@ -1,6 +1,6 @@
 # Her Nice Too
 
-Her Nice Too is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
+Her Nice Too is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
 
 Her Nice Too is a bass and electronica artist based in Italy, with 22 gigs on soundcheck across Rome. Often billed alongside Prest, VSC and F L V X X X. Next up: Lanificio 159, Rome on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Her Nice Too is a bass and electronica artist based in Italy, with 22 gigs on so
 
 Prest, VSC (1), F L V X X X
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernicetoo/)*

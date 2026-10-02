@@ -1,6 +1,6 @@
 # Poisonfrog
 
-Poisonfrog is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Black Box, Denver on Sat, 10 Oct 2026.
+Poisonfrog is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Black Box, Denver on Sat, 10 Oct 2026.
 
 Poisonfrog is a jungle and drum & bass artist based in United States of America, with 25 gigs on soundcheck across Denver, New York City, Philadelphia and Portland. Often billed alongside jaql, Don-Ri and Raw Unkut. Next up: The Black Box, Denver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Poisonfrog is a jungle and drum & bass artist based in United States of America,
 
 jaql, Don-Ri, Raw Unkut
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonfrog/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonfrog/)*

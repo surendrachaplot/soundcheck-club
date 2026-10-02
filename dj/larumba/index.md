@@ -1,6 +1,6 @@
 # La Rumba
 
-La Rumba is a Afrobeat and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
+La Rumba is a Afrobeat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
 
 La Rumba is an afrobeat and house artist based in United Kingdom, with 47 gigs on soundcheck across Edinburgh, Glasgow, Leeds and North and 1 more. Often billed alongside Dele Sosimi, MYNA and SNO (UK). Next up: Peddler Warehouse, Sheffield on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ La Rumba is an afrobeat and house artist based in United Kingdom, with 47 gigs o
 
 Dele Sosimi, MYNA, SNO (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larumba/)*

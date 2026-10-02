@@ -1,6 +1,6 @@
 # DJ Ray (2)
 
-DJ Ray (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DJ Ray (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 DJ Ray is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Chicago, Copenhagen, London and Miami and 2 more. Often billed alongside Bort, Souls Departed and True Vine. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Ray is a house and disco artist based in United States of America, with 56 gi
 
 Bort, Souls Departed, True Vine
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*

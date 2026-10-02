@@ -1,6 +1,6 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Glob, Denver on Wed, 14 Oct 2026.
+Carl Stone is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Glob, Denver on Wed, 14 Oct 2026.
 
 Carl Stone is an experimental and ambient artist based in United States of America, with 23 gigs on soundcheck across Barcelona, Berlin, Denver and Kyoto and 10 more. Often billed alongside Crystallmess, Laraaji and Robert Turman. Next up: Glob, Denver on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Carl Stone is an experimental and ambient artist based in United States of Ameri
 
 Crystallmess, Laraaji, Robert Turman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*

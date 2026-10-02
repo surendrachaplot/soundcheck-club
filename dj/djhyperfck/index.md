@@ -1,6 +1,6 @@
 # DJ Hyperfck
 
-DJ Hyperfck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
+DJ Hyperfck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
 
 DJ Hyperfck is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside TERRA TWIINS, Gina del Slay and Pamela Rave. Next up: ÆDEN, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Hyperfck is a trance and techno artist based in Germany, with 9 gigs on sound
 
 TERRA TWIINS, Gina del Slay, Pamela Rave
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperfck/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperfck/)*

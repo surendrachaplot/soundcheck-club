@@ -1,6 +1,6 @@
 # Thibo Verbeke
 
-Thibo Verbeke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
+Thibo Verbeke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
 Thibo Verbeke is a techno and trance artist based in Belgium, with 9 gigs on soundcheck across Malta. Often billed alongside Billy Hills, MAMO and Naomi Baldacchino. Next up: Liquid Club, Malta on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Thibo Verbeke is a techno and trance artist based in Belgium, with 9 gigs on sou
 
 Billy Hills, MAMO (2), Naomi Baldacchino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiboverkebe/)*

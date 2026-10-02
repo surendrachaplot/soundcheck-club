@@ -1,6 +1,6 @@
 # Skatty
 
-Skatty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nevermind Bar, Melbourne on Sat, 10 Oct 2026.
+Skatty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nevermind Bar, Melbourne on Sat, 10 Oct 2026.
 
 Skatty is a drum & bass and jungle artist based in New Zealand, with 7 gigs on soundcheck across Melbourne. Often billed alongside Edan, MELTA and Aaron Static. Next up: Nevermind Bar, Melbourne on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Skatty is a drum & bass and jungle artist based in New Zealand, with 7 gigs on s
 
 Edan (2), MELTA, Aaron Static
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skatty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skatty/)*

@@ -1,6 +1,6 @@
 # DJ BONEY S
 
-DJ BONEY S is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
+DJ BONEY S is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
 DJ BONEY S is a techno and house artist based in Belgium, with 42 gigs on soundcheck across Berlin, Madrid and Prague. Often billed alongside zikade, CHRISPY and DJ Frottée. Next up: Fuchs2, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ BONEY S is a techno and house artist based in Belgium, with 42 gigs on soundc
 
 zikade, CHRISPY, DJ Frottée
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboneys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboneys/)*

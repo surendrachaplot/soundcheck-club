@@ -1,14 +1,13 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Noizer pres. Chris Liebing + Flug" on Thu, 1 Oct 2026.
+Les Enfants Brillants is a music venue in Barcelona with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bonanza pres. Adi, Benny, Gōdō" on Fri, 2 Oct 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including Adi (CO), Alexander Skancke, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upcoming gigs, with line-ups including Adi (CO), Alexander Skancke, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Noizer pres. Chris Liebing + Flug | Chris Liebing, Flug |
 | Fri, 2 Oct 2026 | Bonanza pres. Adi, Benny, Gōdō | Adi (CO), Benny (El Rio Hostel), Gōdō |
 | Sat, 3 Oct 2026 | Les Enfants pres. Alexia Glensy b2b Alex Dima | Alex Dima, Alexia Glensy |
 | Thu, 8 Oct 2026 | Noizer pres. Ronze + Jiakar + Marc Silva | Jiakar, Marc Silva, Ronze |
@@ -18,9 +17,10 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upc
 | Thu, 15 Oct 2026 | Noizer pres. We Love Wax: Daichi Wada + Kenya Arakama | Daichi Wada, Kenya Arakama |
 | Fri, 16 Oct 2026 | Les Enfants pres. Zero with Marc Anthony Bowen & Scacco | Marc Anthony Bowen, Scacco |
 | Sat, 17 Oct 2026 | Les Enfants pres. Dorian Paic b2b Alexander Skancke | Alexander Skancke, Dorian Paic |
+| Thu, 22 Oct 2026 | Noizer pres. Deraout + Rabent | Deraout, Rabent |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

@@ -1,6 +1,6 @@
 # Szunflower
 
-Szunflower is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fi, Cologne on Fri, 2 Oct 2026.
+Szunflower is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Fri, 2 Oct 2026.
 
 Szunflower is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Cologne, Düsseldorf and Frankfurt. Often billed alongside Gutkind, Tschatsching and Alchemiah. Next up: fi, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Szunflower is a techno and trance artist based in Germany, with 22 gigs on sound
 
 Gutkind, Tschatsching, Alchemiah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*

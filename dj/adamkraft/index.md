@@ -1,6 +1,6 @@
 # Adam Kraft
 
-Adam Kraft is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Silverlake, Los-angeles on Fri, 23 Oct 2026.
+Adam Kraft is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Silverlake, Los-angeles on Fri, 23 Oct 2026.
 
 Adam Kraft is a club and techno artist, with 50 gigs on soundcheck across Austin, Bangkok, Los Angeles and Manila and 5 more. Often billed alongside nonsuit, likeholywine and Beverly Chills. Next up: TBA - Silverlake, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Adam Kraft is a club and techno artist, with 50 gigs on soundcheck across Austin
 
 nonsuit, likeholywine, Beverly Chills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*

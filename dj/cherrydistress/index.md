@@ -1,8 +1,8 @@
 # Cherry Distress
 
-Cherry Distress is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Samis Bar, Athens on Sat, 3 Oct 2026.
+Cherry Distress is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Samis Bar, Athens on Sat, 3 Oct 2026.
 
-Cherry Distress is a house and club artist, with 30 gigs on soundcheck across Athens, Berlin and Hamburg. Often billed alongside ClubKid, Miss Trouli and ZANNT. Next up: Samis Bar, Athens on Sat 3 Oct.
+Cherry Distress is a house and club artist based in Greece, with 30 gigs on soundcheck across Athens, Berlin and Hamburg. Often billed alongside ClubKid, Miss Trouli and ZANNT. Next up: Samis Bar, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cherry Distress is a house and club artist, with 30 gigs on soundcheck across At
 
 ClubKid, Miss Trouli, ZANNT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrydistress/)*

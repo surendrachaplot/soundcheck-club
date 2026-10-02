@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
+SLVL is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 2 Oct 2026.
 
 SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Airport Würzburg, Nürnberg on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on sou
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

@@ -1,6 +1,6 @@
 # Lucy Dye
 
-Lucy Dye is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
+Lucy Dye is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
 
 Lucy Dye is an electro and pop artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin, Leipzig and London. Often billed alongside FREE JIMI, Funk Tribu and Spacer Woman. Next up: Monarch, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lucy Dye is an electro and pop artist based in Germany, with 10 gigs on soundche
 
 FREE JIMI, Funk Tribu, Spacer Woman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucydye/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucydye/)*

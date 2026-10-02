@@ -1,6 +1,6 @@
 # Faze Action
 
-Faze Action is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Fri, 9 Oct 2026.
+Faze Action is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Fox and Firkin, London on Fri, 9 Oct 2026.
 
 Faze Action is a house and acid artist based in United Kingdom, with 17 gigs on soundcheck across London, Los Angeles, Osaka and Seoul. Often billed alongside Desert Hearts, Dirtybird and M A W. Next up: The Fox and Firkin, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Faze Action is a house and acid artist based in United Kingdom, with 17 gigs on 
 
 Desert Hearts, Dirtybird, M A W
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fazeaction/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fazeaction/)*

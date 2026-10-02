@@ -1,6 +1,6 @@
 # Ada Puławska
 
-Ada Puławska is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "TESA (LV) i KURZ na Ada Puławska" on Fri, 2 Oct 2026.
+Ada Puławska is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "TESA (LV) i KURZ na Ada Puławska" on Fri, 2 Oct 2026.
 
 Ada Puławska is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ada Puławska is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TESA (LV) i KURZ na Ada Puławska |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/ada-pu-awska/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/ada-pu-awska/)*

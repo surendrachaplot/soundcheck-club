@@ -1,6 +1,6 @@
 # Antwork
 
-Antwork is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Antwork is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 Antwork is a techno and electro artist based in South Korea, with 41 gigs on soundcheck across Bali, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside KABUTO, Minkyu and Yeonjun. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Antwork is a techno and electro artist based in South Korea, with 41 gigs on sou
 
 KABUTO, Minkyu, Yeonjun
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*

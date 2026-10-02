@@ -1,6 +1,6 @@
 # ALDAVE
 
-ALDAVE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volt Club Milano, Milan on Thu, 15 Oct 2026.
+ALDAVE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volt Club Milano, Milan on Thu, 15 Oct 2026.
 
 ALDAVE is a house and tech house artist based in Argentina, with 65 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Milan and 3 more. Often billed alongside ETNA, Massi Rocket and SOLE DOSI. Next up: Volt Club Milano, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ ALDAVE is a house and tech house artist based in Argentina, with 65 gigs on soun
 
 ETNA, Massi Rocket, SOLE DOSI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*

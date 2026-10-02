@@ -1,6 +1,6 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forte Antenne, Rome on Fri, 2 Oct 2026.
+Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forte Antenne, Rome on Fri, 2 Oct 2026.
 
 Len Faki is a techno and house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Forte Antenne, Rome on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Len Faki is a techno and house artist based in Germany, with 140 gigs on soundch
 
 Daria Kolosova, Elli Acula, Beste Hira
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

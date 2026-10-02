@@ -1,6 +1,6 @@
 # BIANCA BLANCO
 
-BIANCA BLANCO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pracht, Frankfurt on Fri, 2 Oct 2026.
+BIANCA BLANCO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pracht, Frankfurt on Fri, 2 Oct 2026.
 
 BIANCA BLANCO is a house and tech house artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Frankfurt and Munich. Often billed alongside Benja Asima, Calypsis and Dario Milkovic. Next up: Pracht, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BIANCA BLANCO is a house and tech house artist based in Spain, with 14 gigs on s
 
 Benja Asima, Calypsis, Dario Milkovic
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancablanco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancablanco/)*

@@ -1,8 +1,8 @@
 # Bender
 
-Bender is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flac, Seoul on Sat, 17 Oct 2026.
+Bender is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flac, Seoul on Sat, 17 Oct 2026.
 
-Bender is a tech house and house artist, with 23 gigs on soundcheck across Antwerp, Cologne, Ibiza and Leipzig and 4 more. Often billed alongside John Summit, Eric Prydz and Rivo. Next up: Flac, Seoul on Sat 17 Oct.
+Bender is a tech house and house artist based in Canada, with 23 gigs on soundcheck across Antwerp, Cologne, Ibiza and Leipzig and 4 more. Often billed alongside John Summit, Eric Prydz and Rivo. Next up: Flac, Seoul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bender is a tech house and house artist, with 23 gigs on soundcheck across Antwe
 
 John Summit, Eric Prydz, Rivo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bender/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bender/)*

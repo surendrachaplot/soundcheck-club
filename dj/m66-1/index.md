@@ -1,6 +1,6 @@
 # M66 (1)
 
-M66 (1) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+M66 (1) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 M66 is a techno and acid artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Xolo, Amino and Christopher Foor. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ M66 is a techno and acid artist based in United States of America, with 7 gigs o
 
 Xolo, Amino, Christopher Foor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m66-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m66-1/)*

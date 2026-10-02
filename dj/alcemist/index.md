@@ -1,6 +1,6 @@
 # Alcemist
 
-Alcemist is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Havana Chichester, London on Fri, 2 Oct 2026.
+Alcemist is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Havana Chichester, London on Fri, 2 Oct 2026.
 
 Alcemist is a drum & bass and bass artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 18 more. Often billed alongside K Motionz, Crossy and Culture Shock. Next up: Havana Chichester, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Alcemist is a drum & bass and bass artist based in United Kingdom, with 49 gigs 
 
 K Motionz, Crossy, Culture Shock
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcemist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcemist/)*

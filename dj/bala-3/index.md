@@ -1,6 +1,6 @@
 # BALA (3)
 
-BALA (3) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+BALA (3) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
 BALA is a drum & bass artist based in Spain, with 22 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Insmniak, PEAK and CAPITANA. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BALA is a drum & bass artist based in Spain, with 22 gigs on soundcheck across A
 
 Insmniak, PEAK (2), CAPITANA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bala-3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bala-3/)*

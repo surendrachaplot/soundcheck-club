@@ -1,6 +1,6 @@
 # DJ Celeste Alexander
 
-DJ Celeste Alexander is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 24 Oct 2026.
+DJ Celeste Alexander is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Epiphany Center for the Arts, Chicago on Sat, 24 Oct 2026.
 
 DJ Celeste Alexander is a deep house and house artist based in United States of America, with 14 gigs on soundcheck across Chicago. Often billed alongside Duane Powell, CTRLZORA and Cordell Johnson. Next up: Epiphany Center for the Arts, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Celeste Alexander is a deep house and house artist based in United States of 
 
 Duane Powell, CTRLZORA, Cordell Johnson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcelestealexander/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcelestealexander/)*

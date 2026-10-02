@@ -1,6 +1,6 @@
 # Simon Garcia
 
-Simon Garcia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cadavra, Madrid on Fri, 9 Oct 2026.
+Simon Garcia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Fri, 9 Oct 2026.
 
 Simon Garcia is a house and techno artist based in Spain, with 38 gigs on soundcheck across Madrid. Often billed alongside David Ponziano, lebollet and Alvaro Cabana. Next up: Cadavra, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Simon Garcia is a house and techno artist based in Spain, with 38 gigs on soundc
 
 David Ponziano, lebollet, Alvaro Cabana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simongarcia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simongarcia/)*

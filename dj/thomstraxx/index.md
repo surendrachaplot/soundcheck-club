@@ -1,6 +1,6 @@
 # Thoms Traxx
 
-Thoms Traxx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 2 Oct 2026.
+Thoms Traxx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 2 Oct 2026.
 
 Thoms Traxx is a techno and house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Berlin, Cologne and Manchester and 7 more. Often billed alongside Beste Hira, Flits and I-RO. Next up: CLUB RAUM, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Thoms Traxx is a techno and house artist based in Netherlands, with 58 gigs on s
 
 Beste Hira, Flits, I-RO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*

@@ -1,6 +1,6 @@
 # HannahLuyah
 
-HannahLuyah is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
+HannahLuyah is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
 
 HannahLuyah is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Barcelona and London. Often billed alongside Better Late, Hanakito and Simon Boulind. Next up: TBA - Secret location, Tarragona, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HannahLuyah is a house and disco artist based in United States of America, with 
 
 Better Late, Hanakito, Simon Boulind
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*

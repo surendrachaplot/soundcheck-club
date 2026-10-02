@@ -1,6 +1,6 @@
 # Franco (1)
 
-Franco (1) is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
+Franco (1) is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
 
 Franco is a house and footwork artist based in Netherlands, with 11 gigs on soundcheck across Lisbon, Manchester, Mexico City and Miami and 3 more. Often billed alongside ARWEN, AfroNinja and Agents Of Alchemy. Next up: Revo Rooftop, Mexico City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Franco is a house and footwork artist based in Netherlands, with 11 gigs on soun
 
 ARWEN, AfroNinja, Agents Of Alchemy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*

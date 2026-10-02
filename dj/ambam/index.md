@@ -1,6 +1,6 @@
 # AMBAM
 
-AMBAM is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
+AMBAM is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
 
 AMBAM is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Augsburg, Barcelona, Berlin and Bielefeld and 13 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Kesselhaus Augsburg, Augsburg on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ AMBAM is a techno and trance artist based in Germany, with 69 gigs on soundcheck
 
 DeGuzman, Kacy, PENELOPE (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambam/)*

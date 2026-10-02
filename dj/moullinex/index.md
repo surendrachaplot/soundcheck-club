@@ -1,6 +1,6 @@
 # Moullinex
 
-Moullinex is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Lisbon on Sat, 10 Oct 2026.
+Moullinex is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Lisbon on Sat, 10 Oct 2026.
 
 Moullinex is a house and electronica artist based in Portugal, with 37 gigs on soundcheck across Amsterdam, Lisbon, London and Madrid and 2 more. Often billed alongside GPU Panic, Xinobi and MXGPU. Next up: TBA, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Moullinex is a house and electronica artist based in Portugal, with 37 gigs on s
 
 GPU Panic, Xinobi, MXGPU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moullinex/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moullinex/)*

@@ -1,8 +1,8 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Cici Daze is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Cici Daze is a house and tech house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Cici Daze is a house and tech house artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Cici Daze is a house and tech house artist based in Netherlands, with 25 gigs on
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Dec 2026 | Effenaar | Eindhoven |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
+| Thu, 31 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Cici Daze is a house and tech house artist based in Netherlands, with 25 gigs on
 
 Benny Rodrigues, Prunk, AAT (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*

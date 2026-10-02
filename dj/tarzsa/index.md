@@ -1,6 +1,6 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Tarzsa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Tarzsa is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 20 more. Often billed alongside Bradley Zero, Dan Shake and Joy Orbison. Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Tarzsa is a house and techno artist based in United Kingdom, with 86 gigs on sou
 
 Bradley Zero, Dan Shake, Joy Orbison
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

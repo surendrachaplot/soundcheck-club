@@ -1,6 +1,6 @@
 # EMMALINE
 
-EMMALINE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SILO, New York City on Thu, 22 Oct 2026.
+EMMALINE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at SILO, New York City on Thu, 22 Oct 2026.
 
 EMMALINE is a techno and house artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside David Lunch, Ben Zo and Janus Rose. Next up: SILO, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ EMMALINE is a techno and house artist based in United States of America, with 29
 
 David Lunch, Ben Zo, Janus Rose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaline/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaline/)*

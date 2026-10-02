@@ -1,6 +1,6 @@
 # RARA (US)
 
-RARA (US) is a Afro House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Boombox, Miami on Sat, 3 Oct 2026.
+RARA (US) is a Afro House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boombox, Miami on Sat, 3 Oct 2026.
 
 RARA (US) is an afro house and club artist based in United States of America, with 29 gigs on soundcheck across Miami and New York City. Often billed alongside v1fro, SATURNSARii and Ale Acosta. Next up: The Boombox, Miami on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ RARA (US) is an afro house and club artist based in United States of America, wi
 
 v1fro, SATURNSARii, Ale Acosta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*

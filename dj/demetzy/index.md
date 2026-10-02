@@ -1,6 +1,6 @@
 # Demetzy
 
-Demetzy is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
+Demetzy is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
 
 Demetzy is a breakcore and hardcore artist based in United Kingdom, with 6 gigs on soundcheck across Bristol and London. Often billed alongside Switch Back Smith, Breakforce One and Droon. Next up: Low Profile Studios, London on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Demetzy is a breakcore and hardcore artist based in United Kingdom, with 6 gigs 
 
 Switch Back Smith, Breakforce One, Droon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demetzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demetzy/)*

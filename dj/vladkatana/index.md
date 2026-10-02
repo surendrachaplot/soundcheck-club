@@ -1,6 +1,6 @@
 # Vlad Katana
 
-Vlad Katana is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pygmalion, Dublin on Fri, 30 Oct 2026.
+Vlad Katana is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pygmalion, Dublin on Fri, 30 Oct 2026.
 
 Vlad Katana is a minimal techno and tech house artist based in Romania, with 15 gigs on soundcheck across Dublin. Often billed alongside Ervin, ISKO and Nicole Spagnol. Next up: Pygmalion, Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vlad Katana is a minimal techno and tech house artist based in Romania, with 15 
 
 Ervin, ISKO, Nicole Spagnol
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladkatana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladkatana/)*

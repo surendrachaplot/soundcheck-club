@@ -1,6 +1,6 @@
 # Cody Currie
 
-Cody Currie is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
+Cody Currie is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
 
 Cody Currie is a house and disco artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 43 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: TBA - DTLA, Los Angeles on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Cody Currie is a house and disco artist based in United Kingdom, with 131 gigs o
 
 Kapote, Gee Lane, Sam Ruffillo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*

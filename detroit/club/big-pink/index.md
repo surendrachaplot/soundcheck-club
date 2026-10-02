@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC)" on Fri, 2 Oct 2026.
+Big Pink is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC)" on Fri, 2 Oct 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT and 2 more. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -22,4 +22,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

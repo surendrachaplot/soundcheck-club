@@ -1,6 +1,6 @@
 # Feenicks
 
-Feenicks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bike Jesus, Prague on Fri, 2 Oct 2026.
+Feenicks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bike Jesus, Prague on Fri, 2 Oct 2026.
 
 Feenicks is a techno and trance artist based in United States of America, with 80 gigs on soundcheck across New York City, Paris and Prague. Often billed alongside Raketa95, Yan (CZ) and Misha Jaru. Next up: Bike Jesus, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Feenicks is a techno and trance artist based in United States of America, with 8
 
 Raketa95, Yan (CZ), Misha Jaru
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feenicks/)*

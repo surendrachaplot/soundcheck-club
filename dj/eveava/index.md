@@ -1,6 +1,6 @@
 # eveava
 
-eveava is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Floyd, Miami on Thu, 15 Oct 2026.
+eveava is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Floyd, Miami on Thu, 15 Oct 2026.
 
 eveava is a house and techno artist based in Colombia, with 50 gigs on soundcheck across Berlin, Frankfurt, Lisbon and Miami and 1 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Floyd, Miami on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ eveava is a house and techno artist based in Colombia, with 50 gigs on soundchec
 
 True Vine, Peter Schumann, Whitesquare
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*

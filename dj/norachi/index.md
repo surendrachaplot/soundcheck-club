@@ -1,6 +1,6 @@
 # Norachi
 
-Norachi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Norachi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Norachi is a house and disco artist, with 8 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Tim Heaney, Miris and Darcy Justice. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Norachi is a house and disco artist, with 8 gigs on soundcheck across Melbourne 
 
 Tim Heaney, Miris, Darcy Justice
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norachi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norachi/)*

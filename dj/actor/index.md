@@ -1,6 +1,6 @@
 # ACOR
 
-ACOR is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+ACOR is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 ACOR is a techno and industrial artist based in Serbia, with 35 gigs on soundcheck across Antwerp, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside Moraitov, RAR and Azyr. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ACOR is a techno and industrial artist based in Serbia, with 35 gigs on soundche
 
 Moraitov, RAR, Azyr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*

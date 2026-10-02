@@ -1,6 +1,6 @@
 # Freaky Emo
 
-Freaky Emo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
+Freaky Emo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
 
 Freaky Emo is a club and house artist based in United States of America, with 43 gigs on soundcheck across Berlin, California, San Francisco/Oakland and Seattle and 1 more. Often billed alongside Digital KitKat, HEAVENLY ARCH and DE ALMA. Next up: TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Freaky Emo is a club and house artist based in United States of America, with 43
 
 Digital KitKat, HEAVENLY ARCH, DE ALMA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakyemo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakyemo/)*

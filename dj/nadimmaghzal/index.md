@@ -1,8 +1,8 @@
 # Nadim Maghzal
 
-Nadim Maghzal is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
+Nadim Maghzal is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
 
-Nadim Maghzal is an electro and pop artist, with 46 gigs on soundcheck across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Saphe and Arianna Danae. Next up: Ausgang Plaza, Montreal on Sat 28 Nov.
+Nadim Maghzal is an electro and pop artist based in Canada, with 46 gigs on soundcheck across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Saphe and Arianna Danae. Next up: Ausgang Plaza, Montreal on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nadim Maghzal is an electro and pop artist, with 46 gigs on soundcheck across Be
 
 MNSA, Saphe, Arianna Danae
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*

@@ -1,8 +1,8 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Freed with bullet tooth (UK) & PARAMIDA (GER)" on Fri, 2 Oct 2026.
+TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Freed with bullet tooth (UK) & PARAMIDA (GER)" on Fri, 2 Oct 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. See dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with l
 | Fri, 30 Oct 2026 | Curated by Phemia: Justine Perry, Pooja B, Phemia | Justine Perry, Phemia, Pooja B |
 | Sat, 31 Oct 2026 | BOO! Send in the Clowns | Dana Montana, JEKKAMAÏ, Kathleen C, Rostgoed |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

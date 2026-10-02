@@ -1,6 +1,6 @@
 # SPOTLITE
 
-SPOTLITE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OIL Club, Shenzhen on Thu, 15 Oct 2026.
+SPOTLITE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OIL Club, Shenzhen on Thu, 15 Oct 2026.
 
 SPOTLITE is a techno and electro artist based in China, with 21 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside Biting Eye, DJ 86 and Fengshui. Next up: OIL Club, Shenzhen on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ SPOTLITE is a techno and electro artist based in China, with 21 gigs on soundche
 
 Biting Eye, DJ 86, Fengshui
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spotlite/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spotlite/)*

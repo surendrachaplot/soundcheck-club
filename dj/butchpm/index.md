@@ -1,6 +1,6 @@
 # Butchpm
 
-Butchpm is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Recyclart, Brussels on Fri, 2 Oct 2026.
+Butchpm is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Recyclart, Brussels on Fri, 2 Oct 2026.
 
 Butchpm is a techno and club artist based in Belgium, with 17 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside DOUBLE P, Ampe and DJNO. Next up: Recyclart, Brussels on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Butchpm is a techno and club artist based in Belgium, with 17 gigs on soundcheck
 
 DOUBLE P, Ampe, DJNO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchpm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchpm/)*

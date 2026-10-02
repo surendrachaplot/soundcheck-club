@@ -1,6 +1,6 @@
 # dj dolares
 
-dj dolares is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
+dj dolares is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
 
 dj dolares is a techno and drum & bass artist based in Argentina, with 21 gigs on soundcheck across Barcelona, Buenos Aires, Lisbon and Madrid. Often billed alongside A.Fruit, Alvva and Tiyumii. Next up: Meteoro, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ dj dolares is a techno and drum & bass artist based in Argentina, with 21 gigs o
 
 A.Fruit, Alvva, Tiyumii
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolares/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolares/)*

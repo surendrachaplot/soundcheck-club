@@ -1,6 +1,6 @@
 # Istvan Roux
 
-Istvan Roux is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Buenos Aires on Fri, 16 Oct 2026.
+Istvan Roux is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Buenos Aires on Fri, 16 Oct 2026.
 
 Istvan Roux is a techno and idm artist based in Argentina, with 9 gigs on soundcheck across Buenos Aires. Often billed alongside Ajdos, Ehndo and Forest On Stasys. Next up: TBA, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Istvan Roux is a techno and idm artist based in Argentina, with 9 gigs on soundc
 
 Ajdos, Ehndo, Forest On Stasys
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istvanroux/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/istvanroux/)*

@@ -1,6 +1,6 @@
 # URBANKIDZ
 
-URBANKIDZ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Visionnaire Rome, Rome on Sat, 10 Oct 2026.
+URBANKIDZ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Visionnaire Rome, Rome on Sat, 10 Oct 2026.
 
 URBANKIDZ is a house and tech house artist based in Italy, with 10 gigs on soundcheck across London and Rome. Often billed alongside Alessio Deluxe, Diego Cardarelli and Ale Bi. Next up: Visionnaire Rome, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ URBANKIDZ is a house and tech house artist based in Italy, with 10 gigs on sound
 
 Alessio Deluxe, Diego Cardarelli, Ale Bi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbankidz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbankidz/)*

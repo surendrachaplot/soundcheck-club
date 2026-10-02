@@ -1,6 +1,6 @@
 # Itz3bby
 
-Itz3bby is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NAR, Utrecht on Fri, 2 Oct 2026.
+Itz3bby is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NAR, Utrecht on Fri, 2 Oct 2026.
 
 Itz3bby is a garage and house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside EYCEE, Franky Sticks and Jan Koster. Next up: NAR, Utrecht on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Itz3bby is a garage and house artist based in Netherlands, with 27 gigs on sound
 
 EYCEE, Franky Sticks, Jan Koster
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*

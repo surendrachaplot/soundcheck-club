@@ -1,6 +1,6 @@
 # Eichenbaum
 
-Eichenbaum is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Eichenbaum is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Eichenbaum is a progressive house and house artist based in Argentina, with 19 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Budapest and 3 more. Often billed alongside Guy J, Sasha and Franky Wah. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Eichenbaum is a progressive house and house artist based in Argentina, with 19 g
 
 Guy J, Sasha, Franky Wah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichenbaum/)*

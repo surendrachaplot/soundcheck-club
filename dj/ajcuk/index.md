@@ -1,6 +1,6 @@
 # AJC (UK)
 
-AJC (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Thu, 15 Oct 2026.
+AJC (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Thu, 15 Oct 2026.
 
 AJC (UK) is a drum & bass and jungle artist, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Bones (UK), CGNTV and Brick Top. Next up: Stage and Radio, Manchester on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ AJC (UK) is a drum & bass and jungle artist, with 8 gigs on soundcheck across Lo
 
 Bones (UK), CGNTV, Brick Top
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajcuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajcuk/)*

@@ -1,6 +1,6 @@
 # Benny L
 
-Benny L is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ijland, Amsterdam on Thu, 22 Oct 2026.
+Benny L is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ijland, Amsterdam on Thu, 22 Oct 2026.
 
 Benny L is a drum & bass and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside Bladerunner, Carasel and Dillinja. Next up: Ijland, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Benny L is a drum & bass and jungle artist based in United Kingdom, with 81 gigs
 
 Bladerunner, Carasel, Dillinja
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*

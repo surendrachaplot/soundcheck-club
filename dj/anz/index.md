@@ -1,6 +1,6 @@
 # Anz
 
-Anz is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Anz is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Anz is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Anz is a house and techno artist based in United Kingdom, with 109 gigs on sound
 
 Call Super, Special Request, Sedef Adasï
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*

@@ -1,6 +1,6 @@
 # Salle des Variétés Bonne Garde
 
-Salle des Variétés Bonne Garde is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Anthèse" on Sat, 31 Oct 2026.
+Salle des Variétés Bonne Garde is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Anthèse" on Sat, 31 Oct 2026.
 
 Salle des Variétés Bonne Garde is a music venue in Nantes listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Salle des Variétés Bonne Garde is a music venue in Nantes listed on soundcheck
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Anthèse |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/salle-des-vari-t-s-bonne-garde/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/salle-des-vari-t-s-bonne-garde/)*

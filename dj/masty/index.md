@@ -1,6 +1,6 @@
 # Masty
 
-Masty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Sat, 3 Oct 2026.
+Masty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Şahika, Istanbul on Sat, 3 Oct 2026.
 
 Masty is a techno and bass artist based in Turkey, with 12 gigs on soundcheck across Istanbul. Often billed alongside 4-i, Granul and jtamul. Next up: Şahika, Istanbul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Masty is a techno and bass artist based in Turkey, with 12 gigs on soundcheck ac
 
 4-i, Granul, jtamul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masty/)*

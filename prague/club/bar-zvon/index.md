@@ -1,6 +1,6 @@
 # Bar Zvon
 
-Bar Zvon is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LIBO LAUNCH PARTY" on Sat, 3 Oct 2026.
+Bar Zvon is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "LIBO LAUNCH PARTY" on Sat, 3 Oct 2026.
 
 Bar Zvon is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Alegs, Daniel Neighbour and Tris Kayo. See dates, start times and who's playing. Týnská 605/1, Praha 1.
 
@@ -14,4 +14,4 @@ Bar Zvon is a music venue in Prague listed on soundcheck. 1 upcoming gig, with l
 
 Týnská 605/1, Praha 1, Prague
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-zvon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-zvon/)*

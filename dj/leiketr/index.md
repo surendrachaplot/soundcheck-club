@@ -1,6 +1,6 @@
 # Lieke TR
 
-Lieke TR is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loop51, Amsterdam on Thu, 22 Oct 2026.
+Lieke TR is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loop51, Amsterdam on Thu, 22 Oct 2026.
 
 Lieke TR is a house and bass artist, with 39 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Jorn Liefdeshuis, askmelater and Akemiö Grey. Next up: Loop51, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Lieke TR is a house and bass artist, with 39 gigs on soundcheck across Amsterdam
 
 Jorn Liefdeshuis, askmelater, Akemiö Grey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leiketr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leiketr/)*

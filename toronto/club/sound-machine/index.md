@@ -1,14 +1,13 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Selecta 036" on Thu, 1 Oct 2026.
+Sound Machine is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi" on Sat, 3 Oct 2026.
 
-Sound Machine is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Chinelo, Dino and Terry, DRS and hadis and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
+Sound Machine is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Chinelo, Dino and Terry, DRS and hadis and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Selecta 036 | MERS |
 | Sat, 3 Oct 2026 | 90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi | Dino and Terry, Jason Palma, Yogi |
 | Thu, 8 Oct 2026 | Selecta 037 | Lamanna |
 | Fri, 9 Oct 2026 | body2body ft. SHERELLE | Chinelo, Jamvvis, Marcus Visionary, Raf Reza, SHERELLE |
@@ -18,9 +17,10 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 11 upcoming gigs
 | Fri, 23 Oct 2026 | Thirst Trap: Halloween |  |
 | Sun, 25 Oct 2026 | WHOREOWEEN: A Naked-ish Event |  |
 | Thu, 29 Oct 2026 | Selecta 040 | OhKO, hadis |
+| Sat, 7 Nov 2026 | Roots Of House with Osunlade, Jojoflores & DJ Yogi | Jojoflores, Osunlade, Yogi |
 
 ## Address
 
 178 Bathurst Street, Toronto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

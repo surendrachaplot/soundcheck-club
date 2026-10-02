@@ -1,6 +1,6 @@
 # Francis Xavier
 
-Francis Xavier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club 77, Sydney on Sat, 10 Oct 2026.
+Francis Xavier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club 77, Sydney on Sat, 10 Oct 2026.
 
 Francis Xavier is a house and techno artist based in Australia, with 20 gigs on soundcheck across Sydney. Often billed alongside Phil Smart, Reenie and Santamaria. Next up: Club 77, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Francis Xavier is a house and techno artist based in Australia, with 20 gigs on 
 
 Phil Smart, Reenie, Santamaria
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francisxavier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francisxavier/)*

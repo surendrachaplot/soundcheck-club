@@ -1,6 +1,6 @@
 # Shungu
 
-Shungu is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 17 Oct 2026.
+Shungu is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 17 Oct 2026.
 
 Shungu is a jazz and funk / soul artist, with 14 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside Alex Rita, DTM Funk and Errol. Next up: Beursschouwburg, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shungu is a jazz and funk / soul artist, with 14 gigs on soundcheck across Amste
 
 Alex Rita, DTM Funk, Errol
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shungu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shungu/)*

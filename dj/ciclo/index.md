@@ -1,6 +1,6 @@
 # Ciclo
 
-Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Fri, 6 Nov 2026.
+Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madam, Amsterdam on Fri, 6 Nov 2026.
 
 Ciclo is a tech house and house artist based in Colombia, with 7 gigs on soundcheck across Amsterdam, Ibiza, London and Madrid and 2 more. Often billed alongside Ale Grooves, Calvin Clarke and Chris Figueroa. Next up: Madam, Amsterdam on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Ciclo is a tech house and house artist based in Colombia, with 7 gigs on soundch
 
 Ale Grooves, Calvin Clarke, Chris Figueroa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*

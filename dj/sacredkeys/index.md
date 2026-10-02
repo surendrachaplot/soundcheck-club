@@ -1,6 +1,6 @@
 # Sacred Keys
 
-Sacred Keys is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 3 Oct 2026.
+Sacred Keys is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 3 Oct 2026.
 
 Sacred Keys is a post-punk and electronica artist based in United Kingdom, with 28 gigs on soundcheck across Edinburgh. Often billed alongside Moth Girl, The Nightlark and philomenah. Next up: Paradise Palms, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sacred Keys is a post-punk and electronica artist based in United Kingdom, with 
 
 Moth Girl, The Nightlark, philomenah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacredkeys/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacredkeys/)*

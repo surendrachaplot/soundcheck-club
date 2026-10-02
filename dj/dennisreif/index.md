@@ -1,6 +1,6 @@
 # Dennis Reif
 
-Dennis Reif is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Thu, 22 Oct 2026.
+Dennis Reif is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Thu, 22 Oct 2026.
 
 Dennis Reif is a techno and house artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Cologne, Hamburg and London and 1 more. Often billed alongside Tube & Berger, AVAION and Alle Farben. Next up: TBA - EIVISSA, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Dennis Reif is a techno and house artist based in Germany, with 12 gigs on sound
 
 Tube & Berger, AVAION, Alle Farben
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisreif/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisreif/)*

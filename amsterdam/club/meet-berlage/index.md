@@ -1,6 +1,6 @@
 # Meet Berlage
 
-Meet Berlage is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Canapa-x invite Discosabotage records" on Thu, 22 Oct 2026.
+Meet Berlage is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Canapa-x invite Discosabotage records" on Thu, 22 Oct 2026.
 
 Meet Berlage is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Mariiin, ALE_MELLONI, Alex Stein and A.M. Project and 2 more. See dates, start times and who's playing. Oudebrugsteeg 9, 1012 JN Amsterdam.
 
@@ -19,4 +19,4 @@ Meet Berlage is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs
 
 Oudebrugsteeg 9, 1012 JN Amsterdam, Amsterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/meet-berlage/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/meet-berlage/)*

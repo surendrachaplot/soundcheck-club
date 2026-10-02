@@ -1,6 +1,6 @@
 # Andy Caruso
 
-Andy Caruso is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
+Andy Caruso is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
 
 Andy Caruso is a disco and deep house artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, London, Mexico City and Milan. Often billed alongside Davide Del Vecchio, LOVE SOUND SYSTEM and BODYHEAT. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Andy Caruso is a disco and deep house artist based in United Kingdom, with 23 gi
 
 Davide Del Vecchio, LOVE SOUND SYSTEM, BODYHEAT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*

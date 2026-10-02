@@ -1,6 +1,6 @@
 # scrab
 
-scrab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 11 Oct 2026.
+scrab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 11 Oct 2026.
 
 scrab is a house and techno artist based in Japan, with 90 gigs on soundcheck across Kyoto, Taipei and Tokyo. Often billed alongside BANANA-CHAN, Dihi and Terax. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ scrab is a house and techno artist based in Japan, with 90 gigs on soundcheck ac
 
 BANANA-CHAN, Dihi, Terax
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrab/)*

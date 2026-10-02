@@ -1,6 +1,6 @@
 # Rio Kawamoto
 
-Rio Kawamoto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
+Rio Kawamoto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Sat, 10 Oct 2026.
 
 Rio Kawamoto is a house and techno artist based in Japan, with 20 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside Wada Yosuke, TORAO and Takashi Himeoka. Next up: WOMB, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rio Kawamoto is a house and techno artist based in Japan, with 20 gigs on soundc
 
 Wada Yosuke, TORAO, Takashi Himeoka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riokawamoto/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riokawamoto/)*

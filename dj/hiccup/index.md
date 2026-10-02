@@ -1,6 +1,6 @@
 # HICCUP
 
-HICCUP is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fitzroy, Berlin on Sun, 11 Oct 2026.
+HICCUP is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Sun, 11 Oct 2026.
 
 HICCUP is a techno and industrial artist based in Turkey, with 14 gigs on soundcheck across Berlin, Istanbul and Warsaw. Often billed alongside Belin, y.unan and 2ManyDJs. Next up: Fitzroy, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ HICCUP is a techno and industrial artist based in Turkey, with 14 gigs on soundc
 
 Belin, y.unan, 2ManyDJs
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiccup/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiccup/)*

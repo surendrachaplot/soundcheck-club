@@ -1,6 +1,6 @@
 # julek ploski
 
-julek ploski is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+julek ploski is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 julek ploski is an experimental and electronica artist based in Poland, with 28 gigs on soundcheck across Belgrade, Berlin, Brussels and Budapest and 8 more. Often billed alongside 2K88, Emma DJ and Moin. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ julek ploski is an experimental and electronica artist based in Poland, with 28 
 
 2K88, Emma DJ, Moin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*

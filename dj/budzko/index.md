@@ -1,6 +1,6 @@
 # BUDZKO
 
-BUDZKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 10 Oct 2026.
+BUDZKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 10 Oct 2026.
 
 BUDZKO is a techno and trance artist, with 16 gigs on soundcheck across Krakow, Tbilisi and Warsaw. Often billed alongside Dima Kachan, Dolu and Syrphin. Next up: Sekta Selekta, Krakow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ BUDZKO is a techno and trance artist, with 16 gigs on soundcheck across Krakow, 
 
 Dima Kachan, Dolu, Syrphin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budzko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budzko/)*

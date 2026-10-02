@@ -1,6 +1,6 @@
 # Antigen
 
-Antigen is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
+Antigen is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
 
 Antigen is a trance and house artist, with 12 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Mannheim. Often billed alongside ELOISA, Robbie and nordcorreia.mp3. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Antigen is a trance and house artist, with 12 gigs on soundcheck across Berlin, 
 
 ELOISA, Robbie, nordcorreia.mp3
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antigen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antigen/)*

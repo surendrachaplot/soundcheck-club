@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+DJ SO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 DJ SO is a techno and house artist, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Kyoto and 14 more. Often billed alongside Yo Nishijima, LØST and Peter Van Hoesen. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ DJ SO is a techno and house artist, with 85 gigs on soundcheck across Amsterdam,
 
 Yo Nishijima, LØST, Peter Van Hoesen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

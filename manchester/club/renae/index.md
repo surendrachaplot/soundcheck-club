@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Persona - Gabriel Rai b2b Ethan. (7hrs ANL)" on Thu, 1 Oct 2026.
+renae is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "reane: ZÈYLA & Una Lee" on Fri, 2 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Persona - Gabriel Rai b2b Ethan. (7hrs ANL) | Ethan., Gabriel Rai |
-| Thu, 1 Oct 2026 | reane: Joey T | Joey T |
 | Fri, 2 Oct 2026 | reane: ZÈYLA & Una Lee |  |
 | Sat, 3 Oct 2026 | reane: Matthew Rothery |  |
 | Sun, 4 Oct 2026 | reane: Space Tours & Lucia |  |
@@ -18,9 +16,11 @@ renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, wit
 | Thu, 15 Oct 2026 | Polyphonic Pop-Up at T.O.P.P | Gaka, JustElliot, Matteo Dose |
 | Fri, 16 Oct 2026 | Gelassenheit 4 - Release Party At T.O.P.P | KD22LR, Medlock, Tamus |
 | Sat, 24 Oct 2026 | Rhizome in t.o.p.p | Coel Haines, Etienne Groh |
+| Thu, 29 Oct 2026 | Persona - Raphi & Jude Race (4hr Sets) | Jude Race |
+| Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

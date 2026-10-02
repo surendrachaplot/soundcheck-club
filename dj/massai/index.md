@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studionotte, Milan on Fri, 9 Oct 2026.
+Massaï is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Studionotte, Milan on Fri, 9 Oct 2026.
 
 Massaï is a house and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside LAMALICE, Gabriel Belabbas and Man/Ipulate. Next up: Studionotte, Milan on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Massaï is a house and techno artist based in United Kingdom, with 90 gigs on so
 
 LAMALICE, Gabriel Belabbas, Man/Ipulate
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

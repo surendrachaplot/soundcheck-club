@@ -1,6 +1,6 @@
 # Milothicc
 
-Milothicc is a Reggaeton and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CHICO, Mexico City on Sat, 31 Oct 2026.
+Milothicc is a Reggaeton and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CHICO, Mexico City on Sat, 31 Oct 2026.
 
 Milothicc is a reggaeton and dancehall artist based in Mexico, with 14 gigs on soundcheck across Mexico City. Often billed alongside Marvin Marciano, Alacrán del Amor and Alcala. Next up: CHICO, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Milothicc is a reggaeton and dancehall artist based in Mexico, with 14 gigs on s
 
 Marvin Marciano, Alacrán del Amor, Alcala
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milothicc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milothicc/)*

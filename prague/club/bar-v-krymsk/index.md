@@ -1,14 +1,13 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nicco Lupen (IT)" on Thu, 1 Oct 2026.
+Bar v Krymský is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Täino & Fimo" on Fri, 2 Oct 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 14 upcoming gigs, with line-ups including Cubik, Diome, Dj Wash! and Javas and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including Cubik, Diome, Dj Wash! and Javas and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Nicco Lupen (IT) | Nicco Lupen |
 | Fri, 2 Oct 2026 | Täino & Fimo | Täino |
 | Sat, 3 Oct 2026 | DJ Sta |  |
 | Thu, 8 Oct 2026 | MARS | MARS (4) |
@@ -18,9 +17,10 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 14 upcoming gigs
 | Sat, 17 Oct 2026 | Stessie Tfgn |  |
 | Thu, 22 Oct 2026 | Rescue & Canobee | Rescue |
 | Fri, 23 Oct 2026 | BE GOOD with Roman Rai, Javas, johan | Javas, Roman Rai |
+| Sat, 24 Oct 2026 | Babe LN & B4K |  |
 
 ## Address
 
 Krymská 21, Praha, Prague
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

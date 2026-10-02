@@ -1,6 +1,6 @@
 # KIMKILLA
 
-KIMKILLA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
+KIMKILLA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
 KIMKILLA is a techno and club artist based in United States of America, with 32 gigs on soundcheck across Chicago and New York City. Often billed alongside Indigo Heaven, Nymph (NY) and AG. Next up: Paragon, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KIMKILLA is a techno and club artist based in United States of America, with 32 
 
 Indigo Heaven, Nymph (NY), AG (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkilla/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkilla/)*

@@ -1,14 +1,14 @@
 # Szikra
 
-Szikra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Fri, 2 Oct 2026.
+Szikra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Xing Dance Theatre, Toronto on Fri, 2 Oct 2026.
 
-Szikra is a techno and house artist, with 9 gigs on soundcheck across Toronto. Often billed alongside CAETANO, Jose Carbonell and 2HZY. Next up: TBA, Toronto on Fri 2 Oct.
+Szikra is a techno and house artist, with 9 gigs on soundcheck across Toronto. Often billed alongside CAETANO, Jose Carbonell and 2HZY. Next up: Xing Dance Theatre, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Toronto |
+| Fri, 2 Oct 2026 | Xing Dance Theatre | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Szikra is a techno and house artist, with 9 gigs on soundcheck across Toronto. O
 
 CAETANO, Jose Carbonell, 2HZY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szikra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szikra/)*

@@ -1,6 +1,6 @@
 # DJ Earl
 
-DJ Earl is a Footwork and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
+DJ Earl is a Footwork and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
 
 DJ Earl is a footwork and garage artist based in United States of America, with 27 gigs on soundcheck across Berlin, Chicago, Denver and Houston and 5 more. Often billed alongside Lastword, Big Dope P and Bobbyy. Next up: De La Playa Records & Leisure, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Earl is a footwork and garage artist based in United States of America, with 
 
 Lastword, Big Dope P, Bobbyy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djearl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djearl/)*

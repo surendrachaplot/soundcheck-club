@@ -1,6 +1,6 @@
 # D.J.Fulltono
 
-D.J.Fulltono is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chika-Ikkai, Osaka on Fri, 2 Oct 2026.
+D.J.Fulltono is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chika-Ikkai, Osaka on Fri, 2 Oct 2026.
 
 D.J.Fulltono is a techno and footwork artist based in Japan, with 49 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside ntank, Ryoma Sasaki and KA4U. Next up: Chika-Ikkai, Osaka on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ D.J.Fulltono is a techno and footwork artist based in Japan, with 49 gigs on sou
 
 ntank, Ryoma Sasaki, KA4U
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfulltono/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfulltono/)*

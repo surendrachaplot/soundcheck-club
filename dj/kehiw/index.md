@@ -1,6 +1,6 @@
 # KEHIW
 
-KEHIW is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Don Quixote, Los-angeles on Sat, 17 Oct 2026.
+KEHIW is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Don Quixote, Los-angeles on Sat, 17 Oct 2026.
 
 KEHIW is a club and house artist based in Canada, with 9 gigs on soundcheck across Los Angeles and Toronto. Often billed alongside DJ Kehiw, ARMANA KHAN and Banoffee. Next up: Don Quixote, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KEHIW is a club and house artist based in Canada, with 9 gigs on soundcheck acro
 
 DJ Kehiw, ARMANA KHAN, Banoffee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kehiw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kehiw/)*

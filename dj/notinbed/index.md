@@ -1,6 +1,6 @@
 # notinbed
 
-notinbed is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Sucre, Lyon on Fri, 2 Oct 2026.
+notinbed is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Sucre, Lyon on Fri, 2 Oct 2026.
 
 notinbed is an electro and techno artist based in France, with 20 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, MCR-T and amne. Next up: Le Sucre, Lyon on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ notinbed is an electro and techno artist based in France, with 20 gigs on soundc
 
 Lisa More, MCR-T, amne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*

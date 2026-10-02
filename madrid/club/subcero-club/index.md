@@ -1,14 +1,13 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUBCERO x HIDDEN GROOVES & MANDOSTAN" on Thu, 1 Oct 2026.
+Subcero Club is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SUBCERO CLUB x KLAK" on Fri, 2 Oct 2026.
 
-Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including AL MANDO, Elwei, Emi Koto and Fonso Alegría and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
+Subcero Club is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including AL MANDO, Elwei, Emi Koto and Fonso Alegría and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | SUBCERO x HIDDEN GROOVES & MANDOSTAN | JoyBoy, MIGO, Spyrow |
 | Fri, 2 Oct 2026 | SUBCERO CLUB x KLAK | Nina GGG |
 | Sat, 3 Oct 2026 | SUBCERO CLUB x QUINOA EXPERIENCE | Emi Koto, Manu Oubiña |
 | Thu, 8 Oct 2026 | Subcero x Puro Dramma | Halluin, Puro Dramma |
@@ -18,9 +17,10 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, 
 | Fri, 16 Oct 2026 | Subcero x MO.DO | Karjala, Terence :Terry: |
 | Sat, 17 Oct 2026 | Subcero x Climax | PABLOANYWAY |
 | Thu, 22 Oct 2026 | Subcero x Rave En Tu Idioma | Elwei, Mraj Nite, The Ego (DJ) |
+| Fri, 23 Oct 2026 | Subcero x Offline | Gäbrø, Joaquín Texeira, Jorge Padilla |
 
 ## Address
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

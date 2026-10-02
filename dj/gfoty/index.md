@@ -1,6 +1,6 @@
 # GFOTY
 
-GFOTY is a Pop and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Market Hotel, New York City on Fri, 9 Oct 2026.
+GFOTY is a Pop and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Market Hotel, New York City on Fri, 9 Oct 2026.
 
 GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundcheck across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Market Hotel, New York City on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundche
 
 Mother Cell, Petal Supply, DJ Trick
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*

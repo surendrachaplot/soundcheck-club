@@ -1,6 +1,6 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palm House, Liverpool on Sat, 3 Oct 2026.
+Danny Howells is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palm House, Liverpool on Sat, 3 Oct 2026.
 
 Danny Howells is a progressive house and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 19 more. Often billed alongside Dave Seaman, Anthony Pappa and Graziano Raffa. Next up: Palm House, Liverpool on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 
 Dave Seaman, Anthony Pappa, Graziano Raffa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

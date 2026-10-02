@@ -1,6 +1,6 @@
 # Limón
 
-Limón is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+Limón is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
 
 Limón is a techno and house artist based in Malta, with 16 gigs on soundcheck across Malta and Manchester. Often billed alongside Víctor Güell, DJ Ruby and Gordon Flash. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Limón is a techno and house artist based in Malta, with 16 gigs on soundcheck a
 
 Víctor Güell, DJ Ruby, Gordon Flash
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limon-mt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limon-mt/)*

@@ -1,6 +1,6 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Chaos In The CBD presents.. The In Dust We Trust Tour - Bristol" on Fri, 23 Oct 2026.
+The Trinity Centre is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chaos In The CBD presents.. The In Dust We Trust Tour - Bristol" on Fri, 23 Oct 2026.
 
 The Trinity Centre is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including Coki, Darcy, Flowdan and Kahn and 2 more. See dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
@@ -16,4 +16,4 @@ The Trinity Centre is a music venue in Bristol listed on soundcheck. 3 upcoming 
 
 Trinity Road; Bristol BS2 0NW; United Kingdom, Bristol
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*

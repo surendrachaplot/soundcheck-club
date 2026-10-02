@@ -1,6 +1,6 @@
 # Lemurian
 
-Lemurian is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Lemurian is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
 Lemurian is a deep house and downtempo artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Ibiza, Mexico City and Miami and 3 more. Often billed alongside Deer Jade, Sainte Vie and Acid Pauli. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lemurian is a deep house and downtempo artist based in United States of America,
 
 Deer Jade, Sainte Vie, Acid Pauli
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemurian/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemurian/)*

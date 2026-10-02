@@ -1,6 +1,6 @@
 # Loktibrada
 
-Loktibrada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Loktibrada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
 Loktibrada is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Takaaki Itoh, Axis Alpha and DJ Boss. Next up: RADION, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Loktibrada is a techno and house artist, with 9 gigs on soundcheck across Amster
 
 Takaaki Itoh, Axis Alpha, DJ Boss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loktibrada/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loktibrada/)*

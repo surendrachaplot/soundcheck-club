@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Mathew Jonson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Mathew Jonson is a techno and house artist based in Canada, with 146 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 45 more. Often billed alongside EVGHENIIA, Francesco Del Garda and O.BEE. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -31,4 +31,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 146 gigs on sou
 
 EVGHENIIA, Francesco Del Garda, O.BEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

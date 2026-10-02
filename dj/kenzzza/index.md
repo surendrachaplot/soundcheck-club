@@ -1,6 +1,6 @@
 # Kenzzza
 
-Kenzzza is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
+Kenzzza is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
 
 Kenzzza is a bass and club artist based in France, with 7 gigs on soundcheck across Paris. Often billed alongside MALAISE VAGAL, DJ Football and EARGASM GOD. Next up: La Machine Du Moulin Rouge, Paris on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Kenzzza is a bass and club artist based in France, with 7 gigs on soundcheck acr
 
 MALAISE VAGAL, DJ Football, EARGASM GOD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzzza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzzza/)*

@@ -1,6 +1,6 @@
 # Otorongo
 
-Otorongo is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
+Otorongo is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
 
 Otorongo is a downtempo and electronica artist based in Chile, with 19 gigs on soundcheck across Barcelona, Brisbane, Melbourne and Sydney. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: Felons Barrel Hall, Brisbane on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Otorongo is a downtempo and electronica artist based in Chile, with 19 gigs on s
 
 Cuerpo Negro, Martha van Straaten, Phil Smart
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*

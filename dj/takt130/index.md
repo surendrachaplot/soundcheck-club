@@ -1,6 +1,6 @@
 # TAKT130
 
-TAKT130 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
+TAKT130 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
 
 TAKT130 is a techno and house artist based in South Korea, with 46 gigs on soundcheck across Berlin, Milan and Vienna. Often billed alongside Gabrielle (DE), Solvados and ATR DJ-TEAM. Next up: OXI, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ TAKT130 is a techno and house artist based in South Korea, with 46 gigs on sound
 
 Gabrielle (DE), Solvados, ATR DJ-TEAM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takt130/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takt130/)*

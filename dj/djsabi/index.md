@@ -1,6 +1,6 @@
 # DJ SABI
 
-DJ SABI is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DJ SABI is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 DJ SABI is a reggaeton and neo perreo artist based in United States of America, with 40 gigs on soundcheck across Boston, Miami, New York City and Portland and 3 more. Often billed alongside SPELL, Trippie Hippie (US) and p1no. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ SABI is a reggaeton and neo perreo artist based in United States of America, 
 
 SPELL, Trippie Hippie (US), p1no
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*

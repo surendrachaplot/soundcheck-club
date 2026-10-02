@@ -1,6 +1,6 @@
 # TCJ (2)
 
-TCJ (2) is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Club 101, New York City on Fri, 9 Oct 2026.
+TCJ (2) is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Club 101, New York City on Fri, 9 Oct 2026.
 
 TCJ is a footwork and ghetto tech artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Mikasa, DJ Manny and Kid Bata. Next up: Night Club 101, New York City on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ TCJ is a footwork and ghetto tech artist based in United States of America, with
 
 Mikasa, DJ Manny, Kid Bata
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tcj-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tcj-2/)*

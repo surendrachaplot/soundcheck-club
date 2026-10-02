@@ -1,6 +1,6 @@
 # Phia500
 
-Phia500 is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Phia500 is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Phia500 is a garage and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside IZZIT, Lily Huu and Mousai. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Phia500 is a garage and jungle artist based in United Kingdom, with 54 gigs on s
 
 IZZIT, Lily Huu, Mousai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phia500/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phia500/)*

@@ -1,6 +1,6 @@
 # Fernando Lagreca
 
-Fernando Lagreca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cloud, Berlin on Sat, 7 Nov 2026.
+Fernando Lagreca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cloud, Berlin on Sat, 7 Nov 2026.
 
 Fernando Lagreca is a techno and progressive house artist based in Spain, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Pascale Voltaire, AM.I and Cristian Varela. Next up: The Cloud, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fernando Lagreca is a techno and progressive house artist based in Spain, with 2
 
 Pascale Voltaire, AM.I, Cristian Varela
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandolagreca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandolagreca/)*

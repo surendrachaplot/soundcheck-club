@@ -1,6 +1,6 @@
 # Dubbalot
 
-Dubbalot is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 2 Oct 2026.
+Dubbalot is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Fri, 2 Oct 2026.
 
 Dubbalot is a drum & bass and dubstep artist based in Germany, with 8 gigs on soundcheck across Leipzig. Often billed alongside VRUM, audite and Cuepric. Next up: Distillery, Leipzig on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Dubbalot is a drum & bass and dubstep artist based in Germany, with 8 gigs on so
 
 VRUM, audite, Cuepric
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubbalot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubbalot/)*

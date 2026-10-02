@@ -1,6 +1,6 @@
 # ANAMORPH_
 
-ANAMORPH_ is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Berlin on Fri, 2 Oct 2026.
+ANAMORPH_ is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Fri, 2 Oct 2026.
 
 ANAMORPH_ is a techno and house artist based in Germany, with 7 gigs on soundcheck across Athens, Berlin and Crete. Often billed alongside ADAM MUNNINGS, ANFS and Alpha Tracks. Next up: TBA, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ ANAMORPH_ is a techno and house artist based in Germany, with 7 gigs on soundche
 
 ADAM MUNNINGS, ANFS, Alpha Tracks
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamorph_/)*

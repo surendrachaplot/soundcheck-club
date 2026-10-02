@@ -1,6 +1,6 @@
 # 42L (1)
 
-42L (1) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bien Public, Bordeaux on Sat, 17 Oct 2026.
+42L (1) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bien Public, Bordeaux on Sat, 17 Oct 2026.
 
 42L is a techno and bass artist based in France, with 17 gigs on soundcheck across Bordeaux, Marseille and Paris. Often billed alongside Perdu et retrouvé, RAVL and CABALE. Next up: Bien Public, Bordeaux on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 Perdu et retrouvé, RAVL, CABALE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/42l-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/42l-1/)*

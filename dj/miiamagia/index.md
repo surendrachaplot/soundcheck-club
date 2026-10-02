@@ -1,6 +1,6 @@
 # Miia Magia
 
-Miia Magia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Post Bar, Helsinki on Fri, 23 Oct 2026.
+Miia Magia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Post Bar, Helsinki on Fri, 23 Oct 2026.
 
 Miia Magia is a techno and house artist based in Finland, with 20 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Riga and 1 more. Often billed alongside Jussi E, Andy Martin and Bella Boo. Next up: Post Bar, Helsinki on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Miia Magia is a techno and house artist based in Finland, with 20 gigs on soundc
 
 Jussi E, Andy Martin, Bella Boo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miiamagia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miiamagia/)*

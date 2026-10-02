@@ -1,6 +1,6 @@
 # Luka (CH)
 
-Luka (CH) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toffler, Rotterdam on Sat, 17 Oct 2026.
+Luka (CH) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Toffler, Rotterdam on Sat, 17 Oct 2026.
 
 Luka (CH) is a house and techno artist based in Switzerland, with 60 gigs on soundcheck across Antwerp, Athens, Brussels and Geneva and 8 more. Often billed alongside DJ Equipment, Jenny Cara and Bonnie OK. Next up: Toffler, Rotterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Luka (CH) is a house and techno artist based in Switzerland, with 60 gigs on sou
 
 DJ Equipment, Jenny Cara, Bonnie OK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luka-ch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luka-ch/)*

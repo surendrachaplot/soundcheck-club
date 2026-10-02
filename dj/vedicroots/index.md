@@ -1,6 +1,6 @@
 # Vedic Roots
 
-Vedic Roots is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Fri, 6 Nov 2026.
+Vedic Roots is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Fri, 6 Nov 2026.
 
 Vedic Roots is a dub and bass artist based in United Kingdom, with 7 gigs on soundcheck across London and Valencia. Often billed alongside Arjxn, Ayesha and D-Malice. Next up: Distillery N17, London on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Vedic Roots is a dub and bass artist based in United Kingdom, with 7 gigs on sou
 
 Arjxn, Ayesha, D-Malice
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vedicroots/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vedicroots/)*

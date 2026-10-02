@@ -1,6 +1,6 @@
 # Corey James
 
-Corey James is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Corey James is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
 
 Corey James is a house and progressive house artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Liverpool, London and Miami and 1 more. Often billed alongside Third Party, Pete K and B-SIDE. Next up: TBA, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Corey James is a house and progressive house artist based in United Kingdom, wit
 
 Third Party, Pete K, B-SIDE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreyjames/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreyjames/)*

@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Anna Ullrich is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Anna Ullrich is a techno and trance artist based in Austria, with 52 gigs on soundcheck across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios and KAROLINA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Anna Ullrich is a techno and trance artist based in Austria, with 52 gigs on sou
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

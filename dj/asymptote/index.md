@@ -1,6 +1,6 @@
 # Asymptote
 
-Asymptote is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 9 Oct 2026.
+Asymptote is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 9 Oct 2026.
 
 Asymptote is a techno and electronica artist, with 78 gigs on soundcheck across Berlin, Budapest, Milan and Naples and 1 more. Often billed alongside Giorgia Ferrero, Endrew and MURINO. Next up: Circolo degli Illuminati, Rome on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Asymptote is a techno and electronica artist, with 78 gigs on soundcheck across 
 
 Giorgia Ferrero, Endrew, MURINO (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asymptote/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asymptote/)*

@@ -1,6 +1,6 @@
 # Joseph Disco
 
-Joseph Disco is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Fri, 2 Oct 2026.
+Joseph Disco is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Fri, 2 Oct 2026.
 
 Joseph Disco is a techno and tech house artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Lampé, Konfusia and Antoine Baiser. Next up: Beate Uwe, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Joseph Disco is a techno and tech house artist based in Germany, with 38 gigs on
 
 Lampé, Konfusia, Antoine Baiser
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephdisco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephdisco/)*

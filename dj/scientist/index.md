@@ -1,6 +1,6 @@
 # The Scientist
 
-The Scientist is a Dub and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+The Scientist is a Dub and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 The Scientist is a dub and dancehall artist based in Jamaica, with 17 gigs on soundcheck across Amsterdam, Bristol, Liverpool and London and 8 more. Often billed alongside Aba Shanti-I, Kelman Duran and Azu Tiwaline. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ The Scientist is a dub and dancehall artist based in Jamaica, with 17 gigs on so
 
 Aba Shanti-I, Kelman Duran, Azu Tiwaline
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scientist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scientist/)*

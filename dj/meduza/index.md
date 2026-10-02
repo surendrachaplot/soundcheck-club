@@ -1,6 +1,6 @@
 # Meduza
 
-Meduza is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Meduza is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

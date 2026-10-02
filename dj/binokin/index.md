@@ -1,6 +1,6 @@
 # Bin Okin
 
-Bin Okin is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 16 Oct 2026.
+Bin Okin is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 16 Oct 2026.
 
 Bin Okin is a techno and deep house artist based in Germany, with 26 gigs on soundcheck across Berlin and Geneva. Often billed alongside Salvo Salvatore, B/ANNIMALĪ and DAV3. Next up: Der Weiße Hase, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bin Okin is a techno and deep house artist based in Germany, with 26 gigs on sou
 
 Salvo Salvatore, B/ANNIMALĪ, DAV3
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binokin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binokin/)*

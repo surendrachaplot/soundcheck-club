@@ -1,6 +1,6 @@
 # Mhauro
 
-Mhauro is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
+Mhauro is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
 
 Mhauro is a house artist, with 13 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Chichöl, Fabricio Mosoni and Lucas Nycz. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mhauro is a house artist, with 13 gigs on soundcheck across Barcelona and Berlin
 
 Chichöl, Fabricio Mosoni, Lucas Nycz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhauro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhauro/)*

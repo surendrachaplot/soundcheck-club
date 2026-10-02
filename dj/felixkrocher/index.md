@@ -1,6 +1,6 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mobilat Club, Stuttgart on Sat, 3 Oct 2026.
+Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mobilat Club, Stuttgart on Sat, 3 Oct 2026.
 
 Felix Kröcher is a techno and electro artist based in Germany, with 54 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 14 more. Often billed alongside LOVRA, Anna Tur and Simina Grigoriu. Next up: Mobilat Club, Stuttgart on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Felix Kröcher is a techno and electro artist based in Germany, with 54 gigs on 
 
 LOVRA, Anna Tur, Simina Grigoriu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

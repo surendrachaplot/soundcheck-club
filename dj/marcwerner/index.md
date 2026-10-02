@@ -1,6 +1,6 @@
 # MARC WERNER
 
-MARC WERNER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palais, Munich on Sat, 3 Oct 2026.
+MARC WERNER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palais, Munich on Sat, 3 Oct 2026.
 
 MARC WERNER is a techno and house artist based in Germany, with 43 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 6 more. Often billed alongside FYNN, AVAION and Dan Mlinar. Next up: Palais, Munich on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MARC WERNER is a techno and house artist based in Germany, with 43 gigs on sound
 
 FYNN, AVAION, Dan Mlinar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*

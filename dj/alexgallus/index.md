@@ -1,6 +1,6 @@
 # Alex Gallus
 
-Alex Gallus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Weekend, Berlin on Thu, 31 Dec 2026.
+Alex Gallus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Weekend, Berlin on Thu, 31 Dec 2026.
 
 Alex Gallus is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside AWSM, Coss and Thomas Haak. Next up: Weekend, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alex Gallus is a house and techno artist based in Germany, with 26 gigs on sound
 
 AWSM, Coss, Thomas Haak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgallus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgallus/)*

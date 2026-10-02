@@ -1,6 +1,6 @@
 # Maco Maria
 
-Maco Maria is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France, South-east on Sat, 3 Oct 2026.
+Maco Maria is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France, South-east on Sat, 3 Oct 2026.
 
 Maco Maria is an electro and tech house artist based in France, with 28 gigs on soundcheck across Barcelona, Brussels, Nantes and Paris and 1 more. Often billed alongside Louison, Domi (FR) and LAMALICE. Next up: TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France, South East on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Maco Maria is an electro and tech house artist based in France, with 28 gigs on 
 
 Louison, Domi (FR), LAMALICE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macomaria/)*

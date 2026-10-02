@@ -1,6 +1,6 @@
 # Barbara Alvarez
 
-Barbara Alvarez is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Barbara Alvarez is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Barbara Alvarez is a house and minimal artist based in Mexico, with 32 gigs on soundcheck across Berlin, Brussels, Hamburg and Mexico City. Often billed alongside Mejia, Alexia Glensy and ViiV. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Barbara Alvarez is a house and minimal artist based in Mexico, with 32 gigs on s
 
 Mejia, Alexia Glensy, ViiV
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraalvarez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraalvarez/)*

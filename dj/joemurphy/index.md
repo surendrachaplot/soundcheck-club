@@ -1,6 +1,6 @@
 # Joe Murphy
 
-Joe Murphy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Joe Murphy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Joe Murphy is a house and garage artist based in Ireland, with 25 gigs on soundcheck across Bristol and London. Often billed alongside SLVN, Mas Que Nada Brothers and Hywel Gregory. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Joe Murphy is a house and garage artist based in Ireland, with 25 gigs on soundc
 
 SLVN, Mas Que Nada Brothers, Hywel Gregory
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemurphy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemurphy/)*

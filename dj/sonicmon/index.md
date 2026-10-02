@@ -1,6 +1,6 @@
 # Sonicmon
 
-Sonicmon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
+Sonicmon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
 
 Sonicmon is a techno and club artist based in China, with 23 gigs on soundcheck across Hong Kong. Often billed alongside 100%WONG, KOLAK and The Heman. Next up: TBA - Secret Warehouse Location, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sonicmon is a techno and club artist based in China, with 23 gigs on soundcheck 
 
 100%WONG, KOLAK, The Heman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicmon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicmon/)*

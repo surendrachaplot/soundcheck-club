@@ -1,6 +1,6 @@
 # Anna Butter
 
-Anna Butter is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+Anna Butter is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Anna Butter is an experimental and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and London and 1 more. Often billed alongside Marc Matter, DON'T DJ and Mieko Suzuki. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anna Butter is an experimental and techno artist based in Germany, with 18 gigs 
 
 Marc Matter, DON'T DJ, Mieko Suzuki
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabutter/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabutter/)*

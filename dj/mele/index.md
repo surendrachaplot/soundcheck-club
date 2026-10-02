@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
+Melé is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
 
 Melé is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Cabaret Sauvage, Paris on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Melé is a house and tech house artist based in United Kingdom, with 123 gigs on
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

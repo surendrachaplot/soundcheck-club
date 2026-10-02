@@ -1,6 +1,6 @@
 # SEMPLIFIER
 
-SEMPLIFIER is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toffler, Rotterdam on Fri, 30 Oct 2026.
+SEMPLIFIER is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Toffler, Rotterdam on Fri, 30 Oct 2026.
 
 SEMPLIFIER is a techno and industrial artist based in Netherlands, with 4 gigs on soundcheck across Berlin, Rotterdam and Utrecht. Often billed alongside D|K|OXY, GWELD and ANXIETY. Next up: Toffler, Rotterdam on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ SEMPLIFIER is a techno and industrial artist based in Netherlands, with 4 gigs o
 
 D|K|OXY, GWELD, ANXIETY (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semplifier/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semplifier/)*

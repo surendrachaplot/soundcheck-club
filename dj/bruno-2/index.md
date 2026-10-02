@@ -1,6 +1,6 @@
 # Bruno (2)
 
-Bruno (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plano B, Porto on Fri, 30 Oct 2026.
+Bruno (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plano B, Porto on Fri, 30 Oct 2026.
 
 Bruno is a house and minimal artist, with 8 gigs on soundcheck across Porto. Often billed alongside Rompante, Alex Arnout and Andy Caz. Next up: Plano B, Porto on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Bruno is a house and minimal artist, with 8 gigs on soundcheck across Porto. Oft
 
 Rompante, Alex Arnout, Andy Caz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruno-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruno-2/)*

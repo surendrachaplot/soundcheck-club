@@ -1,6 +1,6 @@
 # Kasey Taylor
 
-Kasey Taylor is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Howler, Melbourne on Sat, 3 Oct 2026.
+Kasey Taylor is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Kasey Taylor is a progressive house and techno artist based in Australia, with 12 gigs on soundcheck across Amsterdam, Glasgow, Lisbon and Manchester and 3 more. Often billed alongside Anthony Pappa, Gai Barone and Mariano Mellino. Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kasey Taylor is a progressive house and techno artist based in Australia, with 1
 
 Anthony Pappa, Gai Barone, Mariano Mellino
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*

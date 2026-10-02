@@ -1,6 +1,6 @@
 # Carla dal Forno
 
-Carla dal Forno is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Strange Brew, Bristol on Fri, 2 Oct 2026.
+Carla dal Forno is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Strange Brew, Bristol on Fri, 2 Oct 2026.
 
 Carla dal Forno is a pop and electronica artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: Strange Brew, Bristol on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Carla dal Forno is a pop and electronica artist based in Germany, with 11 gigs o
 
 Moopie, 1morning, Alex Zhang Hungtai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carladalforno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carladalforno/)*

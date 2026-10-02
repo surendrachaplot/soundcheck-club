@@ -1,6 +1,6 @@
 # begin
 
-begin is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
+begin is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 begin is a balearic and acid artist, with 6 gigs on soundcheck across Ibiza, Liverpool and Manchester. Often billed alongside James Holroyd, Chez de Milo and Dave Harvey. Next up: Pikes Ibiza, Ibiza on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ begin is a balearic and acid artist, with 6 gigs on soundcheck across Ibiza, Liv
 
 James Holroyd, Chez de Milo, Dave Harvey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/begin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/begin/)*

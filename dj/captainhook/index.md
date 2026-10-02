@@ -1,6 +1,6 @@
 # Captain Hook
 
-Captain Hook is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Sat, 7 Nov 2026.
+Captain Hook is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Turbina, Budapest on Sat, 7 Nov 2026.
 
 Captain Hook is a techno and psytrance artist, with 15 gigs on soundcheck across Berlin, Budapest, Cologne and Iceland and 6 more. Often billed alongside Astrix, Animato and Indira Paganotto. Next up: Turbina, Budapest on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Captain Hook is a techno and psytrance artist, with 15 gigs on soundcheck across
 
 Astrix, Animato, Indira Paganotto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhook/)*

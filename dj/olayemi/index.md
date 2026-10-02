@@ -1,6 +1,6 @@
 # Olayemi
 
-Olayemi is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
+Olayemi is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
 
 Olayemi is an afro house and amapiano artist based in United Kingdom, with 13 gigs on soundcheck across Berlin and London. Often billed alongside Ade Smilez, Mixolis and Red Hour. Next up: E1, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Olayemi is an afro house and amapiano artist based in United Kingdom, with 13 gi
 
 Ade Smilez, Mixolis, Red Hour
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olayemi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olayemi/)*

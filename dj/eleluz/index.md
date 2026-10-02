@@ -1,6 +1,6 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FLUCC, Vienna on Fri, 2 Oct 2026.
+Ele Luz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 Ele Luz is a techno and house artist based in Germany, with 124 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, Maurice Mino and Leon Licht. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Ele Luz is a techno and house artist based in Germany, with 124 gigs on soundche
 
 Horst Haller, Maurice Mino, Leon Licht
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

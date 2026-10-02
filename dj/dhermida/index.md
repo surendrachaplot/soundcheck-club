@@ -1,6 +1,6 @@
 # DHERMIDA
 
-DHERMIDA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at berlinClub, Madrid on Fri, 2 Oct 2026.
+DHERMIDA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at berlinClub, Madrid on Fri, 2 Oct 2026.
 
 DHERMIDA is a house and electronica artist based in Brazil, with 75 gigs on soundcheck across Madrid. Often billed alongside Raisa, Tucu (Tucu) and Fer Xplosion. Next up: berlinClub, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DHERMIDA is a house and electronica artist based in Brazil, with 75 gigs on soun
 
 Raisa, Tucu (Tucu), Fer Xplosion
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhermida/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhermida/)*

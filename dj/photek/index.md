@@ -1,6 +1,6 @@
 # Photek
 
-Photek is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lakota, Bristol on Fri, 23 Oct 2026.
+Photek is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lakota, Bristol on Fri, 23 Oct 2026.
 
 Photek is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Antwerp, Berlin, Boston and Bristol and 12 more. Often billed alongside Goldie, Diverge and Ant TC1. Next up: Lakota, Bristol on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Photek is a drum & bass and jungle artist based in United Kingdom, with 23 gigs 
 
 Goldie, Diverge, Ant TC1
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*

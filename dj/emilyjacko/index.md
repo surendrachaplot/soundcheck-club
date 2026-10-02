@@ -1,6 +1,6 @@
 # Emily Jacko
 
-Emily Jacko is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Sat, 10 Oct 2026.
+Emily Jacko is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Sat, 10 Oct 2026.
 
 Emily Jacko is a garage and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Macca, NEENZY (UK) and Amelia Leigh. Next up: Mint XL, Leeds on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Emily Jacko is a garage and house artist based in United Kingdom, with 16 gigs o
 
 Macca (2), NEENZY (UK), Amelia Leigh
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*

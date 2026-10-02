@@ -1,6 +1,6 @@
 # MICO
 
-MICO is a Hip-Hop and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Débris, Tokyo on Sat, 10 Oct 2026.
+MICO is a Hip-Hop and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Débris, Tokyo on Sat, 10 Oct 2026.
 
 MICO is a hip-hop and amapiano artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside HIKARU, LoversOnly and nosuke. Next up: Débris, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ MICO is a hip-hop and amapiano artist based in Japan, with 49 gigs on soundcheck
 
 HIKARU, LoversOnly, nosuke
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mico/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mico/)*

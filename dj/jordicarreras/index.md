@@ -1,6 +1,6 @@
 # Jordi Carreras
 
-Jordi Carreras is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 31 Oct 2026.
+Jordi Carreras is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 31 Oct 2026.
 
 Jordi Carreras is a funk / soul and disco artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside Family Matters. Next up: BORIS CLUB, Barcelona on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Jordi Carreras is a funk / soul and disco artist based in Spain, with 7 gigs on 
 
 Family Matters
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicarreras/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicarreras/)*

@@ -1,6 +1,6 @@
 # UNER
 
-UNER is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Sat, 3 Oct 2026.
+UNER is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sat, 3 Oct 2026.
 
 UNER is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Sergio Bifeis, David Ponziano and GIVIO. Next up: Macarena Club, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ UNER is a house and electronica artist based in Spain, with 14 gigs on soundchec
 
 Sergio Bifeis, David Ponziano, GIVIO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*

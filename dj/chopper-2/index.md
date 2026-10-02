@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Hull, North on Sat, 3 Oct 2026.
+Chopper (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hull, North on Sat, 3 Oct 2026.
 
 Chopper (UK) is a house and tech house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Ibiza and 8 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: Void Hull, North on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Chopper (UK) is a house and tech house artist based in United Kingdom, with 58 g
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

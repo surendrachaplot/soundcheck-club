@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+bullet tooth is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
 bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

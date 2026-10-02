@@ -1,6 +1,6 @@
 # Milan W.
 
-Milan W. is a Pop and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Milan W. is a Pop and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Milan W. is a pop and post-punk artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 13 more. Often billed alongside DJ Firmeza, DJ Nigga Fox and Dj Danifox. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Milan W. is a pop and post-punk artist based in Belgium, with 22 gigs on soundch
 
 DJ Firmeza, DJ Nigga Fox, Dj Danifox
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanw/)*

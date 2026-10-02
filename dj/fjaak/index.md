@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 FJAAK is a techno and house artist based in Germany, with 269 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -36,4 +36,4 @@ FJAAK is a techno and house artist based in Germany, with 269 gigs on soundcheck
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

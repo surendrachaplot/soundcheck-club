@@ -1,8 +1,8 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+Mai iachetti is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
-Mai iachetti is a house and tech house artist based in United States of America, with 132 gigs on soundcheck across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
+Mai iachetti is a house and tech house artist based in United States of America, with 133 gigs on soundcheck across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mai iachetti is a house and tech house artist based in United States of America,
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 | Fri, 30 Oct 2026 | Green Room NYC | New York City |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Mai iachetti is a house and tech house artist based in United States of America,
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

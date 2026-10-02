@@ -1,6 +1,6 @@
 # Dante T.
 
-Dante T. is a House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Paradise Now, Düsseldorf on Fri, 2 Oct 2026.
+Dante T. is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Paradise Now, Düsseldorf on Fri, 2 Oct 2026.
 
 Dante T. is a house artist, with 4 gigs on soundcheck across Cologne, Düsseldorf and Ibiza. Often billed alongside Afshin Momadi, Caiiro and Da Capo. Next up: The Paradise Now, Düsseldorf on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Dante T. is a house artist, with 4 gigs on soundcheck across Cologne, Düsseldor
 
 Afshin Momadi, Caiiro, Da Capo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantet./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantet./)*

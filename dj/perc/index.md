@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Perc is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Perc is a techno and industrial artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Ansome, Somniac One and DAX J. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Perc is a techno and industrial artist based in United Kingdom, with 161 gigs on
 
 Ansome, Somniac One, DAX J
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

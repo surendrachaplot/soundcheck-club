@@ -1,6 +1,6 @@
 # Silven
 
-Silven is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Fri, 13 Nov 2026.
+Silven is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madam, Amsterdam on Fri, 13 Nov 2026.
 
 Silven is a tech house and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Luca Brandse, DonTom and Affani. Next up: Madam, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Silven is a tech house and house artist based in Netherlands, with 17 gigs on so
 
 Luca Brandse, DonTom, Affani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silven/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silven/)*

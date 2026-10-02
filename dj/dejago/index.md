@@ -1,6 +1,6 @@
 # Dejago
 
-Dejago is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Romantica, Stuttgart on Fri, 2 Oct 2026.
+Dejago is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantica, Stuttgart on Fri, 2 Oct 2026.
 
 Dejago is a house and techno artist based in Germany, with 15 gigs on soundcheck across Stuttgart. Often billed alongside Marius Lehnert, Miss Evoice and Jakob Mäder. Next up: Romantica, Stuttgart on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dejago is a house and techno artist based in Germany, with 15 gigs on soundcheck
 
 Marius Lehnert, Miss Evoice, Jakob Mäder
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dejago/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dejago/)*

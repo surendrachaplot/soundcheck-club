@@ -1,6 +1,6 @@
 # Timeless Moments
 
-Timeless Moments is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Frau Holle, Hamburg on Fri, 2 Oct 2026.
+Timeless Moments is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Frau Holle, Hamburg on Fri, 2 Oct 2026.
 
 Timeless Moments is a techno and house artist based in Germany, with 24 gigs on soundcheck across Hamburg. Often billed alongside DAVIDE, SAIDEX and Cosmokat. Next up: Club Frau Holle, Hamburg on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Timeless Moments is a techno and house artist based in Germany, with 24 gigs on 
 
 DAVIDE (2), SAIDEX, Cosmokat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timelessmoments/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timelessmoments/)*

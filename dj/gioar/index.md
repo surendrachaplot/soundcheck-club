@@ -1,6 +1,6 @@
 # GIO (AR)
 
-GIO (AR) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+GIO (AR) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 GIO (AR) is a house and afro house artist based in Ecuador, with 14 gigs on soundcheck across Athens, Berlin, Buenos Aires and New York City and 5 more. Often billed alongside 10000 (CN), 2cute2destroy and AAT (NL). Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ GIO (AR) is a house and afro house artist based in Ecuador, with 14 gigs on soun
 
 10000 (CN), 2cute2destroy, AAT (NL)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioar/)*

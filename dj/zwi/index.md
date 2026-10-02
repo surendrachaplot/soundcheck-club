@@ -1,6 +1,6 @@
 # Zwi
 
-Zwi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
+Zwi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unmute, Hanoi on Fri, 16 Oct 2026.
 
 Zwi is a house and techno artist based in Russia, with 16 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 3 more. Often billed alongside JAKRIN, Jesse You and Jimin. Next up: Unmute, Hanoi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Zwi is a house and techno artist based in Russia, with 16 gigs on soundcheck acr
 
 JAKRIN, Jesse You, Jimin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*

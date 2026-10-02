@@ -1,6 +1,6 @@
 # Sweely
 
-Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 9 Oct 2026.
+Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 9 Oct 2026.
 
 Sweely is a house and techno artist based in France, with 177 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: Les Enfants Brillants, Barcelona on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Sweely is a house and techno artist based in France, with 177 gigs on soundcheck
 
 Enzo Siragusa, The Ghost, Traumer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

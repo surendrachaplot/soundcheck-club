@@ -1,6 +1,6 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+DJ Rolando is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 DJ Rolando is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 13 more. Often billed alongside Gerd Janson, James Ruskin and Lakuti. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ DJ Rolando is a techno and house artist based in United States of America, with 
 
 Gerd Janson, James Ruskin, Lakuti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

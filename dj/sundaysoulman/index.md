@@ -1,6 +1,6 @@
 # Sunday Soulman
 
-Sunday Soulman is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun, 25 Oct 2026.
+Sunday Soulman is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun, 25 Oct 2026.
 
 Sunday Soulman is a house and deep house artist based in Greece, with 17 gigs on soundcheck across Amsterdam and Athens. Often billed alongside charuso, PEDRIK and Aphroditeé. Next up: TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Sunday Soulman is a house and deep house artist based in Greece, with 17 gigs on
 
 charuso, PEDRIK, Aphroditeé
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaysoulman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaysoulman/)*

@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Complice x Loophole — INTERSTICE (Berlin)" on Thu, 1 Oct 2026.
+ÆDEN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV" on Fri, 2 Oct 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE (Berlin) | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
 | Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, The Camel, Vaccaro |
 | Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
@@ -18,9 +17,10 @@
 | Fri, 23 Oct 2026 | BPM 3-Year-Anniversary with Caniche, Ketarina, no.name, DJ ORDNUNGSAMT | Caniche, DJ ORDNUNGSAMT, G4F4RØU, KOIA (2), Ketarina, SSXXCH, Thielking, Zelyna je Belle, no.name (IT), sterni (DE) |
 | Sat, 24 Oct 2026 | silikon with Bae Blade, HANAA, ELOISA, Maudux | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
 | Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
+| Sat, 31 Oct 2026 | Cuddles Halloween | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

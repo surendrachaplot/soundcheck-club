@@ -1,6 +1,6 @@
 # AGA2L
 
-AGA2L is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Fri, 2 Oct 2026.
+AGA2L is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Turbina, Budapest on Fri, 2 Oct 2026.
 
 AGA2L is a techno and trance artist based in Hungary, with 102 gigs on soundcheck across Belgrade and Budapest. Often billed alongside Indirect Movement, Mankind and Cvrdwell. Next up: Turbina, Budapest on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ AGA2L is a techno and trance artist based in Hungary, with 102 gigs on soundchec
 
 Indirect Movement, Mankind, Cvrdwell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aga2l/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aga2l/)*

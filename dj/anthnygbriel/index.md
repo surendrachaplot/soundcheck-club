@@ -1,6 +1,6 @@
 # ANTHNY GBRIEL
 
-ANTHNY GBRIEL is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+ANTHNY GBRIEL is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
 
 ANTHNY GBRIEL is a house and reggaeton artist based in United States of America, with 9 gigs on soundcheck across Los Angeles. Often billed alongside baby.com, Alxander Ivey and Chloëdees. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ANTHNY GBRIEL is a house and reggaeton artist based in United States of America,
 
 baby.com, Alxander Ivey, Chloëdees
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthnygbriel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthnygbriel/)*

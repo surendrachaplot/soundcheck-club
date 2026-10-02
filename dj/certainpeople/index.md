@@ -1,6 +1,6 @@
 # Certain People
 
-Certain People is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Core, Madrid on Fri, 2 Oct 2026.
+Certain People is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Core, Madrid on Fri, 2 Oct 2026.
 
 Certain People is an electronica and house artist based in Spain, with 61 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Core, Madrid on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Certain People is an electronica and house artist based in Spain, with 61 gigs o
 
 Fuentes-Guerra, Javi Redondo, Emi Koto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*

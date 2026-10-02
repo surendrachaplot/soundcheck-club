@@ -1,6 +1,6 @@
 # Marcelina Wick
 
-Marcelina Wick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 9 Oct 2026.
+Marcelina Wick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 9 Oct 2026.
 
 Marcelina Wick is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 8 more. Often billed alongside Marcelina, B.AI and Localist. Next up: The Bunker @ The Rolling Stock, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Marcelina Wick is a house and techno artist based in United Kingdom, with 40 gig
 
 Marcelina, B.AI, Localist
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelinawick/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelinawick/)*

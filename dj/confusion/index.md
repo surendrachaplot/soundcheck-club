@@ -1,6 +1,6 @@
 # Confusion
 
-Confusion is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 3 Oct 2026.
+Confusion is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 3 Oct 2026.
 
 Confusion is a techno and minimal techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 4 more. Often billed alongside Nastaran, CAIVA and Nortsch. Next up: Tokonoma Club, Frankfurt on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Confusion is a techno and minimal techno artist based in Germany, with 20 gigs o
 
 Nastaran, CAIVA, Nortsch
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*

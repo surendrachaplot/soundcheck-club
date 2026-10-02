@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
+Cormac is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
 
 Cormac is a house and techno artist, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Yamamori Tengu, Dublin on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Cormac is a house and techno artist, with 182 gigs on soundcheck across Amsterda
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

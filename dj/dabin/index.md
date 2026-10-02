@@ -1,6 +1,6 @@
 # Dabin
 
-Dabin is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+Dabin is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
 Dabin is a jungle and garage artist based in South Korea, with 39 gigs on soundcheck across Austin, Boston, Los Angeles and New Orleans and 5 more. Often billed alongside Shins, Surge and Virion. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Dabin is a jungle and garage artist based in South Korea, with 39 gigs on soundc
 
 Shins, Surge, Virion
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*

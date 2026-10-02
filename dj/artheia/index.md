@@ -1,6 +1,6 @@
 # Artheia
 
-Artheia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+Artheia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 Artheia is a techno and house artist, with 15 gigs on soundcheck across Finland and Helsinki. Often billed alongside Martin K4rma, AKITEK and Don Taco. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Artheia is a techno and house artist, with 15 gigs on soundcheck across Finland 
 
 Martin K4rma, AKITEK, Don Taco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artheia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artheia/)*

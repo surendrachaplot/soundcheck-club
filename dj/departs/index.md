@@ -1,6 +1,6 @@
 # Departs
 
-Departs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flac, Seoul on Sun, 4 Oct 2026.
+Departs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Flac, Seoul on Sun, 4 Oct 2026.
 
 Departs is a tech house and house artist based in South Korea, with 64 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Davico, Sudowoo and Demuk. Next up: Flac, Seoul on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Departs is a tech house and house artist based in South Korea, with 64 gigs on s
 
 Davico, Sudowoo, Demuk
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/departs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/departs/)*

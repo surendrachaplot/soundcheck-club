@@ -1,6 +1,6 @@
 # LANSUH
 
-LANSUH is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 17 Oct 2026.
+LANSUH is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Sat, 17 Oct 2026.
 
 LANSUH is a house and disco artist based in United States of America, with 52 gigs on soundcheck across Detroit, Mexico City and New York City. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: Paragon, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LANSUH is a house and disco artist based in United States of America, with 52 gi
 
 Jay Dalawa, Alcantara, Gabriel Etrata
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*

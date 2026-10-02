@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
+Robin Ordell is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
 Robin Ordell is a house and minimal artist based in France, with 47 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Robin Ordell is a house and minimal artist based in France, with 47 gigs on soun
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

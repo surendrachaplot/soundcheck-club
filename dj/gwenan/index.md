@@ -1,6 +1,6 @@
 # Gwenan
 
-Gwenan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at feedbk, New York City on Sat, 3 Oct 2026.
+Gwenan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at feedbk, New York City on Sat, 3 Oct 2026.
 
 Gwenan is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: feedbk, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Gwenan is a house and techno artist based in United Kingdom, with 91 gigs on sou
 
 Eli Verveine, Joe Delon, Vera
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenan/)*

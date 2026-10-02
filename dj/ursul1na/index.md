@@ -1,6 +1,6 @@
 # URSU L1NA
 
-URSU L1NA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
+URSU L1NA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
 
 URSU L1NA is a club and techno artist, with 9 gigs on soundcheck across Madrid and Valencia. Often billed alongside Atrâm, FAG HAG and Ghidra. Next up: Barraca, Valencia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ URSU L1NA is a club and techno artist, with 9 gigs on soundcheck across Madrid a
 
 Atrâm, FAG HAG, Ghidra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursul1na/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursul1na/)*

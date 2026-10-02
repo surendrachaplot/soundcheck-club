@@ -1,6 +1,6 @@
 # Wodda
 
-Wodda is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Wodda is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Wodda is a house and garage artist based in United Kingdom, with 61 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: Shelter Amsterdam, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Wodda is a house and garage artist based in United Kingdom, with 61 gigs on soun
 
 Locky, Just Jam, ADMNTi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*

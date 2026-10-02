@@ -1,6 +1,6 @@
 # Exkursion
 
-Exkursion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kauz, Zurich on Sat, 10 Oct 2026.
+Exkursion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Sat, 10 Oct 2026.
 
 Exkursion is a garage and house artist based in Switzerland, with 23 gigs on soundcheck across Berlin, Brussels, Lyon and Zurich. Often billed alongside Sanctus Libido, Das Firmament and Bonnie OK. Next up: Kauz, Zurich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Exkursion is a garage and house artist based in Switzerland, with 23 gigs on sou
 
 Sanctus Libido, Das Firmament, Bonnie OK
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*

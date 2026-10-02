@@ -1,6 +1,6 @@
 # Nicole Spagnol
 
-Nicole Spagnol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Electric Garden, Dublin on Sat, 17 Oct 2026.
+Nicole Spagnol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Electric Garden, Dublin on Sat, 17 Oct 2026.
 
 Nicole Spagnol is a house and tech house artist based in Brazil, with 43 gigs on soundcheck across Dublin and Galway. Often billed alongside Soulnezz, SOUZAC and Cam Roberts. Next up: Electric Garden, Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nicole Spagnol is a house and tech house artist based in Brazil, with 43 gigs on
 
 Soulnezz, SOUZAC, Cam Roberts
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolespagnol/)*

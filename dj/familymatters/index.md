@@ -1,6 +1,6 @@
 # Family Matters
 
-Family Matters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacré, Paris on Fri, 30 Oct 2026.
+Family Matters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacré, Paris on Fri, 30 Oct 2026.
 
 Family Matters is a house and techno artist based in Spain, with 31 gigs on soundcheck across Barcelona, Copenhagen, Lyon and Madrid and 1 more. Often billed alongside Perro Jimbo, Clap Kent and Lydia Vilas. Next up: Sacré, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Family Matters is a house and techno artist based in Spain, with 31 gigs on soun
 
 Perro Jimbo, Clap Kent, Lydia Vilas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/familymatters/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/familymatters/)*

@@ -1,6 +1,6 @@
 # F!NN
 
-F!NN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+F!NN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
 F!NN is a techno and house artist based in Germany, with 10 gigs on soundcheck across Hamburg and Melbourne. Often billed alongside Cornyjava, Limpid and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ F!NN is a techno and house artist based in Germany, with 10 gigs on soundcheck a
 
 Cornyjava, Limpid, EXPLICIT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f!nn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f!nn/)*

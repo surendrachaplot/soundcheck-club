@@ -1,6 +1,6 @@
 # DJ KETAFLUSH
 
-DJ KETAFLUSH is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+DJ KETAFLUSH is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 DJ KETAFLUSH is an electronic artist based in Spain, with 11 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Speare, Rosecut and Doppelganger. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ KETAFLUSH is an electronic artist based in Spain, with 11 gigs on soundcheck 
 
 Speare, Rosecut, Doppelganger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djketaflush/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djketaflush/)*

@@ -1,6 +1,6 @@
 # Horsepower Productions
 
-Horsepower Productions is a Dubstep and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Romantso, Athens on Sat, 3 Oct 2026.
+Horsepower Productions is a Dubstep and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantso, Athens on Sat, 3 Oct 2026.
 
 Horsepower Productions is a dubstep and jungle artist based in United Kingdom, with 22 gigs on soundcheck across Athens, Berlin, Bristol and Leeds and 4 more. Often billed alongside Benny Ill, SGT Pokes and Carré. Next up: Romantso, Athens on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Horsepower Productions is a dubstep and jungle artist based in United Kingdom, w
 
 Benny Ill, SGT Pokes, Carré
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsepowerproductions/)*

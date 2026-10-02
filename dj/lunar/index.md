@@ -1,6 +1,6 @@
 # LUNAR
 
-LUNAR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+LUNAR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 LUNAR is a techno and hardcore artist based in Venezuela, with 12 gigs on soundcheck across Barcelona, North and Paris. Often billed alongside JOLY, KØDAK and NHYMPH. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ LUNAR is a techno and hardcore artist based in Venezuela, with 12 gigs on soundc
 
 JOLY, KØDAK, NHYMPH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunar/)*

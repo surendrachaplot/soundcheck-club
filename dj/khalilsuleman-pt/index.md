@@ -1,6 +1,6 @@
 # Khalil Suleman
 
-Khalil Suleman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
+Khalil Suleman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
 
 Khalil Suleman is a house and techno artist based in Portugal, with 51 gigs on soundcheck across Lisbon and Porto. Often billed alongside XCI, Switchdance and Mike Stellar. Next up: Village Underground Lisboa, Lisbon on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Khalil Suleman is a house and techno artist based in Portugal, with 51 gigs on s
 
 XCI, Switchdance, Mike Stellar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khalilsuleman-pt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khalilsuleman-pt/)*

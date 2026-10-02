@@ -1,6 +1,6 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Sam Divine is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Sam Divine is a house and tech house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Low Steppa, Arielle Free and Lowsteppa. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -9,7 +9,6 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 178 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
@@ -20,20 +19,21 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 178 gi
 | Sat, 28 Nov 2026 | The Mothership | Auckland |
 | Sat, 28 Nov 2026 | The Mothership | Auckland |
 | Fri, 4 Dec 2026 | Savaya Bali | Bali |
+| Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
+- Chinois Ibiza, Ibiza · Thu, 1 Oct 2026
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - Joshua Brooks, Manchester · Fri, 11 Sept 2026
 - TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 3 Sept 2026
 - [UNVRS], Ibiza · Sat, 8 Aug 2026
-- Chinois Ibiza, Ibiza · Thu, 23 Jul 2026
-- 77, London · Fri, 17 Jul 2026
-- La Terrrazza, Barcelona · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Low Steppa, Arielle Free, Lowsteppa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

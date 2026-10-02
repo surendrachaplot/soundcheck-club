@@ -1,6 +1,6 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
+Lars Huismann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
 
 Lars Huismann is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Antwerp, Austin and Belgrade and 41 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: Tresor / Globus, Berlin on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Lars Huismann is a techno and house artist based in Germany, with 96 gigs on sou
 
 SHDW, Chontane, ANNĒ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

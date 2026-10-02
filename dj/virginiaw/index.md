@@ -1,6 +1,6 @@
 # Virginia W
 
-Virginia W is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Club, Milan on Fri, 2 Oct 2026.
+Virginia W is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Club, Milan on Fri, 2 Oct 2026.
 
 Virginia W is a club and experimental artist based in Italy, with 19 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside JOA (IT), MISTICA and 5299NOIR. Next up: Q Club, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Virginia W is a club and experimental artist based in Italy, with 19 gigs on sou
 
 JOA (IT), MISTICA, 5299NOIR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginiaw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginiaw/)*

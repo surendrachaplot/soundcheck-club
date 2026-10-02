@@ -1,6 +1,6 @@
 # OTG(1)
 
-OTG(1) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+OTG(1) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 OTG(1) is a trance and techno artist based in Germany, with 27 gigs on soundcheck across Berlin. Often billed alongside SaltySis, KLING&KLANG and KVLR. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ OTG(1) is a trance and techno artist based in Germany, with 27 gigs on soundchec
 
 SaltySis, KLING&KLANG, KVLR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otg-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otg-1/)*

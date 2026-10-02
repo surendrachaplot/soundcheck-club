@@ -1,14 +1,15 @@
 # Øostil
 
-Øostil is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Urbana, Mexico City on Sat, 31 Oct 2026.
+Øostil is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Urbana, Mexico City on Sat, 31 Oct 2026.
 
-Øostil is a techno and electronica artist based in Mexico, with 84 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Henri Bergmann, Mathame and The Element. Next up: Sala Urbana, Mexico City on Sat 31 Oct.
+Øostil is a techno and electronica artist based in Mexico, with 85 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Henri Bergmann, Mathame and The Element. Next up: Sala Urbana, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sala Urbana | Mexico City |
+| Wed, 4 Aug 2027 | TBA | Buenos-aires |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Henri Bergmann, Mathame, The Element
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oostil/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oostil/)*

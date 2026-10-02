@@ -1,6 +1,6 @@
 # INTERVALO
 
-INTERVALO is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+INTERVALO is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 INTERVALO is an electronica and techno artist based in Spain, with 10 gigs on soundcheck across Lisbon, Malaga and South. Often billed alongside Miguel Payda, Locati and Argia. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ INTERVALO is an electronica and techno artist based in Spain, with 10 gigs on so
 
 Miguel Payda, Locati, Argia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intervalo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intervalo/)*

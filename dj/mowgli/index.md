@@ -1,6 +1,6 @@
 # Mowgli
 
-Mowgli is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
+Mowgli is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
 
 Mowgli is a house and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, London, Manchester and Melbourne and 3 more. Often billed alongside Jordy G, Ami (UK) and Benny L. Next up: Time is the new space, Rotterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mowgli is a house and jungle artist based in United Kingdom, with 12 gigs on sou
 
 Jordy G, Ami (UK), Benny L
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli/)*

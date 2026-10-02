@@ -1,6 +1,6 @@
 # Nova Retra
 
-Nova Retra is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
+Nova Retra is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
 
 Nova Retra is a downtempo and house artist based in Egypt, with 15 gigs on soundcheck across Berlin, Lisbon, Naples and Stockholm. Often billed alongside Nibius, Oscar Faivre and Penelope. Next up: Lux Fragil, Lisbon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nova Retra is a downtempo and house artist based in Egypt, with 15 gigs on sound
 
 Nibius, Oscar Faivre, Penelope (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novaretra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novaretra/)*

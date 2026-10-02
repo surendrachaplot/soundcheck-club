@@ -1,6 +1,6 @@
 # Korosi
 
-Korosi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
+Korosi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
 
 Korosi is a house and minimal artist based in Hungary, with 30 gigs on soundcheck across Budapest. Often billed alongside Octile, Kernel and Robert Dobak. Next up: Atno, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Korosi is a house and minimal artist based in Hungary, with 30 gigs on soundchec
 
 Octile, Kernel, Robert Dobak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korosi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korosi/)*

@@ -1,6 +1,6 @@
 # sean pain
 
-sean pain is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
+sean pain is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
 
 sean pain is an experimental and club artist, with 12 gigs on soundcheck across London and Paris. Often billed alongside Capricorn, Lokey and Plesk Parallel. Next up: Vespers Club, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ sean pain is an experimental and club artist, with 12 gigs on soundcheck across 
 
 Capricorn, Lokey, Plesk Parallel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanpain/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanpain/)*

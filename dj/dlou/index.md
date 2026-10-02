@@ -1,6 +1,6 @@
 # DLOU
 
-DLOU is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lula Club, Madrid on Fri, 9 Oct 2026.
+DLOU is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lula Club, Madrid on Fri, 9 Oct 2026.
 
 DLOU is a tech house and house artist based in Spain, with 20 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Abdon, Freddy Bello and Tini Gessler. Next up: Lula Club, Madrid on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DLOU is a tech house and house artist based in Spain, with 20 gigs on soundcheck
 
 Abdon, Freddy Bello, Tini Gessler
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*

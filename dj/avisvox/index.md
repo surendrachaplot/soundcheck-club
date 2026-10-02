@@ -1,6 +1,6 @@
 # Avis Vox
 
-Avis Vox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lagerwal, Amsterdam on Sat, 3 Oct 2026.
+Avis Vox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lagerwal, Amsterdam on Sat, 3 Oct 2026.
 
 Avis Vox is a techno and house artist, with 18 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 6 more. Often billed alongside Innellea, Aves Volare and Swen Baez. Next up: Lagerwal, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Avis Vox is a techno and house artist, with 18 gigs on soundcheck across Amsterd
 
 Innellea, Aves Volare, Swen Baez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avisvox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avisvox/)*

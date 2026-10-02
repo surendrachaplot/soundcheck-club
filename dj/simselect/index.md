@@ -1,8 +1,8 @@
 # Sim Select
 
-Sim Select is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Sim Select is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-Sim Select is a techno and house artist, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, DAYZZI and Tokyo Sexwale. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+Sim Select is a techno and house artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, DAYZZI and Tokyo Sexwale. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sim Select is a techno and house artist, with 31 gigs on soundcheck across Melbo
 
 Bouki, DAYZZI, Tokyo Sexwale
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simselect/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simselect/)*

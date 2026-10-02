@@ -1,6 +1,6 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Eskha is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Eskha is a techno and trance artist based in France, with 51 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 9 more. Often billed alongside Kichta, 1luu and Aureb. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Eskha is a techno and trance artist based in France, with 51 gigs on soundcheck 
 
 Kichta, 1luu, Aureb
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*

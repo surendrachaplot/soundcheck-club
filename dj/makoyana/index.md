@@ -1,6 +1,6 @@
 # Makoyana
 
-Makoyana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+Makoyana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 Makoyana is a house and tech house artist based in Australia, with 20 gigs on soundcheck across Melbourne and Shanghai. Often billed alongside DJ Possum, ADMINISTRATOR and Amphi. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Makoyana is a house and tech house artist based in Australia, with 20 gigs on so
 
 DJ Possum, ADMINISTRATOR, Amphi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makoyana/)*

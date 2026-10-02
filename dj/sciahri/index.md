@@ -1,6 +1,6 @@
 # Sciahri
 
-Sciahri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SMUT Athens, Athens on Sat, 3 Oct 2026.
+Sciahri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SMUT Athens, Athens on Sat, 3 Oct 2026.
 
 Sciahri is a techno and house artist based in Italy, with 34 gigs on soundcheck across Athens, Barcelona, Berlin and Leipzig and 11 more. Often billed alongside Wizard K, ARMANDO and Aniaef. Next up: SMUT Athens, Athens on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sciahri is a techno and house artist based in Italy, with 34 gigs on soundcheck 
 
 Wizard K, ARMANDO, Aniaef
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

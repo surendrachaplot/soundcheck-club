@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+The Rocketman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
 The Rocketman is a techno and trance artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 20 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: SWG3, Glasgow on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ The Rocketman is a techno and trance artist based in Netherlands, with 40 gigs o
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

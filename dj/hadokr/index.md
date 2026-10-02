@@ -1,6 +1,6 @@
 # HADO (KR)
 
-HADO (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
+HADO (KR) is a Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
 
 HADO (KR) is a club artist based in South Korea, with 28 gigs on soundcheck across Seoul and South Korea. Often billed alongside TERRA (KR), H93 (KR) and AVEN (KR). Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ HADO (KR) is a club artist based in South Korea, with 28 gigs on soundcheck acro
 
 TERRA (KR), H93 (KR), AVEN (KR)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadokr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadokr/)*

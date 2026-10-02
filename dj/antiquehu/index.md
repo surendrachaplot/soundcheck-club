@@ -1,6 +1,6 @@
 # Antique (HU)
 
-Antique (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 3 Oct 2026.
+Antique (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 3 Oct 2026.
 
 Antique (HU) is a house and tech house artist based in Hungary, with 40 gigs on soundcheck across Budapest. Often billed alongside T:MANIAK, Spanti and TAMAS SZABO. Next up: Óbuda Bay, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Antique (HU) is a house and tech house artist based in Hungary, with 40 gigs on 
 
 T:MANIAK, Spanti, TAMAS SZABO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*

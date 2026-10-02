@@ -1,6 +1,6 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Vinyl, Denver on Fri, 2 Oct 2026.
+Ahadadream is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vinyl, Denver on Fri, 2 Oct 2026.
 
 Ahadadream is a house and techno artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 41 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Club Vinyl, Denver on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Ahadadream is a house and techno artist based in United Kingdom, with 117 gigs o
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

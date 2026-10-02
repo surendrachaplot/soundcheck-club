@@ -1,6 +1,6 @@
 # Rita Maomenos
 
-Rita Maomenos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
+Rita Maomenos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
 
 Rita Maomenos is a techno and electro artist, with 35 gigs on soundcheck across Amsterdam, Lisbon, Madrid and Porto and 3 more. Often billed alongside Amulador, Afra and AlesaDJ. Next up: Ministerium Club, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rita Maomenos is a techno and electro artist, with 35 gigs on soundcheck across 
 
 Amulador, Afra, AlesaDJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritamaomenos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritamaomenos/)*

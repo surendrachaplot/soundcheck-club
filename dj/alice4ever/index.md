@@ -1,6 +1,6 @@
 # Alice 4Ever
 
-Alice 4Ever is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KEPK, Brisbane on Sat, 3 Oct 2026.
+Alice 4Ever is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KEPK, Brisbane on Sat, 3 Oct 2026.
 
 Alice 4Ever is an experimental and idm artist based in Australia, with 8 gigs on soundcheck across Auckland, Brisbane and Sydney. Often billed alongside Gunderman, LANDFILL and Toiling. Next up: KEPK, Brisbane on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Alice 4Ever is an experimental and idm artist based in Australia, with 8 gigs on
 
 Gunderman, LANDFILL, Toiling
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alice4ever/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alice4ever/)*

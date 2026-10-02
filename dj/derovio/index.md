@@ -1,6 +1,6 @@
 # Derovio
 
-Derovio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
+Derovio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
 
 Derovio is a house and techno artist based in Spain, with 43 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Adrian Grösser, Brizas and CLANDESTINE. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Derovio is a house and techno artist based in Spain, with 43 gigs on soundcheck 
 
 Adrian Grösser, Brizas, CLANDESTINE (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derovio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derovio/)*

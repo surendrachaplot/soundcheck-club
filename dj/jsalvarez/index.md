@@ -1,6 +1,6 @@
 # JS Alvarez
 
-JS Alvarez is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+JS Alvarez is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
 JS Alvarez is a techno and electro artist based in United States of America, with 45 gigs on soundcheck across Chicago, Denver, Detroit and New York City and 2 more. Often billed alongside Makeen, Shanti and Dan B Hood. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ JS Alvarez is a techno and electro artist based in United States of America, wit
 
 Makeen, Shanti, Dan B Hood
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*

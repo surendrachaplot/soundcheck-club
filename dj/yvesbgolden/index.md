@@ -1,6 +1,6 @@
 # Yves B Golden
 
-Yves B Golden is a Experimental and Classical artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
+Yves B Golden is a Experimental and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
 
 Yves B Golden is an experimental and classical artist based in United States of America, with 10 gigs on soundcheck across Berlin, New York City and Utrecht. Often billed alongside Ludwig Wandinger, ARAKAZA and Alex Savage. Next up: BASIS, Utrecht on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Yves B Golden is an experimental and classical artist based in United States of 
 
 Ludwig Wandinger, ARAKAZA, Alex Savage
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesbgolden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesbgolden/)*

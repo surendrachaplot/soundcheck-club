@@ -1,6 +1,6 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+Leviminks is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 Leviminks is a techno and ebm artist based in United Kingdom, with 26 gigs on soundcheck across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Ricardo Castro. Next up: Omeara, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Leviminks is a techno and ebm artist based in United Kingdom, with 26 gigs on so
 
 Arrosa, LIZAZA, Ricardo Castro
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*

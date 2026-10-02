@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kinder Rave x BOSSA FM - Berlin" on Sun, 4 Oct 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Kinder Rave x BOSSA FM - Berlin" on Sun, 4 Oct 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Absolute Body Control, Claudia Kane, LAVION and Mercúrio Gótico and 2 more. See dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -17,4 +17,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 4 upcoming g
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

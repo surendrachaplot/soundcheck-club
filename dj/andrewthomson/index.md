@@ -1,6 +1,6 @@
 # Andrew Thomson
 
-Andrew Thomson is a Acid and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 11 Oct 2026.
+Andrew Thomson is a Acid and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 11 Oct 2026.
 
 Andrew Thomson is an acid and club artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Glasgow, Lisbon and London and 1 more. Often billed alongside Heatsick, VANYA and Isa Gordon. Next up: Doublet Bar, Glasgow on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Andrew Thomson is an acid and club artist based in United Kingdom, with 28 gigs 
 
 Heatsick, VANYA, Isa Gordon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewthomson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewthomson/)*

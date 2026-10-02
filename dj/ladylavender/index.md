@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Echostage, Washington DC on Fri, 2 Oct 2026.
+lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Echostage, Washington DC on Fri, 2 Oct 2026.
 
 lady lavender is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Austin, New York City, Philadelphia and Washington DC. Often billed alongside Jacq Jill, Kenny M and Mrs. Qbert. Next up: Echostage, Washington DC on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ lady lavender is a house and techno artist based in United States of America, wi
 
 Jacq Jill, Kenny M, Mrs. Qbert
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

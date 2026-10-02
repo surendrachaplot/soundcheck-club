@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Alexia Glensy is a house and techno artist based in Brazil, with 169 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 34 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -32,4 +32,4 @@ Alexia Glensy is a house and techno artist based in Brazil, with 169 gigs on sou
 
 Alex Dima, Gabbs, Cap
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

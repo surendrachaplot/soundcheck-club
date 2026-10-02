@@ -1,6 +1,6 @@
 # Royal-T
 
-Royal-T is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 13 Nov 2026.
+Royal-T is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 13 Nov 2026.
 
 Royal-T is a garage and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Leeds, London and Osaka and 4 more. Often billed alongside DJ Q, Flava D and TQD. Next up: fabric, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Royal-T is a garage and drum & bass artist based in United Kingdom, with 15 gigs
 
 DJ Q, Flava D, TQD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royal-t/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royal-t/)*

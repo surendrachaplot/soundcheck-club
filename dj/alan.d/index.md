@@ -1,6 +1,6 @@
 # Alan.D
 
-Alan.D is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM Town, Nantes on Sat, 10 Oct 2026.
+Alan.D is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM Town, Nantes on Sat, 10 Oct 2026.
 
 Alan.D is a house and deep house artist based in France, with 54 gigs on soundcheck across Bangkok, Lyon, Nantes and Paris. Often billed alongside C.H.I.C.H.I., Crowd Control and Jazzie C. Next up: OHM Town, Nantes on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alan.D is a house and deep house artist based in France, with 54 gigs on soundch
 
 C.H.I.C.H.I., Crowd Control, Jazzie C
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alan.d/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alan.d/)*

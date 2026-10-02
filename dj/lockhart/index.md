@@ -1,6 +1,6 @@
 # Lockhart
 
-Lockhart is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
+Lockhart is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
 
 Lockhart is a techno and experimental artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, Bristol, Leipzig and London and 3 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: Teritorija, Riga on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lockhart is a techno and experimental artist based in United Kingdom, with 43 gi
 
 Voicedrone, Alba Heidari, James Newmarch
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*

@@ -1,6 +1,6 @@
 # Iffie
 
-Iffie is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Commune Athens, Greece on Sat, 3 Oct 2026.
+Iffie is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Commune Athens, Greece on Sat, 3 Oct 2026.
 
 Iffie is a techno artist based in Greece, with 11 gigs on soundcheck across Athens, Berlin and Greece. Often billed alongside XDB, a.metz and 3AM (GE). Next up: Commune Athens, Greece on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Iffie is a techno artist based in Greece, with 11 gigs on soundcheck across Athe
 
 XDB, a.metz, 3AM (GE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffie/)*

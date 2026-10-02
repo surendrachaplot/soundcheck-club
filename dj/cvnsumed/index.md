@@ -1,6 +1,6 @@
 # CVNSUMED
 
-CVNSUMED is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unité.22, Marseille on Fri, 2 Oct 2026.
+CVNSUMED is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unité.22, Marseille on Fri, 2 Oct 2026.
 
 CVNSUMED is a techno and hardcore artist based in France, with 15 gigs on soundcheck across Barcelona, Berlin, Brussels and Ghent and 6 more. Often billed alongside Öspiel, Ey.rah and Znzl. Next up: Unité.22, Marseille on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CVNSUMED is a techno and hardcore artist based in France, with 15 gigs on soundc
 
 Öspiel, Ey.rah, Znzl
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*

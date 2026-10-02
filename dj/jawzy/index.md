@@ -1,6 +1,6 @@
 # Jawzy
 
-Jawzy is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+Jawzy is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
 Jawzy is an afro house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across Birmingham and London. Often billed alongside Shenin Amara, Mark Radford and DJ S (UK). Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jawzy is an afro house and deep house artist based in United Kingdom, with 27 gi
 
 Shenin Amara, Mark Radford, DJ S (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawzy/)*

@@ -1,6 +1,6 @@
 # Toman
 
-Toman is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 10 Oct 2026.
+Toman is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 10 Oct 2026.
 
 Toman is a house and tech house artist based in Netherlands, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: The Penthouse Dubai, Dubai on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Toman is a house and tech house artist based in Netherlands, with 165 gigs on so
 
 ANOTR, Ben Sterling, CHRIS STASSY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

@@ -1,6 +1,6 @@
 # Trovarsi
 
-Trovarsi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Day of Show , Seattle on Sat, 3 Oct 2026.
+Trovarsi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Day of Show , Seattle on Sat, 3 Oct 2026.
 
 Trovarsi is a techno and acid artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 8 more. Often billed alongside ALX-106, 92Jelani and David Castellani. Next up: TBA - Day of Show , Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Trovarsi is a techno and acid artist based in United States of America, with 47 
 
 ALX-106, 92Jelani, David Castellani
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*

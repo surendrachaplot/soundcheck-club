@@ -1,6 +1,6 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
+Roxanne Roll is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
 
 Roxanne Roll is a disco and house artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 32 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Roxanne Roll is a disco and house artist based in United States of America, with
 
 Fleetmac Wood, Alex Oxley, Horror Hi-Fi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*

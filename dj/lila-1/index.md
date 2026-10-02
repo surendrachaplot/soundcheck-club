@@ -1,6 +1,6 @@
 # LILA (1)
 
-LILA (1) is a Broken Beat and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Fri, 6 Nov 2026.
+LILA (1) is a Broken Beat and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Fox and Firkin, London on Fri, 6 Nov 2026.
 
 LILA is a broken beat and uk funky artist based in United Kingdom, with 14 gigs on soundcheck across Leeds, Liverpool and London. Often billed alongside LORA S, blissy e and Beat Detective. Next up: The Fox and Firkin, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ LILA is a broken beat and uk funky artist based in United Kingdom, with 14 gigs 
 
 LORA S, blissy e, Beat Detective
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*

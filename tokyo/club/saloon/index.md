@@ -1,8 +1,8 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "解体新書 KTSNS x Primal x Synvision Sounds presents" on Fri, 2 Oct 2026.
+Saloon is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "解体新書 KTSNS x Primal x Synvision Sounds presents" on Fri, 2 Oct 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including 478, AJA, Akie and Albino Sound and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 478, AI, AJA and Akie and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Saloon is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with li
 | Fri, 16 Oct 2026 | GHETTO OPERA | 478 (1), Matt Lecler |
 | Thu, 22 Oct 2026 | TOTEM vol.4 | KEVIN KOFII |
 | Sat, 24 Oct 2026 | 帝 / MiKADO | Kanamemandala, MiG-25, Ryunosuke Urabe, Uich, YuWa, manato |
+| Thu, 29 Oct 2026 | GURUGURU | AI (10), Kotaro Shimizu, Mareena, Olevv |
 | Sat, 31 Oct 2026 |  ENiGMA feat. T.NO | MoEPiKA, Pine, Romy Mats, S.H.V, T.NO, TAKENOKO, YUVIE |
-| Sat, 14 Nov 2026 | Strict City × SUN AND BASS | Fonts, Velocity, Zusan (3), arpxp |
 
 ## Address
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

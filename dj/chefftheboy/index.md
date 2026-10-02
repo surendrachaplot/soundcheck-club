@@ -1,6 +1,6 @@
 # Cheff The Boy
 
-Cheff The Boy is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Cheff The Boy is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Cheff The Boy is a jungle and drum & bass artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Dundee, Leeds and Liverpool and 3 more. Often billed alongside Fez the Kid, Artificial Red and Betsy Mae. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Cheff The Boy is a jungle and drum & bass artist based in United Kingdom, with 2
 
 Fez the Kid, Artificial Red, Betsy Mae
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chefftheboy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chefftheboy/)*

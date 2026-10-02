@@ -1,6 +1,6 @@
 # Bondarük
 
-Bondarük is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
+Bondarük is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
 Bondarük is a techno and trance artist based in Argentina, with 20 gigs on soundcheck across Buenos Aires. Often billed alongside SMT, HERS and JXXXO. Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Bondarük is a techno and trance artist based in Argentina, with 20 gigs on soun
 
 SMT (2), HERS, JXXXO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondaruk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondaruk/)*

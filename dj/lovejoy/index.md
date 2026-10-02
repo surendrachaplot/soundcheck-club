@@ -1,6 +1,6 @@
 # Lovejoy
 
-Lovejoy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
+Lovejoy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
 
 Lovejoy is a techno and trance artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Sydney. Often billed alongside DJ Smoker, Andy Barton and LAZLO. Next up: The Berkeley Suite, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lovejoy is a techno and trance artist based in United Kingdom, with 33 gigs on s
 
 DJ Smoker, Andy Barton, LAZLO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovejoy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovejoy/)*

@@ -1,6 +1,6 @@
 # Matta
 
-Matta is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Matta is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Matta is a breakbeat and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Madrid, Medellin, Mexico City and Miami and 2 more. Often billed alongside AISHA, ANNA and Afrojack. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Matta is a breakbeat and tech house artist based in United Kingdom, with 8 gigs 
 
 AISHA, ANNA, Afrojack
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matta/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matta/)*

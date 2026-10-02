@@ -1,6 +1,6 @@
 # Ruff (ES)
 
-Ruff (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Specka, Madrid on Fri, 9 Oct 2026.
+Ruff (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Specka, Madrid on Fri, 9 Oct 2026.
 
 Ruff (ES) is a techno and electronica artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Guest, ALONSO (ES) and Zarco. Next up: Specka, Madrid on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Ruff (ES) is a techno and electronica artist, with 7 gigs on soundcheck across M
 
 Guest, ALONSO (ES), Zarco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruff-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruff-es/)*

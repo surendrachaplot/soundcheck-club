@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss" on Fri, 2 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss" on Fri, 2 Oct 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Justine Perry, AEREA, Alfred Czital and ALI3N and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

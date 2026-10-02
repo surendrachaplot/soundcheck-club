@@ -1,6 +1,6 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Thu, 22 Oct 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Thu, 22 Oct 2026.
 
 Viktoria Spielmann is a techno and electronica artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside AEREA, DJ Cringey and DJ Hyperdrive. Next up: OST, Berlin on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 17 
 
 AEREA, DJ Cringey, DJ Hyperdrive
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

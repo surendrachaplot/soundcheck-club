@@ -1,6 +1,6 @@
 # Antilope
 
-Antilope is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 30 Oct 2026.
+Antilope is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 30 Oct 2026.
 
 Antilope is a house and techno artist based in Belgium, with 39 gigs on soundcheck across Lisbon and Porto. Often billed alongside Adam Purnell, DJ STRANGELOVE and EVGHENIIA. Next up: Ministerium Club, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Antilope is a house and techno artist based in Belgium, with 39 gigs on soundche
 
 Adam Purnell, DJ STRANGELOVE, EVGHENIIA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antilope/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antilope/)*

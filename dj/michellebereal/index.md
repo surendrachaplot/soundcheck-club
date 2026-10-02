@@ -1,6 +1,6 @@
 # Michelle Be Real
 
-Michelle Be Real is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spin, San Diego on Sat, 3 Oct 2026.
+Michelle Be Real is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spin, San Diego on Sat, 3 Oct 2026.
 
 Michelle Be Real is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside DJ IDeaL, Terry Jasinto and Harvard Bass. Next up: Spin, San Diego on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Michelle Be Real is a house and tech house artist based in United States of Amer
 
 DJ IDeaL, Terry Jasinto, Harvard Bass
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellebereal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellebereal/)*

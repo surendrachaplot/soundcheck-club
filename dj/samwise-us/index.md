@@ -1,6 +1,6 @@
 # Samwise (US)
 
-Samwise (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Fri, 2 Oct 2026.
+Samwise (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Fri, 2 Oct 2026.
 
 Samwise (US) is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Berlin, London, Los Angeles and New York City. Often billed alongside Carré, Seyer (UK) and Trax Unit. Next up: TBA, Los Angeles on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Samwise (US) is a techno and house artist based in United States of America, wit
 
 Carré, Seyer (UK), Trax Unit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-us/)*

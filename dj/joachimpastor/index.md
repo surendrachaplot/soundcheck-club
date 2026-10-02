@@ -1,14 +1,15 @@
 # Joachim Pastor
 
-Joachim Pastor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 2 Oct 2026.
+Joachim Pastor is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 2 Oct 2026.
 
-Joachim Pastor is a techno and house artist based in France, with 59 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Joris Delacroix, Teho and NTO. Next up: Akvárium Klub, Budapest on Fri 2 Oct.
+Joachim Pastor is a techno and house artist based in France, with 60 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Joris Delacroix, Teho and NTO. Next up: Akvárium Klub, Budapest on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Akvárium Klub | Budapest |
+| Fri, 20 Nov 2026 | D! Club | Lausanne |
 | Sat, 23 Jan 2027 | Het Sieraad | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Joachim Pastor is a techno and house artist based in France, with 59 gigs on sou
 
 Joris Delacroix, Teho, NTO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*

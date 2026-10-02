@@ -1,6 +1,6 @@
 # Carrier (Aus)
 
-Carrier (Aus) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bozar, Brussels on Thu, 17 Dec 2026.
+Carrier (Aus) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bozar, Brussels on Thu, 17 Dec 2026.
 
 Carrier (Aus) is a jungle and drum & bass artist based in Australia, with 6 gigs on soundcheck across Amsterdam, Brussels, Ghent and Melbourne. Often billed alongside A-Sides, AMORAL and Blawan. Next up: Bozar, Brussels on Thu 17 Dec.
 
@@ -22,4 +22,4 @@ Carrier (Aus) is a jungle and drum & bass artist based in Australia, with 6 gigs
 
 A-Sides, AMORAL, Blawan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier3/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier3/)*

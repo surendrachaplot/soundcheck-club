@@ -1,6 +1,6 @@
 # Davide Dev
 
-Davide Dev is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 9 Oct 2026.
+Davide Dev is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palais Mascotte, Zurich on Fri, 9 Oct 2026.
 
 Davide Dev is a house and disco artist based in Italy, with 20 gigs on soundcheck across Barcelona, Berlin, London and Milan and 4 more. Often billed alongside Kapote, Barbara Boeing and Eternal Love. Next up: Palais Mascotte, Zurich on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Davide Dev is a house and disco artist based in Italy, with 20 gigs on soundchec
 
 Kapote, Barbara Boeing, Eternal Love
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*

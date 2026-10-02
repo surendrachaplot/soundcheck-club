@@ -1,6 +1,6 @@
 # Jordan Hearns
 
-Jordan Hearns is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Sun, 11 Oct 2026.
+Jordan Hearns is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Sun, 11 Oct 2026.
 
 Jordan Hearns is a techno and house artist based in Ireland, with 14 gigs on soundcheck across Dublin and London. Often billed alongside Gadget & The Cloud, Daire Carolan and FAFF. Next up: radial, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Jordan Hearns is a techno and house artist based in Ireland, with 14 gigs on sou
 
 Gadget & The Cloud, Daire Carolan, FAFF
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanhearns/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanhearns/)*

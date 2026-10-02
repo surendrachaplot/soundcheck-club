@@ -1,6 +1,6 @@
 # Funkhaus Berlin
 
-Funkhaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PEOPLE Festival" on Sat, 10 Oct 2026.
+Funkhaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PEOPLE Festival" on Sat, 10 Oct 2026.
 
 Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Efterklang, Egopusher, Erlend Øye and Mouse On Mars and 1 more. See dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
 
@@ -15,4 +15,4 @@ Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs
 
 Nalepastraße 18, 12459 Berlin, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/funkhaus-berlin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/funkhaus-berlin/)*

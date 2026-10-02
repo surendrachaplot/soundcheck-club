@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Montreal on Fri, 2 Oct 2026.
+Phil Berg is a Techno and Club artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Montreal on Fri, 2 Oct 2026.
 
 Phil Berg is a techno and club artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Stereo, Montreal on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Phil Berg is a techno and club artist based in Germany, with 151 gigs on soundch
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

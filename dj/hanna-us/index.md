@@ -1,6 +1,6 @@
 # Hanna
 
-Hanna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
+Hanna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Hanna is a house and techno artist, with 7 gigs on soundcheck across Bali, Chicago, Hamburg and Madrid and 3 more. Often billed alongside Ariana, Carrot Green and Cashu. Next up: TBA - Centro, Rio De Janeiro on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Hanna is a house and techno artist, with 7 gigs on soundcheck across Bali, Chica
 
 Ariana, Carrot Green, Cashu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*

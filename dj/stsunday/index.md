@@ -1,6 +1,6 @@
 # St Sunday
 
-St Sunday is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
+St Sunday is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
 
 St Sunday is a disco and house artist based in United Kingdom, with 27 gigs on soundcheck across Edinburgh. Often billed alongside Percy Main, Moray Leisure Centre and Rosehips. Next up: Sneaky Pete's, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ St Sunday is a disco and house artist based in United Kingdom, with 27 gigs on s
 
 Percy Main, Moray Leisure Centre, Rosehips
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stsunday/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stsunday/)*

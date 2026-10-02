@@ -1,6 +1,6 @@
 # Psi (1)
 
-Psi (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
+Psi (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
 Psi is a house and techno artist, with 24 gigs on soundcheck across Toronto. Often billed alongside KRISHAWN, Young Teesh and 999ADJ. Next up: TBA, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Psi is a house and techno artist, with 24 gigs on soundcheck across Toronto. Oft
 
 KRISHAWN, Young Teesh, 999ADJ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psi-1/)*

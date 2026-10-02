@@ -1,6 +1,6 @@
 # W&DY
 
-W&DY is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+W&DY is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 W&DY is a techno and progressive house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam. Often billed alongside Tash, Alex O'Rion and Alexisphere. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ W&DY is a techno and progressive house artist based in Netherlands, with 11 gigs
 
 Tash, Alex O'Rion, Alexisphere
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wdy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wdy/)*

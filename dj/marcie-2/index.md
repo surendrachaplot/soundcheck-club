@@ -1,6 +1,6 @@
 # Marcie (2)
 
-Marcie (2) is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
+Marcie (2) is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 15 Oct 2026.
 
 Marcie is a trance and hardcore artist based in Germany, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside ZYNTAX, Makinarium and Osiris. Next up: Crack Bellmer, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Marcie is a trance and hardcore artist based in Germany, with 12 gigs on soundch
 
 ZYNTAX, Makinarium, Osiris (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*

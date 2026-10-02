@@ -1,6 +1,6 @@
 # Tantum
 
-Tantum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
+Tantum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
 
 Tantum is a progressive house and techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: Ritter Butzke, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Tantum is a progressive house and techno artist based in Germany, with 20 gigs o
 
 Hyunji-A, Guy J, Max Hendricks
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tantum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tantum/)*

@@ -1,6 +1,6 @@
 # Dennis Christensen
 
-Dennis Christensen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Sat, 17 Oct 2026.
+Dennis Christensen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Sat, 17 Oct 2026.
 
 Dennis Christensen is a house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across London and Stockholm. Often billed alongside D Soulstream, Mad Mats and Rap Saunders. Next up: radial, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Dennis Christensen is a house and deep house artist based in United Kingdom, wit
 
 D Soulstream, Mad Mats, Rap Saunders
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennischristensen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennischristensen/)*

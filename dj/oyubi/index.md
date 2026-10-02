@@ -1,6 +1,6 @@
 # Oyubi
 
-Oyubi is a Bass and Footwork artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
+Oyubi is a Bass and Footwork artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
 
 Oyubi is a bass and footwork artist based in Japan, with 86 gigs on soundcheck across Amsterdam, Berlin, Kyoto and London and 4 more. Often billed alongside Fetus, Seimei and Dayzero. Next up: Kaiki, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Oyubi is a bass and footwork artist based in Japan, with 86 gigs on soundcheck a
 
 Fetus, Seimei, Dayzero
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyubi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyubi/)*

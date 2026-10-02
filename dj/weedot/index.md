@@ -1,6 +1,6 @@
 # WeeDot
 
-WeeDot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Fri, 2 Oct 2026.
+WeeDot is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Fri, 2 Oct 2026.
 
 WeeDot is a house and progressive house artist based in United Kingdom, with 40 gigs on soundcheck across Cork and Manchester. Often billed alongside Róisín W, Pangölin and The Brokers. Next up: The DBA, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ WeeDot is a house and progressive house artist based in United Kingdom, with 40 
 
 Róisín W, Pangölin, The Brokers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*

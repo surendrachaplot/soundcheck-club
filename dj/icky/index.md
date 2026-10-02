@@ -1,6 +1,6 @@
 # iCKY
 
-iCKY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+iCKY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 iCKY is a techno and trance artist based in United States of America, with 12 gigs on soundcheck across Miami and New York City. Often billed alongside DomnRob, CÛLTÛS VÎS and Dadrev. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ iCKY is a techno and trance artist based in United States of America, with 12 gi
 
 DomnRob, CÛLTÛS VÎS, Dadrev
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*

@@ -1,6 +1,6 @@
 # Worm
 
-Worm is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KLASTR" on Fri, 9 Oct 2026.
+Worm is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "KLASTR" on Fri, 9 Oct 2026.
 
 Worm is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Candy Coup, DJ Shahmaran, EVER and Himera and 1 more. See dates, start times and who's playing. Boomgaardsstraat 71, 3012 XA, Rotterdam.
 
@@ -15,4 +15,4 @@ Worm is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, with l
 
 Boomgaardsstraat 71, 3012 XA, Rotterdam, Rotterdam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*

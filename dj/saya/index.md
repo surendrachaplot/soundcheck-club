@@ -1,6 +1,6 @@
 # SAYA
 
-SAYA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+SAYA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 SAYA is a house and tech house artist based in Finland, with 28 gigs on soundcheck across Amsterdam, Bristol, Brussels and Ibiza and 8 more. Often billed alongside Huck Finn, Shady Lady and Solartrak. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ SAYA is a house and tech house artist based in Finland, with 28 gigs on soundche
 
 Huck Finn, Shady Lady, Solartrak
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saya/)*

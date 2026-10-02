@@ -1,6 +1,6 @@
 # Cybernet
 
-Cybernet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ark (Melb), Melbourne on Sat, 19 Dec 2026.
+Cybernet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ark (Melb), Melbourne on Sat, 19 Dec 2026.
 
 Cybernet is a techno and trance artist based in Australia, with 17 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Simrana, Eastern Distributor and Hannah D. Next up: ark (Melb), Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Cybernet is a techno and trance artist based in Australia, with 17 gigs on sound
 
 Simrana, Eastern Distributor, Hannah D
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cybernet/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cybernet/)*

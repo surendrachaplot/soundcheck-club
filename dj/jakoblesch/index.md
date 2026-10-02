@@ -1,6 +1,6 @@
 # Jakob Lesch
 
-Jakob Lesch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Insomnia, Berlin on Sat, 31 Oct 2026.
+Jakob Lesch is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Insomnia, Berlin on Sat, 31 Oct 2026.
 
 Jakob Lesch is a techno and tech house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 4 more. Often billed alongside Tuna (DE), Daria Zadekova and Miss Unleashed. Next up: Insomnia, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jakob Lesch is a techno and tech house artist based in Germany, with 35 gigs on 
 
 Tuna (DE), Daria Zadekova, Miss Unleashed
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*

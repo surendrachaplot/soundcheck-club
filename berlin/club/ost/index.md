@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 1 Oct 2026.
+OST is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "OST Free Rave" on Fri, 2 Oct 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Iguana (2), PERT, WAN.1 |
 | Fri, 2 Oct 2026 | OST Free Rave | An Chen, FINYA, HOTBOI2300, Michael Klotz, Paul Wolf, senaitstar |
 | Sat, 3 Oct 2026 | Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford  | Alas (2), Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, LAMMER, The Muffin Man, VIVI909, XIMA, Yasmin Regisford |
 | Thu, 8 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | TIKOA |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line
 | Thu, 15 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | ĀFRAME |
 | Fri, 16 Oct 2026 | Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG | A.N.I., BLACK(JP), Billy Currie, KLING&KLANG, Kø:lab, Nettta, SEKTOR69, SWAGGER, SaltySis |
 | Sat, 17 Oct 2026 | Pinky Promise: Midnight Circus | Amowia, Elias Doré, KinoKo, babxi, nasnan |
+| Thu, 22 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Jayé, Viktoria Spielmann, WAN.1 |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

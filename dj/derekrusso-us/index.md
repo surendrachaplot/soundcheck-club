@@ -1,6 +1,6 @@
 # Derek Russo
 
-Derek Russo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moondog Hifi, New York City on Thu, 8 Oct 2026.
+Derek Russo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moondog Hifi, New York City on Thu, 8 Oct 2026.
 
 Derek Russo is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Detroit, Los Angeles and New York City. Often billed alongside Asha Jasz, Jay Prouty and Lorenzi. Next up: Moondog Hifi, New York City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Derek Russo is a house and techno artist based in United States of America, with
 
 Asha Jasz, Jay Prouty, Lorenzi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derekrusso-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derekrusso-us/)*

@@ -1,6 +1,6 @@
 # Sincerely Simon
 
-Sincerely Simon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Sat, 17 Oct 2026.
+Sincerely Simon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Sat, 17 Oct 2026.
 
 Sincerely Simon is a house and minimal artist based in New Zealand, with 11 gigs on soundcheck across London. Often billed alongside Corners, bvtlr and Retza. Next up: The Glove That Fits, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sincerely Simon is a house and minimal artist based in New Zealand, with 11 gigs
 
 Corners, bvtlr, Retza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*

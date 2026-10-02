@@ -1,6 +1,6 @@
 # Molothav
 
-Molothav is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+Molothav is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 Molothav is a techno and tech house artist based in Brazil, with 13 gigs on soundcheck across Amsterdam, Bucharest, Dublin and Lisbon and 3 more. Often billed alongside ArioVistus, Kay Wagner and ALISTARM. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Molothav is a techno and tech house artist based in Brazil, with 13 gigs on soun
 
 ArioVistus, Kay Wagner, ALISTARM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molothav/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molothav/)*

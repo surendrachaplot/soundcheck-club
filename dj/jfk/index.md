@@ -1,6 +1,6 @@
 # JFK
 
-JFK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+JFK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
 
 JFK is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across Detroit, Leeds, London and Philadelphia and 1 more. Often billed alongside ANDi MANDi, ARTEMIX and Fold Theory. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ JFK is a techno and house artist based in United Kingdom, with 8 gigs on soundch
 
 ANDi MANDi, ARTEMIX, Fold Theory
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfk/)*

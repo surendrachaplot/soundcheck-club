@@ -1,6 +1,6 @@
 # Myd
 
-Myd is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
+Myd is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
 
 Myd is a house and electro artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Lux Fragil, Lisbon on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Myd is a house and electro artist based in France, with 111 gigs on soundcheck a
 
 Busy P, Breakbot, Cassius
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

@@ -1,6 +1,6 @@
 # Lucas Frank
 
-Lucas Frank is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 2 Oct 2026.
+Lucas Frank is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 2 Oct 2026.
 
 Lucas Frank is a house and tech house artist based in Argentina, with 13 gigs on soundcheck across Barcelona. Often billed alongside Babo, Frucula and DC81. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lucas Frank is a house and tech house artist based in Argentina, with 13 gigs on
 
 Babo, Frucula, DC81
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

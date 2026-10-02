@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Flytz, BACKSPIN, YVNNI" on Thu, 1 Oct 2026.
+Salon Daomé is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Flytz, BACKSPIN, YVNNI" on Thu, 1 Oct 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including Don Barbarino, Flytz, Jadd and Jean Pascal Groove and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -19,4 +19,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

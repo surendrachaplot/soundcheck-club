@@ -1,6 +1,6 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Domain, Sydney on Sat, 17 Oct 2026.
+Anyma is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Domain, Sydney on Sat, 17 Oct 2026.
 
 Anyma is a techno and progressive house artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: The Domain, Sydney on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Anyma is a techno and progressive house artist based in Germany, with 65 gigs on
 
 Kevin de Vries, Tale Of Us, Chris Avantgarde
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*

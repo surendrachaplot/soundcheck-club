@@ -1,6 +1,6 @@
 # Counter Culture
 
-Counter Culture is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
+Counter Culture is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 28 Nov 2026.
 
 Counter Culture is a drum & bass and jungle artist based in United Kingdom, with 6 gigs on soundcheck across London and Rome. Often billed alongside Ardishko, Blocks & Escher and Cam Christie. Next up: Mezzanine - Tooting, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Counter Culture is a drum & bass and jungle artist based in United Kingdom, with
 
 Ardishko, Blocks & Escher, Cam Christie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/counterculture/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/counterculture/)*

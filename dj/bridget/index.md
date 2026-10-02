@@ -1,6 +1,6 @@
 # Bridget
 
-Bridget is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Howler, Melbourne on Sat, 3 Oct 2026.
+Bridget is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Bridget is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Detroit, Leeds, London and Melbourne and 3 more. Often billed alongside SPCL.K, STUKES and Beautiful Swimmers. Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Bridget is a house and techno artist based in United States of America, with 34 
 
 SPCL.K, STUKES, Beautiful Swimmers
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridget/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridget/)*

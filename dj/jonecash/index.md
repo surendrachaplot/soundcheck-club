@@ -1,6 +1,6 @@
 # Jon E Cash
 
-Jon E Cash is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 30 Oct 2026.
+Jon E Cash is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 30 Oct 2026.
 
 Jon E Cash is an afro house and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Bobby Davis, Gavin Wilson and L&F. Next up: M.O.T, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jon E Cash is an afro house and house artist based in United Kingdom, with 13 gi
 
 Bobby Davis, Gavin Wilson, L&F
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*

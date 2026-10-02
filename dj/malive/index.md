@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jungle Island, Miami on Sat, 3 Oct 2026.
+Malive is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jungle Island, Miami on Sat, 3 Oct 2026.
 
 Malive is a house and tech house artist based in Brazil, with 35 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Betical, Claptone and Jonas Blue. Next up: Jungle Island, Miami on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Malive is a house and tech house artist based in Brazil, with 35 gigs on soundch
 
 Betical, Claptone, Jonas Blue
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

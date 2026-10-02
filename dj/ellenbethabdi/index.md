@@ -1,6 +1,6 @@
 # Ellen Beth Abdi
 
-Ellen Beth Abdi is a Funk / Soul and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grub Stretford, Manchester on Sat, 3 Oct 2026.
+Ellen Beth Abdi is a Funk / Soul and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grub Stretford, Manchester on Sat, 3 Oct 2026.
 
 Ellen Beth Abdi is a funk / soul and pop artist, with 12 gigs on soundcheck across Manchester. Often billed alongside Chunky, AMAKA and Adele Tondu. Next up: Grub Stretford, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ellen Beth Abdi is a funk / soul and pop artist, with 12 gigs on soundcheck acro
 
 Chunky, AMAKA, Adele Tondu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenbethabdi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenbethabdi/)*

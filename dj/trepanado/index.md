@@ -1,13 +1,14 @@
 # Trepanado
 
-Trepanado is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+Trepanado is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Rio-de-janeiro on Fri, 20 Nov 2026.
 
-Trepanado is a house and disco artist based in Brazil, with 47 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 8 more. Often billed alongside Mary Olivetti, Paulete Lindacelva and Thiago Guiselini. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
+Trepanado is a house and disco artist based in Brazil, with 48 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 9 more. Often billed alongside Mary Olivetti, Paulete Lindacelva and Thiago Guiselini. Next up: TBA, Rio De Janeiro on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA | Rio-de-janeiro |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
@@ -25,4 +26,4 @@ Trepanado is a house and disco artist based in Brazil, with 47 gigs on soundchec
 
 Mary Olivetti, Paulete Lindacelva, Thiago Guiselini
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*

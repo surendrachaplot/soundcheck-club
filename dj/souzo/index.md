@@ -1,6 +1,6 @@
 # Souzo
 
-Souzo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+Souzo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 Souzo is a techno and bass artist based in France, with 9 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Lyon and 4 more. Often billed alongside A Strange Wedding, Christian Coiffure and upsammy. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Souzo is a techno and bass artist based in France, with 9 gigs on soundcheck acr
 
 A Strange Wedding, Christian Coiffure, upsammy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souzo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souzo/)*

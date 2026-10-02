@@ -1,6 +1,6 @@
 # Comrade Martin
 
-Comrade Martin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
+Comrade Martin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
 
 Comrade Martin is a techno and trance artist based in Slovenia, with 23 gigs on soundcheck across Krakow and Vienna. Often billed alongside Trugbild, pinklotion and Silentsevir. Next up: Das Werk, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Comrade Martin is a techno and trance artist based in Slovenia, with 23 gigs on 
 
 Trugbild, pinklotion, Silentsevir
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrademartin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comrademartin/)*

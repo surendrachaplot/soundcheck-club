@@ -1,6 +1,6 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TivoliVredenburg, Utrecht on Fri, 2 Oct 2026.
+Daft Funk Live is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TivoliVredenburg, Utrecht on Fri, 2 Oct 2026.
 
 Daft Funk Live is an electro and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: TivoliVredenburg, Utrecht on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Daft Funk Live is an electro and house artist based in United Kingdom, with 34 g
 
 Andy Mac, Armand Van Helden, Ben Santiago
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*

@@ -1,6 +1,6 @@
 # Mau Maioli
 
-Mau Maioli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
+Mau Maioli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
 
 Mau Maioli is a house and tech house artist, with 12 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside Eli Iwasa, Agrabah and Gabi Fischer. Next up: Marina Navegantes São João, Brazil on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Mau Maioli is a house and tech house artist, with 12 gigs on soundcheck across B
 
 Eli Iwasa, Agrabah, Gabi Fischer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maumaioli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maumaioli/)*

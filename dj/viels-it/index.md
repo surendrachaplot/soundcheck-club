@@ -1,6 +1,6 @@
 # Viels
 
-Viels is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
+Viels is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
 
 Viels is a techno and electronica artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Münch, Outburst Knobs and Dixie. Next up: Circolo Amelia, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Viels is a techno and electronica artist based in Italy, with 52 gigs on soundch
 
 Münch, Outburst Knobs, Dixie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viels-it/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viels-it/)*

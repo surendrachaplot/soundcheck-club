@@ -1,6 +1,6 @@
 # Route 94
 
-Route 94 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
+Route 94 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
 
 Route 94 is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside Alex Mills, Enzo is Burning and Secondcity. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Route 94 is a house and tech house artist based in United Kingdom, with 51 gigs 
 
 Alex Mills, Enzo is Burning, Secondcity
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/route94/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/route94/)*

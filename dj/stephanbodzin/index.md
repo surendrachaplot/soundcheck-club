@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Stephan Bodzin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Stephan Bodzin is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Stephan Bodzin is a techno and house artist based in Germany, with 111 gigs on s
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

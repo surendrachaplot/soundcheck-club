@@ -1,6 +1,6 @@
 # Warehouse Preservation Society
 
-Warehouse Preservation Society is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
+Warehouse Preservation Society is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
 
 Warehouse Preservation Society is a house and acid artist based in United States of America, with 26 gigs on soundcheck across Berlin, Bristol, London and Los Angeles and 3 more. Often billed alongside SONNS, Stacy Christine and Dave Aju. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Warehouse Preservation Society is a house and acid artist based in United States
 
 SONNS, Stacy Christine, Dave Aju
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*

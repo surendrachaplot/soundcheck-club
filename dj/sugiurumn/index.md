@@ -1,6 +1,6 @@
 # Sugiurumn
 
-Sugiurumn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Aisotope Lounge, Tokyo on Fri, 16 Oct 2026.
+Sugiurumn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Aisotope Lounge, Tokyo on Fri, 16 Oct 2026.
 
 Sugiurumn is a techno and house artist based in Japan, with 50 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Ko Kimura, Nao Nomura and Yamariki. Next up: Aisotope Lounge, Tokyo on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Sugiurumn is a techno and house artist based in Japan, with 50 gigs on soundchec
 
 Ko Kimura, Nao Nomura, Yamariki
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugiurumn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugiurumn/)*

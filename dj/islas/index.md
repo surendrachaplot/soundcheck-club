@@ -1,6 +1,6 @@
 # Islas
 
-Islas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Islas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 Islas is a techno and house artist, with 35 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Dana Kuehr, DJ Rino and Karla Böhm. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Islas is a techno and house artist, with 35 gigs on soundcheck across Antwerp, B
 
 Dana Kuehr, DJ Rino, Karla Böhm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/islas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/islas/)*

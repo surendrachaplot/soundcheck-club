@@ -1,6 +1,6 @@
 # Orjan Nilsen
 
-Orjan Nilsen is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
+Orjan Nilsen is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
 
 Orjan Nilsen is a trance and electronica artist based in Norway, with 16 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 8 more. Often billed alongside Daxson, Mauro Picotto and Aly & Fila. Next up: One77 Brooklyn, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Orjan Nilsen is a trance and electronica artist based in Norway, with 16 gigs on
 
 Daxson, Mauro Picotto, Aly & Fila
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orjannilsen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orjannilsen/)*

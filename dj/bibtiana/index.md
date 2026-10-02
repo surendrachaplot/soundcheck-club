@@ -1,6 +1,6 @@
 # Bibtiana
 
-Bibtiana is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
+Bibtiana is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
 Bibtiana is a club and dancehall artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam. Often billed alongside Jan Koster, Kyra Khaldi and TINS. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bibtiana is a club and dancehall artist based in Netherlands, with 16 gigs on so
 
 Jan Koster, Kyra Khaldi, TINS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibtiana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibtiana/)*

@@ -1,6 +1,6 @@
 # Max. (BE)
 
-Max. (BE) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinastraat, Ghent on Sun, 1 Nov 2026.
+Max. (BE) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chinastraat, Ghent on Sun, 1 Nov 2026.
 
 Max. (BE) is a techno and electronica artist, with 9 gigs on soundcheck across Berlin and Ghent. Often billed alongside Rafael Munoz, Connor Wall and Altinbas. Next up: Chinastraat, Ghent on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Max. (BE) is a techno and electronica artist, with 9 gigs on soundcheck across B
 
 Rafael Munoz, Connor Wall, Altinbas
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/max.be/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/max.be/)*

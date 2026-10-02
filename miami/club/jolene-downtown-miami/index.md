@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wata Igarashi" on Sat, 3 Oct 2026.
+Jolene Downtown Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Wata Igarashi" on Sat, 3 Oct 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including Milo Ziro, Aramís Lorié, Beltran and Danyelino and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -21,4 +21,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 8 upcoming
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

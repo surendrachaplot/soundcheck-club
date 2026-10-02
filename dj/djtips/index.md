@@ -1,6 +1,6 @@
 # DJ Tips
 
-DJ Tips is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+DJ Tips is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 DJ Tips is a techno and bass artist based in United States of America, with 21 gigs on soundcheck across New York City, Portland and San Francisco/Oakland. Often billed alongside llloyd (US), suade (US) and Felly Fell. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Tips is a techno and bass artist based in United States of America, with 21 g
 
 llloyd (US), suade (US), Felly Fell
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtips/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtips/)*

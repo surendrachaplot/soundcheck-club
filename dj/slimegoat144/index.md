@@ -1,6 +1,6 @@
 # Slimegoat144
 
-Slimegoat144 is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
+Slimegoat144 is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 2 Oct 2026.
 
 Slimegoat144 is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside cell1, 4NOUK and Amo (IT). Next up: DNA. CLUB, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Slimegoat144 is a techno and tech house artist based in Germany, with 10 gigs on
 
 cell1, 4NOUK, Amo (IT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*

@@ -1,6 +1,6 @@
 # ANDOW
 
-ANDOW is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RO Seoul, Seoul on Fri, 2 Oct 2026.
+ANDOW is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RO Seoul, Seoul on Fri, 2 Oct 2026.
 
 ANDOW is a club and hip-hop artist based in South Korea, with 163 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: RO Seoul, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ANDOW is a club and hip-hop artist based in South Korea, with 163 gigs on soundc
 
 DJ Co.kr, DOBERMAN, DJ Soulscape
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*

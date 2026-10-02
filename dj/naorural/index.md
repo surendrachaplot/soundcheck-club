@@ -1,6 +1,6 @@
 # Nao(rural)
 
-Nao(rural) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azumaya, Tokyo on Fri, 23 Oct 2026.
+Nao(rural) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Azumaya, Tokyo on Fri, 23 Oct 2026.
 
 Nao(rural) is a techno and house artist based in Japan, with 25 gigs on soundcheck across Bangkok, Hong Kong, Los Angeles and New York City and 6 more. Often billed alongside Atsushi Maeda, Amelia Holt and DJ Healthy. Next up: Azumaya, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nao(rural) is a techno and house artist based in Japan, with 25 gigs on soundche
 
 Atsushi Maeda, Amelia Holt, DJ Healthy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naorural/)*

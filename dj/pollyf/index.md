@@ -1,6 +1,6 @@
 # Polly F
 
-Polly F is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 10 Oct 2026.
+Polly F is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 10 Oct 2026.
 
 Polly F is an electro and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Copenhagen, Munich and Rotterdam and 1 more. Often billed alongside Afra, KI/KI and Mary Lake. Next up: CLUB RAUM, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Polly F is an electro and techno artist based in Netherlands, with 21 gigs on so
 
 Afra, KI/KI, Mary Lake
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pollyf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pollyf/)*

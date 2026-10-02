@@ -1,6 +1,6 @@
 # Plastic GRN
 
-Plastic GRN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Plastic GRN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
 
 Plastic GRN is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside Hobbes, Astro and damside. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Plastic GRN is a house and techno artist based in United Kingdom, with 9 gigs on
 
 Hobbes, Astro, damside
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plasticgrn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plasticgrn/)*

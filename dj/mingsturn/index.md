@@ -1,6 +1,6 @@
 # Mingsturn
 
-Mingsturn is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Objktt Record Bar, Seoul on Sat, 3 Oct 2026.
+Mingsturn is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Objktt Record Bar, Seoul on Sat, 3 Oct 2026.
 
 Mingsturn is a techno and minimal artist based in South Korea, with 12 gigs on soundcheck across Barcelona and Seoul. Often billed alongside GUMGO, Aiden Lee and Hyunsung. Next up: Objktt Record Bar, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mingsturn is a techno and minimal artist based in South Korea, with 12 gigs on s
 
 GUMGO, Aiden Lee, Hyunsung
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mingsturn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mingsturn/)*

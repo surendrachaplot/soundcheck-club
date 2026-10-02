@@ -1,6 +1,6 @@
 # Sarmabot
 
-Sarmabot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Sarmabot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
 Sarmabot is a house and tech house artist, with 23 gigs on soundcheck across Cologne, Munich and Vienna. Often billed alongside Kiawash, Stenny and Lara Fein. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sarmabot is a house and tech house artist, with 23 gigs on soundcheck across Col
 
 Kiawash, Stenny, Lara Fein
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*

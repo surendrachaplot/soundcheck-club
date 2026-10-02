@@ -1,6 +1,6 @@
 # ILLUSIONIZE
 
-ILLUSIONIZE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Locación a confirmar, Costanera, Buenos Aires on Sat, 10 Oct 2026.
+ILLUSIONIZE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Locación a confirmar, Costanera, Buenos Aires on Sat, 10 Oct 2026.
 
 ILLUSIONIZE is a house and tech house artist based in Brazil, with 14 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 4 more. Often billed alongside Above & Beyond, Adam Sellouk and Analu. Next up: TBA - Locación a confirmar, Costanera, Buenos Aires on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ILLUSIONIZE is a house and tech house artist based in Brazil, with 14 gigs on so
 
 Above & Beyond, Adam Sellouk, Analu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illusionize/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illusionize/)*

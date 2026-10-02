@@ -1,6 +1,6 @@
 # Passwardy
 
-Passwardy is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 2 Oct 2026.
+Passwardy is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 2 Oct 2026.
 
 Passwardy is an experimental and ambient artist, with 15 gigs on soundcheck across Amsterdam, Brussels, Istanbul and Leeds and 7 more. Often billed alongside DJ Gostoso, Gostoso and Masha Wordpress. Next up: Oberhaum, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Passwardy is an experimental and ambient artist, with 15 gigs on soundcheck acro
 
 DJ Gostoso, Gostoso, Masha Wordpress
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*

@@ -1,6 +1,6 @@
 # Jooki
 
-Jooki is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+Jooki is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
 Jooki is a house and garage artist based in Australia, with 7 gigs on soundcheck across Melbourne. Often billed alongside Slumdog, Acid Jacks and Afrodisiac. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Jooki is a house and garage artist based in Australia, with 7 gigs on soundcheck
 
 Slumdog, Acid Jacks, Afrodisiac
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jooki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jooki/)*

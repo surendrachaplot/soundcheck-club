@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Cara Elizabeth is a techno and trance artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 24 more. Often billed alongside Kø:lab, Mika Heggemann and davyboi. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 142 gigs on 
 
 Kø:lab, Mika Heggemann, davyboi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

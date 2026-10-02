@@ -1,6 +1,6 @@
 # Original Sin
 
-Original Sin is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Art School, Glasgow on Fri, 9 Oct 2026.
+Original Sin is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Art School, Glasgow on Fri, 9 Oct 2026.
 
 Original Sin is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Brighton, Bristol, Geneva and Glasgow and 8 more. Often billed alongside IC3, Eksman and Majistrate. Next up: The Art School, Glasgow on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Original Sin is a drum & bass and jungle artist based in United Kingdom, with 25
 
 IC3, Eksman, Majistrate
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*

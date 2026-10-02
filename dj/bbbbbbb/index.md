@@ -1,6 +1,6 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cross Club, Prague on Sun, 25 Oct 2026.
+BBBBBBB is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cross Club, Prague on Sun, 25 Oct 2026.
 
 BBBBBBB is a hardcore and club artist based in Japan, with 21 gigs on soundcheck across Berlin, Kyoto, Lisbon and New York City and 4 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: Cross Club, Prague on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ BBBBBBB is a hardcore and club artist based in Japan, with 21 gigs on soundcheck
 
 moreru, deadfish eyes, iida Reo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*

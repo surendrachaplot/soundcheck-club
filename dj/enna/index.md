@@ -1,6 +1,6 @@
 # ENNA
 
-ENNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
+ENNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
 
 ENNA is a techno and house artist based in Sweden, with 15 gigs on soundcheck across Cologne and Copenhagen. Often billed alongside DJ 2LATE, Eszter and Maximilian. Next up: Odonien, Cologne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ ENNA is a techno and house artist based in Sweden, with 15 gigs on soundcheck ac
 
 DJ 2LATE, Eszter, Maximilian
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enna/)*

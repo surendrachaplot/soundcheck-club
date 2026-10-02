@@ -1,6 +1,6 @@
 # ERNST (UA)
 
-ERNST (UA) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+ERNST (UA) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
 ERNST (UA) is a techno and trance artist based in Ukraine, with 40 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Józef Keuner, VRAXX and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ERNST (UA) is a techno and trance artist based in Ukraine, with 40 gigs on sound
 
 Józef Keuner, VRAXX, SCHELLT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*

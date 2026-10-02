@@ -1,6 +1,6 @@
 # DZBL
 
-DZBL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
+DZBL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Absturz, Leipzig on Fri, 2 Oct 2026.
 
 DZBL is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Leipzig. Often billed alongside Timstagram, EinfachWinter and KETA PERRY. Next up: Absturz, Leipzig on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DZBL is a techno and trance artist based in Germany, with 16 gigs on soundcheck 
 
 Timstagram, EinfachWinter, KETA PERRY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzbl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzbl/)*

@@ -1,6 +1,6 @@
 # Raspoutine Los Angeles
 
-Raspoutine Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RASPOUTINE presents: RCKSLVR + SPECIAL GUEST" on Fri, 2 Oct 2026.
+Raspoutine Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "RASPOUTINE presents: RCKSLVR + SPECIAL GUEST" on Fri, 2 Oct 2026.
 
 Raspoutine Los Angeles is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including RCKSLVR. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Raspoutine Los Angeles is a music venue in Los Angeles listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | RASPOUTINE presents: RCKSLVR + SPECIAL GUEST | RCKSLVR |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/raspoutine-los-angeles/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/raspoutine-los-angeles/)*

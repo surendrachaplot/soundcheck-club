@@ -1,6 +1,6 @@
 # nuúm
 
-nuúm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+nuúm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 nuúm is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Elias. (DE), 50PHIE and A Thousand Details. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ nuúm is a techno and house artist based in Germany, with 7 gigs on soundcheck a
 
 Elias. (DE), 50PHIE, A Thousand Details
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuum/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuum/)*

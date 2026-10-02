@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+SNTS is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 SNTS is a techno and industrial artist based in Germany, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ SNTS is a techno and industrial artist based in Germany, with 176 gigs on soundc
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

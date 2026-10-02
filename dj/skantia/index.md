@@ -1,6 +1,6 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
+Skantia is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
 
 Skantia is a drum & bass and bass artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 21 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: Mint XL, Leeds on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Skantia is a drum & bass and bass artist based in United Kingdom, with 55 gigs o
 
 Simula, Disrupta, K Motionz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*

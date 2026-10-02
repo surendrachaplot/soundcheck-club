@@ -1,6 +1,6 @@
 # Credit 00
 
-Credit 00 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
+Credit 00 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
 
 Credit 00 is an electro and techno artist, with 29 gigs on soundcheck across Barcelona, Belgrade, Berlin and Leipzig and 5 more. Often billed alongside ElectroDon, Milan Hermess and Carl Suspect. Next up: Neue Welle, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Credit 00 is an electro and techno artist, with 29 gigs on soundcheck across Bar
 
 ElectroDon, Milan Hermess, Carl Suspect
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/credit00/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/credit00/)*

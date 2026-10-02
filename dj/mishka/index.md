@@ -1,6 +1,6 @@
 # Mishka
 
-Mishka is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mishka is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mishka is a downtempo and house artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, San Francisco/Oakland and Zurich. Often billed alongside Jeremy Castillo, Avalon Emerson and Loveshadow. Next up: Bar Part Time, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mishka is a downtempo and house artist based in United States of America, with 1
 
 Jeremy Castillo, Avalon Emerson, Loveshadow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishka/)*

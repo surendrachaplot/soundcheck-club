@@ -1,6 +1,6 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Skee Mask is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Skee Mask is a techno and bass artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Skee Mask is a techno and bass artist based in Germany, with 162 gigs on soundch
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

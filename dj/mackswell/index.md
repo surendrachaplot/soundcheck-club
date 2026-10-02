@@ -1,6 +1,6 @@
 # Mackswell
 
-Mackswell is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mackswell is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mackswell is a house and club artist based in United States of America, with 148 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Knowpa Slaps, NU NOIZE and CALDEE. Next up: Madrone Art Bar, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mackswell is a house and club artist based in United States of America, with 148
 
 Knowpa Slaps, NU NOIZE, CALDEE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mackswell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mackswell/)*

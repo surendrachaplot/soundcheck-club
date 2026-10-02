@@ -1,6 +1,6 @@
 # Benji Vega
 
-Benji Vega is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
+Benji Vega is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
 
 Benji Vega is a techno and tech house artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside ADAKEO, Chucho Amezcua and Diego Palacios. Next up: Sexto Piso, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Benji Vega is a techno and tech house artist based in Mexico, with 10 gigs on so
 
 ADAKEO, Chucho Amezcua, Diego Palacios
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjivega/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjivega/)*

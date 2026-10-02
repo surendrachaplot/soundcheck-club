@@ -1,6 +1,6 @@
 # Orsay
 
-Orsay is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZeyZey, Miami on Fri, 9 Oct 2026.
+Orsay is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZeyZey, Miami on Fri, 9 Oct 2026.
 
 Orsay is a house and tech house artist based in France, with 27 gigs on soundcheck across Barcelona, London, Los Angeles and Madrid and 4 more. Often billed alongside Bondo, OSCAAR and AMANN. Next up: ZeyZey, Miami on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Orsay is a house and tech house artist based in France, with 27 gigs on soundche
 
 Bondo, OSCAAR, AMANN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orsay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orsay/)*

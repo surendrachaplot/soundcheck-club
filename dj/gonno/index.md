@@ -1,6 +1,6 @@
 # Gonno
 
-Gonno is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuse, Brussels on Fri, 2 Oct 2026.
+Gonno is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuse, Brussels on Fri, 2 Oct 2026.
 
 Gonno is a house and techno artist based in Japan, with 126 gigs on soundcheck across Bali, Bangkok, Berlin and Bristol and 20 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Fuse, Brussels on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Gonno is a house and techno artist based in Japan, with 126 gigs on soundcheck a
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

@@ -1,6 +1,6 @@
 # D A S
 
-D A S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Patision65, Athens on Fri, 2 Oct 2026.
+D A S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Patision65, Athens on Fri, 2 Oct 2026.
 
 D A S is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Athens and Chicago. Often billed alongside Mantas Steles, Anthony Cruz and Glen S. Next up: Patision65, Athens on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ D A S is a house and techno artist based in United States of America, with 6 gig
 
 Mantas Steles, Anthony Cruz, Glen S
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/das-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/das-us/)*

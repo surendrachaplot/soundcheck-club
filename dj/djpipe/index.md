@@ -1,6 +1,6 @@
 # DJ Pipe
 
-DJ Pipe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
+DJ Pipe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
 
 DJ Pipe is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Huerta, Taslo and The Ghost. Next up: Hoppetosse, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Pipe is a house and techno artist based in United Kingdom, with 87 gigs on so
 
 Huerta, Taslo, The Ghost
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpipe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpipe/)*

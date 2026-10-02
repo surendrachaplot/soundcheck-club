@@ -1,6 +1,6 @@
 # Atashi
 
-Atashi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
+Atashi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
 Atashi is a techno and trance artist based in Hungary, with 10 gigs on soundcheck across Budapest and Tokyo. Often billed alongside Bencsama, Kozma and AllaDerivaLontano. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Atashi is a techno and trance artist based in Hungary, with 10 gigs on soundchec
 
 Bencsama, Kozma, AllaDerivaLontano
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atashi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atashi/)*

@@ -1,6 +1,6 @@
 # Zha (UK)
 
-Zha (UK) is a Dubstep and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Zha (UK) is a Dubstep and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 Zha (UK) is a dubstep and vaporwave artist, with 14 gigs on soundcheck across Bristol, London, Manchester and Vancouver. Often billed alongside Ourman, V.I.V.E.K. and Cimm. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ Zha (UK) is a dubstep and vaporwave artist, with 14 gigs on soundcheck across Br
 
 Ourman, V.I.V.E.K., Cimm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zha-1/)*

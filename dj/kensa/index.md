@@ -1,6 +1,6 @@
 # Kensa
 
-Kensa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Kensa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Kensa is an electro and house artist based in United Kingdom, with 59 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 8 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kensa is an electro and house artist based in United Kingdom, with 59 gigs on so
 
 Nicky Macha, Timoti, Jayar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kensa/)*

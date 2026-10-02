@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, with 144 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 53 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 144 gigs on
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

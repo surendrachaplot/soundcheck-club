@@ -1,6 +1,6 @@
 # B2G (1)
 
-B2G (1) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
+B2G (1) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 22 Oct 2026.
 
 B2G is a house and electro artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside kaviga, Balou and Breezywav. Next up: 303 Audiophile Bar, Barcelona on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ B2G is a house and electro artist based in Spain, with 4 gigs on soundcheck acro
 
 kaviga, Balou (2), Breezywav
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2g-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2g-1/)*

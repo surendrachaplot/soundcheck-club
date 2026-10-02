@@ -1,6 +1,6 @@
 # Kynexis
 
-Kynexis is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at City Hall, Barcelona on Thu, 29 Oct 2026.
+Kynexis is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at City Hall, Barcelona on Thu, 29 Oct 2026.
 
 Kynexis is a techno and hardcore artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside ERØXX, Ana Sclifos and CCSC. Next up: City Hall, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kynexis is a techno and hardcore artist based in Spain, with 9 gigs on soundchec
 
 ERØXX, Ana Sclifos, CCSC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kynexis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kynexis/)*

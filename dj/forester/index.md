@@ -1,6 +1,6 @@
 # Forester
 
-Forester is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Avalon Hollywood, Los Angeles on Sat, 17 Oct 2026.
+Forester is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Avalon Hollywood, Los Angeles on Sat, 17 Oct 2026.
 
 Forester is a house and deep house artist based in United States of America, with 12 gigs on soundcheck across Boston, Denver, Ibiza and Los Angeles and 4 more. Often billed alongside 3LAU, Adventure Club and Andrew Rayel. Next up: Avalon Hollywood, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Forester is a house and deep house artist based in United States of America, wit
 
 3LAU, Adventure Club, Andrew Rayel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*

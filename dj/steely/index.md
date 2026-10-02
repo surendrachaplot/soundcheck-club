@@ -1,6 +1,6 @@
 # Steely
 
-Steely is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Steely is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
 Steely is a house and deep house artist based in United Kingdom, with 14 gigs on soundcheck across London and Sheffield. Often billed alongside Horse Meat Disco, Adelphi Music Factory and Alfaz. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Steely is a house and deep house artist based in United Kingdom, with 14 gigs on
 
 Horse Meat Disco, Adelphi Music Factory, Alfaz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steely/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steely/)*

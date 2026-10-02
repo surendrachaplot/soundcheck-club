@@ -1,6 +1,6 @@
 # Acidnena
 
-Acidnena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
+Acidnena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
 
 Acidnena is a techno and house artist based in Argentina, with 82 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 5 more. Often billed alongside Verushka, M8NSE and Drazzit. Next up: Razzmatazz, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Acidnena is a techno and house artist based in Argentina, with 82 gigs on soundc
 
 Verushka, M8NSE, Drazzit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*

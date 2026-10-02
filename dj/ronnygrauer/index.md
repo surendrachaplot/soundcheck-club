@@ -1,6 +1,6 @@
 # Ronny Grauer
 
-Ronny Grauer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Ronny Grauer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 Ronny Grauer is a house and techno artist based in Switzerland, with 51 gigs on soundcheck across Zurich. Often billed alongside Dejan, Anthik and :DARREN. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ronny Grauer is a house and techno artist based in Switzerland, with 51 gigs on 
 
 Dejan, Anthik, :DARREN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*

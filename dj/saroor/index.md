@@ -1,6 +1,6 @@
 # Saroor
 
-Saroor is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Fri, 23 Oct 2026.
+Saroor is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gaffe, London on Fri, 23 Oct 2026.
 
 Saroor is a techno and trance artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Copenhagen and London. Often billed alongside Melati, WVRM POOL and Cosmic Caz. Next up: Gaffe, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Saroor is a techno and trance artist based in United Kingdom, with 24 gigs on so
 
 Melati, WVRM POOL, Cosmic Caz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saroor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saroor/)*

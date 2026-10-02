@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Glamorama, Melbourne on Fri, 2 Oct 2026.
+Papa Nugs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Glamorama, Melbourne on Fri, 2 Oct 2026.
 
 Papa Nugs is a house and techno artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Glamorama, Melbourne on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, with 167 gigs on
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

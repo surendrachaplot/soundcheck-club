@@ -1,6 +1,6 @@
 # Transvegana
 
-Transvegana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lote, Sao Paulo on Sun, 4 Oct 2026.
+Transvegana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lote, Sao Paulo on Sun, 4 Oct 2026.
 
 Transvegana is a house and techno artist, with 21 gigs on soundcheck across Sao Paulo. Often billed alongside DJ DUE, Renato Cohen and nikkatze. Next up: Lote, Sao Paulo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Transvegana is a house and techno artist, with 21 gigs on soundcheck across Sao 
 
 DJ DUE, Renato Cohen, nikkatze
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/transvegana/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/transvegana/)*

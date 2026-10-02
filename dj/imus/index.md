@@ -1,6 +1,6 @@
 # imus
 
-imus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 17 Oct 2026.
+imus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 17 Oct 2026.
 
 imus is a techno and house artist based in Japan, with 119 gigs on soundcheck across Berlin, Kyoto, Osaka and Tbilisi and 1 more. Often billed alongside AKIRAM EN, DJ MARIA. and DJ Yazi. Next up: Enter Shibuya, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ imus is a techno and house artist based in Japan, with 119 gigs on soundcheck ac
 
 AKIRAM EN, DJ MARIA., DJ Yazi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imus/)*

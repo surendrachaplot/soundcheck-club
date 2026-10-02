@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
+Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wesola Immersive, Krakow on Fri, 2 Oct 2026.
 
 Karine is a house and techno artist based in Ukraine, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: Wesola Immersive, Krakow on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Karine is a house and techno artist based in Ukraine, with 107 gigs on soundchec
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

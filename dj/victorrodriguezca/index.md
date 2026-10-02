@@ -1,6 +1,6 @@
 # VICTOR RODRIGUEZ (CA)
 
-VICTOR RODRIGUEZ (CA) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at StereoBar, Montreal on Fri, 2 Oct 2026.
+VICTOR RODRIGUEZ (CA) is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at StereoBar, Montreal on Fri, 2 Oct 2026.
 
 VICTOR RODRIGUEZ (CA) is an electronic artist, with 9 gigs on soundcheck across Montreal. Often billed alongside Mitch Oliver, Jay de Lys and Jesse Zotti. Next up: StereoBar, Montreal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ VICTOR RODRIGUEZ (CA) is an electronic artist, with 9 gigs on soundcheck across 
 
 Mitch Oliver, Jay de Lys, Jesse Zotti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguezca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguezca/)*

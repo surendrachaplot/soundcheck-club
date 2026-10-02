@@ -1,6 +1,6 @@
 # Silki
 
-Silki is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Silki is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
 
 Silki is a tech house and minimal artist based in Australia, with 10 gigs on soundcheck across London and Melbourne. Often billed alongside Séarlait, Char(k) and Roka. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Silki is a tech house and minimal artist based in Australia, with 10 gigs on sou
 
 Séarlait, Char(k), Roka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silki/)*

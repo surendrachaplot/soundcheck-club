@@ -1,6 +1,6 @@
 # SMB (1)
 
-SMB (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+SMB (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 SMB is a house and garage artist based in Czech Republic, with 15 gigs on soundcheck across Prague. Often billed alongside Meldaboi, Silverbo1 and Simeone. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SMB is a house and garage artist based in Czech Republic, with 15 gigs on soundc
 
 Meldaboi, Silverbo1, Simeone (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smb-1/)*

@@ -1,6 +1,6 @@
 # Rhyw
 
-Rhyw is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
+Rhyw is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
 
 Rhyw is a techno and bass artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Mor Elian, Pariah and Aurora Halal. Next up: OHM, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rhyw is a techno and bass artist based in United Kingdom, with 96 gigs on soundc
 
 Mor Elian, Pariah, Aurora Halal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyw/)*

@@ -1,6 +1,6 @@
 # Miragliotta
 
-Miragliotta is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Buenos Aires on Fri, 2 Oct 2026.
+Miragliotta is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Buenos Aires on Fri, 2 Oct 2026.
 
 Miragliotta is a techno and club artist, with 15 gigs on soundcheck across Buenos Aires. Often billed alongside PBJ (AR), STEYA and Ttaipan. Next up: TBA, Buenos Aires on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Miragliotta is a techno and club artist, with 15 gigs on soundcheck across Bueno
 
 PBJ (AR), STEYA, Ttaipan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miragliotta/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miragliotta/)*

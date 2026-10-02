@@ -1,6 +1,6 @@
 # Nine Lives
 
-Nine Lives is a music venue in Malta with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Maison D'etre Malta - Anjunadeep Wednesday 7th October 3pm" on Wed, 7 Oct 2026.
+Nine Lives is a music venue in Malta with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Maison D'etre Malta - Anjunadeep Wednesday 7th October 3pm" on Wed, 7 Oct 2026.
 
 Nine Lives is a music venue in Malta listed on soundcheck. 6 upcoming gigs, with line-ups including Monsieur Mikey and Sammy Dean. See dates, start times and who's playing. Perched Beach St.Paul's Bay, SPB 1024.
 
@@ -19,4 +19,4 @@ Nine Lives is a music venue in Malta listed on soundcheck. 6 upcoming gigs, with
 
 Perched Beach St.Paul's Bay, SPB 1024, Malta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/nine-lives/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/nine-lives/)*

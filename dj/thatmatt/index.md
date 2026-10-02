@@ -1,6 +1,6 @@
 # That Matt
 
-That Matt is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Sun, 11 Oct 2026.
+That Matt is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Good Room, New York City on Sun, 11 Oct 2026.
 
 That Matt is a disco and house artist based in United States of America, with 24 gigs on soundcheck across New York City. Often billed alongside Miss Alicia, DJ Shannon and Nick Schiarizzi. Next up: Good Room, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ That Matt is a disco and house artist based in United States of America, with 24
 
 Miss Alicia, DJ Shannon, Nick Schiarizzi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thatmatt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thatmatt/)*

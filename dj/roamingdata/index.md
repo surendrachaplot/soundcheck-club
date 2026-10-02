@@ -1,6 +1,6 @@
 # Roaming Data
 
-Roaming Data is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
+Roaming Data is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
 
 Roaming Data is a garage and bass artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Brighton, Bristol and Brussels and 2 more. Often billed alongside K A I, Miss Mash and Civic Grief. Next up: Phonox, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Roaming Data is a garage and bass artist based in United Kingdom, with 26 gigs o
 
 K A I, Miss Mash, Civic Grief
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roamingdata/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roamingdata/)*

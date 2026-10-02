@@ -1,6 +1,6 @@
 # Salomé DV
 
-Salomé DV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Badaboum, Paris on Sat, 24 Oct 2026.
+Salomé DV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Sat, 24 Oct 2026.
 
 Salomé DV is a techno and hardcore artist based in France, with 10 gigs on soundcheck across Geneva, Nantes and Paris. Often billed alongside Alys LF, SamC and 42.record. Next up: Badaboum, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Salomé DV is a techno and hardcore artist based in France, with 10 gigs on soun
 
 Alys LF, SamC, 42.record
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salomedv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salomedv/)*

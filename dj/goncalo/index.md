@@ -1,6 +1,6 @@
 # Gonçalo
 
-Gonçalo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pandora Sevilla, South on Fri, 2 Oct 2026.
+Gonçalo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pandora Sevilla, South on Fri, 2 Oct 2026.
 
 Gonçalo is a tech house and techno artist, with 26 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Alex Kennon, Anna Tur and Dub Tiger. Next up: Pandora Sevilla, South on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gonçalo is a tech house and techno artist, with 26 gigs on soundcheck across Am
 
 Alex Kennon, Anna Tur, Dub Tiger
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalo/)*

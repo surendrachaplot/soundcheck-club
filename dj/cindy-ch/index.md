@@ -1,6 +1,6 @@
 # Cindy (CH)
 
-Cindy (CH) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kauz, Zurich on Fri, 2 Oct 2026.
+Cindy (CH) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Fri, 2 Oct 2026.
 
 Cindy (CH) is a bass and techno artist based in Albania, with 6 gigs on soundcheck across Amsterdam and Zurich. Often billed alongside A Strange Wedding, ADO (DE) and Add FM. Next up: Kauz, Zurich on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Cindy (CH) is a bass and techno artist based in Albania, with 6 gigs on soundche
 
 A Strange Wedding, ADO (DE), Add FM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cindy-ch/)*

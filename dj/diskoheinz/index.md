@@ -1,6 +1,6 @@
 # diskoheinz
 
-diskoheinz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
+diskoheinz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
 
 diskoheinz is a house and tech house artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Munich and 1 more. Often billed alongside Alice DiMar, Artur Bredo and Timo Elias. Next up: Crane Hotel Faralda, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ diskoheinz is a house and tech house artist based in Germany, with 12 gigs on so
 
 Alice DiMar, Artur Bredo, Timo Elias
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*

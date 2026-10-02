@@ -1,6 +1,6 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Siwilai Radical Club, Bangkok on Fri, 2 Oct 2026.
+Eric Duncan is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Siwilai Radical Club, Bangkok on Fri, 2 Oct 2026.
 
 Eric Duncan is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Athens, Bangkok, Belgrade and Berlin and 18 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Siwilai Radical Club, Bangkok on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 
 FFAN, Monkey Timers, YOSHIHAARAA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

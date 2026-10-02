@@ -1,6 +1,6 @@
 # Cherokee (AU)
 
-Cherokee (AU) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 10 Oct 2026.
+Cherokee (AU) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 10 Oct 2026.
 
 Cherokee (AU) is a house and tech house artist, with 7 gigs on soundcheck across Brussels, Detroit, Melbourne and Toronto. Often billed alongside Ava Eva, Bruce Bailey and Colette. Next up: Revolver Upstairs, Melbourne on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Cherokee (AU) is a house and tech house artist, with 7 gigs on soundcheck across
 
 Ava Eva, Bruce Bailey, Colette
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherokee-au/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherokee-au/)*

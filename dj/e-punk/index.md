@@ -1,6 +1,6 @@
 # E-PUNK
 
-E-PUNK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Climax-Institutes, Stuttgart on Fri, 11 Dec 2026.
+E-PUNK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Climax-Institutes, Stuttgart on Fri, 11 Dec 2026.
 
 E-PUNK is a techno and house artist, with 26 gigs on soundcheck across Stuttgart. Often billed alongside David Demian, Alexander Maier and BaTMaN. Next up: Climax-Institutes, Stuttgart on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ E-PUNK is a techno and house artist, with 26 gigs on soundcheck across Stuttgart
 
 David Demian, Alexander Maier, BaTMaN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-punk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-punk/)*

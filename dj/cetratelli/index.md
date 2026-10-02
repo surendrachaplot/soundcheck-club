@@ -1,6 +1,6 @@
 # Cetratelli
 
-Cetratelli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 11 Oct 2026.
+Cetratelli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 11 Oct 2026.
 
 Cetratelli is a house and tech house artist based in Spain, with 24 gigs on soundcheck across Barcelona and Geneva. Often billed alongside Babo, Brenda Cast and Frucula. Next up: BUS Hexperience, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Cetratelli is a house and tech house artist based in Spain, with 24 gigs on soun
 
 Babo, Brenda Cast, Frucula
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cetratelli/)*

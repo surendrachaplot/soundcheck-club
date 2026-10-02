@@ -1,6 +1,6 @@
 # SHADU
 
-SHADU is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club 13, Tbilisi on Fri, 30 Oct 2026.
+SHADU is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Club 13, Tbilisi on Fri, 30 Oct 2026.
 
 SHADU is an afro house and tech house artist based in Hungary, with 7 gigs on soundcheck across Bucharest, Dubai, Rome and Tbilisi. Next up: TBA - Club 13, Tbilisi on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ SHADU is an afro house and tech house artist based in Hungary, with 7 gigs on so
 - TBA - Space Event Hall, Tbilisi · Sat, 25 Apr 2026
 - TBA - Studio Night Club, Bucharest · Wed, 23 Oct 2024
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadu/)*

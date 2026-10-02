@@ -1,6 +1,6 @@
 # Julio Garcés
 
-Julio Garcés is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Julio Garcés is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Julio Garcés is an electronic artist based in Colombia, with 3 gigs on soundcheck across Berlin, Colombia and Medellin. Often billed alongside Pablo Romero, AISHA and ANNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Julio Garcés is an electronic artist based in Colombia, with 3 gigs on soundche
 
 Pablo Romero, AISHA, ANNA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*

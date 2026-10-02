@@ -1,6 +1,6 @@
 # Mani Festo
 
-Mani Festo is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Mani Festo is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
 Mani Festo is a breakbeat and bass artist based in United Kingdom, with 57 gigs on soundcheck across Auckland, Berlin, Brighton and Brisbane and 19 more. Often billed alongside Denham Audio, LMajor and Borai. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mani Festo is a breakbeat and bass artist based in United Kingdom, with 57 gigs 
 
 Denham Audio, LMajor, Borai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-festo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-festo/)*

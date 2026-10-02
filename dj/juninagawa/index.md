@@ -1,6 +1,6 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
+JUN INAGAWA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
 
 JUN INAGAWA is a techno and house artist based in Japan, with 190 gigs on soundcheck across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ JUN INAGAWA is a techno and house artist based in Japan, with 190 gigs on soundc
 
 ecec, Eichi Abe, OKAMOTO REIJI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*

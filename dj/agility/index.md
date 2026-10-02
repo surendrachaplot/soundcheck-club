@@ -1,6 +1,6 @@
 # Agility
 
-Agility is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dalston Den, London on Fri, 2 Oct 2026.
+Agility is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dalston Den, London on Fri, 2 Oct 2026.
 
 Agility is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Bryn Brax, Whatsname and zoneSL. Next up: Dalston Den, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Agility is a jungle and drum & bass artist based in United Kingdom, with 20 gigs
 
 Bryn Brax, Whatsname, zoneSL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agility/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agility/)*

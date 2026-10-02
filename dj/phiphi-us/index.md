@@ -1,6 +1,6 @@
 # phiphi
 
-phiphi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+phiphi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 phiphi is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Miami and New York City. Often billed alongside Marie Qrie, Milo Ziro and Alexx in Chainss. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ phiphi is a house and techno artist based in United States of America, with 27 g
 
 Marie Qrie, Milo Ziro, Alexx in Chainss
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi-us/)*

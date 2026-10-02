@@ -1,6 +1,6 @@
 # KETCH
 
-KETCH is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crackhouse, Gdansk on Sat, 10 Oct 2026.
+KETCH is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crackhouse, Gdansk on Sat, 10 Oct 2026.
 
 KETCH is a techno and minimal techno artist based in Italy, with 56 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 19 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: Crackhouse, Gdansk on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ KETCH is a techno and minimal techno artist based in Italy, with 56 gigs on soun
 
 MZR, Barbosa, Ylia (UK)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

@@ -1,6 +1,6 @@
 # Pasha
 
-Pasha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Pasha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Pasha is a house and tech house artist based in Canada, with 58 gigs on soundcheck across Amsterdam, Los Angeles, Montreal and Tbilisi and 1 more. Often billed alongside RUDEE NIK, Tabbara and Chiara. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Pasha is a house and tech house artist based in Canada, with 58 gigs on soundche
 
 RUDEE NIK, Tabbara, Chiara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasha/)*

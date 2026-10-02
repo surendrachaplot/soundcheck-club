@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
 
 Pawlowski is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Superior Ingredients, New York City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Pawlowski is a techno and trance artist based in France, with 119 gigs on soundc
 
 Nico Moreno, Azyr, DYEN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

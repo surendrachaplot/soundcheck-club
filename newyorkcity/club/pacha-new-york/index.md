@@ -1,6 +1,6 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SOFI TUKKER" on Fri, 2 Oct 2026.
+Pacha New York is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SOFI TUKKER" on Fri, 2 Oct 2026.
 
 Pacha New York is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Black Coffee, BLOND:ISH, Francis Mercier and Franky Rizardo and 2 more. See dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
@@ -9,7 +9,7 @@ Pacha New York is a music venue in New York City listed on soundcheck. 8 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | SOFI TUKKER | SOFI TUKKER |
-| Sat, 3 Oct 2026 | BLOND:ISH | BLOND:ISH |
+| Sat, 3 Oct 2026 | BLOND:ISH, Mita Gami | BLOND:ISH, Mita Gami, Nico Bernardini |
 | Fri, 9 Oct 2026 | Jamie Jones | Jamie Jones, Rana Iravani, Yamagucci |
 | Sun, 11 Oct 2026 | Francis Mercier | Francis Mercier, Kimonos, Kölsch, Oktave |
 | Fri, 16 Oct 2026 | Music On: Marco Carola, Franky Rizardo, Mason Collective | Franky Rizardo, Marco Carola, Mason Collective |
@@ -21,4 +21,4 @@ Pacha New York is a music venue in New York City listed on soundcheck. 8 upcomin
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

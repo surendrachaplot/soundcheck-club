@@ -1,6 +1,6 @@
 # Valverde
 
-Valverde is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Valverde is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
 Valverde is an electro and techno artist based in Brazil, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Xiulan, Kendra and Galvin. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Valverde is an electro and techno artist based in Brazil, with 17 gigs on soundc
 
 Xiulan, Kendra, Galvin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valverde-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valverde-uk/)*

@@ -1,6 +1,6 @@
 # _hiø
 
-_hiø is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
+_hiø is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
 
 _hiø is a baile funk and electronica artist, with 25 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside XD Erica, Glowriosa and KBRAL. Next up: Lark, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ _hiø is a baile funk and electronica artist, with 25 gigs on soundcheck across 
 
 XD Erica, Glowriosa, KBRAL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_hio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_hio/)*

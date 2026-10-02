@@ -1,6 +1,6 @@
 # Russian Blue
 
-Russian Blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
+Russian Blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
 
 Russian Blue is a techno and house artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Krankent and Sofozor. Next up: Aoyama Hachi, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Russian Blue is a techno and house artist based in Japan, with 18 gigs on soundc
 
 SIGNAL (JP), Krankent, Sofozor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russianblue/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russianblue/)*

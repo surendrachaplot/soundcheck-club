@@ -1,6 +1,6 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
+Floyd Lavine is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
 
 Floyd Lavine is an afro house and house artist based in South Africa, with 68 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Floyd Lavine is an afro house and house artist based in South Africa, with 68 gi
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

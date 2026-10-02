@@ -1,6 +1,6 @@
 # Comrade Winston
 
-Comrade Winston is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ISOamsterdam, Amsterdam on Sat, 3 Oct 2026.
+Comrade Winston is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ISOamsterdam, Amsterdam on Sat, 3 Oct 2026.
 
 Comrade Winston is a techno and house artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Berlin, Dublin and Madrid and 7 more. Often billed alongside Rosati, Beau Didier and Blasha & Allatt. Next up: ISOamsterdam, Amsterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Comrade Winston is a techno and house artist based in Netherlands, with 57 gigs 
 
 Rosati, Beau Didier, Blasha & Allatt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*

@@ -1,6 +1,6 @@
 # A2 - Centrum Koncertowe
 
-A2 - Centrum Koncertowe is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 19.11 Wrocław" on Thu, 19 Nov 2026.
+A2 - Centrum Koncertowe is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 19.11 Wrocław" on Thu, 19 Nov 2026.
 
 A2 - Centrum Koncertowe is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Góralska 5, 53-610 Wrocław, Poland.
 
@@ -14,4 +14,4 @@ A2 - Centrum Koncertowe is a music venue in Warsaw listed on soundcheck. 1 upcom
 
 Góralska 5, 53-610 Wrocław, Poland, Warsaw
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/a2-centrum-koncertowe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/a2-centrum-koncertowe/)*

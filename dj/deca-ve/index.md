@@ -1,6 +1,6 @@
 # DECA (VE)
 
-DECA (VE) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Textil Collective, Barcelona on Sat, 3 Oct 2026.
+DECA (VE) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Textil Collective, Barcelona on Sat, 3 Oct 2026.
 
 DECA (VE) is a house and tech house artist based in Venezuela, with 19 gigs on soundcheck across Barcelona. Often billed alongside LM, Baffa and Moreon. Next up: La Textil Collective, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DECA (VE) is a house and tech house artist based in Venezuela, with 19 gigs on s
 
 LM, Baffa, Moreon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deca-ve/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deca-ve/)*

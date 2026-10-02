@@ -1,6 +1,6 @@
 # SALTI
 
-SALTI is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Lisbon on Sun, 11 Oct 2026.
+SALTI is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Lisbon on Sun, 11 Oct 2026.
 
 SALTI is a house and ambient artist based in Portugal, with 27 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Delikwe, DTM Funk and Margaux Gazur. Next up: TBA, Lisbon on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ SALTI is a house and ambient artist based in Portugal, with 27 gigs on soundchec
 
 Delikwe, DTM Funk, Margaux Gazur
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salti/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salti/)*

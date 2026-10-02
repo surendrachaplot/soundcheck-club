@@ -1,6 +1,6 @@
 # Johnny Malek
 
-Johnny Malek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elektricity, Detroit on Fri, 2 Oct 2026.
+Johnny Malek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Elektricity, Detroit on Fri, 2 Oct 2026.
 
 Johnny Malek is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Detroit and Ibiza. Often billed alongside Brav0, Gettoblaster and Jason Brown. Next up: Elektricity, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Johnny Malek is a house and techno artist based in United States of America, wit
 
 Brav0, Gettoblaster, Jason Brown
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnymalek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnymalek/)*

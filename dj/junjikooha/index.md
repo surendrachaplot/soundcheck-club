@@ -1,6 +1,6 @@
 # Jun Jikooha
 
-Jun Jikooha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
+Jun Jikooha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
 
 Jun Jikooha is a techno and trance artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside Tomocomo, Do Shock Booze and Funky Gong. Next up: 7th Floor, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jun Jikooha is a techno and trance artist based in Japan, with 20 gigs on soundc
 
 Tomocomo, Do Shock Booze, Funky Gong
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junjikooha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junjikooha/)*

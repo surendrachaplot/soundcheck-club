@@ -1,6 +1,6 @@
 # KJ3 (US)
 
-KJ3 (US) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
+KJ3 (US) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
 
 KJ3 (US) is a house and electro artist, with 20 gigs on soundcheck across Seattle. Often billed alongside Temenon, alexia.f and Freddy M. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ KJ3 (US) is a house and electro artist, with 20 gigs on soundcheck across Seattl
 
 Temenon, alexia.f, Freddy M
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*

@@ -1,6 +1,6 @@
 # bad_dubs
 
-bad_dubs is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 2 Oct 2026.
+bad_dubs is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zum Böhmischen Dorf, Berlin on Fri, 2 Oct 2026.
 
 bad_dubs is a bass and pop artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside The Crane, Haider and Appleblim. Next up: Zum Böhmischen Dorf, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ bad_dubs is a bass and pop artist based in Germany, with 23 gigs on soundcheck a
 
 The Crane, Haider, Appleblim
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bad_dubs/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bad_dubs/)*

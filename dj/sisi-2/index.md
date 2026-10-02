@@ -1,6 +1,6 @@
 # SiSi (2)
 
-SiSi (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hope House, Leeds on Fri, 9 Oct 2026.
+SiSi (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hope House, Leeds on Fri, 9 Oct 2026.
 
 SiSi is a house and techno artist, with 11 gigs on soundcheck across Berlin, Brussels, Leeds and Miami and 3 more. Often billed alongside Amelia Holt, AARON and Adam Rose. Next up: Hope House, Leeds on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ SiSi is a house and techno artist, with 11 gigs on soundcheck across Berlin, Bru
 
 Amelia Holt, AARON, Adam Rose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisi-2/)*

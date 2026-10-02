@@ -1,6 +1,6 @@
 # Quadratschulz
 
-Quadratschulz is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Locke, Hamburg on Wed, 7 Oct 2026.
+Quadratschulz is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Locke, Hamburg on Wed, 7 Oct 2026.
 
 Quadratschulz is an acid and techno artist based in Germany, with 7 gigs on soundcheck across Hamburg and Lyon. Often billed alongside Fasme, Rüftata110 and Superdefekt. Next up: Locke, Hamburg on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Quadratschulz is an acid and techno artist based in Germany, with 7 gigs on soun
 
 Fasme, Rüftata110, Superdefekt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quadratschulz-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quadratschulz-de/)*

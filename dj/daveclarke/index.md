@@ -1,8 +1,8 @@
 # Dave Clarke
 
-Dave Clarke is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Dave Clarke is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Dave Clarke is a techno and electro artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Sama' Abdulhadi, Dasha Rush and Bloody Mary. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Dave Clarke is a techno and electro artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Sama' Abdulhadi, Dasha Rush and Bloody Mary. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dave Clarke is a techno and electro artist based in United Kingdom, with 103 gig
 | Sat, 7 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 27 Nov 2026 | Mezz | Netherlands |
 | Sat, 28 Nov 2026 | Centre Point | Dublin |
+| Thu, 31 Dec 2026 | Ampere | Antwerp |
 | Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
 
 ## Recently played
@@ -30,4 +31,4 @@ Dave Clarke is a techno and electro artist based in United Kingdom, with 103 gig
 
 Sama' Abdulhadi, Dasha Rush, Bloody Mary
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*

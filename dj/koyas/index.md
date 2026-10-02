@@ -1,6 +1,6 @@
 # Koyas
 
-Koyas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
+Koyas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Kanto on Sat, 10 Oct 2026.
 
 Koyas is a techno and electronica artist based in Japan, with 17 gigs on soundcheck across Kanto and Tokyo. Often billed alongside CD HATA, SAKURA TSURUTA and ReFuCafé. Next up: TBA, Kanto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Koyas is a techno and electronica artist based in Japan, with 17 gigs on soundch
 
 CD HATA, SAKURA TSURUTA, ReFuCafé
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koyas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koyas/)*

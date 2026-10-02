@@ -1,6 +1,6 @@
 # Maya Jane Coles
 
-Maya Jane Coles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pandora Sevilla, South on Sat, 10 Oct 2026.
+Maya Jane Coles is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pandora Sevilla, South on Sat, 10 Oct 2026.
 
 Maya Jane Coles is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Ellen Allien, AMÉMÉ and DJ Tennis. Next up: Pandora Sevilla, South on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Maya Jane Coles is a house and techno artist based in United Kingdom, with 65 gi
 
 Ellen Allien, AMÉMÉ, DJ Tennis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayajanecoles/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayajanecoles/)*

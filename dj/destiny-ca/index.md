@@ -1,6 +1,6 @@
 # Destiny (CA)
 
-Destiny (CA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NWHR, Montreal on Fri, 16 Oct 2026.
+Destiny (CA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Fri, 16 Oct 2026.
 
 Destiny (CA) is a techno and house artist based in Canada, with 52 gigs on soundcheck across Manchester, Montreal and Toronto. Often billed alongside Anabasine, Alina (MTL) and Guthrie. Next up: NWHR, Montreal on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Destiny (CA) is a techno and house artist based in Canada, with 52 gigs on sound
 
 Anabasine, Alina (MTL), Guthrie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destiny-ca/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/destiny-ca/)*

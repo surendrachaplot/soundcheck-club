@@ -1,6 +1,6 @@
 # Amadeo Savio
 
-Amadeo Savio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
+Amadeo Savio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
 
 Amadeo Savio is a house and techno artist based in France, with 18 gigs on soundcheck across Berlin, London, Paris and Strasbourg. Often billed alongside Varhat, ALINA and Atree. Next up: Karmen Camina, Strasbourg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Amadeo Savio is a house and techno artist based in France, with 18 gigs on sound
 
 Varhat, ALINA (3), Atree
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeosavio/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeosavio/)*

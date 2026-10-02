@@ -1,6 +1,6 @@
 # L'indigo Café
 
-L'indigo Café is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Happy Tek" on Sat, 3 Oct 2026.
+L'indigo Café is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Happy Tek" on Sat, 3 Oct 2026.
 
 L'indigo Café is a music venue in Marseille listed on soundcheck. 1 upcoming gig, with line-ups including Johnny Hemerson. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ L'indigo Café is a music venue in Marseille listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Happy Tek | Johnny Hemerson |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/l-indigo-caf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/l-indigo-caf/)*

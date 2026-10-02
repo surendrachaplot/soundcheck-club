@@ -1,6 +1,6 @@
 # ASHTATTZ
 
-ASHTATTZ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Samis Bar, Athens on Fri, 2 Oct 2026.
+ASHTATTZ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Samis Bar, Athens on Fri, 2 Oct 2026.
 
 ASHTATTZ is a house and club artist, with 15 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside Absoluut, Doppelgang and Protopapa. Next up: Samis Bar, Athens on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ASHTATTZ is a house and club artist, with 15 gigs on soundcheck across Amsterdam
 
 Absoluut, Doppelgang, Protopapa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*

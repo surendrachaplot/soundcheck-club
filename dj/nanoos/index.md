@@ -1,6 +1,6 @@
 # Nanoos
 
-Nanoos is a Ghetto Tech and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Pink, Detroit on Fri, 2 Oct 2026.
+Nanoos is a Ghetto Tech and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Big Pink, Detroit on Fri, 2 Oct 2026.
 
 Nanoos is a ghetto tech and club artist based in United States of America, with 87 gigs on soundcheck across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Fullbodydurag and Nadim Maghzal. Next up: Big Pink, Detroit on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Nanoos is a ghetto tech and club artist based in United States of America, with 
 
 Dj Nico, Fullbodydurag, Nadim Maghzal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

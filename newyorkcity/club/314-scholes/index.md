@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Techno Brooklyn presents Samuel Moriero" on Fri, 2 Oct 2026.
+314 Scholes is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Techno Brooklyn presents Samuel Moriero" on Fri, 2 Oct 2026.
 
 314 Scholes is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including JAEL, Moodymann, Samuel Moriero and Schrotthagen. See dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -17,4 +17,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

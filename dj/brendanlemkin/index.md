@@ -1,6 +1,6 @@
 # Brendan Lemkin
 
-Brendan Lemkin is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Brendan Lemkin is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
 Brendan Lemkin is a techno and psytrance artist based in United States of America, with 20 gigs on soundcheck across Chicago. Often billed alongside Hameedullah, Hot Take and Jaggy. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Brendan Lemkin is a techno and psytrance artist based in United States of Americ
 
 Hameedullah, Hot Take, Jaggy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendanlemkin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendanlemkin/)*

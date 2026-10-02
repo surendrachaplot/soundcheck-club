@@ -1,6 +1,6 @@
 # Kelsey Lu
 
-Kelsey Lu is a Electronica and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fondation Cartier, Paris on Tue, 3 Nov 2026.
+Kelsey Lu is a Electronica and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fondation Cartier, Paris on Tue, 3 Nov 2026.
 
 Kelsey Lu is an electronica and electro artist based in United States of America, with 4 gigs on soundcheck across Brussels, Paris and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ambu Bambu. Next up: Fondation Cartier, Paris on Tue 3 Nov.
 
@@ -17,4 +17,4 @@ Kelsey Lu is an electronica and electro artist based in United States of America
 
 Aba Shanti-I, Aho Ssan, Ambu Bambu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelseylu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelseylu/)*

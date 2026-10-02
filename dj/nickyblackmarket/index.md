@@ -1,6 +1,6 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 11 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, wi
 
 Nicky B, Kenny Ken, Ray Keith
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

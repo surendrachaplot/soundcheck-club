@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "wOrld connection - Idjut Boys -" on Fri, 2 Oct 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "wOrld connection - Idjut Boys -" on Fri, 2 Oct 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcoming gigs, with line-ups including 1-DRINK, AKIRAM EN, BANANA-CHAN and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

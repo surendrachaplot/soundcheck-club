@@ -1,6 +1,6 @@
 # TINKERHELL
 
-TINKERHELL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
+TINKERHELL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Fri, 16 Oct 2026.
 
 TINKERHELL is a techno and electronica artist based in Argentina, with 21 gigs on soundcheck across Berlin, Buenos Aires, Cologne and Lisbon and 2 more. Often billed alongside Bermani, Forello and Gaston Fiore. Next up: Mia Mao, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TINKERHELL is a techno and electronica artist based in Argentina, with 21 gigs o
 
 Bermani, Forello, Gaston Fiore
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*

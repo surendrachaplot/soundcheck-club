@@ -1,6 +1,6 @@
 # Jeremy Weeks
 
-Jeremy Weeks is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tomodachi, Ibiza on Fri, 2 Oct 2026.
+Jeremy Weeks is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tomodachi, Ibiza on Fri, 2 Oct 2026.
 
 Jeremy Weeks is a minimal and techno artist based in France, with 23 gigs on soundcheck across Geneva and Ibiza. Often billed alongside Luigi Rossi, Cesar Vinzent and ISBEL. Next up: Tomodachi, Ibiza on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jeremy Weeks is a minimal and techno artist based in France, with 23 gigs on sou
 
 Luigi Rossi, Cesar Vinzent, ISBEL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyweeks/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyweeks/)*

@@ -1,6 +1,6 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Armana Khan with Yolo Taxi & swanahaus" on Fri, 2 Oct 2026.
+Funkhaus is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Armana Khan with Yolo Taxi & swanahaus" on Fri, 2 Oct 2026.
 
 Funkhaus is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including ARMANA KHAN, Gerd Janson, Kyli Kaos and Malounadou and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with 
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

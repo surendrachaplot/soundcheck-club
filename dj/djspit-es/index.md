@@ -1,6 +1,6 @@
 # DJ Spit (ES)
 
-DJ Spit (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
+DJ Spit (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
 
 DJ Spit (ES) is a techno and house artist, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 3 more. Often billed alongside Spray, Narciss and 6EJOU. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ DJ Spit (ES) is a techno and house artist, with 8 gigs on soundcheck across Amst
 
 Spray, Narciss, 6EJOU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-es/)*

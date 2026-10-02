@@ -1,6 +1,6 @@
 # Plastician
 
-Plastician is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+Plastician is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
 
 Plastician is a dubstep and bass artist based in United Kingdom, with 77 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 17 more. Often billed alongside Skream, Just Jane and Oneman. Next up: TBA, Iowa on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Plastician is a dubstep and bass artist based in United Kingdom, with 77 gigs on
 
 Skream, Just Jane, Oneman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

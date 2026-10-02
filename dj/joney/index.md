@@ -1,6 +1,6 @@
 # Joney
 
-Joney is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
+Joney is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
 
 Joney is a bass and electro artist, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Bandulera, Sarah Q and Alphamob. Next up: Hafenklang, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Joney is a bass and electro artist, with 10 gigs on soundcheck across Berlin and
 
 Bandulera, Sarah Q, Alphamob
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joney/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joney/)*

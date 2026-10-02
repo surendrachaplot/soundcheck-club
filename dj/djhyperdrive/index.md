@@ -1,6 +1,6 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
+DJ Hyperdrive is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
 
 DJ Hyperdrive is a techno and trance artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Dockland, Munster on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 204 gigs on s
 
 future.666, ÜBERKIKZ, slin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

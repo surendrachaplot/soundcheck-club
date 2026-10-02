@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong)" on Fri, 2 Oct 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong)" on Fri, 2 Oct 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 18 upcoming gigs, with line-ups including 69DB, Andy-S, Bouffant Bouffant and Carl H and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

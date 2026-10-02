@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afrosentrik with KAREBI, MADDEH & Soulfultiz" on Fri, 2 Oct 2026.
+Commune is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Afrosentrik with KAREBI, MADDEH & Soulfultiz" on Fri, 2 Oct 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Madelaine Jemine and SOULFULTIZ. See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -15,4 +15,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, wit
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

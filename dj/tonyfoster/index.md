@@ -1,6 +1,6 @@
 # Tony Foster
 
-Tony Foster is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Tony Foster is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Tony Foster is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Detroit. Often billed alongside Bruce Bailey, Mike Agent X Clark and Al Ester. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Tony Foster is a techno and house artist based in United States of America, with
 
 Bruce Bailey, Mike Agent X Clark, Al Ester
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyfoster/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyfoster/)*

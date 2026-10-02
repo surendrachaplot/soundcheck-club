@@ -1,6 +1,6 @@
 # Oliver Schories
 
-Oliver Schories is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 14 Nov 2026.
+Oliver Schories is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 14 Nov 2026.
 
 Oliver Schories is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Berlin, Cologne, Hamburg and Montreal and 4 more. Often billed alongside Format B, Alignment and Bebetta. Next up: Uebel & Gefährlich, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Oliver Schories is a techno and tech house artist based in Germany, with 44 gigs
 
 Format B, Alignment, Bebetta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverschories/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverschories/)*

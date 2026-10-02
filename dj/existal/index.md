@@ -1,6 +1,6 @@
 # Existal
 
-Existal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Korpuss, Riga on Fri, 9 Oct 2026.
+Existal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Korpuss, Riga on Fri, 9 Oct 2026.
 
 Existal is a techno and house artist based in Latvia, with 32 gigs on soundcheck across Riga and Tallinn. Often billed alongside Aniri Chan, Ikss and Kelvin. Next up: Korpuss, Riga on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Existal is a techno and house artist based in Latvia, with 32 gigs on soundcheck
 
 Aniri Chan, Ikss, Kelvin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/existal/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/existal/)*

@@ -4990,8 +4990,6 @@ a.dst-full-t:hover{text-decoration:underline}
     .heart.nh:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(124,92,255,.45); }
     .ev-lsg-h .nh{ height:19px; }
     .ev-lsg-h .nh svg{ width:15px; height:15px; }
-    .fp-h1 .nh{ height:30px; margin-left:4px; vertical-align:middle; }
-    .fp-h1 .nh svg{ width:26px; height:26px; }
     .dock-nmh{ display:flex; align-items:center; gap:4px; min-width:0; }
     .dock .nh{ height:20px; }
     .dock .nh svg, .skm .nh svg{ width:16px; height:16px; }
@@ -5046,7 +5044,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790895693442">
+<meta name="sc-build" content="1790934866205">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5105,7 +5103,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">23 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">130 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">130 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7615,6 +7613,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       // artist-page action buttons (immediate optimistic state, no re-render) — class-agnostic so it matches both .act-btn and the bespoke .fp-ab buttons
+      document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'||st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); b.innerHTML=(st==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(st==='seen'?'Seen':'Want to see')+'</span>'; });
       document.querySelectorAll('[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
@@ -8182,7 +8181,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     // Four chips, one list at a time. Saved = yours, Your artists = new sets from
     // the artists you want to see, Picks = curated (public), Heard = heard.
-    var LSN_CHIPS=[['saved','Saved'],['artists','Your artists'],['picks','Curated picks'],['heard','Heard']];
+    var LSN_CHIPS=[['picks','Curated picks'],['saved','Saved'],['artists','Your artists'],['heard','Heard']];
     var LSN_EMPTY={ saved:'No saved sets yet.', artists:'Save artists to see their new sets here.', heard:'Nothing heard yet.' };
     var _lsnChip=null, _lsnData=null, _lsnSeq=0;
     async function openListen(){
@@ -8213,7 +8212,7 @@ a.dst-full-t:hover{text-decoration:underline}
         d.saved.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k) _lsnAdded[lsnK(k)]=1; });
         d.heard.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k){ _lsnHeard[lsnK(k)]=1; delete _lsnAdded[lsnK(k)]; } });
       }
-      if(!_lsnChip) _lsnChip=(currentUser && d.saved.length)?'saved':'picks';
+      if(!_lsnChip) _lsnChip='picks';   // founder 2 Oct: Curated picks opens first, always
       lsnPaintList();
     }
     function lsnPaintList(){
@@ -11796,11 +11795,13 @@ a.dst-full-t:hover{text-decoration:underline}
               // .fp-htop = the part that sits ON the artwork (full-bleed hero).
               '<div class="fp-htop"><div class="fp-kick">'+kick+'</div>'+
               // Link discs sit right after the name (Paper 15LW); a long name wraps them under it.
-              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+nameHeartHTML(slug, a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div></div>'+
+              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div></div>'+
               bioBlock(a.bio||a.description||'')+
               genreTags+festLine+gemLine+
               '<div class="fp-acts">'+
                 '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets">'+PLAY_SVG+'<span>Play</span></button>'+
+                // founder 2 Oct: the heart by the name collided with the link discs; the pill is back. Seen artists read "Seen".
+                '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'">'+(mine==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
                 '<button class="fp-ab" id="ap-log" type="button">'+logSvg+'<span>Log a gig</span></button>'+
                 '<button class="fp-ab" id="ap-list" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4 7h11M4 12h11M4 17h7M18 14v6M15 17h6"/></svg><span>Add to list</span></button>'+
               '</div>'+
@@ -11869,6 +11870,10 @@ a.dst-full-t:hover{text-decoration:underline}
         apRadio.addEventListener('pointerdown',function(){ latestSet({ slug:slug, name:a.name||slug, popular:a.popular }); prefetchSets(); },{passive:true});
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
+        document.getElementById('ap-wanna').addEventListener('click',function(){
+          // seen state: tap un-marks seen (back to a plain Want to see button); otherwise the usual heart toggle
+          if(artStatus(slug)==='seen') setArtist(slug, null, a.name); else toggleArtist(slug,{name:a.name});
+        });
         document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
         var apl=document.getElementById('ap-list');
         if(apl) apl.addEventListener('click',function(){ addToListSheet(slug, a.name||slug); });

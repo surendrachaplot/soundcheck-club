@@ -1,6 +1,6 @@
 # XL Regular
 
-XL Regular is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
+XL Regular is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
 
 XL Regular is a techno and electronica artist, with 18 gigs on soundcheck across Antwerp, Barcelona, Brussels and Ghent and 3 more. Often billed alongside Prest, AliA and Her Nice Too. Next up: Lanificio 159, Rome on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ XL Regular is a techno and electronica artist, with 18 gigs on soundcheck across
 
 Prest, AliA, Her Nice Too
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlregular/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlregular/)*

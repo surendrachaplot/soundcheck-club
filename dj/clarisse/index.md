@@ -1,6 +1,6 @@
 # Clarisse
 
-Clarisse is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
+Clarisse is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
 
 Clarisse is a techno artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Calcium Channel, GIA and Hypatia. Next up: OXI, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Clarisse is a techno artist based in Germany, with 12 gigs on soundcheck across 
 
 Calcium Channel, GIA, Hypatia
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisse/)*

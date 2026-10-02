@@ -1,6 +1,6 @@
 # Zara Dekho
 
-Zara Dekho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Zara Dekho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
 Zara Dekho is a techno and house artist, with 55 gigs on soundcheck across New York City and Toronto. Often billed alongside Dynoman, JIALING and Ushka. Next up: Mood Ring, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Zara Dekho is a techno and house artist, with 55 gigs on soundcheck across New Y
 
 Dynoman, JIALING, Ushka
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaradekho/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaradekho/)*

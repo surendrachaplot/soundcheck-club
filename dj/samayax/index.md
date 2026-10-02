@@ -1,6 +1,6 @@
 # Sama Yax
 
-Sama Yax is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
+Sama Yax is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
 
 Sama Yax is a house and disco artist based in Spain, with 71 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Rafa Santos, Octo Octa and Sonido Tupinamba. Next up: La Paloma, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sama Yax is a house and disco artist based in Spain, with 71 gigs on soundcheck 
 
 Rafa Santos, Octo Octa, Sonido Tupinamba
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samayax/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samayax/)*

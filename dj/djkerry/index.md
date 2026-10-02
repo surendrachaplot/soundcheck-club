@@ -1,6 +1,6 @@
 # Dj Kerry
 
-Dj Kerry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
+Dj Kerry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
 
 Dj Kerry is a house and disco artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - address will be sent to ticket holders, Los Angeles on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dj Kerry is a house and disco artist based in United States of America, with 48 
 
 Stacy Christine, Heidi Lawden, Masha Mar
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*

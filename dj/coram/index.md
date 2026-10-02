@@ -1,6 +1,6 @@
 # Cora M.
 
-Cora M. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Canal 54, Geneva on Fri, 2 Oct 2026.
+Cora M. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Canal 54, Geneva on Fri, 2 Oct 2026.
 
 Cora M. is a house and minimal artist based in France, with 31 gigs on soundcheck across Barcelona, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Giorgio Maulini, Nicolas Duvoisin and Chris Llopis. Next up: Canal 54, Geneva on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cora M. is a house and minimal artist based in France, with 31 gigs on soundchec
 
 Giorgio Maulini, Nicolas Duvoisin, Chris Llopis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coram/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coram/)*

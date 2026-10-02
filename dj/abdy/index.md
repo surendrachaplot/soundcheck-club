@@ -1,6 +1,6 @@
 # Abdy
 
-Abdy is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Groove Gardens, Malta on Sat, 10 Oct 2026.
+Abdy is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Groove Gardens, Malta on Sat, 10 Oct 2026.
 
 Abdy is a progressive house and techno artist based in Malta, with 43 gigs on soundcheck across London, Malta and Zurich. Often billed alongside Shabab Khan, Philip Ackowsky and LEM (IT). Next up: Groove Gardens, Malta on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Abdy is a progressive house and techno artist based in Malta, with 43 gigs on so
 
 Shabab Khan, Philip Ackowsky, LEM (IT)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*

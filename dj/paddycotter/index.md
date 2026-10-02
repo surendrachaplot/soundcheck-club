@@ -1,6 +1,6 @@
 # Paddy Cotter
 
-Paddy Cotter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
+Paddy Cotter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 13 Nov 2026.
 
 Paddy Cotter is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside Revstreet, Midnight Lounge and Moon Chaser. Next up: Starlane Pizza Bar, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Paddy Cotter is a techno and house artist based in United Kingdom, with 24 gigs 
 
 Revstreet, Midnight Lounge, Moon Chaser
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paddycotter/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paddycotter/)*

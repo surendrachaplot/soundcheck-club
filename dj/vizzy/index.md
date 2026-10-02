@@ -1,6 +1,6 @@
 # VIZZY
 
-VIZZY is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Poseidons, Riga on Fri, 9 Oct 2026.
+VIZZY is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Poseidons, Riga on Fri, 9 Oct 2026.
 
 VIZZY is a techno and acid artist based in Latvia, with 3 gigs on soundcheck across Riga. Often billed alongside DV8 (LV), MBark and XSYNC19. Next up: Poseidons, Riga on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ VIZZY is a techno and acid artist based in Latvia, with 3 gigs on soundcheck acr
 
 DV8 (LV), MBark, XSYNC19
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vizzy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vizzy/)*

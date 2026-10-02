@@ -1,6 +1,6 @@
 # David Ramsay
 
-David Ramsay is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
+David Ramsay is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
 
 David Ramsay is a techno and tech house artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: Dalston Den, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ David Ramsay is a techno and tech house artist based in United Kingdom, with 22 
 
 Tafkanik, LO-LOW, Selecky
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*

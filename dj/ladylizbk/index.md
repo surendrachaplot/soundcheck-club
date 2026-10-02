@@ -1,6 +1,6 @@
 # LADYLIZBK
 
-LADYLIZBK is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
+LADYLIZBK is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
 
 LADYLIZBK is a house and deep house artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside DJ Courtney K, Pjay and Craft. Next up: Pixelated Records, New York City on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ LADYLIZBK is a house and deep house artist based in United States of America, wi
 
 DJ Courtney K, Pjay, Craft
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylizbk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylizbk/)*

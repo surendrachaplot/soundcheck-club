@@ -1,6 +1,6 @@
 # Siia
 
-Siia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 288 Green St, Boston on Fri, 2 Oct 2026.
+Siia is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 288 Green St, Boston on Fri, 2 Oct 2026.
 
 Siia is a techno and minimal techno artist based in United States of America, with 17 gigs on soundcheck across Boston and New York City. Often billed alongside FRANZIV, AleBCostantino and ViV:On. Next up: 288 Green St, Boston on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Siia is a techno and minimal techno artist based in United States of America, wi
 
 FRANZIV, AleBCostantino, ViV:On
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siia/)*

@@ -1,6 +1,6 @@
 # TheCamiloS
 
-TheCamiloS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+TheCamiloS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
 TheCamiloS is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Matt Radovich, Acid Safari and Ben Cromack. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TheCamiloS is a techno and house artist based in Australia, with 14 gigs on soun
 
 Matt Radovich, Acid Safari, Ben Cromack
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamilos/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamilos/)*

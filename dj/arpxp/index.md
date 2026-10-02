@@ -1,6 +1,6 @@
 # arpxp
 
-arpxp is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
+arpxp is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
 
 arpxp is a drum & bass and jungle artist based in Italy, with 8 gigs on soundcheck across Berlin, Lisbon, London and Milan and 1 more. Often billed alongside Upzet, Soulsurfer and Zar.. Next up: Saloon, Tokyo on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ arpxp is a drum & bass and jungle artist based in Italy, with 8 gigs on soundche
 
 Upzet, Soulsurfer, Zar.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpxp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpxp/)*

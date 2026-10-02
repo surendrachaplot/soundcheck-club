@@ -1,6 +1,6 @@
 # Rossa
 
-Rossa is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
+Rossa is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
 
 Rossa is a techno and tech house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Paris and 1 more. Often billed alongside Dexon, Aur3lius and Caelestis. Next up: Babour Sauvage, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rossa is a techno and tech house artist based in Netherlands, with 28 gigs on so
 
 Dexon, Aur3lius, Caelestis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*

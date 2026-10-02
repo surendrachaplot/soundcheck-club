@@ -1,6 +1,6 @@
 # Maeksll
 
-Maeksll is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+Maeksll is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 Maeksll is a techno and trance artist based in Switzerland, with 5 gigs on soundcheck across Basel, Berlin and Frankfurt. Often billed alongside kso12, AEREA and AZADÎ. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Maeksll is a techno and trance artist based in Switzerland, with 5 gigs on sound
 
 kso12, AEREA, AZADÎ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maeksll/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maeksll/)*

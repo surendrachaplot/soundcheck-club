@@ -1,6 +1,6 @@
 # Cal Lyall
 
-Cal Lyall is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Soup, Tokyo on Sun, 11 Oct 2026.
+Cal Lyall is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Soup, Tokyo on Sun, 11 Oct 2026.
 
 Cal Lyall is an electronica and experimental artist, with 8 gigs on soundcheck across Tokyo. Often billed alongside DJ MEMAI, Ritsuko Sakata and Compuma. Next up: Soup, Tokyo on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ Cal Lyall is an electronica and experimental artist, with 8 gigs on soundcheck a
 
 DJ MEMAI, Ritsuko Sakata, Compuma
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callyall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callyall/)*

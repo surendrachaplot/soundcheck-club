@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
+DJ Healthy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
 
 DJ Healthy is a techno and house artist based in Japan, with 106 gigs on soundcheck across Bangkok, Dublin, Helsinki and Hong Kong and 11 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: HVEN, Tokyo on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ DJ Healthy is a techno and house artist based in Japan, with 106 gigs on soundch
 
 Amelia Holt, YELLOWUHURU, Chung
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

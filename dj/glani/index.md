@@ -1,6 +1,6 @@
 # Glani
 
-Glani is a Psytrance and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noce KRK, Krakow on Sat, 17 Oct 2026.
+Glani is a Psytrance and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Noce KRK, Krakow on Sat, 17 Oct 2026.
 
 Glani is a psytrance and downtempo artist based in Poland, with 30 gigs on soundcheck across Krakow. Often billed alongside Unsent, Neirol and Esquita. Next up: Noce KRK, Krakow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Glani is a psytrance and downtempo artist based in Poland, with 30 gigs on sound
 
 Unsent, Neirol, Esquita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glani/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glani/)*

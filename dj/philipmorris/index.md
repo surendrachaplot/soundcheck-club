@@ -1,6 +1,6 @@
 # Philip Morris
 
-Philip Morris is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
+Philip Morris is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
 
 Philip Morris is an experimental and house artist, with 7 gigs on soundcheck across Berlin, Cologne and London. Often billed alongside Alys, Bloomfeld and MISTICA. Next up: fi, Cologne on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Philip Morris is an experimental and house artist, with 7 gigs on soundcheck acr
 
 Alys, Bloomfeld, MISTICA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmorris/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmorris/)*

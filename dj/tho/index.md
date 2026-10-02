@@ -1,6 +1,6 @@
 # Tho
 
-Tho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
+Tho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Tho is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Boston and Bristol and 14 more. Often billed alongside Loren Heer, DJ Senc and DMC.. Next up: TBA, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tho is a house and techno artist based in United Kingdom, with 57 gigs on soundc
 
 Loren Heer, DJ Senc, DMC.
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tho/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tho/)*

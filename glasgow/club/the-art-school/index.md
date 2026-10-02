@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound" on Thu, 1 Oct 2026.
+The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RUSH - Cari Lekebusch 90's hybrid set" on Fri, 2 Oct 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, Bash Man and Bristol Luke and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -8,10 +8,10 @@ The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound | Hometown Sound, James Hometown |
 | Fri, 2 Oct 2026 | RUSH - Cari Lekebusch 90's hybrid set | Bash Man, Cari Lekebusch |
 | Fri, 9 Oct 2026 | Original Sin \\\ Pray To Good | Bristol Luke, Divergence, Jurnalist, Original Sin |
 | Sat, 10 Oct 2026 | 9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH] | DJ Assault, DJ Hell, Kairogen |
+| Thu, 15 Oct 2026 | DUB CLUB: Simon Scott (EXODUS / SUBDUB / OUTLOOK) & Hometown Sound | Hometown Sound, James Hometown, Simon Scott |
 | Fri, 16 Oct 2026 | iNTRA: Jason Cluff, Nyctonian. (After Holy priest) | Jason Cluff, Nyctonian |
 | Sat, 17 Oct 2026 | FLY - DART, Milion & Céleste | Céleste, DART, Milion |
 | Wed, 21 Oct 2026 | PILOT / Upper90 | ALWAYS 8:15, Loose E, Upper90 |
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

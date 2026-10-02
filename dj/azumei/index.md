@@ -1,6 +1,6 @@
 # Azumei
 
-Azumei is a Drum & Bass and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Fri, 16 Oct 2026.
+Azumei is a Drum & Bass and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Fri, 16 Oct 2026.
 
 Azumei is a drum & bass and dancehall artist, with 20 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside DASHY, AVA and Chiedza. Next up: The Love Inn, Bristol on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Azumei is a drum & bass and dancehall artist, with 20 gigs on soundcheck across 
 
 DASHY, AVA (3), Chiedza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*

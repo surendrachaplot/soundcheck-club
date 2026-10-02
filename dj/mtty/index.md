@@ -1,6 +1,6 @@
 # MTTY
 
-MTTY is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+MTTY is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 MTTY is a house and minimal artist based in Australia, with 12 gigs on soundcheck across New South Wales and Sydney. Often billed alongside Ari Kiko, Pistaccio and JJ OKOCHA. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ MTTY is a house and minimal artist based in Australia, with 12 gigs on soundchec
 
 Ari Kiko, Pistaccio, JJ OKOCHA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtty/)*

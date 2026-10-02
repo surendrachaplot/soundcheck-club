@@ -1,6 +1,6 @@
 # Międzymiastowa
 
-Międzymiastowa is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MM: Pysh" on Sat, 3 Oct 2026.
+Międzymiastowa is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MM: Pysh" on Sat, 3 Oct 2026.
 
 Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming gigs, with line-ups including Jeahmon and Pysh. See dates, start times and who's playing. Rynek Główny 34, Kraków, Polska.
 
@@ -17,4 +17,4 @@ Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming gigs
 
 Rynek Główny 34, Kraków, Polska, Krakow
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*

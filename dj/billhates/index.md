@@ -1,6 +1,6 @@
 # Bill Hates
 
-Bill Hates is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
+Bill Hates is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 Bill Hates is a tech house and deep house artist based in Venezuela, with 89 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid. Often billed alongside ROGGIERO G, XAVI RABARTE and HANIE. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Bill Hates is a tech house and deep house artist based in Venezuela, with 89 gig
 
 ROGGIERO G, XAVI RABARTE, HANIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*

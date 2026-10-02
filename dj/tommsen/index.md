@@ -1,6 +1,6 @@
 # TØMMSEN
 
-TØMMSEN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
+TØMMSEN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
 
 TØMMSEN is a techno and hardcore artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Hendrik Nitsche, Sonse and Balkhausen. Next up: MaHalla, Berlin on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ TØMMSEN is a techno and hardcore artist based in Germany, with 3 gigs on soundc
 
 Hendrik Nitsche, Sonse, Balkhausen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommsen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommsen/)*

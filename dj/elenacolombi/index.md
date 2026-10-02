@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+Elena Colombi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 Elena Colombi is a techno and house artist based in Italy, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: FOLD, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Elena Colombi is a techno and house artist based in Italy, with 142 gigs on soun
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

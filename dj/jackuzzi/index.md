@@ -1,6 +1,6 @@
 # JACKUZZI
 
-JACKUZZI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+JACKUZZI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 JACKUZZI is a house and minimal artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Brussels, Ghent and London. Often billed alongside Lucimille, Bapow and Jana Joanna. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ JACKUZZI is a house and minimal artist based in Belgium, with 11 gigs on soundch
 
 Lucimille, Bapow, Jana Joanna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackuzzi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackuzzi/)*

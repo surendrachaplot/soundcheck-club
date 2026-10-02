@@ -1,6 +1,6 @@
 # Maccari
 
-Maccari is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Spree, Berlin on Fri, 2 Oct 2026.
+Maccari is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Fri, 2 Oct 2026.
 
 Maccari is a techno and house artist based in Brazil, with 12 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Sao Paulo and 1 more. Often billed alongside KaioBarssalos, MASCHA and ASKE. Next up: Urban Spree, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Maccari is a techno and house artist based in Brazil, with 12 gigs on soundcheck
 
 KaioBarssalos, MASCHA, ASKE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maccari/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maccari/)*

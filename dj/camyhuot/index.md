@@ -1,6 +1,6 @@
 # Camy Huot
 
-Camy Huot is a Post-Punk and EBM artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OT301, Amsterdam on Fri, 23 Oct 2026.
+Camy Huot is a Post-Punk and EBM artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OT301, Amsterdam on Fri, 23 Oct 2026.
 
 Camy Huot is a post-punk and ebm artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Antwerp, Frankfurt and Hamburg and 4 more. Often billed alongside Parrish Smith, Curses and 2+2=5. Next up: OT301, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Camy Huot is a post-punk and ebm artist based in Netherlands, with 23 gigs on so
 
 Parrish Smith, Curses, 2+2=5
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camyhuot/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camyhuot/)*

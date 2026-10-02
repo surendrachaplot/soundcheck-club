@@ -1,6 +1,6 @@
 # Jesse DM
 
-Jesse DM is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Jesse DM is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Jesse DM is a house and club artist based in Australia, with 37 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Simonetti, Jo Christy and DJ Luv You. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jesse DM is a house and club artist based in Australia, with 37 gigs on soundche
 
 Simonetti, Jo Christy, DJ Luv You
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*

@@ -1,6 +1,6 @@
 # Kanghu
 
-Kanghu is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
+Kanghu is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
 
 Kanghu is a techno and industrial artist based in Romania, with 14 gigs on soundcheck across Bucharest. Often billed alongside Radox, OKTAI and BBUBU. Next up: Blindspot*, Bucharest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kanghu is a techno and industrial artist based in Romania, with 14 gigs on sound
 
 Radox, OKTAI, BBUBU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanghu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanghu/)*

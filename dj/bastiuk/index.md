@@ -1,6 +1,6 @@
 # BASTI(UK)
 
-BASTI(UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+BASTI(UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
 BASTI(UK) is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and London. Often billed alongside Pheebs, AMELITA and Discgrace. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BASTI(UK) is a garage and house artist based in United Kingdom, with 15 gigs on 
 
 Pheebs, AMELITA (2), Discgrace
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiuk/)*

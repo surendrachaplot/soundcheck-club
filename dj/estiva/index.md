@@ -1,6 +1,6 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Estiva is a Progressive House and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
 Estiva is a progressive house and trance artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: E1, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Estiva is a progressive house and trance artist based in Netherlands, with 38 gi
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

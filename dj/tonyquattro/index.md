@@ -1,6 +1,6 @@
 # Tony Quattro
 
-Tony Quattro is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 2 Oct 2026.
+Tony Quattro is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 2 Oct 2026.
 
 Tony Quattro is a house and bass artist, with 8 gigs on soundcheck across Los Angeles, Mexico City, New York City and Vancouver. Often billed alongside Daddy Kev, Mapamota and 1morning. Next up: MAD Radio NYC, New York City on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Tony Quattro is a house and bass artist, with 8 gigs on soundcheck across Los An
 
 Daddy Kev, Mapamota, 1morning
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyquattro/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyquattro/)*

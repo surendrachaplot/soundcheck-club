@@ -1,6 +1,6 @@
 # adodo
 
-adodo is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 2 Oct 2026.
+adodo is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Fri, 2 Oct 2026.
 
 adodo is an electronic artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside shayan, Black Mirror Park and bb:fm. Next up: Paloma, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ adodo is an electronic artist based in Germany, with 11 gigs on soundcheck acros
 
 shayan, Black Mirror Park, bb:fm
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adodo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adodo/)*

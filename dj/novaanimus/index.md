@@ -1,6 +1,6 @@
 # NOVA ANIMUS
 
-NOVA ANIMUS is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 2 Oct 2026.
+NOVA ANIMUS is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 2 Oct 2026.
 
 NOVA ANIMUS is a techno and minimal techno artist based in South Korea, with 20 gigs on soundcheck across Seoul. Often billed alongside Nocturnal (KR), Stann Lumo and Suman. Next up: Atdge Seoul, Seoul on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ NOVA ANIMUS is a techno and minimal techno artist based in South Korea, with 20 
 
 Nocturnal (KR), Stann Lumo, Suman
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novaanimus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novaanimus/)*

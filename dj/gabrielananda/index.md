@@ -1,6 +1,6 @@
 # Gabriel Ananda
 
-Gabriel Ananda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nachtigall, Cologne on Fri, 2 Oct 2026.
+Gabriel Ananda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nachtigall, Cologne on Fri, 2 Oct 2026.
 
 Gabriel Ananda is a techno and house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Hamburg and 1 more. Often billed alongside Ninsa, Olivier Weiter and Seth Schwarz. Next up: Nachtigall, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gabriel Ananda is a techno and house artist based in Germany, with 15 gigs on so
 
 Ninsa, Olivier Weiter, Seth Schwarz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielananda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielananda/)*

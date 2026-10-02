@@ -1,6 +1,6 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
+KimberlaID is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
 
 KimberlaID is a techno and hardcore artist based in France, with 52 gigs on soundcheck across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: E1, London on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ KimberlaID is a techno and hardcore artist based in France, with 52 gigs on soun
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

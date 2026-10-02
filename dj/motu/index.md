@@ -1,6 +1,6 @@
 # Motu
 
-Motu is a Jungle and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 91 Brick Lane, London on Sat, 12 Dec 2026.
+Motu is a Jungle and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 91 Brick Lane, London on Sat, 12 Dec 2026.
 
 Motu is a jungle and uk funky artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Calm Stiege, Latec0mer and Burna. Next up: 91 Brick Lane, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Motu is a jungle and uk funky artist based in United Kingdom, with 11 gigs on so
 
 Calm Stiege, Latec0mer, Burna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motu/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motu/)*

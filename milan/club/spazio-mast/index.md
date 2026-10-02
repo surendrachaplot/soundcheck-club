@@ -1,6 +1,6 @@
 # Spazio Mast
 
-Spazio Mast is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FIERA DEL DISCO _ RHO" on Sun, 4 Oct 2026.
+Spazio Mast is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "FIERA DEL DISCO _ RHO" on Sun, 4 Oct 2026.
 
 Spazio Mast is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including STEEV-C. See dates, start times and who's playing. Via S. Martino, 22, 20017 Rho MI, Italy.
 
@@ -14,4 +14,4 @@ Spazio Mast is a music venue in Milan listed on soundcheck. 1 upcoming gig, with
 
 Via S. Martino, 22, 20017 Rho MI, Italy, Milan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-mast/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-mast/)*

@@ -1,6 +1,6 @@
 # Drabes
 
-Drabes is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
+Drabes is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
 
 Drabes is a house and disco artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Dam Swindle. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Drabes is a house and disco artist based in Netherlands, with 15 gigs on soundch
 
 Midas Field, Bibi Seck, Dam Swindle
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drabes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drabes/)*

@@ -1,6 +1,6 @@
 # Marcus Meinhardt
 
-Marcus Meinhardt is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
+Marcus Meinhardt is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
 
 Marcus Meinhardt is a techno and tech house artist based in Germany, with 62 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Pauli Pocket, Solvane and Urem. Next up: Edem Beach Club, Greece on Wed 26 May.
 
@@ -25,4 +25,4 @@ Marcus Meinhardt is a techno and tech house artist based in Germany, with 62 gig
 
 Pauli Pocket, Solvane, Urem
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*

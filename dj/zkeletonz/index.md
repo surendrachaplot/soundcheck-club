@@ -1,6 +1,6 @@
 # Zkeletonz
 
-Zkeletonz is a Post-Punk and New Wave artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dingwalls, London on Fri, 2 Oct 2026.
+Zkeletonz is a Post-Punk and New Wave artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dingwalls, London on Fri, 2 Oct 2026.
 
 Zkeletonz is a post-punk and new wave artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: Dingwalls, London on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Zkeletonz is a post-punk and new wave artist based in United Kingdom, with 21 gi
 
 Emergency Loop, Hyperfunk, JustElliot
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*

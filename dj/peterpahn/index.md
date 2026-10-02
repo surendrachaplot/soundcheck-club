@@ -1,6 +1,6 @@
 # PETER PAHN
 
-PETER PAHN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
+PETER PAHN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 PETER PAHN is a techno and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin, Cologne, Frankfurt and Glasgow and 2 more. Often billed alongside Kerstin Eden, A*S*Y*S and Alchemiah. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PETER PAHN is a techno and tech house artist based in Germany, with 13 gigs on s
 
 Kerstin Eden, A*S*Y*S (2), Alchemiah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*

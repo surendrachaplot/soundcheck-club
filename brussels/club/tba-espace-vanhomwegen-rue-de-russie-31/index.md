@@ -1,6 +1,6 @@
 # TBA - Espace Vanhomwegen, Rue de Russie 31
 
-TBA - Espace Vanhomwegen, Rue de Russie 31 is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LOVE THY HEROES" on Fri, 9 Oct 2026.
+TBA - Espace Vanhomwegen, Rue de Russie 31 is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "LOVE THY HEROES" on Fri, 9 Oct 2026.
 
 TBA - Espace Vanhomwegen, Rue de Russie 31 is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Purple Flame and &RY.. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Espace Vanhomwegen, Rue de Russie 31 is a music venue in Brussels listed o
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | LOVE THY HEROES | &RY., Purple Flame |
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-espace-vanhomwegen-rue-de-russie-31/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-espace-vanhomwegen-rue-de-russie-31/)*

@@ -1,6 +1,6 @@
 # SLOUCHO
 
-SLOUCHO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sugar Club, Dublin on Fri, 9 Oct 2026.
+SLOUCHO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sugar Club, Dublin on Fri, 9 Oct 2026.
 
 SLOUCHO is a techno and house artist based in Ireland, with 29 gigs on soundcheck across Antwerp, Barcelona, Belfast and Bristol and 5 more. Often billed alongside Sam Alfred, Spray and Aika Mal. Next up: The Sugar Club, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SLOUCHO is a techno and house artist based in Ireland, with 29 gigs on soundchec
 
 Sam Alfred, Spray, Aika Mal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sloucho/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sloucho/)*

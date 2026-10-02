@@ -1,6 +1,6 @@
 # Tony Flow
 
-Tony Flow is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Tony Flow is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
 Tony Flow is a house and baile funk artist based in United States of America, with 14 gigs on soundcheck across Miami and New York City. Often billed alongside Timo Lee, Afrobeta and Ardio Zemog. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tony Flow is a house and baile funk artist based in United States of America, wi
 
 Timo Lee, Afrobeta, Ardio Zemog
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyflow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyflow/)*

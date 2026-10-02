@@ -1,6 +1,6 @@
 # Sebastian Wibe
 
-Sebastian Wibe is a Trance and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
+Sebastian Wibe is a Trance and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
 Sebastian Wibe is a trance and garage artist based in Denmark, with 8 gigs on soundcheck across Copenhagen and London. Often billed alongside Adrian Salcedo, BBY GOOSE and Britney Speed. Next up: KB3, Copenhagen on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Sebastian Wibe is a trance and garage artist based in Denmark, with 8 gigs on so
 
 Adrian Salcedo, BBY GOOSE, Britney Speed
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianwibe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianwibe/)*

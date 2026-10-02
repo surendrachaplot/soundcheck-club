@@ -1,6 +1,6 @@
 # Monique Tya
 
-Monique Tya is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at QQQ ST. Park, Melbourne on Sat, 24 Oct 2026.
+Monique Tya is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at QQQ ST. Park, Melbourne on Sat, 24 Oct 2026.
 
 Monique Tya is a bass and techno artist based in Australia, with 14 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside DJ PGZ, Emelyne and Kate Miller. Next up: QQQ ST. Park, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Monique Tya is a bass and techno artist based in Australia, with 14 gigs on soun
 
 DJ PGZ, Emelyne, Kate Miller
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*

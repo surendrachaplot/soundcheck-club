@@ -1,6 +1,6 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+David Penn is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 David Penn is a house and tech house artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 12 more. Often billed alongside Sam Divine, Ferreck Dawn and Low Steppa. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -21,17 +21,17 @@ David Penn is a house and tech house artist based in Spain, with 75 gigs on soun
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza · Mon, 31 Aug 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 - O Beach, Ibiza · Sun, 23 Aug 2026
 - Eden, Ibiza · Thu, 13 Aug 2026
 - Amnesia Ibiza, Ibiza · Fri, 10 Jul 2026
-- Amnesia Ibiza, Ibiza · Fri, 19 Jun 2026
-- Chinois Ibiza, Ibiza · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Sam Divine, Ferreck Dawn, Low Steppa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

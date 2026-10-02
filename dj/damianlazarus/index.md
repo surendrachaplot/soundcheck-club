@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hangaren, Copenhagen on Sat, 3 Oct 2026.
+Damian Lazarus is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangaren, Copenhagen on Sat, 3 Oct 2026.
 
 Damian Lazarus is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Hangaren, Copenhagen on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Damian Lazarus is a house and tech house artist based in United Kingdom, with 21
 
 Black Coffee, Paul Reynolds, Airrica
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

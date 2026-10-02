@@ -1,6 +1,6 @@
 # RoomToo
 
-RoomToo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kapsule, Liverpool on Sat, 24 Oct 2026.
+RoomToo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kapsule, Liverpool on Sat, 24 Oct 2026.
 
 RoomToo is a house and acid artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Belfast, Dublin and Liverpool and 2 more. Often billed alongside Olly Luiz, Phill de Janeiro and Taylor Taylor. Next up: Kapsule, Liverpool on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ RoomToo is a house and acid artist based in United Kingdom, with 22 gigs on soun
 
 Olly Luiz, Phill de Janeiro, Taylor Taylor
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomtoo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomtoo/)*

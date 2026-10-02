@@ -1,6 +1,6 @@
 # Ricky Morrison
 
-Ricky Morrison is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Ricky Morrison is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Ricky Morrison is a house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Booker T, Groove Assassin and Tony Humphries. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Ricky Morrison is a house and deep house artist based in United Kingdom, with 7 
 
 Booker T, Groove Assassin, Tony Humphries
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymorrison/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymorrison/)*

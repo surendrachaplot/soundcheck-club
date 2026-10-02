@@ -1,6 +1,6 @@
 # Rosy Ross
 
-Rosy Ross is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 31 Oct 2026.
+Rosy Ross is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 31 Oct 2026.
 
 Rosy Ross is a house and balearic artist based in United Kingdom, with 54 gigs on soundcheck across London and Tokyo. Often billed alongside Megan Leo, L KAE F and Stella Z. Next up: Avalon Cafe Bermondsey, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rosy Ross is a house and balearic artist based in United Kingdom, with 54 gigs o
 
 Megan Leo, L KAE F, Stella Z
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*

@@ -1,6 +1,6 @@
 # Em i6
 
-Em i6 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
+Em i6 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Horse & Groom, London on Fri, 27 Nov 2026.
 
 Em i6 is a house and tech house artist based in Switzerland, with 11 gigs on soundcheck across Ibiza and London. Often billed alongside Nelson Reis, Alex Delmar and DJ Le Baron. Next up: The Horse & Groom, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Em i6 is a house and tech house artist based in Switzerland, with 11 gigs on sou
 
 Nelson Reis, Alex Delmar, DJ Le Baron
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emi6/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emi6/)*

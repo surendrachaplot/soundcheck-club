@@ -1,6 +1,6 @@
 # Rob Da Rhythm
 
-Rob Da Rhythm is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
+Rob Da Rhythm is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
 Rob Da Rhythm is a hardcore and gabber artist based in United Kingdom, with 21 gigs on soundcheck across Glasgow. Often billed alongside Chaos Clan, Wreckheadz and Al Twisted. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rob Da Rhythm is a hardcore and gabber artist based in United Kingdom, with 21 g
 
 Chaos Clan, Wreckheadz, Al Twisted
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robdarhythm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robdarhythm/)*

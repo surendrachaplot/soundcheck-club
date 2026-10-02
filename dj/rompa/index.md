@@ -1,6 +1,6 @@
 # Rompa
 
-Rompa is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
+Rompa is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
 
 Rompa is a bass and experimental artist based in Germany, with 11 gigs on soundcheck across Berlin and Munich. Often billed alongside Brootworth, Dangermami and Delta Division. Next up: OHM, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Rompa is a bass and experimental artist based in Germany, with 11 gigs on soundc
 
 Brootworth, Dangermami, Delta Division
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*

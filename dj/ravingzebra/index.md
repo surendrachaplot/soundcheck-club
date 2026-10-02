@@ -1,6 +1,6 @@
 # RAVING zebra
 
-RAVING zebra is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Altenburg 1964, Prague on Fri, 2 Oct 2026.
+RAVING zebra is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Altenburg 1964, Prague on Fri, 2 Oct 2026.
 
 RAVING zebra is a techno and acid artist based in Czech Republic, with 15 gigs on soundcheck across London, Prague and Vienna. Often billed alongside Elektrabel, Nika77 and TMH Tranzit. Next up: Altenburg 1964, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ RAVING zebra is a techno and acid artist based in Czech Republic, with 15 gigs o
 
 Elektrabel, Nika77, TMH Tranzit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingzebra/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingzebra/)*

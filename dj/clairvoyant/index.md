@@ -1,6 +1,6 @@
 # clairvoyant
 
-clairvoyant is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
+clairvoyant is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Fri, 2 Oct 2026.
 
 clairvoyant is a techno and house artist, with 12 gigs on soundcheck across Detroit. Often billed alongside COOPER CRANK, LATEX GIRL and DJ Good Evening. Next up: Marble Bar, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ clairvoyant is a techno and house artist, with 12 gigs on soundcheck across Detr
 
 COOPER CRANK, LATEX GIRL, DJ Good Evening
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clairvoyant/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clairvoyant/)*

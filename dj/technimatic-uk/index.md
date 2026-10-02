@@ -1,6 +1,6 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Technimatic is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
 Technimatic is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 16 more. Often billed alongside LowQui, S.P.Y and Camo & Krooked. Next up: Club Exil, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Technimatic is a drum & bass and jungle artist based in United Kingdom, with 41 
 
 LowQui, S.P.Y, Camo & Krooked
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

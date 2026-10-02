@@ -1,6 +1,6 @@
 # Trax Unit
 
-Trax Unit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Fri, 2 Oct 2026.
+Trax Unit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Fri, 2 Oct 2026.
 
 Trax Unit is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Berlin, Chicago, Los Angeles and New York City and 3 more. Often billed alongside Dj Warning, Samwise (US) and 1morning. Next up: TBA, Los Angeles on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Trax Unit is a house and techno artist based in United States of America, with 8
 
 Dj Warning, Samwise (US), 1morning
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxunit/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxunit/)*

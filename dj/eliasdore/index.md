@@ -1,6 +1,6 @@
 # Elias Doré
 
-Elias Doré is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
+Elias Doré is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Sat, 17 Oct 2026.
 
 Elias Doré is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Frida Darko, Horst Haller and Johænsson. Next up: OST, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Elias Doré is a techno and house artist based in Germany, with 23 gigs on sound
 
 Frida Darko, Horst Haller, Johænsson
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasdore/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasdore/)*

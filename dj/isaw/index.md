@@ -1,6 +1,6 @@
 # ISA W
 
-ISA W is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 30 Oct 2026.
+ISA W is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 30 Oct 2026.
 
 ISA W is a techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside INA, Ambu Bambu and Annebel. Next up: Garage Noord, Amsterdam on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ ISA W is a techno and house artist based in Netherlands, with 8 gigs on soundche
 
 INA (3), Ambu Bambu, Annebel
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaw/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaw/)*

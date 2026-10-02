@@ -1,6 +1,6 @@
 # AHAB
 
-AHAB is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+AHAB is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 AHAB is a techno and deep house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Marc Eisenberg, V (NYC) and Better Call Paul. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AHAB is a techno and deep house artist based in Germany, with 13 gigs on soundch
 
 Marc Eisenberg, V (NYC), Better Call Paul
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahab/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahab/)*

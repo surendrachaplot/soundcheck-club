@@ -1,14 +1,13 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Silva Bumpa is a Garage and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Roundhouse, London on Fri, 2 Oct 2026.
 
-Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: The Roundhouse, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | The Roundhouse | London |
 | Sat, 3 Oct 2026 | The Love Inn | Bristol |
 | Fri, 9 Oct 2026 | The Limelight | Belfast |
@@ -20,9 +19,11 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs 
 | Fri, 23 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 30 Oct 2026 | Badaboum | Paris |
 | Sat, 31 Oct 2026 | Fuse | Brussels |
+| Thu, 19 Nov 2026 | One22 | Canberra |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - The Chocolate Factory, New York City · Sat, 26 Sept 2026
 - SILO, New York City · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs 
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Radius, Chicago · Fri, 4 Sept 2026
 - Kelvedon Hall, London · Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza · Thu, 20 Aug 2026
 
 ## Shares bills with
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

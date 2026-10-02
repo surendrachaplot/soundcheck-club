@@ -1,6 +1,6 @@
 # HAPOL
 
-HAPOL is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+HAPOL is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
 HAPOL is a house and garage artist based in United Kingdom, with 45 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Robbie, Jamie Gunn and McCart. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ HAPOL is a house and garage artist based in United Kingdom, with 45 gigs on soun
 
 Robbie, Jamie Gunn, McCart
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*

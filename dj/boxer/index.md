@@ -1,6 +1,6 @@
 # Boxer
 
-Boxer is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Boxer is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
 Boxer is a progressive house and house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Istanbul, Leeds and London and 2 more. Often billed alongside L.GU., Estiva and Klur. Next up: E1, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Boxer is a progressive house and house artist based in United Kingdom, with 15 g
 
 L.GU., Estiva, Klur
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*

@@ -1,6 +1,6 @@
 # Syrup Bar
 
-Syrup Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Boxed Off" on Sat, 24 Oct 2026.
+Syrup Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Boxed Off" on Sat, 24 Oct 2026.
 
 Syrup Bar is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Syrup Bar, 24-26 Oxford  Rd, Denham, Uxbridge  UB9 4DQ.
 
@@ -14,4 +14,4 @@ Syrup Bar is a music venue in London listed on soundcheck. 1 upcoming gig. See d
 
 Syrup Bar, 24-26 Oxford  Rd, Denham, Uxbridge  UB9 4DQ, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/syrup-bar/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/syrup-bar/)*

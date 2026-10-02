@@ -1,6 +1,6 @@
 # Emil LP
 
-Emil LP is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Milneys, Melbourne on Fri, 2 Oct 2026.
+Emil LP is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Milneys, Melbourne on Fri, 2 Oct 2026.
 
 Emil LP is a deep house and disco artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Miles Ahead, Julius Myles and NALIITA. Next up: Milneys, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Emil LP is a deep house and disco artist based in Australia, with 10 gigs on sou
 
 Miles Ahead, Julius Myles, NALIITA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emillp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emillp/)*

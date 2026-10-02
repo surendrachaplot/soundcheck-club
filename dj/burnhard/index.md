@@ -1,6 +1,6 @@
 # Burnhard
 
-Burnhard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Burnhard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
 Burnhard is a techno and house artist, with 10 gigs on soundcheck across Berlin, Hamburg and Sydney. Often billed alongside Niemand & Keiner, Bonnie Ford and Ady Toledano. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Burnhard is a techno and house artist, with 10 gigs on soundcheck across Berlin,
 
 Niemand & Keiner, Bonnie Ford, Ady Toledano
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnhard/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnhard/)*

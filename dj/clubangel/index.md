@@ -1,6 +1,6 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
+Club Angel is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
 Club Angel is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Club Angel is a garage and house artist based in Australia, with 103 gigs on sou
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

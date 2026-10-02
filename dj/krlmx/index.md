@@ -1,6 +1,6 @@
 # Krl Mx
 
-Krl Mx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at T7 Paris, Paris on Fri, 9 Oct 2026.
+Krl Mx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at T7 Paris, Paris on Fri, 9 Oct 2026.
 
 Krl Mx is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Shlømo, Tham and LESSSS. Next up: T7 Paris, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Krl Mx is a techno and trance artist based in France, with 119 gigs on soundchec
 
 Shlømo, Tham, LESSSS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*

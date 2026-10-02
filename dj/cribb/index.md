@@ -1,6 +1,6 @@
 # Cribb
 
-Cribb is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Cribb is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
 Cribb is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across London and Manchester. Often billed alongside MiddleGround, Brandon Tourle and Diego Gee. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cribb is a house and tech house artist based in United Kingdom, with 13 gigs on 
 
 MiddleGround, Brandon Tourle, Diego Gee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cribb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cribb/)*

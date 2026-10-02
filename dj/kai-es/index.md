@@ -1,6 +1,6 @@
 # K A I
 
-K A I is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ruby Room, Tokyo on Fri, 2 Oct 2026.
+K A I is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ruby Room, Tokyo on Fri, 2 Oct 2026.
 
 K A I is a bass and house artist based in United Kingdom, with 73 gigs on soundcheck across Bali, Barcelona, Bucharest and Liverpool and 5 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: Ruby Room, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ K A I is a bass and house artist based in United Kingdom, with 73 gigs on soundc
 
 caro.aki, Civic Grief, Louis Shannon
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*

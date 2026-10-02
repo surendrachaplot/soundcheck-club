@@ -1,6 +1,6 @@
 # mvdi
 
-mvdi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club04, Zurich on Fri, 16 Oct 2026.
+mvdi is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club04, Zurich on Fri, 16 Oct 2026.
 
 mvdi is a techno and acid artist based in Switzerland, with 29 gigs on soundcheck across Zurich. Often billed alongside Patrik Widmer, Meraki and AREA ØNE. Next up: Club04, Zurich on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ mvdi is a techno and acid artist based in Switzerland, with 29 gigs on soundchec
 
 Patrik Widmer, Meraki (3), AREA ØNE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvdi/)*

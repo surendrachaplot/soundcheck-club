@@ -1,6 +1,6 @@
 # Karl Fraunhofer
 
-Karl Fraunhofer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jaeger, Oslo on Sat, 3 Oct 2026.
+Karl Fraunhofer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jaeger, Oslo on Sat, 3 Oct 2026.
 
 Karl Fraunhofer is a house and techno artist based in Norway, with 34 gigs on soundcheck across Berlin, Birmingham, Mallorca and Mexico City and 2 more. Often billed alongside Tod Louie, Chris Solaris and Thomas Refvik. Next up: Jaeger, Oslo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Karl Fraunhofer is a house and techno artist based in Norway, with 34 gigs on so
 
 Tod Louie, Chris Solaris, Thomas Refvik
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlfraunhofer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlfraunhofer/)*

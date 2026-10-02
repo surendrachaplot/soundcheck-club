@@ -1,6 +1,6 @@
 # Rosa Luxemburg
 
-Rosa Luxemburg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Rosa Luxemburg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 Rosa Luxemburg is a techno and tech house artist based in Switzerland, with 25 gigs on soundcheck across Basel, Berlin and Hamburg. Often billed alongside KLAUDIA, Lisbird and DJ.KRISE. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rosa Luxemburg is a techno and tech house artist based in Switzerland, with 25 g
 
 KLAUDIA, Lisbird, DJ.KRISE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaluxemburg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaluxemburg/)*

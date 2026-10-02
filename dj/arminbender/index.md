@@ -1,6 +1,6 @@
 # Armin Bender
 
-Armin Bender is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wort & Klang, Nürnberg on Sat, 3 Oct 2026.
+Armin Bender is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wort & Klang, Nürnberg on Sat, 3 Oct 2026.
 
 Armin Bender is a deep house and dub techno artist based in Germany, with 6 gigs on soundcheck across Nürnberg. Next up: Wort & Klang, Nürnberg on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Armin Bender is a deep house and dub techno artist based in Germany, with 6 gigs
 - Streetart Café / Bar, Nürnberg · Sat, 29 Nov 2025
 - Transfer Erlangen, Nürnberg · Fri, 14 Nov 2025
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminbender/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminbender/)*

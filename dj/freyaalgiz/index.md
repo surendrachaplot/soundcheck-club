@@ -1,6 +1,6 @@
 # Freya Algiz
 
-Freya Algiz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
+Freya Algiz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
 
 Freya Algiz is a techno and house artist based in Estonia, with 23 gigs on soundcheck across Berlin, London and Tallinn. Often billed alongside Kat Kat Tat, FridaY (DE) and Monknash. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Freya Algiz is a techno and house artist based in Estonia, with 23 gigs on sound
 
 Kat Kat Tat, FridaY (DE), Monknash
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freyaalgiz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freyaalgiz/)*

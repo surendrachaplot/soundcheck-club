@@ -1,13 +1,14 @@
 # AKIVA
 
-AKIVA is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
+AKIVA is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Matriarch LA, Los Angeles on Sat, 10 Oct 2026.
 
-AKIVA is a techno and progressive house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam and Los Angeles. Often billed alongside Aubrey Fry, Stefan Medici and Covsky. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
+AKIVA is a progressive house and techno artist based in United States of America, with 10 gigs on soundcheck across Amsterdam and Los Angeles. Often billed alongside Aubrey Fry, Stefan Medici and Covsky. Next up: Matriarch LA, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Matriarch LA | Los Angeles |
 | Wed, 21 Oct 2026 | Kashmir Lounge | Amsterdam |
 | Thu, 22 Oct 2026 | Bears Amsterdam | Amsterdam |
 
@@ -25,4 +26,4 @@ AKIVA is a techno and progressive house artist based in United States of America
 
 Aubrey Fry, Stefan Medici, Covsky
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akiva/)*

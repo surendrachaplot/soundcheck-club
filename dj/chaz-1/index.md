@@ -1,6 +1,6 @@
 # Chaz Moloney
 
-Chaz Moloney is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+Chaz Moloney is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
 
 Chaz Moloney is a techno and experimental artist based in Ireland, with 43 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside brawni, Offtrack and Rustal. Next up: Mandela Hall, Belfast on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chaz Moloney is a techno and experimental artist based in Ireland, with 43 gigs 
 
 brawni, Offtrack, Rustal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaz-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaz-1/)*

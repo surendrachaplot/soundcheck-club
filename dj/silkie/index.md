@@ -1,6 +1,6 @@
 # Silkie
 
-Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Silkie is a dubstep and dub artist based in United Kingdom, with 28 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 3 more. Often billed alongside SGT Pokes, Tessa and Kahn. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Silkie is a dubstep and dub artist based in United Kingdom, with 28 gigs on soun
 
 SGT Pokes, Tessa, Kahn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*

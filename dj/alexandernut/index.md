@@ -1,6 +1,6 @@
 # Alexander Nut
 
-Alexander Nut is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Carpet Shop, London on Sat, 31 Oct 2026.
+Alexander Nut is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Sat, 31 Oct 2026.
 
 Alexander Nut is a house and broken beat artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 8 more. Often billed alongside Chunky, Saige Sounds and Ella Knight. Next up: The Carpet Shop, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alexander Nut is a house and broken beat artist based in United Kingdom, with 77
 
 Chunky, Saige Sounds, Ella Knight
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandernut/)*

@@ -1,6 +1,6 @@
 # Colors club
 
-Colors club is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "MOFO AFROFASHION" on Fri, 2 Oct 2026.
+Colors club is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "MOFO AFROFASHION" on Fri, 2 Oct 2026.
 
 Colors club is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. La Rambla, 33, 08002 Barcelona.
 
@@ -14,4 +14,4 @@ Colors club is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. 
 
 La Rambla, 33, 08002 Barcelona, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/colors-club/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/colors-club/)*

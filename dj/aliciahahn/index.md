@@ -1,6 +1,6 @@
 # Alicia Hahn
 
-Alicia Hahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+Alicia Hahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Alicia Hahn is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Ede, julës jay and Anahit Vardanyan. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Alicia Hahn is a techno and house artist based in Germany, with 36 gigs on sound
 
 Ede, julës jay, Anahit Vardanyan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*

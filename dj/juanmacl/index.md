@@ -1,6 +1,6 @@
 # Juanma (CL)
 
-Juanma (CL) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
+Juanma (CL) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
 Juanma (CL) is a house and acid artist based in Chile, with 7 gigs on soundcheck across Barcelona and Madrid. Often billed alongside DJ Marta, Da Terror and Al Ex. Next up: Fabrik, Madrid on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Juanma (CL) is a house and acid artist based in Chile, with 7 gigs on soundcheck
 
 DJ Marta, Da Terror, Al Ex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmacl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmacl/)*

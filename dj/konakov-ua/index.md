@@ -1,6 +1,6 @@
 # Konakov
 
-Konakov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Konakov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Konakov is an experimental and ambient artist based in Ukraine, with 17 gigs on soundcheck across Berlin, Glasgow, Liverpool and London and 1 more. Often billed alongside Andriy K., AXT and Neue Medecina. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Konakov is an experimental and ambient artist based in Ukraine, with 17 gigs on 
 
 Andriy K., AXT, Neue Medecina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*

@@ -1,6 +1,6 @@
 # Moruki
 
-Moruki is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Moruki is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Moruki is a house and electronica artist based in Spain, with 31 gigs on soundcheck across Barcelona, Berlin, Central and London and 5 more. Often billed alongside Memed Awad, Arval and Ray Okpara. Next up: TBA, Central on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Moruki is a house and electronica artist based in Spain, with 31 gigs on soundch
 
 Memed Awad, Arval, Ray Okpara
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moruki/)*

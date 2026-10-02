@@ -1,6 +1,6 @@
 # Black Pomade
 
-Black Pomade is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 333, New York City on Fri, 16 Oct 2026.
+Black Pomade is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 333, New York City on Fri, 16 Oct 2026.
 
 Black Pomade is a house and disco artist based in Italy, with 96 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 15 more. Often billed alongside CAMILLA, Joiah and Jamaimoi. Next up: TBA - 333, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Black Pomade is a house and disco artist based in Italy, with 96 gigs on soundch
 
 CAMILLA, Joiah, Jamaimoi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpomade/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpomade/)*

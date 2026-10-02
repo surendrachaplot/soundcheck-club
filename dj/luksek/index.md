@@ -1,6 +1,6 @@
 # Luksek
 
-Luksek is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frissón, Rome on Sat, 3 Oct 2026.
+Luksek is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Frissón, Rome on Sat, 3 Oct 2026.
 
 Luksek is a disco and house artist based in Italy, with 15 gigs on soundcheck across Berlin, Brussels, Milan and Paris and 2 more. Often billed alongside Cannelle, Arnaud Denzler and Bustin' Loose. Next up: Frissón, Rome on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Luksek is a disco and house artist based in Italy, with 15 gigs on soundcheck ac
 
 Cannelle, Arnaud Denzler, Bustin' Loose
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*

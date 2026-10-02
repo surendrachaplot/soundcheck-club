@@ -1,6 +1,6 @@
 # Mattia Rizzi
 
-Mattia Rizzi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow House, Amsterdam on Fri, 16 Oct 2026.
+Mattia Rizzi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow House, Amsterdam on Fri, 16 Oct 2026.
 
 Mattia Rizzi is a techno and house artist, with 12 gigs on soundcheck across Amsterdam. Often billed alongside BABY (PT), Harry Who and Gorilla Loco. Next up: Yellow House, Amsterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mattia Rizzi is a techno and house artist, with 12 gigs on soundcheck across Ams
 
 BABY (PT), Harry Who, Gorilla Loco
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiarizzi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiarizzi/)*

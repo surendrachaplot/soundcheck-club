@@ -1,6 +1,6 @@
 # Craig McWhinney
 
-Craig McWhinney is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
+Craig McWhinney is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
 
 Craig McWhinney is a techno and acid artist based in Australia, with 20 gigs on soundcheck across Melbourne. Often billed alongside Matt Radovich, DJ Kiti and SKMR. Next up: Sub Club Melbourne, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Craig McWhinney is a techno and acid artist based in Australia, with 20 gigs on 
 
 Matt Radovich, DJ Kiti, SKMR
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigmcwhinney/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigmcwhinney/)*

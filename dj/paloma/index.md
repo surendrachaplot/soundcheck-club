@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Sao Paulo on Fri, 6 Nov 2026.
+Paloma is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Sao Paulo on Fri, 6 Nov 2026.
 
 Paloma is a house and disco artist, with 17 gigs on soundcheck across Berlin, Buenos Aires, Ibiza and Madrid and 8 more. Often billed alongside Notre Dame, Saraga and ADO (DE). Next up: TBA, Sao Paulo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Paloma is a house and disco artist, with 17 gigs on soundcheck across Berlin, Bu
 
 Notre Dame, Saraga, ADO (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*

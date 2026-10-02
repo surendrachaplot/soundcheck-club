@@ -1,6 +1,6 @@
 # rines
 
-rines is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gretchen, Berlin on Sun, 13 Dec 2026.
+rines is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gretchen, Berlin on Sun, 13 Dec 2026.
 
 rines is a jazz and hip-hop artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Deskai, Domhof and Headhunters. Next up: Gretchen, Berlin on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ rines is a jazz and hip-hop artist based in Germany, with 14 gigs on soundcheck 
 
 Deskai, Domhof, Headhunters
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rines/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rines/)*

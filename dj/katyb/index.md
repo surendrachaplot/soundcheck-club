@@ -1,6 +1,6 @@
 # Katy B
 
-Katy B is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
+Katy B is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
 
 Katy B is a garage and drum & bass artist based in United Kingdom, with 29 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 2 more. Often billed alongside Arthi, Geeneus and Slimzee. Next up: Hidden, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Katy B is a garage and drum & bass artist based in United Kingdom, with 29 gigs 
 
 Arthi, Geeneus, Slimzee
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*

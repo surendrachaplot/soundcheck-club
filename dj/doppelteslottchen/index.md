@@ -1,6 +1,6 @@
 # doppeltes lottchen
 
-doppeltes lottchen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
+doppeltes lottchen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
 
 doppeltes lottchen is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 1 more. Often billed alongside Atzendent, CRITICAL ERROR 404 and A2XBY. Next up: OST, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ doppeltes lottchen is a techno and trance artist based in Germany, with 10 gigs 
 
 Atzendent, CRITICAL ERROR 404, A2XBY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelteslottchen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelteslottchen/)*

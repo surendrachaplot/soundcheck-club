@@ -1,6 +1,6 @@
 # On the Rocks (OTR)
 
-On the Rocks (OTR) is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hearth, Amsterdam on Fri, 23 Oct 2026.
+On the Rocks (OTR) is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hearth, Amsterdam on Fri, 23 Oct 2026.
 
 On the Rocks (OTR) is a house and italo disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Field Notes DJs, Giu Nunez and Orpheu The Wizard. Next up: Hearth, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ On the Rocks (OTR) is a house and italo disco artist based in Netherlands, with 
 
 Field Notes DJs, Giu Nunez, Orpheu The Wizard
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontherocksotr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontherocksotr/)*

@@ -1,6 +1,6 @@
 # Selena Faider
 
-Selena Faider is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
+Selena Faider is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
 
 Selena Faider is a house and tech house artist based in France, with 22 gigs on soundcheck across Amsterdam, Berlin, Bristol and Hong Kong and 6 more. Often billed alongside Danny Howard, Armand Van Helden and Gorgon City. Next up: Cabaret Sauvage, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Selena Faider is a house and tech house artist based in France, with 22 gigs on 
 
 Danny Howard, Armand Van Helden, Gorgon City
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selenafaider/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selenafaider/)*

@@ -1,6 +1,6 @@
 # DUKU
 
-DUKU is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
+DUKU is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
 DUKU is a bass and dubstep artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, Dub Athlete and MC Toast. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DUKU is a bass and dubstep artist based in United Kingdom, with 32 gigs on sound
 
 SGT Pokes, Dub Athlete, MC Toast
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duku/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duku/)*

@@ -1,6 +1,6 @@
 # Mulholland
 
-Mulholland is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Mulholland is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Mulholland is a bass and garage artist based in United Kingdom, with 17 gigs on soundcheck across Belfast, Bristol, Dublin and Glasgow and 2 more. Often billed alongside SSSLIP, Dom Carlo and HIJINX. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mulholland is a bass and garage artist based in United Kingdom, with 17 gigs on 
 
 SSSLIP, Dom Carlo, HIJINX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulholland/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulholland/)*

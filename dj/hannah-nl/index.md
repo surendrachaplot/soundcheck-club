@@ -1,6 +1,6 @@
 # HANNAH (NL)
 
-HANNAH (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Fri, 2 Oct 2026.
+HANNAH (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
 HANNAH (NL) is a techno and house artist based in Sweden, with 32 gigs on soundcheck across Amsterdam, Belfast, Berlin and Hamburg and 4 more. Often billed alongside ADHDJ, Gimmeamfbreakbeat and Mitsubitchy. Next up: RADION, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ HANNAH (NL) is a techno and house artist based in Sweden, with 32 gigs on soundc
 
 ADHDJ (2), Gimmeamfbreakbeat, Mitsubitchy
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannah-nl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannah-nl/)*

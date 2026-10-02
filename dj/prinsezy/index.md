@@ -1,6 +1,6 @@
 # Prinsezy
 
-Prinsezy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+Prinsezy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
 Prinsezy is a house and garage artist based in Belgium, with 14 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Arter, DC Noises and Jef Nice. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Prinsezy is a house and garage artist based in Belgium, with 14 gigs on soundche
 
 Arter, DC Noises, Jef Nice
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsezy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsezy/)*

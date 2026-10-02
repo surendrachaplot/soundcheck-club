@@ -1,6 +1,6 @@
 # SAWIFROMSPACE
 
-SAWIFROMSPACE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pamenar Café, Toronto on Wed, 7 Oct 2026.
+SAWIFROMSPACE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pamenar Café, Toronto on Wed, 7 Oct 2026.
 
 SAWIFROMSPACE is a house and deep house artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Shen, Theysiii and maxedvisa. Next up: Pamenar Café, Toronto on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ SAWIFROMSPACE is a house and deep house artist based in Canada, with 10 gigs on 
 
 Shen (2), Theysiii, maxedvisa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawifromspace/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawifromspace/)*

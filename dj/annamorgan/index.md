@@ -1,14 +1,15 @@
 # Anna Morgan
 
-Anna Morgan is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
+Anna Morgan is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaiki, Tokyo on Fri, 2 Oct 2026.
 
-Anna Morgan is a bass and jungle artist based in United States of America, with 66 gigs on soundcheck across Austin, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Bianca Oblivion, Daddy Kev and DJ Nope. Next up: Kaiki, Tokyo on Fri 2 Oct.
+Anna Morgan is a bass and jungle artist based in United States of America, with 67 gigs on soundcheck across Austin, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Bianca Oblivion, Daddy Kev and DJ Nope. Next up: Kaiki, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kaiki | Tokyo |
+| Fri, 30 Oct 2026 | The Shanghai Edition | Shanghai |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anna Morgan is a bass and jungle artist based in United States of America, with 
 
 Bianca Oblivion, Daddy Kev, DJ Nope
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*

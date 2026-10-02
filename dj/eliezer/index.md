@@ -1,6 +1,6 @@
 # Eliezer
 
-Eliezer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Switch Bar, Barcelona on Fri, 2 Oct 2026.
+Eliezer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Switch Bar, Barcelona on Fri, 2 Oct 2026.
 
 Eliezer is a house and techno artist, with 21 gigs on soundcheck across Barcelona, Lisbon, London and Mexico City and 3 more. Often billed alongside Refrakt, Andi and Ben David. Next up: Switch Bar, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Eliezer is a house and techno artist, with 21 gigs on soundcheck across Barcelon
 
 Refrakt, Andi, Ben David
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliezer/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliezer/)*

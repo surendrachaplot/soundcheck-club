@@ -1,6 +1,6 @@
 # Del (4)
 
-Del (4) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
+Del (4) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
 
 Del is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Bristol, California, Miami and New York City and 2 more. Often billed alongside Mnemonics, FINISHHER and SNAQ. Next up: TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Del is a techno and club artist based in United States of America, with 52 gigs 
 
 Mnemonics, FINISHHER, SNAQ
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/del-4/)*

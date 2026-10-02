@@ -1,6 +1,6 @@
 # August Kind
 
-August Kind is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+August Kind is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 August Kind is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Berlin, Budapest and Munich. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ August Kind is a techno and trance artist based in Germany, with 72 gigs on soun
 
 Deltapeak, bbymeister, jeanska
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*

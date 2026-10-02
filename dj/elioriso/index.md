@@ -1,6 +1,6 @@
 # Elio Riso
 
-Elio Riso is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club Morocco, Costanera, Buenos Aires on Fri, 2 Oct 2026.
+Elio Riso is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Club Morocco, Costanera, Buenos Aires on Fri, 2 Oct 2026.
 
 Elio Riso is a tech house and techno artist based in Spain, with 30 gigs on soundcheck across Bangkok, Barcelona, Buenos Aires and Ibiza and 1 more. Often billed alongside Tobias DL, Festa Bros and Antonio Pica Dj. Next up: TBA - Club Morocco, Costanera, Buenos Aires on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Elio Riso is a tech house and techno artist based in Spain, with 30 gigs on soun
 
 Tobias DL, Festa Bros, Antonio Pica Dj
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elioriso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elioriso/)*

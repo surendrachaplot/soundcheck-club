@@ -1,6 +1,6 @@
 # T-noux
 
-T-noux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Bêtises, Paris on Fri, 2 Oct 2026.
+T-noux is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Bêtises, Paris on Fri, 2 Oct 2026.
 
 T-noux is a house and tech house artist based in Chile, with 14 gigs on soundcheck across Paris. Often billed alongside Alea Cosme, Charlie Niklaas and Nomade 130. Next up: Les Bêtises, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ T-noux is a house and tech house artist based in Chile, with 14 gigs on soundche
 
 Alea Cosme, Charlie Niklaas, Nomade 130
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-noux/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-noux/)*

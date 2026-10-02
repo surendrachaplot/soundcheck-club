@@ -1,6 +1,6 @@
 # Bermani
 
-Bermani is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
+Bermani is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
 
 Bermani is a house and techno artist based in Argentina, with 51 gigs on soundcheck across Amsterdam, Berlin and Buenos Aires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: Deseo BS AS, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bermani is a house and techno artist based in Argentina, with 51 gigs on soundch
 
 Ludmila Di Pasquale, Camila Isabel, Djs Pareja
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bermani/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bermani/)*

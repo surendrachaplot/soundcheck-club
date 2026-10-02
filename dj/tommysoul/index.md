@@ -1,6 +1,6 @@
 # Tommy Soul
 
-Tommy Soul is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chiostri a Carbonara, Naples on Sat, 3 Oct 2026.
+Tommy Soul is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chiostri a Carbonara, Naples on Sat, 3 Oct 2026.
 
 Tommy Soul is a disco and house artist based in Italy, with 16 gigs on soundcheck across Berlin, Liverpool, London and Milan and 4 more. Often billed alongside Davide Del Vecchio, Duappo and Kapote. Next up: Chiostri a Carbonara, Naples on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tommy Soul is a disco and house artist based in Italy, with 16 gigs on soundchec
 
 Davide Del Vecchio, Duappo, Kapote
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysoul/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysoul/)*

@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RHIZOME" on Fri, 2 Oct 2026.
+Mastak is a music venue in Warsaw with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RHIZOME" on Fri, 2 Oct 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming gigs, with line-ups including Braincrush, Gabi Bury, Inhaberin and LEM and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 13 upcoming gigs, with l
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

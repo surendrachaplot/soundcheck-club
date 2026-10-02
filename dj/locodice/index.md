@@ -1,6 +1,6 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Loco Dice is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on so
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

@@ -1,6 +1,6 @@
 # The Wych
 
-The Wych is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Technologic" on Fri, 9 Oct 2026.
+The Wych is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Technologic" on Fri, 9 Oct 2026.
 
 The Wych is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Fame Diet and Gruve Collective. See dates, start times and who's playing. 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada.
 
@@ -15,4 +15,4 @@ The Wych is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with
 
 1150 Davenport Road, Toronto, Ontario M6H 2G5, Canada, Toronto
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-wych/)*

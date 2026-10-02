@@ -1,6 +1,6 @@
 # DELACOUR
 
-DELACOUR is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
+DELACOUR is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
 
 DELACOUR is a minimal and house artist based in Bhutan, with 14 gigs on soundcheck across Austin, Berlin, Los Angeles and New York State and 4 more. Often billed alongside Amy Jor, Elkind and AC Slater. Next up: TBA - Secret Bowery Loft (Manhattan), New York State on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DELACOUR is a minimal and house artist based in Bhutan, with 14 gigs on soundche
 
 Amy Jor, Elkind, AC Slater
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*

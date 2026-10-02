@@ -1,6 +1,6 @@
 # Mylania
 
-Mylania is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
+Mylania is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
 
 Mylania is a jungle and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and London. Often billed alongside Petz, ad*n and CHY. Next up: Mint XL, Leeds on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mylania is a jungle and drum & bass artist based in United Kingdom, with 15 gigs
 
 Petz, ad*n, CHY (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylania/)*

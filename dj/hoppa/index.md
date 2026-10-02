@@ -1,6 +1,6 @@
 # Hoppa
 
-Hoppa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sat, 10 Oct 2026.
+Hoppa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sat, 10 Oct 2026.
 
 Hoppa is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Bangkok and Washington DC. Often billed alongside Alexandre Docouto, Andy Big and Chris Nitti. Next up: Flash, Washington DC on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hoppa is a techno and house artist based in United States of America, with 11 gi
 
 Alexandre Docouto, Andy Big, Chris Nitti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoppa/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoppa/)*

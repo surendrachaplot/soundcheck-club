@@ -1,6 +1,6 @@
 # Orieta Chrem
 
-Orieta Chrem is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
+Orieta Chrem is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
 
 Orieta Chrem is a bass and electronica artist based in Peru, with 19 gigs on soundcheck across Barcelona, Berlin, Brussels and Madrid and 3 more. Often billed alongside Vitu Valera, Dj Hidrataccioni and A.Fruit. Next up: Meteoro, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Orieta Chrem is a bass and electronica artist based in Peru, with 19 gigs on sou
 
 Vitu Valera, Dj Hidrataccioni, A.Fruit
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orietachrem/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orietachrem/)*

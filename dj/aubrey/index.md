@@ -1,6 +1,6 @@
 # Aubrey
 
-Aubrey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Aubrey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
 Aubrey is a techno and house artist, with 14 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Düsseldorf and 1 more. Often billed alongside Phonatic, Yannick Robyns and Alexander Kowalski. Next up: ingang, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aubrey is a techno and house artist, with 14 gigs on soundcheck across Amsterdam
 
 Phonatic, Yannick Robyns, Alexander Kowalski
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aubrey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aubrey/)*

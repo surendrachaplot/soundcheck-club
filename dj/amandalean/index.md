@@ -1,6 +1,6 @@
 # AMANDA LEAN
 
-AMANDA LEAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BARDO, Milan on Sat, 3 Oct 2026.
+AMANDA LEAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BARDO, Milan on Sat, 3 Oct 2026.
 
 AMANDA LEAN is a techno and house artist based in Italy, with 13 gigs on soundcheck across Malta, Milan and Rome. Often billed alongside Gattonero, LPLPLP and Leena. Next up: BARDO, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ AMANDA LEAN is a techno and house artist based in Italy, with 13 gigs on soundch
 
 Gattonero, LPLPLP, Leena
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandalean/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandalean/)*

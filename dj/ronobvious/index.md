@@ -1,6 +1,6 @@
 # Ron Obvious
 
-Ron Obvious is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
+Ron Obvious is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
 
 Ron Obvious is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: S.A.S.H in the Street, New South Wales on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Ron Obvious is a house and tech house artist based in United Kingdom, with 35 gi
 
 Samuel Deep, DJ Senc, Doudou MD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*

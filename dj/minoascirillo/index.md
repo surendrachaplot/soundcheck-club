@@ -1,6 +1,6 @@
 # Minoas Cirillo
 
-Minoas Cirillo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Minoas Cirillo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Minoas Cirillo is a house and techno artist based in Germany, with 7 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside Avocado, Bellville and Cosmic Dance. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Minoas Cirillo is a house and techno artist based in Germany, with 7 gigs on sou
 
 Avocado, Bellville, Cosmic Dance
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minoascirillo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minoascirillo/)*

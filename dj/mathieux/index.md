@@ -1,6 +1,6 @@
 # Mathiéux
 
-Mathiéux is a Garage and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
+Mathiéux is a Garage and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
 Mathiéux is a garage and club artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Bella Hall, Itz3bby and LOU FRE$H. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Mathiéux is a garage and club artist based in Netherlands, with 12 gigs on soun
 
 Bella Hall, Itz3bby, LOU FRE$H
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathieux/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathieux/)*

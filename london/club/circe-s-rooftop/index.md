@@ -1,6 +1,6 @@
 # Circe’S Rooftop
 
-Circe’S Rooftop is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "HALLOWEEN MASSACRE-ADE AT CIRCE'S ROOFTOP" on Sat, 31 Oct 2026.
+Circe’S Rooftop is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "HALLOWEEN MASSACRE-ADE AT CIRCE'S ROOFTOP" on Sat, 31 Oct 2026.
 
 Circe’S Rooftop is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Mercury House, 117 Waterloo Rd, London SE1 8UL.
 
@@ -14,4 +14,4 @@ Circe’S Rooftop is a music venue in London listed on soundcheck. 1 upcoming gi
 
 Mercury House, 117 Waterloo Rd, London SE1 8UL, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/circe-s-rooftop/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/circe-s-rooftop/)*

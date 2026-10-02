@@ -1,6 +1,6 @@
 # MASASHI
 
-MASASHI is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yokohama Coast Garage+, Kanto on Fri, 2 Oct 2026.
+MASASHI is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yokohama Coast Garage+, Kanto on Fri, 2 Oct 2026.
 
 MASASHI is a house and tech house artist based in Japan, with 3 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Yamariki, Anri and Ayantula. Next up: Yokohama Coast Garage+, Kanto on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ MASASHI is a house and tech house artist based in Japan, with 3 gigs on soundche
 
 Yamariki, Anri (2), Ayantula
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masashi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masashi/)*

@@ -1,6 +1,6 @@
 # NADZ.
 
-NADZ. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NDR2 Red Room, London on Sat, 17 Oct 2026.
+NADZ. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 17 Oct 2026.
 
 NADZ. is a techno and bass artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Doz, LACKSON and LIZ-ZIE. Next up: NDR2 Red Room, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NADZ. is a techno and bass artist based in United Kingdom, with 12 gigs on sound
 
 Doz (1), LACKSON, LIZ-ZIE (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadz./)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadz./)*

@@ -1,6 +1,6 @@
 # T Sounds
 
-T Sounds is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
+T Sounds is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
 
 T Sounds is a house and disco artist, with 11 gigs on soundcheck across Ibiza, Liverpool, London and Manchester. Often billed alongside Al Gray, Mascott and Mai Tai. Next up: Unit 58, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ T Sounds is a house and disco artist, with 11 gigs on soundcheck across Ibiza, L
 
 Al Gray, Mascott, Mai Tai
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsounds/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsounds/)*

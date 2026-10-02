@@ -1,6 +1,6 @@
 # Baku
 
-Baku is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at West Harlem, Kyoto on Sat, 31 Oct 2026.
+Baku is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at West Harlem, Kyoto on Sat, 31 Oct 2026.
 
 Baku is a house and hip-hop artist based in Japan, with 51 gigs on soundcheck across Bucharest, Kyoto, Paris and Tokyo. Often billed alongside DJ Quietstorm, kitapon and migeru. Next up: West Harlem, Kyoto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Baku is a house and hip-hop artist based in Japan, with 51 gigs on soundcheck ac
 
 DJ Quietstorm, kitapon, migeru
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baku/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baku/)*

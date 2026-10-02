@@ -1,6 +1,6 @@
 # Thomas Bianco
 
-Thomas Bianco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Fri, 2 Oct 2026.
+Thomas Bianco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
 Thomas Bianco is a techno and house artist based in Switzerland, with 38 gigs on soundcheck across Basel, Geneva, Porto and Zurich. Often billed alongside MARCISM, Mishael Müller and kso12. Next up: Hive Club, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Thomas Bianco is a techno and house artist based in Switzerland, with 38 gigs on
 
 MARCISM, Mishael Müller, kso12
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*

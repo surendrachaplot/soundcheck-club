@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
+Guy Williams is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
 
 Guy Williams is a house and disco artist based in United Kingdom, with 68 gigs on soundcheck across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and DJ Paulette. Next up: Pikes Ibiza, Ibiza on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Guy Williams is a house and disco artist based in United Kingdom, with 68 gigs o
 
 Jo Mills, S/A/M, DJ Paulette
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

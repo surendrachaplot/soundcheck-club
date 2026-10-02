@@ -1,8 +1,8 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint Warehouse, Leeds on Fri, 2 Oct 2026.
+Kitty Hall is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint Warehouse, Leeds on Fri, 2 Oct 2026.
 
-Kitty Hall is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: Mint Warehouse, Leeds on Fri 2 Oct.
+Kitty Hall is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Brighton, Edinburgh, Glasgow and Ibiza and 4 more. Often billed alongside George Mensah, Sammy Porter and Benji King. Next up: Mint Warehouse, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kitty Hall is a house and tech house artist based in United Kingdom, with 13 gig
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Fri, 13 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 11 Dec 2026 | Cabaret Voltaire | Edinburgh |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Kitty Hall is a house and tech house artist based in United Kingdom, with 13 gig
 
 George Mensah, Sammy Porter, Benji King
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*

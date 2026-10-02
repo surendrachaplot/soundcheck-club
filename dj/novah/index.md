@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
+NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
 NOVAH is a techno and trance artist based in Belgium, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist based in Belgium, with 175 gigs on soundchec
 
 Cloudy, Nico Moreno, KUKO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

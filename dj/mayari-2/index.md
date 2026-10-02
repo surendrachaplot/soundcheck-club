@@ -1,6 +1,6 @@
 # Mayari (2)
 
-Mayari (2) is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Mayari (2) is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Mayari is an electronica and trance artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside AVAXA, Amaliah and Blue Hawaii. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Mayari is an electronica and trance artist based in Australia, with 8 gigs on so
 
 AVAXA, Amaliah, Blue Hawaii
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*

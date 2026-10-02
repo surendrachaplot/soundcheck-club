@@ -1,6 +1,6 @@
 # SJAYY
 
-SJAYY is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Detour Los Angeles, Los Angeles on Sat, 3 Oct 2026.
+SJAYY is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Detour Los Angeles, Los Angeles on Sat, 3 Oct 2026.
 
 SJAYY is a club and hip-hop artist based in United States of America, with 36 gigs on soundcheck across Chicago, Los Angeles, New York City and Philadelphia and 3 more. Often billed alongside VICTORIA MOURA, baby.com and Marvelito. Next up: Detour Los Angeles, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SJAYY is a club and hip-hop artist based in United States of America, with 36 gi
 
 VICTORIA MOURA, baby.com, Marvelito
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*

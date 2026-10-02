@@ -1,6 +1,6 @@
 # Soul Of Zoo
 
-Soul Of Zoo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at StereoBar, Montreal on Sat, 17 Oct 2026.
+Soul Of Zoo is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at StereoBar, Montreal on Sat, 17 Oct 2026.
 
 Soul Of Zoo is an electro and house artist based in Canada, with 21 gigs on soundcheck across Amsterdam, Ibiza and Montreal. Often billed alongside Sevn, Caterina Infinity and Doga Erbek. Next up: StereoBar, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Soul Of Zoo is an electro and house artist based in Canada, with 21 gigs on soun
 
 Sevn, Caterina Infinity, Doga Erbek
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofzoo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofzoo/)*

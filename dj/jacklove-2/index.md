@@ -1,6 +1,6 @@
 # Jack Love (2)
 
-Jack Love (2) is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
+Jack Love (2) is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
 
 Jack Love is a deep house and tech house artist, with 9 gigs on soundcheck across London. Often billed alongside Lucy B, Adam Shelton and Alec Falconer. Next up: The Marquee Moon, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jack Love is a deep house and tech house artist, with 9 gigs on soundcheck acros
 
 Lucy B, Adam Shelton, Alec Falconer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklove-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklove-2/)*

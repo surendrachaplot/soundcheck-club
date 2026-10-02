@@ -1,8 +1,8 @@
 # Christopher Coe
 
-Christopher Coe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
+Christopher Coe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 16 Oct 2026.
 
-Christopher Coe is a techno and tech house artist, with 22 gigs on soundcheck across Amsterdam, Austin, Belfast and Chicago and 9 more. Often billed alongside Carl Cox, Hannes Bieger and Vintage Culture. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 16 Oct.
+Christopher Coe is a techno and tech house artist based in Australia, with 22 gigs on soundcheck across Amsterdam, Austin, Belfast and Chicago and 9 more. Often billed alongside Carl Cox, Hannes Bieger and Vintage Culture. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Christopher Coe is a techno and tech house artist, with 22 gigs on soundcheck ac
 
 Carl Cox, Hannes Bieger, Vintage Culture
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*

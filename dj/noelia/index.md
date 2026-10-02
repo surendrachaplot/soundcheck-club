@@ -1,6 +1,6 @@
 # no:elia
 
-no:elia is a Tech House and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
+no:elia is a Tech House and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
 no:elia is a tech house and reggaeton artist, with 22 gigs on soundcheck across Berlin, Cologne and Wuppertal. Often billed alongside Aino DJ, Philo_ and Gîn Bali. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ no:elia is a tech house and reggaeton artist, with 22 gigs on soundcheck across 
 
 Aino DJ, Philo_, Gîn Bali
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*

@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fever, Bilbao on Fri, 2 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fever, Bilbao on Fri, 2 Oct 2026.
 
 Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Fever, Bilbao on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on sound
 
 DANA NADA, DANDAN, Vulkanski
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

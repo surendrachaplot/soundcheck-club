@@ -1,6 +1,6 @@
 # Ratpack
 
-Ratpack is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Ratpack is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Ratpack is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Slipmatt, Billy Daniel Bunter and Nicky Blackmarket. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ratpack is a house and tech house artist based in United Kingdom, with 38 gigs o
 
 Slipmatt, Billy Daniel Bunter, Nicky Blackmarket
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*

@@ -1,6 +1,6 @@
 # Paradox
 
-Paradox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Paradox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
 
 Paradox is a drum & bass and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 20 more. Often billed alongside Double O, Mantra and Dillinja. Next up: Open Ground, Wuppertal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Paradox is a drum & bass and jungle artist based in United Kingdom, with 42 gigs
 
 Double O, Mantra, Dillinja
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradox/)*

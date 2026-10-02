@@ -1,6 +1,6 @@
 # Luigis Hot Pizza Bali
 
-Luigis Hot Pizza Bali is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CIRCA Fridays Luigis x SAY LESS" on Fri, 2 Oct 2026.
+Luigis Hot Pizza Bali is a music venue in Bali with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CIRCA Fridays Luigis x SAY LESS" on Fri, 2 Oct 2026.
 
 Luigis Hot Pizza Bali is a music venue in Bali listed on soundcheck. 2 upcoming gigs, with line-ups including PNNY and Tjade. See dates, start times and who's playing. Jalan Batu Mejan, Canggu, Kuta Utara, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia.
 
@@ -15,4 +15,4 @@ Luigis Hot Pizza Bali is a music venue in Bali listed on soundcheck. 2 upcoming 
 
 Jalan Batu Mejan, Canggu, Kuta Utara, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia, Bali
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/luigis-hot-pizza-bali/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/luigis-hot-pizza-bali/)*

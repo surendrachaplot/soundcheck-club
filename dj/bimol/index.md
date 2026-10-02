@@ -1,6 +1,6 @@
 # Bimol
 
-Bimol is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Antisistema, Bogot on Sat, 3 Oct 2026.
+Bimol is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Antisistema, Bogot on Sat, 3 Oct 2026.
 
 Bimol is a techno artist, with 6 gigs on soundcheck across Amsterdam, Bogot, Prague and Vienna. Often billed alongside Marco Ramos, Arthur Robert and Blanchita. Next up: Antisistema, Bogot on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Bimol is a techno artist, with 6 gigs on soundcheck across Amsterdam, Bogot, Pra
 
 Marco Ramos, Arthur Robert, Blanchita
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimol/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimol/)*

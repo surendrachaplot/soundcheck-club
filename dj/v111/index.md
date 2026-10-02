@@ -1,6 +1,6 @@
 # V111
 
-V111 is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+V111 is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
 
 V111 is a techno artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 2 more. Often billed alongside ANKKH, Mattia Trani and MaMo. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ V111 is a techno artist based in Italy, with 11 gigs on soundcheck across Amster
 
 ANKKH, Mattia Trani, MaMo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v111/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v111/)*

@@ -1,6 +1,6 @@
 # Gîn Bali
 
-Gîn Bali is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
+Gîn Bali is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
 Gîn Bali is a house and hip-hop artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Wuppertal. Often billed alongside Aaro, Andras_2020 and Rafush. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gîn Bali is a house and hip-hop artist based in Germany, with 21 gigs on soundc
 
 Aaro (3), Andras_2020, Rafush
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gînbali/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gînbali/)*

@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fridays at 77: Kuya Hennessy, Attu, Shuko" on Fri, 2 Oct 2026.
+Club 77 is a music venue in Sydney with 20 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fridays at 77: Kuya Hennessy, Attu, Shuko" on Fri, 2 Oct 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Diwa, Ash Lauryn, Attu and b_man (AU) and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 20 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

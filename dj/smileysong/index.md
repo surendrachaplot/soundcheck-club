@@ -1,6 +1,6 @@
 # SMILEY SONG
 
-SMILEY SONG is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+SMILEY SONG is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
 SMILEY SONG is a dub and bass artist based in South Korea, with 7 gigs on soundcheck across Seoul. Often billed alongside BAHNYASOUND, JUN BAK and ANDOW. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ SMILEY SONG is a dub and bass artist based in South Korea, with 7 gigs on soundc
 
 BAHNYASOUND, JUN BAK, ANDOW
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smileysong/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smileysong/)*

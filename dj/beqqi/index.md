@@ -1,6 +1,6 @@
 # Beqqi
 
-Beqqi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hošek Contemporary, Berlin on Sat, 3 Oct 2026.
+Beqqi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hošek Contemporary, Berlin on Sat, 3 Oct 2026.
 
 Beqqi is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Montezuma (DE), charli/e and Christa K. Next up: Hošek Contemporary, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Beqqi is a house and tech house artist based in Germany, with 33 gigs on soundch
 
 Montezuma (DE), charli/e, Christa K
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*

@@ -1,6 +1,6 @@
 # JKriv
 
-JKriv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
+JKriv is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
 JKriv is a house and disco artist based in United States of America, with 129 gigs on soundcheck across Auckland, Barcelona, Brazil and Bristol and 22 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ JKriv is a house and disco artist based in United States of America, with 129 gi
 
 Aaron Dae, Disgonuts, Jason Lindner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*

@@ -1,6 +1,6 @@
 # Terrell Brooke
 
-Terrell Brooke is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dada Echo Park, Los Angeles on Sun, 4 Oct 2026.
+Terrell Brooke is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dada Echo Park, Los Angeles on Sun, 4 Oct 2026.
 
 Terrell Brooke is a house and club artist based in United States of America, with 55 gigs on soundcheck across Detroit, Los Angeles and New York City. Often billed alongside BODII, NEPTUNEWAVEY and NAYGOD. Next up: Dada Echo Park, Los Angeles on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Terrell Brooke is a house and club artist based in United States of America, wit
 
 BODII, NEPTUNEWAVEY, NAYGOD
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*

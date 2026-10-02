@@ -1,6 +1,6 @@
 # Eliangel
 
-Eliangel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 3 Oct 2026.
+Eliangel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 3 Oct 2026.
 
 Eliangel is a house and techno artist based in Venezuela, with 56 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Ferraz, Alby Esc and ELA. Next up: Bar Oriente, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eliangel is a house and techno artist based in Venezuela, with 56 gigs on soundc
 
 Ferraz, Alby Esc, ELA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*

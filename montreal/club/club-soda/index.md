@@ -1,6 +1,6 @@
 # Club Soda
 
-Club Soda is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "N.I.N.E: Collision" on Thu, 15 Oct 2026.
+Club Soda is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "N.I.N.E: Collision" on Thu, 15 Oct 2026.
 
 Club Soda is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1225 St-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -15,4 +15,4 @@ Club Soda is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. Se
 
 1225 St-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/club-soda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/club-soda/)*

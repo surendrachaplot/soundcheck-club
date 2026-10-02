@@ -1,6 +1,6 @@
 # Falhaber
 
-Falhaber is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 31 Oct 2026.
+Falhaber is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 31 Oct 2026.
 
 Falhaber is a techno and hardcore artist, with 17 gigs on soundcheck across Amsterdam, Lyon, Madrid and Malta and 4 more. Often billed alongside HyperLili, Jetti and Post. Next up: PIP Den Haag, The Hague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Falhaber is a techno and hardcore artist, with 17 gigs on soundcheck across Amst
 
 HyperLili, Jetti, Post
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falhaber/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falhaber/)*

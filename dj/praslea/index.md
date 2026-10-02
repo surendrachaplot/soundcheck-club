@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
 Praslea is a minimal and house artist based in Romania, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Praslea is a minimal and house artist based in Romania, with 96 gigs on soundche
 
 Raresh, CEZAR, Traumer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

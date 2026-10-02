@@ -1,6 +1,6 @@
 # Chris Rosewarne
 
-Chris Rosewarne is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pekelnej Bar, Prague on Sat, 24 Oct 2026.
+Chris Rosewarne is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pekelnej Bar, Prague on Sat, 24 Oct 2026.
 
 Chris Rosewarne is a tech house and house artist based in United Kingdom, with 7 gigs on soundcheck across Prague. Often billed alongside SAAB, Nicco Lupen and Sam Gittis. Next up: Pekelnej Bar, Prague on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Chris Rosewarne is a tech house and house artist based in United Kingdom, with 7
 
 SAAB, Nicco Lupen, Sam Gittis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrosewarne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrosewarne/)*

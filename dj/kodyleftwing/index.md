@@ -1,6 +1,6 @@
 # Leftwing & Kody
 
-Leftwing & Kody is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  Select Fm London, Los Angeles on Fri, 2 Oct 2026.
+Leftwing & Kody is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA -  Select Fm London, Los Angeles on Fri, 2 Oct 2026.
 
 Leftwing & Kody are a house and tech house duo based in United Kingdom, with 18 gigs on soundcheck across Ibiza, Liverpool, London and Los Angeles and 1 more. Often billed alongside Ellie Cocks, Donna Love and Shane Fernandes. Next up: TBA -  Select Fm London, Los Angeles on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Leftwing & Kody are a house and tech house duo based in United Kingdom, with 18 
 
 Ellie Cocks, Donna Love, Shane Fernandes
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodyleftwing/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodyleftwing/)*

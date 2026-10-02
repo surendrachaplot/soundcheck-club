@@ -1,6 +1,6 @@
 # MAD Beats
 
-MAD Beats is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Area Manchester, Manchester on Fri, 2 Oct 2026.
+MAD Beats is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Area Manchester, Manchester on Fri, 2 Oct 2026.
 
 MAD Beats is a tech house and house artist based in Ireland, with 18 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Shumbo Jebang, Chael-UK and Mat Matthews. Next up: Area Manchester, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ MAD Beats is a tech house and house artist based in Ireland, with 18 gigs on sou
 
 Shumbo Jebang, Chael-UK, Mat Matthews
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madbeats/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madbeats/)*

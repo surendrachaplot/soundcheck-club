@@ -1,6 +1,6 @@
 # Giusy S (2)
 
-Giusy S (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+Giusy S (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
 Giusy S is a tech house and house artist based in Italy, with 53 gigs on soundcheck across Amsterdam and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: 45 London, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Giusy S is a tech house and house artist based in Italy, with 53 gigs on soundch
 
 Thomas Galbardi, Diana Loredana, Dhez
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giusys-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giusys-2/)*

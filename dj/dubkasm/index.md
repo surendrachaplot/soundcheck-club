@@ -1,6 +1,6 @@
 # Dubkasm
 
-Dubkasm is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
+Dubkasm is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
 
 Dubkasm is a dub and bass artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Bristol, Bucharest and Geneva and 3 more. Often billed alongside Footsie, 4am Kru and A For Alpha. Next up: Zoo, Geneva on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Dubkasm is a dub and bass artist based in United Kingdom, with 15 gigs on soundc
 
 Footsie, 4am Kru, A For Alpha
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubkasm/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubkasm/)*

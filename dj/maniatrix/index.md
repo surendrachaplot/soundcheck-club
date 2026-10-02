@@ -1,6 +1,6 @@
 # Maniatrix
 
-Maniatrix is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
+Maniatrix is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
 
 Maniatrix is an experimental and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside al gu, samwooddoowmas and Iona.Violet. Next up: People's Leisure Club, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Maniatrix is an experimental and electronica artist based in United Kingdom, wit
 
 al gu, samwooddoowmas, Iona.Violet
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniatrix/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniatrix/)*

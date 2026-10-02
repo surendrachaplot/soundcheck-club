@@ -1,6 +1,6 @@
 # Max Kion
 
-Max Kion is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 14 Oct 2026.
+Max Kion is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 14 Oct 2026.
 
 Max Kion is a house and disco artist based in Spain, with 30 gigs on soundcheck across Barcelona, London, Manchester and Rome. Often billed alongside Jamie January, Dan Cluskey and Neidex. Next up: Noxe Barcelona, Barcelona on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Max Kion is a house and disco artist based in Spain, with 30 gigs on soundcheck 
 
 Jamie January, Dan Cluskey, Neidex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkion/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkion/)*

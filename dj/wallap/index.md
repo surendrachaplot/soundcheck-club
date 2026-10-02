@@ -1,6 +1,6 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Gravière, Geneva on Thu, 15 Oct 2026.
+Walla P is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Gravière, Geneva on Thu, 15 Oct 2026.
 
 Walla P is a funk / soul and disco artist based in Canada, with 52 gigs on soundcheck across Barcelona, Berlin, Geneva and Lisbon and 5 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: La Gravière, Geneva on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Walla P is a funk / soul and disco artist based in Canada, with 52 gigs on sound
 
 Kris Guilty, Alina (MTL), Guthrie
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*

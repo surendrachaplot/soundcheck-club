@@ -1,6 +1,6 @@
 # ShySam
 
-ShySam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
+ShySam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
 
 ShySam is a techno and trance artist based in Iran, with 7 gigs on soundcheck across Berlin and Nantes. Often billed alongside On a Crac, Atelier300 and Chaos Techno.Berlin. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ ShySam is a techno and trance artist based in Iran, with 7 gigs on soundcheck ac
 
 On a Crac, Atelier300, Chaos Techno.Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shysam/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shysam/)*

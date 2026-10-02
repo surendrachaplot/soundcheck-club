@@ -1,6 +1,6 @@
 # Wakka
 
-Wakka is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 4 Dec 2026.
+Wakka is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Digital, Newcastle on Fri, 4 Dec 2026.
 
 Wakka is a tech house and minimal artist based in United Kingdom, with 32 gigs on soundcheck across Barcelona, Edinburgh, Leeds and London and 2 more. Often billed alongside Adam Lance, DJ Bz and Nooney. Next up: Digital, Newcastle on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Wakka is a tech house and minimal artist based in United Kingdom, with 32 gigs o
 
 Adam Lance, DJ Bz, Nooney
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wakka/)*

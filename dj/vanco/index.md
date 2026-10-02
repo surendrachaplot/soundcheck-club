@@ -1,6 +1,6 @@
 # Vanco
 
-Vanco is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
+Vanco is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
 
 Vanco is an afro house and house artist based in South Africa, with 38 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 15 more. Often billed alongside Sef Kombo, BADBOX and CLEIDO. Next up: Savaya Bali, Bali on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Vanco is an afro house and house artist based in South Africa, with 38 gigs on s
 
 Sef Kombo, BADBOX, CLEIDO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*

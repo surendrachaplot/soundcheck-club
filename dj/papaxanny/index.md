@@ -1,6 +1,6 @@
 # Papa Xanny
 
-Papa Xanny is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
+Papa Xanny is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
 
 Papa Xanny is a techno and club artist based in United States of America, with 55 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and DYLUSION. Next up: Podlasie Club, Chicago on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Papa Xanny is a techno and club artist based in United States of America, with 5
 
 nonsuit, Beverly Chills, DYLUSION
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*

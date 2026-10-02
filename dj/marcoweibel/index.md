@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palomino, Los Angeles on Fri, 2 Oct 2026.
+Marco Weibel is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Palomino, Los Angeles on Fri, 2 Oct 2026.
 
 Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 21 more. Often billed alongside Lefto Early Bird, Spurge and Dexter Colt. Next up: Palomino, Los Angeles on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Marco Weibel is a house and techno artist, with 130 gigs on soundcheck across Am
 
 Lefto Early Bird, Spurge, Dexter Colt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

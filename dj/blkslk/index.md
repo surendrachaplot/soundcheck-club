@@ -1,6 +1,6 @@
 # BLK SLK
 
-BLK SLK is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+BLK SLK is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 BLK SLK is a hardcore and techno artist based in United States of America, with 13 gigs on soundcheck across Berlin, Leipzig, New York City and Zurich. Often billed alongside DJ GHEPARD, dish3s and Cøunts. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BLK SLK is a hardcore and techno artist based in United States of America, with 
 
 DJ GHEPARD, dish3s, Cøunts
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blkslk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blkslk/)*

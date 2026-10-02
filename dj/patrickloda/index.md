@@ -1,6 +1,6 @@
 # Patrick Loda
 
-Patrick Loda is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Apotheke, Los Angeles on Sun, 4 Oct 2026.
+Patrick Loda is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Apotheke, Los Angeles on Sun, 4 Oct 2026.
 
 Patrick Loda is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Marco Roberto, MoodHay and Andrelo. Next up: Apotheke, Los Angeles on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Patrick Loda is a house and tech house artist based in United States of America,
 
 Marco Roberto, MoodHay, Andrelo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickloda/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickloda/)*

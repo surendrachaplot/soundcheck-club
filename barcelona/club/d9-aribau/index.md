@@ -1,6 +1,6 @@
 # D9 Aribau
 
-D9 Aribau is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "For the Homies (Vol. 3) // Minimal+Deep+Breaks+Techno" on Sat, 10 Oct 2026.
+D9 Aribau is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "For the Homies (Vol. 3) // Minimal+Deep+Breaks+Techno" on Sat, 10 Oct 2026.
 
 D9 Aribau is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Carrer d'Aribau 242, Barcelona, 08006.
 
@@ -14,4 +14,4 @@ D9 Aribau is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Se
 
 Carrer d'Aribau 242, Barcelona, 08006, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/d9-aribau/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/d9-aribau/)*

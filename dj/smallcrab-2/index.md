@@ -1,6 +1,6 @@
 # Small Crab (2)
 
-Small Crab (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lovehaus, Seoul on Sun, 27 Sept 2026.
+Small Crab (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lovehaus, Seoul on Sun, 27 Sept 2026.
 
 Small Crab is a bass and techno artist based in Germany, with 44 gigs on soundcheck across Belfast, Berlin, Bristol and Central and 12 more. Often billed alongside Angel Cat, Syz and Hajj. Next up: Lovehaus, Seoul on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Small Crab is a bass and techno artist based in Germany, with 44 gigs on soundch
 
 Angel Cat, Syz, Hajj
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*

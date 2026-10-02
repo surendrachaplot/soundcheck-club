@@ -1,6 +1,6 @@
 # M!a Wallace
 
-M!a Wallace is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
+M!a Wallace is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
 M!a Wallace is a house and techno artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside 3LOAR, AKEYLAH and Ben Silver (AUS). Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ M!a Wallace is a house and techno artist based in Australia, with 8 gigs on soun
 
 3LOAR, AKEYLAH, Ben Silver (AUS)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m!awallace/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m!awallace/)*

@@ -1,6 +1,6 @@
 # BLUMIN
 
-BLUMIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bolero, Seoul on Fri, 2 Oct 2026.
+BLUMIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bolero, Seoul on Fri, 2 Oct 2026.
 
 BLUMIN is a techno and house artist, with 10 gigs on soundcheck across Melbourne and Seoul. Often billed alongside PanVesy, GGAX2 and Gus McKinna. Next up: Bolero, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BLUMIN is a techno and house artist, with 10 gigs on soundcheck across Melbourne
 
 PanVesy, GGAX2, Gus McKinna
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blumin/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blumin/)*

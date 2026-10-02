@@ -1,6 +1,6 @@
 # Peterparker69
 
-Peterparker69 is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Wed, 7 Oct 2026.
+Peterparker69 is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Wed, 7 Oct 2026.
 
 Peterparker69 is a club and pop artist based in Japan, with 31 gigs on soundcheck across Berlin, Brussels, Hong Kong and Kyoto and 6 more. Often billed alongside E.O.U, Rave Racers and Yoyou. Next up: M.O.T, London on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Peterparker69 is a club and pop artist based in Japan, with 31 gigs on soundchec
 
 E.O.U, Rave Racers, Yoyou
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterparker69/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterparker69/)*

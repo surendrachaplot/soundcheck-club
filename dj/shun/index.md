@@ -1,6 +1,6 @@
 # Shun
 
-Shun is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
+Shun is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 Shun is a techno and electro artist based in Japan, with 23 gigs on soundcheck across Amsterdam, Osaka, Shenzhen and Tokyo. Often billed alongside Kanse, RYOOKY and Dihi. Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Shun is a techno and electro artist based in Japan, with 23 gigs on soundcheck a
 
 Kanse, RYOOKY, Dihi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shun/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shun/)*

@@ -1,6 +1,6 @@
 # Toolate Groove
 
-Toolate Groove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 2 Oct 2026.
+Toolate Groove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 2 Oct 2026.
 
 Toolate Groove is a house and techno artist based in Belgium, with 37 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Bass Toast, EG and Fiona Zanetti. Next up: Amigo, Ghent on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Toolate Groove is a house and techno artist based in Belgium, with 37 gigs on so
 
 Bass Toast, EG (1), Fiona Zanetti
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*

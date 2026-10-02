@@ -1,6 +1,6 @@
 # Lockside Camden
 
-Lockside Camden is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KCC Sound System" on Sat, 28 Nov 2026.
+Lockside Camden is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "KCC Sound System" on Sat, 28 Nov 2026.
 
 Lockside Camden is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 75-89 Upper Walkway, Camden Lock Place, Camden Town, London NW1 8AF, United Kingdom.
 
@@ -14,4 +14,4 @@ Lockside Camden is a music venue in London listed on soundcheck. 1 upcoming gig.
 
 75-89 Upper Walkway, Camden Lock Place, Camden Town, London NW1 8AF, United Kingdom, London
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lockside-camden/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lockside-camden/)*

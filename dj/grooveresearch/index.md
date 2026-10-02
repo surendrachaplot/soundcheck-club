@@ -1,6 +1,6 @@
 # Groove Research
 
-Groove Research is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri, 2 Oct 2026.
+Groove Research is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri, 2 Oct 2026.
 
 Groove Research is a tech house and progressive house artist, with 41 gigs on soundcheck across Barcelona and Tallinn. Often billed alongside Andrea Love, RuxXandra and Abdul Raeva. Next up: TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Groove Research is a tech house and progressive house artist, with 41 gigs on so
 
 Andrea Love, RuxXandra, Abdul Raeva
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*

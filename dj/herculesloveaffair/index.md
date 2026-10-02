@@ -1,6 +1,6 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 2 Oct 2026.
+Hercules & Love Affair is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 2 Oct 2026.
 
 Hercules & Love Affair are a house and disco duo based in United States of America, with 62 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: Nuevo Leon 89, Mexico City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Hercules & Love Affair are a house and disco duo based in United States of Ameri
 
 COBRAH, HAAi, TAAHLIAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

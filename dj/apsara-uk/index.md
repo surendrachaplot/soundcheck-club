@@ -1,6 +1,6 @@
 # Apsara (UK)
 
-Apsara (UK) is a Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
+Apsara (UK) is a Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
 
 Apsara (UK) is a downtempo artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Altayef, Nic Cammelli and PROFF. Next up: Folklore, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Apsara (UK) is a downtempo artist based in United Kingdom, with 7 gigs on soundc
 
 Altayef, Nic Cammelli, PROFF
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara-uk/)*

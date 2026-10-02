@@ -1,6 +1,6 @@
 # Muzaman
 
-Muzaman is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cross Club, Prague on Fri, 2 Oct 2026.
+Muzaman is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cross Club, Prague on Fri, 2 Oct 2026.
 
 Muzaman is a bass and dubstep artist based in Poland, with 14 gigs on soundcheck across Prague and Warsaw. Often billed alongside Solar Tsunami, U Lad and kipah. Next up: Cross Club, Prague on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Muzaman is a bass and dubstep artist based in Poland, with 14 gigs on soundcheck
 
 Solar Tsunami, U Lad, kipah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzaman/)*

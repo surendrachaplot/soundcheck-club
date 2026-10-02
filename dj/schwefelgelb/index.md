@@ -1,6 +1,6 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Schwefelgelb is a techno and ebm artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 57 gigs on soundc
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

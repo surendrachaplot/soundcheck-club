@@ -1,6 +1,6 @@
 # SAEIVAN
 
-SAEIVAN is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schlegel Kultur Club, Bochum on Sat, 10 Oct 2026.
+SAEIVAN is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Schlegel Kultur Club, Bochum on Sat, 10 Oct 2026.
 
 SAEIVAN is a trance and techno artist based in Germany, with 2 gigs on soundcheck across Bochum. Often billed alongside Kaya Schwarz and byrush. Next up: Schlegel Kultur Club, Bochum on Sat 10 Oct.
 
@@ -15,4 +15,4 @@ SAEIVAN is a trance and techno artist based in Germany, with 2 gigs on soundchec
 
 Kaya Schwarz, byrush
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeivan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeivan/)*

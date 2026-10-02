@@ -1,6 +1,6 @@
 # Inés
 
-Inés is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
+Inés is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
 
 Inés is a house and techno artist based in Spain, with 28 gigs on soundcheck across Chicago, Madrid, New York City and Seoul and 2 more. Often billed alongside Coolrnch, Adam Pecho and Alfred Clayton. Next up: Jupiter Disco, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Inés is a house and techno artist based in Spain, with 28 gigs on soundcheck ac
 
 Coolrnch, Adam Pecho, Alfred Clayton
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ines/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ines/)*

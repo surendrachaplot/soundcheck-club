@@ -1,6 +1,6 @@
 # DIEGÖ
 
-DIEGÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+DIEGÖ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 DIEGÖ is a house and techno artist based in Mexico, with 17 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Miss Evoice, Caleesi and Mimi Love. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DIEGÖ is a house and techno artist based in Mexico, with 17 gigs on soundcheck 
 
 Miss Evoice, Caleesi, Mimi Love
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*

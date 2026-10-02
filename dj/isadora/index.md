@@ -1,6 +1,6 @@
 # Isadora
 
-Isadora is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Isadora is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
 Isadora is a house and electronica artist based in United States of America, with 11 gigs on soundcheck across Dublin, Ibiza, New York City and Sao Paulo. Often billed alongside Conduit, ESPIA and Iggy Nuclear. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Isadora is a house and electronica artist based in United States of America, wit
 
 Conduit, ESPIA, Iggy Nuclear
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*

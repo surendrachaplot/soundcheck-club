@@ -1,6 +1,6 @@
 # Shyboi
 
-Shyboi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Shyboi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Shyboi is a techno and house artist based in United States of America, with 129 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Juliana Huxtable, Junior M (US) and MORENXXX. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Shyboi is a techno and house artist based in United States of America, with 129 
 
 Juliana Huxtable, Junior M (US), MORENXXX
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*

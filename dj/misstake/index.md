@@ -1,6 +1,6 @@
 # Miss Take
 
-Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
+Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Neue Welle, Leipzig on Fri, 16 Oct 2026.
 
 Miss Take is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin, Leipzig, Munich and Rome. Often billed alongside jewelry, SAM and Niklas Wandt. Next up: Neue Welle, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Miss Take is a techno and house artist based in Germany, with 14 gigs on soundch
 
 jewelry, SAM (9), Niklas Wandt
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*

@@ -1,6 +1,6 @@
 # Le Kaiju
 
-Le Kaiju is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
+Le Kaiju is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
 
 Le Kaiju is a techno and electro artist based in France, with 29 gigs on soundcheck across Brussels, Lyon, Marseille and Nantes and 2 more. Often billed alongside MARIAD, encore une autre and Ellen Allien. Next up: TBA - Marseille, Marseille on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Le Kaiju is a techno and electro artist based in France, with 29 gigs on soundch
 
 MARIAD, encore une autre, Ellen Allien
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekaiju/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekaiju/)*

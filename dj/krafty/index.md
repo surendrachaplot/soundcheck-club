@@ -1,6 +1,6 @@
 # KRÄFTY
 
-KRÄFTY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Fri, 2 Oct 2026.
+KRÄFTY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Fri, 2 Oct 2026.
 
 KRÄFTY is a progressive house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Aiden Francis, A Little Bit Orange and Milly on Air. Next up: The DBA, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KRÄFTY is a progressive house and tech house artist based in United Kingdom, wi
 
 Aiden Francis, A Little Bit Orange, Milly on Air
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*

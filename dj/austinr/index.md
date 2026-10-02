@@ -1,6 +1,6 @@
 # Austin R
 
-Austin R is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Substation, Seattle on Thu, 29 Oct 2026.
+Austin R is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Substation, Seattle on Thu, 29 Oct 2026.
 
 Austin R is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Seattle. Often billed alongside Hünter, Eliogold and noRecall. Next up: Substation, Seattle on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Austin R is a techno and house artist based in United States of America, with 25
 
 Hünter, Eliogold, noRecall
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinr/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinr/)*

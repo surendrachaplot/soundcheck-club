@@ -1,6 +1,6 @@
 # Emile
 
-Emile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
+Emile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Fri, 16 Oct 2026.
 
 Emile is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside FITS ME FUNNY, Ben Kay and Mase. Next up: The DBA, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Emile is a house and techno artist based in United Kingdom, with 38 gigs on soun
 
 FITS ME FUNNY, Ben Kay, Mase (2)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emile-uk/)*

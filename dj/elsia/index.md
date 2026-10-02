@@ -1,6 +1,6 @@
 # Elsia
 
-Elsia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
+Elsia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
 
 Elsia is a techno and trance artist based in France, with 9 gigs on soundcheck across Berlin. Often billed alongside Akollor, Eliseo Adri and LOVA9. Next up: Fitzroy, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Elsia is a techno and trance artist based in France, with 9 gigs on soundcheck a
 
 Akollor, Eliseo Adri, LOVA9
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsia/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsia/)*

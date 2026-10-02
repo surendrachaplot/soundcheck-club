@@ -1,6 +1,6 @@
 # tonton
 
-tonton is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
+tonton is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri, 2 Oct 2026.
 
 tonton is a garage and house artist based in United States of America, with 29 gigs on soundcheck across Berlin, Ibiza and New York City. Often billed alongside Lovelydaze, Alfonso Ares and Amine K. Next up: TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP, New York City on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ tonton is a garage and house artist based in United States of America, with 29 g
 
 Lovelydaze, Alfonso Ares, Amine K
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*

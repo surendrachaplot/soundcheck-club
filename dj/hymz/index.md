@@ -1,6 +1,6 @@
 # HYMZ
 
-HYMZ is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Fri, 2 Oct 2026.
+HYMZ is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafeteria, Toronto on Fri, 2 Oct 2026.
 
 HYMZ is a house and electro artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside Yao Yao, Prince Josh and Amedeo (CA). Next up: Cafeteria, Toronto on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ HYMZ is a house and electro artist based in Canada, with 8 gigs on soundcheck ac
 
 Yao Yao, Prince Josh, Amedeo (CA)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hymz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hymz/)*

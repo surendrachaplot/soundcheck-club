@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Club 101, New York City on Fri, 9 Oct 2026.
+DJ Manny is a Footwork and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Club 101, New York City on Fri, 9 Oct 2026.
 
 DJ Manny is a footwork and techno artist based in United States of America, with 91 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 6 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Night Club 101, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ Manny is a footwork and techno artist based in United States of America, with
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

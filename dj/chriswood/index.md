@@ -1,6 +1,6 @@
 # Chris Wood
 
-Chris Wood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri, 2 Oct 2026.
+Chris Wood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri, 2 Oct 2026.
 
 Chris Wood is a house and techno artist, with 48 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Boutiq.808, Chris Beulich and Meat. Next up: TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chris Wood is a house and techno artist, with 48 gigs on soundcheck across Berli
 
 Boutiq.808, Chris Beulich, Meat
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*

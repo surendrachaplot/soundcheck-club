@@ -1,6 +1,6 @@
 # Jake Hodgkinson
 
-Jake Hodgkinson is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 22 Oct 2026.
+Jake Hodgkinson is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 22 Oct 2026.
 
 Jake Hodgkinson is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Bristol, Leeds and London and 3 more. Often billed alongside E. Alexander, HEAVEN-LEE and Ollie Drummond. Next up: Eastern Bloc Records, Manchester on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Jake Hodgkinson is a house and tech house artist based in United Kingdom, with 3
 
 E. Alexander, HEAVEN-LEE, Ollie Drummond
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakehodgkinson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakehodgkinson/)*

@@ -1,6 +1,6 @@
 # Ray Hurley
 
-Ray Hurley is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 17 Oct 2026.
+Ray Hurley is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Sat, 17 Oct 2026.
 
 Ray Hurley is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside MC Creed, Nicky Blackmarket and Ben Jammin. Next up: Planet Wax, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ray Hurley is a garage and house artist based in United Kingdom, with 15 gigs on
 
 MC Creed, Nicky Blackmarket, Ben Jammin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayhurley/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayhurley/)*

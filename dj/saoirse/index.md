@@ -1,6 +1,6 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Thu, 8 Oct 2026.
+Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sub Club, Glasgow on Thu, 8 Oct 2026.
 
 Saoirse is a house and techno artist based in Ireland, with 190 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Sub Club, Glasgow on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ Saoirse is a house and techno artist based in Ireland, with 190 gigs on soundche
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

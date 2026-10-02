@@ -1,6 +1,6 @@
 # Romantso
 
-Romantso is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Aphty Khéa & Friends" on Fri, 2 Oct 2026.
+Romantso is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Aphty Khéa & Friends" on Fri, 2 Oct 2026.
 
 Romantso is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including Aphty Khéa, Benny Ill, Chevy and Cryogenics and 2 more. See dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
@@ -18,4 +18,4 @@ Romantso is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with 
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

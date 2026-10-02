@@ -1,6 +1,6 @@
 # Moth Girl
 
-Moth Girl is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 3 Oct 2026.
+Moth Girl is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 3 Oct 2026.
 
 Moth Girl is a post-punk and ebm artist based in United Kingdom, with 21 gigs on soundcheck across Edinburgh. Often billed alongside Sacred Keys, The Nightlark and philomenah. Next up: Paradise Palms, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Moth Girl is a post-punk and ebm artist based in United Kingdom, with 21 gigs on
 
 Sacred Keys, The Nightlark, philomenah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothgirl/)*

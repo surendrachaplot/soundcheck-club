@@ -1,6 +1,6 @@
 # VERKNIPT NYE Antwerp at Garage Klub
 
-VERKNIPT NYE Antwerp at Garage Klub on Thu 31 Dec, Antwerp. 7 artists: Ben Techy, BØĘRY, KRUELTY and myu:sa and 3 more. See the line-up on soundcheck.
+VERKNIPT NYE Antwerp at Garage Klub on Thu 31 Dec, Antwerp. 7 artists: Ben Techy, BØĘRY, KRUELTY and myu:sa and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

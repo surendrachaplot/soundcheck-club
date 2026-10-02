@@ -1,6 +1,6 @@
 # Rob Aquino
 
-Rob Aquino is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Star Jazz Club, Los Angeles on Fri, 2 Oct 2026.
+Rob Aquino is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Star Jazz Club, Los Angeles on Fri, 2 Oct 2026.
 
 Rob Aquino is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Shane Thomas, Banoffee and Mez Monty. Next up: Grand Star Jazz Club, Los Angeles on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Rob Aquino is a club and techno artist based in United States of America, with 2
 
 Shane Thomas, Banoffee, Mez Monty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robaquino/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robaquino/)*

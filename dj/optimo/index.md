@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 3 Oct 2026.
+Optimo (Espacio) is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Berkeley Suite, Glasgow on Sat, 3 Oct 2026.
 
 Optimo (Espacio) is a house and techno artist based in United Kingdom, with 194 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: The Berkeley Suite, Glasgow on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 194 
 
 Daniel Avery, HAAi, Batu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

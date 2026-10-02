@@ -1,6 +1,6 @@
 # gguusstt
 
-gguusstt is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+gguusstt is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
 gguusstt is a breakbeat and house artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Erykah, AliA and Casper. Next up: Amigo, Ghent on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ gguusstt is a breakbeat and house artist based in Belgium, with 32 gigs on sound
 
 Erykah, AliA, Casper
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gguusstt/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gguusstt/)*

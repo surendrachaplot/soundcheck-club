@@ -1,6 +1,6 @@
 # Darrell Pulse
 
-Darrell Pulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ferry, Glasgow on Sat, 14 Nov 2026.
+Darrell Pulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ferry, Glasgow on Sat, 14 Nov 2026.
 
 Darrell Pulse is a techno and house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Edinburgh and Glasgow. Often billed alongside Sean Laird, LAIRD and E.DN. Next up: The Ferry, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Darrell Pulse is a techno and house artist based in United Kingdom, with 55 gigs
 
 Sean Laird, LAIRD, E.DN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellpulse/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellpulse/)*

@@ -1,6 +1,6 @@
 # AMAR (UK)
 
-AMAR (UK) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
+AMAR (UK) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
 
 AMAR (UK) is a deep house and techno artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and bubushko. Next up: Dalston Den, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AMAR (UK) is a deep house and techno artist based in United Kingdom, with 23 gig
 
 Yazmin (UK), MUSICKLUNATIC, bubushko
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*

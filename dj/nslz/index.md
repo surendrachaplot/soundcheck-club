@@ -1,6 +1,6 @@
 # NSLZ
 
-NSLZ is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
+NSLZ is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
 
 NSLZ is a trance and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Benleh, Feta Felice and Lisek. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ NSLZ is a trance and techno artist based in Germany, with 16 gigs on soundcheck 
 
 Benleh, Feta Felice, Lisek
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*

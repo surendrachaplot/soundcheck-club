@@ -1,6 +1,6 @@
 # FTZGRLD
 
-FTZGRLD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Rose, New York City on Fri, 9 Oct 2026.
+FTZGRLD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Rose, New York City on Fri, 9 Oct 2026.
 
 FTZGRLD is a techno and house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside SurfingDJs, DJ Sauci Soni and ROBOTRAN. Next up: The Rose, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ FTZGRLD is a techno and house artist based in United States of America, with 10 
 
 SurfingDJs, DJ Sauci Soni, ROBOTRAN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ftzgrld/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ftzgrld/)*

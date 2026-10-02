@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FREE Tickets AVALON: Agoostina, Belu Rodriguez, Casnik" on Fri, 2 Oct 2026.
+Ku Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "FREE Tickets AVALON: Agoostina, Belu Rodriguez, Casnik" on Fri, 2 Oct 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Agoostina and Belu Rodriguez. See dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming gig,
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

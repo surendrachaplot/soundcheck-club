@@ -1,6 +1,6 @@
 # Anina
 
-Anina is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Strange Brew, Bristol on Fri, 9 Oct 2026.
+Anina is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Strange Brew, Bristol on Fri, 9 Oct 2026.
 
 Anina is a bass and techno artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bristol, Brussels and London and 4 more. Often billed alongside Pessimist, i-sha and Clarity. Next up: Strange Brew, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Anina is a bass and techno artist based in United Kingdom, with 30 gigs on sound
 
 Pessimist, i-sha, Clarity
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anina/)*

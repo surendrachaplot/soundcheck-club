@@ -1,6 +1,6 @@
 # Mara Sander
 
-Mara Sander is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Romantica, Stuttgart on Fri, 9 Oct 2026.
+Mara Sander is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantica, Stuttgart on Fri, 9 Oct 2026.
 
 Mara Sander is a techno and house artist, with 28 gigs on soundcheck across Munich and Stuttgart. Often billed alongside Roman Antonov, Felix Lindner and BENNETT. Next up: Romantica, Stuttgart on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mara Sander is a techno and house artist, with 28 gigs on soundcheck across Muni
 
 Roman Antonov, Felix Lindner, BENNETT
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marasander/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marasander/)*

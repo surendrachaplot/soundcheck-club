@@ -1,6 +1,6 @@
 # Cvrdwell
 
-Cvrdwell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Fri, 2 Oct 2026.
+Cvrdwell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Turbina, Budapest on Fri, 2 Oct 2026.
 
 Cvrdwell is a techno and trance artist, with 51 gigs on soundcheck across Budapest. Often billed alongside AGA2L, Indirect Movement and isu. Next up: Turbina, Budapest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cvrdwell is a techno and trance artist, with 51 gigs on soundcheck across Budape
 
 AGA2L, Indirect Movement, isu
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*

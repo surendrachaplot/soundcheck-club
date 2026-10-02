@@ -1,6 +1,6 @@
 # Calibre
 
-Calibre is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Roundhouse, London on Sat, 21 Nov 2026.
+Calibre is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Roundhouse, London on Sat, 21 Nov 2026.
 
 Calibre is a drum & bass and jungle artist based in Ireland, with 54 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Belfast and 15 more. Often billed alongside SP:MC, Darwin and Dillinja. Next up: The Roundhouse, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Calibre is a drum & bass and jungle artist based in Ireland, with 54 gigs on sou
 
 SP:MC, Darwin, Dillinja
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calibre/)*

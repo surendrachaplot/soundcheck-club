@@ -1,6 +1,6 @@
 # San Proper
 
-San Proper is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
+San Proper is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
 
 San Proper is a house and disco artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belgrade and 21 more. Often billed alongside Aron Friedman, REO MATSUMOTO and Club Warme Deken. Next up: Blast Galaxy, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ San Proper is a house and disco artist based in Netherlands, with 56 gigs on sou
 
 Aron Friedman, REO MATSUMOTO, Club Warme Deken
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanproper/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanproper/)*

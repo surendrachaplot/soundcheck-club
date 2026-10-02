@@ -1,6 +1,6 @@
 # Wallis
 
-Wallis is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
+Wallis is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 2 Oct 2026.
 
 Wallis is a techno and house artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Samantha Togni, Blawan and Rakans. Next up: Studio Club Malaga, Malaga on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Wallis is a techno and house artist based in France, with 96 gigs on soundcheck 
 
 Samantha Togni, Blawan, Rakans
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*

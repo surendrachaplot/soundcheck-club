@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
+High Tide is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
 
 High Tide is a house and techno artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Sasha Kalra, Choirboi and BABL. Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ High Tide is a house and techno artist based in Canada, with 11 gigs on soundche
 
 Sasha Kalra, Choirboi, BABL
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hightide/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hightide/)*

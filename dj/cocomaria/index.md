@@ -1,8 +1,8 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Coco Maria is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
-Coco Maria is a house and disco artist based in Mexico, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Coco Maria is a house and disco artist based in Mexico, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Coco Maria is a house and disco artist based in Mexico, with 126 gigs on soundch
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | The Carpet Shop | London |
+| Sat, 17 Oct 2026 | Faith in Strangers | South-east |
 | Fri, 23 Oct 2026 | La Paloma | Barcelona |
 | Fri, 30 Oct 2026 | Doka | Amsterdam |
 | Sat, 31 Oct 2026 | Dahlia Stereo | Manchester |
@@ -31,4 +32,4 @@ Coco Maria is a house and disco artist based in Mexico, with 126 gigs on soundch
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

@@ -1,6 +1,6 @@
 # ZAKARE
 
-ZAKARE is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
+ZAKARE is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 12 Oct 2026.
 
 ZAKARE is a techno and tech house artist based in Georgia, with 10 gigs on soundcheck across Berlin, Tbilisi and Warsaw. Often billed alongside LEZHAVA, APOLLOH and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 12 Oct.
 
@@ -26,4 +26,4 @@ ZAKARE is a techno and tech house artist based in Georgia, with 10 gigs on sound
 
 LEZHAVA, APOLLOH, BLACK ANTHEM RESTORE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakare/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakare/)*

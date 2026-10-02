@@ -1,6 +1,6 @@
 # Shauna
 
-Shauna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
+Shauna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
 
 Shauna is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside Ben Daddy, Luna Thee Frenchie and MYOHMY. Next up: Headrow House, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Shauna is a house and techno artist based in United Kingdom, with 33 gigs on sou
 
 Ben Daddy, Luna Thee Frenchie, MYOHMY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shauna/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shauna/)*

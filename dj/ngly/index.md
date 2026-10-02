@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Astron Club, Athens on Sat, 3 Oct 2026.
+Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Astron Club, Athens on Sat, 3 Oct 2026.
 
 Ngly is a techno and electro artist based in Germany, with 12 gigs on soundcheck across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Astron Club, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ngly is a techno and electro artist based in Germany, with 12 gigs on soundcheck
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

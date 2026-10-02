@@ -1,6 +1,6 @@
 # Revolver
 
-Revolver is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sylvie's Head (SE) // Revolver" on Fri, 23 Oct 2026.
+Revolver is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sylvie's Head (SE) // Revolver" on Fri, 23 Oct 2026.
 
 Revolver is a music venue in Oslo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Møllergata 32; 0179 Oslo; Norway.
 
@@ -14,4 +14,4 @@ Revolver is a music venue in Oslo listed on soundcheck. 1 upcoming gig. See date
 
 Møllergata 32; 0179 Oslo; Norway, Oslo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revolver/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revolver/)*

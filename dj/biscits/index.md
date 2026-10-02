@@ -1,6 +1,6 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beach House San Diego, San Diego on Fri, 9 Oct 2026.
+Biscits is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beach House San Diego, San Diego on Fri, 9 Oct 2026.
 
 Biscits is a house and tech house artist based in United Kingdom, with 71 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Beach House San Diego, San Diego on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Biscits is a house and tech house artist based in United Kingdom, with 71 gigs o
 
 Sonny Fodera, Gorgon City, Azzecca
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

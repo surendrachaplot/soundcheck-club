@@ -1,6 +1,6 @@
 # Morabito
 
-Morabito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Rawhide, New York City on Sun, 4 Oct 2026.
+Morabito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Rawhide, New York City on Sun, 4 Oct 2026.
 
 Morabito is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Chicago, New York City, Philadelphia and Washington DC. Often billed alongside IPOK, DJ Dawson and Ben Wild. Next up: Club Rawhide, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Morabito is a house and techno artist based in United States of America, with 23
 
 IPOK, DJ Dawson, Ben Wild
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morabito/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morabito/)*

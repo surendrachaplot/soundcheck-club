@@ -1,6 +1,6 @@
 # PRSN
 
-PRSN is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Process PDX, Portland on Fri, 9 Oct 2026.
+PRSN is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Process PDX, Portland on Fri, 9 Oct 2026.
 
 PRSN is a bass and club artist, with 17 gigs on soundcheck across Portland and Vancouver. Often billed alongside Mia Koden, ALoSo and AQUTIE. Next up: Process PDX, Portland on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ PRSN is a bass and club artist, with 17 gigs on soundcheck across Portland and V
 
 Mia Koden, ALoSo, AQUTIE
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prsn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prsn/)*

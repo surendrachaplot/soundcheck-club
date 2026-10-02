@@ -1,6 +1,6 @@
 # Dr. Pops
 
-Dr. Pops is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DUGATTYÚS, Budapest on Sat, 3 Oct 2026.
+Dr. Pops is a Afro House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DUGATTYÚS, Budapest on Sat, 3 Oct 2026.
 
 Dr. Pops is an afro house and tech house artist based in France, with 6 gigs on soundcheck across Budapest. Often billed alongside AIRKEY. Next up: TBA - DUGATTYÚS, Budapest on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Dr. Pops is an afro house and tech house artist based in France, with 6 gigs on 
 
 AIRKEY
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.pops/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.pops/)*

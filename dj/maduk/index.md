@@ -1,6 +1,6 @@
 # Maduk
 
-Maduk is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Maduk is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
 Maduk is a drum & bass and bass artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside MOTA, Fox Stevenson and Lexurus. Next up: Club Exil, Vienna on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Maduk is a drum & bass and bass artist based in Netherlands, with 36 gigs on sou
 
 MOTA, Fox Stevenson, Lexurus
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*

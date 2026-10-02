@@ -1,6 +1,6 @@
 # Nene H
 
-Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
+Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
 Nene H is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Nene H is a techno and house artist based in Germany, with 210 gigs on soundchec
 
 Hyperaktivist, Mama Snake, Mary Lake
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

@@ -1,6 +1,6 @@
 # Olivia Nebula
 
-Olivia Nebula is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
+Olivia Nebula is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
 
 Olivia Nebula is a techno and house artist based in Slovakia, with 5 gigs on soundcheck across Berlin, Prague and Warsaw. Often billed alongside Gabrielle (DE), ZANDOLY and AUGENGRAU. Next up: OXI, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Olivia Nebula is a techno and house artist based in Slovakia, with 5 gigs on sou
 
 Gabrielle (DE), ZANDOLY, AUGENGRAU
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivianebula/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivianebula/)*

@@ -1,6 +1,6 @@
 # MSKI
 
-MSKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+MSKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 MSKI is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Frankfurt. Often billed alongside Concussion, DJ 069 and Disguised. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MSKI is a trance and techno artist based in Germany, with 10 gigs on soundcheck 
 
 Concussion, DJ 069, Disguised
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*

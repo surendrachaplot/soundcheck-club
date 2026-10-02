@@ -1,6 +1,6 @@
 # Duncan Thomas
 
-Duncan Thomas is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NDR2 Red Room, London on Sat, 10 Oct 2026.
+Duncan Thomas is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 10 Oct 2026.
 
 Duncan Thomas is a house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Leeds and 2 more. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: NDR2 Red Room, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Duncan Thomas is a house and deep house artist based in United Kingdom, with 27 
 
 Blame Anthony, Butterhands, Thabo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*

@@ -1,6 +1,6 @@
 # Thornback
 
-Thornback is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Thornback is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
 
 Thornback is a techno and acid artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh. Often billed alongside Neil Templar, Keyte and WolfJazz. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Thornback is a techno and acid artist based in United Kingdom, with 6 gigs on so
 
 Neil Templar, Keyte, WolfJazz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thornback/)*

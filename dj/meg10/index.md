@@ -1,6 +1,6 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Lisbon on Sat, 3 Oct 2026.
+Meg10 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Club, Lisbon on Sat, 3 Oct 2026.
 
 Meg10 is a techno and club artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 30 more. Often billed alongside Hanaby, ARMANA KHAN and DJ AYA. Next up: Moon Club, Lisbon on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Meg10 is a techno and club artist based in Germany, with 146 gigs on soundcheck 
 
 Hanaby, ARMANA KHAN, DJ AYA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

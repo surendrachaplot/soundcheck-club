@@ -1,6 +1,6 @@
 # Macmillan
 
-Macmillan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Section 8, Melbourne on Sat, 3 Oct 2026.
+Macmillan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Section 8, Melbourne on Sat, 3 Oct 2026.
 
 Macmillan is a house and deep house artist based in Australia, with 36 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Crozier, Amber Ferraro and Adam Trace. Next up: Section 8, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Macmillan is a house and deep house artist based in Australia, with 36 gigs on s
 
 Crozier, Amber Ferraro, Adam Trace
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*

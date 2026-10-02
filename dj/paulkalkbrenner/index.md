@@ -1,6 +1,6 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
+Paul Kalkbrenner is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sevilla, South on Fri, 2 Oct 2026.
 
 Paul Kalkbrenner is a techno and electro artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Miss Monique, Chelina Manuhutu and Jeff Mills. Next up: Sevilla, South on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Paul Kalkbrenner is a techno and electro artist based in Germany, with 63 gigs o
 
 Miss Monique, Chelina Manuhutu, Jeff Mills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

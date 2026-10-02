@@ -1,6 +1,6 @@
 # Charles Mingles
 
-Charles Mingles is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Charles Mingles is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Charles Mingles is a house and afro house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam. Often billed alongside Braketrack, Gavino Paglianti and Daan Autobahn. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Charles Mingles is a house and afro house artist based in Netherlands, with 12 g
 
 Braketrack, Gavino Paglianti, Daan Autobahn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmingles/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmingles/)*

@@ -1,6 +1,6 @@
 # Nick Deeken
 
-Nick Deeken is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gewölbe, Cologne on Fri, 2 Oct 2026.
+Nick Deeken is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Fri, 2 Oct 2026.
 
 Nick Deeken is a techno and minimal techno artist based in Germany, with 10 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside HWRD, LOUVE (DE) and Lana. Next up: Gewölbe, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nick Deeken is a techno and minimal techno artist based in Germany, with 10 gigs
 
 HWRD, LOUVE (DE), Lana
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdeeken/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdeeken/)*

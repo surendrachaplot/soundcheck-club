@@ -1,6 +1,6 @@
 # HOF (DE)
 
-HOF (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+HOF (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 HOF (DE) is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Cologne, Frankfurt and Munich. Often billed alongside Dan Brocksmith, Mha iri and Alchemiah. Next up: Levenslang Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HOF (DE) is a techno and tech house artist based in Germany, with 11 gigs on sou
 
 Dan Brocksmith, Mha iri, Alchemiah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofde/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofde/)*

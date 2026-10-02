@@ -1,6 +1,6 @@
 # Alpha Sect
 
-Alpha Sect is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmen Camina, Strasbourg on Thu, 8 Oct 2026.
+Alpha Sect is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmen Camina, Strasbourg on Thu, 8 Oct 2026.
 
 Alpha Sect is an ebm and techno artist, with 27 gigs on soundcheck across Athens, Barcelona, Berlin and Lyon and 3 more. Often billed alongside Desolate Discotheque, BMSK and Carmilla Sioux. Next up: Karmen Camina, Strasbourg on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Alpha Sect is an ebm and techno artist, with 27 gigs on soundcheck across Athens
 
 Desolate Discotheque, BMSK, Carmilla Sioux
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphasect/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphasect/)*

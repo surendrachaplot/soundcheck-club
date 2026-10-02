@@ -1,6 +1,6 @@
 # DJ Stretch
 
-DJ Stretch is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+DJ Stretch is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 DJ Stretch is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Brighton, Bristol and Frankfurt and 4 more. Often billed alongside Decibella, DJ Storm and Djinn. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Stretch is a jungle and drum & bass artist based in United Kingdom, with 20 g
 
 Decibella, DJ Storm, Djinn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstretch/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstretch/)*

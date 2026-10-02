@@ -1,14 +1,13 @@
 # Lark
 
-Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "collective memory + low harvest" on Thu, 1 Oct 2026.
+Lark is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Delírio 2nd Anniversary - Club Night" on Sat, 3 Oct 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and Chickenmilk dot com and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and CHRANDY and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | collective memory + low harvest | Chickenmilk dot com, Global, edeF. |
 | Sat, 3 Oct 2026 | Delírio 2nd Anniversary - Club Night | KALI., Miss Jay (RO), NEGRACONDA, Wahsabi, dj latinchat, sin serif |
 | Sat, 3 Oct 2026 | jackzebra Berlin |  |
 | Fri, 9 Oct 2026 | SUBrina FUNdraiser | JCow, Kalla, Lai Raw, asphalt angel |
@@ -18,9 +17,10 @@ Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with lin
 | Sat, 31 Oct 2026 | VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK | DJ Pichula, N3LYSTAR, _hiø |
 | Fri, 6 Nov 2026 | Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night) | Femdelic, John Morales, The Brahma |
 | Wed, 11 Nov 2026 | KILIMANJARO live | KILIMANJARO |
+| Sat, 14 Nov 2026 | TRINA After Dark | BAMBI (UK), MONEYAMA, Sherryaeri, Sol Angel |
 
 ## Address
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

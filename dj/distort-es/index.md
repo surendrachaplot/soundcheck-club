@@ -1,6 +1,6 @@
 # DISTORT (ES)
 
-DISTORT (ES) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+DISTORT (ES) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
 DISTORT (ES) is an electronica and techno artist based in Spain, with 38 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside MIQUELISSIMO, ANGEL and EMIR-B. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DISTORT (ES) is an electronica and techno artist based in Spain, with 38 gigs on
 
 MIQUELISSIMO, ANGEL (3), EMIR-B
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/distort-es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/distort-es/)*

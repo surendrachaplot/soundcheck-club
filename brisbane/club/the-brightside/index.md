@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS |" on Mon, 5 Oct 2026.
+The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS |" on Mon, 5 Oct 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Guau, Turno and Yo Speed. See dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -15,4 +15,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

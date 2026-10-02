@@ -1,6 +1,6 @@
 # Maison Dio Tallinn
 
-Maison Dio Tallinn is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MAISON DIO GRAND OPENING with BOMBOSSA BROTHERS" on Sat, 3 Oct 2026.
+Maison Dio Tallinn is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MAISON DIO GRAND OPENING with BOMBOSSA BROTHERS" on Sat, 3 Oct 2026.
 
 Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Quest, Janika Tenn and Todd Terry. See dates, start times and who's playing. Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia.
 
@@ -16,4 +16,4 @@ Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 3 upcoming 
 
 Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia, Tallinn
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*

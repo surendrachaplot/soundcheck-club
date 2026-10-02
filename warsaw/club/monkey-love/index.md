@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AFTERNOON pres. Isaac Carter x Nowosad x Bald x Efelpe" on Fri, 2 Oct 2026.
+MONKEY LOVE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTERNOON pres. Isaac Carter x Nowosad x Bald x Efelpe" on Fri, 2 Oct 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including espoff, Isaac Carter, MROZ and Nowosad. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -15,4 +15,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, wi
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

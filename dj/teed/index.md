@@ -1,14 +1,16 @@
 # TEED
 
-TEED is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 30 Oct 2026.
+TEED is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Music Yard, Charlotte on Sat, 3 Oct 2026.
 
-TEED is a house and bass artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Dom Dolla, GPU Panic and Heidi Lawden. Next up: YuYu Cine Club, Mexico City on Fri 30 Oct.
+TEED is a house and bass artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside DJ Holographic, DJ Minx and Dom Dolla. Next up: The Music Yard, Charlotte on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | The Music Yard | Charlotte |
 | Fri, 30 Oct 2026 | YuYu Cine Club | Mexico City |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ TEED is a house and bass artist based in United Kingdom, with 47 gigs on soundch
 
 ## Shares bills with
 
-Dom Dolla, GPU Panic, Heidi Lawden
+DJ Holographic, DJ Minx, Dom Dolla
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

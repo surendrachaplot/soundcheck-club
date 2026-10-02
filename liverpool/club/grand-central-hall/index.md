@@ -1,6 +1,6 @@
 # Grand Central Hall
 
-Grand Central Hall is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "St. Paul & The Broken Bones" on Tue, 27 Oct 2026.
+Grand Central Hall is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "St. Paul & The Broken Bones" on Tue, 27 Oct 2026.
 
 Grand Central Hall is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Andy Moor, Armand Van Helden, Chapter 47 and Markus Schulz and 2 more. See dates, start times and who's playing. 35 Renshaw Street, Liverpool L1 2SF.
 
@@ -16,4 +16,4 @@ Grand Central Hall is a music venue in Liverpool listed on soundcheck. 3 upcomin
 
 35 Renshaw Street, Liverpool L1 2SF, Liverpool
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/grand-central-hall/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/grand-central-hall/)*

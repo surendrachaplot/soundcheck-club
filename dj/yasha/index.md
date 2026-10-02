@@ -1,6 +1,6 @@
 # Yasha
 
-Yasha is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Şahika, Istanbul on Fri, 2 Oct 2026.
+Yasha is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Şahika, Istanbul on Fri, 2 Oct 2026.
 
 Yasha is a techno and acid artist based in Spain, with 9 gigs on soundcheck across Berlin, Istanbul and Madrid. Often billed alongside 4-i, ACOR and AVCI. Next up: Şahika, Istanbul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Yasha is a techno and acid artist based in Spain, with 9 gigs on soundcheck acro
 
 4-i, ACOR, AVCI
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasha/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasha/)*

@@ -1,6 +1,6 @@
 # Otra Historia Club Cultural
 
-Otra Historia Club Cultural is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Velvet Is Back" on Sat, 24 Oct 2026.
+Otra Historia Club Cultural is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Velvet Is Back" on Sat, 24 Oct 2026.
 
 Otra Historia Club Cultural is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including ANDRES CAPRA and GEMMA. See dates, start times and who's playing. Estomba 851, C1427COS Buenos Aires.
 
@@ -14,4 +14,4 @@ Otra Historia Club Cultural is a music venue in Buenos Aires listed on soundchec
 
 Estomba 851, C1427COS Buenos Aires, Buenos Aires
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/otra-historia-club-cultural/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/otra-historia-club-cultural/)*

@@ -1,6 +1,6 @@
 # Diego Krause
 
-Diego Krause is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 3 Oct 2026.
+Diego Krause is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 3 Oct 2026.
 
 Diego Krause is a house and techno artist based in Germany, with 20 gigs on soundcheck across Barcelona, Berlin, Brussels and Düsseldorf and 2 more. Often billed alongside Nick Beringer, Ady Toledano and Annina. Next up: 303 Audiophile Bar, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Diego Krause is a house and techno artist based in Germany, with 20 gigs on soun
 
 Nick Beringer, Ady Toledano, Annina
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegokrause/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegokrause/)*

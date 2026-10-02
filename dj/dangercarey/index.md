@@ -1,6 +1,6 @@
 # Danger Carey
 
-Danger Carey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
+Danger Carey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
 
 Danger Carey is a disco and funk / soul artist based in United Kingdom, with 10 gigs on soundcheck across Glasgow. Often billed alongside RED-RUNNR, Southside Acid Movement and The Wook. Next up: The Ivory Hotel, Glasgow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Danger Carey is a disco and funk / soul artist based in United Kingdom, with 10 
 
 RED-RUNNR, Southside Acid Movement, The Wook
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangercarey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangercarey/)*

@@ -1,6 +1,6 @@
 # Charlie Stoic
 
-Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sugar Loaf, Bristol on Fri, 9 Oct 2026.
+Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sugar Loaf, Bristol on Fri, 9 Oct 2026.
 
 Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, with 34 gigs on soundcheck across Bristol. Often billed alongside Jonesy Wales, Atki2 and Azumei. Next up: The Sugar Loaf, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, wit
 
 Jonesy Wales, Atki2, Azumei
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*

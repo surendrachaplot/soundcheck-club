@@ -1,6 +1,6 @@
 # Alich (1)
 
-Alich (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Alich (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Alich is a house and tech house artist based in Morocco, with 14 gigs on soundcheck across Marseille and Paris. Often billed alongside Amine S, Domi (FR) and E.LINA. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Alich is a house and tech house artist based in Morocco, with 14 gigs on soundch
 
 Amine S, Domi (FR), E.LINA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alich-1/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alich-1/)*

@@ -1,6 +1,6 @@
 # SIGNAL (JP)
 
-SIGNAL (JP) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sasazuka Bowl, Tokyo on Sun, 4 Oct 2026.
+SIGNAL (JP) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sasazuka Bowl, Tokyo on Sun, 4 Oct 2026.
 
 SIGNAL (JP) is a techno and house artist based in Japan, with 267 gigs on soundcheck across Osaka and Tokyo. Often billed alongside MOTOKA, SINZIN and cosmolady. Next up: Sasazuka Bowl, Tokyo on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ SIGNAL (JP) is a techno and house artist based in Japan, with 267 gigs on soundc
 
 MOTOKA, SINZIN, cosmolady
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signal-jp/)*

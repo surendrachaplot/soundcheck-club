@@ -1,6 +1,6 @@
 # Alex Now
 
-Alex Now is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Alex Now is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Alex Now is a tech house and house artist based in Spain, with 9 gigs on soundcheck across Barcelona, Madrid, South and Valencia. Often billed alongside Vidaloca, Abdon and Adam Beyer. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alex Now is a tech house and house artist based in Spain, with 9 gigs on soundch
 
 Vidaloca, Abdon, Adam Beyer
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnow/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnow/)*

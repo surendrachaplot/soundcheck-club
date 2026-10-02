@@ -1,6 +1,6 @@
 # Cesare vs Disorder
 
-Cesare vs Disorder is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Resume Valencia, Valencia on Sat, 3 Oct 2026.
+Cesare vs Disorder is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Resume Valencia, Valencia on Sat, 3 Oct 2026.
 
 Cesare vs Disorder are a house and minimal duo based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Hong Kong and London and 5 more. Often billed alongside Rhom Omit, Weg (DE) and Ocean Lam. Next up: Resume Valencia, Valencia on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Cesare vs Disorder are a house and minimal duo based in Italy, with 52 gigs on s
 
 Rhom Omit, Weg (DE), Ocean Lam
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*

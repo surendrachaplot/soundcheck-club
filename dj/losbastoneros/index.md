@@ -1,6 +1,6 @@
 # Los Bastoneros
 
-Los Bastoneros is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Forge, Bucharest on Sat, 3 Oct 2026.
+Los Bastoneros is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forge, Bucharest on Sat, 3 Oct 2026.
 
 Los Bastoneros is a minimal and minimal techno artist based in Romania, with 13 gigs on soundcheck across Bucharest and Copenhagen. Often billed alongside Sublee, Mera and Nu Zau. Next up: Forge, Bucharest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Los Bastoneros is a minimal and minimal techno artist based in Romania, with 13 
 
 Sublee, Mera, Nu Zau
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/losbastoneros/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/losbastoneros/)*

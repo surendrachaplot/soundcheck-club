@@ -1,6 +1,6 @@
 # NO ONE
 
-NO ONE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Thu, 29 Oct 2026.
+NO ONE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OST, Berlin on Thu, 29 Oct 2026.
 
 NO ONE is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Copenhagen, Madrid and Mexico City and 3 more. Often billed alongside Matriark, Neri J and Fruit. Next up: OST, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ NO ONE is a techno and house artist based in Germany, with 13 gigs on soundcheck
 
 Matriark, Neri J, Fruit (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noone/)*

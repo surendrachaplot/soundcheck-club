@@ -1,6 +1,6 @@
 # annalogue
 
-annalogue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 2 Oct 2026.
+annalogue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 2 Oct 2026.
 
 annalogue is a house and techno artist based in Germany, with 10 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Technoslave_69, Terrakin and Montse. Next up: CLUB RAUM, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ annalogue is a house and techno artist based in Germany, with 10 gigs on soundch
 
 Technoslave_69, Terrakin, Montse
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogue/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogue/)*

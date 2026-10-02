@@ -1,6 +1,6 @@
 # CONCEPTUAL
 
-CONCEPTUAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - LUBLIN, Poland on Sat, 17 Oct 2026.
+CONCEPTUAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - LUBLIN, Poland on Sat, 17 Oct 2026.
 
 CONCEPTUAL is a techno and house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside MOE (LB), Pâris. and Lewis Fautzi. Next up: TBA - LUBLIN, Poland on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CONCEPTUAL is a techno and house artist based in Italy, with 77 gigs on soundche
 
 MOE (LB), Pâris., Lewis Fautzi
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*

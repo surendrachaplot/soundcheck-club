@@ -1,6 +1,6 @@
 # Mismatch Cologne
 
-Mismatch Cologne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
+Mismatch Cologne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
 
 Mismatch Cologne is a house and techno artist based in Germany, with 10 gigs on soundcheck across Cologne. Often billed alongside Elisen, 909 RACING TEAM and DJ MELO. Next up: fi, Cologne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mismatch Cologne is a house and techno artist based in Germany, with 10 gigs on 
 
 Elisen, 909 RACING TEAM, DJ MELO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mismatchcologne/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mismatchcologne/)*

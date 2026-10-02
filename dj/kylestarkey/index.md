@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
+Kyle Starkey is a Techno and House artist with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
 Kyle Starkey is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 177 gigs
 
 DART, Benwal, Faster Horses
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

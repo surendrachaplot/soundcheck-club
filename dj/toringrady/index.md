@@ -1,6 +1,6 @@
 # Torin Grady
 
-Torin Grady is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
+Torin Grady is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
 
 Torin Grady is an electro and house artist based in United Kingdom, with 37 gigs on soundcheck across Belfast, Bristol, Leeds and London and 1 more. Often billed alongside Oliver Kristian, Isaac Frost and Flash Mitra. Next up: Eiger Studios, Leeds on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Torin Grady is an electro and house artist based in United Kingdom, with 37 gigs
 
 Oliver Kristian, Isaac Frost, Flash Mitra
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toringrady/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toringrady/)*

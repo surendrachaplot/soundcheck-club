@@ -1,6 +1,6 @@
 # kazarov
 
-kazarov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Evolution Valbom Hotel, Lisbon on Fri, 2 Oct 2026.
+kazarov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Evolution Valbom Hotel, Lisbon on Fri, 2 Oct 2026.
 
 kazarov is a house and techno artist based in Ukraine, with 8 gigs on soundcheck across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Evolution Valbom Hotel, Lisbon on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ kazarov is a house and techno artist based in Ukraine, with 8 gigs on soundcheck
 
 ELEVIN, Alberto Pizzarelli, Chris Veron
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*

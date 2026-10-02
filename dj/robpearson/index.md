@@ -1,6 +1,6 @@
 # Rob Pearson
 
-Rob Pearson is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
+Rob Pearson is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
 
 Rob Pearson is a tech house and house artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Brighton, Leeds and London and 2 more. Often billed alongside PAS, Donton and dj ripple. Next up: 303 Audiophile Bar, Barcelona on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Rob Pearson is a tech house and house artist based in United Kingdom, with 16 gi
 
 PAS, Donton, dj ripple
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robpearson/)*

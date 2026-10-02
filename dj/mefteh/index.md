@@ -1,6 +1,6 @@
 # Mefteh
 
-Mefteh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Mefteh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Mefteh is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Madrid and 2 more. Often billed alongside L-AUX, Ricksen and Maximus (DE). Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mefteh is a techno and trance artist based in Germany, with 33 gigs on soundchec
 
 L-AUX, Ricksen, Maximus (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefteh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefteh/)*

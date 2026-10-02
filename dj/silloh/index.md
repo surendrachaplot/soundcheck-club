@@ -1,6 +1,6 @@
 # Silloh
 
-Silloh is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
+Silloh is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
 
 Silloh is a drum & bass and hip-hop artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Brighton and London. Often billed alongside Half Cab, Promo ZO and Vektah. Next up: Skatecafe, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Silloh is a drum & bass and hip-hop artist based in United Kingdom, with 18 gigs
 
 Half Cab, Promo ZO, Vektah
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silloh/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silloh/)*

@@ -1,6 +1,6 @@
 # Aveny-T
 
-Aveny-T is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KONCERT I KULISSEN: PORTAL PETS" on Fri, 16 Oct 2026.
+Aveny-T is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "KONCERT I KULISSEN: PORTAL PETS" on Fri, 16 Oct 2026.
 
 Aveny-T is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Frederiksberg alle 102.
 
@@ -14,4 +14,4 @@ Aveny-T is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See
 
 Frederiksberg alle 102, Copenhagen
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/aveny-t/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/aveny-t/)*

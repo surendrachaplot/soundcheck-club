@@ -1,6 +1,6 @@
 # Bajan K
 
-Bajan K is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Romantica, Stuttgart on Fri, 2 Oct 2026.
+Bajan K is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantica, Stuttgart on Fri, 2 Oct 2026.
 
 Bajan K is a techno and minimal techno artist, with 6 gigs on soundcheck across Frankfurt and Stuttgart. Often billed alongside Dominik Krammer, Hansn and Adrian Mills. Next up: Romantica, Stuttgart on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Bajan K is a techno and minimal techno artist, with 6 gigs on soundcheck across 
 
 Dominik Krammer, Hansn, Adrian Mills
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bajank/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bajank/)*

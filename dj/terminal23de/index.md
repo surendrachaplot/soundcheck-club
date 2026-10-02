@@ -1,6 +1,6 @@
 # TERMINAL 23 (DE)
 
-TERMINAL 23 (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
+TERMINAL 23 (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
 
 TERMINAL 23 (DE) is a techno and house artist based in Germany, with 17 gigs on soundcheck across Hamburg. Often billed alongside SIX DIMENSIONS, Danya (DE) and WELTRO. Next up: Uebel & Gefährlich, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ TERMINAL 23 (DE) is a techno and house artist based in Germany, with 17 gigs on 
 
 SIX DIMENSIONS, Danya (DE), WELTRO
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal23de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal23de/)*

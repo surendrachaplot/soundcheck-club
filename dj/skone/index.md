@@ -1,6 +1,6 @@
 # Sköne
 
-Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Sköne is a techno and hardcore artist based in France, with 32 gigs on soundcheck across Bangkok, Barcelona, Brussels and Frankfurt and 8 more. Often billed alongside Protokseed, EARGASM GOD and ECZODIA. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Sköne is a techno and hardcore artist based in France, with 32 gigs on soundche
 
 Protokseed, EARGASM GOD, ECZODIA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*

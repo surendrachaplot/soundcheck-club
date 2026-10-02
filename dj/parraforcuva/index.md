@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cigale, Paris on Fri, 2 Oct 2026.
+Parra for Cuva is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cigale, Paris on Fri, 2 Oct 2026.
 
 Parra for Cuva is a house and electronica artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: La Cigale, Paris on Fri 2 Oct.
 
@@ -19,6 +19,7 @@ Parra for Cuva is a house and electronica artist based in Germany, with 73 gigs 
 
 ## Recently played
 
+- Carlswerk Victoria, Cologne · Thu, 1 Oct 2026
 - Docks, Hamburg · Tue, 29 Sept 2026
 - Vrachon Theater, Athens · Thu, 24 Sept 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 12 Sept 2026
@@ -26,10 +27,9 @@ Parra for Cuva is a house and electronica artist based in Germany, with 73 gigs 
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 - Parque da Pasteleira, Porto · Fri, 3 Jul 2026
 - Hangaren, Copenhagen · Wed, 3 Jun 2026
-- Cova Santa, Ibiza · Fri, 29 May 2026
 
 ## Shares bills with
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

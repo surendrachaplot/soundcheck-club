@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
+tamanaramen is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala El Sol, Madrid on Fri, 2 Oct 2026.
 
 tamanaramen is an experimental and electronica artist based in Japan, with 36 gigs on soundcheck across Berlin, Brussels, Hong Kong and London and 5 more. Often billed alongside HIMAWARI, Daito Manabe and MoEPiKA. Next up: Sala El Sol, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ tamanaramen is an experimental and electronica artist based in Japan, with 36 gi
 
 HIMAWARI, Daito Manabe, MoEPiKA
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

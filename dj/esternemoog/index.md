@@ -1,6 +1,6 @@
 # Esterne Moog
 
-Esterne Moog is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Hall, Berlin on Fri, 2 Oct 2026.
+Esterne Moog is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Hall, Berlin on Fri, 2 Oct 2026.
 
 Esterne Moog is a techno and electro artist based in Spain, with 33 gigs on soundcheck across Berlin and Madrid. Often billed alongside Semuta, Sito LP and Donkker. Next up: Void Hall, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Esterne Moog is a techno and electro artist based in Spain, with 33 gigs on soun
 
 Semuta, Sito LP, Donkker
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esternemoog/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esternemoog/)*

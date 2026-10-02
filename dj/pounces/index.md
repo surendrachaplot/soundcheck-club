@@ -1,6 +1,6 @@
 # Pounces
 
-Pounces is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
+Pounces is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
 
 Pounces is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Denver. Often billed alongside DJ PurRpLeXeD, Tailspin and Haus Catz. Next up: TBA - Haus Catz Warehouse, Denver on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pounces is a house and techno artist based in United States of America, with 20 
 
 DJ PurRpLeXeD, Tailspin, Haus Catz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pounces/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pounces/)*

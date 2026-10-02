@@ -1,6 +1,6 @@
 # Merchant
 
-Merchant is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The System, Sheffield on Sat, 31 Oct 2026.
+Merchant is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The System, Sheffield on Sat, 31 Oct 2026.
 
 Merchant is a house and disco artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Edinburgh, London and Los Angeles and 8 more. Often billed alongside Richard Fribert, Max Hammur and Boboxa. Next up: The System, Sheffield on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Merchant is a house and disco artist based in United Kingdom, with 33 gigs on so
 
 Richard Fribert, Max Hammur, Boboxa
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*

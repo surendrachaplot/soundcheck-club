@@ -1,6 +1,6 @@
 # Denny Spektor
 
-Denny Spektor is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yachtklub, Frankfurt on Sat, 3 Oct 2026.
+Denny Spektor is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yachtklub, Frankfurt on Sat, 3 Oct 2026.
 
 Denny Spektor is a house and minimal artist, with 9 gigs on soundcheck across Frankfurt, Ibiza, New York City and Toronto. Often billed alongside Saraga, Åres and AGELESS. Next up: Yachtklub, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Denny Spektor is a house and minimal artist, with 9 gigs on soundcheck across Fr
 
 Saraga, Åres, AGELESS
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyspektor/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennyspektor/)*

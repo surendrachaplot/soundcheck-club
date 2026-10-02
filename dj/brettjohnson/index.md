@@ -1,13 +1,14 @@
 # Brett Johnson
 
-Brett Johnson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Xuxa, Austin on Sat, 10 Oct 2026.
+Brett Johnson is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Xuxa, Austin on Fri, 2 Oct 2026.
 
-Brett Johnson is a house and acid artist based in United States of America, with 186 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Horse Opera, Brother Pate and Robert Roman. Next up: Xuxa, Austin on Sat 10 Oct.
+Brett Johnson is a house and acid artist based in United States of America, with 187 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Horse Opera, Brother Pate and Marcus Lott. Next up: Xuxa, Austin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Xuxa | Austin |
 | Sat, 10 Oct 2026 | Xuxa | Austin |
 | Fri, 6 Nov 2026 | Vibehaus ATX | Austin |
 
@@ -24,6 +25,6 @@ Brett Johnson is a house and acid artist based in United States of America, with
 
 ## Shares bills with
 
-Horse Opera, Brother Pate, Robert Roman
+Horse Opera, Brother Pate, Marcus Lott
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*

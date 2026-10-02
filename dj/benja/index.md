@@ -1,6 +1,6 @@
 # Benja
 
-Benja is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 17 Oct 2026.
+Benja is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 17 Oct 2026.
 
 Benja is a tech house and house artist based in Switzerland, with 22 gigs on soundcheck across Amsterdam, Barcelona, Basel and Hamburg and 7 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Moon Warsaw, Warsaw on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Benja is a tech house and house artist based in Switzerland, with 22 gigs on sou
 
 Franc Fala, Cincity, Mahmut Orhan
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

@@ -1,6 +1,6 @@
 # Fusco Stefano
 
-Fusco Stefano is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Fusco Stefano is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Fusco Stefano is a disco and funk / soul artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Jason K (IT), Bustin' Loose and Lela Xein. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Fusco Stefano is a disco and funk / soul artist based in Italy, with 34 gigs on 
 
 Jason K (IT), Bustin' Loose, Lela Xein
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuscostefano/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuscostefano/)*

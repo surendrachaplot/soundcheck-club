@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Funkhaus, Vienna on Fri, 2 Oct 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Funkhaus, Vienna on Fri, 2 Oct 2026.
 
 ARMANA KHAN is a club and baile funk artist based in United States of America, with 76 gigs on soundcheck across Barcelona, Berlin, Chicago and Frankfurt and 25 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Funkhaus, Vienna on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, w
 
 ARCHANGEL (US), Meg10, Manuka Honey
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

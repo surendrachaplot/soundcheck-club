@@ -1,6 +1,6 @@
 # Arielo
 
-Arielo is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Taro, Barcelona on Sat, 3 Oct 2026.
+Arielo is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Taro, Barcelona on Sat, 3 Oct 2026.
 
 Arielo is a house and funk / soul artist based in Spain, with 27 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Keyblow, IVAN POSEIDON and Carmilla Sioux. Next up: Sala Taro, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Arielo is a house and funk / soul artist based in Spain, with 27 gigs on soundch
 
 Keyblow, IVAN POSEIDON, Carmilla Sioux
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielo/)*

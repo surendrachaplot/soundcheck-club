@@ -1,6 +1,6 @@
 # chuan
 
-chuan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+chuan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 chuan is a techno and club artist, with 9 gigs on soundcheck across Hong Kong, Shanghai and Shenzhen. Often billed alongside DJ EBP, 10000 (CN) and Cocoonics. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ chuan is a techno and club artist, with 9 gigs on soundcheck across Hong Kong, S
 
 DJ EBP, 10000 (CN), Cocoonics
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chuan/)*

@@ -1,6 +1,6 @@
 # Heist
 
-Heist is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 20 Nov 2026.
+Heist is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Fri, 20 Nov 2026.
 
 Heist is a drum & bass and jungle artist, with 18 gigs on soundcheck across Birmingham, Brighton, Hamburg and London. Often billed alongside DJ Hype, DJ Hazard and Funsta. Next up: Volks, Brighton on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Heist is a drum & bass and jungle artist, with 18 gigs on soundcheck across Birm
 
 DJ Hype, DJ Hazard, Funsta
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heist/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heist/)*

@@ -1,6 +1,6 @@
 # Casual P
 
-Casual P is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Casual P is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Casual P is a house and garage artist based in Australia, with 23 gigs on soundcheck across Sydney. Often billed alongside Ari Kiko, Couch Mechanic and Lily FM. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Casual P is a house and garage artist based in Australia, with 23 gigs on soundc
 
 Ari Kiko, Couch Mechanic, Lily FM
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

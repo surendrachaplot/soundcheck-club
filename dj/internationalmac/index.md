@@ -1,6 +1,6 @@
 # International Mac
 
-International Mac is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Pirate, Paris on Sat, 3 Oct 2026.
+International Mac is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Radio Pirate, Paris on Sat, 3 Oct 2026.
 
 International Mac is a house and electro artist based in France, with 49 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Tau Car, Admo and Sibil. Next up: Radio Pirate, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ International Mac is a house and electro artist based in France, with 49 gigs on
 
 Tau Car, Admo, Sibil (1)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalmac/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalmac/)*

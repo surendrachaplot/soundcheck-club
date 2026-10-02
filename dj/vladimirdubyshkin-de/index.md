@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: 99 Scott Ave, New York City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, with 109 gigs 
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

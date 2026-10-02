@@ -1,6 +1,6 @@
 # dela Moon
 
-dela Moon is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+dela Moon is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
 
 dela Moon is a drum & bass and techno artist, with 27 gigs on soundcheck across Berlin, Detroit, Los Angeles and San Diego and 2 more. Often billed alongside Anton Tumas, Treavor Moontribe and Ant TC1. Next up: TBA, Victoria on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ dela Moon is a drum & bass and techno artist, with 27 gigs on soundcheck across 
 
 Anton Tumas, Treavor Moontribe, Ant TC1
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delamoon/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delamoon/)*

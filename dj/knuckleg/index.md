@@ -1,6 +1,6 @@
 # Knuckle G
 
-Knuckle G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
+Knuckle G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Java, Paris on Sat, 24 Oct 2026.
 
 Knuckle G is a house and disco artist based in France, with 47 gigs on soundcheck across Geneva, Liverpool, London and Lyon and 1 more. Often billed alongside Chinau, Larry G and Dielli. Next up: La Java, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Knuckle G is a house and disco artist based in France, with 47 gigs on soundchec
 
 Chinau, Larry G, Dielli
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knuckleg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knuckleg/)*

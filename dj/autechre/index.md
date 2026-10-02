@@ -1,6 +1,6 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Universe Athens, Athens on Sat, 3 Oct 2026.
+Autechre is a IDM and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Universe Athens, Athens on Sat, 3 Oct 2026.
 
 Autechre is an idm and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Universe Athens, Athens on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Autechre is an idm and techno artist based in United Kingdom, with 57 gigs on so
 
 ## Recently played
 
+- Ložionica, Belgrade · Thu, 1 Oct 2026
 - Planet.tt Gasometer, Vienna · Tue, 29 Sept 2026
 - National Gallery Prague, Prague · Sun, 27 Sept 2026
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Autechre is an idm and techno artist based in United Kingdom, with 57 gigs on so
 - Yogibo Meta Valley, Osaka · Thu, 5 Feb 2026
 - Zepp Tokyo, Tokyo · Wed, 4 Feb 2026
 - Mandela Hall, Belfast · Fri, 7 Nov 2025
-- The Prospect Building, Bristol · Thu, 6 Nov 2025
 
 ## Shares bills with
 
 Mark Broom, HiTech, ojoo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

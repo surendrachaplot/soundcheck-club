@@ -1,6 +1,6 @@
 # Rivako
 
-Rivako is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Luka, Seoul on Fri, 2 Oct 2026.
+Rivako is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Luka, Seoul on Fri, 2 Oct 2026.
 
 Rivako is a techno and hardcore artist based in South Korea, with 69 gigs on soundcheck across Seoul. Often billed alongside D.E.F, PONGPONG and NANAH. Next up: Luka, Seoul on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rivako is a techno and hardcore artist based in South Korea, with 69 gigs on sou
 
 D.E.F, PONGPONG, NANAH
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivako/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivako/)*

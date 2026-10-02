@@ -1,6 +1,6 @@
 # Wuss
 
-Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
 Wuss is a house and club artist based in Slovakia, with 37 gigs on soundcheck across Prague. Often billed alongside duboisi, Kirill Astra and DJ Zurückbleiben Bitte. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Wuss is a house and club artist based in Slovakia, with 37 gigs on soundcheck ac
 
 duboisi, Kirill Astra, DJ Zurückbleiben Bitte
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*

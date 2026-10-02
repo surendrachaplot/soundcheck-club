@@ -1,6 +1,6 @@
 # MC Toast
 
-MC Toast is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
+MC Toast is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
 MC Toast is a bass and techno artist based in United Kingdom, with 12 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside DUKU, SGT Pokes and Dub Athlete. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MC Toast is a bass and techno artist based in United Kingdom, with 12 gigs on so
 
 DUKU, SGT Pokes, Dub Athlete
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctoast/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctoast/)*

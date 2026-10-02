@@ -1,6 +1,6 @@
 # FAG HAG
 
-FAG HAG is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
+FAG HAG is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
 
 FAG HAG is a techno and electronica artist based in Spain, with 13 gigs on soundcheck across Valencia. Often billed alongside Angelinanyulí, Vulva Vitamina and Ariezzz. Next up: Barraca, Valencia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FAG HAG is a techno and electronica artist based in Spain, with 13 gigs on sound
 
 Angelinanyulí, Vulva Vitamina, Ariezzz
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faghag/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faghag/)*

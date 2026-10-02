@@ -1,6 +1,6 @@
 # hapuk
 
-hapuk is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
+hapuk is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
 
 hapuk is a techno and experimental artist based in Czech Republic, with 9 gigs on soundcheck across Prague and Vienna. Often billed alongside Peter Puenktlich, esti.d and neon.kotze. Next up: Flex, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ hapuk is a techno and experimental artist based in Czech Republic, with 9 gigs o
 
 Peter Puenktlich (2), esti.d, neon.kotze
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapuk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapuk/)*

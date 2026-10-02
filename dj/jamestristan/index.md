@@ -1,6 +1,6 @@
 # James Tristan
 
-James Tristan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
+James Tristan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Model, Nottingham on Sat, 28 Nov 2026.
 
 James Tristan is a house and techno artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, London, Manchester and Nottingham. Often billed alongside Mush Love (UK), Brad Bradley and rPal. Next up: The Model, Nottingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ James Tristan is a house and techno artist based in United Kingdom, with 26 gigs
 
 Mush Love (UK), Brad Bradley, rPal
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestristan/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestristan/)*

@@ -1,6 +1,6 @@
 # FKA Hardcore
 
-FKA Hardcore is a Hardcore and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
+FKA Hardcore is a Hardcore and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
 
 FKA Hardcore is a hardcore and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Bristol, London, Manchester and Nottingham and 1 more. Often billed alongside Yyre, DJ Soyboi and djlaundrybasket. Next up: The Bag Factory, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ FKA Hardcore is a hardcore and jungle artist based in United Kingdom, with 37 gi
 
 Yyre, DJ Soyboi, djlaundrybasket
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*

@@ -1,6 +1,6 @@
 # DJ Scotch Egg
 
-DJ Scotch Egg is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+DJ Scotch Egg is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 DJ Scotch Egg is an electronica and experimental artist based in Japan, with 10 gigs on soundcheck across Armenia, Berlin, London and Manchester and 1 more. Often billed alongside ABADIR, Elvin Brandhi and WaqWaq Kingdom. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Scotch Egg is an electronica and experimental artist based in Japan, with 10 
 
 ABADIR, Elvin Brandhi, WaqWaq Kingdom
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscotchegg/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscotchegg/)*

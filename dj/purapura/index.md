@@ -1,6 +1,6 @@
 # Pura Pura
 
-Pura Pura is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 4 Oct 2026.
+Pura Pura is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 4 Oct 2026.
 
 Pura Pura is a bass and techno artist based in France, with 36 gigs on soundcheck across Brussels, Ghent, Lyon and Marseille and 4 more. Often billed alongside Hyas, Miley Serious and carin kelly. Next up: Bossa Nova Civic Club, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Pura Pura is a bass and techno artist based in France, with 36 gigs on soundchec
 
 Hyas, Miley Serious, carin kelly
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purapura/)*

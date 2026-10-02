@@ -1,6 +1,6 @@
 # Joao Semedo
 
-Joao Semedo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plano B, Porto on Fri, 2 Oct 2026.
+Joao Semedo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plano B, Porto on Fri, 2 Oct 2026.
 
 Joao Semedo is a house and club artist, with 37 gigs on soundcheck across Lisbon and Porto. Often billed alongside Klin Klop, Let and Moullinex. Next up: Plano B, Porto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Joao Semedo is a house and club artist, with 37 gigs on soundcheck across Lisbon
 
 Klin Klop, Let (3), Moullinex
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*

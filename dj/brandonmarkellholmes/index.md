@@ -1,6 +1,6 @@
 # Brandon Markell Holmes
 
-Brandon Markell Holmes is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
+Brandon Markell Holmes is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
 Brandon Markell Holmes is a funk / soul and house artist based in United States of America, with 17 gigs on soundcheck across London and New York City. Often billed alongside JKriv, Aaron Dae and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Brandon Markell Holmes is a funk / soul and house artist based in United States 
 
 JKriv, Aaron Dae, Jason Lindner
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonmarkellholmes/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonmarkellholmes/)*

@@ -1,14 +1,15 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NWHR, Montreal on Fri, 2 Oct 2026.
+Hemka is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Fri, 2 Oct 2026.
 
-Hemka is a techno and minimal techno artist based in France, with 47 gigs on soundcheck across Amsterdam, Berlin, Boston and Budapest and 16 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: NWHR, Montreal on Fri 2 Oct.
+Hemka is a techno and minimal techno artist based in France, with 48 gigs on soundcheck across Amsterdam, Berlin, Boston and Budapest and 17 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: NWHR, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | NWHR | Montreal |
+| Sat, 3 Oct 2026 | 1201 Franklin St | Vancouver |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Hemka is a techno and minimal techno artist based in France, with 47 gigs on sou
 
 SHDW, Regent, Stef Mendesidis
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*

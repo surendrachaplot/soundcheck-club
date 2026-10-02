@@ -1,6 +1,6 @@
 # Firungi
 
-Firungi is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
+Firungi is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
 
 Firungi is an afro house and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, New York City, Seattle and Toronto and 1 more. Often billed alongside Anyasa, Harji and ANSWER (IN). Next up: 1444 Dupont, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Firungi is an afro house and house artist based in United States of America, wit
 
 Anyasa, Harji, ANSWER (IN)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firungi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firungi/)*

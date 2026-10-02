@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+bolo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 bolo is a techno and house artist based in Poland, with 47 gigs on soundcheck across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ bolo is a techno and house artist based in Poland, with 47 gigs on soundcheck ac
 
 Abrew, Kobayashkn, PayoYayo
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

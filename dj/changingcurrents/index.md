@@ -1,6 +1,6 @@
 # Changing Currents
 
-Changing Currents is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Colour Factory, London on Sat, 28 Nov 2026.
+Changing Currents is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Colour Factory, London on Sat, 28 Nov 2026.
 
 Changing Currents is a house and baile funk artist based in United Kingdom, with 31 gigs on soundcheck across Bangkok, Barcelona, Brighton and Bristol and 5 more. Often billed alongside Tiffany Calver, Diego Armando and ELLADHC. Next up: Colour Factory, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Changing Currents is a house and baile funk artist based in United Kingdom, with
 
 Tiffany Calver, Diego Armando, ELLADHC
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/changingcurrents/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/changingcurrents/)*

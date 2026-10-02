@@ -1,6 +1,6 @@
 # Täino
 
-Täino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar v Krymský, Prague on Fri, 2 Oct 2026.
+Täino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar v Krymský, Prague on Fri, 2 Oct 2026.
 
 Täino is a house and techno artist based in Czech Republic, with 36 gigs on soundcheck across Prague. Often billed alongside Roman Rai, Ezwell and Rico Casazza. Next up: Bar v Krymský, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Täino is a house and techno artist based in Czech Republic, with 36 gigs on sou
 
 Roman Rai, Ezwell, Rico Casazza
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taino/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taino/)*

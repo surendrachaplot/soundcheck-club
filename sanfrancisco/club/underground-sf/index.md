@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bounce SF: Armin Hermann + Gusted" on Fri, 2 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bounce SF: Armin Hermann + Gusted" on Fri, 2 Oct 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 480P (US), 9-System, Alexandernaut and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -23,4 +23,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

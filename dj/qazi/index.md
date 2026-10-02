@@ -1,6 +1,6 @@
 # Qazi
 
-Qazi is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
+Qazi is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
 Qazi is a progressive house and techno artist based in Denmark, with 16 gigs on soundcheck across Copenhagen. Often billed alongside NILU, Desaint (DK) and Frede (NO). Next up: Tap1, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Qazi is a progressive house and techno artist based in Denmark, with 16 gigs on 
 
 NILU, Desaint (DK), Frede (NO)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qazi/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qazi/)*

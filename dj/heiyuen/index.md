@@ -1,6 +1,6 @@
 # Heiyuen
 
-Heiyuen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
+Heiyuen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, Berlin on Fri, 2 Oct 2026.
 
 Heiyuen is a techno and house artist based in China, with 7 gigs on soundcheck across Berlin, Hong Kong, Shenzhen and Tokyo. Often billed alongside Taste of Blue, BUSYBOI and COLA REN. Next up: Monarch, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Heiyuen is a techno and house artist based in China, with 7 gigs on soundcheck a
 
 Taste of Blue, BUSYBOI, COLA REN
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heiyuen/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heiyuen/)*

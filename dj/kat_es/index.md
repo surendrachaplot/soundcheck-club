@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Kat_Es is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Kat_Es is a house and disco artist based in Poland, with 45 gigs on soundcheck across Berlin and Leipzig. Often billed alongside La Terrasse, Eva Crystaltips and Lobo (DE). Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kat_Es is a house and disco artist based in Poland, with 45 gigs on soundcheck a
 
 La Terrasse, Eva Crystaltips, Lobo (DE)
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

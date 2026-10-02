@@ -1,6 +1,6 @@
 # Gianni
 
-Gianni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
+Gianni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Artheater, Cologne on Fri, 9 Oct 2026.
 
 Gianni is a techno and house artist, with 40 gigs on soundcheck across Berlin, Buenos Aires, Cologne and Hamburg and 10 more. Often billed alongside Lou Combo, Maki Polne and Cabanne. Next up: Artheater, Cologne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gianni is a techno and house artist, with 40 gigs on soundcheck across Berlin, B
 
 Lou Combo, Maki Polne, Cabanne
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-cl/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-cl/)*

@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Prunk is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Prunk is a house and tech house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -23,17 +23,17 @@ Prunk is a house and tech house artist based in Netherlands, with 308 gigs on so
 
 ## Recently played
 
+- TBA - Various Venues, Malta · Thu, 1 Oct 2026
+- UNO MALTA, Malta · Thu, 1 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
 - SWG3, Glasgow · Fri, 25 Sept 2026
 - Cova Santa, Ibiza · Tue, 22 Sept 2026
 - Bronze Beach, Amsterdam · Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Shelter Amsterdam, Amsterdam · Fri, 18 Sept 2026
-- Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
-- Gaswrx Birmingham, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

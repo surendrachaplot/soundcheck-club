@@ -1,6 +1,6 @@
 # Sara P
 
-Sara P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Brixton Radio, London on Fri, 2 Oct 2026.
+Sara P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 Sara P is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Bushy Squirrel, MARIUS SEBASTIAN and Aur0m. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sara P is a techno and house artist based in United Kingdom, with 16 gigs on sou
 
 Bushy Squirrel, MARIUS SEBASTIAN, Aur0m
 
-*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarap/)*
+*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarap/)*
