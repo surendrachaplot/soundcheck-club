@@ -1,14 +1,15 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+Mankiyan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
-Mankiyan is a techno and house artist based in Belgium, with 55 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Amigo, Ghent on Fri 16 Oct.
+Mankiyan is a techno and house artist based in Belgium, with 56 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Amigo, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Amigo | Ghent |
+| Sat, 7 Nov 2026 | Buda BXL | Brussels |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Antonio De Angelis
 
-Antonio De Angelis is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
+Antonio De Angelis is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
 
-Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Pre Silent, Polanski and Indira Paganotto. Next up: E1, London on Sat 3 Oct.
+Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Pre Silent, Laure Croft and Polanski. Next up: E1, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Antonio De Angelis is a techno and industrial artist based in United Kingdom, wi
 | Sat, 3 Oct 2026 | E1 | London |
 | Sat, 17 Oct 2026 | The Cause | London |
 | Sat, 24 Oct 2026 | Distillery N17 | London |
+| Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Antonio De Angelis is a techno and industrial artist based in United Kingdom, wi
 
 ## Shares bills with
 
-Pre Silent, Polanski, Indira Paganotto
+Pre Silent, Laure Croft, Polanski
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*

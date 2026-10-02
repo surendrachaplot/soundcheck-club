@@ -1,6 +1,6 @@
 # BODYDOXY X ATMOSFÉRICAS at Casa Independente
 
-BODYDOXY X ATMOSFÉRICAS at Casa Independente on Sat 10 Oct, Lisbon. 2 artists: ALEXXE and BLEID. House and Club. See the line-up on soundcheck.
+BODYDOXY X ATMOSFÉRICAS at Casa Independente on Sat 10 Oct, Lisbon. 3 artists: AFNS, ALEXXE and BLEID. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BODYDOXY X ATMOSFÉRICAS at Casa Independente on Sat 10 Oct, Lisbon. 2 artists: 
 
 ## Line-up
 
+- AFNS
 - ALEXXE
 - BLEID
 

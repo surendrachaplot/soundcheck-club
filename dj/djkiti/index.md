@@ -1,14 +1,13 @@
 # DJ Kiti
 
-DJ Kiti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Coil, Melbourne on Fri, 2 Oct 2026.
+DJ Kiti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club 77, Sydney on Sat, 21 Nov 2026.
 
-DJ Kiti is a techno and house artist, with 104 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Coil, Melbourne on Fri 2 Oct.
+DJ Kiti is a techno and house artist, with 104 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: Club 77, Sydney on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Coil | Melbourne |
 | Sat, 21 Nov 2026 | Club 77 | Sydney |
 
 ## Recently played

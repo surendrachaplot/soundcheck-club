@@ -1,8 +1,8 @@
 # Yova Yager
 
-Yova Yager is a Techno and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Sun, 8 Nov 2026.
+Yova Yager is a Techno and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Sun, 8 Nov 2026.
 
-Yova Yager is a techno and disco artist based in Ukraine, with 22 gigs on soundcheck across Berlin, Krakow, London and Manchester and 1 more. Often billed alongside OllyK, Jeneva and Simik. Next up: The Glove That Fits, London on Sun 8 Nov.
+Yova Yager is a techno and disco artist based in Ukraine, with 23 gigs on soundcheck across Berlin, Krakow, London and Manchester and 1 more. Often billed alongside OllyK, Jeneva and Simik. Next up: The Glove That Fits, London on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yova Yager is a techno and disco artist based in Ukraine, with 22 gigs on soundc
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | The Glove That Fits | London |
 | Fri, 13 Nov 2026 | NUMBER 90 LONDON | London |
+| Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
 

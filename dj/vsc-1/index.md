@@ -1,14 +1,15 @@
 # VSC (1)
 
-VSC (1) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
+VSC (1) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Fri, 2 Oct 2026.
 
-VSC is a bass and dub artist based in Italy, with 13 gigs on soundcheck across Rome. Often billed alongside Her Nice Too, Mantis (IT) and Prest. Next up: Lanificio 159, Rome on Fri 2 Oct.
+VSC is a bass and dub artist based in Italy, with 14 gigs on soundcheck across Berlin and Rome. Often billed alongside Her Nice Too, Mantis (IT) and Prest. Next up: Lanificio 159, Rome on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Lanificio 159 | Rome |
+| Sat, 7 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 

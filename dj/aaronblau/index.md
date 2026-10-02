@@ -1,13 +1,14 @@
 # Aaron Blau
 
-Aaron Blau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
+Aaron Blau is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
 
-Aaron Blau is a house and techno artist based in Germany, with 58 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Milan and 2 more. Often billed alongside puppy, Kingsizebed and DJ AYA. Next up: ÆDEN, Berlin on Sat 31 Oct.
+Aaron Blau is a house and techno artist based in Germany, with 59 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Milan and 2 more. Often billed alongside puppy, Kingsizebed and DJ AYA. Next up: Fucine Vulcano, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Fucine Vulcano | Milan |
 | Sat, 31 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

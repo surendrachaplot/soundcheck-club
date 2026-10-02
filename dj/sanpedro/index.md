@@ -1,14 +1,15 @@
 # San Pedro
 
-San Pedro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Amelia, Milan on Sat, 10 Oct 2026.
+San Pedro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Amelia, Milan on Sat, 10 Oct 2026.
 
-San Pedro is a techno and house artist based in Italy, with 40 gigs on soundcheck across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: Circolo Amelia, Milan on Sat 10 Oct.
+San Pedro is a techno and house artist based in Italy, with 41 gigs on soundcheck across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: Circolo Amelia, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Circolo Amelia | Milan |
+| Sat, 24 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 
 ## Recently played
 

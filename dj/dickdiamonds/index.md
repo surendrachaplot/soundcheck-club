@@ -1,8 +1,8 @@
 # Dick Diamonds
 
-Dick Diamonds is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sat, 3 Oct 2026.
+Dick Diamonds is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sat, 3 Oct 2026.
 
-Dick Diamonds is a house and tech house artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside Manzone & Strong, Barroness and Tyler Hill. Next up: Wiggle Room, Toronto on Sat 3 Oct.
+Dick Diamonds is a house and tech house artist based in Canada, with 29 gigs on soundcheck across Toronto. Often billed alongside Barroness, Manzone & Strong and Tyler Hill. Next up: Wiggle Room, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dick Diamonds is a house and tech house artist based in Canada, with 28 gigs on 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Wiggle Room | Toronto |
 | Sun, 11 Oct 2026 | Wiggle Room | Toronto |
+| Fri, 16 Oct 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Dick Diamonds is a house and tech house artist based in Canada, with 28 gigs on 
 
 ## Shares bills with
 
-Manzone & Strong, Barroness, Tyler Hill
+Barroness, Manzone & Strong, Tyler Hill
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dickdiamonds/)*

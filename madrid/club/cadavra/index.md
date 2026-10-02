@@ -2,7 +2,7 @@
 
 Cadavra is a music venue in Madrid with 25 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CDVR with Tornado Wallace" on Fri, 2 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with line-ups including 2garlics, Alvaro Cabana, Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with line-ups including 2garlics, Abdulla A., Alvaro Cabana and Andy Martin and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 

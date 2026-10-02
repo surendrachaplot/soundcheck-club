@@ -2,7 +2,7 @@
 
 Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Warehouse, Nantes on Fri, 30 Oct 2026.
 
-Vladimir Cauchemar is a techno and electro artist based in France, with 41 gigs on soundcheck across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside LESSSS, billx and Angerfist. Next up: Warehouse, Nantes on Fri 30 Oct.
+Vladimir Cauchemar is a techno and electro artist based in France, with 41 gigs on soundcheck across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside LESSSS, Mandragora and billx. Next up: Warehouse, Nantes on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Vladimir Cauchemar is a techno and electro artist based in France, with 41 gigs 
 
 ## Shares bills with
 
-LESSSS, billx, Angerfist
+LESSSS, Mandragora, billx
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*

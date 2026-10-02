@@ -1,14 +1,13 @@
 # Darcy Justice
 
-Darcy Justice is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Miscellania, Melbourne on Fri, 2 Oct 2026.
+Darcy Justice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Darcy Justice is a house and techno artist based in Australia, with 52 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Emelyne, Moopie and Sleep D. Next up: Miscellania, Melbourne on Fri 2 Oct.
+Darcy Justice is a house and techno artist based in Australia, with 52 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Emelyne, Moopie and Sleep D. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Miscellania | Melbourne |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 

@@ -3130,7 +3130,37 @@
   .dst-poster{width:88px}
   .dst-bars{width:132px}
 }
-/* the more menu on a stub: the one .skm menu, text rows; Delete is the pink of the gradient */
+/* THE SOUND CLIP on a stub (founder 2 Oct 2026; Paper NEXT 2402-0; API.md "Gig clip"): a 36 play / pause disc in
+   the stub's ink (44 to the finger), 40 bars (the played part solid, the rest 38%), the length. Under the steps. */
+.dst-clip{display:flex;align-items:center;gap:8px;min-width:0;padding-top:8px}
+.dst-clip-pp{position:relative;flex:none;width:36px;height:36px;display:grid;place-items:center;padding:0;border:0;border-radius:50%;background:currentColor;color:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
+button.dst-clip-pp::after{content:"";position:absolute;inset:-4px}
+.dst-clip-pp:focus-visible{outline:2px solid var(--sel);outline-offset:2px}
+.dst-clip-pp svg{width:16px;height:16px;fill:var(--fg)}
+.dst-clip-bars{flex:1 1 0;min-width:0;max-width:180px;height:26px;display:flex;align-items:center;gap:1px}
+.dst-clip-bars i{flex:1 1 0;min-width:1px;min-height:2px;border-radius:1px;background:currentColor;opacity:.38}
+.dst-clip-bars i.on{opacity:1}
+.dst-clip-t{flex:none;font:700 11px/14px var(--body);font-variant-numeric:tabular-nums}
+/* while the clip is cut and sent: a spinner in the disc, a line that fills */
+.dst-clip-spin{width:16px;height:16px;border-radius:50%;border:2px solid var(--fg);border-top-color:transparent;animation:spin .8s linear infinite}
+.dst-clip-line{flex:1 1 0;max-width:180px;height:3px;border-radius:2px;background:rgba(42,13,20,.2);overflow:hidden}
+.dst-clip-line b{display:block;width:0;height:100%;background:currentColor;transition:width .2s linear}
+/* under the full stub (dark surface): the same row in cream */
+.dst-full-clip{color:var(--fg)}
+.dst-full-clip .dst-clip-pp svg{fill:var(--ink)}
+/* "Pick the part": the whole sound as 72 bars, a violet 2:00 window to drag, Play, Save clip */
+.clip-trim-h{margin:0 40px 2px 0;font:800 24px/28px var(--head);letter-spacing:-.015em;color:var(--fg)}
+.clip-trim-sub{font:500 14px/20px var(--body);color:var(--muted)}
+.clip-trim-wave{position:relative;height:72px;margin-top:18px;cursor:grab;touch-action:none;-webkit-user-select:none;user-select:none}
+.clip-trim-bars{position:absolute;inset:4px 0;display:flex;align-items:center;gap:2px}
+.clip-trim-bars i{flex:1 1 0;min-width:1px;min-height:2px;border-radius:1px;background:var(--fg);opacity:.38}
+.clip-trim-win{position:absolute;top:0;bottom:0;box-sizing:border-box;min-width:12px;border:2px solid var(--sel);border-radius:10px;background:rgba(124,92,255,.22)}
+.clip-trim-win:focus-visible{outline:2px solid var(--fg);outline-offset:2px}
+.clip-trim-times{display:flex;justify-content:space-between;gap:8px;margin-top:8px;font:700 11px/14px var(--body);font-variant-numeric:tabular-nums;color:var(--muted)}
+.clip-trim-times b{color:var(--fg)}
+/* the more menu on a stub: the one .skm menu, an icon + a label a row; Delete is the pink of the gradient */
+.skm .am-i[data-ic]{justify-content:flex-start;gap:10px !important}
+@media(max-width:620px){.skm .am-i[data-ic]{gap:14px !important}}
 .skm .am-i.dst-del{color:#ff5e7e}
 /* the full stub: the share card, the gig name above it, Share under it */
 .dst-full-t{display:block;margin:0 40px 12px 0;font:800 var(--fs-lg)/1.15 var(--head);color:var(--fg);text-decoration:none}
@@ -5095,6 +5125,8 @@ a.dst-full-t:hover{text-decoration:underline}
     [data-ic="claim"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 3l2.3 1.7 2.9-.1.9 2.7 2.3 1.7-1 2.7 1 2.7-2.3 1.7-.9 2.7-2.9-.1L12 21l-2.3-1.7-2.9.1-.9-2.7-2.3-1.7 1-2.7-1-2.7 2.3-1.7.9-2.7 2.9.1zM9 12l2 2 4-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="flag"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 21V4h11l-2 4 2 4H6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="person"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M15.6 8a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0zM5 20c.8-3.6 3.6-5.4 7-5.4s6.2 1.8 7 5.4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="clip"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 10v4M8 6v12M12 9v6M16 4v16M20 10v4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="pause"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 5h4v14H7zM13 5h4v14h-4z' fill='%23000'/%3E%3C/svg%3E"); }
     [data-ic="x"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 6l12 12M18 6 6 18' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
 
     /* ═══ WEB HERO ≥760 — THE PICTURE WHOLE (founder 2 Oct 2026; Paper NEXT 23O1
@@ -5165,7 +5197,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790959708705">
+<meta name="sc-build" content="1790962983106">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5818,7 +5850,8 @@ a.dst-full-t:hover{text-decoration:underline}
     var active=null;
     function setState(btn,ch){ var s=btn.querySelector('.state'); if(s) s.textContent=ch; }
     var ppOn=false;   /* what the icon currently says, so the poll below only repaints on a real change */
-    function updatePP(playing){ ppOn=!!playing; var ic = playing ? PP_PAUSE : PP_PLAY, lab = playing?'Pause':'Play'; dockPP.innerHTML = ic; dockPP.setAttribute('aria-label', lab); var bk=document.getElementById('bar-knob'); if(bk){ bk.innerHTML = ic; bk.setAttribute('aria-label', lab); } try{ if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? 'playing' : 'paused'; }catch(_){} }
+    function updatePP(playing){ ppOn=!!playing; if(playing) clipStop();   /* a set starts: the gig clip stops (one sound at a time) */
+      var ic = playing ? PP_PAUSE : PP_PLAY, lab = playing?'Pause':'Play'; dockPP.innerHTML = ic; dockPP.setAttribute('aria-label', lab); var bk=document.getElementById('bar-knob'); if(bk){ bk.innerHTML = ic; bk.setAttribute('aria-label', lab); } try{ if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? 'playing' : 'paused'; }catch(_){} }
     // Lock-screen / notification now-playing (MediaSession): metadata + transport
     // mapped onto the dock's own controls. Foreground-only by design — no background audio.
     var _msWired=false;
@@ -9826,7 +9859,7 @@ a.dst-full-t:hover{text-decoration:underline}
           if(!d.health || d.id==null) return;
           if(_diaryById[d.id]) _diaryById[d.id].health=d.health;   // the more menu reads it (Remove steps)
           var b=scope.querySelector('.dst-stub[data-entry="'+String(d.id).replace(/"/g,'')+'"] .dst-body');
-          if(b && !b.querySelector('.dst-steps')) b.insertAdjacentHTML('beforeend', dstStepsHTML(d.health));
+          if(b && !b.querySelector('.dst-steps')){ var cr=b.querySelector('.dst-clip'); if(cr) cr.insertAdjacentHTML('beforebegin', dstStepsHTML(d.health)); else b.insertAdjacentHTML('beforeend', dstStepsHTML(d.health)); }   // the steps bars first, the clip row under them
         });
       }).catch(function(){});
     }
@@ -10214,6 +10247,8 @@ a.dst-full-t:hover{text-decoration:underline}
           // On your diary and on another person's, as the old row did. No note → nothing.
           (note?'<div class="dst-note">'+esc(note)+'</div>':'')+
           ((isMe&&d.health)?dstStepsHTML(d.health):'')+
+          // The sound clip: anyone who sees the diary can play it.
+          (d.clip?dstClipHTML(d.clip):'')+
         '</div>'+
         '<svg class="dst-perf" aria-hidden="true"><line x1="1" y1="8" x2="1" y2="2000" stroke="currentColor" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 5"/></svg>'+
         '<div class="dst-tear">'+
@@ -10351,6 +10386,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<img class="dst-full-img" alt="'+attrEsc('Gig stub: '+dstTitle(d))+'" src="'+attrEsc(dstCardSrc(d,'story'))+'">'+
         // the WHOLE note, under the card (the card picture does not carry it)
         (String(d.note||'').trim()?'<p class="dst-full-note">'+esc(String(d.note).trim())+'</p>':'')+
+        (d.clip?'<div class="dst-full-clip">'+dstClipHTML(d.clip)+'</div>':'')+
         '<div class="rc-actions"><button class="pf-btn primary" id="dst-share" data-ic="share" type="button">Share</button></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); document.removeEventListener('keydown', key); }
@@ -10369,20 +10405,305 @@ a.dst-full-t:hover{text-decoration:underline}
         var c=stubEl.cloneNode(true); c.removeAttribute('role'); c.removeAttribute('tabindex'); var mb=c.querySelector('.dst-more'); if(mb) mb.remove();
         this.replaceWith(c); ov.querySelector('.rc-actions').remove();
         var fn=ov.querySelector('.dst-full-note'); if(fn) fn.remove();   // the stub itself carries the whole note
+        var fc=ov.querySelector('.dst-full-clip'); if(fc) fc.remove();   // and the clip row
+        clipPaint();
       });
     }
-    // The more menu on your own stub: Edit · Share · Remove steps (when it has steps) · Delete.
-    // The web cannot read Health, so it has no "Add steps".
+    // ═══ THE SOUND CLIP ON A LOGGED GIG (founder 2 Oct 2026; Paper NEXT 2402-0; API.md "Gig clip") ═══
+    // ONE clip a gig, 2:00 at most, sound only. Anyone who sees the diary can play it; the owner
+    // adds, replaces, removes. The BROWSER cuts the part and makes the AAC .m4a (96 kbps) and the
+    // 40 bars before the upload. Same rules and words as the apps (GigClip.swift, ClipUi.kt).
+    var CLIP_MAX=120, CLIP_BYTES=3*1024*1024;
+    // A file this big, or this long, is not decoded in memory (a phone tab dies without a word):
+    // it is played into the encoder instead (clipCapture). Globals, so the check script can set them.
+    var CLIP_MEM_BYTES=120*1024*1024, CLIP_MEM_SECS=12*60;
+    var CLIP_PLAY='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
+        CLIP_PAUSE='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg>';
+    function clipTime(s){ s=Math.max(0,Math.round(s||0)); return Math.floor(s/60)+':'+String(s%60).padStart(2,'0'); }   // "1:58"
+    function dstClipHTML(c){
+      var bars=(c.peaks||[]).slice(0,40).map(function(v){ return '<i style="height:'+Math.max(0,Math.min(100,+v||0))+'%"></i>'; }).join('');
+      return '<div class="dst-clip" data-clip="'+attrEsc(c.url)+'"><button class="dst-clip-pp" type="button" aria-label="Play">'+CLIP_PLAY+'</button>'+
+        '<span class="dst-clip-bars" aria-hidden="true">'+bars+'</span><span class="dst-clip-t">'+clipTime(c.secs)+'</span></div>';
+    }
+    // The clip row of a gig, on every copy of its stub that is on screen ('' = no row).
+    function clipSetRow(id, html){
+      document.querySelectorAll('.dst-stub[data-entry="'+String(id).replace(/"/g,'')+'"] .dst-body').forEach(function(b){
+        var old=b.querySelector('.dst-clip'); if(old) old.remove();
+        if(html) b.insertAdjacentHTML('beforeend', html);
+      });
+      clipPaint();
+    }
+    // ── playing: ONE <audio> for every clip (and for the chosen part in "Pick the part") ──
+    var _clipA=null, _clipKey=null, _clipEnd=0;
+    function clipAudio(){
+      if(_clipA) return _clipA;
+      var a=_clipA=document.createElement('audio'); a.id='clip-audio'; a.preload='none'; a.hidden=true;
+      ['play','pause','timeupdate','ended','emptied','error'].forEach(function(ev){ a.addEventListener(ev, clipPaint); });
+      a.addEventListener('timeupdate',function(){ if(_clipEnd && a.currentTime>=_clipEnd) a.pause(); });   // the end of the chosen part
+      a.addEventListener('ended',function(){ try{ a.currentTime=0; }catch(_){} clipPaint(); });
+      document.body.appendChild(a); return a;
+    }
+    function clipPaint(){
+      var a=_clipA, on=!!(a && _clipKey), playing=on && !a.paused && !a.ended;
+      var frac=(on && a.duration>0 && isFinite(a.duration)) ? Math.min(1, a.currentTime/a.duration) : 0;
+      document.querySelectorAll('.dst-clip[data-clip]').forEach(function(row){
+        var mine=on && row.dataset.clip===_clipKey, st=mine&&playing?'1':'0', b=row.querySelector('.dst-clip-pp');
+        if(b && b.dataset.on!==st){ b.dataset.on=st; b.innerHTML=st==='1'?CLIP_PAUSE:CLIP_PLAY; b.setAttribute('aria-label', st==='1'?'Pause':'Play'); }
+        var bars=row.querySelectorAll('.dst-clip-bars i'), n=mine?Math.ceil(frac*bars.length):0;
+        if(row.dataset.n!==String(n)){ row.dataset.n=n; for(var i=0;i<bars.length;i++) bars[i].classList.toggle('on', i<n); }
+      });
+    }
+    // A clip starts: the dock pauses, and it does not start again by itself.
+    function dockPauseForClip(){
+      try{
+        if(currentType==='yt' && ytPlayer && ytPlayer.pauseVideo) ytPlayer.pauseVideo();
+        else if(currentType==='sc' && scWidget) scWidget.pause();
+        else if(currentType==='mc' && mcWidget) mcWidget.pause();
+      }catch(_){}
+      try{ if(radio.on) radioStop(); }catch(_){}   // the radio's clock would start the next artist by itself
+    }
+    function clipStart(url, from, end){
+      var a=clipAudio(); _clipKey=url; _clipEnd=end||0;
+      a.src=url; if(from){ try{ a.currentTime=from; }catch(_){} }
+      dockPauseForClip();
+      a.play().catch(function(){ clipPaint(); });
+      clipPaint();
+    }
+    function clipStop(){ if(!_clipKey) return; _clipKey=null; _clipEnd=0; try{ _clipA.pause(); }catch(_){} clipPaint(); }
+    // The disc on a stub: play, pause, play on. Another clip takes the place of the one that plays.
+    function clipToggle(url){
+      var a=clipAudio();
+      if(_clipKey!==url){ clipStart(url); return; }
+      if(a.paused){ dockPauseForClip(); a.play().catch(function(){ clipPaint(); }); } else { a.pause(); clipPaint(); }
+    }
+    document.addEventListener('click',function(e){
+      var b=e.target.closest && e.target.closest('button.dst-clip-pp'), row=b && b.closest('.dst-clip[data-clip]'); if(!row) return;
+      e.preventDefault(); e.stopPropagation();   // not a tap on the stub
+      clipToggle(row.dataset.clip);
+    }, true);
+
+    // ── making the clip ──
+    function clipCanEncode(){
+      try{
+        if(!window.AudioEncoder || !window.AudioData) return Promise.resolve(false);
+        return AudioEncoder.isConfigSupported({ codec:'mp4a.40.2', sampleRate:44100, numberOfChannels:2, bitrate:96000 })
+          .then(function(r){ return !!(r && r.supported); }, function(){ return false; });
+      }catch(_){ return Promise.resolve(false); }
+    }
+    // The .mp4 box writer (mp4-muxer 5.2.2, MIT), loaded the first time a clip is made. Pinned + SRI.
+    var _clipMux=null;
+    function clipMuxer(){
+      return _clipMux || (_clipMux=new Promise(function(res,rej){
+        var s=document.createElement('script');
+        s.src='https://cdn.jsdelivr.net/npm/mp4-muxer@5.2.2/build/mp4-muxer.js';
+        s.integrity='sha384-wr0AQH9RBAKio/g7bHM5245MBCU5B/b0Y9u42cTxRYQQJXKEijZvWEJKL9JG26hs'; s.crossOrigin='anonymous';
+        s.onload=function(){ if(window.Mp4Muxer) res(window.Mp4Muxer); else { _clipMux=null; rej(new Error('clip: no muxer')); } };
+        s.onerror=function(){ _clipMux=null; rej(new Error('clip: no muxer')); };
+        document.head.appendChild(s);
+      }));
+    }
+    function clipOnce(el, ev){ return new Promise(function(res,rej){
+      el.addEventListener(ev,function(){ res(); },{ once:true }); el.addEventListener('error',function(){ rej(new Error('clip: media')); },{ once:true }); }); }
+    // How long the file is (seconds), from a media element's metadata. null = the browser cannot tell.
+    function clipProbe(url){
+      var el=document.createElement('audio'); el.preload='metadata'; el.src=url;
+      return clipOnce(el,'loadedmetadata').then(function(){ return isFinite(el.duration)&&el.duration>0 ? el.duration : null; }, function(){ return null; });
+    }
+    // The file's sound as 44.1 kHz samples, in memory.
+    function clipDecode(file){
+      var AC=window.OfflineAudioContext||window.webkitOfflineAudioContext, ctx=new AC(2, 1, 44100);
+      return file.arrayBuffer().then(function(buf){ return new Promise(function(res,rej){ ctx.decodeAudioData(buf,res,rej); }); });
+    }
+    // Samples i0..i1 of `chs` as `count` bars 0..100, the loudest bar = 100; silence = all 0 (ClipMath.peaks).
+    function clipPeaks(chs, i0, i1, count){
+      var out=[], top=0, n=Math.max(1,i1-i0);
+      for(var b=0;b<count;b++){
+        var lo=i0+Math.floor(b*n/count), hi=Math.max(lo+1, i0+Math.floor((b+1)*n/count)), m=0;
+        for(var c=0;c<chs.length;c++){ var ch=chs[c], end=Math.min(hi,ch.length); for(var i=lo;i<end;i++){ var v=ch[i]<0?-ch[i]:ch[i]; if(v>m) m=v; } }
+        out.push(m); if(m>top) top=m;
+      }
+      return out.map(function(v){ return top>0?Math.round(v/top*100):0; });
+    }
+    // A file too big to decode in memory: play the part (not heard) and keep the samples. It takes as long as the part.
+    // ponytail: real time. The faster way is a demuxer + WebCodecs AudioDecoder; add it if people wait too long.
+    function clipCapture(url, from, secs, prog){
+      var el=document.createElement('audio'), AC=window.AudioContext||window.webkitAudioContext, ctx=new AC({ sampleRate:44100 });
+      var L=[], R=[], got=0, want=Math.round(secs*ctx.sampleRate), sp=null;
+      el.preload='auto'; el.src=url;
+      return clipOnce(el,'loadedmetadata').then(function(){
+        if(!from) return; el.currentTime=from; return clipOnce(el,'seeked');
+      }).then(function(){ return ctx.resume(); }).then(function(){
+        var src=ctx.createMediaElementSource(el); sp=ctx.createScriptProcessor(4096,2,2);
+        return new Promise(function(res,rej){
+          sp.onaudioprocess=function(e){   // the output stays silent: nothing is heard
+            if(el.paused || got>=want) return;
+            L.push(new Float32Array(e.inputBuffer.getChannelData(0))); R.push(new Float32Array(e.inputBuffer.getChannelData(1)));
+            got+=4096; prog(Math.min(1,got/want)); if(got>=want) res();
+          };
+          el.addEventListener('ended',function(){ setTimeout(res,150); }); el.addEventListener('error',function(){ rej(new Error('clip: media')); });
+          src.connect(sp); sp.connect(ctx.destination);
+          el.play().catch(rej);
+        });
+      }).then(function(){
+        var n=Math.min(got,want); if(n<1) throw new Error('clip: no sound');
+        function join(parts){ var o=new Float32Array(got), at=0; parts.forEach(function(p){ o.set(p,at); at+=p.length; }); return o.subarray(0,n); }
+        return [join(L), join(R)];
+      }).finally(function(){ try{ el.pause(); if(sp) sp.disconnect(); ctx.close(); }catch(_){} });
+    }
+    // Samples → AAC-LC 96 kbps in an .m4a (WebCodecs + the box writer), moov first so it starts at once.
+    function clipEncode(chs, rate){
+      return clipMuxer().then(function(M){
+        var nch=chs.length, n=chs[0].length, target=new M.ArrayBufferTarget(), bad=null;
+        var mux=new M.Muxer({ target:target, audio:{ codec:'aac', numberOfChannels:nch, sampleRate:rate }, fastStart:'in-memory', firstTimestampBehavior:'offset' });
+        var enc=new AudioEncoder({ output:function(chunk, meta){ mux.addAudioChunk(chunk, meta); }, error:function(e){ bad=e; } });
+        enc.configure({ codec:'mp4a.40.2', sampleRate:rate, numberOfChannels:nch, bitrate:96000 });
+        for(var i=0;i<n;i+=rate){   // a second at a time
+          var len=Math.min(rate,n-i), data=new Float32Array(len*nch);
+          for(var c=0;c<nch;c++) data.set(chs[c].subarray(i,i+len), c*len);
+          var ad=new AudioData({ format:'f32-planar', sampleRate:rate, numberOfFrames:len, numberOfChannels:nch, timestamp:Math.round(i/rate*1e6), data:data });
+          enc.encode(ad); ad.close();
+        }
+        return enc.flush().then(function(){ enc.close(); if(bad) throw bad; mux.finalize(); return new Uint8Array(target.buffer); });
+      });
+    }
+    // The upload: raw bytes, the bars and the length in the query. XHR, because fetch has no upload progress.
+    function clipSend(id, bytes, mime, secs, peaks, prog){
+      return new Promise(function(res,rej){
+        var x=new XMLHttpRequest();
+        x.open('POST', API_BASE+'/api/diary/clip?id='+encodeURIComponent(id)+'&secs='+secs+'&peaks='+peaks.join(','));
+        x.withCredentials=true; x.setRequestHeader('Content-Type', mime);
+        var t=sessionToken(); if(t) x.setRequestHeader('Authorization','Bearer '+t);
+        x.upload.onprogress=function(e){ if(e.lengthComputable) prog(e.loaded/e.total); };
+        x.onload=function(){ var j=null; try{ j=JSON.parse(x.responseText); }catch(_){} if(x.status===200 && j && j.clip) res(j.clip); else rej(new Error('clip: '+x.status)); };
+        x.onerror=x.onabort=function(){ rej(new Error('clip: network')); };
+        x.send(bytes);
+      });
+    }
+    var CLIP_FAILED='Couldn’t add the clip. Try again.', CLIP_CANT='This browser can’t make a clip. Use the app.';
+    // "Add a clip" / "Replace clip": a video or a sound file from the computer or the phone. No recording.
+    function clipPick(d){
+      var inp=document.createElement('input'); inp.type='file'; inp.accept='video/*,audio/*'; inp.id='clip-file'; inp.hidden=true;
+      inp.addEventListener('change',function(){ var f=inp.files&&inp.files[0]; inp.remove(); if(f) clipFromFile(d, f); });
+      inp.addEventListener('cancel',function(){ inp.remove(); });
+      var old=document.getElementById('clip-file'); if(old) old.remove();
+      document.body.appendChild(inp); inp.click();
+    }
+    // 2:00 or shorter: straight to the upload. Longer: pick the part. The stub shows how far it is.
+    async function clipFromFile(d, file){
+      var url=URL.createObjectURL(file), busy=false;
+      function prog(p){
+        if(!busy){ busy=true; if(d.clip && _clipKey===d.clip.url) clipStop();
+          clipSetRow(d.id,'<div class="dst-clip busy" role="status" aria-label="Adding the clip"><span class="dst-clip-pp"><i class="dst-clip-spin"></i></span><span class="dst-clip-line"><b></b></span></div>'); }
+        document.querySelectorAll('.dst-stub[data-entry="'+String(d.id).replace(/"/g,'')+'"] .dst-clip-line b').forEach(function(b){ b.style.width=Math.round(Math.max(0,Math.min(1,p))*100)+'%'; });
+      }
+      try{
+        var can=await clipCanEncode(), dur=await clipProbe(url), bytes, mime='audio/mp4', secs, peaks;
+        if(!can){
+          // No AAC encoder in this browser: a finished .m4a / .mp3 of 2:00 and 3 MB at most goes up as it is.
+          var ext=(/\.(m4a|mp3)$/i.exec(file.name)||[])[1];
+          if(!ext || file.size>CLIP_BYTES || !dur || dur>CLIP_MAX+0.5){ showToast(CLIP_CANT); return; }
+          prog(0);
+          var ab=await clipDecode(file);
+          peaks=clipPeaks([ab.getChannelData(0)], 0, ab.length, 40); secs=dur; bytes=file; mime=ext.toLowerCase()==='mp3'?'audio/mpeg':'audio/mp4';
+        } else {
+          var pcm=null;
+          if(file.size<=CLIP_MEM_BYTES && !(dur>CLIP_MEM_SECS)){ try{ pcm=await clipDecode(file); dur=pcm.duration; }catch(_){ pcm=null; } }
+          if(!dur) throw new Error('clip: no sound');   // not a sound this browser can read
+          var chsAll=pcm?[pcm.getChannelData(0)].concat(pcm.numberOfChannels>1?[pcm.getChannelData(1)]:[]):null, from=0;
+          if(dur>CLIP_MAX+0.5){
+            from=await clipTrim(d, url, dur, chsAll);
+            if(from==null) return;   // closed: nothing happens
+          }
+          secs=Math.min(CLIP_MAX, dur-from);
+          prog(0);
+          var chs;
+          if(pcm){ var i0=Math.round(from*pcm.sampleRate), i1=Math.min(pcm.length, i0+Math.round(secs*pcm.sampleRate)); chs=chsAll.map(function(c){ return c.subarray(i0,i1); }); }
+          else chs=await clipCapture(url, from, secs, function(p){ prog(p*0.8); });
+          peaks=clipPeaks(chs, 0, chs[0].length, 40); secs=chs[0].length/44100;
+          bytes=await clipEncode(chs, 44100);
+          if(bytes.length>CLIP_BYTES) throw new Error('clip: over 3 MB');
+        }
+        var base=pcm===null && can ? 0.8 : 0;
+        var clip=await clipSend(d.id, bytes, mime, Math.min(CLIP_MAX, Math.max(1, Math.round(secs))), peaks, function(p){ prog(base+p*(1-base)); });
+        d.clip=clip; clipSetRow(d.id, dstClipHTML(clip));
+        try{ if(window.umami) umami.track('clip',{ what:'add', secs:String(clip.secs) }); }catch(_){}
+      }catch(e){
+        try{ console.warn('clip', e); }catch(_){}
+        if(busy) clipSetRow(d.id, d.clip?dstClipHTML(d.clip):'');
+        showToast(CLIP_FAILED);
+      }finally{ if(_clipKey===url) clipStop(); URL.revokeObjectURL(url); }
+    }
+    // "Remove clip": gone at once; it comes back if the server says no.
+    function clipRemove(d){
+      var old=d.clip; if(!old) return;
+      if(_clipKey===old.url) clipStop();
+      d.clip=null; clipSetRow(d.id,'');
+      authedFetch('/api/diary/clip?id='+encodeURIComponent(d.id),{ method:'DELETE' })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ d.clip=old; clipSetRow(d.id, dstClipHTML(old)); showToast('Couldn’t remove that. Try again.'); });
+    }
+    // "Pick the part" (a file longer than 2:00): the whole sound as 72 bars, a violet 2:00 window to
+    // drag, Play to hear the part, then "Save clip". Gives the start in seconds, or null when closed.
+    // `chs` null (a file too big to decode): flat marks, never a made-up waveform.
+    function clipTrim(d, url, dur, chs){
+      return new Promise(function(done){
+        var N=72, pk=chs?clipPeaks(chs, 0, chs[0].length, N):null, bars='', start=0, max=dur-CLIP_MAX;
+        for(var i=0;i<N;i++) bars+='<i style="height:'+(pk?pk[i]:0)+'%"></i>';
+        var ov=document.createElement('div'); ov.className='auth-overlay show';
+        ov.innerHTML='<div class="rc-box clip-trim" role="dialog" aria-label="Pick the part"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+          '<h3 class="clip-trim-h">Pick the part</h3>'+
+          '<div class="clip-trim-sub">'+esc([d.title||d.venue, dstDay(d)].filter(Boolean).join(' · '))+'</div>'+
+          '<div class="clip-trim-wave"><span class="clip-trim-bars" aria-hidden="true">'+bars+'</span>'+
+            '<div class="clip-trim-win" role="slider" tabindex="0" aria-label="The part" aria-valuemin="0" aria-valuemax="'+Math.round(max)+'"></div></div>'+
+          '<div class="clip-trim-times"><span>0:00</span><b></b><span>'+clipTime(dur)+'</span></div>'+
+          '<div class="rc-actions"><button class="pf-btn" id="clip-trim-play" data-ic="play" type="button">Play</button>'+
+          '<button class="pf-btn primary" id="clip-trim-save" data-ic="clip" type="button">Save clip</button></div></div>';
+        document.body.appendChild(ov);
+        var wave=ov.querySelector('.clip-trim-wave'), win=ov.querySelector('.clip-trim-win'), at=ov.querySelector('.clip-trim-times b'), play=ov.querySelector('#clip-trim-play'), a=clipAudio();
+        function paint(){
+          win.style.left=(start/dur*100)+'%'; win.style.width=(CLIP_MAX/dur*100)+'%';
+          var t=clipTime(start)+' to '+clipTime(start+CLIP_MAX); at.textContent=t;
+          win.setAttribute('aria-valuenow', Math.round(start)); win.setAttribute('aria-valuetext', t);
+        }
+        function move(s){ s=Math.min(Math.max(0,s),max); if(s===start) return; start=s; if(_clipKey===url) clipStop(); paint(); }
+        function pp(){ var on=_clipKey===url && !a.paused; play.textContent=on?'Pause':'Play'; play.dataset.ic=on?'pause':'play'; }
+        function close(v){ if(_clipKey===url) clipStop(); a.removeEventListener('play',pp); a.removeEventListener('pause',pp); document.removeEventListener('keydown', key); ov.remove(); done(v); }
+        function key(e){ if(e.key==='Escape') close(null); }
+        var drag=null;
+        wave.addEventListener('pointerdown',function(e){
+          var r=wave.getBoundingClientRect(), w=win.getBoundingClientRect();
+          if(e.clientX<w.left || e.clientX>w.right) move((e.clientX-r.left)/r.width*dur-CLIP_MAX/2);   // a tap outside: the window goes there
+          drag={ x:e.clientX, s:start, w:r.width }; try{ wave.setPointerCapture(e.pointerId); }catch(_){}
+        });
+        wave.addEventListener('pointermove',function(e){ if(drag) move(drag.s+(e.clientX-drag.x)/drag.w*dur); });
+        ['pointerup','pointercancel'].forEach(function(ev){ wave.addEventListener(ev,function(){ drag=null; }); });
+        win.addEventListener('keydown',function(e){ if(e.key==='ArrowLeft'||e.key==='ArrowRight'){ e.preventDefault(); move(start+(e.key==='ArrowLeft'?-5:5)); } });
+        // Play starts the chosen part from its start; a second tap stops it.
+        play.addEventListener('click',function(){ if(_clipKey===url && !a.paused) clipStop(); else clipStart(url, start, start+CLIP_MAX); pp(); });
+        a.addEventListener('play',pp); a.addEventListener('pause',pp);
+        ov.querySelector('#clip-trim-save').addEventListener('click',function(){ close(start); });
+        ov.querySelector('.auth-close').addEventListener('click',function(){ close(null); });
+        ov.addEventListener('click',function(e){ if(e.target===ov) close(null); });
+        document.addEventListener('keydown', key);
+        paint();
+      });
+    }
+    // The more menu on your own stub: Edit · Share · Add a clip (or Replace clip · Remove clip) ·
+    // Remove steps (when it has steps) · Delete. The web cannot read Health, so it has no "Add steps".
     function dstMenu(btn, d, handle, onChange){
-      function row(act, label, cls){ return '<button class="am-i'+(cls?' '+cls:'')+'" type="button" role="menuitem" data-act="'+act+'"><span>'+label+'</span></button>'; }
+      function row(act, label, ic, cls){ return '<button class="am-i'+(cls?' '+cls:'')+'" type="button" role="menuitem" data-act="'+act+'" data-ic="'+ic+'"><span>'+label+'</span></button>'; }
       var m=skmMount(btn,
         '<div class="skm-h"><div class="skm-tx"><div class="skm-ti">'+esc(dstTitle(d))+'</div><div class="skm-ar"><span>'+esc([dstDay(d), d.venue].filter(Boolean).join(' · '))+'</span></div></div></div>'+
-        row('edit','Edit')+row('share','Share')+(d.health?row('steps','Remove steps'):'')+row('del','Delete','dst-del'));
+        row('edit','Edit','edit')+row('share','Share','share')+
+        (d.clip?row('clip','Replace clip','clip')+row('clipdel','Remove clip','trash'):row('clip','Add a clip','clip'))+
+        (d.health?row('steps','Remove steps','steps'):'')+row('del','Delete','trash','dst-del'));
       m.addEventListener('click', function(e){
         var a=e.target.closest('[data-act]'); if(!a) return;
         var act=a.dataset.act; skMenuClose();
         if(act==='edit') openDiaryEdit(d, onChange);
         else if(act==='share') dstShare(d, handle);
+        else if(act==='clip') clipPick(d);
+        else if(act==='clipdel') clipRemove(d);
         else if(act==='steps'){
           if(!confirm('Remove health stats?\n\nOnly for this gig. '+ghSrc(d.health)+' keeps its own data.')) return;
           authedFetch('/api/diary/'+encodeURIComponent(d.id)+'/health',{ method:'DELETE' })

@@ -1,8 +1,8 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 17 Oct 2026.
+CARAVEL is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 17 Oct 2026.
 
-CARAVEL is a techno and industrial artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Cabaret  Aléatoire, Marseille on Sat 17 Oct.
+CARAVEL is a techno and industrial artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Cabaret  Aléatoire, Marseille on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CARAVEL is a techno and industrial artist based in France, with 123 gigs on soun
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 24 Oct 2026 | Mia Mao | Paris |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

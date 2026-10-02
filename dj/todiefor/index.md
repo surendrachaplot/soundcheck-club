@@ -2,7 +2,7 @@
 
 Todiefor is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
-Todiefor is a techno and electro artist based in Belgium, with 15 gigs on soundcheck across Brussels, Geneva, Montreal and Nantes and 2 more. Often billed alongside Vladimir Cauchemar, Angerfist and Dj Schnake. Next up: Warehouse, Nantes on Fri 20 Nov.
+Todiefor is a techno and electro artist based in Belgium, with 15 gigs on soundcheck across Brussels, Geneva, Montreal and Nantes and 2 more. Often billed alongside Vladimir Cauchemar, Mandragora and Urumi. Next up: Warehouse, Nantes on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Todiefor is a techno and electro artist based in Belgium, with 15 gigs on soundc
 
 ## Shares bills with
 
-Vladimir Cauchemar, Angerfist, Dj Schnake
+Vladimir Cauchemar, Mandragora, Urumi
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/todiefor/)*

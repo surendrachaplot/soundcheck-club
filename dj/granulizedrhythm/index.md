@@ -9,7 +9,7 @@ Granulized Rhythm is a tech house and house artist based in Italy, with 4 gigs o
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Circolo degli Illuminati | Rome |
-| Fri, 9 Oct 2026 | Circolo degli Illuminati | Rome |
+| Fri, 16 Oct 2026 | Circolo degli Illuminati | Rome |
 
 ## Recently played
 

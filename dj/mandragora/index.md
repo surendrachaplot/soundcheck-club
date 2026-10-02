@@ -1,8 +1,8 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sirilo Music Venue, Quer-taro on Sun, 18 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sirilo Music Venue, Quer-taro on Sun, 18 Oct 2026.
 
-Mandragora is a techno and psytrance artist based in Brazil, with 41 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 16 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Sirilo Music Venue, Quer Taro on Sun 18 Oct.
+Mandragora is a techno and psytrance artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 16 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Sirilo Music Venue, Quer Taro on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mandragora is a techno and psytrance artist based in Brazil, with 41 gigs on sou
 | Sun, 18 Oct 2026 | Sirilo Music Venue | Quer-taro |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

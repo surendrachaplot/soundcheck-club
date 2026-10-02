@@ -2,7 +2,7 @@
 
 AMPRS&ND is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-AMPRS&ND is a house and tech house artist, with 24 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Emanate and GOLES. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+AMPRS&ND is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Emanate and GOLES. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 

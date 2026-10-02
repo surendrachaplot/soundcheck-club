@@ -1,14 +1,15 @@
 # Innuendo
 
-Innuendo is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
+Innuendo is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
 
-Innuendo is a techno and progressive house artist based in Belgium, with 12 gigs on soundcheck across Basel, Berlin, Brussels and Lyon and 2 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Piccadilly Central, Manchester on Fri 2 Oct.
+Innuendo is a techno and progressive house artist based in Belgium, with 13 gigs on soundcheck across Basel, Berlin, Brussels and Lyon and 3 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Piccadilly Central, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Piccadilly Central | Manchester |
+| Fri, 27 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
 

@@ -9,8 +9,8 @@ Locklead is a house and tech house artist based in Netherlands, with 196 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | fabric | London |
-| Fri, 9 Oct 2026 | Circolo degli Illuminati | Rome |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
+| Fri, 16 Oct 2026 | Circolo degli Illuminati | Rome |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

@@ -1,8 +1,8 @@
 # Crystal Touch
 
-Crystal Touch is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Crystal Touch is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Crystal Touch is a disco and house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
+Crystal Touch is a disco and house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Copenhagen, London and Netherlands and 2 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Crystal Touch is a disco and house artist based in United Kingdom, with 37 gigs 
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 14 Nov 2026 | Madam | Amsterdam |
+| Sat, 21 Nov 2026 | Luxor Live | Netherlands |
 
 ## Recently played
 

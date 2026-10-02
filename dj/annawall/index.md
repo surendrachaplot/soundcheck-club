@@ -1,8 +1,8 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KPGT, Belgrade on Fri, 2 Oct 2026.
+Anna Wall is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KPGT, Belgrade on Fri, 2 Oct 2026.
 
-Anna Wall is a house and techno artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: KPGT, Belgrade on Fri 2 Oct.
+Anna Wall is a house and techno artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: KPGT, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anna Wall is a house and techno artist based in United Kingdom, with 118 gigs on
 | Fri, 2 Oct 2026 | KPGT | Belgrade |
 | Fri, 9 Oct 2026 | Sameheads | Berlin |
 | Sat, 17 Oct 2026 | fabric | London |
+| Sat, 24 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 7 Nov 2026 | Cadavra | Madrid |
 | Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 28 Nov 2026 | The Model | Nottingham |

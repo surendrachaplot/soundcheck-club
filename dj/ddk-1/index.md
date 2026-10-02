@@ -1,14 +1,13 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ximxim Bar, Seoul on Fri, 2 Oct 2026.
+DDK (1) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shelter, Seoul on Sat, 3 Oct 2026.
 
-DDK is a techno and tech house artist based in Czech Republic, with 60 gigs on soundcheck across Berlin, Paris, Prague and Seoul and 1 more. Often billed alongside zazitech, RADYK and SJ Yellow. Next up: Ximxim Bar, Seoul on Fri 2 Oct.
+DDK is a techno and tech house artist based in Czech Republic, with 60 gigs on soundcheck across Berlin, Paris, Prague and Seoul and 1 more. Often billed alongside zazitech, RADYK and SJ Yellow. Next up: Shelter, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Ximxim Bar | Seoul |
 | Sat, 3 Oct 2026 | Shelter | Seoul |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 

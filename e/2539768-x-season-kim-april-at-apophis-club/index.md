@@ -1,6 +1,6 @@
 # X Season: Kim April at Apophis Club
 
-X Season: Kim April at Apophis Club on Sat 10 Oct, Milan. 1 artist: Kim April. Deep House and Electronica. See the line-up on soundcheck.
+X Season: Kim April at Apophis Club on Sat 10 Oct, Milan. 2 artists: Eren Yildiz and Kim April. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ X Season: Kim April at Apophis Club on Sat 10 Oct, Milan. 1 artist: Kim April. D
 
 ## Line-up
 
+- Eren Yildiz
 - Kim April
 
 *Source: [soundcheck](https://soundcheck.club/e/2539768-x-season-kim-april-at-apophis-club/)*
