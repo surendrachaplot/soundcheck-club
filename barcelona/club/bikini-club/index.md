@@ -1,8 +1,8 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NOM & RED presents HotLap & Budakid" on Sat, 3 Oct 2026.
+Bikini Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NOM & RED presents HotLap & Budakid" on Sat, 3 Oct 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Althoff, Anja Schneider, Babo and Budakid and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Althoff, Anja Schneider, Babo and Budakid and 2 more. See dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs,
 | Fri, 16 Oct 2026 | Tunnel presents. Anja Schneider | Anja Schneider |
 | Sat, 17 Oct 2026 | NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) | Althoff, WHO ELSE, Zagitar |
 | Fri, 23 Oct 2026 | Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero | Dani Corberó, Melanie Ribbe, Ssero, Tomi & Kesh |
+| Sat, 24 Oct 2026 | Sudbeat Showcase pres. Emi Galvan, Danny Howells, Graziano Raffa ,SACK | Danny Howells, Emi Galvan, Graziano Raffa, SACK (AR) |
 | Sat, 24 Oct 2026 | SUDBEAT SHOWCASE  | Danny Howells, Emi Galvan, Graziano Raffa, SACK (AR) |
 | Sat, 31 Oct 2026 | NOM presents John Digweed | John Digweed, Martin Cozar |
 

@@ -13,10 +13,10 @@ Giri is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with lin
 | Thu, 8 Oct 2026 | Freenetica Crew x Jazz-O-Tech | Linda shiro, Mat Hex, Phreenetic, Planetary Echoes |
 | Fri, 9 Oct 2026 | DRIFT Kyiv for TAG DER CLUBKULTUR | ANTRO, Josiane, Nycky Estrella, OLHA, Pamela Svart, Sub Sahara |
 | Wed, 14 Oct 2026 | Pastards | Bass, DJ Jones |
-| Thu, 15 Oct 2026 | Giri x Halal Club |  |
+| Thu, 15 Oct 2026 | Giri x HALAL CLUB: LISTENING SESSION, VOL. 2 | Labrighli, X Tin |
 | Fri, 16 Oct 2026 | Giri x Cruel Machine |  |
 | Wed, 21 Oct 2026 | Giri x Currents | Memeshift |
-| Thu, 22 Oct 2026 | Giri x Kontralamakina Records |  |
+| Thu, 22 Oct 2026 | Giri x Kontralamakina Records | Fuerza Kontraria, Nases Morur, Thravsma |
 | Fri, 23 Oct 2026 | Giri x RAWA Club |  |
 
 ## Address

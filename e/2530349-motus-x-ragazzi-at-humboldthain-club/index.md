@@ -1,6 +1,6 @@
 # Motus x RAGAZZI at Humboldthain Club
 
-Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 8 artists: cun_t, e.leptic, E.T. and Henk (BR) and 4 more. Trance and Techno. See the line-up on soundcheck.
+Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 9 artists: cun_t, DIGGADENZ, e.leptic and E.T. and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 8 artists: cun_t, e.l
 ## Line-up
 
 - cun_t
+- DIGGADENZ
 - e.leptic
 - E.T.
 - Henk (BR)

@@ -14,7 +14,7 @@ Club Makossa is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 | Thu, 22 Oct 2026 | Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry | BIDOIS |
 | Sat, 24 Oct 2026 | 4th Wall Opening Event |  |
 | Thu, 29 Oct 2026 | FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) |  |
-| Thu, 19 Nov 2026 | No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT | NK47, miss jas |
+| Thu, 19 Nov 2026 | No Name Given - FREE FLINTA* BASS / GRIME / JUNGLE NIGHT | NK47, miss jas |
 
 ## Address
 

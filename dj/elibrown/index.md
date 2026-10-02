@@ -1,13 +1,14 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
+Eli Brown is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Silo Dallas, Dallas-fort-worth on Fri, 2 Oct 2026.
 
-Eli Brown is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
+Eli Brown is a techno and house artist based in United Kingdom, with 154 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Auckland and 47 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Silo Dallas, Dallas Fort Worth on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Silo Dallas | Dallas-fort-worth |
 | Sun, 18 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 30 Oct 2026 | Echostage | Washington DC |
 | Sat, 14 Nov 2026 | City Market | Los Angeles |

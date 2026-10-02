@@ -1,13 +1,14 @@
 # Adam Sellouk
 
-Adam Sellouk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Adam Sellouk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Silo Dallas, Dallas-fort-worth on Fri, 2 Oct 2026.
 
-Adam Sellouk is a techno and house artist based in Israel, with 63 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: The Concourse Project, Austin on Fri 13 Nov.
+Adam Sellouk is a techno and house artist based in Israel, with 64 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: Silo Dallas, Dallas Fort Worth on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Silo Dallas | Dallas-fort-worth |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Abstraxion
 
-Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Petit CAB, Marseille on Fri, 2 Oct 2026.
+Abstraxion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Petit CAB, Marseille on Fri, 2 Oct 2026.
 
-Abstraxion is a techno and house artist based in France, with 28 gigs on soundcheck across Berlin, Copenhagen, Marseille and Nantes and 2 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Petit CAB, Marseille on Fri 2 Oct.
+Abstraxion is a techno and house artist based in France, with 29 gigs on soundcheck across Berlin, Copenhagen, Marseille and Nantes and 2 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Petit CAB, Marseille on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Petit CAB | Marseille |
+| Fri, 6 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 338 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
+TBA is a music venue in London with 339 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 338 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 339 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

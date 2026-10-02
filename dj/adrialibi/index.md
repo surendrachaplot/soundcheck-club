@@ -1,14 +1,15 @@
 # Adri Alibi
 
-Adri Alibi is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
+Adri Alibi is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
 
-Adri Alibi is a progressive house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Dj handbag, Habitat Shaking and elliephunk. Next up: Fitzroy, Berlin on Fri 23 Oct.
+Adri Alibi is a house and progressive house artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Habitat Shaking, Dj handbag and elliephunk. Next up: Fitzroy, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Fitzroy | Berlin |
+| Fri, 6 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Adri Alibi is a progressive house and techno artist based in Germany, with 11 gi
 
 ## Shares bills with
 
-Dj handbag, Habitat Shaking, elliephunk
+Habitat Shaking, Dj handbag, elliephunk
 
 *Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialibi/)*

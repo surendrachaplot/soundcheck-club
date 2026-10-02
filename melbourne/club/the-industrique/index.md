@@ -1,14 +1,13 @@
 # The Industrique
 
-The Industrique is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CONVERGENCE" on Fri, 2 Oct 2026.
+The Industrique is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Guau x Yo Speed - MELBOURNE - BREɅKS & BɅSS |" on Sat, 3 Oct 2026.
 
-The Industrique is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Glen West, Guau, JEFFE and NATO and 2 more. See dates, start times and who's playing. 5-7 Louvain St, Coburg North VIC 3058.
+The Industrique is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Glen West, Guau, JEFFE and NATO and 2 more. See dates, start times and who's playing. 5-7 Louvain St, Coburg North VIC 3058.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | CONVERGENCE | Skwid |
 | Sat, 3 Oct 2026 | Guau x Yo Speed - MELBOURNE - BREɅKS & BɅSS / | Guau, Yo Speed |
 | Sat, 24 Oct 2026 | JUST OGEX | Glen West, JEFFE, NATO (1), PEACHI, Shani, xspencer |
 

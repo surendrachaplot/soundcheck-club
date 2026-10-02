@@ -1,14 +1,13 @@
 # HYPERFEMME
 
-HYPERFEMME is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
+HYPERFEMME is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Boondocks, Houston on Sat, 10 Oct 2026.
 
-HYPERFEMME is a club and techno artist based in United States of America, with 56 gigs on soundcheck across Atlanta, Austin, Houston and Los Angeles and 4 more. Often billed alongside Amarji King, yunginternet and Big Ace. Next up: Lunchbox, Atlanta on Sat 10 Oct.
+HYPERFEMME is a club and techno artist based in United States of America, with 55 gigs on soundcheck across Austin, Houston, Los Angeles and Miami and 3 more. Often billed alongside Amarji King, yunginternet and Big Ace. Next up: Boondocks, Houston on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Lunchbox | Atlanta |
 | Sat, 10 Oct 2026 | Boondocks | Houston |
 
 ## Recently played

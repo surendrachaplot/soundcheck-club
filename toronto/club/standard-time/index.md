@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FREE 2 B FEATURING Martyn Bootyspoon, Will Scheffel b2b Maves, Chiara Manchia & House of Lords" on Sat, 3 Oct 2026.
+Standard Time is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FREE 2 B FEATURING Martyn Bootyspoon, Will Scheffel b2b Maves, Chiara Manchia & House of Lords" on Sat, 3 Oct 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), Carlos Estebban and CCL and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Sherwood, Amedeo (CA), Carlos Estebban and CCL and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
 | Fri, 16 Oct 2026 | Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas | Dylan-Thomas, Keys N Krates, LOSTBOYJAY |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
+| Thu, 22 Oct 2026 | TOKiMONSTA and Vjollça | TOKiMONSTA, Vjollca |
 | Sat, 24 Oct 2026 | Rick Wilhite, HAF S  presented by Jeep Mix and Standard Time | HXF (JEEP MIX), Rick Wilhite |
 | Fri, 30 Oct 2026 | An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo | Amedeo (CA), Kanyon, Miss Kleio, Tony Price |
-| Thu, 5 Nov 2026 | Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time | Teal |
 
 ## Address
 

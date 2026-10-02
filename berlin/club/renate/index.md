@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Renate Klubnacht with Spice Club x Akt" on Fri, 2 Oct 2026.
+Renate is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Renate Klubnacht with Spice Club x Akt" on Fri, 2 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
@@ -16,7 +16,7 @@ Renate is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with l
 | Thu, 15 Oct 2026 | Renate LIVE: tba |  |
 | Fri, 16 Oct 2026 | (Un)lucky 13 - Rebellion der Träumer* Anniversary - 55 hours on 6 Floors | Adri Tüde, Andreas Rauscher, Apolonia, Borella, Boskopp, Ciao 3lla, Corios, DJ Flink, DJ https, Daniel Neuland, Dela Nesto, EMJIE, Ele Luz, Elias Goldmund, FLAVE, GI.O, Haensen&Gretel, Hannes Turm, Horst Haller, J.WOCKENFUSS, Julio Paradise, Kos:mo, Kotelett, LAXBERGER, Lanka, Luko, MOOGLI (DE), Mareike Bautz, Maria Theresia von Eberg, Maurice Mino, Mira, Naicet, Powel, Rad.Lez, Sabura, Sahra Bass, Sandrino, Sarah Wild, Sin:port, Sinamin, The Bille, The Jakob Sister, Tobi Dei (DE), Viper, Wanda Wild, Yola Rennt, diladï, fraumuhlin, inda Flo, kluntje, lisa luka, nøvae, wilson.solidarity |
 | Thu, 22 Oct 2026 | Renate LIVE: Kresse 3 /w Support: Die Anteile |  |
-| Fri, 23 Oct 2026 | Renate Klubnacht with Niklas Wandt, Josiana tba | Josiane, Luce Clandestina, Niklas Wandt |
+| Fri, 23 Oct 2026 | Renate Klubnacht with Niklas Wandt, Josiane & RBL.Berlin | Josiane, Luce Clandestina, Niklas Wandt |
 | Sat, 24 Oct 2026 | Renate Klubnacht with Boisha, Kedi Bounce + more tba | FANK, Kedi Bounce, Mandel, Pert (CZ), Shanda, moe. |
 
 ## Address

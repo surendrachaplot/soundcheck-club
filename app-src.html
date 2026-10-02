@@ -3137,6 +3137,8 @@
 a.dst-full-t:hover{text-decoration:underline}
 .dst-full-img{display:block;width:100%;max-height:66vh;object-fit:contain;border-radius:var(--radius)}
 .dst-full .dst-stub{cursor:default}
+/* a long note makes the full stub taller than the screen: the box scrolls, Close stays in reach */
+.dst-full{max-height:calc(100vh - 44px);max-height:calc(100dvh - 44px);overflow-y:auto}
 /* passport stat band above the diary */
 .diary-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0 20px}
 .diary-stat{background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius-md);padding:13px 14px;min-width:0}
@@ -5163,7 +5165,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790956368580">
+<meta name="sc-build" content="1790959708705">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>

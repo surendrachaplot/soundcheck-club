@@ -1,8 +1,8 @@
 # Mija
 
-Mija is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
+Mija is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
 
-Mija is a techno and house artist based in United States of America, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
+Mija is a techno and house artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 43 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mija is a techno and house artist based in United States of America, with 129 gi
 | Sat, 10 Oct 2026 | Manning Bar | Sydney |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |
+| Sun, 25 Oct 2026 | Dom im Berg | Austria |
 | Sat, 31 Oct 2026 | Kompass Klub | Ghent |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | Radius | Chicago |

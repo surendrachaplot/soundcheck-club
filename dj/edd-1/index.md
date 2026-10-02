@@ -1,8 +1,8 @@
 # Edd (1)
 
-Edd (1) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Edd (1) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Edd is a house and tech house artist based in Malta, with 58 gigs on soundcheck across Bali, Barcelona, Denver and Ibiza and 12 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Edd is a house and tech house artist based in Malta, with 59 gigs on soundcheck across Bali, Barcelona, Denver and Ibiza and 12 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Edd is a house and tech house artist based in Malta, with 58 gigs on soundcheck 
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
+| Wed, 14 Oct 2026 | Surfside | Malta |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
 | Sat, 14 Nov 2026 | Formation Brewery | Phoenix |
 

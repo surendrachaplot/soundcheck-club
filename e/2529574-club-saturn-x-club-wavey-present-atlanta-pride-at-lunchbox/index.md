@@ -1,6 +1,6 @@
 # CLUB SATURN x CLUB WAVEY PRESENT: ATLANTA PRIDE at Lunchbox
 
-CLUB SATURN x CLUB WAVEY PRESENT: ATLANTA PRIDE at Lunchbox on Sat 10 Oct, Atlanta. 8 artists: Alxander Ivey, Amarji King, Daniro and DeFacto X and 4 more. See the line-up on soundcheck.
+CLUB SATURN x CLUB WAVEY PRESENT: ATLANTA PRIDE at Lunchbox on Sat 10 Oct, Atlanta. 7 artists: Alxander Ivey, Amarji King, Daniro and DeFacto X and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ CLUB SATURN x CLUB WAVEY PRESENT: ATLANTA PRIDE at Lunchbox on Sat 10 Oct, Atlan
 - Daniro
 - DeFacto X
 - Don Fairylèon
-- HYPERFEMME
 - JAGU4R
 - NEPTUNEWAVEY
 

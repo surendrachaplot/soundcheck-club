@@ -1,8 +1,8 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MAGMA KULTURE & ClublÄrm  >>" on Fri, 2 Oct 2026.
+Esbirra Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MAGMA KULTURE & ClublÄrm  >>" on Fri, 2 Oct 2026.
 
-Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including ADRI.G, Brunno, Chelu Garcia and Dana Ruh and 2 more. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
+Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including ADRI.G, Brunno, CHAZZ D&B and Chelu Garcia and 2 more. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | MAGMA KULTURE & ClublÄrm  >> | ADRI.G, Greick Jhøzsu, Tensal |
 | Sat, 3 Oct 2026 | TIMEmACHINE presents Nima Gorji & Florian Ducellier — Vinyl Only | Nima Gorji |
+| Fri, 9 Oct 2026 | OPTIMAL MASS - DRUM & BASS + JUNGLE | CHAZZ D&B |
 | Sat, 10 Oct 2026 | TIMEmACHINE presents Malambo & Rico Loop — Vinyl Only |  |
 | Sat, 17 Oct 2026 | TIMEmACHINE presents Brunno, Toni Moreno & Vidal Rodriguez | Brunno |
 | Sat, 24 Oct 2026 | TIMEmACHINE presents Heiko, Chelu Garcia & Richie Cutanda | Chelu Garcia, Richie Cutanda |

@@ -1,14 +1,15 @@
 # X Tin
 
-X Tin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Tue, 13 Oct 2026.
+X Tin is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Tue, 13 Oct 2026.
 
-X Tin is a techno and industrial artist based in Germany, with 47 gigs on soundcheck across Berlin, Chicago, Leipzig and Madrid and 4 more. Often billed alongside Alien Rain, Inverse Element and Milton Bradley. Next up: OXI, Berlin on Tue 13 Oct.
+X Tin is a techno and industrial artist based in Germany, with 48 gigs on soundcheck across Berlin, Chicago, Leipzig and Madrid and 4 more. Often billed alongside Alien Rain, Inverse Element and Milton Bradley. Next up: OXI, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | OXI | Berlin |
+| Thu, 15 Oct 2026 | Giri | Berlin |
 
 ## Recently played
 

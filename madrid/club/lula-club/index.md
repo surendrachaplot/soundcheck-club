@@ -1,8 +1,8 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 35 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Samm B2B AJNA" on Fri, 2 Oct 2026.
+Lula Club is a music venue in Madrid with 36 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Samm B2B AJNA" on Fri, 2 Oct 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, with line-ups including Adam Ten, AJNA, Andrea Oliva and CAMET and 2 more. See dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 36 upcoming gigs, with line-ups including Adam Ten, AJNA, Andrea Oliva and CAMET and 2 more. See dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, wit
 | Fri, 9 Oct 2026 | Andrea Oliva | Andrea Oliva |
 | Fri, 9 Oct 2026 | FÜNDAY OPENING: DAYTIME CLUBBING at LULA | DLOU, Loopita |
 | Sat, 10 Oct 2026 | YUKI'S HOUSE |  |
+| Sun, 11 Oct 2026 | After Party Official |  |
 | Thu, 15 Oct 2026 | THURSDAY NIGHT |  |
 | Fri, 16 Oct 2026 | MAZ | Maz (BR) |
 | Sat, 17 Oct 2026 | HOUSE OF RICHI w/Richi Risco | Richi Risco |
-| Thu, 22 Oct 2026 | Benditos Locos with Simon Kidzoo | Simon Kidzoo |
 
 ## Address
 
