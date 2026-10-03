@@ -1,6 +1,6 @@
 # Geminis
 
-Geminis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Georgia Bar, Berlin on Sat, 3 Oct 2026.
+Geminis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Georgia Bar, Berlin on Sat, 3 Oct 2026.
 
 Geminis is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Bangkok, Berlin, Budapest and Istanbul and 3 more. Often billed alongside Darin Epsilon, Beck to Pony and Daniel Schumann. Next up: Georgia Bar, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Geminis is a techno and tech house artist based in Germany, with 17 gigs on soun
 
 Darin Epsilon, Beck to Pony, Daniel Schumann
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geminis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geminis/)*

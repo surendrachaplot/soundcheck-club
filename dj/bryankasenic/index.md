@@ -1,6 +1,6 @@
 # Bryan Kasenic
 
-Bryan Kasenic is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
+Bryan Kasenic is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
 
 Bryan Kasenic is a techno and acid artist based in United States of America, with 30 gigs on soundcheck across Detroit, New York City and San Francisco/Oakland. Often billed alongside Mike Servito, Erika and Derek Plaslaiko. Next up: Nowadays, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bryan Kasenic is a techno and acid artist based in United States of America, wit
 
 Mike Servito, Erika, Derek Plaslaiko
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankasenic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankasenic/)*

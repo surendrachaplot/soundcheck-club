@@ -1,6 +1,6 @@
 # Mati Espina
 
-Mati Espina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 10 Oct 2026.
+Mati Espina is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Mati Espina is a house and minimal artist based in Argentina, with 10 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Hubz, Agua con gas and Anderson (US). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mati Espina is a house and minimal artist based in Argentina, with 10 gigs on so
 
 Hubz, Agua con gas, Anderson (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*

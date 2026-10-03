@@ -1,6 +1,6 @@
 # Franxx
 
-Franxx is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Franxx is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Franxx is a club and hardcore artist based in United States of America, with 70 gigs on soundcheck across London, New York City, Tokyo and Washington DC. Often billed alongside znorthy, Gabberbitch69 and GET FACE. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ Franxx is a club and hardcore artist based in United States of America, with 70 
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
 - Bossa Nova Civic Club, New York City · Tue, 29 Sept 2026
 - TRANSMISSION DC, Washington DC · Fri, 7 Aug 2026
 - TRANSMISSION DC, Washington DC · Sun, 2 Aug 2026
@@ -20,10 +21,9 @@ Franxx is a club and hardcore artist based in United States of America, with 70 
 - TRANSMISSION DC, Washington DC · Sat, 20 Jun 2026
 - TBA - 5510 Ellerbie St. Lanham, MD, Washington DC · Sat, 23 May 2026
 - Sinners and Saints, Washington DC · Sat, 16 May 2026
-- TRANSMISSION DC, Washington DC · Sat, 16 May 2026
 
 ## Shares bills with
 
 znorthy, Gabberbitch69, GET FACE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*

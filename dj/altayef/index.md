@@ -1,6 +1,6 @@
 # Altayef
 
-Altayef is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
+Altayef is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Folklore, London on Sat, 17 Oct 2026.
 
 Altayef is a techno and downtempo artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Will C, PROFF and Apsara (UK). Next up: Folklore, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Altayef is a techno and downtempo artist based in United Kingdom, with 22 gigs o
 
 Will C, PROFF, Apsara (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altayef/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altayef/)*

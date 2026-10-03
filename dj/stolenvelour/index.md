@@ -1,6 +1,6 @@
 # Stolen Velour
 
-Stolen Velour is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
+Stolen Velour is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
 
 Stolen Velour is a club and bass artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bristol, Brussels and Glasgow and 7 more. Often billed alongside Princess Elf Bar, Aria SL and AYDJ. Next up: The White Hotel, Manchester on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Stolen Velour is a club and bass artist based in United Kingdom, with 47 gigs on
 
 Princess Elf Bar, Aria SL, AYDJ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*

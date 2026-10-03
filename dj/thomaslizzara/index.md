@@ -1,6 +1,6 @@
 # Thomas Lizzara
 
-Thomas Lizzara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sky Club, Leipzig on Sat, 12 Dec 2026.
+Thomas Lizzara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sky Club, Leipzig on Sat, 12 Dec 2026.
 
 Thomas Lizzara is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin, Frankfurt and Leipzig. Often billed alongside Paul Wolf, Basstronauten and Daniel Boon. Next up: Sky Club, Leipzig on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Thomas Lizzara is a techno and house artist based in Germany, with 30 gigs on so
 
 Paul Wolf, Basstronauten, Daniel Boon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaslizzara/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomaslizzara/)*

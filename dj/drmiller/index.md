@@ -1,6 +1,6 @@
 # DR MILLER
 
-DR MILLER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 9 Oct 2026.
+DR MILLER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 9 Oct 2026.
 
 DR MILLER is a house and tech house artist based in United States of America, with 23 gigs on soundcheck across Washington DC. Often billed alongside Freefall, DJ Blasian and Rommy. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DR MILLER is a house and tech house artist based in United States of America, wi
 
 Freefall, DJ Blasian, Rommy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmiller/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmiller/)*

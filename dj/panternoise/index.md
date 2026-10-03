@@ -1,6 +1,6 @@
 # PANTERNOISE
 
-PANTERNOISE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
+PANTERNOISE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
 
 PANTERNOISE is a techno and industrial artist based in Germany, with 18 gigs on soundcheck across Athens, Berlin, Leipzig and Paris. Often billed alongside DJ Aybee, ECE (DE) and Erosive. Next up: IT Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ PANTERNOISE is a techno and industrial artist based in Germany, with 18 gigs on 
 
 DJ Aybee, ECE (DE), Erosive
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panternoise/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panternoise/)*

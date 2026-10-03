@@ -1,6 +1,6 @@
 # telos.haus
 
-telos.haus is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TOSSD" on Sun, 11 Oct 2026.
+telos.haus is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TOSSD" on Sun, 11 Oct 2026.
 
 telos.haus is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including MORENXXX, Blu:sh, COVE(US) and Cow Tools and 2 more. See dates, start times and who's playing. 303 Ten Eyck St, Brooklyn NY 11206.
 
@@ -15,4 +15,4 @@ telos.haus is a music venue in New York City listed on soundcheck. 2 upcoming gi
 
 303 Ten Eyck St, Brooklyn NY 11206, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/telos-haus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/telos-haus/)*

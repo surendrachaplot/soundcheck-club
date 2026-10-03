@@ -1,6 +1,6 @@
 # Soso Klein
 
-Soso Klein is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
+Soso Klein is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
 Soso Klein is a downtempo and deep house artist based in France, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Horst Haller, Alex.Do and Elias Doré. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Soso Klein is a downtempo and deep house artist based in France, with 46 gigs on
 
 Horst Haller, Alex.Do, Elias Doré
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*

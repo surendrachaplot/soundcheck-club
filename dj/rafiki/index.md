@@ -1,6 +1,6 @@
 # Rafiki
 
-Rafiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Sat, 3 Oct 2026.
+Rafiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fi, Cologne on Sat, 3 Oct 2026.
 
 Rafiki is a house and techno artist based in France, with 17 gigs on soundcheck across Berlin, Cologne, Hong Kong and Houston and 5 more. Often billed alongside Noey Lopez, Mab'ish and zinho. Next up: fi, Cologne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rafiki is a house and techno artist based in France, with 17 gigs on soundcheck 
 
 Noey Lopez, Mab'ish, zinho
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafiki/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafiki/)*

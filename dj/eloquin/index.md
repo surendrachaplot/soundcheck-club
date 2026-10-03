@@ -1,6 +1,6 @@
 # Eloquin
 
-Eloquin is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Eloquin is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Eloquin is a garage and bass artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Brighton, Bristol and Leeds and 3 more. Often billed alongside After Hours, SUPPLY and Sophia Violet. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Eloquin is a garage and bass artist based in United Kingdom, with 18 gigs on sou
 
 After Hours, SUPPLY, Sophia Violet
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloquin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloquin/)*

@@ -1,6 +1,6 @@
 # Carlos Martinez
 
-Carlos Martinez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Carlos Martinez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Carlos Martinez is a tech house and house artist based in United Kingdom, with 42 gigs on soundcheck across Austria and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Carlos Martinez is a tech house and house artist based in United Kingdom, with 4
 
 Thomas Galbardi, Diana Loredana, Dhez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmartinez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmartinez/)*

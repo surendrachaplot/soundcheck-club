@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
+Dresden is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
 
 Dresden is a techno and house artist based in Spain, with 19 gigs on soundcheck across Amsterdam, Brussels, Bucharest and Liverpool and 7 more. Often billed alongside Ivan Smagghe, Manfredas and Christian AB. Next up: Club Guesthouse, Bucharest on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Dresden is a techno and house artist based in Spain, with 19 gigs on soundcheck 
 
 Ivan Smagghe, Manfredas, Christian AB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

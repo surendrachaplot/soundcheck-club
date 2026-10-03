@@ -1,6 +1,6 @@
 # Joey Stella
 
-Joey Stella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Joey Stella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Joey Stella is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Liverpool and 3 more. Often billed alongside Twelve Seven, Sylvia (ES) and Linkan Ray. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Joey Stella is a techno and house artist based in United Kingdom, with 38 gigs o
 
 Twelve Seven, Sylvia (ES), Linkan Ray
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeystella/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeystella/)*

@@ -1,6 +1,6 @@
 # STEPHANOS
 
-STEPHANOS is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Komma Piraeus, Athens on Fri, 9 Oct 2026.
+STEPHANOS is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Komma Piraeus, Athens on Fri, 9 Oct 2026.
 
 STEPHANOS is a tech house and afro house artist based in Greece, with 16 gigs on soundcheck across Athens. Often billed alongside Spiros Pappas, Agent Greg and DINO ACE. Next up: Komma Piraeus, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ STEPHANOS is a tech house and afro house artist based in Greece, with 16 gigs on
 
 Spiros Pappas, Agent Greg, DINO ACE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanos/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanos/)*

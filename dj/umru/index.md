@@ -1,14 +1,13 @@
 # umru
 
-umru is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Club, Milan on Fri, 2 Oct 2026.
+umru is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Flex, Vienna on Sat, 3 Oct 2026.
 
-umru is a club and pop artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 44 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Q Club, Milan on Fri 2 Oct.
+umru is a club and pop artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 44 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Flex, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Q Club | Milan |
 | Sat, 3 Oct 2026 | Flex | Vienna |
 | Fri, 6 Nov 2026 | Botanique | Brussels |
 | Sat, 7 Nov 2026 | MOD Club | Tallinn |
@@ -17,6 +16,7 @@ umru is a club and pop artist based in United States of America, with 154 gigs o
 
 ## Recently played
 
+- Q Club, Milan · Fri, 2 Oct 2026
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
 - Exhibition London, London · Sat, 26 Sept 2026
 - The Pearl, Vancouver · Sat, 12 Sept 2026
@@ -24,10 +24,9 @@ umru is a club and pop artist based in United States of America, with 154 gigs o
 - Système, Montreal · Sun, 16 Aug 2026
 - Public Works, San Francisco/Oakland · Fri, 7 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles · Fri, 31 Jul 2026
-- SILO, New York City · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

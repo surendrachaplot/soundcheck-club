@@ -1,6 +1,6 @@
 # Roy Don
 
-Roy Don is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
+Roy Don is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
 Roy Don is a bass and house artist based in United Kingdom, with 56 gigs on soundcheck across Glasgow, London and Manchester. Often billed alongside George Best, Robbie and Dusty Dan. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Roy Don is a bass and house artist based in United Kingdom, with 56 gigs on soun
 
 George Best, Robbie, Dusty Dan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roydon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roydon/)*

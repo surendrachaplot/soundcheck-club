@@ -1,6 +1,6 @@
 # FKS (1)
 
-FKS (1) is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
+FKS (1) is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Meteoro, Barcelona on Sat, 3 Oct 2026.
 
 FKS is a latin bass and techno artist based in Colombia, with 26 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside RICO RICA, AMANTRA and Efe Ce Ele. Next up: Meteoro, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ FKS is a latin bass and techno artist based in Colombia, with 26 gigs on soundch
 
 RICO RICA, AMANTRA, Efe Ce Ele
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fks-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fks-1/)*

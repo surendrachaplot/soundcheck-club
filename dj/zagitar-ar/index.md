@@ -1,6 +1,6 @@
 # Zagitar
 
-Zagitar is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bikini Club, Barcelona on Sat, 17 Oct 2026.
+Zagitar is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bikini Club, Barcelona on Sat, 17 Oct 2026.
 
 Zagitar is a techno and progressive house artist based in Argentina, with 11 gigs on soundcheck across Barcelona and Buenos Aires. Often billed alongside Ubbah, Agustin Giri and Althoff. Next up: Bikini Club, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Zagitar is a techno and progressive house artist based in Argentina, with 11 gig
 
 Ubbah, Agustin Giri, Althoff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagitar-ar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagitar-ar/)*

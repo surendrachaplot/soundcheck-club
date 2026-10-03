@@ -1,6 +1,6 @@
 # Andrea Martello
 
-Andrea Martello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
+Andrea Martello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
 
 Andrea Martello is a house and techno artist based in Italy, with 11 gigs on soundcheck across Turin. Often billed alongside Andrea Vietti, Sick Seek and Voodoos and Taboos. Next up: Banco Vini, Turin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Andrea Martello is a house and techno artist based in Italy, with 11 gigs on sou
 
 Andrea Vietti, Sick Seek, Voodoos and Taboos
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamartelloakamartead/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamartelloakamartead/)*

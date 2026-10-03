@@ -1,6 +1,6 @@
 # 2+2=5
 
-2+2=5 is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Brussels, Brussels on Fri, 9 Oct 2026.
+2+2=5 is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brussels, Brussels on Fri, 9 Oct 2026.
 
 2+2=5 is a post-punk and industrial artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Brussels and Prague. Often billed alongside Ottoman Grüw, Der Mord and False Identity. Next up: TBA - Brussels, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@
 
 Ottoman Grüw, Der Mord, False Identity
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/225/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/225/)*

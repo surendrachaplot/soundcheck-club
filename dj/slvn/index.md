@@ -1,6 +1,6 @@
 # SLVN
 
-SLVN is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+SLVN is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 SLVN is a house and afro house artist based in Ireland, with 24 gigs on soundcheck across Hong Kong, London, Paris and Seoul and 1 more. Often billed alongside Joe Murphy, Bluebird and Harivo. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SLVN is a house and afro house artist based in Ireland, with 24 gigs on soundche
 
 Joe Murphy, Bluebird (2), Harivo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvn/)*

@@ -1,6 +1,6 @@
 # Cyrus (PHL)
 
-Cyrus (PHL) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
+Cyrus (PHL) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
 
 Cyrus (PHL) is an experimental and club artist based in United States of America, with 9 gigs on soundcheck across Philadelphia. Often billed alongside Cubby, cubby.com and Coffintexts. Next up: Bastet, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cyrus (PHL) is an experimental and club artist based in United States of America
 
 Cubby, cubby.com, Coffintexts
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*

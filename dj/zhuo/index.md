@@ -1,6 +1,6 @@
 # ZHUO
 
-ZHUO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
+ZHUO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
 
 ZHUO is a techno and electronica artist based in China, with 5 gigs on soundcheck across Bangkok, Hong Kong, Osaka and Shenzhen and 1 more. Often billed alongside FEIYI, echocatcher and Charlieowo. Next up: Forestlimit, Tokyo on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ ZHUO is a techno and electronica artist based in China, with 5 gigs on soundchec
 
 FEIYI, echocatcher, Charlieowo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhuo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhuo/)*

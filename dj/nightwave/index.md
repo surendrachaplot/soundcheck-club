@@ -1,6 +1,6 @@
 # Nightwave
 
-Nightwave is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Wax, Birmingham on Sat, 17 Oct 2026.
+Nightwave is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Dead Wax, Birmingham on Sat, 17 Oct 2026.
 
 Nightwave is a techno and acid artist based in United Kingdom, with 65 gigs on soundcheck across Birmingham, Edinburgh, Glasgow and London and 2 more. Often billed alongside Posthuman, Slam and Luke Vibert. Next up: Dead Wax, Birmingham on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Nightwave is a techno and acid artist based in United Kingdom, with 65 gigs on s
 
 Posthuman, Slam, Luke Vibert
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*

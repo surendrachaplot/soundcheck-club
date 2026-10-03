@@ -1,6 +1,6 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
+Neffa-T is a Bass and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
 Neffa-T is a bass and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 43 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Stereo, Glasgow on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Neffa-T is a bass and techno artist based in United Kingdom, with 175 gigs on so
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

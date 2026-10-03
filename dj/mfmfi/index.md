@@ -1,6 +1,6 @@
 # MFM (FI)
 
-MFM (FI) is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
+MFM (FI) is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
 
 MFM (FI) is a trance and club artist based in Finland, with 27 gigs on soundcheck across Berlin, Helsinki and Prague. Often billed alongside Niko Demus, Glayden and DJ JVS. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MFM (FI) is a trance and club artist based in Finland, with 27 gigs on soundchec
 
 Niko Demus, Glayden, DJ JVS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mfmfi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mfmfi/)*

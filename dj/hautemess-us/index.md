@@ -1,6 +1,6 @@
 # Haute Mess
 
-Haute Mess is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Haute Mess is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Haute Mess is a house and disco artist based in United States of America, with 7 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside Deckard, NUGZ and ShOOey. Next up: The Cause, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Haute Mess is a house and disco artist based in United States of America, with 7
 
 Deckard, NUGZ, ShOOey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hautemess-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hautemess-us/)*

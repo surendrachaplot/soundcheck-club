@@ -1,14 +1,13 @@
 # HOAX
 
-HOAX is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+HOAX is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sydenham Underpass, Christchurch on Fri, 9 Oct 2026.
 
-HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Unglued, Whiney and Fred V. Next up: Watsons EQ, Sydney on Sat 3 Oct.
+HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Unglued, Whiney and Fred V. Next up: Sydenham Underpass, Christchurch on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Watsons EQ | Sydney |
 | Fri, 9 Oct 2026 | Sydenham Underpass | Christchurch |
 | Sat, 10 Oct 2026 | The Court Hotel | Perth |
 | Sat, 17 Oct 2026 | Meow Nui | Wellington |
@@ -30,4 +29,4 @@ HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundc
 
 Unglued, Whiney, Fred V
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

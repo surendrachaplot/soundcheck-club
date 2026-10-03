@@ -1,6 +1,6 @@
 # Samara
 
-Samara is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Samara is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Samara is a techno and acid artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Bristol, Manchester and Stockholm. Often billed alongside David Fogarty, Sound Metaphors Djs and Audrey Danza. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Samara is a techno and acid artist based in United Kingdom, with 10 gigs on soun
 
 David Fogarty, Sound Metaphors Djs, Audrey Danza
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samara/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samara/)*

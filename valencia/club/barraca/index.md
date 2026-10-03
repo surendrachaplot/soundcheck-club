@@ -1,14 +1,13 @@
 # Barraca
 
-Barraca is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "presentación YPUNX! - DJSETS + POPUP + RUNWAY" on Fri, 2 Oct 2026.
+Barraca is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Palmeres Festival 22ºEdition" on Sat, 3 Oct 2026.
 
-Barraca is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with line-ups including ANTU, Ari (ES), Brenda Serna and Carlos Pérez and 2 more. See dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
+Barraca is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including Brenda Serna, Carlos Pérez, Cristian Varela and Dj Pepo and 2 more. See dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | presentación YPUNX! - DJSETS + POPUP + RUNWAY | @n3opapi, ANTU, Ari (ES), FAG HAG, Hanten, Kai Landre, URSU L1NA |
 | Sat, 3 Oct 2026 | Palmeres Festival 22ºEdition | Domen, Lucas Cabello, Planetary Assault Systems, Sou Allen, relajadita |
 | Sat, 24 Oct 2026 | Barraca x Vertigo | Brenda Serna (2), Domen, Lilly Palmer, Lucas Cabello, Rafa Siles, Sou Allen |
 | Sat, 31 Oct 2026 | Barraca x TheBasement (Halloween) | Domen, HearThug, Lucas Cabello, Perc, Sou Allen |
@@ -19,4 +18,4 @@ Barraca is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with
 
 Avd San Roc s/n, Sueca, 46410 Valencia, Spain, Valencia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*

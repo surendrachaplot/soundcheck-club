@@ -1,6 +1,6 @@
 # Tobi Dei (DE)
 
-Tobi Dei (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Tobi Dei (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Tobi Dei (DE) is a techno and house artist based in Germany, with 24 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Elli Altenberger, Leon Licht and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tobi Dei (DE) is a techno and house artist based in Germany, with 24 gigs on sou
 
 Elli Altenberger, Leon Licht, Maurice Mino
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*

@@ -1,6 +1,6 @@
 # Ilya Gurin-Babayeu
 
-Ilya Gurin-Babayeu is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ormside Projects, London on Fri, 6 Nov 2026.
+Ilya Gurin-Babayeu is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ormside Projects, London on Fri, 6 Nov 2026.
 
 Ilya Gurin-Babayeu is a techno and electronica artist based in Belarus, with 18 gigs on soundcheck across London and Warsaw. Often billed alongside jung latch, grysh77 and Dima Kachan. Next up: Ormside Projects, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ilya Gurin-Babayeu is a techno and electronica artist based in Belarus, with 18 
 
 jung latch, grysh77, Dima Kachan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyagurin-babayeu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyagurin-babayeu/)*

@@ -1,6 +1,6 @@
 # Yo Eva
 
-Yo Eva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bike Jesus, Prague on Sat, 17 Oct 2026.
+Yo Eva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Sat, 17 Oct 2026.
 
 Yo Eva is a techno and house artist based in Czech Republic, with 13 gigs on soundcheck across Prague. Often billed alongside Ark3r, Lucas Hulan and Nina Farrina. Next up: Bike Jesus, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yo Eva is a techno and house artist based in Czech Republic, with 13 gigs on sou
 
 Ark3r, Lucas Hulan, Nina Farrina
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeva/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeva/)*

@@ -1,6 +1,6 @@
 # LAZLO
 
-LAZLO is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+LAZLO is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
 LAZLO is a techno and trance artist based in United Kingdom, with 85 gigs on soundcheck across Berlin, Dundee, Edinburgh and Galway and 3 more. Often billed alongside Quail, DDSIX and Schism. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ LAZLO is a techno and trance artist based in United Kingdom, with 85 gigs on sou
 
 Quail, DDSIX, Schism
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*

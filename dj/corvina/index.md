@@ -1,6 +1,6 @@
 # Corvina
 
-Corvina is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
+Corvina is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
 Corvina is a house and disco artist based in Brazil, with 22 gigs on soundcheck across Sao Paulo. Often billed alongside DJ DUE, Felipe Venancio and Fugaz. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Corvina is a house and disco artist based in Brazil, with 22 gigs on soundcheck 
 
 DJ DUE, Felipe Venancio, Fugaz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corvina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corvina/)*

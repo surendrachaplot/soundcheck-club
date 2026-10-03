@@ -1,6 +1,6 @@
 # YOGV
 
-YOGV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Back Room, Bali on Sat, 17 Oct 2026.
+YOGV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Back Room, Bali on Sat, 17 Oct 2026.
 
 YOGV is a techno and house artist, with 37 gigs on soundcheck across Bali, Kuala Lumpur and Singapore. Often billed alongside BBANDIT, Techno Motel and Katze. Next up: The Back Room, Bali on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ YOGV is a techno and house artist, with 37 gigs on soundcheck across Bali, Kuala
 
 BBANDIT, Techno Motel, Katze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogv/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogv/)*

@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Open Decks with STEEN & Solarsonic Soundsystem" on Tue, 6 Oct 2026.
+SILO is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Open Decks with STEEN & Solarsonic Soundsystem" on Tue, 6 Oct 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including Amiti, Anthony Romano, Bag Raiders and Bella Hex and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in New York City listed on soundcheck. 33 upcoming gigs, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

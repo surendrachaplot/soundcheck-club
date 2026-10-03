@@ -1,6 +1,6 @@
 # bejeebe
 
-bejeebe is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
+bejeebe is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
 bejeebe is a techno and electro artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Daunder, classtraitor and Vince Lam. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ bejeebe is a techno and electro artist based in United Kingdom, with 22 gigs on 
 
 Daunder, classtraitor, Vince Lam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bejeebe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bejeebe/)*

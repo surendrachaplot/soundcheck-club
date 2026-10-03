@@ -1,6 +1,6 @@
 # Veludo
 
-Veludo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plano B, Porto on Sat, 10 Oct 2026.
+Veludo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Plano B, Porto on Sat, 10 Oct 2026.
 
 Veludo is a house and electronica artist, with 34 gigs on soundcheck across Lisbon and Porto. Often billed alongside Let, Varela and dj career. Next up: Plano B, Porto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Veludo is a house and electronica artist, with 34 gigs on soundcheck across Lisb
 
 Let (3), Varela, dj career
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veludo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veludo/)*

@@ -1,6 +1,6 @@
 # Jemski.
 
-Jemski. is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
+Jemski. is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
 
 Jemski. is a downtempo and techno artist based in South Africa, with 10 gigs on soundcheck across Berlin. Often billed alongside Actias, Dimka and Omi on Acid. Next up: Beate Uwe, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Jemski. is a downtempo and techno artist based in South Africa, with 10 gigs on 
 
 Actias, Dimka, Omi on Acid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jemski./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jemski./)*

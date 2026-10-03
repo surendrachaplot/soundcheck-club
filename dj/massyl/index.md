@@ -1,6 +1,6 @@
 # Massyl
 
-Massyl is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jama, Toronto on Sat, 3 Oct 2026.
+Massyl is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Jama, Toronto on Sat, 3 Oct 2026.
 
 Massyl is a house and minimal techno artist, with 10 gigs on soundcheck across Montreal and Toronto. Often billed alongside Ellxandra, Claire and Pheek. Next up: The Jama, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Massyl is a house and minimal techno artist, with 10 gigs on soundcheck across M
 
 Ellxandra, Claire, Pheek
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massyl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massyl/)*

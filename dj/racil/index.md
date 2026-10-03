@@ -1,6 +1,6 @@
 # Racil
 
-Racil is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
+Racil is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
 
 Racil is a house and dub techno artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside Jino K, Boomy and Clochette. Next up: TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Racil is a house and dub techno artist based in Canada, with 10 gigs on soundche
 
 Jino K, Boomy, Clochette
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*

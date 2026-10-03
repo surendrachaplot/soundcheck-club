@@ -1,6 +1,6 @@
 # CHERCHES
 
-CHERCHES is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+CHERCHES is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 CHERCHES is a drum & bass and house artist based in Germany, with 14 gigs on soundcheck across Vienna. Often billed alongside COBRA, Paul Mile and KEEO.FM. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CHERCHES is a drum & bass and house artist based in Germany, with 14 gigs on sou
 
 COBRA, Paul Mile, KEEO.FM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherches/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherches/)*

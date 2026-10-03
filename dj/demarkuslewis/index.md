@@ -1,6 +1,6 @@
 # Demarkus Lewis
 
-Demarkus Lewis is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
+Demarkus Lewis is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
 
 Demarkus Lewis is a house and acid artist based in United States of America, with 11 gigs on soundcheck across Austin, Denver, Detroit and Miami and 3 more. Often billed alongside Brett Johnson, Alex DL and Alton Miller. Next up: How Much Studios, Austin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Demarkus Lewis is a house and acid artist based in United States of America, wit
 
 Brett Johnson, Alex DL, Alton Miller
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*

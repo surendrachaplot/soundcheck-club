@@ -1,6 +1,6 @@
 # Reezar
 
-Reezar is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
+Reezar is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
 
 Reezar is a deep house and progressive house artist based in Italy, with 63 gigs on soundcheck across Barcelona. Often billed alongside Ivan Pugliares, Cipy and ERRANT. Next up: 303 Audiophile Bar, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Reezar is a deep house and progressive house artist based in Italy, with 63 gigs
 
 Ivan Pugliares, Cipy, ERRANT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*

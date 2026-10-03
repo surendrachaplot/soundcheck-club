@@ -1,6 +1,6 @@
 # Shanixx
 
-Shanixx is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Quartier Libre de Rouen, North on Sat, 3 Oct 2026.
+Shanixx is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Quartier Libre de Rouen, North on Sat, 3 Oct 2026.
 
 Shanixx is a techno and trance artist based in France, with 34 gigs on soundcheck across Athens, Berlin, Brussels and Geneva and 7 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: Le Quartier Libre de Rouen, North on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Shanixx is a techno and trance artist based in France, with 34 gigs on soundchec
 
 Stinny Stone, ELOISA, YOVA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*

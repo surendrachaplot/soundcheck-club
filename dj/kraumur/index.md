@@ -1,6 +1,6 @@
 # Kraumur
 
-Kraumur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bassiani, Tbilisi on Sat, 3 Oct 2026.
+Kraumur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bassiani, Tbilisi on Sat, 3 Oct 2026.
 
 Kraumur is a techno and house artist based in Georgia, with 109 gigs on soundcheck across Hamburg, Munich and Tbilisi. Often billed alongside Ash Scholem, Memotech and Gio Shengelia. Next up: Bassiani, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kraumur is a techno and house artist based in Georgia, with 109 gigs on soundche
 
 Ash Scholem, Memotech, Gio Shengelia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*

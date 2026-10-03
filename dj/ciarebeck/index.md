@@ -1,6 +1,6 @@
 # Cia Rebeck
 
-Cia Rebeck is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
+Cia Rebeck is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
 Cia Rebeck is a techno and downtempo artist based in Argentina, with 39 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Sao Paulo. Often billed alongside Julieta Kopp, KRISSFA and Mariano DC. Next up: ://about blank, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cia Rebeck is a techno and downtempo artist based in Argentina, with 39 gigs on 
 
 Julieta Kopp, KRISSFA, Mariano DC
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciarebeck/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciarebeck/)*

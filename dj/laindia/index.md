@@ -1,6 +1,6 @@
 # LA INDIA
 
-LA INDIA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skin Club, Madrid on Fri, 9 Oct 2026.
+LA INDIA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skin Club, Madrid on Fri, 9 Oct 2026.
 
 LA INDIA is an experimental and electronica artist based in Spain, with 28 gigs on soundcheck across Madrid and New York City. Often billed alongside Alviker, Miut and Brisa Then. Next up: Skin Club, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ LA INDIA is an experimental and electronica artist based in Spain, with 28 gigs 
 
 Alviker, Miut, Brisa Then
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laindia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laindia/)*

@@ -1,6 +1,6 @@
 # IGLO
 
-IGLO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
+IGLO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
 
 IGLO is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Leipzig, Prague and Zurich. Often billed alongside Arthur Robert, Pink Concrete and 1morning. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ IGLO is a techno and house artist based in Germany, with 7 gigs on soundcheck ac
 
 Arthur Robert, Pink Concrete, 1morning
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglo/)*

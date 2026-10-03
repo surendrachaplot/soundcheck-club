@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTERVOID presents EXE vol.1" on Sat, 3 Oct 2026.
+clubasia is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "AFTERVOID presents EXE vol.1" on Sat, 3 Oct 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Bass, Calavera, Carpainter and DALJAE and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -22,4 +22,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with l
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

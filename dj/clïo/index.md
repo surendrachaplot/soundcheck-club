@@ -1,6 +1,6 @@
 # clïo
 
-clïo is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+clïo is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
 clïo is a bass and ambient artist based in Belgium, with 11 gigs on soundcheck across Brussels and Ghent. Often billed alongside Vers, freq444 and Aroh. Next up: Amigo, Ghent on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ clïo is a bass and ambient artist based in Belgium, with 11 gigs on soundcheck 
 
 Vers, freq444, Aroh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clïo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clïo/)*

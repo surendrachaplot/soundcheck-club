@@ -1,6 +1,6 @@
 # Santacreu
 
-Santacreu is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
+Santacreu is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
 
 Santacreu is a house and electro artist, with 40 gigs on soundcheck across Barcelona, Ibiza and Lisbon. Often billed alongside MostWanted, Pau Rosés and Daniel del Rio. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Santacreu is a house and electro artist, with 40 gigs on soundcheck across Barce
 
 MostWanted, Pau Rosés, Daniel del Rio
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santacreu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santacreu/)*

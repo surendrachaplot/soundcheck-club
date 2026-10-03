@@ -1,6 +1,6 @@
 # Sweet Female Attitude
 
-Sweet Female Attitude is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Document, Bristol on Sat, 7 Nov 2026.
+Sweet Female Attitude is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Document, Bristol on Sat, 7 Nov 2026.
 
 Sweet Female Attitude is a garage and drum & bass artist based in United Kingdom, with 22 gigs on soundcheck across Birmingham, Bristol, Ibiza and Liverpool and 3 more. Often billed alongside Artful Dodger, DJ Luck & MC Neat and Kele Le Roc. Next up: Document, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sweet Female Attitude is a garage and drum & bass artist based in United Kingdom
 
 Artful Dodger, DJ Luck & MC Neat, Kele Le Roc
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetfemaleattitude/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetfemaleattitude/)*

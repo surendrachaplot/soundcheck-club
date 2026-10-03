@@ -1,6 +1,6 @@
 # The Kiss
 
-The Kiss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 16 Oct 2026.
+The Kiss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 16 Oct 2026.
 
 The Kiss is a techno and trance artist, with 26 gigs on soundcheck across Berlin and Chicago. Often billed alongside Benua, Blck-Swan and H7. Next up: Der Weiße Hase, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ The Kiss is a techno and trance artist, with 26 gigs on soundcheck across Berlin
 
 Benua, Blck-Swan, H7 (3)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thekiss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thekiss/)*

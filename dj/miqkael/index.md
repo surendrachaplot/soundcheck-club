@@ -1,6 +1,6 @@
 # Miqkael
 
-Miqkael is a Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
+Miqkael is a Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
 
 Miqkael is a disco and acid artist based in France, with 6 gigs on soundcheck across Barcelona, East and The Hague. Often billed alongside Esther Dune, I-F and Alessandro Parisi. Next up: Rachdingue, Barcelona on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Miqkael is a disco and acid artist based in France, with 6 gigs on soundcheck ac
 
 Esther Dune, I-F, Alessandro Parisi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miqkael/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miqkael/)*

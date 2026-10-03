@@ -1,6 +1,6 @@
 # Caillou
 
-Caillou is a House and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lavallée, Brussels on Fri, 9 Oct 2026.
+Caillou is a House and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lavallée, Brussels on Fri, 9 Oct 2026.
 
 Caillou is a house and post-punk artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Brussels and Melbourne and 4 more. Often billed alongside Paty Vapor, Joshua Murphy and Melanie Havens. Next up: Lavallée, Brussels on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Caillou is a house and post-punk artist based in Germany, with 16 gigs on soundc
 
 Paty Vapor, Joshua Murphy, Melanie Havens
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*

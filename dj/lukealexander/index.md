@@ -1,14 +1,13 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Nightclub, Seattle on Fri, 2 Oct 2026.
+Luke Alexander is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
 
-Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Q Nightclub, Seattle on Fri 2 Oct.
+Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Q Nightclub | Seattle |
 | Sat, 10 Oct 2026 | Russell Industrial Center | Detroit |
 | Sat, 7 Nov 2026 | Bauhaus | Houston |
 | Fri, 13 Nov 2026 | 99 Scott Ave | New York City |
@@ -17,6 +16,7 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 
 ## Recently played
 
+- Q Nightclub, Seattle · Fri, 2 Oct 2026
 - Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
 - TBA - Park City Southie (411 Dorchester Ave, Boston, MA), Boston · Sun, 31 May 2026
 - Arlo Williamsburg, New York City · Sun, 26 Apr 2026
@@ -24,10 +24,9 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 - Arlo Williamsburg, New York City · Sat, 26 Oct 2024
 - Nebula, New York City · Fri, 12 Jul 2024
 - Nebula, New York City · Fri, 3 Nov 2023
-- Sony Hall, New York City · Sat, 28 Oct 2023
 
 ## Shares bills with
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

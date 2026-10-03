@@ -1,6 +1,6 @@
 # Hems
 
-Hems is a Ambient and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Hems is a Ambient and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 Hems is an ambient and techno artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Berlin, London and Osaka and 2 more. Often billed alongside Ario, Lynne and Buttechno. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Hems is an ambient and techno artist based in United Kingdom, with 15 gigs on so
 
 Ario, Lynne, Buttechno
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hems/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hems/)*

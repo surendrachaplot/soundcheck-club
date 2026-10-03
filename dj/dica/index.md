@@ -1,6 +1,6 @@
 # Dica
 
-Dica is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kilomètre25, Paris on Fri, 16 Oct 2026.
+Dica is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kilomètre25, Paris on Fri, 16 Oct 2026.
 
 Dica is a techno and acid artist based in Germany, with 7 gigs on soundcheck across Kuala Lumpur, Lyon, Paris and Sydney and 1 more. Often billed alongside <777>, Adrian Marth and Alden Tyrell. Next up: Kilomètre25, Paris on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Dica is a techno and acid artist based in Germany, with 7 gigs on soundcheck acr
 
 <777>, Adrian Marth, Alden Tyrell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dica/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dica/)*

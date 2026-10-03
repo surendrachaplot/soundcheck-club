@@ -1,6 +1,6 @@
 # Marijn Jansen
 
-Marijn Jansen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
+Marijn Jansen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 6 Dec 2026.
 
 Marijn Jansen is a house and tech house artist, with 7 gigs on soundcheck across Amsterdam, Ibiza and The Hague. Often billed alongside Mr. Belt & Wezol, Michel de Hey and Ben Diggins. Next up: Thuishaven, Amsterdam on Sun 6 Dec.
 
@@ -23,4 +23,4 @@ Marijn Jansen is a house and tech house artist, with 7 gigs on soundcheck across
 
 Mr. Belt & Wezol, Michel de Hey, Ben Diggins
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marijnjansen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marijnjansen/)*

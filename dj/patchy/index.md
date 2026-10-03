@@ -1,6 +1,6 @@
 # Patchy
 
-Patchy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
+Patchy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
 
 Patchy is a trance and techno artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Paul Bauhaus, EZA (DE) and DJ Spaßgetränk. Next up: Cassiopeia, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Patchy is a trance and techno artist based in Germany, with 18 gigs on soundchec
 
 Paul Bauhaus, EZA (DE), DJ Spaßgetränk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchy/)*

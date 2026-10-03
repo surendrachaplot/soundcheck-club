@@ -1,6 +1,6 @@
 # Oko Stellar
 
-Oko Stellar is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Fri, 9 Oct 2026.
+Oko Stellar is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TRAUM, Antwerp on Fri, 9 Oct 2026.
 
 Oko Stellar is a house and disco artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside BAVR, Bibi Seck and DTM Funk. Next up: TRAUM, Antwerp on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Oko Stellar is a house and disco artist based in Belgium, with 33 gigs on soundc
 
 BAVR, Bibi Seck, DTM Funk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okostellar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okostellar/)*

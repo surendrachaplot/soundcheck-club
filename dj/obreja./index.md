@@ -1,6 +1,6 @@
 # Obreja.
 
-Obreja. is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+Obreja. is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 Obreja. is a minimal techno and house artist, with 32 gigs on soundcheck across Berlin and London. Often billed alongside Vlad Ioachimescu, Stefan Andrei and Desuba. Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Obreja. is a minimal techno and house artist, with 32 gigs on soundcheck across 
 
 Vlad Ioachimescu, Stefan Andrei, Desuba
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*

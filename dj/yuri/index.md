@@ -1,0 +1,26 @@
+# Yuri
+
+Yuri is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZUBAR, Tokyo on Sun, 11 Oct 2026.
+
+Yuri is a techno and progressive house artist based in Japan, with 7 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Montreal and 1 more. Often billed alongside 1-800 GIRLS, AMARANTE and ANZU. Next up: ZUBAR, Tokyo on Sun 11 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 11 Oct 2026 | ZUBAR | Tokyo |
+
+## Recently played
+
+- COUNTER CLUB, Tokyo · Tue, 18 Aug 2026
+- Les Enfants Brillants, Barcelona · Thu, 16 Jul 2026
+- or, Tokyo · Fri, 22 May 2026
+- TBA, Amsterdam · Fri, 11 Jul 2025
+- TBA - Montreal, Montreal · Sat, 11 May 2024
+- DSTRKT Club Berlin, Berlin · Sat, 15 Jul 2023
+
+## Shares bills with
+
+1-800 GIRLS, AMARANTE, ANZU
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuri/)*

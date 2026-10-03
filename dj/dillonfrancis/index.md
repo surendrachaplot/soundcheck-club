@@ -1,6 +1,6 @@
 # Dillon Francis
 
-Dillon Francis is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Future Nightlife, Toronto on Fri, 16 Oct 2026.
+Dillon Francis is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Future Nightlife, Toronto on Fri, 16 Oct 2026.
 
 Dillon Francis is a house and bass artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Flosstradamus, Hamdi and Alignment. Next up: Future Nightlife, Toronto on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Dillon Francis is a house and bass artist based in United States of America, wit
 
 Flosstradamus, Hamdi, Alignment
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*

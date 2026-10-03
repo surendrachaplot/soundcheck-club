@@ -1,6 +1,6 @@
 # Kolja Broxi
 
-Kolja Broxi is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+Kolja Broxi is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 Kolja Broxi is a techno and downtempo artist based in Germany, with 23 gigs on soundcheck across Hamburg and Munich. Often billed alongside Justice, NO.MADS and Sabura. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kolja Broxi is a techno and downtempo artist based in Germany, with 23 gigs on s
 
 Justice, NO.MADS, Sabura
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koljabroxi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koljabroxi/)*

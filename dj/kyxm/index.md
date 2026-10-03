@@ -1,14 +1,15 @@
 # kyxm
 
-kyxm is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
+kyxm is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
-kyxm is a club and bass artist based in United States of America, with 38 gigs on soundcheck across New York City. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Paragon, New York City on Sat 10 Oct.
+kyxm is a bass and club artist based in United States of America, with 39 gigs on soundcheck across New York City. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Paragon, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Paragon | New York City |
+| Fri, 30 Oct 2026 | Trans-Pecos | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ kyxm is a club and bass artist based in United States of America, with 38 gigs o
 
 ethereal.mvp, martine (5), Pacha DJ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*

@@ -1,6 +1,6 @@
 # Chang Chui Creative Park
 
-Chang Chui Creative Park is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "10 Years of transport with Rainbow Disco Club" on Sat, 7 Nov 2026.
+Chang Chui Creative Park is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "10 Years of transport with Rainbow Disco Club" on Sat, 7 Nov 2026.
 
 Chang Chui Creative Park is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Chang Chui Creative Park is a music venue in Bangkok listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 10 Years of transport with Rainbow Disco Club |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/chang-chui-creative-park/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/chang-chui-creative-park/)*

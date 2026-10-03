@@ -1,14 +1,13 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER" on Fri, 2 Oct 2026.
+Skin Club is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SKIN SALIVA: MAR + SAVE☨ME + Sora Éke" on Sat, 3 Oct 2026.
 
-Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and DJ TURBO and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
+Skin Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and Ezekiel and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER | DJ TURBO |
 | Sat, 3 Oct 2026 | SKIN SALIVA: MAR + SAVE☨ME + Sora Éke | Sora Éke |
 | Sun, 4 Oct 2026 | SKIN MISA: Noot Noot + Reitze + TAITO | Noot Noot, Reitze, TAITO |
 | Fri, 9 Oct 2026 | SKIN ALPHA: LA INDIA + LE GOMMEZ + Theia Daja | LA INDIA, Theia Daja |
@@ -23,4 +22,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, wit
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

@@ -1,6 +1,6 @@
 # Adriano Guglielmo
 
-Adriano Guglielmo is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yachtklub, Frankfurt on Fri, 16 Oct 2026.
+Adriano Guglielmo is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yachtklub, Frankfurt on Fri, 16 Oct 2026.
 
 Adriano Guglielmo is a disco and funk / soul artist, with 9 gigs on soundcheck across Frankfurt and Paris. Often billed alongside Danny Fortunato, Chesney and JPYE. Next up: Yachtklub, Frankfurt on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Adriano Guglielmo is a disco and funk / soul artist, with 9 gigs on soundcheck a
 
 Danny Fortunato, Chesney, JPYE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoguglielmo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoguglielmo/)*

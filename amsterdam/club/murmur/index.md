@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Exhibition opening: figures of light by salma baraket w/ deboleena & sarah saleh" on Fri, 2 Oct 2026.
+murmur is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Exhibition opening: figures of light by salma baraket w/ deboleena & sarah saleh" on Fri, 2 Oct 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Amir, Jumanne, Kingdom Sound and Max Abysmal and 2 more. See dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -20,4 +20,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

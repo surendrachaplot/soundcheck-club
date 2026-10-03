@@ -1,6 +1,6 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+FrezZ is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 FrezZ is a tech house and minimal artist based in Italy, with 45 gigs on soundcheck across London. Often billed alongside Giovanni Savoca, Simon Carr and D1 x Samir (DVS). Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ FrezZ is a tech house and minimal artist based in Italy, with 45 gigs on soundch
 
 Giovanni Savoca, Simon Carr, D1 x Samir (DVS)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*

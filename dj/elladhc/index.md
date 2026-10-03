@@ -1,6 +1,6 @@
 # ELLADHC
 
-ELLADHC is a Dancehall and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
+ELLADHC is a Dancehall and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
 
 ELLADHC is a dancehall and r&b artist based in United Kingdom, with 43 gigs on soundcheck across Brighton and London. Often billed alongside AyChibs, Chey Selecta and Donnie Sunshine. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ELLADHC is a dancehall and r&b artist based in United Kingdom, with 43 gigs on s
 
 AyChibs, Chey Selecta, Donnie Sunshine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*

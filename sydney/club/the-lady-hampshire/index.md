@@ -1,18 +1,17 @@
 # The Lady Hampshire
 
-The Lady Hampshire is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Global Rations presents - Auntie's Radio" on Sat, 3 Oct 2026.
+The Lady Hampshire is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Back To Funk Spring BBQ Sessions" on Sat, 21 Nov 2026.
 
-The Lady Hampshire is a music venue in Sydney listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 91 Parramatta Road, Camperdown, NSW 2050, Sydney.
+The Lady Hampshire is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 91 Parramatta Road, Camperdown, NSW 2050, Sydney.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Global Rations presents - Auntie's Radio |  |
 | Sat, 21 Nov 2026 | Back To Funk Spring BBQ Sessions |  |
 
 ## Address
 
 91 Parramatta Road, Camperdown, NSW 2050, Sydney, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lady-hampshire/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lady-hampshire/)*

@@ -1,6 +1,6 @@
 # GRMR
 
-GRMR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
+GRMR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
 
 GRMR is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin, Cologne, Leipzig and Mecklenburg Vorpommern. Often billed alongside m4tsch1, Amøn and CARGO (DE). Next up: KHC Neustrelitz, Mecklenburg Vorpommern on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GRMR is a techno and trance artist based in Germany, with 10 gigs on soundcheck 
 
 m4tsch1, Amøn, CARGO (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grmr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grmr/)*

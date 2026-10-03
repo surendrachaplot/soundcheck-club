@@ -1,6 +1,6 @@
 # PVA
 
-PVA is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+PVA is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 PVA is a post-punk and electronica artist based in China, with 12 gigs on soundcheck across Bristol, London, Los Angeles and Manchester and 2 more. Often billed alongside James Massiah, Leon Vynehall and lifeloose. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PVA is a post-punk and electronica artist based in China, with 12 gigs on soundc
 
 James Massiah, Leon Vynehall, lifeloose
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pva/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pva/)*

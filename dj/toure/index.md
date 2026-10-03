@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
 Touré is a house and electro artist based in United Kingdom, with 41 gigs on soundcheck across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: Distrikt, Leeds on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Touré is a house and electro artist based in United Kingdom, with 41 gigs on so
 
 Larushkin, Sleepy Jean, Antoin KMA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

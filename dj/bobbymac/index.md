@@ -1,6 +1,6 @@
 # Bobby Mac
 
-Bobby Mac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Fri, 9 Oct 2026.
+Bobby Mac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Fri, 9 Oct 2026.
 
 Bobby Mac is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside lorcan_. Next up: The Greyhound, London on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Bobby Mac is a house and techno artist based in United Kingdom, with 7 gigs on s
 
 lorcan_
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymac/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymac/)*

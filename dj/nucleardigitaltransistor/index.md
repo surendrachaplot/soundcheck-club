@@ -1,6 +1,6 @@
 # Nuclear Digital Transistor
 
-Nuclear Digital Transistor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Nuclear Digital Transistor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Nuclear Digital Transistor is a techno and house artist, with 11 gigs on soundcheck across Barcelona, Berlin, Colombia and London and 3 more. Often billed alongside Kabinett, Amelia Holt and 1-800-Lolita. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Nuclear Digital Transistor is a techno and house artist, with 11 gigs on soundch
 
 Kabinett, Amelia Holt, 1-800-Lolita
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*

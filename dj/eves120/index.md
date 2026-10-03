@@ -1,6 +1,6 @@
 # eves120
 
-eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 eves120 is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Acidfinky, Cyan85 and 0megavybe. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ eves120 is a house and techno artist based in Germany, with 22 gigs on soundchec
 
 Acidfinky, Cyan85, 0megavybe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*

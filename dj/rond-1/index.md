@@ -1,6 +1,6 @@
 # Rond (1)
 
-Rond (1) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Link, Bologna on Sat, 10 Oct 2026.
+Rond (1) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Link, Bologna on Sat, 10 Oct 2026.
 
 Rond is an electronica and techno artist based in Italy, with 32 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 4 more. Often billed alongside Kodacci, Luca Piermattei and lōrenzo. Next up: Link, Bologna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rond is an electronica and techno artist based in Italy, with 32 gigs on soundch
 
 Kodacci, Luca Piermattei, lōrenzo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*

@@ -1,14 +1,13 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Disco Dom & The Brothers Macklovitch" on Fri, 2 Oct 2026.
+Club Space Miami is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Âme DJ & Hardt Antoine" on Sat, 3 Oct 2026.
 
-Club Space Miami is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including AABEL, AJ Christou, Âme and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
+Club Space Miami is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with line-ups including AABEL, AJ Christou, Âme and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Disco Dom & The Brothers Macklovitch | Bakke, Danyelino, Dombresky |
 | Sat, 3 Oct 2026 | Âme DJ & Hardt Antoine | AABEL, Cami di Marzo, Hardt Antoine, Maceo Plex, Âme |
 | Fri, 9 Oct 2026 | Mind Against, Maxi Meraki & Luch | Bakke, Danyelino, LUCH (MEX), Maxi Meraki, Mind Against, Thunderpony |
 | Sat, 10 Oct 2026 | MVSON | AJ Christou, Bontan, Classmatic, Dennis Ferrer, Mason Collective, Ms. Mada |
@@ -18,9 +17,10 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 18 upcoming gig
 | Fri, 30 Oct 2026 | Halloweek: CamelPhat & Volkoder | CamelPhat, Danyelino, Volkoder, Whitesquare, Will Buck |
 | Sat, 31 Oct 2026 | Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman | Bakke, Bedouin, Jamback, Ms. Mada, Seth Troxler, Toman, Victor Calderone |
 | Sun, 1 Nov 2026 | Halloweek: Dixon B2B Jimi Jules & WhoMadeWho (Hybrid Set) | Dixon, Jimi Jules, Max Stern, SIEGEL (2), WhoMadeWho |
+| Sat, 14 Nov 2026 | Carl Cox + Carlita | Carl Cox, Carlita, Ms. Mada, Sister System |
 
 ## Address
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

@@ -1,6 +1,6 @@
 # LPLPLP
 
-LPLPLP is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
+LPLPLP is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
 
 LPLPLP is a techno and dub techno artist based in Italy, with 25 gigs on soundcheck across Rome and Turin. Often billed alongside Luca Viola, Gattonero and AMANDA LEAN. Next up: Lanificio 159, Rome on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ LPLPLP is a techno and dub techno artist based in Italy, with 25 gigs on soundch
 
 Luca Viola, Gattonero, AMANDA LEAN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lplplp/)*

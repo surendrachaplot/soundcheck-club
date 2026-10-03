@@ -1,6 +1,6 @@
 # Daniel Monaco
 
-Daniel Monaco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 3 Oct 2026.
+Daniel Monaco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Apollo Club Milano, Milan on Sat, 3 Oct 2026.
 
 Daniel Monaco is a house and disco artist based in Italy, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Max NRG Supply, Jason K (IT) and Alden Tyrell. Next up: Apollo Club Milano, Milan on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Daniel Monaco is a house and disco artist based in Italy, with 53 gigs on soundc
 
 Max NRG Supply, Jason K (IT), Alden Tyrell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*

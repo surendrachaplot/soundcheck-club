@@ -1,6 +1,6 @@
 # DJ Pichula
 
-DJ Pichula is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
+DJ Pichula is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
 
 DJ Pichula is an experimental and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Alada, Gadutra and N3LYSTAR. Next up: Lark, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ DJ Pichula is an experimental and techno artist based in Germany, with 8 gigs on
 
 Alada, Gadutra, N3LYSTAR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpichula/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpichula/)*

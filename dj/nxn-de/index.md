@@ -1,6 +1,6 @@
 # NXN
 
-NXN is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UFO im Velodrom, Berlin on Sat, 17 Oct 2026.
+NXN is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UFO im Velodrom, Berlin on Sat, 17 Oct 2026.
 
 NXN is an afro house and house artist based in Germany, with 21 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Düsseldorf and 5 more. Often billed alongside INAN BATMAN, KILIMANJARO and Mahmut Orhan. Next up: UFO im Velodrom, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NXN is an afro house and house artist based in Germany, with 21 gigs on soundche
 
 INAN BATMAN, KILIMANJARO, Mahmut Orhan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nxn-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nxn-de/)*

@@ -1,6 +1,6 @@
 # Labyrinthine
 
-Labyrinthine is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
+Labyrinthine is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
 
 Labyrinthine is a techno and ambient artist based in United Kingdom, with 100 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: TBA - 강원도 화천, South Korea on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Labyrinthine is a techno and ambient artist based in United Kingdom, with 100 gi
 
 Jamie de Rooy, Harknee, Concrete Gold
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*

@@ -1,6 +1,6 @@
 # Stella Maise
 
-Stella Maise is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
+Stella Maise is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
 
 Stella Maise is a bass and techno artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside Disthene, 666.pastel and Rareasfck. Next up: TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stella Maise is a bass and techno artist based in Canada, with 21 gigs on soundc
 
 Disthene, 666.pastel, Rareasfck
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamaise/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamaise/)*

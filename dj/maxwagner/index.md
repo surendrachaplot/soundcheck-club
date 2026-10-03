@@ -1,6 +1,6 @@
 # Max Wagner
 
-Max Wagner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Max Wagner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
 Max Wagner is a techno and house artist based in Austria, with 49 gigs on soundcheck across Chicago, Leipzig, Munich and Vienna. Often billed alongside maro, GOLDI (AT) and Kat Ze. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Max Wagner is a techno and house artist based in Austria, with 49 gigs on soundc
 
 maro, GOLDI (AT), Kat Ze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwagner/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwagner/)*

@@ -1,6 +1,6 @@
 # Ricardo Garduno
 
-Ricardo Garduno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Glazart, Paris on Sun, 4 Oct 2026.
+Ricardo Garduno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Glazart, Paris on Sun, 4 Oct 2026.
 
 Ricardo Garduno is a techno and house artist based in Mexico, with 36 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Madrid and 5 more. Often billed alongside Marco Ramos, Celice Monnette and Chich. Next up: Glazart, Paris on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Ricardo Garduno is a techno and house artist based in Mexico, with 36 gigs on so
 
 Marco Ramos, Celice Monnette, Chich
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*

@@ -1,6 +1,6 @@
 # Egres
 
-Egres is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
+Egres is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Egres is a drum & bass and jungle artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside MC Stormy, VJ Meerkat and Jon-roy. Next up: Village Underground Barcelona, Barcelona on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Egres is a drum & bass and jungle artist, with 8 gigs on soundcheck across Barce
 
 MC Stormy, VJ Meerkat, Jon-roy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egres/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egres/)*

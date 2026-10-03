@@ -1,6 +1,6 @@
 # Andreas Henneberg
 
-Andreas Henneberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Andreas Henneberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Andreas Henneberg is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin, Cologne, Greece and Hamburg and 9 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Andreas Henneberg is a techno and house artist based in Germany, with 30 gigs on
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 2 Oct 2026
 - Fridas Pier, Stuttgart · Sat, 5 Sept 2026
 - TBA, Berlin · Sat, 29 Aug 2026
 - Fundbureau, Hamburg · Fri, 14 Aug 2026
@@ -22,10 +23,9 @@ Andreas Henneberg is a techno and house artist based in Germany, with 30 gigs on
 - Lieberscholli, Munich · Sat, 20 Jun 2026
 - Komplex Berlin, Berlin · Sat, 10 Jan 2026
 - Monarch, San Francisco/Oakland · Sat, 13 Dec 2025
-- Wiggle Room, Toronto · Sun, 7 Dec 2025
 
 ## Shares bills with
 
 Beth Lydi, Maurice Mino, Konfusia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*

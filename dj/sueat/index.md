@@ -1,6 +1,6 @@
 # SUE (AT)
 
-SUE (AT) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Market33, Austria on Sat, 3 Oct 2026.
+SUE (AT) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Market33, Austria on Sat, 3 Oct 2026.
 
 SUE (AT) is an afro house and techno artist, with 16 gigs on soundcheck across Austria, Berlin, San Francisco/Oakland and Vienna. Often billed alongside ENJA, Spud Bencer and AVO2X. Next up: Market33, Austria on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SUE (AT) is an afro house and techno artist, with 16 gigs on soundcheck across A
 
 ENJA, Spud Bencer, AVO2X
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueat/)*

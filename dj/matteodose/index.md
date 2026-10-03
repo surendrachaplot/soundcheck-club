@@ -1,6 +1,6 @@
 # Matteo Dose
 
-Matteo Dose is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at renae, Manchester on Thu, 15 Oct 2026.
+Matteo Dose is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at renae, Manchester on Thu, 15 Oct 2026.
 
 Matteo Dose is a house and deep house artist based in Italy, with 11 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Gaka, JustElliot and Lucas Flanners. Next up: renae, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Matteo Dose is a house and deep house artist based in Italy, with 11 gigs on sou
 
 Gaka, JustElliot, Lucas Flanners
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodose/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodose/)*

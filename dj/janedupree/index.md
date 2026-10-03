@@ -1,6 +1,6 @@
 # Jane Dupree
 
-Jane Dupree is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night We Met, Nashville on Sat, 17 Oct 2026.
+Jane Dupree is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night We Met, Nashville on Sat, 17 Oct 2026.
 
 Jane Dupree is a house and disco artist, with 9 gigs on soundcheck across Nashville. Often billed alongside Chus & Ceballos, DJ Colette and DJ Lady D. Next up: Night We Met, Nashville on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jane Dupree is a house and disco artist, with 9 gigs on soundcheck across Nashvi
 
 Chus & Ceballos, DJ Colette, DJ Lady D
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedupree/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedupree/)*

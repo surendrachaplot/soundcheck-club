@@ -1,6 +1,6 @@
 # DIESEN
 
-DIESEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 3 Oct 2026.
+DIESEN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 3 Oct 2026.
 
 DIESEN is a house and tech house artist, with 28 gigs on soundcheck across Hamburg. Often billed alongside Cosmokat, Ralf Brixx and VABU. Next up: Club Frau Holle, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DIESEN is a house and tech house artist, with 28 gigs on soundcheck across Hambu
 
 Cosmokat, Ralf Brixx, VABU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diesen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diesen/)*

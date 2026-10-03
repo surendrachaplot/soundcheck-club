@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Max Dean is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Max Dean is a house and tech house artist based in United Kingdom, with 235 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist based in United Kingdom, with 235 gigs
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

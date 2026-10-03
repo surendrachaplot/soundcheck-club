@@ -1,6 +1,6 @@
 # Matthias Kaiser
 
-Matthias Kaiser is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
+Matthias Kaiser is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
 
 Matthias Kaiser is a house and techno artist based in Austria, with 18 gigs on soundcheck across Vienna. Often billed alongside David Radi, Chris Freud and Chruzo. Next up: PRST, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Matthias Kaiser is a house and techno artist based in Austria, with 18 gigs on s
 
 David Radi, Chris Freud, Chruzo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiaskaiser/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiaskaiser/)*

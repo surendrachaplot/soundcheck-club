@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Say No More Madrid, Madrid on Sat, 3 Oct 2026.
+David August is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Say No More Madrid, Madrid on Sat, 3 Oct 2026.
 
 David August is an experimental and electronica artist, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Sofia Kourtesis, Bendik Giske and Cassius. Next up: Say No More Madrid, Madrid on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ David August is an experimental and electronica artist, with 37 gigs on soundche
 
 Sofia Kourtesis, Bendik Giske, Cassius
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

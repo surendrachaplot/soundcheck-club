@@ -1,6 +1,6 @@
 # Dexy's Midnight
 
-Dexy's Midnight is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Dexy's Midnight is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 Dexy's Midnight is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Berlin and Munich. Often billed alongside Alina Viktoria, SACID and DJ Henk. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dexy's Midnight is a techno and trance artist based in Germany, with 45 gigs on 
 
 Alina Viktoria, SACID, DJ Henk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexysmidnight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexysmidnight/)*

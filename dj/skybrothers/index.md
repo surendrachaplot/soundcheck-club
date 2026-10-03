@@ -1,6 +1,6 @@
 # SkyBrothers
 
-SkyBrothers is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+SkyBrothers is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 SkyBrothers is a house and tech house artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Munich. Often billed alongside Pura Pachanga, Alice DiMar and Amber (NL). Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ SkyBrothers is a house and tech house artist based in Netherlands, with 4 gigs o
 
 Pura Pachanga, Alice DiMar, Amber (NL)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skybrothers/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skybrothers/)*

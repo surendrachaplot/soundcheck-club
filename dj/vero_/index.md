@@ -1,6 +1,6 @@
 # Vero_
 
-Vero_ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M-BIA, Berlin on Fri, 16 Oct 2026.
+Vero_ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M-BIA, Berlin on Fri, 16 Oct 2026.
 
 Vero_ is a techno and trance artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 1 more. Often billed alongside Gabrielle (DE), JOTAno and TAKT130. Next up: M-BIA, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Vero_ is a techno and trance artist based in Netherlands, with 42 gigs on soundc
 
 Gabrielle (DE), JOTAno, TAKT130
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero_/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero_/)*

@@ -1,6 +1,6 @@
 # LEWY (2)
 
-LEWY (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
+LEWY (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
 
 LEWY is a house and techno artist, with 7 gigs on soundcheck across Cardiff and London. Often billed alongside ALIX (UK), Anah and Brasi. Next up: Last Arch, London on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ LEWY is a house and techno artist, with 7 gigs on soundcheck across Cardiff and 
 
 ALIX (UK), Anah, Brasi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewy-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewy-2/)*

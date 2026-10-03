@@ -1,6 +1,6 @@
 # Sissy Cinnamon
 
-Sissy Cinnamon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Sissy Cinnamon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 Sissy Cinnamon is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across Brighton, London and Madrid. Often billed alongside Samantha Togni, ASHTREY and RoadmanPrincess. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sissy Cinnamon is a techno and house artist based in United Kingdom, with 38 gig
 
 Samantha Togni, ASHTREY, RoadmanPrincess
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissycinnamon/)*

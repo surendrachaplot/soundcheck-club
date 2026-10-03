@@ -1,6 +1,6 @@
 # Lady Prowl
 
-Lady Prowl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Thu, 29 Oct 2026.
+Lady Prowl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Thu, 29 Oct 2026.
 
 Lady Prowl is a techno and house artist based in United States of America, with 54 gigs on soundcheck across London, New York City and Philadelphia. Often billed alongside Gravers Lane, Particle Ray and John Raffaele. Next up: The Sound Lounge at Percy, Philadelphia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lady Prowl is a techno and house artist based in United States of America, with 
 
 Gravers Lane, Particle Ray, John Raffaele
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyprowl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyprowl/)*

@@ -1,18 +1,18 @@
 # The Chronics
 
-The Chronics is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M7 Club, Barcelona on Fri, 2 Oct 2026.
+The Chronics is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-The Chronics is a techno and ghetto tech artist based in Switzerland, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Bours?, Chlär and Alarico. Next up: M7 Club, Barcelona on Fri 2 Oct.
+The Chronics is a techno and ghetto tech artist based in Switzerland, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Bours?, Chlär and Alarico. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | M7 Club | Barcelona |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- M7 Club, Barcelona · Fri, 2 Oct 2026
 - Tresor / Globus, Berlin · Mon, 17 Aug 2026
 - Motel Campo, Geneva · Sat, 27 Jun 2026
 - Mia Mao, Paris · Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ The Chronics is a techno and ghetto tech artist based in Switzerland, with 69 gi
 - Lokschuppen Berlin, Berlin · Sat, 16 May 2026
 - Airport Würzburg, Nürnberg · Thu, 30 Apr 2026
 - Refuge, New York City · Fri, 24 Apr 2026
-- Levenslang Amsterdam, Amsterdam · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Bours?, Chlär, Alarico
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*

@@ -1,6 +1,6 @@
 # Detroit Techno Militia 2x4
 
-Detroit Techno Militia 2x4 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Detroit Techno Militia 2x4 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Detroit Techno Militia 2x4 is a techno and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Berlin, Detroit and Edinburgh and 9 more. Often billed alongside DJ Roach, Stacey Hotwaxx Hale and DJ Godfather. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Detroit Techno Militia 2x4 is a techno and house artist based in United States o
 
 DJ Roach, Stacey Hotwaxx Hale, DJ Godfather
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroittechnomilitia2x4/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroittechnomilitia2x4/)*

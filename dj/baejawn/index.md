@@ -1,6 +1,6 @@
 # Baejawn
 
-Baejawn is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bastet, Philadelphia on Sat, 3 Oct 2026.
+Baejawn is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bastet, Philadelphia on Sat, 3 Oct 2026.
 
 Baejawn is a club and house artist based in United States of America, with 12 gigs on soundcheck across Philadelphia. Often billed alongside Khiari Bakar, low iron and magglezzz. Next up: Bastet, Philadelphia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Baejawn is a club and house artist based in United States of America, with 12 gi
 
 Khiari Bakar, low iron, magglezzz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baejawn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baejawn/)*

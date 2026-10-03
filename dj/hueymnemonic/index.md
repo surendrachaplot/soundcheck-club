@@ -1,6 +1,6 @@
 # Huey Mnemonic
 
-Huey Mnemonic is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
+Huey Mnemonic is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
 
 Huey Mnemonic is a techno and house artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Marble Bar, Detroit on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Huey Mnemonic is a techno and house artist based in United States of America, wi
 
 D. Strange, Underground Resistance, 2Lanes
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*

@@ -1,6 +1,6 @@
 # Revengedeko
 
-Revengedeko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+Revengedeko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Revengedeko is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin and Munich. Often billed alongside Stan Starry, Mona Moore and Bee Lincoln. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Revengedeko is a house and techno artist based in Germany, with 8 gigs on soundc
 
 Stan Starry, Mona Moore, Bee Lincoln
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revengedeko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revengedeko/)*

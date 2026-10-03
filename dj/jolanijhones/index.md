@@ -1,6 +1,6 @@
 # Jolani Jhones
 
-Jolani Jhones is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Poema, Utrecht on Thu, 31 Dec 2026.
+Jolani Jhones is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Poema, Utrecht on Thu, 31 Dec 2026.
 
 Jolani Jhones is a house and club artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Gabriel Muñoz, Diego Armando and Faster Horses. Next up: Club Poema, Utrecht on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jolani Jhones is a house and club artist based in Netherlands, with 18 gigs on s
 
 Gabriel Muñoz, Diego Armando, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*

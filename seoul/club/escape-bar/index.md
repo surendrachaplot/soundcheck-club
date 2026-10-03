@@ -1,6 +1,6 @@
 # Escape_bar
 
-Escape_bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PUNCH DRUNK" on Sat, 24 Oct 2026.
+Escape_bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PUNCH DRUNK" on Sat, 24 Oct 2026.
 
 Escape_bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 16, Yonsei-ro 5ga-gil, Seodaemun-gu, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Escape_bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See 
 
 16, Yonsei-ro 5ga-gil, Seodaemun-gu, Seoul, South Korea, Seoul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/escape-bar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/escape-bar/)*

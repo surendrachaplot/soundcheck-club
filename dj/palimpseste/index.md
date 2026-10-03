@@ -1,6 +1,6 @@
 # Palimpseste
 
-Palimpseste is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 3 Oct 2026.
+Palimpseste is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 3 Oct 2026.
 
 Palimpseste is a house and disco artist based in France, with 54 gigs on soundcheck across Madrid and Paris. Often billed alongside Finesse, Marchandazing and Matteo Morrielli. Next up: Under Bridge Madrid, Madrid on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Palimpseste is a house and disco artist based in France, with 54 gigs on soundch
 
 Finesse, Marchandazing, Matteo Morrielli
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*

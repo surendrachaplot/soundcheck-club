@@ -1,6 +1,6 @@
 # Jimeno Arnaud
 
-Jimeno Arnaud is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 3 Oct 2026.
+Jimeno Arnaud is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 3 Oct 2026.
 
 Jimeno Arnaud is a house and downtempo artist based in Mexico, with 43 gigs on soundcheck across Mexico City. Often billed alongside Barreto, Wolffer and Irena Stanisic. Next up: nueve cero nueve, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jimeno Arnaud is a house and downtempo artist based in Mexico, with 43 gigs on s
 
 Barreto, Wolffer, Irena Stanisic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*

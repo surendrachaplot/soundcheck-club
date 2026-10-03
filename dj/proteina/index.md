@@ -1,6 +1,6 @@
 # Proteina
 
-Proteina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
+Proteina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
 
 Proteina is a techno and trance artist, with 10 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside A.C., Kubok and Acierate. Next up: Ciało, Wroclaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Proteina is a techno and trance artist, with 10 gigs on soundcheck across Krakow
 
 A.C., Kubok, Acierate
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proteina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proteina/)*

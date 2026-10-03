@@ -1,6 +1,6 @@
 # NeoFX
 
-NeoFX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+NeoFX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 NeoFX is a techno and trance artist based in France, with 16 gigs on soundcheck across Berlin, Bristol, Brussels and New York City and 2 more. Often billed alongside niclazik, TVNG and .JKM. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NeoFX is a techno and trance artist based in France, with 16 gigs on soundcheck 
 
 niclazik, TVNG, .JKM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neofx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neofx/)*

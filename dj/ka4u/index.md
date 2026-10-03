@@ -1,6 +1,6 @@
 # KA4U
 
-KA4U is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
+KA4U is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
 
 KA4U is a techno and house artist based in Japan, with 78 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Limited Toss, Ascalypso and GYOKU. Next up: Club Daphnia, Osaka on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ KA4U is a techno and house artist based in Japan, with 78 gigs on soundcheck acr
 
 Limited Toss, Ascalypso, GYOKU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ka4u/)*

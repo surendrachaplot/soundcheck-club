@@ -1,6 +1,6 @@
 # Aline Brooklyn
 
-Aline Brooklyn is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
+Aline Brooklyn is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
 
 Aline Brooklyn is a house and tech house artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Lisbon and 7 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Aline Brooklyn is a house and tech house artist based in United States of Americ
 
 Aman Umber, Krol, Maxime dB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*

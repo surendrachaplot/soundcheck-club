@@ -1,14 +1,15 @@
 # CLEO LEIGH
 
-CLEO LEIGH is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Fri, 16 Oct 2026.
+CLEO LEIGH is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Système, Montreal on Fri, 16 Oct 2026.
 
-CLEO LEIGH is a techno and experimental artist based in Canada, with 12 gigs on soundcheck across Detroit, Istanbul, Montreal and Tbilisi and 1 more. Often billed alongside Barbosa, Chris Rubbra and France Jobin. Next up: Système, Montreal on Fri 16 Oct.
+CLEO LEIGH is a techno and experimental artist based in Canada, with 13 gigs on soundcheck across Detroit, Istanbul, Montreal and Tbilisi and 1 more. Often billed alongside Barbosa, Chris Rubbra and France Jobin. Next up: Système, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Système | Montreal |
+| Sat, 17 Oct 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CLEO LEIGH is a techno and experimental artist based in Canada, with 12 gigs on 
 
 Barbosa, Chris Rubbra, France Jobin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoleigh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoleigh/)*

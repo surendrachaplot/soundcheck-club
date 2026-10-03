@@ -1,6 +1,6 @@
 # Signum
 
-Signum is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Signum is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Signum is a trance and club artist based in Netherlands, with 21 gigs on soundcheck across Birmingham, Brighton, Dublin and Glasgow and 8 more. Often billed alongside Dave Pearce, Lange and Billy Gillies. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Signum is a trance and club artist based in Netherlands, with 21 gigs on soundch
 
 Dave Pearce, Lange, Billy Gillies
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*

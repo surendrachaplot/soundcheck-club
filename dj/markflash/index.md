@@ -1,6 +1,6 @@
 # Mark Flash
 
-Mark Flash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
+Mark Flash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
 
 Mark Flash is a techno and house artist based in United States of America, with 29 gigs on soundcheck across Antwerp, Berlin, Bristol and Brussels and 9 more. Often billed alongside Underground Resistance, DJ Bone and DJ Godfather. Next up: M.O.T, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mark Flash is a techno and house artist based in United States of America, with 
 
 Underground Resistance, DJ Bone, DJ Godfather
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markflash/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markflash/)*

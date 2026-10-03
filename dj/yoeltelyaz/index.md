@@ -1,6 +1,6 @@
 # Yoel Telyaz
 
-Yoel Telyaz is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 77, London on Sat, 17 Oct 2026.
+Yoel Telyaz is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 77, London on Sat, 17 Oct 2026.
 
 Yoel Telyaz is an afro house and house artist based in Turkey, with 31 gigs on soundcheck across Istanbul and London. Often billed alongside AliTR, Jezza and Teoman Çangır. Next up: 77, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Yoel Telyaz is an afro house and house artist based in Turkey, with 31 gigs on s
 
 AliTR, Jezza, Teoman Çangır
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeltelyaz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeltelyaz/)*

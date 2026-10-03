@@ -1,6 +1,6 @@
 # Said Dami
 
-Said Dami is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
+Said Dami is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Lucky Cat, Sydney on Fri, 16 Oct 2026.
 
 Said Dami is a house and deep house artist based in Australia, with 36 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Oscar de Lima, Callyy and CA LOU. Next up: The Lucky Cat, Sydney on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Said Dami is a house and deep house artist based in Australia, with 36 gigs on s
 
 Oscar de Lima, Callyy, CA LOU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*

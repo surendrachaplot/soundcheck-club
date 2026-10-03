@@ -1,6 +1,6 @@
 # San Dee
 
-San Dee is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+San Dee is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 San Dee is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Miami, Nashville and New York City. Often billed alongside Kev Gee, TMD (US) and Saul mj. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ San Dee is a house and minimal artist based in United States of America, with 45
 
 Kev Gee, TMD (US), Saul mj
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandee/)*

@@ -1,6 +1,6 @@
 # freedomB
 
-freedomB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 17 Oct 2026.
+freedomB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 17 Oct 2026.
 
 freedomB is a house and techno artist based in Germany, with 64 gigs on soundcheck across Barcelona, Berlin, Brussels and Hamburg and 1 more. Often billed alongside Roldan, Sven Dohse and Fab Massimo. Next up: EL SÓTANO, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ freedomB is a house and techno artist based in Germany, with 64 gigs on soundche
 
 Roldan, Sven Dohse, Fab Massimo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomb/)*

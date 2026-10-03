@@ -1,6 +1,6 @@
 # Lucy Locket
 
-Lucy Locket is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
+Lucy Locket is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
 
 Lucy Locket is a disco and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds. Often billed alongside Michael Upson, Ga-briel and Harry Rook. Next up: Hyde Park Book Club, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lucy Locket is a disco and house artist based in United Kingdom, with 9 gigs on 
 
 Michael Upson, Ga-briel, Harry Rook
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylocket/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylocket/)*

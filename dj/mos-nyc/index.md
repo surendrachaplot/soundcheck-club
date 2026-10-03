@@ -1,6 +1,6 @@
 # Mos (NYC)
 
-Mos (NYC) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
+Mos (NYC) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
 
 Mos (NYC) is a techno and house artist based in United States of America, with 42 gigs on soundcheck across Berlin, Boston, Hamburg and New York City and 1 more. Often billed alongside Annie Lew, Aseptic and Massimiliano Pagliara. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mos (NYC) is a techno and house artist based in United States of America, with 4
 
 Annie Lew, Aseptic, Massimiliano Pagliara
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-nyc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-nyc/)*

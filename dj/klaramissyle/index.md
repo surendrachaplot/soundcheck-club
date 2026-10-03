@@ -1,6 +1,6 @@
 # Klara Missyle
 
-Klara Missyle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Klara Missyle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Klara Missyle is a house and disco artist based in Italy, with 40 gigs on soundcheck across Barcelona and Milan. Often billed alongside Jazz K, Ferdiyei and oddzero. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Klara Missyle is a house and disco artist based in Italy, with 40 gigs on soundc
 
 Jazz K, Ferdiyei, oddzero
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaramissyle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaramissyle/)*

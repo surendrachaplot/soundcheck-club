@@ -1,6 +1,6 @@
 # Smerz
 
-Smerz is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Barbican Centre, London on Thu, 15 Oct 2026.
+Smerz is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Barbican Centre, London on Thu, 15 Oct 2026.
 
 Smerz is a pop and experimental artist based in Norway, with 44 gigs on soundcheck across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside YHWH Nailgun, DjRUM and NEW YORK. Next up: The Barbican Centre, London on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ Smerz is a pop and experimental artist based in Norway, with 44 gigs on soundche
 
 YHWH Nailgun, DjRUM, NEW YORK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

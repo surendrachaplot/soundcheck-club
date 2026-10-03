@@ -1,6 +1,6 @@
 # blk.
 
-blk. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+blk. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
 blk. is a techno and trance artist based in Ireland, with 141 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ blk. is a techno and trance artist based in Ireland, with 141 gigs on soundcheck
 
 Azyr, Black Traffic, Charlie Sparks
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blk./)*

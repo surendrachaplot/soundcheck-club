@@ -1,19 +1,19 @@
 # Maron
 
-Maron is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Turbina, Budapest on Fri, 2 Oct 2026.
+Maron is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Turbina, Budapest on Sat, 17 Oct 2026.
 
-Maron is a house and techno artist based in Hungary, with 97 gigs on soundcheck across Berlin and Budapest. Often billed alongside Jaffa Surfa, isu and Kiqo. Next up: Turbina, Budapest on Fri 2 Oct.
+Maron is a house and techno artist based in Hungary, with 97 gigs on soundcheck across Berlin and Budapest. Often billed alongside Jaffa Surfa, isu and Kiqo. Next up: Turbina, Budapest on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Turbina | Budapest |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 | Fri, 23 Oct 2026 | Turbina | Budapest |
 
 ## Recently played
 
+- Turbina, Budapest · Fri, 2 Oct 2026
 - Toldi Klub, Budapest · Fri, 25 Sept 2026
 - Pontoon Budapest, Budapest · Sat, 19 Sept 2026
 - Toldi Klub, Budapest · Fri, 18 Sept 2026
@@ -21,10 +21,9 @@ Maron is a house and techno artist based in Hungary, with 97 gigs on soundcheck 
 - Very Small Club, Budapest · Sat, 5 Sept 2026
 - Spot X, Budapest · Fri, 31 Jul 2026
 - Turbina, Budapest · Sat, 18 Jul 2026
-- Pontoon Budapest, Budapest · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Jaffa Surfa, isu, Kiqo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*

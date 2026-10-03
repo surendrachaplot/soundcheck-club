@@ -1,6 +1,6 @@
 # Franky-B
 
-Franky-B is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+Franky-B is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
 Franky-B is a techno and trance artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside ANXHELA, OMAKS and Raxeller. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Franky-B is a techno and trance artist based in Netherlands, with 82 gigs on sou
 
 ANXHELA, OMAKS, Raxeller
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franky-b/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franky-b/)*

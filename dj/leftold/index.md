@@ -1,6 +1,6 @@
 # LEFTOLD
 
-LEFTOLD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 6 Oct 2026.
+LEFTOLD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 6 Oct 2026.
 
 LEFTOLD is a house and techno artist, with 15 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside U-T, AMANE and Gonno. Next up: Enter Shibuya, Tokyo on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ LEFTOLD is a house and techno artist, with 15 gigs on soundcheck across Kyoto an
 
 U-T, AMANE, Gonno
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftold/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftold/)*

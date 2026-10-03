@@ -1,6 +1,6 @@
 # MC Ridda
 
-MC Ridda is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spin, San Diego on Fri, 16 Oct 2026.
+MC Ridda is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spin, San Diego on Fri, 16 Oct 2026.
 
 MC Ridda is a drum & bass and jungle artist based in United States of America, with 29 gigs on soundcheck across San Diego. Often billed alongside Degs, Hugh Hardie and London Elektricity. Next up: Spin, San Diego on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MC Ridda is a drum & bass and jungle artist based in United States of America, w
 
 Degs, Hugh Hardie, London Elektricity
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcridda/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcridda/)*

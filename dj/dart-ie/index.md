@@ -1,6 +1,6 @@
 # DART
 
-DART is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Art School, Glasgow on Sat, 17 Oct 2026.
+DART is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Art School, Glasgow on Sat, 17 Oct 2026.
 
 DART is a techno and house artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 26 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: The Art School, Glasgow on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ DART is a techno and house artist based in Ireland, with 117 gigs on soundcheck 
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

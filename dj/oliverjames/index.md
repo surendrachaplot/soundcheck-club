@@ -1,6 +1,6 @@
 # Oliver James
 
-Oliver James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OneSixOne, Melbourne on Fri, 9 Oct 2026.
+Oliver James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OneSixOne, Melbourne on Fri, 9 Oct 2026.
 
 Oliver James is a house and deep house artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Katie Hill. Next up: OneSixOne, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Oliver James is a house and deep house artist based in Australia, with 11 gigs o
 
 Adam Trace, Jay Ramon, Katie Hill
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverjames/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverjames/)*

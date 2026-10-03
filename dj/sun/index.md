@@ -1,6 +1,6 @@
 # DJ Sun
 
-DJ Sun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
+DJ Sun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
 
 DJ Sun is a techno and house artist based in Lithuania, with 6 gigs on soundcheck across Barcelona, Berlin, Geneva and Paris. Often billed alongside ALI3N, Angel D'lite and Blue Hour. Next up: OXI, Berlin on Tue 20 Oct.
 
@@ -22,4 +22,4 @@ DJ Sun is a techno and house artist based in Lithuania, with 6 gigs on soundchec
 
 ALI3N, Angel D'lite, Blue Hour
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sun/)*

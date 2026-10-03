@@ -1,6 +1,6 @@
 # Buunshin
 
-Buunshin is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Buunshin is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Buunshin is a drum & bass and jungle artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Auckland, Basel and Berlin and 25 more. Often billed alongside Imanu, Phace and S.P.Y. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Buunshin is a drum & bass and jungle artist based in Netherlands, with 44 gigs o
 
 Imanu, Phace, S.P.Y
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*

@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bohemien Club" on Sat, 3 Oct 2026.
+Detune is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bohemien Club" on Sat, 3 Oct 2026.
 
 Detune is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Gabriele, Nicola Mazzetti and Train To Eltanin. See dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
 
@@ -16,4 +16,4 @@ Detune is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with lin
 
 Via Felice Casati 24, 20124 Milano, Milan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*

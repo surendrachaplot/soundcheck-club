@@ -1,6 +1,6 @@
 # Badem
 
-Badem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Penny Banger, Barcelona on Sat, 3 Oct 2026.
+Badem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Penny Banger, Barcelona on Sat, 3 Oct 2026.
 
 Badem is a house and techno artist, with 15 gigs on soundcheck across Barcelona. Often billed alongside PAZ WAZ HERE, Marcos Zappia and Guido Vissà. Next up: Penny Banger, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Badem is a house and techno artist, with 15 gigs on soundcheck across Barcelona.
 
 PAZ WAZ HERE, Marcos Zappia, Guido Vissà
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badem/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badem/)*

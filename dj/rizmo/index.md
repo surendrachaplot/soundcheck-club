@@ -1,6 +1,6 @@
 # Rizmo
 
-Rizmo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SASS Music Club, Vienna on Sat, 3 Oct 2026.
+Rizmo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SASS Music Club, Vienna on Sat, 3 Oct 2026.
 
 Rizmo is a house and tech house artist based in Austria, with 18 gigs on soundcheck across London and Vienna. Often billed alongside Eye F, Stipo and Apua. Next up: SASS Music Club, Vienna on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rizmo is a house and tech house artist based in Austria, with 18 gigs on soundch
 
 Eye F, Stipo, Apua
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizmo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizmo/)*

@@ -1,6 +1,6 @@
 # merupo
 
-merupo is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
+merupo is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 merupo is a hardcore and techno artist based in Japan, with 25 gigs on soundcheck across Bristol, Kyoto, Osaka and Tokyo. Often billed alongside Savage States, matres and w (MELTDØWN). Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ merupo is a hardcore and techno artist based in Japan, with 25 gigs on soundchec
 
 Savage States, matres, w (MELTDØWN)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merupo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merupo/)*

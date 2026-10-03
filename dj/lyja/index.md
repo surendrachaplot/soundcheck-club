@@ -1,6 +1,6 @@
 # Lyja
 
-Lyja is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
+Lyja is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
 
 Lyja is a house and disco artist based in United States of America, with 22 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside DJ M3, Anthony Mansfield and Soulfunky. Next up: The Midway, San Francisco Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lyja is a house and disco artist based in United States of America, with 22 gigs
 
 DJ M3, Anthony Mansfield, Soulfunky
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyja/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyja/)*

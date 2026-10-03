@@ -1,6 +1,6 @@
 # leeonn
 
-leeonn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Living Room Wines, Portland on Thu, 15 Oct 2026.
+leeonn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Living Room Wines, Portland on Thu, 15 Oct 2026.
 
 leeonn is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Portland. Often billed alongside Ben Tactic, DJ Eft and Andy Warren. Next up: Living Room Wines, Portland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ leeonn is a techno and house artist based in United States of America, with 20 g
 
 Ben Tactic, DJ Eft, Andy Warren
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeonn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeonn/)*

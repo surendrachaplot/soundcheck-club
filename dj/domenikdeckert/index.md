@@ -1,6 +1,6 @@
 # Domenik Deckert
 
-Domenik Deckert is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sat, 7 Nov 2026.
+Domenik Deckert is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 7 Nov 2026.
 
 Domenik Deckert is a house and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Mike Momburg, DAVINA and Tom Velden. Next up: Gewölbe, Cologne on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Domenik Deckert is a house and trance artist based in Germany, with 51 gigs on s
 
 Mike Momburg, DAVINA, Tom Velden
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*

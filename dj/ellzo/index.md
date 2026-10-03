@@ -1,6 +1,6 @@
 # Ellzo
 
-Ellzo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
+Ellzo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 9 Oct 2026.
 
 Ellzo is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Tenzin, Lewis Woodham and Ize. Next up: NUMBER 90 LONDON, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ellzo is a house and minimal artist based in United Kingdom, with 13 gigs on sou
 
 Tenzin, Lewis Woodham, Ize (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellzo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellzo/)*

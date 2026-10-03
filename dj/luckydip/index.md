@@ -1,6 +1,6 @@
 # Lucky Dip
 
-Lucky Dip is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Lucky Dip is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Lucky Dip is a techno and hardcore artist based in United Kingdom, with 53 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Wrisk, Smiff and DV60. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lucky Dip is a techno and hardcore artist based in United Kingdom, with 53 gigs 
 
 Wrisk, Smiff, DV60
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydip/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydip/)*

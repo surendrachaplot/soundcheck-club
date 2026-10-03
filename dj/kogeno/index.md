@@ -1,6 +1,6 @@
 # Kogeno
 
-Kogeno is a electronic artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Kogeno is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Kogeno is an electronic artist based in Armenia, with 3 gigs on soundcheck across Armenia. Often billed alongside Animistic Beliefs, MEROUJ and Nono Gigsta. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Kogeno is an electronic artist based in Armenia, with 3 gigs on soundcheck acros
 
 Animistic Beliefs, MEROUJ, Nono Gigsta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kogeno/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kogeno/)*

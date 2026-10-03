@@ -1,6 +1,6 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Sat, 3 Oct 2026.
+Peder Mannerfelt is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 3 Oct 2026.
 
 Peder Mannerfelt is a techno and bass artist based in Sweden, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Flore, mad miran and Azu Tiwaline. Next up: M.O.T, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, with 57 gigs on so
 
 Flore, mad miran, Azu Tiwaline
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

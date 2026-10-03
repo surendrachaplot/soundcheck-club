@@ -1,6 +1,6 @@
 # Little Luce
 
-Little Luce is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Waiting Room, London on Sat, 17 Oct 2026.
+Little Luce is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Waiting Room, London on Sat, 17 Oct 2026.
 
 Little Luce is a breakbeat and house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Jahmed, Onncor and Bryn Brax. Next up: The Waiting Room, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Little Luce is a breakbeat and house artist based in United Kingdom, with 16 gig
 
 Jahmed, Onncor, Bryn Brax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*

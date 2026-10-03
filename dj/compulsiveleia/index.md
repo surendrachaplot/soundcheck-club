@@ -1,6 +1,6 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
 Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 2
 
 Takenbymarshall, alterum, it_dont_Matt.er
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*

@@ -1,6 +1,6 @@
 # Panic
 
-Panic is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Panic is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Panic is a techno and hardcore artist based in Australia, with 25 gigs on soundcheck across Amsterdam, Cologne, Dortmund Essen and Frankfurt and 5 more. Often billed alongside Marc Acardipane, Neophyte and Partyraiser. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Panic is a techno and hardcore artist based in Australia, with 25 gigs on soundc
 
 Marc Acardipane, Neophyte, Partyraiser
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*

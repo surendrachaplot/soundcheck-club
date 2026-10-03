@@ -1,6 +1,6 @@
 # Kaz James
 
-Kaz James is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
+Kaz James is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
 
 Kaz James is a house and afro house artist based in United Kingdom, with 45 gigs on soundcheck across Athens, Ibiza, Istanbul and London and 10 more. Often billed alongside Black Coffee, Carlita and Guy Gerber. Next up: Santa Monica Pier, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kaz James is a house and afro house artist based in United Kingdom, with 45 gigs
 
 Black Coffee, Carlita, Guy Gerber
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*

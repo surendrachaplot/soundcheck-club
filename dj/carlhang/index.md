@@ -1,6 +1,6 @@
 # Carl Hang
 
-Carl Hang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Carl Hang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 Carl Hang is a house and techno artist based in Germany, with 104 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business and Multifun. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Carl Hang is a house and techno artist based in Germany, with 104 gigs on soundc
 
 Wall Ra, DJ Business (2), Multifun
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*

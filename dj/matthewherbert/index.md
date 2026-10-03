@@ -1,6 +1,6 @@
 # Matthew Herbert
 
-Matthew Herbert is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ivy House, London on Fri, 16 Oct 2026.
+Matthew Herbert is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ivy House, London on Fri, 16 Oct 2026.
 
 Matthew Herbert is an experimental and electronica artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Jeff Mills, Polygonia and 5ive. Next up: The Ivy House, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Matthew Herbert is an experimental and electronica artist based in United Kingdo
 
 Jeff Mills, Polygonia, 5ive
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*

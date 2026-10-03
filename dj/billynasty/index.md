@@ -1,6 +1,6 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Billy Nasty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Billy Nasty is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 5 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Billy Nasty is a techno and house artist based in United Kingdom, with 25 gigs o
 
 Charles Green, Lino Fuso, ADRIANNA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*

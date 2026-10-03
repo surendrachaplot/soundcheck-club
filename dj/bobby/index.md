@@ -1,14 +1,13 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 2 Oct 2026.
+Bobby. is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 3 Oct 2026.
 
-Bobby. is a techno and house artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Cobalt Studios, Newcastle on Fri 2 Oct.
+Bobby. is a house and techno artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Club Cheek, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Cobalt Studios | Newcastle |
 | Sat, 3 Oct 2026 | Club Cheek | London |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
@@ -22,6 +21,7 @@ Bobby. is a techno and house artist based in United Kingdom, with 145 gigs on so
 
 ## Recently played
 
+- Cobalt Studios, Newcastle · Fri, 2 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 28 Aug 2026
 - The Carpet Shop, London · Fri, 31 Jul 2026
 - fabric, London · Sat, 27 Jun 2026
@@ -29,10 +29,9 @@ Bobby. is a techno and house artist based in United Kingdom, with 145 gigs on so
 - Platforma Wolff, Bucharest · Fri, 26 Jun 2026
 - Les Enfants Brillants, Barcelona · Thu, 18 Jun 2026
 - Outer Heaven, New York City · Sat, 13 Jun 2026
-- Signal, New York City · Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

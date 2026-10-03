@@ -1,6 +1,6 @@
 # kamunts
 
-kamunts is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+kamunts is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 kamunts is an electronic artist, with 4 gigs on soundcheck across Armenia and Berlin. Often billed alongside missteikk, Animistic Beliefs and HMOT. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ kamunts is an electronic artist, with 4 gigs on soundcheck across Armenia and Be
 
 missteikk, Animistic Beliefs, HMOT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamunts/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamunts/)*

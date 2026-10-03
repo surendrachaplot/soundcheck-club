@@ -1,6 +1,6 @@
 # ELLA
 
-ELLA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Thu, 8 Oct 2026.
+ELLA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Gate, Berlin on Thu, 8 Oct 2026.
 
 ELLA is a techno and tech house artist based in United States of America, with 7 gigs on soundcheck across Berlin, Hamburg, Los Angeles and Miami and 2 more. Often billed alongside Aleroj, Barbara Alvarez and Beverly Chills. Next up: Golden Gate, Berlin on Thu 8 Oct.
 
@@ -23,4 +23,4 @@ ELLA is a techno and tech house artist based in United States of America, with 7
 
 Aleroj, Barbara Alvarez, Beverly Chills
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellamusika/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellamusika/)*

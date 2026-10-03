@@ -1,6 +1,6 @@
 # Nico Bernardini
 
-Nico Bernardini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha New York, New-york-city on Sat, 3 Oct 2026.
+Nico Bernardini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pacha New York, New-york-city on Sat, 3 Oct 2026.
 
 Nico Bernardini is a house and tech house artist, with 11 gigs on soundcheck across Ibiza, Miami, New York City and Sao Paulo. Often billed alongside BLOND:ISH, VITÉRI and WhoMadeWho. Next up: Pacha New York, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nico Bernardini is a house and tech house artist, with 11 gigs on soundcheck acr
 
 BLOND:ISH, VITÉRI, WhoMadeWho
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobernardini/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobernardini/)*

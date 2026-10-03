@@ -1,6 +1,6 @@
 # Chapter 47
 
-Chapter 47 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
+Chapter 47 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
 
 Chapter 47 is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Istanbul, Liverpool and London and 2 more. Often billed alongside Yaggo, Abel Ramos and Armand Van Helden. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Chapter 47 is a house and tech house artist based in United Kingdom, with 10 gig
 
 Yaggo, Abel Ramos, Armand Van Helden
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chapter47/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chapter47/)*

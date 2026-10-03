@@ -1,6 +1,6 @@
 # CALiACRA
 
-CALiACRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
+CALiACRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
 
 CALiACRA is a techno and trance artist based in Bulgaria, with 34 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Basti Thielburg, PSYCO RYTM and Kollektiv Basszendent. Next up: OXI, Berlin on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ CALiACRA is a techno and trance artist based in Bulgaria, with 34 gigs on soundc
 
 Basti Thielburg, PSYCO RYTM, Kollektiv Basszendent
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caliacra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caliacra/)*

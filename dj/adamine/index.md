@@ -1,6 +1,6 @@
 # adamine
 
-adamine is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Sat, 10 Oct 2026.
+adamine is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stage and Radio, Manchester on Sat, 10 Oct 2026.
 
 adamine is a jungle and drum & bass artist based in United Kingdom, with 13 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Sweetly, Donya B Bass and Hardcore Babes. Next up: Stage and Radio, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ adamine is a jungle and drum & bass artist based in United Kingdom, with 13 gigs
 
 Sweetly, Donya B Bass, Hardcore Babes
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*

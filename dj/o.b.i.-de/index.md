@@ -1,6 +1,6 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gate Milano, Milan on Sat, 3 Oct 2026.
+O.B.I. (DE) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gate Milano, Milan on Sat, 3 Oct 2026.
 
 O.B.I. (DE) is a techno and industrial artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 26 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Gate Milano, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ O.B.I. (DE) is a techno and industrial artist based in Germany, with 70 gigs on 
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

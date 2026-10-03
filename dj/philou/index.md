@@ -1,6 +1,6 @@
 # Philou
 
-Philou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+Philou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 Philou is a house and techno artist based in France, with 52 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Chambord, Daniel Weil and Victoire. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Philou is a house and techno artist based in France, with 52 gigs on soundcheck 
 
 Chambord, Daniel Weil, Victoire
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*

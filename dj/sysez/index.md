@@ -1,6 +1,6 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+Sy Sez is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
 
 Sy Sez is a house and deep house artist based in United Kingdom, with 61 gigs on soundcheck across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and Boon (UK). Next up: 93 Feet East, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sy Sez is a house and deep house artist based in United Kingdom, with 61 gigs on
 
 Neil Pierce, Jeremy Sylvester, Boon (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

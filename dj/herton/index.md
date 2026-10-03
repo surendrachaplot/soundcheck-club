@@ -1,6 +1,6 @@
 # Herton
 
-Herton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Closer, Kyiv on Sat, 10 Oct 2026.
+Herton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Closer, Kyiv on Sat, 10 Oct 2026.
 
 Herton is a techno and house artist based in Belgium, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Initial Code, Sylvie Maziarz and Clara D. Next up: Closer, Kyiv on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Herton is a techno and house artist based in Belgium, with 93 gigs on soundcheck
 
 Initial Code, Sylvie Maziarz, Clara D
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*

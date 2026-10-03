@@ -1,6 +1,6 @@
 # Andy Stroble
 
-Andy Stroble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Andy Stroble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 Andy Stroble is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Chicago. Often billed alongside Duke Shin, Brandon Latta and Lester Fitzpatrick. Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andy Stroble is a techno and house artist based in United States of America, wit
 
 Duke Shin, Brandon Latta, Lester Fitzpatrick
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*

@@ -1,8 +1,8 @@
 # Charles Webster
 
-Charles Webster is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
+Charles Webster is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
 
-Charles Webster is a house and deep house artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Cork, Detroit and London and 5 more. Often billed alongside Paul Nickerson, Alex Dallas and CTRLZORA. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
+Charles Webster is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Alicante, Athens, Cork and Detroit and 6 more. Often billed alongside Paul Nickerson, Alex Dallas and André Lodemann. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Charles Webster is a house and deep house artist based in United Kingdom, with 1
 | Fri, 23 Oct 2026 | Peti Kupe | Zagreb |
 | Sat, 7 Nov 2026 | Movers | Nottingham |
 | Sat, 12 Dec 2026 | Movers | Nottingham |
+| Thu, 27 May 2027 | Hotel Montepiedra | Alicante |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Charles Webster is a house and deep house artist based in United Kingdom, with 1
 
 ## Shares bills with
 
-Paul Nickerson, Alex Dallas, CTRLZORA
+Paul Nickerson, Alex Dallas, André Lodemann
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*

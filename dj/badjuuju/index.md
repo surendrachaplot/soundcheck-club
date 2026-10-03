@@ -1,6 +1,6 @@
 # BAD JUUJU
 
-BAD JUUJU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+BAD JUUJU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 BAD JUUJU is a techno and house artist based in United States of America, with 51 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside Vertigo, CYBER1A and Skiis. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BAD JUUJU is a techno and house artist based in United States of America, with 5
 
 Vertigo, CYBER1A, Skiis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*

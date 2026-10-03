@@ -1,6 +1,6 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
 Gabber Eleganza is a techno and hardcore artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Le Cargö, West on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ Gabber Eleganza is a techno and hardcore artist based in Italy, with 101 gigs on
 
 Anetha, DJ Gigola, 999999999
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

@@ -1,6 +1,6 @@
 # David Berrie
 
-David Berrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
+David Berrie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
 
 David Berrie is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Barcelona, Boston, Chicago and Detroit and 4 more. Often billed alongside CHKLTE, Chuwee and Gian-Paul. Next up: 303 Audiophile Bar, Barcelona on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ David Berrie is a house and techno artist based in United States of America, wit
 
 CHKLTE, Chuwee, Gian-Paul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidberrie/)*

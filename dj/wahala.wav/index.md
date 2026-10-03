@@ -1,6 +1,6 @@
 # wahala.wav
 
-wahala.wav is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
+wahala.wav is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 9 Oct 2026.
 
 wahala.wav is a club and techno artist based in United States of America, with 66 gigs on soundcheck across Detroit and New York City. Often billed alongside Love Higher, sola system and Simisola. Next up: Bossa Nova Civic Club, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ wahala.wav is a club and techno artist based in United States of America, with 6
 
 Love Higher, sola system, Simisola
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wahala.wav/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wahala.wav/)*

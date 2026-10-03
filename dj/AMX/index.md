@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+The AM/AMX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
 The AM/AMX is a techno and house artist based in United States of America, with 85 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside Ash Lauryn, Isaac Prieto and Blackmoonchild. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ The AM/AMX is a techno and house artist based in United States of America, with 
 
 Ash Lauryn, Isaac Prieto, Blackmoonchild
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

@@ -1,14 +1,13 @@
 # Frissón
 
-Frissón is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Frissón Friends Frequencies" on Fri, 2 Oct 2026.
+Frissón is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Frissón Invites Luksek & Cannelle" on Sat, 3 Oct 2026.
 
-Frissón is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including BabyBass, Cannelle and Luksek. See dates, start times and who's playing. Via Alberto da Giussano 37, 00176, Roma (RM), Italy.
+Frissón is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Cannelle and Luksek. See dates, start times and who's playing. Via Alberto da Giussano 37, 00176, Roma (RM), Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Frissón Friends Frequencies | BabyBass |
 | Sat, 3 Oct 2026 | Frissón Invites Luksek & Cannelle | Cannelle, Luksek |
 | Sun, 4 Oct 2026 | Frissón Sunday Brunch with Helen Rafors |  |
 
@@ -16,4 +15,4 @@ Frissón is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with li
 
 Via Alberto da Giussano 37, 00176, Roma (RM), Italy, Rome
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/friss-n/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/friss-n/)*

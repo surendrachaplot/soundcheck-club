@@ -1,6 +1,6 @@
 # Shadesy
 
-Shadesy is a Footwork and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
+Shadesy is a Footwork and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
 
 Shadesy is a footwork and hardcore artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Rory K, P-Hocto and ISORA. Next up: Lost Horizon, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Shadesy is a footwork and hardcore artist based in United Kingdom, with 23 gigs 
 
 Rory K, P-Hocto, ISORA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*

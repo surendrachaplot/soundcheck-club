@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SOUNDCHECK" on Fri, 9 Oct 2026.
+Jade is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SOUNDCHECK" on Fri, 9 Oct 2026.
 
 Jade is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including ALI IRL, CleoTheeDoll, NIGHTVVITCH and Sapphyre and 1 more. See dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -16,4 +16,4 @@ Jade is a music venue in New York City listed on soundcheck. 3 upcoming gigs, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

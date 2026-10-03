@@ -1,6 +1,6 @@
 # bon Ronny
 
-bon Ronny is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
+bon Ronny is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
 
 bon Ronny is a drum & bass and breakbeat artist based in United Kingdom, with 13 gigs on soundcheck across Copenhagen. Often billed alongside Niko Nuevo, Nizzy and Lewis Hunter. Next up: Jolene, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ bon Ronny is a drum & bass and breakbeat artist based in United Kingdom, with 13
 
 Niko Nuevo, Nizzy, Lewis Hunter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonronny/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonronny/)*

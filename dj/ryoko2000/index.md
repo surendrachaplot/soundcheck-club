@@ -1,6 +1,6 @@
 # RYOKO2000
 
-RYOKO2000 is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
+RYOKO2000 is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
 
 RYOKO2000 is a club and pop artist, with 8 gigs on soundcheck across Tokyo. Often billed alongside okadada, NordOst and lilbesh ramko. Next up: Forestlimit, Tokyo on Wed 7 Oct.
 
@@ -24,4 +24,4 @@ RYOKO2000 is a club and pop artist, with 8 gigs on soundcheck across Tokyo. Ofte
 
 okadada, NordOst, lilbesh ramko
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoko2000/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoko2000/)*

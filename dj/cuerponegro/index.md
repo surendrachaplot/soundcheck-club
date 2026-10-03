@@ -1,6 +1,6 @@
 # Cuerpo Negro
 
-Cuerpo Negro is a Latin Bass and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Metro Theatre, Sydney on Sat, 3 Oct 2026.
+Cuerpo Negro is a Latin Bass and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Metro Theatre, Sydney on Sat, 3 Oct 2026.
 
 Cuerpo Negro is a latin bass and electronica artist based in Colombia, with 13 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: The Metro Theatre, Sydney on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Cuerpo Negro is a latin bass and electronica artist based in Colombia, with 13 g
 
 ## Recently played
 
+- Felons Barrel Hall, Brisbane · Fri, 2 Oct 2026
 - Felons Barrel Hall, Brisbane · Fri, 4 Sept 2026
 - Felons Barrel Hall, Brisbane · Thu, 2 Apr 2026
 - Felons Barrel Hall, Brisbane · Fri, 6 Jun 2025
@@ -21,10 +22,9 @@ Cuerpo Negro is a latin bass and electronica artist based in Colombia, with 13 g
 - Felons Barrel Hall, Brisbane · Sat, 9 Nov 2024
 - The Evelyn Hotel, Melbourne · Fri, 8 Nov 2024
 - Killing Time, Melbourne · Fri, 27 Sept 2024
-- Northcote Social Club, Melbourne · Thu, 28 Mar 2024
 
 ## Shares bills with
 
 Otorongo, La Payara, Martha van Straaten
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*

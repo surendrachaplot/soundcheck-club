@@ -1,6 +1,6 @@
 # Kessa
 
-Kessa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
+Kessa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
 
 Kessa is a techno and house artist based in Italy, with 30 gigs on soundcheck across Turin. Often billed alongside Gandalf, Distorted Planet and Polizei. Next up: Q35 WAREHOUSE, Turin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Kessa is a techno and house artist based in Italy, with 30 gigs on soundcheck ac
 
 Gandalf, Distorted Planet, Polizei
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessa/)*

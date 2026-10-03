@@ -1,6 +1,6 @@
 # WITTGENSTEIN
 
-WITTGENSTEIN is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Senatore, Munich on Sat, 3 Oct 2026.
+WITTGENSTEIN is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Senatore, Munich on Sat, 3 Oct 2026.
 
 WITTGENSTEIN is a house and minimal artist based in Germany, with 45 gigs on soundcheck across Bangkok, Munich and Vienna. Often billed alongside Elpe, A-DEE and Gandolph Romeo. Next up: Senatore, Munich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ WITTGENSTEIN is a house and minimal artist based in Germany, with 45 gigs on sou
 
 Elpe, A-DEE, Gandolph Romeo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wittgenstein/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wittgenstein/)*

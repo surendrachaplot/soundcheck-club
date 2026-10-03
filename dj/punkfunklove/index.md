@@ -1,6 +1,6 @@
 # PunkFunkLove
 
-PunkFunkLove is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+PunkFunkLove is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
 PunkFunkLove is a techno and afro house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Jayzo, Gostoso and SHIMMER. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PunkFunkLove is a techno and afro house artist based in Netherlands, with 21 gig
 
 Jayzo, Gostoso, SHIMMER
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*

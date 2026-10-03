@@ -1,6 +1,6 @@
 # Yayoyanoh
 
-Yayoyanoh is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Grey Space In The Middle, The Hague on Sat, 24 Oct 2026.
+Yayoyanoh is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Grey Space In The Middle, The Hague on Sat, 24 Oct 2026.
 
 Yayoyanoh is an experimental and hip-hop artist, with 8 gigs on soundcheck across Berlin, London, The Hague and Warsaw. Often billed alongside Kamixlo, Kelora and Angel Rocket. Next up: The Grey Space In The Middle, The Hague on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Yayoyanoh is an experimental and hip-hop artist, with 8 gigs on soundcheck acros
 
 Kamixlo, Kelora, Angel Rocket
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yayoyanoh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yayoyanoh/)*

@@ -1,6 +1,6 @@
 # Excision
 
-Excision is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Excision is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Excision is a bass and dubstep artist based in Canada, with 14 gigs on soundcheck across Auckland, Austin, Chicago and Jacksonville and 8 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Excision is a bass and dubstep artist based in Canada, with 14 gigs on soundchec
 
 KREAM, Zedd, Cloonee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excision/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excision/)*

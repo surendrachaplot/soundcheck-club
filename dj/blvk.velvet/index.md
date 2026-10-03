@@ -1,15 +1,14 @@
 # blvk.velvet
 
-blvk.velvet is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Sat, 24 Oct 2026.
+blvk.velvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Sat, 24 Oct 2026.
 
-blvk.velvet is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside Dan Chan, MYOHMY and Abbie Morris. Next up: The DBA, Manchester on Sat 24 Oct.
+blvk.velvet is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside Dan Chan, MYOHMY and Abbie Morris. Next up: The DBA, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The DBA | Manchester |
-| Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
 
@@ -25,4 +24,4 @@ blvk.velvet is a house and techno artist based in United Kingdom, with 9 gigs on
 
 Dan Chan, MYOHMY, Abbie Morris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blvk.velvet/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blvk.velvet/)*

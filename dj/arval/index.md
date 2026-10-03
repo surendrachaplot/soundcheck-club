@@ -1,6 +1,6 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Resume Valencia, Valencia on Sat, 3 Oct 2026.
+Arval is a Minimal and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Resume Valencia, Valencia on Sat, 3 Oct 2026.
 
 Arval is a minimal and electronica artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Moruki, Memed Awad and John Hobbs. Next up: Resume Valencia, Valencia on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Arval is a minimal and electronica artist based in Spain, with 35 gigs on soundc
 
 Moruki, Memed Awad, John Hobbs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

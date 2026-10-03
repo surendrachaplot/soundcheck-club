@@ -1,6 +1,6 @@
 # Un Peu
 
-Un Peu is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Minitelle Xeroxe - Votre Chazam" on Sat, 3 Oct 2026.
+Un Peu is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Minitelle Xeroxe - Votre Chazam" on Sat, 3 Oct 2026.
 
 Un Peu is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Un Peu is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Minitelle Xeroxe - Votre Chazam |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/un-peu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/un-peu/)*

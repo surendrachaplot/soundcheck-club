@@ -1,6 +1,6 @@
 # Nave Mãe
 
-Nave Mãe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
+Nave Mãe is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri, 16 Oct 2026.
 
 Nave Mãe is a house and electronica artist based in Portugal, with 27 gigs on soundcheck across New York City, Philadelphia, Porto and Washington DC. Often billed alongside Katarina Especial, Jandro and KayLaSoul. Next up: TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW, Philadelphia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nave Mãe is a house and electronica artist based in Portugal, with 27 gigs on s
 
 Katarina Especial, Jandro, KayLaSoul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navemae/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navemae/)*

@@ -1,6 +1,6 @@
 # Fronsi
 
-Fronsi is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Fronsi is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Fronsi is a trance and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 5 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Fronsi is a trance and techno artist based in Germany, with 23 gigs on soundchec
 
 ## Recently played
 
+- PKH Warehouse, Berlin · Fri, 2 Oct 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
 - Schrotty, Cologne · Fri, 4 Sept 2026
 - Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
@@ -22,10 +23,9 @@ Fronsi is a trance and techno artist based in Germany, with 23 gigs on soundchec
 - OST, Berlin · Fri, 10 Jul 2026
 - Bosc Tancat / Diverbosc, Barcelona · Fri, 19 Jun 2026
 - OST, Berlin · Sat, 2 May 2026
-- DNA Club, Munich · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Amøn, zwilling., DETOXX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*

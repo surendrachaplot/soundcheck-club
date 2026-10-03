@@ -1,6 +1,6 @@
 # Boo
 
-Boo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Planet Wax, London on Sat, 24 Oct 2026.
+Boo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Planet Wax, London on Sat, 24 Oct 2026.
 
 Boo is a techno and trance artist based in United Kingdom, with 38 gigs on soundcheck across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside Mia Lily, Ben Caldwell and Jacklyn. Next up: Planet Wax, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Boo is a techno and trance artist based in United Kingdom, with 38 gigs on sound
 
 Mia Lily, Ben Caldwell, Jacklyn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boo/)*

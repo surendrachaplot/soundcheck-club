@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "GREASE 2nd Anniversary" on Sat, 3 Oct 2026.
+Koara is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "GREASE 2nd Anniversary" on Sat, 3 Oct 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including 3rill, Aoi Kurihara, eurlica and finedining and 2 more. See dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -19,4 +19,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

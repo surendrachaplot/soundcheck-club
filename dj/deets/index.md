@@ -1,6 +1,6 @@
 # Deets
 
-Deets is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at export, Rotterdam on Fri, 16 Oct 2026.
+Deets is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at export, Rotterdam on Fri, 16 Oct 2026.
 
 Deets is a bass and house artist, with 14 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Pariah, TWIENA and Acierate. Next up: export, Rotterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Deets is a bass and house artist, with 14 gigs on soundcheck across Amsterdam, R
 
 Pariah, TWIENA, Acierate
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deets/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deets/)*

@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
+Meg Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
 
 Meg Ward is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Brighton, Bristol, Edinburgh and Ibiza and 5 more. Often billed alongside Harry Gay, Junior Simba and Bklava. Next up: The Tempest Inn, Brighton on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Meg Ward is a house and techno artist based in United Kingdom, with 55 gigs on s
 
 Harry Gay, Junior Simba, Bklava
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

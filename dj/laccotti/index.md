@@ -1,6 +1,6 @@
 # laccotti
 
-laccotti is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+laccotti is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 laccotti is a techno and industrial artist based in Serbia, with 16 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Stameni, ACOR and Asarri. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ laccotti is a techno and industrial artist based in Serbia, with 16 gigs on soun
 
 ## Recently played
 
+- TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Barutana, Belgrade · Fri, 5 Jun 2026
 - Kult, Belgrade · Sat, 30 May 2026
 - Para Klub Beograd, Belgrade · Sun, 24 May 2026
@@ -20,10 +21,9 @@ laccotti is a techno and industrial artist based in Serbia, with 16 gigs on soun
 - Drugstore Beograd, Belgrade · Fri, 6 Feb 2026
 - Drugstore Beograd, Belgrade · Fri, 26 Dec 2025
 - Drugstore Beograd, Belgrade · Fri, 21 Nov 2025
-- Para Klub Beograd, Belgrade · Sun, 16 Nov 2025
 
 ## Shares bills with
 
 Stameni, ACOR, Asarri
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*

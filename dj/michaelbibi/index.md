@@ -1,6 +1,6 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha Ibiza, Ibiza on Thu, 8 Oct 2026.
+Michael Bibi is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pacha Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 Michael Bibi is a tech house and house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Argentina, Bali and Barcelona and 22 more. Often billed alongside Dennis Cruz, PAWSA and CHRIS STASSY. Next up: Pacha Ibiza, Ibiza on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, with 56 g
 
 Dennis Cruz, PAWSA, CHRIS STASSY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

@@ -1,6 +1,6 @@
 # OCASO BARCELONA OPEN AIR at BUS Hexperience
 
-OCASO BARCELONA OPEN AIR at BUS Hexperience on Sun 11 Oct, Barcelona. 2 artists: BECCA SORANA and Cetratelli. House. See the line-up on soundcheck.
+OCASO BARCELONA OPEN AIR at BUS Hexperience on Sun 11 Oct, Barcelona. 1 artist: Cetratelli. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ OCASO BARCELONA OPEN AIR at BUS Hexperience on Sun 11 Oct, Barcelona. 2 artists:
 
 ## Line-up
 
-- BECCA SORANA
 - Cetratelli
 
 *Source: [soundcheck](https://soundcheck.club/e/2551390-ocaso-barcelona-open-air-at-bus-hexperience/)*

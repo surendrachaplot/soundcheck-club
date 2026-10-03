@@ -1,8 +1,8 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BZZBZZ TECHNO X RCL" on Sat, 10 Oct 2026.
+Helios37 is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BZZBZZ TECHNO X RCL" on Sat, 10 Oct 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Backyard Mix, Bensonius, DJ VENUSSS and Esther and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Backyard Mix, Bensonius, DJ VENUSSS and Esther and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | BZZBZZ TECHNO X RCL | Backyard Mix, DJ VENUSSS, HENNESY, SPEEDO (2), Trancestrudel |
 | Fri, 16 Oct 2026 | Ascension with HOTBOI2300, OSKAMAXX, Secret Act, Patrick Schumm at Helios37 | Bensonius, HOTBOI2300, OSKAMAXX, Tristan K (1) |
+| Fri, 23 Oct 2026 | FIEBERTRAUM |  |
 | Sat, 24 Oct 2026 | Helios37 with William Luck & TRÜMMER live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts | Esther, MIXXR, Maeximum, Matthias Olck, Steffi, William Luck |
 | Sat, 31 Oct 2026 | ELECTRONIC HALLOWEEN by Helios37 |  |
 | Fri, 6 Nov 2026 | akt Party | Meg10, no:elia |
@@ -22,4 +23,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

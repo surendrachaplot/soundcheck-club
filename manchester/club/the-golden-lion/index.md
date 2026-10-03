@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem" on Sat, 3 Oct 2026.
+The Golden Lion is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bakey, Chunky, Rufus! @ Golden Lion // Dankashire Soundsystem" on Sat, 3 Oct 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Dallas, Bakey, Bijon and Bill Brewster and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Dallas, Bakey, Balrog and Bijon and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 15 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

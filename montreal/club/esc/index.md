@@ -1,14 +1,13 @@
 # ESC
 
-ESC is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FREE TECHNO: LANORTH" on Fri, 2 Oct 2026.
+ESC is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Pikete x Club Bebe (Van): CUERPOS" on Sat, 3 Oct 2026.
 
-ESC is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Badgalquirit, BADJUDA, BINKY and Brendocha and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
+ESC is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Badgalquirit, BADJUDA, BINKY and Brendocha and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | FREE TECHNO: LANORTH | HUMMER, MPHS, SCHNUBB, ucanquit |
 | Sat, 3 Oct 2026 | Pikete x Club Bebe (Van): CUERPOS | BADJUDA, BINKY, Brendocha, CUERPOS, DJ Punani, La Niña Kiwi, mCherry |
 | Fri, 9 Oct 2026 | 1460BPM x ESC |  |
 | Sat, 10 Oct 2026 | Reclaimed Vessels |  |
@@ -21,4 +20,4 @@ ESC is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with lin
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

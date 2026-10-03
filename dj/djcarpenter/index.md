@@ -1,6 +1,6 @@
 # DJ Carpenter
 
-DJ Carpenter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Thu, 29 Oct 2026.
+DJ Carpenter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Thu, 29 Oct 2026.
 
 DJ Carpenter is a techno and house artist based in Sweden, with 2 gigs on soundcheck across London and Manchester. Often billed alongside Bella Claxton, Clouds and DART. Next up: The Glove That Fits, London on Thu 29 Oct.
 
@@ -15,4 +15,4 @@ DJ Carpenter is a techno and house artist based in Sweden, with 2 gigs on soundc
 
 Bella Claxton, Clouds, DART
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarpenter/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarpenter/)*

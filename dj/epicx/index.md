@@ -1,14 +1,13 @@
 # Epicx
 
-Epicx is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 2 Oct 2026.
+Epicx is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Wed, 7 Oct 2026.
 
-Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Anubix, Emma and DJ Jordan. Next up: Der Weiße Hase, Berlin on Fri 2 Oct.
+Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Anubix, Emma and DJ Jordan. Next up: KitKatClub, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Der Weiße Hase | Berlin |
 | Wed, 7 Oct 2026 | KitKatClub | Berlin |
 | Sat, 24 Oct 2026 | Insomnia | Berlin |
 | Sat, 31 Oct 2026 | Der Weiße Hase | Berlin |
@@ -17,6 +16,7 @@ Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck 
 
 ## Recently played
 
+- Der Weiße Hase, Berlin · Fri, 2 Oct 2026
 - Der Weiße Hase, Berlin · Thu, 24 Sept 2026
 - Insomnia, Berlin · Sat, 12 Sept 2026
 - Der Weiße Hase, Berlin · Sat, 5 Sept 2026
@@ -24,10 +24,9 @@ Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck 
 - Insomnia, Berlin · Sat, 29 Aug 2026
 - Tempelhofer Feld, Berlin · Sat, 29 Aug 2026
 - Der Weiße Hase, Berlin · Thu, 20 Aug 2026
-- The Cloud, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Anubix, Emma (8), DJ Jordan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*

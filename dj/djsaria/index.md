@@ -1,6 +1,6 @@
 # DJ SARIA
 
-DJ SARIA is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
+DJ SARIA is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
 
 DJ SARIA is a hardcore and breakcore artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside D-Luc-D, Aerbreak and JAKAZiD. Next up: The DBA, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ SARIA is a hardcore and breakcore artist based in United Kingdom, with 10 gig
 
 D-Luc-D, Aerbreak, JAKAZiD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaria/)*

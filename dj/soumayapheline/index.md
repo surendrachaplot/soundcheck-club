@@ -1,6 +1,6 @@
 # Soumaya Phéline
 
-Soumaya Phéline is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atelier 210, Brussels on Thu, 12 Nov 2026.
+Soumaya Phéline is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atelier 210, Brussels on Thu, 12 Nov 2026.
 
 Soumaya Phéline is a bass and club artist based in Belgium, with 31 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside Louis Vogue, M I M I and Sixsixsixties. Next up: Atelier 210, Brussels on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Soumaya Phéline is a bass and club artist based in Belgium, with 31 gigs on sou
 
 Louis Vogue, M I M I, Sixsixsixties
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soumayapheline/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soumayapheline/)*

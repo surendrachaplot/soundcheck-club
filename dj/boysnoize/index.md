@@ -1,14 +1,13 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Switch, Porto on Fri, 2 Oct 2026.
+Boys Noize is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 3 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Switch, Porto on Fri 2 Oct.
+Boys Noize is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: The Cause, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Switch | Porto |
 | Sat, 3 Oct 2026 | The Cause | London |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 16 Oct 2026 | Mia Mao | Paris |
@@ -20,9 +19,11 @@ Boys Noize is a techno and house artist based in Germany, with 161 gigs on sound
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
+- Switch, Porto · Fri, 2 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - 888 Garage, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Boys Noize is a techno and house artist based in Germany, with 161 gigs on sound
 - Club Space Miami, Miami · Fri, 11 Sept 2026
 - Avalon Hollywood, Los Angeles · Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
-- Under the K Bridge, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

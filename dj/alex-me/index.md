@@ -1,6 +1,6 @@
 # Al Ex
 
-Al Ex is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
+Al Ex is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
 
 Al Ex is a house and electronica artist based in Montenegro, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside DJ Marta, Da Terror and Frank Trax. Next up: BRET, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Al Ex is a house and electronica artist based in Montenegro, with 21 gigs on sou
 
 DJ Marta, Da Terror, Frank Trax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex-me/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex-me/)*

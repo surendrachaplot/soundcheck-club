@@ -1,6 +1,6 @@
 # Tyler Hill
 
-Tyler Hill is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sat, 3 Oct 2026.
+Tyler Hill is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wiggle Room, Toronto on Sat, 3 Oct 2026.
 
 Tyler Hill is a tech house and house artist based in Canada, with 133 gigs on soundcheck across Montreal and Toronto. Often billed alongside Barroness, TAKiN and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Tyler Hill is a tech house and house artist based in Canada, with 133 gigs on so
 
 Barroness, TAKiN, Manzone & Strong
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerhill/)*

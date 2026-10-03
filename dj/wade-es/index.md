@@ -1,6 +1,6 @@
 # Wade
 
-Wade is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 3 Oct 2026.
+Wade is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 3 Oct 2026.
 
 Wade is a tech house and house artist based in Spain, with 105 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 32 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Óbuda Bay, Budapest on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Wade is a tech house and house artist based in Spain, with 105 gigs on soundchec
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

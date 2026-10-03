@@ -1,6 +1,6 @@
 # Maryolkah
 
-Maryolkah is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
+Maryolkah is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
 
 Maryolkah is a trance and gabber artist based in Poland, with 9 gigs on soundcheck across Krakow, London, Prague and Warsaw and 1 more. Often billed alongside acheless, HOELA$ and core-d. Next up: Ciało, Wroclaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Maryolkah is a trance and gabber artist based in Poland, with 9 gigs on soundche
 
 acheless, HOELA$, core-d
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolkah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolkah/)*

@@ -1,6 +1,6 @@
 # The Chainsmokers
 
-The Chainsmokers is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 600 Pennsylvania Ave NW, Washington DC on Sat, 24 Oct 2026.
+The Chainsmokers is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 600 Pennsylvania Ave NW, Washington DC on Sat, 24 Oct 2026.
 
 The Chainsmokers is a house and bass artist based in United States of America, with 21 gigs on soundcheck across Arizona, Austin, Bali and Brisbane and 11 more. Often billed alongside Alesso, Gryffin and Tiesto. Next up: 600 Pennsylvania Ave NW, Washington DC on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ The Chainsmokers is a house and bass artist based in United States of America, w
 
 Alesso, Gryffin, Tiesto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*

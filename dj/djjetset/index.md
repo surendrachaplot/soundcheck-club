@@ -1,6 +1,6 @@
 # DJ Jetset
 
-DJ Jetset is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
+DJ Jetset is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
 
 DJ Jetset is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Zukunftsfritze, MILANCHOLIE and senaitstar. Next up: Cassiopeia, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Jetset is a trance and techno artist based in Germany, with 14 gigs on soundc
 
 Zukunftsfritze, MILANCHOLIE, senaitstar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetset/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjetset/)*

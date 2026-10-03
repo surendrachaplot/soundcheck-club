@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Sidney Charles is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Sidney Charles is a house and tech house artist based in Germany, with 222 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist based in Germany, with 222 gigs 
 
 Prunk, ALISHA, Gaskin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

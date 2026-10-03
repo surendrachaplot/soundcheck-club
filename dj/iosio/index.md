@@ -1,6 +1,6 @@
 # IOSIO
 
-IOSIO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 4 Oct 2026.
+IOSIO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 4 Oct 2026.
 
 IOSIO is a techno and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 8 more. Often billed alongside Cynthia Spiering, BØĘRY and THISO. Next up: Thuishaven, Amsterdam on Sun 4 Oct.
 
@@ -32,4 +32,4 @@ IOSIO is a techno and house artist based in Netherlands, with 36 gigs on soundch
 
 Cynthia Spiering, BØĘRY, THISO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

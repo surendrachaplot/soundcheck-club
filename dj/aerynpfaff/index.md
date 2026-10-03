@@ -1,6 +1,6 @@
 # Aeryn Pfaff
 
-Aeryn Pfaff is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Complex 19, Ontario on Sat, 10 Oct 2026.
+Aeryn Pfaff is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Complex 19, Ontario on Sat, 10 Oct 2026.
 
 Aeryn Pfaff is a house and techno artist, with 19 gigs on soundcheck across Ontario and Toronto. Often billed alongside DJ CISWOMAN, GRRLCRRSH and myst milano.. Next up: Complex 19, Ontario on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aeryn Pfaff is a house and techno artist, with 19 gigs on soundcheck across Onta
 
 DJ CISWOMAN, GRRLCRRSH, myst milano.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerynpfaff/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerynpfaff/)*

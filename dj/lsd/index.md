@@ -1,0 +1,25 @@
+# LSD
+
+LSD is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
+
+LSD is a techno and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Athens, Berlin and London and 1 more. Often billed alongside Ben UFO, Beste Hira and Blasha & Allatt. Next up: E1, London on Sat 7 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 7 Nov 2026 | E1 | London |
+
+## Recently played
+
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
+- KitKatClub, Berlin · Fri, 20 Mar 2026
+- Astron Club, Athens · Sat, 14 Dec 2024
+- TBA - Rue des Champs, 77120 Beautheil-Saints, Paris · Fri, 1 Sept 2023
+
+## Shares bills with
+
+Ben UFO, Beste Hira, Blasha & Allatt
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsd/)*

@@ -1,6 +1,6 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Tromac is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Tromac is a club and ghetto tech artist based in United States of America, with 107 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 8 more. Often billed alongside DJ-SUN, flotussin and shekdash. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
 - Jupiter Disco, New York City · Fri, 11 Sept 2026
 - Eden NYC, New York City · Sun, 6 Sept 2026
 - Paragon, New York City · Sat, 22 Aug 2026
@@ -22,10 +23,9 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 - Jupiter Disco, New York City · Sat, 15 Aug 2026
 - TBA, Montreal · Fri, 31 Jul 2026
 - Jupiter Disco, New York City · Thu, 30 Jul 2026
-- smartbar, Chicago · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 DJ-SUN, flotussin, shekdash
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

@@ -1,6 +1,6 @@
 # TBA - THE TEMPLE
 
-TBA - THE TEMPLE is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "GEARBOX X RECKLESS RAVES: THE TEMPLE 008" on Sat, 28 Nov 2026.
+TBA - THE TEMPLE is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "GEARBOX X RECKLESS RAVES: THE TEMPLE 008" on Sat, 28 Nov 2026.
 
 TBA - THE TEMPLE is a music venue in Belfast listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - THE TEMPLE is a music venue in Belfast listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | GEARBOX X RECKLESS RAVES: THE TEMPLE 008 |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/tba-the-temple/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/tba-the-temple/)*

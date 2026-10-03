@@ -1,6 +1,6 @@
 # Kesia (BR)
 
-Kesia (BR) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Sun, 4 Oct 2026.
+Kesia (BR) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sun, 4 Oct 2026.
 
 Kesia (BR) is a tech house and techno artist based in Brazil, with 24 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 6 more. Often billed alongside Chelina Manuhutu, Andrea Oliva and Bassel Darwish. Next up: fabric, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Kesia (BR) is a tech house and techno artist based in Brazil, with 24 gigs on so
 
 Chelina Manuhutu, Andrea Oliva, Bassel Darwish
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesia-br/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesia-br/)*

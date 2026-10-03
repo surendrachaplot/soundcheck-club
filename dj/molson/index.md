@@ -1,6 +1,6 @@
 # Molson
 
-Molson is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 9 Oct 2026.
+Molson is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 9 Oct 2026.
 
 Molson is a house and bass artist, with 16 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Saigön, Edvvin and vagt. Next up: MONKEY LOVE, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Molson is a house and bass artist, with 16 gigs on soundcheck across Krakow and 
 
 Saigön, Edvvin, vagt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molson/)*

@@ -1,6 +1,6 @@
 # Pascal Moscheni
 
-Pascal Moscheni is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Pascal Moscheni is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
 Pascal Moscheni is a house and electronica artist based in Spain, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 18 more. Often billed alongside Simone de Kunovich, Dante (H501) and Pancratio. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Pascal Moscheni is a house and electronica artist based in Spain, with 76 gigs o
 
 Simone de Kunovich, Dante (H501), Pancratio
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmoscheni/)*

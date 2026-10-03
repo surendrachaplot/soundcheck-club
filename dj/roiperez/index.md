@@ -1,20 +1,20 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Burger Disco Club, Athens on Fri, 2 Oct 2026.
+Roi Perez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Roi Perez is a house and techno artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Burger Disco Club, Athens on Fri 2 Oct.
+Roi Perez is a house and techno artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Burger Disco Club | Athens |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
 
+- Burger Disco Club, Athens · Fri, 2 Oct 2026
 - Phonox, London · Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 11 Sept 2026
 - DC-10, Ibiza · Mon, 7 Sept 2026
@@ -22,10 +22,9 @@ Roi Perez is a house and techno artist based in Germany, with 223 gigs on soundc
 - Village Studios, Vancouver · Sat, 1 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 25 Jul 2026
 - Studio Club Malaga, Malaga · Sat, 25 Jul 2026
-- Neue Nationalgalerie, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

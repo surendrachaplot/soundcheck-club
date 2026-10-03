@@ -1,6 +1,6 @@
 # KONA (2)
 
-KONA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+KONA (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
 KONA is a house and techno artist based in South Korea, with 23 gigs on soundcheck across Marseille and Seoul. Often billed alongside Lyumin, E3 and Riskii. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ KONA is a house and techno artist based in South Korea, with 23 gigs on soundche
 
 Lyumin, E3, Riskii (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kona-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kona-2/)*

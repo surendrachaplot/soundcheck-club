@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Concrete Jungle: 4th Party" on Sat, 3 Oct 2026.
+Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Concrete Jungle: 4th Party" on Sat, 3 Oct 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including 2NOWAVE, DDD, HWNKYO and konbu and 2 more. See dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

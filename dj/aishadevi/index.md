@@ -1,6 +1,6 @@
 # Aïsha Devi
 
-Aïsha Devi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Sat, 10 Oct 2026.
+Aïsha Devi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Sat, 10 Oct 2026.
 
 Aïsha Devi is an experimental and techno artist, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside ojoo, Slikback and aya. Next up: Paavli Kultuurivabrik, Tallinn on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Aïsha Devi is an experimental and techno artist, with 32 gigs on soundcheck acr
 
 ojoo, Slikback, aya
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aishadevi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aishadevi/)*

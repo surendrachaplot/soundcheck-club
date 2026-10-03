@@ -1,6 +1,6 @@
 # Eugenia
 
-Eugenia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Eugenia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
 
 Eugenia is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Boston, Los Angeles, Montreal and New York City. Often billed alongside como se DJ, Samwise (US) and DJ G.. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Eugenia is a techno and house artist based in United States of America, with 16 
 
 como se DJ, Samwise (US), DJ G.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eugenia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eugenia/)*

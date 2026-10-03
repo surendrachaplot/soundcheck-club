@@ -1,6 +1,6 @@
 # Shcuro
 
-Shcuro is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
+Shcuro is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
 
 Shcuro is a techno and breakbeat artist, with 33 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Maria Amor, Chima Isaaro and Yen Sung. Next up: Ministerium Club, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shcuro is a techno and breakbeat artist, with 33 gigs on soundcheck across Lisbo
 
 Maria Amor, Chima Isaaro, Yen Sung
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shcuro-pt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shcuro-pt/)*

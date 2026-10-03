@@ -1,6 +1,6 @@
 # Spartaque
 
-Spartaque is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+Spartaque is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
 Spartaque is a techno and tech house artist based in Ukraine, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 20 more. Often billed alongside Ramiro Lopez, Klaudia Gawlas and SOLE LLORENTE. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Spartaque is a techno and tech house artist based in Ukraine, with 59 gigs on so
 
 Ramiro Lopez, Klaudia Gawlas, SOLE LLORENTE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spartaque/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spartaque/)*

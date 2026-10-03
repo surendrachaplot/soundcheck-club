@@ -1,6 +1,6 @@
 # Chiedza
 
-Chiedza is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Strange Brew, Bristol on Sat, 24 Oct 2026.
+Chiedza is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Strange Brew, Bristol on Sat, 24 Oct 2026.
 
 Chiedza is a garage and house artist based in South Africa, with 31 gigs on soundcheck across Bristol. Often billed alongside DJ Stolen, Josephine Gyasi and Azumei. Next up: Strange Brew, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chiedza is a garage and house artist based in South Africa, with 31 gigs on soun
 
 DJ Stolen, Josephine Gyasi, Azumei
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiedza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiedza/)*

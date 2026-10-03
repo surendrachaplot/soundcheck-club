@@ -1,6 +1,6 @@
 # Violently Happy
 
-Violently Happy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
+Violently Happy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
 
 Violently Happy is a house and techno artist based in Belgium, with 46 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Fais Le Beau, Lola Haro and Sixsixsixties. Next up: Funke, Ghent on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Violently Happy is a house and techno artist based in Belgium, with 46 gigs on s
 
 Fais Le Beau, Lola Haro, Sixsixsixties
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*

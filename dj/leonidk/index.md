@@ -1,6 +1,6 @@
 # Leonid K
 
-Leonid K is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Leonid K is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Leonid K is a progressive house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Simon Shehata, Alythia Kwan and Arterapsy. Next up: Basing House, London on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Leonid K is a progressive house and deep house artist based in United Kingdom, w
 
 Simon Shehata, Alythia Kwan, Arterapsy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*

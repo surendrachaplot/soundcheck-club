@@ -1,6 +1,6 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Golden Era Rave at Camille's" on Fri, 9 Oct 2026.
+The Bellwether is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Golden Era Rave at Camille's" on Fri, 9 Oct 2026.
 
 The Bellwether is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Colloboh, Parra for Cuva and Wuki. See dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
@@ -19,4 +19,4 @@ The Bellwether is a music venue in Los Angeles listed on soundcheck. 6 upcoming 
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

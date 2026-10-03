@@ -1,6 +1,6 @@
 # Or'l
 
-Or'l is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
+Or'l is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
 
 Or'l is a house and techno artist based in France, with 37 gigs on soundcheck across Nantes and Paris. Often billed alongside Paulette Sauvage, Tina Tornade and mystery kid. Next up: Stereolux, Nantes on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Or'l is a house and techno artist based in France, with 37 gigs on soundcheck ac
 
 Paulette Sauvage, Tina Tornade, mystery kid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orl/)*

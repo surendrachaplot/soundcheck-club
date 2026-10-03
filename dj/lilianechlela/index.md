@@ -1,6 +1,6 @@
 # Liliane Chlela
 
-Liliane Chlela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 9 Oct 2026.
+Liliane Chlela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 9 Oct 2026.
 
 Liliane Chlela is a techno and house artist based in Lebanon, with 17 gigs on soundcheck across Amsterdam, Berlin, Lyon and Montreal and 3 more. Often billed alongside 3Phaz, Ayesha and Deena Abdelwahed. Next up: Société des arts technologiques, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Liliane Chlela is a techno and house artist based in Lebanon, with 17 gigs on so
 
 3Phaz, Ayesha, Deena Abdelwahed
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianechlela/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianechlela/)*

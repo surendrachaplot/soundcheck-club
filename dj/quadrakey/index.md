@@ -1,6 +1,6 @@
 # Quadrakey
 
-Quadrakey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Quadrakey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Quadrakey is a house and disco artist based in Germany, with 53 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Luca Olivotto, Eva Crystaltips and Nephews. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Quadrakey is a house and disco artist based in Germany, with 53 gigs on soundche
 
 Luca Olivotto, Eva Crystaltips, Nephews
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quadrakey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quadrakey/)*

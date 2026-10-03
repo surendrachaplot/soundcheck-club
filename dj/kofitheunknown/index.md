@@ -1,6 +1,6 @@
 # Kofi the Unknown
 
-Kofi the Unknown is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Toffler, Rotterdam on Sat, 24 Oct 2026.
+Kofi the Unknown is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Toffler, Rotterdam on Sat, 24 Oct 2026.
 
 Kofi the Unknown is a deep house and disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Bristol and Rotterdam. Often billed alongside Lucas Benjamin, Chess and Chezz. Next up: Toffler, Rotterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Kofi the Unknown is a deep house and disco artist based in Netherlands, with 7 g
 
 Lucas Benjamin, Chess, Chezz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofitheunknown/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofitheunknown/)*

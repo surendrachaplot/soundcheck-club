@@ -1,6 +1,6 @@
 # Et Al (1)
 
-Et Al (1) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+Et Al (1) is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
 Et Al is a techno and garage artist based in United Kingdom, with 45 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Leeds and 1 more. Often billed alongside Josh Buchanan, REYKA and J Wax. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Et Al is a techno and garage artist based in United Kingdom, with 45 gigs on sou
 
 Josh Buchanan, REYKA, J Wax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etal-1/)*

@@ -1,6 +1,6 @@
 # Introversion
 
-Introversion is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Introversion is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
 Introversion is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Introversion is a techno and house artist based in Germany, with 47 gigs on soun
 
 Sylvie Maziarz, 1luu, Afem Syko
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*

@@ -1,6 +1,6 @@
 # Henry C
 
-Henry C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
+Henry C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
 
 Henry C is a techno and house artist, with 16 gigs on soundcheck across Vancouver. Often billed alongside Jay Di, Edgar Cal and Marist. Next up: 1201 Franklin St, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Henry C is a techno and house artist, with 16 gigs on soundcheck across Vancouve
 
 Jay Di, Edgar Cal, Marist
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henryc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henryc/)*

@@ -1,6 +1,6 @@
 # The Sheen Resistance
 
-The Sheen Resistance is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Social, London on Sat, 17 Oct 2026.
+The Sheen Resistance is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Social, London on Sat, 17 Oct 2026.
 
 The Sheen Resistance is a disco and funk / soul artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Jason Regan. Next up: The Social, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ The Sheen Resistance is a disco and funk / soul artist based in United Kingdom, 
 
 Jason Regan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesheenresistance-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesheenresistance-uk/)*

@@ -1,6 +1,6 @@
 # Atlantis Club
 
-Atlantis Club is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Kino im Atlantis" on Tue, 20 Oct 2026.
+Atlantis Club is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Kino im Atlantis" on Tue, 20 Oct 2026.
 
 Atlantis Club is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Klosterberg 13; 4051, Basel; Switzerland.
 
@@ -14,4 +14,4 @@ Atlantis Club is a music venue in Basel listed on soundcheck. 1 upcoming gig. Se
 
 Klosterberg 13; 4051, Basel; Switzerland, Basel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/atlantis-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/atlantis-club/)*

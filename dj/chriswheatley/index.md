@@ -1,6 +1,6 @@
 # Chris Wheatley
 
-Chris Wheatley is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafe De Duivel, Amsterdam on Fri, 23 Oct 2026.
+Chris Wheatley is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafe De Duivel, Amsterdam on Fri, 23 Oct 2026.
 
 Chris Wheatley is a disco and house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Rob Coley, LEV (UK) and OriaBela. Next up: Cafe De Duivel, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Chris Wheatley is a disco and house artist based in United Kingdom, with 24 gigs
 
 Rob Coley, LEV (UK), OriaBela
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*

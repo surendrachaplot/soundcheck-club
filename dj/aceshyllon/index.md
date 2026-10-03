@@ -1,6 +1,6 @@
 # Ace Shyllon
 
-Ace Shyllon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
+Ace Shyllon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - VARIOUS, Malta on Thu, 16 Sept 2027.
 
 Ace Shyllon is a house and deep house artist based in United Kingdom, with 14 gigs on soundcheck across London and Malta. Often billed alongside VIBRANT C, Booker T and Lil Meesh. Next up: TBA - VARIOUS, Malta on Thu 16 Sept.
 
@@ -25,4 +25,4 @@ Ace Shyllon is a house and deep house artist based in United Kingdom, with 14 gi
 
 VIBRANT C, Booker T, Lil Meesh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aceshyllon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aceshyllon/)*

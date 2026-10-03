@@ -1,6 +1,6 @@
 # Phamstar
 
-Phamstar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Otherworld, Austin on Fri, 9 Oct 2026.
+Phamstar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Otherworld, Austin on Fri, 9 Oct 2026.
 
 Phamstar is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Austin. Often billed alongside Daniel Allen, Bonnie Stoneman and Knos. Next up: Otherworld, Austin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Phamstar is a house and techno artist based in United States of America, with 11
 
 Daniel Allen, Bonnie Stoneman, Knos
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phamstar/)*

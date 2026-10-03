@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "A:M After Hours" on Sat, 3 Oct 2026.
+Fire is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "A:M After Hours" on Sat, 3 Oct 2026.
 
 Fire is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Fabio Luigi and Stu From Somewhere. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -23,4 +23,4 @@ Fire is a music venue in London listed on soundcheck. 13 upcoming gigs, with lin
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

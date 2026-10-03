@@ -1,14 +1,13 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TivoliVredenburg, Utrecht on Fri, 2 Oct 2026.
+BOVSKI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MÄX, Zurich on Fri, 9 Oct 2026.
 
-BOVSKI is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Dublin and Düsseldorf and 9 more. Often billed alongside A.N.I., Johannes Schuster and Charleen Herzig. Next up: TivoliVredenburg, Utrecht on Fri 2 Oct.
+BOVSKI is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Dublin and Düsseldorf and 9 more. Often billed alongside A.N.I., Johannes Schuster and Charleen Herzig. Next up: MÄX, Zurich on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TivoliVredenburg | Utrecht |
 | Fri, 9 Oct 2026 | MÄX | Zurich |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
@@ -16,6 +15,7 @@ BOVSKI is a techno and house artist based in Germany, with 20 gigs on soundcheck
 
 ## Recently played
 
+- TivoliVredenburg, Utrecht · Fri, 2 Oct 2026
 - Wigwam, Dublin · Fri, 11 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
@@ -23,10 +23,9 @@ BOVSKI is a techno and house artist based in Germany, with 20 gigs on soundcheck
 - Eden, Ibiza · Mon, 27 Jul 2026
 - Donauinsel, Vienna · Fri, 3 Jul 2026
 - TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg · Sat, 6 Jun 2026
-- Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 A.N.I., Johannes Schuster, Charleen Herzig
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

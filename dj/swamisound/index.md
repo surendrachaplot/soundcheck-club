@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barn Radio, Portland on Sat, 3 Oct 2026.
+Swami Sound is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Barn Radio, Portland on Sat, 3 Oct 2026.
 
 Swami Sound is a garage and house artist based in United States of America, with 106 gigs on soundcheck across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Barn Radio, Portland on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Swami Sound is a garage and house artist based in United States of America, with
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

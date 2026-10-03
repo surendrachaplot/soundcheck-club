@@ -1,6 +1,6 @@
 # Taylor Torrence
 
-Taylor Torrence is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Taylor Torrence is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Taylor Torrence is a techno and trance artist based in United States of America, with 9 gigs on soundcheck across Detroit, Los Angeles, Medellin and San Francisco/Oakland and 2 more. Often billed alongside Billy Gillies, Amy Wiles and Armin van Buuren. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Taylor Torrence is a techno and trance artist based in United States of America,
 
 Billy Gillies, Amy Wiles, Armin van Buuren
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortorrence/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortorrence/)*

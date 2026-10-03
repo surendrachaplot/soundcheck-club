@@ -1,6 +1,6 @@
 # TBA - Secret Location, Bed Stuy
 
-TBA - Secret Location, Bed Stuy is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Papaya Papaya Mamão" on Sat, 3 Oct 2026.
+TBA - Secret Location, Bed Stuy is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Papaya Papaya Mamão" on Sat, 3 Oct 2026.
 
 TBA - Secret Location, Bed Stuy is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including FEDRA., FUGE, Matük and Siete Catorce. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location, Bed Stuy is a music venue in New York City listed on soun
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Papaya Papaya Mamão | FEDRA., FUGE, Matük, Siete Catorce |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-location-bed-stuy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-location-bed-stuy/)*

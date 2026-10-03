@@ -1,6 +1,6 @@
 # Cutting Room
 
-Cutting Room is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Cutting Room is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Cutting Room is an experimental and electronica artist based in Australia, with 8 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Grids, Harold and Kavil. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Cutting Room is an experimental and electronica artist based in Australia, with 
 
 Grids, Harold, Kavil
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttingroom/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuttingroom/)*

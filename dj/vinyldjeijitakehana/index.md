@@ -1,14 +1,13 @@
 # vinylDJ Eiji Takehana
 
-vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Shibuya Club Ball, Tokyo on Sat, 3 Oct 2026.
+vinylDJ Eiji Takehana is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Shibuya OTO, Tokyo on Sat, 10 Oct 2026.
 
-vinylDJ Eiji Takehana is a drum & bass and jungle artist based in Japan, with 150 gigs on soundcheck across Tokyo. Often billed alongside Kenta Tominaga, Hironobu Jyounai and Yuta Takahashi. Next up: Shibuya Club Ball, Tokyo on Sat 3 Oct.
+vinylDJ Eiji Takehana is a drum & bass and jungle artist based in Japan, with 150 gigs on soundcheck across Tokyo. Often billed alongside Kenta Tominaga, Hironobu Jyounai and Yuta Takahashi. Next up: Shibuya OTO, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Shibuya Club Ball | Tokyo |
 | Sat, 10 Oct 2026 | Shibuya OTO | Tokyo |
 | Sat, 10 Oct 2026 | Dogenzaka Church | Tokyo |
 | Fri, 23 Oct 2026 | Aoyama Hachi | Tokyo |
@@ -33,4 +32,4 @@ vinylDJ Eiji Takehana is a drum & bass and jungle artist based in Japan, with 15
 
 Kenta Tominaga, Hironobu Jyounai, Yuta Takahashi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldjeijitakehana/)*

@@ -1,6 +1,6 @@
 # Joe Rosh
 
-Joe Rosh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Arsenale Cenci, Rome on Sat, 10 Oct 2026.
+Joe Rosh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Arsenale Cenci, Rome on Sat, 10 Oct 2026.
 
 Joe Rosh is a techno and house artist, with 35 gigs on soundcheck across Berlin, London, Milan and Naples and 2 more. Often billed alongside Kodacci, San Nicola and Mehmet Alpdogan. Next up: TBA - Arsenale Cenci, Rome on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Joe Rosh is a techno and house artist, with 35 gigs on soundcheck across Berlin,
 
 Kodacci, San Nicola, Mehmet Alpdogan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerosh/)*

@@ -1,6 +1,6 @@
 # GVZ (1)
 
-GVZ (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
+GVZ (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
 
 GVZ is a techno and house artist based in Malta, with 13 gigs on soundcheck across Malta. Often billed alongside Razz (MT), YAZMIN (MT) and Bane.. Next up: Liquid Club, Malta on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GVZ is a techno and house artist based in Malta, with 13 gigs on soundcheck acro
 
 Razz (MT), YAZMIN (MT), Bane.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gvz-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gvz-1/)*

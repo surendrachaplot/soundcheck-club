@@ -1,15 +1,13 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DJ EZ" on Fri, 2 Oct 2026.
+NX Newcastle is a music venue in Newcastle with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Second Speed: Black Traffic & Veseli" on Sat, 3 Oct 2026.
 
-NX Newcastle is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, with line-ups including Arthi, Azyr, Bella Claxton and Ben Prophet and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
+NX Newcastle is a music venue in Newcastle listed on soundcheck. 16 upcoming gigs, with line-ups including Azyr, Bella Claxton, Ben Prophet and Black Traffic and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | DJ EZ | Arthi, DJ EZ, Diffrent, Fonzo (UK) |
-| Fri, 2 Oct 2026 | DJ EZ | Arthi, DJ EZ, Diffrent, Fonzo (UK), ryota dj |
 | Sat, 3 Oct 2026 | Second Speed: Black Traffic & Veseli | Black Traffic |
 | Fri, 16 Oct 2026 | Modern Funktion | Boss Priester, Jamback, Job de Jong, Saoirse |
 | Sat, 17 Oct 2026 | Skin On Skin | Bella Claxton, Ben Prophet, Faster Horses, Skin On Skin |
@@ -18,9 +16,11 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 17 upcoming gig
 | Thu, 29 Oct 2026 | Project Halloween |  |
 | Sat, 31 Oct 2026 | Enzo Siragusa, Dr Banana, bullet tooth, PACH., LILI | Dr Banana, Enzo Siragusa, LILI, PACH, bullet tooth |
 | Sat, 7 Nov 2026 | Azyr b2b Partiboi69 | Azyr, Partiboi69 |
+| Fri, 13 Nov 2026 | East End Dubs | East End Dubs, Kitty Hall, Wildish |
+| Sat, 21 Nov 2026 | Interplanetary Criminal | Interplanetary Criminal, La La, Lauren Lo Sung, Milion |
 
 ## Address
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

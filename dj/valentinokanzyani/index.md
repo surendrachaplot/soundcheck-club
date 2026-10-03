@@ -1,6 +1,6 @@
 # Valentino Kanzyani
 
-Valentino Kanzyani is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Valentino Kanzyani is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 Valentino Kanzyani is a house and minimal artist based in Slovenia, with 12 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bucharest and 5 more. Often billed alongside Shakèd, Aamir and Adnan Sharif. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Valentino Kanzyani is a house and minimal artist based in Slovenia, with 12 gigs
 
 Shakèd, Aamir, Adnan Sharif
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinokanzyani/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinokanzyani/)*

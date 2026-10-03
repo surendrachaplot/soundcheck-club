@@ -1,6 +1,6 @@
 # SIMEONSKG
 
-SIMEONSKG is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ypsilon, Thessaloniki on Sat, 10 Oct 2026.
+SIMEONSKG is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ypsilon, Thessaloniki on Sat, 10 Oct 2026.
 
 SIMEONSKG is an electronic artist based in Greece, with 8 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside The Dreamer, Bill Sanders and ClubKid. Next up: Ypsilon, Thessaloniki on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ SIMEONSKG is an electronic artist based in Greece, with 8 gigs on soundcheck acr
 
 The Dreamer, Bill Sanders, ClubKid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simeonskg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simeonskg/)*

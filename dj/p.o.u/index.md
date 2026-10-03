@@ -1,6 +1,6 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+P.O.U is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
 P.O.U is a techno and tech house artist based in Ireland, with 29 gigs on soundcheck across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Leena Punks. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ P.O.U is a techno and tech house artist based in Ireland, with 29 gigs on soundc
 
 Ginchy, Desyfer, Leena Punks
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

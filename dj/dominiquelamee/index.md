@@ -1,6 +1,6 @@
 # Dominique Lamee
 
-Dominique Lamee is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+Dominique Lamee is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 Dominique Lamee is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Barcelona, Berlin, Budapest and Cologne and 10 more. Often billed alongside HNAS, Kø:lab and KLING&KLANG. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Dominique Lamee is a techno and trance artist based in Germany, with 68 gigs on 
 
 HNAS, Kø:lab, KLING&KLANG
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquelamee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquelamee/)*

@@ -1,6 +1,6 @@
 # Megaira
 
-Megaira is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
+Megaira is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
 
 Megaira is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside alemiko, 1luu and Aexhy. Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Megaira is a trance and techno artist based in Germany, with 7 gigs on soundchec
 
 alemiko, 1luu, Aexhy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megaira/)*

@@ -1,6 +1,6 @@
 # Tarik
 
-Tarik is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ijver, Amsterdam on Thu, 22 Oct 2026.
+Tarik is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ijver, Amsterdam on Thu, 22 Oct 2026.
 
 Tarik is a house and electronica artist based in Brazil, with 12 gigs on soundcheck across Amsterdam, Basel, Istanbul and Lisbon and 1 more. Often billed alongside BUSSI, Boxer and Diffrent. Next up: Ijver, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Tarik is a house and electronica artist based in Brazil, with 12 gigs on soundch
 
 BUSSI, Boxer, Diffrent
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarik/)*

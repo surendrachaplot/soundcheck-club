@@ -1,6 +1,6 @@
 # Sonia Calico
 
-Sonia Calico is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
+Sonia Calico is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
 
 Sonia Calico is a techno and ambient artist based in Taiwan, with 12 gigs on soundcheck across Bangkok, Barcelona, London and Lyon and 4 more. Often billed alongside Baalti, Sabiwa and Scintii. Next up: Replika Teatro, Madrid on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sonia Calico is a techno and ambient artist based in Taiwan, with 12 gigs on sou
 
 Baalti, Sabiwa, Scintii
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniacalico/)*

@@ -1,6 +1,6 @@
 # Cosmic Arts
 
-Cosmic Arts is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dreamons: Scorpio" on Sat, 24 Oct 2026.
+Cosmic Arts is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dreamons: Scorpio" on Sat, 24 Oct 2026.
 
 Cosmic Arts is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Joe Claussell and Paul Nickerson. See dates, start times and who's playing. 56 Bogart Street, Gallery #1J Brooklyn, NY 11206.
 
@@ -14,4 +14,4 @@ Cosmic Arts is a music venue in New York City listed on soundcheck. 1 upcoming g
 
 56 Bogart Street, Gallery #1J Brooklyn, NY 11206, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/cosmic-arts/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/cosmic-arts/)*

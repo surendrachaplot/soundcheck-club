@@ -1,6 +1,6 @@
 # Taelyn
 
-Taelyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
+Taelyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
 
 Taelyn is a house and techno artist based in South Korea, with 75 gigs on soundcheck across Seoul. Often billed alongside Juncheol, Sunday Lee and Chae. Next up: The Edge Seoul, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Taelyn is a house and techno artist based in South Korea, with 75 gigs on soundc
 
 Juncheol, Sunday Lee, Chae
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taelyn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taelyn/)*

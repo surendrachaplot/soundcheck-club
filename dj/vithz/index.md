@@ -1,6 +1,6 @@
 # Vithz
 
-Vithz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Vithz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
 Vithz is a house and techno artist based in Italy, with 116 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Kenia, Lele Sacchi and Black Loops. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Vithz is a house and techno artist based in Italy, with 116 gigs on soundcheck a
 
 Kenia, Lele Sacchi, Black Loops
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*

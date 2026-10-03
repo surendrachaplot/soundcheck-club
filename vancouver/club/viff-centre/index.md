@@ -1,18 +1,17 @@
 # Viff Centre
 
-Viff Centre is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Last Angel of History" on Fri, 2 Oct 2026.
+Viff Centre is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "The KLF: 23 Seconds to Eternity" on Sat, 3 Oct 2026.
 
-Viff Centre is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including CHXMERAS and Speaker Music. See dates, start times and who's playing. 1181 Seymour St..
+Viff Centre is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including CHXMERAS. See dates, start times and who's playing. 1181 Seymour St..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Last Angel of History | Speaker Music |
 | Sat, 3 Oct 2026 | The KLF: 23 Seconds to Eternity | CHXMERAS |
 
 ## Address
 
 1181 Seymour St., Vancouver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/viff-centre/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/viff-centre/)*

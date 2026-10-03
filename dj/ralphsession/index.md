@@ -1,6 +1,6 @@
 # Ralph Session
 
-Ralph Session is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Sat, 10 Oct 2026.
+Ralph Session is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Sat, 10 Oct 2026.
 
 Ralph Session is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Barcelona, Detroit, Madrid and New York City and 2 more. Often billed alongside Aiby, Funk D'Void and Dafunkas. Next up: Green Room NYC, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ralph Session is a house and deep house artist based in United States of America
 
 Aiby, Funk D'Void, Dafunkas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphsession/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphsession/)*

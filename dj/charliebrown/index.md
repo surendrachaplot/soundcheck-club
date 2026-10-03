@@ -1,6 +1,6 @@
 # Charlie Brown
 
-Charlie Brown is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Charlie Brown is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Charlie Brown is a club and house artist based in Italy, with 4 gigs on soundcheck across Amsterdam and London. Often billed alongside Ben Jammin, Billy Daniel Bunter and Clarkson. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Charlie Brown is a club and house artist based in Italy, with 4 gigs on soundche
 
 Ben Jammin, Billy Daniel Bunter, Clarkson
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebrown/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebrown/)*

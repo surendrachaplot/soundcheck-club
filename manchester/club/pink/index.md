@@ -1,6 +1,6 @@
 # PINK
 
-PINK is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Church Andrews & Matt Davies / Elsa Hewitt / Kirk Barley Triple Header" on Sat, 17 Oct 2026.
+PINK is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Church Andrews & Matt Davies / Elsa Hewitt / Kirk Barley Triple Header" on Sat, 17 Oct 2026.
 
 PINK is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including bundy, Elsa Hewitt, KD22LR and Matt Davies and 1 more. See dates, start times and who's playing. Hilton House  Lord Street, Stockport  SK1 3NA.
 
@@ -15,4 +15,4 @@ PINK is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with 
 
 Hilton House  Lord Street, Stockport  SK1 3NA, Manchester
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*

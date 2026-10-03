@@ -1,6 +1,6 @@
 # Facta
 
-Facta is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Fri, 2 Oct 2026.
+Facta is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Love Inn, Bristol on Fri, 2 Oct 2026.
 
 Facta is a house and bass artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Auckland, Berlin and Bristol and 14 more. Often billed alongside K-LONE, Yushh and EMA. Next up: The Love Inn, Bristol on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Facta is a house and bass artist based in United Kingdom, with 57 gigs on soundc
 
 ## Recently played
 
+- The Love Inn, Bristol · Fri, 2 Oct 2026
 - Gaffe, London · Sat, 19 Sept 2026
 - MTELUS, Montreal · Sat, 29 Aug 2026
 - The Jama, Toronto · Fri, 28 Aug 2026
@@ -22,10 +23,9 @@ Facta is a house and bass artist based in United Kingdom, with 57 gigs on soundc
 - Peckham Rye Park, London · Fri, 22 May 2026
 - The Greyhound, London · Fri, 22 May 2026
 - Palais, London · Sat, 7 Mar 2026
-- The Old Blue Last, London · Sat, 20 Dec 2025
 
 ## Shares bills with
 
 K-LONE, Yushh, EMA (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*

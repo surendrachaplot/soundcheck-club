@@ -1,6 +1,6 @@
 # ATNIL
 
-ATNIL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at PRST, Vienna on Sat, 24 Oct 2026.
+ATNIL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at PRST, Vienna on Sat, 24 Oct 2026.
 
 ATNIL is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Munich and Vienna. Often billed alongside Palliativ, Swanky NOD and ASCHENBRENNER. Next up: PRST, Vienna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ATNIL is a techno and trance artist based in Germany, with 15 gigs on soundcheck
 
 Palliativ, Swanky NOD, ASCHENBRENNER
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atnil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atnil/)*

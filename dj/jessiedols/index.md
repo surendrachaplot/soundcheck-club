@@ -1,6 +1,6 @@
 # Jessie Dols
 
-Jessie Dols is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+Jessie Dols is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
 Jessie Dols is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Mischluft, Bad Boombox and Janis Zielinski. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Jessie Dols is a techno and trance artist based in Netherlands, with 39 gigs on 
 
 Mischluft, Bad Boombox, Janis Zielinski
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiedols/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiedols/)*

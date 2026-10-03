@@ -1,6 +1,6 @@
 # MALKÖ
 
-MALKÖ is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
+MALKÖ is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Plantation Paris, Paris on Fri, 16 Oct 2026.
 
 MALKÖ is a house and balearic artist based in France, with 18 gigs on soundcheck across New York City, Paris, Seoul and Tokyo. Often billed alongside JPYE, Vidal Benjamin and HOLDTight. Next up: Plantation Paris, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MALKÖ is a house and balearic artist based in France, with 18 gigs on soundchec
 
 JPYE, Vidal Benjamin, HOLDTight
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*

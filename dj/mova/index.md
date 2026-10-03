@@ -1,6 +1,6 @@
 # Mova
 
-Mova is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Mova is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Mova is a techno artist based in Georgia, with 17 gigs on soundcheck across Athens, Berlin, Mexico City and Tbilisi. Often billed alongside Downwell, Boyd Schidt and Bacho. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Mova is a techno artist based in Georgia, with 17 gigs on soundcheck across Athe
 
 ## Recently played
 
+- Loco Park, Tbilisi · Fri, 2 Oct 2026
 - KHIDI, Tbilisi · Fri, 17 Jul 2026
 - Sensorium, Berlin · Sun, 3 May 2026
 - KHIDI, Tbilisi · Fri, 19 Dec 2025
@@ -19,10 +20,9 @@ Mova is a techno artist based in Georgia, with 17 gigs on soundcheck across Athe
 - KHIDI, Tbilisi · Sat, 14 Jun 2025
 - KHIDI, Tbilisi · Sat, 22 Mar 2025
 - KHIDI, Tbilisi · Sat, 16 Nov 2024
-- KHIDI, Tbilisi · Fri, 16 Aug 2024
 
 ## Shares bills with
 
 Downwell, Boyd Schidt, Bacho
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mova/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mova/)*

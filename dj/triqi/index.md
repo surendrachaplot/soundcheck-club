@@ -1,6 +1,6 @@
 # Triqi
 
-Triqi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
+Triqi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
 
 Triqi is a house and techno artist based in Germany, with 126 gigs on soundcheck across Berlin, Cologne, Hamburg and Prague and 1 more. Often billed alongside Immy, INVERNO and hripsime. Next up: Phantom Bar Berlin, Berlin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Triqi is a house and techno artist based in Germany, with 126 gigs on soundcheck
 
 Immy, INVERNO, hripsime
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*

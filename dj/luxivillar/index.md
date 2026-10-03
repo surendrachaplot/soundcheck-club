@@ -1,6 +1,6 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spook Club, Valencia on Sat, 3 Oct 2026.
+Luxi Villar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Spook Club, Valencia on Sat, 3 Oct 2026.
 
 Luxi Villar is a techno and house artist based in Spain, with 68 gigs on soundcheck across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and future.666. Next up: Spook Club, Valencia on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Luxi Villar is a techno and house artist based in Spain, with 68 gigs on soundch
 
 Andres Campo, Fatima Hajji, future.666
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*

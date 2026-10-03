@@ -1,6 +1,6 @@
 # Misura
 
-Misura is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Focà London, London on Sat, 3 Oct 2026.
+Misura is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Focà London, London on Sat, 3 Oct 2026.
 
 Misura is a house and afrobeats artist, with 8 gigs on soundcheck across London. Often billed alongside Colaps, John's and MIZNIK. Next up: TBA - Focà London, London on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Misura is a house and afrobeats artist, with 8 gigs on soundcheck across London.
 
 Colaps, John's, MIZNIK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misura/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misura/)*

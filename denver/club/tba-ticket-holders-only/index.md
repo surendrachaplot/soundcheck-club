@@ -1,6 +1,6 @@
 # TBA - Ticket Holders Only
 
-TBA - Ticket Holders Only is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fideles - Halloween Warehouse" on Sat, 31 Oct 2026.
+TBA - Ticket Holders Only is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Fideles - Halloween Warehouse" on Sat, 31 Oct 2026.
 
 TBA - Ticket Holders Only is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Fideles. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ticket Holders Only is a music venue in Denver listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fideles - Halloween Warehouse | Fideles |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-ticket-holders-only/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-ticket-holders-only/)*

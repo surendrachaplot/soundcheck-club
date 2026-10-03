@@ -1,6 +1,6 @@
 # Naked Nils
 
-Naked Nils is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Naked Nils is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 Naked Nils is a trance and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Nanno, DJ Henk and get no. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Naked Nils is a trance and techno artist based in Germany, with 17 gigs on sound
 
 Nanno, DJ Henk, get no
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakednils/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakednils/)*

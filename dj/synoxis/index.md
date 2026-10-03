@@ -1,6 +1,6 @@
 # Synoxis
 
-Synoxis is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rockerill Charleroi, Belgium on Sat, 3 Oct 2026.
+Synoxis is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rockerill Charleroi, Belgium on Sat, 3 Oct 2026.
 
 Synoxis is a drum & bass and bass artist based in Belgium, with 19 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Brussels and 3 more. Often billed alongside 1991, Ampe and Asian Sal. Next up: Rockerill Charleroi, Belgium on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Synoxis is a drum & bass and bass artist based in Belgium, with 19 gigs on sound
 
 1991, Ampe, Asian Sal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*

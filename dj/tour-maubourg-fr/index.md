@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Villanos, Madrid on Sat, 3 Oct 2026.
+Tour-Maubourg is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Villanos, Madrid on Sat, 3 Oct 2026.
 
 Tour-Maubourg is a house and deep house artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Sala Villanos, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Tour-Maubourg is a house and deep house artist based in France, with 60 gigs on 
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

@@ -1,6 +1,6 @@
 # Ronaldo
 
-Ronaldo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
+Ronaldo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
 
 Ronaldo is a house and techno artist based in Mexico, with 28 gigs on soundcheck across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO, Adrian Hex and Armii1n. Next up: Dead Letter No. 9, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ronaldo is a house and techno artist based in Mexico, with 28 gigs on soundcheck
 
 KAITO (2), Adrian Hex, Armii1n
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldo/)*

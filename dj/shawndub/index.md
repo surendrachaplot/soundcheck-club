@@ -1,6 +1,6 @@
 # Shawn Dub
 
-Shawn Dub is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Sat, 3 Oct 2026.
+Shawn Dub is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sat, 3 Oct 2026.
 
 Shawn Dub is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Detroit, Miami, Montreal and New York City and 1 more. Often billed alongside Kels (US), Kels and JADALAREIGN. Next up: public records, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Shawn Dub is a house and techno artist based in United States of America, with 9
 
 Kels (US), Kels, JADALAREIGN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawndub/)*

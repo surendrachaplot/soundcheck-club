@@ -1,6 +1,6 @@
 # Kuzco
 
-Kuzco is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Kuzco is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Kuzco is a house and deep house artist based in Australia, with 34 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Mike Gurrieri, Harvey Sutherland and Adam Trace. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kuzco is a house and deep house artist based in Australia, with 34 gigs on sound
 
 Mike Gurrieri, Harvey Sutherland, Adam Trace
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*

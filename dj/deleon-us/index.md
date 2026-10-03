@@ -1,6 +1,6 @@
 # De León
 
-De León is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
+De León is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
 
 De León is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and DJ Kalin. Next up: Launderette Records, Philadelphia on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ De León is a techno and house artist based in United States of America, with 25
 
 JFK (USA), ANDi MANDi, DJ Kalin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deleon-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deleon-us/)*

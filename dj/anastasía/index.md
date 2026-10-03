@@ -1,6 +1,6 @@
 # ANASTASÍA
 
-ANASTASÍA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+ANASTASÍA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 ANASTASÍA is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Munich. Often billed alongside Jan Minnerup, Vaneska and Listenblondie. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ANASTASÍA is a trance and techno artist based in Germany, with 21 gigs on sound
 
 Jan Minnerup, Vaneska, Listenblondie
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasía/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasía/)*

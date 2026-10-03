@@ -1,6 +1,6 @@
 # Tino
 
-Tino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Colette, Birmingham on Sat, 3 Oct 2026.
+Tino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Colette, Birmingham on Sat, 3 Oct 2026.
 
 Tino is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 13 more. Often billed alongside Garrett David, LILI and ADR (UK). Next up: Club Colette, Birmingham on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Tino is a house and techno artist based in United Kingdom, with 47 gigs on sound
 
 Garrett David, LILI, ADR (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

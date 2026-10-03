@@ -1,6 +1,6 @@
 # ACID DRIFT
 
-ACID DRIFT is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+ACID DRIFT is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 ACID DRIFT is an electro and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Kamboya, Avo (ES) and Borja S. Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ ACID DRIFT is an electro and electronica artist based in Spain, with 7 gigs on s
 
 Kamboya, Avo (ES), Borja S
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aciddrift/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aciddrift/)*

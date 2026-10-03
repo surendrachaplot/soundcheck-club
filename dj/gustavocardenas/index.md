@@ -1,6 +1,6 @@
 # Gustavo
 
-Gustavo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
+Gustavo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
 
 Gustavo is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Barcelona, Berlin, Liverpool and London and 1 more. Often billed alongside Otazzu, gãl (SI) and Dirty Lemon. Next up: TBA - Ziecret Location, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gustavo is a house and tech house artist based in Germany, with 17 gigs on sound
 
 Otazzu, gãl (SI), Dirty Lemon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavocardenas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavocardenas/)*

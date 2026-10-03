@@ -1,6 +1,6 @@
 # Roo Honeychild
 
-Roo Honeychild is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Commercial Rowing Club Dublin, Dublin on Fri, 9 Oct 2026.
+Roo Honeychild is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Commercial Rowing Club Dublin, Dublin on Fri, 9 Oct 2026.
 
 Roo Honeychild is a club and baile funk artist based in Ireland, with 57 gigs on soundcheck across Amsterdam, Cork, Dublin and Glasgow and 3 more. Often billed alongside Selky, JWY and E The Artist. Next up: Commercial Rowing Club Dublin, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Roo Honeychild is a club and baile funk artist based in Ireland, with 57 gigs on
 
 Selky, JWY (1), E The Artist
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roohoneychild/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roohoneychild/)*

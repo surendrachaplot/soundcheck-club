@@ -1,6 +1,6 @@
 # AYDN
 
-AYDN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
+AYDN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
 
 AYDN is a techno and industrial artist based in United Kingdom, with 7 gigs on soundcheck across Dublin, Liverpool, Manchester and Sheffield. Often billed alongside CEEKAY, COHĒSION and Deventi. Next up: Joshua Brooks, Manchester on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ AYDN is a techno and industrial artist based in United Kingdom, with 7 gigs on s
 
 CEEKAY, COHĒSION, Deventi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aydn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aydn/)*

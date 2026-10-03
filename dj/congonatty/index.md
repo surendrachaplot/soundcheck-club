@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gretchen, Berlin on Sat, 10 Oct 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gretchen, Berlin on Sat, 10 Oct 2026.
 
 Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Snuff, Killa P and Sexy Lady Massive. Next up: Gretchen, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 41 
 
 DJ Snuff, Killa P, Sexy Lady Massive
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

@@ -1,6 +1,6 @@
 # Groves
 
-Groves is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 93 Feet East, London on Sat, 10 Oct 2026.
+Groves is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 93 Feet East, London on Sat, 10 Oct 2026.
 
 Groves is a house artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Dan Cowan, Lewis Carroll and Talieu. Next up: 93 Feet East, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Groves is a house artist based in United Kingdom, with 7 gigs on soundcheck acro
 
 Dan Cowan, Lewis Carroll, Talieu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*

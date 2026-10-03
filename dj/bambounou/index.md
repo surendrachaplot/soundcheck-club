@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+Bambounou is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
 Bambounou is a techno and house artist based in France, with 173 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 49 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
@@ -18,6 +18,7 @@ Bambounou is a techno and house artist based in France, with 173 gigs on soundch
 
 ## Recently played
 
+- Café Nuances  - Marais, Paris · Fri, 2 Oct 2026
 - Amnesia Milano, Milan · Sat, 26 Sept 2026
 - Kilomètre25, Paris · Fri, 25 Sept 2026
 - TBA, Washington DC · Sat, 12 Sept 2026
@@ -25,10 +26,9 @@ Bambounou is a techno and house artist based in France, with 173 gigs on soundch
 - Praia Irmão, Lisbon · Fri, 4 Sept 2026
 - Karmen Camina, Strasbourg · Fri, 21 Aug 2026
 - Else, Berlin · Fri, 14 Aug 2026
-- Virage, Paris · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

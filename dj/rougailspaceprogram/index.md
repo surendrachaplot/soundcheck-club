@@ -1,6 +1,6 @@
 # rougail space program
 
-rougail space program is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Point Ephémère, Paris on Sat, 24 Oct 2026.
+rougail space program is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Point Ephémère, Paris on Sat, 24 Oct 2026.
 
 rougail space program is a bass and latin bass artist based in France, with 13 gigs on soundcheck across Brussels, London and Paris. Often billed alongside Rebequita, Daviaa and Sylvere. Next up: Point Ephémère, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ rougail space program is a bass and latin bass artist based in France, with 13 g
 
 Rebequita, Daviaa, Sylvere
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rougailspaceprogram/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rougailspaceprogram/)*

@@ -1,6 +1,6 @@
 # Lea Lisa
 
-Lea Lisa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - La Plage / Lancy, Geneva on Sat, 3 Oct 2026.
+Lea Lisa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - La Plage / Lancy, Geneva on Sat, 3 Oct 2026.
 
 Lea Lisa is a house and disco artist based in Switzerland, with 47 gigs on soundcheck across Amsterdam, Berlin, Bristol and Frankfurt and 15 more. Often billed alongside Nahomi, Elliot Schooling and Kerri Chandler. Next up: TBA - La Plage / Lancy, Geneva on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lea Lisa is a house and disco artist based in Switzerland, with 47 gigs on sound
 
 Nahomi, Elliot Schooling, Kerri Chandler
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*

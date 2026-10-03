@@ -1,6 +1,6 @@
 # Thoughtful Ken
 
-Thoughtful Ken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+Thoughtful Ken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
 Thoughtful Ken is an electro and techno artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Delano (UK), Franklin DJ and Paddy Cotter. Next up: M.O.T, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Thoughtful Ken is an electro and techno artist based in United Kingdom, with 10 
 
 Delano (UK), Franklin DJ, Paddy Cotter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtfulken/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoughtfulken/)*

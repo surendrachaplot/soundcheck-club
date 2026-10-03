@@ -1,14 +1,13 @@
 # Electric Bristol
 
-Electric Bristol is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Nora En Pure" on Fri, 2 Oct 2026.
+Electric Bristol is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dusky" on Fri, 30 Oct 2026.
 
-Electric Bristol is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Carina Lawrence, Culture Shock, Dosem and Dusky and 2 more. See dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
+Electric Bristol is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Culture Shock, Dusky, Kirollus and Peverelist and 1 more. See dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Nora En Pure | Carina Lawrence, Dosem, Nora En Pure |
 | Fri, 30 Oct 2026 | Dusky | Dusky, Peverelist, Willow |
 | Sat, 31 Oct 2026 | The Halloween Ball 2026 |  |
 | Fri, 20 Nov 2026 | Culture Shock | Culture Shock |
@@ -18,4 +17,4 @@ Electric Bristol is a music venue in Bristol listed on soundcheck. 5 upcoming gi
 
 15 Nelson Street, Bristol, BS1 2JY, United Kingdom, Bristol
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/electric-bristol/)*

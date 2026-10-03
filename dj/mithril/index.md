@@ -1,6 +1,6 @@
 # Mithril
 
-Mithril is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+Mithril is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
 Mithril is an experimental and techno artist, with 38 gigs on soundcheck across Bangkok, Barcelona, Berlin and Denver and 8 more. Often billed alongside Bulma, DOLL.fin and KALI.. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mithril is an experimental and techno artist, with 38 gigs on soundcheck across 
 
 Bulma, DOLL.fin, KALI.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mithril/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mithril/)*

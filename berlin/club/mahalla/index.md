@@ -1,6 +1,6 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TECHNOAMT presents: TECHNO Semester OPENING PARTY" on Fri, 2 Oct 2026.
+MaHalla is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TECHNOAMT presents: TECHNO Semester OPENING PARTY" on Fri, 2 Oct 2026.
 
 MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including ClubSubbe, FKNSIL, Hendrik Nitsche and Kleiner Als Drei and 2 more. See dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
@@ -16,4 +16,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with l
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

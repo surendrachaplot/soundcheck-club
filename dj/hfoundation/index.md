@@ -1,6 +1,6 @@
 # H-Foundation
 
-H-Foundation is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+H-Foundation is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 H-Foundation is a house and tech house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 3 more. Often billed alongside Frank Haag, Halo Varga and Hipp-e. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ H-Foundation is a house and tech house artist based in United States of America,
 
 Frank Haag, Halo Varga, Hipp-e
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

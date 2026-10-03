@@ -1,6 +1,6 @@
 # Akhnaton
 
-Akhnaton is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Let Techno Unite ADE 2026" on Wed, 21 Oct 2026.
+Akhnaton is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Let Techno Unite ADE 2026" on Wed, 21 Oct 2026.
 
 Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Alex O'Rion, Alísha, AMYMI MUSICA and Anthony Rhino and 2 more. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
 
@@ -18,4 +18,4 @@ Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, wi
 
 Nieuwezijds Kolk 25, 1012 PV Amsterdam, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*

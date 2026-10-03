@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat, 19 Dec 2026.
+B-SIDE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat, 19 Dec 2026.
 
 B-SIDE is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Austin, Leeds, Los Angeles and Melbourne and 2 more. Often billed alongside Bear Who?, Basstripper and Callèn. Next up: TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ B-SIDE is a house and deep house artist based in United States of America, with 
 
 Bear Who?, Basstripper, Callèn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side/)*

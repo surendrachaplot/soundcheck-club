@@ -1,6 +1,6 @@
 # Sabrosura Boyz
 
-Sabrosura Boyz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 3 Oct 2026.
+Sabrosura Boyz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 3 Oct 2026.
 
 Sabrosura Boyz is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside D.Zeledon, Amal Nemer and Artur (US). Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sabrosura Boyz is a house and tech house artist based in United States of Americ
 
 D.Zeledon, Amal Nemer, Artur (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrosuraboyz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrosuraboyz/)*

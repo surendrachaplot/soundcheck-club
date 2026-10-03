@@ -1,6 +1,6 @@
 # Tully
 
-Tully is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Wed, 7 Oct 2026.
+Tully is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Love Inn, Bristol on Wed, 7 Oct 2026.
 
 Tully is a house and techno artist based in Australia, with 10 gigs on soundcheck across Bristol, London and Vancouver. Often billed alongside Angel Mel, C-Star and Dose.. Next up: The Love Inn, Bristol on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Tully is a house and techno artist based in Australia, with 10 gigs on soundchec
 
 Angel Mel, C-Star, Dose.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tully-ca/)*

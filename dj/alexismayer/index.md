@@ -1,6 +1,6 @@
 # Alexis mayer
 
-Alexis mayer is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at berlinClub, Madrid on Fri, 16 Oct 2026.
+Alexis mayer is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at berlinClub, Madrid on Fri, 16 Oct 2026.
 
 Alexis mayer is a house and afro house artist based in Argentina, with 15 gigs on soundcheck across Madrid. Often billed alongside Guidomik, Tucu (Tucu) and Brisa Then. Next up: berlinClub, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alexis mayer is a house and afro house artist based in Argentina, with 15 gigs o
 
 Guidomik, Tucu (Tucu), Brisa Then
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*

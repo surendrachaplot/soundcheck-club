@@ -1,6 +1,6 @@
 # Anestis
 
-Anestis is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Fri, 2 Oct 2026.
+Anestis is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Gate, Berlin on Fri, 2 Oct 2026.
 
 Anestis is a house and club artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside heinrich grooves, smht and Brahmski. Next up: Golden Gate, Berlin on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Anestis is a house and club artist based in Germany, with 7 gigs on soundcheck a
 
 ## Recently played
 
+- Golden Gate, Berlin · Fri, 2 Oct 2026
 - Bulbul Berlin, Berlin · Fri, 31 Jul 2026
 - Renate, Berlin · Thu, 9 Apr 2026
 - Golden Gate, Berlin · Fri, 3 Oct 2025
@@ -23,4 +24,4 @@ Anestis is a house and club artist based in Germany, with 7 gigs on soundcheck a
 
 heinrich grooves, smht, Brahmski
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anestis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anestis/)*

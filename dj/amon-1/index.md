@@ -1,6 +1,6 @@
 # AMON (1)
 
-AMON (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Koenji Cave, Tokyo on Sat, 10 Oct 2026.
+AMON (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Koenji Cave, Tokyo on Sat, 10 Oct 2026.
 
 AMON is a techno and trance artist based in Colombia, with 15 gigs on soundcheck across Bangkok, Berlin, Cologne and Ghent and 2 more. Often billed alongside Ampe, BENITO (DE) and BRTLGR. Next up: Koenji Cave, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AMON is a techno and trance artist based in Colombia, with 15 gigs on soundcheck
 
 Ampe, BENITO (DE), BRTLGR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amon-1/)*

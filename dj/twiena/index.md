@@ -1,14 +1,13 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+TWIENA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ark (Melb), Melbourne on Sat, 3 Oct 2026.
 
-TWIENA is a techno and house artist based in Netherlands, with 124 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+TWIENA is a techno and house artist based in Netherlands, with 124 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: ark (Melb), Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sat, 3 Oct 2026 | ark (Melb) | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -31,4 +30,4 @@ TWIENA is a techno and house artist based in Netherlands, with 124 gigs on sound
 
 Doppelgang, Mary Lake, Faustin (NL)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

@@ -1,6 +1,6 @@
 # Nikolaisaal Potsdam
 
-Nikolaisaal Potsdam is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Andreas Henneberg & Filmorchester Babelsberg // Synth Happens" on Sat, 7 Nov 2026.
+Nikolaisaal Potsdam is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Andreas Henneberg & Filmorchester Babelsberg // Synth Happens" on Sat, 7 Nov 2026.
 
 Nikolaisaal Potsdam is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Andreas Henneberg. See dates, start times and who's playing. Wilhelm-Staab-Straße 10-11, 14467 Potsdam, Germany.
 
@@ -14,4 +14,4 @@ Nikolaisaal Potsdam is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 Wilhelm-Staab-Straße 10-11, 14467 Potsdam, Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/nikolaisaal-potsdam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/nikolaisaal-potsdam/)*

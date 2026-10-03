@@ -1,6 +1,6 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 17 Oct 2026.
+THEMBA is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 17 Oct 2026.
 
 THEMBA is an afro house and house artist based in South Africa, with 124 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: Bohemia Beach Club, Dubai on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ THEMBA is an afro house and house artist based in South Africa, with 124 gigs on
 
 Black Coffee, Franky Wah, Hugel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

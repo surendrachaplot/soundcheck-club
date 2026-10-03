@@ -1,6 +1,6 @@
 # wilder förster
 
-wilder förster is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sensorium, Berlin on Fri, 16 Oct 2026.
+wilder förster is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Fri, 16 Oct 2026.
 
 wilder förster is a techno and trance artist, with 11 gigs on soundcheck across Berlin. Often billed alongside Quolcat, MIMI404 and Trippyverse. Next up: Sensorium, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ wilder förster is a techno and trance artist, with 11 gigs on soundcheck across
 
 Quolcat, MIMI404, Trippyverse
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*

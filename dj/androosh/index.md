@@ -1,6 +1,6 @@
 # androosh
 
-androosh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+androosh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 androosh is a house and disco artist, with 52 gigs on soundcheck across Antwerp, Barcelona, Berlin and Geneva and 6 more. Often billed alongside Mona Lee, iamkimkong and DVDE. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ androosh is a house and disco artist, with 52 gigs on soundcheck across Antwerp,
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 2 Oct 2026
 - 528 Ibiza, Ibiza · Tue, 15 Sept 2026
 - Renate, Berlin · Sat, 18 Jul 2026
 - Moonfield, Antwerp · Fri, 10 Jul 2026
@@ -19,10 +20,9 @@ androosh is a house and disco artist, with 52 gigs on soundcheck across Antwerp,
 - DETROIT CLUB, Barcelona · Fri, 22 May 2026
 - Renate, Berlin · Sat, 28 Mar 2026
 - Bluesquare, Milan · Sat, 14 Mar 2026
-- Golden Gate, Berlin · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Mona Lee, iamkimkong, DVDE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*

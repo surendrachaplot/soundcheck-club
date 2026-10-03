@@ -1,14 +1,13 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at New Forms, London on Fri, 2 Oct 2026.
+leverson is a Hip-Hop and R&B artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Junsei, London on Sat, 3 Oct 2026.
 
-leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: New Forms, London on Fri 2 Oct.
+leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Junsei, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | New Forms | London |
 | Sat, 3 Oct 2026 | Junsei | London |
 | Fri, 9 Oct 2026 | Nine Lives | London |
 | Sat, 10 Oct 2026 | Itsgood | London |
@@ -18,6 +17,7 @@ leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on s
 
 ## Recently played
 
+- New Forms, London · Fri, 2 Oct 2026
 - Peckham Arches, London · Thu, 1 Oct 2026
 - Junsei, London · Thu, 1 Oct 2026
 - Kiosk N1C, London · Wed, 30 Sept 2026
@@ -25,10 +25,9 @@ leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on s
 - Nico's Bar at Hackney Bridge, London · Sat, 5 Sept 2026
 - Next Door Records, London · Fri, 4 Sept 2026
 - Kaiho, London · Sat, 29 Aug 2026
-- Nico's Bar at Hackney Bridge, London · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Signorina, Omari King, Omari
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

@@ -1,6 +1,6 @@
 # Undercatt
 
-Undercatt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Apophis Club, Milan on Sat, 17 Oct 2026.
+Undercatt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Apophis Club, Milan on Sat, 17 Oct 2026.
 
 Undercatt is a techno and house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amiti, Axel Haube and Brian Cid. Next up: Apophis Club, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Undercatt is a techno and house artist based in Italy, with 48 gigs on soundchec
 
 Amiti, Axel Haube, Brian Cid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undercatt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undercatt/)*

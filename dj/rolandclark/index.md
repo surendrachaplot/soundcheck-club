@@ -1,6 +1,6 @@
 # Roland Clark
 
-Roland Clark is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Roland Clark is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Roland Clark is a house and tech house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, London, Melbourne and Miami and 2 more. Often billed alongside Michael Moog, Todd Terry and Gettoblaster. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Roland Clark is a house and tech house artist based in United States of America,
 
 Michael Moog, Todd Terry, Gettoblaster
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*

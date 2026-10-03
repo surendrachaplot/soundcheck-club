@@ -1,6 +1,6 @@
 # Fabian Drews
 
-Fabian Drews is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
+Fabian Drews is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
 
 Fabian Drews is a techno and minimal artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Coco, Empro and Andreas Rauscher. Next up: Golden Gate, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Fabian Drews is a techno and minimal artist based in Germany, with 9 gigs on sou
 
 Coco, Empro, Andreas Rauscher
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiandrews/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiandrews/)*

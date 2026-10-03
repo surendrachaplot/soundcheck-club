@@ -1,6 +1,6 @@
 # COUNT
 
-COUNT is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Co.Labs, Brno on Fri, 16 Oct 2026.
+COUNT is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Co.Labs, Brno on Fri, 16 Oct 2026.
 
 COUNT is an electronic artist based in Czech Republic, with 11 gigs on soundcheck across Barcelona, Berlin, Brno and Prague. Often billed alongside Alfred Czital, Feenicks and Atch22. Next up: Co.Labs, Brno on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ COUNT is an electronic artist based in Czech Republic, with 11 gigs on soundchec
 
 Alfred Czital, Feenicks, Atch22
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/count/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/count/)*

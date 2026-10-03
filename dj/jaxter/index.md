@@ -1,6 +1,6 @@
 # Jaxter
 
-Jaxter is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Jaxter is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Jaxter is a house and balearic artist based in Belgium, with 9 gigs on soundcheck across Belgium, Brussels and Ghent. Often billed alongside Don Cabron, GALAGO (BE) and Aytiwan. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jaxter is a house and balearic artist based in Belgium, with 9 gigs on soundchec
 
 Don Cabron, GALAGO (BE), Aytiwan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*

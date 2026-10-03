@@ -1,6 +1,6 @@
 # Shabi
 
-Shabi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Shabi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Shabi is a house and disco artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside Luca Olivotto, Nephews and Quadrakey. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Shabi is a house and disco artist based in Germany, with 35 gigs on soundcheck a
 
 Luca Olivotto, Nephews, Quadrakey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi/)*

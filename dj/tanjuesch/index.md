@@ -1,6 +1,6 @@
 # tanjuesch
 
-tanjuesch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sat, 24 Oct 2026.
+tanjuesch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 24 Oct 2026.
 
 tanjuesch is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Cologne and Munich. Often billed alongside Scherfe, Leyla and David Hornung. Next up: Gewölbe, Cologne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ tanjuesch is a house and tech house artist based in Germany, with 33 gigs on sou
 
 Scherfe, Leyla (3), David Hornung
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjuesch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjuesch/)*

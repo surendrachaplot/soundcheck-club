@@ -1,6 +1,6 @@
 # Third Attempt
 
-Third Attempt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Third Attempt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Third Attempt is a house and disco artist based in Norway, with 9 gigs on soundcheck across Amsterdam, Copenhagen and Oslo. Often billed alongside Crystal Touch, Bustin' Loose and Tatiana. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Third Attempt is a house and disco artist based in Norway, with 9 gigs on soundc
 
 Crystal Touch, Bustin' Loose, Tatiana
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdattempt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdattempt/)*

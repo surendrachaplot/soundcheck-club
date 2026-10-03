@@ -1,6 +1,6 @@
 # Subandrio
 
-Subandrio is a Progressive House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Subandrio is a Progressive House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 Subandrio is a progressive house and electronica artist based in United Arab Emirates, with 6 gigs on soundcheck across Amsterdam, Sri Lanka and Sydney. Often billed alongside Abity, Gai Barone and Kasper Koman. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Subandrio is a progressive house and electronica artist based in United Arab Emi
 
 Abity, Gai Barone, Kasper Koman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*

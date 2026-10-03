@@ -1,6 +1,6 @@
 # Martim Rola
 
-Martim Rola is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+Martim Rola is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
 Martim Rola is a techno and house artist based in Portugal, with 28 gigs on soundcheck across Amsterdam, Barcelona, Cardiff and Ibiza and 6 more. Often billed alongside ARODES, SHIA and Rodriguez Jr.. Next up: 99 Scott Ave, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Martim Rola is a techno and house artist based in Portugal, with 28 gigs on soun
 
 ARODES, SHIA, Rodriguez Jr.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimrola/)*

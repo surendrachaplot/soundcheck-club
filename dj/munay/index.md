@@ -1,6 +1,6 @@
 # Munay
 
-Munay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CREA, Amsterdam on Thu, 22 Oct 2026.
+Munay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at CREA, Amsterdam on Thu, 22 Oct 2026.
 
 Munay is a house and deep house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside Judoc, Julien Simmons and Major K. Next up: CREA, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Munay is a house and deep house artist based in Netherlands, with 23 gigs on sou
 
 Judoc, Julien Simmons, Major K
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*

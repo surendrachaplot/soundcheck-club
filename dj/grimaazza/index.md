@@ -1,6 +1,6 @@
 # Grima & Azza
 
-Grima & Azza is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Grima & Azza is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Grima & Azza are a drum & bass and jungle duo based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Leeds and 1 more. Often billed alongside Benny L, Logan D and Eksman. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Grima & Azza are a drum & bass and jungle duo based in United Kingdom, with 15 g
 
 Benny L, Logan D, Eksman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*

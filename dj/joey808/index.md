@@ -1,6 +1,6 @@
 # Joey 808
 
-Joey 808 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
+Joey 808 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 10 Oct 2026.
 
 Joey 808 is a techno and tech house artist, with 13 gigs on soundcheck across Strasbourg. Often billed alongside Beignet, Doudeh and Sunpr. Next up: Karmen Camina, Strasbourg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joey 808 is a techno and tech house artist, with 13 gigs on soundcheck across St
 
 Beignet, Doudeh, Sunpr
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joey808/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joey808/)*

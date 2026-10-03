@@ -1,6 +1,6 @@
 # TBA - Secret Church, Little Portugal
 
-TBA - Secret Church, Little Portugal is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK)" on Fri, 30 Oct 2026.
+TBA - Secret Church, Little Portugal is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK)" on Fri, 30 Oct 2026.
 
 TBA - Secret Church, Little Portugal is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including In Depth Subject, Milzy and NiUNiU. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Church, Little Portugal is a music venue in Toronto listed on sound
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK) | In Depth Subject, Milzy, NiUNiU |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-church-little-portugal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-church-little-portugal/)*

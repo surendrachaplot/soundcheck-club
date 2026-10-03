@@ -1,6 +1,6 @@
 # tj groover
 
-tj groover is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat, 3 Oct 2026.
+tj groover is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat, 3 Oct 2026.
 
 tj groover is a house and deep house artist based in United States of America, with 27 gigs on soundcheck across Philadelphia. Often billed alongside Big Queso, Cowa and Qino Bounce. Next up: TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ tj groover is a house and deep house artist based in United States of America, w
 
 Big Queso, Cowa, Qino Bounce
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*

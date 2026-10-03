@@ -1,6 +1,6 @@
 # SKIN
 
-SKIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jazz Cafe, London on Sat, 3 Oct 2026.
+SKIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Jazz Cafe, London on Sat, 3 Oct 2026.
 
 SKIN is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across London, Madrid, New York City and Toronto. Often billed alongside Michael Magnan, Josh Steers and Kim Anh. Next up: The Jazz Cafe, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SKIN is a techno and house artist based in United Kingdom, with 15 gigs on sound
 
 Michael Magnan, Josh Steers, Kim Anh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skin-5/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skin-5/)*

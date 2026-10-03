@@ -1,6 +1,6 @@
 # ANØMALY
 
-ANØMALY is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Thu, 15 Oct 2026.
+ANØMALY is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mia Mao, Paris on Thu, 15 Oct 2026.
 
 ANØMALY is a techno and acid artist, with 13 gigs on soundcheck across Paris. Often billed alongside A A V, Docteur Redrum and Hemei. Next up: Mia Mao, Paris on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ ANØMALY is a techno and acid artist, with 13 gigs on soundcheck across Paris. O
 
 A A V, Docteur Redrum, Hemei
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anomaly/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anomaly/)*

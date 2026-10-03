@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Solace x Weaver pres. ANON - Vol. I" on Sat, 3 Oct 2026.
+Solace is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Solace x Weaver pres. ANON - Vol. I" on Sat, 3 Oct 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including anna(n), Cousin, David Jackson and DJ ALI (AU) and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -23,4 +23,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, wit
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

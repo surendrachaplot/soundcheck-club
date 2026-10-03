@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "J MAHON'S SPOOKFEST (DJ-Set) - TAG DER CLUBKULTUR Festival Week" on Fri, 2 Oct 2026.
+Madame Claude is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Pulse Friction × FLIGHTMODE" on Sat, 3 Oct 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Devin Gray, DJ Fiona, doctor doms and Dr. Sud and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Devin Gray, DJ Fiona, doctor doms and Dr. Sud and 2 more. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | J MAHON'S SPOOKFEST (DJ-Set) - TAG DER CLUBKULTUR Festival Week |  |
 | Sat, 3 Oct 2026 | Pulse Friction × FLIGHTMODE | Dr. Sud, Funken, Joe Peck, Rudy Zigliara, doctor doms |
 | Mon, 5 Oct 2026 | Madame Claude's Experimontag |  |
 | Fri, 9 Oct 2026 | HOLYWORLD | DJ Fiona, Heshumi, Holywanderer, Sakrum, doctor doms, tech_punk |
@@ -20,4 +19,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

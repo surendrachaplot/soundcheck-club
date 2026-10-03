@@ -1,6 +1,6 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bazart, Montreal on Thu, 15 Oct 2026.
+Antdot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bazart, Montreal on Thu, 15 Oct 2026.
 
 Antdot is a house and afro house artist based in Brazil, with 59 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: Bazart, Montreal on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Antdot is a house and afro house artist based in Brazil, with 59 gigs on soundch
 
 Maz (BR), Argy, Artbat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

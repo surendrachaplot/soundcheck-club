@@ -1,14 +1,13 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 2 Oct 2026.
+Ewan McVicar is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Harbourworks, Aberdeen on Sat, 3 Oct 2026.
 
-Ewan McVicar is a house and techno artist based in United Kingdom, with 182 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 42 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Hï Ibiza, Ibiza on Fri 2 Oct.
+Ewan McVicar is a house and techno artist based in United Kingdom, with 182 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 42 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Harbourworks, Aberdeen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Harbourworks | Aberdeen |
 | Sat, 3 Oct 2026 | Livehouse | Dundee |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 182 gigs
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
+| Thu, 31 Dec 2026 | Carriageworks | Sydney |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 18 Sept 2026
 - Index, Dublin · Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 182 gigs
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 4 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 28 Aug 2026
-- Mia Mao, Paris · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

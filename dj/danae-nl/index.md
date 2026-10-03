@@ -1,6 +1,6 @@
 # Danae (NL)
 
-Danae (NL) is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
+Danae (NL) is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
 Danae (NL) is a progressive house and minimal techno artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Around Us, Francesco Pico and Callecat. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Danae (NL) is a progressive house and minimal techno artist, with 7 gigs on soun
 
 Around Us, Francesco Pico, Callecat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-nl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-nl/)*

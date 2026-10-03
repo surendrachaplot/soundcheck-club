@@ -1,6 +1,6 @@
 # Austher
 
-Austher is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glazart, Paris on Sat, 10 Oct 2026.
+Austher is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Glazart, Paris on Sat, 10 Oct 2026.
 
 Austher is an electro and techno artist, with 18 gigs on soundcheck across Barcelona, Nantes, Paris and Strasbourg. Often billed alongside Alphanova, Arabian Panther and Kendal. Next up: Glazart, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Austher is an electro and techno artist, with 18 gigs on soundcheck across Barce
 
 Alphanova, Arabian Panther, Kendal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austher/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austher/)*

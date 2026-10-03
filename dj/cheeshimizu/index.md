@@ -1,6 +1,6 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
+Chee Shimizu is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
 
 Chee Shimizu is a house and balearic artist based in Japan, with 35 gigs on soundcheck across Bali, Brazil, Los Angeles and Melbourne and 3 more. Often billed alongside AKIRAM EN, Justin Carter and Colleen 'Cosmo' Murphy. Next up: Bonobo, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Chee Shimizu is a house and balearic artist based in Japan, with 35 gigs on soun
 
 AKIRAM EN, Justin Carter, Colleen 'Cosmo' Murphy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*

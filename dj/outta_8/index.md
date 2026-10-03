@@ -1,6 +1,6 @@
 # outta_8
 
-outta_8 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
+outta_8 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
 
 outta_8 is a techno and house artist based in Poland, with 33 gigs on soundcheck across Krakow. Often billed alongside Aetha, Piotr Figiel and 1 AM. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ outta_8 is a techno and house artist based in Poland, with 33 gigs on soundcheck
 
 Aetha, Piotr Figiel, 1 AM (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outta_8/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outta_8/)*

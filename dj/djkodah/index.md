@@ -1,6 +1,6 @@
 # DJ Kodah
 
-DJ Kodah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prisma, Berlin on Tue, 27 Oct 2026.
+DJ Kodah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prisma, Berlin on Tue, 27 Oct 2026.
 
 DJ Kodah is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Crimson Lake, Jean Frais and Emilion Dollar Baby. Next up: Prisma, Berlin on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ DJ Kodah is a house and techno artist based in Germany, with 26 gigs on soundche
 
 Crimson Lake, Jean Frais, Emilion Dollar Baby
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkodah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkodah/)*

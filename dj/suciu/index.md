@@ -1,6 +1,6 @@
 # Suciu
 
-Suciu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
+Suciu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
 
 Suciu is a house and minimal artist based in Romania, with 56 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Cap, Gescu and Andrei Ciubuc. Next up: Club Guesthouse, Bucharest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Suciu is a house and minimal artist based in Romania, with 56 gigs on soundcheck
 
 Cap, Gescu, Andrei Ciubuc
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suciu/)*

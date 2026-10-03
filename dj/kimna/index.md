@@ -1,6 +1,6 @@
 # KIMNA
 
-KIMNA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+KIMNA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 KIMNA is a techno and house artist based in South Korea, with 28 gigs on soundcheck across Amsterdam, Seoul, South Korea and Tokyo. Often billed alongside No/ah, Gosha and Vorus. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ KIMNA is a techno and house artist based in South Korea, with 28 gigs on soundch
 
 No/ah, Gosha, Vorus
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimna/)*

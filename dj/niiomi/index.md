@@ -1,6 +1,6 @@
 # Niiomi
 
-Niiomi is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Niiomi is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 Niiomi is a progressive house and techno artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Brussels, Ibiza and London and 3 more. Often billed alongside AMÉMÉ, Ammé and Cincity. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Niiomi is a progressive house and techno artist based in Netherlands, with 22 gi
 
 AMÉMÉ, Ammé, Cincity
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niiomi/)*

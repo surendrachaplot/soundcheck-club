@@ -1,6 +1,6 @@
 # NHOAH
 
-NHOAH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wild im West, Vienna on Sat, 3 Oct 2026.
+NHOAH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wild im West, Vienna on Sat, 3 Oct 2026.
 
 NHOAH is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Athens and Vienna. Often billed alongside Tanison, SAMDMA and Special Guest (US). Next up: Wild im West, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ NHOAH is a techno and trance artist based in Germany, with 14 gigs on soundcheck
 
 Tanison, SAMDMA, Special Guest (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhoah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhoah/)*

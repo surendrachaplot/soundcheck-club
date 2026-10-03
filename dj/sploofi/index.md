@@ -1,6 +1,6 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Sploofi is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
 Sploofi is a techno and experimental artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Berlin, Montreal and New York City and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: RADION, Amsterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Sploofi is a techno and experimental artist based in United States of America, w
 
 Nicolò Bernardi, Ron Like Hell, Denise Rabe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*

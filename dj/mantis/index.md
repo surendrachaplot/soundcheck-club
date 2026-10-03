@@ -1,6 +1,6 @@
 # MANTIS
 
-MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+MANTIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 MANTIS is a techno and acid artist, with 28 gigs on soundcheck across Berlin, Hamburg, Prague and Rome and 2 more. Often billed alongside DJ Blockflöte 2000, Frank Rayo and KIM AHLF. Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MANTIS is a techno and acid artist, with 28 gigs on soundcheck across Berlin, Ha
 
 DJ Blockflöte 2000, Frank Rayo, KIM AHLF
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantis/)*

@@ -1,6 +1,6 @@
 # Jonathan Kusuma
 
-Jonathan Kusuma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 30 Oct 2026.
+Jonathan Kusuma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 30 Oct 2026.
 
 Jonathan Kusuma is a house and techno artist based in Indonesia, with 37 gigs on soundcheck across Bali, Bangkok, Berlin and Hong Kong and 5 more. Often billed alongside YAMARCHY, Kimoji and Monkey Timers. Next up: Klymax Discotheque, Bali on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jonathan Kusuma is a house and techno artist based in Indonesia, with 37 gigs on
 
 YAMARCHY, Kimoji, Monkey Timers
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*

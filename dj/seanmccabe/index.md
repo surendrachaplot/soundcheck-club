@@ -1,6 +1,6 @@
 # Sean McCabe
 
-Sean McCabe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hootananny Brixton, London on Sat, 24 Oct 2026.
+Sean McCabe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hootananny Brixton, London on Sat, 24 Oct 2026.
 
 Sean McCabe is a deep house and house artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 6 more. Often billed alongside Sy Sez, Atjazz and Dave Law. Next up: Hootananny Brixton, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sean McCabe is a deep house and house artist based in United Kingdom, with 29 gi
 
 Sy Sez, Atjazz, Dave Law
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanmccabe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanmccabe/)*

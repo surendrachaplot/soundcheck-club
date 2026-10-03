@@ -1,6 +1,6 @@
 # MarsattacX
 
-MarsattacX is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Killing Time, Valencia on Thu, 8 Oct 2026.
+MarsattacX is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Killing Time, Valencia on Thu, 8 Oct 2026.
 
 MarsattacX is an electro and techno artist based in Ukraine, with 19 gigs on soundcheck across Barcelona, Berlin and Valencia. Often billed alongside Lucho (VE), Kala Ros and Bejenec. Next up: Killing Time, Valencia on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ MarsattacX is an electro and techno artist based in Ukraine, with 19 gigs on sou
 
 Lucho (VE), Kala Ros, Bejenec
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*

@@ -1,6 +1,6 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Neel is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Neel is a techno and electronica artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -18,6 +18,7 @@ Neel is a techno and electronica artist based in Italy, with 102 gigs on soundch
 
 ## Recently played
 
+- Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Tresor / Globus, Berlin · Fri, 25 Sept 2026
 - THE MAGICK BAR, Rome · Sat, 12 Sept 2026
 - THE MAGICK BAR, Rome · Sat, 12 Sept 2026
@@ -25,10 +26,9 @@ Neel is a techno and electronica artist based in Italy, with 102 gigs on soundch
 - THE MAGICK BAR, Rome · Fri, 24 Jul 2026
 - THE MAGICK BAR, Rome · Sat, 4 Jul 2026
 - DURO, Milan · Sat, 27 Jun 2026
-- THE MAGICK BAR, Rome · Sat, 30 May 2026
 
 ## Shares bills with
 
 Anthony Linell, Donato Dozzy, Kudeki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

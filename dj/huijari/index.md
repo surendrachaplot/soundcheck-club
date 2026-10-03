@@ -1,6 +1,6 @@
 # Huijari
 
-Huijari is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stidilä, Helsinki on Sat, 24 Oct 2026.
+Huijari is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stidilä, Helsinki on Sat, 24 Oct 2026.
 
 Huijari is a techno and experimental artist, with 15 gigs on soundcheck across Helsinki, London, Riga and Stockholm. Often billed alongside Katvyl, Ozan and €TOM. Next up: Stidilä, Helsinki on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Huijari is a techno and experimental artist, with 15 gigs on soundcheck across H
 
 Katvyl, Ozan, €TOM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*

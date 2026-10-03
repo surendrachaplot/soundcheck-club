@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 29 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "KATÁRSIS ELECTRÓNIKA: Last Men On Earth, Brisa Then, Evelyn Jaz, Eva Levy, Pájaro Negro" on Fri, 2 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 28 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM" on Fri, 2 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 29 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Brisa Then and Carlos Alcañiz and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Carlos Alcañiz and Danjers and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | KATÁRSIS ELECTRÓNIKA: Last Men On Earth, Brisa Then, Evelyn Jaz, Eva Levy, Pájaro Negro | Brisa Then, Centurion One, El Pájaro Negro, Evelyn Jaz, Last Men On Earth |
 | Fri, 2 Oct 2026 | Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM | Leroy Se Meurt |
 | Sat, 3 Oct 2026 | BACK TO THE CLUB: Canito, David Kano, Sandro Bianchi |  |
 | Sun, 4 Oct 2026 | RIOT CLUB: Cocobongo, Rebeca Beisti, Arok Shiva | Arok Shiva |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 29 upcoming gigs, wi
 | Sat, 10 Oct 2026 | TECHNODROME: PAULITTAHH, Linda Lenor, Joui | Linda Lenor, PAULITTAHH |
 | Sun, 11 Oct 2026 | RIOT CLUB & HARDCORE SPAIN: Kelly B & Seiken, Arok Shiva, Jorge Carreño & Arancha Martin | Arok Shiva, Kelly B |
 | Sun, 11 Oct 2026 | BOSSA: Grau, Héctor Pericet, Julio Machicado, Tony Mutton | Grau (ES), Héctor Pericet, Julio Machicado |
+| Thu, 15 Oct 2026 | TECHNETIUM X EUPHORIA: Raner Baumgartner, Kaattech, KITAE, Salvatore | KITAE, Raner Baumgartner |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

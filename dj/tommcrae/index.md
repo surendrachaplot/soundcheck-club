@@ -1,6 +1,6 @@
 # Tom McRae
 
-Tom McRae is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Arch 14, London on Sat, 17 Oct 2026.
+Tom McRae is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Arch 14, London on Sat, 17 Oct 2026.
 
 Tom McRae is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza and London. Often billed alongside Curby, Dan Anderson and Mitch Barclay. Next up: Arch 14, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tom McRae is a house and deep house artist based in United Kingdom, with 11 gigs
 
 Curby, Dan Anderson, Mitch Barclay
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommcrae/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommcrae/)*

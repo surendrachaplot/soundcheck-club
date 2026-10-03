@@ -1,6 +1,6 @@
 # Leü (GE)
 
-Leü (GE) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+Leü (GE) is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 Leü (GE) is a techno and disco artist based in Georgia, with 8 gigs on soundcheck across Tbilisi. Often billed alongside KAKI (GE), Sevda and Ash Scholem. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Leü (GE) is a techno and disco artist based in Georgia, with 8 gigs on soundche
 
 KAKI (GE), Sevda, Ash Scholem
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leu-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leu-1/)*

@@ -1,14 +1,13 @@
 # Mike The Connector
 
-Mike The Connector is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nordstern, Basel on Fri, 2 Oct 2026.
+Mike The Connector is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hive Club, Zurich on Sat, 10 Oct 2026.
 
-Mike The Connector is a house and tech house artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 1 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Nordstern, Basel on Fri 2 Oct.
+Mike The Connector is a house and tech house artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 1 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Hive Club, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Nordstern | Basel |
 | Sat, 10 Oct 2026 | Hive Club | Zurich |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 23 Oct 2026 | Yellow House | Amsterdam |
@@ -16,6 +15,7 @@ Mike The Connector is a house and tech house artist based in Switzerland, with 2
 
 ## Recently played
 
+- Nordstern, Basel · Fri, 2 Oct 2026
 - TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 - Hive Club, Zurich · Sat, 13 Jun 2026
 - Supermarket, Zurich · Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Mike The Connector is a house and tech house artist based in Switzerland, with 2
 - Hive Club, Zurich · Sat, 16 May 2026
 - L'industrie, Geneva · Fri, 24 Apr 2026
 - Nordstern, Basel · Sat, 11 Apr 2026
-- Hive Club, Zurich · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Alex Belluscio, Caromelle, AANN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*

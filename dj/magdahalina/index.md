@@ -1,6 +1,6 @@
 # Magda Halina
 
-Magda Halina is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+Magda Halina is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 Magda Halina is a tech house and house artist based in Canada, with 10 gigs on soundcheck across Los Angeles, San Diego and Seattle. Often billed alongside Mogli, CANDL and Michelle Mendez. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Magda Halina is a tech house and house artist based in Canada, with 10 gigs on s
 
 Mogli, CANDL, Michelle Mendez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdahalina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdahalina/)*

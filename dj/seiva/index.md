@@ -1,6 +1,6 @@
 # seiva
 
-seiva is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+seiva is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 seiva is a breakbeat and bass artist, with 32 gigs on soundcheck across Berlin, Central, Lisbon and London and 2 more. Often billed alongside Circa Papi, Fogou and C0linas. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ seiva is a breakbeat and bass artist, with 32 gigs on soundcheck across Berlin, 
 
 Circa Papi, Fogou, C0linas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiva/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiva/)*

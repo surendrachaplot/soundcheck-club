@@ -1,6 +1,6 @@
 # DJ WIFI
 
-DJ WIFI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+DJ WIFI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 DJ WIFI is a techno and trance artist based in United States of America, with 46 gigs on soundcheck across Berlin, Chicago, Hamburg and London and 9 more. Often billed alongside Ca$h Bandicoot, Crystal O and Joey. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DJ WIFI is a techno and trance artist based in United States of America, with 46
 
 Ca$h Bandicoot, Crystal O, Joey (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi/)*

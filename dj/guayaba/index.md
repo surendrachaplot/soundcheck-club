@@ -1,6 +1,6 @@
 # Guayaba
 
-Guayaba is a Club and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo Magnolia, Milan on Sat, 17 Oct 2026.
+Guayaba is a Club and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circolo Magnolia, Milan on Sat, 17 Oct 2026.
 
 Guayaba is a club and dubstep artist based in Colombia, with 18 gigs on soundcheck across Madrid and Milan. Often billed alongside Cristian Comes, Violett Moon and HAAS (IT). Next up: Circolo Magnolia, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Guayaba is a club and dubstep artist based in Colombia, with 18 gigs on soundche
 
 Cristian Comes, Violett Moon, HAAS (IT)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guayaba/)*

@@ -1,6 +1,6 @@
 # Visible Cloaks
 
-Visible Cloaks is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Visible Cloaks is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Visible Cloaks is an experimental and ambient artist based in United States of America, with 12 gigs on soundcheck across London, Mexico City, New York City and Osaka and 6 more. Often billed alongside Yoshio Ojima, Arca and DJ Healthy. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -14,6 +14,7 @@ Visible Cloaks is an experimental and ambient artist based in United States of A
 
 ## Recently played
 
+- Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - TBA - Frontera 88, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City · Fri, 22 May 2026
 - TBA - GREEN WISE, Tokyo · Sat, 1 Nov 2025
 - Club Daphnia, Osaka · Thu, 30 Oct 2025
@@ -21,10 +22,9 @@ Visible Cloaks is an experimental and ambient artist based in United States of A
 - The Crocodile, Seattle · Wed, 2 Apr 2025
 - IKLECTIK, London · Wed, 1 Nov 2023
 - public records, New York City · Thu, 28 Sept 2023
-- public records, New York City · Wed, 27 Sept 2023
 
 ## Shares bills with
 
 Yoshio Ojima, Arca, DJ Healthy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*

@@ -1,6 +1,6 @@
 # Gareden
 
-Gareden is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Gareden is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Gareden is a house and club artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne. Often billed alongside Black Box, ZARE and Ginchy. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Gareden is a house and club artist based in Germany, with 5 gigs on soundcheck a
 
 Black Box, ZARE, Ginchy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*

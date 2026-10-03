@@ -1,8 +1,8 @@
 # DJ Black Moses
 
-DJ Black Moses is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rolling Stock, London on Sat, 7 Nov 2026.
+DJ Black Moses is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rolling Stock, London on Sat, 7 Nov 2026.
 
-DJ Black Moses is a techno and house artist, with 9 gigs on soundcheck across London and Paris. Often billed alongside The Snatcha, Caren G. and Ryan Pamatmat. Next up: Rolling Stock, London on Sat 7 Nov.
+DJ Black Moses is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across London and Paris. Often billed alongside The Snatcha, Caren G. and Ryan Pamatmat. Next up: Rolling Stock, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Black Moses is a techno and house artist, with 9 gigs on soundcheck across Lo
 
 The Snatcha, Caren G., Ryan Pamatmat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*

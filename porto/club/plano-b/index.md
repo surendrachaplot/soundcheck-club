@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Savant Fair" on Fri, 2 Oct 2026.
+Plano B is a music venue in Porto with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tiago Cruz" on Sat, 3 Oct 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 18 upcoming gigs, with line-ups including 9T2, Alive, Bruno and Catarina Silva and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 17 upcoming gigs, with line-ups including 9T2, Alive, Bruno and Catarina Silva and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Savant Fair | Joao Semedo, Savant Fair |
 | Sat, 3 Oct 2026 | Tiago Cruz | Rui Trintaeum |
 | Thu, 8 Oct 2026 | NIGHTSHIFT - MadRaff + Xavier |  |
 | Fri, 9 Oct 2026 | Gusta-vo |  |
@@ -18,9 +17,10 @@ Plano B is a music venue in Porto listed on soundcheck. 18 upcoming gigs, with l
 | Sat, 17 Oct 2026 | 20 VINTE XX |  |
 | Thu, 22 Oct 2026 | NIGHTSHIFT - Alive + Pedro Tinoco | Alive |
 | Fri, 23 Oct 2026 | Catarina Silva | Catarina Silva |
+| Sat, 24 Oct 2026 | Nuno Lopes | Dupplo |
 
 ## Address
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

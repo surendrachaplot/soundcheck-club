@@ -1,6 +1,6 @@
 # Bella Bella
 
-Bella Bella is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Killa, Sydney on Sat, 24 Oct 2026.
+Bella Bella is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Killa, Sydney on Sat, 24 Oct 2026.
 
 Bella Bella is a garage and house artist based in Australia, with 30 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Obeido and Speed CD. Next up: TBA - Studio Killa, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bella Bella is a garage and house artist based in Australia, with 30 gigs on sou
 
 Bouki, Obeido, Speed CD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabella/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabella/)*

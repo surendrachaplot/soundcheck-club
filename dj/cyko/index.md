@@ -1,6 +1,6 @@
 # Cyko
 
-Cyko is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Cyko is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
 
 Cyko is a minimal and house artist based in Belgium, with 27 gigs on soundcheck across Berlin. Often billed alongside Annina, Papa K and Scoopsi. Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cyko is a minimal and house artist based in Belgium, with 27 gigs on soundcheck 
 
 Annina, Papa K, Scoopsi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyko/)*

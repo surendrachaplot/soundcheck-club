@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "OST Free Rave" on Fri, 2 Oct 2026.
+OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford " on Sat, 3 Oct 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | OST Free Rave | An Chen, FINYA, HOTBOI2300, Michael Klotz, Paul Wolf, senaitstar |
 | Sat, 3 Oct 2026 | Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford  | Alas (2), Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, LAMMER, The Muffin Man, VIVI909, XIMA, Yasmin Regisford |
 | Thu, 8 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | TIKOA |
 | Fri, 9 Oct 2026 | VERKNIPT Germany - Berlin - October 9 | ANDATA, Charleen Herzig, Johannes Schuster, Niotech, SAIKA, SUSKA, TRIPTYKH |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line
 | Fri, 16 Oct 2026 | Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG | A.N.I., BLACK(JP), Billy Currie, KLING&KLANG, Kø:lab, Nettta, SEKTOR69, SWAGGER, SaltySis |
 | Sat, 17 Oct 2026 | Pinky Promise: Midnight Circus | Amowia, Elias Doré, KinoKo, babxi, nasnan |
 | Thu, 22 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Jayé, Viktoria Spielmann, WAN.1 |
+| Fri, 23 Oct 2026 | ODD pres Paracek | Amo (IT), BNZN, Charleen Herzig, Danilo Filipe, Hanne B, JUICY (DE), Levt, Lisek, Melanchromie, Paraçek |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

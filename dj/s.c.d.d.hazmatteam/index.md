@@ -1,6 +1,6 @@
 # S.C.D.D. Hazmat Team
 
-S.C.D.D. Hazmat Team is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Thu, 29 Oct 2026.
+S.C.D.D. Hazmat Team is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Thu, 29 Oct 2026.
 
 S.C.D.D. Hazmat Team is a techno and house artist based in Australia, with 8 gigs on soundcheck across Berlin, Ibiza, London and New York City. Often billed alongside DJ Boneyard, KETTAMA and LO-LOW. Next up: The Glove That Fits, London on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ S.C.D.D. Hazmat Team is a techno and house artist based in Australia, with 8 gig
 
 DJ Boneyard, KETTAMA, LO-LOW
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.c.d.d.hazmatteam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.c.d.d.hazmatteam/)*

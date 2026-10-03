@@ -1,6 +1,6 @@
 # gabby cocco
 
-gabby cocco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
+gabby cocco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
 
 gabby cocco is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Mexico City and New York City. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Good Room, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ gabby cocco is a house and techno artist based in United States of America, with
 
 Chloe Battelle, James Juke, Rachel Opert
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*

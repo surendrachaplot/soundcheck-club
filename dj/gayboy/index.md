@@ -1,6 +1,6 @@
 # GayBoy
 
-GayBoy is a Progressive House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+GayBoy is a Progressive House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
 
 GayBoy is a progressive house and italo disco artist based in United Kingdom, with 9 gigs on soundcheck across Manchester and Newcastle. Often billed alongside JAMS (UK), King Kit and L-ILY. Next up: Honey Street Studio, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GayBoy is a progressive house and italo disco artist based in United Kingdom, wi
 
 JAMS (UK), King Kit, L-ILY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayboy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayboy/)*

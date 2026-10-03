@@ -1,6 +1,6 @@
 # Borisov Amsterdam
 
-Borisov Amsterdam is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BARBAR: Merel Helderman & SECRET ACT" on Sat, 10 Oct 2026.
+Borisov Amsterdam is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BARBAR: Merel Helderman & SECRET ACT" on Sat, 10 Oct 2026.
 
 Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including frederic, Gizem, Hafa and Hame and 2 more. See dates, start times and who's playing. Rigakade 10 1013 BC Amsterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Borisov Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming
 
 Rigakade 10 1013 BC Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/borisov-amsterdam/)*

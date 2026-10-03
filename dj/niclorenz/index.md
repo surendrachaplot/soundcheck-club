@@ -1,6 +1,6 @@
 # Nic Lorenz
 
-Nic Lorenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
+Nic Lorenz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
 Nic Lorenz is a techno and house artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 4 more. Often billed alongside Avocado, Chris Di Perri and Dave Dinger. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nic Lorenz is a techno and house artist based in Germany, with 38 gigs on soundc
 
 Avocado, Chris Di Perri, Dave Dinger
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niclorenz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niclorenz/)*

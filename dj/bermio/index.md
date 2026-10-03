@@ -1,6 +1,6 @@
 # Bermio
 
-Bermio is a Techno and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+Bermio is a Techno and Classical artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 Bermio is a techno and classical artist based in Belgium, with 12 gigs on soundcheck across Amsterdam, Antwerp and Brussels. Often billed alongside Luna Lucci, Joyhauser and Klaps. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Bermio is a techno and classical artist based in Belgium, with 12 gigs on soundc
 
 Luna Lucci, Joyhauser, Klaps
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bermio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bermio/)*

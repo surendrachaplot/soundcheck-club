@@ -1,6 +1,6 @@
 # Cassa Cristano
 
-Cassa Cristano is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+Cassa Cristano is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 Cassa Cristano is a techno and trance artist based in Germany, with 84 gigs on soundcheck across Cologne, Frankfurt and Nürnberg. Often billed alongside Klang der Nacht, Mantraa and Mario Angelo. Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Cassa Cristano is a techno and trance artist based in Germany, with 84 gigs on s
 
 Klang der Nacht, Mantraa, Mario Angelo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassacristano/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassacristano/)*

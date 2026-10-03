@@ -1,6 +1,6 @@
 # Luca Guerrieri
 
-Luca Guerrieri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+Luca Guerrieri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
 Luca Guerrieri is a house and tech house artist based in Italy, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Black Legend, Angelo Ferreri and DJ Freespirit. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Luca Guerrieri is a house and tech house artist based in Italy, with 3 gigs on s
 
 Black Legend, Angelo Ferreri, DJ Freespirit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguerrieri/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaguerrieri/)*

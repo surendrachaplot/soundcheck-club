@@ -1,6 +1,6 @@
 # Tudse
 
-Tudse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Tudse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Tudse is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Empro, Coco and Phauna. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Tudse is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 2 Oct 2026
 - Jonny Knüppel, Berlin · Sat, 5 Sept 2026
 - Jonny Knüppel, Berlin · Sat, 18 Apr 2026
 - Hoppetosse, Berlin · Fri, 13 Mar 2026
@@ -19,10 +20,9 @@ Tudse is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 - Renate, Berlin · Thu, 11 Dec 2025
 - Renate, Berlin · Fri, 31 Oct 2025
 - Südpol, Hamburg · Fri, 17 Oct 2025
-- Hoppetosse, Berlin · Fri, 12 Sept 2025
 
 ## Shares bills with
 
 Empro, Coco, Phauna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tudse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tudse/)*

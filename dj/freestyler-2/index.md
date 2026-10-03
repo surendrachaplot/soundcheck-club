@@ -1,6 +1,6 @@
 # Freestyler (2)
 
-Freestyler (2) is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+Freestyler (2) is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 Freestyler is a club and experimental artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 4 more. Often billed alongside bod [包家巷], EuroEyez and Europa. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Freestyler is a club and experimental artist based in Germany, with 27 gigs on s
 
 bod [包家巷], EuroEyez, Europa (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*

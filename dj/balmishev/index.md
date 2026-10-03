@@ -1,6 +1,6 @@
 # Balmishev
 
-Balmishev is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
+Balmishev is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at B2 Rīga, Riga on Sat, 17 Oct 2026.
 
 Balmishev is a house and tech house artist, with 11 gigs on soundcheck across Barcelona and Riga. Often billed alongside Kapusta, Manav/draugu and Nicolas Barnes. Next up: B2 Rīga, Riga on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Balmishev is a house and tech house artist, with 11 gigs on soundcheck across Ba
 
 Kapusta, Manav/draugu, Nicolas Barnes
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balmishev/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balmishev/)*

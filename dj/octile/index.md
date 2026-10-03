@@ -1,6 +1,6 @@
 # Octile
 
-Octile is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
+Octile is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
 
 Octile is a house and minimal artist based in Hungary, with 46 gigs on soundcheck across Budapest. Often billed alongside Korosi, Robert Dobak and Kernel. Next up: Atno, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Octile is a house and minimal artist based in Hungary, with 46 gigs on soundchec
 
 Korosi, Robert Dobak, Kernel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octile/)*

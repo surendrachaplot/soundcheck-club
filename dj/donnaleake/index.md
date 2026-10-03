@@ -1,14 +1,13 @@
 # Donna Leake
 
-Donna Leake is a Jazz and Dub artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+Donna Leake is a Jazz and Dub artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Compufunk Records, Osaka on Fri, 9 Oct 2026.
 
-Donna Leake is a jazz and dub artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
+Donna Leake is a jazz and dub artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: Compufunk Records, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Garden Shinkiba Factory | Tokyo |
 | Fri, 9 Oct 2026 | Compufunk Records | Osaka |
 | Sat, 17 Oct 2026 | Om Being | London |
 | Sat, 7 Nov 2026 | Movers | Nottingham |
@@ -29,4 +28,4 @@ Donna Leake is a jazz and dub artist based in United Kingdom, with 85 gigs on so
 
 Haseeb Iqbal, Konduku, Suze Ijó
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*

@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DJ Dustin, Jetti, Han" on Fri, 2 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "DJ Spinn, BMLé BMLé, Tempest" on Sat, 3 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | DJ Dustin, Jetti, Han | DJ Dustin, Han, Jetti |
 | Sat, 3 Oct 2026 | DJ Spinn, BMLé BMLé, Tempest | DJ Spinn |
 | Fri, 9 Oct 2026 | Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro | Andy Garvey, Buttechno, Daya, Lara Renner |
 | Sat, 10 Oct 2026 | klub Krai x b:3tter irl x Smokeshow | Celeb, Chickenmilk dot com, EVER, Freestyler (2), Krai, Tracey, baby ganoush |
@@ -18,9 +17,10 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 16 upcoming gig
 | Thu, 22 Oct 2026 | Interfering Grounds x Futura Artists | Budino, Camille Maria, Crisp Sandwich, Lena Willikens, Rosa, upsammy |
 | Thu, 22 Oct 2026 | Sandbox Selects // ADE | Andre Zimmer, Anthea, Courtesy, Misty |
 | Fri, 23 Oct 2026 | Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) | DJ Bone, OUST |
+| Sat, 24 Oct 2026 | GN does a party with Nyege Nyege & Trackwork |  |
 
 ## Address
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

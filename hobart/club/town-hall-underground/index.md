@@ -1,6 +1,6 @@
 # Town Hall Underground
 
-Town Hall Underground is a music venue in Hobart with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Subvert" on Fri, 23 Oct 2026.
+Town Hall Underground is a music venue in Hobart with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Subvert" on Fri, 23 Oct 2026.
 
 Town Hall Underground is a music venue in Hobart listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 50 Macquarie Street, Hobart, Tasmania, Australia, 7000.
 
@@ -14,4 +14,4 @@ Town Hall Underground is a music venue in Hobart listed on soundcheck. 1 upcomin
 
 50 Macquarie Street, Hobart, Tasmania, Australia, 7000, Hobart
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/town-hall-underground/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/town-hall-underground/)*

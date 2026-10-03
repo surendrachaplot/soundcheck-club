@@ -1,6 +1,6 @@
 # KVLR
 
-KVLR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
+KVLR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
 
 KVLR is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside DJ SOURCE, fbi and yamagucci42. Next up: glimmer, Hamburg on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KVLR is a techno and house artist based in Germany, with 81 gigs on soundcheck a
 
 DJ SOURCE, fbi (1), yamagucci42
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*

@@ -1,6 +1,6 @@
 # Calcium Channel
 
-Calcium Channel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+Calcium Channel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 Calcium Channel is a techno and house artist based in Australia, with 28 gigs on soundcheck across Berlin. Often billed alongside Mister Willis, selo and Clarisse. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Calcium Channel is a techno and house artist based in Australia, with 28 gigs on
 
 Mister Willis, selo, Clarisse
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calciumchannel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calciumchannel/)*

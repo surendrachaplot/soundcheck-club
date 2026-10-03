@@ -1,6 +1,6 @@
 # Talantösis
 
-Talantösis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 2ten, Athens on Tue, 27 Oct 2026.
+Talantösis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 2ten, Athens on Tue, 27 Oct 2026.
 
 Talantösis is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Athens, Berlin and London. Often billed alongside George Apergis, Emex and ECE (DE). Next up: 2ten, Athens on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Talantösis is a techno and house artist based in United Kingdom, with 21 gigs o
 
 George Apergis, Emex, ECE (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talantosis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talantosis/)*

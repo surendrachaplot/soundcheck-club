@@ -1,6 +1,6 @@
 # mazair
 
-mazair is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Place Sathonay, Lyon, Lyon on Sat, 10 Oct 2026.
+mazair is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Place Sathonay, Lyon, Lyon on Sat, 10 Oct 2026.
 
 mazair is a breakbeat and bass artist, with 15 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Mogan, Mouataz and Nemoz. Next up: Place Sathonay, Lyon, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ mazair is a breakbeat and bass artist, with 15 gigs on soundcheck across Lyon, M
 
 Mogan, Mouataz, Nemoz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazair/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazair/)*

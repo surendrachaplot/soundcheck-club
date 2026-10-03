@@ -1,6 +1,6 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+EMILIJA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 EMILIJA is a techno and trance artist based in Belgium, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ EMILIJA is a techno and trance artist based in Belgium, with 143 gigs on soundch
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

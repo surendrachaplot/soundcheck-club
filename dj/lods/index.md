@@ -1,6 +1,6 @@
 # Lo Ds
 
-Lo Ds is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Lo Ds is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Lo Ds is a house and minimal techno artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Mexico City and The Hague. Often billed alongside Noach, Reiss and Byron Yeates. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Lo Ds is a house and minimal techno artist based in Netherlands, with 19 gigs on
 
 Noach, Reiss, Byron Yeates
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lods/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lods/)*

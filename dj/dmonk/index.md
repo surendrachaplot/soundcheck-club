@@ -1,6 +1,6 @@
 # D'Monk
 
-D'Monk is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 9 Oct 2026.
+D'Monk is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 9 Oct 2026.
 
 D'Monk is a broken beat and house artist, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Lisbon and 2 more. Often billed alongside Ken Okuda, Orlando Rosé and Calamidades Lola. Next up: Alte Feuerwache THF, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ D'Monk is a broken beat and house artist, with 43 gigs on soundcheck across Amst
 
 Ken Okuda, Orlando Rosé, Calamidades Lola
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*

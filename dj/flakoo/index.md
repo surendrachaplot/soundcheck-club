@@ -1,6 +1,6 @@
 # FLAKOO
 
-FLAKOO is a Acid and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
+FLAKOO is a Acid and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
 
 FLAKOO is an acid and neo perreo artist based in Spain, with 18 gigs on soundcheck across Ibiza and Madrid. Often billed alongside AntZ, Trenzark and Adam Ghoneim. Next up: Summum, Ibiza on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ FLAKOO is an acid and neo perreo artist based in Spain, with 18 gigs on soundche
 
 AntZ (2), Trenzark, Adam Ghoneim
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flakoo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flakoo/)*

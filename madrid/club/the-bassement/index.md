@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "LASTER presents DÉCIMA by Nørbak with Surgeon" on Sat, 3 Oct 2026.
+The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LASTER presents DÉCIMA by Nørbak with Surgeon" on Sat, 3 Oct 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -23,4 +23,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

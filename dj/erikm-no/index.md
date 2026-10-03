@@ -1,6 +1,6 @@
 # Erik M.
 
-Erik M. is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Villa, Oslo on Fri, 16 Oct 2026.
+Erik M. is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Villa, Oslo on Fri, 16 Oct 2026.
 
 Erik M. is an electronica and experimental artist based in Norway, with 2 gigs on soundcheck across Oslo. Often billed alongside Simon Tyv, Unknown Mobile and Eurohead. Next up: The Villa, Oslo on Fri 16 Oct.
 
@@ -15,4 +15,4 @@ Erik M. is an electronica and experimental artist based in Norway, with 2 gigs o
 
 Simon Tyv, Unknown Mobile, Eurohead
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikm-no/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikm-no/)*

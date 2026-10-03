@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 2 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eventpyramide Vösendorf, Austria on Sat, 3 Oct 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Klein Phönix, Istanbul on Fri 2 Oct.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Eventpyramide Vösendorf, Austria on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Klein Phönix | Istanbul |
 | Sat, 3 Oct 2026 | Eventpyramide Vösendorf | Austria |
 | Sat, 3 Oct 2026 | Eventpyramide Vösendorf | Austria |
 | Wed, 7 Oct 2026 | Chinois Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 19 Dec 2026 | White Bay Power Station | Sydney |
 | Sun, 20 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Tue, 29 Dec 2026 | Savaya Bali | Bali |
 
 ## Recently played
 
+- Klein Phönix, Istanbul · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 28 Sept 2026
 - FOMO, Azerbaijan · Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 12 Sept 2026
@@ -30,10 +31,9 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 - UNO MALTA, Malta · Fri, 28 Aug 2026
 - UNO MALTA, Malta · Fri, 28 Aug 2026
 - Chinois Ibiza, Ibiza · Wed, 26 Aug 2026
-- Santanna Mykonos, Mykonos · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Francis Mercier, Shimza, ARODES
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

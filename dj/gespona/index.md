@@ -1,6 +1,6 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pracht, Frankfurt on Sat, 3 Oct 2026.
+Gespona is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pracht, Frankfurt on Sat, 3 Oct 2026.
 
 Gespona is a progressive house and house artist based in Spain, with 107 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 15 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Pracht, Frankfurt on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Gespona is a progressive house and house artist based in Spain, with 107 gigs on
 
 Amadori, Djolee, Martin Cozar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*

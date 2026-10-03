@@ -1,6 +1,6 @@
 # Vale.T
 
-Vale.T is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Vale.T is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Vale.T is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Caelestis, Federico Patafi and Robert De Neer. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Vale.T is a techno and tech house artist based in Netherlands, with 13 gigs on s
 
 Caelestis, Federico Patafi, Robert De Neer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vale.t/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vale.t/)*

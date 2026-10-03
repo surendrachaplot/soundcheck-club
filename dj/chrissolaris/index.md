@@ -1,6 +1,6 @@
 # Chris Solaris
 
-Chris Solaris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jaeger, Oslo on Sat, 3 Oct 2026.
+Chris Solaris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jaeger, Oslo on Sat, 3 Oct 2026.
 
 Chris Solaris is a house and techno artist based in Norway, with 31 gigs on soundcheck across Amsterdam, Berlin, London and Oslo. Often billed alongside Tod Louie, Karl Fraunhofer and Thomas Refvik. Next up: Jaeger, Oslo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Chris Solaris is a house and techno artist based in Norway, with 31 gigs on soun
 
 Tod Louie, Karl Fraunhofer, Thomas Refvik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissolaris/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissolaris/)*

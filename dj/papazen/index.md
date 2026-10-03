@@ -1,6 +1,6 @@
 # papa zen
 
-papa zen is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alternity, Toronto on Sat, 31 Oct 2026.
+papa zen is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Alternity, Toronto on Sat, 31 Oct 2026.
 
 papa zen is a jungle and drum & bass artist, with 8 gigs on soundcheck across Montreal and Toronto. Often billed alongside Wally, maxedvisa and Ana Luisa. Next up: Alternity, Toronto on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ papa zen is a jungle and drum & bass artist, with 8 gigs on soundcheck across Mo
 
 Wally, maxedvisa, Ana Luisa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papazen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papazen/)*

@@ -1,6 +1,6 @@
 # Victor Krum
 
-Victor Krum is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
+Victor Krum is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
 
 Victor Krum is a techno and electronica artist based in Ireland, with 24 gigs on soundcheck across Belfast, Brisbane, Dublin and Glasgow and 1 more. Often billed alongside NAT TYPE, Cailín and Connect. Next up: Index, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Victor Krum is a techno and electronica artist based in Ireland, with 24 gigs on
 
 NAT TYPE, Cailín, Connect
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorkrum/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorkrum/)*

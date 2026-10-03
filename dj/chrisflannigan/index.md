@@ -1,6 +1,6 @@
 # Chris Flannigan
 
-Chris Flannigan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 17 Oct 2026.
+Chris Flannigan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 17 Oct 2026.
 
 Chris Flannigan is a techno and house artist based in United Kingdom, with 30 gigs on soundcheck across Aberdeen, Belfast, Berlin and Cork and 5 more. Often billed alongside CIAN__, HI-KRU and Princess Glitoris. Next up: The Ulster Sports Club, Belfast on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Chris Flannigan is a techno and house artist based in United Kingdom, with 30 gi
 
 CIAN__, HI-KRU, Princess Glitoris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisflannigan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisflannigan/)*

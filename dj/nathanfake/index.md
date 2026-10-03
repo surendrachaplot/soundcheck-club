@@ -1,6 +1,6 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
 
 Nathan Fake is a techno and electro artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, with 23 gigs
 
 Gold Panda, Alex Wilcox, Arsenal Mikebe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

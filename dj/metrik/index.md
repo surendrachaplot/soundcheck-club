@@ -1,8 +1,8 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Metrik is a Drum & Bass and Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
 
-Metrik is a drum & bass and bass artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 21 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: halle02, Heidelberg on Sat 3 Oct.
+Metrik is a drum & bass and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 22 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: halle02, Heidelberg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 58 gigs on
 | Fri, 23 Oct 2026 | Quarters | Brighton |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
+| Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Fri, 22 Jan 2027 | Sala Dresden | Barcelona |
@@ -31,4 +32,4 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 58 gigs on
 
 Camo & Krooked, Degs, P Money
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

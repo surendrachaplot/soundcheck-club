@@ -1,6 +1,6 @@
 # El (1)
 
-El (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
+El (1) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
 
 El is a techno and electronica artist, with 8 gigs on soundcheck across Bali, Berlin, Brighton and London and 1 more. Often billed alongside Sweetpea, Trimer and 00rt. Next up: Klunkerkranich, Berlin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ El is a techno and electronica artist, with 8 gigs on soundcheck across Bali, Be
 
 Sweetpea, Trimer, 00rt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/el-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/el-1/)*

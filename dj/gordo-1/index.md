@@ -1,6 +1,6 @@
 # Gordo (1)
 
-Gordo (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Gordo (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
 
 Gordo is a house and tech house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Athens, Austin and Ibiza and 6 more. Often billed alongside Blackchild, Denis Sulta and FISHER. Next up: [UNVRS], Ibiza on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Gordo is a house and tech house artist based in United States of America, with 1
 
 Blackchild, Denis Sulta, FISHER
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo-1/)*

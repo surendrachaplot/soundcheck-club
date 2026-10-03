@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV" on Fri, 2 Oct 2026.
+ÆDEN is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BLACK OWLS - TECHNO and D'N'B" on Thu, 8 Oct 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, The Camel, Vaccaro |
 | Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
@@ -18,9 +17,10 @@
 | Sat, 24 Oct 2026 | silikon with Bae Blade, HANAA, ELOISA, Maudux | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
 | Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
 | Sat, 31 Oct 2026 | Cuddles Halloween | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
+| Sat, 7 Nov 2026 | Anechoic:  | August Kind |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

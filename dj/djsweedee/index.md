@@ -1,6 +1,6 @@
 # DJ Sweedee
 
-DJ Sweedee is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat, 17 Oct 2026.
+DJ Sweedee is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat, 17 Oct 2026.
 
 DJ Sweedee is a trance and techno artist, with 38 gigs on soundcheck across Basel, Berlin, Frankfurt and Leipzig and 2 more. Often billed alongside Sober At The Disco, Lisek and OCIN. Next up: TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Sweedee is a trance and techno artist, with 38 gigs on soundcheck across Base
 
 Sober At The Disco, Lisek, OCIN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweedee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweedee/)*

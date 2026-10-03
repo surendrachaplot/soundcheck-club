@@ -1,6 +1,6 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+Emanuel Satie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
 Emanuel Satie is a house and techno artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: TBA - Archi Club, Costanera, Buenos Aires on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Emanuel Satie is a house and techno artist based in Germany, with 96 gigs on sou
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

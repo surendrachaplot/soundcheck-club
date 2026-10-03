@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BRIDGE 48 — 2 ROOMS Sound Immersive Experience" on Fri, 2 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Momentum - Episode 002" on Sat, 3 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Agoostina, Anka, chinobi and Diego Ro-k and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Agoostina, Anka, chinobi and Diego Ro-k and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Nesi, Piem, The Checkup |
 | Sat, 3 Oct 2026 | Momentum - Episode 002 |  |
 | Thu, 8 Oct 2026 | B48 live x BEHIND | J Key, Monty, Monzo, REXER |
 | Fri, 9 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience |  |
@@ -18,9 +17,10 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, 
 | Fri, 23 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Agoostina, TBA, chinobi |
 | Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic |
 | Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Diego Ro-k, Mac (4) |
+| Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT |  |
 
 ## Address
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

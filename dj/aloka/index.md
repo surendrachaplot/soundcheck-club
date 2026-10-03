@@ -1,6 +1,6 @@
 # Aloka
 
-Aloka is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+Aloka is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
 
 Aloka is a techno and electro artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside RONI, DJ Stingray 313 and Dusty Dan. Next up: Bal Chavaux, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Aloka is a techno and electro artist based in United Kingdom, with 53 gigs on so
 
 RONI, DJ Stingray 313, Dusty Dan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aloka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aloka/)*

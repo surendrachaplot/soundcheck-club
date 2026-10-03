@@ -1,6 +1,6 @@
 # Chopper
 
-Chopper is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
+Chopper is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Chopper is a tech house and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside FINKY, Ryan Resso and ALISHA. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ Chopper is a tech house and house artist based in United Kingdom, with 26 gigs o
 
 FINKY, Ryan Resso, ALISHA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*

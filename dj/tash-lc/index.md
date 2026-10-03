@@ -1,14 +1,13 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Tash LC is a House and Dancehall artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
 
-Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | Ormside Projects | London |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
@@ -16,6 +15,7 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs o
 
 ## Recently played
 
+- QUIVR, Brisbane · Fri, 2 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
 - Else, Berlin · Sat, 5 Sept 2026
 - Ormside Projects, London · Sun, 30 Aug 2026
@@ -23,10 +23,9 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs o
 - Aaja Basement, London · Fri, 24 Jul 2026
 - The Prospect Building, Bristol · Sat, 27 Jun 2026
 - Πεδίον του Άρεως / Pedion Areos, Athens · Thu, 25 Jun 2026
-- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Jamz Supernova, Ahadadream, Eris Drew
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

@@ -1,6 +1,6 @@
 # Phil Evans
 
-Phil Evans is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
+Phil Evans is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 Phil Evans is a house and techno artist based in Germany, with 28 gigs on soundcheck across Barcelona, Berlin, Bucharest and Budapest and 7 more. Often billed alongside Markus Sommer, Tiago Walter and Dana Ruh. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Phil Evans is a house and techno artist based in Germany, with 28 gigs on soundc
 
 Markus Sommer, Tiago Walter, Dana Ruh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*

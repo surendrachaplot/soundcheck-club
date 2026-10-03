@@ -1,6 +1,6 @@
 # Joe Deacon
 
-Joe Deacon is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 5 Dec 2026.
+Joe Deacon is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 5 Dec 2026.
 
 Joe Deacon is a trance and hardcore artist based in United Kingdom, with 16 gigs on soundcheck across Glasgow. Often billed alongside DJ Zitkus, Ian Van Dahl and Ultrabeat. Next up: The Classic Grand, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Joe Deacon is a trance and hardcore artist based in United Kingdom, with 16 gigs
 
 DJ Zitkus, Ian Van Dahl, Ultrabeat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joedeacon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joedeacon/)*

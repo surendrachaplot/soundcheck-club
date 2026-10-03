@@ -1,6 +1,6 @@
 # dj latinchat
 
-dj latinchat is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lark, Berlin on Sat, 3 Oct 2026.
+dj latinchat is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lark, Berlin on Sat, 3 Oct 2026.
 
 dj latinchat is a latin bass and bass artist based in Peru, with 23 gigs on soundcheck across Berlin and Warsaw. Often billed alongside sin serif, KALI. and auto_timer. Next up: Lark, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ dj latinchat is a latin bass and bass artist based in Peru, with 23 gigs on soun
 
 sin serif, KALI., auto_timer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlatinchat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlatinchat/)*

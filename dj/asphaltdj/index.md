@@ -1,6 +1,6 @@
 # Asphalt DJ
 
-Asphalt DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
+Asphalt DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OHM, Berlin on Sat, 17 Oct 2026.
 
 Asphalt DJ is a techno and house artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg. Often billed alongside Gzardin, evin and Dj Heartbreak. Next up: OHM, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Asphalt DJ is a techno and house artist based in Germany, with 19 gigs on soundc
 
 Gzardin, evin, Dj Heartbreak
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asphaltdj/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asphaltdj/)*

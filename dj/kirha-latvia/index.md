@@ -1,6 +1,6 @@
 # KIRHA
 
-KIRHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B2 Rīga, Riga on Fri, 16 Oct 2026.
+KIRHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at B2 Rīga, Riga on Fri, 16 Oct 2026.
 
 KIRHA is a house and techno artist based in Latvia, with 23 gigs on soundcheck across Riga. Often billed alongside PUPA, LAMISH and Trashy Kid. Next up: B2 Rīga, Riga on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KIRHA is a house and techno artist based in Latvia, with 23 gigs on soundcheck a
 
 PUPA, LAMISH, Trashy Kid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirha-latvia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirha-latvia/)*

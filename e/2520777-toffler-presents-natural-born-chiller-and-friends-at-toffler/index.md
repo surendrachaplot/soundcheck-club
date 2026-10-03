@@ -1,6 +1,6 @@
 # Toffler presents Natural Born Chiller and friends at Toffler
 
-Toffler presents Natural Born Chiller and friends on Sat 17 Oct, Rotterdam. 2 artists: James and Luka (CH). House. See the line-up on soundcheck.
+Toffler presents Natural Born Chiller and friends on Sat 17 Oct, Rotterdam. 2 artists: James and Luka Staem. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Toffler presents Natural Born Chiller and friends on Sat 17 Oct, Rotterdam. 2 ar
 ## Line-up
 
 - James (6)
-- Luka (CH)
+- Luka Staem
 
 *Source: [soundcheck](https://soundcheck.club/e/2520777-toffler-presents-natural-born-chiller-and-friends-at-toffler/)*

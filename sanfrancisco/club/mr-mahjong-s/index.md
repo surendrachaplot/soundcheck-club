@@ -1,6 +1,6 @@
 # Mr. Mahjong’s
 
-Mr. Mahjong’s is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Underground at Mr. Mahjong's" on Sat, 3 Oct 2026.
+Mr. Mahjong’s is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Underground at Mr. Mahjong's" on Sat, 3 Oct 2026.
 
 Mr. Mahjong’s is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 260 Kearny St, San Francisco, CA 94108, USA.
 
@@ -14,4 +14,4 @@ Mr. Mahjong’s is a music venue in San Francisco/Oakland listed on soundcheck. 
 
 260 Kearny St, San Francisco, CA 94108, USA, San Francisco/Oakland
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mr-mahjong-s/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mr-mahjong-s/)*

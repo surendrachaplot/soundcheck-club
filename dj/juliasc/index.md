@@ -1,6 +1,6 @@
 # Julia SC
 
-Julia SC is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Sat, 31 Oct 2026.
+Julia SC is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 31 Oct 2026.
 
 Julia SC is a house and electro artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Alien Izz, Aquamarine and Jezebelle. Next up: Club Cheek, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Julia SC is a house and electro artist based in United Kingdom, with 13 gigs on 
 
 Alien Izz, Aquamarine, Jezebelle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasc/)*

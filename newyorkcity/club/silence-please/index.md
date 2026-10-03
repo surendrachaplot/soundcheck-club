@@ -1,14 +1,13 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Garden of Penumbra with X4N" on Fri, 2 Oct 2026.
+Silence Please is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Yasuhiro Fujioka presents John Coltrane's Centennial Celebration" on Sun, 4 Oct 2026.
 
-Silence Please is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 320, Andi, Softi and Margot and 2 more. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including 320, Andi, Softi and Margot and 2 more. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Garden of Penumbra with X4N |  |
 | Sun, 4 Oct 2026 | Yasuhiro Fujioka presents John Coltrane's Centennial Celebration |  |
 | Sun, 4 Oct 2026 | First Sundays with OurChess + Family |  |
 | Fri, 9 Oct 2026 | The Many Directions of Herbie Hancock with Marcus J. Moore |  |
@@ -21,4 +20,4 @@ Silence Please is a music venue in New York City listed on soundcheck. 8 upcomin
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

@@ -3111,6 +3111,7 @@
 /* the note a person wrote on the gig (rule 9, restored 2 Oct 2026): ink body text under the artists, above the steps; 3 lines on the stub, whole in the full stub */
 .dst-note{margin-top:2px;font:400 13px/18px var(--body);white-space:pre-line;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .dst-full .dst-note{display:block;-webkit-line-clamp:unset;overflow:visible}
+.dst-full-acts{flex-wrap:wrap}.dst-full-acts .dst-full-clip{display:contents}.dst-full-acts .dst-full-clip>:not(.dst-full-add){flex-basis:100%;order:-1}.dst-full-acts .dst-full-add{margin-top:0}
 .dst-full-note{margin:12px 0 0;font:400 13px/18px var(--body);color:var(--fg);white-space:pre-line;overflow-wrap:anywhere}
 .dst-steps{display:flex;flex-direction:column;gap:3px;padding-top:8px}
 .dst-bars{display:block;width:180px;height:24px}
@@ -3148,6 +3149,7 @@ button.dst-clip-pp::after{content:"";position:absolute;inset:-4px}
 /* under the full stub (dark surface): the same row in cream */
 .dst-full-clip{color:var(--fg)}
 .dst-full-clip .dst-clip-pp svg{fill:var(--ink)}
+.dst-full-add{margin-top:12px}   /* stays inline-flex: the icon (::before) needs it */
 /* "Pick the part": the whole sound as 72 bars, a violet 2:00 window to drag, Play, Save clip */
 .clip-trim-h{margin:0 40px 2px 0;font:800 24px/28px var(--head);letter-spacing:-.015em;color:var(--fg)}
 .clip-trim-sub{font:500 14px/20px var(--body);color:var(--muted)}
@@ -5197,7 +5199,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790968623589">
+<meta name="sc-build" content="1791041542139">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5256,7 +5258,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">133 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">133 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">96 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -10366,7 +10368,8 @@ a.dst-full-t:hover{text-decoration:underline}
           .catch(function(){ btn.disabled=false; ov.querySelector('#de-msg').textContent='Couldn’t save. Try again.'; });
       });
     }
-    function dstCardSrc(d, fmt){ return API_BASE+((d.health&&d.health.card&&d.health.card[fmt])||('/api/card/gig?entry='+encodeURIComponent(d.id)+'&fmt='+fmt)); }
+    // &c= names the clip (its key changes on add / replace / remove): the card draws its waveform, so a new clip is a new URL.
+    function dstCardSrc(d, fmt){ return API_BASE+((d.health&&d.health.card&&d.health.card[fmt])||('/api/card/gig?entry='+encodeURIComponent(d.id)+'&fmt='+fmt))+(d.clip&&d.clip.url?'&c='+encodeURIComponent(d.clip.url.split('/').pop().replace(/\.m4a$/,'')):''); }
     // Share = the stub's share card (card.js): the OS share sheet where the browser
     // has one, else save the image and copy the profile link.
     async function dstShare(d, handle){
@@ -10381,7 +10384,7 @@ a.dst-full-t:hover{text-decoration:underline}
       }catch(e){ if(e && e.name==='AbortError') return; showToast('Couldn’t save the card. Try again.'); }
     }
     // Tap a stub = the full stub (the share card) with Share. The gig name opens the gig.
-    function dstOpen(d, handle, stubEl){
+    function dstOpen(d, handle, stubEl, isMe){
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       var t=esc(dstTitle(d));
       ov.innerHTML='<div class="rc-box tc-box dst-full"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
@@ -10389,8 +10392,11 @@ a.dst-full-t:hover{text-decoration:underline}
         '<img class="dst-full-img" alt="'+attrEsc('Gig stub: '+dstTitle(d))+'" src="'+attrEsc(dstCardSrc(d,'story'))+'">'+
         // the WHOLE note, under the card (the card picture does not carry it)
         (String(d.note||'').trim()?'<p class="dst-full-note">'+esc(String(d.note).trim())+'</p>':'')+
-        (d.clip?'<div class="dst-full-clip">'+dstClipHTML(d.clip)+'</div>':'')+
-        '<div class="rc-actions"><button class="pf-btn primary" id="dst-share" data-ic="share" type="button">Share</button></div></div>';
+        // the clip row, or on your own stub with no clip the "Add a clip" pill (clipSetRow swaps them)
+        // Share stub + Add a clip in one row, as on iOS and Android; the clip / progress row sits above them (CSS order)
+        '<div class="rc-actions dst-full-acts"><button class="pf-btn primary" id="dst-share" data-ic="share" type="button">Share stub</button>'+
+        ((d.clip||isMe)?'<div class="dst-full-clip" data-entry="'+attrEsc(String(d.id))+'"'+(isMe?' data-own="1"':'')+'>'+(d.clip?dstClipHTML(d.clip):DST_ADD_CLIP)+'</div>':'')+
+        '</div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); document.removeEventListener('keydown', key); }
       function key(e){ if(e.key==='Escape') close(); }
@@ -10403,12 +10409,13 @@ a.dst-full-t:hover{text-decoration:underline}
         e.preventDefault(); close(); openEvent(String(d.event_id));
       });
       ov.querySelector('#dst-share').addEventListener('click',function(){ dstShare(d, handle); });
+      ov.querySelector('.dst-full-clip')&&ov.querySelector('.dst-full-clip').addEventListener('click',function(e){ if(e.target.closest('.dst-full-add')) clipPick(d); });
       // A private profile has no share card (the API answers 404): show the stub itself, no Share.
       ov.querySelector('.dst-full-img').addEventListener('error',function(){
         var c=stubEl.cloneNode(true); c.removeAttribute('role'); c.removeAttribute('tabindex'); var mb=c.querySelector('.dst-more'); if(mb) mb.remove();
-        this.replaceWith(c); ov.querySelector('.rc-actions').remove();
+        this.replaceWith(c); var sb=ov.querySelector('#dst-share'); if(sb) sb.remove(); var ra=ov.querySelector('.rc-actions'); if(ra&&!ra.querySelector('.dst-full-clip')) ra.remove();
         var fn=ov.querySelector('.dst-full-note'); if(fn) fn.remove();   // the stub itself carries the whole note
-        var fc=ov.querySelector('.dst-full-clip'); if(fc) fc.remove();   // and the clip row
+        var fc=ov.querySelector('.dst-full-clip'); if(fc && !fc.querySelector('.dst-full-add')) fc.remove();   // and the clip row (the Add a clip pill stays)
         clipPaint();
       });
     }
@@ -10422,6 +10429,7 @@ a.dst-full-t:hover{text-decoration:underline}
     var CLIP_MEM_BYTES=120*1024*1024, CLIP_MEM_SECS=12*60;
     var CLIP_PLAY='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
         CLIP_PAUSE='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg>';
+    var DST_ADD_CLIP='<button class="pf-btn dst-full-add" data-ic="clip" type="button">Add a clip</button>';
     function clipTime(s){ s=Math.max(0,Math.round(s||0)); return Math.floor(s/60)+':'+String(s%60).padStart(2,'0'); }   // "1:58"
     function dstClipHTML(c){
       var bars=(c.peaks||[]).slice(0,40).map(function(v){ return '<i style="height:'+Math.max(0,Math.min(100,+v||0))+'%"></i>'; }).join('');
@@ -10433,6 +10441,12 @@ a.dst-full-t:hover{text-decoration:underline}
       document.querySelectorAll('.dst-stub[data-entry="'+String(id).replace(/"/g,'')+'"] .dst-body').forEach(function(b){
         var old=b.querySelector('.dst-clip'); if(old) old.remove();
         if(html) b.insertAdjacentHTML('beforeend', html);
+      });
+      // the full stub: the clip row, or the pill again (own stub); its card picture follows the clip
+      document.querySelectorAll('.dst-full-clip[data-entry="'+String(id).replace(/"/g,'')+'"]').forEach(function(f){
+        f.innerHTML=html||(f.dataset.own?DST_ADD_CLIP:'');
+        var d=_diaryById[id], img=f.parentNode.querySelector('img.dst-full-img');
+        if(d && img && !/busy/.test(html||'')) img.src=dstCardSrc(d,'story');
       });
       clipPaint();
     }
@@ -10737,7 +10751,7 @@ a.dst-full-t:hover{text-decoration:underline}
           var s=e.target.closest('.dst-stub'), d=s&&_diaryById[s.dataset.entry]; if(!d) return;
           var mb=e.target.closest('.dst-more');
           if(mb){ if(isMe) dstMenu(mb, d, handle, onChange); return; }
-          dstOpen(d, handle, s);
+          dstOpen(d, handle, s, isMe);
         });
         st.addEventListener('keydown',function(e){
           if((e.key==='Enter'||e.key===' ') && e.target.classList.contains('dst-stub')){ e.preventDefault(); e.target.click(); }
@@ -14775,7 +14789,10 @@ a.dst-full-t:hover{text-decoration:underline}
         }
         // land on the full gig-diary page; replace #log so Back doesn't
         // return to a now-stale form.
-        history.replaceState({sc:1},'','#diary'); openDiaryPage(currentUser&&currentUser.handle, true);
+        history.replaceState({sc:1},'','#diary'); await openDiaryPage(currentUser&&currentUser.handle, true);
+        // the log success stub = the new gig's full stub, with "Add a clip" until it has one (Android ui/log/Stub.kt)
+        var nd=j.id!=null&&_diaryById[j.id], ns=nd&&document.querySelector('.dst-stub[data-entry="'+String(j.id).replace(/"/g,'')+'"]');
+        if(ns) dstOpen(nd, currentUser.handle, ns, true);
       }catch(_){ document.getElementById('lg-err').textContent='Network error. Try again.'; btn.disabled=false; }
     }
 

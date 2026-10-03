@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Montreal on Fri, 9 Oct 2026.
+Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Montreal on Fri, 9 Oct 2026.
 
 Andrey Pushkarev is a house and minimal artist, with 90 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Stereo, Montreal on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Andrey Pushkarev is a house and minimal artist, with 90 gigs on soundcheck acros
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

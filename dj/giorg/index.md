@@ -1,6 +1,6 @@
 # GIORG
 
-GIORG is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madam, Amsterdam on Fri, 13 Nov 2026.
+GIORG is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madam, Amsterdam on Fri, 13 Nov 2026.
 
 GIORG is a tech house and house artist, with 10 gigs on soundcheck across Amsterdam, Berlin and Stuttgart. Often billed alongside Philip Bogdan, Sanel and Bastian Bux. Next up: Madam, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ GIORG is a tech house and house artist, with 10 gigs on soundcheck across Amster
 
 Philip Bogdan, Sanel, Bastian Bux
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorg/)*

@@ -1,6 +1,6 @@
 # Axymt.
 
-Axymt. is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Axymt. is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Axymt. is a techno and ambient artist based in France, with 10 gigs on soundcheck across Barcelona, Lyon and Oslo. Often billed alongside Tauceti (FR), 2HOT2PLAY and AREA ØNE. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ Axymt. is a techno and ambient artist based in France, with 10 gigs on soundchec
 
 ## Recently played
 
+- TBA - Stave - Brynsveien 1, Oslo · Fri, 2 Oct 2026
 - Super7, Lyon · Sun, 27 Sept 2026
 - Super7, Lyon · Thu, 24 Sept 2026
 - TBA - SECRET WAREHOUSE, Lyon · Sat, 4 Apr 2026
@@ -20,10 +21,9 @@ Axymt. is a techno and ambient artist based in France, with 10 gigs on soundchec
 - TBA - Grønlandsleiret 15, Oslo · Sat, 28 Sept 2024
 - Le Sucre, Lyon · Sun, 25 Feb 2024
 - LAUT, Barcelona · Sat, 11 Nov 2023
-- Reverse!, Lyon · Sat, 25 Feb 2023
 
 ## Shares bills with
 
 Tauceti (FR), 2HOT2PLAY, AREA ØNE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axymt-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axymt-fr/)*

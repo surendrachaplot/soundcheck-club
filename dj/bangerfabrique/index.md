@@ -1,6 +1,6 @@
 # Bangerfabrique
 
-Bangerfabrique is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiener Stadthalle, Vienna on Sat, 10 Oct 2026.
+Bangerfabrique is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wiener Stadthalle, Vienna on Sat, 10 Oct 2026.
 
 Bangerfabrique is a hip-hop and bass artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside Punani, Shari Who and Speckman. Next up: Wiener Stadthalle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bangerfabrique is a hip-hop and bass artist based in Germany, with 18 gigs on so
 
 Punani, Shari Who, Speckman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangerfabrique/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangerfabrique/)*

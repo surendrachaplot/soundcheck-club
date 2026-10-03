@@ -1,6 +1,6 @@
 # Hey Bony
 
-Hey Bony is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mono, Rotterdam on Fri, 9 Oct 2026.
+Hey Bony is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mono, Rotterdam on Fri, 9 Oct 2026.
 
 Hey Bony is a club and baile funk artist based in France, with 26 gigs on soundcheck across Amsterdam, Cologne, Geneva and Lyon and 4 more. Often billed alongside ARTEM (FR), Naomi (FR) and Sylvere. Next up: Mono, Rotterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hey Bony is a club and baile funk artist based in France, with 26 gigs on soundc
 
 ARTEM (FR), Naomi (FR), Sylvere
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heybony/)*

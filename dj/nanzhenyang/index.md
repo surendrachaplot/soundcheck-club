@@ -1,6 +1,6 @@
 # Nanzhen Yang
 
-Nanzhen Yang is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Autumn Three, London on Thu, 8 Oct 2026.
+Nanzhen Yang is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Autumn Three, London on Thu, 8 Oct 2026.
 
 Nanzhen Yang is a techno and experimental artist, with 88 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Glasgow and 12 more. Often billed alongside Samantha Togni, Ricardo Castro and Becky Stroke. Next up: Autumn Three, London on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Nanzhen Yang is a techno and experimental artist, with 88 gigs on soundcheck acr
 
 Samantha Togni, Ricardo Castro, Becky Stroke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanzhenyang/)*

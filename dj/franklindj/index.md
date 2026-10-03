@@ -1,6 +1,6 @@
 # Franklin DJ
 
-Franklin DJ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loft Studios, London on Fri, 16 Oct 2026.
+Franklin DJ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loft Studios, London on Fri, 16 Oct 2026.
 
 Franklin DJ is a disco and house artist based in United Kingdom, with 23 gigs on soundcheck across London and Newcastle. Often billed alongside Megan Leo, Tronik Youth and Delano (UK). Next up: Loft Studios, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Franklin DJ is a disco and house artist based in United Kingdom, with 23 gigs on
 
 Megan Leo, Tronik Youth, Delano (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franklindj/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franklindj/)*

@@ -1,6 +1,6 @@
 # Shira Kela
 
-Shira Kela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
+Shira Kela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
 Shira Kela is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Berlin, Munich and The Hague. Often billed alongside Bailey Ibbs, Handmade and Jacob Meehan. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Shira Kela is a techno and house artist, with 47 gigs on soundcheck across Amste
 
 Bailey Ibbs, Handmade, Jacob Meehan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*

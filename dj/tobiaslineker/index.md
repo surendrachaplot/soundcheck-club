@@ -1,6 +1,6 @@
 # Tobias Lineker
 
-Tobias Lineker is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Last Arch, London on Fri, 30 Oct 2026.
+Tobias Lineker is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Last Arch, London on Fri, 30 Oct 2026.
 
 Tobias Lineker is a garage and house artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Hamish Glass, Luke Mannion and Pedrum. Next up: Last Arch, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tobias Lineker is a garage and house artist based in United Kingdom, with 26 gig
 
 Hamish Glass, Luke Mannion, Pedrum
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslineker/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslineker/)*

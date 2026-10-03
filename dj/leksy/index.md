@@ -1,6 +1,6 @@
 # Leksy
 
-Leksy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Teritorija, Riga on Sat, 17 Oct 2026.
+Leksy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Teritorija, Riga on Sat, 17 Oct 2026.
 
 Leksy is a house and deep house artist based in Latvia, with 24 gigs on soundcheck across Riga. Often billed alongside ARRISHA, Mike Discoid and Pulss. Next up: Teritorija, Riga on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leksy is a house and deep house artist based in Latvia, with 24 gigs on soundche
 
 ARRISHA, Mike Discoid, Pulss
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leksy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leksy/)*

@@ -1,6 +1,6 @@
 # TBA - Premises
 
-TBA - Premises is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Psyde Quest with Bambi and Jeku" on Sat, 24 Oct 2026.
+TBA - Premises is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Psyde Quest with Bambi and Jeku" on Sat, 24 Oct 2026.
 
 TBA - Premises is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Bambi (FR), Brendan Lemkin, Heavee and Hot Take and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Premises is a music venue in Chicago listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Psyde Quest with Bambi and Jeku | Bambi (FR), Brendan Lemkin, Heavee, Hot Take, Jaggy, Jeku, Madeline (Chi) |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-premises/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-premises/)*

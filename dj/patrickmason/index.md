@@ -1,14 +1,13 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+Patrick Mason is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fi, Cologne on Sat, 3 Oct 2026.
 
-Patrick Mason is a techno and house artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
+Patrick Mason is a techno and house artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: fi, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 3 Oct 2026 | fi | Cologne |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
@@ -21,6 +20,7 @@ Patrick Mason is a techno and house artist based in Germany, with 277 gigs on so
 
 ## Recently played
 
+- Cité du Cinéma, Paris · Fri, 2 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - Slaktkyrkan, Stockholm · Fri, 25 Sept 2026
 - Sub Club, Glasgow · Thu, 24 Sept 2026
@@ -28,10 +28,9 @@ Patrick Mason is a techno and house artist based in Germany, with 277 gigs on so
 - Mondo Open Air, Madrid · Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 14 Sept 2026
-- Nitsa Club, Barcelona · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

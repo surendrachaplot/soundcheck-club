@@ -1,6 +1,6 @@
 # Herra
 
-Herra is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Herra is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Herra is a house and tech house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London. Often billed alongside Ferro, Andy Luff and Boris Werner. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Herra is a house and tech house artist based in Netherlands, with 27 gigs on sou
 
 Ferro, Andy Luff, Boris Werner
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herra/)*

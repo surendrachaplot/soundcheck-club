@@ -1,6 +1,6 @@
 # A Good Year
 
-A Good Year is a Electronica and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
+A Good Year is a Electronica and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
 
 A Good Year is an electronica and post-punk artist based in Denmark, with 4 gigs on soundcheck across Bristol, Brussels, Copenhagen and Madrid. Often billed alongside Loukeman, 96 Back and Alba Akvama. Next up: Botanique, Brussels on Sun 1 Nov.
 
@@ -20,4 +20,4 @@ A Good Year is an electronica and post-punk artist based in Denmark, with 4 gigs
 
 Loukeman, 96 Back, Alba Akvama
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*

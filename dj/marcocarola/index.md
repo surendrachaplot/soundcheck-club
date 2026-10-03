@@ -1,14 +1,13 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 2 Oct 2026.
+Marco Carola is a Tech House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Sat, 3 Oct 2026.
 
-Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Pacha Ibiza, Ibiza on Fri 2 Oct.
+Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: YoYo - Palais de Tokyo, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | YoYo - Palais de Tokyo | Paris |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on 
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 4 Dec 2026 | Club Space Miami | Miami |
 | Sat, 26 Dec 2026 | KOKO | London |
+| Sun, 27 Dec 2026 | KOKO | London |
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on 
 - Universidad Autónoma de Madrid (UAM), Madrid · Sat, 12 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 11 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 4 Sept 2026
-- Jardins de Joan Brossa, Barcelona · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

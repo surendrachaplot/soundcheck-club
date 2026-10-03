@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and Funk / Soul artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 6 Oct 2026.
+Beechy is a Disco and Funk / Soul artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Freeze HiFi, Liverpool on Tue, 6 Oct 2026.
 
 Beechy is a disco and funk / soul artist based in United Kingdom, with 19 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Izaac Moses, LARA-RA and Touch Of Funk. Next up: Freeze HiFi, Liverpool on Tue 6 Oct.
 
@@ -35,4 +35,4 @@ Beechy is a disco and funk / soul artist based in United Kingdom, with 19 gigs o
 
 Izaac Moses, LARA-RA, Touch Of Funk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

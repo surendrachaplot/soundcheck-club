@@ -1,6 +1,6 @@
 # Gregor Rost
 
-Gregor Rost is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
+Gregor Rost is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
 
 Gregor Rost is a house and disco artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Julien Josh, Ashbeat and ZYMT. Next up: Süss War Gestern, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gregor Rost is a house and disco artist based in Germany, with 13 gigs on soundc
 
 Julien Josh, Ashbeat, ZYMT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorrost/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorrost/)*

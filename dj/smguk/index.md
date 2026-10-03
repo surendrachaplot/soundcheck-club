@@ -1,19 +1,19 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Fri, 2 Oct 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, Leipzig, London and Madrid and 5 more. Often billed alongside Waeys, Calyx and Skantia. Next up: Distillery, Leipzig on Fri 2 Oct.
+SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, Leipzig, London and Madrid and 5 more. Often billed alongside Waeys, Calyx and Skantia. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Distillery | Leipzig |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 
+- Distillery, Leipzig · Fri, 2 Oct 2026
 - Grelle Forelle, Vienna · Sat, 19 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
@@ -21,10 +21,9 @@ SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 11 gig
 - The Clock Factory, Bristol · Sat, 25 Jul 2026
 - The Clock Factory, Bristol · Sat, 25 Jul 2026
 - Kable Club, Manchester · Fri, 13 Mar 2026
-- Cross Club, Prague · Thu, 17 Apr 2025
 
 ## Shares bills with
 
 Waeys, Calyx, Skantia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

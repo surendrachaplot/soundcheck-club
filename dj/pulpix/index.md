@@ -1,6 +1,6 @@
 # Pulpix
 
-Pulpix is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Araña Club, Madrid on Sat, 3 Oct 2026.
+Pulpix is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Araña Club, Madrid on Sat, 3 Oct 2026.
 
 Pulpix is a techno and acid artist, with 198 gigs on soundcheck across Ibiza and Madrid. Often billed alongside Nixy, Trenzark and Syperx. Next up: Araña Club, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Pulpix is a techno and acid artist, with 198 gigs on soundcheck across Ibiza and
 
 Nixy, Trenzark, Syperx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulpix/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulpix/)*

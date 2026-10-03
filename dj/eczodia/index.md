@@ -1,6 +1,6 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+ECZODIA is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 ECZODIA is a techno and hardcore artist based in France, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ ECZODIA is a techno and hardcore artist based in France, with 87 gigs on soundch
 
 LESSSS, OMAKS, Jacidorex
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

@@ -1,6 +1,6 @@
 # Rams
 
-Rams is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
+Rams is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
 
 Rams is a house and electronica artist based in Spain, with 30 gigs on soundcheck across Madrid. Often billed alongside Osman (Es), Jabra and Osman. Next up: X Private Club, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rams is a house and electronica artist based in Spain, with 30 gigs on soundchec
 
 Osman (Es), Jabra, Osman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rams/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rams/)*

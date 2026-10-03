@@ -1,6 +1,6 @@
 # Styn
 
-Styn is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Styn is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 Styn is a house and bass artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester and 2 more. Often billed alongside T.NO, Kurashi Soundsystem and SAIDAH. Next up: SISSI'S Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Styn is a house and bass artist based in Netherlands, with 51 gigs on soundcheck
 
 T.NO, Kurashi Soundsystem, SAIDAH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*

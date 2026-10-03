@@ -1,6 +1,6 @@
 # Tchakomi
 
-Tchakomi is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Álvaro Obregón 291, Mexico City on Fri, 16 Oct 2026.
+Tchakomi is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Álvaro Obregón 291, Mexico City on Fri, 16 Oct 2026.
 
 Tchakomi is a classical and dancehall artist based in France, with 30 gigs on soundcheck across Mexico City. Often billed alongside Bastian Bell, Dj Dizam and Black Daria. Next up: TBA - Álvaro Obregón 291, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tchakomi is a classical and dancehall artist based in France, with 30 gigs on so
 
 Bastian Bell, Dj Dizam, Black Daria
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchakomi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchakomi/)*

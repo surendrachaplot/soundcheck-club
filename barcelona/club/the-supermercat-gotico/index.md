@@ -1,6 +1,6 @@
 # The Supermercat Gotico
 
-The Supermercat Gotico is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Radio Unánime second edition" on Wed, 7 Oct 2026.
+The Supermercat Gotico is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Radio Unánime second edition" on Wed, 7 Oct 2026.
 
 The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Pullär. See dates, start times and who's playing. Carrer Ample, 32, Ciutat Vella, 08002, Barcelona.
 
@@ -15,4 +15,4 @@ The Supermercat Gotico is a music venue in Barcelona listed on soundcheck. 2 upc
 
 Carrer Ample, 32, Ciutat Vella, 08002, Barcelona, Barcelona
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-supermercat-gotico/)*

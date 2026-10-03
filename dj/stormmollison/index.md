@@ -1,14 +1,13 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Storm Mollison is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Storm Mollison is a house and disco artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Storm Mollison is a house and disco artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 
 ## Recently played
@@ -26,4 +25,4 @@ Storm Mollison is a house and disco artist based in United Kingdom, with 67 gigs
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

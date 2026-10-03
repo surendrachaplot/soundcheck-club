@@ -1,6 +1,6 @@
 # Geo (IT)
 
-Geo (IT) is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 4 Oct 2026.
+Geo (IT) is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 4 Oct 2026.
 
 Geo (IT) is an afro house and club artist based in Italy, with 8 gigs on soundcheck across Berlin, Brisbane, Leipzig and London and 3 more. Often billed alongside KAZIA, Adriana and Almared. Next up: Runner Up Rooftop Bar, Melbourne on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Geo (IT) is an afro house and club artist based in Italy, with 8 gigs on soundch
 
 KAZIA, Adriana (1), Almared
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geoit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geoit/)*

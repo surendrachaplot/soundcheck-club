@@ -1,6 +1,6 @@
 # NEVYALC
 
-NEVYALC is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
+NEVYALC is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
 
 NEVYALC is a techno and industrial artist based in Malta, with 42 gigs on soundcheck across Budapest and Malta. Often billed alongside TRÏÏSS, Carl Lautier and Daniel Blade. Next up: The Club House at Gianpula Village, Malta on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ NEVYALC is a techno and industrial artist based in Malta, with 42 gigs on soundc
 
 TRÏÏSS, Carl Lautier, Daniel Blade
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nevyalc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nevyalc/)*

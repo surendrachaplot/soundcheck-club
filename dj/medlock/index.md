@@ -1,6 +1,6 @@
 # Medlock
 
-Medlock is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - UNTHINKABLE, North on Sat, 10 Oct 2026.
+Medlock is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - UNTHINKABLE, North on Sat, 10 Oct 2026.
 
 Medlock is a techno and trance artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, London, Manchester and Milan and 1 more. Often billed alongside colell, HØLEIGH and KD22LR. Next up: TBA - UNTHINKABLE, North on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Medlock is a techno and trance artist based in United Kingdom, with 15 gigs on s
 
 colell, HØLEIGH, KD22LR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*

@@ -1,6 +1,6 @@
 # Adri
 
-Adri is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Djoon, Paris on Fri, 9 Oct 2026.
+Adri is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Djoon, Paris on Fri, 9 Oct 2026.
 
 Adri is a house and disco artist based in France, with 26 gigs on soundcheck across New York City and Paris. Often billed alongside Afshin, Kapela and Hugo LX. Next up: Djoon, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Adri is a house and disco artist based in France, with 26 gigs on soundcheck acr
 
 Afshin, Kapela, Hugo LX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*

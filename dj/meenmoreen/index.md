@@ -1,6 +1,6 @@
 # Meen Moreen
 
-Meen Moreen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Fri, 30 Oct 2026.
+Meen Moreen is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Système, Montreal on Fri, 30 Oct 2026.
 
 Meen Moreen is a techno and hardcore artist based in Canada, with 77 gigs on soundcheck across Montreal and Toronto. Often billed alongside MIC ROB!, Corinita and K657. Next up: Système, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Meen Moreen is a techno and hardcore artist based in Canada, with 77 gigs on sou
 
 MIC ROB!, Corinita, K657
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meenmoreen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meenmoreen/)*

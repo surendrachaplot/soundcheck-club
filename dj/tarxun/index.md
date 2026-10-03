@@ -1,6 +1,6 @@
 # Tarxun
 
-Tarxun is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Tarxun is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
 Tarxun is an experimental and jazz artist based in Iran, with 12 gigs on soundcheck across Berlin. Often billed alongside Paulawar, Taradud and AAMIROO. Next up: Silent Green, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tarxun is an experimental and jazz artist based in Iran, with 12 gigs on soundch
 
 Paulawar, Taradud, AAMIROO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarxun/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarxun/)*

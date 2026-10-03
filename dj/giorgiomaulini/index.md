@@ -1,6 +1,6 @@
 # Giorgio Maulini
 
-Giorgio Maulini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Giorgio Maulini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
 Giorgio Maulini is a house and techno artist, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Nicolas Duvoisin, Sonja Moonear and Apollonia. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Giorgio Maulini is a house and techno artist, with 28 gigs on soundcheck across 
 
 Nicolas Duvoisin, Sonja Moonear, Apollonia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*

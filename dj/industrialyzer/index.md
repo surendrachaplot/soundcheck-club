@@ -1,6 +1,6 @@
 # Industrialyzer
 
-Industrialyzer is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+Industrialyzer is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 Industrialyzer is a techno artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside Marco Ramos, Yunhee and Chich. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Industrialyzer is a techno artist based in Netherlands, with 14 gigs on soundche
 
 Marco Ramos, Yunhee, Chich
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialyzer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialyzer/)*

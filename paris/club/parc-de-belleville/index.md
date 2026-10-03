@@ -1,6 +1,6 @@
 # Parc de Belleville
 
-Parc de Belleville is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "OPEN AIR HOUSE *PAVILLON FRAMBOISE*" on Sat, 10 Oct 2026.
+Parc de Belleville is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "OPEN AIR HOUSE *PAVILLON FRAMBOISE*" on Sat, 10 Oct 2026.
 
 Parc de Belleville is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 47 rue des couronnes.
 
@@ -14,4 +14,4 @@ Parc de Belleville is a music venue in Paris listed on soundcheck. 1 upcoming gi
 
 47 rue des couronnes, Paris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/parc-de-belleville/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/parc-de-belleville/)*

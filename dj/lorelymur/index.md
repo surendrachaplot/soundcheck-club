@@ -1,6 +1,6 @@
 # Lorely Mur
 
-Lorely Mur is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
+Lorely Mur is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
 
 Lorely Mur is a techno and industrial artist based in Mexico, with 38 gigs on soundcheck across Boston, Chicago, Colorado and Denver and 3 more. Often billed alongside Alex Casillas, Alex Wilcox and Annika Wolfe. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lorely Mur is a techno and industrial artist based in Mexico, with 38 gigs on so
 
 Alex Casillas, Alex Wilcox, Annika Wolfe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*

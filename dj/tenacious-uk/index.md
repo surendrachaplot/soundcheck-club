@@ -1,6 +1,6 @@
 # Tenacious
 
-Tenacious is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Tenacious is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
 Tenacious is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Bristol, Ibiza and London. Often billed alongside Dolly Rockers, Huck Finn and Rob Tissera. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tenacious is a house and tech house artist based in United Kingdom, with 17 gigs
 
 Dolly Rockers, Huck Finn, Rob Tissera
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenacious-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenacious-uk/)*

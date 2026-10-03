@@ -1,6 +1,6 @@
 # Monuas
 
-Monuas is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Monuas is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 Monuas is a deep house and minimal artist based in Italy, with 10 gigs on soundcheck across Rome. Often billed alongside Collarbone, bee.Z and marianne. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Monuas is a deep house and minimal artist based in Italy, with 10 gigs on soundc
 
 Collarbone, bee.Z, marianne (4)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monuas/)*

@@ -1,6 +1,6 @@
 # Hermeth
 
-Hermeth is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Virage, Paris on Sat, 31 Oct 2026.
+Hermeth is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Virage, Paris on Sat, 31 Oct 2026.
 
 Hermeth is a techno and electro artist, with 46 gigs on soundcheck across Amsterdam, Basel, Bucharest and Frankfurt and 14 more. Often billed alongside Mother Menace, Powder Ranger and A/PM. Next up: Virage, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hermeth is a techno and electro artist, with 46 gigs on soundcheck across Amster
 
 Mother Menace, Powder Ranger, A/PM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeth/)*

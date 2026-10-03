@@ -1,6 +1,6 @@
 # Brieela
 
-Brieela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Brieela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
 Brieela is a house and tech house artist based in Venezuela, with 109 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside LM, ONA (SP) and HANIE. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Brieela is a house and tech house artist based in Venezuela, with 109 gigs on so
 
 LM, ONA (SP), HANIE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*

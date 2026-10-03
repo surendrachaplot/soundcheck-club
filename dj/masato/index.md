@@ -1,6 +1,6 @@
 # masato
 
-masato is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 23 Oct 2026.
+masato is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 23 Oct 2026.
 
 masato is a techno and tech house artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, San Diego, San Francisco/Oakland and Tokyo. Often billed alongside BUCK/OFF, Nic Jericho and Shane Thomas. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ masato is a techno and tech house artist based in United States of America, with
 
 BUCK/OFF, Nic Jericho, Shane Thomas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masato/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masato/)*

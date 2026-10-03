@@ -1,6 +1,6 @@
 # DJ EBP
 
-DJ EBP is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+DJ EBP is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 DJ EBP is a techno and club artist based in China, with 7 gigs on soundcheck across Shanghai and Shenzhen. Often billed alongside 10000 (CN), chuan and Zean. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -24,4 +24,4 @@ DJ EBP is a techno and club artist based in China, with 7 gigs on soundcheck acr
 
 10000 (CN), chuan, Zean
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djebp/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djebp/)*

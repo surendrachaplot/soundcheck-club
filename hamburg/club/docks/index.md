@@ -1,6 +1,6 @@
 # Docks
 
-Docks is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NTO live in concert @ Docks Hamburg" on Fri, 9 Oct 2026.
+Docks is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NTO live in concert @ Docks Hamburg" on Fri, 9 Oct 2026.
 
 Docks is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Alfred Heinrichs, Iorie, Lekkerfaces and Nina Hepburn and 2 more. See dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
 
@@ -21,4 +21,4 @@ Docks is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with li
 
 Spielbudenplatz 19, 20359 Hamburg, Hamburg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*

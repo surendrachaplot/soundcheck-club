@@ -1,6 +1,6 @@
 # Nutritious
 
-Nutritious is a Deep House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ZeyZey, Miami on Sat, 31 Oct 2026.
+Nutritious is a Deep House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ZeyZey, Miami on Sat, 31 Oct 2026.
 
 Nutritious is a deep house and downtempo artist based in United States of America, with 8 gigs on soundcheck across Miami, Nashville, New York City and Washington DC. Often billed alongside DJ Mark Brickman, Jask and Jay-J. Next up: ZeyZey, Miami on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Nutritious is a deep house and downtempo artist based in United States of Americ
 
 DJ Mark Brickman, Jask, Jay-J
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nutritious/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nutritious/)*

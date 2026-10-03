@@ -1,14 +1,13 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Mike The Connector Invites" on Fri, 2 Oct 2026.
+Nordstern is a music venue in Basel with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SHOKI287" on Sat, 3 Oct 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with line-ups including Acid Pauli, Agonis, Chiara Fucci and Dan Dara and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Pauli, Agonis, Chiara Fucci and Dan Dara and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Mike The Connector Invites | Mike The Connector, OG Lotti, Scar |
 | Sat, 3 Oct 2026 | SHOKI287 | Chiara Fucci, SHOKI287 |
 | Fri, 9 Oct 2026 | Prada2000 |  |
 | Sat, 10 Oct 2026 | RE:BACK |  |
@@ -21,4 +20,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with 
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

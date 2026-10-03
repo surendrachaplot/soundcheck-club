@@ -1,6 +1,6 @@
 # Foehn & Jerome
 
-Foehn & Jerome is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Foehn & Jerome is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Foehn & Jerome are a house and techno duo based in Austria, with 51 gigs on soundcheck across Berlin, Bucharest, Greece and Leeds and 7 more. Often billed alongside Felix Hk, Barbara Preisinger and Alexander Skancke. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Foehn & Jerome are a house and techno duo based in Austria, with 51 gigs on soun
 
 Felix Hk, Barbara Preisinger, Alexander Skancke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foehnjerome/)*

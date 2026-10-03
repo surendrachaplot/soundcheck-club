@@ -1,6 +1,6 @@
 # Barée Masse
 
-Barée Masse is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 42 Marches, Paris on Fri, 16 Oct 2026.
+Barée Masse is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Fri, 16 Oct 2026.
 
 Barée Masse is a house and disco artist based in France, with 12 gigs on soundcheck across Berlin and Paris. Often billed alongside Housecall, AGUSTIN BARBEI and Annyrock. Next up: 42 Marches, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Barée Masse is a house and disco artist based in France, with 12 gigs on soundc
 
 Housecall, AGUSTIN BARBEI, Annyrock
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bareemasse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bareemasse/)*

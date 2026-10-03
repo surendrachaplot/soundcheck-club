@@ -1,6 +1,6 @@
 # Edge <3
 
-Edge <3 is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
+Edge <3 is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
 
 Edge <3 is a garage and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Agility, Bryn Brax and DubFreq. Next up: Dalston Den, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Edge <3 is a garage and dubstep artist based in United Kingdom, with 9 gigs on s
 
 Agility, Bryn Brax, DubFreq (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edge3/)*

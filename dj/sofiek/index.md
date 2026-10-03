@@ -1,18 +1,18 @@
 # Sofie K
 
-Sofie K is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+Sofie K is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night Tales Loft, London on Sat, 24 Oct 2026.
 
-Sofie K is a house and disco artist, with 43 gigs on soundcheck across Bristol, Edinburgh, Leeds and London and 2 more. Often billed alongside Macca., Apiento and Sam PV. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
+Sofie K is a house and disco artist, with 43 gigs on soundcheck across Bristol, Edinburgh, Leeds and London and 2 more. Often billed alongside Macca., Apiento and Sam PV. Next up: Night Tales Loft, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Wharf Chambers | Leeds |
 | Sat, 24 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
 
+- Wharf Chambers, Leeds · Fri, 2 Oct 2026
 - Distillery N17, London · Sat, 18 Jul 2026
 - Avalon Cafe Bermondsey, London · Sat, 20 Jun 2026
 - Mickey Zoggs, Bristol · Fri, 15 May 2026
@@ -20,10 +20,9 @@ Sofie K is a house and disco artist, with 43 gigs on soundcheck across Bristol, 
 - NUMBER 90 LONDON, London · Sat, 31 Jan 2026
 - Corsica Studios, London · Sat, 22 Nov 2025
 - Ormside Projects, London · Thu, 20 Nov 2025
-- The Greyhound, London · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Macca., Apiento, Sam PV
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiek/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiek/)*

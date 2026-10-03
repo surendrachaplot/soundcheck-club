@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NOVAMONDO @ XOYO | Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie" on Sat, 3 Oct 2026.
+XOYO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NOVAMONDO @ XOYO | Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie" on Sat, 3 Oct 2026.
 
 XOYO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Adela, Alex Culross, Alex P and Brandon Block and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 24 upcoming gigs, with lin
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

@@ -1,6 +1,6 @@
 # Villaça
 
-Villaça is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sun, 4 Oct 2026.
+Villaça is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Sun, 4 Oct 2026.
 
 Villaça is a house and techno artist based in Brazil, with 49 gigs on soundcheck across Barcelona, Los Angeles, Madrid and Sao Paulo. Often billed alongside TRAJANO, Reizko and Flo Massé. Next up: Macarena Club, Barcelona on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Villaça is a house and techno artist based in Brazil, with 49 gigs on soundchec
 
 TRAJANO, Reizko, Flo Massé
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villaça/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/villaça/)*

@@ -1,6 +1,6 @@
 # Mantmast
 
-Mantmast is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Phonox, London on Sat, 3 Oct 2026.
+Mantmast is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Sat, 3 Oct 2026.
 
 Mantmast is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Brighton, Bristol and Cardiff and 3 more. Often billed alongside Need For Mirrors, Kasra and Jakes. Next up: Phonox, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mantmast is a drum & bass and jungle artist based in United Kingdom, with 41 gig
 
 Need For Mirrors, Kasra, Jakes
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantmast/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantmast/)*

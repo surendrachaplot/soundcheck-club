@@ -1,6 +1,6 @@
 # Ecilo
 
-Ecilo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 16 Oct 2026.
+Ecilo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 16 Oct 2026.
 
 Ecilo is a techno and house artist based in Indonesia, with 23 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 8 more. Often billed alongside BBANDIT, Mairakilla and Pink Concrete. Next up: Tempio del Futuro Perduto, Milan on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Ecilo is a techno and house artist based in Indonesia, with 23 gigs on soundchec
 
 BBANDIT, Mairakilla, Pink Concrete
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*

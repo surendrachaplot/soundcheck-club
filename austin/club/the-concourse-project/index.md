@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 27 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Official 2026 ACL Fest Nights: Steve Aoki" on Fri, 2 Oct 2026.
+The Concourse Project is a music venue in Austin with 26 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Official 2026 ACL Fest Nights: it's murph (Open to Close)" on Sat, 3 Oct 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 26 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Official 2026 ACL Fest Nights: Steve Aoki | Steve Aoki |
 | Sat, 3 Oct 2026 | Official 2026 ACL Fest Nights: it's murph (Open to Close) |  |
 | Thu, 8 Oct 2026 | Official 2026 ACL Fest Nights: Yousuke Yukimatsu |  |
 | Fri, 9 Oct 2026 | Official 2026 ACL Fest Nights: BUNT | DJ BAD APPLE |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcomi
 | Fri, 16 Oct 2026 | Adam Port (KEINEMUSIK) (3 Hour Set) at The Concourse Project | Adam Port |
 | Sat, 17 Oct 2026 | MGMT (DJ Set) |  |
 | Thu, 22 Oct 2026 | Ben Böhmer | Ben Böhmer |
+| Fri, 23 Oct 2026 | ZHU (Night 1) | ZHU |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

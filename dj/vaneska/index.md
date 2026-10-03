@@ -1,6 +1,6 @@
 # Vaneska
 
-Vaneska is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
+Vaneska is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
 
 Vaneska is a trance and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside NAGINI, Praun and 9LALEY. Next up: Bahnwärter Thiel, Munich on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Vaneska is a trance and techno artist based in Germany, with 38 gigs on soundche
 
 NAGINI, Praun, 9LALEY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaneska/)*

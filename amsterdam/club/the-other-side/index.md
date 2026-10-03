@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Closer presents Miss Melera Mitch de Klein Thysma" on Sat, 3 Oct 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Closer presents Miss Melera Mitch de Klein Thysma" on Sat, 3 Oct 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Absoluut, Alberta Balsam, Alex (ES) and Annett Gapstream and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 12 upcoming g
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

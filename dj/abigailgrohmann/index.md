@@ -1,6 +1,6 @@
 # Abigail Grohmann
 
-Abigail Grohmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 9 Oct 2026.
+Abigail Grohmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 9 Oct 2026.
 
 Abigail Grohmann is a techno and house artist, with 9 gigs on soundcheck across Chicago and New York City. Often billed alongside Zooey Glass, Kirk (US) and Tito Barbosa. Next up: Smoke & Mirrors, Chicago on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Abigail Grohmann is a techno and house artist, with 9 gigs on soundcheck across 
 
 Zooey Glass, Kirk (US), Tito Barbosa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abigailgrohmann/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abigailgrohmann/)*

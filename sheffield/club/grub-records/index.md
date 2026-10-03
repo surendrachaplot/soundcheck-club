@@ -1,14 +1,13 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Balance with Human Logo & Yelnif" on Fri, 2 Oct 2026.
+Grub Records is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Label 37" on Sat, 3 Oct 2026.
 
-Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Osifo, Charlotte Ord and Human Logo. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
+Grub Records is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Osifo and Charlotte Ord. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Balance with Human Logo & Yelnif | Human Logo |
 | Sat, 3 Oct 2026 | Label 37 |  |
 | Fri, 9 Oct 2026 | Peachy Dynamite Records |  |
 | Sat, 10 Oct 2026 | Locked FM presents - The Lock In |  |
@@ -20,4 +19,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

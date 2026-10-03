@@ -1,14 +1,17 @@
 # Kali Malone
 
-Kali Malone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Kali Malone is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
-Kali Malone is an experimental and ambient artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Stephen O'Malley, ojoo and Dis Fig. Next up: TBA, Berlin on Fri 22 Jan.
+Kali Malone is an experimental and ambient artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Stephen O'Malley, ojoo and Dis Fig. Next up: TBA, Berlin on Fri 22 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 22 Jan 2027 | TBA | Berlin |
+| Mon, 25 Jan 2027 | Gedächtniskirche | Berlin |
+| Tue, 26 Jan 2027 | Gedächtniskirche | Berlin |
+| Fri, 4 Jun 2027 | Temppeliaukio Church | Helsinki |
 
 ## Recently played
 
@@ -25,4 +28,4 @@ Kali Malone is an experimental and ambient artist based in United States of Amer
 
 Stephen O'Malley, ojoo, Dis Fig
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*

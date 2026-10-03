@@ -1,6 +1,6 @@
 # Hooley
 
-Hooley is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Fri, 23 Oct 2026.
+Hooley is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eiger Studios, Leeds on Fri, 23 Oct 2026.
 
 Hooley is an ambient and downtempo artist based in United Kingdom, with 19 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Simon Scott, Slacky [Space Ritual] and Ana K Miller. Next up: Eiger Studios, Leeds on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Hooley is an ambient and downtempo artist based in United Kingdom, with 19 gigs 
 
 Simon Scott, Slacky [Space Ritual], Ana K Miller
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*

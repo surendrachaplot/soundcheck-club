@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Temper. Wine Room & Lounge, Singapore on Sat, 10 Oct 2026.
+Taylah Elaine is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Temper. Wine Room & Lounge, Singapore on Sat, 10 Oct 2026.
 
 Taylah Elaine is a hip-hop and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 29 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: Temper. Wine Room & Lounge, Singapore on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, with 79 gig
 
 Jyoty, DJ Heartstring, Donnie Sunshine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

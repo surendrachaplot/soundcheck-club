@@ -1,6 +1,6 @@
 # Gab Rhome
 
-Gab Rhome is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Æther BKK, Bangkok on Thu, 5 Nov 2026.
+Gab Rhome is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Æther BKK, Bangkok on Thu, 5 Nov 2026.
 
 Gab Rhome is a house and deep house artist based in Canada, with 34 gigs on soundcheck across Austin, Bangkok, Ibiza and Kuala Lumpur and 9 more. Often billed alongside Lee Burridge, Cirque Noir and Double Touch. Next up: Æther BKK, Bangkok on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Gab Rhome is a house and deep house artist based in Canada, with 34 gigs on soun
 
 Lee Burridge, Cirque Noir, Double Touch
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrhome/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrhome/)*

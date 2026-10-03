@@ -1,6 +1,6 @@
 # Seyn
 
-Seyn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UNDERCITY, Seoul on Sat, 7 Nov 2026.
+Seyn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UNDERCITY, Seoul on Sat, 7 Nov 2026.
 
 Seyn is a jungle and drum & bass artist, with 27 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Uman Therma, Shins and yuyungsik. Next up: UNDERCITY, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Seyn is a jungle and drum & bass artist, with 27 gigs on soundcheck across Seoul
 
 Uman Therma, Shins, yuyungsik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seyn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seyn/)*

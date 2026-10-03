@@ -1,6 +1,6 @@
 # Thunderpony
 
-Thunderpony is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Space Miami, Miami on Fri, 9 Oct 2026.
+Thunderpony is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Space Miami, Miami on Fri, 9 Oct 2026.
 
 Thunderpony is a tech house and house artist based in United States of America, with 160 gigs on soundcheck across Miami. Often billed alongside Bakke, Danyelino and Ms. Mada. Next up: Club Space Miami, Miami on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Thunderpony is a tech house and house artist based in United States of America, 
 
 Bakke, Danyelino, Ms. Mada
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thunderpony/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thunderpony/)*

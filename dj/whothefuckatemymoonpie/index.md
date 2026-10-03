@@ -1,6 +1,6 @@
 # WHOTHEFUCKATEMYMOONPIE
 
-WHOTHEFUCKATEMYMOONPIE is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Enterprise Brewing Co., San Francisco/Oakland on Sat, 17 Oct 2026.
+WHOTHEFUCKATEMYMOONPIE is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Enterprise Brewing Co., San Francisco/Oakland on Sat, 17 Oct 2026.
 
 WHOTHEFUCKATEMYMOONPIE is a reggaeton and club artist, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 40split, Profesito and Digital KitKat. Next up: Enterprise Brewing Co., San Francisco/Oakland on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ WHOTHEFUCKATEMYMOONPIE is a reggaeton and club artist, with 8 gigs on soundcheck
 
 40split, Profesito, Digital KitKat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whothefuckatemymoonpie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whothefuckatemymoonpie/)*

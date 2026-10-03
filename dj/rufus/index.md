@@ -1,6 +1,6 @@
 # Rufus
 
-Rufus is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
+Rufus is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
 
 Rufus is a drum & bass and electronica artist based in Italy, with 14 gigs on soundcheck across Hamburg, Leeds, London and Mexico City and 1 more. Often billed alongside Bryan Gee, Funsta and Jumping Jack Frost. Next up: Hootananny Brixton, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rufus is a drum & bass and electronica artist based in Italy, with 14 gigs on so
 
 Bryan Gee, Funsta, Jumping Jack Frost
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufus/)*

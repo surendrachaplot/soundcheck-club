@@ -1,6 +1,6 @@
 # Xinobi
 
-Xinobi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sun, 4 Oct 2026.
+Xinobi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sun, 4 Oct 2026.
 
 Xinobi is a house and techno artist based in Portugal, with 69 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Brussels and 23 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Flash, Washington DC on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Xinobi is a house and techno artist based in Portugal, with 69 gigs on soundchec
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

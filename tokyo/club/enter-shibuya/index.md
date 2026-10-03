@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "松果体 =shoukatai= 6th Anniversary" on Fri, 2 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FOCUS" on Sat, 3 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including age, AMIDAdrive, Amps and Blackship and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AMIDAdrive, Amps, Blackship and Daitto and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | 松果体 =shoukatai= 6th Anniversary | Lisa Mizuno, NYAO, Toki Fuko, UG (1), age (1) |
 | Sat, 3 Oct 2026 | FOCUS | Blackship, Daitto, KUNPEI, LogicBeat, Louis Shannon, Mamazu, Rickey Shannon |
 | Mon, 5 Oct 2026 | Vermilion | kengotaki, megu |
 | Tue, 6 Oct 2026 | 青山蜂 - Aoyama Hachi - × ENTER | KUNPEI, LEFTOLD, Sunga, U-T, r1ku |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, 
 | Sat, 10 Oct 2026 | The Dreamers EP39 | Louis Shannon, Manaha, Rickey Shannon |
 | Tue, 13 Oct 2026 | UNCONSCIOUS | Amps, GooPer, ISPA, Yuta Yamada |
 | Wed, 14 Oct 2026 | Game Chakra | Foodman, Taigen Kawabe |
+| Thu, 15 Oct 2026 | BS0xtra | Mars89, NullDaSensei, ykah |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

@@ -1,6 +1,6 @@
 # Daisy Weweh
 
-Daisy Weweh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
+Daisy Weweh is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fitzroy, Berlin on Fri, 16 Oct 2026.
 
 Daisy Weweh is a house and techno artist based in Ukraine, with 77 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Jean Mauj, Anton Jonathan and Aimé You. Next up: Fitzroy, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Daisy Weweh is a house and techno artist based in Ukraine, with 77 gigs on sound
 
 Jean Mauj, Anton Jonathan, Aimé You
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*

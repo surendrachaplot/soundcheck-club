@@ -1,6 +1,6 @@
 # Katja Ruge
 
-Katja Ruge is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Zeiss Grossplanetarium, Berlin on Tue, 13 Oct 2026.
+Katja Ruge is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zeiss Grossplanetarium, Berlin on Tue, 13 Oct 2026.
 
 Katja Ruge is an electro and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Bochum, Frankfurt and Hamburg and 1 more. Often billed alongside DJ MELL G, Hufnagel and JakoJako. Next up: Zeiss Grossplanetarium, Berlin on Tue 13 Oct.
 
@@ -27,4 +27,4 @@ Katja Ruge is an electro and techno artist based in Germany, with 32 gigs on sou
 
 DJ MELL G, Hufnagel, JakoJako
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaruge/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katjaruge/)*

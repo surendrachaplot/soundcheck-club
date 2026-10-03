@@ -1,6 +1,6 @@
 # Barbuto
 
-Barbuto is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+Barbuto is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
 Barbuto is a techno and tech house artist based in United States of America, with 24 gigs on soundcheck across Melbourne, San Diego and Sydney. Often billed alongside Nick Reverse, PAPCO and Trent Hadid. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Barbuto is a techno and tech house artist based in United States of America, wit
 
 Nick Reverse, PAPCO, Trent Hadid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbuto-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbuto-us/)*

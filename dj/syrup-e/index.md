@@ -1,6 +1,6 @@
 # syrup-E
 
-syrup-E is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klakaz, Athens on Sun, 11 Oct 2026.
+syrup-E is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klakaz, Athens on Sun, 11 Oct 2026.
 
 syrup-E is a techno and trance artist based in Australia, with 46 gigs on soundcheck across Athens and Melbourne. Often billed alongside BDE, nabii and Girl Crush. Next up: Klakaz, Athens on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ syrup-E is a techno and trance artist based in Australia, with 46 gigs on soundc
 
 BDE, nabii, Girl Crush
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup-e/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup-e/)*

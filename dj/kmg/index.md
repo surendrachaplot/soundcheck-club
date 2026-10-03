@@ -1,6 +1,6 @@
 # KMG
 
-KMG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
+KMG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 16 Oct 2026.
 
 KMG is a techno and house artist based in Japan, with 25 gigs on soundcheck across Bangkok, Hong Kong, London and Seoul and 2 more. Often billed alongside Dan-neo, Finsent C and Mill.H. Next up: Enter Shibuya, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KMG is a techno and house artist based in Japan, with 25 gigs on soundcheck acro
 
 Dan-neo, Finsent C, Mill.H
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmg/)*

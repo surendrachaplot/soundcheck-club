@@ -1,6 +1,6 @@
 # Valrik
 
-Valrik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
+Valrik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
 Valrik is a techno and house artist based in Sweden, with 10 gigs on soundcheck across Copenhagen and Stockholm. Often billed alongside DJ BENDER, ALCATRAZ and Alex Wilcox. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Valrik is a techno and house artist based in Sweden, with 10 gigs on soundcheck 
 
 DJ BENDER, ALCATRAZ, Alex Wilcox
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valrik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valrik/)*

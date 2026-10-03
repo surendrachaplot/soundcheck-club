@@ -1,6 +1,6 @@
 # Nicky Romero
 
-Nicky Romero is a Progressive House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Nightclub, Seattle on Sat, 3 Oct 2026.
+Nicky Romero is a Progressive House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Q Nightclub, Seattle on Sat, 3 Oct 2026.
 
 Nicky Romero is a progressive house and club artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Bangkok, Boston and Denver and 13 more. Often billed alongside Afrojack, Alesso and Alignment. Next up: Q Nightclub, Seattle on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Nicky Romero is a progressive house and club artist based in Netherlands, with 3
 
 Afrojack, Alesso, Alignment
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyromero/)*

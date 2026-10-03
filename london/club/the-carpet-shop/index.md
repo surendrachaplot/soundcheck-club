@@ -1,15 +1,13 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "10 years of Subtle Radio" on Fri, 2 Oct 2026.
+The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat" on Sat, 3 Oct 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | 10 years of Subtle Radio |  |
-| Fri, 2 Oct 2026 | Bad Behli presents 365: All Night Long **SOLD OUT** |  |
 | Sat, 3 Oct 2026 | pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat | Curses, Harry James, Jay Duncan, Josh Bayat |
 | Wed, 7 Oct 2026 | AlgoRhythms |  |
 | Thu, 8 Oct 2026 | Thirsty Thursdays with Sexy B*tch | Cam Joon |
@@ -18,9 +16,11 @@ The Carpet Shop is a music venue in London listed on soundcheck. 21 upcoming gig
 | Fri, 16 Oct 2026 | Beat Hotel: Coco Maria, John Gomez & Ri Mistry | Coco Maria, John Gómez |
 | Sat, 17 Oct 2026 | ⌭ IceMorph ⌬ - CloudCore takeover | IceMorph |
 | Sun, 18 Oct 2026 | If Music presents 'Left Turn' | DJ Flight |
+| Fri, 23 Oct 2026 | Kilig - All Night Long | Kilig (UK) |
+| Sat, 24 Oct 2026 | Emma-Jean Thackray & Lagoon Lurve - Movementt | Emma-Jean Thackray |
 
 ## Address
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

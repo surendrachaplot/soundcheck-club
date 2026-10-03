@@ -1,6 +1,6 @@
 # Earwax (IT)
 
-Earwax (IT) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
+Earwax (IT) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
 
 Earwax (IT) is a techno artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Krakow and Madrid and 4 more. Often billed alongside Bas Mooy, Chloe Lula and Dynamic Forces. Next up: Lasociaciøn, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Earwax (IT) is a techno artist, with 16 gigs on soundcheck across Amsterdam, Ber
 
 Bas Mooy, Chloe Lula (3), Dynamic Forces
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earwaxit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earwaxit/)*

@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+O'Flynn is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, with 82 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 27 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -10,7 +10,6 @@ O'Flynn is a house and garage artist based in United Kingdom, with 82 gigs on so
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Fri, 2 Oct 2026 | fabric | London |
 | Sat, 3 Oct 2026 | Fidelity Studio | Dublin |
 | Fri, 9 Oct 2026 | Hangaren | Copenhagen |
 | Sat, 7 Nov 2026 | Sacré | Paris |
@@ -20,6 +19,7 @@ O'Flynn is a house and garage artist based in United Kingdom, with 82 gigs on so
 
 ## Recently played
 
+- fabric, London · Fri, 2 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - Neck of the Woods, Auckland · Fri, 18 Sept 2026
@@ -27,10 +27,9 @@ O'Flynn is a house and garage artist based in United Kingdom, with 82 gigs on so
 - The Night Cat, Melbourne · Sat, 12 Sept 2026
 - Oxford Art Factory, Sydney · Fri, 11 Sept 2026
 - The Downs, Bristol, Bristol · Sat, 29 Aug 2026
-- Soup, Manchester · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

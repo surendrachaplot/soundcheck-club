@@ -1,6 +1,6 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mark Roma is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mark Roma is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Cologne and London. Often billed alongside Fernweh, MEAKIN and Alex M.O.R.P.H.. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Mark Roma is a techno and trance artist based in United Kingdom, with 8 gigs on 
 
 Fernweh (2), MEAKIN, Alex M.O.R.P.H.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*

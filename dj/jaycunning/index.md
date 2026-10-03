@@ -1,6 +1,6 @@
 # Jay Cunning
 
-Jay Cunning is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Jay Cunning is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Jay Cunning is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 1 more. Often billed alongside Billy Daniel Bunter, Swankout and Arkyn. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jay Cunning is a drum & bass and jungle artist based in United Kingdom, with 21 
 
 Billy Daniel Bunter, Swankout, Arkyn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycunning/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycunning/)*

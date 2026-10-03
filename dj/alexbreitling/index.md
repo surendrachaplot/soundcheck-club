@@ -1,6 +1,6 @@
 # Alex Breitling
 
-Alex Breitling is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Alex Breitling is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 Alex Breitling is an electronica and deep house artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 1 more. Often billed alongside Nora En Pure, Ben Böhmer and Corren Cavini. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Alex Breitling is an electronica and deep house artist based in Germany, with 8 
 
 Nora En Pure, Ben Böhmer, Corren Cavini
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbreitling/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbreitling/)*

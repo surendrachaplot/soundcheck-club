@@ -1,6 +1,6 @@
 # Dan Jolly
 
-Dan Jolly is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
+Dan Jolly is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
 
 Dan Jolly is a garage and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Lisa Maffia, Artful Dodger and Charlotte Devaney. Next up: Dixie Queen Paddle Steamer, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Dan Jolly is a garage and house artist based in United Kingdom, with 8 gigs on s
 
 Lisa Maffia, Artful Dodger, Charlotte Devaney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjolly/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjolly/)*

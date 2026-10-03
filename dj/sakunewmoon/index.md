@@ -1,6 +1,6 @@
 # Saku NewMoon
 
-Saku NewMoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DeTour, Tokyo on Tue, 6 Oct 2026.
+Saku NewMoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DeTour, Tokyo on Tue, 6 Oct 2026.
 
 Saku NewMoon is a house and techno artist based in Japan, with 51 gigs on soundcheck across Tokyo. Often billed alongside Gara, Issyo and Kaw. Next up: DeTour, Tokyo on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Saku NewMoon is a house and techno artist based in Japan, with 51 gigs on soundc
 
 Gara, Issyo, Kaw (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*

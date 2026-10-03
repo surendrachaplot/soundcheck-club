@@ -1,6 +1,6 @@
 # Bushbaby
 
-Bushbaby is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
+Bushbaby is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
 
 Bushbaby is a garage and bass artist based in United Kingdom, with 90 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Village Underground, London on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Bushbaby is a garage and bass artist based in United Kingdom, with 90 gigs on so
 
 MPH (1), CHRIS STASSY, Conducta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

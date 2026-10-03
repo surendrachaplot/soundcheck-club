@@ -1,6 +1,6 @@
 # Dennis Bovell
 
-Dennis Bovell is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Century Locker, Manchester on Fri, 13 Nov 2026.
+Dennis Bovell is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at New Century Locker, Manchester on Fri, 13 Nov 2026.
 
 Dennis Bovell is a dub and bass artist based in Barbados, with 23 gigs on soundcheck across Barcelona, Berlin, London and Manchester and 3 more. Often billed alongside Tash LC, Alex Kassian and Elijah Minnelli. Next up: New Century Locker, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dennis Bovell is a dub and bass artist based in Barbados, with 23 gigs on soundc
 
 Tash LC, Alex Kassian, Elijah Minnelli
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbovell/)*

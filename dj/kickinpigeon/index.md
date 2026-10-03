@@ -1,6 +1,6 @@
 # Kickin Pigeon
 
-Kickin Pigeon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
+Kickin Pigeon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
 
 Kickin Pigeon is a house and disco artist based in United Kingdom, with 46 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Pharaoh Brunson, Il Bosco and Rhod Parry. Next up: Eiger Studios, Leeds on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kickin Pigeon is a house and disco artist based in United Kingdom, with 46 gigs 
 
 Pharaoh Brunson, Il Bosco, Rhod Parry
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kickinpigeon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kickinpigeon/)*

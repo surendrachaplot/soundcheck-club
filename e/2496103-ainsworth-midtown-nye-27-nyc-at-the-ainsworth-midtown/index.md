@@ -1,6 +1,6 @@
 # Ainsworth Midtown NYE 27 NYC at The Ainsworth - Midtown
 
-Ainsworth Midtown NYE 27 NYC at The Ainsworth - Midtown on Thu 31 Dec, New York City. House. See the line-up on soundcheck.
+Ainsworth Midtown NYE 27 NYC at The Ainsworth - Midtown on Thu 31 Dec, New York City. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

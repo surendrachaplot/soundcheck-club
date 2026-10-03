@@ -1,6 +1,6 @@
 # Lennart (NL)
 
-Lennart (NL) is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Natures Calling Winery, Berlin on Sat, 31 Oct 2026.
+Lennart (NL) is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Natures Calling Winery, Berlin on Sat, 31 Oct 2026.
 
 Lennart (NL) is an italo disco and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Karolina Bnv, Paty Vapor and Audio Vacanze. Next up: Natures Calling Winery, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lennart (NL) is an italo disco and house artist based in Netherlands, with 36 gi
 
 Karolina Bnv, Paty Vapor, Audio Vacanze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart-nl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart-nl/)*

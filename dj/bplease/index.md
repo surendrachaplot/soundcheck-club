@@ -1,6 +1,6 @@
 # BPlease
 
-BPlease is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Fri, 9 Oct 2026.
+BPlease is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NWHR, Montreal on Fri, 9 Oct 2026.
 
 BPlease is a techno and house artist based in Canada, with 12 gigs on soundcheck across Montreal. Often billed alongside Alex Murphy, ArioVistus and Char.l.n. Next up: NWHR, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BPlease is a techno and house artist based in Canada, with 12 gigs on soundcheck
 
 Alex Murphy, ArioVistus, Char.l.n
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bplease/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bplease/)*

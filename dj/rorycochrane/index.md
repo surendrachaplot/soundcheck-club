@@ -1,6 +1,6 @@
 # Rory Cochrane
 
-Rory Cochrane is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
+Rory Cochrane is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
 
 Rory Cochrane is a deep house and house artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Macarena Club, Barcelona on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Rory Cochrane is a deep house and house artist based in United Kingdom, with 15 
 
 Hunter. S, Dean Mir, Retza
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorycochrane/)*

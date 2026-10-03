@@ -1,6 +1,6 @@
 # Seki
 
-Seki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 16 Oct 2026.
+Seki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 16 Oct 2026.
 
 Seki is a house and techno artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside Kenfo, Karani and Maz (BR). Next up: Abercrombie Hotel, Sydney on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Seki is a house and techno artist based in Australia, with 4 gigs on soundcheck 
 
 Kenfo, Karani, Maz (BR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seki-aus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seki-aus/)*

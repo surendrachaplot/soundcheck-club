@@ -1,6 +1,6 @@
 # Deadmau5
 
-Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Deadmau5 is a progressive house and electro artist based in Canada, with 45 gigs on soundcheck across Austin, Bali, Boston and Bristol and 13 more. Often billed alongside Artbat, Above & Beyond and Boris Brejcha. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Deadmau5 is a progressive house and electro artist based in Canada, with 45 gigs
 
 Artbat, Above & Beyond, Boris Brejcha
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*

@@ -1,6 +1,6 @@
 # Mabe Fratti
 
-Mabe Fratti is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Mabe Fratti is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Mabe Fratti is an experimental and ambient artist based in Guatemala, with 6 gigs on soundcheck across Buenos Aires, Krakow, Mexico City and Miami and 2 more. Often billed alongside Clarissa Connelly, Juliana Huxtable and Mark William Lewis. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, with 6 gig
 
 ## Recently played
 
+- Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - MoMA PS1, New York City · Fri, 14 Aug 2026
 - Luzy, Mexico City · Sat, 25 Jul 2026
 - Club Social 911, Buenos Aires · Thu, 28 May 2026
@@ -22,4 +23,4 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, with 6 gig
 
 Clarissa Connelly, Juliana Huxtable, Mark William Lewis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*

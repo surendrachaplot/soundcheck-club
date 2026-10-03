@@ -1,6 +1,6 @@
 # Adyy Love
 
-Adyy Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
+Adyy Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
 
 Adyy Love is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Detroit and Washington DC. Often billed alongside SPCL.K, VYNX and BE EZY. Next up: Flash, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Adyy Love is a house and tech house artist based in United States of America, wi
 
 SPCL.K, VYNX, BE EZY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adyylove/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adyylove/)*

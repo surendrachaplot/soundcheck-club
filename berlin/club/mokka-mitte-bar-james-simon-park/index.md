@@ -1,6 +1,6 @@
 # Mokka Mitte Bar / James Simon Park
 
-Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SOIR goes to MOKKA" on Fri, 9 Oct 2026.
+Mokka Mitte Bar / James Simon Park is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SOIR goes to MOKKA" on Fri, 9 Oct 2026.
 
 Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Akustikzz, Alex Friday, ELZIRΛ and Filialleiter and 2 more. See dates, start times and who's playing. Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park.
 
@@ -15,4 +15,4 @@ Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundche
 
 Stadtbahnbogen 159/160, 10178 Berlin-Mitte, im James Simon Park, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mokka-mitte-bar-james-simon-park/)*

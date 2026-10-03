@@ -1,6 +1,6 @@
 # Òlta Karawane
 
-Òlta Karawane is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Òlta Karawane is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Òlta Karawane is an electronic artist, with 10 gigs on soundcheck across Berlin and Prague. Often billed alongside Artem Ikra, Austin Powers and Alexa D!saster. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Artem Ikra, Austin Powers, Alexa D!saster
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oltakarawane/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oltakarawane/)*

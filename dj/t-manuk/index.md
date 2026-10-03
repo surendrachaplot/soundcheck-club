@@ -1,6 +1,6 @@
 # T-Man (UK)
 
-T-Man (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+T-Man (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Brighton, Bristol, Ghent and London and 2 more. Often billed alongside Rich Reason, LARISHKA (UK) and MC Fox. Next up: Phonox, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ T-Man (UK) is a drum & bass and jungle artist based in United Kingdom, with 65 g
 
 Rich Reason, LARISHKA (UK), MC Fox
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-manuk/)*

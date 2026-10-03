@@ -1,6 +1,6 @@
 # Loves_kills
 
-Loves_kills is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Loves_kills is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Loves_kills is a house and disco artist based in Ukraine, with 52 gigs on soundcheck across Berlin and Strasbourg. Often billed alongside Rina Katen, justcallmesergio and Slow PSTL. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Loves_kills is a house and disco artist based in Ukraine, with 52 gigs on soundc
 
 Rina Katen, justcallmesergio, Slow PSTL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loves_kills/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loves_kills/)*

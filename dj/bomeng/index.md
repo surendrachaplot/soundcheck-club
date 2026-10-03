@@ -1,6 +1,6 @@
 # Bo Meng
 
-Bo Meng is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paramour, Brussels on Sat, 3 Oct 2026.
+Bo Meng is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paramour, Brussels on Sat, 3 Oct 2026.
 
 Bo Meng is an electro and house artist, with 13 gigs on soundcheck across Antwerp, Brussels and Paris. Often billed alongside Moonshine, San Farafina and &RY.. Next up: Paramour, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Bo Meng is an electro and house artist, with 13 gigs on soundcheck across Antwer
 
 Moonshine, San Farafina, &RY.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*

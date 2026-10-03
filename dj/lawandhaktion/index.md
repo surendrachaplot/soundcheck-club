@@ -1,6 +1,6 @@
 # law and haktion
 
-law and haktion is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Trabendo, Paris on Sat, 19 Dec 2026.
+law and haktion is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Trabendo, Paris on Sat, 19 Dec 2026.
 
 law and haktion are a techno and ebm duo based in France, with 16 gigs on soundcheck across Berlin and Paris. Often billed alongside 24sex-b, Oxblood and Ghost Elektra. Next up: Le Trabendo, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ law and haktion are a techno and ebm duo based in France, with 16 gigs on soundc
 
 24sex-b, Oxblood, Ghost Elektra
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawandhaktion/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawandhaktion/)*

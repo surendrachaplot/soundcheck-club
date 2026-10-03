@@ -1,6 +1,6 @@
 # HAO (CN)
 
-HAO (CN) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+HAO (CN) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 HAO (CN) is a techno and trance artist based in China, with 41 gigs on soundcheck across Athens, Berlin, Copenhagen and Hong Kong and 8 more. Often billed alongside Cora (CN), DJ TOOL and DJB (CN). Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ HAO (CN) is a techno and trance artist based in China, with 41 gigs on soundchec
 
 Cora (CN), DJ TOOL, DJB (CN)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*

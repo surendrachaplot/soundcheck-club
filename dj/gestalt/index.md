@@ -1,6 +1,6 @@
 # Gestalt
 
-Gestalt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Slakthuset, Stockholm on Fri, 30 Oct 2026.
+Gestalt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Slakthuset, Stockholm on Fri, 30 Oct 2026.
 
 Gestalt is a techno and trance artist, with 11 gigs on soundcheck across Milan, Rome and Stockholm. Often billed alongside Hodel, DJ Zeb and Ola Roström. Next up: Slakthuset, Stockholm on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gestalt is a techno and trance artist, with 11 gigs on soundcheck across Milan, 
 
 Hodel, DJ Zeb, Ola Roström
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gestalt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gestalt/)*

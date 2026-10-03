@@ -1,6 +1,6 @@
 # Robbie Redway (United Freedom Collective)
 
-Robbie Redway (United Freedom Collective) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Faith in Strangers, South-east on Sat, 17 Oct 2026.
+Robbie Redway (United Freedom Collective) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Faith in Strangers, South-east on Sat, 17 Oct 2026.
 
 Robbie Redway (United Freedom Collective) is an electronic artist based in United Kingdom, with 2 gigs on soundcheck across South East and West Wales. Often billed alongside Coco Maria, DJ Posture and Echo Juliet. Next up: Faith in Strangers, South East on Sat 17 Oct.
 
@@ -15,4 +15,4 @@ Robbie Redway (United Freedom Collective) is an electronic artist based in Unite
 
 Coco Maria, DJ Posture, Echo Juliet
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieredwayunitedfreedomcollective/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieredwayunitedfreedomcollective/)*

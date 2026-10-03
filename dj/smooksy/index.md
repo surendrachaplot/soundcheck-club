@@ -1,6 +1,6 @@
 # smooksy
 
-smooksy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
+smooksy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
 
 smooksy is a techno and house artist based in Germany, with 10 gigs on soundcheck across Leipzig. Often billed alongside DJ Annita, Big Honey and Kontingency. Next up: elipamanoke, Leipzig on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ smooksy is a techno and house artist based in Germany, with 10 gigs on soundchec
 
 DJ Annita, Big Honey, Kontingency
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smooksy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smooksy/)*

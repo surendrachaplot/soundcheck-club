@@ -1,6 +1,6 @@
 # Daxson
 
-Daxson is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WaV, Liverpool on Sat, 12 Dec 2026.
+Daxson is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WaV, Liverpool on Sat, 12 Dec 2026.
 
 Daxson is a trance and progressive house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Glasgow, Liverpool and London and 11 more. Often billed alongside Ciaran McAuley, Aly & Fila and Amy Wiles. Next up: WaV, Liverpool on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Daxson is a trance and progressive house artist based in United Kingdom, with 23
 
 Ciaran McAuley, Aly & Fila, Amy Wiles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*

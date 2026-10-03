@@ -1,6 +1,6 @@
 # Mixed Methods
 
-Mixed Methods is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Mixed Methods is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Mixed Methods is a house and tech house artist based in Australia, with 67 gigs on soundcheck across Amsterdam, Bali, Berlin and Melbourne and 5 more. Often billed alongside Callyy, Jarred Baker and André Müller. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mixed Methods is a house and tech house artist based in Australia, with 67 gigs 
 
 Callyy, Jarred Baker, André Müller
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedmethods/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedmethods/)*

@@ -1,6 +1,6 @@
 # Montero
 
-Montero is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Montero is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Montero is a techno and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Montero is a techno and house artist based in Spain, with 73 gigs on soundcheck 
 
 ## Recently played
 
+- Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
 - Studio Club Malaga, Malaga · Fri, 28 Aug 2026
 - Les Enfants Brillants, Barcelona · Fri, 26 Jun 2026
@@ -22,10 +23,9 @@ Montero is a techno and house artist based in Spain, with 73 gigs on soundcheck 
 - La Station - Gare des Mines, Paris · Sun, 7 Jun 2026
 - Studio Club Malaga, Malaga · Fri, 5 Jun 2026
 - 42 Marches, Paris · Wed, 13 May 2026
-- LA Rítmica Club, Valencia · Sat, 9 May 2026
 
 ## Shares bills with
 
 Tauer, Anika Kunst, Stojche
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*

@@ -1,6 +1,6 @@
 # Edo
 
-Edo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sat, 10 Oct 2026.
+Edo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sat, 10 Oct 2026.
 
 Edo is a house and techno artist, with 36 gigs on soundcheck across Brighton, Detroit, Ghent and Mexico City and 2 more. Often billed alongside Jus Nowhere, KayLaSoul and G.E.N.E.. Next up: Flash, Washington DC on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Edo is a house and techno artist, with 36 gigs on soundcheck across Brighton, De
 
 Jus Nowhere, KayLaSoul, G.E.N.E.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edo/)*

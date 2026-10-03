@@ -1,14 +1,13 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Hamdi is a Dubstep and Garage artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-Hamdi is a dubstep and garage artist based in Germany, with 64 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside MPH, Oppidan and John Summit. Next up: The Regency Ballroom, San Francisco/Oakland on Fri 2 Oct.
+Hamdi is a dubstep and garage artist based in Germany, with 64 gigs on soundcheck across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside MPH, Oppidan and John Summit. Next up: The Regency Ballroom, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
@@ -23,6 +22,7 @@ Hamdi is a dubstep and garage artist based in Germany, with 64 gigs on soundchec
 
 ## Recently played
 
+- The Regency Ballroom, San Francisco/Oakland · Fri, 2 Oct 2026
 - Le Kilowatt, Paris · Sat, 13 Jun 2026
 - Kraftwerk Berlin, Berlin · Sat, 30 May 2026
 - Kraftwerk Berlin, Berlin · Sat, 30 May 2026
@@ -30,10 +30,9 @@ Hamdi is a dubstep and garage artist based in Germany, with 64 gigs on soundchec
 - Peckham Rye Park, London · Fri, 22 May 2026
 - Quarters, Brighton · Sat, 7 Mar 2026
 - Razzmatazz, Barcelona · Fri, 27 Feb 2026
-- Cakeshop, Seoul · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 MPH (1), Oppidan, John Summit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

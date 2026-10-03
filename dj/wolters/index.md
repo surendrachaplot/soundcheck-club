@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Racket Space, Dublin on Sat, 17 Oct 2026.
+WOLTERS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Racket Space, Dublin on Sat, 17 Oct 2026.
 
 WOLTERS is a techno and house artist based in Australia, with 54 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 12 more. Often billed alongside Bella Claxton, Kyle Starkey and Faster Horses. Next up: The Racket Space, Dublin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ WOLTERS is a techno and house artist based in Australia, with 54 gigs on soundch
 
 Bella Claxton, Kyle Starkey, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

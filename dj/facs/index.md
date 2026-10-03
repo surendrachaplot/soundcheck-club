@@ -1,6 +1,6 @@
 # Facs
 
-Facs is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Sat, 7 Nov 2026.
+Facs is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 7 Nov 2026.
 
 Facs is a drum & bass and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Brighton, London and Utrecht. Often billed alongside Primitivizm, Xanadu and Rozzer. Next up: Club Cheek, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Facs is a drum & bass and experimental artist based in United Kingdom, with 13 g
 
 Primitivizm, Xanadu, Rozzer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facs/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facs/)*

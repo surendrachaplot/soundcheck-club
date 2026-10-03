@@ -1,6 +1,6 @@
 # BTAY
 
-BTAY is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
+BTAY is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
 
 BTAY is a house and disco artist based in United Kingdom, with 17 gigs on soundcheck across Leeds and London. Often billed alongside Wildish, Enzo is Burning and Goosey. Next up: XOYO, London on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ BTAY is a house and disco artist based in United Kingdom, with 17 gigs on soundc
 
 Wildish, Enzo is Burning, Goosey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btay/)*

@@ -1,15 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 35 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SPOTLIGHT: Takeover Planet Wax" on Fri, 2 Oct 2026.
+Planet Wax is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TIMELINES" on Sat, 3 Oct 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and Aura and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and Azure and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SPOTLIGHT: Takeover Planet Wax | Aura, Freja, Nio-B, RACH, Shard, stargirl |
-| Fri, 2 Oct 2026 | HAPPY HOUR LIVE | Controlled Weirdness, Dexta, Uncle G |
 | Sat, 3 Oct 2026 | TIMELINES | Ben Repertoire, LMajor |
 | Sat, 3 Oct 2026 | AFTERDARKRADIO: Takeover Planet Wax |  |
 | Sun, 4 Oct 2026 | SUNDAY SERVICE LIVE | Dexta, Slundarq, Uncle G |
@@ -18,9 +16,11 @@ Planet Wax is a music venue in London listed on soundcheck. 35 upcoming gigs, wi
 | Thu, 8 Oct 2026 | BASEPLATE: SAMSARA | SCARLETT, TILDA (2) |
 | Fri, 9 Oct 2026 | DRUM UNIT | oozat |
 | Sat, 10 Oct 2026 | 99 RECORDS: Label Takeover | Andy Foundations, Dj magic touch, Nicky B |
+| Sat, 10 Oct 2026 | RAVING 4 A REASON: Takeover Planet Wax |  |
+| Sun, 11 Oct 2026 | SUNDAY SERVICE x DEYA 'REPRESS LAUCH' | Amy  B, Dexta, LOKI (2), Slundarq |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

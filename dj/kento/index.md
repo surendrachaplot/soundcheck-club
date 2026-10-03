@@ -1,6 +1,6 @@
 # Kento
 
-Kento is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Sat, 31 Oct 2026.
+Kento is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Sat, 31 Oct 2026.
 
 Kento is a techno and industrial artist, with 15 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 2 more. Often billed alongside Robin Hastings, Djaygo T and PINELOPI. Next up: John Doe, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kento is a techno and industrial artist, with 15 gigs on soundcheck across Amste
 
 Robin Hastings, Djaygo T, PINELOPI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kento/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kento/)*

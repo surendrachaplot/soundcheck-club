@@ -1,6 +1,6 @@
 # Piticu
 
-Piticu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Piticu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Piticu is a minimal and house artist based in Romania, with 54 gigs on soundcheck across Barcelona, Berlin, Brussels and Central and 8 more. Often billed alongside Grittrip, Janina and Nima Gorji. Next up: TBA, Central on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Piticu is a minimal and house artist based in Romania, with 54 gigs on soundchec
 
 ## Recently played
 
+- TBA, Central · Fri, 2 Oct 2026
 - Playa Soleil Ibiza, Ibiza · Wed, 29 Jul 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 12 Jun 2026
 - Macarena Club, Barcelona · Sun, 1 Feb 2026
@@ -19,10 +20,9 @@ Piticu is a minimal and house artist based in Romania, with 54 gigs on soundchec
 - TBA - LOST BEACH PLATJA DEL FORUM BARCELONA , Barcelona · Thu, 11 Sept 2025
 - Seaseaclub Barcelona, Barcelona · Sat, 6 Sept 2025
 - City Hall, Barcelona · Tue, 22 Jul 2025
-- Goya Social Club, Madrid · Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Grittrip, Janina, Nima Gorji
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piticu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piticu/)*

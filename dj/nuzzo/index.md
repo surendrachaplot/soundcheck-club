@@ -1,6 +1,6 @@
 # Nuzzo
 
-Nuzzo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oven Club, Valencia on Sat, 17 Oct 2026.
+Nuzzo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oven Club, Valencia on Sat, 17 Oct 2026.
 
 Nuzzo is a house and minimal artist based in Spain, with 50 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Carlos Vila, Pol K and Hugo Martinez. Next up: Oven Club, Valencia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nuzzo is a house and minimal artist based in Spain, with 50 gigs on soundcheck a
 
 Carlos Vila, Pol K, Hugo Martinez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzzo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzzo/)*

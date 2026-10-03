@@ -1,6 +1,6 @@
 # Tuff Club
 
-Tuff Club is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Modulation x FRAU. Live Synth Performance" on Sat, 17 Oct 2026.
+Tuff Club is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Modulation x FRAU. Live Synth Performance" on Sat, 17 Oct 2026.
 
 Tuff Club is a music venue in Singapore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
 
@@ -14,4 +14,4 @@ Tuff Club is a music venue in Singapore listed on soundcheck. 1 upcoming gig. Se
 
 138 Robinson Road #19-01, Singapore 068906, Singapore
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*

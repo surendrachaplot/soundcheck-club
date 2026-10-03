@@ -1,6 +1,6 @@
 # Ginchy
 
-Ginchy is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Ginchy is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Ginchy is an afro house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Edinburgh, Ibiza and London and 1 more. Often billed alongside Human Rias, Nathassia and P.O.U. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ginchy is an afro house and techno artist based in United Kingdom, with 12 gigs 
 
 Human Rias, Nathassia, P.O.U
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginchy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginchy/)*

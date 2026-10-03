@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KALT, Strasbourg on Sat, 10 Oct 2026.
+Iman Janes is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KALT, Strasbourg on Sat, 10 Oct 2026.
 
 Iman Janes is a techno and tech house artist based in France, with 26 gigs on soundcheck across Berlin, Brussels, Frankfurt and Hamburg and 5 more. Often billed alongside KALTBLUME, Sinesthesia and AEREA. Next up: KALT, Strasbourg on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Iman Janes is a techno and tech house artist based in France, with 26 gigs on so
 
 KALTBLUME, Sinesthesia, AEREA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

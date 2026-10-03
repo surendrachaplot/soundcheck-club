@@ -1,6 +1,6 @@
 # Jens Schwan
 
-Jens Schwan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 10 Oct 2026.
+Jens Schwan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 10 Oct 2026.
 
 Jens Schwan is a house and techno artist based in Germany, with 35 gigs on soundcheck across Berlin and Cologne. Often billed alongside Felix Reichelt, FEVZEE and MEEMA. Next up: Der Weiße Hase, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jens Schwan is a house and techno artist based in Germany, with 35 gigs on sound
 
 Felix Reichelt, FEVZEE, MEEMA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jensschwan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jensschwan/)*

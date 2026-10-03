@@ -1,6 +1,6 @@
 # Leesh
 
-Leesh is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Guild Row, Chicago on Sun, 4 Oct 2026.
+Leesh is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Guild Row, Chicago on Sun, 4 Oct 2026.
 
 Leesh is a techno and breakbeat artist, with 22 gigs on soundcheck across Boston, Chicago, New York City and San Francisco/Oakland. Often billed alongside Skee Mask, Avalon Emerson and DJ Voices. Next up: Guild Row, Chicago on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Leesh is a techno and breakbeat artist, with 22 gigs on soundcheck across Boston
 
 Skee Mask, Avalon Emerson, DJ Voices
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leesh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leesh/)*

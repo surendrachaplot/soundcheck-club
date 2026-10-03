@@ -1,6 +1,6 @@
 # Mountak
 
-Mountak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crust Basement, Athens on Sat, 3 Oct 2026.
+Mountak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crust Basement, Athens on Sat, 3 Oct 2026.
 
 Mountak is a house and techno artist, with 8 gigs on soundcheck across Athens and Berlin. Often billed alongside Ady Toledano, Amy Dabbs and Johannes Albert. Next up: Crust Basement, Athens on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Mountak is a house and techno artist, with 8 gigs on soundcheck across Athens an
 
 Ady Toledano, Amy Dabbs, Johannes Albert
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mountak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mountak/)*

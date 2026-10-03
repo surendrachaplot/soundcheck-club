@@ -1,6 +1,6 @@
 # Baby Grey
 
-Baby Grey is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Mercury Prize Fringe 2026: For The Record x Edmondson" on Fri, 16 Oct 2026.
+Baby Grey is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Mercury Prize Fringe 2026: For The Record x Edmondson" on Fri, 16 Oct 2026.
 
 Baby Grey is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs, with line-ups including Anslow and Edmondson. See dates, start times and who's playing. 75 High Street, Gosforth, NE3 4AA.
 
@@ -15,4 +15,4 @@ Baby Grey is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs, w
 
 75 High Street, Gosforth, NE3 4AA, Newcastle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/baby-grey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/baby-grey/)*

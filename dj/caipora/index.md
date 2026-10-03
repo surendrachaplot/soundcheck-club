@@ -1,6 +1,6 @@
 # caipora
 
-caipora is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BABY01, Berlin on Sat, 10 Oct 2026.
+caipora is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BABY01, Berlin on Sat, 10 Oct 2026.
 
 caipora is a house and techno artist based in Brazil, with 20 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside MAMA LOVE, Monti1one and materia hache. Next up: BABY01, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ caipora is a house and techno artist based in Brazil, with 20 gigs on soundcheck
 
 MAMA LOVE, Monti1one, materia hache
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caipora/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caipora/)*

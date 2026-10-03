@@ -1,6 +1,6 @@
 # Bredren
 
-Bredren is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 3 Oct 2026.
+Bredren is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 3 Oct 2026.
 
 Bredren is a drum & bass and dubstep artist based in Belgium, with 22 gigs on soundcheck across Antwerp, Brighton, Bristol and Brussels and 7 more. Often billed alongside Amoss, Lavance and Scepticz. Next up: VIERNULVIER, Ghent on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Bredren is a drum & bass and dubstep artist based in Belgium, with 22 gigs on so
 
 Amoss, Lavance, Scepticz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bredren/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bredren/)*

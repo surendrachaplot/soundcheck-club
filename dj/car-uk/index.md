@@ -1,6 +1,6 @@
 # C.A.R.
 
-C.A.R. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lakota, Bristol on Sat, 24 Oct 2026.
+C.A.R. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lakota, Bristol on Sat, 24 Oct 2026.
 
 C.A.R. is an electro and house artist, with 30 gigs on soundcheck across Berlin, Bristol, London and Manchester and 3 more. Often billed alongside Craig Richards, Harry James and Bobby.. Next up: Lakota, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ C.A.R. is an electro and house artist, with 30 gigs on soundcheck across Berlin,
 
 Craig Richards, Harry James, Bobby.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/car-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/car-uk/)*

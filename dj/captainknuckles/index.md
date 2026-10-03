@@ -1,6 +1,6 @@
 # Captain Knuckles
 
-Captain Knuckles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atno, Budapest on Fri, 16 Oct 2026.
+Captain Knuckles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atno, Budapest on Fri, 16 Oct 2026.
 
 Captain Knuckles is a house and tech house artist based in Hungary, with 77 gigs on soundcheck across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Atno, Budapest on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Captain Knuckles is a house and tech house artist based in Hungary, with 77 gigs
 
 Sobek, Sabani, Adx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*

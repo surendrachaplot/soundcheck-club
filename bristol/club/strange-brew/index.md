@@ -1,15 +1,13 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Carla dal Forno + Ulla" on Fri, 2 Oct 2026.
+Strange Brew is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dogshow - Bristol" on Sat, 3 Oct 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with line-ups including Anina, Bakey, Berwick and BLUMITSU and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including Anina, Bakey, Berwick and BLUMITSU and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Carla dal Forno + Ulla | Carla dal Forno, Ulla |
-| Fri, 2 Oct 2026 | Soft Raw presents DVS1 & Danielle | DVS1, Danielle |
 | Sat, 3 Oct 2026 | Dogshow - Bristol | Dogshow |
 | Sat, 3 Oct 2026 | Disco Isn't Dead with Stella Zekri | Burly Chassis, Stella Zekri |
 | Wed, 7 Oct 2026 | Yu Su pres. Foundry AV + JJJJJerome Ellis + Memotone | JJJJJerome Ellis, Memotone, Yu Su |
@@ -18,9 +16,11 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming gigs,
 | Fri, 16 Oct 2026 | Zen Arcade vs. Make A Dance | Ellie Anderson, Make A Dance |
 | Sat, 17 Oct 2026 | Talk to Strangers with Simo Cell, Forest Drive West & nahda | Forest Drive West, Simo Cell |
 | Fri, 23 Oct 2026 | Bakey (All Night Long) | Bakey |
+| Sat, 24 Oct 2026 | Dengue Dengue Dengue + Florentino + Chiedza | Chiedza, Dengue Dengue Dengue, Florentino |
+| Fri, 30 Oct 2026 | Dreamland with Peach + TBH | Peach, tbh (2) |
 
 ## Address
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

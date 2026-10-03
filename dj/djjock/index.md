@@ -1,6 +1,6 @@
 # DJ Jock
 
-DJ Jock is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Slakthuset, Stockholm on Sat, 3 Oct 2026.
+DJ Jock is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Slakthuset, Stockholm on Sat, 3 Oct 2026.
 
 DJ Jock is a techno and tech house artist, with 7 gigs on soundcheck across Amsterdam, Naples and Stockholm. Often billed alongside Dual Drive, A.D.H.S. and Cristian Varela. Next up: Slakthuset, Stockholm on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ DJ Jock is a techno and tech house artist, with 7 gigs on soundcheck across Amst
 
 Dual Drive, A.D.H.S., Cristian Varela
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjock/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjock/)*

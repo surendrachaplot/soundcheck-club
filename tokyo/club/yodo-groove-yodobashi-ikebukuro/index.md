@@ -1,15 +1,14 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TOKYO LEGENDS — VINYL ONLY TECHNO ON THE ROOFTOP DAY PARTY" on Sat, 3 Oct 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil)" on Sun, 4 Oct 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including ANZU, COCOLY, DJ Emma and DJ MIYU and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ANZU, COCOLY, DJ Emma and DJ MIYU and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TOKYO LEGENDS — VINYL ONLY TECHNO ON THE ROOFTOP DAY PARTY | Q'hey |
-| Sun, 4 Oct 2026 | Melodic House Rooftop Session –  FUZIGER (EXE Audio / Brazil) | COCOLY, YURI VALEN |
+| Sun, 4 Oct 2026 | Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil) | COCOLY, YURI VALEN |
 | Sat, 10 Oct 2026 | SKY MUSIC JOURNEY: A-JAY — House & Progressive | DJ OGAWA, Vino (1) |
 | Sun, 11 Oct 2026 | SUNSHINE – Tokyo Rooftop Session: Techno, UKG & Tech House |  |
 | Mon, 12 Oct 2026 | DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary | DJ MIYU, KEiTA, Light.aka, Sarina Tokihira |
@@ -21,4 +20,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

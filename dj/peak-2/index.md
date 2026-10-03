@@ -1,6 +1,6 @@
 # PEAK (2)
 
-PEAK (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Apolo, Barcelona on Sat, 31 Oct 2026.
+PEAK (2) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Apolo, Barcelona on Sat, 31 Oct 2026.
 
 PEAK is a drum & bass and bass artist based in Netherlands, with 13 gigs on soundcheck across Barcelona and Utrecht. Often billed alongside BALA, Maje and CAPITANA. Next up: Sala Apolo, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PEAK is a drum & bass and bass artist based in Netherlands, with 13 gigs on soun
 
 BALA (3), Maje, CAPITANA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peak-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peak-2/)*

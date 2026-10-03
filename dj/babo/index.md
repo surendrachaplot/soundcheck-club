@@ -1,6 +1,6 @@
 # Babo
 
-Babo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bikini Club, Barcelona on Fri, 9 Oct 2026.
+Babo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bikini Club, Barcelona on Fri, 9 Oct 2026.
 
 Babo is a house and tech house artist based in Spain, with 41 gigs on soundcheck across Barcelona. Often billed alongside BRU ON, Mario Chicoli and Mastro Sally. Next up: Bikini Club, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Babo is a house and tech house artist based in Spain, with 41 gigs on soundcheck
 
 BRU ON, Mario Chicoli, Mastro Sally
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*

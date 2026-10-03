@@ -1,6 +1,6 @@
 # Alisdair
 
-Alisdair is a Electro and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
+Alisdair is a Electro and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
 
 Alisdair is an electro and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Leeds, London and Newcastle. Often billed alongside LEN., Aris (Ldn) and Chaddy. Next up: Ouseburn Garden, Newcastle on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Alisdair is an electro and minimal artist based in United Kingdom, with 20 gigs 
 
 LEN., Aris (Ldn), Chaddy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*

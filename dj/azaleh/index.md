@@ -1,6 +1,6 @@
 # Azaleh
 
-Azaleh is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bricks, London on Thu, 15 Oct 2026.
+Azaleh is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bricks, London on Thu, 15 Oct 2026.
 
 Azaleh is a bass and jungle artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Leipzig, London and Sydney and 1 more. Often billed alongside Faro Alip, RARRI and A Strange Wedding. Next up: Bricks, London on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ Azaleh is a bass and jungle artist based in Germany, with 7 gigs on soundcheck a
 
 Faro Alip, RARRI, A Strange Wedding
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*

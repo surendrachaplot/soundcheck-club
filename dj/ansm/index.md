@@ -1,6 +1,6 @@
 # Ans M
 
-Ans M is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
+Ans M is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
 
 Ans M is an experimental and club artist based in United Kingdom, with 12 gigs on soundcheck across Copenhagen, Frankfurt, London and Manchester. Often billed alongside Kelman Duran, Akira Knightley and Alo3. Next up: Christianshavns Beboerhus, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ans M is an experimental and club artist based in United Kingdom, with 12 gigs o
 
 Kelman Duran, Akira Knightley, Alo3
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansm/)*

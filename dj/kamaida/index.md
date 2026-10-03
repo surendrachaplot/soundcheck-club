@@ -1,6 +1,6 @@
 # Kamaida
 
-Kamaida is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 10 Oct 2026.
+Kamaida is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 10 Oct 2026.
 
 Kamaida is a techno and house artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside Krankent, ksd6700 and COSMOGANG. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kamaida is a techno and house artist based in Japan, with 22 gigs on soundcheck 
 
 Krankent, ksd6700, COSMOGANG
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*

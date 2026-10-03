@@ -1,6 +1,6 @@
 # Raär
 
-Raär is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Raär is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Raär is a techno and electro artist based in Belgium, with 44 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside Under Black Helmet, Chlär and Ey.rah. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Raär is a techno and electro artist based in Belgium, with 44 gigs on soundchec
 
 ## Recently played
 
+- Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - public records, New York City · Fri, 3 Jul 2026
 - Bar Dancing Multipla, Amsterdam · Sun, 21 Jun 2026
 - Luma, Milan · Sat, 14 Mar 2026
@@ -19,10 +20,9 @@ Raär is a techno and electro artist based in Belgium, with 44 gigs on soundchec
 - Outra Cena, Lisbon · Fri, 28 Nov 2025
 - Fuse, Brussels · Fri, 24 Oct 2025
 - TBA - Open Air - More Info In Our IG, Berlin · Sat, 6 Sept 2025
-- C12, Brussels · Sat, 30 Aug 2025
 
 ## Shares bills with
 
 Under Black Helmet, Chlär, Ey.rah
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raar/)*

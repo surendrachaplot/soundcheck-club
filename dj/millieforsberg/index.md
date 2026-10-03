@@ -1,6 +1,6 @@
 # Millie Forsberg
 
-Millie Forsberg is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Wed, 14 Oct 2026.
+Millie Forsberg is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Wed, 14 Oct 2026.
 
 Millie Forsberg is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, Melanchromie and SaltySis. Next up: KitKatClub, Berlin on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ Millie Forsberg is a techno and trance artist based in Germany, with 101 gigs on
 
 DJ Jordan, Melanchromie, SaltySis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millieforsberg/)*

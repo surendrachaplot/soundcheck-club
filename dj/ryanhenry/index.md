@@ -1,6 +1,6 @@
 # Ryan Henry
 
-Ryan Henry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tola, London on Sat, 3 Oct 2026.
+Ryan Henry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Sat, 3 Oct 2026.
 
 Ryan Henry is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Eleonora Cairati, Althoff and ERRANT. Next up: Tola, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ryan Henry is a techno and house artist based in United Kingdom, with 11 gigs on
 
 Eleonora Cairati, Althoff, ERRANT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhenry/)*

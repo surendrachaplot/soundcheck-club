@@ -1,6 +1,6 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
+DJ Vibe is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
 
 DJ Vibe is a house and tech house artist based in Portugal, with 41 gigs on soundcheck across Lisbon, Montreal, New York City and Porto and 1 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: Lux Fragil, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Vibe is a house and tech house artist based in Portugal, with 41 gigs on soun
 
 Rui Vargas, Kaesar, Ze Salvador
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibe/)*

@@ -1,6 +1,6 @@
 # PUNKAL0ID
 
-PUNKAL0ID is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oberon, New York City on Sun, 4 Oct 2026.
+PUNKAL0ID is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oberon, New York City on Sun, 4 Oct 2026.
 
 PUNKAL0ID is a techno and club artist based in United States of America, with 12 gigs on soundcheck across Chicago and New York City. Often billed alongside Soo Intoit, Xana 101 and ARCHANGEL (US). Next up: Oberon, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ PUNKAL0ID is a techno and club artist based in United States of America, with 12
 
 Soo Intoit, Xana 101, ARCHANGEL (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkal0id/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkal0id/)*

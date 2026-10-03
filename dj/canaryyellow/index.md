@@ -1,6 +1,6 @@
 # canary yellow
 
-canary yellow is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+canary yellow is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 canary yellow is a garage and house artist based in United States of America, with 21 gigs on soundcheck across Chicago, Denver, Los Angeles and Mexico City and 2 more. Often billed alongside Clearcast, RamonPang and Chris Lorenzo. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ canary yellow is a garage and house artist based in United States of America, wi
 
 Clearcast, RamonPang, Chris Lorenzo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*

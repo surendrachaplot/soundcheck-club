@@ -1,6 +1,6 @@
 # KC (NYC)
 
-KC (NYC) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
+KC (NYC) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
 
 KC (NYC) is a techno and bass artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside BABEITSPURR, ceviché and dj mangovape. Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ KC (NYC) is a techno and bass artist based in United States of America, with 33 
 
 BABEITSPURR, ceviché, dj mangovape
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-nyc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-nyc/)*

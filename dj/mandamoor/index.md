@@ -1,6 +1,6 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ironworks, London on Sat, 3 Oct 2026.
+Manda Moor is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ironworks, London on Sat, 3 Oct 2026.
 
 Manda Moor is a tech house and house artist based in France, with 174 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Jamie Jones, Sirus Hood and Loco Dice. Next up: Ironworks, London on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Manda Moor is a tech house and house artist based in France, with 174 gigs on so
 
 Jamie Jones, Sirus Hood, Loco Dice
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*

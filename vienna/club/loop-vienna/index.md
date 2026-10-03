@@ -1,6 +1,6 @@
 # Loop/Vienna
 
-Loop/Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "BLACK SIGNAL" on Sat, 31 Oct 2026.
+Loop/Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "BLACK SIGNAL" on Sat, 31 Oct 2026.
 
 Loop/Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including MIKE MYSTIK and Techflex. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Loop/Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | BLACK SIGNAL | MIKE MYSTIK, Techflex |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/loop-vienna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/loop-vienna/)*

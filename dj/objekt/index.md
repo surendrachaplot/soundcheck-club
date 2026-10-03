@@ -1,6 +1,6 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Objekt is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Objekt is a techno and bass artist, with 179 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside CCL, DjRUM and Call Super. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -20,17 +20,17 @@ Objekt is a techno and bass artist, with 179 gigs on soundcheck across Amsterdam
 
 ## Recently played
 
+- The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
+- Signal, New York City · Fri, 2 Oct 2026
 - St. Bartholomew's Church, New York City · Sat, 26 Sept 2026
 - Top Floor, Newcastle · Sat, 19 Sept 2026
 - The Villa, Oslo · Fri, 18 Sept 2026
 - Karmakoma, Belgrade · Fri, 11 Sept 2026
 - Sophie Festival, Malaga · Sat, 5 Sept 2026
 - Sonnenraum, Berlin · Sun, 30 Aug 2026
-- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 CCL, DjRUM, Call Super
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

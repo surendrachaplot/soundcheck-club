@@ -1,8 +1,8 @@
 # Atsou
 
-Atsou is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cross, London on Fri, 30 Oct 2026.
+Atsou is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cross, London on Fri, 30 Oct 2026.
 
-Atsou is a deep house and house artist, with 29 gigs on soundcheck across Amsterdam, Athens, Istanbul and London and 2 more. Often billed alongside Kayf, KORRILA and Avangart Tabldot. Next up: The Cross, London on Fri 30 Oct.
+Atsou is a deep house and house artist based in Greece, with 29 gigs on soundcheck across Amsterdam, Athens, Istanbul and London and 2 more. Often billed alongside Kayf, KORRILA and Avangart Tabldot. Next up: The Cross, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Atsou is a deep house and house artist, with 29 gigs on soundcheck across Amster
 
 Kayf, KORRILA, Avangart Tabldot
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsou/)*

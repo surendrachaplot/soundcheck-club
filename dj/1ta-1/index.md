@@ -1,6 +1,6 @@
 # 1TA (1)
 
-1TA (1) is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spread, Tokyo on Fri, 23 Oct 2026.
+1TA (1) is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spread, Tokyo on Fri, 23 Oct 2026.
 
 1TA is a dub and experimental artist based in Japan, with 26 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Element, Mars89 and ykah. Next up: Spread, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@
 
 Element (3), Mars89, ykah
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ta-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1ta-1/)*

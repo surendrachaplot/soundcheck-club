@@ -1,6 +1,6 @@
 # Crisco
 
-Crisco is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
+Crisco is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
 
 Crisco is a techno and trance artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside Sørine, Ricardo Roessel and Emil Ramsby. Next up: Better Tomorrow, Los Angeles on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Crisco is a techno and trance artist based in Italy, with 57 gigs on soundcheck 
 
 Sørine, Ricardo Roessel, Emil Ramsby
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crisco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crisco/)*

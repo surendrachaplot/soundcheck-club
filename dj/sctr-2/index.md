@@ -1,6 +1,6 @@
 # SCTR (2)
 
-SCTR (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oddity Club, Athens on Sat, 10 Oct 2026.
+SCTR (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oddity Club, Athens on Sat, 10 Oct 2026.
 
 SCTR is a techno and psytrance artist based in Greece, with 14 gigs on soundcheck across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: Oddity Club, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SCTR is a techno and psytrance artist based in Greece, with 14 gigs on soundchec
 
 Tanison, Deherian, Christian Cambas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sctr-2/)*

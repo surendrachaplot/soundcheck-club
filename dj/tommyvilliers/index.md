@@ -1,6 +1,6 @@
 # Tommy Villiers
 
-Tommy Villiers is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacré, Paris on Sat, 10 Oct 2026.
+Tommy Villiers is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sacré, Paris on Sat, 10 Oct 2026.
 
 Tommy Villiers is a garage and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Brighton, Bristol, Dundee and Edinburgh and 6 more. Often billed alongside Scruz, Akira (Buntai) and BVNQUET. Next up: Sacré, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tommy Villiers is a garage and jungle artist based in United Kingdom, with 33 gi
 
 Scruz, Akira (Buntai), BVNQUET
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyvilliers/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyvilliers/)*

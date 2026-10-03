@@ -1,6 +1,6 @@
 # F. Vinuesa
 
-F. Vinuesa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Thu, 31 Dec 2026.
+F. Vinuesa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Thu, 31 Dec 2026.
 
 F. Vinuesa is an electro and house artist, with 24 gigs on soundcheck across Barcelona and Madrid. Often billed alongside tekka, Cesc (ES) and Ruben Montesco. Next up: Cadavra, Madrid on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ F. Vinuesa is an electro and house artist, with 24 gigs on soundcheck across Bar
 
 tekka (2), Cesc (ES), Ruben Montesco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvinuesa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvinuesa/)*

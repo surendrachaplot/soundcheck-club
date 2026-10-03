@@ -1,6 +1,6 @@
 # Michelle
 
-Michelle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
+Michelle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
 
 Michelle is a house and techno artist based in Uruguay, with 58 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Craig Richards, Alyhas and Christian AB. Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Michelle is a house and techno artist based in Uruguay, with 58 gigs on soundche
 
 Craig Richards, Alyhas, Christian AB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle/)*

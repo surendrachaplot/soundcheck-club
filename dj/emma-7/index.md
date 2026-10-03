@@ -1,6 +1,6 @@
 # Emma (7)
 
-Emma (7) is a House and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Emma (7) is a House and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Emma is a house and idm artist based in United States of America, with 11 gigs on soundcheck across Miami. Often billed alongside Frny, True Vine and Bort. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Emma is a house and idm artist based in United States of America, with 11 gigs o
 
 Frny, True Vine, Bort
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-7/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-7/)*

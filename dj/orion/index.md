@@ -1,18 +1,18 @@
 # Orion
 
-Orion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Point Ephémère, Paris on Fri, 2 Oct 2026.
+Orion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Système, Montreal on Sat, 31 Oct 2026.
 
-Orion is a techno and house artist based in Germany, with 26 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside DJ Jordan, Kiar Oscuro and Double J. Next up: Point Ephémère, Paris on Fri 2 Oct.
+Orion is a techno and house artist based in Germany, with 26 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside DJ Jordan, Kiar Oscuro and Double J. Next up: Système, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Point Ephémère | Paris |
 | Sat, 31 Oct 2026 | Système | Montreal |
 
 ## Recently played
 
+- Point Ephémère, Paris · Fri, 2 Oct 2026
 - La Récré, Montreal · Sat, 25 Jul 2026
 - ://about blank, Berlin · Sat, 11 Jul 2026
 - Parckfarm Tour & Taxis, Brussels · Fri, 12 Jun 2026
@@ -20,10 +20,9 @@ Orion is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 - KitKatClub, Berlin · Wed, 6 May 2026
 - M7 Club, Barcelona · Fri, 17 Apr 2026
 - Twist Bar, Prague · Fri, 17 Apr 2026
-- B21, Brussels · Fri, 20 Mar 2026
 
 ## Shares bills with
 
 DJ Jordan, Kiar Oscuro, Double J
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orion/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orion/)*

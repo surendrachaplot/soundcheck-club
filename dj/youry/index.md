@@ -1,6 +1,6 @@
 # Youry
 
-Youry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Youry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Youry is a house and techno artist based in China, with 12 gigs on soundcheck across Hong Kong. Often billed alongside Guido Balboa, Emel and Jascer. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Youry is a house and techno artist based in China, with 12 gigs on soundcheck ac
 
 Guido Balboa, Emel, Jascer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youry/)*

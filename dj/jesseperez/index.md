@@ -1,6 +1,6 @@
 # Jesse Perez
 
-Jesse Perez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Jesse Perez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Jesse Perez is a house and tech house artist, with 19 gigs on soundcheck across Los Angeles, Miami, New York City and Philadelphia and 2 more. Often billed alongside DJ Sneak, Bakke and Carlita. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Jesse Perez is a house and tech house artist, with 19 gigs on soundcheck across 
 
 DJ Sneak, Bakke, Carlita
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*

@@ -1,6 +1,6 @@
 # Lars Eidinger
 
-Lars Eidinger is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Lars Eidinger is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Lars Eidinger is a house and disco artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside Voltmar, A.tari and Kapote. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Lars Eidinger is a house and disco artist based in Germany, with 26 gigs on soun
 
 Voltmar, A.tari, Kapote
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*

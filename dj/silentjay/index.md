@@ -1,6 +1,6 @@
 # Silentjay
 
-Silentjay is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+Silentjay is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
 Silentjay is a hip-hop and house artist based in Australia, with 14 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside Lori, Setwun and Stupid Kozo. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Silentjay is a hip-hop and house artist based in Australia, with 14 gigs on soun
 
 Lori (1), Setwun, Stupid Kozo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*

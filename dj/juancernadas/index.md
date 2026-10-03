@@ -1,6 +1,6 @@
 # Juan Cernadas
 
-Juan Cernadas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Juan Cernadas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 Juan Cernadas is a techno and house artist based in Spain, with 24 gigs on soundcheck across Berlin and Madrid. Often billed alongside Zomkrad, BIXBITA and Belen Zer. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Juan Cernadas is a techno and house artist based in Spain, with 24 gigs on sound
 
 Zomkrad, BIXBITA, Belen Zer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juancernadas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juancernadas/)*

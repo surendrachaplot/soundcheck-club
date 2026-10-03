@@ -1,6 +1,6 @@
 # Sleepyhead
 
-Sleepyhead is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Curveball, Dublin on Sat, 7 Nov 2026.
+Sleepyhead is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Curveball, Dublin on Sat, 7 Nov 2026.
 
 Sleepyhead is a house and techno artist based in Ireland, with 13 gigs on soundcheck across Dublin and Galway. Often billed alongside Hannah Hession, Supergross and Anz. Next up: Curveball, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sleepyhead is a house and techno artist based in Ireland, with 13 gigs on soundc
 
 Hannah Hession, Supergross, Anz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhead1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyhead1/)*

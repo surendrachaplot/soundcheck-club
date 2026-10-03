@@ -1,6 +1,6 @@
 # Lizzie Urquhart
 
-Lizzie Urquhart is a Club and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
+Lizzie Urquhart is a Club and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 Lizzie Urquhart is a club and industrial artist, with 18 gigs on soundcheck across Berlin, Glasgow, London and Manchester. Often billed alongside MR TC, LIZZIE and Alliyah Enyo. Next up: EXIT Glasgow, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lizzie Urquhart is a club and industrial artist, with 18 gigs on soundcheck acro
 
 MR TC, LIZZIE, Alliyah Enyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzieurquhart/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzieurquhart/)*

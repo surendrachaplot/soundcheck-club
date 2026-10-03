@@ -1,6 +1,6 @@
 # Larimae
 
-Larimae is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Larimae is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Larimae is an electronica and house artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Anish Kumar, Ben UFO and Four Tet. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Larimae is an electronica and house artist based in United Kingdom, with 7 gigs 
 
 Anish Kumar, Ben UFO, Four Tet
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larimae/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larimae/)*

@@ -1,6 +1,6 @@
 # Jènemar Passéjure
 
-Jènemar Passéjure is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "3 YEARS like 3 DAYS" on Fri, 9 Oct 2026.
+Jènemar Passéjure is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "3 YEARS like 3 DAYS" on Fri, 9 Oct 2026.
 
 Jènemar Passéjure is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including 2NDRA, 3TB, abecko and Big Lil and 2 more. See dates, start times and who's playing. Kafkova 607/18, 160 00 Praha 6.
 
@@ -15,4 +15,4 @@ Jènemar Passéjure is a music venue in Prague listed on soundcheck. 2 upcoming 
 
 Kafkova 607/18, 160 00 Praha 6, Prague
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/j-nemar-pass-jure/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/j-nemar-pass-jure/)*

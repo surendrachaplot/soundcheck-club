@@ -1,6 +1,6 @@
 # Kozue
 
-Kozue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Kozue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Kozue is a house and techno artist based in Japan, with 50 gigs on soundcheck across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Kozue is a house and techno artist based in Japan, with 50 gigs on soundcheck ac
 
 Dane, Beiti, Body Double
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozue/)*

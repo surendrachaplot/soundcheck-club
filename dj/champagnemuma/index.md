@@ -1,6 +1,6 @@
 # Champagnemuma
 
-Champagnemuma is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
+Champagnemuma is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
 Champagnemuma is a garage and house artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside BETHANY, Safe and With Ess. Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Champagnemuma is a garage and house artist based in Australia, with 15 gigs on s
 
 BETHANY (1), Safe, With Ess
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*

@@ -1,6 +1,6 @@
 # Hotel Alameda NYE 27 at Hotel Alameda
 
-Hotel Alameda NYE 27 on Thu 31 Dec, New York City. Club. See the line-up on soundcheck.
+Hotel Alameda NYE 27 on Thu 31 Dec, New York City. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

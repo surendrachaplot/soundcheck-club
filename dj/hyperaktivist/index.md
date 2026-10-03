@@ -1,6 +1,6 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at objekt klein a, Dresden on Sat, 3 Oct 2026.
+Hyperaktivist is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at objekt klein a, Dresden on Sat, 3 Oct 2026.
 
 Hyperaktivist is a techno and house artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: objekt klein a, Dresden on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Hyperaktivist is a techno and house artist based in Germany, with 184 gigs on so
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

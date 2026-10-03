@@ -1,6 +1,6 @@
 # 131bpm
 
-131bpm is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
+131bpm is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
 
 131bpm is a house and techno artist, with 128 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Camilla Rae, Aaron Blau and Stella Zekri. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@
 
 Camilla Rae, Aaron Blau, Stella Zekri
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*

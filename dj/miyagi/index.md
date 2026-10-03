@@ -1,6 +1,6 @@
 # Miyagi
 
-Miyagi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Miyagi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 Miyagi is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside MikAH, SUZé and Dirty Doering. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Miyagi is a techno and house artist based in Germany, with 32 gigs on soundcheck
 
 MikAH, SUZé, Dirty Doering
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyagi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyagi/)*

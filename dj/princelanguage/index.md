@@ -1,6 +1,6 @@
 # Prince Language
 
-Prince Language is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 9 Oct 2026.
+Prince Language is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 9 Oct 2026.
 
 Prince Language is a house and techno artist based in United States of America, with 32 gigs on soundcheck across New York City, San Francisco/Oakland and Toronto. Often billed alongside Ivan Berko, Lauren Murada and 063N13. Next up: Dead Letter No. 9, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Prince Language is a house and techno artist based in United States of America, 
 
 Ivan Berko, Lauren Murada, 063N13
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*

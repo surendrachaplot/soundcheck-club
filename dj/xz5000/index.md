@@ -1,6 +1,6 @@
 # XZ5000
 
-XZ5000 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
+XZ5000 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
 
 XZ5000 is a techno and psytrance artist, with 8 gigs on soundcheck across Berlin. Often billed alongside HMEHDI, CUNT REMEMBER and Grillac. Next up: Sameheads, Berlin on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ XZ5000 is a techno and psytrance artist, with 8 gigs on soundcheck across Berlin
 
 HMEHDI, CUNT REMEMBER, Grillac
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*

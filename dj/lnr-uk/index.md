@@ -1,6 +1,6 @@
 # LNR (UK)
 
-LNR (UK) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
+LNR (UK) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
 
 LNR (UK) is a breakbeat and bass artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 1 more. Often billed alongside ojoo, Remma and Sybil. Next up: De Sering, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LNR (UK) is a breakbeat and bass artist based in United Kingdom, with 18 gigs on
 
 ojoo, Remma, Sybil
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnr-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnr-uk/)*

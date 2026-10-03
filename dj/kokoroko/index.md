@@ -1,14 +1,13 @@
 # Kokoroko
 
-Kokoroko is a Jazz and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Kokoroko is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
 
-Kokoroko is a jazz and funk / soul artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 10 more. Often billed alongside Ezra Collective, Jamz Supernova and Setwun. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Kokoroko is a jazz and funk / soul artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 10 more. Often billed alongside Ezra Collective, Jamz Supernova and Setwun. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kokoroko is a jazz and funk / soul artist based in United Kingdom, with 18 gigs 
 
 Ezra Collective, Jamz Supernova, Setwun
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*

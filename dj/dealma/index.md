@@ -1,6 +1,6 @@
 # DE ALMA
 
-DE ALMA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
+DE ALMA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
 
 DE ALMA is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Detroit, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, Brown Amy and DJ JUANNY. Next up: TBA, San Francisco/Oakland on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ DE ALMA is a techno and club artist based in United States of America, with 52 g
 
 Discnogirl, Brown Amy, DJ JUANNY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dealma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dealma/)*

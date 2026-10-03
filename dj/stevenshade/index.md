@@ -1,6 +1,6 @@
 # Steven Shade
 
-Steven Shade is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Baalsaal, Hamburg on Fri, 23 Oct 2026.
+Steven Shade is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Baalsaal, Hamburg on Fri, 23 Oct 2026.
 
 Steven Shade is a techno and tech house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Kos:mo, Jayzo and Gilles Bock. Next up: Baalsaal, Hamburg on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Steven Shade is a techno and tech house artist based in Germany, with 73 gigs on
 
 Kos:mo, Jayzo, Gilles Bock
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*

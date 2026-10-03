@@ -1,6 +1,6 @@
 # Tre Turner
 
-Tre Turner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Sun, 11 Oct 2026.
+Tre Turner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Cheetah Club, Glasgow on Sun, 11 Oct 2026.
 
 Tre Turner is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Glasgow, Hong Kong and London. Often billed alongside OOFT, Anacalypto and CLOSE PROXIMITY. Next up: La Cheetah Club, Glasgow on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Tre Turner is a house and techno artist based in United Kingdom, with 12 gigs on
 
 OOFT, Anacalypto, CLOSE PROXIMITY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treturner/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treturner/)*

@@ -1,6 +1,6 @@
 # 3rill
 
-3rill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Koara, Tokyo on Sat, 3 Oct 2026.
+3rill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Koara, Tokyo on Sat, 3 Oct 2026.
 
 3rill is a house and techno artist based in Japan, with 73 gigs on soundcheck across Tokyo. Often billed alongside Keigo, Onométro and Terax. Next up: Koara, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@
 
 Keigo, Onométro, Terax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3rill/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3rill/)*

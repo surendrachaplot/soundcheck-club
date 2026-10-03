@@ -1,6 +1,6 @@
 # Flosstradamus
 
-Flosstradamus is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Flosstradamus is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Flosstradamus is a bass and hip-hop artist based in United States of America, with 18 gigs on soundcheck across Austin, Boston, Chicago and Denver and 7 more. Often billed alongside Dillon Francis, Mija and AMÉMÉ. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Flosstradamus is a bass and hip-hop artist based in United States of America, wi
 
 Dillon Francis, Mija, AMÉMÉ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flosstradamus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flosstradamus/)*

@@ -1,6 +1,6 @@
 # Make-Out Room
 
-Make-Out Room is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "VINYLISSIMO with E da Boss" on Fri, 9 Oct 2026.
+Make-Out Room is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "VINYLISSIMO with E da Boss" on Fri, 9 Oct 2026.
 
 Make-Out Room is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Nino Msk. See dates, start times and who's playing. 3225 22nd Street, San Francisco, CA 94110.
 
@@ -14,4 +14,4 @@ Make-Out Room is a music venue in San Francisco/Oakland listed on soundcheck. 1 
 
 3225 22nd Street, San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*

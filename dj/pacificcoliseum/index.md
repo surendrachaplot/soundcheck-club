@@ -1,6 +1,6 @@
 # Pacific Coliseum
 
-Pacific Coliseum is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jumbi, London on Sat, 3 Oct 2026.
+Pacific Coliseum is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jumbi, London on Sat, 3 Oct 2026.
 
 Pacific Coliseum is a house and balearic artist based in Canada, with 23 gigs on soundcheck across London, Los Angeles, Toronto and Vancouver. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Jumbi, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pacific Coliseum is a house and balearic artist based in Canada, with 23 gigs on
 
 Teen Daze, DJ D.Dee, Dane
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*

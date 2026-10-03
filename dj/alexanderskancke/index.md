@@ -1,8 +1,8 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Alexander Skancke is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Alexander Skancke is a house and techno artist based in Norway, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Onassis Ready, Athens on Fri 9 Oct.
+Alexander Skancke is a house and techno artist based in Norway, with 96 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 26 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Alexander Skancke is a house and techno artist based in Norway, with 95 gigs on 
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
+| Fri, 18 Dec 2026 | The Racket Space | Dublin |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Alexander Skancke is a house and techno artist based in Norway, with 95 gigs on 
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

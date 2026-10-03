@@ -1,6 +1,6 @@
 # RIET
 
-RIET is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
+RIET is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
 
 RIET is a house and techno artist based in Belgium, with 18 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside Asian Sal, DJ Rino and DONIA. Next up: Paramour, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ RIET is a house and techno artist based in Belgium, with 18 gigs on soundcheck a
 
 Asian Sal, DJ Rino, DONIA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riet/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riet/)*

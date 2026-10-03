@@ -1,6 +1,6 @@
 # Paul Elstak
 
-Paul Elstak is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Paul Elstak is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Paul Elstak is a hardcore and techno artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Angerfist, Dual Damage and Marc Acardipane. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Paul Elstak is a hardcore and techno artist based in Netherlands, with 25 gigs o
 
 Angerfist, Dual Damage, Marc Acardipane
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*

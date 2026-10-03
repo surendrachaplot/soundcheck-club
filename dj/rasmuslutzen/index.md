@@ -1,6 +1,6 @@
 # Rasmus Lützen
 
-Rasmus Lützen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
+Rasmus Lützen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
 
 Rasmus Lützen is a techno and house artist based in Denmark, with 8 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Tim Andresen, ANNÆLIX and Aja Gulris. Next up: Culture Box, Copenhagen on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Rasmus Lützen is a techno and house artist based in Denmark, with 8 gigs on sou
 
 Tim Andresen, ANNÆLIX, Aja Gulris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasmuslutzen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasmuslutzen/)*

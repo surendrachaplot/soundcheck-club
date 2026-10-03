@@ -1,6 +1,6 @@
 # Kaitlyn Aurelia Smith
 
-Kaitlyn Aurelia Smith is a Electro and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Kaitlyn Aurelia Smith is a Electro and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of America, with 21 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Aurora Halal, Ben UFO and Erika de Casier. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of
 
 Aurora Halal, Ben UFO, Erika de Casier
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*

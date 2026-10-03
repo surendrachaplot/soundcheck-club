@@ -1,6 +1,6 @@
 # Elis
 
-Elis is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 5 Oct 2026.
+Elis is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 5 Oct 2026.
 
 Elis is a techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Milan and Prague. Often billed alongside Gabrielle (DE), TAKT130 and UniKhatu. Next up: Tresor / Globus, Berlin on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ Elis is a techno artist based in Germany, with 17 gigs on soundcheck across Berl
 
 Gabrielle (DE), TAKT130, UniKhatu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elis-cz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elis-cz/)*

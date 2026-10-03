@@ -1,6 +1,6 @@
 # CARTOON
 
-CARTOON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
+CARTOON is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
 
 CARTOON is a house and tech house artist, with 39 gigs on soundcheck across Amsterdam, Rotterdam, Tallinn and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and Daitto. Next up: Z Maruyama, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CARTOON is a house and tech house artist, with 39 gigs on soundcheck across Amst
 
 Yamariki, PUNK N MATRIX, Daitto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cartoon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cartoon/)*

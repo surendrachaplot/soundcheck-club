@@ -1,6 +1,6 @@
 # Lorna Clarkson
 
-Lorna Clarkson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
+Lorna Clarkson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
 
 Lorna Clarkson is a house and techno artist based in Australia, with 25 gigs on soundcheck across Sydney. Often billed alongside Kato, Simon Caldwell and Annabelle Gaspar. Next up: TBA - Museum of Contemporary Art Australia, Sydney on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Lorna Clarkson is a house and techno artist based in Australia, with 25 gigs on 
 
 Kato, Simon Caldwell, Annabelle Gaspar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lornaclarkson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lornaclarkson/)*

@@ -1,6 +1,6 @@
 # C4LYPSO
 
-C4LYPSO is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at HWK, London on Fri, 16 Oct 2026.
+C4LYPSO is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at HWK, London on Fri, 16 Oct 2026.
 
 C4LYPSO is an afro house and amapiano artist, with 9 gigs on soundcheck across London. Often billed alongside J.Müller, A.K(lifee) and By Dusk. Next up: HWK, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ C4LYPSO is an afro house and amapiano artist, with 9 gigs on soundcheck across L
 
 J.Müller, A.K(lifee), By Dusk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4lypso/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4lypso/)*

@@ -1,0 +1,27 @@
+# SpaceWax
+
+SpaceWax is a Acid and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+
+SpaceWax is an acid and tech house artist based in Germany, with 7 gigs on soundcheck across Cologne, Düsseldorf and Greece. Often billed alongside NVNDO, 22 and Akaj. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
+
+## Recently played
+
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Giselle, Düsseldorf · Wed, 13 May 2026
+- Nachtigall, Cologne · Mon, 16 Feb 2026
+- Nachtigall, Cologne · Sat, 15 Nov 2025
+- Die Nacht, Düsseldorf · Sat, 11 Oct 2025
+- Giselle, Düsseldorf · Thu, 2 Oct 2025
+- TBA - The Eight Düsseldorf , Düsseldorf · Sat, 13 Sept 2025
+
+## Shares bills with
+
+NVNDO, 22 (1), Akaj
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacewax/)*

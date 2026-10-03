@@ -1,6 +1,6 @@
 # Kaibshr
 
-Kaibshr is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Kaibshr is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
 Kaibshr is a bass and techno artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside Kotaro Shimizu, Rikuto Shibazaki and shimosoma. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kaibshr is a bass and techno artist based in Japan, with 14 gigs on soundcheck a
 
 Kotaro Shimizu, Rikuto Shibazaki, shimosoma
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kaibshr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kaibshr/)*

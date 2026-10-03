@@ -1,6 +1,6 @@
 # PEI Z
 
-PEI Z is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+PEI Z is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 PEI Z is a techno and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Hong Kong, London and Shanghai. Often billed alongside SHUGAH, 10000 (CN) and Almeida Moura. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ PEI Z is a techno and tech house artist based in United Kingdom, with 14 gigs on
 
 SHUGAH, 10000 (CN), Almeida Moura
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peiz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peiz/)*

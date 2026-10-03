@@ -1,6 +1,6 @@
 # M8-MDM8
 
-M8-MDM8 is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Acadana, Hong Kong on Sat, 3 Oct 2026.
+M8-MDM8 is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Acadana, Hong Kong on Sat, 3 Oct 2026.
 
 M8-MDM8 is a bass and techno artist based in China, with 4 gigs on soundcheck across Hong Kong. Often billed alongside ADRIANNA.C, Francis_kkk and Zarah Fong. Next up: Acadana, Hong Kong on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ M8-MDM8 is a bass and techno artist based in China, with 4 gigs on soundcheck ac
 
 ADRIANNA.C, Francis_kkk, Zarah Fong
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m8-mdm8/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m8-mdm8/)*

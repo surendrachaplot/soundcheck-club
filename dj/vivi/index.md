@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
+vivi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
 
 vivi is a house and disco artist based in Australia, with 42 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ vivi is a house and disco artist based in Australia, with 42 gigs on soundcheck 
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

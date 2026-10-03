@@ -1,6 +1,6 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
+JIALING is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
 
 JIALING is a club and techno artist based in United States of America, with 119 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 15 more. Often billed alongside Mui Mui, PHANTAZN and Seimei. Next up: TBA - Galway City, Galway on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ JIALING is a club and techno artist based in United States of America, with 119 
 
 ## Recently played
 
+- TBA - Galway City, Galway · Fri, 2 Oct 2026
 - TBA - Location With Ticket, Denver · Fri, 4 Sept 2026
 - Pianos, New York City · Thu, 20 Aug 2026
 - The Mash House, Edinburgh · Fri, 7 Aug 2026
@@ -22,10 +23,9 @@ JIALING is a club and techno artist based in United States of America, with 119 
 - Distillery N17, London · Fri, 26 Jun 2026
 - Green Room NYC, New York City · Wed, 10 Jun 2026
 - Elsewhere, New York City · Thu, 21 May 2026
-- public records, New York City · Thu, 23 Apr 2026
 
 ## Shares bills with
 
 Mui Mui, PHANTAZN, Seimei
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

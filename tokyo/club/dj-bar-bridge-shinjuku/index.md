@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "wOrld connection - Idjut Boys -" on Fri, 2 Oct 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 43 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RUKE, MUNÉO, AKARI & Stupid Kozo " on Sat, 3 Oct 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcoming gigs, with line-ups including 1-DRINK, AKIRAM EN, BANANA-CHAN and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 43 upcoming gigs, with line-ups including 1-DRINK, AKIRAM EN, BANANA-CHAN and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | wOrld connection - Idjut Boys - | Idjut Boys |
 | Sat, 3 Oct 2026 | RUKE, MUNÉO, AKARI & Stupid Kozo  | MUNÉO, RUKE, Stupid Kozo |
 | Mon, 5 Oct 2026 | dj yumi-cco & TR | dj yumi-cco |
 | Tue, 6 Oct 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcomi
 | Sat, 10 Oct 2026 | wOrld connection -Creature 1st Anniversary- | AKIRAM EN, Kugel, Masahide Ohno |
 | Sun, 11 Oct 2026 | Dazzle Drums, Max Essa, Kenjiro, scrab, Kengo & BANANA-CHAN | BANANA-CHAN, Dazzle Drums, Kengo, Max Essa, scrab |
 | Mon, 12 Oct 2026 | ZUKIE & PANDAS | PANDAS |
+| Tue, 13 Oct 2026 | Toshiyuki Goto & Joel Martin | Toshiyuki Goto |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

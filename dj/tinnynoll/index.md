@@ -1,6 +1,6 @@
 # Tinny Noll
 
-Tinny Noll is a Jungle and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Sun, 11 Oct 2026.
+Tinny Noll is a Jungle and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Sun, 11 Oct 2026.
 
 Tinny Noll is a jungle and hip-hop artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside MileZ, MoEPiKA and YUUGOH. Next up: Forestlimit, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Tinny Noll is a jungle and hip-hop artist based in Japan, with 13 gigs on soundc
 
 MileZ, MoEPiKA, YUUGOH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinnynoll/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinnynoll/)*

@@ -1,6 +1,6 @@
 # LEX LEDU
 
-LEX LEDU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Wed, 7 Oct 2026.
+LEX LEDU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Wed, 7 Oct 2026.
 
 LEX LEDU is a techno and industrial artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside BVNNII, Dres Codex and KASTILO. Next up: John Doe, Amsterdam on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ LEX LEDU is a techno and industrial artist based in Netherlands, with 17 gigs on
 
 BVNNII, Dres Codex, KASTILO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexledu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexledu/)*

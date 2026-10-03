@@ -1,6 +1,6 @@
 # Glayden
 
-Glayden is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
+Glayden is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
 
 Glayden is a trance and experimental artist based in Finland, with 41 gigs on soundcheck across Berlin, Cologne, Helsinki and Oslo and 5 more. Often billed alongside Niko Demus, MFM (FI) and DJ JVS. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Glayden is a trance and experimental artist based in Finland, with 41 gigs on so
 
 Niko Demus, MFM (FI), DJ JVS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glayden/)*

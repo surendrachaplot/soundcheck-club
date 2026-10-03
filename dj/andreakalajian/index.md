@@ -1,6 +1,6 @@
 # Andrea Kalajian
 
-Andrea Kalajian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
+Andrea Kalajian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
 
 Andrea Kalajian is a house and techno artist based in United States of America, with 38 gigs on soundcheck across Boston and Detroit. Often billed alongside RIRKIN, Gone Rogue and BeatLoaf. Next up: Corktown Tavern, Detroit on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Andrea Kalajian is a house and techno artist based in United States of America, 
 
 RIRKIN, Gone Rogue, BeatLoaf
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreakalajian/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreakalajian/)*

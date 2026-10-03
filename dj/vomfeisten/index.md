@@ -1,6 +1,6 @@
 # vom Feisten
 
-vom Feisten is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
+vom Feisten is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 20 Nov 2026.
 
 vom Feisten is a techno and tech house artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Daniel Neuland, Dydaa Forne and Martin Ka. Next up: Ritter Butzke, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ vom Feisten is a techno and tech house artist based in Germany, with 82 gigs on 
 
 Daniel Neuland, Dydaa Forne, Martin Ka
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*

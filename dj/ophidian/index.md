@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Ophidian is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Art of Fighters. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, with 28 gigs on s
 
 Drokz, Anime, Art of Fighters
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

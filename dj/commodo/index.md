@@ -1,6 +1,6 @@
 # Commodo
 
-Commodo is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Commodo is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Commodo is a dubstep and bass artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 23 more. Often billed alongside Kahn, Amy Kisnorbo and Neffa-T. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Commodo is a dubstep and bass artist based in United Kingdom, with 56 gigs on so
 
 Kahn, Amy Kisnorbo, Neffa-T
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commodo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commodo/)*

@@ -1,6 +1,6 @@
 # Noneoftheabove
 
-Noneoftheabove is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BASIS, Utrecht on Sat, 28 Nov 2026.
+Noneoftheabove is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BASIS, Utrecht on Sat, 28 Nov 2026.
 
 Noneoftheabove is a techno and industrial artist, with 40 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 18 more. Often billed alongside Scepticism, Deep Mind Direction and Tanzanfall. Next up: BASIS, Utrecht on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Noneoftheabove is a techno and industrial artist, with 40 gigs on soundcheck acr
 
 Scepticism, Deep Mind Direction, Tanzanfall
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noneoftheabove/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noneoftheabove/)*

@@ -1,6 +1,6 @@
 # meera
 
-meera is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
+meera is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
 
 meera is an afro house and techno artist based in Norway, with 20 gigs on soundcheck across Amsterdam, Copenhagen, Frankfurt and Ibiza and 8 more. Often billed alongside Damian Lazarus, Jimi Jules and Black Coffee. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ meera is an afro house and techno artist based in Norway, with 20 gigs on soundc
 
 Damian Lazarus, Jimi Jules, Black Coffee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*

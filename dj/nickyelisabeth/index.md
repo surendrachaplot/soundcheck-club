@@ -1,6 +1,6 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Nicky Elisabeth is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs 
 
 CRi, Jody Wisternoff, Rezident
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

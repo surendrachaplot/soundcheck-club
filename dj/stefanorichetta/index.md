@@ -1,6 +1,6 @@
 # Stefano Richetta
 
-Stefano Richetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Stefano Richetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Stefano Richetta is a techno and house artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside Dexon, Guy Mantzur and Sahar Z. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Stefano Richetta is a techno and house artist based in Netherlands, with 38 gigs
 
 Dexon, Guy Mantzur, Sahar Z
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanorichetta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanorichetta/)*

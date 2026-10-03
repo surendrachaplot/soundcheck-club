@@ -1,6 +1,6 @@
 # DJ himself
 
-DJ himself is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+DJ himself is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 DJ himself is a disco and italo disco artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Billy Idle, Herman Priet and Italo Brutalo. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ himself is a disco and italo disco artist based in Germany, with 12 gigs on s
 
 Billy Idle, Herman Priet, Italo Brutalo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimself/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimself/)*

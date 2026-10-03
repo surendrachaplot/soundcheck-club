@@ -1,6 +1,6 @@
 # Early Bird
 
-Early Bird is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Early Bird is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
 Early Bird is an electronic artist based in Romania, with 4 gigs on soundcheck across Cologne, London, Montreal and Saxony Anhalt. Often billed alongside ANNA, Aly & Fila and Bergen. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Early Bird is an electronic artist based in Romania, with 4 gigs on soundcheck a
 
 ANNA, Aly & Fila, Bergen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earlybird/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earlybird/)*

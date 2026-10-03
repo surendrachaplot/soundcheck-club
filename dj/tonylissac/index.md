@@ -1,6 +1,6 @@
 # Tony L Issac
 
-Tony L Issac is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Tony L Issac is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Tony L Issac is a deep house and house artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Miami and 1 more. Often billed alongside Borak, Makossa and Niki Sadeki. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tony L Issac is a deep house and house artist based in United States of America,
 
 Borak, Makossa, Niki Sadeki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonylissac/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonylissac/)*

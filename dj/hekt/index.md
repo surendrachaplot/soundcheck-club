@@ -1,6 +1,6 @@
 # Hekt
 
-Hekt is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Hekt is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Hekt is a house and techno artist based in Denmark, with 21 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Blawan, Ingrate and Debit. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -16,6 +16,7 @@ Hekt is a house and techno artist based in Denmark, with 21 gigs on soundcheck a
 
 ## Recently played
 
+- Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Blå, Oslo · Thu, 10 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
@@ -23,10 +24,9 @@ Hekt is a house and techno artist based in Denmark, with 21 gigs on soundcheck a
 - Copenhagen Contemporary, Copenhagen · Thu, 4 Jun 2026
 - Mayhem, Copenhagen · Fri, 15 May 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 9 May 2026
-- Paavli Kultuurivabrik, Tallinn · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Blawan, Ingrate, Debit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hekt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hekt/)*

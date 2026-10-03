@@ -1,6 +1,6 @@
 # Sophie Cut
 
-Sophie Cut is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Turtur, Hamburg on Sat, 17 Oct 2026.
+Sophie Cut is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Turtur, Hamburg on Sat, 17 Oct 2026.
 
 Sophie Cut is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Hamburg. Often billed alongside Love Defender, NYON and ACID B4RBIE. Next up: Turtur, Hamburg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Sophie Cut is a techno and trance artist based in Germany, with 17 gigs on sound
 
 Love Defender, NYON, ACID B4RBIE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiecut/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiecut/)*

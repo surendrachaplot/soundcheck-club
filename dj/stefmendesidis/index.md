@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
+Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 3 Oct 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, with 146 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside DAX J, SHDW and Nastia. Next up: Q35 WAREHOUSE, Turin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, with 146 gigs
 
 DAX J, SHDW, Nastia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

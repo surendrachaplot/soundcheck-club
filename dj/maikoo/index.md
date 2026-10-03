@@ -1,6 +1,6 @@
 # maikoo
 
-maikoo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
+maikoo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
 
 maikoo is a techno and house artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside guzenji, Ririko and Takkyu Ishino. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ maikoo is a techno and house artist based in Japan, with 18 gigs on soundcheck a
 
 guzenji, Ririko, Takkyu Ishino
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*

@@ -1,6 +1,6 @@
 # Fedele
 
-Fedele is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
+Fedele is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
 Fedele is a techno and house artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside Raxon, Maceo Plex and Golden Virgo. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Fedele is a techno and house artist based in Italy, with 57 gigs on soundcheck a
 
 Raxon, Maceo Plex, Golden Virgo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedele/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedele/)*

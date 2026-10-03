@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fuse presents: The Ghost & Gonno" on Fri, 2 Oct 2026.
+Fuse is a music venue in Brussels with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Fuse presents: Primal Instinct" on Sat, 3 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including A. Brehme, AliA, Altinbas and Ben Klock and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with line-ups including A. Brehme, AliA, Altinbas and Ben Klock and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Fuse presents: The Ghost & Gonno | Gonno, Nefeli, Penelope (2), The Ghost |
 | Sat, 3 Oct 2026 | Fuse presents: Primal Instinct | CRYME, Chlär, DC Salas, Jennifer Loveless, Kameliia, Phara, Philippa Pacho, Temudo |
 | Fri, 9 Oct 2026 | Fuse presents: Fenrick (all night long) & Riana Holley (all night long) | Fenrick, Riana Holley |
 | Sat, 10 Oct 2026 | Fuse presents: ÜBERKIKZ (all night long) & Altered Circuits with Curses | Curses, Innershades, ÜBERKIKZ |
@@ -18,9 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Catalina, DJ Cosworth, Jhobei, Silva Bumpa |
 | Fri, 6 Nov 2026 | Fuse presents: Edward & Loidis | AliA, Edward, Loidis |
 | Sat, 7 Nov 2026 | Fuse presents: WSNWG (live all night long) | Fadi Mohem, Ignez, Lady Starlight, Phara, Rødhåd |
+| Tue, 10 Nov 2026 | Fuse presents: Worakls | Lexx (BE), MAKII, Worakls |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

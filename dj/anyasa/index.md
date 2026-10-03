@@ -1,6 +1,6 @@
 # Anyasa
 
-Anyasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 3 Oct 2026.
+Anyasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Anyasa is a house and techno artist based in India, with 20 gigs on soundcheck across Amsterdam, Chicago, Denver and Los Angeles and 6 more. Often billed alongside CRi, Firungi and Harji. Next up: Halcyon, San Francisco/Oakland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Anyasa is a house and techno artist based in India, with 20 gigs on soundcheck a
 
 CRi, Firungi, Harji
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyasa/)*

@@ -1,14 +1,13 @@
 # Tiga
 
-Tiga is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tama, Poznan on Fri, 2 Oct 2026.
+Tiga is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OCZKI, Warsaw on Sat, 3 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Tama, Poznan on Fri 2 Oct.
+Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: OCZKI, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Tama | Poznan |
 | Sat, 3 Oct 2026 | OCZKI | Warsaw |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | TBA - Metropolis Venue | Lithuania |
@@ -20,9 +19,11 @@ Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck a
 | Fri, 20 Nov 2026 | Laska V21 | Riga |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
 ## Recently played
 
+- Tama, Poznan · Fri, 2 Oct 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck a
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 29 Aug 2026
 - Maya Beach Experience, Naples · Sat, 22 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
-- Switch, Porto · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

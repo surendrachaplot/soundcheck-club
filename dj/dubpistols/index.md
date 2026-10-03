@@ -1,6 +1,6 @@
 # Dub Pistols
 
-Dub Pistols is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Dub Pistols is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Dub Pistols is a dub and house artist, with 10 gigs on soundcheck across Athens, Liverpool, London and Malta and 3 more. Often billed alongside Aries, Freestylers and Grooverider. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dub Pistols is a dub and house artist, with 10 gigs on soundcheck across Athens,
 
 Aries, Freestylers, Grooverider
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpistols/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpistols/)*

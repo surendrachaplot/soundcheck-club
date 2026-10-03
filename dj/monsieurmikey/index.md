@@ -1,6 +1,6 @@
 # Monsieur Mikey
 
-Monsieur Mikey is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nine Lives, Malta on Wed, 7 Oct 2026.
+Monsieur Mikey is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nine Lives, Malta on Wed, 7 Oct 2026.
 
 Monsieur Mikey is a house and techno artist based in France, with 14 gigs on soundcheck across Edinburgh, London, Malta and Nantes. Often billed alongside JOHNJAYDEE, Sammy Dean and She is Spinderella. Next up: Nine Lives, Malta on Wed 7 Oct.
 
@@ -30,4 +30,4 @@ Monsieur Mikey is a house and techno artist based in France, with 14 gigs on sou
 
 JOHNJAYDEE, Sammy Dean, She is Spinderella
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*

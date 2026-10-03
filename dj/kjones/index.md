@@ -1,6 +1,6 @@
 # KJONES
 
-KJONES is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
+KJONES is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
 
 KJONES is a techno and garage artist based in Australia, with 53 gigs on soundcheck across Melbourne and Sydney. Often billed alongside TRUSTEE, IsGwan and Charlotte Rooney. Next up: Revolver Upstairs, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KJONES is a techno and garage artist based in Australia, with 53 gigs on soundch
 
 TRUSTEE, IsGwan, Charlotte Rooney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjones/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjones/)*

@@ -1,6 +1,6 @@
 # Nanogram
 
-Nanogram is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
+Nanogram is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
 
 Nanogram is a techno and industrial artist based in China, with 58 gigs on soundcheck across Hong Kong, Seoul, Shenzhen and Tokyo. Often billed alongside MarcoYu, YONG YING and Yadin Moha. Next up: Traffic, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Nanogram is a techno and industrial artist based in China, with 58 gigs on sound
 
 MarcoYu, YONG YING, Yadin Moha
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanogram/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanogram/)*

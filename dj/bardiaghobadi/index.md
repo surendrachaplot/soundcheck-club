@@ -1,6 +1,6 @@
 # Bardia Ghobadi
 
-Bardia Ghobadi is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mansion Nightclub, Vancouver on Fri, 23 Oct 2026.
+Bardia Ghobadi is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mansion Nightclub, Vancouver on Fri, 23 Oct 2026.
 
 Bardia Ghobadi is a tech house and afro house artist based in Canada, with 10 gigs on soundcheck across Toronto and Vancouver. Often billed alongside CHAMOS, MILI and Rumtin. Next up: Mansion Nightclub, Vancouver on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Bardia Ghobadi is a tech house and afro house artist based in Canada, with 10 gi
 
 CHAMOS, MILI (2), Rumtin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bardiaghobadi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bardiaghobadi/)*

@@ -1,6 +1,6 @@
 # Golden Bug
 
-Golden Bug is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Switch Bar, Barcelona on Sat, 3 Oct 2026.
+Golden Bug is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Switch Bar, Barcelona on Sat, 3 Oct 2026.
 
 Golden Bug is a tech house and techno artist, with 9 gigs on soundcheck across Barcelona, Lyon, Madrid and Mexico City and 1 more. Often billed alongside Deckard, Azaria and Borokov Borokov. Next up: Switch Bar, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Golden Bug is a tech house and techno artist, with 9 gigs on soundcheck across B
 
 Deckard, Azaria, Borokov Borokov
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenbug/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenbug/)*

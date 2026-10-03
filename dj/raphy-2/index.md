@@ -1,6 +1,6 @@
 # Raphy (2)
 
-Raphy (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
+Raphy (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
 
 Raphy is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Boston, Detroit, Hamilton and Los Angeles and 1 more. Often billed alongside dream beach, Shigeto and something blue. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Raphy is a techno and house artist based in United States of America, with 28 gi
 
 dream beach, Shigeto, something blue
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphy-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphy-2/)*

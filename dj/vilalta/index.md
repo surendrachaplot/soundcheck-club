@@ -1,6 +1,6 @@
 # Vilalta
 
-Vilalta is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
+Vilalta is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
 
 Vilalta is a tech house and house artist based in Spain, with 44 gigs on soundcheck across Barcelona and Madrid. Often billed alongside arnald, Vallde and Nancy. Next up: La Paloma, Barcelona on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Vilalta is a tech house and house artist based in Spain, with 44 gigs on soundch
 
 arnald, Vallde, Nancy (3)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilalta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilalta/)*

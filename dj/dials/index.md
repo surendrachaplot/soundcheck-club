@@ -1,6 +1,6 @@
 # DIALS
 
-DIALS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
+DIALS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 DIALS is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Bristol, Los Angeles and San Francisco/Oakland. Often billed alongside Galen, Adra and Anthony Mansfield. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DIALS is a house and techno artist based in United States of America, with 19 gi
 
 Galen, Adra, Anthony Mansfield
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dials/)*

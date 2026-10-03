@@ -1,6 +1,6 @@
 # TBA - Greding
 
-TBA - Greding is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "WPP Windel Paare Party" on Sat, 24 Oct 2026.
+TBA - Greding is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "WPP Windel Paare Party" on Sat, 24 Oct 2026.
 
 TBA - Greding is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Greding is a music venue in Munich listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | WPP Windel Paare Party |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tba-greding/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tba-greding/)*

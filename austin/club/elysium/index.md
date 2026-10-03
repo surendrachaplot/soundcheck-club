@@ -1,6 +1,6 @@
 # Elysium
 
-Elysium is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "SEANCE SHOWCASE" on Thu, 1 Oct 2026.
+Elysium is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "SEANCE SHOWCASE" on Thu, 1 Oct 2026.
 
 Elysium is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-ups including Tears Of Eros. See dates, start times and who's playing. 705 Red River St., Austin, TX 78705.
 
@@ -14,4 +14,4 @@ Elysium is a music venue in Austin listed on soundcheck. 1 upcoming gig, with li
 
 705 Red River St., Austin, TX 78705, Austin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/elysium/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/elysium/)*

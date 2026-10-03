@@ -1,6 +1,6 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Underground Playground: Dave Angel" on Sat, 3 Oct 2026.
+WaterBear Venue is a music venue in Brighton with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Underground Playground: Dave Angel" on Sat, 3 Oct 2026.
 
 WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming gigs, with line-ups including Dave Angel, Matt Bird aka Birdman, Oren (IT) and Sp.oon. See dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
@@ -16,4 +16,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming gi
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

@@ -1,8 +1,8 @@
 # chungtech
 
-chungtech is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+chungtech is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-chungtech is a house and disco artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside A-Trak, Amatric and DJ Buck. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
+chungtech is a house and disco artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside A-Trak, Admiral and Amatric. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ chungtech is a house and disco artist based in United States of America, with 8 
 
 ## Shares bills with
 
-A-Trak, Amatric, DJ Buck
+A-Trak, Admiral, Amatric
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chungtech/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chungtech/)*

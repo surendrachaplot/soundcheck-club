@@ -1,6 +1,6 @@
 # tadoh
 
-tadoh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 7 Nov 2026.
+tadoh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 7 Nov 2026.
 
 tadoh is a house and techno artist based in Denmark, with 49 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Zurich. Often billed alongside Eski, ANNÆLIX and Aja Gulris. Next up: Klub Werkstatt, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ tadoh is a house and techno artist based in Denmark, with 49 gigs on soundcheck 
 
 Eski, ANNÆLIX, Aja Gulris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadoh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadoh/)*

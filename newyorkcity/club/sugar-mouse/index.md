@@ -1,6 +1,6 @@
 # Sugar Mouse
 
-Sugar Mouse is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Halloween Cover Show" on Thu, 8 Oct 2026.
+Sugar Mouse is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Halloween Cover Show" on Thu, 8 Oct 2026.
 
 Sugar Mouse is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 47 3rd Ave, New York, NY 10003.
 
@@ -14,4 +14,4 @@ Sugar Mouse is a music venue in New York City listed on soundcheck. 1 upcoming g
 
 47 3rd Ave, New York, NY 10003, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sugar-mouse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sugar-mouse/)*

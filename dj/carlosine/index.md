@@ -1,6 +1,6 @@
 # Carlo Sine
 
-Carlo Sine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Zuzu, Boston on Wed, 7 Oct 2026.
+Carlo Sine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zuzu, Boston on Wed, 7 Oct 2026.
 
 Carlo Sine is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Barcelona, Boston and New York City. Often billed alongside Andrey Trofimov, Loren Berrier and My Dude. Next up: Zuzu, Boston on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Carlo Sine is a house and techno artist based in United States of America, with 
 
 Andrey Trofimov, Loren Berrier, My Dude
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosine/)*

@@ -1,6 +1,6 @@
 # DrToof
 
-DrToof is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
+DrToof is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Sun, 1 Nov 2026.
 
 DrToof is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside Ben Zo, STEEN and cruz ctrl. Next up: Jupiter Disco, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ DrToof is a techno and house artist based in United States of America, with 14 g
 
 Ben Zo, STEEN, cruz ctrl
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drtoof/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drtoof/)*

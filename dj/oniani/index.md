@@ -1,6 +1,6 @@
 # Oniani
 
-Oniani is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KHIDI, Tbilisi on Sat, 3 Oct 2026.
+Oniani is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHIDI, Tbilisi on Sat, 3 Oct 2026.
 
 Oniani is a house and trance artist based in Georgia, with 48 gigs on soundcheck across Tbilisi and Valencia. Often billed alongside Kanko, Mtvare and Seqta. Next up: KHIDI, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Oniani is a house and trance artist based in Georgia, with 48 gigs on soundcheck
 
 Kanko, Mtvare, Seqta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oniani/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oniani/)*

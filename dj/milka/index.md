@@ -1,6 +1,6 @@
 # MILKA
 
-MILKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+MILKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
 
 MILKA is a techno and trance artist based in Bulgaria, with 8 gigs on soundcheck across Amsterdam and Chicago. Often billed alongside Elli Acula, XVIA and barbuhh. Next up: RADION, Amsterdam on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ MILKA is a techno and trance artist based in Bulgaria, with 8 gigs on soundcheck
 
 Elli Acula, XVIA, barbuhh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milka/)*

@@ -1,6 +1,6 @@
 # heelbite316
 
-heelbite316 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - DTLA, Los Angeles on Sun, 4 Oct 2026.
+heelbite316 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - DTLA, Los Angeles on Sun, 4 Oct 2026.
 
 heelbite316 is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DR. GABBA, AEREA and Adam Pecho. Next up: TBA - DTLA, Los Angeles on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ heelbite316 is a techno and house artist based in United States of America, with
 
 DR. GABBA, AEREA, Adam Pecho
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*

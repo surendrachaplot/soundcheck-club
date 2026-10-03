@@ -1,6 +1,6 @@
 # Oaky
 
-Oaky is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Minimal Bar, Berlin on Fri, 9 Oct 2026.
+Oaky is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Minimal Bar, Berlin on Fri, 9 Oct 2026.
 
 Oaky is a house and disco artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Andi de Luxe, Denifitiv Manu and Karsten Schmidt. Next up: Minimal Bar, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Oaky is a house and disco artist based in Germany, with 26 gigs on soundcheck ac
 
 Andi de Luxe, Denifitiv Manu, Karsten Schmidt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oaky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oaky/)*

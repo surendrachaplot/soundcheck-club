@@ -1,14 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party" on Fri, 2 Oct 2026.
+Gaffe is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Space Talk presents : ST05 Release Party at Gaffe" on Sat, 3 Oct 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party | Cassy, JUST FINN, Kuba'97, Lyde, Neev, Vladimir Ivkovic |
 | Sat, 3 Oct 2026 | Space Talk presents : ST05 Release Party at Gaffe |  |
 | Fri, 9 Oct 2026 | Focal Point |  |
 | Fri, 9 Oct 2026 | Focal Point w/ Binh, Jade Seatle  | Alien Communications, Binh, Chez de Milo, Harri Pepper, Jade Seatle, Ste Roberts |
@@ -18,9 +17,10 @@ Gaffe is a music venue in London listed on soundcheck. 16 upcoming gigs, with li
 | Fri, 23 Oct 2026 | SLIVER x ASSMR | DINA, Melati, Saroor, Slinky Kinky, WE.LL, babsko |
 | Sat, 24 Oct 2026 | Minna-no-Kimochi presents: Mitsubishi London | Buttechno, Ekkel, Jin Synth, Minna-no-Kimochi, Oliver Lieb, Sybil, Wednesday |
 | Fri, 30 Oct 2026 | Tim Reaper, Jay Carder + DJ Cosworth - Halloween Rave | DJ Cosworth, Jay Carder, Tim Reaper |
+| Sat, 31 Oct 2026 | Wiggle Halloween Spookathon | 3 Minds, Eddie Richards, Georgia Girl, HEAVEN-LEE, Harry McCanna, Jake Hodgkinson, Rhythms Of Prescott, Terry Francis |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

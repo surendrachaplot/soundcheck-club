@@ -1,8 +1,8 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Island, Bristol on Sat, 3 Oct 2026.
+Ehua is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Island, Bristol on Sat, 3 Oct 2026.
 
-Ehua is a techno and bass artist based in Italy, with 122 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 33 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The Island, Bristol on Sat 3 Oct.
+Ehua is a techno and bass artist based in Italy, with 123 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 34 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The Island, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ehua is a techno and bass artist based in Italy, with 122 gigs on soundcheck acr
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Island | Bristol |
 | Fri, 30 Oct 2026 | Société des arts technologiques | Montreal |
+| Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ehua is a techno and bass artist based in Italy, with 122 gigs on soundcheck acr
 
 AliA, Bitter Babe, Flore
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

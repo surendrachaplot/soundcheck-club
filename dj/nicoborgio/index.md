@@ -1,6 +1,6 @@
 # Nico Borgio
 
-Nico Borgio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at dubble, Amsterdam on Sat, 31 Oct 2026.
+Nico Borgio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at dubble, Amsterdam on Sat, 31 Oct 2026.
 
 Nico Borgio is a house and techno artist based in Mexico, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Victor (DE), ATEQ and Diesco. Next up: dubble, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nico Borgio is a house and techno artist based in Mexico, with 20 gigs on soundc
 
 Victor (DE), ATEQ, Diesco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*

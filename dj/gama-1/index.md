@@ -1,6 +1,6 @@
 # Gama (1)
 
-Gama (1) is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 17 Oct 2026.
+Gama (1) is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 17 Oct 2026.
 
 Gama is a house and baile funk artist based in Brazil, with 7 gigs on soundcheck across Mexico City and Sao Paulo. Often billed alongside Adonis (RO), Alexandre Bispo and Bruja de Mentira. Next up: Bar Oriente, Mexico City on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Gama is a house and baile funk artist based in Brazil, with 7 gigs on soundcheck
 
 Adonis (RO), Alexandre Bispo, Bruja de Mentira
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gama-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gama-1/)*

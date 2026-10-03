@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys" on Sat, 3 Oct 2026.
+H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys" on Sat, 3 Oct 2026.
 
 H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alec Falconer and Amelia Holt and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,6 +1,6 @@
 # Steve Angello
 
-Steve Angello is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Steve Angello is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Steve Angello is a house and progressive house artist based in Sweden, with 21 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 14 more. Often billed alongside Alok, Andy C and Benny Benassi. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Steve Angello is a house and progressive house artist based in Sweden, with 21 g
 
 ## Recently played
 
+- Wollman Rink, New York City · Fri, 2 Oct 2026
 - Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw · Sat, 13 Jun 2026
 - Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
 - NOS Event Center, Los Angeles · Fri, 27 Mar 2026
@@ -22,10 +23,9 @@ Steve Angello is a house and progressive house artist based in Sweden, with 21 g
 - TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires · Sat, 14 Feb 2026
 - Factory Town, Miami · Fri, 5 Dec 2025
 - Gunnersbury Park, London · Sat, 16 Aug 2025
-- Heaton Park, Manchester · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 Alok, Andy C, Benny Benassi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveangello/)*

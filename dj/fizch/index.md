@@ -1,6 +1,6 @@
 # Fizch
 
-Fizch is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
+Fizch is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
 
 Fizch is a techno and house artist based in Canada, with 80 gigs on soundcheck across Amsterdam, Los Angeles, Toronto and Vancouver. Often billed alongside DK PAU, POPU and C-Star. Next up: 1201 Franklin St, Vancouver on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Fizch is a techno and house artist based in Canada, with 80 gigs on soundcheck a
 
 DK PAU, POPU, C-Star
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*

@@ -1,6 +1,6 @@
 # Kabay
 
-Kabay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
+Kabay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
 Kabay is a techno and house artist based in Poland, with 28 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 6 more. Often billed alongside LAZLO, Mold Boutique and Arkane. Next up: Arzenal, Budapest on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kabay is a techno and house artist based in Poland, with 28 gigs on soundcheck a
 
 LAZLO, Mold Boutique, Arkane
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabay/)*

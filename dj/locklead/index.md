@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+Locklead is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
 Locklead is a house and tech house artist based in Netherlands, with 196 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: fabric, London on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist based in Netherlands, with 196 gigs on
 
 Marsolo, CHRIS STASSY, East End Dubs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

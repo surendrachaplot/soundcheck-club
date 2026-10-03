@@ -1,6 +1,6 @@
 # Mesterhazy
 
-Mesterhazy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Edith, Budapest on Fri, 2 Oct 2026.
+Mesterhazy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Edith, Budapest on Fri, 2 Oct 2026.
 
 Mesterhazy is a techno and electro artist, with 13 gigs on soundcheck across Budapest. Often billed alongside Ben Dover, Galactic Jackson and AESZTETIK. Next up: Edith, Budapest on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Mesterhazy is a techno and electro artist, with 13 gigs on soundcheck across Bud
 
 ## Recently played
 
+- Edith, Budapest · Fri, 2 Oct 2026
 - Viadukt Bar, Budapest · Wed, 16 Sept 2026
 - Stenk, Budapest · Sat, 9 May 2026
 - Viadukt Bar, Budapest · Fri, 19 Sept 2025
@@ -19,10 +20,9 @@ Mesterhazy is a techno and electro artist, with 13 gigs on soundcheck across Bud
 - Pavilon, Budapest · Wed, 28 Aug 2024
 - Fabrika, Budapest · Fri, 22 Mar 2024
 - Akvárium Klub, Budapest · Fri, 15 Mar 2024
-- Toldi Klub, Budapest · Fri, 22 Dec 2023
 
 ## Shares bills with
 
 Ben Dover, Galactic Jackson, AESZTETIK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*

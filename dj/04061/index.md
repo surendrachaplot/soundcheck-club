@@ -1,6 +1,6 @@
 # 04061
 
-04061 is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
+04061 is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
 
 04061 is a techno and downtempo artist, with 7 gigs on soundcheck across Berlin, Cologne and Tbilisi. Often billed alongside Hohe, 314A and Bøngvr. Next up: Gewölbe, Cologne on Sat 31 Oct.
 
@@ -23,4 +23,4 @@
 
 Hohe, 314A, Bøngvr
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/04061/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/04061/)*

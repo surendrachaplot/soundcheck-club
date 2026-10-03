@@ -1,6 +1,6 @@
 # Ramî
 
-Ramî is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
+Ramî is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
 
 Ramî is a house and techno artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid. Often billed alongside Julian Feierabend, GRETA and ki:ke. Next up: TBA - Ziecret Location, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ramî is a house and techno artist based in Spain, with 33 gigs on soundcheck ac
 
 Julian Feierabend, GRETA (2), ki:ke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rami-es/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rami-es/)*

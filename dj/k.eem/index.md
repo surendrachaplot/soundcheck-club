@@ -1,6 +1,6 @@
 # K.eem
 
-K.eem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+K.eem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 K.eem is a techno and house artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and London and 3 more. Often billed alongside Auggië, Cipy and Ander Race. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ K.eem is a techno and house artist, with 15 gigs on soundcheck across Amsterdam,
 
 Auggië, Cipy, Ander Race
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.eem/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.eem/)*

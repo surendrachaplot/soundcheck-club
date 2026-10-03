@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cu, London on Fri, 9 Oct 2026.
+Rebekah Abdeen is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cu, London on Fri, 9 Oct 2026.
 
 Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 59 gigs on soundcheck across Basel, Berlin, Brighton and Detroit and 10 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: Cu, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 59 gigs
 
 Denham Audio, Trudy Knight, Triple Point
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

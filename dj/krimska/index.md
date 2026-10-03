@@ -1,6 +1,6 @@
 # Krimska
 
-Krimska is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Sucre, Lyon on Sun, 11 Oct 2026.
+Krimska is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Sucre, Lyon on Sun, 11 Oct 2026.
 
 Krimska is a techno and bass artist based in France, with 29 gigs on soundcheck across Brussels, Cologne, Lyon and Paris and 1 more. Often billed alongside SUERTE (FR), Kirara and Selected Dream Memories. Next up: Le Sucre, Lyon on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Krimska is a techno and bass artist based in France, with 29 gigs on soundcheck 
 
 SUERTE (FR), Kirara (2), Selected Dream Memories
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krimska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krimska/)*

@@ -1,6 +1,6 @@
 # knete
 
-knete is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+knete is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Westhafen, Leipzig on Sat, 3 Oct 2026.
 
 knete is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Rodèk, Rn86 and Simon Phil.ter. Next up: Westhafen, Leipzig on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ knete is a techno and trance artist based in Germany, with 24 gigs on soundcheck
 
 Rodèk, Rn86, Simon Phil.ter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*

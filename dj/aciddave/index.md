@@ -1,6 +1,6 @@
 # acid dave
 
-acid dave is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dali, Cork on Sat, 3 Oct 2026.
+acid dave is a Club and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Dali, Cork on Sat, 3 Oct 2026.
 
 acid dave is a club and trance artist based in Ireland, with 15 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside esmé2k, Mercorn and darkmavis. Next up: Dali, Cork on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ acid dave is a club and trance artist based in Ireland, with 15 gigs on soundche
 
 esmé2k, Mercorn, darkmavis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aciddave/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aciddave/)*

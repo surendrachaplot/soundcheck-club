@@ -1,6 +1,6 @@
 # Refracta
 
-Refracta is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
+Refracta is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
 
 Refracta is a drum & bass and bass artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside George IV, Coben and M.O.B. Next up: Sneaky Pete's, Edinburgh on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Refracta is a drum & bass and bass artist based in United Kingdom, with 43 gigs 
 
 George IV, Coben, M.O.B
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refracta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refracta/)*

@@ -1,6 +1,6 @@
 # Josi Miller (2)
 
-Josi Miller (2) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
+Josi Miller (2) is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Fri, 4 Dec 2026.
 
 Josi Miller is a house and bass artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig and Zurich. Often billed alongside DJ Luiser, ALBA and Anton Gerden. Next up: elipamanoke, Leipzig on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Josi Miller is a house and bass artist based in Germany, with 8 gigs on soundche
 
 DJ Luiser, ALBA (3), Anton Gerden
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*

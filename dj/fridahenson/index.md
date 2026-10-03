@@ -1,6 +1,6 @@
 # Frida Henson
 
-Frida Henson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 24 Oct 2026.
+Frida Henson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 24 Oct 2026.
 
 Frida Henson is a techno and house artist based in Mexico, with 45 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tattoopudge, NEXUS and Rubbermiro. Next up: TBA - Los Angeles, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Frida Henson is a techno and house artist based in Mexico, with 45 gigs on sound
 
 Tattoopudge, NEXUS (3), Rubbermiro
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridahenson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridahenson/)*

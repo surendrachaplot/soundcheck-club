@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RekTek presents Casnova" on Fri, 2 Oct 2026.
+Distrikt is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye" on Sat, 3 Oct 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Osifo, Arty, Binyamhn and Cadence and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Osifo, Arty, Binyamhn and Cadence and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | RekTek presents Casnova | Casnova |
 | Sat, 3 Oct 2026 | Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye | DJ Masda, Ethan McNamara, Matthew Neequaye, Ryan Ingleby, Touré, Vass |
 | Fri, 9 Oct 2026 | PNR | Cadence (1), Carli Jayne, Moody |
 | Sat, 10 Oct 2026 | Funky Beats Only presents: ADMNTi, Scarlett O'Malley & NOIDMATE |  |
@@ -21,4 +20,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with l
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

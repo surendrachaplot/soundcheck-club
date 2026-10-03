@@ -1,6 +1,6 @@
 # Takumi's Afterparty
 
-Takumi's Afterparty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Takumi's Afterparty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Takumi's Afterparty is a techno and house artist based in Japan, with 28 gigs on soundcheck across Tokyo. Often billed alongside Drinkss, Anapol and uuu7. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Takumi's Afterparty is a techno and house artist based in Japan, with 28 gigs on
 
 Drinkss, Anapol, uuu7
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumisafterparty/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumisafterparty/)*

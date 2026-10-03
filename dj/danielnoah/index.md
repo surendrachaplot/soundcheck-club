@@ -1,6 +1,6 @@
 # Daniel Noah
 
-Daniel Noah is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garagen, Cologne on Fri, 20 Nov 2026.
+Daniel Noah is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garagen, Cologne on Fri, 20 Nov 2026.
 
 Daniel Noah is a techno artist, with 9 gigs on soundcheck across Cologne. Often billed alongside DAESU, DJ Tallboy and AREA ØNE. Next up: Garagen, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Daniel Noah is a techno artist, with 9 gigs on soundcheck across Cologne. Often 
 
 DAESU, DJ Tallboy, AREA ØNE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielnoah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielnoah/)*

@@ -1,6 +1,6 @@
 # Janus Rose
 
-Janus Rose is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 29 Oct 2026.
+Janus Rose is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 29 Oct 2026.
 
 Janus Rose is a techno and bass artist based in United States of America, with 56 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside Ben Zo, David Lunch and EMMALINE. Next up: Boyfriend co-op, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Janus Rose is a techno and bass artist based in United States of America, with 5
 
 Ben Zo, David Lunch, EMMALINE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrose/)*

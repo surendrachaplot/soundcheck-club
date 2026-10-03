@@ -1,6 +1,6 @@
 # Chad Dubz
 
-Chad Dubz is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Chad Dubz is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Chad Dubz is a dubstep and dub artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside LOTU (UK), SGT Pokes and Sepia. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Chad Dubz is a dubstep and dub artist based in United Kingdom, with 20 gigs on s
 
 LOTU (UK), SGT Pokes, Sepia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaddubz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaddubz/)*

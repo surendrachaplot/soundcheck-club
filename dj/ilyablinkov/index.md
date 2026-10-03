@@ -1,6 +1,6 @@
 # Ilya Blinkov
 
-Ilya Blinkov is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
+Ilya Blinkov is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
 
 Ilya Blinkov is a house and tech house artist based in Lithuania, with 19 gigs on soundcheck across London and Milan. Often billed alongside Bridger Ryland, Deeetro and Luca Cattaneo. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ilya Blinkov is a house and tech house artist based in Lithuania, with 19 gigs o
 
 Bridger Ryland, Deeetro, Luca Cattaneo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyablinkov/)*

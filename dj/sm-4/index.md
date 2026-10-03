@@ -1,6 +1,6 @@
 # SM (4)
 
-SM (4) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
+SM (4) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
 
 SM is a techno and hip-hop artist, with 9 gigs on soundcheck across Bangkok and Glasgow. Often billed alongside LAZLO, DDSIX and Craigen. Next up: Bangkok Island, Bangkok on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SM is a techno and hip-hop artist, with 9 gigs on soundcheck across Bangkok and 
 
 LAZLO, DDSIX, Craigen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sm-4/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sm-4/)*

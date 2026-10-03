@@ -1,0 +1,28 @@
+# Pauliewog
+
+Pauliewog is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fountain LA, Los Angeles on Fri, 9 Oct 2026.
+
+Pauliewog is a club and techno artist based in United States of America, with 12 gigs on soundcheck across Los Angeles. Often billed alongside Ly Tran, Jae-an and Azure. Next up: Fountain LA, Los Angeles on Fri 9 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 9 Oct 2026 | Fountain LA | Los Angeles |
+
+## Recently played
+
+- El Cid, Los Angeles · Sat, 26 Sept 2026
+- El Cid, Los Angeles · Fri, 29 May 2026
+- El Cid, Los Angeles · Sat, 21 Feb 2026
+- Resident, Los Angeles · Fri, 9 May 2025
+- Honey's at Star Love, Los Angeles · Thu, 20 Mar 2025
+- El Cid, Los Angeles · Sat, 1 Feb 2025
+- Grand Star Jazz Club, Los Angeles · Fri, 25 Oct 2024
+- Catch One, Los Angeles · Fri, 9 Feb 2024
+
+## Shares bills with
+
+Ly Tran, Jae-an, Azure
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliewog/)*

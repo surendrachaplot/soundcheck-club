@@ -1,6 +1,6 @@
 # Gaiser
 
-Gaiser is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Gaiser is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
 Gaiser is a house and techno artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Athens, Berlin and Denver and 2 more. Often billed alongside Alan Fitzpatrick, Anfisa Letyago and Anja Schneider. Next up: BRET, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Gaiser is a house and techno artist based in United States of America, with 9 gi
 
 Alan Fitzpatrick, Anfisa Letyago, Anja Schneider
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*

@@ -1,6 +1,6 @@
 # Casper McFadden
 
-Casper McFadden is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Austin), Chicago on Sat, 31 Oct 2026.
+Casper McFadden is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Austin), Chicago on Sat, 31 Oct 2026.
 
 Casper McFadden is a hardcore and breakcore artist based in United States of America, with 26 gigs on soundcheck across Austin, Boston, Chicago and Los Angeles and 1 more. Often billed alongside 99jakes, MANAPOOL and Yesterdayneverhappened. Next up: TBA - Secret Location (Austin), Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Casper McFadden is a hardcore and breakcore artist based in United States of Ame
 
 99jakes, MANAPOOL, Yesterdayneverhappened
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspermcfadden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspermcfadden/)*

@@ -1,6 +1,6 @@
 # ek:)
 
-ek:) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+ek:) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 ek:) is a techno and club artist based in United States of America, with 18 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, ZZ and 40split. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ ek:) is a techno and club artist based in United States of America, with 18 gigs
 
 ## Recently played
 
+- The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 14 Aug 2026
 - Club Six, San Francisco/Oakland · Fri, 10 Jul 2026
 - The San Francisco Mint, San Francisco/Oakland · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ ek:) is a techno and club artist based in United States of America, with 18 gigs
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 27 Feb 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 28 Nov 2025
 - 1015 Folsom, San Francisco/Oakland · Fri, 29 Aug 2025
-- The Ruby Room, San Francisco/Oakland · Sat, 23 Aug 2025
 
 ## Shares bills with
 
 Just Another Bitch, ZZ (4), 40split
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*

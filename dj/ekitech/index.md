@@ -1,6 +1,6 @@
 # Ekitech
 
-Ekitech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
+Ekitech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
 
 Ekitech is a techno and tech house artist based in Finland, with 21 gigs on soundcheck across Helsinki, Riga and Tallinn. Often billed alongside Ozzy Sahin, AKITEK and NØSARA. Next up: Paavli Kultuurivabrik, Tallinn on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ekitech is a techno and tech house artist based in Finland, with 21 gigs on soun
 
 Ozzy Sahin, AKITEK, NØSARA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitech/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitech/)*

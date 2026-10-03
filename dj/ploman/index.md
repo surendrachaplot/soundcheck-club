@@ -1,24 +1,25 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Modeci, Seoul on Fri, 2 Oct 2026.
+PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unmute, Hanoi on Sat, 3 Oct 2026.
 
-PLO Man is a techno and house artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Modeci, Seoul on Fri 2 Oct.
+PLO Man is a techno and house artist based in Germany, with 164 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 38 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Unmute, Hanoi on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Modeci | Seoul |
 | Sat, 3 Oct 2026 | Unmute | Hanoi |
 | Sat, 10 Oct 2026 | VENT | Tokyo |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 31 Oct 2026 | SMUT Athens | Athens |
+| Sat, 14 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 4 Dec 2026 | FOLD | London |
 
 ## Recently played
 
+- Modeci, Seoul · Fri, 2 Oct 2026
 - Sans Soleil, Montreal · Mon, 14 Sept 2026
 - Green Room NYC, New York City · Sat, 12 Sept 2026
 - Process PDX, Portland · Sat, 29 Aug 2026
@@ -26,10 +27,9 @@ PLO Man is a techno and house artist based in Germany, with 163 gigs on soundche
 - Péniche Éliane, Brussels · Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
 - BLITZ, Munich · Fri, 31 Jul 2026
-- Paradiso, Amsterdam · Thu, 30 Jul 2026
 
 ## Shares bills with
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

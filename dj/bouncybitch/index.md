@@ -1,18 +1,18 @@
 # Bouncy Bitch
 
-Bouncy Bitch is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+Bouncy Bitch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
 
-Bouncy Bitch is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin and Cologne. Often billed alongside Pamela Rave, SUITSIDE and Ferrand. Next up: Bootshaus, Cologne on Fri 2 Oct.
+Bouncy Bitch is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin and Cologne. Often billed alongside Pamela Rave, SUITSIDE and Ferrand. Next up: Lokschuppen Berlin, Berlin on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Bootshaus | Cologne |
 | Wed, 25 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Bootshaus, Cologne · Fri, 2 Oct 2026
 - Odonien, Cologne · Wed, 26 Aug 2026
 - Artheater, Cologne · Sat, 25 Jul 2026
 - Odonien, Cologne · Wed, 15 Jul 2026
@@ -20,10 +20,9 @@ Bouncy Bitch is a techno and trance artist based in Germany, with 19 gigs on sou
 - Odonien, Cologne · Sat, 27 Jun 2026
 - Club Zimmermanns, Cologne · Fri, 19 Jun 2026
 - Odonien, Cologne · Wed, 17 Jun 2026
-- TBA -  Fühlinger See, Cologne · Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Pamela Rave, SUITSIDE, Ferrand
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncybitch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncybitch/)*

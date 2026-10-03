@@ -1,6 +1,6 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Kyrist is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Kyrist is a drum & bass and jungle artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 12 more. Often billed alongside SP:MC, Visionobi and Calyx. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, with 51 gigs 
 
 SP:MC, Visionobi, Calyx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*

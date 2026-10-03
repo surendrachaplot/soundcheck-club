@@ -1,6 +1,6 @@
 # Tunney
 
-Tunney is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wigwam, Dublin on Sat, 3 Oct 2026.
+Tunney is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wigwam, Dublin on Sat, 3 Oct 2026.
 
 Tunney is a minimal and house artist based in Ireland, with 15 gigs on soundcheck across Barcelona, Dublin and London. Often billed alongside Royce Larøca, Dylema and Hera (IE). Next up: Wigwam, Dublin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tunney is a minimal and house artist based in Ireland, with 15 gigs on soundchec
 
 Royce Larøca, Dylema, Hera (IE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunney/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunney/)*

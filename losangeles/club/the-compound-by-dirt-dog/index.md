@@ -1,14 +1,13 @@
 # The Compound by Dirt Dog
 
-The Compound by Dirt Dog is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "B-Side Los Angeles presents: Mala (Extended Set) & CØNTRA" on Fri, 2 Oct 2026.
+The Compound by Dirt Dog is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "B-Side Los Angeles presents: Deep Medi Musik 20 (label takeover)" on Fri, 9 Oct 2026.
 
-The Compound by Dirt Dog is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including Contra and Mala. See dates, start times and who's playing. 2909 Supply Ave, Commerce, CA 90040, USA.
+The Compound by Dirt Dog is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2909 Supply Ave, Commerce, CA 90040, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | B-Side Los Angeles presents: Mala (Extended Set) & CØNTRA | Contra, Mala |
 | Fri, 9 Oct 2026 | B-Side Los Angeles presents: Deep Medi Musik 20 (label takeover) |  |
 | Fri, 13 Nov 2026 | RIOT: The Machine World Tour |  |
 
@@ -16,4 +15,4 @@ The Compound by Dirt Dog is a music venue in Los Angeles listed on soundcheck. 3
 
 2909 Supply Ave, Commerce, CA 90040, USA, Los Angeles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*

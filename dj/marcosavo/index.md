@@ -1,6 +1,6 @@
 # Marco Savo
 
-Marco Savo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
+Marco Savo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
 
 Marco Savo is a house and tech house artist based in Italy, with 10 gigs on soundcheck across London. Often billed alongside Earnshaw, MADAMA and EDEF. Next up: Tola, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Marco Savo is a house and tech house artist based in Italy, with 10 gigs on soun
 
 Earnshaw, MADAMA, EDEF
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosavo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcosavo/)*

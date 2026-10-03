@@ -1,6 +1,6 @@
 # Sanctus Libido
 
-Sanctus Libido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kauz, Zurich on Sat, 10 Oct 2026.
+Sanctus Libido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kauz, Zurich on Sat, 10 Oct 2026.
 
 Sanctus Libido is a techno and house artist based in Switzerland, with 17 gigs on soundcheck across Brussels, Lyon and Zurich. Often billed alongside Exkursion, Bonnie OK and Das Firmament. Next up: Kauz, Zurich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sanctus Libido is a techno and house artist based in Switzerland, with 17 gigs o
 
 Exkursion, Bonnie OK, Das Firmament
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuslibido/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuslibido/)*

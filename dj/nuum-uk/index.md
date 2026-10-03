@@ -1,6 +1,6 @@
 # nuum
 
-nuum is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
+nuum is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
 
 nuum is an electronica and club artist, with 15 gigs on soundcheck across London, Manchester and Mexico City. Often billed alongside Kino, Seren 4 Ever and abejisama. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ nuum is an electronica and club artist, with 15 gigs on soundcheck across London
 
 Kino (1), Seren 4 Ever, abejisama
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuum-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuum-uk/)*

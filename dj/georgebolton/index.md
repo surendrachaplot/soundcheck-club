@@ -1,6 +1,6 @@
 # George Bolton
 
-George Bolton is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
+George Bolton is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 3 Oct 2026.
 
 George Bolton is a house and hip-hop artist, with 56 gigs on soundcheck across Osaka, Paris and Tokyo. Often billed alongside WASP, ecec and Shunpei (Beebar). Next up: ZEROTOKYO, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ George Bolton is a house and hip-hop artist, with 56 gigs on soundcheck across O
 
 WASP, ecec, Shunpei (Beebar)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*

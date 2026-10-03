@@ -1,6 +1,6 @@
 # Djaa (PL)
 
-Djaa (PL) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Piękny Pies, Krakow on Sat, 31 Oct 2026.
+Djaa (PL) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Piękny Pies, Krakow on Sat, 31 Oct 2026.
 
 Djaa (PL) is a house and downtempo artist based in Ukraine, with 33 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Matt Rudnicki, Bartman and Delumia. Next up: Piękny Pies, Krakow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Djaa (PL) is a house and downtempo artist based in Ukraine, with 33 gigs on soun
 
 Matt Rudnicki, Bartman, Delumia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*

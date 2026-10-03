@@ -1,6 +1,6 @@
 # Imanol (2)
 
-Imanol (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
+Imanol (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Imanol is a house and electro artist based in Argentina, with 20 gigs on soundcheck across Barcelona, London, Madrid and Mallorca. Often billed alongside Ilex, matiu and Abscal. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Imanol is a house and electro artist based in Argentina, with 20 gigs on soundch
 
 Ilex, matiu, Abscal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanol-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanol-2/)*

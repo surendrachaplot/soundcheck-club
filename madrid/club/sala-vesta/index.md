@@ -1,6 +1,6 @@
 # Sala Vesta
 
-Sala Vesta is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Violeta García & Hora Lunga live + cosmic lithium live" on Sun, 4 Oct 2026.
+Sala Vesta is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Violeta García & Hora Lunga live + cosmic lithium live" on Sun, 4 Oct 2026.
 
 Sala Vesta is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C. del Barquillo, 29, 28004 Madrid, Spain.
 
@@ -14,4 +14,4 @@ Sala Vesta is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See 
 
 C. del Barquillo, 29, 28004 Madrid, Spain, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-vesta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-vesta/)*

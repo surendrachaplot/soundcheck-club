@@ -1,6 +1,6 @@
 # Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre)
 
-Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Grassroots Events 20th Birthday" on Sat, 24 Oct 2026.
+Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Grassroots Events 20th Birthday" on Sat, 24 Oct 2026.
 
 Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 10 Laycock Place, Chapeltown, Leeds, LS7 3JA.
 
@@ -14,4 +14,4 @@ Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) is a music 
 
 10 Laycock Place, Chapeltown, Leeds, LS7 3JA, Leeds
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/leeds-african-caribbean-centre-formerly-leeds-west-indian-centre/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/leeds-african-caribbean-centre-formerly-leeds-west-indian-centre/)*

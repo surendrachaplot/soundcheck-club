@@ -1,6 +1,6 @@
 # Fabio Alampi
 
-Fabio Alampi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Arca, Milan on Sat, 3 Oct 2026.
+Fabio Alampi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Arca, Milan on Sat, 3 Oct 2026.
 
 Fabio Alampi is a house and techno artist based in Italy, with 5 gigs on soundcheck across Milan. Often billed alongside Bugsy, Dario Lem and Tayga. Next up: Arca, Milan on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Fabio Alampi is a house and techno artist based in Italy, with 5 gigs on soundch
 
 Bugsy, Dario Lem, Tayga
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioalampi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioalampi/)*

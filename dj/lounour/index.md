@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bullingdon, South-east on Sat, 10 Oct 2026.
+Lou Nour is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bullingdon, South-east on Sat, 10 Oct 2026.
 
 Lou Nour is a techno and bass artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: The Bullingdon, South East on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Lou Nour is a techno and bass artist based in United Kingdom, with 13 gigs on so
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

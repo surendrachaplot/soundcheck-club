@@ -1,6 +1,6 @@
 # blo rida
 
-blo rida is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
+blo rida is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
 
 blo rida is a bass and trance artist based in United Kingdom, with 22 gigs on soundcheck across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche and MEMP3. Next up: Stage and Radio, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ blo rida is a bass and trance artist based in United Kingdom, with 22 gigs on so
 
 Club Penguin, Ali Roche (2), MEMP3
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blorida/)*

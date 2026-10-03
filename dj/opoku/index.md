@@ -1,6 +1,6 @@
 # Opoku
 
-Opoku is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafe OTO, London on Fri, 6 Nov 2026.
+Opoku is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafe OTO, London on Fri, 6 Nov 2026.
 
 Opoku is an electronica and experimental artist based in Spain, with 37 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 4 more. Often billed alongside Baba Sy, TNTC and B4mba. Next up: Cafe OTO, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Opoku is an electronica and experimental artist based in Spain, with 37 gigs on 
 
 Baba Sy, TNTC, B4mba
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opoku/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opoku/)*

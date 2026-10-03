@@ -1,6 +1,6 @@
 # Alex Brasile
 
-Alex Brasile is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+Alex Brasile is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 Alex Brasile is a techno artist based in Italy, with 8 gigs on soundcheck across Milan. Often billed alongside DIVY, ALXV and ARIHA. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Alex Brasile is a techno artist based in Italy, with 8 gigs on soundcheck across
 
 DIVY, ALXV, ARIHA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbrasile/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbrasile/)*

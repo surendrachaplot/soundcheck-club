@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 47 gig
 
 Raxeller, SANTØS, KARAH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

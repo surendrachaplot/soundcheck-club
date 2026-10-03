@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Alex Nantaya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
 
 Alex Nantaya is a techno and electro artist based in Switzerland, with 72 gigs on soundcheck across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alex Nantaya is a techno and electro artist based in Switzerland, with 72 gigs o
 
 Bours?, Doma, Gioski
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

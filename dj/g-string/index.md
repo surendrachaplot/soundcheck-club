@@ -1,6 +1,6 @@
 # G-String
 
-G-String is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
+G-String is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 27 Nov 2026.
 
 G-String is a house and disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Funknoir, Aroy Dee and Kennedy. Next up: Onder Hans, Amsterdam on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ G-String is a house and disco artist based in Netherlands, with 7 gigs on soundc
 
 Funknoir, Aroy Dee, Kennedy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-string/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-string/)*

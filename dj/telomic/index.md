@@ -1,6 +1,6 @@
 # Telomic
 
-Telomic is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Low Profile Studios, London on Sat, 10 Oct 2026.
+Telomic is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Low Profile Studios, London on Sat, 10 Oct 2026.
 
 Telomic is a drum & bass and garage artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Budapest, Cologne and London and 4 more. Often billed alongside Maduk, Lexurus and MOTA. Next up: Low Profile Studios, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Telomic is a drum & bass and garage artist based in United Kingdom, with 14 gigs
 
 Maduk, Lexurus, MOTA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telomic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telomic/)*

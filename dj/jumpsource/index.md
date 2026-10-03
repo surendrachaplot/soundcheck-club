@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jump Source is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jump Source is a techno and deep house artist based in Canada, with 26 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 10 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Jump Source is a techno and deep house artist based in Canada, with 26 gigs on s
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

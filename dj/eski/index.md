@@ -1,6 +1,6 @@
 # Eski
 
-Eski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 7 Nov 2026.
+Eski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 7 Nov 2026.
 
 Eski is a house and techno artist based in Denmark, with 37 gigs on soundcheck across Copenhagen. Often billed alongside tadoh, MiniMalene and Anna Logic. Next up: Klub Werkstatt, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Eski is a house and techno artist based in Denmark, with 37 gigs on soundcheck a
 
 tadoh, MiniMalene (2), Anna Logic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eski/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eski/)*

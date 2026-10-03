@@ -1,6 +1,6 @@
 # Flux Studios D2
 
-Flux Studios D2 is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ddr.10 Weekender" on Sat, 31 Oct 2026.
+Flux Studios D2 is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ddr.10 Weekender" on Sat, 31 Oct 2026.
 
 Flux Studios D2 is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including Chord Memory, Donal Dineen, don rosco and Kate Butler and 2 more. See dates, start times and who's playing. 4 Chatham Row, Dublin, D02 PA06.
 
@@ -15,4 +15,4 @@ Flux Studios D2 is a music venue in Dublin listed on soundcheck. 2 upcoming gigs
 
 4 Chatham Row, Dublin, D02 PA06, Dublin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/flux-studios-d2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/flux-studios-d2/)*

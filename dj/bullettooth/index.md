@@ -1,14 +1,13 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+bullet tooth is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
-bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: TRAUM, Antwerp on Fri 2 Oct.
+bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: fabric, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TRAUM | Antwerp |
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
@@ -20,9 +19,11 @@ bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs
 | Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Sat, 7 Nov 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
+- TRAUM, Antwerp · Fri, 2 Oct 2026
 - Hangaren, Copenhagen · Sat, 26 Sept 2026
 - Document, Bristol · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
@@ -30,10 +31,9 @@ bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs
 - The Nest, Nottingham · Sun, 30 Aug 2026
 - Mint Warehouse, Leeds · Sun, 30 Aug 2026
 - Steelyard Kelham, Sheffield · Sun, 30 Aug 2026
-- Mint Warehouse, Leeds · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

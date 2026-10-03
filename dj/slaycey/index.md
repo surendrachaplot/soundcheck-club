@@ -1,6 +1,6 @@
 # Slaycey
 
-Slaycey is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Slaycey is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Slaycey is a house and tech house artist based in United States of America, with 40 gigs on soundcheck across Boston, London, New York City and Washington DC. Often billed alongside Electro Cherry, Sarindipity and Aleska. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -14,6 +14,7 @@ Slaycey is a house and tech house artist based in United States of America, with
 
 ## Recently played
 
+- Wollman Rink, New York City · Fri, 2 Oct 2026
 - Marquee Skydeck Edge, New York City · Fri, 7 Aug 2026
 - Tigres de la Noche, Washington DC · Sat, 1 Aug 2026
 - Elsewhere, New York City · Sat, 18 Jul 2026
@@ -21,10 +22,9 @@ Slaycey is a house and tech house artist based in United States of America, with
 - Knockdown Center, New York City · Fri, 19 Jun 2026
 - SILO, New York City · Sat, 23 May 2026
 - Nowadays, New York City · Thu, 7 May 2026
-- Unveiled, New York City · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Electro Cherry, Sarindipity, Aleska
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaycey/)*

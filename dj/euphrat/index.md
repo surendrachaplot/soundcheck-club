@@ -1,6 +1,6 @@
 # Euphrat
 
-Euphrat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+Euphrat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
 Euphrat is a house and techno artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Munich. Often billed alongside DJ Fucks Himself, DJ SPORTSCHUH and EUROBABES. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -14,6 +14,7 @@ Euphrat is a house and techno artist based in Germany, with 14 gigs on soundchec
 
 ## Recently played
 
+- Kater, Berlin · Fri, 2 Oct 2026
 - Mellowpark, Berlin · Sat, 26 Sept 2026
 - Mellowpark, Berlin · Sat, 12 Sept 2026
 - Printhouse, Munich · Sat, 5 Sept 2026
@@ -21,10 +22,9 @@ Euphrat is a house and techno artist based in Germany, with 14 gigs on soundchec
 - Jonny Knüppel, Berlin · Sat, 11 Jul 2026
 - Tanzhaus West, Frankfurt · Fri, 8 May 2026
 - Renate, Berlin · Fri, 1 May 2026
-- Studio1111, Berlin · Wed, 25 Mar 2026
 
 ## Shares bills with
 
 DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*

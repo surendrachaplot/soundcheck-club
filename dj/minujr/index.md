@@ -1,6 +1,6 @@
 # Minù Jr
 
-Minù Jr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
+Minù Jr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
 
 Minù Jr is a techno and house artist based in France, with 14 gigs on soundcheck across Barcelona, Berlin, Lyon and Nantes. Often billed alongside Minimum Djs, RIGO and Family Matters. Next up: Crack Bellmer, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Minù Jr is a techno and house artist based in France, with 14 gigs on soundchec
 
 Minimum Djs, RIGO, Family Matters
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minujr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minujr/)*

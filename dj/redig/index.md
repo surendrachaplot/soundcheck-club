@@ -1,6 +1,6 @@
 # REDIG
 
-REDIG is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 3 Oct 2026.
+REDIG is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 3 Oct 2026.
 
 REDIG is a techno and tech house artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside Andrés Mokk, INARE and Retoric. Next up: Hangar48 Club, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ REDIG is a techno and tech house artist based in Spain, with 13 gigs on soundche
 
 Andrés Mokk, INARE, Retoric
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redig/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redig/)*

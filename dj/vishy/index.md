@@ -1,6 +1,6 @@
 # VISHY
 
-VISHY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
+VISHY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
 
 VISHY is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Cologne, Frankfurt, Leipzig and Nürnberg. Often billed alongside Formale Bassgestaltung, DeGuzman and Kacy. Next up: Bootshaus, Cologne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ VISHY is a techno and trance artist based in Germany, with 10 gigs on soundcheck
 
 Formale Bassgestaltung, DeGuzman, Kacy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vishy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vishy/)*

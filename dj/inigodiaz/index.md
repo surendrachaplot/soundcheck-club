@@ -1,6 +1,6 @@
 # Iñigo Díaz
 
-Iñigo Díaz is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Fri, 16 Oct 2026.
+Iñigo Díaz is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Fri, 16 Oct 2026.
 
 Iñigo Díaz is a disco and house artist based in Spain, with 24 gigs on soundcheck across Barcelona. Often billed alongside Luis Bonias, Regina Star and Frankie G. Next up: Macarena Club, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Iñigo Díaz is a disco and house artist based in Spain, with 24 gigs on soundch
 
 Luis Bonias, Regina Star, Frankie G
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inigodiaz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inigodiaz/)*

@@ -1,6 +1,6 @@
 # Dcascallana
 
-Dcascallana is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
+Dcascallana is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
 
 Dcascallana is a techno and trance artist based in Austria, with 32 gigs on soundcheck across Vienna. Often billed alongside CPR0, DANBERG and KalelLoco. Next up: FLUCC, Vienna on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Dcascallana is a techno and trance artist based in Austria, with 32 gigs on soun
 
 CPR0, DANBERG, KalelLoco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*

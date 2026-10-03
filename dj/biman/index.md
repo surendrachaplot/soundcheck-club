@@ -1,6 +1,6 @@
 # Bi Män
 
-Bi Män is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
+Bi Män is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 9 Oct 2026.
 
 Bi Män is a trance and techno artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside AFAR, Baerbel and Bee Lincoln. Next up: Bahnwärter Thiel, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bi Män is a trance and techno artist based in Germany, with 18 gigs on soundche
 
 AFAR, Baerbel, Bee Lincoln
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*

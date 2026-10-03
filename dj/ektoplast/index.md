@@ -1,6 +1,6 @@
 # Ektoplast
 
-Ektoplast is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sun, 25 Oct 2026.
+Ektoplast is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Sun, 25 Oct 2026.
 
 Ektoplast is a downtempo and deep house artist, with 21 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside EXZ, Antoine Baiser and Bonjour Ben. Next up: Beate Uwe, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ektoplast is a downtempo and deep house artist, with 21 gigs on soundcheck acros
 
 EXZ, Antoine Baiser, Bonjour Ben
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoplast/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoplast/)*

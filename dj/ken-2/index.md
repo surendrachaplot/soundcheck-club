@@ -1,6 +1,6 @@
 # Ken (2)
 
-Ken (2) is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ZUBAR, Tokyo on Fri, 9 Oct 2026.
+Ken (2) is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZUBAR, Tokyo on Fri, 9 Oct 2026.
 
 Ken is a hip-hop and techno artist based in United States of America, with 17 gigs on soundcheck across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and HARUTO. Next up: ZUBAR, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ken is a hip-hop and techno artist based in United States of America, with 17 gi
 
 Cheshire Yums, EMpTy, HARUTO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*

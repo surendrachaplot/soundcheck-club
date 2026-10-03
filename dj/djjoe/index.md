@@ -1,6 +1,6 @@
 # dj Joe
 
-dj Joe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
+dj Joe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
 
 dj Joe is a trance and techno artist based in Sweden, with 11 gigs on soundcheck across Copenhagen. Often billed alongside DRAHO, Alexander Santana and babysquid. Next up: Den Anden Side, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ dj Joe is a trance and techno artist based in Sweden, with 11 gigs on soundcheck
 
 DRAHO, Alexander Santana, babysquid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjoe/)*

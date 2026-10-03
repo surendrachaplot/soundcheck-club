@@ -1,6 +1,6 @@
 # Brazi
 
-Brazi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
+Brazi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
 
 Brazi is a techno and hardcore artist based in Greece, with 21 gigs on soundcheck across Athens. Often billed alongside DOMINO, VSSLS and zøntanos. Next up: IT Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Brazi is a techno and hardcore artist based in Greece, with 21 gigs on soundchec
 
 DOMINO (2), VSSLS, zøntanos
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brazi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brazi/)*

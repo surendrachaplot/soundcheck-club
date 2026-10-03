@@ -1,6 +1,6 @@
 # Dangel Twins
 
-Dangel Twins is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaufleuten, Zurich on Sat, 10 Oct 2026.
+Dangel Twins is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaufleuten, Zurich on Sat, 10 Oct 2026.
 
 Dangel Twins is a house and tech house artist based in Switzerland, with 7 gigs on soundcheck across Cyprus and Zurich. Often billed alongside ARWIN AZIZ, :DARREN and ACID FLORA. Next up: Kaufleuten, Zurich on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Dangel Twins is a house and tech house artist based in Switzerland, with 7 gigs 
 
 ARWIN AZIZ, :DARREN, ACID FLORA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*

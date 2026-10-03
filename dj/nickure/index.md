@@ -1,6 +1,6 @@
 # Nick Ure
 
-Nick Ure is a Experimental and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Nick Ure is a Experimental and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Nick Ure is an experimental and downtempo artist based in Australia, with 11 gigs on soundcheck across Melbourne, New South Wales and Victoria. Often billed alongside Bridget Small, Elsie and Darcy Justice. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nick Ure is an experimental and downtempo artist based in Australia, with 11 gig
 
 Bridget Small (2), Elsie, Darcy Justice
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*

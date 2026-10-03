@@ -1,6 +1,6 @@
 # Krewella
 
-Krewella is a Electro and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+Krewella is a Electro and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
 Krewella is an electro and bass artist based in United States of America, with 8 gigs on soundcheck across Boston, Cologne, London and Oberhausen and 2 more. Often billed alongside Alex Martin, Amy Wiles and DJ AstroNat. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Krewella is an electro and bass artist based in United States of America, with 8
 
 Alex Martin, Amy Wiles, DJ AstroNat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*

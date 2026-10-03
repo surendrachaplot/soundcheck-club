@@ -1,14 +1,13 @@
 # Stealth
 
-Stealth is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "A.M.C presents: Grassroots Energy (Nottingham)" on Fri, 2 Oct 2026.
+Stealth is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda" on Fri, 9 Oct 2026.
 
-Stealth is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, with line-ups including A.M.C., Casnova, Crossy and DJ Cosworth and 2 more. See dates, start times and who's playing. Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom.
+Stealth is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, with line-ups including Casnova, Crossy, DJ Cosworth and HOLL3 and 2 more. See dates, start times and who's playing. Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | A.M.C presents: Grassroots Energy (Nottingham) | A.M.C. |
 | Fri, 9 Oct 2026 | CUE - Nottingham w. DJ Cosworth b2b Oldboy, Wodda | DJ Cosworth, Oldboy, Oldboy (UK), Wodda |
 | Fri, 16 Oct 2026 | FMS 6 Deck - Nottingham |  |
 | Fri, 6 Nov 2026 | Groove Garden x Stealth: ODF, Casnova and friends | Casnova, HOLL3, ODF (1), Retrospect |
@@ -19,4 +18,4 @@ Stealth is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, wi
 
 Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom, Nottingham
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*

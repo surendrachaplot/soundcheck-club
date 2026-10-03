@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat, 3 Oct 2026.
+AWEN is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat, 3 Oct 2026.
 
 AWEN is an afro house and house artist based in France, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 28 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: TBA - Swissôtel Büyük Efes İzmir, Izmir on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ AWEN is an afro house and house artist based in France, with 81 gigs on soundche
 
 Shimza, DJEFF, Francis Mercier
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

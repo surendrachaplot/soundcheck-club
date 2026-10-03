@@ -1,6 +1,6 @@
 # Mango
 
-Mango is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mango is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Mango is a techno and latin bass artist based in Australia, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Setwun, 619! and 999999999. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mango is a techno and latin bass artist based in Australia, with 10 gigs on soun
 
 Setwun, 619!, 999999999
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mango-au/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mango-au/)*

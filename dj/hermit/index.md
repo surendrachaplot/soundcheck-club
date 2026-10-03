@@ -1,6 +1,6 @@
 # Hermit
 
-Hermit is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+Hermit is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 Hermit is a house and garage artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and BrassTooth. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hermit is a house and garage artist based in United Kingdom, with 15 gigs on sou
 
 Daniel Ward, DJ Listener, BrassTooth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*

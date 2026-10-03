@@ -1,14 +1,13 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Vaag, Antwerp on Fri, 2 Oct 2026.
+Faster Horses is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: Club Vaag, Antwerp on Fri 2 Oct.
+Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: The Warehouse, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 3 Oct 2026 | The Warehouse | Leeds |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Village Underground | London |
@@ -20,9 +19,11 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 250 gi
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Fri, 20 Nov 2026 | Lakota | Bristol |
+| Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 
 ## Recently played
 
+- Club Vaag, Antwerp · Fri, 2 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Music Box, San Diego · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
@@ -30,10 +31,9 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 250 gi
 - Mondo Open Air, Madrid · Sat, 12 Sept 2026
 - Sub Club, Glasgow · Thu, 10 Sept 2026
 - Thuishaven, Amsterdam · Sun, 9 Aug 2026
-- KALT, Strasbourg · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Azyr, Leaha, Kander
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

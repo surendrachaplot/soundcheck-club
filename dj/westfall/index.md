@@ -1,19 +1,19 @@
 # Westfall
 
-Westfall is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Fri, 2 Oct 2026.
+Westfall is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at M7 Club, Barcelona on Sat, 10 Oct 2026.
 
-Westfall is a techno and trance artist based in France, with 19 gigs on soundcheck across Barcelona, Berlin and Paris. Often billed alongside HANÀ, BENNETT and Bady (FR). Next up: Mia Mao, Paris on Fri 2 Oct.
+Westfall is a techno and trance artist based in France, with 19 gigs on soundcheck across Barcelona, Berlin and Paris. Often billed alongside HANÀ, BENNETT and Bady (FR). Next up: M7 Club, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Mia Mao | Paris |
 | Sat, 10 Oct 2026 | M7 Club | Barcelona |
 | Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Mia Mao, Paris · Fri, 2 Oct 2026
 - Mia Mao, Paris · Thu, 24 Sept 2026
 - Kilomètre25, Paris · Fri, 14 Aug 2026
 - La Rotonde Stalingrad, Paris · Fri, 31 Jul 2026
@@ -21,10 +21,9 @@ Westfall is a techno and trance artist based in France, with 19 gigs on soundche
 - Kilomètre25, Paris · Fri, 19 Jun 2026
 - Kilomètre25, Paris · Fri, 29 May 2026
 - ÆDEN, Berlin · Fri, 22 May 2026
-- La Java, Paris · Fri, 15 May 2026
 
 ## Shares bills with
 
 HANÀ, BENNETT, Bady (FR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westfall/)*

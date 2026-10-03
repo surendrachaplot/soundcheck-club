@@ -1,6 +1,6 @@
 # Niz (IE)
 
-Niz (IE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Niz (IE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
 Niz (IE) is a techno and house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Madrid and 1 more. Often billed alongside Slim (IE), Billy Spike Iland and Flug. Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Niz (IE) is a techno and house artist based in Italy, with 24 gigs on soundcheck
 
 Slim (IE), Billy Spike Iland, Flug
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niz-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niz-2/)*

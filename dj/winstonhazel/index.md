@@ -1,6 +1,6 @@
 # Winston Hazel
 
-Winston Hazel is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Winston Hazel is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Winston Hazel is a house and funk / soul artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, London, Mallorca and North and 1 more. Often billed alongside 96 Back, Linnemann and Lvcky. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Winston Hazel is a house and funk / soul artist based in United Kingdom, with 9 
 
 96 Back, Linnemann, Lvcky
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonhazel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonhazel/)*

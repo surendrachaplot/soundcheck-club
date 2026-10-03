@@ -1,10 +1,10 @@
 # LUKAS & FRANK - MIAMI at ZeyZey
 
-LUKAS & FRANK - MIAMI at ZeyZey on Sun 11 Oct, Miami. 1 artist: LUKAS & FRANK. House and Afro House. See the line-up on soundcheck.
+LUKAS & FRANK - MIAMI at ZeyZey on Sun 20 Dec, Miami. 1 artist: LUKAS & FRANK. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 11 Oct 2026 |
+| Date | Sun, 20 Dec 2026 |
 | Venue | ZeyZey |
 | City | Miami |
 

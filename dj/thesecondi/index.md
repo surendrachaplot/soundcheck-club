@@ -1,6 +1,6 @@
 # The Second I
 
-The Second I is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+The Second I is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 The Second I is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside BabaBass3000, Ferrand and Rundfunk. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ The Second I is a trance and techno artist based in Germany, with 11 gigs on sou
 
 BabaBass3000, Ferrand, Rundfunk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesecondi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesecondi/)*

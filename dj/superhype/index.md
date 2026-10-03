@@ -1,6 +1,6 @@
 # Superhype
 
-Superhype is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Killing Time, Melbourne on Thu, 8 Oct 2026.
+Superhype is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Killing Time, Melbourne on Thu, 8 Oct 2026.
 
 Superhype is a techno and house artist based in Australia, with 28 gigs on soundcheck across Melbourne. Often billed alongside Stockholm Syndrome, Deltoid Curve and Gay Roberto. Next up: Killing Time, Melbourne on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Superhype is a techno and house artist based in Australia, with 28 gigs on sound
 
 Stockholm Syndrome, Deltoid Curve, Gay Roberto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superhype/)*

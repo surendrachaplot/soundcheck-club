@@ -1,6 +1,6 @@
 # Megra
 
-Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grain Haus, Seoul on Sat, 3 Oct 2026.
+Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grain Haus, Seoul on Sat, 3 Oct 2026.
 
 Megra is a techno and house artist based in Sweden, with 26 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 8 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: Grain Haus, Seoul on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Megra is a techno and house artist based in Sweden, with 26 gigs on soundcheck a
 
 Sam Alfred, Duskus, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megra/)*

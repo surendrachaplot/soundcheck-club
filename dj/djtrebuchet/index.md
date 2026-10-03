@@ -1,6 +1,6 @@
 # DJ Trebuchet
 
-DJ Trebuchet is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+DJ Trebuchet is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
 DJ Trebuchet is a club and techno artist based in United Kingdom, with 10 gigs on soundcheck across London and New York City. Often billed alongside Big Hen, Compliments and BUNZ. Next up: M.O.T, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Trebuchet is a club and techno artist based in United Kingdom, with 10 gigs o
 
 Big Hen, Compliments, BUNZ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrebuchet/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrebuchet/)*

@@ -1,6 +1,6 @@
 # Crashkitt
 
-Crashkitt is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
+Crashkitt is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Fri, 16 Oct 2026.
 
 Crashkitt is a techno and drum & bass artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Upzet, Boudi Boudin and edgarwilles. Next up: Void Club, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Crashkitt is a techno and drum & bass artist based in Germany, with 38 gigs on s
 
 Upzet, Boudi Boudin, edgarwilles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashkitt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashkitt/)*

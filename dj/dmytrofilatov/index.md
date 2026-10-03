@@ -1,6 +1,6 @@
 # Dmytro Filatov
 
-Dmytro Filatov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
+Dmytro Filatov is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
 
 Dmytro Filatov is an experimental and ambient artist based in Ukraine, with 12 gigs on soundcheck across Berlin. Often billed alongside pock.root, Andriy K. and Bungalovv. Next up: Chausseestrasse 131, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dmytro Filatov is an experimental and ambient artist based in Ukraine, with 12 g
 
 pock.root, Andriy K., Bungalovv
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmytrofilatov/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmytrofilatov/)*

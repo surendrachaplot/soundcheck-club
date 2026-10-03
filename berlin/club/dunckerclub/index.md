@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SYSTEMSTØRUNG by DJ Orlög & DJ Carsten" on Fri, 2 Oct 2026.
+Dunckerclub is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ALTERNATIVE ROCK MEETS METAL by DJ Gomez" on Sat, 3 Oct 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 16 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 15 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SYSTEMSTØRUNG by DJ Orlög & DJ Carsten |  |
 | Sat, 3 Oct 2026 | ALTERNATIVE ROCK MEETS METAL by DJ Gomez |  |
 | Mon, 5 Oct 2026 | Dark Monday |  |
 | Fri, 9 Oct 2026 | TIME MACHINE by DJ LUIDOR |  |
@@ -18,9 +17,10 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 16 upcoming gigs. S
 | Sat, 17 Oct 2026 | INDEPENDENT TANZMUSIK by DJ Spy |  |
 | Mon, 19 Oct 2026 | Dark Monday |  |
 | Fri, 23 Oct 2026 | METRO ALIEN |  |
+| Sat, 24 Oct 2026 | INDEPENDENT TANZMUSIK by DJ Calle & Töff |  |
 
 ## Address
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

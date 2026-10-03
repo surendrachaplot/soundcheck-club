@@ -1,14 +1,13 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pacha, Munich on Fri, 2 Oct 2026.
+Deep Dish is a House and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at O der Klub, Vienna on Fri, 9 Oct 2026.
 
-Deep Dish is a house and progressive house artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 30 more. Often billed alongside Dubfire, Sharam and Khen. Next up: Pacha, Munich on Fri 2 Oct.
+Deep Dish is a house and progressive house artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 30 more. Often billed alongside Dubfire, Sharam and Khen. Next up: O der Klub, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Pacha | Munich |
 | Fri, 9 Oct 2026 | O der Klub | Vienna |
 | Sat, 10 Oct 2026 | Victoria Baths | Manchester |
 | Sat, 17 Oct 2026 | Stereo | Montreal |
@@ -19,6 +18,7 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 
 ## Recently played
 
+- Pacha, Munich · Fri, 2 Oct 2026
 - 528 Ibiza, Ibiza · Thu, 1 Oct 2026
 - Reelworks Denver, Denver · Sat, 26 Sept 2026
 - Refuge, New York City · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 - BERHTA, Washington DC · Sat, 22 Aug 2026
 - Encore Event Center, San Diego · Fri, 14 Aug 2026
 - Chinois Ibiza, Ibiza · Sat, 8 Aug 2026
-- fabric, London · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Dubfire, Sharam, Khen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

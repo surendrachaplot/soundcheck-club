@@ -1,6 +1,6 @@
 # inda Flo
 
-inda Flo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cu, London on Fri, 9 Oct 2026.
+inda Flo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cu, London on Fri, 9 Oct 2026.
 
 inda Flo is a techno and bass artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside Hacker Boi Ale, Sha3by Chic and Adela. Next up: Cu, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ inda Flo is a techno and bass artist based in United Kingdom, with 59 gigs on so
 
 Hacker Boi Ale, Sha3by Chic, Adela
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indaflo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indaflo/)*

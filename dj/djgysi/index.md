@@ -1,6 +1,6 @@
 # DJ Gysi
 
-DJ Gysi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
+DJ Gysi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
 DJ Gysi is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside DJ Hellfire, Anne-Lu and Benleh. Next up: ://about blank, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Gysi is a techno and trance artist based in Germany, with 12 gigs on soundche
 
 DJ Hellfire, Anne-Lu, Benleh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgysi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgysi/)*

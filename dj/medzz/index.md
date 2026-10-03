@@ -1,6 +1,6 @@
 # Medzz
 
-Medzz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
+Medzz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
 
 Medzz is a house and techno artist, with 9 gigs on soundcheck across Sheffield and Warsaw. Often billed alongside kieniewicz, Blamcior and Casper Weiss. Next up: Smolna, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Medzz is a house and techno artist, with 9 gigs on soundcheck across Sheffield a
 
 kieniewicz, Blamcior, Casper Weiss
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medzz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medzz/)*

@@ -1,6 +1,6 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
+Niyah West is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
 
 Niyah West is a house and techno artist based in United States of America, with 109 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: TBA - Little Shop of Soil, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Niyah West is a house and techno artist based in United States of America, with 
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

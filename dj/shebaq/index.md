@@ -1,6 +1,6 @@
 # Sheba Q
 
-Sheba Q is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Sheba Q is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
 Sheba Q is a jungle and drum & bass artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Brighton, Bristol and Budapest and 6 more. Often billed alongside Jamiu, DJ Flight and Dillinja. Next up: fabric, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sheba Q is a jungle and drum & bass artist based in United Kingdom, with 31 gigs
 
 Jamiu, DJ Flight, Dillinja
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shebaq/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shebaq/)*

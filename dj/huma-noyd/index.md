@@ -1,6 +1,6 @@
 # HUMA-NOYD
 
-HUMA-NOYD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
+HUMA-NOYD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
 
 HUMA-NOYD is a techno and industrial artist based in Portugal, with 7 gigs on soundcheck across Leeds and Lisbon. Often billed alongside A.Paul, Mark Williams and Miguel Peres. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ HUMA-NOYD is a techno and industrial artist based in Portugal, with 7 gigs on so
 
 A.Paul, Mark Williams, Miguel Peres
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huma-noyd/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huma-noyd/)*

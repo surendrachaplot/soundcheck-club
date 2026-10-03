@@ -1,6 +1,6 @@
 # Audiofficina - HI-FI Corner
 
-Audiofficina - HI-FI Corner is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sottosopra W/ John Dimas" on Sat, 10 Oct 2026.
+Audiofficina - HI-FI Corner is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sottosopra W/ John Dimas" on Sat, 10 Oct 2026.
 
 Audiofficina - HI-FI Corner is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Ilgattoelavolpe, John Dimas and Tomahs.. See dates, start times and who's playing. Via Trento, 49, 20017 Rho MI.
 
@@ -14,4 +14,4 @@ Audiofficina - HI-FI Corner is a music venue in Milan listed on soundcheck. 1 up
 
 Via Trento, 49, 20017 Rho MI, Milan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/audiofficina-hi-fi-corner/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/audiofficina-hi-fi-corner/)*

@@ -1,6 +1,6 @@
 # Lewo Chyba
 
-Lewo Chyba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
+Lewo Chyba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
 
 Lewo Chyba is a techno and house artist based in Japan, with 49 gigs on soundcheck across Brussels, Frankfurt, Kyoto and Osaka and 1 more. Often billed alongside JUN INAGAWA, Shunsuke Kudo and Seimei. Next up: Forestlimit, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lewo Chyba is a techno and house artist based in Japan, with 49 gigs on soundche
 
 JUN INAGAWA, Shunsuke Kudo, Seimei
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewochyba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewochyba/)*

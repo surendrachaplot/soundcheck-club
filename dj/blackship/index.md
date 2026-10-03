@@ -1,6 +1,6 @@
 # Blackship
 
-Blackship is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 3 Oct 2026.
+Blackship is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 3 Oct 2026.
 
 Blackship is a techno and house artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside Drunken Kong, U:ICHI and AHREUM. Next up: Enter Shibuya, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Blackship is a techno and house artist based in Japan, with 29 gigs on soundchec
 
 Drunken Kong, U:ICHI, AHREUM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackship/)*

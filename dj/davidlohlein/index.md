@@ -1,6 +1,6 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
+David Löhlein is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
 
 David Löhlein is a techno and trance artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Hafen 49, Mannheim on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ David Löhlein is a techno and trance artist based in Germany, with 155 gigs on 
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

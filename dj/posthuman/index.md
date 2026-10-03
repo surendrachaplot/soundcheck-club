@@ -1,6 +1,6 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
+Posthuman is a Acid and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
 
 Posthuman is an acid and techno artist based in United Kingdom, with 76 gigs on soundcheck across Bangkok, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: The Berkeley Suite, Glasgow on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Posthuman is an acid and techno artist based in United Kingdom, with 76 gigs on 
 
 Luke Vibert, Nightwave, Jon Dasilva
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*

@@ -1,6 +1,6 @@
 # Orient Express
 
-Orient Express is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bar/Car feat. Misha Mir & Spindola" on Fri, 16 Oct 2026.
+Orient Express is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bar/Car feat. Misha Mir & Spindola" on Fri, 16 Oct 2026.
 
 Orient Express is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including Misha Mir and Mr. Linden. See dates, start times and who's playing. 2963 4th Ave S, Seattle, WA 98134.
 
@@ -14,4 +14,4 @@ Orient Express is a music venue in Seattle listed on soundcheck. 1 upcoming gig,
 
 2963 4th Ave S, Seattle, WA 98134, Seattle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/orient-express/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/orient-express/)*

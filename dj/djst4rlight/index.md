@@ -1,6 +1,6 @@
 # djst4rlight
 
-djst4rlight is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Insomnia, Berlin on Sat, 17 Oct 2026.
+djst4rlight is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Insomnia, Berlin on Sat, 17 Oct 2026.
 
 djst4rlight is a trance and techno artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside maedchenballern, 4NOUK and Ace9. Next up: Insomnia, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ djst4rlight is a trance and techno artist based in Germany, with 18 gigs on soun
 
 maedchenballern, 4NOUK, Ace9
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*

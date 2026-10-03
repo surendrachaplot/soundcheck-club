@@ -1,6 +1,6 @@
 # Lucian (UK)
 
-Lucian (UK) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
+Lucian (UK) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
 
 Lucian (UK) is a techno and club artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Barcelona, Leeds and London and 2 more. Often billed alongside CONE, MBB_ and INH3LL. Next up: Hidden, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lucian (UK) is a techno and club artist based in United Kingdom, with 28 gigs on
 
 CONE (2), MBB_, INH3LL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucian-uk/)*

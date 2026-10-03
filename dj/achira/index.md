@@ -1,14 +1,15 @@
 # ACHIRĀ
 
-ACHIRĀ is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 16 Oct 2026.
+ACHIRĀ is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 16 Oct 2026.
 
-ACHIRĀ is an experimental and bass artist based in Italy, with 7 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, ARMANA KHAN and Bellarosa. Next up: EXIT Glasgow, Glasgow on Fri 16 Oct.
+ACHIRĀ is an experimental and club artist based in Italy, with 8 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, ARMANA KHAN and Bellarosa. Next up: EXIT Glasgow, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | EXIT Glasgow | Glasgow |
+| Thu, 22 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 7 Nov 2026 | The Art School | Glasgow |
 
 ## Recently played
@@ -23,4 +24,4 @@ ACHIRĀ is an experimental and bass artist based in Italy, with 7 gigs on soundc
 
 Rahul.mp3, ARMANA KHAN, Bellarosa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*

@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 26 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chunky Records Invites Harold Heath" on Fri, 2 Oct 2026.
+Stage and Radio is a music venue in Manchester with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LOVE.LAB VOL.4" on Sat, 3 Oct 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming gigs, with line-ups including adamine, AJC (UK), AJ Jonesy and Ali Roche and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming gigs, with line-ups including adamine, AJC (UK), AJ Jonesy and Ali Roche and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Chunky Records Invites Harold Heath | Desay |
 | Sat, 3 Oct 2026 | LOVE.LAB VOL.4 | Ali Roche (2), Club Penguin, MALVADØNA, blo rida |
 | Wed, 7 Oct 2026 | NOXVAULT TECHNO @Stage&Radio 07.10.26 |  |
 | Fri, 9 Oct 2026 | Modular: Techno / Acid / Electronic |  |
@@ -18,9 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming
 | Thu, 15 Oct 2026 | Sublevel Shutdown - Manchester DNB Rave at Stage + Radio | AJC (UK), Maggy B |
 | Fri, 16 Oct 2026 | Love is the answer...presents BEN PARK at Stage & Radio [FREE RAVE] | j:me |
 | Fri, 16 Oct 2026 | Grve Movement / Stage & Radio |  |
+| Fri, 16 Oct 2026 | FTH #001 |  |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

@@ -1,6 +1,6 @@
 # Duppy
 
-Duppy is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Duppy is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Duppy is a jungle and drum & bass artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Leeds, London and Montreal and 1 more. Often billed alongside Kruz Leone, Logan_olm and CHAMBER45. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Duppy is a jungle and drum & bass artist based in United Kingdom, with 27 gigs o
 
 Kruz Leone, Logan_olm, CHAMBER45
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duppy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duppy/)*

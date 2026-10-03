@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+Fracture is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Fracture is a jungle and drum & bass artist based in United Kingdom, with 53 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, DJ Flight and Decibella. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Fracture is a jungle and drum & bass artist based in United Kingdom, with 53 gig
 
 Tim Reaper, DJ Flight, Decibella
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

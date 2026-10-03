@@ -1,6 +1,6 @@
 # Kindle
 
-Kindle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paris Bar, Detroit on Sat, 10 Oct 2026.
+Kindle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paris Bar, Detroit on Sat, 10 Oct 2026.
 
 Kindle is a house and techno artist based in United States of America, with 108 gigs on soundcheck across Chicago and Detroit. Often billed alongside Ryan Spencer, Scott Zacharias and Ashton Swinton. Next up: Paris Bar, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kindle is a house and techno artist based in United States of America, with 108 
 
 Ryan Spencer, Scott Zacharias, Ashton Swinton
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kindle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kindle/)*

@@ -1,6 +1,6 @@
 # Scoopsi
 
-Scoopsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+Scoopsi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
 Scoopsi is a house and techno artist based in Canada, with 89 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Hamburg and 6 more. Often billed alongside Annina, Jack Clark and Jonaku (DE). Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Scoopsi is a house and techno artist based in Canada, with 89 gigs on soundcheck
 
 Annina, Jack Clark, Jonaku (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoopsi/)*

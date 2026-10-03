@@ -1,6 +1,6 @@
 # NoXa
 
-NoXa is a Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+NoXa is a Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 NoXa is a gabber artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Berlin and Cologne. Often billed alongside Pavo, Ruffian and The Darkraver. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NoXa is a gabber artist based in Netherlands, with 10 gigs on soundcheck across 
 
 Pavo, Ruffian, The Darkraver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxa/)*

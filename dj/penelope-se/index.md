@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
+Penelope (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
 
 Penelope is a techno and house artist based in Sweden, with 33 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside nomitekk, Formale Bassgestaltung and Gwenan. Next up: TBA, Lyon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Penelope is a techno and house artist based in Sweden, with 33 gigs on soundchec
 
 nomitekk, Formale Bassgestaltung, Gwenan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-se/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-se/)*

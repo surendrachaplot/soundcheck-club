@@ -1,6 +1,6 @@
 # Omni
 
-Omni is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Théâtre Paradoxe, Montreal on Sat, 31 Oct 2026.
+Omni is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Théâtre Paradoxe, Montreal on Sat, 31 Oct 2026.
 
 Omni is an electro and techno artist based in Canada, with 12 gigs on soundcheck across Bucharest, Montreal and Paris. Often billed alongside DJ Davidé, Plastik Patrik and Maudite Machine. Next up: Théâtre Paradoxe, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Omni is an electro and techno artist based in Canada, with 12 gigs on soundcheck
 
 DJ Davidé, Plastik Patrik, Maudite Machine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omni/)*

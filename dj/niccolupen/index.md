@@ -1,6 +1,6 @@
 # Nicco Lupen
 
-Nicco Lupen is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
+Nicco Lupen is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
 
 Nicco Lupen is a house and tech house artist based in Italy, with 40 gigs on soundcheck across Prague. Often billed alongside Sam Gittis, Romerlin and rockorosso. Next up: K7, Prague on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Nicco Lupen is a house and tech house artist based in Italy, with 40 gigs on sou
 
 Sam Gittis, Romerlin, rockorosso
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*

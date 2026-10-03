@@ -1,6 +1,6 @@
 # Camiflage
 
-Camiflage is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
+Camiflage is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
 
 Camiflage is a house and deep house artist based in Belgium, with 13 gigs on soundcheck across Berlin, Brussels, Ghent and Lyon. Often billed alongside Dana Kuehr, Karla Böhm and Francis99. Next up: Paramour, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Camiflage is a house and deep house artist based in Belgium, with 13 gigs on sou
 
 Dana Kuehr, Karla Böhm, Francis99
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camiflage/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camiflage/)*

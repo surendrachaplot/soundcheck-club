@@ -1,6 +1,6 @@
 # Dread (Poland)
 
-Dread (Poland) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Foro Ying, Mexico City on Sat, 31 Oct 2026.
+Dread (Poland) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Foro Ying, Mexico City on Sat, 31 Oct 2026.
 
 Dread (Poland) is a house and drum & bass artist based in Poland, with 7 gigs on soundcheck across Amsterdam, Brighton, Bristol and Manchester and 1 more. Often billed alongside Andy C, Camo & Krooked and Carasel. Next up: TBA - Foro Ying, Mexico City on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Dread (Poland) is a house and drum & bass artist based in Poland, with 7 gigs on
 
 Andy C, Camo & Krooked, Carasel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadpoland/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreadpoland/)*

@@ -1,6 +1,6 @@
 # silver pearl
 
-silver pearl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Co.Labs, Brno on Fri, 16 Oct 2026.
+silver pearl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Co.Labs, Brno on Fri, 16 Oct 2026.
 
 silver pearl is a techno and trance artist based in Slovakia, with 25 gigs on soundcheck across Amsterdam, Berlin, Brno and Prague and 2 more. Often billed alongside Helmond Lang, dirtydms and Andriy K.. Next up: Co.Labs, Brno on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ silver pearl is a techno and trance artist based in Slovakia, with 25 gigs on so
 
 Helmond Lang, dirtydms, Andriy K.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*

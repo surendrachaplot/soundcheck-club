@@ -1,6 +1,6 @@
 # Muzz Khan
 
-Muzz Khan is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MÄX, Zurich on Sat, 19 Dec 2026.
+Muzz Khan is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MÄX, Zurich on Sat, 19 Dec 2026.
 
 Muzz Khan is a drum & bass and bass artist, with 10 gigs on soundcheck across London, Madrid, Paris and Prague and 2 more. Often billed alongside Norman Jay, Maduk and Mr Shiver. Next up: MÄX, Zurich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Muzz Khan is a drum & bass and bass artist, with 10 gigs on soundcheck across Lo
 
 Norman Jay, Maduk, Mr Shiver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzzkhan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muzzkhan/)*

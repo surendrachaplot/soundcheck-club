@@ -1,6 +1,6 @@
 # R3hab
 
-R3hab is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+R3hab is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
 R3hab is a progressive house and house artist based in Netherlands, with 20 gigs on soundcheck across Bangkok, Boston, Cologne and Gdansk and 8 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ R3hab is a progressive house and house artist based in Netherlands, with 20 gigs
 
 Afrojack, Walker & Royce, Alesso
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*

@@ -1,6 +1,6 @@
 # Planet KaiA
 
-Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TV Lounge, Detroit on Sat, 10 Oct 2026.
+Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TV Lounge, Detroit on Sat, 10 Oct 2026.
 
 Planet KaiA is a ghetto tech and techno artist based in United States of America, with 32 gigs on soundcheck across Detroit. Often billed alongside Fullbodydurag, Auntie Chanel and Sheefy McFly. Next up: TV Lounge, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Planet KaiA is a ghetto tech and techno artist based in United States of America
 
 Fullbodydurag, Auntie Chanel, Sheefy McFly
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*

@@ -1,6 +1,6 @@
 # djvonnebenan
 
-djvonnebenan is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, Berlin on Fri, 16 Oct 2026.
+djvonnebenan is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, Berlin on Fri, 16 Oct 2026.
 
 djvonnebenan is a trance and techno artist based in Germany, with 48 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Maschérie, DJ Thai Take Away and Femme Fatale. Next up: Monarch, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ djvonnebenan is a trance and techno artist based in Germany, with 48 gigs on sou
 
 Maschérie, DJ Thai Take Away, Femme Fatale
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*

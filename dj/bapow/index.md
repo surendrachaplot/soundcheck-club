@@ -1,6 +1,6 @@
 # Bapow
 
-Bapow is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Bapow is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
 Bapow is a house and electro artist based in Belgium, with 13 gigs on soundcheck across Brussels and Budapest. Often billed alongside JACKUZZI, Poppy (BE) and Ava Eva. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bapow is a house and electro artist based in Belgium, with 13 gigs on soundcheck
 
 JACKUZZI, Poppy (BE), Ava Eva
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*

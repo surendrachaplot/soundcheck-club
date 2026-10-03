@@ -1,6 +1,6 @@
 # Laden
 
-Laden is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "GLOW [Groovers Winter Series]" on Sat, 31 Oct 2026.
+Laden is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "GLOW [Groovers Winter Series]" on Sat, 31 Oct 2026.
 
 Laden is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Laden is a music venue in Leipzig listed on soundcheck. 1 upcoming gig. See date
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | GLOW [Groovers Winter Series] |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/laden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/laden/)*

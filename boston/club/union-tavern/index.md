@@ -1,6 +1,6 @@
 # Union Tavern
 
-Union Tavern is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Basement Project (Halloween)" on Sat, 31 Oct 2026.
+Union Tavern is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Basement Project (Halloween)" on Sat, 31 Oct 2026.
 
 Union Tavern is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 345 Somerville Ave, Somerville MA 02143.
 
@@ -14,4 +14,4 @@ Union Tavern is a music venue in Boston listed on soundcheck. 1 upcoming gig. Se
 
 345 Somerville Ave, Somerville MA 02143, Boston
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/union-tavern/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/union-tavern/)*

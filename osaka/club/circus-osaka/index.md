@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Riordan CIRCUS Osaka" on Fri, 2 Oct 2026.
+Circus Osaka is a music venue in Osaka with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SECRET WEAPONS -Ben Sims-" on Sat, 3 Oct 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -8,9 +8,9 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Riordan CIRCUS Osaka | Riordan |
 | Sat, 3 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, YUVIE |
 | Thu, 8 Oct 2026 | DOTT -3 hour set- | DOTT, MARU (2), SEIJI (2) |
+| Fri, 9 Oct 2026 | N.I.P.R | Tosy |
 | Sat, 10 Oct 2026 | Daniel Bell -All Night Long | Daniel Bell |
 | Sun, 11 Oct 2026 | QUERICO 4th Anniversary | ANCHIN, Aliceyuki, MileZ, Paperkraft, Ryu (2), SAMO (JP) |
 | Thu, 15 Oct 2026 | SSWT |  |
@@ -23,4 +23,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 13 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

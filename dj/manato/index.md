@@ -1,6 +1,6 @@
 # manato
 
-manato is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saloon, Tokyo on Sat, 24 Oct 2026.
+manato is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saloon, Tokyo on Sat, 24 Oct 2026.
 
 manato is a techno and bass artist based in Japan, with 59 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Usk°, XINOVI and KOSHIRO. Next up: Saloon, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ manato is a techno and bass artist based in Japan, with 59 gigs on soundcheck ac
 
 Usk°, XINOVI, KOSHIRO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*

@@ -1,6 +1,6 @@
 # Dylan Dylan
 
-Dylan Dylan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Dylan Dylan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
 Dylan Dylan is a house and techno artist, with 51 gigs on soundcheck across Amsterdam, Berlin, London and Lyon and 5 more. Often billed alongside Marina Trench, Mad Rey and Tatie Dee. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Dylan Dylan is a house and techno artist, with 51 gigs on soundcheck across Amst
 
 Marina Trench, Mad Rey, Tatie Dee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*

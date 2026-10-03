@@ -1,6 +1,6 @@
 # Petco Park
 
-Petco Park is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "LED presents TEMPER FESTIVAL 2026" on Wed, 30 Dec 2026.
+Petco Park is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LED presents TEMPER FESTIVAL 2026" on Wed, 30 Dec 2026.
 
 Petco Park is a music venue in San Diego listed on soundcheck. 3 upcoming gigs, with line-ups including Beltran, Ben Sterling, canary yellow and Cassian and 2 more. See dates, start times and who's playing. 100 Park Blvd, San Diego, CA 92101.
 
@@ -16,4 +16,4 @@ Petco Park is a music venue in San Diego listed on soundcheck. 3 upcoming gigs, 
 
 100 Park Blvd, San Diego, CA 92101, San Diego
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/petco-park/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/petco-park/)*

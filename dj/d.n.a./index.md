@@ -1,6 +1,6 @@
 # D.N.A.
 
-D.N.A. is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
+D.N.A. is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
 
 D.N.A. is a tech house and house artist, with 9 gigs on soundcheck across Mexico City and Schleswig Holstein. Often billed alongside Brown Sugar, Toriz and El Josesin. Next up: Luna Club, Schleswig Holstein on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ D.N.A. is a tech house and house artist, with 9 gigs on soundcheck across Mexico
 
 Brown Sugar, Toriz, El Josesin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.n.a./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.n.a./)*

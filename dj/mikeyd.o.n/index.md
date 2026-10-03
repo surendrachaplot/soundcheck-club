@@ -1,6 +1,6 @@
 # Mikey D.O.N
 
-Mikey D.O.N is a Disco and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
+Mikey D.O.N is a Disco and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
 
 Mikey D.O.N is a disco and jungle artist, with 12 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Jazzy Lioness, Jim Bane and Levi Love. Next up: Soup, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Mikey D.O.N is a disco and jungle artist, with 12 gigs on soundcheck across Lond
 
 Jazzy Lioness, Jim Bane, Levi Love
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyd.o.n/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyd.o.n/)*

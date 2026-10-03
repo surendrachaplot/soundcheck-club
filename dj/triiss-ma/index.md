@@ -1,6 +1,6 @@
 # TRÏÏSS
 
-TRÏÏSS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
+TRÏÏSS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
 
 TRÏÏSS is a techno and industrial artist based in Malta, with 21 gigs on soundcheck across Malta. Often billed alongside NEVYALC, A-THØX and Shryy. Next up: The Club House at Gianpula Village, Malta on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ TRÏÏSS is a techno and industrial artist based in Malta, with 21 gigs on sound
 
 NEVYALC, A-THØX, Shryy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triiss-ma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triiss-ma/)*

@@ -1,6 +1,6 @@
 # Meli Mena
 
-Meli Mena is a Bass and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
+Meli Mena is a Bass and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 3 Oct 2026.
 
 Meli Mena is a bass and italo disco artist based in France, with 24 gigs on soundcheck across Brussels, Cologne and Paris. Often billed alongside Fatale Furylax, encore une autre and ergen101. Next up: La Machine Du Moulin Rouge, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Meli Mena is a bass and italo disco artist based in France, with 24 gigs on soun
 
 Fatale Furylax, encore une autre, ergen101
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melimena/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melimena/)*

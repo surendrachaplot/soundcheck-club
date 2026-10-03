@@ -1,13 +1,14 @@
 # Samuel Fish
 
-Samuel Fish is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+Samuel Fish is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mansions, New York City on Sun, 4 Oct 2026.
 
-Samuel Fish is a techno and house artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Berlin, Detroit and Mexico City and 5 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: Signal, New York City on Sun 11 Oct.
+Samuel Fish is a techno and house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Detroit and Mexico City and 5 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: Mansions, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Mansions | New York City |
 | Sun, 11 Oct 2026 | Signal | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Samuel Fish is a techno and house artist based in United States of America, with
 
 Henry Chow, Anthony Parasole, Handmade
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*

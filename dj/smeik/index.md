@@ -1,6 +1,6 @@
 # smeik
 
-smeik is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+smeik is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 smeik is a techno and deep house artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Marc Eisenberg, Better Call Paul and V (NYC). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ smeik is a techno and deep house artist based in Germany, with 22 gigs on soundc
 
 Marc Eisenberg, Better Call Paul, V (NYC)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smeik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smeik/)*

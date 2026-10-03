@@ -1,6 +1,6 @@
 # Marvel Gold
 
-Marvel Gold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
+Marvel Gold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
 
 Marvel Gold is a techno and house artist based in Germany, with 61 gigs on soundcheck across Berlin. Often billed alongside Wiebe Roose, Nikklaas and Epicx. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marvel Gold is a techno and house artist based in Germany, with 61 gigs on sound
 
 Wiebe Roose, Nikklaas, Epicx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvelgold/)*

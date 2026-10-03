@@ -1,6 +1,6 @@
 # amhailt.xox
 
-amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 6 Oct 2026.
+amhailt.xox is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 6 Oct 2026.
 
 amhailt.xox is a hardcore and drum & bass artist based in Ireland, with 63 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Seoul. Often billed alongside CELTIC TERROR SQUAD, Sea Urchin and TWOCANNDANN. Next up: People's Leisure Club, Edinburgh on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ amhailt.xox is a hardcore and drum & bass artist based in Ireland, with 63 gigs 
 
 CELTIC TERROR SQUAD, Sea Urchin, TWOCANNDANN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amhailt.xox/)*

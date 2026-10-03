@@ -1,6 +1,6 @@
 # Komanche
 
-Komanche is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mercato Metropolitano, London on Fri, 9 Oct 2026.
+Komanche is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mercato Metropolitano, London on Fri, 9 Oct 2026.
 
 Komanche is a house and garage artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, London and Los Angeles. Often billed alongside KANE., Ben hauke and Kieran C. Next up: Mercato Metropolitano, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Komanche is a house and garage artist based in United Kingdom, with 25 gigs on s
 
 KANE., Ben hauke, Kieran C
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komanche/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komanche/)*

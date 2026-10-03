@@ -1,6 +1,6 @@
 # Serti
 
-Serti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
+Serti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
 
 Serti is a techno and house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Eindhoven, New York City and Rotterdam and 1 more. Often billed alongside Delano Legito, Julie and Phase Fatale. Next up: The Basement Eindhoven, Eindhoven on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Serti is a techno and house artist based in Netherlands, with 27 gigs on soundch
 
 Delano Legito, Julie, Phase Fatale
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serti/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serti/)*

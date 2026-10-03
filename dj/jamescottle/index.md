@@ -1,6 +1,6 @@
 # James Cottle
 
-James Cottle is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Globe, Newcastle on Sat, 31 Oct 2026.
+James Cottle is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Globe, Newcastle on Sat, 31 Oct 2026.
 
 James Cottle is a trance and techno artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Bangkok and Newcastle. Often billed alongside Allen Watts, The Rocketman and 0Gravity. Next up: The Globe, Newcastle on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ James Cottle is a trance and techno artist based in United Kingdom, with 8 gigs 
 
 Allen Watts, The Rocketman, 0Gravity
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescottle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescottle/)*

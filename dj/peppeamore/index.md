@@ -1,6 +1,6 @@
 # Peppe Amore
 
-Peppe Amore is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Magazzino sul Po, Turin on Fri, 9 Oct 2026.
+Peppe Amore is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Magazzino sul Po, Turin on Fri, 9 Oct 2026.
 
 Peppe Amore is a techno and electro artist based in Italy, with 14 gigs on soundcheck across Berlin, Milan, Naples and New York City and 2 more. Often billed alongside Jade Removille, Enrico Vivaldi and Flux By Uchiha. Next up: Magazzino sul Po, Turin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Peppe Amore is a techno and electro artist based in Italy, with 14 gigs on sound
 
 Jade Removille, Enrico Vivaldi, Flux By Uchiha
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppeamore/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppeamore/)*

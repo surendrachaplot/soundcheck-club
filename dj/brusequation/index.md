@@ -1,6 +1,6 @@
 # Brus Equation
 
-Brus Equation is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Brus Equation is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 Brus Equation is an electronic artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside DJ2D2, DJohnston and Ikari. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Brus Equation is an electronic artist, with 9 gigs on soundcheck across Barcelon
 
 DJ2D2, DJohnston, Ikari
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brusequation/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brusequation/)*

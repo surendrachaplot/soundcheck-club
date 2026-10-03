@@ -1,6 +1,6 @@
 # Jana Falcon
 
-Jana Falcon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 9 Oct 2026.
+Jana Falcon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 9 Oct 2026.
 
 Jana Falcon is a house and techno artist based in Germany, with 145 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 12 more. Often billed alongside Flemish.Fetish, Immy and Benedict. Next up: Disco Zwei, Mannheim on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Jana Falcon is a house and techno artist based in Germany, with 145 gigs on soun
 
 Flemish.Fetish, Immy, Benedict
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*

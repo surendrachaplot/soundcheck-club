@@ -1,6 +1,6 @@
 # Ponsif
 
-Ponsif is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
+Ponsif is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
 
 Ponsif is a techno and trance artist based in France, with 21 gigs on soundcheck across Montreal and Paris. Often billed alongside Xaviera, ENAMOR and NASTYA NVRSLP. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Ponsif is a techno and trance artist based in France, with 21 gigs on soundcheck
 
 Xaviera, ENAMOR, NASTYA NVRSLP
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponsif/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponsif/)*

@@ -1,6 +1,6 @@
 # Juba
 
-Juba is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Juba is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
 Juba is a house and amapiano artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Katia Fis, MINÄ and APOLONIA. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Juba is a house and amapiano artist based in United Kingdom, with 48 gigs on sou
 
 Katia Fis, MINÄ, APOLONIA (4)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juba/)*

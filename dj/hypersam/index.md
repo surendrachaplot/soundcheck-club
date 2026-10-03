@@ -1,6 +1,6 @@
 # Hyper Sam
 
-Hyper Sam is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glazart, Paris on Sun, 11 Oct 2026.
+Hyper Sam is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Glazart, Paris on Sun, 11 Oct 2026.
 
 Hyper Sam is a techno artist based in France, with 9 gigs on soundcheck across Paris. Often billed alongside Amanda Mussi, Anabel Arroyo and Aérienne. Next up: Glazart, Paris on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Hyper Sam is a techno artist based in France, with 9 gigs on soundcheck across P
 
 Amanda Mussi, Anabel Arroyo, Aérienne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypersam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypersam/)*

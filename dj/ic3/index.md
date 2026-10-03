@@ -1,14 +1,15 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+IC3 is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-IC3 is a drum & bass and jungle artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Dillinja and K Motionz. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+IC3 is a drum & bass and jungle artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Hamburg and 6 more. Often billed alongside K Motionz, DJ Hype and Dillinja. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 31 Oct 2026 | MK Arena | Midlands |
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
@@ -26,6 +27,6 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 84 gigs on 
 
 ## Shares bills with
 
-DJ Hype, Dillinja, K Motionz
+K Motionz, DJ Hype, Dillinja
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

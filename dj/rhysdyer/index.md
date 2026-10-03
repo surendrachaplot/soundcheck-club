@@ -1,6 +1,6 @@
 # Rhys Dyer
 
-Rhys Dyer is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Rhys Dyer is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Rhys Dyer is an electro and tech house artist based in United Kingdom, with 19 gigs on soundcheck across London and Sheffield. Often billed alongside Myles Apps, The Doobskins and Aaron Burr. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rhys Dyer is an electro and tech house artist based in United Kingdom, with 19 g
 
 Myles Apps, The Doobskins, Aaron Burr (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysdyer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysdyer/)*

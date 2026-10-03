@@ -1,6 +1,6 @@
 # Scheibenwischer
 
-Scheibenwischer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MODULE, Copenhagen on Sat, 3 Oct 2026.
+Scheibenwischer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MODULE, Copenhagen on Sat, 3 Oct 2026.
 
 Scheibenwischer is a techno and house artist based in Austria, with 30 gigs on soundcheck across Berlin, Copenhagen, Frankfurt and Malta and 3 more. Often billed alongside KAROLINA, DJ Backstage and MIA MIA. Next up: MODULE, Copenhagen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Scheibenwischer is a techno and house artist based in Austria, with 30 gigs on s
 
 KAROLINA, DJ Backstage, MIA MIA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibenwischer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibenwischer/)*

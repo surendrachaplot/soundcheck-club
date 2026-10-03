@@ -1,6 +1,6 @@
 # Giulia Tess
 
-Giulia Tess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+Giulia Tess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 Giulia Tess is a house and techno artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Giulia Tess is a house and techno artist based in Italy, with 51 gigs on soundch
 
 Ell Murphy, Lawrence Hart, mixtress
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*

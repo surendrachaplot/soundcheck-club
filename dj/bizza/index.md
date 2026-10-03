@@ -1,6 +1,6 @@
 # BizZa
 
-BizZa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 6 Nov 2026.
+BizZa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 6 Nov 2026.
 
 BizZa is a house and tech house artist based in Spain, with 55 gigs on soundcheck across Barcelona, Buenos Aires, Chicago and Ibiza and 7 more. Often billed alongside Pau Guilera, DIROS and De La Swing. Next up: BORIS CLUB, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BizZa is a house and tech house artist based in Spain, with 55 gigs on soundchec
 
 Pau Guilera, DIROS, De La Swing
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*

@@ -1,6 +1,6 @@
 # Julia Maria
 
-Julia Maria is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BRET, Amsterdam on Sun, 8 Nov 2026.
+Julia Maria is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Sun, 8 Nov 2026.
 
 Julia Maria is a techno and dub techno artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and The Hague and 1 more. Often billed alongside BIANKA, Delano Legito and JSPRV35. Next up: BRET, Amsterdam on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Julia Maria is a techno and dub techno artist based in Netherlands, with 30 gigs
 
 BIANKA, Delano Legito, JSPRV35
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamaria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamaria/)*

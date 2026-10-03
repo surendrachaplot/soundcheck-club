@@ -1,6 +1,6 @@
 # Onemas
 
-Onemas is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 9 Oct 2026.
+Onemas is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 9 Oct 2026.
 
 Onemas is a minimal and house artist based in Spain, with 15 gigs on soundcheck across Malaga. Often billed alongside Arval, Excenital and Nitrile Affair. Next up: Doggy Klœb, Malaga on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Onemas is a minimal and house artist based in Spain, with 15 gigs on soundcheck 
 
 Arval, Excenital, Nitrile Affair
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onemas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onemas/)*

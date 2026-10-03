@@ -1,14 +1,13 @@
 # Dusky
 
-Dusky is a House and Techno artist with 25 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Elsewhere, New York City on Fri, 2 Oct 2026.
+Dusky is a House and Techno artist with 24 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Newspeak, Montreal on Sat, 3 Oct 2026.
 
-Dusky is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: Elsewhere, New York City on Fri 2 Oct.
+Dusky is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: Newspeak, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Elsewhere | New York City |
 | Sat, 3 Oct 2026 | Newspeak | Montreal |
 | Sun, 4 Oct 2026 | TBA - Bloom Bar Indy | Indiana |
 | Fri, 9 Oct 2026 | Tigres de la Noche | Washington DC |
@@ -20,9 +19,11 @@ Dusky is a house and techno artist based in United Kingdom, with 104 gigs on sou
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Joshua Brooks | Manchester |
 | Fri, 30 Oct 2026 | Electric Bristol | Bristol |
+| Sat, 31 Oct 2026 | Patterns | Brighton |
 
 ## Recently played
 
+- Elsewhere, New York City · Fri, 2 Oct 2026
 - UNO MALTA, Malta · Thu, 24 Sept 2026
 - Chinois Ibiza, Ibiza · Tue, 15 Sept 2026
 - Lab11, Birmingham · Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ Dusky is a house and techno artist based in United Kingdom, with 104 gigs on sou
 - Steelyard Kelham, Sheffield · Sat, 20 Jun 2026
 - Dedaena, Tbilisi · Sun, 31 May 2026
 - High Lights - Barking Park, London · Fri, 22 May 2026
-- Concorde 2, Brighton · Sat, 9 May 2026
 
 ## Shares bills with
 
 Dan Shake, Denham Audio, Junior Simba
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

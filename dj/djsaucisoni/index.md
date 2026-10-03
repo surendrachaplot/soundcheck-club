@@ -1,6 +1,6 @@
 # DJ Sauci Soni
 
-DJ Sauci Soni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Rose, New York City on Fri, 9 Oct 2026.
+DJ Sauci Soni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Rose, New York City on Fri, 9 Oct 2026.
 
 DJ Sauci Soni is a house and techno artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside MISS VEE, MAXWELL HöUSE and FTZGRLD. Next up: The Rose, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Sauci Soni is a house and techno artist based in United States of America, wi
 
 MISS VEE, MAXWELL HöUSE, FTZGRLD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaucisoni/)*

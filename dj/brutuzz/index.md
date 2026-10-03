@@ -1,6 +1,6 @@
 # Brutuzz
 
-Brutuzz is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Brutuzz is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Brutuzz is a dubstep and grime artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside puurvuur, Neffa-T and TMSV. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Brutuzz is a dubstep and grime artist based in Netherlands, with 19 gigs on soun
 
 puurvuur, Neffa-T, TMSV
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brutuzz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brutuzz/)*

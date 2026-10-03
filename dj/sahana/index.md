@@ -1,6 +1,6 @@
 # Sahana
 
-Sahana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
+Sahana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
 
 Sahana is a house and techno artist based in United States of America, with 53 gigs on soundcheck across Belfast, Dublin and London. Often billed alongside Moving Still, Neo Cortex and Surferboy. Next up: Pawn Shop, Dublin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sahana is a house and techno artist based in United States of America, with 53 g
 
 Moving Still, Neo Cortex, Surferboy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*

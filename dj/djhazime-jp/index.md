@@ -1,6 +1,6 @@
 # DJ Hazime
 
-DJ Hazime is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at COUNTER CLUB, Tokyo on Thu, 8 Oct 2026.
+DJ Hazime is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at COUNTER CLUB, Tokyo on Thu, 8 Oct 2026.
 
 DJ Hazime is a hip-hop and house artist based in Japan, with 33 gigs on soundcheck across Tokyo. Often billed alongside DJ HOKUTO, NikkaNinja and Booth. Next up: COUNTER CLUB, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ DJ Hazime is a hip-hop and house artist based in Japan, with 33 gigs on soundche
 
 DJ HOKUTO, NikkaNinja, Booth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazime-jp/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazime-jp/)*

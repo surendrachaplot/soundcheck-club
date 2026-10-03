@@ -1,6 +1,6 @@
 # Day Cart
 
-Day Cart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
+Day Cart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
 
 Day Cart is a techno and house artist based in United States of America, with 40 gigs on soundcheck across New York City. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Jupiter Disco, New York City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Day Cart is a techno and house artist based in United States of America, with 40
 
 Wig-Wam, Devoye, IMOGEN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daycart/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daycart/)*

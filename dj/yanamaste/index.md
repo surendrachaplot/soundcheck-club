@@ -1,6 +1,6 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -23,6 +23,7 @@ Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundc
 
 ## Recently played
 
+- TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Q35 WAREHOUSE, Turin · Sat, 19 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundc
 - The Bassement, Madrid · Thu, 17 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
 - Else, Berlin · Sat, 12 Sept 2026
-- Schrotty, Cologne · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

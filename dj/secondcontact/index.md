@@ -1,13 +1,14 @@
 # Second Contact
 
-Second Contact is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at feedbk, New York City on Fri, 16 Oct 2026.
+Second Contact is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Plaza Cultural, New York City on Sat, 3 Oct 2026.
 
-Second Contact is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Berlin, Düsseldorf, Helsinki and Mexico City and 4 more. Often billed alongside Amelia Holt, 98dots and Elena Colombi. Next up: feedbk, New York City on Fri 16 Oct.
+Second Contact is a house and techno artist based in United States of America, with 58 gigs on soundcheck across Berlin, Düsseldorf, Helsinki and Mexico City and 4 more. Often billed alongside Amelia Holt, 98dots and Elena Colombi. Next up: La Plaza Cultural, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | La Plaza Cultural | New York City |
 | Fri, 16 Oct 2026 | feedbk | New York City |
 | Fri, 18 Dec 2026 | Outer Heaven | New York City |
 
@@ -26,4 +27,4 @@ Second Contact is a house and techno artist based in United States of America, w
 
 Amelia Holt, 98dots, Elena Colombi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*

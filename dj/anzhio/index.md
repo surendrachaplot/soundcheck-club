@@ -1,6 +1,6 @@
 # Anzhio
 
-Anzhio is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
+Anzhio is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
 Anzhio is a house and electronica artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside FedeFink, Mindset and OIBAF. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Anzhio is a house and electronica artist based in Spain, with 11 gigs on soundch
 
 FedeFink, Mindset, OIBAF
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzhio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzhio/)*

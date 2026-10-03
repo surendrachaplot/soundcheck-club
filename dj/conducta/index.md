@@ -1,14 +1,13 @@
 # Conducta
 
-Conducta is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Fri, 2 Oct 2026.
+Conducta is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-Conducta is a garage and house artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: TBA, Los Angeles on Fri 2 Oct.
+Conducta is a garage and house artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: The Regency Ballroom, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Los Angeles |
 | Sat, 3 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Palais | London |
 | Fri, 23 Oct 2026 | 24 Kitchen Street | Liverpool |
@@ -18,6 +17,7 @@ Conducta is a garage and house artist based in United Kingdom, with 188 gigs on 
 
 ## Recently played
 
+- TBA, Los Angeles · Fri, 2 Oct 2026
 - The Brickworks, Nottingham · Sat, 19 Sept 2026
 - FS., Tokyo · Fri, 18 Sept 2026
 - Place Noord, Brussels · Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Conducta is a garage and house artist based in United Kingdom, with 188 gigs on 
 - Hangaren, Copenhagen · Thu, 27 Aug 2026
 - Colour Factory, London · Sat, 15 Aug 2026
 - YuYu Cine Club, Mexico City · Sat, 1 Aug 2026
-- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Oppidan, Tim Reaper, Todd Edwards
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

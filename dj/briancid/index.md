@@ -1,14 +1,15 @@
 # Brian Cid
 
-Brian Cid is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Sat, 3 Oct 2026.
+Brian Cid is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Sat, 3 Oct 2026.
 
-Brian Cid is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Berlin, Chicago and Los Angeles and 7 more. Often billed alongside Kike Roldan, Amiti and DJ Chus. Next up: TBA, Los Angeles on Sat 3 Oct.
+Brian Cid is a house and deep house artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Berlin, Chicago and Los Angeles and 7 more. Often billed alongside Kike Roldan, Amiti and DJ Chus. Next up: TBA, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Los Angeles |
+| Sat, 17 Oct 2026 | Edge Miami | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Brian Cid is a house and deep house artist based in United States of America, wi
 
 Kike Roldan, Amiti, DJ Chus
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briancid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briancid/)*

@@ -1,6 +1,6 @@
 # Joran van Pol
 
-Joran van Pol is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Joran van Pol is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 Joran van Pol is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam. Often billed alongside DAX J, HI-LO and Benny Rodrigues. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Joran van Pol is a techno and tech house artist based in Netherlands, with 13 gi
 
 DAX J, HI-LO, Benny Rodrigues
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joranvanpol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joranvanpol/)*

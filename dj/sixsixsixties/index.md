@@ -1,6 +1,6 @@
 # Sixsixsixties
 
-Sixsixsixties is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Sixsixsixties is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Sixsixsixties is a house and techno artist based in Belgium, with 53 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Fais Le Beau, Dana Kuehr and Paulo Sea. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sixsixsixties is a house and techno artist based in Belgium, with 53 gigs on sou
 
 Fais Le Beau, Dana Kuehr, Paulo Sea
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*

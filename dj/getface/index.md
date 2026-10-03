@@ -1,6 +1,6 @@
 # GET FACE
 
-GET FACE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+GET FACE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 GET FACE is a club and techno artist based in United States of America, with 39 gigs on soundcheck across Miami, New York City and Washington DC. Often billed alongside Franxx, Gabberbitch69 and znorthy. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ GET FACE is a club and techno artist based in United States of America, with 39 
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
 - TRANSMISSION DC, Washington DC · Sat, 20 Jun 2026
 - TRANSMISSION DC, Washington DC · Fri, 24 Apr 2026
 - La Fabrica, Washington DC · Fri, 3 Apr 2026
@@ -19,10 +20,9 @@ GET FACE is a club and techno artist based in United States of America, with 39 
 - Sinners and Saints, Washington DC · Fri, 13 Feb 2026
 - Flash, Washington DC · Fri, 30 Jan 2026
 - TRANSMISSION DC, Washington DC · Fri, 31 Oct 2025
-- Supernatural Haus, Miami · Thu, 16 Oct 2025
 
 ## Shares bills with
 
 Franxx, Gabberbitch69, znorthy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/getface/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/getface/)*

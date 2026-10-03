@@ -1,6 +1,6 @@
 # Telexketch
 
-Telexketch is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Freedonia, Barcelona on Sat, 10 Oct 2026.
+Telexketch is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Freedonia, Barcelona on Sat, 10 Oct 2026.
 
 Telexketch is an italo disco and house artist, with 13 gigs on soundcheck across Barcelona. Often billed alongside Budget Jones, Lil Vän and Mimsy. Next up: Freedonia, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Telexketch is an italo disco and house artist, with 13 gigs on soundcheck across
 
 Budget Jones, Lil Vän, Mimsy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telexketch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telexketch/)*

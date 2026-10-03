@@ -1,6 +1,6 @@
 # JJJJJerome Ellis
 
-JJJJJerome Ellis is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Strange Brew, Bristol on Wed, 7 Oct 2026.
+JJJJJerome Ellis is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Strange Brew, Bristol on Wed, 7 Oct 2026.
 
 JJJJJerome Ellis is an experimental and ambient artist based in United States of America, with 11 gigs on soundcheck across Athens, Berlin, Bristol and Frankfurt and 4 more. Often billed alongside Yu Su, Batu and Buttechno. Next up: Strange Brew, Bristol on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ JJJJJerome Ellis is an experimental and ambient artist based in United States of
 
 Yu Su, Batu, Buttechno
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjjjeromeellis/)*

@@ -1,19 +1,19 @@
 # Anthony Middleton
 
-Anthony Middleton is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
+Anthony Middleton is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sun, 25 Oct 2026.
 
-Anthony Middleton is a house and deep house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Bali, Ibiza and Kyoto and 10 more. Often billed alongside Damian Lazarus, Audiofly and Matt Caines. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
+Anthony Middleton is a house and deep house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Bali, Ibiza and Kyoto and 10 more. Often billed alongside Damian Lazarus, Audiofly and Matt Caines. Next up: Flash, Washington DC on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Het Sieraad | Amsterdam |
 | Sun, 25 Oct 2026 | Flash | Washington DC |
 | Sat, 31 Oct 2026 | Refuge | New York City |
 
 ## Recently played
 
+- Het Sieraad, Amsterdam · Fri, 2 Oct 2026
 - GWK Culture Park, Bali · Fri, 17 Apr 2026
 - null, New York City · Sat, 22 Nov 2025
 - TBA - 1930 Wilshire Blvd #1926, Los Angeles, CA  90057 United States, Los Angeles · Sat, 15 Nov 2025
@@ -21,10 +21,9 @@ Anthony Middleton is a house and deep house artist based in United Kingdom, with
 - Madarae San Francisco, San Francisco/Oakland · Fri, 7 Nov 2025
 - Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 10 Oct 2025
 - Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 22 Aug 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 18 Jul 2025
 
 ## Shares bills with
 
 Damian Lazarus, Audiofly, Matt Caines
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*

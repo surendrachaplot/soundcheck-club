@@ -1,8 +1,8 @@
 # Invisible Wind Factory
 
-Invisible Wind Factory is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Annie Mac - Before Midnight - Liverpool" on Fri, 16 Oct 2026.
+Invisible Wind Factory is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Annie Mac - Before Midnight - Liverpool" on Fri, 16 Oct 2026.
 
-Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Annie Mac, Benji King, blvk.velvet and Bridge (NY) and 2 more. See dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
+Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Annie Mac, Benji King, Bridge (NY) and Dennis Quin and 2 more. See dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 up
 | Fri, 6 Nov 2026 | Job De Jong & Dennis Quin - All Night Long | Dennis Quin, Job de Jong |
 | Fri, 6 Nov 2026 | Job de Jong & Dennis Quin - All Night Long - Liverpool | Dennis Quin, Job de Jong |
 | Fri, 13 Nov 2026 | Jazzy - Peace & Patience Tour - Liverpool | Jazzy (IRL) |
-| Fri, 13 Nov 2026 | DOLLS AFTER DARK | Matica, TAMAN (2), blvk.velvet |
+| Fri, 13 Nov 2026 | DOLLS AFTER DARK | TBA |
 | Sat, 14 Nov 2026 | Official After Party 14th Nov Bridge, Eden Price & Love Machine | Bridge (NY), Eden Prince, Love Machine |
 | Sat, 5 Dec 2026 | Modern Funktion Liverpool - Locklead, Mella Dee, Reeshy & More | Benji King, Locklead, Mella Dee, Phill de Janeiro, Reeshy, RoomToo |
 | Sat, 5 Dec 2026 | Modern Funktion Liverpool - Locklead, Mella Dee, Reeshy & More | Benji King, Locklead, Mella Dee, Phill de Janeiro, Reeshy, RoomToo |
@@ -23,4 +23,4 @@ Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 up
 
 3 Regent Rd, Liverpool L3 7DS, United Kingdom, Liverpool
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/invisible-wind-factory/)*

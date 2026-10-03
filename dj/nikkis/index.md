@@ -1,6 +1,6 @@
 # Nikki S
 
-Nikki S is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Sat, 17 Oct 2026.
+Nikki S is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery N17, London on Sat, 17 Oct 2026.
 
 Nikki S is a psytrance and techno artist based in Australia, with 10 gigs on soundcheck across Auckland, London, Manchester and Sheffield and 1 more. Often billed alongside DoubKore, FlibbertiGibbet and JourneyOM. Next up: Distillery N17, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nikki S is a psytrance and techno artist based in Australia, with 10 gigs on sou
 
 DoubKore, FlibbertiGibbet, JourneyOM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkis/)*

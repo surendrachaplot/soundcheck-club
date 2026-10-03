@@ -1,6 +1,6 @@
 # Estray
 
-Estray is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Fri, 23 Oct 2026.
+Estray is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Fri, 23 Oct 2026.
 
 Estray is a house and tech house artist based in Serbia, with 9 gigs on soundcheck across Amsterdam, Barcelona and Belgrade. Often billed alongside Ado, Dexon and Mutul. Next up: InDeep'n'Dance Records, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Estray is a house and tech house artist based in Serbia, with 9 gigs on soundche
 
 Ado, Dexon, Mutul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estray/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estray/)*

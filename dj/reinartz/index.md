@@ -1,6 +1,6 @@
 # Reinartz
 
-Reinartz is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
+Reinartz is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
 
 Reinartz is an ambient and experimental artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Triana, King Softy and BLUME. Next up: ciao ciao Bar, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Reinartz is an ambient and experimental artist based in Germany, with 26 gigs on
 
 Triana, King Softy, BLUME
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*

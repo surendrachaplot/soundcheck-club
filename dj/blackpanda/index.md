@@ -1,6 +1,6 @@
 # Black Panda
 
-Black Panda is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Sat, 3 Oct 2026.
+Black Panda is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Black Panda is a house and afro house artist based in United States of America, with 41 gigs on soundcheck across San Francisco/Oakland. Often billed alongside vRok, DJ Parrot and HIDRA. Next up: Moonglow Oakland, San Francisco/Oakland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Black Panda is a house and afro house artist based in United States of America, 
 
 vRok, DJ Parrot, HIDRA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*

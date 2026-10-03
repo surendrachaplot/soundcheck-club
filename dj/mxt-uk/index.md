@@ -1,6 +1,6 @@
 # MXT (UK)
 
-MXT (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at XOYO, London on Tue, 6 Oct 2026.
+MXT (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at XOYO, London on Tue, 6 Oct 2026.
 
 MXT (UK) is a deep house and house artist based in United Kingdom, with 11 gigs on soundcheck across Lisbon and London. Often billed alongside Azire, Kesh and Steamy Bumplings. Next up: XOYO, London on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ MXT (UK) is a deep house and house artist based in United Kingdom, with 11 gigs 
 
 Azire, Kesh (1), Steamy Bumplings
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*

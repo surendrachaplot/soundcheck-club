@@ -1,14 +1,13 @@
 # livwutang
 
-livwutang is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Subspace, Denver on Fri, 2 Oct 2026.
+livwutang is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
-livwutang is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 42 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Subspace, Denver on Fri 2 Oct.
+livwutang is a techno and house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 42 more. Often billed alongside Kia (AU), Nick León and Richard Akingbehin. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Subspace | Denver |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | FOLD | London |
@@ -21,6 +20,7 @@ livwutang is a techno and house artist based in United States of America, with 1
 
 ## Recently played
 
+- Subspace, Denver · Fri, 2 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 27 Sept 2026
 - Nowadays, New York City · Wed, 16 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
@@ -28,10 +28,9 @@ livwutang is a techno and house artist based in United States of America, with 1
 - Nowadays, New York City · Fri, 4 Sept 2026
 - TBA - Saint-Denis, Paris · Sat, 29 Aug 2026
 - TILLATEC, Amsterdam · Fri, 28 Aug 2026
-- OXI, Berlin · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 Kia (AU), Nick León, Richard Akingbehin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

@@ -1,8 +1,8 @@
 # DREIAN
 
-DREIAN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
+DREIAN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
 
-DREIAN is a techno and progressive house artist, with 47 gigs on soundcheck across Amsterdam, Berlin, London and Munich. Often billed alongside BLILI, D.M.S and Will Lewis. Next up: The Glove That Fits, London on Fri 6 Nov.
+DREIAN is a techno and progressive house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, London and Munich. Often billed alongside BLILI, D.M.S and Will Lewis. Next up: The Glove That Fits, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DREIAN is a techno and progressive house artist, with 47 gigs on soundcheck acro
 
 BLILI, D.M.S, Will Lewis
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*

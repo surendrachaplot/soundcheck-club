@@ -1,14 +1,13 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hardpop, Ciudad-ju-rez on Fri, 2 Oct 2026.
+Julya Karma is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
-Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Hardpop, Ciudad Ju Rez on Fri 2 Oct.
+Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Hardpop | Ciudad-ju-rez |
 | Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -19,6 +18,7 @@ Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Ams
 
 ## Recently played
 
+- Hardpop, Ciudad-ju-rez · Fri, 2 Oct 2026
 - Hackney Bridge, London · Sat, 26 Sept 2026
 - 528 Ibiza, Ibiza · Wed, 23 Sept 2026
 - TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
@@ -26,10 +26,9 @@ Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Ams
 - Boston Manor Park, London · Sat, 1 Aug 2026
 - Nitsa Club, Barcelona · Fri, 31 Jul 2026
 - Scorpios, Mykonos · Thu, 30 Jul 2026
-- Floyd, Miami · Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Âme, Jimi Jules, Dixon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

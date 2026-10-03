@@ -1,0 +1,28 @@
+# Markem
+
+Markem is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aire Miami, Miami on Fri, 16 Oct 2026.
+
+Markem is a house and afro house artist based in United States of America, with 16 gigs on soundcheck across Barcelona, Istanbul, Los Angeles and Miami. Often billed alongside ANDREATENS, Atomyard and Cristobal ON. Next up: Aire Miami, Miami on Fri 16 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 16 Oct 2026 | Aire Miami | Miami |
+
+## Recently played
+
+- Aire Miami, Miami · Fri, 25 Sept 2026
+- Lion's Den, Miami · Sat, 8 Aug 2026
+- MODE Downtown Miami, Miami · Sat, 10 Jan 2026
+- MODE Downtown Miami, Miami · Sat, 13 Dec 2025
+- Joia, Miami · Sat, 6 Dec 2025
+- The Supermercat Gotico, Barcelona · Thu, 4 Sept 2025
+- Epic Hotel Pool, Miami · Sat, 5 Jul 2025
+- Epic Hotel Pool, Miami · Sun, 30 Mar 2025
+
+## Shares bills with
+
+ANDREATENS, Atomyard, Cristobal ON
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markem-us/)*

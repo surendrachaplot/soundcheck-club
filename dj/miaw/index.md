@@ -1,6 +1,6 @@
 # miaw
 
-miaw is a Garage and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loppen Christiania, Copenhagen on Fri, 30 Oct 2026.
+miaw is a Garage and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Loppen Christiania, Copenhagen on Fri, 30 Oct 2026.
 
 miaw is a garage and vaporwave artist based in Denmark, with 10 gigs on soundcheck across Aarhus, Berlin and Copenhagen. Often billed alongside Alba Akvama, A Good Year and DJ John Key. Next up: Loppen Christiania, Copenhagen on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ miaw is a garage and vaporwave artist based in Denmark, with 10 gigs on soundche
 
 Alba Akvama, A Good Year, DJ John Key
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaw/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaw/)*

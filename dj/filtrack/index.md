@@ -1,6 +1,6 @@
 # FILTRACK
 
-FILTRACK is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+FILTRACK is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 FILTRACK is a techno and hardcore artist based in Romania, with 42 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Cologne and 3 more. Often billed alongside NTHR, BASSTIEN and FACDEZORDINESIPLEC. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ FILTRACK is a techno and hardcore artist based in Romania, with 42 gigs on sound
 
 NTHR, BASSTIEN, FACDEZORDINESIPLEC
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*

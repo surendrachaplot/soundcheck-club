@@ -1,6 +1,6 @@
 # Kogiel
 
-Kogiel is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 16 Oct 2026.
+Kogiel is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 16 Oct 2026.
 
 Kogiel is a bass and garage artist, with 27 gigs on soundcheck across Krakow and Warsaw. Often billed alongside NOV1K, dj.zamocno and Sarba. Next up: K-Bar Powiśle, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kogiel is a bass and garage artist, with 27 gigs on soundcheck across Krakow and
 
 NOV1K, dj.zamocno, Sarba
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kogiel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kogiel/)*

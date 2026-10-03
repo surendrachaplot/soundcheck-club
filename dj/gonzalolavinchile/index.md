@@ -1,6 +1,6 @@
 # Gonzalo Lavin (Chile)
 
-Gonzalo Lavin (Chile) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
+Gonzalo Lavin (Chile) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
 
 Gonzalo Lavin (Chile) is a house and techno artist based in Chile, with 14 gigs on soundcheck across Berlin. Often billed alongside Zuleta M, Besch and Bøgen. Next up: Urban Spree, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gonzalo Lavin (Chile) is a house and techno artist based in Chile, with 14 gigs 
 
 Zuleta M, Besch, Bøgen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzalolavinchile/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonzalolavinchile/)*

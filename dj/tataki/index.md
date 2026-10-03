@@ -1,6 +1,6 @@
 # TATAKI
 
-TATAKI is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Roof 175, Frankfurt on Sat, 10 Oct 2026.
+TATAKI is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Roof 175, Frankfurt on Sat, 10 Oct 2026.
 
 TATAKI is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Frankfurt. Often billed alongside Jaden Brown, DeGuzman and Ryukyu. Next up: Roof 175, Frankfurt on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ TATAKI is a techno and trance artist based in Germany, with 18 gigs on soundchec
 
 Jaden Brown, DeGuzman, Ryukyu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tataki/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tataki/)*

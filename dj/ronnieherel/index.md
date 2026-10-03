@@ -1,6 +1,6 @@
 # Ronnie Herel
 
-Ronnie Herel is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Grand Junction Arms, London on Sat, 10 Oct 2026.
+Ronnie Herel is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Grand Junction Arms, London on Sat, 10 Oct 2026.
 
 Ronnie Herel is a deep house and house artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, Lisbon, London and Malaga. Often billed alongside Neil Pierce, DJ Spen and Sy Sez. Next up: The Grand Junction Arms, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Ronnie Herel is a deep house and house artist based in United Kingdom, with 23 g
 
 Neil Pierce, DJ Spen, Sy Sez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*

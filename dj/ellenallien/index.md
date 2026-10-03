@@ -1,14 +1,13 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Elastica, Vilnius on Fri, 2 Oct 2026.
+Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at REC Napoli, Naples on Sat, 3 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Elastica, Vilnius on Fri 2 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: REC Napoli, Naples on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Elastica | Vilnius |
 | Sat, 3 Oct 2026 | REC Napoli | Naples |
 | Wed, 7 Oct 2026 | Le Cargö | West |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
@@ -23,6 +22,7 @@ Ellen Allien is a techno and house artist based in Germany, with 259 gigs on sou
 
 ## Recently played
 
+- Elastica, Vilnius · Fri, 2 Oct 2026
 - Flash, Washington DC · Sat, 26 Sept 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
@@ -30,10 +30,9 @@ Ellen Allien is a techno and house artist based in Germany, with 259 gigs on sou
 - Bassiani, Tbilisi · Fri, 18 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Hangaren, Copenhagen · Thu, 27 Aug 2026
-- Tempelhof Airport, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

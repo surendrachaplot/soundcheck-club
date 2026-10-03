@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Marionette x Forestlimit" on Sat, 3 Oct 2026.
+Forestlimit is a music venue in Tokyo with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Marionette x Forestlimit" on Sat, 3 Oct 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Acidclank, AKIRAM EN, ANiIIIIiiiKii and Ayato and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line-ups including Acidclank, AKIRAM EN, ANiIIIIiiiKii and Ayato and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, wi
 | Sat, 10 Oct 2026 | Nightclubbing7 | Acidclank, Big Animal Theory, HINOTO, Lewo Chyba |
 | Sat, 10 Oct 2026 | 'Nightclubbing7' | Acidclank, Big Animal Theory, HINOTO, Lewo Chyba |
 | Sun, 11 Oct 2026 | 『秘密集会レガリア』 | Tinny Noll |
-| Wed, 14 Oct 2026 | CURVAGE OFFLINE VER.3.5 MEETS K/A/T/O MASSACRE | Bby Eco, Jinga, Telematic Visions |
+| Mon, 12 Oct 2026 | nannou presents silhouette #2 |  |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

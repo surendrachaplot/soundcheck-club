@@ -1,6 +1,6 @@
 # Loods
 
-Loods is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
+Loods is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
 Loods is a house and techno artist based in Australia, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Partiboi69 and Benwal. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ Loods is a house and techno artist based in Australia, with 59 gigs on soundchec
 
 KETTAMA, Partiboi69, Benwal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

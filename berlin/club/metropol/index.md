@@ -1,6 +1,6 @@
 # Metropol
 
-Metropol is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bodies & Baddies - Community Edition Berlin" on Sat, 24 Oct 2026.
+Metropol is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bodies & Baddies - Community Edition Berlin" on Sat, 24 Oct 2026.
 
 Metropol is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Christopher King. See dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -16,4 +16,4 @@ Metropol is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*

@@ -1,6 +1,6 @@
 # Catz 'N Dogz
 
-Catz 'N Dogz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Catz 'N Dogz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Catz 'N Dogz is a house and techno artist based in Poland, with 85 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside The Shapeshifters, Eats Everything and Jellybean Benitez. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Catz 'N Dogz is a house and techno artist based in Poland, with 85 gigs on sound
 
 The Shapeshifters, Eats Everything, Jellybean Benitez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*

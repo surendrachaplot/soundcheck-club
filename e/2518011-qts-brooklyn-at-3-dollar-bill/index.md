@@ -1,6 +1,6 @@
 # QTS: Brooklyn at 3 Dollar Bill
 
-QTS: Brooklyn at 3 Dollar Bill on Sat 17 Oct, New York City. 1 artist: Farius. Progressive House and Trance. See the line-up on soundcheck.
+QTS: Brooklyn at 3 Dollar Bill on Sat 17 Oct, New York City. 3 artists: Farius, Solarstone and TOMMYLOGIK. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ QTS: Brooklyn at 3 Dollar Bill on Sat 17 Oct, New York City. 1 artist: Farius. P
 ## Line-up
 
 - Farius
+- Solarstone
+- TOMMYLOGIK
 
 *Source: [soundcheck](https://soundcheck.club/e/2518011-qts-brooklyn-at-3-dollar-bill/)*

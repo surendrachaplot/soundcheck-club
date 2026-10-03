@@ -1,6 +1,6 @@
 # rerekat
 
-rerekat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Faust, Seoul on Sat, 3 Oct 2026.
+rerekat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Faust, Seoul on Sat, 3 Oct 2026.
 
 rerekat is a techno and electro artist based in South Korea, with 45 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, Yomi and MOVIN.KR. Next up: Faust, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ rerekat is a techno and electro artist based in South Korea, with 45 gigs on sou
 
 Honn, Yomi, MOVIN.KR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rerekat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rerekat/)*

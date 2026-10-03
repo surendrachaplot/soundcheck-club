@@ -1,6 +1,6 @@
 # This Week at Bar Franca at Bar Franca
 
-This Week at Bar Franca on Thu 1 Oct, Los Angeles. 3 artists: Alex Ho (US), John Smith and Magic Touch. Balearic and Disco. See the line-up on soundcheck.
+This Week at Bar Franca on Thu 1 Oct, Los Angeles. 3 artists: Alex Ho (US), John Smith and Magic Touch. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

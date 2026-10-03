@@ -1,6 +1,6 @@
 # Meteoro
 
-Meteoro is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SAUNA METEORA # 7: DJ FUCCI + ORIETA CHREM + DJ DOLARES + FKS" on Sat, 3 Oct 2026.
+Meteoro is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SAUNA METEORA # 7: DJ FUCCI + ORIETA CHREM + DJ DOLARES + FKS" on Sat, 3 Oct 2026.
 
 Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AG, dj dolares, Dj Fucci and FKS and 2 more. See dates, start times and who's playing. Passeig de Montjuïc, 72, 08004 Barcelona, España.
 
@@ -15,4 +15,4 @@ Meteoro is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, wit
 
 Passeig de Montjuïc, 72, 08004 Barcelona, España, Barcelona
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/meteoro/)*

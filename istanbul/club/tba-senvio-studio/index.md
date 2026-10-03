@@ -1,6 +1,6 @@
 # TBA - Senvio Studio
 
-TBA - Senvio Studio is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Studio Session 1" on Sat, 3 Oct 2026.
+TBA - Senvio Studio is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Studio Session 1" on Sat, 3 Oct 2026.
 
 TBA - Senvio Studio is a music venue in Istanbul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Senvio Studio is a music venue in Istanbul listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Studio Session 1 |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/tba-senvio-studio/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/tba-senvio-studio/)*

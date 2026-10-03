@@ -1,6 +1,6 @@
 # Joshua (3)
 
-Joshua (3) is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Socore Factory, Osaka on Thu, 12 Nov 2026.
+Joshua (3) is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Socore Factory, Osaka on Thu, 12 Nov 2026.
 
 Joshua is a hardcore and house artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, London, Osaka and Seoul and 1 more. Often billed alongside Midnight Manoeuvres, Rhem and JDM. Next up: Socore Factory, Osaka on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Joshua is a hardcore and house artist based in United Kingdom, with 16 gigs on s
 
 Midnight Manoeuvres, Rhem, JDM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-3/)*

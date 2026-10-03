@@ -1,6 +1,6 @@
 # Dolce Vito
 
-Dolce Vito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
+Dolce Vito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
 
 Dolce Vito is a house and techno artist based in France, with 34 gigs on soundcheck across Lisbon, Paris and Zurich. Often billed alongside ANYA JAVYBZ, Chima Isaaro and Paul Cut. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dolce Vito is a house and techno artist based in France, with 34 gigs on soundch
 
 ANYA JAVYBZ, Chima Isaaro, Paul Cut
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolcevito/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolcevito/)*

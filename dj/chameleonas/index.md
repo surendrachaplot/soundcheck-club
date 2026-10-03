@@ -1,6 +1,6 @@
 # Chameleonas
 
-Chameleonas is a Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grow, London on Fri, 16 Oct 2026.
+Chameleonas is a Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grow, London on Fri, 16 Oct 2026.
 
 Chameleonas is a disco and electronica artist based in Lithuania, with 9 gigs on soundcheck across London. Often billed alongside Bena, Emanuel Pavlova and Bushbby. Next up: Grow, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Chameleonas is a disco and electronica artist based in Lithuania, with 9 gigs on
 
 Bena, Emanuel Pavlova, Bushbby
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*

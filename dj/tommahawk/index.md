@@ -1,6 +1,6 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 6 Feb 2027.
+Tommahawk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 6 Feb 2027.
 
 Tommahawk is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Uebel & Gefährlich, Hamburg on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Tommahawk is a techno and house artist based in Germany, with 78 gigs on soundch
 
 Sabura, MikAH, A.N.I.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*

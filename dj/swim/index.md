@@ -1,6 +1,6 @@
 # swim
 
-swim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+swim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 swim is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Austin, Brussels and Chicago and 9 more. Often billed alongside DJ Heartstring, Faster Horses and Sam Alfred. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ swim is a techno and house artist based in United Kingdom, with 22 gigs on sound
 
 DJ Heartstring, Faster Horses, Sam Alfred
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swim/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swim/)*

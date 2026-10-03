@@ -1,6 +1,6 @@
 # SHAKING
 
-SHAKING is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
+SHAKING is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
 SHAKING is a house and garage artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: Elsewhere, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SHAKING is a house and garage artist based in United States of America, with 19 
 
 Clearcast, AMZEL, Main Phase
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaking/)*

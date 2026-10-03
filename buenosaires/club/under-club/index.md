@@ -1,14 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DIEGO CID - LEGGUI - Mariano DC" on Fri, 2 Oct 2026.
+Under Club is a music venue in Buenos Aires with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "JakoJako - MYLAH" on Sat, 3 Oct 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gigs, with line-ups including Ana Hagen, Fabio Florido, Floorplan and HERS and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 6 upcoming gigs, with line-ups including Ana Hagen, Fabio Florido, Floorplan and HERS and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | DIEGO CID - LEGGUI - Mariano DC | LEGGUI, Mariano DC |
 | Sat, 3 Oct 2026 | JakoJako - MYLAH | JakoJako, MYLAH |
 | Sun, 11 Oct 2026 | JXXXO & HERS - LUCAS SOSA - Vladimir Dubyshkin | HERS, JXXXO, Lucas Sosa (AR), Vladimir Dubyshkin |
 | Sat, 24 Oct 2026 | Fabio Florido 7 HORAS | Fabio Florido |
@@ -20,4 +19,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gig
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

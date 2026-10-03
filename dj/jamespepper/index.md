@@ -1,6 +1,6 @@
 # James Pepper
 
-James Pepper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Solace, Melbourne on Fri, 16 Oct 2026.
+James Pepper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Solace, Melbourne on Fri, 16 Oct 2026.
 
 James Pepper is a house and techno artist based in Australia, with 38 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 2 more. Often billed alongside Caleb Jackson, Jacqui Cunningham and Sasha Milani. Next up: Solace, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ James Pepper is a house and techno artist based in Australia, with 38 gigs on so
 
 Caleb Jackson, Jacqui Cunningham, Sasha Milani
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespepper/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespepper/)*

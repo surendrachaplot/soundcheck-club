@@ -1,6 +1,6 @@
 # U-T
 
-U-T is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Numm, Tokyo on Sat, 3 Oct 2026.
+U-T is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Numm, Tokyo on Sat, 3 Oct 2026.
 
 U-T is a house and techno artist based in Japan, with 72 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside AMANE, Gonno and Kenjamode. Next up: Numm, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ U-T is a house and techno artist based in Japan, with 72 gigs on soundcheck acro
 
 AMANE, Gonno, Kenjamode
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-t-1/)*

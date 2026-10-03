@@ -1,6 +1,6 @@
 # Meyra
 
-Meyra is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 3 Oct 2026.
+Meyra is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 3 Oct 2026.
 
 Meyra is an electronic artist based in Georgia, with 14 gigs on soundcheck across Tbilisi. Often billed alongside Routes Not Roots, Sportsmanship and Giorgi Pipia. Next up: Mtkvarze, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Meyra is an electronic artist based in Georgia, with 14 gigs on soundcheck acros
 
 Routes Not Roots, Sportsmanship, Giorgi Pipia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meyra/)*

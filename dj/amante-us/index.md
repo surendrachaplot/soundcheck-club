@@ -1,6 +1,6 @@
 # AMANTE
 
-AMANTE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
+AMANTE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
 
 AMANTE is a house and bass artist based in United States of America, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Sherpa Slim, Val-Holla and SUPPA. Next up: TBA - Kramer Junction, CA, Los Angeles on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ AMANTE is a house and bass artist based in United States of America, with 9 gigs
 
 Sherpa Slim, Val-Holla, SUPPA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amante-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amante-us/)*

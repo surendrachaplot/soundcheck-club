@@ -1,6 +1,6 @@
 # it_dont_Matt.er
 
-it_dont_Matt.er is a Breakcore and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Vespers Club, London on Fri, 20 Nov 2026.
+it_dont_Matt.er is a Breakcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vespers Club, London on Fri, 20 Nov 2026.
 
 it_dont_Matt.er is a breakcore and club artist based in United Kingdom, with 35 gigs on soundcheck across Cardiff and London. Often billed alongside AC (dot robot), Takenbymarshall and alterum. Next up: Vespers Club, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ it_dont_Matt.er is a breakcore and club artist based in United Kingdom, with 35 
 
 AC (dot robot), Takenbymarshall, alterum
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/it_dont_matt.er/)*

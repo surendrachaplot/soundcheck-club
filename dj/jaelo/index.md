@@ -1,6 +1,6 @@
 # Jaelo
 
-Jaelo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
+Jaelo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Treehouse, Berlin on Sat, 17 Oct 2026.
 
 Jaelo is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and Cologne. Often billed alongside HNX, HiHat and Annie O. Next up: Treehouse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jaelo is a techno and house artist based in Germany, with 12 gigs on soundcheck 
 
 HNX (030), HiHat, Annie O
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaelo/)*

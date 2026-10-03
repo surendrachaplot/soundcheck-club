@@ -1,6 +1,6 @@
 # DJ Hannah
 
-DJ Hannah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+DJ Hannah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 DJ Hannah is a house and techno artist based in Canada, with 14 gigs on soundcheck across Amsterdam, Berlin, New York City and Tokyo and 1 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DJ Hannah is a house and techno artist based in Canada, with 14 gigs on soundche
 
 AWood, Dose., INNEZZ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*

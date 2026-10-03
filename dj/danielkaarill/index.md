@@ -1,6 +1,6 @@
 # Daniel Kaarill
 
-Daniel Kaarill is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Sun, 4 Oct 2026.
+Daniel Kaarill is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Sun, 4 Oct 2026.
 
 Daniel Kaarill is a funk / soul and jazz artist based in Denmark, with 33 gigs on soundcheck across Copenhagen and Turin. Often billed alongside Fergus Murphy, Katrine Ring and 2000F. Next up: H15 Scene & Studio, Copenhagen on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Daniel Kaarill is a funk / soul and jazz artist based in Denmark, with 33 gigs o
 
 Fergus Murphy, Katrine Ring, 2000F
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkaarill/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielkaarill/)*

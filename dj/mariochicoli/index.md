@@ -1,6 +1,6 @@
 # Mario Chicoli
 
-Mario Chicoli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forum Station, Barcelona on Sun, 11 Oct 2026.
+Mario Chicoli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forum Station, Barcelona on Sun, 11 Oct 2026.
 
 Mario Chicoli is a house and tech house artist based in Italy, with 16 gigs on soundcheck across Barcelona. Often billed alongside Mastro Sally, Babo and Vinz (ITA). Next up: Forum Station, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Mario Chicoli is a house and tech house artist based in Italy, with 16 gigs on s
 
 Mastro Sally, Babo, Vinz (ITA)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariochicoli/)*

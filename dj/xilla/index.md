@@ -1,6 +1,6 @@
 # Xilla
 
-Xilla is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Xilla is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Xilla is a bass and house artist based in United Kingdom, with 23 gigs on soundcheck across Miami. Often billed alongside Marie Qrie, Sel.6 and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Xilla is a bass and house artist based in United Kingdom, with 23 gigs on soundc
 
 Marie Qrie, Sel.6, SATURNSARii
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xilla/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xilla/)*

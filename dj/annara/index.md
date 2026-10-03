@@ -1,6 +1,6 @@
 # ANNARA
 
-ANNARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ficken 3000, Berlin on Fri, 9 Oct 2026.
+ANNARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ficken 3000, Berlin on Fri, 9 Oct 2026.
 
 ANNARA is a techno and house artist based in Brazil, with 15 gigs on soundcheck across Berlin. Often billed alongside KLEA, Majdolen and lealucifer. Next up: Ficken 3000, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ANNARA is a techno and house artist based in Brazil, with 15 gigs on soundcheck 
 
 KLEA, Majdolen, lealucifer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*

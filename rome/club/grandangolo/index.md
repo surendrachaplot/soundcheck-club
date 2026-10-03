@@ -1,6 +1,6 @@
 # Grandangolo
 
-Grandangolo is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "QUERCIA" on Sat, 3 Oct 2026.
+Grandangolo is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "QUERCIA" on Sat, 3 Oct 2026.
 
 Grandangolo is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Ale Bi and Marzano. See dates, start times and who's playing. V. del Foro Italico, 501, 00197 Roma RM.
 
@@ -15,4 +15,4 @@ Grandangolo is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with
 
 V. del Foro Italico, 501, 00197 Roma RM, Rome
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/grandangolo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/grandangolo/)*

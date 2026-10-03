@@ -1,6 +1,6 @@
 # Ben Bertrand
 
-Ben Bertrand is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Ben Bertrand is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Ben Bertrand is an experimental and electro artist based in Belgium, with 10 gigs on soundcheck across Antwerp, Bristol, Brussels and Glasgow and 1 more. Often billed alongside Hiele, Jan Jelinek and Sagat. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ben Bertrand is an experimental and electro artist based in Belgium, with 10 gig
 
 Hiele, Jan Jelinek, Sagat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbertrand/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbertrand/)*

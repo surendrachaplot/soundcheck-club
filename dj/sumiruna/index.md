@@ -1,6 +1,6 @@
 # Sumiruna
 
-Sumiruna is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
+Sumiruna is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
 
 Sumiruna is a techno and psytrance artist based in Australia, with 9 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside Roberta, Shepz and VORPAL. Next up: TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sumiruna is a techno and psytrance artist based in Australia, with 9 gigs on sou
 
 Roberta, Shepz, VORPAL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumiruna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumiruna/)*

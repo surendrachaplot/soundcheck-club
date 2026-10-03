@@ -1,6 +1,6 @@
 # St Ethelburga's Centre for Reconciliation and Peace
 
-St Ethelburga's Centre for Reconciliation and Peace is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "XAMAYA: OTHERWORLD — HALLOWEEN IN THE CHURCH" on Sat, 31 Oct 2026.
+St Ethelburga's Centre for Reconciliation and Peace is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "XAMAYA: OTHERWORLD — HALLOWEEN IN THE CHURCH" on Sat, 31 Oct 2026.
 
 St Ethelburga's Centre for Reconciliation and Peace is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Aurora, RETTILE, Simone Liberali and Tear of Joy. See dates, start times and who's playing. 78 Bishopsgate, EC2N 4AG.
 
@@ -14,4 +14,4 @@ St Ethelburga's Centre for Reconciliation and Peace is a music venue in London l
 
 78 Bishopsgate, EC2N 4AG, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/st-ethelburga-s-centre-for-reconciliation-and-peace/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/st-ethelburga-s-centre-for-reconciliation-and-peace/)*

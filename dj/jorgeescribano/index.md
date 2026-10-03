@@ -1,19 +1,19 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 2 Oct 2026.
+Jorge Escribano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
-Jorge Escribano is a house and techno artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: La Terrrazza, Barcelona on Fri 2 Oct.
+Jorge Escribano is a house and techno artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 3 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 9 Oct 2026 | TBA - Ziecret Location | Berlin |
 
 ## Recently played
 
+- La Terrrazza, Barcelona · Fri, 2 Oct 2026
 - Sunseabar Beach Club, Barcelona · Sun, 30 Aug 2026
 - TBA - Secret Location, London · Sun, 2 Aug 2026
 - THE MAGICK BAR, Rome · Sat, 1 Aug 2026
@@ -21,10 +21,9 @@ Jorge Escribano is a house and techno artist based in Spain, with 83 gigs on sou
 - Fvtvr, Paris · Fri, 3 Jul 2026
 - Club der Visionaere, Berlin · Thu, 2 Jul 2026
 - TBA - Secret Location, Naples · Sat, 27 Jun 2026
-- TBA, London · Sun, 24 May 2026
 
 ## Shares bills with
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

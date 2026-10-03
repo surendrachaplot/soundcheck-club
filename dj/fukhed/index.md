@@ -1,6 +1,6 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+FUKHED is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 FUKHED is a techno and house artist based in Australia, with 58 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ FUKHED is a techno and house artist based in Australia, with 58 gigs on soundche
 
 SPFDJ, cera, dameeeela
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

@@ -1,6 +1,6 @@
 # Moderna
 
-Moderna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
+Moderna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
 
 Moderna is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Berlin, Krakow, Leipzig and Los Angeles and 11 more. Often billed alongside Eli Escobar, G I N A and Daisy O'Dell. Next up: RSO.BERLIN, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Moderna is a techno and house artist based in United States of America, with 47 
 
 Eli Escobar, G I N A, Daisy O'Dell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*

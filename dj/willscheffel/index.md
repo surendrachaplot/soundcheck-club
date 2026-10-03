@@ -1,6 +1,6 @@
 # Will Scheffel
 
-Will Scheffel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Standard Time, Toronto on Sat, 3 Oct 2026.
+Will Scheffel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Standard Time, Toronto on Sat, 3 Oct 2026.
 
 Will Scheffel is a house and minimal artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside House of Lords, me, myself &i and Chloe J. Next up: Standard Time, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Will Scheffel is a house and minimal artist based in Canada, with 10 gigs on sou
 
 House of Lords, me, myself &i, Chloe J
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willscheffel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willscheffel/)*

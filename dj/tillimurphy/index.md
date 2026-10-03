@@ -1,6 +1,6 @@
 # Tilli Murphy
 
-Tilli Murphy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Tilli Murphy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Tilli Murphy is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Goody (UK). Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tilli Murphy is a house and tech house artist based in United Kingdom, with 51 g
 
 Sammy Porter, George Mensah, Goody (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*

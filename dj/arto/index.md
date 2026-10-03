@@ -1,6 +1,6 @@
 # Arto
 
-Arto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
+Arto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
 
 Arto is a techno and house artist based in Estonia, with 31 gigs on soundcheck across Copenhagen and Tallinn. Often billed alongside Tanel Mütt, Pavliuk and klmn. Next up: Culture Box, Copenhagen on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Arto is a techno and house artist based in Estonia, with 31 gigs on soundcheck a
 
 Tanel Mütt, Pavliuk, klmn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arto/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arto/)*

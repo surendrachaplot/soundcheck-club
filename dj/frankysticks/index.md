@@ -1,6 +1,6 @@
 # Franky Sticks
 
-Franky Sticks is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mono, Rotterdam on Sat, 3 Oct 2026.
+Franky Sticks is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mono, Rotterdam on Sat, 3 Oct 2026.
 
 Franky Sticks is a house and club artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Barcelona, Ghent and Rotterdam and 4 more. Often billed alongside Gyatso, Shinshan Salazar and ZEP (NL). Next up: Mono, Rotterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Franky Sticks is a house and club artist based in Netherlands, with 52 gigs on s
 
 Gyatso, Shinshan Salazar, ZEP (NL)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankysticks/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankysticks/)*

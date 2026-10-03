@@ -1,6 +1,6 @@
 # Ricomusic
 
-Ricomusic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 24 Oct 2026.
+Ricomusic is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 24 Oct 2026.
 
 Ricomusic is a house and minimal artist based in Italy, with 12 gigs on soundcheck across Berlin and Rome. Often billed alongside Germano Ventura, Allegra De Angelis and Arapu. Next up: Circolo degli Illuminati, Rome on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ricomusic is a house and minimal artist based in Italy, with 12 gigs on soundche
 
 Germano Ventura, Allegra De Angelis, Arapu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricomusic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricomusic/)*

@@ -1,6 +1,6 @@
 # Tanz Unter Freunden
 
-Tanz Unter Freunden is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Tanz Unter Freunden is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Tanz Unter Freunden is a techno and tech house artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside DAV3, Mathias Birnbaum and Kaminka Merel. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tanz Unter Freunden is a techno and tech house artist based in Germany, with 26 
 
 DAV3, Mathias Birnbaum, Kaminka Merel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzunterfreunden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzunterfreunden/)*

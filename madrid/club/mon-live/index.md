@@ -1,6 +1,6 @@
 # Mon Live
 
-Mon Live is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "TWO LANES - Sala Mon, Madrid" on Thu, 15 Oct 2026.
+Mon Live is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "TWO LANES - Sala Mon, Madrid" on Thu, 15 Oct 2026.
 
 Mon Live is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including TWO LANES. See dates, start times and who's playing. Calle Hilarión Eslava, 36, 28015 Madrid.
 
@@ -14,4 +14,4 @@ Mon Live is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with l
 
 Calle Hilarión Eslava, 36, 28015 Madrid, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mon-live/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mon-live/)*

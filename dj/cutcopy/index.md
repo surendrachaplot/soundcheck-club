@@ -1,6 +1,6 @@
 # Cut Copy
 
-Cut Copy is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+Cut Copy is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
 Cut Copy is a house and electronica artist based in Australia, with 15 gigs on soundcheck across Arkansas, Chicago, Denver and Los Angeles and 6 more. Often billed alongside Crazy P, nimino and ANTIMATTER. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Cut Copy is a house and electronica artist based in Australia, with 15 gigs on s
 
 Crazy P, nimino, ANTIMATTER
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cutcopy/)*

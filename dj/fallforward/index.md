@@ -1,6 +1,6 @@
 # Fall Forward
 
-Fall Forward is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Fall Forward is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Fall Forward is a house and electro artist based in United Kingdom, with 16 gigs on soundcheck across Athens, Bristol and London. Often billed alongside Erol Alkan, DJ Paulette and Special Request. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fall Forward is a house and electro artist based in United Kingdom, with 16 gigs
 
 Erol Alkan, DJ Paulette, Special Request
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fallforward/)*

@@ -1,6 +1,6 @@
 # Just Her
 
-Just Her is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Just Her is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Just Her is a deep house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Braxton, Steve Parry and Dave Seaman. Next up: Bears Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Just Her is a deep house and techno artist based in United Kingdom, with 50 gigs
 
 Braxton, Steve Parry, Dave Seaman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*

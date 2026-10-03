@@ -1,6 +1,6 @@
 # Assyouti
 
-Assyouti is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
+Assyouti is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
 Assyouti is a bass and experimental artist based in Egypt, with 74 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Sara Persico, Jehia and Rafush. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Assyouti is a bass and experimental artist based in Egypt, with 74 gigs on sound
 
 Sara Persico, Jehia, Rafush
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assyouti/)*

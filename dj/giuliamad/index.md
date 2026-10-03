@@ -1,6 +1,6 @@
 # Giulia Mad
 
-Giulia Mad is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
+Giulia Mad is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
 
 Giulia Mad is an afro house and house artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Yhago, Alex Fox and Diego Merino. Next up: Under Bridge Madrid, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Giulia Mad is an afro house and house artist based in Spain, with 16 gigs on sou
 
 Yhago, Alex Fox, Diego Merino
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliamad/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliamad/)*

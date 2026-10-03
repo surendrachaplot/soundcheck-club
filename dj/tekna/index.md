@@ -1,6 +1,6 @@
 # TEKNA
 
-TEKNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club NYX, Amsterdam on Sat, 24 Oct 2026.
+TEKNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club NYX, Amsterdam on Sat, 24 Oct 2026.
 
 TEKNA is a techno and house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Cybersex, DIORA and Technoslave_69. Next up: Club NYX, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ TEKNA is a techno and house artist based in Netherlands, with 41 gigs on soundch
 
 Cybersex, DIORA, Technoslave_69
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekna/)*

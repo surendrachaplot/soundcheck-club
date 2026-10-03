@@ -1,6 +1,6 @@
 # DTM Funk
 
-DTM Funk is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ampere, Antwerp on Sat, 3 Oct 2026.
+DTM Funk is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ampere, Antwerp on Sat, 3 Oct 2026.
 
 DTM Funk is a house and funk / soul artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Lefto Early Bird. Next up: Ampere, Antwerp on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DTM Funk is a house and funk / soul artist based in Belgium, with 89 gigs on sou
 
 AliA, Errol, Lefto Early Bird
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtmfunk/)*

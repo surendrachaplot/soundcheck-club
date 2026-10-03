@@ -1,6 +1,6 @@
 # MIYUU
 
-MIYUU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Socore Factory, Osaka on Thu, 8 Oct 2026.
+MIYUU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Socore Factory, Osaka on Thu, 8 Oct 2026.
 
 MIYUU is a techno and house artist based in Japan, with 39 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside HSC, Cine and Ryogo. Next up: Socore Factory, Osaka on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ MIYUU is a techno and house artist based in Japan, with 39 gigs on soundcheck ac
 
 HSC (1), Cine, Ryogo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*

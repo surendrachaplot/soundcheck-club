@@ -1,6 +1,6 @@
 # Ade Smilez
 
-Ade Smilez is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
+Ade Smilez is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
 
 Ade Smilez is an afro house and amapiano artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Olayemi, European 305 and Shenin Amara. Next up: E1, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ade Smilez is an afro house and amapiano artist based in United Kingdom, with 15
 
 Olayemi, European 305, Shenin Amara
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adesmilez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adesmilez/)*

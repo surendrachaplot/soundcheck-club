@@ -1,6 +1,6 @@
 # zzzzach
 
-zzzzach is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oberon, New York City on Sun, 4 Oct 2026.
+zzzzach is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oberon, New York City on Sun, 4 Oct 2026.
 
 zzzzach is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across Detroit, Los Angeles and New York City. Often billed alongside kuntress, Adelaide and BABEITSPURR. Next up: Oberon, New York City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ zzzzach is a club and ghetto tech artist based in United States of America, with
 
 kuntress, Adelaide (1), BABEITSPURR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

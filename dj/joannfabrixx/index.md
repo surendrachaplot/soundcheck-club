@@ -1,6 +1,6 @@
 # Joann Fabrixx
 
-Joann Fabrixx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
+Joann Fabrixx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
 
 Joann Fabrixx is a techno and house artist based in United States of America, with 19 gigs on soundcheck across New York City and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Prince Rose. Next up: Zebbie's Garden, Washington DC on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Joann Fabrixx is a techno and house artist based in United States of America, wi
 
 Gail Force One, PWRPUFF, Prince Rose
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannfabrixx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannfabrixx/)*

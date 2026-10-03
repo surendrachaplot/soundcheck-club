@@ -1,6 +1,6 @@
 # Biesmans
 
-Biesmans is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Biesmans is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 Biesmans is a house and techno artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Johannes Albert, Ede and eveava. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Biesmans is a house and techno artist based in Belgium, with 63 gigs on soundche
 
 Johannes Albert, Ede, eveava
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*

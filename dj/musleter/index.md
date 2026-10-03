@@ -1,6 +1,6 @@
 # Musleter
 
-Musleter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+Musleter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 Musleter is a house and techno artist based in Poland, with 9 gigs on soundcheck across Hong Kong, London, Prague and Warsaw. Often billed alongside Dedenia, Edvvin and Mambi Dexter. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Musleter is a house and techno artist based in Poland, with 9 gigs on soundcheck
 
 Dedenia, Edvvin, Mambi Dexter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musleter/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musleter/)*

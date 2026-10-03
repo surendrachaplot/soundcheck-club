@@ -1,6 +1,6 @@
 # chlo333e
 
-chlo333e is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
+chlo333e is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 chlo333e is a trance and experimental artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and Manchester. Often billed alongside Princess Elf Bar, Willow J and maevie. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ chlo333e is a trance and experimental artist based in United Kingdom, with 15 gi
 
 Princess Elf Bar, Willow J, maevie
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*

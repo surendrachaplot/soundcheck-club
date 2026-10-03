@@ -1,6 +1,6 @@
 # Salem X
 
-Salem X is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
+Salem X is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
 
 Salem X is a techno and industrial artist based in Mexico, with 25 gigs on soundcheck across Mexico City. Often billed alongside JHAXIE, Ironick and Kid Gloss. Next up: Bajo Circuito, Mexico City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Salem X is a techno and industrial artist based in Mexico, with 25 gigs on sound
 
 JHAXIE, Ironick, Kid Gloss
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salemx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salemx/)*

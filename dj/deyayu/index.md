@@ -1,6 +1,6 @@
 # Deyayu
 
-Deyayu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BARDO, Milan on Thu, 8 Oct 2026.
+Deyayu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BARDO, Milan on Thu, 8 Oct 2026.
 
 Deyayu is a techno and house artist based in Italy, with 17 gigs on soundcheck across Berlin, London, Milan and Naples and 1 more. Often billed alongside Der, Joe Rosh and Jonny Rock. Next up: BARDO, Milan on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Deyayu is a techno and house artist based in Italy, with 17 gigs on soundcheck a
 
 Der, Joe Rosh, Jonny Rock
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deyayu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deyayu/)*

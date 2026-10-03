@@ -1,6 +1,6 @@
 # Stidilä
 
-Stidilä is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Lauantaijatkot Stidilässä – Saint Nia & Sala" on Sun, 4 Oct 2026.
+Stidilä is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Lauantaijatkot Stidilässä – Saint Nia & Sala" on Sun, 4 Oct 2026.
 
 Stidilä is a music venue in Helsinki listed on soundcheck. 6 upcoming gigs, with line-ups including Basit Soomro, Huijari, Kyle Bower and Saint Nia and 1 more. See dates, start times and who's playing. Kaikukatu 4, 00101 Helsinki, Finland.
 
@@ -19,4 +19,4 @@ Stidilä is a music venue in Helsinki listed on soundcheck. 6 upcoming gigs, wit
 
 Kaikukatu 4, 00101 Helsinki, Finland, Helsinki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*

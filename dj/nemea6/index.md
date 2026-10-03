@@ -1,6 +1,6 @@
 # Nemea6
 
-Nemea6 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonnefooi, Brussels on Fri, 2 Oct 2026.
+Nemea6 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonnefooi, Brussels on Fri, 2 Oct 2026.
 
 Nemea6 is a techno and trance artist, with 7 gigs on soundcheck across Brussels. Often billed alongside Kat (BE), Insolence and AZA. Next up: Bonnefooi, Brussels on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Nemea6 is a techno and trance artist, with 7 gigs on soundcheck across Brussels.
 
 ## Recently played
 
+- Bonnefooi, Brussels · Fri, 2 Oct 2026
 - Usquare, Brussels · Fri, 11 Sept 2026
 - Château Moderne, Brussels · Fri, 21 Aug 2026
 - C12, Brussels · Fri, 1 May 2026
@@ -23,4 +24,4 @@ Nemea6 is a techno and trance artist, with 7 gigs on soundcheck across Brussels.
 
 Kat (BE), Insolence, AZA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nemea6/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nemea6/)*

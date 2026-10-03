@@ -1,6 +1,6 @@
 # Arondight
 
-Arondight is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flac, Seoul on Sat, 3 Oct 2026.
+Arondight is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flac, Seoul on Sat, 3 Oct 2026.
 
 Arondight is a deep house and afro house artist, with 25 gigs on soundcheck across Seoul. Often billed alongside Beijo Bae, Onizmik and Unkelchubbz. Next up: Flac, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Arondight is a deep house and afro house artist, with 25 gigs on soundcheck acro
 
 Beijo Bae, Onizmik, Unkelchubbz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*

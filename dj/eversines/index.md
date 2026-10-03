@@ -1,6 +1,6 @@
 # Eversines
 
-Eversines is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
+Eversines is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
 
 Eversines is a techno and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Marie K, Pieter Jansen and RDS. Next up: FOLD, London on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Eversines is a techno and house artist based in Netherlands, with 95 gigs on sou
 
 Marie K (1), Pieter Jansen, RDS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*

@@ -1,6 +1,6 @@
 # Cybebe
 
-Cybebe is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at CHICO, Mexico City on Sat, 3 Oct 2026.
+Cybebe is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at CHICO, Mexico City on Sat, 3 Oct 2026.
 
 Cybebe is a techno and downtempo artist, with 33 gigs on soundcheck across Basel and Mexico City. Often billed alongside Astroboii, Niño Arbol and Phanta. Next up: CHICO, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cybebe is a techno and downtempo artist, with 33 gigs on soundcheck across Basel
 
 Astroboii, Niño Arbol, Phanta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cybebe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cybebe/)*

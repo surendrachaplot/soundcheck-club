@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
+I. JORDAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, with 120 gigs on
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

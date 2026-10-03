@@ -1,6 +1,6 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Under The Arches, Leeds on Sat, 3 Oct 2026.
+Mella Dee is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Under The Arches, Leeds on Sat, 3 Oct 2026.
 
 Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Under The Arches, Leeds on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on
 
 Saoirse, Reeshy, Locklead
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

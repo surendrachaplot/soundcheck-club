@@ -1,6 +1,6 @@
 # Lancer (2)
 
-Lancer (2) is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lauschangriff, Berlin on Fri, 16 Oct 2026.
+Lancer (2) is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lauschangriff, Berlin on Fri, 16 Oct 2026.
 
 Lancer is an italo disco and disco artist based in Chile, with 40 gigs on soundcheck across Berlin and Paris. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: Lauschangriff, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Lancer is an italo disco and disco artist based in Chile, with 40 gigs on soundc
 
 Robot Girl, Audio Vacanze, Marko König
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*

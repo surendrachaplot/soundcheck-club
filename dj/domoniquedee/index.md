@@ -1,6 +1,6 @@
 # Domonique Dee
 
-Domonique Dee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
+Domonique Dee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
 
 Domonique Dee is a house and techno artist, with 10 gigs on soundcheck across Sydney. Often billed alongside Casual P, Deens and Digi Doll. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Domonique Dee is a house and techno artist, with 10 gigs on soundcheck across Sy
 
 Casual P, Deens, Digi Doll
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domoniquedee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domoniquedee/)*

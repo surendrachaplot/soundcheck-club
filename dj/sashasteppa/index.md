@@ -1,6 +1,6 @@
 # Sasha Steppa
 
-Sasha Steppa is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
+Sasha Steppa is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 4 Dec 2026.
 
 Sasha Steppa is a dub and drum & bass artist, with 14 gigs on soundcheck across Bristol, Geneva and London. Often billed alongside Ray Keith, Dubkasm and Gorgon Sound. Next up: fabric, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sasha Steppa is a dub and drum & bass artist, with 14 gigs on soundcheck across 
 
 Ray Keith, Dubkasm, Gorgon Sound
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashasteppa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashasteppa/)*

@@ -1,6 +1,6 @@
 # Markus Saarländer
 
-Markus Saarländer is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Quarters, Brighton on Sat, 12 Dec 2026.
+Markus Saarländer is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarters, Brighton on Sat, 12 Dec 2026.
 
 Markus Saarländer is a techno and progressive house artist based in Germany, with 33 gigs on soundcheck across Brighton. Often billed alongside Caroline Banx, Koipinoxia and POoK. Next up: Quarters, Brighton on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Markus Saarländer is a techno and progressive house artist based in Germany, wi
 
 Caroline Banx, Koipinoxia, POoK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussaarlander/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussaarlander/)*

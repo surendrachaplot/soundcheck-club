@@ -1,6 +1,6 @@
 # Nassstya
 
-Nassstya is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Slot, Hamburg on Sat, 24 Oct 2026.
+Nassstya is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Slot, Hamburg on Sat, 24 Oct 2026.
 
 Nassstya is a bass and drum & bass artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Sarah Q, Usus and ASSISTANT DJ. Next up: Slot, Hamburg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nassstya is a bass and drum & bass artist based in Germany, with 16 gigs on soun
 
 Sarah Q, Usus, ASSISTANT DJ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nassstya/)*

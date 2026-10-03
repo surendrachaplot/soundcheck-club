@@ -1,6 +1,6 @@
 # Eyesdice
 
-Eyesdice is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuchs2, Prague on Fri, 9 Oct 2026.
+Eyesdice is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fuchs2, Prague on Fri, 9 Oct 2026.
 
 Eyesdice is a techno and italo disco artist based in Poland, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Berlin Bunny, Franz Scala and Paty Vapor. Next up: Fuchs2, Prague on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Eyesdice is a techno and italo disco artist based in Poland, with 59 gigs on sou
 
 Berlin Bunny, Franz Scala, Paty Vapor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

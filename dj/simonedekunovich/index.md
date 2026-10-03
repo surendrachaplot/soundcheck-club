@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
+Simone de Kunovich is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
 
 Simone de Kunovich is a house and techno artist based in Italy, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: TBA - Santa Maria della Pietà, Rome on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Simone de Kunovich is a house and techno artist based in Italy, with 155 gigs on
 
 PARAMIDA, Dante (H501), Pascal Moscheni
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

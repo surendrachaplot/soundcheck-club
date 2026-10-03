@@ -1,6 +1,6 @@
 # Static Bloom (DE)
 
-Static Bloom (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+Static Bloom (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 Static Bloom (DE) is a house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Munich, Stuttgart and Vancouver. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Static Bloom (DE) is a house and techno artist based in Germany, with 17 gigs on
 
 DASH (SLO), Aaron Leviz, Kongusto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staticbloomde/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staticbloomde/)*

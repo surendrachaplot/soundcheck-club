@@ -1,6 +1,6 @@
 # Doza
 
-Doza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chop Suey, Seattle on Sun, 4 Oct 2026.
+Doza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chop Suey, Seattle on Sun, 4 Oct 2026.
 
 Doza is a house and tech house artist based in United States of America, with 29 gigs on soundcheck across Los Angeles, Marseille, Mexico City and Portland and 2 more. Often billed alongside Pezzner, Michael Manahan and Brian Lyons. Next up: Chop Suey, Seattle on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Doza is a house and tech house artist based in United States of America, with 29
 
 Pezzner, Michael Manahan, Brian Lyons
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doza/)*

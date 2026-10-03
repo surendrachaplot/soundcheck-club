@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Take A Trip with Mario Cotto" on Fri, 2 Oct 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Front Street Clash" on Sat, 3 Oct 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 10 upcoming gigs, with line-ups including ADAB, Lady Prowl, Mario Cotto and MIRA MIRA and 2 more. See dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 9 upcoming gigs, with line-ups including ADAB, Lady Prowl, MIRA MIRA and Nine of Wands and 2 more. See dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Take A Trip with Mario Cotto | Mario Cotto |
 | Sat, 3 Oct 2026 | Front Street Clash |  |
 | Thu, 8 Oct 2026 | Spatial Awareness - DJ Claudia G |  |
 | Thu, 8 Oct 2026 | Lizzie Steiner - Reluctant Princess: Listening Session |  |
@@ -23,4 +22,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

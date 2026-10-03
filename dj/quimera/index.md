@@ -1,8 +1,8 @@
 # Quimera
 
-Quimera is a EBM and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Sat, 3 Oct 2026.
+Quimera is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Edifício Touring, Rio-de-janeiro on Sat, 3 Oct 2026.
 
-Quimera is an ebm and post-punk artist, with 4 gigs on soundcheck across Rio De Janeiro and Sao Paulo. Often billed alongside Alírio, Cashu and Clementaum. Next up: Edifício Touring, Rio De Janeiro on Sat 3 Oct.
+Quimera is a techno and house artist, with 4 gigs on soundcheck across Rio De Janeiro and Sao Paulo. Often billed alongside Alírio, Cashu and Clementaum. Next up: Edifício Touring, Rio De Janeiro on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Quimera is an ebm and post-punk artist, with 4 gigs on soundcheck across Rio De 
 
 Alírio, Cashu, Clementaum
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimera/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimera/)*

@@ -1,6 +1,6 @@
 # Frank Heise
 
-Frank Heise is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Frank Heise is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Frank Heise is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Budapest, Copenhagen and Istanbul and 4 more. Often billed alongside Philipp Drube, DINA and Mademoisel. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Frank Heise is a techno and trance artist based in Germany, with 24 gigs on soun
 
 Philipp Drube, DINA, Mademoisel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankheise/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankheise/)*

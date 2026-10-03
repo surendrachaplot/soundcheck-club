@@ -1,6 +1,6 @@
 # Ampe
 
-Ampe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Funke, Ghent on Sat, 17 Oct 2026.
+Ampe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Funke, Ghent on Sat, 17 Oct 2026.
 
 Ampe is a techno and trance artist based in Belgium, with 69 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Keyser, Corvus Ex and Timmerman. Next up: Funke, Ghent on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ampe is a techno and trance artist based in Belgium, with 69 gigs on soundcheck 
 
 Keyser, Corvus Ex, Timmerman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*

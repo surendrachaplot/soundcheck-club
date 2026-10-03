@@ -1,15 +1,14 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 2 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX, Mexico City on Sun, 4 Oct 2026.
 
-Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: Polifonic.MX, Guadalajara on Fri 2 Oct.
+Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Polifonic.MX | Guadalajara |
-| Sun, 4 Oct 2026 | TBA | Mexico City |
+| Sun, 4 Oct 2026 | TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX | Mexico City |
 | Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
@@ -19,6 +18,7 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on sou
 
 ## Recently played
 
+- Polifonic.MX, Guadalajara · Fri, 2 Oct 2026
 - H0L0, New York City · Sat, 26 Sept 2026
 - Jolene Downtown Miami, Miami · Fri, 25 Sept 2026
 - smartbar, Chicago · Fri, 18 Sept 2026
@@ -26,10 +26,9 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on sou
 - TV Lounge, Detroit · Fri, 14 Aug 2026
 - TV Lounge, Detroit · Thu, 13 Aug 2026
 - Tangent Gallery, Detroit · Thu, 13 Aug 2026
-- Signal, New York City · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Doudou MD, Tomoki Tamura, Cabanne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

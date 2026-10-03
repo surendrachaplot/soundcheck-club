@@ -1,6 +1,6 @@
 # LALØCA
 
-LALØCA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
+LALØCA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
 LALØCA is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside 4NOUK, 9LALEY and Ally. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LALØCA is a techno and trance artist based in Germany, with 4 gigs on soundchec
 
 4NOUK, 9LALEY, Ally (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laloca/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laloca/)*

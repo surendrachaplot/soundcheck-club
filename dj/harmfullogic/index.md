@@ -1,6 +1,6 @@
 # Harmful Logic
 
-Harmful Logic is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
+Harmful Logic is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
 
 Harmful Logic is a breakcore and hardcore artist based in Ireland, with 27 gigs on soundcheck across Belfast, Budapest, Dublin and Liverpool and 8 more. Often billed alongside DJ Kuroneko, migeru and E The Artist. Next up: The DBA, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Harmful Logic is a breakcore and hardcore artist based in Ireland, with 27 gigs 
 
 DJ Kuroneko, migeru, E The Artist
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harmfullogic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harmfullogic/)*

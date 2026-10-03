@@ -1,6 +1,6 @@
 # Diego Knows
 
-Diego Knows is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
+Diego Knows is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
 
 Diego Knows is a house and deep house artist based in United States of America, with 21 gigs on soundcheck across Istanbul, Lisbon, New York City and Washington DC. Often billed alongside Pedro Goya, Gio Gulez and 3C. Next up: Flash, Washington DC on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Diego Knows is a house and deep house artist based in United States of America, 
 
 Pedro Goya, Gio Gulez, 3C
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*

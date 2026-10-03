@@ -1,6 +1,6 @@
 # LEMME
 
-LEMME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
+LEMME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
 LEMME is a techno and house artist based in Italy, with 15 gigs on soundcheck across Milan and Turin. Often billed alongside Galilea, Ragliaz and AMBRA. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ LEMME is a techno and house artist based in Italy, with 15 gigs on soundcheck ac
 
 Galilea, Ragliaz, AMBRA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemme/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemme/)*

@@ -1,6 +1,6 @@
 # S*Y*N*K
 
-S*Y*N*K is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
+S*Y*N*K is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
 S*Y*N*K is a techno and hardcore artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 16 more. Often billed alongside VRODAK, Dres Codex and Frida Henson. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ S*Y*N*K is a techno and hardcore artist based in Germany, with 27 gigs on soundc
 
 VRODAK, Dres Codex, Frida Henson
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*

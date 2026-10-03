@@ -1,6 +1,6 @@
 # Ben Zo
 
-Ben Zo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Windrush Bar / Pequeño Restaurant & Bar, London on Sat, 3 Oct 2026.
+Ben Zo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Windrush Bar / Pequeño Restaurant & Bar, London on Sat, 3 Oct 2026.
 
 Ben Zo is a techno and house artist based in Philippines, with 143 gigs on soundcheck across Cologne, Dundee, Ghent and Leipzig and 4 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: Windrush Bar / Pequeño Restaurant & Bar, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Ben Zo is a techno and house artist based in Philippines, with 143 gigs on sound
 
 cruz ctrl, STEEN, David Lunch
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*

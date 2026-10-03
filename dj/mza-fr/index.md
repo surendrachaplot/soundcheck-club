@@ -1,6 +1,6 @@
 # MZA (FR)
 
-MZA (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+MZA (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
 
 MZA (FR) is a techno and trance artist based in France, with 47 gigs on soundcheck across Antwerp, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Butschi, Disjoli and no.salt. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ MZA (FR) is a techno and trance artist based in France, with 47 gigs on soundche
 
 Butschi, Disjoli, no.salt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*

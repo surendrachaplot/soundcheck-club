@@ -1,6 +1,6 @@
 # Ozzy Riot
 
-Ozzy Riot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+Ozzy Riot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 Ozzy Riot is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Mark Stanton, Belocca and Hammerschmidt. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Ozzy Riot is a techno and house artist based in Germany, with 36 gigs on soundch
 
 Mark Stanton, Belocca, Hammerschmidt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzyriot/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzyriot/)*

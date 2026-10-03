@@ -1,6 +1,6 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Viikatory is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Viikatory is a techno and electro artist, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Viikatory is a techno and electro artist, with 98 gigs on soundcheck across Amst
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

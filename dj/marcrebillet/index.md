@@ -1,6 +1,6 @@
 # Marc Rebillet
 
-Marc Rebillet is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Union Market, Washington DC on Sat, 3 Oct 2026.
+Marc Rebillet is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Union Market, Washington DC on Sat, 3 Oct 2026.
 
 Marc Rebillet is a house and electronica artist based in United States of America, with 21 gigs on soundcheck across Bali, Barcelona, Budapest and Dublin and 13 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: Union Market, Washington DC on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Marc Rebillet is a house and electronica artist based in United States of Americ
 
 WhoMadeWho, I Hate Models, Anyma
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*

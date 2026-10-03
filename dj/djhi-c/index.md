@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
+DJ HI-C is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 77 gigs on soundcheck across Amsterdam, Athens, Hong Kong and Kyoto and 8 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Club Daphnia, Osaka on Sat 3 Oct.
 
@@ -9,7 +9,6 @@ DJ HI-C is a techno and house artist based in Japan, with 77 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Club Daphnia | Osaka |
-| Sat, 3 Oct 2026 | Aoyama Hachi | Tokyo |
 | Fri, 9 Oct 2026 | Move | West-wales |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
@@ -30,4 +29,4 @@ DJ HI-C is a techno and house artist based in Japan, with 77 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

@@ -1,6 +1,6 @@
 # Blixa
 
-Blixa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Blixa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Blixa is a club and house artist based in Argentina, with 20 gigs on soundcheck across London. Often billed alongside FAFF, Hannah Holland and Karl Karlson. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Blixa is a club and house artist based in Argentina, with 20 gigs on soundcheck 
 
 FAFF, Hannah Holland, Karl Karlson
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blixa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blixa/)*

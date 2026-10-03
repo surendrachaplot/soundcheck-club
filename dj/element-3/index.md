@@ -1,6 +1,6 @@
 # Element (3)
 
-Element (3) is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spread, Tokyo on Fri, 23 Oct 2026.
+Element (3) is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spread, Tokyo on Fri, 23 Oct 2026.
 
 Element is a dub and bass artist based in Japan, with 34 gigs on soundcheck across Berlin, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside 1TA, Lil Mofo and pnnikin. Next up: Spread, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Element is a dub and bass artist based in Japan, with 34 gigs on soundcheck acro
 
 1TA (1), Lil Mofo, pnnikin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*

@@ -1,6 +1,6 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Map.ache is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Map.ache is a house and techno artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Map.ache is a house and techno artist based in Germany, with 99 gigs on soundche
 
 ## Recently played
 
+- Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Haus der Visionäre, Berlin · Sat, 26 Sept 2026
 - Bassiani, Tbilisi · Fri, 25 Sept 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
@@ -22,10 +23,9 @@ Map.ache is a house and techno artist based in Germany, with 99 gigs on soundche
 - Those Who Dance, Lisbon · Sat, 13 Jun 2026
 - Frankhan Selectist, Istanbul · Fri, 12 Jun 2026
 - Chinastraat, Ghent · Sat, 30 May 2026
-- TBA - Downtown Los Angeles, Los Angeles · Sat, 23 May 2026
 
 ## Shares bills with
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*

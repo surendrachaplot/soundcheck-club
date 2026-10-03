@@ -1,6 +1,6 @@
 # Dizzy (PL)
 
-Dizzy (PL) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ciało, Wroclaw on Sat, 31 Oct 2026.
+Dizzy (PL) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ciało, Wroclaw on Sat, 31 Oct 2026.
 
 Dizzy (PL) is a techno and tech house artist based in Poland, with 18 gigs on soundcheck across Berlin, Krakow, Prague and Vienna and 2 more. Often billed alongside 7CIRCLE, Forest (PL) and Hekato. Next up: Ciało, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dizzy (PL) is a techno and tech house artist based in Poland, with 18 gigs on so
 
 7CIRCLE, Forest (PL), Hekato
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*

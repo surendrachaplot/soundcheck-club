@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
+Shy One is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
 Shy One is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: FOLD, London on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Shy One is a house and techno artist based in United Kingdom, with 129 gigs on s
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

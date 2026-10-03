@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Osaka, Osaka on Fri, 2 Oct 2026.
+Riordan is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Riordan is a house and tech house artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Circus Osaka, Osaka on Fri 2 Oct.
+Riordan is a house and tech house artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: 1015 Folsom, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 9 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Quartyard | San Diego |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
@@ -23,6 +22,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 126 gigs 
 
 ## Recently played
 
+- Circus Osaka, Osaka · Fri, 2 Oct 2026
 - Circus Tokyo, Tokyo · Thu, 1 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Wed, 19 Aug 2026
@@ -30,10 +30,9 @@ Riordan is a house and tech house artist based in United Kingdom, with 126 gigs 
 - Burgess Park, London · Fri, 31 Jul 2026
 - Bronze Beach, Amsterdam · Sun, 26 Jul 2026
 - Boomerang Beach, The Hague · Fri, 24 Jul 2026
-- Knockdown Center, New York City · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Gorgon City, Prunk, Jackie Hollander
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

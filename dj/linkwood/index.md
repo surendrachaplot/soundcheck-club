@@ -1,6 +1,6 @@
 # Linkwood
 
-Linkwood is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Belle Angele, Edinburgh on Sat, 10 Oct 2026.
+Linkwood is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Belle Angele, Edinburgh on Sat, 10 Oct 2026.
 
 Linkwood is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona, Edinburgh, Glasgow and Helsinki and 2 more. Often billed alongside DJ Dribbler, damside and Athens of the North. Next up: La Belle Angele, Edinburgh on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Linkwood is a house and disco artist based in United Kingdom, with 22 gigs on so
 
 DJ Dribbler, damside, Athens of the North
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkwood/)*

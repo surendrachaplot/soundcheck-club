@@ -1,6 +1,6 @@
 # J.Müller
 
-J.Müller is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at HWK, London on Fri, 16 Oct 2026.
+J.Müller is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at HWK, London on Fri, 16 Oct 2026.
 
 J.Müller is an afro house and house artist, with 11 gigs on soundcheck across London and Tokyo. Often billed alongside C4LYPSO, DATGRUVEE and Bussa. Next up: HWK, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ J.Müller is an afro house and house artist, with 11 gigs on soundcheck across L
 
 C4LYPSO, DATGRUVEE, Bussa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmuller/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmuller/)*

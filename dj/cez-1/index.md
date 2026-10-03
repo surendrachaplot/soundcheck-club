@@ -1,6 +1,6 @@
 # Cez (1)
 
-Cez (1) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
+Cez (1) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club der Visionaere, Berlin on Sat, 3 Oct 2026.
 
 Cez is a deep house and techno artist based in France, with 28 gigs on soundcheck across Berlin, Lisbon and Nantes. Often billed alongside Lenny Mailleau, Hubble and Michel7000. Next up: Club der Visionaere, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cez is a deep house and techno artist based in France, with 28 gigs on soundchec
 
 Lenny Mailleau, Hubble, Michel7000
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cez-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cez-1/)*

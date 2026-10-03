@@ -1,6 +1,6 @@
 # Chris SSG
 
-Chris SSG is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
+Chris SSG is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
 
 Chris SSG is an ambient and downtempo artist based in Japan, with 11 gigs on soundcheck across Brussels and Tokyo. Often billed alongside David Dicembre, Akie and Sapphire Slows. Next up: Space Orbit, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Chris SSG is an ambient and downtempo artist based in Japan, with 11 gigs on sou
 
 David Dicembre, Akie, Sapphire Slows
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismnmlssgs/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismnmlssgs/)*

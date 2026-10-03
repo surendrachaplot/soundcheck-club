@@ -1,6 +1,6 @@
 # LIZ-ZIE (2)
 
-LIZ-ZIE (2) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ramona, Manchester on Sat, 31 Oct 2026.
+LIZ-ZIE (2) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ramona, Manchester on Sat, 31 Oct 2026.
 
 LIZ-ZIE is a techno and garage artist based in United Kingdom, with 31 gigs on soundcheck across London, Manchester, Newcastle and Nottingham. Often billed alongside SUPPLY, CICELY and Dunman. Next up: Ramona, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LIZ-ZIE is a techno and garage artist based in United Kingdom, with 31 gigs on s
 
 SUPPLY, CICELY, Dunman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liz-zie-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liz-zie-2/)*

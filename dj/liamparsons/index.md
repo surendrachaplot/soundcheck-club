@@ -1,6 +1,6 @@
 # Liam Parsons
 
-Liam Parsons is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Prospect Building, Bristol on Sat, 24 Oct 2026.
+Liam Parsons is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Prospect Building, Bristol on Sat, 24 Oct 2026.
 
 Liam Parsons is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and London. Often billed alongside teleopath, S_STEELE and Joshua James. Next up: The Prospect Building, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Liam Parsons is a house and tech house artist based in United Kingdom, with 21 g
 
 teleopath, S_STEELE, Joshua James
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*

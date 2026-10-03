@@ -1,6 +1,6 @@
 # Kennedy (UK)
 
-Kennedy (UK) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Sat, 24 Oct 2026.
+Kennedy (UK) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Sat, 24 Oct 2026.
 
 Kennedy (UK) is a house and electro artist based in United Kingdom, with 13 gigs on soundcheck across Leeds and London. Often billed alongside Henry Bennett, Oliver Kristian and Isaac Frost. Next up: The Greyhound, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kennedy (UK) is a house and electro artist based in United Kingdom, with 13 gigs
 
 Henry Bennett, Oliver Kristian, Isaac Frost
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedyuk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedyuk/)*

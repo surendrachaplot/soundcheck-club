@@ -1,14 +1,13 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 2 Oct 2026.
+CamelPhat is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
-CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Hï Ibiza, Ibiza on Fri 2 Oct.
+CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Tap1, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Tap1 | Copenhagen |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Roxy | Prague |
@@ -23,6 +22,7 @@ CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Fri, 2 Oct 2026
 - Ciudad Del Rock, Madrid · Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 25 Sept 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
@@ -30,10 +30,9 @@ CamelPhat is a techno and house artist based in United Kingdom, with 213 gigs on
 - Hï Ibiza, Ibiza · Fri, 11 Sept 2026
 - La Clairière, Paris · Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 4 Sept 2026
-- Hï Ibiza, Ibiza · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
