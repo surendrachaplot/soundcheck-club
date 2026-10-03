@@ -1,8 +1,8 @@
 # Ornella
 
-Ornella is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
+Ornella is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
 
-Ornella is a techno and hardcore artist based in Portugal, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
+Ornella is a techno and industrial artist based in Portugal, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
 
 ## Upcoming shows
 

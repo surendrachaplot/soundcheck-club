@@ -1,13 +1,14 @@
 # FLEDtokyo
 
-FLEDtokyo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Koara, Tokyo on Tue, 13 Oct 2026.
+FLEDtokyo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Débris, Tokyo on Wed, 7 Oct 2026.
 
-FLEDtokyo is a house and techno artist based in France, with 98 gigs on soundcheck across Tokyo. Often billed alongside kubo_ken_1_low, Kajitsu and Incarnated Sound. Next up: Koara, Tokyo on Tue 13 Oct.
+FLEDtokyo is a house and techno artist based in France, with 99 gigs on soundcheck across Tokyo. Often billed alongside kubo_ken_1_low, Kajitsu and Incarnated Sound. Next up: Débris, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Débris | Tokyo |
 | Tue, 13 Oct 2026 | Koara | Tokyo |
 
 ## Recently played

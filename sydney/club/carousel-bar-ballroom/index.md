@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gallery: DJ SWISHERMAN [ES], Deaf Toucan, FUKHED, DAYZZI" on Sat, 3 Oct 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "[Cancelled] Gallery: DJ SWISHERMAN [ES], Deaf Toucan, FUKHED, DAYZZI" on Sat, 3 Oct 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Covsky, DAYZZI, Deaf Toucan and DJ SWISHERMAN and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -8,7 +8,7 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Gallery: DJ SWISHERMAN [ES], Deaf Toucan, FUKHED, DAYZZI | DAYZZI, DJ SWISHERMAN, Deaf Toucan, FUKHED |
+| Sat, 3 Oct 2026 | [Cancelled] Gallery: DJ SWISHERMAN [ES], Deaf Toucan, FUKHED, DAYZZI | DAYZZI, DJ SWISHERMAN, Deaf Toucan, FUKHED |
 | Fri, 9 Oct 2026 | ★ Carousel Fridays ★ Memory Lane ★ Friday 9th October 2026 ★ | Covsky |
 | Sat, 10 Oct 2026 | ★ S.A.S.H Sydney x Conspiracy ★ Cosmjn ★ Saturday 10th October ★ |  |
 | Fri, 16 Oct 2026 | KiNK [Sydney] | KiNK |

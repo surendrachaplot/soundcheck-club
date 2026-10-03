@@ -1,8 +1,8 @@
 # Coda
 
-Coda is a music venue in Toronto with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jay de Lys" on Sat, 3 Oct 2026.
+Coda is a music venue in Toronto with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jay de Lys" on Sat, 3 Oct 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with line-ups including AJ Christou, A Little Sound, Because of Art and Biscits and 2 more. See dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 19 upcoming gigs, with line-ups including AJ Christou, A Little Sound, Because of Art and Biscits and 2 more. See dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Coda is a music venue in Toronto listed on soundcheck. 18 upcoming gigs, with li
 | Sat, 17 Oct 2026 | Because of Art | Because of Art |
 | Fri, 23 Oct 2026 | Luuk van Dijk | Luuk van Dijk |
 | Fri, 30 Oct 2026 | Classmatic | Classmatic |
+| Sat, 31 Oct 2026 | The Freaks Come Out x CODA - Halloween |  |
 | Fri, 6 Nov 2026 | Skream | Skream |
-| Sat, 7 Nov 2026 | MALUGI | MALUGI |
 
 ## Address
 

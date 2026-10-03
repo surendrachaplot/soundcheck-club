@@ -1,8 +1,8 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Montreal on Sat, 3 Oct 2026.
+Moaad BKR is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Montreal on Sat, 3 Oct 2026.
 
-Moaad BKR is a house and techno artist based in Canada, with 67 gigs on soundcheck across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside Metizo, CPR Annie and Daura. Next up: TBA, Montreal on Sat 3 Oct.
+Moaad BKR is a house and techno artist based in Canada, with 68 gigs on soundcheck across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside Metizo, CPR Annie and Daura. Next up: TBA, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Moaad BKR is a house and techno artist based in Canada, with 67 gigs on soundche
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Montreal |
 | Thu, 22 Oct 2026 | Système | Montreal |
+| Fri, 23 Oct 2026 | Salon Daomé | Montreal |
 
 ## Recently played
 

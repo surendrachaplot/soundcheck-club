@@ -1,8 +1,8 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
 
-KIRSTY is a techno and house artist based in Ireland, with 73 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: The Club House at Gianpula Village, Malta on Sat 3 Oct.
+KIRSTY is a techno and hardcore artist based in Ireland, with 74 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: The Club House at Gianpula Village, Malta on Sat 3 Oct.
 
 ## Upcoming shows
 

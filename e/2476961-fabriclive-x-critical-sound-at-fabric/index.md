@@ -1,6 +1,6 @@
 # FABRICLIVE X Critical Sound at fabric
 
-FABRICLIVE X Critical Sound at fabric on Fri 23 Oct, London. 20 artists: Amoss, Dub Phizix, Envy and Gino and 16 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+FABRICLIVE X Critical Sound at fabric on Fri 23 Oct, London. 20 artists: Amoss, Dub Phizix, EN:VY and Gino and 16 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ FABRICLIVE X Critical Sound at fabric on Fri 23 Oct, London. 20 artists: Amoss, 
 
 - Amoss
 - Dub Phizix
-- Envy
+- EN:VY
 - Gino
 - Jakes
 - Kasra

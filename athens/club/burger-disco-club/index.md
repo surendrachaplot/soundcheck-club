@@ -12,7 +12,7 @@ Burger Disco Club is a music venue in Athens listed on soundcheck. 5 upcoming gi
 | Sun, 4 Oct 2026 | SYNASTRY | G. Fameliaris |
 | Sun, 15 Nov 2026 | SPACE ODYSSEY | Roubi Roubi Roubi, Vladimir Ivkovic |
 | Fri, 20 Nov 2026 | S.I.Z.E | ClubKid, Sedef Adasï |
-| Sun, 6 Dec 2026 | HOUSE ON THE BEACH | Lil' Louis |
+| Sun, 6 Dec 2026 | HOUSE ON THE BEACH ( new date 1st November) | Lil' Louis |
 
 ## Address
 

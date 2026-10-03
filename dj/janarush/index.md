@@ -1,14 +1,15 @@
 # Jana Rush
 
-Jana Rush is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 17 Oct 2026.
+Jana Rush is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 17 Oct 2026.
 
-Jana Rush is a footwork and house artist based in United States of America, with 46 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 6 more. Often billed alongside Traxman, DJ Hank (US) and DJ Spinn. Next up: Bossa Nova Civic Club, New York City on Sat 17 Oct.
+Jana Rush is a footwork and house artist based in United States of America, with 47 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 6 more. Often billed alongside Traxman, DJ Hank (US) and DJ Spinn. Next up: Bossa Nova Civic Club, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 23 Oct 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 

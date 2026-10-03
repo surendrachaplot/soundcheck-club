@@ -1,8 +1,8 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BPM Society x Club Eiger" on Sat, 3 Oct 2026.
+Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BPM Society x Club Eiger" on Sat, 3 Oct 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Bobby., Decka, Ekkel and Ewan Pearson and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including Bobby., BUTCHABOI, Decka and Ekkel and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 

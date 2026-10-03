@@ -1,8 +1,8 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KTA.MKE - Progressive House on Open Air Terrace and Indoor Club" on Sat, 3 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KTA.MKE - Progressive House on Open Air Terrace and Indoor Club" on Sat, 3 Oct 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Friday, Blossmbae, Filialleiter and KANIKA and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Friday, Blossmbae, Filialleiter and KANIKA and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
@@ -11,6 +11,7 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 | Sat, 3 Oct 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Silversurfer, Tallah |
 | Sat, 3 Oct 2026 | BAD IDEA. — Tasting & Rave by MATURBO | Blossmbae, KANIKA |
 | Fri, 9 Oct 2026 | Cancelled OBXENE TAG DER KULTUR  | La Rod's, Nothing Left, VNVK |
+| Fri, 9 Oct 2026 | FREE ENTRY: Get-Together: OPEN DECKS (All Night Long) - presented by DNA. CLUB |  |
 | Fri, 23 Oct 2026 | BIRTHDAY AFFAIR |  |
 | Sat, 24 Oct 2026 | RITMO3000 |  |
 | Sat, 31 Oct 2026 | Halloween Rave // Inferno x Hotwire x Glovex | Alex Friday, Filialleiter, Khaøz, LIIAS, TEZMA |

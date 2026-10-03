@@ -1,14 +1,15 @@
 # Coco
 
-Coco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Coco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
-Coco is a techno and house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 6 more. Often billed alongside Empro, Bee Lincoln and Flo Pirke. Next up: Hoppetosse, Berlin on Fri 27 Nov.
+Coco is a techno and house artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 6 more. Often billed alongside Empro, Bee Lincoln and Flo Pirke. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Hoppetosse | Berlin |
+| Fri, 1 Jan 2027 | Hoppetosse | Berlin |
 
 ## Recently played
 

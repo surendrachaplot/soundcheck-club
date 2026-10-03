@@ -12,7 +12,7 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 20 upcoming gigs, wi
 | Sat, 3 Oct 2026 | [ROOMTOO] The Mantis Project |  |
 | Sun, 4 Oct 2026 | 无序重力 Disorder Gravity: Gina Demarchi + DJ Gordon | DJ Gordon, Gina Demarchi, o0 (1) |
 | Mon, 5 Oct 2026 | AFROPULZ TAKEOVER x MSF CREW |  |
-| Tue, 6 Oct 2026 | 好摇不挑曲 精神小伙乱斗四国DJ x Couch Co-Op |  |
+| Tue, 6 Oct 2026 | 塞挺SETTING x Couch Co-Op: CHAV Party 006 深圳站- OIL 来了就是摇! 中外社会摇对决 |  |
 | Fri, 9 Oct 2026 | Night at the Angel's Temple-夜殿天使 | ADEAD, nabii, zzm (2) |
 | Sat, 10 Oct 2026 | Knot pres. Massive Gain 【Onleash + Fakethias】 | Fakethias, Manson, Onleash |
 | Sat, 10 Oct 2026 | [ROOMTOO] 打码 Black out |  |

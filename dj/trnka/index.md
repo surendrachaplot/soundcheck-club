@@ -1,8 +1,8 @@
 # TRNKA
 
-TRNKA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Climax-Institutes, Stuttgart on Fri, 9 Oct 2026.
+TRNKA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Climax-Institutes, Stuttgart on Fri, 9 Oct 2026.
 
-TRNKA is a techno and house artist based in Germany, with 2 gigs on soundcheck across Stuttgart. Often billed alongside E-PUNK, NeTHiNG and Vamos Art. Next up: Climax-Institutes, Stuttgart on Fri 9 Oct.
+TRNKA is a techno and house artist based in Germany, with 3 gigs on soundcheck across Stuttgart. Often billed alongside E-PUNK, NeTHiNG and Vamos Art. Next up: Climax-Institutes, Stuttgart on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TRNKA is a techno and house artist based in Germany, with 2 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Climax-Institutes | Stuttgart |
 | Fri, 11 Dec 2026 | Climax-Institutes | Stuttgart |
+| Fri, 1 Jan 2027 | Climax-Institutes | Stuttgart |
 
 ## Shares bills with
 

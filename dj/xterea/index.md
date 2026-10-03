@@ -1,8 +1,8 @@
 # Xterea
 
-Xterea is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarry, Liverpool on Fri, 16 Oct 2026.
+Xterea is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarry, Liverpool on Fri, 16 Oct 2026.
 
-Xterea is an experimental and club artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Liverpool and 4 more. Often billed alongside Ben Vince, John T. Gast and Josey Rebelle. Next up: Quarry, Liverpool on Fri 16 Oct.
+Xterea is an experimental and club artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Liverpool and 4 more. Often billed alongside John T. Gast, Ben Vince and Josey Rebelle. Next up: Quarry, Liverpool on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Xterea is an experimental and club artist based in United Kingdom, with 20 gigs 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Quarry | Liverpool |
 | Sat, 17 Oct 2026 | Garage Noord | Amsterdam |
+| Sat, 31 Oct 2026 | Ormside Projects | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Xterea is an experimental and club artist based in United Kingdom, with 20 gigs 
 
 ## Shares bills with
 
-Ben Vince, John T. Gast, Josey Rebelle
+John T. Gast, Ben Vince, Josey Rebelle
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*

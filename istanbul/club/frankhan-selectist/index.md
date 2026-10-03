@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Visions: Deetron" on Sat, 3 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "[POSTPONED] Visions: Deetron" on Sat, 3 Oct 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcoming gigs, with line-ups including Alican, Andhim, Berkan V8 and BOOSAY and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -8,7 +8,7 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 15 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Visions: Deetron | Deetron, Marlò, Pink Concrete |
+| Sat, 3 Oct 2026 | [POSTPONED] Visions: Deetron | Deetron, Marlò, Pink Concrete |
 | Sat, 3 Oct 2026 | Andhim - Beyond Atlas | Andhim |
 | Fri, 9 Oct 2026 | Juan Atkins: The Godfather of Techno | Juan Atkins |
 | Sat, 10 Oct 2026 | Global Swing w/ Garret David + Tino | Garrett David, Tino |

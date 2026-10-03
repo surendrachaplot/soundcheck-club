@@ -1,14 +1,14 @@
 # Bull Horris
 
-Bull Horris is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Dublin on Sat, 3 Oct 2026.
+Bull Horris is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Daylight, Dublin on Sat, 3 Oct 2026.
 
-Bull Horris is a house and techno artist based in Ireland, with 39 gigs on soundcheck across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Tadhg K, Mercorn and Cáit. Next up: TBA, Dublin on Sat 3 Oct.
+Bull Horris is a house and techno artist based in Ireland, with 39 gigs on soundcheck across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Tadhg K, Mercorn and Cáit. Next up: TBA - Daylight, Dublin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Dublin |
+| Sat, 3 Oct 2026 | TBA - Daylight | Dublin |
 | Sat, 17 Oct 2026 | The Big Romance | Dublin |
 
 ## Recently played

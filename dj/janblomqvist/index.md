@@ -1,8 +1,8 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
+Jan Blomqvist is a Deep House and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Marina Navegantes São João, Brazil on Sun, 11 Oct 2026.
 
-Jan Blomqvist is a house and deep house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Marina Navegantes São João, Brazil on Sun 11 Oct.
+Jan Blomqvist is a deep house and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Marina Navegantes São João, Brazil on Sun 11 Oct.
 
 ## Upcoming shows
 

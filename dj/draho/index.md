@@ -1,14 +1,14 @@
 # DRAHO
 
-DRAHO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Muse Berlin, Berlin on Sat, 3 Oct 2026.
+DRAHO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Muse Cafe & Cocktail Bar Berlin, Berlin on Sat, 3 Oct 2026.
 
-DRAHO is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside dj Joe, steamboi and Alegrando. Next up: TBA - Muse Berlin, Berlin on Sat 3 Oct.
+DRAHO is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside dj Joe, steamboi and Alegrando. Next up: TBA - Muse Cafe & Cocktail Bar Berlin, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Muse Berlin | Berlin |
+| Sat, 3 Oct 2026 | TBA - Muse Cafe & Cocktail Bar Berlin | Berlin |
 | Sat, 24 Oct 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # DANI RUBIO
 
-DANI RUBIO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Resume Valencia, Valencia on Fri, 30 Oct 2026.
+DANI RUBIO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
 
-DANI RUBIO is a tech house and house artist, with 28 gigs on soundcheck across Barcelona, Brussels, Madrid and Valencia. Often billed alongside Quim Clausell, Blanch and Cesc (ES). Next up: Resume Valencia, Valencia on Fri 30 Oct.
+DANI RUBIO is a tech house and house artist, with 29 gigs on soundcheck across Barcelona, Brussels, Madrid and Valencia. Often billed alongside Cesc (ES), Quim Clausell and Avo (ES). Next up: Cadavra, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Cadavra | Madrid |
 | Fri, 30 Oct 2026 | Resume Valencia | Valencia |
 
 ## Recently played
@@ -23,6 +24,6 @@ DANI RUBIO is a tech house and house artist, with 28 gigs on soundcheck across B
 
 ## Shares bills with
 
-Quim Clausell, Blanch, Cesc (ES)
+Cesc (ES), Quim Clausell, Avo (ES)
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danirubio/)*

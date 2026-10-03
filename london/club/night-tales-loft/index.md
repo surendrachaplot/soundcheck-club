@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NT's Loft: John Tejada & De La Reef" on Sat, 3 Oct 2026.
+Night Tales Loft is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NT's Free Party: Deep House, Tech House, Minimal " on Sat, 3 Oct 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Anunaku, babyschön, blissy e and Bridge (NY) and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -8,7 +8,7 @@ Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NT's Loft: John Tejada & De La Reef | De La Reef, John Tejada |
+| Sat, 3 Oct 2026 | NT's Free Party: Deep House, Tech House, Minimal  | De La Reef |
 | Fri, 9 Oct 2026 | NT's Loft: Dam Swindle | Dam Swindle |
 | Sat, 10 Oct 2026 | Origins: Gabbs (All Night Long) | Gabbs |
 | Thu, 15 Oct 2026 | NT's Loft: JIM (Live) |  |

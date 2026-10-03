@@ -1,14 +1,15 @@
 # Florelle
 
-Florelle is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
+Florelle is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
 
-Florelle is a trance and techno artist based in Germany, with 24 gigs on soundcheck across Berlin and Paris. Often billed alongside DJ Henk, jeanska and subga. Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
+Florelle is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin and Paris. Often billed alongside DJ Henk, jeanska and subga. Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 6 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Lomax
 
-Lomax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at West Harlem, Kyoto on Sat, 17 Oct 2026.
+Lomax is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at West Harlem, Kyoto on Fri, 16 Oct 2026.
 
-Lomax is a house and techno artist based in Japan, with 148 gigs on soundcheck across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: West Harlem, Kyoto on Sat 17 Oct.
+Lomax is a house and techno artist based in Japan, with 149 gigs on soundcheck across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: West Harlem, Kyoto on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | West Harlem | Kyoto |
 | Sat, 17 Oct 2026 | West Harlem | Kyoto |
 
 ## Recently played

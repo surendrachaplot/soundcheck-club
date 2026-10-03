@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Freeform Festival Official Afterparty feat. Call Super, Toni Yotzi, Moopie" on Sat, 3 Oct 2026.
+Miscellania is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Ennaria - Manifesto Tour" on Fri, 9 Oct 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Call Super and Ed Kent and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Ed Kent and Merve and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Freeform Festival Official Afterparty feat. Call Super, Toni Yotzi, Moopie | Call Super, Moopie, Toni Yotzi |
 | Fri, 9 Oct 2026 | Ennaria - Manifesto Tour |  |
 | Fri, 9 Oct 2026 | NYMPHO presents: ATARANGI All Night Long | ATARANGI |
 | Fri, 9 Oct 2026 | NYMPHO Presents: ATARANGI All Night Long | ATARANGI |

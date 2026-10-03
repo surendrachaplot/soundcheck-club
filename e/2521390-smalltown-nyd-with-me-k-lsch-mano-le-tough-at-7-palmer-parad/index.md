@@ -1,6 +1,6 @@
 # smalltown NYD with Âme, Kölsch + Mano Le Tough at 7 Palmer Parade, Cremorne 3121
 
-smalltown NYD with Âme, Kölsch + Mano Le Tough at 7 Palmer Parade, Cremorne 3121 on Fri 1 Jan, Melbourne. 7 artists: Âme, Dj Bouncy, Gumm and Jack Colletta and 3 more. See the line-up on soundcheck.
+smalltown NYD with Âme, Kölsch + Mano Le Tough at 7 Palmer Parade, Cremorne 3121 on Fri 1 Jan, Melbourne. 7 artists: Âme, Dj Bouncy, Gumm and Jack Colletta and 3 more. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

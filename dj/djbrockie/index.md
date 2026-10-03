@@ -1,8 +1,8 @@
 # DJ Brockie
 
-DJ Brockie is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+DJ Brockie is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
+DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Brockie is a jungle and drum & bass artist based in United Kingdom, with 67 g
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Fri, 20 Nov 2026 | Volks | Brighton |
+| Sat, 19 Dec 2026 | EartH | London |
 
 ## Recently played
 

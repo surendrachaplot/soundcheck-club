@@ -17,7 +17,7 @@ Saloon is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with li
 | Sat, 24 Oct 2026 | 帝 / MiKADO | Kanamemandala, MiG-25, Ryunosuke Urabe, Uich, YuWa, manato |
 | Thu, 29 Oct 2026 | GURUGURU | AI (10), Kotaro Shimizu, Mareena, Olevv |
 | Sat, 31 Oct 2026 |  ENiGMA feat. T.NO | MoEPiKA, Pine, Romy Mats, S.H.V, T.NO, TAKENOKO, YUVIE |
-| Sat, 14 Nov 2026 | Strict City × SUN AND BASS | Fonts, Velocity, Zusan (3), arpxp |
+| Sat, 14 Nov 2026 | Strict City × SUN AND BASS | Aya ( Human Elements ), Fonts, Velocity, Zusan (3), arpxp |
 
 ## Address
 

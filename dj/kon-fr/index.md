@@ -1,8 +1,8 @@
 # Kon (FR)
 
-Kon (FR) is a House and Deep House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
+Kon (FR) is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
 
-Kon (FR) is a house and deep house artist based in France, with 26 gigs on soundcheck across Berlin, Chicago, London and Mexico City and 2 more. Often billed alongside Andreas Lutz, Martin Messier and media.tribe. Next up: TBA - Secret Location, Berlin on Fri 9 Oct.
+Kon (FR) is a house and techno artist based in France, with 26 gigs on soundcheck across Berlin, Chicago, London and Mexico City and 2 more. Often billed alongside Andreas Lutz, Martin Messier and media.tribe. Next up: TBA - Secret Location, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

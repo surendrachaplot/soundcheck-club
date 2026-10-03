@@ -1,6 +1,6 @@
 # Meduza at Savaya Bali
 
-Meduza at Savaya Bali on Fri 1 Jan, Bali. 1 artist: Meduza. See the line-up on soundcheck.
+Meduza at Savaya Bali on Fri 1 Jan, Bali. 1 artist: Meduza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

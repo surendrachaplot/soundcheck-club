@@ -13,7 +13,7 @@ Shane Thomas is a techno and club artist based in United States of America, with
 
 ## Recently played
 
-- TBA - Echo Park, Los Angeles · Fri, 2 Oct 2026
+- TBA - DTLA, Los Angeles · Fri, 2 Oct 2026
 - DNA Lounge, San Francisco/Oakland · Sun, 27 Sept 2026
 - TBA - Silverlake, Los Angeles · Fri, 18 Sept 2026
 - TBA, Los Angeles · Fri, 4 Sept 2026

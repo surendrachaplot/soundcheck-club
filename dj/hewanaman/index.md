@@ -1,14 +1,14 @@
 # Hewan Aman
 
-Hewan Aman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
+Hewan Aman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis, Paris on Sat, 3 Oct 2026.
 
-Hewan Aman is a techno and trance artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Kasper Marott, Lastvuska and Mama Snake. Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
+Hewan Aman is a techno and trance artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Kasper Marott, Lastvuska and Mama Snake. Next up: TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
+| Sat, 3 Oct 2026 | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis | Paris |
 | Sat, 17 Oct 2026 | Funke | Ghent |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 

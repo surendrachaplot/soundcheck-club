@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 28 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM" on Fri, 2 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 29 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM" on Fri, 2 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Carlos Alcañiz and Danjers and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 29 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Carlos Alcañiz and Danjers and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 

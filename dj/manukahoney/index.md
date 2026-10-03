@@ -1,14 +1,15 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at New Century Locker, Manchester on Fri, 9 Oct 2026.
+Manuka Honey is a Club and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at New Century Locker, Manchester on Fri, 9 Oct 2026.
 
-Manuka Honey is a club and reggaeton artist, with 150 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: New Century Locker, Manchester on Fri 9 Oct.
+Manuka Honey is a club and techno artist, with 151 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: New Century Locker, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | New Century Locker | Manchester |
+| Fri, 16 Oct 2026 | Sala Upload Barcelona | Barcelona |
 | Sat, 24 Oct 2026 | Paragon | New York City |
 | Fri, 30 Oct 2026 | TBA - Union Pine | Portland |
 | Sat, 31 Oct 2026 | The Ground at Club Space | Miami |

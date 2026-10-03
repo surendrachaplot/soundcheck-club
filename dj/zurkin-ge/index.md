@@ -9,7 +9,7 @@ Zurkin is a house and techno artist based in Georgia, with 113 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
-| Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
+| Sat, 3 Oct 2026 | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis | Paris |
 | Sat, 17 Oct 2026 | The 1896 | New York City |
 
 ## Recently played

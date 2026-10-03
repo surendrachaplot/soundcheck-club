@@ -1,6 +1,6 @@
 # Ducks in Harmony at The Golden Lion
 
-Ducks in Harmony at The Golden Lion on Fri 1 Jan, Manchester. 1 artist: Balrog. See the line-up on soundcheck.
+Ducks in Harmony at The Golden Lion on Fri 1 Jan, Manchester. 1 artist: Balrog. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

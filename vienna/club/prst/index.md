@@ -8,7 +8,7 @@ PRST is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BLUR with Maher Daniel | Chris Freud, David Radi, Maher Daniel, Matthias Kaiser |
+| Sat, 3 Oct 2026 | BLUR with Maher Daniel | Chris Freud, David Radi, Matthias Kaiser |
 | Thu, 8 Oct 2026 | PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026 | Demuja, GEN (4), NAMIMI SENSEI |
 | Fri, 9 Oct 2026 | Straat 264 with Zombies In Miami | Zombies In Miami |
 | Sat, 10 Oct 2026 | GRENZWERTIG PLUS ✚ | Chruzo, Heinz Tronigger, Kirill Kirik |

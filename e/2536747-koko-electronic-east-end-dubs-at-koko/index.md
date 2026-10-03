@@ -1,6 +1,6 @@
 # KOKO Electronic: East End Dubs at KOKO
 
-KOKO Electronic: East End Dubs on Fri 1 Jan, London. 2 artists: East End Dubs and Ryan Nicholls. See the line-up on soundcheck.
+KOKO Electronic: East End Dubs on Fri 1 Jan, London. 2 artists: East End Dubs and Ryan Nicholls. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

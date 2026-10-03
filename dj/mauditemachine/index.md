@@ -1,8 +1,8 @@
 # Maudite Machine
 
-Maudite Machine is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Lobby, Montreal on Fri, 16 Oct 2026.
+Maudite Machine is a Electro and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Lobby, Montreal on Fri, 16 Oct 2026.
 
-Maudite Machine is an electro and house artist based in Canada, with 13 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, DJ Mushin and Mushin. Next up: Le Lobby, Montreal on Fri 16 Oct.
+Maudite Machine is an electro and tech house artist based in Canada, with 14 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, DJ Mushin and Omni. Next up: Le Lobby, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maudite Machine is an electro and house artist based in Canada, with 13 gigs on 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Le Lobby | Montreal |
 | Fri, 30 Oct 2026 | Cabaret Lion D'or | Montreal |
+| Sat, 31 Oct 2026 | Théâtre Paradoxe | Montreal |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Maudite Machine is an electro and house artist based in Canada, with 13 gigs on 
 
 ## Shares bills with
 
-DJ Davidé, DJ Mushin, Mushin
+DJ Davidé, DJ Mushin, Omni
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauditemachine/)*

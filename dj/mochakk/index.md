@@ -1,8 +1,8 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
+Mochakk is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
-Mochakk is a house and techno artist based in Brazil, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
+Mochakk is a house and tech house artist based in Brazil, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 44 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
 ## Upcoming shows
 

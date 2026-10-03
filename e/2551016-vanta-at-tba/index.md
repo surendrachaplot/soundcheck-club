@@ -1,6 +1,6 @@
 # VANTA at TBA
 
-VANTA at TBA on Sat 17 Oct, Berlin. 10 artists: Balkhausen, DJ B2B, Dshanna and Gray Contrast and 6 more. Techno. See the line-up on soundcheck.
+VANTA at TBA on Sat 17 Oct, Berlin. 9 artists: Balkhausen, Dshanna, Gray Contrast and Gretchen B and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ VANTA at TBA on Sat 17 Oct, Berlin. 10 artists: Balkhausen, DJ B2B, Dshanna and 
 ## Line-up
 
 - Balkhausen
-- DJ B2B
 - Dshanna
 - Gray Contrast
 - Gretchen B

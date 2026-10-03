@@ -1,6 +1,6 @@
 # LEFT-FIELD at Experiment 625
 
-LEFT-FIELD at Experiment 625 on Fri 27 Nov, Liverpool. 1 artist: bellzzzaza. Electro and IDM. See the line-up on soundcheck.
+LEFT-FIELD at Experiment 625 on Fri 27 Nov, Liverpool. 2 artists: bellzzzaza and Finch (UK). Electro and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ LEFT-FIELD at Experiment 625 on Fri 27 Nov, Liverpool. 1 artist: bellzzzaza. Ele
 ## Line-up
 
 - bellzzzaza
+- Finch (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2552035-left-field-at-experiment-625/)*

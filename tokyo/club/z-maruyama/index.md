@@ -13,7 +13,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, wit
 | Fri, 9 Oct 2026 | BELIEVE (信) (HOUSE) | CARTOON, EIGHT, Koki, Ren Yokoi, Yuta Yamada |
 | Sat, 10 Oct 2026 | SHEAR (TECHNO) | Kaori Watt, Nakadia, SENNY D, Shogo Ito |
 | Sat, 10 Oct 2026 | 130 | CLESENT, na-na |
-| Sun, 11 Oct 2026 | AREA 404 -HARD TECHNO- | KATSU (2) |
+| Sun, 11 Oct 2026 | AREA 404 -HARD TECHNO- | KATSU (2), Soluna |
 | Fri, 16 Oct 2026 | morph vol.7 (TECHNO) | DJ MARIA., Yuoto Saito |
 | Thu, 29 Oct 2026 | FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) | ISSA, RIHO ASAEDA, judgeman |
 | Fri, 30 Oct 2026 | BALOCCO | MARK MILA, Nari (2), r1ku |

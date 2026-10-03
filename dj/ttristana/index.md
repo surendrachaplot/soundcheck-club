@@ -1,14 +1,13 @@
 # TTristana
 
-TTristana is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+TTristana is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
-TTristana is a techno and experimental artist based in France, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, Golce and vendredear. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
+TTristana is a techno and experimental artist based in France, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, Golce and vendredear. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 10 Oct 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 31 Oct 2026 | Le Sucre | Lyon |

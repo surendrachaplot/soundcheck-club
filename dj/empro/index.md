@@ -1,14 +1,15 @@
 # Empro
 
-Empro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Empro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
-Empro is a techno and house artist based in Germany, with 64 gigs on soundcheck across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside Coco, Leon Licht and Edgar Peng. Next up: Hoppetosse, Berlin on Fri 27 Nov.
+Empro is a techno and house artist based in Germany, with 65 gigs on soundcheck across Berlin, Leipzig, Munich and Stuttgart. Often billed alongside Coco, Leon Licht and Edgar Peng. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Hoppetosse | Berlin |
+| Fri, 1 Jan 2027 | Hoppetosse | Berlin |
 
 ## Recently played
 

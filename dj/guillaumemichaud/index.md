@@ -1,13 +1,14 @@
 # Guillaume Michaud
 
-Guillaume Michaud is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NWHR, Montreal on Fri, 23 Oct 2026.
+Guillaume Michaud is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Daomé, Montreal on Sat, 17 Oct 2026.
 
-Guillaume Michaud is a house and deep house artist based in Canada, with 36 gigs on soundcheck across Montreal and Toronto. Often billed alongside Shirlee, Cirque Cosmic and Nathan Burns. Next up: NWHR, Montreal on Fri 23 Oct.
+Guillaume Michaud is a house and tech house artist based in Canada, with 37 gigs on soundcheck across Montreal and Toronto. Often billed alongside Shirlee, Cirque Cosmic and Nathan Burns. Next up: Salon Daomé, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Salon Daomé | Montreal |
 | Fri, 23 Oct 2026 | NWHR | Montreal |
 
 ## Recently played

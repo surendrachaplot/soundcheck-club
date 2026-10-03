@@ -1,14 +1,13 @@
 # Stephan Jolk
 
-Stephan Jolk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Savaya Bali, Bali on Sat, 3 Oct 2026.
+Stephan Jolk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zumana Bali, Bali on Wed, 7 Oct 2026.
 
-Stephan Jolk is a techno and house artist based in Italy, with 94 gigs on soundcheck across Athens, Austin, Bali and Bangkok and 25 more. Often billed alongside Acid Arab, Goom Gum and Hannes Bieger. Next up: Savaya Bali, Bali on Sat 3 Oct.
+Stephan Jolk is a techno and house artist based in Italy, with 94 gigs on soundcheck across Athens, Austin, Bali and Bangkok and 25 more. Often billed alongside Acid Arab, Goom Gum and Hannes Bieger. Next up: Zumana Bali, Bali on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Savaya Bali | Bali |
 | Wed, 7 Oct 2026 | Zumana Bali | Bali |
 
 ## Recently played

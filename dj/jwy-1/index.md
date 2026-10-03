@@ -1,14 +1,14 @@
 # JWY (1)
 
-JWY (1) is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Dublin on Sat, 3 Oct 2026.
+JWY (1) is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Daylight, Dublin on Sat, 3 Oct 2026.
 
-JWY is a techno and baile funk artist based in Netherlands, with 100 gigs on soundcheck across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: TBA, Dublin on Sat 3 Oct.
+JWY is a techno and baile funk artist based in Netherlands, with 100 gigs on soundcheck across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: TBA - Daylight, Dublin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Dublin |
+| Sat, 3 Oct 2026 | TBA - Daylight | Dublin |
 | Fri, 9 Oct 2026 | Centre Point | Dublin |
 
 ## Recently played

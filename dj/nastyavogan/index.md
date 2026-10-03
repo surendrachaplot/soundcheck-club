@@ -1,13 +1,14 @@
 # Nastya Vogan
 
-Nastya Vogan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
+Nastya Vogan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ∄, Kyiv on Sat, 3 Oct 2026.
 
-Nastya Vogan is a techno and house artist based in Ukraine, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and London and 3 more. Often billed alongside Nastya Muravyova, DJ MELL G and Ireen Amnes. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
+Nastya Vogan is a techno and house artist based in Ukraine, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Kyiv and 4 more. Often billed alongside Nastya Muravyova, DJ MELL G and Ireen Amnes. Next up: ∄, Kyiv on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | ∄ | Kyiv |
 | Fri, 6 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Toner(JP)
 
-Toner(JP) is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Toner(JP) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 Toner(JP) is a techno and ambient artist based in Japan, with 44 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Atsushi Maeda, Lynne and OCCA. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -9,7 +9,6 @@ Toner(JP) is a techno and ambient artist based in Japan, with 44 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Bonobo | Tokyo |
-| Sat, 3 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 

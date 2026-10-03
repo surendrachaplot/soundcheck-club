@@ -1,8 +1,8 @@
 # Dusky
 
-Dusky is a House and Techno artist with 24 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Newspeak, Montreal on Sat, 3 Oct 2026.
+Dusky is a House and Techno artist with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Newspeak, Montreal on Sat, 3 Oct 2026.
 
-Dusky is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: Newspeak, Montreal on Sat 3 Oct.
+Dusky is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: Newspeak, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 

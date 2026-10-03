@@ -1,14 +1,15 @@
 # Forward Sisters
 
-Forward Sisters is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), London on Wed, 7 Oct 2026.
+Forward Sisters is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), London on Wed, 7 Oct 2026.
 
-Forward Sisters is a bass and dub artist based in Germany, with 12 gigs on soundcheck across Berlin and London. Often billed alongside Genoe, KaraKara and CHILDISH BAMBINO. Next up: TBA - Secret Location (near Frankfurter Allee), London on Wed 7 Oct.
+Forward Sisters is a bass and dub artist based in Germany, with 13 gigs on soundcheck across Berlin and London. Often billed alongside Genoe, KaraKara and CHILDISH BAMBINO. Next up: TBA - Secret Location (near Frankfurter Allee), London on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | TBA - Secret Location (near Frankfurter Allee) | London |
+| Sat, 24 Oct 2026 | TBA - Alt Stralau 71, 10245 Berlin  | Berlin |
 
 ## Recently played
 

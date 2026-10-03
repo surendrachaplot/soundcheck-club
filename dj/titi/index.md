@@ -1,8 +1,8 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kodz, Lille on Sat, 3 Oct 2026.
+TiTi is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kodz, Lille on Sat, 3 Oct 2026.
 
-TiTi is a techno and industrial artist based in China, with 25 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 11 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Kodz, Lille on Sat 3 Oct.
+TiTi is a techno and hardcore artist based in China, with 25 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 11 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Kodz, Lille on Sat 3 Oct.
 
 ## Upcoming shows
 

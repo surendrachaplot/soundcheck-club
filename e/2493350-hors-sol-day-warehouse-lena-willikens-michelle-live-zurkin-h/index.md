@@ -1,11 +1,11 @@
-# HORS-SOL [day] warehouse : Lena Willikens, Michelle (live), Zurkin, Hewan Aman, Forest at TBA - Saint-Denis
+# HORS-SOL [day] warehouse : Lena Willikens, Michelle (live), Zurkin, Hewan Aman, Forest at TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis
 
-HORS-SOL [day] warehouse : Lena Willikens, Michelle (live), Zurkin, Hewan Aman, Forest at TBA - Saint-Denis on Sat 3 Oct, Paris. 5 artists: Forest, Hewan Aman, Lena Willikens and Michelle and 1 more. See the line-up on soundcheck.
+HORS-SOL [day] warehouse : Lena Willikens, Michelle (live), Zurkin, Hewan Aman, Forest at TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis on Sat 3 Oct, Paris. 5 artists: Forest, Hewan Aman, Lena Willikens and Michelle and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 3 Oct 2026 |
-| Venue | TBA - Saint-Denis |
+| Venue | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis |
 | City | Paris |
 
 ## Line-up

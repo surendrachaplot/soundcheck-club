@@ -1,13 +1,14 @@
 # Onométro
 
-Onométro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+Onométro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Sat, 10 Oct 2026.
 
-Onométro is a house and techno artist based in Japan, with 54 gigs on soundcheck across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
+Onométro is a house and techno artist based in Japan, with 55 gigs on soundcheck across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Suns Shimokitazawa, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Suns Shimokitazawa | Tokyo |
 | Sat, 31 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played

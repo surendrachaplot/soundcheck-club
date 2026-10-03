@@ -8,7 +8,7 @@ Brooklyn Roots Collective is a music venue in New York City listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Book Club Radio Festival #2 The Outer Rim | Byron The Aquarius, DJ Heather, Fibre, Hiroko Yamamura, Jex Opolis, Jojo Lorenzo, Machinedrum, Mark Farina, MikeQ, Nikki Nair, RaeCola, Regularfantasy, Soul Summit Music, Tinzo, Toribio, Varist, Willo, Öona Dahl |
+| Fri, 2 Oct 2026 | Book Club Radio Festival #2 The Outer Rim | Byron The Aquarius, DJ Heather, Fibre, Hiroko Yamamura, Jex Opolis, Jojo Lorenzo, KYRUH, Machinedrum, Mark Farina, MikeQ, Nikki Nair, RaeCola, Soul Summit Music, Tinzo, Toribio, Varist, Willo, Öona Dahl |
 | Sat, 17 Oct 2026 | AGAPĒ PRESENTS: Somewhen - Extended Set [4 Hours] | Somewhen |
 | Fri, 23 Oct 2026 | HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours] | Vendex |
 

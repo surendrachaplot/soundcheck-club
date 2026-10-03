@@ -16,7 +16,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with 
 | Fri, 16 Oct 2026 | bloom pres. Andy Martin | Andy Martin, Baldman, Gala (ES), KATIA, berta (ES) |
 | Sat, 17 Oct 2026 | Distrito 91 with Kinetic & Protocolo Sys.ex (live) | Kinetic (2), tekka (2) |
 | Thu, 22 Oct 2026 | IMOGEN at Anfang | IMOGEN, Jakka, VRØD |
-| Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Fernando Costantini |
+| Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Avo (ES), Cesc (ES), DANI RUBIO, DANIL0, Fernando Costantini, Mark (ES) |
 | Sat, 24 Oct 2026 | HOLLYWOOD with Diamin | Diamin, TWO EX |
 
 ## Address

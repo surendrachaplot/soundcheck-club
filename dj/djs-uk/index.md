@@ -1,8 +1,8 @@
 # DJ S (UK)
 
-DJ S (UK) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+DJ S (UK) is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
-DJ S (UK) is a tech house and house artist based in United Kingdom, with 173 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 30 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Eutopia Warehouse, London on Sat 31 Oct.
+DJ S (UK) is a tech house and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Athens, Bangkok and Belfast and 30 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ S (UK) is a tech house and house artist based in United Kingdom, with 173 gig
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Eutopia Warehouse | London |
 | Sat, 14 Nov 2026 | Egg London | London |
+| Sat, 28 Nov 2026 | All is Joy Studios | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 
 ## Recently played

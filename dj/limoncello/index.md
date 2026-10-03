@@ -1,14 +1,15 @@
 # Limoncello
 
-Limoncello is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Neue Welle, Leipzig on Sat, 10 Oct 2026.
+Limoncello is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Neue Welle, Leipzig on Sat, 10 Oct 2026.
 
-Limoncello is a trance and techno artist based in Germany, with 100 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: Neue Welle, Leipzig on Sat 10 Oct.
+Limoncello is a trance and techno artist based in Germany, with 101 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside alemiko, bbymeister and DJ Henk. Next up: Neue Welle, Leipzig on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Neue Welle | Leipzig |
+| Fri, 16 Oct 2026 | Helios37 | Cologne |
 | Sat, 17 Oct 2026 | ://about blank | Berlin |
 | Sat, 24 Oct 2026 | KHC Neustrelitz | Mecklenburg-vorpommern |
 | Fri, 30 Oct 2026 | Distillery | Leipzig |

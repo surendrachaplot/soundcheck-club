@@ -1,14 +1,13 @@
 # RONI
 
-RONI is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+RONI is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bien Public, Bordeaux on Fri, 9 Oct 2026.
 
-RONI is a techno and bass artist based in France, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 30 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
+RONI is a techno and bass artist based in France, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 30 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Bien Public, Bordeaux on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Fri, 9 Oct 2026 | Bien Public | Bordeaux |
 | Sat, 10 Oct 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 17 Oct 2026 | La Belle Électrique | South-east |

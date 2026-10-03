@@ -1,14 +1,15 @@
 # SAVANNAH
 
-SAVANNAH is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+SAVANNAH is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-SAVANNAH is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Jojo Deevoy, JAY-MO and Randoma. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+SAVANNAH is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Jojo Deevoy, JAY-MO and Randoma. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 19 Dec 2026 | EartH | London |
 
 ## Recently played
 

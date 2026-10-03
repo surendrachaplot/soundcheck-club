@@ -1,14 +1,15 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Techno Cage Rave - HOTBOXX" on Sat, 3 Oct 2026.
+The Grand Social is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Techno Cage Rave - HOTBOXX" on Sat, 3 Oct 2026.
 
-The Grand Social is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including ALPER SKR, ANDATA, Guy J and SAMUX and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
+The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including ALPER SKR, ANDATA, Guy J and SAMUX and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Techno Cage Rave - HOTBOXX |  |
+| Fri, 16 Oct 2026 | SILENT HAVOC |  |
 | Sat, 24 Oct 2026 | MAREAH presents Guy J | Guy J, Tom Pavicich |
 | Fri, 6 Nov 2026 | RED LINE: ANDATA - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, ANDATA, SAMUX, WINSLAO |
 | Sun, 8 Nov 2026 | MGNA Crrrta & ideasforconversations |  |

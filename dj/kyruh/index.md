@@ -1,13 +1,14 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
+KYRUH is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-KYRUH is a techno and house artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Bossa Nova Civic Club, New York City on Wed 7 Oct.
+KYRUH is a techno and house artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Wed, 7 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 9 Oct 2026 | Honey's | New York City |
 | Sat, 17 Oct 2026 | TBA - Brooklyn | New York City |
@@ -17,6 +18,7 @@ KYRUH is a techno and house artist based in United States of America, with 156 g
 
 ## Recently played
 
+- Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - Mansions, New York City · Fri, 2 Oct 2026
 - Nowadays, New York City · Sun, 27 Sept 2026
 - Good Room, New York City · Thu, 24 Sept 2026
@@ -24,7 +26,6 @@ KYRUH is a techno and house artist based in United States of America, with 156 g
 - Bossa Nova Civic Club, New York City · Sat, 29 Aug 2026
 - TRANSMISSION DC, Washington DC · Sat, 1 Aug 2026
 - TBA - Brooklyn, New York City · Sat, 25 Jul 2026
-- public records, New York City · Fri, 17 Jul 2026
 
 ## Shares bills with
 

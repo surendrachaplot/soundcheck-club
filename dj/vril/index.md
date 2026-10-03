@@ -1,14 +1,13 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Coil, Melbourne on Sat, 3 Oct 2026.
+.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KEPK, Brisbane on Sun, 4 Oct 2026.
 
-.VRIL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: Coil, Melbourne on Sat 3 Oct.
+.VRIL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: KEPK, Brisbane on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Coil | Melbourne |
 | Sun, 4 Oct 2026 | KEPK | Brisbane |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |

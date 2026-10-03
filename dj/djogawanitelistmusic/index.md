@@ -1,14 +1,16 @@
 # DJ OGAWA
 
-DJ OGAWA is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 10 Oct 2026.
+DJ OGAWA is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 10 Oct 2026.
 
-DJ OGAWA is a progressive house and house artist based in Japan, with 33 gigs on soundcheck across Buenos Aires, Copenhagen, Kyoto and Lisbon and 3 more. Often billed alongside Senda, AIBA and Michel. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 10 Oct.
+DJ OGAWA is a progressive house and house artist based in Japan, with 35 gigs on soundcheck across Buenos Aires, Copenhagen, Kyoto and Lisbon and 3 more. Often billed alongside Senda, Hernan Cattaneo and Nao Nomura. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Fri, 6 Nov 2026 | Joule | Osaka |
+| Sat, 7 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ DJ OGAWA is a progressive house and house artist based in Japan, with 33 gigs on
 
 ## Shares bills with
 
-Senda, AIBA, Michel
+Senda, Hernan Cattaneo, Nao Nomura
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djogawanitelistmusic/)*

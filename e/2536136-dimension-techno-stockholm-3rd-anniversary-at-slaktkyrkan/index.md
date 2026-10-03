@@ -1,6 +1,6 @@
 # DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan
 
-DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan on Sat 28 Nov, Stockholm. 1 artist: TBA. Techno. See the line-up on soundcheck.
+DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan on Sat 28 Nov, Stockholm. 2 artists: Nachtigaller and TBA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY at Slaktkyrkan on Sat 28 Nov, S
 
 ## Line-up
 
+- Nachtigaller
 - TBA
 
 *Source: [soundcheck](https://soundcheck.club/e/2536136-dimension-techno-stockholm-3rd-anniversary-at-slaktkyrkan/)*

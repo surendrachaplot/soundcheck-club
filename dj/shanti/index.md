@@ -1,8 +1,8 @@
 # Shanti
 
-Shanti is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at smartbar, Chicago on Sat, 10 Oct 2026.
+Shanti is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at smartbar, Chicago on Sat, 10 Oct 2026.
 
-Shanti is a techno and acid artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 5 more. Often billed alongside Scum.ee, Josh Tong and JS Alvarez. Next up: smartbar, Chicago on Sat 10 Oct.
+Shanti is a techno and acid artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 5 more. Often billed alongside Scum.ee, Josh Tong and JS Alvarez. Next up: smartbar, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shanti is a techno and acid artist based in United States of America, with 73 gi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | smartbar | Chicago |
 | Fri, 16 Oct 2026 | TBA - Red Room | Milwaukee |
+| Fri, 30 Oct 2026 | Podlasie Club | Chicago |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 

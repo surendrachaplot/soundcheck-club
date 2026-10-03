@@ -1,13 +1,14 @@
 # spliffany evans
 
-spliffany evans is a Club and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Austin), Chicago on Sat, 31 Oct 2026.
+spliffany evans is a Club and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
 
-spliffany evans is a club and jungle artist based in United States of America, with 15 gigs on soundcheck across Chicago, Nashville and New York City. Often billed alongside 9MAGICFOREVER1, Absono and Tsibinki. Next up: TBA - Secret Location (Austin), Chicago on Sat 31 Oct.
+spliffany evans is a club and jungle artist based in United States of America, with 16 gigs on soundcheck across Chicago, Nashville and New York City. Often billed alongside 9MAGICFOREVER1, Absono and Tsibinki. Next up: Podlasie Club, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Podlasie Club | Chicago |
 | Sat, 31 Oct 2026 | TBA - Secret Location (Austin) | Chicago |
 
 ## Recently played

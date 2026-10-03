@@ -1,8 +1,8 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
 
-Paige Tomlinson is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
 
 ## Upcoming shows
 

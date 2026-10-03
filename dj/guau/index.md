@@ -1,14 +1,13 @@
 # Guau
 
-Guau is a Breakbeat and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Industrique, Melbourne on Sat, 3 Oct 2026.
+Guau is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Arq, Sydney on Sun, 4 Oct 2026.
 
-Guau is a breakbeat and bass artist based in Spain, with 10 gigs on soundcheck across Brisbane, London, Madrid and Malaga and 4 more. Often billed alongside Yo Speed, David Berna and SVETTI. Next up: The Industrique, Melbourne on Sat 3 Oct.
+Guau is a breakbeat and bass artist based in Spain, with 10 gigs on soundcheck across Brisbane, London, Madrid and Malaga and 4 more. Often billed alongside Yo Speed, David Berna and SVETTI. Next up: Arq, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Industrique | Melbourne |
 | Sun, 4 Oct 2026 | Arq | Sydney |
 | Mon, 5 Oct 2026 | The Brightside | Brisbane |
 

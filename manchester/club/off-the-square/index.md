@@ -1,8 +1,8 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Underground Kollektiv present....The Queen of Sankeys 'Mistress de Funk' " on Sat, 10 Oct 2026.
+Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Underground Kollektiv present....The Queen of Sankeys 'Mistress de Funk' " on Sat, 10 Oct 2026.
 
-Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Chael-UK, MAD Beats, Mistress de Funk and Shumbo Jebang. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
+Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chael-UK, MAD Beats, Mistress de Funk and Shumbo Jebang. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming g
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Underground Kollektiv present....The Queen of Sankeys 'Mistress de Funk'  | Chael-UK, MAD Beats, Mistress de Funk, Shumbo Jebang |
 | Sun, 18 Oct 2026 | DAYDREAM 002 |  |
+| Fri, 6 Nov 2026 | Night Shift |  |
 
 ## Address
 

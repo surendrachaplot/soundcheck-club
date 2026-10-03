@@ -1,14 +1,14 @@
 # Forest
 
-Forest is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
+Forest is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis, Paris on Sat, 3 Oct 2026.
 
-Forest is a techno and trance artist based in France, with 49 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
+Forest is a techno and trance artist based in France, with 49 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
+| Sat, 3 Oct 2026 | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis | Paris |
 | Sat, 17 Oct 2026 | TBA - Marseille | Marseille |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 

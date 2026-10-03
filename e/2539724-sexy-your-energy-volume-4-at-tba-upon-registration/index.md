@@ -1,6 +1,6 @@
 # SEXY YOUR ENERGY VOLUME 4 at TBA - UPON REGISTRATION
 
-SEXY YOUR ENERGY VOLUME 4 at TBA - UPON REGISTRATION on Sun 4 Oct, Athens. 3 artists: Pheraal, Teris Vibes and Ther3min. Techno. See the line-up on soundcheck.
+SEXY YOUR ENERGY VOLUME 4 at TBA - UPON REGISTRATION on Sun 4 Oct, Athens. 3 artists: Pètal, Teris Vibes and Ther3min. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SEXY YOUR ENERGY VOLUME 4 at TBA - UPON REGISTRATION on Sun 4 Oct, Athens. 3 art
 
 ## Line-up
 
-- Pheraal
+- Pètal
 - Teris Vibes
 - Ther3min
 

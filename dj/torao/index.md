@@ -1,14 +1,15 @@
 # TORAO
 
-TORAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
+TORAO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
 
-TORAO is a house and techno artist based in Japan, with 77 gigs on soundcheck across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, Celter and Chihoshi. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
+TORAO is a house and techno artist based in Japan, with 78 gigs on soundcheck across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, Celter and Chihoshi. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 7 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Process PDX, Portland on Sat, 3 Oct 2026.
+Octo Octa is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Process PDX, Portland on Sat, 3 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Process PDX, Portland on Sat 3 Oct.
+Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Process PDX, Portland on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 | Thu, 8 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
+| Thu, 15 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -19,7 +20,6 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
-| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Salat
 
-Salat is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mastak, Warsaw on Sun, 11 Oct 2026.
+Salat is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jasna 1, Warsaw on Sat, 10 Oct 2026.
 
-Salat is a techno and experimental artist, with 72 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Pean, Slowmode and Ganna Glass. Next up: Mastak, Warsaw on Sun 11 Oct.
+Salat is a techno and experimental artist, with 73 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Pean, Slowmode and Ganna Glass. Next up: Jasna 1, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Jasna 1 | Warsaw |
 | Sun, 11 Oct 2026 | Mastak | Warsaw |
 | Sat, 7 Nov 2026 | Mastak | Warsaw |
 

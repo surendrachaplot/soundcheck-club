@@ -1,13 +1,14 @@
 # Medux
 
-Medux is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Chemist, Boston on Fri, 16 Oct 2026.
+Medux is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Chemist, Boston on Thu, 15 Oct 2026.
 
-Medux is a house and techno artist, with 17 gigs on soundcheck across Boston. Often billed alongside Charles Mazzola, Jordan Graham and Sacha Madadian. Next up: The Chemist, Boston on Fri 16 Oct.
+Medux is a house and techno artist, with 18 gigs on soundcheck across Boston. Often billed alongside Charles Mazzola, Jordan Graham and Sacha Madadian. Next up: The Chemist, Boston on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | The Chemist | Boston |
 | Fri, 16 Oct 2026 | The Chemist | Boston |
 
 ## Recently played

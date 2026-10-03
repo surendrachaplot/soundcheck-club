@@ -1,6 +1,6 @@
 # Kolokotroni 9
 
-Kolokotroni 9 is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Monnodic Live at 9" on Fri, 9 Oct 2026.
+Kolokotroni 9 is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Monnodic Live at 9" on Sat, 10 Oct 2026.
 
 Kolokotroni 9 is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Monnodic. See dates, start times and who's playing. Kolokotroni 9, Athina 105 62.
 
@@ -8,7 +8,7 @@ Kolokotroni 9 is a music venue in Athens listed on soundcheck. 1 upcoming gig, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Monnodic Live at 9 | Monnodic |
+| Sat, 10 Oct 2026 | Monnodic Live at 9 | Monnodic |
 
 ## Address
 

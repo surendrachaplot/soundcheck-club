@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+Jen Cardini is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
+Jen Cardini is a techno and house artist based in France, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: FOLD, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
@@ -20,6 +19,7 @@ Jen Cardini is a techno and house artist based in France, with 264 gigs on sound
 | Sat, 31 Oct 2026 | ÆDEN | Berlin |
 | Sun, 1 Nov 2026 | Le Sucre | Lyon |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
+| Sat, 12 Dec 2026 | Plano B | Porto |
 
 ## Recently played
 

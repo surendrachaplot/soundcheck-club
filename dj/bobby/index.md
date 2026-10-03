@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 3 Oct 2026.
+Bobby. is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 3 Oct 2026.
 
-Bobby. is a house and techno artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Club Cheek, London on Sat 3 Oct.
+Bobby. is a techno and house artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Club Cheek, London on Sat 3 Oct.
 
 ## Upcoming shows
 

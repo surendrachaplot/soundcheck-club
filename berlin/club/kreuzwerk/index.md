@@ -1,8 +1,8 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Carmen Electro & BUTZ invite Laia, LYZA " on Fri, 9 Oct 2026.
+KREUZWERK is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Carmen Electro & BUTZ invite Laia, LYZA " on Fri, 9 Oct 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ADAM MUNNINGS, Amowia, ARMANA KHAN and Bad Puppy and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 

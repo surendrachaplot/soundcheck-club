@@ -1,6 +1,6 @@
 # Faith NYD Special at The Light Bar
 
-Faith NYD Special at The Light Bar on Fri 1 Jan, London. 2 artists: Stuart Patterson and Terry Farley. See the line-up on soundcheck.
+Faith NYD Special at The Light Bar on Fri 1 Jan, London. 2 artists: Stuart Patterson and Terry Farley. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

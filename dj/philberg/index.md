@@ -1,14 +1,14 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Phil Berg is a Techno and Club artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mooi Space, Toronto on Sat, 3 Oct 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: TBA, Toronto on Sat 3 Oct.
+Phil Berg is a techno and club artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Mooi Space, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Toronto |
+| Sat, 3 Oct 2026 | Mooi Space | Toronto |
 | Sat, 10 Oct 2026 | Village Underground Lisboa | Lisbon |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |

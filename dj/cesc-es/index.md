@@ -1,13 +1,14 @@
 # Cesc (ES)
 
-Cesc (ES) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Cesc (ES) is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
 
-Cesc (ES) is a house and electronica artist based in Spain, with 67 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Avo (ES), DANIL0 and Babu. Next up: Cadavra, Madrid on Fri 27 Nov.
+Cesc (ES) is a house and electronica artist based in Spain, with 68 gigs on soundcheck across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Avo (ES), DANIL0 and Babu. Next up: Cadavra, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Cadavra | Madrid |
 | Fri, 27 Nov 2026 | Cadavra | Madrid |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 

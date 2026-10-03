@@ -1,6 +1,6 @@
 # SUBZERO at The Loft
 
-SUBZERO at The Loft on Fri 20 Nov, Vienna. 5 artists: Chicano, KJAER, Mark Dale and MIKE MYSTIK and 1 more. Techno. See the line-up on soundcheck.
+SUBZERO at The Loft on Fri 20 Nov, Vienna. 4 artists: Chicano, KJAER, MIKE MYSTIK and Userkiller. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ SUBZERO at The Loft on Fri 20 Nov, Vienna. 5 artists: Chicano, KJAER, Mark Dale 
 
 - Chicano
 - KJAER
-- Mark Dale
 - MIKE MYSTIK
 - Userkiller
 

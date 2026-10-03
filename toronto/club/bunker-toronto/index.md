@@ -1,6 +1,6 @@
 # Bunker Toronto
 
-Bunker Toronto is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "QTS: Toronto" on Fri, 16 Oct 2026.
+Bunker Toronto is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "QTS: Toronto (Farius - Solarstone - BIG SIR - More TBA)" on Fri, 16 Oct 2026.
 
 Bunker Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Farius and Solarstone. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Bunker Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming gig,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | QTS: Toronto | Farius, Solarstone |
+| Fri, 16 Oct 2026 | QTS: Toronto (Farius - Solarstone - BIG SIR - More TBA) | Farius, Solarstone |
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bunker-toronto/)*

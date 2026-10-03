@@ -1,14 +1,13 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Radio Tempo Não Pára takeover: live radio at dubble" on Sat, 3 Oct 2026.
+dubble is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "innerzone with shane irving" on Sun, 4 Oct 2026.
 
-dubble is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Bella Hall, DJ Klapsalon, mul/ANNA and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
+dubble is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Bella Hall, DJ Klapsalon, mul/ANNA and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Radio Tempo Não Pára takeover: live radio at dubble |  |
 | Sun, 4 Oct 2026 | innerzone with shane irving |  |
 | Sat, 10 Oct 2026 | afternoon interlude with mul/ANNA and bas | mul/ANNA |
 | Sun, 11 Oct 2026 | participative vinyl session with DJ Klapsalon | DJ Klapsalon |

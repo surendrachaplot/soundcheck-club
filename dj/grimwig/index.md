@@ -1,14 +1,13 @@
 # Grimwig
 
-Grimwig is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Sat, 3 Oct 2026.
+Grimwig is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Area_osaka, Osaka on Fri, 9 Oct 2026.
 
-Grimwig is an experimental and electronica artist based in Canada, with 14 gigs on soundcheck across Berlin, Brussels, Kyoto and London and 4 more. Often billed alongside Laurine Frost, Big Hands and Max Loderbauer. Next up: Forestlimit, Tokyo on Sat 3 Oct.
+Grimwig is an experimental and electronica artist based in Canada, with 14 gigs on soundcheck across Berlin, Brussels, Kyoto and London and 4 more. Often billed alongside Laurine Frost, Big Hands and Max Loderbauer. Next up: Area_osaka, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Forestlimit | Tokyo |
 | Fri, 9 Oct 2026 | Area_osaka | Osaka |
 | Sun, 11 Oct 2026 | Bonobo | Tokyo |
 

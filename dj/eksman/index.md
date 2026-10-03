@@ -1,8 +1,8 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Eksman is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-Eksman is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Auckland, Birmingham, Bristol and Christchurch and 9 more. Often billed alongside IC3, Hedex and Logan D. Next up: NOWHERE, Manchester on Sat 3 Oct.
+Eksman is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Auckland, Birmingham, Bristol and Christchurch and 9 more. Often billed alongside IC3, Hedex and Logan D. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Eksman is a drum & bass and jungle artist based in United Kingdom, with 68 gigs 
 | Fri, 20 Nov 2026 | Wolfbrook Arena | Christchurch |
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
+| Sat, 19 Dec 2026 | EartH | London |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
 
 ## Recently played

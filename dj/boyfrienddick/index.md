@@ -13,7 +13,7 @@ Boyfriend Dick is a techno and club artist based in United States of America, wi
 
 ## Recently played
 
-- TBA - Echo Park, Los Angeles · Fri, 2 Oct 2026
+- TBA - DTLA, Los Angeles · Fri, 2 Oct 2026
 - Club Rawhide, New York City · Thu, 24 Sept 2026
 - TBA, Chicago · Sat, 19 Sept 2026
 - TBA - Highland Park, Brooklyn, New York City · Sun, 30 Aug 2026

@@ -1,14 +1,13 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
-Nikolina is a techno and industrial artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
+Nikolina is a techno and industrial artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | TBA - 131 McCormack  | Toronto |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |

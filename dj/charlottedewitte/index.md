@@ -1,8 +1,8 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Charlotte de Witte is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
 
-Charlotte de Witte is a techno and house artist based in Belgium, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: [UNVRS], Ibiza on Tue 6 Oct.
+Charlotte de Witte is a techno and house artist based in Belgium, with 149 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: [UNVRS], Ibiza on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,8 @@ Charlotte de Witte is a techno and house artist based in Belgium, with 147 gigs 
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 28 Nov 2026 | TBA | Zurich |
+| Fri, 11 Dec 2026 | The Wool Store | Melbourne |
+| Sat, 12 Dec 2026 | Hordern Pavilion | Sydney |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 
 ## Recently played

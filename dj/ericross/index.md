@@ -1,8 +1,8 @@
 # Eric Ross
 
-Eric Ross is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  HEY HEY SOCIAL , San-antonio on Sat, 17 Oct 2026.
+Eric Ross is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  HEY HEY SOCIAL , San-antonio on Sat, 17 Oct 2026.
 
-Eric Ross is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Detroit, New York City and San Antonio. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -  HEY HEY SOCIAL , San Antonio on Sat 17 Oct.
+Eric Ross is a techno and acid artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Detroit, New York City and San Antonio. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -  HEY HEY SOCIAL , San Antonio on Sat 17 Oct.
 
 ## Upcoming shows
 

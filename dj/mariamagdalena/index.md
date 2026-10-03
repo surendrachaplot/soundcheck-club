@@ -2,7 +2,7 @@
 
 MARIA MAGDALENA is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
-MARIA MAGDALENA is a club and house artist based in Germany, with 6 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Anthracene, Nyennea and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+MARIA MAGDALENA is a club and house artist based in Germany, with 6 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Nyennea, bod [包家巷] and AEMN. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ MARIA MAGDALENA is a club and house artist based in Germany, with 6 gigs on soun
 
 ## Shares bills with
 
-Anthracene, Nyennea, bod [包家巷]
+Nyennea, bod [包家巷], AEMN
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamagdalena/)*

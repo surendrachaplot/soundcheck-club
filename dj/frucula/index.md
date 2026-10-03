@@ -1,14 +1,15 @@
 # Frucula
 
-Frucula is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BUS Hexperience, Barcelona on Sat, 10 Oct 2026.
+Frucula is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BUS Hexperience, Barcelona on Sat, 10 Oct 2026.
 
-Frucula is a techno and house artist based in Spain, with 45 gigs on soundcheck across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Lea Corio. Next up: BUS Hexperience, Barcelona on Sat 10 Oct.
+Frucula is a techno and house artist based in Spain, with 46 gigs on soundcheck across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Lea Corio. Next up: BUS Hexperience, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | BUS Hexperience | Barcelona |
+| Fri, 23 Oct 2026 | 7833 Soundlab | Barcelona |
 
 ## Recently played
 

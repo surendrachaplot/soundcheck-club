@@ -1,6 +1,6 @@
-# Cidoine & Friends W/ Frits Wentink at La Récré
+# Cidoine & Friends W/Frits Wentink at La Récré
 
-Cidoine & Friends W/ Frits Wentink at La Récré on Fri 27 Nov, Montreal. 4 artists: Cidoine, Frits Wentink, Silktits and wetdogg. House and Electro. See the line-up on soundcheck.
+Cidoine & Friends W/Frits Wentink at La Récré on Fri 27 Nov, Montreal. 4 artists: Cidoine, Frits Wentink, Silktits and wetdogg. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

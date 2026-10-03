@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
+Konfusia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
 
-Konfusia is a techno and electro artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: elipamanoke, Leipzig on Sat 3 Oct.
+Konfusia is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: elipamanoke, Leipzig on Sat 3 Oct.
 
 ## Upcoming shows
 

@@ -1,13 +1,14 @@
 # Ina Kacz
 
-Ina Kacz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Ina Kacz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jasna 1, Warsaw on Sat, 10 Oct 2026.
 
-Ina Kacz is a techno and trance artist based in France, with 50 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ Nobu, Erika and Héctor Oaks. Next up: Bassiani, Tbilisi on Fri 16 Oct.
+Ina Kacz is a techno and trance artist based in France, with 51 gigs on soundcheck across Athens, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Luigi Tozzi, DJ Nobu and Erika. Next up: Jasna 1, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ina Kacz is a techno and trance artist based in France, with 50 gigs on soundche
 
 ## Shares bills with
 
-DJ Nobu, Erika, Héctor Oaks
+Luigi Tozzi, DJ Nobu, Erika
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*

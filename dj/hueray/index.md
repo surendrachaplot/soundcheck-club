@@ -1,8 +1,8 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
+Hue Ray is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
 
-Hue Ray is a techno and house artist based in Japan, with 72 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
+Hue Ray is a techno and house artist based in Japan, with 73 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hue Ray is a techno and house artist based in Japan, with 72 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - Jogashima Park | Tokyo |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
+| Mon, 26 Oct 2026 | clubasia | Tokyo |
 
 ## Recently played
 

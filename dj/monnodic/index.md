@@ -1,14 +1,14 @@
 # Monnodic
 
-Monnodic is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kolokotroni 9, Athens on Fri, 9 Oct 2026.
+Monnodic is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kolokotroni 9, Athens on Sat, 10 Oct 2026.
 
-Monnodic is a minimal techno and tech house artist, with 7 gigs on soundcheck across Athens. Often billed alongside MAN WITH THE SPEAKER, Marsha and Mr.M. Next up: Kolokotroni 9, Athens on Fri 9 Oct.
+Monnodic is a minimal techno and tech house artist, with 7 gigs on soundcheck across Athens. Often billed alongside MAN WITH THE SPEAKER, Marsha and Mr.M. Next up: Kolokotroni 9, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Kolokotroni 9 | Athens |
+| Sat, 10 Oct 2026 | Kolokotroni 9 | Athens |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 | Sat, 17 Oct 2026 | Lower Ground invites Diana and Hudson's Choice | Calypso High, Hudson’s Choice, Nunonunonuno |
 | Sat, 24 Oct 2026 | Voodoo Projects | Chris Liberator |
 | Sat, 31 Oct 2026 | Underground Halloween Party (Vinyl night) | Acid Steve, DJ Dimensions, Darc Marc, Rez Alberto Rettore |
-| Fri, 20 Nov 2026 | Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] | Benebe, Kafn |
+| Fri, 20 Nov 2026 | Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] | Benebe, Drastic Shuffle |
 | Fri, 27 Nov 2026 | Mirror Moves #4 [27.11.26] | Benebe, Cristian Sirica, Dave the Rave, NOYB, vene.tia |
 
 ## Address

@@ -9,7 +9,7 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
-| Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
+| Sat, 3 Oct 2026 | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis | Paris |
 | Fri, 9 Oct 2026 | Strange Brew | Bristol |
 | Fri, 16 Oct 2026 | TBA | Detroit |
 | Sun, 18 Oct 2026 | Flash | Washington DC |

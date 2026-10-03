@@ -12,7 +12,7 @@ Josh Steers is a house and techno artist based in United States of America, with
 
 ## Recently played
 
-- TBA - Echo Park, Los Angeles · Fri, 2 Oct 2026
+- TBA - DTLA, Los Angeles · Fri, 2 Oct 2026
 - Paragon, New York City · Fri, 25 Sept 2026
 - Club Rawhide, New York City · Fri, 18 Sept 2026
 - The Chocolate Factory, New York City · Fri, 11 Sept 2026

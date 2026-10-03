@@ -12,7 +12,7 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, wit
 | Fri, 9 Oct 2026 | Koenji Cave presents - Elven Dance - Vol.35 |  |
 | Sat, 10 Oct 2026 | 'The Psychedelic Trance Party' Kaleidoscope Vol.22 | AMON (1) |
 | Fri, 16 Oct 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.34 | BERLINER KINDL, CyberMoripy, Frank S, RAPHAËL (2), Spiritjack |
-| Sat, 17 Oct 2026 | Puzzle |  |
+| Sat, 17 Oct 2026 | Puzzle | JUNKO ONAGI |
 | Fri, 23 Oct 2026 | Koenji Cave presents ▷ Laboratory Vol.35 |  |
 | Sat, 24 Oct 2026 | Koenji Cave presents - Tempest - Vol.24 |  |
 | Fri, 30 Oct 2026 | Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - | CATRONICA |

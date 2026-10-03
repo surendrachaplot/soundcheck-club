@@ -11,7 +11,7 @@ Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 6 upc
 | Sat, 3 Oct 2026 | Huis van Koperblond - Free Entry | ANNASNEL |
 | Sat, 10 Oct 2026 | Huis van Koperblond - Free Entry |  |
 | Fri, 16 Oct 2026 | Afters: ADE Warmup | Dr Humedo, NoMore |
-| Wed, 21 Oct 2026 | The return of Solo Ravers Invite | Clodol, DE//SIRE, SLURPiSS |
+| Wed, 21 Oct 2026 | The return of Solo Ravers Invite | Clodol, DE//SIRE, SLURPiSS, oatmilk (2) |
 | Thu, 22 Oct 2026 | Bubbling Baby x Huis van Koperblond - Free Entry (ADE Special) | Koperblond, Yucky |
 | Sat, 24 Oct 2026 | Disco Saves The Day presents: MiNNA & Laura Meester | Laura Meester, MiNNA |
 

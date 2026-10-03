@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BERHTA, Washington DC on Sat, 3 Oct 2026.
+Hybrid Minds is a Drum & Bass and Garage artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BERHTA, Washington DC on Sat, 3 Oct 2026.
 
-Hybrid Minds is a drum & bass and bass artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 36 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: BERHTA, Washington DC on Sat 3 Oct.
+Hybrid Minds is a drum & bass and garage artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 36 more. Often billed alongside Tempza, K Motionz and Andy C. Next up: BERHTA, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 

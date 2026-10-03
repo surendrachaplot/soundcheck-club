@@ -16,13 +16,13 @@ Book Club Radio Festival #2 The Outer Rim at Brooklyn Roots Collective on Fri 2 
 - Hiroko Yamamura
 - Jex Opolis
 - Jojo Lorenzo
+- KYRUH
 - Machinedrum
 - Mark Farina
 - MikeQ
 - Nikki Nair
 - Öona Dahl
 - RaeCola
-- Regularfantasy
 - Soul Summit Music
 - Tinzo
 - Toribio

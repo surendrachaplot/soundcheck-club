@@ -1,14 +1,15 @@
 # ONARSÉ
 
-ONARSÉ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat, 31 Oct 2026.
+ONARSÉ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat, 31 Oct 2026.
 
-ONARSÉ is a techno and hardcore artist based in Australia, with 20 gigs on soundcheck across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat 31 Oct.
+ONARSÉ is a techno and hardcore artist based in Australia, with 21 gigs on soundcheck across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR | Sydney |
+| Fri, 13 Nov 2026 | 24 Moons | Melbourne |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Lunar Disco
 
-Lunar Disco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sunset Beach Bali, Bali on Sat, 3 Oct 2026.
+Lunar Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sunset Beach Bali, Bali on Sun, 18 Oct 2026.
 
-Lunar Disco is a house and disco artist based in France, with 20 gigs on soundcheck across Bali, Barcelona, Ibiza and Marseille and 3 more. Often billed alongside Aaiste, Andy Garvey and Ben Nott. Next up: Sunset Beach Bali, Bali on Sat 3 Oct.
+Lunar Disco is a house and disco artist based in France, with 20 gigs on soundcheck across Bali, Barcelona, Ibiza and Marseille and 3 more. Often billed alongside Aaiste, Andy Garvey and Ben Nott. Next up: Sunset Beach Bali, Bali on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sunset Beach Bali | Bali |
 | Sun, 18 Oct 2026 | Sunset Beach Bali | Bali |
 
 ## Recently played

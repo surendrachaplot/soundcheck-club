@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "People Drift presents DJ Pete (extended set)" on Sat, 3 Oct 2026.
+Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "People Drift presents DJ Pete (extended set)" on Sat, 3 Oct 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including amil raja, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including amil raja, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gi
 | Sat, 17 Oct 2026 | Patterns: Picture, Leila, Mother, yingtuitive and Lali | Central, Leila, Mother (UK), lali:, yingtuitive |
 | Sat, 24 Oct 2026 | Warmth TBA |  |
 | Fri, 30 Oct 2026 | mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk | Kelman Duran, Lord Tusk, mi-el, ojoo |
-| Fri, 6 Nov 2026 | Expert Death 13: Gaetano Parisio, Tasha, Ilya-Gurin Babayeu + drysu | Gaetano Parisio, Ilya Gurin-Babayeu, Tasha, drysu |
+| Sat, 31 Oct 2026 | 5 GATE TEMPLE ~ OCTOBER 31ST ~ HALLOWEEN | John T. Gast, Nkisi, Xterea, d.phylleia |
 
 ## Address
 

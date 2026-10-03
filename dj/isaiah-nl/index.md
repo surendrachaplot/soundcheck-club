@@ -1,8 +1,8 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and Club artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Isaiah (NL) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
-Isaiah (NL) is a techno and club artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
+Isaiah (NL) is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: Oma Doris, Dortmund Essen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Isaiah (NL) is a techno and club artist based in Netherlands, with 103 gigs on s
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Oma Doris | Dortmund-essen |
 | Fri, 16 Oct 2026 | Kaiku | Helsinki |
+| Wed, 21 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |

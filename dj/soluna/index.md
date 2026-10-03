@@ -1,14 +1,15 @@
 # Soluna
 
-Soluna is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
+Soluna is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
 
-Soluna is a techno and industrial artist based in United States of America, with 23 gigs on soundcheck across New York City, Paris and Tokyo. Often billed alongside DALJAE, DICE and EMILIO. Next up: clubasia, Tokyo on Fri 9 Oct.
+Soluna is a techno and industrial artist based in United States of America, with 24 gigs on soundcheck across New York City, Paris and Tokyo. Often billed alongside DALJAE, DICE and EMILIO. Next up: clubasia, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | clubasia | Tokyo |
+| Sun, 11 Oct 2026 | Z Maruyama | Tokyo |
 
 ## Recently played
 

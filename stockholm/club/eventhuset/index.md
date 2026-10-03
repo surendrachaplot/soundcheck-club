@@ -1,8 +1,8 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Skankstasy ☆ MAKODE LINDE ☆ DJ KILLING ☆ Per Qx ☆ HOLTTER ☆ BASEMENT BOYS" on Sat, 3 Oct 2026.
+Eventhuset is a music venue in Stockholm with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Skankstasy ☆ MAKODE LINDE ☆ DJ KILLING ☆ Per Qx ☆ HOLTTER ☆ BASEMENT BOYS" on Sat, 3 Oct 2026.
 
-Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Billie Jo, CC Luna and DJ Godfather and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
+Eventhuset is a music venue in Stockholm listed on soundcheck. 9 upcoming gigs, with line-ups including ARANEA, Billie Jo, CC Luna and Connor Wall and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, 
 | Sat, 7 Nov 2026 | CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker | CC Luna, Metapattern |
 | Sat, 21 Nov 2026 | LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX | LOLSNAKE, MERILIN, Magnuscc |
 | Sat, 28 Nov 2026 | BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo (STHLM) | ARANEA, Billie Jo, LAMACHINE, Paul Fitzgibbon |
+| Sat, 5 Dec 2026 | BRONX TECHNO NIGHT >> Connor Wall >> CC Luna >> T.B.A | CC Luna, Connor Wall |
 | Thu, 31 Dec 2026 | BRONX New Year's Eve Special International guests 2 floor |  |
 
 ## Address

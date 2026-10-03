@@ -1,13 +1,14 @@
 # DSKE
 
-DSKE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
+DSKE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Sun, 4 Oct 2026.
 
-DSKE is a house and techno artist based in Japan, with 75 gigs on soundcheck across Hong Kong, Seattle, Seoul and Singapore and 2 more. Often billed alongside MAYUDEPTH, DJ POIPOI and MUNÉO. Next up: WOMB, Tokyo on Sat 24 Oct.
+DSKE is a house and techno artist based in Japan, with 76 gigs on soundcheck across Hong Kong, Seattle, Seoul and Singapore and 2 more. Often billed alongside MAYUDEPTH, DJ POIPOI and MUNÉO. Next up: clubasia, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | clubasia | Tokyo |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 30 Oct 2026 | Pawnshop | Taipei |
 

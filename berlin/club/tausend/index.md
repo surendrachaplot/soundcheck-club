@@ -1,8 +1,8 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tausend House: Spencer Parker" on Sat, 3 Oct 2026.
+Tausend is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tausend House: Spencer Parker" on Sat, 3 Oct 2026.
 
-Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Bombata, LIZZN, Mambi Dexter and Spencer Parker and 1 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
+Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bombata, Carla Valenti, LIZZN and Mambi Dexter and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with l
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Tausend House: Spencer Parker | Spencer Parker |
 | Thu, 8 Oct 2026 | HOUSE QUEENS | LIZZN |
+| Fri, 9 Oct 2026 | Tausend House: Carla Valenti | Carla Valenti |
 | Sat, 10 Oct 2026 | Tausend House: Tommes K. Brandt | Tommes K. Brandt |
 | Fri, 23 Oct 2026 | The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler | Bombata, Mambi Dexter |
 

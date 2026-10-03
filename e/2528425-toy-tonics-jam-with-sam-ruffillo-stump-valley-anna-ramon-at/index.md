@@ -1,6 +1,6 @@
 # Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon at Stadtgarten Konzertsaal / Cafe
 
-Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon at Stadtgarten Konzertsaal / Cafe on Sat 10 Oct, Cologne. 3 artists: DAVINA, Sam Ruffillo and Stump Valley. House and Disco. See the line-up on soundcheck.
+Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon at Stadtgarten Konzertsaal / Cafe on Sat 10 Oct, Cologne. 4 artists: Alfalfa, DAVINA, Sam Ruffillo and Stump Valley. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Toy Tonics Jam with Sam Ruffillo, Stump Valley, Anna & Ramon at Stadtgarten Konz
 
 ## Line-up
 
+- Alfalfa (2)
 - DAVINA
 - Sam Ruffillo
 - Stump Valley

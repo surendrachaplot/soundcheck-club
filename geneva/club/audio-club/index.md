@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Echonomist · BLACK SPACE · Jeremy Sunsets · La Forêt" on Sat, 3 Oct 2026.
+Audio Club is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Echonomist · Jeremy Sunsets · La Forêt" on Sat, 3 Oct 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, with line-ups including Âme, Chloe Martinez, Dachshund and Deborah De Luca and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -8,7 +8,7 @@ Audio Club is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Echonomist · BLACK SPACE · Jeremy Sunsets · La Forêt | Echonomist, Jeremy Sunsets, La Forêt |
+| Sat, 3 Oct 2026 | Echonomist · Jeremy Sunsets · La Forêt | Echonomist, Jeremy Sunsets, La Forêt |
 | Fri, 9 Oct 2026 | Âme DJ · Dachshund · DJ Reas | DJ Reas, Dachshund, Âme |
 | Sat, 10 Oct 2026 | Matthias Tanzmann · La Forêt · S2CRETO · Pierre Locher | La Forêt, Matthias Tanzmann, Pierre Locher |
 | Fri, 23 Oct 2026 | Laolu · ENAH · TWOFORALL | Laolu |

@@ -1,8 +1,8 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 3 Oct 2026.
+Radio Slave is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 3 Oct 2026.
 
-Radio Slave is a house and techno artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 43 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Studio Club Malaga, Malaga on Sat 3 Oct.
+Radio Slave is a house and techno artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 44 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Studio Club Malaga, Malaga on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Radio Slave is a house and techno artist based in United Kingdom, with 121 gigs 
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 10 Oct 2026 | Omeara | London |
+| Sat, 17 Oct 2026 | Climax-Institutes | Stuttgart |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 20 Nov 2026 | Flash | Washington DC |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |

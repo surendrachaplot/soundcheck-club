@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 326 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
+TBA is a music venue in London with 324 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 326 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 324 upcoming gigs, with line-ups including 1-800 GIRLS, 8h sleep, 8ULENTINA and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,8 +15,8 @@ TBA is a music venue in London listed on soundcheck. 326 upcoming gigs, with lin
 | Sat, 3 Oct 2026 | giegling in sofia | Adriana (3), Cassy, Edward, Konstantin, Yamour |
 | Sat, 3 Oct 2026 | DISTRIKT Fundrasier - Los Angeles | Brian Cid, Dance Spirit, Maria Nocheydía, m.O.N.R.O.E. |
 | Sat, 3 Oct 2026 | A night at Studio 54 |  |
-| Sat, 3 Oct 2026 | ROTE8 Warehouse: Phil Berg / Kr!z | Darkova, Kr!z, Lee Osborne, Phil Berg |
 | Sat, 3 Oct 2026 | Mood | Vignette |
 | Sat, 3 Oct 2026 | 𝐯𝐲𝐨͞𝐨 10th Anniversary W/ Carlos Souffront + Mr. Murray | Carlos Souffront, Mr. Murray |
+| Sat, 3 Oct 2026 | FROST with Notte Infinita, Kasarian X, Xiumei, OpenEnd b2b IHA | DR BPM, IHA (CA), Notte Infinita, OpenEnd, Xiumei |
 
 *Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
