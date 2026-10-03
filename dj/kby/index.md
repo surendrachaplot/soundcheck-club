@@ -1,6 +1,6 @@
 # KBY
 
-KBY is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+KBY is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 KBY is a house and minimal artist, with 7 gigs on soundcheck across London and Tunisia. Often billed alongside Cem Ozden, Adema and Alexander Skancke. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ KBY is a house and minimal artist, with 7 gigs on soundcheck across London and T
 
 Cem Ozden, Adema, Alexander Skancke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kby/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kby/)*

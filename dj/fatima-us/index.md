@@ -1,6 +1,6 @@
 # Fátima
 
-Fátima is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
+Fátima is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
 
 Fátima is a house and tech house artist based in Mexico, with 32 gigs on soundcheck across Berlin, Mexico City, New York City and Washington DC. Often billed alongside Late London, VYNX and branqueeno. Next up: TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fátima is a house and tech house artist based in Mexico, with 32 gigs on soundc
 
 Late London, VYNX, branqueeno
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatima-us/)*

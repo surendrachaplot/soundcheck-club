@@ -1,6 +1,6 @@
 # Stretch and Fold
 
-Stretch and Fold is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Jazz Club ADE 26" on Sat, 24 Oct 2026.
+Stretch and Fold is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jazz Club ADE 26" on Sat, 24 Oct 2026.
 
 Stretch and Fold is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stretch and Fold is a music venue in Amsterdam listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Jazz Club ADE 26 |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/stretch-and-fold/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/stretch-and-fold/)*

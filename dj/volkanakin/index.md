@@ -1,6 +1,6 @@
 # Volkan Akin
 
-Volkan Akin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
+Volkan Akin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
 
 Volkan Akin is a house and techno artist, with 29 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Rome. Often billed alongside Stipé, Arno aka Einzelkind and Foehn & Jerome. Next up: Klaproos, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Volkan Akin is a house and techno artist, with 29 gigs on soundcheck across Amst
 
 Stipé, Arno aka Einzelkind, Foehn & Jerome
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*

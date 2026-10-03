@@ -1,6 +1,6 @@
 # Desuba
 
-Desuba is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Desuba is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Desuba is a minimal and techno artist based in Italy, with 83 gigs on soundcheck across Berlin, Brighton, Bucharest and London and 4 more. Often billed alongside LUUD, Myriam and Pas2problemes. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Desuba is a minimal and techno artist based in Italy, with 83 gigs on soundcheck
 
 LUUD, Myriam, Pas2problemes
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desuba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desuba/)*

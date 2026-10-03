@@ -1,6 +1,6 @@
 # nabii
 
-nabii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OIL Club, Shenzhen on Fri, 9 Oct 2026.
+nabii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OIL Club, Shenzhen on Fri, 9 Oct 2026.
 
 nabii is a techno and trance artist based in Australia, with 41 gigs on soundcheck across Brisbane, Chengdu, Melbourne and Shenzhen and 1 more. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: OIL Club, Shenzhen on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ nabii is a techno and trance artist based in Australia, with 41 gigs on soundche
 
 syrup-E, Chaotiic Good, Lost Memories
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*

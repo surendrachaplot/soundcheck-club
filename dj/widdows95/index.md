@@ -1,6 +1,6 @@
 # widdows95
 
-widdows95 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jama, Toronto on Sat, 17 Oct 2026.
+widdows95 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Jama, Toronto on Sat, 17 Oct 2026.
 
 widdows95 is a house and techno artist based in Canada, with 9 gigs on soundcheck across New York City, Toronto and Vancouver. Often billed alongside Blkvirgo, Carbajal and Critter. Next up: The Jama, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ widdows95 is a house and techno artist based in Canada, with 9 gigs on soundchec
 
 Blkvirgo, Carbajal, Critter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*

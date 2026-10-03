@@ -1,6 +1,6 @@
 # Mira Méla
 
-Mira Méla is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Mira Méla is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
 Mira Méla is a house and deep house artist, with 5 gigs on soundcheck across Toronto and Vancouver. Often billed alongside Blkvirgo, Hangaelle and Jesse Walker. Next up: TBA, Toronto on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Mira Méla is a house and deep house artist, with 5 gigs on soundcheck across To
 
 Blkvirgo, Hangaelle, Jesse Walker
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramela/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramela/)*

@@ -1,6 +1,6 @@
 # Jay Glass Dubs
 
-Jay Glass Dubs is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantso, Athens on Thu, 8 Oct 2026.
+Jay Glass Dubs is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Romantso, Athens on Thu, 8 Oct 2026.
 
 Jay Glass Dubs is an experimental and electro artist based in Greece, with 18 gigs on soundcheck across Athens, Berlin, Cologne and London and 5 more. Often billed alongside Sissi Rada, FELINTO and Garburel. Next up: Romantso, Athens on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Jay Glass Dubs is an experimental and electro artist based in Greece, with 18 gi
 
 Sissi Rada, FELINTO, Garburel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayglassdubs/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayglassdubs/)*

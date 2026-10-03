@@ -1,6 +1,6 @@
 # MEETFRANKA
 
-MEETFRANKA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiener Werkshallen, Vienna on Sat, 3 Oct 2026.
+MEETFRANKA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wiener Werkshallen, Vienna on Sat, 3 Oct 2026.
 
 MEETFRANKA is a house and techno artist based in Austria, with 20 gigs on soundcheck across Vienna. Often billed alongside AARON, Steve Hope and THNK PNK. Next up: Wiener Werkshallen, Vienna on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ MEETFRANKA is a house and techno artist based in Austria, with 20 gigs on soundc
 
 AARON, Steve Hope, THNK PNK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meetfranka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meetfranka/)*

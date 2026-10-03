@@ -1,6 +1,6 @@
 # Benedict
 
-Benedict is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 30 Oct 2026.
+Benedict is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 30 Oct 2026.
 
 Benedict is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Liverpool and Manchester and 1 more. Often billed alongside Sirrey, Jana Falcon and Amy Amor. Next up: Eastern Bloc Records, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Benedict is a house and disco artist based in United Kingdom, with 41 gigs on so
 
 Sirrey, Jana Falcon, Amy Amor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benedict/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benedict/)*

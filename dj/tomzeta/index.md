@@ -1,13 +1,14 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar, Belgrade on Sat, 10 Oct 2026.
+Tom Zeta is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOMO, Azerbaijan on Fri, 9 Oct 2026.
 
-Tom Zeta is a house and deep house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 8 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Hangar, Belgrade on Sat 10 Oct.
+Tom Zeta is a house and deep house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Belgrade and 9 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: FOMO, Azerbaijan on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | FOMO | Azerbaijan |
 | Sat, 10 Oct 2026 | Hangar | Belgrade |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
@@ -27,4 +28,4 @@ Tom Zeta is a house and deep house artist based in Netherlands, with 28 gigs on 
 
 Adam Ten, Matthias Tanzmann, Mita Gami
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

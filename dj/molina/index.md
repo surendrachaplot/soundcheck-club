@@ -1,6 +1,6 @@
 # Molina
 
-Molina is a Electronica and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Molina is a Electronica and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Molina is an electronica and progressive house artist based in Colombia, with 7 gigs on soundcheck across Amsterdam, Leeds, Mexico City and New York City and 1 more. Often billed alongside Buttechno, Christian AB and DARKSIDE. Next up: public records, New York City on Mon 9 Nov.
 
@@ -23,4 +23,4 @@ Molina is an electronica and progressive house artist based in Colombia, with 7 
 
 Buttechno, Christian AB, DARKSIDE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*

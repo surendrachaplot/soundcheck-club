@@ -1,6 +1,6 @@
 # Tommy Cornelis
 
-Tommy Cornelis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at broad hall., Philadelphia on Fri, 9 Oct 2026.
+Tommy Cornelis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at broad hall., Philadelphia on Fri, 9 Oct 2026.
 
 Tommy Cornelis is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Denver, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: broad hall., Philadelphia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Tommy Cornelis is a house and techno artist based in United States of America, w
 
 Joyce Lim, Baronhawk Poitier, Dean Sullivan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*

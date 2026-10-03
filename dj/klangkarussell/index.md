@@ -1,6 +1,6 @@
 # Klangkarussell
 
-Klangkarussell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNLOCKED, London on Sat, 24 Oct 2026.
+Klangkarussell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNLOCKED, London on Sat, 24 Oct 2026.
 
 Klangkarussell is a house and techno artist based in Austria, with 44 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Andre Klang, Michel Sacher and Prismode. Next up: UNLOCKED, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Klangkarussell is a house and techno artist based in Austria, with 44 gigs on so
 
 Andre Klang, Michel Sacher, Prismode
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*

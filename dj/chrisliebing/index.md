@@ -1,6 +1,6 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Chris Liebing is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Chris Liebing is a techno and house artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Chris Liebing is a techno and house artist based in Germany, with 193 gigs on so
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

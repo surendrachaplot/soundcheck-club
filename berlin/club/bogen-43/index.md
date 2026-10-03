@@ -1,6 +1,6 @@
 # Bogen 43
 
-Bogen 43 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Bogen 43 listening sessions" on Sun, 4 Oct 2026.
+Bogen 43 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bogen 43 listening sessions" on Sun, 4 Oct 2026.
 
 Bogen 43 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including eira haul, miszo and Olsvangèr. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Bogen 43 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 | Sun, 1 Nov 2026 | Bogen 43 listening sessions | Olsvangèr, eira haul |
 | Sun, 6 Dec 2026 | Bogen 43 listening sessions | miszo |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bogen-43/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bogen-43/)*

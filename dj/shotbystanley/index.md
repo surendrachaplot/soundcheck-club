@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Sat, 10 Oct 2026.
+shot by stanley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Sat, 10 Oct 2026.
 
 shot by stanley is a techno and house artist based in Colombia, with 18 gigs on soundcheck across Berlin, Chicago, Munich and Stuttgart and 1 more. Often billed alongside ALXJ, Pysh and Bombata. Next up: Smolna, Warsaw on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ shot by stanley is a techno and house artist based in Colombia, with 18 gigs on 
 
 ALXJ, Pysh, Bombata
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

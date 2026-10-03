@@ -1,13 +1,14 @@
 # Loyboy
 
-Loyboy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Loyboy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawnshop, Taipei on Thu, 29 Oct 2026.
 
-Loyboy is a house and techno artist, with 59 gigs on soundcheck across Bangkok, Hong Kong, Singapore and Thailand. Often billed alongside Dangdude, Emma SS and VIX. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Loyboy is a house and techno artist based in Singapore, with 60 gigs on soundcheck across Bangkok, Hong Kong, Singapore and Taipei and 1 more. Often billed alongside Dangdude, Emma SS and VIX. Next up: Pawnshop, Taipei on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Pawnshop | Taipei |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
@@ -25,4 +26,4 @@ Loyboy is a house and techno artist, with 59 gigs on soundcheck across Bangkok, 
 
 Dangdude, Emma SS, VIX (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*

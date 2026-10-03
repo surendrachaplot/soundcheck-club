@@ -1,6 +1,6 @@
 # ALBA (3)
 
-ALBA (3) is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lieberscholli, Munich on Fri, 9 Oct 2026.
+ALBA (3) is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lieberscholli, Munich on Fri, 9 Oct 2026.
 
 ALBA is a house and hip-hop artist based in Germany, with 26 gigs on soundcheck across Berlin, Leipzig, Munich and Nürnberg. Often billed alongside Helina, Anton Gerden and DJ HOT. Next up: Lieberscholli, Munich on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ALBA is a house and hip-hop artist based in Germany, with 26 gigs on soundcheck 
 
 Helina, Anton Gerden, DJ HOT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*

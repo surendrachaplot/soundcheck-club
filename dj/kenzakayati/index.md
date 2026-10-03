@@ -1,6 +1,6 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+KENZA KAYATI is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
 
 KENZA KAYATI is a techno and electronica artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin, Malaga and Milan and 2 more. Often billed alongside Ede, Echonomist and ALADAG. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ KENZA KAYATI is a techno and electronica artist based in Germany, with 10 gigs o
 
 Ede, Echonomist, ALADAG
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*

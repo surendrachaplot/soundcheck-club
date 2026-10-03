@@ -1,6 +1,6 @@
 # DJ PRIYA
 
-DJ PRIYA is a Hardcore and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
+DJ PRIYA is a Hardcore and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
 
 DJ PRIYA is a hardcore and garage artist based in United Kingdom, with 12 gigs on soundcheck across Barcelona, Brighton, Dublin and London and 1 more. Often billed alongside THEMPRESS, ARMANA KHAN and AYAYA. Next up: fabric, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ PRIYA is a hardcore and garage artist based in United Kingdom, with 12 gigs o
 
 THEMPRESS, ARMANA KHAN, AYAYA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpriya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpriya/)*

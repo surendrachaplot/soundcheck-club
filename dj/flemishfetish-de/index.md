@@ -1,6 +1,6 @@
 # Flemish.Fetish
 
-Flemish.Fetish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Animal, New York City on Sat, 3 Oct 2026.
+Flemish.Fetish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Animal, New York City on Sat, 3 Oct 2026.
 
 Flemish.Fetish is a house and techno artist based in Germany, with 42 gigs on soundcheck across Antwerp, Berlin, Brussels and Munich and 2 more. Often billed alongside Jana Falcon, ADAM MUNNINGS and VRTL. Next up: Animal, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Flemish.Fetish is a house and techno artist based in Germany, with 42 gigs on so
 
 Jana Falcon, ADAM MUNNINGS, VRTL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*

@@ -1,6 +1,6 @@
 # Pressure Point
 
-Pressure Point is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Pressure Point is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Pressure Point is a techno and house artist based in Italy, with 15 gigs on soundcheck across Berlin, Los Angeles, Miami and Milan. Often billed alongside Berrakka, Coffintexts and Mai iachetti. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Pressure Point is a techno and house artist based in Italy, with 15 gigs on soun
 
 Berrakka, Coffintexts, Mai iachetti
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*

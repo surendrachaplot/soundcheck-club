@@ -1,6 +1,6 @@
 # ROKI
 
-ROKI is a Drum & Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
+ROKI is a Drum & Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 ROKI is a drum & bass and broken beat artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Glasgow, London and Rotterdam and 2 more. Often billed alongside A K, A.M.C. and AIS De La Montagne. Next up: Room 2 Glasgow, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ROKI is a drum & bass and broken beat artist based in United Kingdom, with 15 gi
 
 A K, A.M.C., AIS De La Montagne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roki/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roki/)*

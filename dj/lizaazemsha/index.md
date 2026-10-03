@@ -1,6 +1,6 @@
 # Liza Azemsha
 
-Liza Azemsha is a Italo Disco and New Wave artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
+Liza Azemsha is a Italo Disco and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
 
 Liza Azemsha is an italo disco and new wave artist based in Belarus, with 4 gigs on soundcheck across Warsaw. Often billed alongside Pawel Blot, Bohan and Chupax. Next up: K-Bar Powiśle, Warsaw on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Liza Azemsha is an italo disco and new wave artist based in Belarus, with 4 gigs
 
 Pawel Blot, Bohan, Chupax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaazemsha/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaazemsha/)*

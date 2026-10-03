@@ -1,6 +1,6 @@
 # Mathis Ruffing
 
-Mathis Ruffing is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Place Sathonay, Lyon, Lyon on Sat, 10 Oct 2026.
+Mathis Ruffing is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Place Sathonay, Lyon, Lyon on Sat, 10 Oct 2026.
 
 Mathis Ruffing is a techno and breakbeat artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Detroit and Hamburg and 5 more. Often billed alongside Ciel, BLUME and Blu:sh. Next up: Place Sathonay, Lyon, Lyon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mathis Ruffing is a techno and breakbeat artist based in Germany, with 27 gigs o
 
 Ciel, BLUME, Blu:sh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathisruffing/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathisruffing/)*

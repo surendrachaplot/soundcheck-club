@@ -1,14 +1,13 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MÄX, Zurich on Fri, 2 Oct 2026.
+davyboi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
-davyboi is a techno and trance artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: MÄX, Zurich on Fri 2 Oct.
+davyboi is a techno and trance artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | MÄX | Zurich |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
@@ -20,9 +19,11 @@ davyboi is a techno and trance artist based in Germany, with 170 gigs on soundch
 | Sat, 7 Nov 2026 | BASIS | Utrecht |
 | Fri, 13 Nov 2026 | Fuse | Brussels |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
+- MÄX, Zurich · Fri, 2 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 25 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Bootshaus, Cologne · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ davyboi is a techno and trance artist based in Germany, with 170 gigs on soundch
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Uebel & Gefährlich, Hamburg · Fri, 11 Sept 2026
 - TBA, Melbourne · Sat, 5 Sept 2026
-- Home The Venue, Sydney · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

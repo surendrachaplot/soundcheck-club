@@ -1,6 +1,6 @@
 # Tacchi
 
-Tacchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Club Igualada, Barcelona on Fri, 9 Oct 2026.
+Tacchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Club Igualada, Barcelona on Fri, 9 Oct 2026.
 
 Tacchi is a house and techno artist based in Spain, with 32 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Devicious, ATMEN and Cesar Martino. Next up: Le Club Igualada, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tacchi is a house and techno artist based in Spain, with 32 gigs on soundcheck a
 
 Devicious, ATMEN, Cesar Martino
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tacchi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tacchi/)*

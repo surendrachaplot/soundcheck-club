@@ -1,6 +1,6 @@
 # Deraout
 
-Deraout is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
+Deraout is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
 
 Deraout is a techno and dub techno artist based in Colombia, with 9 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Ali-Az, Flug and Kevin Matto. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Deraout is a techno and dub techno artist based in Colombia, with 9 gigs on soun
 
 Ali-Az, Flug, Kevin Matto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

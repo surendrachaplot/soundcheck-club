@@ -1,6 +1,6 @@
 # Uchi
 
-Uchi is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
+Uchi is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
 
 Uchi is a techno and breakbeat artist based in Venezuela, with 3 gigs on soundcheck across Berlin and Miami. Often billed alongside 619!, 999999999 and AABEL. Next up: The Ground at Club Space, Miami on Fri 2 Oct.
 
@@ -13,10 +13,11 @@ Uchi is a techno and breakbeat artist based in Venezuela, with 3 gigs on soundch
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Fri, 2 Oct 2026
 - Backsteinboot, Berlin · Fri, 17 Feb 2023
 
 ## Shares bills with
 
 619!, 999999999, AABEL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uchi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uchi/)*

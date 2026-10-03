@@ -1,6 +1,6 @@
 # Immy
 
-Immy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
+Immy is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Phantom Bar Berlin, Berlin on Sat, 3 Oct 2026.
 
 Immy is a house and techno artist based in Canada, with 102 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 4 more. Often billed alongside Triqi, Jana Falcon and DJ NORTHERN. Next up: Phantom Bar Berlin, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Immy is a house and techno artist based in Canada, with 102 gigs on soundcheck a
 
 Triqi, Jana Falcon, DJ NORTHERN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

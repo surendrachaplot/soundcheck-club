@@ -1,6 +1,6 @@
 # Green (IT)
 
-Green (IT) is a Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fanfulla 5/a, Rome on Thu, 8 Oct 2026.
+Green (IT) is a Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fanfulla 5/a, Rome on Thu, 8 Oct 2026.
 
 Green (IT) is a dancehall artist, with 7 gigs on soundcheck across Berlin, Rome and Tokyo. Often billed alongside Adi (CO), Betty and Collarbone. Next up: Fanfulla 5/a, Rome on Thu 8 Oct.
 
@@ -23,4 +23,4 @@ Green (IT) is a dancehall artist, with 7 gigs on soundcheck across Berlin, Rome 
 
 Adi (CO), Betty, Collarbone
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*

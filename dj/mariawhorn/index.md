@@ -1,6 +1,6 @@
 # Maria W Horn
 
-Maria W Horn is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Maria W Horn is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Maria W Horn is an experimental and drone artist, with 14 gigs on soundcheck across Basel, Berlin, Birmingham and Leipzig and 6 more. Often billed alongside Venus Ex Machina, aya and Abdullah Miniawy. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Maria W Horn is an experimental and drone artist, with 14 gigs on soundcheck acr
 
 Venus Ex Machina, aya, Abdullah Miniawy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawhorn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawhorn/)*

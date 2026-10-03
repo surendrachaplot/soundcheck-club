@@ -1,8 +1,8 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barraca, Valencia on Sat, 3 Oct 2026.
+relajadita is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Barraca, Valencia on Sat, 3 Oct 2026.
 
-relajadita is a techno and trance artist based in Spain, with 24 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside Adrian Mills, DVAID and HiTMiLØW. Next up: Barraca, Valencia on Sat 3 Oct.
+relajadita is a techno and trance artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Adrian Mills, DVAID and HiTMiLØW. Next up: Barraca, Valencia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ relajadita is a techno and trance artist based in Spain, with 24 gigs on soundch
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Sat, 17 Oct 2026 | Link | Bologna |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 24 Oct 2026 | Sala Santana 27 | Bilbao |
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 
@@ -30,4 +31,4 @@ relajadita is a techno and trance artist based in Spain, with 24 gigs on soundch
 
 Adrian Mills, DVAID, HiTMiLØW
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

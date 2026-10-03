@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
+Miguelle is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, with 115 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: IDRA, Manchester on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Miguelle is a tech house and house artist based in Venezuela, with 115 gigs on s
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

@@ -1,6 +1,6 @@
 # Elvin Brandhi
 
-Elvin Brandhi is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Elvin Brandhi is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Elvin Brandhi is an experimental and electronica artist based in Germany, with 23 gigs on soundcheck across Armenia, Barcelona, Belfast and Berlin and 12 more. Often billed alongside KMRU, DJ Scotch Egg and Heith. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Elvin Brandhi is an experimental and electronica artist based in Germany, with 2
 
 KMRU, DJ Scotch Egg, Heith
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvinbrandhi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvinbrandhi/)*

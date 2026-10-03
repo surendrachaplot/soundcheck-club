@@ -1,6 +1,6 @@
 # Everything Is ART
 
-Everything Is ART is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Everything Is ART is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Everything Is ART is an afro house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside RORY KITE, CLEIDO and Cast Lov. Next up: E1, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Everything Is ART is an afro house and deep house artist based in United Kingdom
 
 RORY KITE, CLEIDO, Cast Lov
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/everythingisart/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/everythingisart/)*

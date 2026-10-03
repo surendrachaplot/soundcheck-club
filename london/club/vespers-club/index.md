@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Drum and Babes 2 Babes" on Sat, 3 Oct 2026.
+Vespers Club is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Drum and Babes 2 Babes" on Sat, 3 Oct 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including AAKAARA, Aircode, Aïsha Devi and Capricorn and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

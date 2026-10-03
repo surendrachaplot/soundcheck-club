@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NEON DREAMS COLOGNE" on Fri, 2 Oct 2026.
+Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KLUENGEL im Artheater with DJ SEXSTASY" on Fri, 9 Oct 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, Alalkih, Amøn and Blame The Mono and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including 909 RACING TEAM, Alalkih, DJ SEXSTASY and Domenik Deckert and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | NEON DREAMS COLOGNE | Amøn, Blame The Mono, DICE, DJ Achim Feuervogel, DJ Nicelife, LSG (3), NIA (4), SMVGGLERS |
 | Fri, 9 Oct 2026 | KLUENGEL im Artheater with DJ SEXSTASY | DJ SEXSTASY, FLACCO, Gianni, JaeS, SERA (2), Schuhmacher (3), Sneaky Pete, mae.ly |
 | Sat, 10 Oct 2026 | Queeer Inc. X VESELKA | Alalkih, Irakli, Juan Del Chambo, Redfocks |
 | Sat, 17 Oct 2026 | HiTMiLØW - All Night Long 6 Decks | HiTMiLØW |
@@ -20,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

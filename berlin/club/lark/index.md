@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Delírio 2nd Anniversary - Club Night" on Sat, 3 Oct 2026.
+Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Delírio 2nd Anniversary - Club Night" on Sat, 3 Oct 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and CHRANDY and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -23,4 +23,4 @@ Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with lin
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

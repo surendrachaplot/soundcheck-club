@@ -1,6 +1,6 @@
 # Polyfaer
 
-Polyfaer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Back Room, Bali on Sat, 17 Oct 2026.
+Polyfaer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Back Room, Bali on Sat, 17 Oct 2026.
 
 Polyfaer is a techno and electro artist based in Russia, with 17 gigs on soundcheck across Bali, Hong Kong and Kuala Lumpur. Often billed alongside YOGV, Anelle and Caze. Next up: The Back Room, Bali on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Polyfaer is a techno and electro artist based in Russia, with 17 gigs on soundch
 
 YOGV, Anelle, Caze (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyfaer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyfaer/)*

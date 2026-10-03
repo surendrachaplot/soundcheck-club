@@ -1,6 +1,6 @@
 # Iris
 
-Iris is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eria Marina, San Francisco/Oakland on Sun, 11 Oct 2026.
+Iris is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eria Marina, San Francisco/Oakland on Sun, 11 Oct 2026.
 
 Iris is a drum & bass and jungle artist, with 14 gigs on soundcheck across Chicago, Edinburgh, Ghent and Los Angeles and 4 more. Often billed alongside Quadrant, MC Ridda and .KINA. Next up: Eria Marina, San Francisco/Oakland on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Iris is a drum & bass and jungle artist, with 14 gigs on soundcheck across Chica
 
 Quadrant, MC Ridda, .KINA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iris/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iris/)*

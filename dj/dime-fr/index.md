@@ -1,6 +1,6 @@
 # Dimë
 
-Dimë is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KALT, Strasbourg on Sat, 3 Oct 2026.
+Dimë is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KALT, Strasbourg on Sat, 3 Oct 2026.
 
 Dimë is a house and techno artist based in France, with 34 gigs on soundcheck across Berlin, Mexico City, Paris and Strasbourg. Often billed alongside Chill (FR), STU (FR) and Diliman. Next up: KALT, Strasbourg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dimë is a house and techno artist based in France, with 34 gigs on soundcheck a
 
 Chill (FR), STU (FR), Diliman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dime-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dime-fr/)*

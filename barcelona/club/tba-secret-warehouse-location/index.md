@@ -1,6 +1,6 @@
 # TBA - Secret Warehouse Location
 
-TBA - Secret Warehouse Location is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sojourn presents: LEGRAM VG & Joe Rizk" on Sat, 10 Oct 2026.
+TBA - Secret Warehouse Location is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sojourn presents: LEGRAM VG & Joe Rizk" on Sat, 10 Oct 2026.
 
 TBA - Secret Warehouse Location is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including 100%WONG, Charlieowo, Cheyanne Hudson and Foxtrot and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Secret Warehouse Location is a music venue in Barcelona listed on soundche
 | Sat, 17 Oct 2026 | blip with Luca Dioguardi + peratek, Phil Smart, pudding, foxtrot | Foxtrot (2), Luca Dioguardi, Phil Smart, pudding |
 | Sat, 31 Oct 2026 | [Halloween at Secret Warehouse// Live Set// Techno// Bass] BELLISSIMO <3 | 100%WONG, Charlieowo, Cheyanne Hudson, KOLAK, Lorenzo Donato, Sonicmon |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-secret-warehouse-location/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-secret-warehouse-location/)*

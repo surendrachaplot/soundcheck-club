@@ -1,6 +1,6 @@
 # Fold Theory
 
-Fold Theory is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+Fold Theory is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
 
 Fold Theory is a techno and acid artist based in Peru, with 24 gigs on soundcheck across Detroit, Miami and Philadelphia. Often billed alongside DJ Kalin, De León and JFK (USA). Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fold Theory is a techno and acid artist based in Peru, with 24 gigs on soundchec
 
 DJ Kalin, De León, JFK (USA)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foldtheory/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foldtheory/)*

@@ -1,6 +1,6 @@
 # Etienne Nogues
 
-Etienne Nogues is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glazart, Paris on Sat, 10 Oct 2026.
+Etienne Nogues is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Glazart, Paris on Sat, 10 Oct 2026.
 
 Etienne Nogues is a techno and trance artist, with 22 gigs on soundcheck across Berlin, Marseille, Nantes and Paris. Often billed alongside BETÏSES, Britney Speed (FR) and Enigmatik. Next up: Glazart, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Etienne Nogues is a techno and trance artist, with 22 gigs on soundcheck across 
 
 BETÏSES, Britney Speed (FR), Enigmatik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*

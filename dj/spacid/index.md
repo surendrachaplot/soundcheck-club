@@ -1,6 +1,6 @@
 # Spacid
 
-Spacid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 17 Oct 2026.
+Spacid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 17 Oct 2026.
 
 Spacid is a techno and house artist based in Belgium, with 11 gigs on soundcheck across Brussels and Ghent. Often billed alongside Corvus Ex, Ellen Allien and Neon. Next up: VIERNULVIER, Ghent on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Spacid is a techno and house artist based in Belgium, with 11 gigs on soundcheck
 
 Corvus Ex, Ellen Allien, Neon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacid/)*

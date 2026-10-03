@@ -1,6 +1,6 @@
 # Fontango
 
-Fontango is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Subcero Club, Madrid on Fri, 30 Oct 2026.
+Fontango is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Subcero Club, Madrid on Fri, 30 Oct 2026.
 
 Fontango is a house and tech house artist based in Argentina, with 20 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: Subcero Club, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Fontango is a house and tech house artist based in Argentina, with 20 gigs on so
 
 Mat Spiaggi, Riviani, Carlo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*

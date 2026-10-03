@@ -1,6 +1,6 @@
 # LEZARDS
 
-LEZARDS is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sun, 18 Oct 2026.
+LEZARDS is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sun, 18 Oct 2026.
 
 LEZARDS is a house and breakbeat artist based in Germany, with 12 gigs on soundcheck across Berlin, Frankfurt, Munich and Seoul. Often billed alongside Javier Bähr, Max Israel and Robin Koch. Next up: Paloma, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ LEZARDS is a house and breakbeat artist based in Germany, with 12 gigs on soundc
 
 Javier Bähr, Max Israel, Robin Koch
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezards/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezards/)*

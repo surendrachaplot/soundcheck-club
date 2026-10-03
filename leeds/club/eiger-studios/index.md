@@ -1,14 +1,13 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Standard Records presents: Terry Francis" on Fri, 2 Oct 2026.
+Eiger Studios is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BPM Society x Club Eiger" on Sat, 3 Oct 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including Bobby., Decka, Ekkel and Ewan Pearson and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including Bobby., Decka, Ekkel and Ewan Pearson and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Standard Records presents: Terry Francis | Jude Lenihan, Terry Francis |
 | Sat, 3 Oct 2026 | BPM Society x Club Eiger |  |
 | Sat, 10 Oct 2026 | Stick To The Slug with Ekkel & Lewis Laycock | Ekkel |
 | Fri, 16 Oct 2026 | KORP w / residents |  |
@@ -18,9 +17,10 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, 
 | Sat, 31 Oct 2026 | Shy Bairns X Club Eiger | Oliver Kristian, PIP., Redshift (2), Torin Grady, Weston |
 | Fri, 6 Nov 2026 | Twister x Peppermint | Richard Gregory, Simon Scott |
 | Sat, 7 Nov 2026 | ROGUE PUPPET presents: Decka | Decka, Kessie, nilehn, quarter ohm |
+| Fri, 13 Nov 2026 | keep going | Shizla, švedka |
 
 ## Address
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

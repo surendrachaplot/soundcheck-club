@@ -1,6 +1,6 @@
 # Leona Jacewska
 
-Leona Jacewska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Leona Jacewska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
 Leona Jacewska is a techno and electro artist based in Poland, with 16 gigs on soundcheck across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Franz Scala and Sound Metaphors Djs. Next up: Sameheads, Berlin on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Leona Jacewska is a techno and electro artist based in Poland, with 16 gigs on s
 
 Charlie, Franz Scala, Sound Metaphors Djs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

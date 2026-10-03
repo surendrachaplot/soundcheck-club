@@ -1,6 +1,6 @@
 # Lucine
 
-Lucine is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
+Lucine is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
 
 Lucine is a techno and breakbeat artist based in France, with 16 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, Sexy G and DELARA. Next up: Phonox, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lucine is a techno and breakbeat artist based in France, with 16 gigs on soundch
 
 FITS ME FUNNY, Sexy G, DELARA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucine/)*

@@ -1,6 +1,6 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
+DJ Fart in the Club is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 DJ Fart in the Club is a techno and house artist based in South Korea, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 39 more. Often billed alongside deep creep, Kia (AU) and livwutang. Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DJ Fart in the Club is a techno and house artist based in South Korea, with 121 
 
 deep creep, Kia (AU), livwutang
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

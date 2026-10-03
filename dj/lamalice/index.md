@@ -1,6 +1,6 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+LAMALICE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 LAMALICE is a house and electro artist based in France, with 116 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Massaï, ABI (FR) and Alyhas. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ LAMALICE is a house and electro artist based in France, with 116 gigs on soundch
 
 Massaï, ABI (FR), Alyhas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

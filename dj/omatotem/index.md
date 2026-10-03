@@ -1,6 +1,6 @@
 # oma totem
 
-oma totem is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at LAUT, Barcelona on Fri, 9 Oct 2026.
+oma totem is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at LAUT, Barcelona on Fri, 9 Oct 2026.
 
 oma totem is a techno and house artist based in Spain, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: LAUT, Barcelona on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ oma totem is a techno and house artist based in Spain, with 66 gigs on soundchec
 
 mad miran, Lena Willikens, Phran
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*

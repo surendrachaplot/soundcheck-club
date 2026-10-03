@@ -1,6 +1,6 @@
 # MARACUYá
 
-MARACUYá is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 24 Oct 2026.
+MARACUYá is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 24 Oct 2026.
 
 MARACUYá is a techno and bass artist based in United Kingdom, with 35 gigs on soundcheck across Liverpool, London, Los Angeles and Manchester and 5 more. Often billed alongside Egg On Toast, THT GRL and MOLL (UK). Next up: Bar Shrimp, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ MARACUYá is a techno and bass artist based in United Kingdom, with 35 gigs on s
 
 Egg On Toast, THT GRL, MOLL (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maracuya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maracuya/)*

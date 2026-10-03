@@ -1,8 +1,8 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Lewis Fautzi is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Lewis Fautzi is a techno and trance artist based in Portugal, with 82 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Lewis Fautzi is a techno and acid artist based in Portugal, with 82 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Lewis Fautzi is a techno and trance artist based in Portugal, with 82 gigs on so
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

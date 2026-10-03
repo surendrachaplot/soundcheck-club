@@ -1,6 +1,6 @@
 # Watr
 
-Watr is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Currents: Kilamanjaro/Ferno/Stefon Osae" on Sun, 4 Oct 2026.
+Watr is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Currents: Kilamanjaro/Ferno/Stefon Osae" on Sun, 4 Oct 2026.
 
 Watr is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-ups including DJ FERNO and KILIMANJARO. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Watr is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Currents: Kilamanjaro/Ferno/Stefon Osae | DJ FERNO, KILIMANJARO |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/watr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/watr/)*

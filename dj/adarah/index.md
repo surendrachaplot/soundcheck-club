@@ -1,6 +1,6 @@
 # Adarah
 
-Adarah is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Sydney on Sat, 3 Oct 2026.
+Adarah is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Sydney on Sat, 3 Oct 2026.
 
 Adarah is a drum & bass and bass artist based in Australia, with 14 gigs on soundcheck across Sydney. Often billed alongside Dread Maiden, Jay See and Nicneven. Next up: TBA, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Adarah is a drum & bass and bass artist based in Australia, with 14 gigs on soun
 
 Dread Maiden, Jay See, Nicneven
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adarah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adarah/)*

@@ -1,6 +1,6 @@
 # Ex Preso Martínez
 
-Ex Preso Martínez is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "[POSPUESTO] CAFEINA SHOTS - Coffee party" on Sat, 3 Oct 2026.
+Ex Preso Martínez is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "[POSPUESTO] CAFEINA SHOTS - Coffee party" on Sat, 3 Oct 2026.
 
 Ex Preso Martínez is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Gisele South. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ex Preso Martínez is a music venue in Madrid listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | [POSPUESTO] CAFEINA SHOTS - Coffee party | Gisele South |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ex-preso-mart-nez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ex-preso-mart-nez/)*

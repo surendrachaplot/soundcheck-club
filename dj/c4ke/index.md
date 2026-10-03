@@ -1,6 +1,6 @@
 # C4KE
 
-C4KE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaiku, Helsinki on Fri, 16 Oct 2026.
+C4KE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaiku, Helsinki on Fri, 16 Oct 2026.
 
 C4KE is a techno and trance artist based in Finland, with 47 gigs on soundcheck across Helsinki. Often billed alongside €TOM, Katvyl and CEB (FI). Next up: Kaiku, Helsinki on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ C4KE is a techno and trance artist based in Finland, with 47 gigs on soundcheck 
 
 €TOM, Katvyl, CEB (FI)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4ke/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4ke/)*

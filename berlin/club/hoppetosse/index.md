@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee" on Fri, 2 Oct 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Yellow Mellow Invites: Legowelt" on Sat, 3 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexandra, Alex Picone, Andrei Ciubuc and Berto (DE) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexandra, Andrei Ciubuc, Berto (DE) and Borja S and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Juno x Hoppetosse: Alex Picone, Robin Ordell, Kamyar Keramati, Bonza, Frankiee | Alex Picone, Bonza, Kamyar Keramati, Robin Ordell |
 | Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam | Alexandra, DJ Slim Fit, Enchanted Rhythms, Meat, metaverde |
 | Sat, 10 Oct 2026 | Mission: Hajdar's Bday | Dorian Paic, Franco Cinelli, Tobi Neumann |
@@ -18,9 +17,10 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
 | Sun, 1 Nov 2026 | Outer Place | Borja S, Dean Denali, Interstellar Funk, Ma.to, Marco Shuttle |
 | Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Schlecksi |
+| Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

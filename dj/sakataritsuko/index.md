@@ -1,6 +1,6 @@
 # 坂田律子
 
-坂田律子 is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+坂田律子 is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 坂田律子 is an experimental and electronica artist, with 24 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Dana Ollestad, Koichi Shima and NordOst. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@
 
 Dana Ollestad, Koichi Shima, NordOst
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakataritsuko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakataritsuko/)*

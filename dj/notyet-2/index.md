@@ -1,6 +1,6 @@
 # Not Yet (2)
 
-Not Yet (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Studio/K, Amsterdam on Thu, 22 Oct 2026.
+Not Yet (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio/K, Amsterdam on Thu, 22 Oct 2026.
 
 Not Yet is a baile funk and bass artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Pedro da Mata, AAlva and Isa Castelari. Next up: Studio/K, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Not Yet is a baile funk and bass artist based in Netherlands, with 21 gigs on so
 
 Pedro da Mata, AAlva, Isa Castelari
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notyet-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notyet-2/)*

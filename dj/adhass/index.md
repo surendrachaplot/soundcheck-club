@@ -1,6 +1,6 @@
 # ADHASS
 
-ADHASS is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+ADHASS is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 ADHASS is an electronic artist, with 17 gigs on soundcheck across Frankfurt. Often billed alongside DJ 069, cravings320 and Orakel. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ADHASS is an electronic artist, with 17 gigs on soundcheck across Frankfurt. Oft
 
 DJ 069, cravings320, Orakel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhass/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhass/)*

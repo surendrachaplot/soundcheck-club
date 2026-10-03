@@ -1,6 +1,6 @@
 # Enzo Elia
 
-Enzo Elia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Enzo Elia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 Enzo Elia is a house and techno artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Istanbul and 2 more. Often billed alongside Musumeci, Lehar and Acidfinky. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Enzo Elia is a house and techno artist based in Germany, with 11 gigs on soundch
 
 Musumeci, Lehar, Acidfinky
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoelia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoelia/)*

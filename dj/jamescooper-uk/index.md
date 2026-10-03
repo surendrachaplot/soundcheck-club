@@ -1,6 +1,6 @@
 # James Cooper (UK)
 
-James Cooper (UK) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Egg London, London on Fri, 13 Nov 2026.
+James Cooper (UK) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Egg London, London on Fri, 13 Nov 2026.
 
 James Cooper (UK) is a minimal and house artist based in United Kingdom, with 16 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Casey Lockhart and Alfie Binet, Drako and ACA (YU). Next up: Egg London, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ James Cooper (UK) is a minimal and house artist based in United Kingdom, with 16
 
 Casey Lockhart and Alfie Binet, Drako, ACA (YU)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescooper-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescooper-uk/)*

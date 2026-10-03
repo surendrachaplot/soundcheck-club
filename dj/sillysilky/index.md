@@ -1,6 +1,6 @@
 # Silly Silky
 
-Silly Silky is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Objktt Record Bar, Seoul on Sat, 10 Oct 2026.
+Silly Silky is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Objktt Record Bar, Seoul on Sat, 10 Oct 2026.
 
 Silly Silky is a house and tech house artist based in South Korea, with 8 gigs on soundcheck across Seoul. Often billed alongside Departs, Demuk and Jaebin. Next up: Objktt Record Bar, Seoul on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Silly Silky is a house and tech house artist based in South Korea, with 8 gigs o
 
 Departs, Demuk, Jaebin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*

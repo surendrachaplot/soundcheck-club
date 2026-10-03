@@ -1,6 +1,6 @@
 # Kakura
 
-Kakura is a Afro House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Secret Location, London on Sat, 10 Oct 2026.
+Kakura is a Afro House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Secret Location, London on Sat, 10 Oct 2026.
 
 Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Secret Location, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs 
 
 MYDIR, Bushman (UK), Azur
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*

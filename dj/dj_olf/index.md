@@ -1,6 +1,6 @@
 # Olf
 
-Olf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
+Olf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at SASS Music Club, Vienna on Fri, 9 Oct 2026.
 
 Olf is a house and deep house artist based in Austria, with 18 gigs on soundcheck across Berlin, Budapest and Vienna. Often billed alongside Funkel, Baktus and Ohrlorian. Next up: SASS Music Club, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Olf is a house and deep house artist based in Austria, with 18 gigs on soundchec
 
 Funkel, Baktus, Ohrlorian
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_olf/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_olf/)*

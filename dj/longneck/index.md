@@ -1,6 +1,6 @@
 # Longneck
 
-Longneck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
+Longneck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
 
 Longneck is a house and techno artist based in France, with 40 gigs on soundcheck across Brussels, Lyon, Paris and Vienna. Often billed alongside Housecall, Prost! and Ams (FR). Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Longneck is a house and techno artist based in France, with 40 gigs on soundchec
 
 Housecall, Prost!, Ams (FR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/longneck/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/longneck/)*

@@ -1,6 +1,6 @@
 # Guim
 
-Guim is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Guim is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
 Guim is an electronica and house artist based in Spain, with 21 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nile Fee, J.P. Sunshine and John Heaven. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Guim is an electronica and house artist based in Spain, with 21 gigs on soundche
 
 Nile Fee, J.P. Sunshine, John Heaven
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guim/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guim/)*

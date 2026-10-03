@@ -1,14 +1,13 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+X CLUB. is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KALT, Strasbourg on Sat, 3 Oct 2026.
 
-X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
+X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: KALT, Strasbourg on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 3 Oct 2026 | KALT | Strasbourg |
 | Sun, 4 Oct 2026 | Le Sucre | Lyon |
 | Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
@@ -20,9 +19,11 @@ X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundc
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 
+- Cité du Cinéma, Paris · Fri, 2 Oct 2026
 - The Cause, London · Sun, 20 Sept 2026
 - Depot Mayfield, Manchester · Fri, 18 Sept 2026
 - Société des arts technologiques, Montreal · Sat, 5 Sept 2026
@@ -30,10 +31,9 @@ X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundc
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
-- Substation, Seattle · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

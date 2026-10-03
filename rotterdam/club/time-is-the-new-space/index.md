@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TIME2CLUB – YoungWoman CLUB VOL. 1" on Fri, 2 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PAESAGGI RECORDS AUTUNNO MINITOUR #2" on Sat, 3 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TIME2CLUB – YoungWoman CLUB VOL. 1 | Helmond Lang, YoungWoman, Zohar, prekeris |
 | Sat, 3 Oct 2026 | PAESAGGI RECORDS AUTUNNO MINITOUR #2 | Gropina, Stefhanja, Wutu |
 | Sun, 4 Oct 2026 | SOIL TRAX SUNDAYS | Charlton, Gabalyn, JELLY |
 | Wed, 7 Oct 2026 | CHESS NIGHT W/ E4 |  |
@@ -18,9 +17,10 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 11 upc
 | Thu, 15 Oct 2026 | HIGHSCORE |  |
 | Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli (NL) |
 | Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
+| Sat, 21 Nov 2026 | ITALORATOR | Italo Brutalo, Marsman, Rimini Express |
 
 ## Address
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

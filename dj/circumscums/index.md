@@ -1,6 +1,6 @@
 # Circumscums
 
-Circumscums is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Vault 313, Detroit on Sat, 10 Oct 2026.
+Circumscums is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Vault 313, Detroit on Sat, 10 Oct 2026.
 
 Circumscums is a techno and minimal techno artist based in Canada, with 32 gigs on soundcheck across Barcelona, Detroit, Los Angeles and Toronto. Often billed alongside Measure Divide, DVS1 and Geneva. Next up: The Vault 313, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Circumscums is a techno and minimal techno artist based in Canada, with 32 gigs 
 
 Measure Divide, DVS1, Geneva (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*

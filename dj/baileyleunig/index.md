@@ -1,6 +1,6 @@
 # Bailey Leunig
 
-Bailey Leunig is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
+Bailey Leunig is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
 
 Bailey Leunig is a house and tech house artist based in United States of America, with 10 gigs on soundcheck across Barcelona. Often billed alongside ANTON (ES), Alice Youngling and Balou. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Bailey Leunig is a house and tech house artist based in United States of America
 
 ANTON (ES), Alice Youngling, Balou (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyleunig/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyleunig/)*

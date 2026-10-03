@@ -1,14 +1,13 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Féline W/ Kristian Woods / Emma O / Sufi Is Ifus / SARAMO" on Fri, 2 Oct 2026.
+The Ulster Sports Club is a music venue in Belfast with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Crilli DNB presents Shebeen Sessions with Zero T and Fox" on Sat, 3 Oct 2026.
 
-The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming gigs, with line-ups including ByPhil, Chris Flannigan, Conor Schmtz and Cooke and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
+The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upcoming gigs, with line-ups including ByPhil, Chris Flannigan, Conor Schmtz and Cooke and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Féline W/ Kristian Woods / Emma O / Sufi Is Ifus / SARAMO | Conor Schmtz |
 | Sat, 3 Oct 2026 | Crilli DNB presents Shebeen Sessions with Zero T and Fox |  |
 | Sat, 10 Oct 2026 | LEATHERETTE |  |
 | Fri, 16 Oct 2026 | TWISTD presents: Niall Kelly | Niall Kelly, Princess Glitoris |
@@ -18,9 +17,10 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 | Fri, 30 Oct 2026 | POST WORK SOCIAL 006 - OISINOK | LUAIN, OISINOK |
 | Sat, 31 Oct 2026 | USC presents - Halloween Night | Conor Schmtz, Marion Hawkes, Mount Kimbie |
 | Sat, 31 Oct 2026 | head above water presents // Witching Hour | ByPhil, Cooke, Jude Dude |
+| Fri, 4 Dec 2026 | SHINE -- Dusky | Dusky |
 
 ## Address
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

@@ -1,6 +1,6 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Romantica, Stuttgart on Thu, 8 Oct 2026.
+Raphael Dincsoy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Romantica, Stuttgart on Thu, 8 Oct 2026.
 
 Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Romantica, Stuttgart on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on 
 
 Tamara Wirth, David Löhlein, Sibel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*

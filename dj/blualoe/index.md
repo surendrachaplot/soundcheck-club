@@ -1,6 +1,6 @@
 # Blu Aloé
 
-Blu Aloé is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Blu Aloé is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Blu Aloé is a techno and garage artist, with 8 gigs on soundcheck across Berlin, Cologne and Sydney. Often billed alongside Alpha Tracks, Altinbas and Andy Garvey. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Blu Aloé is a techno and garage artist, with 8 gigs on soundcheck across Berlin
 
 Alpha Tracks, Altinbas, Andy Garvey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blualoe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blualoe/)*

@@ -1,6 +1,6 @@
 # 2 Factor Authentication
 
-2 Factor Authentication is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
+2 Factor Authentication is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
 
 2 Factor Authentication is a house and club artist, with 7 gigs on soundcheck across Melbourne. Often billed alongside Jesse DM, Simonetti and Aristo G. Next up: Revolver Upstairs, Melbourne on Sat 3 Oct.
 
@@ -23,4 +23,4 @@
 
 Jesse DM, Simonetti, Aristo G
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2factorauthentication/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2factorauthentication/)*

@@ -1,6 +1,6 @@
 # Niklas Wandt
 
-Niklas Wandt is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
+Niklas Wandt is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Fri, 16 Oct 2026.
 
 Niklas Wandt is a house and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: OXI, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Niklas Wandt is a house and trance artist based in Germany, with 57 gigs on soun
 
 Neuzeitliche Bodenbeläge, Olsvangèr, Retromigration
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*

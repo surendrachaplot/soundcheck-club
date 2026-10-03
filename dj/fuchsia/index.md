@@ -1,6 +1,6 @@
 # fuchsia
 
-fuchsia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+fuchsia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 fuchsia is a techno and bass artist based in Australia, with 24 gigs on soundcheck across Amsterdam, Melbourne and Sydney. Often billed alongside Alilia, Ben UFO and Bouki. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ fuchsia is a techno and bass artist based in Australia, with 24 gigs on soundche
 
 Alilia, Ben UFO, Bouki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*

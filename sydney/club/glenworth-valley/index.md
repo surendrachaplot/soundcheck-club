@@ -1,6 +1,6 @@
 # Glenworth Valley
 
-Glenworth Valley is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Lost Paradise 2026" on Mon, 28 Dec 2026.
+Glenworth Valley is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Lost Paradise 2026" on Mon, 28 Dec 2026.
 
 Glenworth Valley is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Armand Van Helden, Baron Von Trax, Bella Backe and Benwal and 2 more. See dates, start times and who's playing. 69 Cooks Rd; Glenworth Valley, NSW 2250; Australia.
 
@@ -14,4 +14,4 @@ Glenworth Valley is a music venue in Sydney listed on soundcheck. 1 upcoming gig
 
 69 Cooks Rd; Glenworth Valley, NSW 2250; Australia, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/glenworth-valley/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/glenworth-valley/)*

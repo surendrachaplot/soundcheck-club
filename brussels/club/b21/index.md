@@ -1,6 +1,6 @@
 # B21
 
-B21 is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "RAMDAM rave - RED HOT - with ATARAXY / Zaranoff / gucccifer / Susano / Oxtazz" on Sat, 3 Oct 2026.
+B21 is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAMDAM rave - RED HOT - with ATARAXY / Zaranoff / gucccifer / Susano / Oxtazz" on Sat, 3 Oct 2026.
 
 B21 is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including ATARAXY, Dragan Zaranoff, Echo/Dawn and elsa winner and 2 more. See dates, start times and who's playing. Rue de Belgrade, 21 1190 Forest.
 
@@ -18,4 +18,4 @@ B21 is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with lin
 
 Rue de Belgrade, 21 1190 Forest, Brussels
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*

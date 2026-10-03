@@ -1,6 +1,6 @@
 # Versalles 94
 
-Versalles 94 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Black Ratio Movement" on Fri, 16 Oct 2026.
+Versalles 94 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Black Ratio Movement" on Fri, 16 Oct 2026.
 
 Versalles 94 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Neukila and Redeker. See dates, start times and who's playing. C. Versalles 94, JuÃ¡rez, CuauhtÃ©moc, 06600 Ciudad de MÃ©xico, CDMX.
 
@@ -14,4 +14,4 @@ Versalles 94 is a music venue in Mexico City listed on soundcheck. 1 upcoming gi
 
 C. Versalles 94, JuÃ¡rez, CuauhtÃ©moc, 06600 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-94/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-94/)*

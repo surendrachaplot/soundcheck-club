@@ -1,6 +1,6 @@
 # CFCF
 
-CFCF is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+CFCF is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 CFCF is a house and electronica artist based in Canada, with 26 gigs on soundcheck across Los Angeles, Montreal, New York City and Portland and 4 more. Often billed alongside Bianca Lexis, Doss and Franxx. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ CFCF is a house and electronica artist based in Canada, with 26 gigs on soundche
 
 ## Recently played
 
+- TRANSMISSION DC, Washington DC · Fri, 2 Oct 2026
 - TRANSMISSION DC, Washington DC · Sun, 2 Aug 2026
 - TBA - Koreatown, Los Angeles, Los Angeles · Fri, 31 Jul 2026
 - Société des arts technologiques, Montreal · Fri, 15 May 2026
@@ -19,10 +20,9 @@ CFCF is a house and electronica artist based in Canada, with 26 gigs on soundche
 - Standard Time, Toronto · Sat, 2 May 2026
 - Elsewhere, New York City · Fri, 1 May 2026
 - Underground SF, San Francisco/Oakland · Sat, 28 Feb 2026
-- Ucla Sigma Pi Fraternity, Los Angeles · Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Bianca Lexis, Doss, Franxx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*

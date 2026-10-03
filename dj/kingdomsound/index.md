@@ -1,6 +1,6 @@
 # Kingdom Sound
 
-Kingdom Sound is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at murmur, Amsterdam on Fri, 23 Oct 2026.
+Kingdom Sound is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at murmur, Amsterdam on Fri, 23 Oct 2026.
 
 Kingdom Sound is a house and r&b artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam. Often billed alongside BELLA (NL), Godsendo and TINS. Next up: murmur, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kingdom Sound is a house and r&b artist based in Netherlands, with 22 gigs on so
 
 BELLA (NL), Godsendo, TINS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingdomsound/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingdomsound/)*

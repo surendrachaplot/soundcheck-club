@@ -1,6 +1,6 @@
 # Harral
 
-Harral is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
+Harral is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
 
 Harral is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London and Melbourne. Often billed alongside Dylan James, Beno Garcia and Andrea Guadalupi. Next up: TBA - Secret East London Location, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Harral is a house and techno artist based in United Kingdom, with 12 gigs on sou
 
 Dylan James, Beno Garcia, Andrea Guadalupi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harral/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harral/)*

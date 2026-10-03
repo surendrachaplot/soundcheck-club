@@ -1,6 +1,6 @@
 # Dylan Kerr
 
-Dylan Kerr is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 90mil, Berlin on Sun, 11 Oct 2026.
+Dylan Kerr is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 90mil, Berlin on Sun, 11 Oct 2026.
 
 Dylan Kerr is an experimental and noise artist based in Ireland, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Slowfoam, &more and ABADIR. Next up: 90mil, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Dylan Kerr is an experimental and noise artist based in Ireland, with 9 gigs on 
 
 Slowfoam, &more, ABADIR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylankerr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylankerr/)*

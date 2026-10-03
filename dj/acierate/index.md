@@ -1,6 +1,6 @@
 # Acierate
 
-Acierate is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
+Acierate is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
 Acierate is a techno and industrial artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Tham, Parallx and Kim She. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Acierate is a techno and industrial artist based in Germany, with 49 gigs on sou
 
 Tham, Parallx, Kim She
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acierate/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acierate/)*

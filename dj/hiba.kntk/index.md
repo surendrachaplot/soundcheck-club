@@ -1,6 +1,6 @@
 # HIBA.KNTK
 
-HIBA.KNTK is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+HIBA.KNTK is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 HIBA.KNTK is a techno artist based in Italy, with 22 gigs on soundcheck across Milan. Often billed alongside KUZE.KNTK, DRYWAND.KNTK and Diamantha. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ HIBA.KNTK is a techno artist based in Italy, with 22 gigs on soundcheck across M
 
 KUZE.KNTK, DRYWAND.KNTK, Diamantha
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiba.kntk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiba.kntk/)*

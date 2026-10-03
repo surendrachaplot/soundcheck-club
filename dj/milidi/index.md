@@ -1,6 +1,6 @@
 # Milidi
 
-Milidi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
+Milidi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
 
 Milidi is a house and minimal artist based in Canada, with 23 gigs on soundcheck across Toronto. Often billed alongside Negin, Steve Marto and Mary. Next up: Mooi Space, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Milidi is a house and minimal artist based in Canada, with 23 gigs on soundcheck
 
 Negin, Steve Marto, Mary (5)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milidi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milidi/)*

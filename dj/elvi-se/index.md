@@ -1,6 +1,6 @@
 # ELVI (SE)
 
-ELVI (SE) is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+ELVI (SE) is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
 ELVI (SE) is a downtempo and electronica artist based in Sweden, with 37 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 3 more. Often billed alongside Prunk, Kim April and Enzo Leep. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ ELVI (SE) is a downtempo and electronica artist based in Sweden, with 37 gigs on
 
 Prunk, Kim April, Enzo Leep
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvi-se/)*

@@ -1,6 +1,6 @@
 # BEIGE
 
-BEIGE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
+BEIGE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
 
 BEIGE is a house and techno artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Octo Octa, Father Dukes and Ryan Spencer. Next up: Green Room NYC, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BEIGE is a house and techno artist based in United States of America, with 115 g
 
 Octo Octa, Father Dukes, Ryan Spencer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beige/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beige/)*

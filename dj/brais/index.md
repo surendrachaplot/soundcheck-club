@@ -1,6 +1,6 @@
 # BRAIS
 
-BRAIS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+BRAIS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 BRAIS is a techno and trance artist based in Spain, with 19 gigs on soundcheck across Berlin and Prague. Often billed alongside A.I.F.O.S., M21SIX and Messiahwaits. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BRAIS is a techno and trance artist based in Spain, with 19 gigs on soundcheck a
 
 A.I.F.O.S., M21SIX, Messiahwaits
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brais/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brais/)*

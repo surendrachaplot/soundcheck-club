@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
+Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
 
 Byron Yeates is a house and techno artist, with 194 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: De Papierfabriek, Nijmegen on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Byron Yeates is a house and techno artist, with 194 gigs on soundcheck across Am
 
 THC, DHC, Angel D'lite
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

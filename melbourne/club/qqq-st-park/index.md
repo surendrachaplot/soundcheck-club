@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sickest House × Hyperbloom ACT I: AZALEH" on Sat, 3 Oct 2026.
+QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sickest House × Hyperbloom ACT I: AZALEH" on Sat, 3 Oct 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including anna(n), Monique Tya and Pugilist. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -19,4 +19,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

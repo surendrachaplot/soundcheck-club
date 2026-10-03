@@ -1,6 +1,6 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Shimmy Robin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Shimmy Robin is a techno and house artist based in Germany, with 111 gigs on soundcheck across Berlin, Cologne, Copenhagen and Greece and 4 more. Often billed alongside Najeh, dj blip and Lenard Klein. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Shimmy Robin is a techno and house artist based in Germany, with 111 gigs on sou
 
 Najeh, dj blip, Lenard Klein
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*

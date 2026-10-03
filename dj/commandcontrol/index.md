@@ -1,6 +1,6 @@
 # Command Control
 
-Command Control is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Command Control is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Command Control is a techno artist based in United Kingdom, with 8 gigs on soundcheck across London and Manchester. Often billed alongside Anika Kunst, Arkane and Atibo. Next up: The Cause, London on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Command Control is a techno artist based in United Kingdom, with 8 gigs on sound
 
 Anika Kunst, Arkane, Atibo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commandcontrol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commandcontrol/)*

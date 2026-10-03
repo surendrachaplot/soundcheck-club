@@ -1,6 +1,6 @@
 # SeBAss
 
-SeBAss is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+SeBAss is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 SeBAss is a breakbeat and bass artist, with 33 gigs on soundcheck across Barcelona, London, Medellin and Warsaw. Often billed alongside KEVS, Mabu and KoZa. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SeBAss is a breakbeat and bass artist, with 33 gigs on soundcheck across Barcelo
 
 KEVS, Mabu, KoZa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebass/)*

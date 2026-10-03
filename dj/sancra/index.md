@@ -1,6 +1,6 @@
 # Sancra
 
-Sancra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
+Sancra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 3 Oct 2026.
 
 Sancra is a techno and electro artist based in Italy, with 19 gigs on soundcheck across London, Malaga, Milan and Naples and 2 more. Often billed alongside Aton, Denise Luzzi and Binh. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sancra is a techno and electro artist based in Italy, with 19 gigs on soundcheck
 
 Aton, Denise Luzzi, Binh
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sancra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sancra/)*

@@ -1,6 +1,6 @@
 # Nory Kimijima
 
-Nory Kimijima is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SOBER, Tokyo on Sun, 4 Oct 2026.
+Nory Kimijima is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SOBER, Tokyo on Sun, 4 Oct 2026.
 
 Nory Kimijima is a techno and house artist based in Japan, with 23 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Tonbo, aixx and Mattia Prete. Next up: SOBER, Tokyo on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Nory Kimijima is a techno and house artist based in Japan, with 23 gigs on sound
 
 Tonbo, aixx, Mattia Prete
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norykimijima/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norykimijima/)*

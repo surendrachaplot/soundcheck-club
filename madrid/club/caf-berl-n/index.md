@@ -1,6 +1,6 @@
 # Café Berlín
 
-Café Berlín is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dublon (live with band) en microdosis - Café Berlín, Madrid" on Thu, 29 Oct 2026.
+Café Berlín is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dublon (live with band) en microdosis - Café Berlín, Madrid" on Thu, 29 Oct 2026.
 
 Café Berlín is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Dublon, Jafunk and Kabeaushé. See dates, start times and who's playing. Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid.
 
@@ -17,4 +17,4 @@ Café Berlín is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, 
 
 Calle de Cost. Avenida de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-berl-n/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/caf-berl-n/)*

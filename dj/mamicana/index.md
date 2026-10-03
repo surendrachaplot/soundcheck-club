@@ -1,6 +1,6 @@
 # MAMICANA
 
-MAMICANA is a Dembow and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
+MAMICANA is a Dembow and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
 
 MAMICANA is a dembow and afrobeat artist, with 36 gigs on soundcheck across Chicago and New York City. Often billed alongside NoahG, LEI and Mondai. Next up: The Chocolate Factory, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MAMICANA is a dembow and afrobeat artist, with 36 gigs on soundcheck across Chic
 
 NoahG, LEI, Mondai
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*

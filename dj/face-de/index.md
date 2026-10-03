@@ -1,6 +1,6 @@
 # face*
 
-face* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+face* is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
 face* is a techno and house artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Antoine Baiser, Surreal (DE) and Marco Baskind. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ face* is a techno and house artist based in Germany, with 59 gigs on soundcheck 
 
 Antoine Baiser, Surreal (DE), Marco Baskind
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*

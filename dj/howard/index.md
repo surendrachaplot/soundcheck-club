@@ -1,6 +1,6 @@
 # Howard
 
-Howard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar 34, Liverpool on Sat, 17 Oct 2026.
+Howard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar 34, Liverpool on Sat, 17 Oct 2026.
 
 Howard is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona, Liverpool, Manchester and Tokyo. Often billed alongside Endote, SIGNAL (JP) and BayCantSpin. Next up: Hangar 34, Liverpool on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Howard is a house and techno artist based in United Kingdom, with 27 gigs on sou
 
 Endote, SIGNAL (JP), BayCantSpin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howard/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howard/)*

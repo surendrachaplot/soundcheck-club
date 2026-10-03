@@ -1,6 +1,6 @@
 # Karenine
 
-Karenine is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
+Karenine is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 10 Oct 2026.
 
 Karenine is a techno and bass artist based in France, with 15 gigs on soundcheck across Brussels, Lyon and Paris. Often billed alongside AMAYO, USLSS and ANKA. Next up: La Machine Du Moulin Rouge, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Karenine is a techno and bass artist based in France, with 15 gigs on soundcheck
 
 AMAYO, USLSS, ANKA (4)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karenine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karenine/)*

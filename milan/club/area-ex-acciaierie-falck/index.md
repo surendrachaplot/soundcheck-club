@@ -1,6 +1,6 @@
 # Area Ex Acciaierie Falck
 
-Area Ex Acciaierie Falck is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "HomeMade OPEN AIR" on Sun, 11 Oct 2026.
+Area Ex Acciaierie Falck is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "HomeMade OPEN AIR" on Sun, 11 Oct 2026.
 
 Area Ex Acciaierie Falck is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Area Ex Acciaierie Falck is a music venue in Milan listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | HomeMade OPEN AIR |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/area-ex-acciaierie-falck/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/area-ex-acciaierie-falck/)*

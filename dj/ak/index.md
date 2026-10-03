@@ -1,6 +1,6 @@
 # A K
 
-A K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
+A K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 10 Oct 2026.
 
 A K is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 2 more. Often billed alongside Blackmoonchild, DJ Etta (US) and DJ Minx. Next up: Lincoln Factory, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ A K is a techno and house artist based in United States of America, with 18 gigs
 
 Blackmoonchild, DJ Etta (US), DJ Minx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*

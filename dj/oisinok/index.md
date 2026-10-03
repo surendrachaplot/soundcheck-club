@@ -1,6 +1,6 @@
 # OISINOK
 
-OISINOK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+OISINOK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
 OISINOK is a techno and trance artist based in Ireland, with 14 gigs on soundcheck across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Dylan Fogarty, Ayolxi and Black Traffic. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ OISINOK is a techno and trance artist based in Ireland, with 14 gigs on soundche
 
 Dylan Fogarty, Ayolxi, Black Traffic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oisinok/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oisinok/)*

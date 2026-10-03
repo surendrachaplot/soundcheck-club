@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Rrose, frail808, CEJ" on Fri, 2 Oct 2026.
+Podlasie Club is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ASHAWO" on Sat, 3 Oct 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including avas, Beau Wanzer, Beverly Chills and Bok Bok and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including avas, Beau Wanzer, Beverly Chills and Bok Bok and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Rrose, frail808, CEJ | CEJ, Rrose, frail808 |
 | Sat, 3 Oct 2026 | ASHAWO |  |
 | Thu, 8 Oct 2026 | Dance to a Dangerous Beat |  |
 | Fri, 9 Oct 2026 | All Things Bounce 008 | Nanoos |
@@ -18,9 +17,10 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming gigs
 | Fri, 16 Oct 2026 | Club Initiative | Bok Bok, Jace Inman, avas |
 | Sat, 17 Oct 2026 | Ariel Zetina presents Rosebud;!;!;!;!;!;!; | Beverly Chills, DYLUSION, Dj Having Sex, Papa Xanny, nonsuit |
 | Wed, 21 Oct 2026 | Various Distractions | Beau Wanzer |
+| Thu, 22 Oct 2026 | [ synthetic ] |  |
 
 ## Address
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

@@ -1,6 +1,6 @@
 # DJ Kid
 
-DJ Kid is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 10 Oct 2026.
+DJ Kid is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 10 Oct 2026.
 
 DJ Kid is a house and drum & bass artist based in Romania, with 7 gigs on soundcheck across Edinburgh and London. Often billed alongside Harry Jackson, Nookie (UK) and 170lex. Next up: The Pitt Market, Edinburgh on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DJ Kid is a house and drum & bass artist based in Romania, with 7 gigs on soundc
 
 Harry Jackson, Nookie (UK), 170lex
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkid/)*

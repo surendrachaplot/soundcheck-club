@@ -1,6 +1,6 @@
 # Lui (6)
 
-Lui (6) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at VENT, Tokyo on Fri, 16 Oct 2026.
+Lui (6) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at VENT, Tokyo on Fri, 16 Oct 2026.
 
 Lui is a house and techno artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Kasumisty, Samo and AMANE. Next up: VENT, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lui is a house and techno artist based in Japan, with 13 gigs on soundcheck acro
 
 Kasumisty, Samo, AMANE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*

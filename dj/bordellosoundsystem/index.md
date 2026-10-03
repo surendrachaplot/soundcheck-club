@@ -1,6 +1,6 @@
 # Bordello Soundsystem
 
-Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
+Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
 
 Bordello Soundsystem is an italo disco and house artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 15 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: Banco Vini, Turin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Bordello Soundsystem is an italo disco and house artist based in Netherlands, wi
 
 David Vunk, Richelle Soigni, Aroy Dee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*

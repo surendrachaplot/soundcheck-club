@@ -1,6 +1,6 @@
 # Kevin Di Serna
 
-Kevin Di Serna is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
+Kevin Di Serna is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
 
 Kevin Di Serna is a progressive house and house artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Copenhagen and 6 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Dave Seaman. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Kevin Di Serna is a progressive house and house artist based in Argentina, with 
 
 Hernan Cattaneo, Agustin Ficarra, Dave Seaman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*

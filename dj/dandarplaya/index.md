@@ -1,6 +1,6 @@
 # dandarplaya
 
-dandarplaya is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
+dandarplaya is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
 
 dandarplaya is an experimental and hardcore artist, with 27 gigs on soundcheck across Bangkok and Seoul. Often billed alongside HU550, kochewww and angelic waves. Next up: Otaqlab Bangkok, Bangkok on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ dandarplaya is an experimental and hardcore artist, with 27 gigs on soundcheck a
 
 HU550, kochewww, angelic waves
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*

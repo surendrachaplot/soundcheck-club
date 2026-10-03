@@ -1,6 +1,6 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Prozak (IRL) is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soun
 
 Silva Bumpa, Soul Mass Transit System, Conducta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*

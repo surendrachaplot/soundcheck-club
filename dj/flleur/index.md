@@ -1,6 +1,6 @@
 # Flleur
 
-Flleur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Sat, 24 Oct 2026.
+Flleur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Système, Montreal on Sat, 24 Oct 2026.
 
 Flleur is a house and disco artist based in Canada, with 49 gigs on soundcheck across Montreal. Often billed alongside dawny, Sherifsound and Cirque Cosmic. Next up: Système, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Flleur is a house and disco artist based in Canada, with 49 gigs on soundcheck a
 
 dawny, Sherifsound, Cirque Cosmic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flleur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flleur/)*

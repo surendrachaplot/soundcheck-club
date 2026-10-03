@@ -1,6 +1,6 @@
 # Laura de Vasconcelos
 
-Laura de Vasconcelos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Golden Gate, Berlin on Sat, 3 Oct 2026.
+Laura de Vasconcelos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Gate, Berlin on Sat, 3 Oct 2026.
 
 Laura de Vasconcelos is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin and Brussels. Often billed alongside Nils Ohrmann, BLACK ANTHEM RESTORE and Camilla Rae. Next up: Golden Gate, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Laura de Vasconcelos is a house and techno artist based in Germany, with 29 gigs
 
 Nils Ohrmann, BLACK ANTHEM RESTORE, Camilla Rae
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradevasconcelos/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradevasconcelos/)*

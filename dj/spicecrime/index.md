@@ -1,6 +1,6 @@
 # Spice Crime
 
-Spice Crime is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Spice Crime is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Spice Crime is a techno and trance artist based in United States of America, with 28 gigs on soundcheck across Miami and New York City. Often billed alongside Violeta, KUJO (US) and DomnRob. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Spice Crime is a techno and trance artist based in United States of America, wit
 
 Violeta, KUJO (US), DomnRob
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*

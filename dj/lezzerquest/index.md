@@ -1,6 +1,6 @@
 # LEZZER QUEST
 
-LEZZER QUEST is a Italo Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 30 Oct 2026.
+LEZZER QUEST is a Italo Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Fri, 30 Oct 2026.
 
 LEZZER QUEST is an italo disco and house artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 1 more. Often billed alongside Bonzai Bonner, David Scott and Josh Caffé. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ LEZZER QUEST is an italo disco and house artist based in United Kingdom, with 32
 
 Bonzai Bonner, David Scott, Josh Caffé
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzerquest/)*

@@ -1,6 +1,6 @@
 # Sean Afful
 
-Sean Afful is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Sean Afful is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
 Sean Afful is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Malta and Milan. Often billed alongside Naydiaa, Vithz and Cianfo. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sean Afful is a house and tech house artist based in United Kingdom, with 13 gig
 
 Naydiaa, Vithz, Cianfo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanafful/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanafful/)*

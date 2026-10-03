@@ -1,6 +1,6 @@
 # Greg Lord
 
-Greg Lord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 3 Oct 2026.
+Greg Lord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 3 Oct 2026.
 
 Greg Lord is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across Antwerp, Manchester and Rotterdam. Often billed alongside Krysko, Bicep and Eclair Fifi. Next up: Eastern Bloc Records, Manchester on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Greg Lord is a house and techno artist based in United Kingdom, with 8 gigs on s
 
 Krysko, Bicep, Eclair Fifi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greglord/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greglord/)*

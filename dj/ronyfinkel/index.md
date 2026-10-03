@@ -1,6 +1,6 @@
 # Rony Finkel
 
-Rony Finkel is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Sat, 3 Oct 2026.
+Rony Finkel is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Sat, 3 Oct 2026.
 
 Rony Finkel is a house and electronica artist based in Chile, with 23 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Misla, Diggz and Posada. Next up: Cadavra, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rony Finkel is a house and electronica artist based in Chile, with 23 gigs on so
 
 Misla, Diggz, Posada
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyfinkel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyfinkel/)*

@@ -1,6 +1,6 @@
 # Dshanna
 
-Dshanna is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+Dshanna is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Dshanna is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Berlin and Chicago. Often billed alongside Julez (live), Gray Contrast and Hendrik Nitsche. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dshanna is a techno and electro artist based in Germany, with 18 gigs on soundch
 
 Julez (live), Gray Contrast, Hendrik Nitsche
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*

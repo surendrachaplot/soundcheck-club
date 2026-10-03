@@ -1,6 +1,6 @@
 # John Vincent
 
-John Vincent is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sigurd CPH, Copenhagen on Fri, 9 Oct 2026.
+John Vincent is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sigurd CPH, Copenhagen on Fri, 9 Oct 2026.
 
 John Vincent is an afrobeats and hip-hop artist based in Denmark, with 35 gigs on soundcheck across Copenhagen. Often billed alongside ¡Harty!, Kaddi Sawaneh and Ruth Belai. Next up: Sigurd CPH, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ John Vincent is an afrobeats and hip-hop artist based in Denmark, with 35 gigs o
 
 ¡Harty!, Kaddi Sawaneh, Ruth Belai
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnvincent/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnvincent/)*

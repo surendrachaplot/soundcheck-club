@@ -1,6 +1,6 @@
 # GUAVA (BK)
 
-GUAVA (BK) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Alphaville, New York City on Sat, 3 Oct 2026.
+GUAVA (BK) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Alphaville, New York City on Sat, 3 Oct 2026.
 
 GUAVA (BK) is a house and breakbeat artist, with 7 gigs on soundcheck across New York City. Often billed alongside JULESMCKOOLS, ANICHE and Iluvonionz. Next up: Alphaville, New York City on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ GUAVA (BK) is a house and breakbeat artist, with 7 gigs on soundcheck across New
 
 JULESMCKOOLS, ANICHE, Iluvonionz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*

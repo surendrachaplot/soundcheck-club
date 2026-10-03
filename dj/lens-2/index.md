@@ -1,8 +1,8 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 19 more. Often billed alongside Mozey, Oppidan and Benwal. Next up: The Crypt (New Orleans), New Orleans on Sat 3 Oct.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 30 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 20 more. Often billed alongside Degs, Mozey and Oppidan. Next up: The Crypt (New Orleans), New Orleans on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 29 gigs o
 | Sun, 11 Oct 2026 | Holocene | Portland |
 | Sat, 17 Oct 2026 | Lost Horizon | Bristol |
 | Fri, 23 Oct 2026 | NUMBER 90 LONDON | London |
+| Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
 | Fri, 13 Nov 2026 | XOYO Birmingham | Birmingham |
 | Sat, 14 Nov 2026 | Hidden | Manchester |
 | Sat, 28 Nov 2026 | Patterns | Brighton |
 | Sat, 5 Dec 2026 | Le Centre: Hub Créatif | Quebec-city |
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
-| Thu, 10 Dec 2026 | The Woodshop | New York City |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 29 gigs o
 
 ## Shares bills with
 
-Mozey, Oppidan, Benwal
+Degs, Mozey, Oppidan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

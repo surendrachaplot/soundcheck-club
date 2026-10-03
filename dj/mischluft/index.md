@@ -1,6 +1,6 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Mischluft is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Mischluft is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Mischluft is a techno and trance artist based in Germany, with 193 gigs on sound
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

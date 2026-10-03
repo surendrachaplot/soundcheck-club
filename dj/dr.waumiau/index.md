@@ -1,6 +1,6 @@
 # Dr.Waumiau
 
-Dr.Waumiau is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat, 17 Oct 2026.
+Dr.Waumiau is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat, 17 Oct 2026.
 
 Dr.Waumiau is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Armaville, FAballert and F O R E S I G H T. Next up: TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Dr.Waumiau is a techno and trance artist based in Germany, with 10 gigs on sound
 
 Armaville, FAballert, F O R E S I G H T
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.waumiau/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.waumiau/)*

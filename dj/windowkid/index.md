@@ -1,20 +1,20 @@
 # Window Kid
 
-Window Kid is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
+Window Kid is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 10 Oct 2026.
 
-Window Kid is a drum & bass and bass artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 9 more. Often billed alongside Darkzy, Skepsis and Lazcru. Next up: Mint XL, Leeds on Fri 2 Oct.
+Window Kid is a drum & bass and bass artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 9 more. Often billed alongside Darkzy, Skepsis and Lazcru. Next up: Gaswrx Birmingham, Birmingham on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Mint XL | Leeds |
 | Sat, 10 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Fri, 16 Oct 2026 | Depot | Cardiff |
 | Sat, 5 Dec 2026 | Document | Bristol |
 
 ## Recently played
 
+- Mint XL, Leeds · Fri, 2 Oct 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Heaton Park, Manchester · Sat, 20 Jun 2026
 - Quarters, Brighton · Fri, 29 May 2026
@@ -22,10 +22,9 @@ Window Kid is a drum & bass and bass artist based in United Kingdom, with 43 gig
 - Electric Studios, Sheffield · Fri, 20 Mar 2026
 - Beaver Works, Leeds · Fri, 13 Mar 2026
 - Joshua Brooks, Manchester · Fri, 13 Mar 2026
-- The Toff in Town, Melbourne · Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Darkzy, Skepsis, Lazcru
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/windowkid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/windowkid/)*

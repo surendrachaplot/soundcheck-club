@@ -1,6 +1,6 @@
 # Marysia Osu
 
-Marysia Osu is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 10 Oct 2026.
+Marysia Osu is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 10 Oct 2026.
 
 Marysia Osu is a jazz and house artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Brussels, London and Sheffield. Often billed alongside Anja Ngozi, Laraaji and Marla Kether. Next up: Renate, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marysia Osu is a jazz and house artist based in United Kingdom, with 17 gigs on 
 
 Anja Ngozi, Laraaji, Marla Kether
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marysiaosu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marysiaosu/)*

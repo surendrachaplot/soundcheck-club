@@ -1,6 +1,6 @@
 # Moses Joses
 
-Moses Joses is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
+Moses Joses is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 16 Oct 2026.
 
 Moses Joses is an acid and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Erika Lowin, Marie Pravda and Naone. Next up: Time is the new space, Rotterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Moses Joses is an acid and house artist based in Germany, with 22 gigs on soundc
 
 Erika Lowin, Marie Pravda, Naone
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*

@@ -1,6 +1,6 @@
 # DumitrEscu
 
-DumitrEscu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
+DumitrEscu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
 
 DumitrEscu is a house and techno artist based in Romania, with 34 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bucharest and 5 more. Often billed alongside Mihnea Rog, Priku and Arapu. Next up: Kult, Belgrade on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DumitrEscu is a house and techno artist based in Romania, with 34 gigs on soundc
 
 Mihnea Rog, Priku, Arapu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dumitrescu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dumitrescu/)*

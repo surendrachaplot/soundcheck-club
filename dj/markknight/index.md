@@ -1,6 +1,6 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
+Mark Knight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
 Mark Knight is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mark Knight is a house and tech house artist based in United Kingdom, with 77 gi
 
 Martin Ikin, Gene Farris, CASSIMM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*

@@ -1,6 +1,6 @@
 # Ed Warner
 
-Ed Warner is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cadavra, Madrid on Sat, 10 Oct 2026.
+Ed Warner is a Electro and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
 Ed Warner is an electro and acid artist based in Spain, with 62 gigs on soundcheck across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic, Oriana and Andi. Next up: Cadavra, Madrid on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Ed Warner is an electro and acid artist based in Spain, with 62 gigs on soundche
 
 Kinetic (2), Oriana, Andi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*

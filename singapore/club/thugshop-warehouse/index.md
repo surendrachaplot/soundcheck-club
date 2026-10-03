@@ -1,6 +1,6 @@
 # Thugshop Warehouse
 
-Thugshop Warehouse is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith" on Sat, 3 Oct 2026.
+Thugshop Warehouse is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith" on Sat, 3 Oct 2026.
 
 Thugshop Warehouse is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with line-ups including Jody Wisternoff and Oliver Smith. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Thugshop Warehouse is a music venue in Singapore listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Thugshop Warehouse Party feat. Jody Wisternoff & Oliver Smith | Jody Wisternoff, Oliver Smith |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/thugshop-warehouse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/thugshop-warehouse/)*

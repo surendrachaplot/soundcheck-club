@@ -1,6 +1,6 @@
 # A.L.F
 
-A.L.F is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Sat, 31 Oct 2026.
+A.L.F is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Sat, 31 Oct 2026.
 
 A.L.F is a house and breakbeat artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Helios Manoeuvres, biscous and Katiaki. Next up: The Greyhound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ A.L.F is a house and breakbeat artist based in United Kingdom, with 16 gigs on s
 
 Helios Manoeuvres, biscous, Katiaki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.f/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.f/)*

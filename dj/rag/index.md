@@ -1,6 +1,6 @@
 # RAG
 
-RAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
+RAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
 
 RAG is a techno and house artist based in France, with 57 gigs on soundcheck across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: Badaboum, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ RAG is a techno and house artist based in France, with 57 gigs on soundcheck acr
 
 PEPIITA, Anaco, COCKO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*

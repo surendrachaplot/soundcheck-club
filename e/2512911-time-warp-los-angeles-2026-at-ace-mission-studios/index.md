@@ -1,6 +1,6 @@
 # Time Warp Los Angeles 2026 at Ace*Mission Studios
 
-Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. 38 artists: Ben Klock, Blawan, Chlär and Cloudy and 34 more. Techno and House. See the line-up on soundcheck.
+Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. 39 artists: Ben Klock, Blawan, Chlär and Cloudy and 35 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -26,6 +26,7 @@ Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. 38
 - Gerd Janson
 - HAAi
 - Heidi Lawden
+- Helena Hauff
 - INVT
 - John Bryars
 - Juliana Huxtable

@@ -1,6 +1,6 @@
 # M.A.N.D.Y.
 
-M.A.N.D.Y. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
+M.A.N.D.Y. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 M.A.N.D.Y. is a house and techno artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 9 more. Often billed alongside Connie, Igor Vicente and Maksim. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ M.A.N.D.Y. is a house and techno artist based in Germany, with 18 gigs on soundc
 
 Connie, Igor Vicente, Maksim
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandy/)*

@@ -1,6 +1,6 @@
 # The Prodigy
 
-The Prodigy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Royal Arena, Copenhagen on Tue, 17 Nov 2026.
+The Prodigy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Royal Arena, Copenhagen on Tue, 17 Nov 2026.
 
 The Prodigy is a techno and electronica artist based in United Kingdom, with 20 gigs on soundcheck across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Royal Arena, Copenhagen on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ The Prodigy is a techno and electronica artist based in United Kingdom, with 20 
 
 Carl Cox, Andy C, Jamie Jones
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*

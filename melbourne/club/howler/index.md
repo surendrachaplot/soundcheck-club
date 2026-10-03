@@ -1,6 +1,6 @@
 # Howler
 
-Howler is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Mariano Mellino in Morning After 10th Birthday Party" on Sat, 3 Oct 2026.
+Howler is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Mariano Mellino in Morning After 10th Birthday Party" on Sat, 3 Oct 2026.
 
 Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Bridget, Cookie, Cuerpo Negro and HAUSWiFE and 2 more. See dates, start times and who's playing. 14 Dawson St, Brunswick, VIC, 3056, Australia.
 
@@ -16,4 +16,4 @@ Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 14 Dawson St, Brunswick, VIC, 3056, Australia, Melbourne
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*

@@ -1,6 +1,6 @@
 # DJ Tree
 
-DJ Tree is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
+DJ Tree is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
 
 DJ Tree is a techno and house artist based in Germany, with 51 gigs on soundcheck across Bali, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside Dizzy, Matthias and Niff. Next up: Village Underground, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ DJ Tree is a techno and house artist based in Germany, with 51 gigs on soundchec
 
 Dizzy, Matthias (1), Niff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*

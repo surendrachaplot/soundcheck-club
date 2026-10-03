@@ -1,6 +1,6 @@
 # DJ SET (Uk)
 
-DJ SET (Uk) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rincón de Segovia, Morelos on Sat, 3 Oct 2026.
+DJ SET (Uk) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rincón de Segovia, Morelos on Sat, 3 Oct 2026.
 
 DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Birmingham, Los Angeles and Lyon and 7 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Rincón de Segovia, Morelos on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 19 
 
 Helena Hauff, PARIS (AU), .cosm
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*

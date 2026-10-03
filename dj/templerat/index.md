@@ -1,6 +1,6 @@
 # Temple Rat
 
-Temple Rat is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Morphine Raum, Berlin on Wed, 7 Oct 2026.
+Temple Rat is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Morphine Raum, Berlin on Wed, 7 Oct 2026.
 
 Temple Rat is a techno and house artist based in China, with 51 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: Morphine Raum, Berlin on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ Temple Rat is a techno and house artist based in China, with 51 gigs on soundche
 
 David Fogarty, Sound Metaphors Djs, Alicia Carrera
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*

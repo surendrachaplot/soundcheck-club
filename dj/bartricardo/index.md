@@ -1,6 +1,6 @@
 # Bart Ricardo
 
-Bart Ricardo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
+Bart Ricardo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
 
 Bart Ricardo is a house and deep house artist, with 13 gigs on soundcheck across Brussels, Ibiza and Marseille. Often billed alongside Justin Harris, Affani and Peacharoo. Next up: Pikes Ibiza, Ibiza on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bart Ricardo is a house and deep house artist, with 13 gigs on soundcheck across
 
 Justin Harris, Affani, Peacharoo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartricardo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartricardo/)*

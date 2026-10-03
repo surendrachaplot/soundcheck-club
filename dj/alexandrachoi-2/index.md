@@ -1,6 +1,6 @@
 # Alexandra Choi (2)
 
-Alexandra Choi (2) is a Guaracha and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri, 16 Oct 2026.
+Alexandra Choi (2) is a Guaracha and Classical artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri, 16 Oct 2026.
 
 Alexandra Choi is a guaracha and classical artist, with 8 gigs on soundcheck across Mexico City and Peru. Often billed alongside Diego Walle, Adriana Roma and Alo. Next up: TBA - Av Benavides 347 Miraflores - ExpoCentro, Peru on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Alexandra Choi is a guaracha and classical artist, with 8 gigs on soundcheck acr
 
 Diego Walle, Adriana Roma, Alo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrachoi-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrachoi-2/)*

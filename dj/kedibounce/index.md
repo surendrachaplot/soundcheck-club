@@ -1,6 +1,6 @@
 # Kedi Bounce
 
-Kedi Bounce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
+Kedi Bounce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
 
 Kedi Bounce is a house and techno artist based in Germany, with 50 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Jean-Jez, Kang and critical P. Next up: Renate, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Kedi Bounce is a house and techno artist based in Germany, with 50 gigs on sound
 
 Jean-Jez, Kang, critical P
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kedibounce/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kedibounce/)*

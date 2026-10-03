@@ -1,6 +1,6 @@
 # EIGHT
 
-EIGHT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
+EIGHT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 9 Oct 2026.
 
 EIGHT is a techno and tech house artist, with 92 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALEXANDER M, GReY and RYOHEI. Next up: Z Maruyama, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ EIGHT is a techno and tech house artist, with 92 gigs on soundcheck across Osaka
 
 ALEXANDER M, GReY (1), RYOHEI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*

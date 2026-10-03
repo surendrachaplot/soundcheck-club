@@ -1,6 +1,6 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
+Airwolf Paradise is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
 
 Airwolf Paradise is a house and tech house artist based in Australia, with 48 gigs on soundcheck across Austin, Australian Capital Territory, Bali and Belfast and 18 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: Kiama Skate Park, New South Wales on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Airwolf Paradise is a house and tech house artist based in Australia, with 48 gi
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

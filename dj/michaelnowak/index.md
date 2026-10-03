@@ -1,6 +1,6 @@
 # Michael Nowak
 
-Michael Nowak is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Michael Nowak is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Michael Nowak is a house and electro artist based in Germany, with 82 gigs on soundcheck across Austria and Munich. Often billed alongside NOWAK, Alice DiMar and ROBOTIQ. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Michael Nowak is a house and electro artist based in Germany, with 82 gigs on so
 
 NOWAK, Alice DiMar, ROBOTIQ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelnowak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelnowak/)*

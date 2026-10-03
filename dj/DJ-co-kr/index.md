@@ -1,6 +1,6 @@
 # DJ Co.kr
 
-DJ Co.kr is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Modeci, Seoul on Thu, 8 Oct 2026.
+DJ Co.kr is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Modeci, Seoul on Thu, 8 Oct 2026.
 
 DJ Co.kr is a club and bass artist based in South Korea, with 178 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Ibiza and 6 more. Often billed alongside bojvck, ANDOW and Ligrye. Next up: Modeci, Seoul on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ DJ Co.kr is a club and bass artist based in South Korea, with 178 gigs on soundc
 
 bojvck, ANDOW, Ligrye
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*

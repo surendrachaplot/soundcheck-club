@@ -1,6 +1,6 @@
 # U4
 
-U4 is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Kyau & Albert (Extended Set)" on Sat, 7 Nov 2026.
+U4 is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Kyau & Albert (Extended Set)" on Sat, 7 Nov 2026.
 
 U4 is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Kyau & Albert. See dates, start times and who's playing. Schönbrunner Str. 222-228, 1120 Vienna, Austria.
 
@@ -14,4 +14,4 @@ U4 is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-up
 
 Schönbrunner Str. 222-228, 1120 Vienna, Austria, Vienna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/u4/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/u4/)*

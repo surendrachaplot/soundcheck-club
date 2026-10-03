@@ -1,6 +1,6 @@
 # Emma-Jean Thackray
 
-Emma-Jean Thackray is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Sat, 24 Oct 2026.
+Emma-Jean Thackray is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Carpet Shop, London on Sat, 24 Oct 2026.
 
 Emma-Jean Thackray is a jazz and house artist based in United Kingdom, with 19 gigs on soundcheck across Antwerp, Birmingham, Cologne and Leeds and 6 more. Often billed alongside Jamz Supernova, Arp Frique and Carl Craig. Next up: The Carpet Shop, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Emma-Jean Thackray is a jazz and house artist based in United Kingdom, with 19 g
 
 Jamz Supernova, Arp Frique, Carl Craig
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*

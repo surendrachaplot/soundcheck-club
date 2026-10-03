@@ -1,6 +1,6 @@
 # Paulette Sauvage
 
-Paulette Sauvage is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
+Paulette Sauvage is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereolux, Nantes on Sat, 10 Oct 2026.
 
 Paulette Sauvage is a techno and house artist, with 46 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: Stereolux, Nantes on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Paulette Sauvage is a techno and house artist, with 46 gigs on soundcheck across
 
 Or'l, Nicol, Tina Tornade
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*

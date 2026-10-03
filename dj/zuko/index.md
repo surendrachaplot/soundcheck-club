@@ -1,6 +1,6 @@
 # Zuko
 
-Zuko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kurnell Recreation Club, Sydney on Fri, 6 Nov 2026.
+Zuko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kurnell Recreation Club, Sydney on Fri, 6 Nov 2026.
 
 Zuko is a techno and house artist based in Australia, with 28 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Alternate State, Justin Muscat and Jakob (BE). Next up: Kurnell Recreation Club, Sydney on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Zuko is a techno and house artist based in Australia, with 28 gigs on soundcheck
 
 Alternate State, Justin Muscat, Jakob (BE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuko/)*

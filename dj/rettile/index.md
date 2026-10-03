@@ -1,6 +1,6 @@
 # RETTILE
 
-RETTILE is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
+RETTILE is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
 
 RETTILE is a tech house and afro house artist, with 14 gigs on soundcheck across London. Often billed alongside Vincent Simm, LLeiL and Balko Musik. Next up: St Ethelburga's Centre for Reconciliation and Peace, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ RETTILE is a tech house and afro house artist, with 14 gigs on soundcheck across
 
 Vincent Simm, LLeiL, Balko Musik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rettile/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rettile/)*

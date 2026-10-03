@@ -1,6 +1,6 @@
 # Mr. Rachele
 
-Mr. Rachele is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Brunswick Artists Bar, Melbourne on Sat, 24 Oct 2026.
+Mr. Rachele is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brunswick Artists Bar, Melbourne on Sat, 24 Oct 2026.
 
 Mr. Rachele is a techno and experimental artist based in Australia, with 16 gigs on soundcheck across Melbourne. Often billed alongside Lincoln J. K. Webber, SHAY DOE and CAITY WATSON. Next up: Brunswick Artists Bar, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mr. Rachele is a techno and experimental artist based in Australia, with 16 gigs
 
 Lincoln J. K. Webber, SHAY DOE, CAITY WATSON
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.rachele/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.rachele/)*

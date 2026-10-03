@@ -1,6 +1,6 @@
 # Martin Noise
 
-Martin Noise is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Freedonia, Barcelona on Sat, 3 Oct 2026.
+Martin Noise is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Freedonia, Barcelona on Sat, 3 Oct 2026.
 
 Martin Noise is a house and acid artist based in Argentina, with 76 gigs on soundcheck across Barcelona, Berlin, Bucharest and Buenos Aires and 4 more. Often billed alongside Cisco, Andrea Zarco and DELLA (AR). Next up: Freedonia, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Martin Noise is a house and acid artist based in Argentina, with 76 gigs on soun
 
 Cisco (2), Andrea Zarco, DELLA (AR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*

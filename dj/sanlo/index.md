@@ -1,6 +1,6 @@
 # Sánlo
 
-Sánlo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Sat, 3 Oct 2026.
+Sánlo is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Sánlo is a club and house artist based in United States of America, with 34 gigs on soundcheck across San Francisco/Oakland and Washington DC. Often billed alongside mymy, Femme Jatale and LILRAV4. Next up: Moonglow Oakland, San Francisco/Oakland on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sánlo is a club and house artist based in United States of America, with 34 gig
 
 mymy, Femme Jatale, LILRAV4
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*

@@ -1,6 +1,6 @@
 # KAMIKAZE
 
-KAMIKAZE is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Baalsaal, Hamburg on Sat, 3 Oct 2026.
+KAMIKAZE is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Baalsaal, Hamburg on Sat, 3 Oct 2026.
 
 KAMIKAZE is a techno and hardcore artist based in Japan, with 127 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside EVE, egomania and KANON. Next up: Baalsaal, Hamburg on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KAMIKAZE is a techno and hardcore artist based in Japan, with 127 gigs on soundc
 
 EVE (1), egomania, KANON (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikaze/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikaze/)*

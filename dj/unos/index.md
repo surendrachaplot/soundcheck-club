@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
+UNOS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
 
 UNOS is a house and disco artist based in Belgium, with 61 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, Zouzibabe and She The DJ. Next up: Fuse, Brussels on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ UNOS is a house and disco artist based in Belgium, with 61 gigs on soundcheck ac
 
 Fais Le Beau, Zouzibabe, She The DJ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

@@ -1,14 +1,13 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN" on Fri, 2 Oct 2026.
+Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Project Nowhere 2026: Container + Lee Paradise + ONTARIO HOSPITAL + TWIN MASK" on Sat, 3 Oct 2026.
 
-Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including anise, Assassin Bug, AUX_ID and Babies R Stupid and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
+Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including anise, Assassin Bug, AUX_ID and Babies R Stupid and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN | Strip Lacquer, Tony Price |
 | Sat, 3 Oct 2026 | Project Nowhere 2026: Container + Lee Paradise + ONTARIO HOSPITAL + TWIN MASK | Container, Lee Paradise |
 | Sat, 10 Oct 2026 | L/MINAL: Darkova, Esther Benoit, Mission Control | Darkova, Esther Benoit, Mission Control |
 | Sun, 11 Oct 2026 | Primal Forest | Psyberix, Risky Medicine, SouthPawBrown |
@@ -21,4 +20,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

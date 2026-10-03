@@ -1,6 +1,6 @@
 # Ari Kiko
 
-Ari Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Pleasure Club, Sydney on Sat, 31 Oct 2026.
+Ari Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pleasure Club, Sydney on Sat, 31 Oct 2026.
 
 Ari Kiko is a house and techno artist based in Australia, with 60 gigs on soundcheck across Lyon, Melbourne and Sydney. Often billed alongside Mina Tonic, Postponez and Broccoli Effect. Next up: Pleasure Club, Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ari Kiko is a house and techno artist based in Australia, with 60 gigs on soundc
 
 Mina Tonic, Postponez, Broccoli Effect
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*

@@ -1,6 +1,6 @@
 # Blackloud
 
-Blackloud is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
+Blackloud is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
 
 Blackloud is a house and techno artist, with 43 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 1 more. Often billed alongside Hugorieri, Ondrej K and Topal. Next up: MODULE, Copenhagen on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Blackloud is a house and techno artist, with 43 gigs on soundcheck across Barcel
 
 Hugorieri, Ondrej K, Topal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloud/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloud/)*

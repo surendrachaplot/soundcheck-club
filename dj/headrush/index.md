@@ -1,6 +1,6 @@
 # headrush
 
-headrush is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Flinders, Sydney on Sat, 3 Oct 2026.
+headrush is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Flinders, Sydney on Sat, 3 Oct 2026.
 
 headrush is a techno and industrial artist based in Denmark, with 18 gigs on soundcheck across Chicago, Copenhagen, Stockholm and Sydney. Often billed alongside DJ Lukey, DJ Dopamina and Gavnlig. Next up: The Flinders, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ headrush is a techno and industrial artist based in Denmark, with 18 gigs on sou
 
 DJ Lukey, DJ Dopamina, Gavnlig
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headrush/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headrush/)*

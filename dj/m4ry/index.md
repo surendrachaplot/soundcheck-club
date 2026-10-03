@@ -1,6 +1,6 @@
 # M4RY
 
-M4RY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, Berlin on Fri, 16 Oct 2026.
+M4RY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, Berlin on Fri, 16 Oct 2026.
 
 M4RY is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Limoncello, alemiko and HAUSBRAND. Next up: Monarch, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ M4RY is a techno and trance artist based in Germany, with 38 gigs on soundcheck 
 
 Limoncello, alemiko, HAUSBRAND
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*

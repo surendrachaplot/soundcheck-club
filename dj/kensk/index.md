@@ -1,6 +1,6 @@
 # kens:k
 
-kens:k is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 28 Nov 2026.
+kens:k is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 28 Nov 2026.
 
 kens:k is a drum & bass and hardcore artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside Relect, DJ AKi and Maozon. Next up: Z Maruyama, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ kens:k is a drum & bass and hardcore artist based in Japan, with 16 gigs on soun
 
 Relect, DJ AKi, Maozon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kensk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kensk/)*

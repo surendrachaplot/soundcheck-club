@@ -1,6 +1,6 @@
 # gaeb
 
-gaeb is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Upside, Florida on Sat, 24 Oct 2026.
+gaeb is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Upside, Florida on Sat, 24 Oct 2026.
 
 gaeb is an afro house and progressive house artist, with 25 gigs on soundcheck across Florida, Miami and New York City. Often billed alongside Steve Lawler, ANDREATENS and Bontan. Next up: Upside, Florida on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ gaeb is an afro house and progressive house artist, with 25 gigs on soundcheck a
 
 Steve Lawler, ANDREATENS, Bontan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaeb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaeb/)*

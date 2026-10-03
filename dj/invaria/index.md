@@ -1,6 +1,6 @@
 # Invaria
 
-Invaria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
+Invaria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MODULE, Copenhagen on Fri, 9 Oct 2026.
 
 Invaria is a house and techno artist based in Germany, with 54 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside SevenDays, ANDATA and Sitze. Next up: MODULE, Copenhagen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Invaria is a house and techno artist based in Germany, with 54 gigs on soundchec
 
 SevenDays, ANDATA, Sitze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invaria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invaria/)*

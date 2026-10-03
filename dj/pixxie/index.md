@@ -1,6 +1,6 @@
 # Pixxie
 
-Pixxie is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Pixxie is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Pixxie is a deep house and house artist, with 13 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside ALMAS, IZIK and MOSTASH. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pixxie is a deep house and house artist, with 13 gigs on soundcheck across Mexic
 
 ALMAS, IZIK, MOSTASH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pixxie/)*

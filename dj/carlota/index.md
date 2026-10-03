@@ -1,6 +1,6 @@
 # Carlota
 
-Carlota is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Carlota is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 Carlota is a tech house and house artist, with 7 gigs on soundcheck across Barcelona, Madrid and Munich. Often billed alongside BLANKA, Brus Equation and DJ2D2. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Carlota is a tech house and house artist, with 7 gigs on soundcheck across Barce
 
 BLANKA, Brus Equation, DJ2D2
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlota/)*

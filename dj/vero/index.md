@@ -1,6 +1,6 @@
 # Vero
 
-Vero is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
+Vero is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
 
 Vero is a techno and progressive house artist based in Ukraine, with 14 gigs on soundcheck across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside AMBAM, ASLO and Aio. Next up: Club Up, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Vero is a techno and progressive house artist based in Ukraine, with 14 gigs on 
 
 AMBAM, ASLO, Aio
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

@@ -1,6 +1,6 @@
 # maša (SI)
 
-maša (SI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
+maša (SI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
 
 maša (SI) is a techno and house artist based in Slovenia, with 8 gigs on soundcheck across Berlin, Lisbon, London and Munich and 1 more. Often billed alongside Apple B, Hazr and dj sweet6teen. Next up: The Carpet Shop, London on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ maša (SI) is a techno and house artist based in Slovenia, with 8 gigs on soundc
 
 Apple B, Hazr, dj sweet6teen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*

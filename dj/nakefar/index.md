@@ -1,6 +1,6 @@
 # nakefar
 
-nakefar is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Fri, 16 Oct 2026.
+nakefar is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 16 Oct 2026.
 
 nakefar is a hardcore and breakcore artist based in Japan, with 23 gigs on soundcheck across New York City, Osaka and Tokyo. Often billed alongside BASiRiNO, MUNÉO and unkokitty. Next up: Forestlimit, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ nakefar is a hardcore and breakcore artist based in Japan, with 23 gigs on sound
 
 BASiRiNO, MUNÉO, unkokitty
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*

@@ -1,14 +1,13 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
+D-Leria is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
+D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Fri, 30 Oct 2026 | Mia Mao | Paris |
@@ -16,17 +15,17 @@ D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck
 
 ## Recently played
 
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 2 Oct 2026
+- Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Jasna 1, Warsaw · Sat, 19 Sept 2026
 - Q Club, Milan · Fri, 4 Sept 2026
 - THE MAGICK BAR, Rome · Thu, 3 Sept 2026
 - OIL Club, Shenzhen · Sat, 29 Aug 2026
 - vurt., Seoul · Fri, 28 Aug 2026
 - TBA - OAKYARD GROUNDS - 2h north of Berlin., Berlin · Fri, 3 Jul 2026
-- Parco Dora, Turin · Fri, 3 Jul 2026
-- DURO, Milan · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

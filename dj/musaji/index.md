@@ -1,6 +1,6 @@
 # Musaji
 
-Musaji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carlton Club, Manchester on Wed, 11 Nov 2026.
+Musaji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Carlton Club, Manchester on Wed, 11 Nov 2026.
 
 Musaji is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Leeds and Manchester. Often billed alongside Dan Copsey, Lil Carl and djsmokinarea. Next up: The Carlton Club, Manchester on Wed 11 Nov.
 
@@ -23,4 +23,4 @@ Musaji is a techno and house artist based in United Kingdom, with 7 gigs on soun
 
 Dan Copsey, Lil Carl, djsmokinarea
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musaji/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musaji/)*

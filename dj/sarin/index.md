@@ -1,6 +1,6 @@
 # SARIN
 
-SARIN is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klub Under, Belgrade on Fri, 20 Nov 2026.
+SARIN is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub Under, Belgrade on Fri, 20 Nov 2026.
 
 SARIN is an ebm and industrial artist, with 37 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Philipp Strobel, Ottoman Grüw and Schwefelgelb. Next up: Klub Under, Belgrade on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ SARIN is an ebm and industrial artist, with 37 gigs on soundcheck across Amsterd
 
 Philipp Strobel, Ottoman Grüw, Schwefelgelb
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarin/)*

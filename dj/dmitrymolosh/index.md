@@ -1,6 +1,6 @@
 # Dmitry Molosh
 
-Dmitry Molosh is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stereo, Montreal on Sat, 3 Oct 2026.
+Dmitry Molosh is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Montreal on Sat, 3 Oct 2026.
 
 Dmitry Molosh is a techno and progressive house artist based in Belarus, with 18 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Glasgow and 5 more. Often billed alongside Angelo Mike, Cid Inc and Cris-H. Next up: Stereo, Montreal on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Dmitry Molosh is a techno and progressive house artist based in Belarus, with 18
 
 Angelo Mike, Cid Inc, Cris-H
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitrymolosh/)*

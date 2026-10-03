@@ -1,6 +1,6 @@
 # Yassine
 
-Yassine is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gare Porto, Porto on Sat, 31 Oct 2026.
+Yassine is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gare Porto, Porto on Sat, 31 Oct 2026.
 
 Yassine is a techno and electronica artist based in Portugal, with 40 gigs on soundcheck across Lisbon and Porto. Often billed alongside Amulador, Mind Archives and Tiago Fragateiro. Next up: Gare Porto, Porto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yassine is a techno and electronica artist based in Portugal, with 40 gigs on so
 
 Amulador, Mind Archives, Tiago Fragateiro
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yassine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yassine/)*

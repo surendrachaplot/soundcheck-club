@@ -1,6 +1,6 @@
 # Joutro Mundo
 
-Joutro Mundo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Joutro Mundo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Joutro Mundo is a house and techno artist, with 8 gigs on soundcheck across Brazil, Lisbon, Sao Paulo and Tokyo and 1 more. Often billed alongside Antal, Bernardo Pinheiro and Carlos René. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ Joutro Mundo is a house and techno artist, with 8 gigs on soundcheck across Braz
 
 Antal, Bernardo Pinheiro, Carlos René
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joutromundo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joutromundo/)*

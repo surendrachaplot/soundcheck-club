@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Oppidan is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
 Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on s
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

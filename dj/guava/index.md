@@ -1,6 +1,6 @@
 # Guava
 
-Guava is a Krautrock and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafe OTO, London on Sat, 3 Oct 2026.
+Guava is a Krautrock and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafe OTO, London on Sat, 3 Oct 2026.
 
 Guava is a krautrock and ambient artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Leipzig, London and Munich. Often billed alongside Acidfinky, Anna Kost and David Kennedy. Next up: Cafe OTO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Guava is a krautrock and ambient artist based in United Kingdom, with 23 gigs on
 
 Acidfinky, Anna Kost, David Kennedy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guava/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guava/)*

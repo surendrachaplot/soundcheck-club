@@ -1,6 +1,6 @@
 # Edann
 
-Edann is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madam, Amsterdam on Fri, 27 Nov 2026.
+Edann is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madam, Amsterdam on Fri, 27 Nov 2026.
 
 Edann is an afro house and afro tech artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside Frequency George, Neo (NL) and BADBOX. Next up: Madam, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Edann is an afro house and afro tech artist based in Netherlands, with 14 gigs o
 
 Frequency George, Neo (NL), BADBOX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edann/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edann/)*

@@ -1,6 +1,6 @@
 # Rosy Specka
 
-Rosy Specka is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Specka, Madrid on Sat, 24 Oct 2026.
+Rosy Specka is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Specka, Madrid on Sat, 24 Oct 2026.
 
 Rosy Specka is an electronica and techno artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside DJ F (ES), Hd Substance and Luis MF. Next up: Specka, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rosy Specka is an electronica and techno artist based in Spain, with 14 gigs on 
 
 DJ F (ES), Hd Substance, Luis MF
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyspecka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyspecka/)*

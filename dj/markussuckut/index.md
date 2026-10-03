@@ -1,6 +1,6 @@
 # Markus Suckut
 
-Markus Suckut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Sat, 12 Dec 2026.
+Markus Suckut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NWHR, Montreal on Sat, 12 Dec 2026.
 
 Markus Suckut is a techno and house artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Temudo, Altinbas and Ben Kaczor. Next up: NWHR, Montreal on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Markus Suckut is a techno and house artist based in Germany, with 19 gigs on sou
 
 Temudo, Altinbas, Ben Kaczor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussuckut/)*

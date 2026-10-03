@@ -1,6 +1,6 @@
 # Ivaldo Gino
 
-Ivaldo Gino is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
+Ivaldo Gino is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
 
 Ivaldo Gino is a breakbeat and electro artist based in Germany, with 35 gigs on soundcheck across Hamburg. Often billed alongside Ring41, Christian Kluge and Suzi Mystique. Next up: Hafenklang, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ivaldo Gino is a breakbeat and electro artist based in Germany, with 35 gigs on 
 
 Ring41, Christian Kluge, Suzi Mystique
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaldogino/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaldogino/)*

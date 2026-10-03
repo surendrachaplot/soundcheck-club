@@ -1,6 +1,6 @@
 # DAESU
 
-DAESU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garagen, Cologne on Fri, 20 Nov 2026.
+DAESU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garagen, Cologne on Fri, 20 Nov 2026.
 
 DAESU is a techno and industrial artist based in Germany, with 13 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside Daniel Noah, SPEEDO and SkaaR. Next up: Garagen, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DAESU is a techno and industrial artist based in Germany, with 13 gigs on soundc
 
 Daniel Noah, SPEEDO (2), SkaaR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daesu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daesu/)*

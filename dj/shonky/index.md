@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Shonky is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 Shonky is a house and tech house artist based in France, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Shonky is a house and tech house artist based in France, with 231 gigs on soundc
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

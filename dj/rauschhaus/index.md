@@ -1,6 +1,6 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
+Rauschhaus is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
 Rauschhaus is a techno and progressive house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Rauschhaus is a techno and progressive house artist based in Germany, with 44 gi
 
 Markus Klee, Around Us, Callecat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

@@ -1,6 +1,6 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
+FCUKERS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
 
 FCUKERS is a house and techno artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 27 more. Often billed alongside DJ Gigola, Jackson Walker Lewis and Underworld. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ FCUKERS is a house and techno artist based in United States of America, with 74 
 
 DJ Gigola, Jackson Walker Lewis, Underworld
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

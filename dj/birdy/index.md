@@ -1,6 +1,6 @@
 # Birdy
 
-Birdy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
+Birdy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
 
 Birdy is a tech house and house artist based in France, with 8 gigs on soundcheck across Barcelona and Toronto. Often billed alongside Manzone & Strong, Better Late and Zorglüb. Next up: Wiggle Room, Toronto on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Birdy is a tech house and house artist based in France, with 8 gigs on soundchec
 
 Manzone & Strong, Better Late, Zorglüb
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdy/)*

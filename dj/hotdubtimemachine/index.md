@@ -1,6 +1,6 @@
 # Hot Dub Time Machine
 
-Hot Dub Time Machine is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Hot Dub Time Machine is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Hot Dub Time Machine is a club and disco artist, with 8 gigs on soundcheck across Auckland, Brisbane, Glasgow and Melbourne and 1 more. Often billed alongside Bella Backe, Caleb Jackson and Casual P. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -24,4 +24,4 @@ Hot Dub Time Machine is a club and disco artist, with 8 gigs on soundcheck acros
 
 Bella Backe, Caleb Jackson, Casual P
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotdubtimemachine/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotdubtimemachine/)*

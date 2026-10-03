@@ -1,6 +1,6 @@
 # The Viper Rooms Sheffield
 
-The Viper Rooms Sheffield is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "VISIONE" on Sat, 3 Oct 2026.
+The Viper Rooms Sheffield is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "VISIONE" on Sat, 3 Oct 2026.
 
 The Viper Rooms Sheffield is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Carver Street, Sheffield, S1 4FS..
 
@@ -14,4 +14,4 @@ The Viper Rooms Sheffield is a music venue in Sheffield listed on soundcheck. 1 
 
 Carver Street, Sheffield, S1 4FS., Sheffield
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-viper-rooms-sheffield/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-viper-rooms-sheffield/)*

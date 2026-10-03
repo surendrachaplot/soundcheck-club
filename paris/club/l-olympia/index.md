@@ -1,6 +1,6 @@
 # L'Olympia
 
-L'Olympia is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fakear" on Fri, 9 Oct 2026.
+L'Olympia is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Fakear" on Fri, 9 Oct 2026.
 
 L'Olympia is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Fakear and RY X. See dates, start times and who's playing. 28 boulevard des Capucines; 75009; Paris; France.
 
@@ -15,4 +15,4 @@ L'Olympia is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with 
 
 28 boulevard des Capucines; 75009; Paris; France, Paris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/l-olympia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/l-olympia/)*

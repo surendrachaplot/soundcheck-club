@@ -1,6 +1,6 @@
 # Hannah Account
 
-Hannah Account is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
+Hannah Account is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 9 Oct 2026.
 
 Hannah Account is a techno and breakbeat artist based in United States of America, with 26 gigs on soundcheck across New York City and Washington DC. Often billed alongside Elly DJ, Austerity Measures and Eva Loveless. Next up: Metropolitan Bar, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hannah Account is a techno and breakbeat artist based in United States of Americ
 
 Elly DJ, Austerity Measures, Eva Loveless
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*

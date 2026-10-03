@@ -1,6 +1,6 @@
 # NELØ
 
-NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
+NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grapes and Plates, Hamburg on Sat, 17 Oct 2026.
 
 NELØ is a house and techno artist based in Germany, with 7 gigs on soundcheck across Hamburg. Often billed alongside JASHTECH, Alexej and Burak55. Next up: Grapes and Plates, Hamburg on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ NELØ is a house and techno artist based in Germany, with 7 gigs on soundcheck a
 
 JASHTECH, Alexej, Burak55
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*

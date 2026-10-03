@@ -1,18 +1,17 @@
 # Skylight Warehouse
 
-Skylight Warehouse is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SQUASH: Amadeezy" on Fri, 2 Oct 2026.
+Skylight Warehouse is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "QTS: Vancouver" on Fri, 13 Nov 2026.
 
-Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including 0xydr0p, Amadeezy, Farius and Jer (CA) and 1 more. See dates, start times and who's playing. 1800 Main St Back Entrance.
+Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Farius. See dates, start times and who's playing. 1800 Main St Back Entrance.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SQUASH: Amadeezy | 0xydr0p, Amadeezy, Jer (CA), softesthan |
 | Fri, 13 Nov 2026 | QTS: Vancouver | Farius |
 
 ## Address
 
 1800 Main St Back Entrance, Vancouver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*

@@ -1,6 +1,6 @@
 # Laiva Maikule
 
-Laiva Maikule is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B2 Rīga, Riga on Fri, 30 Oct 2026.
+Laiva Maikule is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at B2 Rīga, Riga on Fri, 30 Oct 2026.
 
 Laiva Maikule is a house and acid artist based in Latvia, with 15 gigs on soundcheck across Copenhagen and Riga. Often billed alongside Queer On Acid, SABINĒ and Crisco. Next up: B2 Rīga, Riga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Laiva Maikule is a house and acid artist based in Latvia, with 15 gigs on soundc
 
 Queer On Acid, SABINĒ, Crisco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laivamaikule/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laivamaikule/)*

@@ -1,14 +1,13 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Make A Dance is a House and Disco artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Night Tales, London on Fri, 9 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Night Tales, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
 | Fri, 9 Oct 2026 | Night Tales | London |
 | Sat, 10 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 16 Oct 2026 | Strange Brew | Bristol |
@@ -20,9 +19,11 @@ Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs 
 | Sat, 14 Nov 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | NUMBER 90 LONDON | London |
 | Sat, 28 Nov 2026 | Azimut Club | Turin |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Yellow Arch Studios, Sheffield · Fri, 2 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Hope House, Leeds · Fri, 25 Sept 2026
 - La Terrrazza, Barcelona · Wed, 23 Sept 2026
@@ -30,10 +31,9 @@ Make A Dance is a house and disco artist based in United Kingdom, with 128 gigs 
 - Palais, London · Fri, 28 Aug 2026
 - Rumore Nightclub Capri, Naples · Sat, 8 Aug 2026
 - Patterns, Brighton · Sat, 25 Jul 2026
-- BRET, Amsterdam · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA" on Fri, 2 Oct 2026.
+M-BIA is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PsyLab Unity [Psytrance Rave]" on Sat, 3 Oct 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Allexandra, Azura, Basstronauten and Bliss and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Allexandra, Azura, Basstronauten and Bliss and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | HARD SOLUTION with FURYAN • EYCER • CRACKY KOKSBERG • DISTRICT RED • PHIESI • REDMANN • ABZOCKA | Sei A, Techno Frühstück, Tekk, Tekk DJ'z, Tekknik |
 | Sat, 3 Oct 2026 | PsyLab Unity [Psytrance Rave] | Daora, LOVE, Sonse, fU.impact |
 | Fri, 9 Oct 2026 | SHØCC pres. Karamustan + Festival of Lights Clubnight | Karamustan, MØABEAT, NYXEA, Støffwechsel |
 | Sat, 10 Oct 2026 | Inception x Festival of Lights - Club Nights | HIGH VIBES, Keen (2), Momentune |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with li
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss | Allexandra, Azura, Basstronauten, Bliss (1), Daniel Boon, LORD of Psychedelics (2) |
 | Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 | Sat, 31 Oct 2026 | Intoxication Halloween SPECIAL |  |
+| Sat, 7 Nov 2026 | GOA Special pres Reverence [Brasilian Psytrance] |  |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

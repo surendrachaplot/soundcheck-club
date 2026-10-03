@@ -1,6 +1,6 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "House O'Drome W/. Marie Berson (LIVE), Davjazz & Farah Joue" on Sun, 11 Oct 2026.
+Le 211 is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "House O'Drome W/. Marie Berson (LIVE), Davjazz & Farah Joue" on Sun, 11 Oct 2026.
 
 Le 211 is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Art of Tones, Jade Edwards, Marie Berson and Nightchou. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
@@ -15,4 +15,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

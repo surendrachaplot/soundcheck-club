@@ -1,14 +1,13 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Fan von Viel und Auf'n Punkt" on Fri, 2 Oct 2026.
+Beate Uwe is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Beate Invites /// FEMQUENCY" on Sat, 3 Oct 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Adrija, AKA AKA, ALXJ and ARSENAL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Adrija, AKA AKA, ALXJ and ARSENAL and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Fan von Viel und Auf'n Punkt | Janosch Ulm, Joseph Disco |
 | Sat, 3 Oct 2026 | Beate Invites /// FEMQUENCY | CAMI (DE), Dora Dox, Laura Sí |
 | Sat, 3 Oct 2026 | FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) | CAMI (DE), Laura Sí |
 | Sun, 4 Oct 2026 | Beate Barfuß /// The Juice, Mia Kober, Maaje, Stellson & Špii | Mia Kober |
@@ -18,9 +17,10 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, wit
 | Sun, 11 Oct 2026 | Beate Barfuß /// Just Emma & Friends | Just Emma, Kollektiv Sheesh, Motip White |
 | Fri, 16 Oct 2026 | BEATE HAT SEHNSUCHT | Dydaa Forne, Klyde Tribes |
 | Sat, 17 Oct 2026 | Beate Invites /// Jackfruit & Friends | Danilo Kupfernagel, LEENI, Rabella |
+| Sun, 18 Oct 2026 | Beate Barfuß /// tatzentanz, olibrii, mimikri, (live), coco loris b2b ele, pi:menta |  |
 
 ## Address
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

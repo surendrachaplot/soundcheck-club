@@ -1,6 +1,6 @@
 # Richii
 
-Richii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Richii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Richii is a house and techno artist based in Japan, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 10 more. Often billed alongside Luigi Di Venere, Frinda di Lanco and Juan Ramos. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Richii is a house and techno artist based in Japan, with 65 gigs on soundcheck a
 
 Luigi Di Venere, Frinda di Lanco, Juan Ramos
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*

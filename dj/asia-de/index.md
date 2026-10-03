@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
+ASIA (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
 
 ASIA (DE) is a house and techno artist based in Russia, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: TBA - Ziecret Location, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ASIA (DE) is a house and techno artist based in Russia, with 39 gigs on soundche
 
 DJ Koolt, Neik, Jorge Escribano
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

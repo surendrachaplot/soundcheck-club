@@ -1,6 +1,6 @@
 # Marco (UK)
 
-Marco (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
+Marco (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
 
 Marco (UK) is a progressive house and deep house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: Brixton Jamm, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marco (UK) is a progressive house and deep house artist based in United Kingdom,
 
 Dowden, Lavie Au Soleil, STRAY SON
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcouk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcouk/)*

@@ -1,14 +1,13 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "JUNGLE MÁLAGA: BAODUB · AN.ITA · SHAOLIN DUBZ · NIGHT EYE · CALEB" on Fri, 2 Oct 2026.
+The Club (Málaga) is a music venue in Malaga with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NOKTURNA: MERMAID · MAR K · GUBI · GLOCK" on Sat, 3 Oct 2026.
 
-The Club (Málaga) is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including Danidote, Daniel Kelsan and Neeiv. See dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
+The Club (Málaga) is a music venue in Malaga listed on soundcheck. 8 upcoming gigs, with line-ups including Danidote, Daniel Kelsan and Neeiv. See dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | JUNGLE MÁLAGA: BAODUB · AN.ITA · SHAOLIN DUBZ · NIGHT EYE · CALEB |  |
 | Sat, 3 Oct 2026 | NOKTURNA: MERMAID · MAR K · GUBI · GLOCK |  |
 | Thu, 8 Oct 2026 | HELLO WEEKEND: HOUS & UK GARAGE |  |
 | Fri, 9 Oct 2026 | IN DA ISLAND: CAMILO CUBILLAS · ALBY · MAURO TORRETTA · MARIO BANTÚ |  |
@@ -22,4 +21,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 9 upcoming g
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

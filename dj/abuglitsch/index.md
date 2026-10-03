@@ -1,6 +1,6 @@
 # AbuGlitsch
 
-AbuGlitsch is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
+AbuGlitsch is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
 
 AbuGlitsch is a techno and hip-hop artist, with 30 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Bovskey, P.Vanillaboy and 3LNA. Next up: Prince Charles, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ AbuGlitsch is a techno and hip-hop artist, with 30 gigs on soundcheck across Ber
 
 Bovskey, P.Vanillaboy, 3LNA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuglitsch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuglitsch/)*

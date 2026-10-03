@@ -1,6 +1,6 @@
 # The Ego (DJ)
 
-The Ego (DJ) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Subcero Club, Madrid on Thu, 22 Oct 2026.
+The Ego (DJ) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Subcero Club, Madrid on Thu, 22 Oct 2026.
 
 The Ego (DJ) is a house and tech house artist based in Mexico, with 9 gigs on soundcheck across Berlin and Madrid. Often billed alongside Mraj Nite, Lucian ODP and BRINGAS. Next up: Subcero Club, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ The Ego (DJ) is a house and tech house artist based in Mexico, with 9 gigs on so
 
 Mraj Nite, Lucian ODP, BRINGAS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*

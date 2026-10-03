@@ -1,6 +1,6 @@
 # Black Box
 
-Black Box is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Black Box is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Black Box is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 12 more. Often billed alongside Unseen., Martin Mind and ZARE. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Black Box is a house and techno artist based in Germany, with 49 gigs on soundch
 
 Unseen., Martin Mind, ZARE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbox/)*

@@ -1,6 +1,6 @@
 # R2-RO
 
-R2-RO is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+R2-RO is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 R2-RO is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Czech Strings, Anne-Sophie Selig and Aude (DR). Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ R2-RO is a house and garage artist based in United Kingdom, with 10 gigs on soun
 
 Czech Strings, Anne-Sophie Selig, Aude (DR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r2-ro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r2-ro/)*

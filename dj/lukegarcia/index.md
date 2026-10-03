@@ -1,6 +1,6 @@
 # Luke Garcia
 
-Luke Garcia is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
+Luke Garcia is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
 
 Luke Garcia is a techno and progressive house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside Alex Warp, Marino Canal and AMANN. Next up: High Club Room, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Luke Garcia is a techno and progressive house artist based in Spain, with 11 gig
 
 Alex Warp, Marino Canal, AMANN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegarcia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegarcia/)*

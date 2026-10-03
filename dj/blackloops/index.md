@@ -1,6 +1,6 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
+Black Loops is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
 
 Black Loops is a house and deep house artist based in Italy, with 150 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 42 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: Lanificio 159, Rome on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Black Loops is a house and deep house artist based in Italy, with 150 gigs on so
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

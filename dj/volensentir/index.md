@@ -1,6 +1,6 @@
 # Volen Sentir
 
-Volen Sentir is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
+Volen Sentir is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
 
 Volen Sentir is a deep house and progressive house artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Budapest, Denver and London and 9 more. Often billed alongside PROFF, Altayef and Amber Stomp. Next up: Lower Deck, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Volen Sentir is a deep house and progressive house artist based in Armenia, with
 
 PROFF, Altayef, Amber Stomp
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*

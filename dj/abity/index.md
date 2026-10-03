@@ -1,6 +1,6 @@
 # Abity
 
-Abity is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
+Abity is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
 Abity is a progressive house and house artist based in Argentina, with 10 gigs on soundcheck across Amsterdam, Buenos Aires and Madrid. Often billed alongside Not Demure, ALISHA and Alísha. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Abity is a progressive house and house artist based in Argentina, with 10 gigs o
 
 Not Demure, ALISHA, Alísha
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abity/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abity/)*

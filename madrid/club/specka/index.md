@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "IN NOCTE VERITAS I Temática RENTRÉE" on Fri, 2 Oct 2026.
+Specka is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Systolic Showcase 360° Rave #02 - Specka Club Tardes" on Sat, 3 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including Alvaro Cabana, Anthony Rother, Belkan and Brody and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Alvaro Cabana, Anthony Rother, Belkan and Brody and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | IN NOCTE VERITAS I Temática RENTRÉE | Iñaki Villasante |
 | Sat, 3 Oct 2026 | Systolic Showcase 360° Rave #02 - Specka Club Tardes |  |
 | Sat, 3 Oct 2026 | Triffulca Rentrée I Specka Club |  |
 | Fri, 9 Oct 2026 | 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko |  |
@@ -18,9 +17,10 @@ Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with l
 | Fri, 16 Oct 2026 | Erik Luebs: Live / Void Control | Brody (2), Erik Luebs, M. Freelance |
 | Sat, 17 Oct 2026 | Nostromo Club #15 Tardes de Trance I SpeckaClub |  |
 | Sat, 17 Oct 2026 | Question I Specka Club | Roldan, Tief (1) |
+| Fri, 23 Oct 2026 | Impossible Love First Anniversary I Specka Club | Satom |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

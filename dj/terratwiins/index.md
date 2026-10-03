@@ -1,6 +1,6 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
+TERRA TWIINS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
 
 TERRA TWIINS is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside SOHOE, Amo (IT) and Cobb Douglas. Next up: ÆDEN, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ TERRA TWIINS is a techno and trance artist based in Germany, with 49 gigs on sou
 
 SOHOE, Amo (IT), Cobb Douglas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

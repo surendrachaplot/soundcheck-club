@@ -1,6 +1,6 @@
 # Popof
 
-Popof is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Popof is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
 Popof is a techno and tech house artist based in France, with 49 gigs on soundcheck across Austin, Bangkok, Barcelona and Buenos Aires and 18 more. Often billed alongside Space 92, KRS and Anfisa Letyago. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Popof is a techno and tech house artist based in France, with 49 gigs on soundch
 
 Space 92, KRS, Anfisa Letyago
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*

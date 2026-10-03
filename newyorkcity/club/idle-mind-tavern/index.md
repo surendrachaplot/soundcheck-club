@@ -1,6 +1,6 @@
 # Idle Mind Tavern
 
-Idle Mind Tavern is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Echo Reset: Boy Sharp, DJ Jos, Danny Astin Louxx" on Sat, 3 Oct 2026.
+Idle Mind Tavern is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Echo Reset: Boy Sharp, DJ Jos, Danny Astin Louxx" on Sat, 3 Oct 2026.
 
 Idle Mind Tavern is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 623 Manhattan Ave, Brooklyn, NY 11222.
 
@@ -18,4 +18,4 @@ Idle Mind Tavern is a music venue in New York City listed on soundcheck. 5 upcom
 
 623 Manhattan Ave, Brooklyn, NY 11222, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*

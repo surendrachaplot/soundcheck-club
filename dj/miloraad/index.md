@@ -1,6 +1,6 @@
 # Milo Raad
 
-Milo Raad is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
+Milo Raad is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
 
 Milo Raad is a techno and industrial artist based in Serbia, with 40 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 14 more. Often billed alongside Filip Xavi, Dexon and KATALINA. Next up: Bsmt 254, Toronto on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Milo Raad is a techno and industrial artist based in Serbia, with 40 gigs on sou
 
 Filip Xavi, Dexon, KATALINA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*

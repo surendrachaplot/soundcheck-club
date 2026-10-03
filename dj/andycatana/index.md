@@ -1,6 +1,6 @@
 # Andy Catana
 
-Andy Catana is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
+Andy Catana is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
 Andy Catana is a house and minimal artist based in Austria, with 28 gigs on soundcheck across Berlin, Brussels, Bucharest and Cologne and 3 more. Often billed alongside Apua, Fabiano José and Reinhard Zach. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Andy Catana is a house and minimal artist based in Austria, with 28 gigs on soun
 
 Apua, Fabiano José, Reinhard Zach
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycatana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycatana/)*

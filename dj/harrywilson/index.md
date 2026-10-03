@@ -1,18 +1,18 @@
 # Harry Wilson
 
-Harry Wilson is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jungla London, London on Fri, 2 Oct 2026.
+Harry Wilson is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
 
-Harry Wilson is a progressive house and house artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Arterapsy, Francesco Poggi and Bibiminor. Next up: Jungla London, London on Fri 2 Oct.
+Harry Wilson is a progressive house and house artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Arterapsy, Francesco Poggi and Bibiminor. Next up: Brixton Jamm, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Jungla London | London |
 | Sat, 24 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played
 
+- Jungla London, London · Fri, 2 Oct 2026
 - Basing House, London · Fri, 11 Sept 2026
 - Jungla London, London · Fri, 19 Jun 2026
 - Boxpark Croydon, London · Thu, 23 Apr 2026
@@ -20,10 +20,9 @@ Harry Wilson is a progressive house and house artist based in United Kingdom, wi
 - Groovetank Live, London · Thu, 19 Feb 2026
 - Jungla London, London · Fri, 5 Dec 2025
 - TBA - The Little Yak, 3 Creekside, London SE8 4SA, London · Sat, 21 Jun 2025
-- Village512, London · Fri, 22 Nov 2024
 
 ## Shares bills with
 
 Arterapsy, Francesco Poggi, Bibiminor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrywilson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrywilson/)*

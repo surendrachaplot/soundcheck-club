@@ -1,6 +1,6 @@
 # Seen
 
-Seen is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Movers, Nottingham on Sat, 31 Oct 2026.
+Seen is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Movers, Nottingham on Sat, 31 Oct 2026.
 
 Seen is a bass and dubstep artist based in United Kingdom, with 11 gigs on soundcheck across Glasgow and Nottingham. Often billed alongside Daisy Moon, Dom Carlo and FEMINEM. Next up: Movers, Nottingham on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Seen is a bass and dubstep artist based in United Kingdom, with 11 gigs on sound
 
 Daisy Moon, Dom Carlo, FEMINEM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seen/)*

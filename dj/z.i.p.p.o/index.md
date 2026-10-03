@@ -1,6 +1,6 @@
 # Z.I.P.P.O
 
-Z.I.P.P.O is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+Z.I.P.P.O is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
 Z.I.P.P.O is a techno and house artist based in Italy, with 67 gigs on soundcheck across Athens, Berlin, Boston and Brussels and 14 more. Often billed alongside Asymptote, Fireground and Hiver. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Z.I.P.P.O is a techno and house artist based in Italy, with 67 gigs on soundchec
 
 Asymptote, Fireground, Hiver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*

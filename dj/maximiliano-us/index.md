@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 7 Oct 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 7 Oct 2026.
 
 MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 188 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 3 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: Eighteenth Street Lounge (ESL), Washington DC on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 188 g
 
 Factory Reset, Mikey J, Room 12
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

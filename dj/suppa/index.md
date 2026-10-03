@@ -1,6 +1,6 @@
 # SUPPA
 
-SUPPA is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
+SUPPA is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
 
 SUPPA is a house and drum & bass artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Sherpa Slim, AMANTE and Baby Kush. Next up: TBA - Kramer Junction, CA, Los Angeles on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ SUPPA is a house and drum & bass artist based in United States of America, with 
 
 Sherpa Slim, AMANTE, Baby Kush
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suppa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suppa/)*

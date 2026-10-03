@@ -1,6 +1,6 @@
 # Jonquera
 
-Jonquera is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
+Jonquera is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
 
 Jonquera is an experimental and electronica artist based in France, with 13 gigs on soundcheck across Athens, Bristol, Brussels and London and 3 more. Often billed alongside Officium, Al Paino and Elena Colombi. Next up: Mains D'œuvres, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jonquera is an experimental and electronica artist based in France, with 13 gigs
 
 Officium, Al Paino, Elena Colombi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*

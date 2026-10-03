@@ -1,6 +1,6 @@
 # Fratello
 
-Fratello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 16 Oct 2026.
+Fratello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 16 Oct 2026.
 
 Fratello is a techno and house artist based in Turkey, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 4 more. Often billed alongside CiKi, Ertug Karakas and Glowal. Next up: Klein Phönix, Istanbul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fratello is a techno and house artist based in Turkey, with 29 gigs on soundchec
 
 CiKi, Ertug Karakas, Glowal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fratello/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fratello/)*

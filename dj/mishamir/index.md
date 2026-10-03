@@ -1,6 +1,6 @@
 # Misha Mir
 
-Misha Mir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Orient Express, Seattle on Fri, 16 Oct 2026.
+Misha Mir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Orient Express, Seattle on Fri, 16 Oct 2026.
 
 Misha Mir is a house and deep house artist based in United States of America, with 11 gigs on soundcheck across Seattle. Often billed alongside Jono, Interwave Surfer and Chance Sands. Next up: Orient Express, Seattle on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Misha Mir is a house and deep house artist based in United States of America, wi
 
 Jono (2), Interwave Surfer, Chance Sands
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishamir/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishamir/)*

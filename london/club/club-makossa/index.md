@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY" on Thu, 8 Oct 2026.
+Club Makossa is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY" on Thu, 8 Oct 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including BIDOIS, DAMO, Faded Society and miss jas and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -20,4 +20,4 @@ Club Makossa is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

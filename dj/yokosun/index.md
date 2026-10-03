@@ -1,6 +1,6 @@
 # YOKOSUN
 
-YOKOSUN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+YOKOSUN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
 YOKOSUN is a house and techno artist, with 15 gigs on soundcheck across Bali, Bangkok, Ho Chi Minh City and Kuala Lumpur and 4 more. Often billed alongside Shhhhh, Chalo and Hugo LX. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ YOKOSUN is a house and techno artist, with 15 gigs on soundcheck across Bali, Ba
 
 Shhhhh, Chalo, Hugo LX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*

@@ -1,6 +1,6 @@
 # TH4YS
 
-TH4YS is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kat Klub São Paulo, Sao Paulo on Fri, 9 Oct 2026.
+TH4YS is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kat Klub São Paulo, Sao Paulo on Fri, 9 Oct 2026.
 
 TH4YS is a baile funk and afrobeat artist, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 8 more. Often billed alongside GUS, Caio Prince and Mirands. Next up: Kat Klub São Paulo, Sao Paulo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ TH4YS is a baile funk and afrobeat artist, with 31 gigs on soundcheck across Ams
 
 GUS (4), Caio Prince, Mirands
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/th4ys/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/th4ys/)*

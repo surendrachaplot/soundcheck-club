@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "★★: Sepehr live, MöB, Ella Pavel, Takenaga" on Fri, 2 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Seismic invites Garçon" on Sat, 3 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 3ever, Alfred Czital, A/PM and AVHD and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | ★★: Sepehr live, MöB, Ella Pavel, Takenaga | Ella Pavel, MöB (1), Sepehr, Takenaga |
 | Sat, 3 Oct 2026 | Seismic invites Garçon | Citty, DANOWSKI000, Garçon, LickMySoul, Segment |
 | Sat, 3 Oct 2026 | Motherspells x Ciocia Czesia: 6th B-Day | CANDY PUMPS, Kaa Glo, Kitty Sarcasm, NEW MAGIC MEDIA |
 | Fri, 9 Oct 2026 | #wubwub x Markham Road Records | DDAT, Jan Loup, Westdale, basic chanel |
@@ -18,9 +17,10 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming
 | Fri, 23 Oct 2026 | DICK with Cormac | Cormac, Kaotic, Misha Jaru, S.Tian |
 | Sat, 24 Oct 2026 | ✦ Kitchen Collective ✦: New Season | AVHD, Blanchita, DJames (2), Krackk, Marie Pravda, Møreti, Takē, White Aura, frujty, ishka machina |
 | Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, PRDELANZA, TAPCUE, VISNEACS, patricccio |
+| Sat, 14 Nov 2026 | HEAT 10 with TBA |  |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

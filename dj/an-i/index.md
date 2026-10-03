@@ -1,6 +1,6 @@
 # An-i
 
-An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
+An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
 
 An-i is a techno and house artist based in Germany, with 47 gigs on soundcheck across Belgrade, Berlin, Bucharest and Dublin and 12 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ An-i is a techno and house artist based in Germany, with 47 gigs on soundcheck a
 
 Veronica Vasicka, Layne, FFAN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*

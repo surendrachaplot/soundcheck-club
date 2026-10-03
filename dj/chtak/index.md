@@ -1,6 +1,6 @@
 # Chtak.
 
-Chtak. is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 42 Marches, Paris on Sat, 31 Oct 2026.
+Chtak. is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Sat, 31 Oct 2026.
 
 Chtak. is a progressive house and house artist, with 15 gigs on soundcheck across Marseille and Paris. Often billed alongside Spicy Sofi, Ploum and Vigilance Zero. Next up: 42 Marches, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chtak. is a progressive house and house artist, with 15 gigs on soundcheck acros
 
 Spicy Sofi, Ploum, Vigilance Zero
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chtak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chtak/)*

@@ -1,6 +1,6 @@
 # Rusko
 
-Rusko is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New City Gas, Montreal on Sat, 17 Oct 2026.
+Rusko is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at New City Gas, Montreal on Sat, 17 Oct 2026.
 
 Rusko is a drum & bass and dubstep artist based in United Kingdom, with 22 gigs on soundcheck across Austin, Boston, Bristol and Denver and 9 more. Often billed alongside Flava D, Caspa and Chris Lake. Next up: New City Gas, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rusko is a drum & bass and dubstep artist based in United Kingdom, with 22 gigs 
 
 Flava D, Caspa, Chris Lake
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusko/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusko/)*

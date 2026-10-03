@@ -1,6 +1,6 @@
 # Rafael Anton Irisarri
 
-Rafael Anton Irisarri is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
+Rafael Anton Irisarri is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
 
 Rafael Anton Irisarri is an experimental and electronica artist based in United States of America, with 18 gigs on soundcheck across Berlin, Budapest, London and Mexico City and 5 more. Often billed alongside Abul Mogard, Martina Bertoni and Andrea Burelli. Next up: Beatrixgebouw, Utrecht on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Rafael Anton Irisarri is an experimental and electronica artist based in United 
 
 Abul Mogard, Martina Bertoni, Andrea Burelli
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelantonirisarri/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelantonirisarri/)*

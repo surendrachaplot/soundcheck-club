@@ -1,6 +1,6 @@
 # Esther Dune
 
-Esther Dune is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
+Esther Dune is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
 
 Esther Dune is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside I-F, Marsman and Dexon. Next up: Rachdingue, Barcelona on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Esther Dune is a techno and house artist based in Netherlands, with 104 gigs on 
 
 I-F, Marsman, Dexon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*

@@ -1,6 +1,6 @@
 # Gropina
 
-Gropina is a Dub and Balearic artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 3 Oct 2026.
+Gropina is a Dub and Balearic artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 3 Oct 2026.
 
 Gropina is a dub and balearic artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Wutu, Camille Maria and DJ Marcelle. Next up: Time is the new space, Rotterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Gropina is a dub and balearic artist based in Italy, with 15 gigs on soundcheck 
 
 Wutu, Camille Maria, DJ Marcelle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gropina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gropina/)*

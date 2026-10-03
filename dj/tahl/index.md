@@ -1,6 +1,6 @@
 # Tahl
 
-Tahl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
+Tahl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
 Tahl is a techno and house artist based in Australia, with 17 gigs on soundcheck across Berlin, Leipzig and Melbourne. Often billed alongside cuznmatt, Simon Slieker and Jasmine Speers. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tahl is a techno and house artist based in Australia, with 17 gigs on soundcheck
 
 cuznmatt, Simon Slieker, Jasmine Speers
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl/)*

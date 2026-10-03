@@ -1,6 +1,6 @@
 # Adriano.
 
-Adriano. is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 18 Nov 2026.
+Adriano. is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 18 Nov 2026.
 
 Adriano. is a techno artist, with 12 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Atonit, Kala Ros and Yamagico. Next up: Tresor / Globus, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Adriano. is a techno artist, with 12 gigs on soundcheck across Barcelona and Ber
 
 Atonit, Kala Ros, Yamagico
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano./)*

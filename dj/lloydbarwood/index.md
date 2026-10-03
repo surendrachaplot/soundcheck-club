@@ -1,6 +1,6 @@
 # Lloyd Barwood
 
-Lloyd Barwood is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
+Lloyd Barwood is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
 
 Lloyd Barwood is a progressive house and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Bristol, Budapest and Glasgow and 4 more. Often billed alongside Will Flint, Danny Howells and My Friend. Next up: Akvárium Klub, Budapest on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Lloyd Barwood is a progressive house and house artist based in United Kingdom, w
 
 Will Flint, Danny Howells, My Friend
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydbarwood/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydbarwood/)*

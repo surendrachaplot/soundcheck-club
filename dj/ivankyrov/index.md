@@ -1,6 +1,6 @@
 # Ivan Kyrov
 
-Ivan Kyrov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 13 Nov 2026.
+Ivan Kyrov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 13 Nov 2026.
 
 Ivan Kyrov is a techno and house artist based in Australia, with 15 gigs on soundcheck across Melbourne, Shenzhen and Sydney. Often billed alongside TimTVL, Steve Pan and promzon. Next up: Collingwood Basement, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ivan Kyrov is a techno and house artist based in Australia, with 15 gigs on soun
 
 TimTVL, Steve Pan, promzon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*

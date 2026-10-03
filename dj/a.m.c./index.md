@@ -1,14 +1,13 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stealth, Nottingham on Fri, 2 Oct 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Under The Prom, West-wales on Sat, 3 Oct 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Stealth, Nottingham on Fri 2 Oct.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Under The Prom, West Wales on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Stealth | Nottingham |
 | Sat, 3 Oct 2026 | Under The Prom | West-wales |
 | Sat, 10 Oct 2026 | Volks | Brighton |
 | Fri, 16 Oct 2026 | World Headquarters | Newcastle |
@@ -20,6 +19,7 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs 
 
 ## Recently played
 
+- Stealth, Nottingham · Fri, 2 Oct 2026
 - Unit Nine, South-east · Sat, 26 Sept 2026
 - Sklub, Czech-republic · Fri, 25 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
@@ -27,10 +27,9 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs 
 - Quarters, Brighton · Fri, 24 Apr 2026
 - Antwerp Expo, Antwerp · Fri, 17 Apr 2026
 - The Prospect Building, Bristol · Sat, 14 Feb 2026
-- fabric, London · Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Phantom, IC3, Koven
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

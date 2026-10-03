@@ -1,6 +1,6 @@
 # Jesse Sugar Moore
 
-Jesse Sugar Moore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Sonder Bar, Portland on Sun, 4 Oct 2026.
+Jesse Sugar Moore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Sonder Bar, Portland on Sun, 4 Oct 2026.
 
 Jesse Sugar Moore is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Portland. Often billed alongside Andy Warren, Aaron Davis and Ben Bondy. Next up: The Sonder Bar, Portland on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Jesse Sugar Moore is a techno and house artist based in United States of America
 
 Andy Warren, Aaron Davis, Ben Bondy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesugarmoore/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesugarmoore/)*

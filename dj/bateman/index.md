@@ -1,6 +1,6 @@
 # Bateman
 
-Bateman is a Drum & Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
+Bateman is a Drum & Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
 
 Bateman is a drum & bass and electro artist, with 11 gigs on soundcheck across Bristol. Often billed alongside Neev, Dorpy and Jordy G. Next up: The Boxing Club, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bateman is a drum & bass and electro artist, with 11 gigs on soundcheck across B
 
 Neev, Dorpy, Jordy G
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bateman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bateman/)*

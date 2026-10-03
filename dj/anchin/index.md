@@ -1,6 +1,6 @@
 # ANCHIN
 
-ANCHIN is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
+ANCHIN is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Osaka, Osaka on Sun, 11 Oct 2026.
 
 ANCHIN is a hip-hop and house artist based in Japan, with 19 gigs on soundcheck across Kyoto and Osaka. Often billed alongside TAKENOKO, SAMO (JP) and Zest. Next up: Circus Osaka, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ ANCHIN is a hip-hop and house artist based in Japan, with 19 gigs on soundcheck 
 
 TAKENOKO, SAMO (JP), Zest
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anchin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anchin/)*

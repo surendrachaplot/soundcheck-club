@@ -1,6 +1,6 @@
 # Critter
 
-Critter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+Critter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 Critter is a house and techno artist based in Canada, with 48 gigs on soundcheck across Pennsylvania and Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Critter is a house and techno artist based in Canada, with 48 gigs on soundcheck
 
 Kai (TO), moody.cn.man, DJ CISWOMAN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*

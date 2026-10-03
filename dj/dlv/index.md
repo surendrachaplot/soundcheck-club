@@ -1,6 +1,6 @@
 # DLV
 
-DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 3 Oct 2026.
+DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 3 Oct 2026.
 
 DLV is a techno and acid artist based in Austria, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside KTK (DE), Sept and CLTX. Next up: Eleusis LFC Music Studio, Athens on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DLV is a techno and acid artist based in Austria, with 117 gigs on soundcheck ac
 
 KTK (DE), Sept, CLTX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

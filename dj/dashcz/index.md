@@ -1,18 +1,18 @@
 # Dash (CZ)
 
-Dash (CZ) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bike Jesus, Prague on Fri, 2 Oct 2026.
+Dash (CZ) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
-Dash (CZ) is a techno and house artist based in Czech Republic, with 120 gigs on soundcheck across Berlin, Copenhagen, Krakow and Liverpool and 5 more. Often billed alongside Yan (CZ), Shurigen and Alfred Czital. Next up: Bike Jesus, Prague on Fri 2 Oct.
+Dash (CZ) is a techno and house artist based in Czech Republic, with 120 gigs on soundcheck across Berlin, Copenhagen, Krakow and Liverpool and 5 more. Often billed alongside Yan (CZ), Shurigen and Alfred Czital. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Bike Jesus | Prague |
 | Sat, 28 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
+- Bike Jesus, Prague · Fri, 2 Oct 2026
 - Fuchs2, Prague · Fri, 18 Sept 2026
 - Ankali & Planeta Za, Prague · Sat, 12 Sept 2026
 - Altenburg 1964, Prague · Fri, 21 Aug 2026
@@ -20,10 +20,9 @@ Dash (CZ) is a techno and house artist based in Czech Republic, with 120 gigs on
 - Bike Jesus, Prague · Fri, 14 Aug 2026
 - ://about blank, Berlin · Sat, 25 Jul 2026
 - Bike Jesus, Prague · Sat, 18 Jul 2026
-- TBA, Prague · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Yan (CZ), Shurigen, Alfred Czital
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashcz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashcz/)*

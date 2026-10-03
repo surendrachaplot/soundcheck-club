@@ -1,6 +1,6 @@
 # Tonhalle
 
-Tonhalle is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "NTO live in concert @ Tonhalle Munich" on Fri, 6 Nov 2026.
+Tonhalle is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NTO live in concert @ Tonhalle Munich" on Fri, 6 Nov 2026.
 
 Tonhalle is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including NTO, Prismode, Schrotthagen and Solvane. See dates, start times and who's playing. Ateliertrasse 24, 81671 München.
 
@@ -15,4 +15,4 @@ Tonhalle is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with 
 
 Ateliertrasse 24, 81671 München, Munich
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tonhalle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/tonhalle/)*

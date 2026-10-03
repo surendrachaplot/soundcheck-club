@@ -1,6 +1,6 @@
 # TEZZA
 
-TEZZA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+TEZZA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
 TEZZA is a techno and minimal techno artist, with 9 gigs on soundcheck across London. Often billed alongside Diana Loredana, Oscar Jones and Thomas Galbardi. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ TEZZA is a techno and minimal techno artist, with 9 gigs on soundcheck across Lo
 
 Diana Loredana, Oscar Jones, Thomas Galbardi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tezza/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tezza/)*

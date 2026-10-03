@@ -1,6 +1,6 @@
 # JOHNNY O
 
-JOHNNY O is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
+JOHNNY O is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
 JOHNNY O is a techno and trance artist based in United States of America, with 16 gigs on soundcheck across New York City, San Diego and San Francisco/Oakland. Often billed alongside Sam Valle, Remniqe and elle xxo. Next up: Mood Ring, New York City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ JOHNNY O is a techno and trance artist based in United States of America, with 1
 
 Sam Valle, Remniqe, elle xxo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyo/)*

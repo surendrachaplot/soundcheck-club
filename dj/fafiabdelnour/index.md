@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
+Fafi Abdel Nour is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
 
 Fafi Abdel Nour is a house and techno artist based in Netherlands, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Jennifer Loveless, Octo Octa and Shanti Celeste. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 213 gigs
 
 Jennifer Loveless, Octo Octa, Shanti Celeste
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

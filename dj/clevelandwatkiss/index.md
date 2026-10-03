@@ -1,6 +1,6 @@
 # Cleveland Watkiss
 
-Cleveland Watkiss is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Night Tales, London on Fri, 18 Dec 2026.
+Cleveland Watkiss is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night Tales, London on Fri, 18 Dec 2026.
 
 Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Grooverider, Fabio and Dillinja. Next up: Night Tales, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, wi
 
 Grooverider, Fabio, Dillinja
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*

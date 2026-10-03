@@ -1,6 +1,6 @@
 # RAULITO WOLF
 
-RAULITO WOLF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+RAULITO WOLF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 RAULITO WOLF is a house and techno artist based in Germany, with 17 gigs on soundcheck across Basel, Berlin, Osaka and Tokyo. Often billed alongside Raphael Hofman, ELIZEN THE EMPEROR and Fourmi Rouz. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ RAULITO WOLF is a house and techno artist based in Germany, with 17 gigs on soun
 
 Raphael Hofman, ELIZEN THE EMPEROR, Fourmi Rouz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulitowolf/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulitowolf/)*

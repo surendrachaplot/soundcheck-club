@@ -1,6 +1,6 @@
 # Moji
 
-Moji is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Moji is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 Moji is a techno and downtempo artist based in Iran, with 31 gigs on soundcheck across Amsterdam, Berlin, Melbourne and Toronto. Often billed alongside Mila Stern, David Dorad and Foolik. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Moji is a techno and downtempo artist based in Iran, with 31 gigs on soundcheck 
 
 Mila Stern, David Dorad, Foolik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moji/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moji/)*

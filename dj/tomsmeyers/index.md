@@ -1,6 +1,6 @@
 # Tom Smeyers
 
-Tom Smeyers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Café des Arts, Antwerp on Sat, 24 Oct 2026.
+Tom Smeyers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Café des Arts, Antwerp on Sat, 24 Oct 2026.
 
 Tom Smeyers is a house and techno artist based in Belgium, with 16 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Cinthie, Melissa Juice and Skatebård. Next up: Café des Arts, Antwerp on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tom Smeyers is a house and techno artist based in Belgium, with 16 gigs on sound
 
 Cinthie, Melissa Juice, Skatebård
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomsmeyers/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomsmeyers/)*

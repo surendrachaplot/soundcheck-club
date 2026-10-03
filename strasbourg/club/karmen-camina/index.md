@@ -1,15 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 18 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CONCERT: ZIDANE (live), LA GRÈLE (live)" on Fri, 2 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MUSICA x HEAR [Acouphène éternel live • Too Cool 2 Schedule live]" on Sat, 3 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 18 upcoming gigs, with line-ups including 1client, Alpha Sect, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 16 upcoming gigs, with line-ups including 1client, Alpha Sect, Amadeo Savio and Anthea and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | CONCERT: ZIDANE (live), LA GRÈLE (live) |  |
-| Fri, 2 Oct 2026 | RAKOR [Saligo • Becker • Greg • Onéguine • Tew • Thomatoufair] | Saligo |
 | Sat, 3 Oct 2026 | MUSICA x HEAR [Acouphène éternel live • Too Cool 2 Schedule live] |  |
 | Sat, 3 Oct 2026 | KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] | Nastia, Pureblast, Sunpr |
 | Sun, 4 Oct 2026 | DINGUE 2 TOI • VIDE DRESSING & PRESTATION |  |
@@ -18,9 +16,11 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 18 upcoming g
 | Sat, 10 Oct 2026 | KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] | 1client, Anthea, Astral Travel, Joey 808, Oshana |
 | Thu, 15 Oct 2026 | COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] |  |
 | Sat, 17 Oct 2026 | KC x EURO IDOL [Canelle Doublekick • ANTONY NO LIMIT • GQB • TURBOMAT +TBA] | Canelle Doublekick, GQB (FR) |
+| Thu, 22 Oct 2026 | COMBO CLUB [House n°6 (Kate & Laisse Lucie Faire) • KICKS • Ordinaire Takeover] | KICKS, Ordinaire Records |
+| Thu, 29 Oct 2026 | COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] |  |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

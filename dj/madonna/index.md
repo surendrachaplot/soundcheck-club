@@ -1,6 +1,6 @@
 # Madonna
 
-Madonna is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Oxford Hotel, Sydney on Sat, 3 Oct 2026.
+Madonna is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Oxford Hotel, Sydney on Sat, 3 Oct 2026.
 
 Madonna is a pop and club artist based in United States of America, with 9 gigs on soundcheck across London, Melbourne, Sydney and Utrecht and 2 more. Often billed alongside Kylie Minogue, Andy C and BLUR. Next up: The Oxford Hotel, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Madonna is a pop and club artist based in United States of America, with 9 gigs 
 
 Kylie Minogue, Andy C, BLUR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madonna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madonna/)*

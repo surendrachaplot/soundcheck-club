@@ -1,6 +1,6 @@
 # Eren Yildiz
 
-Eren Yildiz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Apophis Club, Milan on Sat, 10 Oct 2026.
+Eren Yildiz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Apophis Club, Milan on Sat, 10 Oct 2026.
 
 Eren Yildiz is a house and electronica artist based in Turkey, with 21 gigs on soundcheck across Amsterdam, Istanbul, London and Milan. Often billed alongside BATU (TR), Mont Rouge and A DEEN. Next up: Apophis Club, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Eren Yildiz is a house and electronica artist based in Turkey, with 21 gigs on s
 
 BATU (TR), Mont Rouge, A DEEN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*

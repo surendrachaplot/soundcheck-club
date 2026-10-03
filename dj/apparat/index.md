@@ -1,6 +1,6 @@
 # Apparat
 
-Apparat is a Electronica and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hackney Church, London on Sat, 3 Oct 2026.
+Apparat is a Electronica and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hackney Church, London on Sat, 3 Oct 2026.
 
 Apparat is an electronica and electro artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 10 more. Often billed alongside NZIRIA, Alessandro Addi and Andrea Saba. Next up: Hackney Church, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Apparat is an electronica and electro artist based in Germany, with 21 gigs on s
 
 NZIRIA, Alessandro Addi, Andrea Saba
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*

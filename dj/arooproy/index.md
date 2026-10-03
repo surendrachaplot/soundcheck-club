@@ -1,6 +1,6 @@
 # Aroop Roy
 
-Aroop Roy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground, London on Sat, 17 Oct 2026.
+Aroop Roy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground, London on Sat, 17 Oct 2026.
 
 Aroop Roy is a house and disco artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Mr Scruff, Melvo Baptiste and LEV (UK). Next up: Village Underground, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aroop Roy is a house and disco artist based in United Kingdom, with 98 gigs on s
 
 Mr Scruff, Melvo Baptiste, LEV (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arooproy/)*

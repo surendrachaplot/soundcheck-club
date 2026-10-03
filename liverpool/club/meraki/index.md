@@ -1,14 +1,13 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "J.O.K.E.R presents Mia Pia" on Fri, 2 Oct 2026.
+Meraki is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Serotonin - Winter Is Coming" on Sat, 10 Oct 2026.
 
-Meraki is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including CHVZ, CIVILIAN, EDJM and F3rg13 and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
+Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including CHVZ, CIVILIAN, EDJM and F3rg13 and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | J.O.K.E.R presents Mia Pia | Loucid, T-SHA, Tabula Rasa, YazminC |
 | Sat, 10 Oct 2026 | Serotonin - Winter Is Coming |  |
 | Fri, 16 Oct 2026 | Below Zero + Meraki present Papa Nugs | F3rg13, Papa Nugs, TJOS |
 | Fri, 23 Oct 2026 | Tribe Select - A Night of Techno | Molloy |
@@ -22,4 +21,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

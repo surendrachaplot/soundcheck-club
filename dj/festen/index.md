@@ -1,6 +1,6 @@
 # Festen
 
-Festen is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
+Festen is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
 
 Festen is a house and electro artist, with 20 gigs on soundcheck across Amsterdam. Often billed alongside BiX (NL), Neo (NL) and Jan Koster. Next up: BRET, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Festen is a house and electro artist, with 20 gigs on soundcheck across Amsterda
 
 BiX (NL), Neo (NL), Jan Koster
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/festen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/festen/)*

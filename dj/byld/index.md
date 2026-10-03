@@ -1,6 +1,6 @@
 # Byld
 
-Byld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
+Byld is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
 
 Byld is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside John Barera, Kettle and ALI IRL. Next up: Good Room, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Byld is a house and techno artist based in United States of America, with 16 gig
 
 John Barera, Kettle, ALI IRL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byld/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byld/)*

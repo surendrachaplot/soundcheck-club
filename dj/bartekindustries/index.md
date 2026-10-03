@@ -1,6 +1,6 @@
 # Bartek Industries
 
-Bartek Industries is a Breakbeat and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Sun, 4 Oct 2026.
+Bartek Industries is a Breakbeat and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Sun, 4 Oct 2026.
 
 Bartek Industries is a breakbeat and drum & bass artist, with 8 gigs on soundcheck across Los Angeles, Portland, San Diego and San Francisco/Oakland. Often billed alongside CANDL, Torie and Britton. Next up: TBA, Los Angeles on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Bartek Industries is a breakbeat and drum & bass artist, with 8 gigs on soundche
 
 CANDL, Torie, Britton
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartekindustries/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartekindustries/)*

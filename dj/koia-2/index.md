@@ -1,6 +1,6 @@
 # KOIA (2)
 
-KOIA (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+KOIA (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
 KOIA is a techno and trance artist based in Bolivia, with 18 gigs on soundcheck across Berlin and Leipzig. Often billed alongside SSXXCH, Louchi and sterni (DE). Next up: ÆDEN, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ KOIA is a techno and trance artist based in Bolivia, with 18 gigs on soundcheck 
 
 SSXXCH, Louchi, sterni (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koia-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koia-2/)*

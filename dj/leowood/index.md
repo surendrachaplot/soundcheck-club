@@ -1,6 +1,6 @@
 # Leo Wood
 
-Leo Wood is a Deep House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Roundhouse, London on Fri, 13 Nov 2026.
+Leo Wood is a Deep House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Roundhouse, London on Fri, 13 Nov 2026.
 
 Leo Wood is a deep house and breakbeat artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside ALLKNIGHT, Marsh and DASHY. Next up: The Roundhouse, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Leo Wood is a deep house and breakbeat artist based in United Kingdom, with 9 gi
 
 ALLKNIGHT, Marsh, DASHY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leowood/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leowood/)*

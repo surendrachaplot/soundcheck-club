@@ -1,6 +1,6 @@
 # Malin Genie
 
-Malin Genie is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
+Malin Genie is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 10 Oct 2026.
 
 Malin Genie is a house and deep house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Dublin, London and Milan and 2 more. Often billed alongside CHRIS STASSY, Hannecart and Michel de Hey. Next up: Yamamori Tengu, Dublin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Malin Genie is a house and deep house artist based in Netherlands, with 12 gigs 
 
 CHRIS STASSY, Hannecart, Michel de Hey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malingenie/)*

@@ -1,6 +1,6 @@
 # Parc Jean-Drapeau
 
-Parc Jean-Drapeau is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "All Day I Dream - Parc Jean-Drapeau" on Mon, 12 Oct 2026.
+Parc Jean-Drapeau is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "All Day I Dream - Parc Jean-Drapeau" on Mon, 12 Oct 2026.
 
 Parc Jean-Drapeau is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Double Touch, Enamour, Lee Burridge and Samm. See dates, start times and who's playing. 1 Circuit Gilles Villeneuve; Montreal, QC H3C 1A9; Canada.
 
@@ -14,4 +14,4 @@ Parc Jean-Drapeau is a music venue in Montreal listed on soundcheck. 1 upcoming 
 
 1 Circuit Gilles Villeneuve; Montreal, QC H3C 1A9; Canada, Montreal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/parc-jean-drapeau/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/parc-jean-drapeau/)*

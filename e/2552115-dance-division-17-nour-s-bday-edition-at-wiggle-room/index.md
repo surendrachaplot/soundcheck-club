@@ -1,6 +1,6 @@
 # Dance Division 17 - Nour's bday edition at Wiggle Room
 
-Dance Division 17 - Nour's bday edition at Wiggle Room on Fri 16 Oct, Toronto. 4 artists: Barroness, Dick Diamonds, Nour (CAN) and Tyler Hill. See the line-up on soundcheck.
+Dance Division 17 - Nour's bday edition at Wiggle Room on Fri 16 Oct, Toronto. 4 artists: Barroness, Dick Diamonds, Nour (CAN) and Tyler Hill. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

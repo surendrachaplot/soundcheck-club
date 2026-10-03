@@ -1,6 +1,6 @@
 # MANON (2)
 
-MANON (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+MANON (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 MANON is a techno and club artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Ghent and Tokyo. Often billed alongside Man Outta Space, Massimo Mephisto and Azra Tekuma. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MANON is a techno and club artist, with 9 gigs on soundcheck across Amsterdam, B
 
 Man Outta Space, Massimo Mephisto, Azra Tekuma
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon-2/)*

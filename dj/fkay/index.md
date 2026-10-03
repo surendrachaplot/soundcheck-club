@@ -1,6 +1,6 @@
 # F Kay
 
-F Kay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+F Kay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
 F Kay is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Glasgow. Often billed alongside David Power, Babyccino and Kairogen. Next up: SWG3, Glasgow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ F Kay is a house and techno artist based in United Kingdom, with 13 gigs on soun
 
 David Power, Babyccino, Kairogen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkay/)*

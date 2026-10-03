@@ -1,6 +1,6 @@
 # Jeans (NL)
 
-Jeans (NL) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
+Jeans (NL) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
 
 Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Geneva and 10 more. Often billed alongside Woody92, Jetti and DINA. Next up: Acud Macht NEU, Berlin on Thu 8 Oct.
 
@@ -30,4 +30,4 @@ Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on 
 
 Woody92, Jetti, DINA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*

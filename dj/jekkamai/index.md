@@ -1,6 +1,6 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
+JEKKAMAÏ is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
 JEKKAMAÏ is a techno and trance artist based in Belgium, with 37 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ JEKKAMAÏ is a techno and trance artist based in Belgium, with 37 gigs on soundc
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

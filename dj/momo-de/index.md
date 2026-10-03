@@ -1,6 +1,6 @@
 # Momo
 
-Momo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Silent Studios, Auckland on Sat, 3 Oct 2026.
+Momo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Silent Studios, Auckland on Sat, 3 Oct 2026.
 
 Momo is a techno and house artist based in Germany, with 73 gigs on soundcheck across Antwerp, Auckland, Berlin and Buenos Aires and 14 more. Often billed alongside DJ MILLE, Marie Lung and Michal Zietara. Next up: Silent Studios, Auckland on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Momo is a techno and house artist based in Germany, with 73 gigs on soundcheck a
 
 DJ MILLE, Marie Lung, Michal Zietara
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momo-de/)*

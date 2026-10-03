@@ -1,6 +1,6 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
+Black Rave Culture is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marble Bar, Detroit on Sat, 3 Oct 2026.
 
 Black Rave Culture is a techno and club artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 29 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Marble Bar, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Black Rave Culture is a techno and club artist based in United States of America
 
 Nativesun, Amal, James Bangura
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

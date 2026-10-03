@@ -1,6 +1,6 @@
 # Phil Monday
 
-Phil Monday is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Phil Monday is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
 Phil Monday is a deep house and techno artist based in Belgium, with 12 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside Alican, Murat Uncuoglu and Djolee. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Phil Monday is a deep house and techno artist based in Belgium, with 12 gigs on 
 
 Alican, Murat Uncuoglu, Djolee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philmonday/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philmonday/)*

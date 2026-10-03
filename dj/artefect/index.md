@@ -1,6 +1,6 @@
 # Art e Fect
 
-Art e Fect is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Thu, 29 Oct 2026.
+Art e Fect is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Thu, 29 Oct 2026.
 
 Art e Fect is a tech house and techno artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside Anton Morales, Dj Essence and Dom James U.K. Next up: E1, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Art e Fect is a tech house and techno artist based in United Kingdom, with 27 gi
 
 Anton Morales, Dj Essence, Dom James U.K
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artefect/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artefect/)*

@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Denver on Fri, 2 Oct 2026.
+Wata Igarashi is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Denver on Fri, 2 Oct 2026.
 
 Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: TBA, Denver on Fri 2 Oct.
 
@@ -23,6 +23,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 
 ## Recently played
 
+- TBA, Denver · Fri, 2 Oct 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
@@ -30,10 +31,9 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - Stereo, Montreal · Fri, 18 Sept 2026
 - THE MAGICK BAR, Rome · Sat, 12 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

@@ -1,6 +1,6 @@
 # Gravy Bois
 
-Gravy Bois is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tola, London on Fri, 27 Nov 2026.
+Gravy Bois is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Fri, 27 Nov 2026.
 
 Gravy Bois is a disco and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Lucky Penny, Condy and Attam. Next up: Tola, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Gravy Bois is a disco and house artist based in United Kingdom, with 8 gigs on s
 
 Lucky Penny, Condy, Attam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gravybois/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gravybois/)*

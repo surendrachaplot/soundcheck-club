@@ -1,6 +1,6 @@
 # Driahn
 
-Driahn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
+Driahn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
 
 Driahn is a house and techno artist based in Netherlands, with 20 gigs on soundcheck across Barcelona and London. Often billed alongside Silvente, DJ Service and pekkuliar. Next up: TBA - secret location, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Driahn is a house and techno artist based in Netherlands, with 20 gigs on soundc
 
 Silvente, DJ Service, pekkuliar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driahn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driahn/)*

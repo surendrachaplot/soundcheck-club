@@ -1,6 +1,6 @@
 # Lhinen
 
-Lhinen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Socore Factory, Osaka on Sat, 3 Oct 2026.
+Lhinen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Socore Factory, Osaka on Sat, 3 Oct 2026.
 
 Lhinen is a techno and bass artist based in Japan, with 34 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kafuka, metome and Chie Otomi. Next up: Socore Factory, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lhinen is a techno and bass artist based in Japan, with 34 gigs on soundcheck ac
 
 kafuka, metome, Chie Otomi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lhinen/)*

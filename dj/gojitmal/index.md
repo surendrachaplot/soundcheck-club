@@ -1,6 +1,6 @@
 # Gojitmal
 
-Gojitmal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Gojitmal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 Gojitmal is a techno and house artist based in United States of America, with 51 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Sojourna, Noritachibana and Mars Parck. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Gojitmal is a techno and house artist based in United States of America, with 51
 
 Sojourna, Noritachibana, Mars Parck
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojitmal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojitmal/)*

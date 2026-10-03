@@ -1,14 +1,13 @@
 # Huerta
 
-Huerta is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Oven Club, Valencia on Fri, 2 Oct 2026.
+Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
 
-Huerta is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Oven Club, Valencia on Fri 2 Oct.
+Huerta is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Haus der Visionäre, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Oven Club | Valencia |
 | Thu, 8 Oct 2026 | Haus der Visionäre | Berlin |
 | Sat, 17 Oct 2026 | Distrikt | Leeds |
 | Fri, 30 Oct 2026 | Seaseaclub Barcelona | Barcelona |
@@ -17,6 +16,7 @@ Huerta is a house and techno artist based in United States of America, with 125 
 
 ## Recently played
 
+- Oven Club, Valencia · Fri, 2 Oct 2026
 - Tresor / Globus, Berlin · Sat, 26 Sept 2026
 - The Loft, Manchester · Sat, 12 Sept 2026
 - BRET, Amsterdam · Sat, 5 Sept 2026
@@ -24,10 +24,9 @@ Huerta is a house and techno artist based in United States of America, with 125 
 - Circus Osaka, Osaka · Thu, 20 Aug 2026
 - TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong · Fri, 14 Aug 2026
 - Club der Visionaere, Berlin · Tue, 21 Jul 2026
-- Liberty Point, Philadelphia · Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

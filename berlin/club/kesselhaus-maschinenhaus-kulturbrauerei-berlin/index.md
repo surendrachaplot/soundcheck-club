@@ -1,6 +1,6 @@
 # Kesselhaus & Maschinenhaus Kulturbrauerei Berlin
 
-Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Chloe Slater" on Tue, 1 Dec 2026.
+Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Chloe Slater" on Tue, 1 Dec 2026.
 
 Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schönhauser Allee 36 · 10435 Berlin.
 
@@ -14,4 +14,4 @@ Kesselhaus & Maschinenhaus Kulturbrauerei Berlin is a music venue in Berlin list
 
 Schönhauser Allee 36 · 10435 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus-maschinenhaus-kulturbrauerei-berlin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus-maschinenhaus-kulturbrauerei-berlin/)*

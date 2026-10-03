@@ -1,6 +1,6 @@
 # Flo Real
 
-Flo Real is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Flo Real is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Flo Real is a house and techno artist based in Austria, with 42 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside Moodymann, JP Bechamel and Rumi de Baires. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Flo Real is a house and techno artist based in Austria, with 42 gigs on soundche
 
 Moodymann, JP Bechamel, Rumi de Baires
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floreal-us/)*

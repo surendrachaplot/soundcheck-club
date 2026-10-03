@@ -1,6 +1,6 @@
 # PLOYZZ
 
-PLOYZZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
+PLOYZZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
 
 PLOYZZ is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Frankfurt and Nürnberg and 1 more. Often billed alongside DeGuzman, SIRO (DE) and EDNA. Next up: Roof 175, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PLOYZZ is a techno and trance artist based in Germany, with 27 gigs on soundchec
 
 DeGuzman, SIRO (DE), EDNA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ployzz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ployzz/)*

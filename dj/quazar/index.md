@@ -1,0 +1,26 @@
+# Quazar
+
+Quazar is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rex Club, Paris on Wed, 21 Oct 2026.
+
+Quazar is a techno and industrial artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Lyon and Paris. Often billed alongside Dissonne, Julien Chaptal and De Sluwe Vos. Next up: Rex Club, Paris on Wed 21 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 21 Oct 2026 | Rex Club | Paris |
+
+## Recently played
+
+- Doka, Amsterdam · Wed, 16 Oct 2024
+- Terminal Club, Lyon · Thu, 3 Oct 2024
+- Terminal Club, Lyon · Thu, 4 Jul 2024
+- Terminal Club, Lyon · Thu, 27 Jun 2024
+- Terminal Club, Lyon · Fri, 26 Jan 2024
+- Doka, Amsterdam · Sat, 23 Sept 2023
+
+## Shares bills with
+
+Dissonne, Julien Chaptal, De Sluwe Vos
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quazar/)*

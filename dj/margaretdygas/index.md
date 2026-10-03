@@ -1,14 +1,13 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at FOLD, London on Fri, 2 Oct 2026.
+Margaret Dygas is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Moon Club, Bristol on Sat, 3 Oct 2026.
 
-Margaret Dygas is a house and minimal artist based in Poland, with 142 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: FOLD, London on Fri 2 Oct.
+Margaret Dygas is a house and minimal artist based in Poland, with 142 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Moon Club, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | Moon Club | Bristol |
 | Sun, 11 Oct 2026 | Sonnenraum | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
@@ -17,6 +16,7 @@ Margaret Dygas is a house and minimal artist based in Poland, with 142 gigs on s
 
 ## Recently played
 
+- FOLD, London · Fri, 2 Oct 2026
 - Chinois Ibiza, Ibiza · Wed, 30 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Club der Visionaere, Berlin · Sun, 6 Sept 2026
@@ -24,10 +24,9 @@ Margaret Dygas is a house and minimal artist based in Poland, with 142 gigs on s
 - 528 Ibiza, Ibiza · Sun, 2 Aug 2026
 - Supermarket, Zurich · Sat, 25 Jul 2026
 - Club Guesthouse, Bucharest · Sat, 27 Jun 2026
-- Tokonoma Club, Frankfurt · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

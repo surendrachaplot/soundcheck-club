@@ -1,6 +1,6 @@
 # HerShe
 
-HerShe is a Bass and Dubstep artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+HerShe is a Bass and Dubstep artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 HerShe is a bass and dubstep artist based in Georgia, with 27 gigs on soundcheck across Austin, Dallas Fort Worth, Jacksonville and Los Angeles and 4 more. Often billed alongside Azyr, Ian Asher and KETTAMA. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ HerShe is a bass and dubstep artist based in Georgia, with 27 gigs on soundcheck
 
 Azyr, Ian Asher, KETTAMA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hershe/)*

@@ -1,6 +1,6 @@
 # SICARIA
 
-SICARIA is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bullingdon, South-east on Sat, 10 Oct 2026.
+SICARIA is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bullingdon, South-east on Sat, 10 Oct 2026.
 
 SICARIA is a dubstep and bass artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Interplanetary Criminal, SGT Pokes and Sully. Next up: The Bullingdon, South East on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SICARIA is a dubstep and bass artist based in United Kingdom, with 104 gigs on s
 
 Interplanetary Criminal, SGT Pokes, Sully
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sicaria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sicaria/)*

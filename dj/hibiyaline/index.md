@@ -1,13 +1,14 @@
 # Hibiya Line
 
-Hibiya Line is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+Hibiya Line is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sun, 11 Oct 2026.
 
-Hibiya Line is a house and techno artist, with 13 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Seoul and 1 more. Often billed alongside YAMARCHY, CALPISS and FFAN. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
+Hibiya Line is a house and techno artist, with 14 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Seoul and 1 more. Often billed alongside Ouissam, YAMARCHY and CALPISS. Next up: The Observatory, Ho Chi Minh City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Fri, 23 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Sat, 24 Oct 2026 | The Observatory | Ho-chi-minh-city |
 
@@ -24,6 +25,6 @@ Hibiya Line is a house and techno artist, with 13 gigs on soundcheck across Bang
 
 ## Shares bills with
 
-YAMARCHY, CALPISS, FFAN
+Ouissam, YAMARCHY, CALPISS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*

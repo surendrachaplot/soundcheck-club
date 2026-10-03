@@ -1,0 +1,25 @@
+# Sinkane
+
+Sinkane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+
+Sinkane is a house and disco artist based in United States of America, with 6 gigs on soundcheck across Berlin and New York City. Often billed alongside Aanandi, Efterklang and Egopusher. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 10 Oct 2026 | Funkhaus Berlin | Berlin |
+
+## Recently played
+
+- Xanadu, New York City · Sun, 1 Mar 2026
+- Xanadu, New York City · Sun, 25 Jan 2026
+- The Sultan Room, New York City · Thu, 16 Oct 2025
+- The Sultan Room, New York City · Sat, 29 Jul 2023
+- Good Room, New York City · Sat, 27 May 2023
+
+## Shares bills with
+
+Aanandi, Efterklang, Egopusher
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkane/)*

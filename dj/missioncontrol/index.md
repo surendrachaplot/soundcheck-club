@@ -1,6 +1,6 @@
 # Mission Control
 
-Mission Control is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bsmt 254, Toronto on Sat, 10 Oct 2026.
+Mission Control is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bsmt 254, Toronto on Sat, 10 Oct 2026.
 
 Mission Control is a techno and house artist based in Canada, with 15 gigs on soundcheck across New York City and Toronto. Often billed alongside Miss Kleio, Jackie Spade and Zola (TRM). Next up: Bsmt 254, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mission Control is a techno and house artist based in Canada, with 15 gigs on so
 
 Miss Kleio, Jackie Spade, Zola (TRM)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missioncontrol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missioncontrol/)*

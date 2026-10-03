@@ -1,6 +1,6 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Nick Curly is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Nick Curly is a house and tech house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -32,4 +32,4 @@ Nick Curly is a house and tech house artist based in Germany, with 116 gigs on s
 
 Easttown, Reboot, Sam Divine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

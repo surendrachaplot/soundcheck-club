@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MYTH × REVERB × EUPHONIC — F2F: FULL VENUE TAKEOVER" on Fri, 2 Oct 2026.
+The Sound House is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "THISO - DUBLIN DEBUT" on Sat, 3 Oct 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Girls of the Internet, Máthair, MAV666 and Sean Johnston and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Girls of the Internet, Máthair, MAV666 and Sean Johnston and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | MYTH × REVERB × EUPHONIC — F2F: FULL VENUE TAKEOVER |  |
 | Sat, 3 Oct 2026 | THISO - DUBLIN DEBUT | THISO |
 | Thu, 8 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet, Shiv |
 | Fri, 16 Oct 2026 | ISR PRESENTS ØRPHIC B2B ANL |  |
@@ -22,4 +21,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming gigs
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

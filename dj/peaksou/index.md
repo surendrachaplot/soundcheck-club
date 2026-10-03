@@ -1,6 +1,6 @@
 # PEAKSOU
 
-PEAKSOU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rex Club, Paris on Wed, 7 Oct 2026.
+PEAKSOU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rex Club, Paris on Wed, 7 Oct 2026.
 
 PEAKSOU is a techno and trance artist based in France, with 27 gigs on soundcheck across Berlin, Cologne, Dublin and Lyon and 3 more. Often billed alongside CARAVEL, 25EMEHEURE and AISHA. Next up: Rex Club, Paris on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ PEAKSOU is a techno and trance artist based in France, with 27 gigs on soundchec
 
 CARAVEL, 25EMEHEURE, AISHA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*

@@ -1,6 +1,6 @@
 # PAM CUT Tomorrow Theatre
 
-PAM CUT Tomorrow Theatre is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "VAMPYR (1932): Live Score with kraftwitch" on Fri, 30 Oct 2026.
+PAM CUT Tomorrow Theatre is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "VAMPYR (1932): Live Score with kraftwitch" on Fri, 30 Oct 2026.
 
 PAM CUT Tomorrow Theatre is a music venue in Portland listed on soundcheck. 1 upcoming gig, with line-ups including kraftwitch. See dates, start times and who's playing. 3530 SE Division St, Portland, OR 97202.
 
@@ -14,4 +14,4 @@ PAM CUT Tomorrow Theatre is a music venue in Portland listed on soundcheck. 1 up
 
 3530 SE Division St, Portland, OR 97202, Portland
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/pam-cut-tomorrow-theatre/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/pam-cut-tomorrow-theatre/)*

@@ -1,8 +1,8 @@
 # Traumer
 
-Traumer is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Traumer is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Traumer is a house and techno artist based in France, with 317 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Traumer is a house and tech house artist based in France, with 317 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist based in France, with 317 gigs on soundchec
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

@@ -1,6 +1,6 @@
 # Miss Lightbeam
 
-Miss Lightbeam is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Fri, 23 Oct 2026.
+Miss Lightbeam is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Fri, 23 Oct 2026.
 
 Miss Lightbeam is a psytrance and techno artist based in United Kingdom, with 9 gigs on soundcheck across Bristol and London. Often billed alongside Psibindi, Act One and DELTA LABS. Next up: Unit 58, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Miss Lightbeam is a psytrance and techno artist based in United Kingdom, with 9 
 
 Psibindi, Act One, DELTA LABS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*

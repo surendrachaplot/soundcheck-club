@@ -1,6 +1,6 @@
 # Charley
 
-Charley is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, London on Sat, 7 Nov 2026.
+Charley is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, London on Sat, 7 Nov 2026.
 
 Charley is a house and progressive house artist based in United Kingdom, with 13 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside James Andrew, KRN and Avsluta. Next up: TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Charley is a house and progressive house artist based in United Kingdom, with 13
 
 James Andrew, KRN, Avsluta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charley/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charley/)*

@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "DAY26 & J. Howell" on Sat, 3 Oct 2026.
+SOBs is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "DAY26 & J. Howell" on Sat, 3 Oct 2026.
 
-SOBs is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including 444, Joon, Token and VANI. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 444, Joon, Token and VANI. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 23 upcoming gigs, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

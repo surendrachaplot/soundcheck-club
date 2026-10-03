@@ -1,6 +1,6 @@
 # Moin
 
-Moin is a Post-Punk and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
+Moin is a Post-Punk and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
 
 Moin is a post-punk and experimental artist, with 35 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside livwutang, Abdullah Miniawy and DjRUM. Next up: Haus der Visionäre, Berlin on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Moin is a post-punk and experimental artist, with 35 gigs on soundcheck across A
 
 livwutang, Abdullah Miniawy, DjRUM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*

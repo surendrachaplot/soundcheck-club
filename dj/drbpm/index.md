@@ -1,6 +1,6 @@
 # DR BPM
 
-DR BPM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Vancouver on Sat, 3 Oct 2026.
+DR BPM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Vancouver on Sat, 3 Oct 2026.
 
 DR BPM is a techno and bass artist based in Canada, with 25 gigs on soundcheck across Vancouver. Often billed alongside Donna Dada, SUBDIDI and nalule. Next up: TBA, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DR BPM is a techno and bass artist based in Canada, with 25 gigs on soundcheck a
 
 Donna Dada, SUBDIDI, nalule
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbpm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbpm/)*

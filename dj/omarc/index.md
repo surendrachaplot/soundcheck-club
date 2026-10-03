@@ -1,6 +1,6 @@
 # OMAR  C
 
-OMAR  C is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
+OMAR  C is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
 
 OMAR  C is a minimal and house artist based in Tunisia, with 6 gigs on soundcheck across Barcelona, Istanbul, Madrid and Paris and 2 more. Often billed alongside Atef, Omar Khe and Adema. Next up: Frieda's Büxe, Zurich on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ OMAR  C is a minimal and house artist based in Tunisia, with 6 gigs on soundchec
 
 Atef, Omar Khe, Adema
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*

@@ -1,6 +1,6 @@
 # SUCIA!
 
-SUCIA! is a Club and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boombox, Miami on Sun, 4 Oct 2026.
+SUCIA! is a Club and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Boombox, Miami on Sun, 4 Oct 2026.
 
 SUCIA! is a club and house artist based in United States of America, with 25 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Mars Kasei, Sel.6 and Chiara Noriko. Next up: The Boombox, Miami on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ SUCIA! is a club and house artist based in United States of America, with 25 gig
 
 Mars Kasei, Sel.6, Chiara Noriko
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*

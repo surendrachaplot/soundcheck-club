@@ -1,0 +1,28 @@
+# RAH (US)
+
+RAH (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Washington DC on Fri, 9 Oct 2026.
+
+RAH (US) is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Boston, New York City and Washington DC. Often billed alongside KRØK, Marteka Fair and Matthew Cha. Next up: TBA, Washington DC on Fri 9 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 9 Oct 2026 | TBA | Washington DC |
+
+## Recently played
+
+- The Lower Level, Boston · Fri, 26 Jun 2026
+- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 28 Feb 2026
+- TBA, New York City · Fri, 19 Dec 2025
+- TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC · Sat, 25 Oct 2025
+- Flash, Washington DC · Fri, 3 Oct 2025
+- TBA - 1124 Congress St NE , Washington DC · Sat, 13 Sept 2025
+- La Fabrica, Washington DC · Sat, 3 May 2025
+- Eris, New York City · Fri, 4 Apr 2025
+
+## Shares bills with
+
+KRØK, Marteka Fair, Matthew Cha
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*

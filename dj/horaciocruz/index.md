@@ -1,6 +1,6 @@
 # Horacio Cruz
 
-Horacio Cruz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Horacio Cruz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Horacio Cruz is a techno and electronica artist, with 19 gigs on soundcheck across Barcelona, Ibiza, Madrid and Malaga and 3 more. Often billed alongside SNTS, A.N.I. and C-System. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Horacio Cruz is a techno and electronica artist, with 19 gigs on soundcheck acro
 
 SNTS, A.N.I., C-System
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horaciocruz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horaciocruz/)*

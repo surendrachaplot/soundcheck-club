@@ -1,10 +1,10 @@
 # Day Moves at Home of Plenty
 
-Day Moves at Home of Plenty on Sat 3 Oct, South Australia. 7 artists: DJ Masda, Hipp-e, Jessie Belters and Katia Curie and 3 more. See the line-up on soundcheck.
+Day Moves at Home of Plenty on Thu 31 Dec, South Australia. 7 artists: DJ Masda, Hipp-e, Jessie Belters and Katia Curie and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 3 Oct 2026 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | Home of Plenty |
 | City | South-australia |
 

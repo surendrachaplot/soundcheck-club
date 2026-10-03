@@ -1,6 +1,6 @@
 # Katyanot
 
-Katyanot is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KHIDI, Tbilisi on Sat, 3 Oct 2026.
+Katyanot is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHIDI, Tbilisi on Sat, 3 Oct 2026.
 
 Katyanot is an electronic artist based in Georgia, with 14 gigs on soundcheck across Tbilisi. Often billed alongside Bero, Gio Shengelia and Giorgi Devadze. Next up: KHIDI, Tbilisi on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Katyanot is an electronic artist based in Georgia, with 14 gigs on soundcheck ac
 
 Bero, Gio Shengelia, Giorgi Devadze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*

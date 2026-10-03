@@ -1,6 +1,6 @@
 # Jonathan Ulysses
 
-Jonathan Ulysses is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Jonathan Ulysses is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
 Jonathan Ulysses is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Auckland, Ibiza and London. Often billed alongside Bongo Ben, Jason Bye and Alex P. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jonathan Ulysses is a house and tech house artist based in United Kingdom, with 
 
 Bongo Ben, Jason Bye, Alex P
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*

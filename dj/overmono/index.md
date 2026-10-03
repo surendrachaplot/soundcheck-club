@@ -1,6 +1,6 @@
 # Overmono
 
-Overmono is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Radius, Chicago on Thu, 8 Oct 2026.
+Overmono is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Radius, Chicago on Thu, 8 Oct 2026.
 
 Overmono is a techno and house artist based in United Kingdom, with 107 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Overmono is a techno and house artist based in United Kingdom, with 107 gigs on 
 
 Nia Archives, KI/KI, Ewan McVicar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

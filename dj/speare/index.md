@@ -1,6 +1,6 @@
 # Speare
 
-Speare is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Speare is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 Speare is an electronic artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside DJ KETAFLUSH, Rosecut and ABSIS. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Speare is an electronic artist based in Spain, with 9 gigs on soundcheck across 
 
 DJ KETAFLUSH, Rosecut, ABSIS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speare/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speare/)*

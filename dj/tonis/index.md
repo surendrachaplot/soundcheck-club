@@ -1,6 +1,6 @@
 # Toni S
 
-Toni S is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+Toni S is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 Toni S is an experimental and techno artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona and London. Often billed alongside New Flesh, London Hatred and Becky Stroke. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Toni S is an experimental and techno artist based in United Kingdom, with 22 gig
 
 New Flesh (2), London Hatred, Becky Stroke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonis/)*

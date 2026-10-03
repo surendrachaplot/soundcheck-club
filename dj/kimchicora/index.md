@@ -1,6 +1,6 @@
 # kimchi cora
 
-kimchi cora is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+kimchi cora is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 kimchi cora is a techno and trance artist, with 11 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Antoine Baiser, Ele Luz and Kotoe. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ kimchi cora is a techno and trance artist, with 11 gigs on soundcheck across Ber
 
 Antoine Baiser, Ele Luz, Kotoe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimchicora/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimchicora/)*

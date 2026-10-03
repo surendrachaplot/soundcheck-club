@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi, Lea Occhi" on Fri, 2 Oct 2026.
+Fvtvr is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "imagine FAMILY: O.BEE ALL DAY LONG [OPEN AIR]" on Sat, 3 Oct 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | CHLOE CAILLET, Bella Sarris, CARISTA, ISAbella, Makadsi, Lea Occhi | Bella Sarris, CARISTA, Chloé Caillet, ISAbella, Lea Occhi, Makadsi |
 | Sat, 3 Oct 2026 | imagine FAMILY: O.BEE ALL DAY LONG [OPEN AIR] | O.BEE |
 | Sat, 3 Oct 2026 | LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST | DJ Gigola |
 | Fri, 9 Oct 2026 | CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] | Adrien Calvet, Akaj, Alyhas, B.Love, Baccus, Cam Stockman, Coleeeette, Deborah Aime La Bagarre, Emi Ömar, Emma B, Gibs (ID), HearThug, Herr Krank, IAMBP, JUAAN, Jeff The Fool, Jhobei, Kara Okay, Luuk van Dijk, MARYO, Man/Ipulate, Munir Nadir, Occibel, P.O (1), Roza Terenzi, Sampol, The Hacker, Voodoos and Taboos, loryn (FR) |
@@ -21,4 +20,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

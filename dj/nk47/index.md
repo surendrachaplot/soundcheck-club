@@ -1,6 +1,6 @@
 # NK47
 
-NK47 is a Experimental and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Zombie Games Cafe & BAR, London on Fri, 30 Oct 2026.
+NK47 is a Experimental and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zombie Games Cafe & BAR, London on Fri, 30 Oct 2026.
 
 NK47 is an experimental and dubstep artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside ABIMBOLA, AfroLicious Mumma and Anphib. Next up: Zombie Games Cafe & BAR, London on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ NK47 is an experimental and dubstep artist based in United Kingdom, with 4 gigs 
 
 ABIMBOLA, AfroLicious Mumma, Anphib
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nk47/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nk47/)*

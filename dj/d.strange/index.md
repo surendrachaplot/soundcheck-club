@@ -1,6 +1,6 @@
 # D. Strange
 
-D. Strange is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Salt Shed, Chicago on Sun, 18 Oct 2026.
+D. Strange is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Salt Shed, Chicago on Sun, 18 Oct 2026.
 
 D. Strange is a techno and electro artist based in United States of America, with 54 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 2 more. Often billed alongside Huey Mnemonic, Daniel Bell and Function. Next up: The Salt Shed, Chicago on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ D. Strange is a techno and electro artist based in United States of America, wit
 
 Huey Mnemonic, Daniel Bell, Function
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*

@@ -1,6 +1,6 @@
 # Anna Haleta
 
-Anna Haleta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+Anna Haleta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
 
 Anna Haleta is a techno and house artist based in Israel, with 22 gigs on soundcheck across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Handmade, Madalba and LOOPA. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Anna Haleta is a techno and house artist based in Israel, with 22 gigs on soundc
 
 Handmade, Madalba, LOOPA (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annahaleta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annahaleta/)*

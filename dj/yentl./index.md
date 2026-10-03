@@ -1,6 +1,6 @@
 # Yentl.
 
-Yentl. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 24 Oct 2026.
+Yentl. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 24 Oct 2026.
 
 Yentl. is a house and electro artist based in Belgium, with 65 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ampe, Ben Kamal and DJ Rino. Next up: YuYu Cine Club, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Yentl. is a house and electro artist based in Belgium, with 65 gigs on soundchec
 
 Ampe, Ben Kamal, DJ Rino
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*

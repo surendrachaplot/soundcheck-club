@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 234 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 55 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 234 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

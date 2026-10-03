@@ -1,14 +1,13 @@
 # Roxy
 
-Roxy is a music venue in Prague with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Notion ∞ ROXY Prague" on Fri, 2 Oct 2026.
+Roxy is a music venue in Prague with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Christian Löffler ∞ ROXY Prague" on Fri, 9 Oct 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 17 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 16 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Notion ∞ ROXY Prague | Notion |
 | Fri, 9 Oct 2026 | Christian Löffler ∞ ROXY Prague | Christian Löffler |
 | Sat, 10 Oct 2026 | Swimming Paul ∞ ROXY Prague | Swimming Paul |
 | Fri, 16 Oct 2026 | CamelPhat ∞ ROXY Prague | CamelPhat |
@@ -18,9 +17,10 @@ Roxy is a music venue in Prague listed on soundcheck. 17 upcoming gigs, with lin
 | Fri, 30 Oct 2026 | 1991 ∞ ROXY Prague | 1991 (UK) |
 | Fri, 13 Nov 2026 | Agents Of Time ∞ ROXY Prague | Agents Of Time |
 | Sat, 14 Nov 2026 | Leftfield ∞ ROXY Prague | Darren Emerson, Leftfield |
+| Mon, 16 Nov 2026 | Vieze Asbak ∞ ROXY Prague | Vieze Asbak |
 
 ## Address
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

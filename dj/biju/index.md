@@ -1,6 +1,6 @@
 # bijū
 
-bijū is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+bijū is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 bijū is an experimental and techno artist based in Ukraine, with 46 gigs on soundcheck across Amsterdam, Athens, Berlin and Krakow and 4 more. Often billed alongside ssscreep, Taan and Kovvalsky. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ bijū is an experimental and techno artist based in Ukraine, with 46 gigs on sou
 
 ## Recently played
 
+- Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Mastak, Warsaw · Sat, 30 May 2026
 - Teatr Powszechny im. Zygmunta Hübnera w Warszawie, Warsaw · Sun, 10 May 2026
 - VVOSK RECORDS, Warsaw · Fri, 28 Nov 2025
@@ -20,10 +21,9 @@ bijū is an experimental and techno artist based in Ukraine, with 46 gigs on sou
 - Mastak, Warsaw · Fri, 21 Nov 2025
 - K-Bar Powiśle, Warsaw · Sat, 27 Sept 2025
 - Klub Piękny Pies, Krakow · Sat, 13 Sept 2025
-- Jasna 1, Warsaw · Sat, 2 Aug 2025
 
 ## Shares bills with
 
 ssscreep, Taan, Kovvalsky
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biju/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biju/)*

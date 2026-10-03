@@ -1,6 +1,6 @@
 # Mr. B
 
-Mr. B is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macarena Club, Barcelona on Sat, 17 Oct 2026.
+Mr. B is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Sat, 17 Oct 2026.
 
 Mr. B is an afro house and house artist based in Netherlands, with 23 gigs on soundcheck across Barcelona. Often billed alongside Viktor Olle, Dj Kosmos and Lzztto. Next up: Macarena Club, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mr. B is an afro house and house artist based in Netherlands, with 23 gigs on so
 
 Viktor Olle, Dj Kosmos, Lzztto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrb/)*

@@ -1,6 +1,6 @@
 # Natasha Pirard
 
-Natasha Pirard is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+Natasha Pirard is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
 Natasha Pirard is an experimental and downtempo artist, with 8 gigs on soundcheck across Berlin, Brussels, Rennes and The Hague. Often billed alongside Mika Oki, OK Williams and dirtydms. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Natasha Pirard is an experimental and downtempo artist, with 8 gigs on soundchec
 
 Mika Oki, OK Williams, dirtydms
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashapirard/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashapirard/)*

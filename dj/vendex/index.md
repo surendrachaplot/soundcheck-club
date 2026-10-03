@@ -1,14 +1,13 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Vendex is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
 
-Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside CARV, Alignment and DYEN. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
+Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside CARV, Alignment and DYEN. Next up: Index, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 9 Oct 2026 | Index | Dublin |
 | Fri, 23 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Sat, 24 Oct 2026 | TBA | Toronto |
@@ -23,6 +22,7 @@ Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundc
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 2 Oct 2026
 - Son Fusteret, Mallorca · Sat, 19 Sept 2026
 - The Limelight, Belfast · Sat, 12 Sept 2026
 - Gate Milano, Milan · Fri, 11 Sept 2026
@@ -30,10 +30,9 @@ Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundc
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 - Radius, Chicago · Sun, 19 Jul 2026
-- ART Madrid Club, Madrid · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 CARV, Alignment, DYEN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

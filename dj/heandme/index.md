@@ -1,6 +1,6 @@
 # HeAndMe
 
-HeAndMe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 3 Oct 2026.
+HeAndMe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 3 Oct 2026.
 
 HeAndMe is a house and deep house artist based in Spain, with 19 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Samm (BE) and Reezar. Next up: BORIS CLUB, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ HeAndMe is a house and deep house artist based in Spain, with 19 gigs on soundch
 
 Ivan Pugliares, Samm (BE), Reezar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*

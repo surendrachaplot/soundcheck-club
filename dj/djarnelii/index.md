@@ -1,6 +1,6 @@
 # DJ Arne L II
 
-DJ Arne L II is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
+DJ Arne L II is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
 
 DJ Arne L II is a techno and acid artist, with 7 gigs on soundcheck across Geneva, Lille, Lyon and Paris. Often billed alongside ARTISAN, Abr. and Crystal Geometry. Next up: Kodz, Lille on Sat 22 May.
 
@@ -23,4 +23,4 @@ DJ Arne L II is a techno and acid artist, with 7 gigs on soundcheck across Genev
 
 ARTISAN, Abr., Crystal Geometry
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djarnelii/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djarnelii/)*

@@ -1,6 +1,6 @@
 # GrandHuit
 
-GrandHuit is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Le Balcon, Montreal on Sat, 3 Oct 2026.
+GrandHuit is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Balcon, Montreal on Sat, 3 Oct 2026.
 
 GrandHuit is a disco and funk / soul artist based in Canada, with 19 gigs on soundcheck across Montreal and Paris. Often billed alongside Ruby Jane, DJ Hidi and Kris Guilty. Next up: Le Balcon, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GrandHuit is a disco and funk / soul artist based in Canada, with 19 gigs on sou
 
 Ruby Jane, DJ Hidi, Kris Guilty
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandhuit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandhuit/)*

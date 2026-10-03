@@ -1,6 +1,6 @@
 # Aender
 
-Aender is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
+Aender is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
 
 Aender is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Aio, Kaufmann and Konfusia. Next up: elipamanoke, Leipzig on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Aender is a techno and tech house artist based in Germany, with 17 gigs on sound
 
 Aio, Kaufmann, Konfusia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aender/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aender/)*

@@ -1,6 +1,6 @@
 # Elder Island
 
-Elder Island is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fairmount Theatre, Montreal on Mon, 5 Oct 2026.
+Elder Island is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fairmount Theatre, Montreal on Mon, 5 Oct 2026.
 
 Elder Island is an electronica and house artist based in United Kingdom, with 5 gigs on soundcheck across Leeds, London and Montreal. Often billed alongside Boston Bun, Conrad Lee and Hemlin. Next up: Fairmount Theatre, Montreal on Mon 5 Oct.
 
@@ -21,4 +21,4 @@ Elder Island is an electronica and house artist based in United Kingdom, with 5 
 
 Boston Bun, Conrad Lee, Hemlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderisland/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderisland/)*

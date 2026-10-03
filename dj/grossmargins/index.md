@@ -1,6 +1,6 @@
 # gross margins
 
-gross margins is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA), Melbourne on Sat, 3 Oct 2026.
+gross margins is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA), Melbourne on Sat, 3 Oct 2026.
 
 gross margins is a techno and ambient artist based in China, with 19 gigs on soundcheck across Melbourne. Often billed alongside felt., Flat Esoteric and second skin. Next up: TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA), Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ gross margins is a techno and ambient artist based in China, with 19 gigs on sou
 
 felt., Flat Esoteric, second skin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*

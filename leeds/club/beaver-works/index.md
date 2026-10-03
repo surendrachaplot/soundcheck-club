@@ -1,14 +1,13 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Beaverworks presents KURUPT FM - Fri 2nd Oct" on Fri, 2 Oct 2026.
+Beaver Works is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS" on Sat, 3 Oct 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Badger (UK), Bakey, Blackeye MC and Chad Dubz and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Badger (UK), Bakey, Blackeye MC and Chad Dubz and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Beaverworks presents KURUPT FM - Fri 2nd Oct |  |
 | Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Blackeye MC, Chad Dubz, Commodo, Double O, Formella, Goth-Trad, Iration Steppas, Ital Power, Jack Sparrow, Kid Lib, LOTU (UK), Lotus Phaze, MYNA, Mantra, Nio-B, Pinch, Pixl, SGT Pokes, Silkie, Tim Reaper |
 | Sat, 10 Oct 2026 | Born on Road - Leeds | Kelvin 373 |
 | Fri, 16 Oct 2026 | Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More | Bakey, ESC (5), Fonzo (UK), Manga Saint Hilare, Milzy, Napes, Samurai Breaks, Shirley Temper |
@@ -21,4 +20,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

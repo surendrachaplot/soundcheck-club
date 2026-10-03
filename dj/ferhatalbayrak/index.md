@@ -1,6 +1,6 @@
 # Ferhat Albayrak
 
-Ferhat Albayrak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
+Ferhat Albayrak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
 
 Ferhat Albayrak is a techno and house artist based in Turkey, with 32 gigs on soundcheck across Berlin and Istanbul. Often billed alongside FEVZEE, KUVOKA and Ece Özel. Next up: Frankhan Selectist, Istanbul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ferhat Albayrak is a techno and house artist based in Turkey, with 32 gigs on so
 
 FEVZEE, KUVOKA, Ece Özel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferhatalbayrak/)*

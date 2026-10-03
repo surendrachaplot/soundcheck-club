@@ -1,14 +1,13 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Villa, Oslo on Fri, 2 Oct 2026.
+MCR-T is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Schrotty, Cologne on Sat, 3 Oct 2026.
 
-MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: The Villa, Oslo on Fri 2 Oct.
+MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Schrotty, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Villa | Oslo |
 | Sat, 3 Oct 2026 | Schrotty | Cologne |
 | Fri, 16 Oct 2026 | block. | Dublin |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
@@ -23,6 +22,7 @@ MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck
 
 ## Recently played
 
+- The Villa, Oslo · Fri, 2 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
@@ -30,10 +30,9 @@ MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Southwark Park, London · Sun, 30 Aug 2026
 - Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

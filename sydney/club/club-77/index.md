@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 19 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Club 77: Disruptive Pattern Material, Pink Lloyd" on Sat, 3 Oct 2026.
+Club 77 is a music venue in Sydney with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Club 77: Disruptive Pattern Material, Pink Lloyd" on Sat, 3 Oct 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Diwa, Ash Lauryn, b_man (AU) and Ben Fester and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 19 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

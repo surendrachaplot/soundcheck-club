@@ -1,6 +1,6 @@
 # Wendy Bkz
 
-Wendy Bkz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at All My Friends, London on Sat, 3 Oct 2026.
+Wendy Bkz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at All My Friends, London on Sat, 3 Oct 2026.
 
 Wendy Bkz is a house and techno artist based in France, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Amau, Burchan Acar and Guillermo Jamas. Next up: All My Friends, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Wendy Bkz is a house and techno artist based in France, with 57 gigs on soundche
 
 Amau, Burchan Acar, Guillermo Jamas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*

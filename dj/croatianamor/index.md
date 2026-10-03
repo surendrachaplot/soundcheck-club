@@ -1,6 +1,6 @@
 # Croatian Amor
 
-Croatian Amor is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Croatian Amor is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Croatian Amor is an experimental and ambient artist based in Denmark, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside oqbqbo, Vanity Productions and Scandinavian Star. Next up: The Cause, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Croatian Amor is an experimental and ambient artist based in Denmark, with 55 gi
 
 oqbqbo, Vanity Productions, Scandinavian Star
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/croatianamor/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/croatianamor/)*

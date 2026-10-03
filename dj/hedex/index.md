@@ -1,6 +1,6 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Hedex is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Hedex is a drum & bass and bass artist based in United Kingdom, with 76 gigs on soundcheck across Auckland, Austin, Brighton and Brisbane and 31 more. Often billed alongside Eksman, BassLayerz and Mozey. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Hedex is a drum & bass and bass artist based in United Kingdom, with 76 gigs on 
 
 Eksman, BassLayerz, Mozey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

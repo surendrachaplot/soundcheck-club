@@ -1,6 +1,6 @@
 # Rozaly
 
-Rozaly is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at murmur, Amsterdam on Fri, 9 Oct 2026.
+Rozaly is a Techno and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at murmur, Amsterdam on Fri, 9 Oct 2026.
 
 Rozaly is a techno and afro tech artist based in Curacao, with 65 gigs on soundcheck across Amsterdam, Berlin, Geneva and Glasgow and 5 more. Often billed alongside Chinnamasta, Toff Youth and Tash LC. Next up: murmur, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Rozaly is a techno and afro tech artist based in Curacao, with 65 gigs on soundc
 
 Chinnamasta, Toff Youth, Tash LC
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*

@@ -1,6 +1,6 @@
 # Rares Gherman
 
-Rares Gherman is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Forge, Bucharest on Sat, 3 Oct 2026.
+Rares Gherman is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forge, Bucharest on Sat, 3 Oct 2026.
 
 Rares Gherman is a minimal and house artist based in Romania, with 24 gigs on soundcheck across Amsterdam, Bucharest, Copenhagen and Ibiza. Often billed alongside styx, LerKu and PRCP. Next up: Forge, Bucharest on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rares Gherman is a minimal and house artist based in Romania, with 24 gigs on so
 
 styx, LerKu, PRCP
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*

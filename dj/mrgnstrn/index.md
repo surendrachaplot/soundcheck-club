@@ -1,6 +1,6 @@
 # MRGNSTRN
 
-MRGNSTRN is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
+MRGNSTRN is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
 
 MRGNSTRN is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside KLING&KLANG, Amøn and CARGO (DE). Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ MRGNSTRN is a trance and techno artist based in Germany, with 25 gigs on soundch
 
 KLING&KLANG, Amøn, CARGO (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*

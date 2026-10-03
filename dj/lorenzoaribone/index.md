@@ -1,6 +1,6 @@
 # Lorenzo Aribone
 
-Lorenzo Aribone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lorenzo Aribone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Lorenzo Aribone is a house and techno artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 11 more. Often billed alongside Cristian Sarde, Alex Dima and Munir Nadir. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo Aribone is a house and techno artist based in Italy, with 45 gigs on sou
 
 Cristian Sarde, Alex Dima, Munir Nadir
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoaribone/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoaribone/)*

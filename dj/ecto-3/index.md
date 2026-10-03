@@ -1,6 +1,6 @@
 # ECTO (3)
 
-ECTO (3) is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
+ECTO (3) is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
 
 ECTO is a club and ghetto tech artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Dj Nico, Discnogirl and FINISHHER. Next up: Mothership, San Francisco/Oakland on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ ECTO is a club and ghetto tech artist based in United States of America, with 6 
 
 Dj Nico, Discnogirl, FINISHHER
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*

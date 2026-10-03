@@ -1,6 +1,6 @@
 # Headhunterz
 
-Headhunterz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kaapelitehdas / The Cable Factory, Helsinki on Fri, 27 Nov 2026.
+Headhunterz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaapelitehdas / The Cable Factory, Helsinki on Fri, 27 Nov 2026.
 
 Headhunterz is an electro and techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Helsinki and 2 more. Often billed alongside Wildstylez, Code Black and Act of Rage. Next up: Kaapelitehdas / The Cable Factory, Helsinki on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Headhunterz is an electro and techno artist based in Netherlands, with 7 gigs on
 
 Wildstylez, Code Black, Act of Rage
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunterz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunterz/)*

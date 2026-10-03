@@ -1,6 +1,6 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Outer Heaven, New-york-city on Sat, 3 Oct 2026.
+CAMILLA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Outer Heaven, New-york-city on Sat, 3 Oct 2026.
 
 CAMILLA is a house and techno artist based in Italy, with 144 gigs on soundcheck across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Black Pomade and Kurilo. Next up: Outer Heaven, New York City on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ CAMILLA is a house and techno artist based in Italy, with 144 gigs on soundcheck
 
 Joiah, Black Pomade, Kurilo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

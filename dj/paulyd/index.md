@@ -1,13 +1,14 @@
 # Pauly D
 
-Pauly D is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Big Night Live, Boston on Sat, 31 Oct 2026.
+Pauly D is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Big Night Live, Boston on Sat, 31 Oct 2026.
 
-Pauly D is a house and tech house artist based in United States of America, with 13 gigs on soundcheck across Boston, Miami, Montreal and Seattle. Next up: Big Night Live, Boston on Sat 31 Oct.
+Pauly D is a house and hip-hop artist based in United States of America, with 14 gigs on soundcheck across Boston, Miami, Montreal and Seattle. Next up: Big Night Live, Boston on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Big Night Live | Boston |
 | Sat, 31 Oct 2026 | Big Night Live | Boston |
 
 ## Recently played
@@ -21,4 +22,4 @@ Pauly D is a house and tech house artist based in United States of America, with
 - E11EVEN MIAMI, Miami · Wed, 26 Nov 2025
 - Big Night Live, Boston · Sat, 25 Oct 2025
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulyd/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulyd/)*

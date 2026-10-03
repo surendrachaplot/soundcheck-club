@@ -1,6 +1,6 @@
 # Pushmann
 
-Pushmann is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Parque Norte, Medellin on Sat, 12 Dec 2026.
+Pushmann is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Parque Norte, Medellin on Sat, 12 Dec 2026.
 
 Pushmann is a techno and dub techno artist based in Spain, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 8 more. Often billed alongside Judy (ES), Paula Cazenave and Truncate. Next up: Parque Norte, Medellin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pushmann is a techno and dub techno artist based in Spain, with 32 gigs on sound
 
 Judy (ES), Paula Cazenave, Truncate
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pushmann/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pushmann/)*

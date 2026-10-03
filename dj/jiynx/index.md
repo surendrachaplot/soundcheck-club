@@ -1,6 +1,6 @@
 # JIYNX
 
-JIYNX is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
+JIYNX is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
 
 JIYNX is a club and techno artist based in Canada, with 30 gigs on soundcheck across Miami and Toronto. Often billed alongside 999ADJ, Ard1n and HVN. Next up: Bsmt 254, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JIYNX is a club and techno artist based in Canada, with 30 gigs on soundcheck ac
 
 999ADJ, Ard1n, HVN (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*

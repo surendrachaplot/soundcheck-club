@@ -1,6 +1,6 @@
 # Cosmic Force
 
-Cosmic Force is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
+Cosmic Force is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
 
 Cosmic Force is an electro and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Mexico City, Milan and Rotterdam and 3 more. Often billed alongside Pawel Blot, Richelle Soigni and Alessandro Parisi. Next up: K-Bar Powiśle, Warsaw on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Cosmic Force is an electro and house artist based in Netherlands, with 11 gigs o
 
 Pawel Blot, Richelle Soigni, Alessandro Parisi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*

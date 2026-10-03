@@ -1,6 +1,6 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "OMA PRESENTS Tom Peters" on Sat, 3 Oct 2026.
+OMA is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "OMA PRESENTS Tom Peters" on Sat, 3 Oct 2026.
 
 OMA is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with line-ups including kimmy6.6.6 and Tom Peters. See dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
@@ -15,4 +15,4 @@ OMA is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with li
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

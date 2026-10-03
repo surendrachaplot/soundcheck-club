@@ -1,13 +1,14 @@
 # Screeb
 
-Screeb is a Trance and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
+Screeb is a Trance and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Plaza Cultural, New York City on Sat, 3 Oct 2026.
 
-Screeb is a trance and dub artist based in United States of America, with 3 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Al Wootton, Amelia Holt and Bambi (FR). Next up: TBA - Outdoor Gathering, New York City on Sat 10 Oct.
+Screeb is a trance and ambient artist based in United States of America, with 4 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Bambi (FR), Al Wootton and Amelia Holt. Next up: La Plaza Cultural, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | La Plaza Cultural | New York City |
 | Sat, 10 Oct 2026 | TBA - Outdoor Gathering | New York City |
 | Fri, 16 Oct 2026 | TBA - Goo People | Los Angeles |
 
@@ -17,6 +18,6 @@ Screeb is a trance and dub artist based in United States of America, with 3 gigs
 
 ## Shares bills with
 
-Al Wootton, Amelia Holt, Bambi (FR)
+Bambi (FR), Al Wootton, Amelia Holt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/screeb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/screeb/)*

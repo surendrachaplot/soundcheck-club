@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Wohnzimmer030 + Afterhour" on Fri, 2 Oct 2026.
+Golden Gate is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Wohnzimmer030 + Afterhour" on Fri, 2 Oct 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Adine Frost, Ana Molina, Anestis and Annina and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wi
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

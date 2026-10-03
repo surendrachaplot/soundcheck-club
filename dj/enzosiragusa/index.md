@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Enzo Siragusa is a house and tech house artist based in United Kingdom, with 198 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 198
 
 Laidlaw, Traumer, Rossi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

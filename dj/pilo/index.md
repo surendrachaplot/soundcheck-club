@@ -1,6 +1,6 @@
 # Pilo
 
-Pilo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at IO Music Academy LA, Los Angeles on Fri, 23 Oct 2026.
+Pilo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at IO Music Academy LA, Los Angeles on Fri, 23 Oct 2026.
 
 Pilo is a techno and club artist based in United States of America, with 18 gigs on soundcheck across Los Angeles, Miami, New York City and San Diego. Often billed alongside Baseck, Lake Hills and Marie Nyx. Next up: IO Music Academy LA, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pilo is a techno and club artist based in United States of America, with 18 gigs
 
 Baseck, Lake Hills, Marie Nyx
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pilo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pilo/)*

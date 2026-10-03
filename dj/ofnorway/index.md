@@ -1,6 +1,6 @@
 # Of Norway
 
-Of Norway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gehør, Oslo on Fri, 9 Oct 2026.
+Of Norway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gehør, Oslo on Fri, 9 Oct 2026.
 
 Of Norway is a house and techno artist based in Norway, with 16 gigs on soundcheck across Berlin and Oslo. Often billed alongside G-HA, Olanskii and Charlotte Bendiks. Next up: Gehør, Oslo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Of Norway is a house and techno artist based in Norway, with 16 gigs on soundche
 
 G-HA, Olanskii, Charlotte Bendiks
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofnorway/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofnorway/)*

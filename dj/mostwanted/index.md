@@ -1,6 +1,6 @@
 # MostWanted
 
-MostWanted is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
+MostWanted is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
 
 MostWanted is a house and electro artist based in Peru, with 16 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Santacreu, JJ Beteta and Christian Arcila. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MostWanted is a house and electro artist based in Peru, with 16 gigs on soundche
 
 Santacreu, JJ Beteta, Christian Arcila
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mostwanted/)*

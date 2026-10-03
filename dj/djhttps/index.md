@@ -1,6 +1,6 @@
 # DJ https
 
-DJ https is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+DJ https is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 DJ https is a trance and techno artist based in Germany, with 53 gigs on soundcheck across Antwerp, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside sarah4K, Jacky Ickx and RaverPik. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ https is a trance and techno artist based in Germany, with 53 gigs on soundch
 
 sarah4K, Jacky Ickx, RaverPik
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhttps/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhttps/)*

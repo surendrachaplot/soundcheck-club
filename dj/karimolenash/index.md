@@ -1,18 +1,18 @@
 # Karim Olen Ash
 
-Karim Olen Ash is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Toronto on Fri, 2 Oct 2026.
+Karim Olen Ash is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
 
-Karim Olen Ash is a techno and house artist based in Canada, with 68 gigs on soundcheck across Leipzig, London, Mexico City and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: TBA, Toronto on Fri 2 Oct.
+Karim Olen Ash is a techno and house artist based in Canada, with 68 gigs on soundcheck across Leipzig, London, Mexico City and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: Paragon, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Toronto |
 | Fri, 23 Oct 2026 | Paragon | New York City |
 
 ## Recently played
 
+- TBA, Toronto · Fri, 2 Oct 2026
 - Buddies in Bad Times, Toronto · Fri, 11 Sept 2026
 - Signal, New York City · Sat, 27 Jun 2026
 - Ocad - Butterfield Park, Toronto · Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Karim Olen Ash is a techno and house artist based in Canada, with 68 gigs on sou
 - Signal, New York City · Mon, 25 May 2026
 - H0L0, New York City · Fri, 15 May 2026
 - Standard Time, Toronto · Fri, 1 May 2026
-- public records, New York City · Sun, 29 Mar 2026
 
 ## Shares bills with
 
 Chippy Nonstop, Phillippe, REDLINERS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*

@@ -1,6 +1,6 @@
 # Darone Sassounian
 
-Darone Sassounian is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Airliner, Los Angeles on Sat, 10 Oct 2026.
+Darone Sassounian is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Airliner, Los Angeles on Sat, 10 Oct 2026.
 
 Darone Sassounian is a house and disco artist based in United States of America, with 62 gigs on soundcheck across Athens, Los Angeles, Montreal and New York City and 3 more. Often billed alongside Lara Sarkissian, Mike Gushansky and Dave Aju. Next up: The Airliner, Los Angeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Darone Sassounian is a house and disco artist based in United States of America,
 
 Lara Sarkissian, Mike Gushansky, Dave Aju
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*

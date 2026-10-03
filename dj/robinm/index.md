@@ -1,18 +1,18 @@
 # Robin M
 
-Robin M is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
+Robin M is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Century, London on Sat, 31 Oct 2026.
 
-Robin M is a house and afro house artist based in United Kingdom, with 25 gigs on soundcheck across Ibiza, London and San Francisco/Oakland. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
+Robin M is a house and afro house artist based in United Kingdom, with 25 gigs on soundcheck across Ibiza, London and San Francisco/Oakland. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: Century, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Bunker @ The Rolling Stock | London |
 | Sat, 31 Oct 2026 | Century | London |
 
 ## Recently played
 
+- The Bunker @ The Rolling Stock, London · Fri, 2 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 9 Aug 2026
 - KOKO, London · Fri, 1 May 2026
 - KOKO, London · Fri, 1 May 2026
@@ -20,10 +20,9 @@ Robin M is a house and afro house artist based in United Kingdom, with 25 gigs o
 - Bricks, London · Sat, 18 Oct 2025
 - Village Underground, London · Fri, 3 Oct 2025
 - Chinois Ibiza, Ibiza · Sun, 31 Aug 2025
-- fabric, London · Fri, 22 Aug 2025
 
 ## Shares bills with
 
 Jeremiah Asiamah, Bedouin, L.A. Dave
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*

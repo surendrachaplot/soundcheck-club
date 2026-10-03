@@ -1,6 +1,6 @@
 # Laura BCR
 
-Laura BCR is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macadam, Nantes on Sat, 3 Oct 2026.
+Laura BCR is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macadam, Nantes on Sat, 3 Oct 2026.
 
 Laura BCR is a techno and dub techno artist based in France, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Luigi Tozzi, Polygonia and Claudio PRC. Next up: Macadam, Nantes on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Laura BCR is a techno and dub techno artist based in France, with 92 gigs on sou
 
 Luigi Tozzi, Polygonia, Claudio PRC
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurabcr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurabcr/)*

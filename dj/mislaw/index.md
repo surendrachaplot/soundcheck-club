@@ -1,6 +1,6 @@
 # Mislaw
 
-Mislaw is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
+Mislaw is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
 
 Mislaw is a techno and minimal techno artist based in Poland, with 45 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Hamburg and 5 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: MUENZE, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Mislaw is a techno and minimal techno artist based in Poland, with 45 gigs on so
 
 Lucyd, Hekato, Rethe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*

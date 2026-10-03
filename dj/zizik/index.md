@@ -1,6 +1,6 @@
 # zizi k
 
-zizi k is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
+zizi k is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
 
 zizi k is a techno and electronica artist based in Colombia, with 13 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Gala (ES), Admo and Balheim. Next up: TBA - Secret Location (Madrid), Madrid on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ zizi k is a techno and electronica artist based in Colombia, with 13 gigs on sou
 
 Gala (ES), Admo, Balheim
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*

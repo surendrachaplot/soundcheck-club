@@ -1,6 +1,6 @@
 # icanseesounds
 
-icanseesounds is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+icanseesounds is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 icanseesounds is an experimental and drum & bass artist, with 16 gigs on soundcheck across Berlin. Often billed alongside ENOME, Kenzura and Aynaet. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ icanseesounds is an experimental and drum & bass artist, with 16 gigs on soundch
 
 ENOME, Kenzura, Aynaet
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanseesounds/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanseesounds/)*

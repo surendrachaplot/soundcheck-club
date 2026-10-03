@@ -1,6 +1,6 @@
 # M'Lover
 
-M'Lover is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+M'Lover is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 M'Lover is a house and disco artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Liverpool and London. Often billed alongside STEWPOT, Daisybelle and Danny Vito. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ M'Lover is a house and disco artist based in United Kingdom, with 20 gigs on sou
 
 STEWPOT, Daisybelle, Danny Vito
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*

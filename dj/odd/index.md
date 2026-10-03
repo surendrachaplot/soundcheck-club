@@ -1,6 +1,6 @@
 # ODD
 
-ODD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
+ODD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
 
 ODD is a techno and house artist based in Germany, with 24 gigs on soundcheck across Kuala Lumpur, Tokyo and Vienna. Often billed alongside Katz 25, Daisuke Pak and KOGO. Next up: TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ODD is a techno and house artist based in Germany, with 24 gigs on soundcheck ac
 
 Katz 25, Daisuke Pak, KOGO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odd/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odd/)*

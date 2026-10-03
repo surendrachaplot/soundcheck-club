@@ -1,14 +1,13 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
+Jubilee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
-Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
+Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Elsewhere, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sat, 3 Oct 2026 | Elsewhere | New York City |
 | Sat, 3 Oct 2026 | SASS Music Club | Vienna |
 | Sat, 10 Oct 2026 | Loso | Richmond |
@@ -21,6 +20,7 @@ Jubilee is a house and techno artist based in United States of America, with 158
 
 ## Recently played
 
+- Dead Letter No. 9, New York City · Fri, 2 Oct 2026
 - Gabriela, New York City · Sun, 27 Sept 2026
 - Culture Lab LIC, New York City · Sat, 26 Sept 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 25 Sept 2026
@@ -28,10 +28,9 @@ Jubilee is a house and techno artist based in United States of America, with 158
 - Gabriela, New York City · Sat, 29 Aug 2026
 - Signal, New York City · Sun, 23 Aug 2026
 - Liberty Point, Philadelphia · Sun, 9 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

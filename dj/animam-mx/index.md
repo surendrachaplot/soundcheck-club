@@ -1,6 +1,6 @@
 # Animam
 
-Animam is a House and Drone artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+Animam is a House and Drone artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
 Animam is a house and drone artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Phanta, TRR and Rootian. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Animam is a house and drone artist based in Mexico, with 10 gigs on soundcheck a
 
 Phanta, TRR, Rootian
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animam-mx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animam-mx/)*

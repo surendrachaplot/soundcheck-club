@@ -1,6 +1,6 @@
 # PAS
 
-PAS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Eiger Studios, Leeds on Fri, 30 Oct 2026.
+PAS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eiger Studios, Leeds on Fri, 30 Oct 2026.
 
 PAS is a tech house and house artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Leeds and Manchester. Often billed alongside Rob Pearson, dj ripple and Au Contraire. Next up: Eiger Studios, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PAS is a tech house and house artist based in United Kingdom, with 9 gigs on sou
 
 Rob Pearson, dj ripple, Au Contraire
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

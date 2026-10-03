@@ -1,6 +1,6 @@
 # Ulf Eriksson
 
-Ulf Eriksson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at vurt., Seoul on Sat, 3 Oct 2026.
+Ulf Eriksson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at vurt., Seoul on Sat, 3 Oct 2026.
 
 Ulf Eriksson is a techno and house artist based in Sweden, with 9 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Seoul and 1 more. Often billed alongside Andreas Tilliander, HVL and ninasupsa. Next up: vurt., Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ulf Eriksson is a techno and house artist based in Sweden, with 9 gigs on soundc
 
 Andreas Tilliander, HVL, ninasupsa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulferiksson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulferiksson/)*

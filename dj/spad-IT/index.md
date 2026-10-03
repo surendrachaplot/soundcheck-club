@@ -1,6 +1,6 @@
 # Spad
 
-Spad is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+Spad is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 Spad is a techno artist based in Italy, with 37 gigs on soundcheck across Milan and Turin. Often billed alongside Rorschack, Ikaar and Yamila. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Spad is a techno artist based in Italy, with 37 gigs on soundcheck across Milan 
 
 Rorschack, Ikaar, Yamila
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spad-IT/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spad-IT/)*

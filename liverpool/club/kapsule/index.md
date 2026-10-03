@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk" on Fri, 2 Oct 2026.
+Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAW presents: Truly Madly (4 Hours)" on Sat, 3 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Autumns, Bradley Zero, Budino and Chaos In The CBD and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk | Aerofunk, Ivan Smagghe, Shanti Celeste |
 | Sat, 3 Oct 2026 | RAW presents: Truly Madly (4 Hours) | Truly Madly |
 | Fri, 9 Oct 2026 | Jamie Fielding All Night Long - Modello | Jamie Fielding |
 | Sat, 17 Oct 2026 | Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI | Autumns, Conor Thomas, Kahn, Lupini |
@@ -18,9 +17,10 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, wi
 | Sat, 14 Nov 2026 | Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re | Lu.Re, Soul Mass Transit System, Sulphur |
 | Sat, 28 Nov 2026 | Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
+| Sun, 27 Dec 2026 | mUmU  [The techno edition] |  |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

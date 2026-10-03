@@ -1,6 +1,6 @@
 # Hans Hammer
 
-Hans Hammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Südpol, Hamburg on Sat, 10 Oct 2026.
+Hans Hammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Sat, 10 Oct 2026.
 
 Hans Hammer is a techno and house artist based in Germany, with 55 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Erhardt Schuster, Sabura and EllA. Next up: Südpol, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hans Hammer is a techno and house artist based in Germany, with 55 gigs on sound
 
 Erhardt Schuster, Sabura, EllA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanshammer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanshammer/)*

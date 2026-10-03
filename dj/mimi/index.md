@@ -1,6 +1,6 @@
 # Mimi
 
-Mimi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volt Club Milano, Milan on Sat, 24 Oct 2026.
+Mimi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Volt Club Milano, Milan on Sat, 24 Oct 2026.
 
 Mimi is a techno and house artist based in Croatia, with 40 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 14 more. Often billed alongside JOVE, Aggro and Black Coffee. Next up: Volt Club Milano, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mimi is a techno and house artist based in Croatia, with 40 gigs on soundcheck a
 
 JOVE, Aggro, Black Coffee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

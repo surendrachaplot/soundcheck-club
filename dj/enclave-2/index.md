@@ -1,6 +1,6 @@
 # Enclave (2)
 
-Enclave (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
+Enclave (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
 
 Enclave is a house and deep house artist based in Ireland, with 7 gigs on soundcheck across Dublin. Often billed alongside Surferboy, ADRIANA and Jenn Hession. Next up: The Big Romance, Dublin on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Enclave is a house and deep house artist based in Ireland, with 7 gigs on soundc
 
 Surferboy, ADRIANA (4), Jenn Hession
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enclave-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enclave-2/)*

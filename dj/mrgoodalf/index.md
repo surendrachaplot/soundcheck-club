@@ -1,6 +1,6 @@
 # Mrgoodalf
 
-Mrgoodalf is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 3 Oct 2026.
+Mrgoodalf is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 3 Oct 2026.
 
 Mrgoodalf is a tech house and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona, Dubai, Ibiza and Madrid and 1 more. Often billed alongside MËSTIZA, Pomboklap and AAT (NL). Next up: The Penthouse Dubai, Dubai on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Mrgoodalf is a tech house and techno artist based in Spain, with 8 gigs on sound
 
 MËSTIZA, Pomboklap, AAT (NL)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgoodalf/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgoodalf/)*

@@ -1,6 +1,6 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K" on Fri, 2 Oct 2026.
+Botanique is a music venue in Brussels with 21 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dizzee Rascal" on Sat, 3 Oct 2026.
 
 Botanique is a music venue in Brussels listed on soundcheck. 21 upcoming gigs, with line-ups including A Good Year, Anton Friisgaard, Antony Szmierek and Aponogeton and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
@@ -8,7 +8,6 @@ Botanique is a music venue in Brussels listed on soundcheck. 21 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K | DJ Takeaway, LYZZA, Stella K |
 | Sat, 3 Oct 2026 | Dizzee Rascal | Dizzee Rascal |
 | Thu, 8 Oct 2026 | rogergoon |  |
 | Thu, 8 Oct 2026 | Rêves x J&A |  |
@@ -18,9 +17,10 @@ Botanique is a music venue in Brussels listed on soundcheck. 21 upcoming gigs, w
 | Thu, 22 Oct 2026 | Mind Enterprises |  |
 | Fri, 23 Oct 2026 | Jennifur | Jennifur |
 | Sat, 24 Oct 2026 | Gold Panda | Gold Panda |
+| Fri, 30 Oct 2026 | IAMDDB: The Live Jazz Experience & many more | IAMDDB |
 
 ## Address
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

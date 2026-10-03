@@ -1,6 +1,6 @@
 # Gay Roberto
 
-Gay Roberto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
+Gay Roberto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 3 Oct 2026.
 
 Gay Roberto is a house and techno artist based in Australia, with 38 gigs on soundcheck across Berlin and Melbourne. Often billed alongside 3rd Orbit, Lewis Cancut and Bertie. Next up: Revolver Upstairs, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Gay Roberto is a house and techno artist based in Australia, with 38 gigs on sou
 
 3rd Orbit, Lewis Cancut, Bertie
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gayroberto/)*

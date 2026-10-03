@@ -1,14 +1,13 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at It'll Do, Dallas-fort-worth on Fri, 2 Oct 2026.
+KILIMANJARO is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Watr, Austin on Sun, 4 Oct 2026.
 
-KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: It'll Do, Dallas Fort Worth on Fri 2 Oct.
+KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Watr, Austin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | It'll Do | Dallas-fort-worth |
 | Sun, 4 Oct 2026 | Watr | Austin |
 | Sat, 10 Oct 2026 | Pygmalion | Dublin |
 | Wed, 11 Nov 2026 | Lark | Berlin |
@@ -19,6 +18,7 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 g
 
 ## Recently played
 
+- It'll Do, Dallas-fort-worth · Fri, 2 Oct 2026
 - Commodore Ballroom, Vancouver · Wed, 30 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 14 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 20 Aug 2026
@@ -26,10 +26,9 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 g
 - Cova Santa, Ibiza · Thu, 30 Jul 2026
 - Silverworks Island, London · Sat, 11 Jul 2026
 - Razzmatazz, Barcelona · Sat, 4 Jul 2026
-- [UNVRS], Ibiza · Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

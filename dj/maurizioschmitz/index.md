@@ -1,6 +1,6 @@
 # Maurizio Schmitz
 
-Maurizio Schmitz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
+Maurizio Schmitz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
 Maurizio Schmitz is a techno and house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 16 more. Often billed alongside Sven Vath, André Galluzzi and Tobi Neumann. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Maurizio Schmitz is a techno and house artist based in Germany, with 76 gigs on 
 
 Sven Vath, André Galluzzi, Tobi Neumann
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maurizioschmitz/)*

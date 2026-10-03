@@ -1,6 +1,6 @@
 # Battygyal
 
-Battygyal is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ki Smith Gallery, New York City on Sat, 3 Oct 2026.
+Battygyal is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ki Smith Gallery, New York City on Sat, 3 Oct 2026.
 
 Battygyal is a techno and club artist based in United States of America, with 63 gigs on soundcheck across New York City and Washington DC. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: Ki Smith Gallery, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Battygyal is a techno and club artist based in United States of America, with 63
 
 znorthy, Heartbreaker, DILUVIA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*

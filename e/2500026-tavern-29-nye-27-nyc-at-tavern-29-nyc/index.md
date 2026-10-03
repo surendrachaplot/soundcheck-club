@@ -1,6 +1,6 @@
 # Tavern 29 NYE 27 NYC at Tavern 29 NYC
 
-Tavern 29 NYE 27 NYC at Tavern 29 NYC on Thu 31 Dec, New York City. Club. See the line-up on soundcheck.
+Tavern 29 NYE 27 NYC at Tavern 29 NYC on Thu 31 Dec, New York City. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

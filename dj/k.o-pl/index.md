@@ -1,6 +1,6 @@
 # k.o (PL)
 
-k.o (PL) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
+k.o (PL) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
 
 k.o (PL) is a bass and drum & bass artist, with 7 gigs on soundcheck across Berlin, Krakow, Leipzig and Poznan and 1 more. Often billed alongside Alegria, Bambi Uzi and GEST (UK). Next up: Tama, Poznan on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ k.o (PL) is a bass and drum & bass artist, with 7 gigs on soundcheck across Berl
 
 Alegria, Bambi Uzi, GEST (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*

@@ -1,6 +1,6 @@
 # Rose
 
-Rose is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+Rose is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
 Rose is a techno and hardcore artist based in France, with 11 gigs on soundcheck across Bangkok, Berlin, London and Los Angeles and 4 more. Often billed alongside Ziggy, AMMARA and Andreas Henneberg. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rose is a techno and hardcore artist based in France, with 11 gigs on soundcheck
 
 Ziggy, AMMARA, Andreas Henneberg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rose/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rose/)*

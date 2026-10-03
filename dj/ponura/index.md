@@ -1,6 +1,6 @@
 # Ponura
 
-Ponura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
+Ponura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
 
 Ponura is a techno and house artist based in Ukraine, with 22 gigs on soundcheck across Berlin, Leipzig, Lisbon and London and 3 more. Often billed alongside Karine, Timur Basha and Jana Woodstock. Next up: Haus der Visionäre, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Ponura is a techno and house artist based in Ukraine, with 22 gigs on soundcheck
 
 Karine, Timur Basha, Jana Woodstock
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponura/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponura/)*

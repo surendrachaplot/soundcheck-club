@@ -1,6 +1,6 @@
 # LIZA.
 
-LIZA. is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 28 Nov 2026.
+LIZA. is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 28 Nov 2026.
 
 LIZA. is a techno and deep house artist based in Spain, with 36 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Frankfurt and 1 more. Often billed alongside Rivellino, Brizas and Michael Ritter. Next up: Luz De Gas, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LIZA. is a techno and deep house artist based in Spain, with 36 gigs on soundche
 
 Rivellino, Brizas, Michael Ritter
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-es/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-es/)*

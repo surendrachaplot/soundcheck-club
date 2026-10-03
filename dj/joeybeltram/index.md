@@ -1,6 +1,6 @@
 # Joey Beltram
 
-Joey Beltram is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paragon, New York City on Fri, 16 Oct 2026.
+Joey Beltram is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Fri, 16 Oct 2026.
 
 Joey Beltram is a techno and acid artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 10 more. Often billed alongside Devoye, Jayzo and LISAS. Next up: Paragon, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Joey Beltram is a techno and acid artist based in United States of America, with
 
 Devoye, Jayzo, LISAS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybeltram/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybeltram/)*

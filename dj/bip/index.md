@@ -1,6 +1,6 @@
 # B I P
 
-B I P is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jama, Toronto on Fri, 16 Oct 2026.
+B I P is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Jama, Toronto on Fri, 16 Oct 2026.
 
 B I P is a techno and electro artist based in Canada, with 7 gigs on soundcheck across New York City and Toronto. Often billed alongside GRRLCRRSH, Sofia Fly and Zellers. Next up: The Jama, Toronto on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ B I P is a techno and electro artist based in Canada, with 7 gigs on soundcheck 
 
 GRRLCRRSH, Sofia Fly, Zellers
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bip/)*

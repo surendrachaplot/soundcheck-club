@@ -1,6 +1,6 @@
 # TRR
 
-TRR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
+TRR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
 
 TRR is a house and techno artist based in Mexico, with 16 gigs on soundcheck across Los Angeles and Mexico City. Often billed alongside Koscoy, Animam and Fig (DYN). Next up: Fünk, Mexico City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ TRR is a house and techno artist based in Mexico, with 16 gigs on soundcheck acr
 
 Koscoy, Animam, Fig (DYN)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trr/)*

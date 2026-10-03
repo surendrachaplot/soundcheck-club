@@ -1,6 +1,6 @@
 # Agoria
 
-Agoria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 3 Oct 2026.
+Agoria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 3 Oct 2026.
 
 Agoria is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Geneva and 16 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Moon Warsaw, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Agoria is a house and techno artist based in France, with 60 gigs on soundcheck 
 
 Mooglie, Amour Propre, Armin van Buuren
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*

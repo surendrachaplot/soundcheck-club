@@ -1,6 +1,6 @@
 # Beth Lydi
 
-Beth Lydi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
+Beth Lydi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Edem Beach Club, Greece on Wed, 26 May 2027.
 
 Beth Lydi is a techno and house artist based in Norway, with 31 gigs on soundcheck across Amsterdam, Berlin, Greece and Hamburg and 5 more. Often billed alongside Andreas Henneberg, AKA AKA and Pascale Voltaire. Next up: Edem Beach Club, Greece on Wed 26 May.
 
@@ -25,4 +25,4 @@ Beth Lydi is a techno and house artist based in Norway, with 31 gigs on soundche
 
 Andreas Henneberg, AKA AKA, Pascale Voltaire
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethlydi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethlydi/)*

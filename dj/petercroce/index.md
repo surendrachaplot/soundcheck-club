@@ -1,6 +1,6 @@
 # Peter Croce
 
-Peter Croce is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cardinal Bar, Madison on Fri, 9 Oct 2026.
+Peter Croce is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cardinal Bar, Madison on Fri, 9 Oct 2026.
 
 Peter Croce is a disco and deep house artist based in United States of America, with 105 gigs on soundcheck across Chicago, Detroit, Madison and New York City and 3 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: Cardinal Bar, Madison on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Peter Croce is a disco and deep house artist based in United States of America, 
 
 Eddie Logix, David A-P, LADYMONIX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*

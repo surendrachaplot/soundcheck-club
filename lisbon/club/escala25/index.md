@@ -1,6 +1,6 @@
 # Escala25
 
-Escala25 is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Intercell Lisbon with Pegassi, Partiboi69, SAIDAH " on Sat, 10 Oct 2026.
+Escala25 is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Intercell Lisbon with Pegassi, Partiboi69, SAIDAH " on Sat, 10 Oct 2026.
 
 Escala25 is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Djooke, Nicolle Velcro, Partiboi69 and Pegassi and 1 more. See dates, start times and who's playing. Pilar 7, Avenida da Índia, Pte. 25 de Abril, 1349-028 Lisboa.
 
@@ -14,4 +14,4 @@ Escala25 is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with l
 
 Pilar 7, Avenida da Índia, Pte. 25 de Abril, 1349-028 Lisboa, Lisbon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/escala25/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/escala25/)*

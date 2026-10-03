@@ -1,6 +1,6 @@
 # Lokey
 
-Lokey is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
+Lokey is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
 
 Lokey is an electronica and techno artist, with 7 gigs on soundcheck across London, Paris and Stockholm. Often billed alongside Capricorn, sean pain and Femi. Next up: Vespers Club, London on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Lokey is an electronica and techno artist, with 7 gigs on soundcheck across Lond
 
 Capricorn, sean pain, Femi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokey/)*

@@ -1,6 +1,6 @@
 # Dj Armi
 
-Dj Armi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The BBE Store, London on Sat, 7 Nov 2026.
+Dj Armi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The BBE Store, London on Sat, 7 Nov 2026.
 
 Dj Armi is a deep house and house artist, with 8 gigs on soundcheck across London and Naples. Often billed alongside Davide Del Vecchio, AOB and Andrea Fiorito. Next up: The BBE Store, London on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Dj Armi is a deep house and house artist, with 8 gigs on soundcheck across Londo
 
 Davide Del Vecchio, AOB, Andrea Fiorito
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*

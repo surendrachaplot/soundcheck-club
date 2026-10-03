@@ -1,6 +1,6 @@
 # DJ Lyster
 
-DJ Lyster is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Sat, 3 Oct 2026.
+DJ Lyster is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Sat, 3 Oct 2026.
 
 DJ Lyster is a techno and experimental artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Glasgow, Manchester and Milan and 2 more. Often billed alongside Sockethead, Even Tuell and FUMU. Next up: The White Hotel, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Lyster is a techno and experimental artist based in United Kingdom, with 19 g
 
 Sockethead, Even Tuell, FUMU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyster/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyster/)*

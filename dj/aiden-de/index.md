@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
+Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
 
 Aiden (DE) is a techno and industrial artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

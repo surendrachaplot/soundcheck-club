@@ -1,6 +1,6 @@
 # Pete Moss
 
-Pete Moss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
+Pete Moss is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
 
 Pete Moss is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Boston, Chicago, Los Angeles and Philadelphia and 3 more. Often billed alongside DJ Colette, DJ Heather and Rob Paine. Next up: American Legion Marsh Post #442, Boston on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pete Moss is a house and deep house artist based in United States of America, wi
 
 DJ Colette, DJ Heather, Rob Paine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petemoss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petemoss/)*

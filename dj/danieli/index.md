@@ -1,6 +1,6 @@
 # Daniel[i]
 
-Daniel[i] is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Under Bron, Stockholm on Fri, 23 Oct 2026.
+Daniel[i] is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Under Bron, Stockholm on Fri, 23 Oct 2026.
 
 Daniel[i] is a techno and ambient artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Claudio PRC, Altinbas and Blasha & Allatt. Next up: Under Bron, Stockholm on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Daniel[i] is a techno and ambient artist based in Germany, with 25 gigs on sound
 
 Claudio PRC, Altinbas, Blasha & Allatt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieli/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieli/)*

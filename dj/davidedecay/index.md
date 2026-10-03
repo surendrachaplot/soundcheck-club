@@ -1,6 +1,6 @@
 # Davide Decay
 
-Davide Decay is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
+Davide Decay is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
 
 Davide Decay is a house and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, London and New York City. Often billed alongside Max., Claudio Basile and LUUD. Next up: STEREO, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Davide Decay is a house and minimal artist based in United Kingdom, with 20 gigs
 
 Max., Claudio Basile, LUUD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedecay/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedecay/)*

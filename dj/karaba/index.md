@@ -1,6 +1,6 @@
 # KARABA
 
-KARABA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Floyd, Miami on Fri, 9 Oct 2026.
+KARABA is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Floyd, Miami on Fri, 9 Oct 2026.
 
 KARABA is an afro house and house artist based in United States of America, with 20 gigs on soundcheck across Berlin, London, Los Angeles and Miami and 7 more. Often billed alongside Airon, DJ PERIODT and DJ Sam. Next up: Floyd, Miami on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ KARABA is an afro house and house artist based in United States of America, with
 
 Airon, DJ PERIODT, DJ Sam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaba/)*

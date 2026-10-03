@@ -1,6 +1,6 @@
 # Reanna Peris
 
-Reanna Peris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 3 Oct 2026.
+Reanna Peris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 3 Oct 2026.
 
 Reanna Peris is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Berfu, Dr.Waumiau and Dshanna. Next up: Bulbul Berlin, Berlin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Reanna Peris is a techno and house artist based in Germany, with 7 gigs on sound
 
 Berfu, Dr.Waumiau, Dshanna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*

@@ -1,6 +1,6 @@
 # djbounty3000
 
-djbounty3000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
+djbounty3000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Fri, 11 Dec 2026.
 
 djbounty3000 is a techno and trance artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside SZG, 0megavybe and August Kind. Next up: ÆDEN, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ djbounty3000 is a techno and trance artist based in Germany, with 53 gigs on sou
 
 SZG, 0megavybe, August Kind
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbounty3000/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbounty3000/)*

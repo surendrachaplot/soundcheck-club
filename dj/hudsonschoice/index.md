@@ -1,6 +1,6 @@
 # Hudson’s Choice
 
-Hudson’s Choice is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
+Hudson’s Choice is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
 
 Hudson’s Choice is a deep house and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Lisbon and London and 1 more. Often billed alongside Conrad Lee, Rainbow Conspiracy and Jimpster. Next up: The Glove That Fits, London on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Hudson’s Choice is a deep house and house artist based in United Kingdom, with
 
 Conrad Lee, Rainbow Conspiracy, Jimpster
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*

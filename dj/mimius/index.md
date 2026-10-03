@@ -1,6 +1,6 @@
 # m i m i (US)
 
-m i m i (US) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at XTC Bushwick, New York City on Sat, 10 Oct 2026.
+m i m i (US) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at XTC Bushwick, New York City on Sat, 10 Oct 2026.
 
 m i m i (US) is a trance and techno artist based in United States of America, with 10 gigs on soundcheck across Boston and New York City. Often billed alongside EMMA KING, Replicator and Dasychira. Next up: XTC Bushwick, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ m i m i (US) is a trance and techno artist based in United States of America, wi
 
 EMMA KING, Replicator, Dasychira
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*

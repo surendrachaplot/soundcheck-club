@@ -1,6 +1,6 @@
 # Boskopp
 
-Boskopp is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Boskopp is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Boskopp is a house and electronica artist based in Germany, with 13 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Punching Polly, Horst Haller and Maria Theresia von Eberg. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Boskopp is a house and electronica artist based in Germany, with 13 gigs on soun
 
 Punching Polly, Horst Haller, Maria Theresia von Eberg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boskopp/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boskopp/)*

@@ -1,6 +1,6 @@
 # lu.wicked
 
-lu.wicked is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sat, 24 Oct 2026.
+lu.wicked is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 24 Oct 2026.
 
 lu.wicked is a house and bass artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Vroomfondel, N:in (DE) and Lara Fein. Next up: Gewölbe, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ lu.wicked is a house and bass artist based in Germany, with 32 gigs on soundchec
 
 Vroomfondel, N:in (DE), Lara Fein
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*

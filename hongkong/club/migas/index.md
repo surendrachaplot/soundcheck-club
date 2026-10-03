@@ -1,6 +1,6 @@
 # Migas
 
-Migas is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Not A Disco" on Sat, 3 Oct 2026.
+Migas is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Not A Disco" on Sat, 3 Oct 2026.
 
 Migas is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 3/F, H Queen’s, 80 Queens Road Central , HK.
 
@@ -14,4 +14,4 @@ Migas is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig. See da
 
 3/F, H Queen’s, 80 Queens Road Central , HK, Hong Kong
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/migas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/migas/)*

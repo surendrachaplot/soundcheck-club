@@ -1,6 +1,6 @@
 # Demsky
 
-Demsky is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Demsky is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Demsky is an ambient and experimental artist based in Japan, with 15 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Drinkss, Anapol and DJ Dante. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Demsky is an ambient and experimental artist based in Japan, with 15 gigs on sou
 
 Drinkss, Anapol, DJ Dante
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demsky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demsky/)*

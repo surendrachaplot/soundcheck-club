@@ -1,6 +1,6 @@
 # funkin donut
 
-funkin donut is a Afrobeat and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
+funkin donut is a Afrobeat and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
 
 funkin donut is an afrobeat and disco artist, with 12 gigs on soundcheck across New York City. Often billed alongside vikmatic, Arjun Shah and ራሄል (Rachel). Next up: Jupiter Disco, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ funkin donut is an afrobeat and disco artist, with 12 gigs on soundcheck across 
 
 vikmatic, Arjun Shah, ራሄል (Rachel)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkindonut/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funkindonut/)*

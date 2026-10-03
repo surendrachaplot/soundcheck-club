@@ -1,6 +1,6 @@
 # The Flexican
 
-The Flexican is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+The Flexican is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 The Flexican is a house and bass artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Berkan V8, Cromby and DJ Cringey. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ The Flexican is a house and bass artist based in Netherlands, with 15 gigs on so
 
 Berkan V8, Cromby, DJ Cringey
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*

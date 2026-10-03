@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Techno Culture" on Sat, 3 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Techno Culture" on Sat, 3 Oct 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including Angel Negrin, elcammgguod, Gabor Matty and ITEM9 and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -22,4 +22,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs,
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

@@ -1,6 +1,6 @@
 # The Greenwood Hotel
 
-The Greenwood Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon)" on Sun, 28 Feb 2027.
+The Greenwood Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon)" on Sun, 28 Feb 2027.
 
 The Greenwood Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Kenny Dope, Phil Toke and Soul of Sydney. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Greenwood Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sun, 28 Feb 2027 | Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon) | Kenny Dope, Phil Toke, Soul of Sydney |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-greenwood-hotel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-greenwood-hotel/)*

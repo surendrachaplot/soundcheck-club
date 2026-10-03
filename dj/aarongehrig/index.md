@@ -1,6 +1,6 @@
 # AARON GEHRIG
 
-AARON GEHRIG is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
+AARON GEHRIG is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
 
 AARON GEHRIG is a house and minimal artist, with 23 gigs on soundcheck across Barcelona, Berlin and Valencia. Often billed alongside AAA+, Victor Polo and Pizzicatto. Next up: 303 Audiophile Bar, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AARON GEHRIG is a house and minimal artist, with 23 gigs on soundcheck across Ba
 
 AAA+, Victor Polo, Pizzicatto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aarongehrig/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aarongehrig/)*

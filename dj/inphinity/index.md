@@ -1,6 +1,6 @@
 # INPHINITY
 
-INPHINITY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spybar, Chicago on Sat, 3 Oct 2026.
+INPHINITY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spybar, Chicago on Sat, 3 Oct 2026.
 
 INPHINITY is a house and tech house artist, with 54 gigs on soundcheck across Chicago, Miami, Nashville and Toronto. Often billed alongside Dustin Sheridan, Amy Unland and Gene Farris. Next up: Spybar, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ INPHINITY is a house and tech house artist, with 54 gigs on soundcheck across Ch
 
 Dustin Sheridan, Amy Unland, Gene Farris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*

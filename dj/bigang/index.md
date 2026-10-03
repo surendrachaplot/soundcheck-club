@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Big Ang is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, with 51 gigs on soundcheck across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Jamie Duggan, Phatworld and Silva Bumpa. Next up: Mint XL, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Big Ang is a bass and garage artist based in United Kingdom, with 51 gigs on sou
 
 Jamie Duggan, Phatworld, Silva Bumpa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

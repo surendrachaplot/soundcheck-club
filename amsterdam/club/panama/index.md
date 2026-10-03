@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Masti - Bollywood Special - Panama Amsterdam" on Sat, 17 Oct 2026.
+Panama is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Masti - Bollywood Special - Panama Amsterdam" on Sat, 17 Oct 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Becking, Ben Techy, Damian Lazarus and Darah and 2 more. See dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, wit
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

@@ -1,14 +1,13 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC)" on Fri, 2 Oct 2026.
+Big Pink is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HIPHOP NIGHT: NAMEBRANDSMITH & DJBJ 3525 (CLUB BANGERS ALL NIGHT)" on Sat, 3 Oct 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT and 2 more. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Botez and Dean Turnley. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC) | Fullbodydurag, JMT (2), Mondai, Nanoos, Sheefy McFly |
 | Sat, 3 Oct 2026 | HIPHOP NIGHT: NAMEBRANDSMITH & DJBJ 3525 (CLUB BANGERS ALL NIGHT) |  |
 | Sun, 4 Oct 2026 | NO SKIPS: HIPHOP & R&B NIGHT (SUNDAY NIGHT) - BLAKITO |  |
 | Fri, 9 Oct 2026 | BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) | Botez, Dean Turnley |
@@ -22,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

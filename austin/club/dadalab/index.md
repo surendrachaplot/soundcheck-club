@@ -1,6 +1,6 @@
 # Dadalab
 
-Dadalab is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "ATOMIC PULSE v1" on Sat, 10 Oct 2026.
+Dadalab is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "ATOMIC PULSE v1" on Sat, 10 Oct 2026.
 
 Dadalab is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2008 Alexander Ave, Austin, TX 78722.
 
@@ -14,4 +14,4 @@ Dadalab is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dat
 
 2008 Alexander Ave, Austin, TX 78722, Austin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*

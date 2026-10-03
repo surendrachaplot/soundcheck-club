@@ -1,6 +1,6 @@
 # Spinelli Bravo
 
-Spinelli Bravo is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
+Spinelli Bravo is a Drum & Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
 
 Spinelli Bravo is a drum & bass and dub artist, with 8 gigs on soundcheck across Bristol, Leeds and Manchester. Often billed alongside Aerial, Bateman and Charla Green. Next up: The Boxing Club, Bristol on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Spinelli Bravo is a drum & bass and dub artist, with 8 gigs on soundcheck across
 
 Aerial, Bateman, Charla Green
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinellibravo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinellibravo/)*

@@ -1,6 +1,6 @@
 # Zip
 
-Zip is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ZENNER, Berlin on Fri, 2 Oct 2026.
+Zip is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ZENNER, Berlin on Fri, 2 Oct 2026.
 
 Zip is a minimal and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: ZENNER, Berlin on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ Zip is a minimal and house artist based in Germany, with 69 gigs on soundcheck a
 
 ## Recently played
 
+- ZENNER, Berlin · Fri, 2 Oct 2026
 - Tokonoma Club, Frankfurt · Sat, 12 Sept 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 - Castell de BEN Viure, Barcelona · Fri, 19 Jun 2026
@@ -20,10 +21,9 @@ Zip is a minimal and house artist based in Germany, with 69 gigs on soundcheck a
 - The Loft, Manchester · Fri, 10 Apr 2026
 - Circolo degli Illuminati, Rome · Sat, 28 Mar 2026
 - BLITZ, Munich · Fri, 27 Mar 2026
-- ASIAT Park, Brussels · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Sammy Dee, Ricardo Villalobos, Margaret Dygas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*

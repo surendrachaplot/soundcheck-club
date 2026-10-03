@@ -1,6 +1,6 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Timo Lee is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
 Timo Lee is a house and disco artist based in United States of America, with 107 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Timo Lee is a house and disco artist based in United States of America, with 107
 
 Yurk, Armii1n, Carozilla
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*

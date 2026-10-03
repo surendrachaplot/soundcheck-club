@@ -1,18 +1,17 @@
 # So36
 
-So36 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "¡MASH-UP! 10 Years of the Party Series - LIVE Mercenárias (Post-Punk - São Paulo)" on Fri, 2 Oct 2026.
+So36 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "SPORTS (US), POOL GIRL (US) — live in Berlin" on Mon, 2 Nov 2026.
 
-So36 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including GIN_, House Of Grace and PUTAS VAMPIRAS. See dates, start times and who's playing. Oranienstraße 190, 10999 Berlin, Germany.
+So36 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Oranienstraße 190, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | ¡MASH-UP! 10 Years of the Party Series - LIVE Mercenárias (Post-Punk - São Paulo) | GIN_, House Of Grace, PUTAS VAMPIRAS |
 | Mon, 2 Nov 2026 | SPORTS (US), POOL GIRL (US) — live in Berlin |  |
 
 ## Address
 
 Oranienstraße 190, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/so36/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/so36/)*

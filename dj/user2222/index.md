@@ -1,6 +1,6 @@
 # User2222
 
-User2222 is a Experimental and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 16 Oct 2026.
+User2222 is a Experimental and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 16 Oct 2026.
 
 User2222 is an experimental and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dundee and 4 more. Often billed alongside BABii, DJ GHEPARD and Jennifer Walton. Next up: EXIT Glasgow, Glasgow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ User2222 is an experimental and tech house artist based in United Kingdom, with 
 
 BABii, DJ GHEPARD, Jennifer Walton
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user2222/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user2222/)*

@@ -1,6 +1,6 @@
 # maxim_jl
 
-maxim_jl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+maxim_jl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 maxim_jl is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Munich. Often billed alongside Nikklaas, Bákayan and Julian Sander. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ maxim_jl is a techno and house artist based in Germany, with 17 gigs on soundche
 
 Nikklaas, Bákayan, Julian Sander
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim_jl/)*

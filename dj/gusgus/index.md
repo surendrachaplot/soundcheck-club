@@ -1,6 +1,6 @@
 # Gus Gus
 
-Gus Gus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Gus Gus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Gus Gus is a techno and house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Canary Islands and Iceland and 5 more. Often billed alongside Ephemeris, Agatha Pher and Agzilla. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Gus Gus is a techno and house artist, with 10 gigs on soundcheck across Barcelon
 
 Ephemeris, Agatha Pher, Agzilla
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*

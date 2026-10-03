@@ -1,6 +1,6 @@
 # Showtek
 
-Showtek is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Showtek is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Showtek is a techno and hardcore artist based in Netherlands, with 19 gigs on soundcheck across Chicago, Denver, Düsseldorf and Gdansk and 11 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Showtek is a techno and hardcore artist based in Netherlands, with 19 gigs on so
 
 Coone, Darren Styles, Afrojack
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*

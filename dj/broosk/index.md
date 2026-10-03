@@ -1,6 +1,6 @@
 # Broosk
 
-Broosk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bulldog Palace, Naples on Fri, 23 Oct 2026.
+Broosk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bulldog Palace, Naples on Fri, 23 Oct 2026.
 
 Broosk is a tech house and house artist based in Italy, with 22 gigs on soundcheck across Barcelona, Naples and Portland. Often billed alongside Alex Bohemien, Cristian Volpe and Key Eff. Next up: The Bulldog Palace, Naples on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Broosk is a tech house and house artist based in Italy, with 22 gigs on soundche
 
 Alex Bohemien, Cristian Volpe, Key Eff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*

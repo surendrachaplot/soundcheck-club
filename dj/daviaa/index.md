@@ -1,6 +1,6 @@
 # Daviaa
 
-Daviaa is a Baile Funk and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Point Ephémère, Paris on Sat, 24 Oct 2026.
+Daviaa is a Baile Funk and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Point Ephémère, Paris on Sat, 24 Oct 2026.
 
 Daviaa is a baile funk and latin bass artist based in United Kingdom, with 32 gigs on soundcheck across Dublin, Geneva, Leeds and Lisbon and 6 more. Often billed alongside Blue Canarinho, LOELASH and Bia Marques. Next up: Point Ephémère, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Daviaa is a baile funk and latin bass artist based in United Kingdom, with 32 gi
 
 Blue Canarinho, LOELASH, Bia Marques
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviaa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviaa/)*

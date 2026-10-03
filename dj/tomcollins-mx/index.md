@@ -1,6 +1,6 @@
 # Tom & Collins
 
-Tom & Collins is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Tom & Collins is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
 
 Tom & Collins are a house and tech house duo, with 61 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 19 more. Often billed alongside Claptone, Hugel and Yamagucci. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
 
@@ -25,4 +25,4 @@ Tom & Collins are a house and tech house duo, with 61 gigs on soundcheck across 
 
 Claptone, Hugel, Yamagucci
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*

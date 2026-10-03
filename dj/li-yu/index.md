@@ -1,6 +1,6 @@
 # LI-YU
 
-LI-YU is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
+LI-YU is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Toffler, Rotterdam on Sat, 10 Oct 2026.
 
 LI-YU is a deep house and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Ibiza, London and Rotterdam and 1 more. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: Toffler, Rotterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LI-YU is a deep house and house artist based in Netherlands, with 30 gigs on sou
 
 Ben Diggins, LIMA (NL), select motion
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*

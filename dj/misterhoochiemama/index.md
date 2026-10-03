@@ -1,6 +1,6 @@
 # Mister Hoochiemama
 
-Mister Hoochiemama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Decibel, Chicago on Sat, 3 Oct 2026.
+Mister Hoochiemama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Decibel, Chicago on Sat, 3 Oct 2026.
 
 Mister Hoochiemama is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Chicago, Los Angeles, San Francisco/Oakland and Toronto. Often billed alongside Mister Wallace, Miss Twink USA and Club Chow. Next up: Decibel, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mister Hoochiemama is a house and techno artist based in United States of Americ
 
 Mister Wallace, Miss Twink USA, Club Chow
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misterhoochiemama/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misterhoochiemama/)*

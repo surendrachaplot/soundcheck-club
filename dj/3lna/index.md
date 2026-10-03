@@ -1,6 +1,6 @@
 # 3LNA
 
-3LNA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
+3LNA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
 
 3LNA is a techno and breakbeat artist based in Germany, with 45 gigs on soundcheck across Basel, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Hello Sasy, P.Vanillaboy and EliaHaze. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 Hello Sasy, P.Vanillaboy, EliaHaze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3lna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3lna/)*

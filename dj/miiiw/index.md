@@ -1,6 +1,6 @@
 # MiiiW
 
-MiiiW is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
+MiiiW is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
 
 MiiiW is a techno and house artist based in Canada, with 14 gigs on soundcheck across Vancouver. Often billed alongside kish, POPU and DK PAU. Next up: 1201 Franklin St, Vancouver on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ MiiiW is a techno and house artist based in Canada, with 14 gigs on soundcheck a
 
 kish, POPU, DK PAU
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miiiw/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miiiw/)*

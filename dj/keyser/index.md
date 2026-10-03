@@ -1,6 +1,6 @@
 # Keyser
 
-Keyser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at C12, Brussels on Sat, 17 Oct 2026.
+Keyser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at C12, Brussels on Sat, 17 Oct 2026.
 
 Keyser is a techno and trance artist based in Russia, with 28 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Ampe, trillosta and EMILIJA. Next up: C12, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Keyser is a techno and trance artist based in Russia, with 28 gigs on soundcheck
 
 Ampe, trillosta, EMILIJA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyser/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyser/)*

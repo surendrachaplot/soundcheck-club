@@ -1,6 +1,6 @@
 # Edgar Cal
 
-Edgar Cal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
+Edgar Cal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
 
 Edgar Cal is a techno and house artist based in Canada, with 14 gigs on soundcheck across Vancouver. Often billed alongside Fizch, POPU and AWood. Next up: 1201 Franklin St, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Edgar Cal is a techno and house artist based in Canada, with 14 gigs on soundche
 
 Fizch, POPU, AWood
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarcal/)*

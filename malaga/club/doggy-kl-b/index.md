@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Surco 13th Anniversary" on Fri, 2 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Null Name Anniversary" on Sat, 3 Oct 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Daniel Kelsan and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Surco 13th Anniversary | DBlond, Daniel Kelsan, Jorgge Decar, Unreal Vibes, rubbio |
 | Sat, 3 Oct 2026 | Null Name Anniversary | FLAKØ, GØNGOM, Nitrile Affair, Noctive, Reisender, Spingel, VNSTY |
 | Fri, 9 Oct 2026 | Groove Mates: Onemas invites Nitrile Affair | Nitrile Affair, Onemas |
 | Sat, 10 Oct 2026 | Checa + RDS |  |
@@ -23,4 +22,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming gigs, w
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

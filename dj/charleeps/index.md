@@ -1,6 +1,6 @@
 # Charleeps
 
-Charleeps is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+Charleeps is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
 
 Charleeps is a house and techno artist based in France, with 42 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside Break A Leg, A-440 and Jenny Cara. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Charleeps is a house and techno artist based in France, with 42 gigs on soundche
 
 Break A Leg, A-440, Jenny Cara
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleeps/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleeps/)*

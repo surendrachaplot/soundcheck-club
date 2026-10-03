@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Masada, Milan on Sun, 11 Oct 2026.
+Seb Odyssey is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Masada, Milan on Sun, 11 Oct 2026.
 
 Seb Odyssey is a house and deep house artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Leeds, London and Manchester and 2 more. Often billed alongside Jade Seatle, Josh Caffé and FAFF. Next up: Masada, Milan on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Seb Odyssey is a house and deep house artist based in United Kingdom, with 48 gi
 
 Jade Seatle, Josh Caffé, FAFF
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

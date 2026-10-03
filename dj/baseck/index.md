@@ -1,6 +1,6 @@
 # Baseck
 
-Baseck is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
+Baseck is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
 
 Baseck is a hardcore and techno artist, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Flapjack, Thrasher and 4LOKA. Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Baseck is a hardcore and techno artist, with 43 gigs on soundcheck across Amster
 
 Flapjack, Thrasher, 4LOKA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baseck/)*

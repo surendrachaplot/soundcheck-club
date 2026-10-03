@@ -1,6 +1,6 @@
 # riccard.o0
 
-riccard.o0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+riccard.o0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 riccard.o0 is a techno and electro artist based in Italy, with 29 gigs on soundcheck across Liverpool, London, Manchester and Tbilisi. Often billed alongside Concierge, OP(99) and Desiree'. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ riccard.o0 is a techno and electro artist based in Italy, with 29 gigs on soundc
 
 Concierge, OP(99), Desiree'
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccard.o0/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccard.o0/)*

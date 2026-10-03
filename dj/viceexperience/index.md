@@ -1,6 +1,6 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The People Lyon, Lyon on Fri, 9 Oct 2026.
+Vice Experience is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - The People Lyon, Lyon on Fri, 9 Oct 2026.
 
 Vice Experience is a techno and house artist based in France, with 143 gigs on soundcheck across Brussels, Buenos Aires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - The People Lyon, Lyon on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Vice Experience is a techno and house artist based in France, with 143 gigs on s
 
 euler, French Phil, GLAD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

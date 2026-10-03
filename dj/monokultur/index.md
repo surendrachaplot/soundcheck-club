@@ -1,6 +1,6 @@
 # Monokultur
 
-Monokultur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
+Monokultur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
 
 Monokultur is a house and disco artist based in Lebanon, with 14 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside Pascal Fischer, Ronin (LB) and Ana Molina. Next up: OXI, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Monokultur is a house and disco artist based in Lebanon, with 14 gigs on soundch
 
 Pascal Fischer, Ronin (LB), Ana Molina
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monokultur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monokultur/)*

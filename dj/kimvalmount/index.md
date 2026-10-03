@@ -1,6 +1,6 @@
 # Kim Valmount
 
-Kim Valmount is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
+Kim Valmount is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
 
 Kim Valmount is a techno and trance artist, with 7 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig. Often billed alongside Ninette, Skungal and 01100110. Next up: WDM, Hannover on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Kim Valmount is a techno and trance artist, with 7 gigs on soundcheck across Ber
 
 Ninette, Skungal, 01100110
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimvalmount/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimvalmount/)*

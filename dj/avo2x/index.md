@@ -1,6 +1,6 @@
 # AVO2X
 
-AVO2X is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Market33, Austria on Sat, 3 Oct 2026.
+AVO2X is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Market33, Austria on Sat, 3 Oct 2026.
 
 AVO2X is a techno and trance artist based in Austria, with 24 gigs on soundcheck across Austria, Berlin, Cologne and Vienna. Often billed alongside ENJA, Spud Bencer and DJ Backstage. Next up: Market33, Austria on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ AVO2X is a techno and trance artist based in Austria, with 24 gigs on soundcheck
 
 ENJA, Spud Bencer, DJ Backstage
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avo2x/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avo2x/)*

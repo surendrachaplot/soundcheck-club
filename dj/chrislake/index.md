@@ -1,6 +1,6 @@
 # Chris Lake
 
-Chris Lake is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OMNIA Dayclub, Las-vegas on Sat, 3 Oct 2026.
+Chris Lake is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OMNIA Dayclub, Las-vegas on Sat, 3 Oct 2026.
 
 Chris Lake is a house and tech house artist based in United Kingdom, with 76 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 25 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: OMNIA Dayclub, Las Vegas on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Chris Lake is a house and tech house artist based in United Kingdom, with 76 gig
 
 FISHER, Loco Dice, Boys Noize
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*

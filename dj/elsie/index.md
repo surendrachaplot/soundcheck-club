@@ -1,6 +1,6 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Elsie is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Elsie is a house and electronica artist based in Australia, with 36 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Adriana, Babycino and DJ Luv You. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Elsie is a house and electronica artist based in Australia, with 36 gigs on soun
 
 Adriana (1), Babycino, DJ Luv You
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

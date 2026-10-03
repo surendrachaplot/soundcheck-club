@@ -1,15 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 42 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Grey Lantern presents: GB [AD93] / Organ Tapes" on Fri, 2 Oct 2026.
+The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "YOUTH: Duster Valentine / Grace Sands / Lyster" on Sat, 3 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 42 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Grey Lantern presents: GB [AD93] / Organ Tapes | Organ Tapes |
-| Fri, 2 Oct 2026 | Helena Hauff {extended} / DJ MELL G | DJ MELL G, Helena Hauff |
 | Sat, 3 Oct 2026 | YOUTH: Duster Valentine / Grace Sands / Lyster | DJ Lyster, Grace Sands |
 | Tue, 6 Oct 2026 | The Beauty Witch presents: Dagmar Zuniga |  |
 | Thu, 8 Oct 2026 | Self: Vanessa Bedoret, Magnus Westwell, Needle | Magnus Westwell, Vanessa Bedoret |
@@ -18,9 +16,11 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 42 upcoming
 | Sun, 11 Oct 2026 | LACE: TBA |  |
 | Sun, 11 Oct 2026 | LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó | Lupini, Miss Kittin, Nestor (IE) |
 | Tue, 13 Oct 2026 | Toast Club |  |
+| Thu, 15 Oct 2026 | Grey Lantern presents: DITZ / Bathing Suits | DITZ |
+| Fri, 16 Oct 2026 | High Hoops w/ Jennifer Loveless, Ivy F, Myka, d. clemente & Fastlove | Fastlove, Ivy F, Jennifer Loveless, d. clemente |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

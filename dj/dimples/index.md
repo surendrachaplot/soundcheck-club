@@ -1,6 +1,6 @@
 # Dimples
 
-Dimples is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
+Dimples is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
 
 Dimples is a house and disco artist, with 11 gigs on soundcheck across Los Angeles. Often billed alongside EYAL WAND, Dj Kerry and Dor Wand. Next up: TBA - address will be sent to ticket holders, Los Angeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dimples is a house and disco artist, with 11 gigs on soundcheck across Los Angel
 
 EYAL WAND, Dj Kerry, Dor Wand
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimples/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimples/)*

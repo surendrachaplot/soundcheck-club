@@ -1,6 +1,6 @@
 # DJ Magal
 
-DJ Magal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Quinta Catedral Ciudad del Este, Paraguay on Fri, 9 Oct 2026.
+DJ Magal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quinta Catedral Ciudad del Este, Paraguay on Fri, 9 Oct 2026.
 
 DJ Magal is a house and techno artist based in Brazil, with 23 gigs on soundcheck across Paraguay and Sao Paulo. Often billed alongside Vermelho, Andre Salata and Brune. Next up: Quinta Catedral Ciudad del Este, Paraguay on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Magal is a house and techno artist based in Brazil, with 23 gigs on soundchec
 
 Vermelho, Andre Salata, Brune
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmagal/)*

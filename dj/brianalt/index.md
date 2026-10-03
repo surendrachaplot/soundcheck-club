@@ -1,6 +1,6 @@
 # Brian Alt
 
-Brian Alt is a Funk / Soul and Afro House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Marula Cafe, Barcelona on Mon, 5 Oct 2026.
+Brian Alt is a Funk / Soul and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Marula Cafe, Barcelona on Mon, 5 Oct 2026.
 
 Brian Alt is a funk / soul and afro house artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside YULIE and REPE. Next up: Marula Cafe, Barcelona on Mon 5 Oct.
 
@@ -24,4 +24,4 @@ Brian Alt is a funk / soul and afro house artist based in Spain, with 8 gigs on 
 
 YULIE, REPE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianalt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianalt/)*

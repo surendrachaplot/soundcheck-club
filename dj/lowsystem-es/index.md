@@ -1,6 +1,6 @@
 # Lowsystem
 
-Lowsystem is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+Lowsystem is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
 Lowsystem is a techno and electronica artist based in Spain, with 26 gigs on soundcheck across Barcelona, London, Madrid and Porto. Often billed alongside MÄEM, Audiolux and Blaark. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lowsystem is a techno and electronica artist based in Spain, with 26 gigs on sou
 
 MÄEM, Audiolux, Blaark
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsystem-es/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsystem-es/)*

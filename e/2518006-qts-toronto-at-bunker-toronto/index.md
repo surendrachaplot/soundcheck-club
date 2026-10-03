@@ -1,6 +1,6 @@
 # QTS: Toronto at Bunker Toronto
 
-QTS: Toronto at Bunker Toronto on Fri 16 Oct, Toronto. 1 artist: Farius. Progressive House and Trance. See the line-up on soundcheck.
+QTS: Toronto at Bunker Toronto on Fri 16 Oct, Toronto. 2 artists: Farius and Solarstone. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ QTS: Toronto at Bunker Toronto on Fri 16 Oct, Toronto. 1 artist: Farius. Progres
 ## Line-up
 
 - Farius
+- Solarstone
 
 *Source: [soundcheck](https://soundcheck.club/e/2518006-qts-toronto-at-bunker-toronto/)*

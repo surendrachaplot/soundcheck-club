@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Top Floor, Newcastle on Fri, 2 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
 
-Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Top Floor, Newcastle on Fri 2 Oct.
+Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: FOLD, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Top Floor | Newcastle |
 | Sat, 3 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
@@ -20,9 +19,11 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gig
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 31 Oct 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | The Bassement | Madrid |
+| Fri, 13 Nov 2026 | The White Hotel | Manchester |
 
 ## Recently played
 
+- Top Floor, Newcastle · Fri, 2 Oct 2026
 - WaV, Liverpool · Sat, 19 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gig
 - Studio Club Malaga, Malaga · Fri, 4 Sept 2026
 - Southwark Park, London · Sun, 30 Aug 2026
 - Macadam, Nantes · Sat, 29 Aug 2026
-- Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 aalice, Steffi, Freddy K
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

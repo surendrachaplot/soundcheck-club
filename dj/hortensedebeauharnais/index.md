@@ -1,6 +1,6 @@
 # Hortense de Beauharnais
 
-Hortense de Beauharnais is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rex Club, Paris on Thu, 19 Nov 2026.
+Hortense de Beauharnais is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rex Club, Paris on Thu, 19 Nov 2026.
 
 Hortense de Beauharnais is a techno and trance artist based in France, with 19 gigs on soundcheck across Berlin, Lille, London and Lyon and 5 more. Often billed alongside uphoria, Christie and FLKN. Next up: Rex Club, Paris on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Hortense de Beauharnais is a techno and trance artist based in France, with 19 g
 
 uphoria, Christie, FLKN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hortensedebeauharnais/)*

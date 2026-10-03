@@ -1,6 +1,6 @@
 # The Cottons Club - Hoxton
 
-The Cottons Club - Hoxton is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "[CANCELLED] Jungle Brunch" on Sun, 4 Oct 2026.
+The Cottons Club - Hoxton is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "[CANCELLED] Jungle Brunch" on Sun, 4 Oct 2026.
 
 The Cottons Club - Hoxton is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Devious D and Wesley Jay. See dates, start times and who's playing. 45-47 HOXTON SQUARE N1 6PD.
 
@@ -14,4 +14,4 @@ The Cottons Club - Hoxton is a music venue in London listed on soundcheck. 1 upc
 
 45-47 HOXTON SQUARE N1 6PD, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cottons-club-hoxton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cottons-club-hoxton/)*

@@ -1,6 +1,6 @@
 # miszo
 
-miszo is a House and Ambient artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
+miszo is a House and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
 
 miszo is a house and ambient artist based in Germany, with 41 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside LACATY, Ale Hope and Atréju Mensah. Next up: Paloma, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ miszo is a house and ambient artist based in Germany, with 41 gigs on soundcheck
 
 LACATY, Ale Hope, Atréju Mensah
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miszo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miszo/)*

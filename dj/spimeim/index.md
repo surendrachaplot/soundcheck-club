@@ -1,6 +1,6 @@
 # SPIME.IM
 
-SPIME.IM is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
+SPIME.IM is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
 
 SPIME.IM is an experimental and electro artist based in Italy, with 11 gigs on soundcheck across Barcelona, Glasgow, London and Mexico City and 3 more. Often billed alongside Daito Manabe, Honeydrip and DATUM CUT. Next up: Beatrixgebouw, Utrecht on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ SPIME.IM is an experimental and electro artist based in Italy, with 11 gigs on s
 
 Daito Manabe, Honeydrip, DATUM CUT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spimeim/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spimeim/)*

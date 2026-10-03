@@ -1,6 +1,6 @@
 # Djé Djé from the block
 
-Djé Djé from the block is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 42 Marches, Paris on Sat, 31 Oct 2026.
+Djé Djé from the block is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Sat, 31 Oct 2026.
 
 Djé Djé from the block is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside Gabbor, MNBOO and AMAYO. Next up: 42 Marches, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Djé Djé from the block is a techno and trance artist based in France, with 39 
 
 Gabbor, MNBOO, AMAYO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*

@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+Osmosis Jones is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 
 IsGwan, Prizefight, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

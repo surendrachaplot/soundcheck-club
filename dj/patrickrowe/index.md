@@ -1,6 +1,6 @@
 # Patrick Rowe
 
-Patrick Rowe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
+Patrick Rowe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
 
 Patrick Rowe is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across London and North. Often billed alongside Gabriel Rai, Craig Richards and Enrica Falqui. Next up: Cellar, London on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Patrick Rowe is a techno and house artist based in United Kingdom, with 15 gigs 
 
 Gabriel Rai, Craig Richards, Enrica Falqui
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

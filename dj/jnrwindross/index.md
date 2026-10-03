@@ -1,6 +1,6 @@
 # Jnr Windross
 
-Jnr Windross is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UNLOCKED, London on Sat, 7 Nov 2026.
+Jnr Windross is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UNLOCKED, London on Sat, 7 Nov 2026.
 
 Jnr Windross is a deep house and house artist based in United Kingdom, with 21 gigs on soundcheck across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Boon (UK), Steven Cee and Artikal. Next up: UNLOCKED, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jnr Windross is a deep house and house artist based in United Kingdom, with 21 g
 
 Boon (UK), Steven Cee, Artikal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnrwindross/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnrwindross/)*

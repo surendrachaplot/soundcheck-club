@@ -1,6 +1,6 @@
 # KGR(n)
 
-KGR(n) is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Astral Industries × KGRn TOKYO" on Thu, 8 Oct 2026.
+KGR(n) is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Astral Industries × KGRn TOKYO" on Thu, 8 Oct 2026.
 
 KGR(n) is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Ario, Atsushi Izumi, C-KAY and Hems and 2 more. See dates, start times and who's playing. 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan.
 
@@ -17,4 +17,4 @@ KGR(n) is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with lin
 
 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan, Tokyo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kgr-n/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/kgr-n/)*

@@ -1,6 +1,6 @@
 # uuu7
 
-uuu7 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+uuu7 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
 uuu7 is a techno and house artist based in Japan, with 130 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Drinkss and EMILIO. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ uuu7 is a techno and house artist based in Japan, with 130 gigs on soundcheck ac
 
 SIGNAL (JP), Drinkss, EMILIO (3)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uuu7/)*

@@ -1,8 +1,8 @@
 # Linska
 
-Linska is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 9 Oct 2026.
+Linska is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Linska is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 17 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: Monarch, San Francisco/Oakland on Fri 9 Oct.
+Linska is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 17 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: Monarch, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Linska is a house and techno artist based in United Kingdom, with 46 gigs on sou
 | Sat, 24 Oct 2026 | Prysm Nightclub | Chicago |
 | Sat, 14 Nov 2026 | City Market | Los Angeles |
 | Sat, 21 Nov 2026 | Electric Brixton | London |
+| Fri, 4 Dec 2026 | 99 Scott Ave | New York City |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -30,4 +31,4 @@ Linska is a house and techno artist based in United Kingdom, with 46 gigs on sou
 
 Gorgon City, Eli Brown, Adam Beyer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

@@ -1,6 +1,6 @@
 # Sassmouth
 
-Sassmouth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Sun, 4 Oct 2026.
+Sassmouth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at smartbar, Chicago on Sun, 4 Oct 2026.
 
 Sassmouth is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Chicago, Denver, Detroit and New York City and 2 more. Often billed alongside Kiddo, Loqum and Bai-ee. Next up: smartbar, Chicago on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Sassmouth is a house and techno artist based in United States of America, with 2
 
 Kiddo, Loqum, Bai-ee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassmouth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassmouth/)*

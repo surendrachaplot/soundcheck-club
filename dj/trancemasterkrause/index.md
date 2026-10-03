@@ -1,14 +1,13 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Strasse E, Dresden on Fri, 2 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Helgas Stadtpalast, Mecklenburg-vorpommern on Sat, 3 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Strasse E, Dresden on Fri 2 Oct.
+Trancemaster Krause is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Helgas Stadtpalast, Mecklenburg Vorpommern on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Strasse E | Dresden |
 | Sat, 3 Oct 2026 | Helgas Stadtpalast | Mecklenburg-vorpommern |
 | Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
@@ -20,9 +19,11 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 201 gig
 | Fri, 27 Nov 2026 | Amp | Munster |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
+| Fri, 26 Feb 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Strasse E, Dresden · Fri, 2 Oct 2026
 - Grelle Forelle, Vienna · Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - Bootshaus, Cologne · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 201 gig
 - Fabrik, Madrid · Sat, 12 Sept 2026
 - Lehmann Club, Stuttgart · Fri, 11 Sept 2026
 - TBA, Melbourne · Sat, 5 Sept 2026
-- Home The Venue, Sydney · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

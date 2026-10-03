@@ -1,6 +1,6 @@
 # LockEight
 
-LockEight is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Roberta's, New York City on Sat, 10 Oct 2026.
+LockEight is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Roberta's, New York City on Sat, 10 Oct 2026.
 
 LockEight is a house and minimal artist based in Canada, with 13 gigs on soundcheck across New York City and Toronto. Often billed alongside Barbosa, ANDI WALL and Ammo Avenue. Next up: Roberta's, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LockEight is a house and minimal artist based in Canada, with 13 gigs on soundch
 
 Barbosa, ANDI WALL, Ammo Avenue
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lockeight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lockeight/)*

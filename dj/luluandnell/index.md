@@ -1,6 +1,6 @@
 # Lulu & Nell
 
-Lulu & Nell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
+Lulu & Nell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 9 Oct 2026.
 
 Lulu & Nell are a house and techno duo based in Germany, with 10 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside Boris & Davy, Davy (Crème Club) and boris (creme club). Next up: Renate, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lulu & Nell are a house and techno duo based in Germany, with 10 gigs on soundch
 
 Boris & Davy, Davy (Crème Club), boris (creme club)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*

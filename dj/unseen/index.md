@@ -1,6 +1,6 @@
 # UNSEEN
 
-UNSEEN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Transit, Amsterdam on Fri, 23 Oct 2026.
+UNSEEN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Transit, Amsterdam on Fri, 23 Oct 2026.
 
 UNSEEN is a techno and tech house artist based in Azerbaijan, with 14 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside MILAN MILANO, Einmusik and ANDATA. Next up: Transit, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ UNSEEN is a techno and tech house artist based in Azerbaijan, with 14 gigs on so
 
 MILAN MILANO, Einmusik, ANDATA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen/)*

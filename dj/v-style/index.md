@@ -1,6 +1,6 @@
 # V-STYLE
 
-V-STYLE is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DeTour, Tokyo on Wed, 21 Oct 2026.
+V-STYLE is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DeTour, Tokyo on Wed, 21 Oct 2026.
 
 V-STYLE is a techno and drum & bass artist, with 8 gigs on soundcheck across Paris and Tokyo. Often billed alongside Ben:Rodd, Fawzi Adjan and Miss Flora. Next up: DeTour, Tokyo on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ V-STYLE is a techno and drum & bass artist, with 8 gigs on soundcheck across Par
 
 Ben:Rodd, Fawzi Adjan, Miss Flora
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v-style/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v-style/)*

@@ -1,6 +1,6 @@
 # Ted Coyle
 
-Ted Coyle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 3 Oct 2026.
+Ted Coyle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 3 Oct 2026.
 
 Ted Coyle is a house and disco artist based in United Kingdom, with 30 gigs on soundcheck across Leeds. Often billed alongside Roya Brehl, Ellis Weeks and Phil Warner. Next up: The Doghouse bar & Record Store, Leeds on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ted Coyle is a house and disco artist based in United Kingdom, with 30 gigs on s
 
 Roya Brehl, Ellis Weeks, Phil Warner
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedcoyle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedcoyle/)*

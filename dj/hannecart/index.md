@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Hannecart is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Hannecart is a house and tech house artist based in Dominican Republic, with 100 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside Reiss, Alexia Glensy and Emvae. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -31,4 +31,4 @@ Hannecart is a house and tech house artist based in Dominican Republic, with 100
 
 Reiss, Alexia Glensy, Emvae
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

@@ -1,6 +1,6 @@
 # VINESSETT
 
-VINESSETT is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
+VINESSETT is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
 
 VINESSETT is a hip-hop and club artist, with 19 gigs on soundcheck across Berlin, Brussels, Paris and The Hague. Often billed alongside iced lattina, Brodinski and Fredoleboss. Next up: La Station - Gare des Mines, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ VINESSETT is a hip-hop and club artist, with 19 gigs on soundcheck across Berlin
 
 iced lattina, Brodinski, Fredoleboss
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinessett/)*

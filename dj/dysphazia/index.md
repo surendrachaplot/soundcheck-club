@@ -1,6 +1,6 @@
 # dysphazia
 
-dysphazia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
+dysphazia is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
 
 dysphazia is a techno and electro artist based in United States of America, with 12 gigs on soundcheck across Chicago and Detroit. Often billed alongside Flores Negras, Mister Hoochiemama and Veri Peri. Next up: Smoke & Mirrors, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ dysphazia is a techno and electro artist based in United States of America, with
 
 Flores Negras, Mister Hoochiemama, Veri Peri
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dysphazia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dysphazia/)*

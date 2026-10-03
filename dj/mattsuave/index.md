@@ -1,6 +1,6 @@
 # Matt Suave
 
-Matt Suave is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Meow Wolf Denver, Denver on Fri, 23 Oct 2026.
+Matt Suave is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Meow Wolf Denver, Denver on Fri, 23 Oct 2026.
 
 Matt Suave is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Chicago, Denver and Los Angeles and 5 more. Often billed alongside Alby Esc, Alex Costa and Aluna. Next up: Meow Wolf Denver, Denver on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Matt Suave is a house and tech house artist based in United States of America, w
 
 Alby Esc, Alex Costa, Aluna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsuave/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsuave/)*

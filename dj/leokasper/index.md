@@ -1,6 +1,6 @@
 # Leo Kasper
 
-Leo Kasper is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 16 Oct 2026.
+Leo Kasper is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 16 Oct 2026.
 
 Leo Kasper is a garage and house artist based in United States of America, with 9 gigs on soundcheck across Chicago. Often billed alongside Kai Castro, 2tipz and Agent O. Next up: Smoke & Mirrors, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Leo Kasper is a garage and house artist based in United States of America, with 
 
 Kai Castro, 2tipz, Agent O
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leokasper/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leokasper/)*

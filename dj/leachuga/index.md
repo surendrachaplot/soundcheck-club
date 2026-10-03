@@ -1,6 +1,6 @@
 # Lea Chuga
 
-Lea Chuga is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 17 Oct 2026.
+Lea Chuga is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 17 Oct 2026.
 
 Lea Chuga is a house and electronica artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Krokant, Phauna and Ligal Tamir. Next up: Klunkerkranich, Berlin on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Lea Chuga is a house and electronica artist based in Germany, with 8 gigs on sou
 
 Krokant, Phauna, Ligal Tamir
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leachuga/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leachuga/)*

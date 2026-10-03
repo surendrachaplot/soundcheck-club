@@ -1,6 +1,6 @@
 # Amity
 
-Amity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 11 Oct 2026.
+Amity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 11 Oct 2026.
 
 Amity is a house and techno artist based in Australia, with 13 gigs on soundcheck across Melbourne. Often billed alongside Jack Colletta, Adam Trace and Boogs. Next up: Revolver Upstairs, Melbourne on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Amity is a house and techno artist based in Australia, with 13 gigs on soundchec
 
 Jack Colletta, Adam Trace, Boogs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amity/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amity/)*

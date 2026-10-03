@@ -1,6 +1,6 @@
 # Xiumei
 
-Xiumei is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Vancouver on Sat, 3 Oct 2026.
+Xiumei is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Vancouver on Sat, 3 Oct 2026.
 
 Xiumei is a techno and bass artist based in Canada, with 22 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Bronsön, EtOH and IHA (CA). Next up: TBA, Vancouver on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Xiumei is a techno and bass artist based in Canada, with 22 gigs on soundcheck a
 
 Bronsön, EtOH, IHA (CA)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*

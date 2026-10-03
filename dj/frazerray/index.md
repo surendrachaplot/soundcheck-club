@@ -1,6 +1,6 @@
 # Frazer Ray
 
-Frazer Ray is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Frazer Ray is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Frazer Ray is a garage and breakbeat artist based in United Kingdom, with 77 gigs on soundcheck across Antwerp, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside mixtress, Fliss Mayo and Jay Carder. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Frazer Ray is a garage and breakbeat artist based in United Kingdom, with 77 gig
 
 mixtress, Fliss Mayo, Jay Carder
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*

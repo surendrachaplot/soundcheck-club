@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "PROTEINE invites: Blazej Malinowski, Pyramidal Decode, Ex.Hale, SVR" on Sat, 3 Oct 2026.
+Duel Club is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PROTEINE invites: Blazej Malinowski, Pyramidal Decode, Ex.Hale, SVR" on Sat, 3 Oct 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 3 upcoming gigs, with line-ups including Blazej Malinowski, Cassius, Ex.Hale and Pyramidal Decode. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -16,4 +16,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 3 upcoming gigs, with
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

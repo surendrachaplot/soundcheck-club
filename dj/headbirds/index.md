@@ -1,6 +1,6 @@
 # Headbirds
 
-Headbirds is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Moog Club, Barcelona on Fri, 16 Oct 2026.
+Headbirds is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moog Club, Barcelona on Fri, 16 Oct 2026.
 
 Headbirds is a techno and club artist based in Spain, with 21 gigs on soundcheck across Barcelona. Often billed alongside GuyOhm, Facets and Jairo Uría. Next up: Moog Club, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Headbirds is a techno and club artist based in Spain, with 21 gigs on soundcheck
 
 GuyOhm, Facets, Jairo Uría
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headbirds/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headbirds/)*

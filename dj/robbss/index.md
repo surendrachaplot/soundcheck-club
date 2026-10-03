@@ -1,6 +1,6 @@
 # ROBBSS
 
-ROBBSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cieloterra, Rome on Fri, 9 Oct 2026.
+ROBBSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cieloterra, Rome on Fri, 9 Oct 2026.
 
 ROBBSS is a techno and trance artist, with 18 gigs on soundcheck across Rome. Often billed alongside Max Raponi, GIANO and SP3RISH. Next up: Cieloterra, Rome on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ROBBSS is a techno and trance artist, with 18 gigs on soundcheck across Rome. Of
 
 Max Raponi, GIANO (2), SP3RISH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbss/)*

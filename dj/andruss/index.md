@@ -1,6 +1,6 @@
 # Andruss
 
-Andruss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Andruss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Andruss is a house and tech house artist based in Mexico, with 35 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Cloonee, Detlef and Green Velvet. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Andruss is a house and tech house artist based in Mexico, with 35 gigs on soundc
 
 Cloonee, Detlef, Green Velvet
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andruss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andruss/)*

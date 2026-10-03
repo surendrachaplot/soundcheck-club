@@ -1,6 +1,6 @@
 # ZoéZo
 
-ZoéZo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Jalousy, Brussels on Sat, 3 Oct 2026.
+ZoéZo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jalousy, Brussels on Sat, 3 Oct 2026.
 
 ZoéZo is a house and disco artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Brussels, Ghent and Hamburg. Often billed alongside Deejames, Lathouwers and WLC (BE). Next up: Jalousy, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ZoéZo is a house and disco artist based in Belgium, with 13 gigs on soundcheck 
 
 Deejames, Lathouwers, WLC (BE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo/)*

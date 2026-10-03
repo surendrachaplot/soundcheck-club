@@ -1,6 +1,6 @@
 # ENFAN
 
-ENFAN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
+ENFAN is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
 
 ENFAN is a techno and hardcore artist based in United States of America, with 33 gigs on soundcheck across Antwerp, Berlin, Cologne and Lyon and 6 more. Often billed alongside KARAH, Cassie Raptor and Lolalita. Next up: Mia Mao, Paris on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ENFAN is a techno and hardcore artist based in United States of America, with 33
 
 KARAH, Cassie Raptor, Lolalita
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*

@@ -1,6 +1,6 @@
 # Caroune
 
-Caroune is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
+Caroune is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
 
 Caroune is a dub and techno artist based in United Kingdom, with 20 gigs on soundcheck across London and Paris. Often billed alongside 9dwa, Andy Martin and Labyrinthine. Next up: Avalon Cafe Bermondsey, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Caroune is a dub and techno artist based in United Kingdom, with 20 gigs on soun
 
 9dwa, Andy Martin, Labyrinthine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caroune/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caroune/)*

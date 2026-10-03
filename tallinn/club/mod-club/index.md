@@ -1,6 +1,6 @@
 # MOD Club
 
-MOD Club is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MOD CLUB: umru [pc music]" on Sat, 7 Nov 2026.
+MOD Club is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MOD CLUB: umru [pc music]" on Sat, 7 Nov 2026.
 
 MOD Club is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including Evanora Unlimited and umru. See dates, start times and who's playing. Paavli tn 9.
 
@@ -15,4 +15,4 @@ MOD Club is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with
 
 Paavli tn 9, Tallinn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod-club/)*

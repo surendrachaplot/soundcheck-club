@@ -1,6 +1,6 @@
 # Riva + Bianca
 
-Riva + Bianca is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Paradise Lakes, New-jersey on Thu, 1 Oct 2026.
+Riva + Bianca is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Paradise Lakes, New-jersey on Thu, 1 Oct 2026.
 
 Riva + Bianca are a house and tech house duo based in United States of America, with 66 gigs on soundcheck across Miami, New Jersey, New York City and Philadelphia and 1 more. Often billed alongside Firestone, Ben Arsenal and Blanco Rabbit. Next up: TBA - Paradise Lakes, New Jersey on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Riva + Bianca are a house and tech house duo based in United States of America, 
 
 Firestone, Ben Arsenal, Blanco Rabbit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*

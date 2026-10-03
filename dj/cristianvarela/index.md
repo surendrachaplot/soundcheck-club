@@ -1,6 +1,6 @@
 # Cristian Varela
 
-Cristian Varela is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fabrik, Madrid on Sat, 17 Oct 2026.
+Cristian Varela is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
 Cristian Varela is a techno and tech house artist based in Spain, with 70 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Dj Pepo, Ramiro Lopez and Abel Ramos. Next up: Fabrik, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Cristian Varela is a techno and tech house artist based in Spain, with 70 gigs o
 
 Dj Pepo, Ramiro Lopez, Abel Ramos
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*

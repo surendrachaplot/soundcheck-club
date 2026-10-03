@@ -1,6 +1,6 @@
 # Bam Bam's Boogie
 
-Bam Bam's Boogie is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Fri, 9 Oct 2026.
+Bam Bam's Boogie is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Urban Spree, Berlin on Fri, 9 Oct 2026.
 
 Bam Bam's Boogie is an electronica and experimental artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside 2001 Space Odyssey, Al_Massimo and Casual Treatment. Next up: Urban Spree, Berlin on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Bam Bam's Boogie is an electronica and experimental artist based in Germany, wit
 
 2001 Space Odyssey, Al_Massimo, Casual Treatment
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambamsboogie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambamsboogie/)*

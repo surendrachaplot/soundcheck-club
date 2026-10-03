@@ -1,6 +1,6 @@
 # The Brahma
 
-The Brahma is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lark, Berlin on Fri, 6 Nov 2026.
+The Brahma is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lark, Berlin on Fri, 6 Nov 2026.
 
 The Brahma is a disco and house artist based in Morocco, with 18 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Flaaviø, Arnaud Denzler and Cliff Colada. Next up: Lark, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ The Brahma is a disco and house artist based in Morocco, with 18 gigs on soundch
 
 Flaaviø, Arnaud Denzler, Cliff Colada
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrahma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrahma/)*

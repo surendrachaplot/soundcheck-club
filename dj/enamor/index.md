@@ -1,6 +1,6 @@
 # ENAMOR
 
-ENAMOR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
+ENAMOR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
 
 ENAMOR is a techno and trance artist based in France, with 32 gigs on soundcheck across Montreal and Toronto. Often billed alongside JOG MODE, No Police and SCHNUBB. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ ENAMOR is a techno and trance artist based in France, with 32 gigs on soundcheck
 
 JOG MODE, No Police, SCHNUBB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamor/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enamor/)*

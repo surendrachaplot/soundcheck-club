@@ -1,6 +1,6 @@
 # LUNÁTICA
 
-LUNÁTICA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Green Room NYC, New York City on Sat, 24 Oct 2026.
+LUNÁTICA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Sat, 24 Oct 2026.
 
 LUNÁTICA is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Buenos Aires, Mexico City and New York City. Often billed alongside Cyb3r Bull, ROCCO (FIGA) and Stealthy. Next up: Green Room NYC, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LUNÁTICA is a techno and house artist based in United States of America, with 2
 
 Cyb3r Bull, ROCCO (FIGA), Stealthy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatica/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatica/)*

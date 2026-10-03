@@ -1,6 +1,6 @@
 # Sarica
 
-Sarica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sarica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sarica is a techno and house artist based in Croatia, with 75 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Hong Kong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Sarica is a techno and house artist based in Croatia, with 75 gigs on soundcheck
 
 RIØ (DE), Sub.Vision, Rosan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*

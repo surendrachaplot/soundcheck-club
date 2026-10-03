@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 3 Oct 2026.
+TOT (BR) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 3 Oct 2026.
 
 TOT (BR) is a house and minimal artist based in Brazil, with 9 gigs on soundcheck across Barcelona, Berlin, London and Sao Paulo. Often billed alongside Gartzzea, Silat Beksi and Bttologic. Next up: 303 Audiophile Bar, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ TOT (BR) is a house and minimal artist based in Brazil, with 9 gigs on soundchec
 
 Gartzzea, Silat Beksi, Bttologic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

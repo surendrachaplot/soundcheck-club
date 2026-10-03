@@ -1,6 +1,6 @@
 # MYRNE
 
-MYRNE is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 620 Jones, San Francisco/Oakland on Sat, 3 Oct 2026.
+MYRNE is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 620 Jones, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 MYRNE is a progressive house and house artist based in Singapore, with 11 gigs on soundcheck across Denver, London, New York City and San Diego and 4 more. Often billed alongside Robby East, Lane 8 and Ashibah. Next up: 620 Jones, San Francisco/Oakland on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MYRNE is a progressive house and house artist based in Singapore, with 11 gigs o
 
 Robby East, Lane 8, Ashibah
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrne/)*

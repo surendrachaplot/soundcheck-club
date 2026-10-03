@@ -1,6 +1,6 @@
 # Tetric
 
-Tetric is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Tetric is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Tetric is an electro and techno artist based in Spain, with 6 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Queixal. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Tetric is an electro and techno artist based in Spain, with 6 gigs on soundcheck
 
 Ana Alves, Hades PRX, Queixal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tetric/)*

@@ -1,6 +1,6 @@
 # Moplen
 
-Moplen is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bluesquare, Milan on Fri, 9 Oct 2026.
+Moplen is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bluesquare, Milan on Fri, 9 Oct 2026.
 
 Moplen is a disco and house artist based in Italy, with 13 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Giles Smith, Pal Joey and LEV (UK). Next up: Bluesquare, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Moplen is a disco and house artist based in Italy, with 13 gigs on soundcheck ac
 
 Giles Smith, Pal Joey, LEV (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moplen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moplen/)*

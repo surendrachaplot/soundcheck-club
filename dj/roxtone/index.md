@@ -1,6 +1,6 @@
 # Roxtone
 
-Roxtone is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Roxtone is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Roxtone is a house and minimal artist based in Germany, with 15 gigs on soundcheck across Düsseldorf and Tbilisi. Often billed alongside Ericsson, Generali Minerali and Gio Shengelia. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Roxtone is a house and minimal artist based in Germany, with 15 gigs on soundche
 
 ## Recently played
 
+- Loco Park, Tbilisi · Fri, 2 Oct 2026
 - KHIDI, Tbilisi · Sat, 12 Sept 2026
 - KHIDI, Tbilisi · Sat, 30 May 2026
 - Meteor Studio, Tbilisi · Fri, 22 May 2026
@@ -19,10 +20,9 @@ Roxtone is a house and minimal artist based in Germany, with 15 gigs on soundche
 - TES, Tbilisi · Wed, 31 Dec 2025
 - Kick, Tbilisi · Sat, 13 Sept 2025
 - Mtkvarze, Tbilisi · Fri, 30 May 2025
-- TES, Tbilisi · Fri, 23 May 2025
 
 ## Shares bills with
 
 Ericsson, Generali Minerali, Gio Shengelia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxtone/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxtone/)*

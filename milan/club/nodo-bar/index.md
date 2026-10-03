@@ -1,6 +1,6 @@
 # Nodo Bar
 
-Nodo Bar is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "qualcosa qualcosa" on Fri, 2 Oct 2026.
+Nodo Bar is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "qualcosa qualcosa" on Fri, 2 Oct 2026.
 
 Nodo Bar is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Nodo Bar is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | qualcosa qualcosa |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nodo-bar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nodo-bar/)*

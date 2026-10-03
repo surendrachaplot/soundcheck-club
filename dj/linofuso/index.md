@@ -1,6 +1,6 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
+Lino Fuso is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
 
 Lino Fuso is a techno and tech house artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: E1, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Lino Fuso is a techno and tech house artist based in Italy, with 65 gigs on soun
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

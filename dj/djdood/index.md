@@ -1,6 +1,6 @@
 # DJ dood
 
-DJ dood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Platform 9, Vancouver on Sat, 3 Oct 2026.
+DJ dood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Platform 9, Vancouver on Sat, 3 Oct 2026.
 
 DJ dood is a house and techno artist based in Canada, with 39 gigs on soundcheck across Vancouver. Often billed alongside Max Ulis, Fisher Bryce and Lerma. Next up: TBA - Platform 9, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ dood is a house and techno artist based in Canada, with 39 gigs on soundcheck
 
 Max Ulis, Fisher Bryce, Lerma
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*

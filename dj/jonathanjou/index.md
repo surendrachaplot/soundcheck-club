@@ -1,6 +1,6 @@
 # Jonathan Jou
 
-Jonathan Jou is a Dub Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at LugarOSO, Mexico City on Sat, 17 Oct 2026.
+Jonathan Jou is a Dub Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at LugarOSO, Mexico City on Sat, 17 Oct 2026.
 
 Jonathan Jou is a dub techno and minimal artist based in Spain, with 7 gigs on soundcheck across Mexico City. Often billed alongside José Trejo, AHNDO and Anali. Next up: LugarOSO, Mexico City on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Jonathan Jou is a dub techno and minimal artist based in Spain, with 7 gigs on s
 
 José Trejo, AHNDO, Anali
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanjou/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanjou/)*

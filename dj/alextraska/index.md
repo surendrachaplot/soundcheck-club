@@ -1,6 +1,6 @@
 # Alex Traska
 
-Alex Traska is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Movers, Nottingham on Sat, 21 Nov 2026.
+Alex Traska is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Movers, Nottingham on Sat, 21 Nov 2026.
 
 Alex Traska is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across Nottingham. Often billed alongside Brawther, Flat White Chris and Giles Smith. Next up: Movers, Nottingham on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Alex Traska is a house and disco artist based in United Kingdom, with 11 gigs on
 
 Brawther, Flat White Chris, Giles Smith
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextraska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextraska/)*

@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "FLAW Collective: Next Up (Free Entry - FLINTA DJs All Night)" on Fri, 2 Oct 2026.
+Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G" on Sat, 3 Oct 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including alex.aubyn, Aquamarine, Backseat Driver and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bubbles (UK) and Danielle and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | FLAW Collective: Next Up (Free Entry - FLINTA DJs All Night) | MYNA, TB-316, alex.aubyn |
 | Sat, 3 Oct 2026 | Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G | Ol.G, Porter Brook, sleepsang |
 | Fri, 9 Oct 2026 | Silicone Carbide: Shfoosja, TB-316, dj natasha | Shfoosja, TB-316 |
 | Fri, 16 Oct 2026 | Hard Ballet with Danielle | Danielle, FM Arlo, Jacksa |
@@ -23,4 +22,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

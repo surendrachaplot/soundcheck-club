@@ -1,6 +1,6 @@
 # Francisco Allendes
 
-Francisco Allendes is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Francisco Allendes is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Francisco Allendes is a tech house and house artist based in Chile, with 62 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 14 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Francisco Allendes is a tech house and house artist based in Chile, with 62 gigs
 
 Raul Rodriguez, Andrea Oliva, Chelina Manuhutu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*

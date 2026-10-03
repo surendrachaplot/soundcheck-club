@@ -1,6 +1,6 @@
 # Farah (2)
 
-Farah (2) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Farah (2) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Farah is a progressive house and techno artist based in Morocco, with 13 gigs on soundcheck across Brussels, Istanbul, Lyon and Marseille and 1 more. Often billed alongside Mouataz, P errine and Salma Rosa. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Farah is a progressive house and techno artist based in Morocco, with 13 gigs on
 
 Mouataz, P errine, Salma Rosa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farah-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farah-2/)*

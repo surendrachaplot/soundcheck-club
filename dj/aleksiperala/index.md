@@ -1,6 +1,6 @@
 # Aleksi Perälä
 
-Aleksi Perälä is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ikii, Berlin on Thu, 15 Oct 2026.
+Aleksi Perälä is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ikii, Berlin on Thu, 15 Oct 2026.
 
 Aleksi Perälä is an experimental and ambient artist based in Finland, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Wata Igarashi, CEB (FI) and Jolly (FR). Next up: Ikii, Berlin on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Aleksi Perälä is an experimental and ambient artist based in Finland, with 17 
 
 Wata Igarashi, CEB (FI), Jolly (FR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksiperala/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksiperala/)*

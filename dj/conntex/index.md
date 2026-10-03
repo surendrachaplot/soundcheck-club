@@ -1,6 +1,6 @@
 # Conntex
 
-Conntex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
+Conntex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
 
 Conntex is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Helsinki, London and Munich and 2 more. Often billed alongside Blck-Swan, Alex Friday and Artifex (DE). Next up: Ääniwalli, Helsinki on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Conntex is a techno and house artist based in Germany, with 23 gigs on soundchec
 
 Blck-Swan, Alex Friday, Artifex (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*

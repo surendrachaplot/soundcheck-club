@@ -1,6 +1,6 @@
 # LPM (1)
 
-LPM (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Racket Space, Dublin on Sat, 17 Oct 2026.
+LPM (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Racket Space, Dublin on Sat, 17 Oct 2026.
 
 LPM is a techno and house artist based in Ireland, with 14 gigs on soundcheck across Detroit and Dublin. Often billed alongside Derv, JWY and JUSTDYL. Next up: The Racket Space, Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LPM is a techno and house artist based in Ireland, with 14 gigs on soundcheck ac
 
 Derv, JWY (1), JUSTDYL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpm-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpm-1/)*

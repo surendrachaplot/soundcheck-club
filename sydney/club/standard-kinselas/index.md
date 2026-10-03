@@ -1,6 +1,6 @@
 # Standard, Kinselas
 
-Standard, Kinselas is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Revolution - The Launch" on Sat, 10 Oct 2026.
+Standard, Kinselas is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Revolution - The Launch" on Sat, 10 Oct 2026.
 
 Standard, Kinselas is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 383 Bourke St, Darlinghurst.
 
@@ -14,4 +14,4 @@ Standard, Kinselas is a music venue in Sydney listed on soundcheck. 1 upcoming g
 
 383 Bourke St, Darlinghurst, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/standard-kinselas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/standard-kinselas/)*

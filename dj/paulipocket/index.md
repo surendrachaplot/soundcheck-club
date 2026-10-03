@@ -1,6 +1,6 @@
 # Pauli Pocket
 
-Pauli Pocket is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
+Pauli Pocket is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
 
 Pauli Pocket is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 14 more. Often billed alongside Foolik, Sascha Cawa and Britta Arnold. Next up: Ritter Butzke, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pauli Pocket is a techno and house artist based in Germany, with 134 gigs on sou
 
 Foolik, Sascha Cawa, Britta Arnold
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulipocket/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulipocket/)*

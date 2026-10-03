@@ -1,6 +1,6 @@
 # Diane
 
-Diane is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+Diane is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 Diane is a house and electro artist, with 12 gigs on soundcheck across Brussels, Paris and Seoul. Often billed alongside Bande de Filles, El Hey and Mely. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Diane is a house and electro artist, with 12 gigs on soundcheck across Brussels,
 
 Bande de Filles, El Hey, Mely
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diane/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diane/)*

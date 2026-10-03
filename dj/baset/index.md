@@ -1,6 +1,6 @@
 # Baset
 
-Baset is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Baset is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
 Baset is a house and techno artist based in Egypt, with 12 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 5 more. Often billed alongside AMARE, Abstraal and Anyma. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Baset is a house and techno artist based in Egypt, with 12 gigs on soundcheck ac
 
 AMARE, Abstraal, Anyma
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*

@@ -1,6 +1,6 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Carlos Valdes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 Carlos Valdes is a house and techno artist based in Netherlands, with 144 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Carlos Valdes is a house and techno artist based in Netherlands, with 144 gigs o
 
 TITIA, Vuur, Muallem
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

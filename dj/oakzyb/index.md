@@ -1,6 +1,6 @@
 # Oakzy B
 
-Oakzy B is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
+Oakzy B is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Classic Grand, Glasgow on Fri, 4 Dec 2026.
 
 Oakzy B is a hardcore and house artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow. Often billed alongside MC Tiny, AISHA and MC Stretch. Next up: The Classic Grand, Glasgow on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Oakzy B is a hardcore and house artist based in United Kingdom, with 8 gigs on s
 
 MC Tiny, AISHA, MC Stretch
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oakzyb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oakzyb/)*

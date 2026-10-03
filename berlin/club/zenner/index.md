@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "...GET PERLONIZED" on Fri, 2 Oct 2026.
+ZENNER is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "...GET PERLONIZED" on Fri, 2 Oct 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksi Perälä, Alexia, Alex Jenkin and Bex and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -18,4 +18,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with li
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

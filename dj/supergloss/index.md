@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Supergloss is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
+Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Smoke & Mirrors | Chicago |
@@ -20,9 +19,11 @@ Supergloss is a techno and trance artist based in Germany, with 217 gigs on soun
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
+| Sat, 28 Nov 2026 | Schrotty | Cologne |
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - Nitsa Club, Barcelona · Sat, 26 Sept 2026
 - La Cité Fertile, Paris · Sun, 20 Sept 2026
 - FOLD, London · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Supergloss is a techno and trance artist based in Germany, with 217 gigs on soun
 - Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
 - Factory Town, Miami · Sun, 6 Sept 2026
 - Industry City, New York City · Sat, 5 Sept 2026
-- Industry City, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

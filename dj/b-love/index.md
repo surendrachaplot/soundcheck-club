@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Utopia, Los Angeles on Fri, 2 Oct 2026.
+B.Love is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Utopia, Los Angeles on Fri, 2 Oct 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 15 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Utopia, Los Angeles on Fri 2 Oct.
 
@@ -18,6 +18,7 @@ B.Love is a house and tech house artist based in United Kingdom, with 92 gigs on
 
 ## Recently played
 
+- Utopia, Los Angeles · Fri, 2 Oct 2026
 - Arcana, San Francisco/Oakland · Sat, 26 Sept 2026
 - Outer Heaven, New York City · Fri, 25 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
@@ -25,10 +26,9 @@ B.Love is a house and tech house artist based in United Kingdom, with 92 gigs on
 - Bricks, London · Sat, 5 Sept 2026
 - The Fox and Firkin, London · Sat, 1 Aug 2026
 - Gaffe, London · Sat, 25 Jul 2026
-- Studio Stereo, Barcelona · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

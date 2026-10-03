@@ -1,6 +1,6 @@
 # TEE EM DEE
 
-TEE EM DEE is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
+TEE EM DEE is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
 TEE EM DEE is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Anna Collecta, DAYE. and Deo'jorge. Next up: McCarren Park, New York City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ TEE EM DEE is a house and deep house artist based in United States of America, w
 
 Anna Collecta, DAYE., Deo'jorge
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeemdee/)*

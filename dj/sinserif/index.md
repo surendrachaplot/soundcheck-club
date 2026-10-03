@@ -1,6 +1,6 @@
 # sin serif
 
-sin serif is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lark, Berlin on Sat, 3 Oct 2026.
+sin serif is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lark, Berlin on Sat, 3 Oct 2026.
 
 sin serif is a techno and bass artist based in Germany, with 28 gigs on soundcheck across Berlin. Often billed alongside KALI., dj latinchat and auto_timer. Next up: Lark, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ sin serif is a techno and bass artist based in Germany, with 28 gigs on soundche
 
 KALI., dj latinchat, auto_timer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinserif/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinserif/)*

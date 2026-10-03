@@ -1,6 +1,6 @@
 # Kino Todo
 
-Kino Todo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
+Kino Todo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at House of Yes, New York City on Sat, 17 Oct 2026.
 
 Kino Todo is a house and techno artist based in Israel, with 12 gigs on soundcheck across Boston, Budapest, Chicago and Ibiza and 3 more. Often billed alongside Daniel Santiago, Adis Is OK and Alan Dixon. Next up: House of Yes, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kino Todo is a house and techno artist based in Israel, with 12 gigs on soundche
 
 Daniel Santiago, Adis Is OK, Alan Dixon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinotodo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinotodo/)*

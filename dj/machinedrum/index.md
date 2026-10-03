@@ -1,6 +1,6 @@
 # Machinedrum
 
-Machinedrum is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Machinedrum is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Machinedrum is a bass and house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Bianca Oblivion, Conducta and Nia Archives. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
@@ -14,6 +14,7 @@ Machinedrum is a bass and house artist based in United States of America, with 6
 
 ## Recently played
 
+- Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - FS., Tokyo · Fri, 18 Sept 2026
 - FS., Tokyo · Fri, 28 Aug 2026
 - Nectar Lounge, Seattle · Fri, 12 Jun 2026
@@ -21,10 +22,9 @@ Machinedrum is a bass and house artist based in United States of America, with 6
 - Warehouse on Watts, Philadelphia · Sat, 30 May 2026
 - ZeyZey, Miami · Thu, 14 May 2026
 - Holocene, Portland · Sat, 9 May 2026
-- Public Works, San Francisco/Oakland · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Bianca Oblivion, Conducta, Nia Archives
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*

@@ -1,6 +1,6 @@
 # Tosha
 
-Tosha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
+Tosha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
 
 Tosha is a techno and tech house artist based in United States of America, with 12 gigs on soundcheck across Berlin, London, Philadelphia and Washington DC. Often billed alongside DJ T.E.C., Pervasive and 2theT. Next up: Prisma, Berlin on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Tosha is a techno and tech house artist based in United States of America, with 
 
 DJ T.E.C., Pervasive, 2theT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosha/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosha/)*

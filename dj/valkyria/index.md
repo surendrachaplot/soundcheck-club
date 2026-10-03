@@ -1,6 +1,6 @@
 # Valkyria
 
-Valkyria is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Sat, 3 Oct 2026.
+Valkyria is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Sat, 3 Oct 2026.
 
 Valkyria is a techno and psytrance artist based in United Kingdom, with 10 gigs on soundcheck across Barcelona and London. Often billed alongside InStatic, Jä Milk and AVANTIME. Next up: Unit 58, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Valkyria is a techno and psytrance artist based in United Kingdom, with 10 gigs 
 
 InStatic, Jä Milk, AVANTIME
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valkyria/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valkyria/)*

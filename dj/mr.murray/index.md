@@ -1,6 +1,6 @@
 # Mr. Murray
 
-Mr. Murray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Boston on Sat, 3 Oct 2026.
+Mr. Murray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Boston on Sat, 3 Oct 2026.
 
 Mr. Murray is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Berlin, Boston, Detroit and Miami and 4 more. Often billed alongside CAMILLA, 98dots and Daura. Next up: TBA, Boston on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Mr. Murray is a techno and house artist based in United States of America, with 
 
 CAMILLA, 98dots, Daura
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*

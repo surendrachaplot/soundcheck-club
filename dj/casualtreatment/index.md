@@ -1,6 +1,6 @@
 # Casual Treatment
 
-Casual Treatment is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
+Casual Treatment is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
 Casual Treatment is a techno and electronica artist based in France, with 37 gigs on soundcheck across Barcelona, Berlin, Denver and Detroit and 12 more. Often billed alongside Alfandi, Coquinati and Eric Oder. Next up: ://about blank, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Casual Treatment is a techno and electronica artist based in France, with 37 gig
 
 Alfandi, Coquinati, Eric Oder
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualtreatment/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casualtreatment/)*

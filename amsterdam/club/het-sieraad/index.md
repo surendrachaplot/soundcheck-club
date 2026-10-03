@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SLAPPED Amsterdam" on Fri, 2 Oct 2026.
+Het Sieraad is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nina de Koning (10H) + Special Guests" on Fri, 9 Oct 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Anthony Middleton and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Arc Music and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SLAPPED Amsterdam | Anthony Middleton, Cristina Lazic, Mitch Oliver, [ares] |
 | Fri, 9 Oct 2026 | Nina de Koning (10H) + Special Guests | DJUS, Disk Space, Nina de Koning |
 | Sat, 10 Oct 2026 | Hedda Stenberg Invites: Emanuel Satie - Ivory - Hedda Stenberg - Tonco b2b ARC | Arc Music, Emanuel Satie, Hedda Stenberg, Ivory, Tonco |
 | Fri, 16 Oct 2026 | Fabe B2B Fabio Santos (5hrs) - OG Sanja | Fabe, Fabio Santos |
@@ -18,9 +17,10 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs
 | Fri, 23 Oct 2026 | ADE - HRMNY W/ Rose Ringed & More | Huminal, Julia Linkogel, Nils Hoffmann, OSED, Rex the Dog, Rose Ringed |
 | Fri, 23 Oct 2026 | ADE - IPSO by Kölsch W/ Kölsch (4hrs) - Eelke Kleijn Live - Kotiēr | Eelke Kleijn, Kotiēr, Kölsch |
 | Sat, 24 Oct 2026 | Sasha b2b Patrice Baumel - 6hrs ADE | Patrice Bäumel, Sasha |
+| Sat, 24 Oct 2026 | Sasha b2b Patrice Baumel - 6hrs ADE |  |
 
 ## Address
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

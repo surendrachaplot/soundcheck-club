@@ -1,14 +1,13 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 27 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Studio Stereo x TiZi pres. Desirée Falessi, Monile" on Fri, 2 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 26 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Studio Stereo x Pineal x Laroom pres. JNJS" on Sat, 3 Oct 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 27 upcoming gigs, with line-ups including Adria (ES), Adrian Grösser, Alex Garcia and Alvaro Medina and 2 more. See dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, with line-ups including Adria (ES), Adrian Grösser, Alex Garcia and Alvaro Medina and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Studio Stereo x TiZi pres. Desirée Falessi, Monile | Desirée Falessi, Monile, Nate S.U, Sash (BCN) |
 | Sat, 3 Oct 2026 | Studio Stereo x Pineal x Laroom pres. JNJS | Angelo Cortines, JNJS, Mario Niain, max brachais |
 | Thu, 8 Oct 2026 | Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq | Frutis, Julia Konor, Ludviq |
 | Fri, 9 Oct 2026 | Studio Stereo x Jazzy pres. Alvaro Medina, Jordi Castell | Alvaro Medina, Ellich, FRAXA, Jordi Castell (1), PAULA GM |
@@ -18,5 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 16 Oct 2026 | Studio Stereo x Amores & Beyond pres. Yass & Mali | Liana, Pacome, Parea (FR), Yass & Mali |
 | Sat, 17 Oct 2026 | Studio Stereo x Smoothie Joints pres. David Triana | David Triana, MostWanted, Santacreu |
 | Thu, 22 Oct 2026 | Studio Stereo pres. Microdisco showcase | Mila Morr, Valdivia |
+| Fri, 23 Oct 2026 | Studio Stereo x Cupula Recordings pres. Nizar Sarakbi | Adria (ES), Nizar Sarakbi, Pau Rosés, Priorat |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

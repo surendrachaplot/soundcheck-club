@@ -1,6 +1,6 @@
 # Roxy Lotz
 
-Roxy Lotz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Roxy Lotz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Roxy Lotz is a house and disco artist based in Australia, with 20 gigs on soundcheck across Sydney. Often billed alongside Mina Tonic, SIILA and Waxlily. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Roxy Lotz is a house and disco artist based in Australia, with 20 gigs on soundc
 
 Mina Tonic, SIILA, Waxlily
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxylotz/)*

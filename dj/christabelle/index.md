@@ -1,6 +1,6 @@
 # Christa Belle
 
-Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Christa Belle is a house and disco artist based in Canada, with 26 gigs on soundcheck across Berlin and Vancouver. Often billed alongside DJ D.Dee, DJ Hannah and DJ Holographic. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Christa Belle is a house and disco artist based in Canada, with 26 gigs on sound
 
 DJ D.Dee, DJ Hannah, DJ Holographic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*

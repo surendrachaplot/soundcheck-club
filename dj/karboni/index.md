@@ -1,6 +1,6 @@
 # KARBONI
 
-KARBONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Arca, Milan on Sat, 17 Oct 2026.
+KARBONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Arca, Milan on Sat, 17 Oct 2026.
 
 KARBONI is a house and techno artist based in Italy, with 49 gigs on soundcheck across Athens, Bangkok, Barcelona and Istanbul and 8 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: Arca, Milan on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ KARBONI is a house and techno artist based in Italy, with 49 gigs on soundcheck 
 
 KARBO, Phill Prince, Carloalberto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*

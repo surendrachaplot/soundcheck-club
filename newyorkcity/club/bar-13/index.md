@@ -1,6 +1,6 @@
 # Bar 13
 
-Bar 13 is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BBY WOW TRIBUTE <3 - Reggaeton Dance Party" on Sat, 10 Oct 2026.
+Bar 13 is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BBY WOW TRIBUTE <3 - Reggaeton Dance Party" on Sat, 10 Oct 2026.
 
 Bar 13 is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including DJ E.M.. See dates, start times and who's playing. 35 East 13th Street; New York, NY 10003; United States.
 
@@ -18,4 +18,4 @@ Bar 13 is a music venue in New York City listed on soundcheck. 5 upcoming gigs, 
 
 35 East 13th Street; New York, NY 10003; United States, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*

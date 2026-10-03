@@ -1,6 +1,6 @@
 # DJ IP
 
-DJ IP is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+DJ IP is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 DJ IP is a trance and techno artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Rotterdam and 1 more. Often billed alongside Entasia, Fenrick and Hurts. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ IP is a trance and techno artist based in Netherlands, with 11 gigs on soundc
 
 Entasia, Fenrick, Hurts
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*

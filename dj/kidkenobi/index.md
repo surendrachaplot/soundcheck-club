@@ -1,6 +1,6 @@
 # Kid Kenobi
 
-Kid Kenobi is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat, 19 Dec 2026.
+Kid Kenobi is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat, 19 Dec 2026.
 
 Kid Kenobi is a house and breakbeat artist based in Australia, with 9 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Krafty Kuts, Mark Dynamix and Plump DJs. Next up: TBA - Felons Barrel Room, Manly Wharf, Sydney on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kid Kenobi is a house and breakbeat artist based in Australia, with 9 gigs on so
 
 Krafty Kuts, Mark Dynamix, Plump DJs
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*

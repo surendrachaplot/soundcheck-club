@@ -1,6 +1,6 @@
 # justUS
 
-justUS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Das Werk, Vienna on Sat, 3 Oct 2026.
+justUS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Werk, Vienna on Sat, 3 Oct 2026.
 
 justUS is a techno and house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 10 more. Often billed alongside MILLA LOU, Katzengold and Chris Plettenberg. Next up: Das Werk, Vienna on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ justUS is a techno and house artist based in Germany, with 105 gigs on soundchec
 
 MILLA LOU, Katzengold, Chris Plettenberg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justus/)*

@@ -1,6 +1,6 @@
 # Sound synthesis
 
-Sound synthesis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Club House at Gianpula Village, Malta on Fri, 9 Oct 2026.
+Sound synthesis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Fri, 9 Oct 2026.
 
 Sound synthesis is a techno and acid artist based in Malta, with 12 gigs on soundcheck across London, Malta, Manchester and Sheffield. Often billed alongside Acidulant, Sean Rickett and Damz. Next up: The Club House at Gianpula Village, Malta on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sound synthesis is a techno and acid artist based in Malta, with 12 gigs on soun
 
 Acidulant, Sean Rickett, Damz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsynthesis-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsynthesis-2/)*

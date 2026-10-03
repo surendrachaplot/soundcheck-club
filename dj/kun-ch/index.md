@@ -1,6 +1,6 @@
 # Kun (CH)
 
-Kun (CH) is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+Kun (CH) is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 Kun (CH) is a techno and dub artist, with 7 gigs on soundcheck across Shanghai and Tokyo. Often billed alongside Terax, 10000 (CN) and D A N D I. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -24,4 +24,4 @@ Kun (CH) is a techno and dub artist, with 7 gigs on soundcheck across Shanghai a
 
 Terax, 10000 (CN), D A N D I
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-ch/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-ch/)*

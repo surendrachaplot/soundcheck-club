@@ -1,6 +1,6 @@
 # 1111
 
-1111 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Cross Inn, London on Thu, 22 Oct 2026.
+1111 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at New Cross Inn, London on Thu, 22 Oct 2026.
 
 1111 is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Bristol and London. Often billed alongside Ben Malone, Drinks On Me and Stereoclip. Next up: New Cross Inn, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@
 
 Ben Malone, Drinks On Me, Stereoclip
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1111/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1111/)*

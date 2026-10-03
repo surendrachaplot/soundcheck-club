@@ -1,6 +1,6 @@
 # Uncle Dugs
 
-Uncle Dugs is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Brixton Jamm, London on Fri, 9 Oct 2026.
+Uncle Dugs is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Brixton Jamm, London on Fri, 9 Oct 2026.
 
 Uncle Dugs is a jungle and drum & bass artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: Brixton Jamm, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Uncle Dugs is a jungle and drum & bass artist based in United Kingdom, with 64 g
 
 The Ragga Twins, Nicky Blackmarket, DJ Brockie
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*

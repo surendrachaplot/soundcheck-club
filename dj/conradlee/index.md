@@ -1,6 +1,6 @@
 # Conrad Lee
 
-Conrad Lee is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
+Conrad Lee is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
 
 Conrad Lee is a house and deep house artist based in United Kingdom, with 54 gigs on soundcheck across Lisbon and London. Often billed alongside idaH, Hudson’s Choice and Ella Knight. Next up: The Glove That Fits, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Conrad Lee is a house and deep house artist based in United Kingdom, with 54 gig
 
 idaH, Hudson’s Choice, Ella Knight
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradlee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradlee/)*

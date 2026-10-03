@@ -1,6 +1,6 @@
 # Ubax
 
-Ubax is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Ubax is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Ubax is a bass and techno artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Leipzig and Tbilisi. Often billed alongside jass:minute, Babe Gorgeous and HIỀN ĐIÊN. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ Ubax is a bass and techno artist based in United Kingdom, with 24 gigs on soundc
 
 ## Recently played
 
+- TBA -  VARIOUS, Berlin · Fri, 2 Oct 2026
 - Lauschangriff, Berlin · Tue, 28 Apr 2026
 - Panke, Berlin · Sat, 7 Mar 2026
 - Paloma, Berlin · Thu, 26 Feb 2026
@@ -20,10 +21,9 @@ Ubax is a bass and techno artist based in United Kingdom, with 24 gigs on soundc
 - Lokschuppen Berlin, Berlin · Sat, 9 Aug 2025
 - Refuge Worldwide / Oona Bar, Berlin · Fri, 25 Jul 2025
 - Ferropolis, Leipzig · Fri, 18 Jul 2025
-- THF Radio / Torhaus, Berlin · Fri, 25 Apr 2025
 
 ## Shares bills with
 
 jass:minute, Babe Gorgeous, HIỀN ĐIÊN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ubax/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ubax/)*

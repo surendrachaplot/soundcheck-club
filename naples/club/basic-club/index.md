@@ -1,18 +1,17 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "ROOF x BASIC • Alex Neri + Innershades + Gretalos" on Fri, 2 Oct 2026.
+Basic Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates" on Sat, 3 Oct 2026.
 
-Basic Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Alessio Cristiano, Alex Neri, Alfonso Mauro and Fabio Stingo and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
+Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Alfonso Mauro, Fabio Stingo and Fabrizio Fattore and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | ROOF x BASIC • Alex Neri + Innershades + Gretalos | Alex Neri, Innershades |
 | Sat, 3 Oct 2026 | PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates | Fabio Stingo, Soulmates, Us Two |
 | Sat, 10 Oct 2026 | NEUHM • Omar S + Fabrizio Fattore | Fabrizio Fattore, Omar-S |
 | Fri, 16 Oct 2026 | VESUVIO GROOVE • Kenny Larkin + Gabriele Russo, Fizya | Fizya, Gabriele Russo, Kenny Larkin |
-| Sat, 17 Oct 2026 | SOULEXPRESS • John Talabot + ThanksMate | John Talabot, ThanksMate |
+| Sat, 17 Oct 2026 | SOULEXPRESS • Steven Julien pres. 808 Prince live + ThanksMate, Obbi | Obbi, Steven Julien, ThanksMate |
 | Sat, 24 Oct 2026 | TRAXMISSIONI • Simo Cell + Metilammina, Rainer Monaco | Metilammina, Simo Cell |
 | Fri, 30 Oct 2026 | PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro | Alessio Cristiano, Alfonso Mauro, Pancratio |
 | Sat, 31 Oct 2026 | BASIC • Theo Parrish All Night Long | Theo Parrish |
@@ -22,4 +21,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, wit
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

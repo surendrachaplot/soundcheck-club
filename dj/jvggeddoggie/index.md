@@ -1,6 +1,6 @@
 # JvggedDoggie
 
-JvggedDoggie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
+JvggedDoggie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
 
 JvggedDoggie is a techno and club artist based in Spain, with 39 gigs on soundcheck across Madrid. Often billed alongside TRIXYTRICKS, Pulpix and Nixy. Next up: Hangar48 Club, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ JvggedDoggie is a techno and club artist based in Spain, with 39 gigs on soundch
 
 TRIXYTRICKS, Pulpix, Nixy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvggeddoggie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvggeddoggie/)*

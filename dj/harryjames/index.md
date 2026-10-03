@@ -1,6 +1,6 @@
 # Harry James
 
-Harry James is a Acid and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Sat, 3 Oct 2026.
+Harry James is a Acid and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Carpet Shop, London on Sat, 3 Oct 2026.
 
 Harry James is an acid and ebm artist based in United Kingdom, with 33 gigs on soundcheck across Istanbul and London. Often billed alongside Rosie Ama, babyschön and C.A.R.. Next up: The Carpet Shop, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Harry James is an acid and ebm artist based in United Kingdom, with 33 gigs on s
 
 Rosie Ama, babyschön, C.A.R.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjames/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjames/)*

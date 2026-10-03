@@ -1,6 +1,6 @@
 # Luis Bonias
 
-Luis Bonias is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
+Luis Bonias is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
 
 Luis Bonias is a house and disco artist based in Spain, with 7 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Frankie G, Iñigo Díaz and Fes Bondat. Next up: Spook Club, Valencia on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Luis Bonias is a house and disco artist based in Spain, with 7 gigs on soundchec
 
 Frankie G, Iñigo Díaz, Fes Bondat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*

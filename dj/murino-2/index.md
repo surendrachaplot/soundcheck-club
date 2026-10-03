@@ -1,6 +1,6 @@
 # MURINO (2)
 
-MURINO (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 9 Oct 2026.
+MURINO (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 9 Oct 2026.
 
 MURINO is a techno artist, with 16 gigs on soundcheck across Milan and Rome. Often billed alongside Asymptote, Speedy J and Alarico. Next up: Circolo degli Illuminati, Rome on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MURINO is a techno artist, with 16 gigs on soundcheck across Milan and Rome. Oft
 
 Asymptote, Speedy J, Alarico
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murino-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murino-2/)*

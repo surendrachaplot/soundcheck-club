@@ -1,6 +1,6 @@
 # David Gomez
 
-David Gomez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SECRET WAREHOUSE, Cologne on Sat, 10 Oct 2026.
+David Gomez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET WAREHOUSE, Cologne on Sat, 10 Oct 2026.
 
 David Gomez is a tech house and house artist, with 7 gigs on soundcheck across Cologne, Los Angeles and San Francisco/Oakland. Often billed alongside Artsychoke, Ashley Anngora and LALENA. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ David Gomez is a tech house and house artist, with 7 gigs on soundcheck across C
 
 Artsychoke, Ashley Anngora, LALENA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgomez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgomez/)*

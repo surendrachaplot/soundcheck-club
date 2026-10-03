@@ -1,6 +1,6 @@
 # CZART
 
-CZART is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Fri, 16 Oct 2026.
+CZART is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Fri, 16 Oct 2026.
 
 CZART is a techno and house artist based in Poland, with 15 gigs on soundcheck across Warsaw. Often billed alongside SIBIGA, Kasia DVD and PNST. Next up: Smolna, Warsaw on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ CZART is a techno and house artist based in Poland, with 15 gigs on soundcheck a
 
 SIBIGA, Kasia DVD, PNST
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/czart/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/czart/)*

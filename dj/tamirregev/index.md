@@ -1,6 +1,6 @@
 # Tamir Regev
 
-Tamir Regev is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 3 Oct 2026.
+Tamir Regev is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 3 Oct 2026.
 
 Tamir Regev is a deep house and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Miami and New York City. Often billed alongside Guy Mantzur, Jessy Nimni and Nadav Vee. Next up: Do Not Sit On The Furniture, Miami on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tamir Regev is a deep house and house artist based in United States of America, 
 
 Guy Mantzur, Jessy Nimni, Nadav Vee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamirregev/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamirregev/)*

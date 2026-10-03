@@ -1,6 +1,6 @@
 # Sucowania
 
-Sucowania is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Evening, Seoul on Sat, 3 Oct 2026.
+Sucowania is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Evening, Seoul on Sat, 3 Oct 2026.
 
 Sucowania is a house and techno artist, with 56 gigs on soundcheck across Seoul. Often billed alongside FFAN, Juncheol and Kyper. Next up: Evening, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sucowania is a house and techno artist, with 56 gigs on soundcheck across Seoul.
 
 FFAN, Juncheol, Kyper
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucowania/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sucowania/)*

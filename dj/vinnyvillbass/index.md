@@ -1,6 +1,6 @@
 # Vinny Villbass
 
-Vinny Villbass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jaeger, Oslo on Sat, 24 Oct 2026.
+Vinny Villbass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jaeger, Oslo on Sat, 24 Oct 2026.
 
 Vinny Villbass is a house and deep house artist based in Norway, with 56 gigs on soundcheck across Berlin, Lisbon and Oslo. Often billed alongside G-HA, Olanskii and Daniel Vaz. Next up: Jaeger, Oslo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vinny Villbass is a house and deep house artist based in Norway, with 56 gigs on
 
 G-HA, Olanskii, Daniel Vaz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvillbass/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvillbass/)*

@@ -1,14 +1,13 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MÄX, Zurich on Fri, 2 Oct 2026.
+A.N.I. is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
+A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | MÄX | Zurich |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Fri, 16 Oct 2026 | OST | Berlin |
@@ -20,9 +19,11 @@ A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundche
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | TBA | Bremen |
+| Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 
 ## Recently played
 
+- MÄX, Zurich · Fri, 2 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 - Mia Mao, Paris · Fri, 11 Sept 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundche
 - Waschhaus, Berlin · Fri, 7 Aug 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
-- Donauinsel, Vienna · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

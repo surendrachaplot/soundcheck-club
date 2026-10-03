@@ -1,6 +1,6 @@
 # Genki Tanaka
 
-Genki Tanaka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
+Genki Tanaka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
 
 Genki Tanaka is a house and techno artist based in Japan, with 76 gigs on soundcheck across Melbourne, Osaka, Seoul and Sydney and 1 more. Often billed alongside Kamome, Peteza and TORAO. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Genki Tanaka is a house and techno artist based in Japan, with 76 gigs on soundc
 
 Kamome, Peteza, TORAO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genkitanaka/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genkitanaka/)*

@@ -1,6 +1,6 @@
 # Plugin Ears
 
-Plugin Ears is a Dubstep and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+Plugin Ears is a Dubstep and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 Plugin Ears is a dubstep and experimental artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Hovercat, Jim Bean and CP4C. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Plugin Ears is a dubstep and experimental artist, with 13 gigs on soundcheck acr
 
 Hovercat, Jim Bean, CP4C
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pluginears/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pluginears/)*

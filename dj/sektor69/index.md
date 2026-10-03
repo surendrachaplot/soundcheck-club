@@ -1,6 +1,6 @@
 # SEKTOR69
 
-SEKTOR69 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
+SEKTOR69 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
 SEKTOR69 is a techno and trance artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ SEKTOR69 is a techno and trance artist based in Germany, with 59 gigs on soundch
 
 Kø:lab, Anuuk, Cara Elizabeth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*

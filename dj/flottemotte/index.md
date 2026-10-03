@@ -1,6 +1,6 @@
 # Flotte Motte
 
-Flotte Motte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
+Flotte Motte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
 Flotte Motte is a house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Schlecksi, Droughtwerk and Kaldera. Next up: ://about blank, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Flotte Motte is a house and techno artist based in Germany, with 13 gigs on soun
 
 Schlecksi, Droughtwerk, Kaldera
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flottemotte/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flottemotte/)*

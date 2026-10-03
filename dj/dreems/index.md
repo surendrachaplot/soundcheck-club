@@ -1,6 +1,6 @@
 # Dreems
 
-Dreems is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Dreems is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 Dreems is a house and electronica artist based in Armenia, with 18 gigs on soundcheck across Berlin, Brisbane, Glasgow and London and 4 more. Often billed alongside Darcy Justice, Babycino and DJ Raff. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dreems is a house and electronica artist based in Armenia, with 18 gigs on sound
 
 Darcy Justice, Babycino, DJ Raff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreems/)*

@@ -1,6 +1,6 @@
 # VINY
 
-VINY is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Flash, Washington DC on Sat, 3 Oct 2026.
+VINY is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sat, 3 Oct 2026.
 
 VINY is a house and minimal artist based in Peru, with 37 gigs on soundcheck across New York City and Washington DC. Often billed alongside Jandro, Hirama and Bajro. Next up: Flash, Washington DC on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ VINY is a house and minimal artist based in Peru, with 37 gigs on soundcheck acr
 
 Jandro, Hirama, Bajro
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viny/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viny/)*

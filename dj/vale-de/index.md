@@ -1,6 +1,6 @@
 # Vale
 
-Vale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
+Vale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Vale is a techno and house artist based in Belgium, with 12 gigs on soundcheck across Basel, Berlin, Hamburg and Munich. Often billed alongside 2 Girls 1 Club, ALCATRAZ and AMO. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vale is a techno and house artist based in Belgium, with 12 gigs on soundcheck a
 
 2 Girls 1 Club, ALCATRAZ, AMO
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vale-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vale-de/)*

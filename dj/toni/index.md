@@ -1,6 +1,6 @@
 # TONI
 
-TONI is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Daikanyama ORD., Tokyo on Fri, 9 Oct 2026.
+TONI is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Daikanyama ORD., Tokyo on Fri, 9 Oct 2026.
 
 TONI is a jungle and drum & bass artist based in United States of America, with 26 gigs on soundcheck across Berlin, Hamburg, Ibiza and London and 4 more. Often billed alongside Daniel Morgenstern, Arman Shadow and DJ Tamsom. Next up: Daikanyama ORD., Tokyo on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ TONI is a jungle and drum & bass artist based in United States of America, with 
 
 Daniel Morgenstern, Arman Shadow, DJ Tamsom
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toni/)*

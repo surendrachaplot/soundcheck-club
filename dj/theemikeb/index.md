@@ -1,6 +1,6 @@
 # Thee Mike B
 
-Thee Mike B is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
+Thee Mike B is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
 Thee Mike B is a house and disco artist based in United States of America, with 44 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Ardalan, Giselle Peppers and Life on Planets. Next up: TBA, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Thee Mike B is a house and disco artist based in United States of America, with 
 
 Ardalan, Giselle Peppers, Life on Planets
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theemikeb/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theemikeb/)*

@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Valencia on Fri, 9 Oct 2026.
+Mike Shannon is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Valencia on Fri, 9 Oct 2026.
 
 Mike Shannon is a house and minimal artist based in Canada, with 63 gigs on soundcheck across Amsterdam, Auckland, Berlin and Buenos Aires and 15 more. Often billed alongside Stipé, DeWalta and Deadbeat. Next up: TBA, Valencia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mike Shannon is a house and minimal artist based in Canada, with 63 gigs on soun
 
 Stipé, DeWalta, Deadbeat
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

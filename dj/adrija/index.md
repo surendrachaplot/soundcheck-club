@@ -1,6 +1,6 @@
 # Adrija
 
-Adrija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Fri, 9 Oct 2026.
+Adrija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Fri, 9 Oct 2026.
 
 Adrija is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Aio, apøllo and isl&. Next up: Beate Uwe, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Adrija is a techno and house artist based in Germany, with 29 gigs on soundcheck
 
 Aio, apøllo, isl&
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*

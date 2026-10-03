@@ -1,6 +1,6 @@
 # PARTS
 
-PARTS is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Sat, 24 Oct 2026.
+PARTS is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 24 Oct 2026.
 
 PARTS is a progressive house and trance artist based in United Kingdom, with 14 gigs on soundcheck across Lisbon and London. Often billed alongside MXV (UK), Amber Stomp and Amy Wiles. Next up: Ministry Of Sound, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PARTS is a progressive house and trance artist based in United Kingdom, with 14 
 
 MXV (UK), Amber Stomp, Amy Wiles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*

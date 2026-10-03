@@ -1,6 +1,6 @@
 # 666.pastel
 
-666.pastel is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
+666.pastel is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
 
 666.pastel is a hardcore and techno artist based in Canada, with 33 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Rareasfck, Crushenhaus and Ms. GothicFish. Next up: Motorista Studio, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@
 
 Rareasfck, Crushenhaus, Ms. GothicFish
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*

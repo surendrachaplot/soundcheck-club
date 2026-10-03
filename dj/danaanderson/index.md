@@ -1,6 +1,6 @@
 # Dana Anderson
 
-Dana Anderson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
+Dana Anderson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
 
 Dana Anderson is a house and techno artist based in Germany, with 20 gigs on soundcheck across Hamburg and Stuttgart. Often billed alongside Antoine Baiser, Daunbert and Falke. Next up: Turtur, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dana Anderson is a house and techno artist based in Germany, with 20 gigs on sou
 
 Antoine Baiser, Daunbert, Falke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaanderson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaanderson/)*

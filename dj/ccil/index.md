@@ -1,6 +1,6 @@
 # ccil
 
-ccil is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NWHR, Montreal on Sat, 3 Oct 2026.
+ccil is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NWHR, Montreal on Sat, 3 Oct 2026.
 
 ccil is a techno and trance artist, with 21 gigs on soundcheck across Montreal. Often billed alongside Meen Moreen, ENAMOR and FASTNSOFT. Next up: NWHR, Montreal on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ ccil is a techno and trance artist, with 21 gigs on soundcheck across Montreal. 
 
 Meen Moreen, ENAMOR, FASTNSOFT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccil/)*

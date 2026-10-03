@@ -1,6 +1,6 @@
 # Diome
 
-Diome is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar v Krymský, Prague on Sat, 10 Oct 2026.
+Diome is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar v Krymský, Prague on Sat, 10 Oct 2026.
 
 Diome is a house and club artist based in Czech Republic, with 32 gigs on soundcheck across Prague. Often billed alongside Cubik, Da Moon and Brigitte Noir. Next up: Bar v Krymský, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Diome is a house and club artist based in Czech Republic, with 32 gigs on soundc
 
 Cubik, Da Moon, Brigitte Noir
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*

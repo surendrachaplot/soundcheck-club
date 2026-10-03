@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice M, Tom Boogizm " on Fri, 2 Oct 2026.
+Jasna 1 is a music venue in Warsaw with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more" on Sat, 3 Oct 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including 999999999, Akua, Altinbas and androgienia and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Akua, Altinbas and blastah and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | J1 x Unsound - SOFT LAUNCH PARTY: Donato Dozzy, dtekk, emerai B2B VI / Beatrice M, Tom Boogizm  | Beatrice M., Donato Dozzy, Tom Boogizm, Vi (PL), androgienia, dtekk, emerai |
 | Sat, 3 Oct 2026 | Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more | Emma DJ, Low Jack, Some Guest, VTSS, blastah, jul.ci |
 | Fri, 9 Oct 2026 | TAXOPHONE by Emil Zenko | Emil Zenko |
 | Fri, 9 Oct 2026 | J1 - Shadows: Altinbas, Cirkle LIVE, Hekato, MKO | Altinbas, Cirkle, Hekato, MKO (PL) |
@@ -22,4 +21,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

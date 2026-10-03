@@ -1,6 +1,6 @@
 # Frau Beji
 
-Frau Beji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+Frau Beji is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
 Frau Beji is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne and Wuppertal. Often billed alongside PICCELL, Foudjo and BARULHO WORLD. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Frau Beji is a techno and house artist based in Germany, with 7 gigs on soundche
 
 PICCELL, Foudjo, BARULHO WORLD
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fraubeji/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fraubeji/)*

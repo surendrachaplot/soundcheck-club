@@ -1,6 +1,6 @@
 # TMPLE
 
-TMPLE is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+TMPLE is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
 TMPLE is a house and downtempo artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Bali, Liverpool and London and 3 more. Often billed alongside Benji B, Biesmans and Carlita. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ TMPLE is a house and downtempo artist based in United Kingdom, with 18 gigs on s
 
 Benji B, Biesmans, Carlita
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmple/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmple/)*

@@ -1,6 +1,6 @@
 # Dima Kachan
 
-Dima Kachan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
+Dima Kachan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
 
 Dima Kachan is a techno and trance artist based in Belarus, with 33 gigs on soundcheck across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS. Next up: Crack Bellmer, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Dima Kachan is a techno and trance artist based in Belarus, with 33 gigs on soun
 
 Dolu, Syrphin, SDS (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimakachan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimakachan/)*

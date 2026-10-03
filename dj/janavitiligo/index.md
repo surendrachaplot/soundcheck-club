@@ -1,6 +1,6 @@
 # Jana Vitiligo
 
-Jana Vitiligo is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Jana Vitiligo is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 Jana Vitiligo is a house and progressive house artist based in Belgium, with 9 gigs on soundcheck across Amsterdam, Antwerp, Ghent and Ibiza. Often billed alongside Major K, Femmebot Grooves and Judoc. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jana Vitiligo is a house and progressive house artist based in Belgium, with 9 g
 
 Major K, Femmebot Grooves, Judoc
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*

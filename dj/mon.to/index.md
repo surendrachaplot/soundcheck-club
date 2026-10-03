@@ -1,6 +1,6 @@
 # Mon.To
 
-Mon.To is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Thu, 8 Oct 2026.
+Mon.To is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mia Mao, Paris on Thu, 8 Oct 2026.
 
 Mon.To is a techno and industrial artist based in France, with 21 gigs on soundcheck across Paris. Often billed alongside Double Trouble, Ingrid and JANEIN. Next up: Mia Mao, Paris on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Mon.To is a techno and industrial artist based in France, with 21 gigs on soundc
 
 Double Trouble (1), Ingrid, JANEIN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mon.to/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mon.to/)*

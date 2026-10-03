@@ -1,6 +1,6 @@
 # Jay Mitta
 
-Jay Mitta is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
+Jay Mitta is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
 Jay Mitta is an experimental and electronica artist based in Tanzania, with 16 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Catu Diosis, Crystallmess and Kampire. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Jay Mitta is an experimental and electronica artist based in Tanzania, with 16 g
 
 Catu Diosis, Crystallmess, Kampire
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*

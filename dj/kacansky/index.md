@@ -1,6 +1,6 @@
 # KACANSKY
 
-KACANSKY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
+KACANSKY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
 
 KACANSKY is a house and techno artist based in Serbia, with 14 gigs on soundcheck across Belgrade. Often billed alongside Mark Aasgier, Cosmic G and Pablo Bozzi. Next up: Drugstore Beograd, Belgrade on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KACANSKY is a house and techno artist based in Serbia, with 14 gigs on soundchec
 
 Mark Aasgier, Cosmic G, Pablo Bozzi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacansky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacansky/)*

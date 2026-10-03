@@ -1,6 +1,6 @@
 # Christopher Commander
 
-Christopher Commander is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cross, London on Sat, 24 Oct 2026.
+Christopher Commander is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cross, London on Sat, 24 Oct 2026.
 
 Christopher Commander is a house and deep house artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside Amours., HORN-E and Matteomie. Next up: The Cross, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Christopher Commander is a house and deep house artist based in United Kingdom, 
 
 Amours., HORN-E, Matteomie
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercommander/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercommander/)*

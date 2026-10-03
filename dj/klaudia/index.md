@@ -1,6 +1,6 @@
 # KLAUDIA
 
-KLAUDIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Smolna, Warsaw on Sat, 3 Oct 2026.
+KLAUDIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Sat, 3 Oct 2026.
 
 KLAUDIA is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin, Mexico City, Stockholm and Tokyo and 1 more. Often billed alongside Rosa Luxemburg, Amo (NO) and Farry. Next up: Smolna, Warsaw on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ KLAUDIA is a techno and house artist based in Germany, with 30 gigs on soundchec
 
 Rosa Luxemburg, Amo (NO), Farry
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudia/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudia/)*

@@ -1,6 +1,6 @@
 # Stella and The Longos
 
-Stella and The Longos is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bi Nuu, Berlin on Fri, 16 Oct 2026.
+Stella and The Longos is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bi Nuu, Berlin on Fri, 16 Oct 2026.
 
 Stella and The Longos are a disco and house duo based in France, with 14 gigs on soundcheck across Berlin, Brussels, Geneva and Hamburg and 3 more. Often billed alongside Stella Zekri, Ays (NL) and BASHKKA. Next up: Bi Nuu, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Stella and The Longos are a disco and house duo based in France, with 14 gigs on
 
 Stella Zekri, Ays (NL), BASHKKA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaandthelongos/)*

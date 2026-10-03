@@ -1,6 +1,6 @@
 # estro
 
-estro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
+estro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Fri, 9 Oct 2026.
 
 estro is a techno and house artist based in United States of America, with 65 gigs on soundcheck across Austin, London and New York City. Often billed alongside SENAIDA, Junkfile and A lana. Next up: TBA - 4211 Todd Ln Suite A, Austin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ estro is a techno and house artist based in United States of America, with 65 gi
 
 SENAIDA, Junkfile, A lana
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*

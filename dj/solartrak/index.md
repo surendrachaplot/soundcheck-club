@@ -1,6 +1,6 @@
 # Solartrak
 
-Solartrak is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Solartrak is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Solartrak is a tech house and garage artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam and London. Often billed alongside Wolf Auris, Huck Finn and Nicky Blackmarket. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Solartrak is a tech house and garage artist based in United Kingdom, with 20 gig
 
 Wolf Auris, Huck Finn, Nicky Blackmarket
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solartrak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solartrak/)*

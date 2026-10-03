@@ -1,6 +1,6 @@
 # Elnur
 
-Elnur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Elnur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 Elnur is a house and techno artist based in Ukraine, with 20 gigs on soundcheck across Berlin, Copenhagen, Krakow and Prague and 2 more. Often billed alongside Andrii., Eric (UA) and Olga Korol. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Elnur is a house and techno artist based in Ukraine, with 20 gigs on soundcheck 
 
 Andrii., Eric (UA), Olga Korol
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*

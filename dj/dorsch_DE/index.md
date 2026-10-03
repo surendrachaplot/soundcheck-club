@@ -1,6 +1,6 @@
 # Dorsch
 
-Dorsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at AMT, Berlin on Sat, 3 Oct 2026.
+Dorsch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at AMT, Berlin on Sat, 3 Oct 2026.
 
 Dorsch is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Caro Vola, Dela Nesto and Pilar Jordan. Next up: AMT, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dorsch is a house and techno artist based in Germany, with 27 gigs on soundcheck
 
 Caro Vola, Dela Nesto, Pilar Jordan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorsch_DE/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorsch_DE/)*

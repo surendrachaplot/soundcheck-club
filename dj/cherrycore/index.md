@@ -1,6 +1,6 @@
 # Cherry Core
 
-Cherry Core is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Cherry Core is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Cherry Core is a techno and drum & bass artist based in Germany, with 22 gigs on soundcheck across Berlin and Malta. Often billed alongside Honschu Lee, Upzet and Rene Oldenburg. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Cherry Core is a techno and drum & bass artist based in Germany, with 22 gigs on
 
 Honschu Lee, Upzet, Rene Oldenburg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrycore/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrycore/)*

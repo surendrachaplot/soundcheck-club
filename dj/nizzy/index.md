@@ -1,6 +1,6 @@
 # Nizzy
 
-Nizzy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
+Nizzy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
 
 Nizzy is a house and club artist based in Denmark, with 16 gigs on soundcheck across Copenhagen and Manchester. Often billed alongside Lewis Hunter, Samuel Rees and Niko Nuevo. Next up: Jolene, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nizzy is a house and club artist based in Denmark, with 16 gigs on soundcheck ac
 
 Lewis Hunter, Samuel Rees, Niko Nuevo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizzy/)*

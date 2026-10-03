@@ -1,6 +1,6 @@
 # Jesse Walker
 
-Jesse Walker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
+Jesse Walker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
 
 Jesse Walker is a house and disco artist based in United States of America, with 13 gigs on soundcheck across Vancouver. Often billed alongside Fisher Bryce, AVRY and AWood. Next up: TBA, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jesse Walker is a house and disco artist based in United States of America, with
 
 Fisher Bryce, AVRY, AWood
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewalker/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessewalker/)*

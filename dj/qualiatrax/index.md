@@ -1,6 +1,6 @@
 # Qualia Trax
 
-Qualia Trax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
+Qualia Trax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
 
 Qualia Trax is a house and techno artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 1 more. Often billed alongside Manta, Kosmovision and NoSpice. Next up: Kater, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Qualia Trax is a house and techno artist based in Germany, with 50 gigs on sound
 
 Manta, Kosmovision, NoSpice
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qualiatrax/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qualiatrax/)*

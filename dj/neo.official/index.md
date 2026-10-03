@@ -1,6 +1,6 @@
 # Neo.official
 
-Neo.official is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 9 Oct 2026.
+Neo.official is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 9 Oct 2026.
 
 Neo.official is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Nürnberg. Often billed alongside Cassa Cristano, NEO. and Mantraa. Next up: Airport Würzburg, Nürnberg on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Neo.official is a techno and trance artist based in Germany, with 35 gigs on sou
 
 Cassa Cristano, NEO., Mantraa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neo.official/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neo.official/)*

@@ -1,6 +1,6 @@
 # Rhino Clark
 
-Rhino Clark is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+Rhino Clark is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
 
 Rhino Clark is a club and house artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside Love Higher, Petal and sola system. Next up: Honey's, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rhino Clark is a club and house artist based in United States of America, with 2
 
 Love Higher, Petal, sola system
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinoclark/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinoclark/)*

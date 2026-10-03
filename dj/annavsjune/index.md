@@ -1,6 +1,6 @@
 # Anna Vs June
 
-Anna Vs June is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Anna Vs June is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 Anna Vs June are an electronica and acid duo, with 9 gigs on soundcheck across Athens, Edinburgh, Glasgow and Manchester. Often billed alongside Jan Van Angelopoulos, Pako Vega and Ana K Miller. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Anna Vs June are an electronica and acid duo, with 9 gigs on soundcheck across A
 
 Jan Van Angelopoulos, Pako Vega, Ana K Miller
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annavsjune/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annavsjune/)*

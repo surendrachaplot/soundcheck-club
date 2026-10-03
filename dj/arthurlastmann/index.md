@@ -1,6 +1,6 @@
 # Arthur Lastmann
 
-Arthur Lastmann is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
+Arthur Lastmann is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
 
 Arthur Lastmann is a house and disco artist based in France, with 24 gigs on soundcheck across London, Lyon, Marseille and Nantes and 3 more. Often billed alongside Into The Deep, Step Daw and Dance Attraction. Next up: Nido Marseille, Marseille on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Arthur Lastmann is a house and disco artist based in France, with 24 gigs on sou
 
 Into The Deep, Step Daw, Dance Attraction
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurlastmann/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurlastmann/)*

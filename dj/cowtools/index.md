@@ -1,6 +1,6 @@
 # Cow Tools
 
-Cow Tools is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Warehouse Location , Boston on Fri, 9 Oct 2026.
+Cow Tools is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Warehouse Location , Boston on Fri, 9 Oct 2026.
 
 Cow Tools is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Boston and New York City. Often billed alongside R-DNA, COVE(US) and Seo (US). Next up: TBA - Warehouse Location , Boston on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Cow Tools is a techno and house artist based in United States of America, with 1
 
 R-DNA, COVE(US), Seo (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*

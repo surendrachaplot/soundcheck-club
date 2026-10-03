@@ -1,6 +1,6 @@
 # Felix Patry
 
-Felix Patry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Système, Montreal on Thu, 15 Oct 2026.
+Felix Patry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Système, Montreal on Thu, 15 Oct 2026.
 
 Felix Patry is a techno and house artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Casa Kobrae, James Benjamin and Skin On Skin. Next up: Système, Montreal on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Felix Patry is a techno and house artist based in Canada, with 30 gigs on soundc
 
 Casa Kobrae, James Benjamin, Skin On Skin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*

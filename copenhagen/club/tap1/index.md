@@ -1,6 +1,6 @@
 # Tap1
 
-Tap1 is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Gravity Opera: CamelPhat - Copenhagen" on Sat, 3 Oct 2026.
+Tap1 is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gravity Opera: CamelPhat - Copenhagen" on Sat, 3 Oct 2026.
 
 Tap1 is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Aja Gulris, CamelPhat, Desaint (DK) and Eric Prydz and 2 more. See dates, start times and who's playing. Raffinaderivej 10, 2300 København S, Denmark.
 
@@ -16,4 +16,4 @@ Tap1 is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with 
 
 Raffinaderivej 10, 2300 København S, Denmark, Copenhagen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*

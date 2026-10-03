@@ -1,6 +1,6 @@
 # Danny Subsonic
 
-Danny Subsonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Minimal Bar, Berlin on Sat, 3 Oct 2026.
+Danny Subsonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Minimal Bar, Berlin on Sat, 3 Oct 2026.
 
 Danny Subsonic is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Fabian Fischbach, tzunamic and Anne-Sophie Selig. Next up: Minimal Bar, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Danny Subsonic is a techno and house artist based in Germany, with 11 gigs on so
 
 Fabian Fischbach, tzunamic, Anne-Sophie Selig
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysubsonic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannysubsonic/)*

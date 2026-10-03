@@ -1,6 +1,6 @@
 # Dr Donk
 
-Dr Donk is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Dr Donk is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Dr Donk is a hardcore and techno artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund Essen and 7 more. Often billed alongside Angerfist, Dimitri K and Lekkerfaces. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Dr Donk is a hardcore and techno artist based in Germany, with 13 gigs on soundc
 
 Angerfist, Dimitri K, Lekkerfaces
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*

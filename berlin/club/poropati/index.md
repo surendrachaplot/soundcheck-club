@@ -1,6 +1,6 @@
 # Poropati
 
-Poropati is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "NOFUTURE  PANNEL TALK / CONVERSATORIO on STAY CORE" on Tue, 6 Oct 2026.
+Poropati is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "NOFUTURE  PANNEL TALK / CONVERSATORIO on STAY CORE" on Tue, 6 Oct 2026.
 
 Poropati is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Weserstr. 79, 12059 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Poropati is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See da
 
 Weserstr. 79, 12059 Berlin, Germany, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/poropati/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/poropati/)*

@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air)" on Sat, 3 Oct 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air)" on Sat, 3 Oct 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, Alice Youngling and arnald and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

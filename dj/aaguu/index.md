@@ -1,8 +1,8 @@
 # AAGUU
 
-AAGUU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unmute, Hanoi on Sat, 3 Oct 2026.
+AAGUU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unmute, Hanoi on Sat, 3 Oct 2026.
 
-AAGUU is a house and techno artist, with 11 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 4 more. Often billed alongside DZ GAS, Gonno and JAKRIN. Next up: Unmute, Hanoi on Sat 3 Oct.
+AAGUU is a house and techno artist based in India, with 11 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 4 more. Often billed alongside DZ GAS, Gonno and JAKRIN. Next up: Unmute, Hanoi on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AAGUU is a house and techno artist, with 11 gigs on soundcheck across Bali, Bang
 
 DZ GAS, Gonno, JAKRIN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*

@@ -1,6 +1,6 @@
 # Michael Cignarale
 
-Michael Cignarale is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+Michael Cignarale is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
 Michael Cignarale is a house and disco artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Hamburg and London and 6 more. Often billed alongside Dee Diggs, Function and Jen Cardini. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Michael Cignarale is a house and disco artist based in United States of America,
 
 Dee Diggs, Function, Jen Cardini
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcignarale-cn/)*

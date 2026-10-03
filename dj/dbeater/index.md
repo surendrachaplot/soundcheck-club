@@ -1,6 +1,6 @@
 # dbeater
 
-dbeater is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+dbeater is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 dbeater is an electronica and experimental artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside acidhousewife3000, Vlad Zinn and ttttttttt. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ dbeater is an electronica and experimental artist based in United Kingdom, with 
 
 acidhousewife3000, Vlad Zinn, ttttttttt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbeater/)*

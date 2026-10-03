@@ -1,6 +1,6 @@
 # HMMND
 
-HMMND is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+HMMND is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
 
 HMMND is a techno artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Dalton Dist, Gridlock and Mist Gasp. Next up: Distillery N17, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ HMMND is a techno artist based in United Kingdom, with 12 gigs on soundcheck acr
 
 Dalton Dist, Gridlock, Mist Gasp
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmmnd/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmmnd/)*

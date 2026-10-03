@@ -1,6 +1,6 @@
 # Nark
 
-Nark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+Nark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
 Nark is a house and techno artist based in United States of America, with 67 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Succubass and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nark is a house and techno artist based in United States of America, with 67 gig
 
 Sharlese, Succubass, Enya Botello
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*

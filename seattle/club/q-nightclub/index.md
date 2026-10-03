@@ -1,14 +1,13 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 23 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Luke Alexander" on Fri, 2 Oct 2026.
+Q Nightclub is a music venue in Seattle with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nicky Romero" on Sat, 3 Oct 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 23 upcoming gigs, with line-ups including Bontan, Broken Hill, Ely Oaks and Joseph Capriati and 2 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 22 upcoming gigs, with line-ups including Bontan, Broken Hill, Ely Oaks and Joseph Capriati and 2 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Luke Alexander | Luke Alexander |
 | Sat, 3 Oct 2026 | Nicky Romero | Nicky Romero |
 | Sat, 3 Oct 2026 | VIPERACTIVE |  |
 | Thu, 8 Oct 2026 | FUQIT: Willo | Willo |
@@ -18,9 +17,10 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 23 upcoming gigs, 
 | Sat, 17 Oct 2026 | INQUISITIVE |  |
 | Thu, 22 Oct 2026 | FUQIT: Broken Hill | Broken Hill |
 | Fri, 23 Oct 2026 | TISOKI |  |
+| Sat, 24 Oct 2026 | The Resistance | The Resistance |
 
 ## Address
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

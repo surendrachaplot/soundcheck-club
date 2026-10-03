@@ -1,6 +1,6 @@
 # SunēX
 
-SunēX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+SunēX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
 SunēX is a techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow. Often billed alongside ITEM9, Frank Grime and TiLA. Next up: SWG3, Glasgow on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ SunēX is a techno and house artist based in United Kingdom, with 6 gigs on soun
 
 ITEM9, Frank Grime, TiLA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunex/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunex/)*

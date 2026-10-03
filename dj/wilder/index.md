@@ -1,6 +1,6 @@
 # Wilder
 
-Wilder is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Madam, Amsterdam on Fri, 16 Oct 2026.
+Wilder is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madam, Amsterdam on Fri, 16 Oct 2026.
 
 Wilder is a tech house and techno artist based in Italy, with 39 gigs on soundcheck across Amsterdam, Budapest, Ibiza and Naples and 1 more. Often billed alongside Aelita & Jane, Ale De Tuglie and Antonio Viani. Next up: Madam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Wilder is a tech house and techno artist based in Italy, with 39 gigs on soundch
 
 Aelita & Jane, Ale De Tuglie, Antonio Viani
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilder/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilder/)*

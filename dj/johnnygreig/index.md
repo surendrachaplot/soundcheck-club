@@ -1,6 +1,6 @@
 # Johnny Greig
 
-Johnny Greig is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
+Johnny Greig is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
 
 Johnny Greig is a techno and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow. Often billed alongside SKEEN, AKA DISPLAY and DEJA. Next up: La Cheetah Club, Glasgow on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Johnny Greig is a techno and minimal techno artist based in United Kingdom, with
 
 SKEEN, AKA DISPLAY, DEJA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygreig/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygreig/)*

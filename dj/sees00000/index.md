@@ -1,6 +1,6 @@
 # SEES00000
 
-SEES00000 is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+SEES00000 is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 SEES00000 is a techno and pop artist based in United States of America, with 9 gigs on soundcheck across Detroit, Los Angeles and San Diego. Often billed alongside Black Noi$e, Somewhere Special and BAE BAE. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ SEES00000 is a techno and pop artist based in United States of America, with 9 g
 
 Black Noi$e, Somewhere Special, BAE BAE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sees00000/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sees00000/)*

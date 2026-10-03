@@ -1,6 +1,6 @@
 # Thoom
 
-Thoom is a Hardcore and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Roadrunner, Boston on Mon, 26 Oct 2026.
+Thoom is a Hardcore and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Roadrunner, Boston on Mon, 26 Oct 2026.
 
 Thoom is a hardcore and experimental artist based in Lebanon, with 13 gigs on soundcheck across Boston, London, Los Angeles and New York City and 2 more. Often billed alongside Bassvictim, dj listen to ur heart and sydfalls. Next up: Roadrunner, Boston on Mon 26 Oct.
 
@@ -27,4 +27,4 @@ Thoom is a hardcore and experimental artist based in Lebanon, with 13 gigs on so
 
 Bassvictim, dj listen to ur heart, sydfalls
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*

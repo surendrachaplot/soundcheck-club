@@ -1,6 +1,6 @@
 # Cucumelo
 
-Cucumelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Absenta del Raval, Barcelona on Fri, 16 Oct 2026.
+Cucumelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Absenta del Raval, Barcelona on Fri, 16 Oct 2026.
 
 Cucumelo is a house and techno artist based in Spain, with 21 gigs on soundcheck across Barcelona, Buenos Aires and Paris. Often billed alongside Franco Brida, Lautaro Deem and Merlina P. Next up: Absenta del Raval, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Cucumelo is a house and techno artist based in Spain, with 21 gigs on soundcheck
 
 Franco Brida, Lautaro Deem, Merlina P
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucumelo/)*

@@ -1,6 +1,6 @@
 # Philipp Otterbach
 
-Philipp Otterbach is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+Philipp Otterbach is a Ambient and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 Philipp Otterbach is an ambient and club artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 12 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Philipp Otterbach is an ambient and club artist based in Germany, with 38 gigs o
 
 p/kstr, Benedikt Frey, DJ Absolutely Shit
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*

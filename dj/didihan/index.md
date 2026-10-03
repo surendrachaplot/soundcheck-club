@@ -1,6 +1,6 @@
 # Didi Han
 
-Didi Han is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rex Club, Paris on Sat, 3 Oct 2026.
+Didi Han is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rex Club, Paris on Sat, 3 Oct 2026.
 
 Didi Han is a house and techno artist based in South Korea, with 55 gigs on soundcheck across Amsterdam, Bali, Bangkok and Hong Kong and 14 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: Rex Club, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Didi Han is a house and techno artist based in South Korea, with 55 gigs on soun
 
 Cezaire, Darius (FR), Angie (FR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*

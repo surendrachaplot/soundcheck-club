@@ -1,6 +1,6 @@
 # Lara Fein
 
-Lara Fein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sun, 18 Oct 2026.
+Lara Fein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sun, 18 Oct 2026.
 
 Lara Fein is a house and techno artist, with 40 gigs on soundcheck across Amsterdam, Berlin, Cologne and London and 4 more. Often billed alongside Skee Mask, Stenny and Victor (DE). Next up: Gewölbe, Cologne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Lara Fein is a house and techno artist, with 40 gigs on soundcheck across Amster
 
 Skee Mask, Stenny, Victor (DE)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*

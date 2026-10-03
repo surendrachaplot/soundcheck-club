@@ -1,6 +1,6 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+BYØRN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
 BYØRN is a techno and trance artist based in Belgium, with 95 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 38 more. Often billed alongside NOVAH, SIKOTI and Basswell. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ BYØRN is a techno and trance artist based in Belgium, with 95 gigs on soundchec
 
 NOVAH, SIKOTI, Basswell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

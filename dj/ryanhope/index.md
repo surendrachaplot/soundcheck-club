@@ -1,6 +1,6 @@
 # Ryan Hope
 
-Ryan Hope is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Ryan Hope is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Ryan Hope is a house and disco artist, with 10 gigs on soundcheck across Birmingham, Bristol, Ibiza and Iceland and 3 more. Often billed alongside Luke Una, Agzilla and Ali Love. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Ryan Hope is a house and disco artist, with 10 gigs on soundcheck across Birming
 
 Luke Una, Agzilla, Ali Love
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhope/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhope/)*

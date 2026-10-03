@@ -1,6 +1,6 @@
 # Poly Chain
 
-Poly Chain is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at iMAL, Brussels on Sat, 3 Oct 2026.
+Poly Chain is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at iMAL, Brussels on Sat, 3 Oct 2026.
 
 Poly Chain is a techno and electro artist based in Ukraine, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside DJ MELL G, MSJY and Anastasia Kristensen. Next up: iMAL, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Poly Chain is a techno and electro artist based in Ukraine, with 47 gigs on soun
 
 DJ MELL G, MSJY, Anastasia Kristensen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*

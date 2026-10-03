@@ -1,6 +1,6 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Tromac in San Francisco 10/4 at Mothership" on Sun, 4 Oct 2026.
+Mothership is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tromac in San Francisco 10/4 at Mothership" on Sun, 4 Oct 2026.
 
 Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including DJ ing, ECTO, FINISHHER and jaag (US) and 2 more. See dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
@@ -17,4 +17,4 @@ Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 4 upc
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

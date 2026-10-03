@@ -1,6 +1,6 @@
 # Kumi
 
-Kumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Glamorama, Melbourne on Fri, 9 Oct 2026.
+Kumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Glamorama, Melbourne on Fri, 9 Oct 2026.
 
 Kumi is a techno and house artist based in Australia, with 34 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 6 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Glamorama, Melbourne on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Kumi is a techno and house artist based in Australia, with 34 gigs on soundcheck
 
 JÄMO, Caleb Jay, J-OK
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*

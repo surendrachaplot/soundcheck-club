@@ -1,6 +1,6 @@
 # Bordello Aperitivo
 
-Bordello Aperitivo is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Melodize x ADE" on Thu, 22 Oct 2026.
+Bordello Aperitivo is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Melodize x ADE" on Thu, 22 Oct 2026.
 
 Bordello Aperitivo is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Kaczor, Charlie Soul Clap, FSQ and Jamie 3:26 and 2 more. See dates, start times and who's playing. Zeedijk 41, 1012 AR, Amsterdam, The Netherlands.
 
@@ -17,4 +17,4 @@ Bordello Aperitivo is a music venue in Amsterdam listed on soundcheck. 4 upcomin
 
 Zeedijk 41, 1012 AR, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bordello-aperitivo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bordello-aperitivo/)*

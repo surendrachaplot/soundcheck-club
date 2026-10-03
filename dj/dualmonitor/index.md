@@ -1,6 +1,6 @@
 # Dual Monitor
 
-Dual Monitor is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
+Dual Monitor is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
 
 Dual Monitor is a bass and techno artist based in United Kingdom, with 54 gigs on soundcheck across Bristol, Cardiff, Chicago and Copenhagen and 13 more. Often billed alongside Pluralist (UK), BLUMITSU and Frazer Ray. Next up: Bal Chavaux, Paris on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Dual Monitor is a bass and techno artist based in United Kingdom, with 54 gigs o
 
 Pluralist (UK), BLUMITSU, Frazer Ray
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*

@@ -1,6 +1,6 @@
 # Museum Of Vancouver
 
-Museum Of Vancouver is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "SUNWAVE HALLOWEEN: NIGHT AT THE MUSEUM" on Sat, 31 Oct 2026.
+Museum Of Vancouver is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "SUNWAVE HALLOWEEN: NIGHT AT THE MUSEUM" on Sat, 31 Oct 2026.
 
 Museum Of Vancouver is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1100 Chestnut Street  Vancouver, BC V6J 3J9.
 
@@ -14,4 +14,4 @@ Museum Of Vancouver is a music venue in Vancouver listed on soundcheck. 1 upcomi
 
 1100 Chestnut Street  Vancouver, BC V6J 3J9, Vancouver
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/museum-of-vancouver/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/museum-of-vancouver/)*

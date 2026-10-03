@@ -1,6 +1,6 @@
 # Alastair Lane
 
-Alastair Lane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministry Of Sound, London on Fri, 23 Oct 2026.
+Alastair Lane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Fri, 23 Oct 2026.
 
 Alastair Lane is a house and disco artist based in France, with 14 gigs on soundcheck across Brussels, London, Los Angeles and Paris and 1 more. Often billed alongside Axel Rey, Baptiste Lagrave and Chris Dogzout. Next up: Ministry Of Sound, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alastair Lane is a house and disco artist based in France, with 14 gigs on sound
 
 Axel Rey, Baptiste Lagrave, Chris Dogzout
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alastairlane/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alastairlane/)*

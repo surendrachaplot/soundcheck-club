@@ -1,6 +1,6 @@
 # Suly Aslan
 
-Suly Aslan is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kizuna, London on Sat, 31 Oct 2026.
+Suly Aslan is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kizuna, London on Sat, 31 Oct 2026.
 
 Suly Aslan is a tech house and afro house artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Raldo, Harry Turner and Mas Fuego. Next up: Kizuna, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Suly Aslan is a tech house and afro house artist based in United Kingdom, with 2
 
 Raldo, Harry Turner, Mas Fuego
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulyaslan/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulyaslan/)*

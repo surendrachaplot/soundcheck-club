@@ -1,6 +1,6 @@
 # ZESTY (UK)
 
-ZESTY (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
+ZESTY (UK) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Sat, 10 Oct 2026.
 
 ZESTY (UK) is a garage and bass artist based in United Kingdom, with 22 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Anop, ASHTYLR and DJ LUMBRIDGE. Next up: The White Hotel, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ZESTY (UK) is a garage and bass artist based in United Kingdom, with 22 gigs on 
 
 Anop, ASHTYLR, DJ LUMBRIDGE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zestyuk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zestyuk/)*

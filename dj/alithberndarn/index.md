@@ -1,6 +1,6 @@
 # Alith Berndarn
 
-Alith Berndarn is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri, 9 Oct 2026.
+Alith Berndarn is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri, 9 Oct 2026.
 
 Alith Berndarn is a grime and garage artist based in Germany, with 7 gigs on soundcheck across Hamburg. Often billed alongside Maxi Kreeft, so'su'sa and ATAVEM. Next up: Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Alith Berndarn is a grime and garage artist based in Germany, with 7 gigs on sou
 
 Maxi Kreeft, so'su'sa, ATAVEM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alithberndarn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alithberndarn/)*

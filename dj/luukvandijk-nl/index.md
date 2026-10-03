@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Luuk van Dijk is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Luuk van Dijk is a house and tech house artist based in Netherlands, with 240 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 240 gi
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

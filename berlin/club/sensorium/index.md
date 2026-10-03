@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "TRIG: TAKE YOUR FREE TICKETS " on Sun, 4 Oct 2026.
+Sensorium is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TRIG: TAKE YOUR FREE TICKETS " on Sun, 4 Oct 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including babymullet, Bee Lincoln, Blck-Swan and Bouquet and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

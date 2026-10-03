@@ -1,6 +1,6 @@
 # Silent Studios
 
-Silent Studios is a music venue in Auckland with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Dark Faces Presents: Kaufmann [DE]" on Sat, 3 Oct 2026.
+Silent Studios is a music venue in Auckland with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dark Faces Presents: Kaufmann [DE]" on Sat, 3 Oct 2026.
 
 Silent Studios is a music venue in Auckland listed on soundcheck. 10 upcoming gigs, with line-ups including Cam Harris, Cosmjn, Dylan C and Greg Churchill and 2 more. See dates, start times and who's playing. 6 Patrick St, Onehunga, Auckland 1061.
 
@@ -23,4 +23,4 @@ Silent Studios is a music venue in Auckland listed on soundcheck. 10 upcoming gi
 
 6 Patrick St, Onehunga, Auckland 1061, Auckland
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*

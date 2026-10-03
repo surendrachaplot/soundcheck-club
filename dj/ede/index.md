@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
+Ede is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
 
 Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Volt Club Milano, Milan on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck ac
 
 Skatman, julës jay, JAMIIE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

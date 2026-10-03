@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Cam Stockman is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Tommy Phillips, Gaskin and Jamback. Next up: The Nest, Nottingham on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 73 g
 
 Tommy Phillips, Gaskin, Jamback
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

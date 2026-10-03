@@ -1,6 +1,6 @@
 # Hector MAD
 
-Hector MAD is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Independance Club, Madrid on Sat, 3 Oct 2026.
+Hector MAD is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Independance Club, Madrid on Sat, 3 Oct 2026.
 
 Hector MAD is a techno and electro artist, with 48 gigs on soundcheck across Barcelona, Madrid, Naples and Porto. Often billed alongside Cynth, Ikari and Nebari. Next up: Sala Independance Club, Madrid on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Hector MAD is a techno and electro artist, with 48 gigs on soundcheck across Bar
 
 Cynth, Ikari, Nebari
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormad/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormad/)*

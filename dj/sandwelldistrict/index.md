@@ -1,6 +1,6 @@
 # Sandwell District
 
-Sandwell District is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
+Sandwell District is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
 
 Sandwell District is a techno and dub techno artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Signal, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sandwell District is a techno and dub techno artist based in Germany, with 41 gi
 
 Regis, Function, mad miran
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*

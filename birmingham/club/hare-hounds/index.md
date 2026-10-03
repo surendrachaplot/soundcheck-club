@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "whiplash ft. grace sands // emilia g // spring // yshee black" on Sat, 3 Oct 2026.
+Hare & Hounds is a music venue in Birmingham with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "whiplash ft. grace sands // emilia g // spring // yshee black" on Sat, 3 Oct 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming gigs, with line-ups including DAR DISKU, DJ Flight, DRS and Greg Wilson and 2 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -22,4 +22,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

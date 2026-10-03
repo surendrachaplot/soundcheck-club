@@ -1,6 +1,6 @@
 # JUDGITZU
 
-JUDGITZU is a Singeli and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+JUDGITZU is a Singeli and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 JUDGITZU is a singeli and experimental artist based in France, with 7 gigs on soundcheck across Amsterdam, Barcelona, Milan and Oslo and 2 more. Often billed alongside Authentically Plastic, Catu Diosis and DJ Diaki. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ JUDGITZU is a singeli and experimental artist based in France, with 7 gigs on so
 
 Authentically Plastic, Catu Diosis, DJ Diaki
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgitzu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgitzu/)*

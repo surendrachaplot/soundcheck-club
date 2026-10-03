@@ -1,6 +1,6 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Miss Kittin is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Miss Kittin is a techno and electro artist based in France, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -19,6 +19,7 @@ Miss Kittin is a techno and electro artist based in France, with 102 gigs on sou
 
 ## Recently played
 
+- Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Karmen Camina, Strasbourg · Sat, 12 Sept 2026
 - Ferropolis, Leipzig · Fri, 17 Jul 2026
 - CLUB RAUM, Amsterdam · Fri, 26 Jun 2026
@@ -26,10 +27,9 @@ Miss Kittin is a techno and electro artist based in France, with 102 gigs on sou
 - Fira Gran Via, Barcelona · Mon, 15 Jun 2026
 - TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
 - TBA - Multiple Venues , Helsinki · Wed, 13 May 2026
-- Parc Floral De Paris, Paris · Thu, 7 May 2026
 
 ## Shares bills with
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

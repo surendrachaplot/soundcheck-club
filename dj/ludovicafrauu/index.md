@@ -1,6 +1,6 @@
 # Ludovica Frauu
 
-Ludovica Frauu is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
+Ludovica Frauu is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 18 Oct 2026.
 
 Ludovica Frauu is an electronic artist, with 8 gigs on soundcheck across Berlin, Central and Milan. Often billed alongside Dean Denali, YTU (DE) and Andrea Cossu. Next up: Campidarte Sardegna, Central on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Ludovica Frauu is an electronic artist, with 8 gigs on soundcheck across Berlin,
 
 Dean Denali, YTU (DE), Andrea Cossu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludovicafrauu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludovicafrauu/)*

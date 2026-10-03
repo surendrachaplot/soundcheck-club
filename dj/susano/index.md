@@ -1,6 +1,6 @@
 # Susano
 
-Susano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at B21, Brussels on Sat, 3 Oct 2026.
+Susano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at B21, Brussels on Sat, 3 Oct 2026.
 
 Susano is a techno and trance artist based in Belgium, with 23 gigs on soundcheck across Brussels and Stuttgart. Often billed alongside YKAi, Ce$ar and Chris Youké. Next up: B21, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Susano is a techno and trance artist based in Belgium, with 23 gigs on soundchec
 
 YKAi, Ce$ar, Chris Youké
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susano/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susano/)*

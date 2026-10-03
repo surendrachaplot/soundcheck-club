@@ -1,6 +1,6 @@
 # Unified Method
 
-Unified Method is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at AUX Club, Athens on Sat, 10 Oct 2026.
+Unified Method is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at AUX Club, Athens on Sat, 10 Oct 2026.
 
 Unified Method is a drum & bass and dubstep artist based in Greece, with 19 gigs on soundcheck across Athens. Often billed alongside Type Zero, Insom and 118119. Next up: AUX Club, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Unified Method is a drum & bass and dubstep artist based in Greece, with 19 gigs
 
 Type Zero, Insom, 118119
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unifiedmethod/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unifiedmethod/)*

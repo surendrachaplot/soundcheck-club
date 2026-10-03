@@ -1,6 +1,6 @@
 # Naughty Hana
 
-Naughty Hana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NEU, Stockholm on Sat, 10 Oct 2026.
+Naughty Hana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NEU, Stockholm on Sat, 10 Oct 2026.
 
 Naughty Hana is a house and tech house artist based in Sweden, with 20 gigs on soundcheck across Stockholm. Often billed alongside CAMILLKA, Mabogo and Antonsson. Next up: NEU, Stockholm on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Naughty Hana is a house and tech house artist based in Sweden, with 20 gigs on s
 
 CAMILLKA, Mabogo, Antonsson
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naughtyhana/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naughtyhana/)*

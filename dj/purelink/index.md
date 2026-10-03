@@ -1,6 +1,6 @@
 # Purelink
 
-Purelink is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aisle 5, Atlanta on Thu, 12 Nov 2026.
+Purelink is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aisle 5, Atlanta on Thu, 12 Nov 2026.
 
 Purelink is an ambient and experimental artist based in United States of America, with 63 gigs on soundcheck across Atlanta, Barcelona, Bristol and Chicago and 25 more. Often billed alongside mad miran, DjRUM and Eiko Ishibashi. Next up: Aisle 5, Atlanta on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Purelink is an ambient and experimental artist based in United States of America
 
 mad miran, DjRUM, Eiko Ishibashi
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*

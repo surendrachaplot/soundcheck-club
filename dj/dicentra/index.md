@@ -1,6 +1,6 @@
 # Dicentra
 
-Dicentra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
+Dicentra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Liquid Club, Malta on Sat, 12 Dec 2026.
 
 Dicentra is a techno and trance artist based in Malta, with 14 gigs on soundcheck across Malta. Often billed alongside chouhal, NEVYALC and Scythe. Next up: Liquid Club, Malta on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dicentra is a techno and trance artist based in Malta, with 14 gigs on soundchec
 
 chouhal, NEVYALC, Scythe
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicentra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicentra/)*

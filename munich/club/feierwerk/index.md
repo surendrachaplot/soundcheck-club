@@ -1,6 +1,6 @@
 # Feierwerk
 
-Feierwerk is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Break it Down pres. Mycelium #1" on Fri, 16 Oct 2026.
+Feierwerk is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Break it Down pres. Mycelium #1" on Fri, 16 Oct 2026.
 
 Feierwerk is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Lynnic. See dates, start times and who's playing. Hansastrasse 39, 81373 München.
 
@@ -15,4 +15,4 @@ Feierwerk is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with
 
 Hansastrasse 39, 81373 München, Munich
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/feierwerk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/feierwerk/)*

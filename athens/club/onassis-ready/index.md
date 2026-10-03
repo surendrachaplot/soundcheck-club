@@ -1,6 +1,6 @@
 # Onassis Ready
 
-Onassis Ready is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Borderline Festival" on Fri, 9 Oct 2026.
+Onassis Ready is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Borderline Festival" on Fri, 9 Oct 2026.
 
 Onassis Ready is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Alexander Skancke, Anna Vs June, Baggymilziade and DJ-HOTLINE 333 and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Onassis Ready is a music venue in Athens listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Borderline Festival | Alexander Skancke, Anna Vs June, Baggymilziade, DJ-HOTLINE 333, Everlyn, George Rallis, Jan Van Angelopoulos, Nightmares on Wax |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/onassis-ready/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/onassis-ready/)*

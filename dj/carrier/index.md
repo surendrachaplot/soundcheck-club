@@ -1,6 +1,6 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
+Carrier is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
 
 Carrier is a techno and experimental artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: The Ground at Club Space, Miami on Fri 2 Oct.
 
@@ -15,6 +15,7 @@ Carrier is a techno and experimental artist based in United Kingdom, with 81 gig
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Fri, 2 Oct 2026
 - Knockdown Center, New York City · Sat, 26 Sept 2026
 - TRANSMISSION DC, Washington DC · Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -22,10 +23,9 @@ Carrier is a techno and experimental artist based in United Kingdom, with 81 gig
 - TBA - Masseria Ferraioli - Afragola, Naples · Sun, 6 Sept 2026
 - 09h30-05h30, Antwerp · Sat, 5 Sept 2026
 - TBA - LFO, Madrid · Sat, 29 Aug 2026
-- Gare Porto, Porto · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

@@ -1,6 +1,6 @@
 # Ben Horton
 
-Ben Horton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marcfait, Amsterdam on Sat, 3 Oct 2026.
+Ben Horton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marcfait, Amsterdam on Sat, 3 Oct 2026.
 
 Ben Horton is a house and tech house artist based in Australia, with 19 gigs on soundcheck across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside Capron, Stacie Fields and Ellia Jaya. Next up: Marcfait, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ben Horton is a house and tech house artist based in Australia, with 19 gigs on 
 
 Capron, Stacie Fields, Ellia Jaya
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*

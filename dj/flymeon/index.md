@@ -1,6 +1,6 @@
 # Flymeon
 
-Flymeon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
+Flymeon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mia Mao, Paris on Sat, 10 Oct 2026.
 
 Flymeon is a techno and industrial artist based in France, with 58 gigs on soundcheck across Barcelona, Basel, Berlin and Cologne and 18 more. Often billed alongside Paolo Ferrara, Lorenzo Raganzini and BIIA. Next up: Mia Mao, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Flymeon is a techno and industrial artist based in France, with 58 gigs on sound
 
 Paolo Ferrara, Lorenzo Raganzini, BIIA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flymeon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flymeon/)*

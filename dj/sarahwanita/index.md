@@ -1,6 +1,6 @@
 # Sarah Wanita
 
-Sarah Wanita is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at UMI, Brussels on Sat, 3 Oct 2026.
+Sarah Wanita is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UMI, Brussels on Sat, 3 Oct 2026.
 
 Sarah Wanita is a trance and techno artist based in Belgium, with 20 gigs on soundcheck across Antwerp, Brussels and Nantes. Often billed alongside Discostouf, Quibron and kedakeda. Next up: UMI, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sarah Wanita is a trance and techno artist based in Belgium, with 20 gigs on sou
 
 Discostouf, Quibron, kedakeda
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*

@@ -1,6 +1,6 @@
 # Jin (TW)
 
-Jin (TW) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cafe OTO, London on Sat, 3 Oct 2026.
+Jin (TW) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafe OTO, London on Sat, 3 Oct 2026.
 
 Jin (TW) is a techno and ambient artist, with 17 gigs on soundcheck across Barcelona, Belfast, Berlin and London and 3 more. Often billed alongside Ario, Avsluta and F-on. Next up: Cafe OTO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jin (TW) is a techno and ambient artist, with 17 gigs on soundcheck across Barce
 
 Ario, Avsluta, F-on
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jin-tw/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jin-tw/)*

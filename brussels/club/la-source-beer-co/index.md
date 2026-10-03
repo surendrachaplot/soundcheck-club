@@ -1,6 +1,6 @@
 # La Source Beer Co
 
-La Source Beer Co is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "On Air Sessions #008. BXL (Prix libre)" on Sat, 24 Oct 2026.
+La Source Beer Co is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "On Air Sessions #008. BXL (Prix libre)" on Sat, 24 Oct 2026.
 
 La Source Beer Co is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rue Dieudonne Lefevre 4, Brussels, Belgium.
 
@@ -14,4 +14,4 @@ La Source Beer Co is a music venue in Brussels listed on soundcheck. 1 upcoming 
 
 Rue Dieudonne Lefevre 4, Brussels, Belgium, Brussels
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-source-beer-co/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-source-beer-co/)*

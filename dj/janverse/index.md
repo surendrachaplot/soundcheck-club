@@ -1,6 +1,6 @@
 # Janverse
 
-Janverse is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 6 Oct 2026.
+Janverse is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bongo Club, Edinburgh on Tue, 6 Oct 2026.
 
 Janverse is a drum & bass and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Brynk, Rodent and FOLIE (UK). Next up: The Bongo Club, Edinburgh on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Janverse is a drum & bass and jungle artist based in United Kingdom, with 17 gig
 
 Brynk, Rodent, FOLIE (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*

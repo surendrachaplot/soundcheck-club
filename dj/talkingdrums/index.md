@@ -1,6 +1,6 @@
 # Talking Drums
 
-Talking Drums is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at New Wave Ramen, Manchester on Sat, 3 Oct 2026.
+Talking Drums is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at New Wave Ramen, Manchester on Sat, 3 Oct 2026.
 
 Talking Drums is a disco and balearic artist, with 20 gigs on soundcheck across Edinburgh, Leeds, Liverpool and London and 1 more. Often billed alongside Bobby Thorpe, Neil Diablo and teepee h. Next up: New Wave Ramen, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Talking Drums is a disco and balearic artist, with 20 gigs on soundcheck across 
 
 Bobby Thorpe, Neil Diablo, teepee h
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talkingdrums/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talkingdrums/)*

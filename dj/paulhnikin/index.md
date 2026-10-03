@@ -1,6 +1,6 @@
 # Paul Hnikin
 
-Paul Hnikin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
+Paul Hnikin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
 
 Paul Hnikin is a techno and acid artist based in Latvia, with 22 gigs on soundcheck across Riga. Often billed alongside Michael Myth, Ksenia Kamikaza and Queer On Acid. Next up: H2o6, Riga on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Paul Hnikin is a techno and acid artist based in Latvia, with 22 gigs on soundch
 
 Michael Myth, Ksenia Kamikaza, Queer On Acid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhnikin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulhnikin/)*

@@ -1,6 +1,6 @@
 # Automatic Writing
 
-Automatic Writing is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Automatic Writing is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 Automatic Writing is a house and minimal artist based in France, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Automatic Writing is a house and minimal artist based in France, with 67 gigs on
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

@@ -1,6 +1,6 @@
 # aantz
 
-aantz is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
+aantz is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
 
 aantz is an ambient and experimental artist based in Argentina, with 15 gigs on soundcheck across Argentina, Basel, Berlin and Buenos Aires and 2 more. Often billed alongside O/Y, Barker and 2THEMAX. Next up: La Cúpula del Palacio Libertad, Buenos Aires on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ aantz is an ambient and experimental artist based in Argentina, with 15 gigs on 
 
 O/Y, Barker, 2THEMAX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*

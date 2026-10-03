@@ -1,6 +1,6 @@
 # Sara Persico
 
-Sara Persico is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
+Sara Persico is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mains D'œuvres, Paris on Sat, 3 Oct 2026.
 
 Sara Persico is an experimental and bass artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Assyouti, Mika Oki and ABADIR. Next up: Mains D'œuvres, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sara Persico is an experimental and bass artist based in Italy, with 61 gigs on 
 
 Assyouti, Mika Oki, ABADIR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*

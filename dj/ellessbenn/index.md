@@ -1,6 +1,6 @@
 # Elless & Benn
 
-Elless & Benn is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at 5A, Lisbon on Sat, 31 Oct 2026.
+Elless & Benn is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 5A, Lisbon on Sat, 31 Oct 2026.
 
 Elless & Benn are a techno and electronica duo based in Portugal, with 55 gigs on soundcheck across Lisbon and Stockholm. Often billed alongside Mary B, Guigas and Solid-Funk. Next up: 5A, Lisbon on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Elless & Benn are a techno and electronica duo based in Portugal, with 55 gigs o
 
 Mary B (2), Guigas, Solid-Funk
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*

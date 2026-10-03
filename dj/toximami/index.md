@@ -1,6 +1,6 @@
 # TOXIMAMI
 
-TOXIMAMI is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
+TOXIMAMI is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
 TOXIMAMI is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ TOXIMAMI is a techno and trance artist based in Germany, with 65 gigs on soundch
 
 DJ Cringey, Cara Elizabeth, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*

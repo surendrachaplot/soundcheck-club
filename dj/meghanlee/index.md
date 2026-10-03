@@ -1,6 +1,6 @@
 # Meghan Lee
 
-Meghan Lee is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Meghan Lee is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Meghan Lee is an acid and house artist, with 8 gigs on soundcheck across Miami and New York City. Often billed alongside True Vine, Ultrathem and Bort. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Meghan Lee is an acid and house artist, with 8 gigs on soundcheck across Miami a
 
 True Vine, Ultrathem, Bort
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*

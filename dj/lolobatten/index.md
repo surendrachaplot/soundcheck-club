@@ -1,18 +1,18 @@
 # Lolo Batten
 
-Lolo Batten is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
+Lolo Batten is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at de Koepels, Rotterdam on Sat, 10 Oct 2026.
 
-Lolo Batten is a bass and techno artist based in France, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Bella Hall, French II and Hyas. Next up: Laak, The Hague on Fri 2 Oct.
+Lolo Batten is a bass and techno artist based in France, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Bella Hall, French II and Hyas. Next up: de Koepels, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Laak | The Hague |
 | Sat, 10 Oct 2026 | de Koepels | Rotterdam |
 
 ## Recently played
 
+- Laak, The Hague · Fri, 2 Oct 2026
 - TBA - DM for Info, Amsterdam · Sat, 28 Mar 2026
 - Mains D'œuvres, Paris · Sat, 22 Feb 2025
 - Badaboum, Paris · Fri, 13 Sept 2024
@@ -20,10 +20,9 @@ Lolo Batten is a bass and techno artist based in France, with 29 gigs on soundch
 - Le Sample, Paris · Sat, 6 Jul 2024
 - Château de Manou, Paris · Fri, 5 Jul 2024
 - KABUL à GoGo, Utrecht · Sat, 18 May 2024
-- Fitzroy, Berlin · Fri, 17 May 2024
 
 ## Shares bills with
 
 Bella Hall, French II, Hyas
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolobatten/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolobatten/)*

@@ -1,6 +1,6 @@
 # Donis
 
-Donis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at public records, New York City on Sat, 10 Oct 2026.
+Donis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sat, 10 Oct 2026.
 
 Donis is a house and techno artist based in United States of America, with 142 gigs on soundcheck across Barcelona, Boston, Chicago and Detroit and 6 more. Often billed alongside Total XTC, JADALAREIGN and k.tea. Next up: public records, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Donis is a house and techno artist based in United States of America, with 142 g
 
 Total XTC, JADALAREIGN, k.tea
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*

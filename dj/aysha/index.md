@@ -1,6 +1,6 @@
 # AYSHA
 
-AYSHA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
+AYSHA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fisher Gate Point, Nottingham on Sat, 10 Oct 2026.
 
 AYSHA is a garage and house artist based in United Kingdom, with 9 gigs on soundcheck across London and Nottingham. Often billed alongside Glitech Pavel, JUNTARO Y and M75. Next up: Fisher Gate Point, Nottingham on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AYSHA is a garage and house artist based in United Kingdom, with 9 gigs on sound
 
 Glitech Pavel, JUNTARO Y, M75 (1)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aysha/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aysha/)*

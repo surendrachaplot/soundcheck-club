@@ -1,15 +1,14 @@
 # Matica
 
-Matica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Glasgow on Fri, 16 Oct 2026.
+Matica is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Glasgow on Fri, 16 Oct 2026.
 
-Matica is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Glasgow, Liverpool, London and Manchester and 1 more. Often billed alongside Amber Rose, Beat Detective and EVM128. Next up: TBA, Glasgow on Fri 16 Oct.
+Matica is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Glasgow, Liverpool, London and Manchester and 1 more. Often billed alongside Amber Rose, Beat Detective and EVM128. Next up: TBA, Glasgow on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA | Glasgow |
-| Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Matica is a house and techno artist based in United Kingdom, with 32 gigs on sou
 
 Amber Rose, Beat Detective, EVM128
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matica/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matica/)*

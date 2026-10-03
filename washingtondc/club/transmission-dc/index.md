@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BROADCAST: ONE YEAR OF TRANSMISSION" on Fri, 2 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BROADCAST: ONE YEAR OF TRANSMISSION" on Fri, 2 Oct 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, Cadeem LaMarr and CalvoMusic and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

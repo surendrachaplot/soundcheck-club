@@ -1,6 +1,6 @@
 # Mercy.
 
-Mercy. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 3 Oct 2026.
+Mercy. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 3 Oct 2026.
 
 Mercy. is a house and deep house artist based in Japan, with 33 gigs on soundcheck across Osaka. Often billed alongside Motel Paraiso, NAGATA and sumi’. Next up: Teranoma Tidepool, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mercy. is a house and deep house artist based in Japan, with 33 gigs on soundche
 
 Motel Paraiso, NAGATA, sumi’
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercy./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercy./)*

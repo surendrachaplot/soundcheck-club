@@ -1,6 +1,6 @@
 # baby ganoush
 
-baby ganoush is a Ambient and Gqom artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+baby ganoush is a Ambient and Gqom artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 baby ganoush is an ambient and gqom artist based in Sweden, with 61 gigs on soundcheck across Amsterdam, Berlin, Montreal and Rotterdam and 2 more. Often billed alongside Isla Den, YoungWoman and ZOBAYDA. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ baby ganoush is an ambient and gqom artist based in Sweden, with 61 gigs on soun
 
 Isla Den, YoungWoman, ZOBAYDA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*

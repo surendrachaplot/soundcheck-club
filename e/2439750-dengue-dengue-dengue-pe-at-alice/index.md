@@ -1,10 +1,10 @@
 # Dengue Dengue Dengue (PE) at ALICE
 
-Dengue Dengue Dengue (PE) at ALICE on Sat 5 Sept, Copenhagen. 1 act on the bill: Dengue Dengue Dengue. Preview the line-up and save it on soundcheck.
+Dengue Dengue Dengue (PE) at ALICE on Sat 27 Feb, Copenhagen. 1 artist: Dengue Dengue Dengue. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Sept 2026 |
+| Date | Sat, 27 Feb 2027 |
 | Venue | ALICE |
 | City | Copenhagen |
 

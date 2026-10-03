@@ -1,6 +1,6 @@
 # Bajo Circuito
 
-Bajo Circuito is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "La Liga Independiente" on Fri, 16 Oct 2026.
+Bajo Circuito is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "La Liga Independiente" on Fri, 16 Oct 2026.
 
 Bajo Circuito is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Ironick and Salem X. See dates, start times and who's playing. Circuito Interior Esq. Juan Escutia, Mexico City.
 
@@ -15,4 +15,4 @@ Bajo Circuito is a music venue in Mexico City listed on soundcheck. 2 upcoming g
 
 Circuito Interior Esq. Juan Escutia, Mexico City, Mexico City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-circuito/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-circuito/)*

@@ -1,6 +1,6 @@
 # DJ Stolen
 
-DJ Stolen is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
+DJ Stolen is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
 
 DJ Stolen is a house and amapiano artist based in United Kingdom, with 30 gigs on soundcheck across Bristol and London. Often billed alongside DJ Polo, Wilfy D and Chiedza. Next up: The Love Inn, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Stolen is a house and amapiano artist based in United Kingdom, with 30 gigs o
 
 DJ Polo, Wilfy D, Chiedza
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstolen/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstolen/)*

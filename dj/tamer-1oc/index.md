@@ -1,6 +1,6 @@
 # Tamer_1oc
 
-Tamer_1oc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 9 Oct 2026.
+Tamer_1oc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Tamer_1oc is a techno and house artist based in United States of America, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DeepMilk, Illich Mujica and SAAND. Next up: Napa Music Hall, San Francisco/Oakland on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Tamer_1oc is a techno and house artist based in United States of America, with 3
 
 DeepMilk, Illich Mujica, SAAND
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamer-1oc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamer-1oc/)*

@@ -1,6 +1,6 @@
 # AABEL
 
-AABEL is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Space Miami, Miami on Sat, 3 Oct 2026.
+AABEL is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Space Miami, Miami on Sat, 3 Oct 2026.
 
 AABEL is an afro house and house artist based in United States of America, with 19 gigs on soundcheck across London and Miami. Often billed alongside Cami di Marzo, Pezlo MD and SIEGEL. Next up: Club Space Miami, Miami on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ AABEL is an afro house and house artist based in United States of America, with 
 
 Cami di Marzo, Pezlo MD, SIEGEL (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aabel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aabel/)*

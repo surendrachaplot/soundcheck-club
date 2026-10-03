@@ -1,6 +1,6 @@
 # TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico
 
-TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "ATEMPORAL SESION 02" on Sat, 3 Oct 2026.
+TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "ATEMPORAL SESION 02" on Sat, 3 Oct 2026.
 
 TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico is a music venue in
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | ATEMPORAL SESION 02 |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-dynamo-general-mariano-escobedo-494-ciudad-de-mexico/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-dynamo-general-mariano-escobedo-494-ciudad-de-mexico/)*

@@ -1,6 +1,6 @@
 # N ska
 
-N ska is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Fri, 9 Oct 2026.
+N ska is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Urban Spree, Berlin on Fri, 9 Oct 2026.
 
 N ska is a techno and electronica artist based in Poland, with 16 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: Urban Spree, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ N ska is a techno and electronica artist based in Poland, with 16 gigs on soundc
 
 Gościńska, Delta Division, SAGAN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*

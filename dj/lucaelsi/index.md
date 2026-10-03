@@ -1,6 +1,6 @@
 # Luca Elsi
 
-Luca Elsi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
+Luca Elsi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Luca Elsi is a house and techno artist based in Italy, with 24 gigs on soundcheck across Berlin, Milan and Prague. Often billed alongside Organza, ilbroccolovolante and Frinda di Lanco. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Luca Elsi is a house and techno artist based in Italy, with 24 gigs on soundchec
 
 Organza, ilbroccolovolante, Frinda di Lanco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaelsi/)*

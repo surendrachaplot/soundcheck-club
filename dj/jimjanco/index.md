@@ -1,6 +1,6 @@
 # Jim Janco
 
-Jim Janco is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ormside Projects, London on Sat, 3 Oct 2026.
+Jim Janco is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ormside Projects, London on Sat, 3 Oct 2026.
 
 Jim Janco is a techno and dub artist, with 13 gigs on soundcheck across Berlin and London. Often billed alongside DJ Sotofett, Conrad Pack and Elle Andrews. Next up: Ormside Projects, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jim Janco is a techno and dub artist, with 13 gigs on soundcheck across Berlin a
 
 DJ Sotofett, Conrad Pack, Elle Andrews
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimjanco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimjanco/)*

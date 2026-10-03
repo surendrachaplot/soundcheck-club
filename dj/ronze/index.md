@@ -1,6 +1,6 @@
 # Ronze
 
-Ronze is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 8 Oct 2026.
+Ronze is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 8 Oct 2026.
 
 Ronze is a techno and trance artist based in Argentina, with 34 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Valencia. Often billed alongside Micaela Escudero, Linkan Ray and H-R-Z. Next up: Les Enfants Brillants, Barcelona on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Ronze is a techno and trance artist based in Argentina, with 34 gigs on soundche
 
 Micaela Escudero, Linkan Ray, H-R-Z
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronze/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronze/)*

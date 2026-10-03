@@ -1,6 +1,6 @@
 # Raul Rodriguez
 
-Raul Rodriguez is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 3 Oct 2026.
+Raul Rodriguez is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ushuaïa Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 Raul Rodriguez is a tech house and techno artist based in Spain, with 69 gigs on soundcheck across Budapest and Ibiza. Often billed alongside Andrea Oliva, Nic Fanciulli and Chelina Manuhutu. Next up: Ushuaïa Ibiza, Ibiza on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Raul Rodriguez is a tech house and techno artist based in Spain, with 69 gigs on
 
 Andrea Oliva, Nic Fanciulli, Chelina Manuhutu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulrodriguez/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulrodriguez/)*

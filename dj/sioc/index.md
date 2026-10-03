@@ -1,6 +1,6 @@
 # Sioc
 
-Sioc is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Sioc is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 Sioc is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Basel, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Ana Malo, szoliver and SLYM. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sioc is a techno and trance artist based in Germany, with 29 gigs on soundcheck 
 
 Ana Malo, szoliver, SLYM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*

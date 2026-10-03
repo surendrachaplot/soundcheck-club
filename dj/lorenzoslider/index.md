@@ -1,6 +1,6 @@
 # Lorenzo Slider
 
-Lorenzo Slider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+Lorenzo Slider is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 Lorenzo Slider is a house and techno artist, with 18 gigs on soundcheck across Berlin, Ibiza, Mallorca and Munich and 3 more. Often billed alongside Pablo Romero, Charles Wax and Daniel Dutts. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Slider is a house and techno artist, with 18 gigs on soundcheck across B
 
 Pablo Romero, Charles Wax, Daniel Dutts
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoslider/)*

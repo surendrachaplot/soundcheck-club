@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
+XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
 
 XXHARDBIT3S is a hardcore and gabber artist based in United States of America, with 53 gigs on soundcheck across Boston, Denver, Detroit and Montreal and 5 more. Often billed alongside JESSXO, Soo Intoit and 3mouth. Next up: Bossa Nova Civic Club, New York City on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ XXHARDBIT3S is a hardcore and gabber artist based in United States of America, w
 
 JESSXO, Soo Intoit, 3mouth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

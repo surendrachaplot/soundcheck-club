@@ -1,6 +1,6 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hertz, Seoul on Sat, 3 Oct 2026.
+Francesco Carvetta is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hertz, Seoul on Sat, 3 Oct 2026.
 
 Francesco Carvetta is a house and electronica artist, with 33 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Hertz, Seoul on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Francesco Carvetta is a house and electronica artist, with 33 gigs on soundcheck
 
 Hitch, Jorge Escribano, Avo (ES)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*

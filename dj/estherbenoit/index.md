@@ -1,6 +1,6 @@
 # Esther Benoit
 
-Esther Benoit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bsmt 254, Toronto on Sat, 10 Oct 2026.
+Esther Benoit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bsmt 254, Toronto on Sat, 10 Oct 2026.
 
 Esther Benoit is a house and techno artist, with 13 gigs on soundcheck across Toronto. Often billed alongside Jackie Spade, Kika and Miss Kleio. Next up: Bsmt 254, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Esther Benoit is a house and techno artist, with 13 gigs on soundcheck across To
 
 Jackie Spade, Kika (4), Miss Kleio
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbenoit/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbenoit/)*

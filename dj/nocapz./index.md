@@ -1,6 +1,6 @@
 # nocapz.
 
-nocapz. is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+nocapz. is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 nocapz. is a house and tech house artist based in Brazil, with 12 gigs on soundcheck across Chicago, Malta, Miami and New York City and 3 more. Often billed alongside Mochakk, Dennis Ferrer and HoneyLuv. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ nocapz. is a house and tech house artist based in Brazil, with 12 gigs on soundc
 
 Mochakk, Dennis Ferrer, HoneyLuv
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*

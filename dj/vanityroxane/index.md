@@ -1,6 +1,6 @@
 # Vanity Roxane
 
-Vanity Roxane is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+Vanity Roxane is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 Vanity Roxane is a drum & bass and dubstep artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, London and Utrecht. Often billed alongside MC Fox, Brutuzz and LSB. Next up: Phonox, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vanity Roxane is a drum & bass and dubstep artist based in Netherlands, with 11 
 
 MC Fox, Brutuzz, LSB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityroxane/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityroxane/)*

@@ -1,6 +1,6 @@
 # Viviana Casanova
 
-Viviana Casanova is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Viviana Casanova is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Viviana Casanova is a techno and tech house artist based in Spain, with 41 gigs on soundcheck across Austria, Barcelona, Buenos Aires and Frankfurt and 12 more. Often billed alongside Alignment, Anna Tur and Ben Hemsley. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Viviana Casanova is a techno and tech house artist based in Spain, with 41 gigs 
 
 Alignment, Anna Tur, Ben Hemsley
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianacasanova/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianacasanova/)*

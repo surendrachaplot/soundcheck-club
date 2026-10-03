@@ -1,6 +1,6 @@
 # Neeiv
 
-Neeiv is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sala Core, Malaga on Sat, 10 Oct 2026.
+Neeiv is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Core, Malaga on Sat, 10 Oct 2026.
 
 Neeiv is a baile funk and club artist based in Spain, with 39 gigs on soundcheck across Barcelona, Madrid, Malaga and Montreal. Often billed alongside Nukki, Dj Babatr and Kanti. Next up: Sala Core, Malaga on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Neeiv is a baile funk and club artist based in Spain, with 39 gigs on soundcheck
 
 Nukki, Dj Babatr, Kanti
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neeiv/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neeiv/)*

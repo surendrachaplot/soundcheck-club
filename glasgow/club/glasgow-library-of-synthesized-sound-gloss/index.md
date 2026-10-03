@@ -1,6 +1,6 @@
 # Glasgow Library of Synthesized Sound  (Gloss)
 
-Glasgow Library of Synthesized Sound  (Gloss) is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "4th World Magazine (aka Spencer Clark), Heather Leigh, Dip Friso, Lugh" on Sat, 7 Nov 2026.
+Glasgow Library of Synthesized Sound  (Gloss) is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "4th World Magazine (aka Spencer Clark), Heather Leigh, Dip Friso, Lugh" on Sat, 7 Nov 2026.
 
 Glasgow Library of Synthesized Sound  (Gloss) is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Glasgow Library of Synthesized Sound  (Gloss) is a music venue in Glasgow listed
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 4th World Magazine (aka Spencer Clark), Heather Leigh, Dip Friso, Lugh |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/glasgow-library-of-synthesized-sound-gloss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/glasgow-library-of-synthesized-sound-gloss/)*

@@ -1,6 +1,6 @@
 # CJ Scott
 
-CJ Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Snickars Records, Stockholm on Sat, 31 Oct 2026.
+CJ Scott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Snickars Records, Stockholm on Sat, 31 Oct 2026.
 
 CJ Scott is a house and disco artist, with 7 gigs on soundcheck across Stockholm. Often billed alongside Ari Bald, Karin Bernstrup and Marble. Next up: Snickars Records, Stockholm on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ CJ Scott is a house and disco artist, with 7 gigs on soundcheck across Stockholm
 
 Ari Bald, Karin Bernstrup, Marble
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjscott/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjscott/)*

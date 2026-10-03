@@ -1,14 +1,13 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
+Benny (El Rio Hostel) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 8 Oct 2026.
 
-Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: Les Enfants Brillants, Barcelona on Fri 2 Oct.
+Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: El Rio Hostel, Colombia on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 8 Oct 2026 | El Rio Hostel | Colombia |
 | Sat, 17 Oct 2026 | Rama Soundgarden | Medellin |
 | Thu, 29 Oct 2026 | El Rio Hostel | Colombia |
@@ -16,6 +15,7 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 
 ## Recently played
 
+- Les Enfants Brillants, Barcelona · Fri, 2 Oct 2026
 - Cobalt Studios, Newcastle · Fri, 25 Sept 2026
 - Starlane Pizza Bar, London · Fri, 18 Sept 2026
 - Golden Pudel Club, Hamburg · Fri, 4 Sept 2026
@@ -23,10 +23,9 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 - Lagerwal, Amsterdam · Sat, 25 Oct 2025
 - Golden Pudel Club, Hamburg · Fri, 24 Oct 2025
 - The Love Inn, Bristol · Fri, 17 Oct 2025
-- Bodies in Space, Brussels · Sat, 11 Oct 2025
 
 ## Shares bills with
 
 Adi (CO), Anna Wall, Barbaros
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

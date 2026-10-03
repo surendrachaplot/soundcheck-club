@@ -1,14 +1,13 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+Danilo Filipe is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Odonien, Cologne on Fri, 9 Oct 2026.
 
-Danilo Filipe is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Freiburg and Lisbon and 1 more. Often billed alongside DJ SPORTSCHUH, Lisek and Athina. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
+Danilo Filipe is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Freiburg and Lisbon and 1 more. Often billed alongside DJ SPORTSCHUH, Lisek and Athina. Next up: Odonien, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Hans Bunte Areal | Freiburg |
 | Fri, 9 Oct 2026 | Odonien | Cologne |
 | Fri, 23 Oct 2026 | OST | Berlin |
 | Sat, 28 Nov 2026 | OST | Berlin |
@@ -18,6 +17,7 @@ Danilo Filipe is a techno and trance artist based in Germany, with 19 gigs on so
 
 ## Recently played
 
+- Hans Bunte Areal, Freiburg · Fri, 2 Oct 2026
 - Artheater, Cologne · Sat, 19 Sept 2026
 - Bahnwärter Thiel, Munich · Fri, 18 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 5 Sept 2026
@@ -25,10 +25,9 @@ Danilo Filipe is a techno and trance artist based in Germany, with 19 gigs on so
 - Bootshaus, Cologne · Fri, 24 Jul 2026
 - Lokschuppen Berlin, Berlin · Sun, 19 Jul 2026
 - Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026
-- OST, Berlin · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 DJ SPORTSCHUH, Lisek, Athina
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

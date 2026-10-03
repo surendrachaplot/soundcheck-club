@@ -1,6 +1,6 @@
 # DJ Janky
 
-DJ Janky is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Home Sweet Home, New York City on Thu, 8 Oct 2026.
+DJ Janky is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Home Sweet Home, New York City on Thu, 8 Oct 2026.
 
 DJ Janky is a club and house artist based in United States of America, with 28 gigs on soundcheck across New York City. Often billed alongside Pei Up, TO:NY and EAMMS. Next up: Home Sweet Home, New York City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ DJ Janky is a club and house artist based in United States of America, with 28 g
 
 Pei Up, TO:NY, EAMMS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*

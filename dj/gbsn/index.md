@@ -1,6 +1,6 @@
 # GBSN
 
-GBSN is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cut, Newcastle on Fri, 16 Oct 2026.
+GBSN is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cut, Newcastle on Fri, 16 Oct 2026.
 
 GBSN is a garage and bass artist based in United Kingdom, with 7 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside whoswill, Buckley (UK) and Douvelle19. Next up: The Cut, Newcastle on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ GBSN is a garage and bass artist based in United Kingdom, with 7 gigs on soundch
 
 whoswill, Buckley (UK), Douvelle19
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbsn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbsn/)*

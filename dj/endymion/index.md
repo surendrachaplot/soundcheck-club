@@ -1,6 +1,6 @@
 # Endymion
 
-Endymion is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Endymion is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
 Endymion is a hardcore and gabber artist based in Netherlands, with 14 gigs on soundcheck across Barcelona, Budapest, Frankfurt and Glasgow and 2 more. Often billed alongside Art of Fighters, Dimitri K and Korsakoff. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Endymion is a hardcore and gabber artist based in Netherlands, with 14 gigs on s
 
 Art of Fighters, Dimitri K, Korsakoff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*

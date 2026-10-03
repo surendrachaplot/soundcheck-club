@@ -1,6 +1,6 @@
 # Caspar
 
-Caspar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 7 Oct 2026.
+Caspar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 7 Oct 2026.
 
 Caspar is a house and techno artist, with 7 gigs on soundcheck across Antwerp, Edinburgh, Ghent and Hamburg. Often billed alongside Christian Kluge, Finona Rider and Ilja Franz. Next up: Sneaky Pete's, Edinburgh on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Caspar is a house and techno artist, with 7 gigs on soundcheck across Antwerp, E
 
 Christian Kluge, Finona Rider, Ilja Franz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caspar/)*

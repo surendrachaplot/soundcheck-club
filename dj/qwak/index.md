@@ -1,6 +1,6 @@
 # QWAK
 
-QWAK is a Minimal and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Foundry Collective, London on Sun, 1 Nov 2026.
+QWAK is a Minimal and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Foundry Collective, London on Sun, 1 Nov 2026.
 
 QWAK is a minimal and jazz artist, with 12 gigs on soundcheck across London. Often billed alongside Drozza, Benebe and MAÏS. Next up: The Foundry Collective, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ QWAK is a minimal and jazz artist, with 12 gigs on soundcheck across London. Oft
 
 Drozza, Benebe, MAÏS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qwak/)*

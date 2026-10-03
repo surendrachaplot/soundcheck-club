@@ -1,6 +1,6 @@
 # Vulkanski
 
-Vulkanski is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Vulkanski is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Vulkanski is a techno and ebm artist based in Georgia, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Frequency Shifter, Boyd Schidt and OTHR. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Vulkanski is a techno and ebm artist based in Georgia, with 80 gigs on soundchec
 
 ## Recently played
 
+- Loco Park, Tbilisi · Fri, 2 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 18 Sept 2026
 - KHIDI, Tbilisi · Fri, 11 Sept 2026
 - KHIDI, Tbilisi · Fri, 14 Aug 2026
@@ -19,10 +20,9 @@ Vulkanski is a techno and ebm artist based in Georgia, with 80 gigs on soundchec
 - KHIDI, Tbilisi · Fri, 10 Jul 2026
 - KHIDI, Tbilisi · Fri, 26 Jun 2026
 - KHIDI, Tbilisi · Fri, 5 Jun 2026
-- Ciskari, Tbilisi · Fri, 29 May 2026
 
 ## Shares bills with
 
 Frequency Shifter, Boyd Schidt, OTHR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*

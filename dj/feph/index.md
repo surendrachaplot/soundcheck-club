@@ -1,6 +1,6 @@
 # feph
 
-feph is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+feph is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 feph is a techno and electronica artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Boston, Buenos Aires and Miami. Often billed alongside Mr. Tron, Souls Departed and Artime. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ feph is a techno and electronica artist based in United States of America, with 
 
 Mr. Tron, Souls Departed, Artime
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feph/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feph/)*

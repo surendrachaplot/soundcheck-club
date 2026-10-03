@@ -1,6 +1,6 @@
 # Dora Dox
 
-Dora Dox is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
+Dora Dox is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
 
 Dora Dox is a techno and downtempo artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside KBLZ, CHIEF TORKEL and Paqueta. Next up: Beate Uwe, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dora Dox is a techno and downtempo artist based in Germany, with 15 gigs on soun
 
 KBLZ, CHIEF TORKEL, Paqueta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doradox/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doradox/)*

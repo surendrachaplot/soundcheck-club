@@ -1,6 +1,6 @@
 # Teknobrat
 
-Teknobrat is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
+Teknobrat is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
 
 Teknobrat is a techno and acid artist based in Canada, with 12 gigs on soundcheck across Cologne, Dublin, Liverpool and London and 3 more. Often billed alongside Claus Bachor, Guido Nemola and Joe Smooth. Next up: Telford Arena & Rechabite Concert Hall, Midlands on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Teknobrat is a techno and acid artist based in Canada, with 12 gigs on soundchec
 
 Claus Bachor, Guido Nemola, Joe Smooth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*

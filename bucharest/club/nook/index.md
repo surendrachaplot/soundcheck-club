@@ -1,6 +1,6 @@
 # Nook
 
-Nook is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "FRED AGAIN RAVE - 2nd Edition" on Fri, 16 Oct 2026.
+Nook is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "FRED AGAIN RAVE - 2nd Edition" on Fri, 16 Oct 2026.
 
 Nook is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 18 Constantin Mille St, Bucharest, 010142, Romania.
 
@@ -14,4 +14,4 @@ Nook is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. See dat
 
 18 Constantin Mille St, Bucharest, 010142, Romania, Bucharest
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nook/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nook/)*

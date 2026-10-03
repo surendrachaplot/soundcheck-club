@@ -1,6 +1,6 @@
 # Inu G
 
-Inu G is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
+Inu G is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prince Charles, Berlin on Sat, 3 Oct 2026.
 
 Inu G is a house and bass artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Prince Charles, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Inu G is a house and bass artist based in Germany, with 31 gigs on soundcheck ac
 
 Elpawel, DJLolo, Dolan
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inug/)*

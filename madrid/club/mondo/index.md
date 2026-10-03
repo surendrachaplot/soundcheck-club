@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo" on Sat, 3 Oct 2026.
+Mondo is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Andres Campo / Andres Campo B2B Gerardo Niva / Gerardo Niva" on Sat, 3 Oct 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -8,7 +8,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo | Andres Campo, BIXBITA, Gerardo Niva, Ollie Lishman, pavvvvvvlo |
+| Sat, 3 Oct 2026 | Andres Campo / Andres Campo B2B Gerardo Niva / Gerardo Niva | Andres Campo, Gerardo Niva |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
 | Sat, 10 Oct 2026 | Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto | DJ SWISHERMAN, Diffrent, Emi Koto, Gerardo Niva |
 | Sun, 11 Oct 2026 | AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa | Bad Boombox, Club Angel, Gerardo Niva, Maruwa, salute |
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with li
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

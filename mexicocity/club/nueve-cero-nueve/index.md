@@ -1,6 +1,6 @@
 # nueve cero nueve
 
-nueve cero nueve is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "HYPNIA en nueve cero nueve" on Fri, 2 Oct 2026.
+nueve cero nueve is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HYPNIA en nueve cero nueve" on Fri, 2 Oct 2026.
 
 nueve cero nueve is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including Cinema Paradisco, Jimeno Arnaud, SAUANI and TRIVEAT. See dates, start times and who's playing. C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
@@ -16,4 +16,4 @@ nueve cero nueve is a music venue in Mexico City listed on soundcheck. 3 upcomin
 
 C. Versalles 94, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/nueve-cero-nueve/)*

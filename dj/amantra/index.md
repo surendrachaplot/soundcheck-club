@@ -1,6 +1,6 @@
 # AMANTRA
 
-AMANTRA is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
+AMANTRA is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 AMANTRA is a techno and latin bass artist based in Venezuela, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 6 more. Often billed alongside M8NSE, Puxo and Acidnena. Next up: El Pumarejo Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AMANTRA is a techno and latin bass artist based in Venezuela, with 66 gigs on so
 
 M8NSE, Puxo, Acidnena
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amantra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amantra/)*

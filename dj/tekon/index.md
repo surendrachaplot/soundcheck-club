@@ -1,6 +1,6 @@
 # TEKON
 
-TEKON is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
+TEKON is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
 
 TEKON is a techno and industrial artist based in Greece, with 14 gigs on soundcheck across Amsterdam and Athens. Often billed alongside JX SPARK, Deherian and OBLIVION. Next up: John Doe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TEKON is a techno and industrial artist based in Greece, with 14 gigs on soundch
 
 JX SPARK, Deherian, OBLIVION (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekon/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekon/)*

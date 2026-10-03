@@ -1,6 +1,6 @@
 # Headless Horseman
 
-Headless Horseman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
+Headless Horseman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 Headless Horseman is a techno and industrial artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Athens, Berlin and Birmingham and 17 more. Often billed alongside Flavia Laus, Metaraph and BLACK ANTHEM RESTORE. Next up: EXIT Glasgow, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Headless Horseman is a techno and industrial artist based in Germany, with 45 gi
 
 Flavia Laus, Metaraph, BLACK ANTHEM RESTORE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headlesshorseman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headlesshorseman/)*

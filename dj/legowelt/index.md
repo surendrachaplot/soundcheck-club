@@ -1,6 +1,6 @@
 # Legowelt
 
-Legowelt is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
+Legowelt is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
 
 Legowelt is a techno and electro artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside David Vunk, Ron Morelli and Serge. Next up: Hoppetosse, Berlin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Legowelt is a techno and electro artist based in Netherlands, with 89 gigs on so
 
 David Vunk, Ron Morelli, Serge
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legowelt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legowelt/)*

@@ -1,6 +1,6 @@
 # Giax
 
-Giax is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Superlove, Milan on Thu, 8 Oct 2026.
+Giax is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Superlove, Milan on Thu, 8 Oct 2026.
 
 Giax is a house and hardcore artist, with 8 gigs on soundcheck across Mexico City and Milan. Often billed alongside Flaiv Đarkø, FluffeR and ASURA.. Next up: Superlove, Milan on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Giax is a house and hardcore artist, with 8 gigs on soundcheck across Mexico Cit
 
 Flaiv Đarkø, FluffeR, ASURA.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giax/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giax/)*

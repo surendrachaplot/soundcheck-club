@@ -1,6 +1,6 @@
 # Daniel Stefanik
 
-Daniel Stefanik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Daniel Stefanik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Daniel Stefanik is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Düsseldorf and Leipzig. Often billed alongside Dilivius Lenni, Anna Malysz and BIGALKE. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Daniel Stefanik is a house and techno artist based in Germany, with 10 gigs on s
 
 Dilivius Lenni, Anna Malysz, BIGALKE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielstefanik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielstefanik/)*

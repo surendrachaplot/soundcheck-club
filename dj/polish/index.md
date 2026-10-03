@@ -1,6 +1,6 @@
 # Polish
 
-Polish is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Centrála, Prague on Sat, 24 Oct 2026.
+Polish is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Centrála, Prague on Sat, 24 Oct 2026.
 
 Polish is an industrial and techno artist based in Czech Republic, with 8 gigs on soundcheck across Prague. Often billed alongside WAISS, JROVK and ILLYA R.. Next up: Centrála, Prague on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Polish is an industrial and techno artist based in Czech Republic, with 8 gigs o
 
 WAISS, JROVK, ILLYA R.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polish/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polish/)*

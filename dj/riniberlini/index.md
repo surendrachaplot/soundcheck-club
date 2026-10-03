@@ -1,6 +1,6 @@
 # Rini Berlini
 
-Rini Berlini is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fluor, Netherlands on Fri, 9 Oct 2026.
+Rini Berlini is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fluor, Netherlands on Fri, 9 Oct 2026.
 
 Rini Berlini is a techno and house artist, with 21 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside A L I X, CLAESSENS and Gijsheid. Next up: Fluor, Netherlands on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Rini Berlini is a techno and house artist, with 21 gigs on soundcheck across Ams
 
 A L I X, CLAESSENS, Gijsheid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*

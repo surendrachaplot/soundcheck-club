@@ -1,6 +1,6 @@
 # Sin Maldita
 
-Sin Maldita is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at HAU Hebbel am Ufer, Berlin on Fri, 23 Oct 2026.
+Sin Maldita is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at HAU Hebbel am Ufer, Berlin on Fri, 23 Oct 2026.
 
 Sin Maldita is an experimental and ambient artist based in Germany, with 12 gigs on soundcheck across Berlin, Hamburg, Nürnberg and Prague. Often billed alongside Uxile, bela and x/o. Next up: HAU Hebbel am Ufer, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sin Maldita is an experimental and ambient artist based in Germany, with 12 gigs
 
 Uxile, bela, x/o
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmaldita/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmaldita/)*

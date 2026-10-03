@@ -1,6 +1,6 @@
 # Nesta
 
-Nesta is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fünk, Mexico City on Fri, 23 Oct 2026.
+Nesta is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fünk, Mexico City on Fri, 23 Oct 2026.
 
 Nesta is a house and minimal artist based in Lebanon, with 32 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Andrea Fiorito, Hugo Martinez and Mathew Jonson. Next up: Fünk, Mexico City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Nesta is a house and minimal artist based in Lebanon, with 32 gigs on soundcheck
 
 Andrea Fiorito, Hugo Martinez, Mathew Jonson
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

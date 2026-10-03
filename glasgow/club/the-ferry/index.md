@@ -1,6 +1,6 @@
 # The Ferry
 
-The Ferry is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Taikano The Last Voyage with Umek // Darrell Pulse // AJAY C" on Sat, 14 Nov 2026.
+The Ferry is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Taikano The Last Voyage with Umek // Darrell Pulse // AJAY C" on Sat, 14 Nov 2026.
 
 The Ferry is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Darrell Pulse and Umek. See dates, start times and who's playing. 25 Anderston Quay; Glasgow, G5 8BX; Scotland.
 
@@ -14,4 +14,4 @@ The Ferry is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with
 
 25 Anderston Quay; Glasgow, G5 8BX; Scotland, Glasgow
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ferry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ferry/)*

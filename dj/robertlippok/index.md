@@ -1,6 +1,6 @@
 # Robert Lippok
 
-Robert Lippok is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Robert Lippok is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
 
 Robert Lippok is an experimental and electronica artist based in Germany, with 10 gigs on soundcheck across Berlin, Buenos Aires, Düsseldorf and Leipzig and 4 more. Often billed alongside Daito Manabe, Ali M. Demirel and Alva Noto. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Robert Lippok is an experimental and electronica artist based in Germany, with 1
 
 Daito Manabe, Ali M. Demirel, Alva Noto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertlippok/)*

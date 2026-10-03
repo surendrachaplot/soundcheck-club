@@ -1,6 +1,6 @@
 # WARRECORDS
 
-WARRECORDS is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "WARRECORDS x Nest (nest.kollektive)" on Fri, 23 Oct 2026.
+WARRECORDS is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "WARRECORDS x Nest (nest.kollektive)" on Fri, 23 Oct 2026.
 
 WARRECORDS is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including Jar:ex. See dates, start times and who's playing. Sint-Katelijnevest 42, 2000 Antwerp, Belgium.
 
@@ -14,4 +14,4 @@ WARRECORDS is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, wit
 
 Sint-Katelijnevest 42, 2000 Antwerp, Belgium, Antwerp
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*

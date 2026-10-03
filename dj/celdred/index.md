@@ -1,6 +1,6 @@
 # Celdred
 
-Celdred is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
+Celdred is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
 Celdred is a house and disco artist, with 9 gigs on soundcheck across Manchester. Often billed alongside K1ng Arthur, Nick Charles and Jacob Friday. Next up: Yes, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Celdred is a house and disco artist, with 9 gigs on soundcheck across Manchester
 
 K1ng Arthur, Nick Charles, Jacob Friday
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celdred/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celdred/)*

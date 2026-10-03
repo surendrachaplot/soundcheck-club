@@ -1,6 +1,6 @@
 # Cinema Paradisco
 
-Cinema Paradisco is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 2 Oct 2026.
+Cinema Paradisco is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 2 Oct 2026.
 
 Cinema Paradisco is a house and electronica artist based in Mexico, with 53 gigs on soundcheck across Mexico City. Often billed alongside Disco 86, Alatriste and Dimaio. Next up: nueve cero nueve, Mexico City on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ Cinema Paradisco is a house and electronica artist based in Mexico, with 53 gigs
 
 ## Recently played
 
+- nueve cero nueve, Mexico City · Fri, 2 Oct 2026
 - Tonal, Mexico City · Wed, 9 Sept 2026
 - Drama Radio Bar, Mexico City · Tue, 11 Aug 2026
 - Bar Oriente, Mexico City · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ Cinema Paradisco is a house and electronica artist based in Mexico, with 53 gigs
 - Loo Loo, Mexico City · Sat, 4 Jul 2026
 - Bar Oriente, Mexico City · Thu, 2 Jul 2026
 - Foro Tonalá, Mexico City · Thu, 11 Jun 2026
-- Bar Oriente, Mexico City · Sat, 30 May 2026
 
 ## Shares bills with
 
 Disco 86, Alatriste, Dimaio
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaparadisco/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinemaparadisco/)*

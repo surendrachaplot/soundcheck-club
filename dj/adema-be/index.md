@@ -1,6 +1,6 @@
 # Adema
 
-Adema is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Adema is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Adema is a house and minimal techno artist, with 17 gigs on soundcheck across Barcelona, Brussels, Ghent and Paris and 1 more. Often billed alongside Lowris, Cabanne and Karla Böhm. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Adema is a house and minimal techno artist, with 17 gigs on soundcheck across Ba
 
 Lowris, Cabanne, Karla Böhm
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adema-be/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adema-be/)*

@@ -1,6 +1,6 @@
 # Taso
 
-Taso is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
+Taso is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 Taso is a footwork and bass artist based in United States of America, with 16 gigs on soundcheck across Barcelona, Boston, Edinburgh and Kyoto and 8 more. Often billed alongside DJ Paypal, DJ Spinn and Samurai Breaks. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Taso is a footwork and bass artist based in United States of America, with 16 gi
 
 DJ Paypal, DJ Spinn, Samurai Breaks
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taso/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taso/)*

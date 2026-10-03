@@ -1,6 +1,6 @@
 # Daniella da Silva
 
-Daniella da Silva is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Bassement, Madrid on Thu, 15 Oct 2026.
+Daniella da Silva is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bassement, Madrid on Thu, 15 Oct 2026.
 
 Daniella da Silva is a techno and industrial artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 18 more. Often billed alongside Parsa Jafari, Bárbara Lago and CESAR ALMENA. Next up: The Bassement, Madrid on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Daniella da Silva is a techno and industrial artist based in Germany, with 56 gi
 
 Parsa Jafari, Bárbara Lago, CESAR ALMENA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*

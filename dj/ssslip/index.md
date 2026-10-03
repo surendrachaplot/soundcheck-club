@@ -1,6 +1,6 @@
 # SSSLIP
 
-SSSLIP is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
+SSSLIP is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Sat, 28 Nov 2026.
 
 SSSLIP is a techno and club artist, with 32 gigs on soundcheck across Bristol, Brussels, Istanbul and London and 1 more. Often billed alongside Mulholland, Milly on Air and R.E.D. Next up: The Greyhound, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ SSSLIP is a techno and club artist, with 32 gigs on soundcheck across Bristol, B
 
 Mulholland, Milly on Air, R.E.D
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssslip/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssslip/)*

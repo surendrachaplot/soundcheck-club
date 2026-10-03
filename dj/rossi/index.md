@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Rossi is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
 Rossi is a house and tech house artist based in United Kingdom, with 241 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 241 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

@@ -1,6 +1,6 @@
 # I$A
 
-I$A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+I$A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
 I$A is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Leipzig, Munich and Nürnberg and 1 more. Often billed alongside AGY3NA, Janthe and NAITWA. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -12,6 +12,7 @@ I$A is a house and techno artist based in Germany, with 38 gigs on soundcheck ac
 
 ## Recently played
 
+- Kater, Berlin · Fri, 2 Oct 2026
 - Neue Welle, Leipzig · Sat, 6 Jun 2026
 - Kater, Berlin · Sat, 23 May 2026
 - Bassiani, Tbilisi · Sat, 14 Feb 2026
@@ -19,10 +20,9 @@ I$A is a house and techno artist based in Germany, with 38 gigs on soundcheck ac
 - Distillery, Leipzig · Sat, 13 Sept 2025
 - Kater, Berlin · Fri, 22 Aug 2025
 - RSO.BERLIN, Berlin · Wed, 28 May 2025
-- Institut fuer Zukunft (IfZ), Leipzig · Wed, 1 Jan 2025
 
 ## Shares bills with
 
 AGY3NA, Janthe, NAITWA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-de/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isa-de/)*

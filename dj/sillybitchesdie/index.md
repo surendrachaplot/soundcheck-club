@@ -1,6 +1,6 @@
 # SILLYBITCHESDIE
 
-SILLYBITCHESDIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
+SILLYBITCHESDIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
 
 SILLYBITCHESDIE is a techno and house artist based in Australia, with 41 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Crescendoll (AU) and DAYZZI. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ SILLYBITCHESDIE is a techno and house artist based in Australia, with 41 gigs on
 
 Bouki, Crescendoll (AU), DAYZZI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*

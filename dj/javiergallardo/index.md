@@ -1,6 +1,6 @@
 # Javier Gallardo
 
-Javier Gallardo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Javier Gallardo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Javier Gallardo is a techno and tech house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 4 more. Often billed alongside David Hornung, Jôka and Konrad Schneider. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Javier Gallardo is a techno and tech house artist based in Germany, with 31 gigs
 
 David Hornung, Jôka, Konrad Schneider
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiergallardo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiergallardo/)*

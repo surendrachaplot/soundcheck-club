@@ -1,6 +1,6 @@
 # Thomas Haak
 
-Thomas Haak is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
+Thomas Haak is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
 
 Thomas Haak is a house and disco artist based in Germany, with 47 gigs on soundcheck across Berlin. Often billed alongside A.N.I.C.E., Nikklaas and AWSM. Next up: Cassiopeia, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Thomas Haak is a house and disco artist based in Germany, with 47 gigs on soundc
 
 A.N.I.C.E., Nikklaas, AWSM
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashaak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashaak/)*

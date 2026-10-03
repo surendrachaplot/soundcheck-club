@@ -1,6 +1,6 @@
 # A.Wild
 
-A.Wild is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
+A.Wild is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
 
 A.Wild is a house and deep house artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Bristol, London and New York City. Often billed alongside Luca and Sol, Edward and Acid Sally. Next up: NDR2 Red Room, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ A.Wild is a house and deep house artist based in United Kingdom, with 12 gigs on
 
 Luca and Sol, Edward, Acid Sally
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*

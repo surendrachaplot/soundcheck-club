@@ -1,6 +1,6 @@
 # Miliard
 
-Miliard is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
+Miliard is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
 Miliard is a house and tech house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Chris Stevo, A.Well and Said Dami. Next up: Stanley's, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Miliard is a house and tech house artist based in Australia, with 10 gigs on sou
 
 Chris Stevo, A.Well, Said Dami
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miliard/)*

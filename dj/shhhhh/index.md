@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
+Shhhhh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
 
 Shhhhh is a techno and house artist based in Japan, with 103 gigs on soundcheck across Bali, Chubu, Hong Kong and Kyoto and 7 more. Often billed alongside Compuma, imus and AKIRAM EN. Next up: Goko Farm Auto Campground, Chubu on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Shhhhh is a techno and house artist based in Japan, with 103 gigs on soundcheck 
 
 Compuma, imus, AKIRAM EN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

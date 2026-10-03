@@ -1,6 +1,6 @@
 # Ian Pilosa
 
-Ian Pilosa is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
+Ian Pilosa is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
 
 Ian Pilosa is a techno and bass artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Mambo Kahn, soo:k and Anna Kost. Next up: Hafenklang, Hamburg on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Ian Pilosa is a techno and bass artist based in Germany, with 8 gigs on soundche
 
 Mambo Kahn, soo:k, Anna Kost
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpilosa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpilosa/)*

@@ -1,6 +1,6 @@
 # Paulina
 
-Paulina is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+Paulina is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 Paulina is a techno and drum & bass artist based in Chile, with 7 gigs on soundcheck across Cologne, Hamburg and Paris. Often billed alongside MAURO, Alphamob and Atzendent. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Paulina is a techno and drum & bass artist based in Chile, with 7 gigs on soundc
 
 MAURO, Alphamob, Atzendent
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulina/)*

@@ -1,6 +1,6 @@
 # Nikos (live)
 
-Nikos (live) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
+Nikos (live) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
 
 Nikos (live) is a techno and bass artist based in Netherlands, with 8 gigs on soundcheck across Berlin and Rotterdam. Often billed alongside Nelly (NL), dirtydms and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Nikos (live) is a techno and bass artist based in Netherlands, with 8 gigs on so
 
 Nelly (NL), dirtydms, Efdemin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoslive/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoslive/)*

@@ -1,6 +1,6 @@
 # Desnuda Cocina
 
-Desnuda Cocina is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Desnuda Halloween with Joe Tagessian" on Fri, 30 Oct 2026.
+Desnuda Cocina is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Desnuda Halloween with Joe Tagessian" on Fri, 30 Oct 2026.
 
 Desnuda Cocina is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Joe Tagessian. See dates, start times and who's playing. 647 Tremont St, Boston, MA 02118.
 
@@ -14,4 +14,4 @@ Desnuda Cocina is a music venue in Boston listed on soundcheck. 1 upcoming gig, 
 
 647 Tremont St, Boston, MA 02118, Boston
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/desnuda-cocina/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/desnuda-cocina/)*

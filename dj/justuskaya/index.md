@@ -1,6 +1,6 @@
 # Justus Kaya
 
-Justus Kaya is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+Justus Kaya is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 Justus Kaya is a techno and progressive house artist based in Austria, with 7 gigs on soundcheck across Berlin, Hamburg, Munich and Vienna. Often billed alongside Esther, N:in (DE) and Vroomfondel. Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Justus Kaya is a techno and progressive house artist based in Austria, with 7 gi
 
 Esther, N:in (DE), Vroomfondel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justuskaya/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justuskaya/)*

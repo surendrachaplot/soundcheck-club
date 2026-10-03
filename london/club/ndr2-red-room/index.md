@@ -1,6 +1,6 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Helix Discs: DANCE PROTOCOL, Data Flow, batgirl + more" on Sat, 3 Oct 2026.
+NDR2 Red Room is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Helix Discs: DANCE PROTOCOL, Data Flow, batgirl + more" on Sat, 3 Oct 2026.
 
 NDR2 Red Room is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including A.Wild, Aaron Burr, batgirl and DANCE PROTOCOL and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -22,4 +22,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

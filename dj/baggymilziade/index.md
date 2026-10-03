@@ -1,6 +1,6 @@
 # Baggymilziade
 
-Baggymilziade is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Baggymilziade is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 Baggymilziade is an electronica and club artist based in Greece, with 25 gigs on soundcheck across Athens. Often billed alongside Hybokh, 555ivas and Chico Naral. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Baggymilziade is an electronica and club artist based in Greece, with 25 gigs on
 
 Hybokh, 555ivas, Chico Naral
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baggymilziade/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baggymilziade/)*

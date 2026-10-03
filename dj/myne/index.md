@@ -1,6 +1,6 @@
 # Myne
 
-Myne is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+Myne is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 Myne is a techno artist based in Portugal, with 10 gigs on soundcheck across Amsterdam, Lisbon and London. Often billed alongside Hardbark, Miguel Peres and Alex Pereira. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Myne is a techno artist based in Portugal, with 10 gigs on soundcheck across Ams
 
 Hardbark, Miguel Peres, Alex Pereira
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myne/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myne/)*

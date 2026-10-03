@@ -1,6 +1,6 @@
 # Iglooghost
 
-Iglooghost is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
+Iglooghost is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
 
 Iglooghost is an experimental and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside BABii, HiTech and SHERELLE. Next up: Hotel Forum, Krakow on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Iglooghost is an experimental and electronica artist based in United Kingdom, wi
 
 BABii, HiTech, SHERELLE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*

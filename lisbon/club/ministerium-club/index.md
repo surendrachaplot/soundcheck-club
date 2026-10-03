@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ministerium Club // Meskita, Bernardo Vaz & Hélio" on Fri, 2 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Riktus presents: GAIVEU All Night Long #2" on Sun, 4 Oct 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including Antilope, ANÍBAL, Banditst4r and Bernardo Vaz and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including Antilope, ANÍBAL, Banditst4r and Daox and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Ministerium Club // Meskita, Bernardo Vaz & Hélio | Bernardo Vaz, Helio |
 | Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
 | Fri, 9 Oct 2026 | Ministerium Club // Raresh | Raresh |
 | Sat, 10 Oct 2026 | Ministerium Club // Francisca Urbano, Worm Class & Tiago | Francisca Urbano, Tíago, Worm Class |
@@ -22,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

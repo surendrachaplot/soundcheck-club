@@ -1,6 +1,6 @@
 # Rinaly
 
-Rinaly is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
+Rinaly is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
 
 Rinaly is a trance and techno artist based in Japan, with 4 gigs on soundcheck across Amsterdam, London, Miami and Tokyo. Often billed alongside Somna, AMPRS&ND and Adam Beyer. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
 
@@ -17,4 +17,4 @@ Rinaly is a trance and techno artist based in Japan, with 4 gigs on soundcheck a
 
 Somna, AMPRS&ND, Adam Beyer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*

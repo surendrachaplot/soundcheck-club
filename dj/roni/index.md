@@ -1,6 +1,6 @@
 # RONI
 
-RONI is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+RONI is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
 RONI is a techno and bass artist based in France, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 30 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
@@ -16,6 +16,7 @@ RONI is a techno and bass artist based in France, with 119 gigs on soundcheck ac
 
 ## Recently played
 
+- Café Nuances  - Marais, Paris · Fri, 2 Oct 2026
 - La Terrrazza, Barcelona · Sat, 26 Sept 2026
 - Le 211, Paris · Sat, 19 Sept 2026
 - Macadam, Nantes · Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ RONI is a techno and bass artist based in France, with 119 gigs on soundcheck ac
 - La Fabriek, Brussels · Sat, 29 Aug 2026
 - Boston Manor Park, London · Fri, 31 Jul 2026
 - Palais de Tokyo, Paris · Sat, 25 Jul 2026
-- Petit Bain, Paris · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Lisa More, Aloka, Bambounou
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

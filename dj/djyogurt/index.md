@@ -1,6 +1,6 @@
 # DJ Yogurt
 
-DJ Yogurt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
+DJ Yogurt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
 
 DJ Yogurt is a house and techno artist based in Japan, with 92 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside RYOHEI, SIGNAL (JP) and Osamu M. Next up: WOMB, Tokyo on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ DJ Yogurt is a house and techno artist based in Japan, with 92 gigs on soundchec
 
 RYOHEI, SIGNAL (JP), Osamu M
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyogurt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyogurt/)*

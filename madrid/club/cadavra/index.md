@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 25 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "CDVR with Tornado Wallace" on Fri, 2 Oct 2026.
+Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TIZI with Monile b2b Desirée Falessi" on Sat, 3 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with line-ups including 2garlics, Abdulla A., Alvaro Cabana and Andy Martin and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | CDVR with Tornado Wallace | Alvaro Cabana, Le Nomad, Tornado Wallace |
 | Sat, 3 Oct 2026 | TIZI with Monile b2b Desirée Falessi | Desirée Falessi, Jose Vera, Monile, Ninalash!, Rony Finkel |
 | Thu, 8 Oct 2026 | Stojche & Tremul at Anfang | Stojche, Tremūl |
 | Fri, 9 Oct 2026 | CDVR with Inland Knights | Guarino, Inland Knights, Rafa Santos, Simon Garcia |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 25 upcoming gigs, with 
 | Sat, 17 Oct 2026 | Distrito 91 with Kinetic & Protocolo Sys.ex (live) | Kinetic (2), tekka (2) |
 | Thu, 22 Oct 2026 | IMOGEN at Anfang | IMOGEN, Jakka, VRØD |
 | Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Fernando Costantini |
+| Sat, 24 Oct 2026 | HOLLYWOOD with Diamin | Diamin, TWO EX |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

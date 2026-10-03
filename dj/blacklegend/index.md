@@ -1,6 +1,6 @@
 # Black Legend
 
-Black Legend is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Black Legend is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Black Legend is a house and tech house artist based in Italy, with 5 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Angelo Ferreri, Luca Guerrieri and Ridney. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ Black Legend is a house and tech house artist based in Italy, with 5 gigs on sou
 
 Angelo Ferreri, Luca Guerrieri, Ridney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklegend/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklegend/)*

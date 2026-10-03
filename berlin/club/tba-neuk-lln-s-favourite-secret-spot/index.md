@@ -1,6 +1,6 @@
 # TBA - Neukölln's favourite secret spot
 
-TBA - Neukölln's favourite secret spot is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "EAT ME" on Fri, 16 Oct 2026.
+TBA - Neukölln's favourite secret spot is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "EAT ME" on Fri, 16 Oct 2026.
 
 TBA - Neukölln's favourite secret spot is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Neukölln's favourite secret spot is a music venue in Berlin listed on sou
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | EAT ME |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln-s-favourite-secret-spot/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln-s-favourite-secret-spot/)*

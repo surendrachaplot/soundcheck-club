@@ -1,6 +1,6 @@
 # dgbt
 
-dgbt is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
+dgbt is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Urban Spree, Berlin on Sat, 24 Oct 2026.
 
 dgbt is a techno and downtempo artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, London and Warsaw. Often billed alongside Desiree', babsko and David Ramsay. Next up: Urban Spree, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ dgbt is a techno and downtempo artist based in United Kingdom, with 13 gigs on s
 
 Desiree', babsko, David Ramsay
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dgbt/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dgbt/)*

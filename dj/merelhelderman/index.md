@@ -1,14 +1,13 @@
 # Merel Helderman
 
-Merel Helderman is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 2 Oct 2026.
+Merel Helderman is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
-Merel Helderman is a house and techno artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Berlin, Melbourne and The Hague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: Radio Radio, Amsterdam on Fri 2 Oct.
+Merel Helderman is a house and techno artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Berlin, Melbourne and The Hague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: Borisov Amsterdam, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 10 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Radio Radio | Amsterdam |
@@ -20,6 +19,7 @@ Merel Helderman is a house and techno artist based in Netherlands, with 75 gigs 
 
 ## Recently played
 
+- Radio Radio, Amsterdam · Fri, 2 Oct 2026
 - Thuishaven, Amsterdam · Sun, 27 Sept 2026
 - Colorado Charlie, The Hague · Fri, 18 Sept 2026
 - BRET, Amsterdam · Fri, 18 Sept 2026
@@ -27,10 +27,9 @@ Merel Helderman is a house and techno artist based in Netherlands, with 75 gigs 
 - BRET, Amsterdam · Fri, 18 Sept 2026
 - nachbar, Amsterdam · Fri, 11 Sept 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
-- De Vleeshal, Amsterdam · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Benny Rodrigues, Boris Coelman, Moody Mehran
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*

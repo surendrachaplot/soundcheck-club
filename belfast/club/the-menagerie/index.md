@@ -1,6 +1,6 @@
 # The Menagerie
 
-The Menagerie is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Mush Room presents Om Unit" on Sat, 5 Dec 2026.
+The Menagerie is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Mush Room presents Om Unit" on Sat, 5 Dec 2026.
 
 The Menagerie is a music venue in Belfast listed on soundcheck. 1 upcoming gig, with line-ups including Om Unit. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Menagerie is a music venue in Belfast listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Mush Room presents Om Unit | Om Unit |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-menagerie/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-menagerie/)*

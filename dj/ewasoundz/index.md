@@ -1,6 +1,6 @@
 # EWASOUNDZ
 
-EWASOUNDZ is a Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
+EWASOUNDZ is a Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
 
 EWASOUNDZ is a club artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside JuicySteamedHams, Sha3by Chic and Darama. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ EWASOUNDZ is a club artist based in United Kingdom, with 7 gigs on soundcheck ac
 
 JuicySteamedHams, Sha3by Chic, Darama
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewasoundz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewasoundz/)*

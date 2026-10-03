@@ -1,6 +1,6 @@
 # Alisa Murphy
 
-Alisa Murphy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
+Alisa Murphy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
 
 Alisa Murphy is a techno and acid artist, with 48 gigs on soundcheck across Athens, London and Tbilisi. Often billed alongside Imperium, Pelany and EMPERØR. Next up: Oddity Club, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alisa Murphy is a techno and acid artist, with 48 gigs on soundcheck across Athe
 
 Imperium, Pelany, EMPERØR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*

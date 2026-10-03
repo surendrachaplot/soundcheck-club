@@ -1,6 +1,6 @@
 # Meakat
 
-Meakat is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Meakat is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Meakat is a techno and deep house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Kyttiara, Marc Eisenberg and V (NYC). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Meakat is a techno and deep house artist based in Germany, with 9 gigs on soundc
 
 Kyttiara, Marc Eisenberg, V (NYC)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meakat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meakat/)*

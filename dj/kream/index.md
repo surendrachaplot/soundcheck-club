@@ -1,6 +1,6 @@
 # KREAM
 
-KREAM is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kesselhaus, Berlin on Fri, 16 Oct 2026.
+KREAM is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kesselhaus, Berlin on Fri, 16 Oct 2026.
 
 KREAM is a house and techno artist based in Norway, with 68 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 30 more. Often billed alongside James Hype (UK), Adam Beyer and Alesso. Next up: Kesselhaus, Berlin on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ KREAM is a house and techno artist based in Norway, with 68 gigs on soundcheck a
 
 James Hype (UK), Adam Beyer, Alesso
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*

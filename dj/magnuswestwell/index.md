@@ -1,6 +1,6 @@
 # Magnus Westwell
 
-Magnus Westwell is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The White Hotel, Manchester on Thu, 8 Oct 2026.
+Magnus Westwell is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Thu, 8 Oct 2026.
 
 Magnus Westwell is a techno and ambient artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Glasgow, London and Manchester. Often billed alongside Malthus, ELIXIR and INKARA. Next up: The White Hotel, Manchester on Thu 8 Oct.
 
@@ -23,4 +23,4 @@ Magnus Westwell is a techno and ambient artist based in United Kingdom, with 7 g
 
 Malthus, ELIXIR, INKARA
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuswestwell/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuswestwell/)*

@@ -1,6 +1,6 @@
 # imo-Lu
 
-imo-Lu is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
+imo-Lu is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
 
 imo-Lu is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside Winslow, Corran and LSB. Next up: Volks, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ imo-Lu is a drum & bass and jungle artist based in United Kingdom, with 27 gigs 
 
 Winslow, Corran, LSB
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*

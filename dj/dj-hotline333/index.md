@@ -1,6 +1,6 @@
 # DJ-HOTLINE 333
 
-DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 DJ-HOTLINE 333 is an electro and house artist based in Greece, with 25 gigs on soundcheck across Athens, Berlin, Bucharest and Detroit and 1 more. Often billed alongside BRAVA, DJ LESSONS and Hughesee. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ-HOTLINE 333 is an electro and house artist based in Greece, with 25 gigs on s
 
 BRAVA, DJ LESSONS, Hughesee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*

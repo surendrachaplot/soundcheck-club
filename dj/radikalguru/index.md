@@ -1,6 +1,6 @@
 # Radikal Guru
 
-Radikal Guru is a Dub and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at 100cznia, Gdansk on Sat, 3 Oct 2026.
+Radikal Guru is a Dub and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 100cznia, Gdansk on Sat, 3 Oct 2026.
 
 Radikal Guru is a dub and dubstep artist, with 9 gigs on soundcheck across Athens, Brighton, Bucharest and Dublin and 4 more. Often billed alongside Radikal, Anna Mystic and Big Shine. Next up: 100cznia, Gdansk on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Radikal Guru is a dub and dubstep artist, with 9 gigs on soundcheck across Athen
 
 Radikal, Anna Mystic, Big Shine
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radikalguru/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radikalguru/)*

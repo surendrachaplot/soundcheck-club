@@ -1,6 +1,6 @@
 # Alif Hilal
 
-Alif Hilal is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
+Alif Hilal is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
 
 Alif Hilal is an experimental and techno artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 19 more. Often billed alongside Carmen Villain, Fergus Jones and Amelia Holt. Next up: The Loco Klub, Bristol on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Alif Hilal is an experimental and techno artist based in United States of Americ
 
 Carmen Villain, Fergus Jones, Amelia Holt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*

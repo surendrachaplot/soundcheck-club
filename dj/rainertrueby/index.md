@@ -1,6 +1,6 @@
 # Rainer Trüby
 
-Rainer Trüby is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Rainer Trüby is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
 Rainer Trüby is a disco and house artist based in Germany, with 12 gigs on soundcheck across Canary Islands, Hamburg, London and Manchester and 5 more. Often billed alongside Miche, Abigail Ward and Andy Ward. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rainer Trüby is a disco and house artist based in Germany, with 12 gigs on soun
 
 Miche, Abigail Ward, Andy Ward
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainertrueby/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainertrueby/)*

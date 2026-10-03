@@ -1,6 +1,6 @@
 # Unthink
 
-Unthink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Unthink is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
 Unthink is a techno and house artist based in Ireland, with 8 gigs on soundcheck across Berlin and Dublin. Often billed alongside Jay Carroll, Offtrack and Alex Sparrow. Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Unthink is a techno and house artist based in Ireland, with 8 gigs on soundcheck
 
 Jay Carroll, Offtrack, Alex Sparrow
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unthink/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unthink/)*

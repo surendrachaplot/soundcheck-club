@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
+Six Sex is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
 
 Six Sex is a techno and reggaeton artist based in Argentina, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 22 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Six Sex is a techno and reggaeton artist based in Argentina, with 50 gigs on sou
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

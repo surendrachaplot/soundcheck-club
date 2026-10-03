@@ -1,6 +1,6 @@
 # Daniel Jaramillo
 
-Daniel Jaramillo is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marmorbar, Berlin on Fri, 9 Oct 2026.
+Daniel Jaramillo is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marmorbar, Berlin on Fri, 9 Oct 2026.
 
 Daniel Jaramillo is a minimal and deep house artist based in Ecuador, with 62 gigs on soundcheck across Berlin and Paris. Often billed alongside DAZA, Culo Sucio and Marko Cardona. Next up: Marmorbar, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Daniel Jaramillo is a minimal and deep house artist based in Ecuador, with 62 gi
 
 DAZA, Culo Sucio, Marko Cardona
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaramillo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danieljaramillo/)*

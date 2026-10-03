@@ -1,6 +1,6 @@
 # Handsome Rob
 
-Handsome Rob is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
+Handsome Rob is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
 
 Handsome Rob is a club and dancehall artist based in United Kingdom, with 8 gigs on soundcheck across Auckland, Barcelona, London and Melbourne. Often billed alongside Lil C, Lagoon Femshayma and Architect. Next up: Razzmatazz, Barcelona on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Handsome Rob is a club and dancehall artist based in United Kingdom, with 8 gigs
 
 Lil C, Lagoon Femshayma, Architect
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handsomerob/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handsomerob/)*

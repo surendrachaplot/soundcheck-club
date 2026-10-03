@@ -1,6 +1,6 @@
 # Electric Visionary
 
-Electric Visionary is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
+Electric Visionary is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
 Electric Visionary is an italo disco and electro artist based in Germany, with 57 gigs on soundcheck across Barcelona, Berlin, Cologne and Leipzig. Often billed alongside Leyda Isasso, Desolate Discotheque and Audio Vacanze. Next up: ://about blank, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Electric Visionary is an italo disco and electro artist based in Germany, with 5
 
 Leyda Isasso, Desolate Discotheque, Audio Vacanze
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electricvisionary/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electricvisionary/)*

@@ -1,6 +1,6 @@
 # Bobby Scallop
 
-Bobby Scallop is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Soup, Manchester on Fri, 18 Dec 2026.
+Bobby Scallop is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soup, Manchester on Fri, 18 Dec 2026.
 
 Bobby Scallop is a techno and tech house artist based in United Kingdom, with 24 gigs on soundcheck across London and Manchester. Often billed alongside Ells, DJOM and Fenton Haslam. Next up: Soup, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Bobby Scallop is a techno and tech house artist based in United Kingdom, with 24
 
 Ells, DJOM, Fenton Haslam
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyscallop/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyscallop/)*

@@ -1,6 +1,6 @@
 # KEEFE
 
-KEEFE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 24 Oct 2026.
+KEEFE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 24 Oct 2026.
 
 KEEFE is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside mike ext, Nathaniel Pavel and Adam Pecho. Next up: Smoke & Mirrors, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KEEFE is a techno and house artist based in United States of America, with 33 gi
 
 mike ext, Nathaniel Pavel, Adam Pecho
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keefe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keefe/)*

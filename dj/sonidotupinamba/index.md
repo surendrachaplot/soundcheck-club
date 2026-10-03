@@ -1,6 +1,6 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
+Sonido Tupinamba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
 Sonido Tupinamba is a house and disco artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sonido Tupinamba is a house and disco artist based in Spain, with 76 gigs on sou
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

@@ -1,6 +1,6 @@
 # James Cherry
 
-James Cherry is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at MODULE, Copenhagen on Sat, 10 Oct 2026.
+James Cherry is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MODULE, Copenhagen on Sat, 10 Oct 2026.
 
 James Cherry is a techno and tech house artist based in Ireland, with 10 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside UniKhatu, CSILLA and Daviti. Next up: MODULE, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ James Cherry is a techno and tech house artist based in Ireland, with 10 gigs on
 
 UniKhatu, CSILLA, Daviti
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescherry/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescherry/)*

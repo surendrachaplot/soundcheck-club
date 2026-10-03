@@ -1,6 +1,6 @@
 # bxrnadetth
 
-bxrnadetth is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
+bxrnadetth is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atno, Budapest on Sat, 3 Oct 2026.
 
 bxrnadetth is a techno and industrial artist based in Hungary, with 34 gigs on soundcheck across Berlin, Budapest, Istanbul and Madrid and 1 more. Often billed alongside Gingershot, Indirect Movement and AGA2L. Next up: Atno, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ bxrnadetth is a techno and industrial artist based in Hungary, with 34 gigs on s
 
 Gingershot, Indirect Movement, AGA2L
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bxrnadetth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bxrnadetth/)*

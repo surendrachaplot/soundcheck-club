@@ -1,6 +1,6 @@
 # Terry Golden
 
-Terry Golden is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
+Terry Golden is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
 
 Terry Golden is a techno and progressive house artist based in Denmark, with 3 gigs on soundcheck across Amsterdam and Seoul. Often billed alongside Nathassia, Ginchy and Andrew Rayel. Next up: Bar Rouge, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Terry Golden is a techno and progressive house artist based in Denmark, with 3 g
 
 Nathassia, Ginchy, Andrew Rayel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrygolden/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrygolden/)*

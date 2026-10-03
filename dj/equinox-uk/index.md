@@ -1,6 +1,6 @@
 # Equinox (UK)
 
-Equinox (UK) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
+Equinox (UK) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 Equinox (UK) is a jungle and drum & bass artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Tim Reaper. Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Equinox (UK) is a jungle and drum & bass artist based in United Kingdom, with 71
 
 Louise Plus One, Hughesee, Tim Reaper
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equinox-uk/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equinox-uk/)*

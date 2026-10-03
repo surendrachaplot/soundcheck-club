@@ -1,6 +1,6 @@
 # Pal Joey
 
-Pal Joey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
+Pal Joey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
 
 Pal Joey is a house and disco artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Liverpool and 3 more. Often billed alongside Giles Smith, Moplen and DJ André. Next up: Paloma, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pal Joey is a house and disco artist based in United States of America, with 11 
 
 Giles Smith, Moplen, DJ André
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paljoey/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paljoey/)*

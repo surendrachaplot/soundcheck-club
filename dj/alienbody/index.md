@@ -1,0 +1,24 @@
+# Alien Body
+
+Alien Body is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+
+Alien Body is a techno and footwork artist based in United States of America, with 5 gigs on soundcheck across Philadelphia. Often billed alongside Blueverbs, Caiya and GorpoPap. Next up: Ulana's, Philadelphia on Sat 17 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 17 Oct 2026 | Ulana's | Philadelphia |
+
+## Recently played
+
+- Ulana's, Philadelphia · Fri, 7 Aug 2026
+- Ulana's, Philadelphia · Fri, 10 Jul 2026
+- TBA, Philadelphia · Fri, 26 Jun 2026
+- Ulana's, Philadelphia · Fri, 13 Mar 2026
+
+## Shares bills with
+
+Blueverbs, Caiya, GorpoPap
+
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alienbody/)*

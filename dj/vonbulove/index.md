@@ -1,6 +1,6 @@
 # Von Bülove
 
-Von Bülove is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at control, Bucharest on Sat, 3 Oct 2026.
+Von Bülove is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at control, Bucharest on Sat, 3 Oct 2026.
 
 Von Bülove is a techno and house artist based in Romania, with 15 gigs on soundcheck across Bucharest. Often billed alongside Admina, Andreea Veder and Bogman. Next up: control, Bucharest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Von Bülove is a techno and house artist based in Romania, with 15 gigs on sound
 
 Admina, Andreea Veder, Bogman
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbulove/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbulove/)*

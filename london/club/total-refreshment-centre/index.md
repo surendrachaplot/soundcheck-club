@@ -1,6 +1,6 @@
 # Total Refreshment Centre
 
-Total Refreshment Centre is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Sweetnighter: 8th Year Anniversary" on Sat, 10 Oct 2026.
+Total Refreshment Centre is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sweetnighter: 8th Year Anniversary" on Sat, 10 Oct 2026.
 
 Total Refreshment Centre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Andrea Montalto and Joseph Russell. See dates, start times and who's playing. Unit 2, Farleigh Place, N16 7SX.
 
@@ -14,4 +14,4 @@ Total Refreshment Centre is a music venue in London listed on soundcheck. 1 upco
 
 Unit 2, Farleigh Place, N16 7SX, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/total-refreshment-centre/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/total-refreshment-centre/)*

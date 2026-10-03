@@ -1,6 +1,6 @@
 # JASSS
 
-JASSS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+JASSS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 JASSS is a techno and house artist based in Spain, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -18,6 +18,7 @@ JASSS is a techno and house artist based in Spain, with 177 gigs on soundcheck a
 
 ## Recently played
 
+- Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - Nowadays, New York City · Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -25,10 +26,9 @@ JASSS is a techno and house artist based in Spain, with 177 gigs on soundcheck a
 - Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
 - RADION, Amsterdam · Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
-- KREUZWERK, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 CEM, MCMLXXXV, Dj Saliva
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*

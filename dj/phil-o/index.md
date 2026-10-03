@@ -1,6 +1,6 @@
 # Phil-o
 
-Phil-o is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
+Phil-o is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
 
 Phil-o is a house and tech house artist based in Italy, with 10 gigs on soundcheck across Amsterdam and Rome. Often billed alongside Luca Bortolo, Sanne Dammers and brokenhead. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Phil-o is a house and tech house artist based in Italy, with 10 gigs on soundche
 
 Luca Bortolo, Sanne Dammers, brokenhead
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*

@@ -1,6 +1,6 @@
 # Stiftskeller Klosterneuburg
 
-Stiftskeller Klosterneuburg is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "AWSM. LEOPOLDI AFTERPARTY" on Sat, 14 Nov 2026.
+Stiftskeller Klosterneuburg is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "AWSM. LEOPOLDI AFTERPARTY" on Sat, 14 Nov 2026.
 
 Stiftskeller Klosterneuburg is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stiftskeller Klosterneuburg is a music venue in Vienna listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | AWSM. LEOPOLDI AFTERPARTY |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/stiftskeller-klosterneuburg/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/stiftskeller-klosterneuburg/)*

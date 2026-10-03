@@ -1,6 +1,6 @@
 # Ottäkam
 
-Ottäkam is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Macadam, Nantes on Fri, 20 Nov 2026.
+Ottäkam is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macadam, Nantes on Fri, 20 Nov 2026.
 
 Ottäkam is a trance and house artist, with 11 gigs on soundcheck across Düsseldorf and Nantes. Often billed alongside Da:mu, RAL.X and SIWAL. Next up: Macadam, Nantes on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ottäkam is a trance and house artist, with 11 gigs on soundcheck across Düssel
 
 Da:mu, RAL.X, SIWAL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottakam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottakam/)*

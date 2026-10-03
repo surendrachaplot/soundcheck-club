@@ -1,6 +1,6 @@
 # Dual DeStress
 
-Dual DeStress is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
+Dual DeStress is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
 
 Dual DeStress is a techno and progressive house artist based in Hungary, with 20 gigs on soundcheck across Budapest and Vienna. Often billed alongside Dreadsun, Alena Noctis and Belocca. Next up: Kassa Boat, Budapest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dual DeStress is a techno and progressive house artist based in Hungary, with 20
 
 Dreadsun, Alena Noctis, Belocca
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdestress/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdestress/)*

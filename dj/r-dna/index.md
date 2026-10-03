@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Reforesters Laboratory, New York City on Sat, 10 Oct 2026.
+R-DNA is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Reforesters Laboratory, New York City on Sat, 10 Oct 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, with 30 gigs on soundcheck across New York City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Reforesters Laboratory, New York City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, with 30 gigs on soundc
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

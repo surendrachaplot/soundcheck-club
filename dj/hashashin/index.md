@@ -1,6 +1,6 @@
 # Hashashin
 
-Hashashin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Eclipse Club, Naples on Sat, 17 Oct 2026.
+Hashashin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eclipse Club, Naples on Sat, 17 Oct 2026.
 
 Hashashin is a techno and house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Berlin, Ghent and Naples and 6 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: Eclipse Club, Naples on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Hashashin is a techno and house artist based in Netherlands, with 49 gigs on sou
 
 François X, BIANKA, Beste Hira
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*

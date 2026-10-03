@@ -1,6 +1,6 @@
 # Roberta
 
-Roberta is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
+Roberta is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
 
 Roberta is a techno and hip-hop artist based in Mexico, with 8 gigs on soundcheck across Mexico City. Often billed alongside Laura Put, Sumiruna and Alacrán del Amor. Next up: TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Roberta is a techno and hip-hop artist based in Mexico, with 8 gigs on soundchec
 
 Laura Put, Sumiruna, Alacrán del Amor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta/)*

@@ -1,6 +1,6 @@
 # Underground Solution 30th Birthday Party (Part 2) at La Belle Angele
 
-Underground Solution 30th Birthday Party (Part 2) at La Belle Angele on Sat 10 Oct, Edinburgh. 7 artists: Eclair Fifi, Feena, Linkwood and Lord Of The Isles and 3 more. See the line-up on soundcheck.
+Underground Solution 30th Birthday Party (Part 2) at La Belle Angele on Sat 10 Oct, Edinburgh. 7 artists: Eclair Fifi, Feena, Linkwood and Lord Of The Isles and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

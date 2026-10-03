@@ -1,6 +1,6 @@
 # TeaOtim
 
-TeaOtim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
+TeaOtim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
 
 TeaOtim is a techno and trance artist, with 8 gigs on soundcheck across Berlin and Brussels. Often billed alongside Backlight, Billy Boy and Yōkai.. Next up: Jungle Bar, Brussels on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ TeaOtim is a techno and trance artist, with 8 gigs on soundcheck across Berlin a
 
 Backlight, Billy Boy, Yōkai.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teaotim/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teaotim/)*

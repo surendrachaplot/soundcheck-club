@@ -1,6 +1,6 @@
 # Kamino
 
-Kamino is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Kamino is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Kamino is a tech house and house artist based in United Kingdom, with 31 gigs on soundcheck across Austin, Boston, Chicago and Denver and 9 more. Often billed alongside Cassian, Azzecca and Chris Lorenzo. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Kamino is a tech house and house artist based in United Kingdom, with 31 gigs on
 
 Cassian, Azzecca, Chris Lorenzo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*

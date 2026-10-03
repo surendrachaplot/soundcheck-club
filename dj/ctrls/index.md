@@ -1,6 +1,6 @@
 # Ctrls
 
-Ctrls is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 9 Oct 2026.
+Ctrls is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 9 Oct 2026.
 
 Ctrls is a techno and trance artist based in Denmark, with 46 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Denmark and 4 more. Often billed alongside Kate Miao, N.E.GIRL and Anastasia Kristensen. Next up: Den Anden Side, Copenhagen on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ctrls is a techno and trance artist based in Denmark, with 46 gigs on soundcheck
 
 Kate Miao, N.E.GIRL, Anastasia Kristensen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrls/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrls/)*

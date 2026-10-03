@@ -1,6 +1,6 @@
 # Cité De La Musique
 
-Cité De La Musique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Jlin / Third Coast Percussion: Vernacular" on Tue, 3 Nov 2026.
+Cité De La Musique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jlin / Third Coast Percussion: Vernacular" on Tue, 3 Nov 2026.
 
 Cité De La Musique is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Acid Arab, Jeff Mills and Jlin. See dates, start times and who's playing. 221, Avenue Jean Jaurès, 75019 Paris, France.
 
@@ -17,4 +17,4 @@ Cité De La Musique is a music venue in Paris listed on soundcheck. 4 upcoming g
 
 221, Avenue Jean Jaurès, 75019 Paris, France, Paris
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cit-de-la-musique/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cit-de-la-musique/)*

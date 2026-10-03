@@ -1,6 +1,6 @@
 # City Market
 
-City Market is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Insomniac presents I Hate Models" on Sat, 7 Nov 2026.
+City Market is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Insomniac presents I Hate Models" on Sat, 7 Nov 2026.
 
 City Market is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Eli Brown, HNTR, I Hate Models and LEISAN and 1 more. See dates, start times and who's playing. 1057 San Pedro St..
 
@@ -15,4 +15,4 @@ City Market is a music venue in Los Angeles listed on soundcheck. 2 upcoming gig
 
 1057 San Pedro St., Los Angeles
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/city-market/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/city-market/)*

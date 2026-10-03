@@ -1,6 +1,6 @@
 # IN2POL
 
-IN2POL is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
+IN2POL is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
 
 IN2POL is a house and disco artist based in Australia, with 11 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside DJ Luv You, Love, Jess and Mikalah Watego. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ IN2POL is a house and disco artist based in Australia, with 11 gigs on soundchec
 
 DJ Luv You, Love, Jess, Mikalah Watego
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*

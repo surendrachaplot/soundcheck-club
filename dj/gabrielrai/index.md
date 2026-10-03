@@ -1,6 +1,6 @@
 # Gabriel Rai
 
-Gabriel Rai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Movers, Nottingham on Fri, 13 Nov 2026.
+Gabriel Rai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Movers, Nottingham on Fri, 13 Nov 2026.
 
 Gabriel Rai is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Ibiza, Leeds and Lisbon and 6 more. Often billed alongside Craig Richards, Bobby. and Olita (UK). Next up: Movers, Nottingham on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gabriel Rai is a house and techno artist based in United Kingdom, with 35 gigs o
 
 Craig Richards, Bobby., Olita (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*

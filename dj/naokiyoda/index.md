@@ -1,6 +1,6 @@
 # Naoki Yoda
 
-Naoki Yoda is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Metro, Kyoto on Fri, 9 Oct 2026.
+Naoki Yoda is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Metro, Kyoto on Fri, 9 Oct 2026.
 
 Naoki Yoda is a jazz and house artist based in Japan, with 14 gigs on soundcheck across Kyoto. Often billed alongside Masaki Tamura, Shuya Okino and SOIL. Next up: Club Metro, Kyoto on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Naoki Yoda is a jazz and house artist based in Japan, with 14 gigs on soundcheck
 
 Masaki Tamura, Shuya Okino, SOIL
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiyoda/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiyoda/)*

@@ -1,6 +1,6 @@
 # Yolanda Be Cool
 
-Yolanda Be Cool is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
+Yolanda Be Cool is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
 
 Yolanda Be Cool is a house and tech house artist based in Australia, with 23 gigs on soundcheck across Auckland, Bali, Los Angeles and Melbourne and 6 more. Often billed alongside Bella Backe, Chris Lake and HoneyLuv. Next up: Tumbalong Park, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Yolanda Be Cool is a house and tech house artist based in Australia, with 23 gig
 
 Bella Backe, Chris Lake, HoneyLuv
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yolandabecool/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yolandabecool/)*

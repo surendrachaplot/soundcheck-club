@@ -1,6 +1,6 @@
 # Chich
 
-Chich is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
+Chich is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
 
 Chich is a techno and house artist based in Luxembourg, with 26 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Malta and 4 more. Often billed alongside Marco Ramos, Industrialyzer and Miss Oana. Next up: NADA Lisbon, Lisbon on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Chich is a techno and house artist based in Luxembourg, with 26 gigs on soundche
 
 Marco Ramos, Industrialyzer, Miss Oana
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*

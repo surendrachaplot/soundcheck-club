@@ -1,6 +1,6 @@
 # Pacha DJ
 
-Pacha DJ is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Pacha DJ is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
 Pacha DJ is a bass and club artist based in Mexico, with 39 gigs on soundcheck across Mexico City and New York City. Often billed alongside kyxm, ethereal.mvp and martine. Next up: Mood Ring, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pacha DJ is a bass and club artist based in Mexico, with 39 gigs on soundcheck a
 
 kyxm, ethereal.mvp, martine (5)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pachadj/)*

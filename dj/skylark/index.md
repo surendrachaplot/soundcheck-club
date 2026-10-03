@@ -1,6 +1,6 @@
 # Skylark
 
-Skylark is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Volks, Brighton on Sat, 3 Oct 2026.
+Skylark is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Volks, Brighton on Sat, 3 Oct 2026.
 
 Skylark is a drum & bass and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, Ghent, London and Madrid and 3 more. Often billed alongside Halogenix, Ill Truth and Rider Shafique. Next up: Volks, Brighton on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Skylark is a drum & bass and dubstep artist based in United Kingdom, with 9 gigs
 
 Halogenix, Ill Truth, Rider Shafique
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skylark/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skylark/)*

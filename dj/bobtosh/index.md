@@ -1,6 +1,6 @@
 # Bob Tosh
 
-Bob Tosh is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
+Bob Tosh is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
 
 Bob Tosh is a techno and electronica artist based in Argentina, with 32 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 2 more. Often billed alongside 6RAJ, Ark Nomads and Chapa & Castelo. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Bob Tosh is a techno and electronica artist based in Argentina, with 32 gigs on 
 
 6RAJ, Ark Nomads, Chapa & Castelo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*

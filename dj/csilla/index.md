@@ -1,6 +1,6 @@
 # CSILLA
 
-CSILLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
+CSILLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
 
 CSILLA is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Berlin, Boston, Detroit and Houston and 6 more. Often billed alongside KXAH, SSG_ and jay york. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ CSILLA is a techno and house artist based in United States of America, with 83 g
 
 KXAH, SSG_, jay york
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/csilla/)*

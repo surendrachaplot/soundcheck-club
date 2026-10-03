@@ -1,6 +1,6 @@
 # Old Savings Bank
 
-Old Savings Bank is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "The Heist - Old Savings Bank Halloween feat. Emmit Fenn" on Fri, 30 Oct 2026.
+Old Savings Bank is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Heist - Old Savings Bank Halloween feat. Emmit Fenn" on Fri, 30 Oct 2026.
 
 Old Savings Bank is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. One Hanson Pl, Brooklyn, NY 11243.
 
@@ -15,4 +15,4 @@ Old Savings Bank is a music venue in New York City listed on soundcheck. 2 upcom
 
 One Hanson Pl, Brooklyn, NY 11243, New York City
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/old-savings-bank/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/old-savings-bank/)*

@@ -1,6 +1,6 @@
 # Dany E
 
-Dany E is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Theo, Amsterdam on Wed, 21 Oct 2026.
+Dany E is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Theo, Amsterdam on Wed, 21 Oct 2026.
 
 Dany E is a house and deep house artist based in Mexico, with 17 gigs on soundcheck across Amsterdam, Ibiza, Mexico City and Paris. Often billed alongside Barreto, Zombies In Miami and Danesholme. Next up: Bar Theo, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Dany E is a house and deep house artist based in Mexico, with 17 gigs on soundch
 
 Barreto, Zombies In Miami, Danesholme
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danye/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danye/)*

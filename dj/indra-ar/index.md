@@ -1,14 +1,15 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
+INDRA TRAFERRI is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
 
-INDRA TRAFERRI is a house and tech house artist based in Argentina, with 54 gigs on soundcheck across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
+INDRA TRAFERRI is a house and tech house artist based in Argentina, with 55 gigs on soundcheck across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 17 Oct 2026 | BUS Hexperience | Barcelona |
 | Thu, 29 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
@@ -27,4 +28,4 @@ INDRA TRAFERRI is a house and tech house artist based in Argentina, with 54 gigs
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

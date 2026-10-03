@@ -1,6 +1,6 @@
 # Ruben XXL
 
-Ruben XXL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at City Hall, Barcelona on Sat, 17 Oct 2026.
+Ruben XXL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at City Hall, Barcelona on Sat, 17 Oct 2026.
 
 Ruben XXL is a techno and electronica artist based in Spain, with 15 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ricardo F, TOTTI and Xavi BCN. Next up: City Hall, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ruben XXL is a techno and electronica artist based in Spain, with 15 gigs on sou
 
 Ricardo F, TOTTI, Xavi BCN
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenxxl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenxxl/)*

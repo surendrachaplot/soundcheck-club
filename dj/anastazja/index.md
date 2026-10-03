@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
+Anastazja is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo on Sat, 3 Oct 2026.
 
 Anastazja is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 12 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao Paulo on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Anastazja is a house and techno artist based in United States of America, with 3
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

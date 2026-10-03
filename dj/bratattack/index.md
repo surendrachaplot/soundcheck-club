@@ -1,18 +1,18 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Lore, Atlanta on Fri, 2 Oct 2026.
+BRATATTACK is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - ?, Atlanta on Thu, 15 Oct 2026.
 
-BRATATTACK is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Atlanta, Boston, Los Angeles and Nashville and 2 more. Often billed alongside Bullosa, Constantine (US) and YULIA (US). Next up: Lore, Atlanta on Fri 2 Oct.
+BRATATTACK is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Atlanta, Boston, Los Angeles and Nashville and 2 more. Often billed alongside Bullosa, Constantine (US) and YULIA (US). Next up: TBA - ?, Atlanta on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Lore | Atlanta |
 | Thu, 15 Oct 2026 | TBA - ? | Atlanta |
 
 ## Recently played
 
+- Lore, Atlanta · Fri, 2 Oct 2026
 - Elsewhere, New York City · Fri, 25 Sept 2026
 - Mood Ring, New York City · Sat, 19 Sept 2026
 - TBA - Warehouse Location , Boston · Fri, 4 Sept 2026
@@ -20,10 +20,9 @@ BRATATTACK is a club and techno artist based in United States of America, with 2
 - TBA - Call Infoline for Secret Location, Boston · Fri, 7 Aug 2026
 - Honey's, New York City · Thu, 16 Jul 2026
 - Middlesex, Boston · Thu, 25 Jun 2026
-- Sinners and Saints, Washington DC · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Bullosa, Constantine (US), YULIA (US)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

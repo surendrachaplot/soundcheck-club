@@ -1,6 +1,6 @@
 # Being One
 
-Being One is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
+Being One is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
 
 Being One is a dub and experimental artist based in United Kingdom, with 17 gigs on soundcheck across Leeds and London. Often billed alongside Anatta Sound, Lioness Power and Biome. Next up: Rock n Roll Circus, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Being One is a dub and experimental artist based in United Kingdom, with 17 gigs
 
 Anatta Sound, Lioness Power, Biome
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beingone/)*

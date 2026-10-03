@@ -1,6 +1,6 @@
 # Scratcha
 
-Scratcha is a UK Funky and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
+Scratcha is a UK Funky and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
 
 Scratcha is an uk funky and reggaeton artist based in United Kingdom, with 11 gigs on soundcheck across Bristol and London. Often billed alongside DJ Polo, Scratcha DVA and Silva Snipa. Next up: Club Cheek, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Scratcha is an uk funky and reggaeton artist based in United Kingdom, with 11 gi
 
 DJ Polo, Scratcha DVA, Silva Snipa
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scratcha/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scratcha/)*

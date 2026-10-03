@@ -1,6 +1,6 @@
 # PHYNYKS
 
-PHYNYKS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Club House at Gianpula Village, Malta on Fri, 9 Oct 2026.
+PHYNYKS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Club House at Gianpula Village, Malta on Fri, 9 Oct 2026.
 
 PHYNYKS is a techno and trance artist based in Malta, with 36 gigs on soundcheck across Berlin, Malta and Prague. Often billed alongside Eaub, INVERTED (MT) and Kaneo. Next up: The Club House at Gianpula Village, Malta on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ PHYNYKS is a techno and trance artist based in Malta, with 36 gigs on soundcheck
 
 Eaub, INVERTED (MT), Kaneo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phynyks/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phynyks/)*

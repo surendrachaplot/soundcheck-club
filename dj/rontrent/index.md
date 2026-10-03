@@ -1,6 +1,6 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ron Trent is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Ron Trent is a house and deep house artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, Joe Claussell and MUSCLECARS. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Ron Trent is a house and deep house artist based in United States of America, wi
 
 Ben UFO, Joe Claussell, MUSCLECARS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

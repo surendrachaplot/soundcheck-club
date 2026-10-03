@@ -1,6 +1,6 @@
 # Glico
 
-Glico is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+Glico is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 Glico is a dub and bass artist based in Belgium, with 10 gigs on soundcheck across Tokyo. Often billed alongside Lil Mofo, BEENIE PIMP and DJ B2B. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Glico is a dub and bass artist based in Belgium, with 10 gigs on soundcheck acro
 
 Lil Mofo, BEENIE PIMP, DJ B2B
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glico/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glico/)*

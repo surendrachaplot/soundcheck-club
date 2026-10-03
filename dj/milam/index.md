@@ -1,6 +1,6 @@
 # Milam
 
-Milam is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Milam is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
 Milam is a house and deep house artist based in China, with 30 gigs on soundcheck across Bali, Bangkok, Hong Kong and Mexico City and 1 more. Often billed alongside Mo-Shi, Leon (FR) and Nino (FR). Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Milam is a house and deep house artist based in China, with 30 gigs on soundchec
 
 Mo-Shi, Leon (FR), Nino (FR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milam/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milam/)*

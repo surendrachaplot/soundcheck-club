@@ -1,6 +1,6 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Oscar Mulero is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Oscar Mulero is a techno and house artist based in Spain, with 161 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Oscar Mulero is a techno and house artist based in Spain, with 161 gigs on sound
 
 Ben Sims, Adriana Lopez, DVS1
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

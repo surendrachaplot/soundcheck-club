@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Call Super is a house and techno artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 64 more. Often billed alongside Shanti Celeste, Anz and Ogazón. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Call Super is a house and techno artist based in United Kingdom, with 216 gigs o
 
 Shanti Celeste, Anz, Ogazón
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

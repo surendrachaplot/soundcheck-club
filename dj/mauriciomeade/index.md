@@ -1,6 +1,6 @@
 # Mauricio Meade
 
-Mauricio Meade is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Mola, Austin on Sat, 3 Oct 2026.
+Mauricio Meade is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mola, Austin on Sat, 3 Oct 2026.
 
 Mauricio Meade is a house and minimal artist, with 22 gigs on soundcheck across Austin and Miami. Often billed alongside Brett Johnson, Rodrigo Manzo and El Zárate. Next up: TBA - Mola, Austin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mauricio Meade is a house and minimal artist, with 22 gigs on soundcheck across 
 
 Brett Johnson, Rodrigo Manzo, El Zárate
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciomeade/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciomeade/)*

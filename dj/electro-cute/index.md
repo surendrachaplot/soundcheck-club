@@ -1,6 +1,6 @@
 # Electro-cute
 
-Electro-cute is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
+Electro-cute is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
 
 Electro-cute is a house and progressive house artist based in United States of America, with 15 gigs on soundcheck across Washington DC. Often billed alongside ANNYA, Julez and LOUDR. Next up: El Secreto De Rosita, Washington DC on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Electro-cute is a house and progressive house artist based in United States of A
 
 ANNYA, Julez (2), LOUDR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electro-cute/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electro-cute/)*

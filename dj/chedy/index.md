@@ -1,6 +1,6 @@
 # chedy
 
-chedy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+chedy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 chedy is a house and techno artist, with 9 gigs on soundcheck across Berlin, Paris, Tunisia and Zurich. Often billed alongside Hitsh, Alaa.Djebali and Atef. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ chedy is a house and techno artist, with 9 gigs on soundcheck across Berlin, Par
 
 Hitsh, Alaa.Djebali, Atef
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chedy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chedy/)*

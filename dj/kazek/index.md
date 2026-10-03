@@ -1,6 +1,6 @@
 # Kazek
 
-Kazek is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Aatma, Manchester on Sat, 17 Oct 2026.
+Kazek is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aatma, Manchester on Sat, 17 Oct 2026.
 
 Kazek is an acid and techno artist based in Poland, with 10 gigs on soundcheck across Manchester. Often billed alongside RaFFski and Kami Lee. Next up: Aatma, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kazek is an acid and techno artist based in Poland, with 10 gigs on soundcheck a
 
 RaFFski, Kami Lee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*

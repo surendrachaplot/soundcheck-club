@@ -1,6 +1,6 @@
 # Jamvvis
 
-Jamvvis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
+Jamvvis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sound Machine, Toronto on Fri, 9 Oct 2026.
 
 Jamvvis is a house and techno artist based in Canada, with 39 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Outback, James Benjamin and Baby Bimbo. Next up: Sound Machine, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jamvvis is a house and techno artist based in Canada, with 39 gigs on soundcheck
 
 Outback, James Benjamin, Baby Bimbo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*

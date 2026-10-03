@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Omar+ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 31 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Omar+ is a house and tech house artist based in United Kingdom, with 78 gigs on 
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

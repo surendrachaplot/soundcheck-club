@@ -1,6 +1,6 @@
 # Taglo
 
-Taglo is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
+Taglo is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
 Taglo is a progressive house and techno artist based in Australia, with 23 gigs on soundcheck across Brisbane, Malta, Melbourne and Sydney and 1 more. Often billed alongside Nicky Elisabeth, Qrion and April Kerry. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Taglo is a progressive house and techno artist based in Australia, with 23 gigs 
 
 Nicky Elisabeth, Qrion, April Kerry
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taglo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taglo/)*

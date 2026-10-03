@@ -1,6 +1,6 @@
 # Joe Seymour
 
-Joe Seymour is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Joe Seymour is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
 Joe Seymour is an electro and house artist based in United Kingdom, with 7 gigs on soundcheck across London and Newcastle. Often billed alongside Drysdale, Alisdair and DJ Hell. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Joe Seymour is an electro and house artist based in United Kingdom, with 7 gigs 
 
 Drysdale, Alisdair, DJ Hell
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joe-seymour/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joe-seymour/)*

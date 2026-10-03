@@ -1,6 +1,6 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+BRAINDAAMAGE is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 BRAINDAAMAGE is a techno and industrial artist based in Switzerland, with 32 gigs on soundcheck across Berlin, Rotterdam, Vienna and Zurich. Often billed alongside Raxeller, andris and CAERMI. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ BRAINDAAMAGE is a techno and industrial artist based in Switzerland, with 32 gig
 
 Raxeller, andris, CAERMI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

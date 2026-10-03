@@ -1,6 +1,6 @@
 # Ancient Methods
 
-Ancient Methods is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
+Ancient Methods is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
 
 Ancient Methods is a techno and industrial artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside OTHR, 00rt and Phase Fatale. Next up: KHIDI, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ancient Methods is a techno and industrial artist based in Germany, with 113 gig
 
 OTHR, 00rt, Phase Fatale
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*

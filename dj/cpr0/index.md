@@ -1,6 +1,6 @@
 # CPR0
 
-CPR0 is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at FLUCC, Vienna on Sun, 25 Oct 2026.
+CPR0 is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Sun, 25 Oct 2026.
 
 CPR0 is a techno artist based in Austria, with 14 gigs on soundcheck across Vienna. Often billed alongside Dcascallana, AMOVV and Mücke. Next up: FLUCC, Vienna on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ CPR0 is a techno artist based in Austria, with 14 gigs on soundcheck across Vien
 
 Dcascallana, AMOVV, Mücke
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cpr0/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cpr0/)*

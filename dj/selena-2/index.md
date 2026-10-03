@@ -1,6 +1,6 @@
 # Selena (2)
 
-Selena (2) is a R&B and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
+Selena (2) is a R&B and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
 
 Selena is a r&b and deep house artist, with 10 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Bex, Miki and Zjoso. Next up: Angel Music Bar, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Selena is a r&b and deep house artist, with 10 gigs on soundcheck across Melbour
 
 Bex, Miki (3), Zjoso
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selena-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selena-2/)*

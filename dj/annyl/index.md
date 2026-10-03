@@ -1,8 +1,8 @@
 # ANNYL
 
-ANNYL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bar Carmem, Sao Paulo on Fri, 9 Oct 2026.
+ANNYL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Carmem, Sao Paulo on Fri, 9 Oct 2026.
 
-ANNYL is a house and techno artist, with 24 gigs on soundcheck across Sao Paulo. Often billed alongside L_cio, Renato Cohen and Dany Bany. Next up: Bar Carmem, Sao Paulo on Fri 9 Oct.
+ANNYL is a house and techno artist based in Brazil, with 24 gigs on soundcheck across Sao Paulo. Often billed alongside L_cio, Renato Cohen and Dany Bany. Next up: Bar Carmem, Sao Paulo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ANNYL is a house and techno artist, with 24 gigs on soundcheck across Sao Paulo.
 
 L_cio, Renato Cohen, Dany Bany
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annyl/)*

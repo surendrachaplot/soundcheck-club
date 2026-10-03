@@ -1,13 +1,14 @@
 # maidable
 
-maidable is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+maidable is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Dao Taichung, Taiwan on Sat, 3 Oct 2026.
 
-maidable is a bass and drum & bass artist based in Japan, with 45 gigs on soundcheck across Kyoto, London, Seoul and Tokyo. Often billed alongside Midnight Runner, Hisaki and snobo. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
+maidable is a bass and drum & bass artist based in Japan, with 46 gigs on soundcheck across Kyoto, London, Seoul and Taiwan and 1 more. Often billed alongside Midnight Runner, Hisaki and snobo. Next up: TBA - Dao Taichung, Taiwan on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TBA - Dao Taichung | Taiwan |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ maidable is a bass and drum & bass artist based in Japan, with 45 gigs on soundc
 
 Midnight Runner (2), Hisaki (1), snobo (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maidable/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maidable/)*

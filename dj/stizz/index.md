@@ -1,6 +1,6 @@
 # Stizz
 
-Stizz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
+Stizz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Inner West Secret Location, Sydney on Fri, 27 Nov 2026.
 
 Stizz is an electro and techno artist based in Australia, with 14 gigs on soundcheck across Barcelona, Berlin and Sydney. Often billed alongside Symplicit, Eva Charley and Accent'. Next up: TBA - Inner West Secret Location, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Stizz is an electro and techno artist based in Australia, with 14 gigs on soundc
 
 Symplicit, Eva Charley, Accent'
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stizz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stizz/)*

@@ -1,6 +1,6 @@
 # Femdelic
 
-Femdelic is a Funk / Soul and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at frachtkante, Berlin on Sat, 3 Oct 2026.
+Femdelic is a Funk / Soul and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at frachtkante, Berlin on Sat, 3 Oct 2026.
 
 Femdelic is a funk / soul and disco artist based in Germany, with 93 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Marc Hype, Soulski and Carl Hang. Next up: frachtkante, Berlin on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Femdelic is a funk / soul and disco artist based in Germany, with 93 gigs on sou
 
 Marc Hype, Soulski, Carl Hang
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femdelic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femdelic/)*

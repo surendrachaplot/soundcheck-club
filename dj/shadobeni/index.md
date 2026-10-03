@@ -1,6 +1,6 @@
 # Shadobeni
 
-Shadobeni is a Dancehall and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
+Shadobeni is a Dancehall and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
 
 Shadobeni is a dancehall and afrobeat artist based in United Kingdom, with 35 gigs on soundcheck across Glasgow and London. Often billed alongside Darkstepper, Dibs and rára. Next up: fabric, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Shadobeni is a dancehall and afrobeat artist based in United Kingdom, with 35 gi
 
 Darkstepper, Dibs, rára
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*

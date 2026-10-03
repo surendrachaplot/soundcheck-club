@@ -1,6 +1,6 @@
 # Vanita
 
-Vanita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
+Vanita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
 
 Vanita is a techno and house artist based in Switzerland, with 30 gigs on soundcheck across Berlin, Brussels, Copenhagen and Frankfurt and 1 more. Often billed alongside Dirty Doering, AANN and Faro Alip. Next up: Hive Club, Zurich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Vanita is a techno and house artist based in Switzerland, with 30 gigs on soundc
 
 Dirty Doering, AANN, Faro Alip
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanita/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanita/)*

@@ -1,6 +1,6 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Rouge Room, Las-vegas on Fri, 9 Oct 2026.
+Cole Knight is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rouge Room, Las-vegas on Fri, 9 Oct 2026.
 
 Cole Knight is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Rouge Room, Las Vegas on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Cole Knight is a house and techno artist based in United States of America, with
 
 Jamie Jones, Ben Sterling, Ms. Mada
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*

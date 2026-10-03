@@ -1,6 +1,6 @@
 # Leo Mas
 
-Leo Mas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at DURO, Milan on Sat, 3 Oct 2026.
+Leo Mas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DURO, Milan on Sat, 3 Oct 2026.
 
 Leo Mas is a house and techno artist based in Italy, with 28 gigs on soundcheck across Athens, Belgrade, Bristol and Ibiza and 6 more. Often billed alongside Cristian Croce, Cio (Spezialmaterial) and Innuendo. Next up: DURO, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Leo Mas is a house and techno artist based in Italy, with 28 gigs on soundcheck 
 
 Cristian Croce, Cio (Spezialmaterial), Innuendo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*

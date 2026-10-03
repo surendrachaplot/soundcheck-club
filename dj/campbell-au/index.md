@@ -1,6 +1,6 @@
 # Campbell
 
-Campbell is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
+Campbell is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
 
 Campbell is a bass and dubstep artist based in Australia, with 14 gigs on soundcheck across Amsterdam, Berlin, Istanbul and London and 2 more. Often billed alongside Emelyne, Hally and Aaliyah Salem. Next up: Paloma, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Campbell is a bass and dubstep artist based in Australia, with 14 gigs on soundc
 
 Emelyne, Hally, Aaliyah Salem
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*

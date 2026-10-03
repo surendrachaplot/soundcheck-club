@@ -1,6 +1,6 @@
 # HYDE
 
-HYDE is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+HYDE is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 HYDE is a tech house and bass artist based in Morocco, with 9 gigs on soundcheck across Austin, Central, Los Angeles and Mallorca and 4 more. Often billed alongside AG (NYC), Borne (US) and Calcium. Next up: TBA, Central on Fri 2 Oct.
 
@@ -13,6 +13,7 @@ HYDE is a tech house and bass artist based in Morocco, with 9 gigs on soundcheck
 
 ## Recently played
 
+- TBA, Central · Fri, 2 Oct 2026
 - Superior Ingredients, New York City · Sat, 6 Dec 2025
 - Travis County Exposition Center, Austin · Fri, 30 May 2025
 - Travis County Exposition Center, Austin · Fri, 30 May 2025
@@ -25,4 +26,4 @@ HYDE is a tech house and bass artist based in Morocco, with 9 gigs on soundcheck
 
 AG (NYC), Borne (US), Calcium
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*

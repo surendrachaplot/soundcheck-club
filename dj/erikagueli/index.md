@@ -1,6 +1,6 @@
 # Erika Gueli
 
-Erika Gueli is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BARDO, Milan on Fri, 9 Oct 2026.
+Erika Gueli is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BARDO, Milan on Fri, 9 Oct 2026.
 
 Erika Gueli is an electronica and house artist, with 28 gigs on soundcheck across Berlin, Milan, Rome and Tokyo. Often billed alongside Lvca, Lovin Duo and Tsura. Next up: BARDO, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Erika Gueli is an electronica and house artist, with 28 gigs on soundcheck acros
 
 Lvca, Lovin Duo, Tsura
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikagueli/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikagueli/)*

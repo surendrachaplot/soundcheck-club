@@ -1,6 +1,6 @@
 # Club Temple
 
-Club Temple is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "CURSED TRIBES" on Sat, 31 Oct 2026.
+Club Temple is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "CURSED TRIBES" on Sat, 31 Oct 2026.
 
 Club Temple is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including MERCI. See dates, start times and who's playing. Azehit Muhtar Mh. 34435 Beyoaylu/Istanbul Province, Turkey.
 
@@ -14,4 +14,4 @@ Club Temple is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, w
 
 Azehit Muhtar Mh. 34435 Beyoaylu/Istanbul Province, Turkey, Istanbul
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/club-temple/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/club-temple/)*

@@ -1,6 +1,6 @@
 # POL100
 
-POL100 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at BARDO, Milan on Sat, 10 Oct 2026.
+POL100 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BARDO, Milan on Sat, 10 Oct 2026.
 
 POL100 is a techno and experimental artist, with 12 gigs on soundcheck across Geneva, London, Manchester and Milan and 3 more. Often billed alongside marielou, A Strange Wedding and A. Brehme. Next up: BARDO, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ POL100 is a techno and experimental artist, with 12 gigs on soundcheck across Ge
 
 marielou, A Strange Wedding, A. Brehme
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pol100/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pol100/)*

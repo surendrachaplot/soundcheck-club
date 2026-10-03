@@ -1,6 +1,6 @@
 # FUNIC
 
-FUNIC is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
+FUNIC is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
 FUNIC is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside funk4, Amorelie and Armaville. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ FUNIC is a trance and techno artist based in Germany, with 9 gigs on soundcheck 
 
 funk4, Amorelie, Armaville
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funic/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funic/)*

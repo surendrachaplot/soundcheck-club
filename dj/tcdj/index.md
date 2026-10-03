@@ -1,6 +1,6 @@
 # TC Dj
 
-TC Dj is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Stay In The Room, Naples on Wed, 9 Dec 2026.
+TC Dj is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Stay In The Room, Naples on Wed, 9 Dec 2026.
 
 TC Dj is a techno and acid artist based in Italy, with 20 gigs on soundcheck across Naples. Often billed alongside Tech C, Mr.Lucky and MaNu (UK). Next up: TBA - Stay In The Room, Naples on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ TC Dj is a techno and acid artist based in Italy, with 20 gigs on soundcheck acr
 
 Tech C, Mr.Lucky, MaNu (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*

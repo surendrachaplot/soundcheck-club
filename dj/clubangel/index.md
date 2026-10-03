@@ -1,14 +1,13 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
+Club Angel is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
-Club Angel is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
+Club Angel is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Mint XL, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Digital | Newcastle |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
@@ -20,9 +19,11 @@ Club Angel is a garage and house artist based in Australia, with 103 gigs on sou
 | Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
 
 ## Recently played
 
+- Digital, Newcastle · Fri, 2 Oct 2026
 - Night Tales Loft, London · Sat, 26 Sept 2026
 - Tivoli, Brisbane · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ Club Angel is a garage and house artist based in Australia, with 103 gigs on sou
 - Finsbury Park, London · Fri, 7 Aug 2026
 - Club Vaag, Antwerp · Sat, 1 Aug 2026
 - Razzmatazz, Barcelona · Sat, 25 Jul 2026
-- High Lights - Barking Park, London · Sat, 23 May 2026
 
 ## Shares bills with
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

@@ -1,6 +1,6 @@
 # Andrew Emil
 
-Andrew Emil is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at smartbar, Chicago on Sat, 17 Oct 2026.
+Andrew Emil is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at smartbar, Chicago on Sat, 17 Oct 2026.
 
 Andrew Emil is a house and deep house artist based in United States of America, with 36 gigs on soundcheck across Chicago, Detroit, Lisbon and Mexico City and 4 more. Often billed alongside Gene Hunt, Adorio and Mike Dunn. Next up: smartbar, Chicago on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Andrew Emil is a house and deep house artist based in United States of America, 
 
 Gene Hunt, Adorio, Mike Dunn
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewemil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewemil/)*

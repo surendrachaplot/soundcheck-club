@@ -1,6 +1,6 @@
 # Weston
 
-Weston is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Prince Bishop Cruiser, Newcastle on Sat, 10 Oct 2026.
+Weston is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Prince Bishop Cruiser, Newcastle on Sat, 10 Oct 2026.
 
 Weston is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside PIP., Jude Race and Westy. Next up: Prince Bishop Cruiser, Newcastle on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Weston is a house and techno artist based in United Kingdom, with 45 gigs on sou
 
 PIP., Jude Race, Westy
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*

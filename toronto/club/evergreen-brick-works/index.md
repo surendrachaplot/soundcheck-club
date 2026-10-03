@@ -1,6 +1,6 @@
 # Evergreen Brick Works
 
-Evergreen Brick Works is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham" on Sat, 31 Oct 2026.
+Evergreen Brick Works is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Ozmozis Halloween at Brick Works ft. Gabriel & Dresden, Super8 & Tab, Qrion and Oliver Wickham" on Sat, 31 Oct 2026.
 
 Evergreen Brick Works is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Gabriel & Dresden, Oliver Wickham, Qrion and Super8 & Tab. See dates, start times and who's playing. 550 Bayview Avenue, Toronto, Ontario M4W 3X8.
 
@@ -14,4 +14,4 @@ Evergreen Brick Works is a music venue in Toronto listed on soundcheck. 1 upcomi
 
 550 Bayview Avenue, Toronto, Ontario M4W 3X8, Toronto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evergreen-brick-works/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evergreen-brick-works/)*

@@ -1,6 +1,6 @@
 # Cedrik
 
-Cedrik is a Drum & Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Desa Kitsune, Bali on Fri, 23 Oct 2026.
+Cedrik is a Drum & Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Desa Kitsune, Bali on Fri, 23 Oct 2026.
 
 Cedrik is a drum & bass and afro house artist, with 8 gigs on soundcheck across Bali and Madrid. Often billed alongside LUCA SYN, Acid Dreams and D-PR. Next up: Desa Kitsune, Bali on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Cedrik is a drum & bass and afro house artist, with 8 gigs on soundcheck across 
 
 LUCA SYN, Acid Dreams, D-PR
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedrik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedrik/)*

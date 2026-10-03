@@ -1,6 +1,6 @@
 # Garbo (2)
 
-Garbo (2) is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 3 Oct 2026.
+Garbo (2) is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 3 Oct 2026.
 
 Garbo is a house and progressive house artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Liverpool, Manchester and Newcastle. Often billed alongside Allius, TriForm and Weston. Next up: Cobalt Studios, Newcastle on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Garbo is a house and progressive house artist based in United Kingdom, with 14 g
 
 Allius, TriForm, Weston
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*

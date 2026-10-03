@@ -1,6 +1,6 @@
 # ERROR (LYRASIS)
 
-ERROR (LYRASIS) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Supermarket, Zurich on Sat, 3 Oct 2026.
+ERROR (LYRASIS) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Supermarket, Zurich on Sat, 3 Oct 2026.
 
 ERROR (LYRASIS) is a techno and club artist based in Germany, with 7 gigs on soundcheck across Berlin, Tokyo and Zurich. Often billed alongside 1000kJulez, 50.000 kiloJoulez and ASPRGS. Next up: Supermarket, Zurich on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ ERROR (LYRASIS) is a techno and club artist based in Germany, with 7 gigs on sou
 
 1000kJulez, 50.000 kiloJoulez, ASPRGS
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorlyrasis/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorlyrasis/)*

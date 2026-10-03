@@ -1,6 +1,6 @@
 # Sjamsoedin
 
-Sjamsoedin is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 17 Oct 2026.
+Sjamsoedin is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 17 Oct 2026.
 
 Sjamsoedin is an electro and bass artist, with 8 gigs on soundcheck across Amsterdam, Ghent and The Hague. Often billed alongside CLTX, Cinnaman and Cosmox. Next up: Skatecafe, Amsterdam on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Sjamsoedin is an electro and bass artist, with 8 gigs on soundcheck across Amste
 
 CLTX, Cinnaman, Cosmox
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjamsoedin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjamsoedin/)*

@@ -1,6 +1,6 @@
 # Biliguudei
 
-Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Blue Monkey, Vietnam on Fri, 16 Oct 2026.
+Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Blue Monkey, Vietnam on Fri, 16 Oct 2026.
 
 Biliguudei is a techno and house artist based in Mongolia, with 12 gigs on soundcheck across Bangkok, Milan, Osaka and Singapore and 2 more. Often billed alongside DJ Sweed, 5.5MM and ANNX. Next up: Blue Monkey, Vietnam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Biliguudei is a techno and house artist based in Mongolia, with 12 gigs on sound
 
 DJ Sweed, 5.5MM, ANNX
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*

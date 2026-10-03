@@ -1,6 +1,6 @@
 # Denise Rabe
 
-Denise Rabe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
+Denise Rabe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 3 Oct 2026.
 
 Denise Rabe is a techno and house artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 16 more. Often billed alongside Justine Perry, 30drop and Alejandro Franco. Next up: RADION, Amsterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Denise Rabe is a techno and house artist based in Germany, with 71 gigs on sound
 
 Justine Perry, 30drop, Alejandro Franco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*

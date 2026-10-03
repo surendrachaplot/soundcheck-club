@@ -1,6 +1,6 @@
 # Fletchy Boy
 
-Fletchy Boy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Fletchy Boy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 Fletchy Boy is a house and deep house artist based in New Zealand, with 27 gigs on soundcheck across Auckland, Berlin, Hamburg and Leipzig. Often billed alongside Mu dB, Unmarried Woman and Coloray. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fletchy Boy is a house and deep house artist based in New Zealand, with 27 gigs 
 
 Mu dB, Unmarried Woman, Coloray
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*

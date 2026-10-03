@@ -1,6 +1,6 @@
 # The Bille
 
-The Bille is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
+The Bille is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
 The Bille is a tech house and house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Adri Tüde, Joma Beton and Jama Deejay. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ The Bille is a tech house and house artist based in Germany, with 8 gigs on soun
 
 Adri Tüde, Joma Beton, Jama Deejay
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebille/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebille/)*

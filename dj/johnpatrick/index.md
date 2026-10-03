@@ -1,6 +1,6 @@
 # John Patrick
 
-John Patrick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+John Patrick is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 John Patrick is a house and deep house artist based in Mexico, with 27 gigs on soundcheck across Miami and New York City. Often billed alongside Frny, Alex Pastor and Kenia. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ John Patrick is a house and deep house artist based in Mexico, with 27 gigs on s
 
 Frny, Alex Pastor, Kenia
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpatrick/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnpatrick/)*

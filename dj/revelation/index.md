@@ -1,6 +1,6 @@
 # Revelation
 
-Revelation is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
+Revelation is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
 
 Revelation is a techno and gabber artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin, Cologne and Glasgow and 4 more. Often billed alongside Bmberjck, Sickmode and Sparkz (NL). Next up: The Dome, Liverpool on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Revelation is a techno and gabber artist based in Netherlands, with 9 gigs on so
 
 Bmberjck, Sickmode, Sparkz (NL)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revelation/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revelation/)*

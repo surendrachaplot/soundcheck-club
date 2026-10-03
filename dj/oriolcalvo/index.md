@@ -1,6 +1,6 @@
 # Oriol Calvo
 
-Oriol Calvo is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 16 Oct 2026.
+Oriol Calvo is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 16 Oct 2026.
 
 Oriol Calvo is a house and deep house artist based in Spain, with 43 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 5 more. Often billed alongside Viktor Olle, Igor Marijuan and Mike Gannu. Next up: BORIS CLUB, Barcelona on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Oriol Calvo is a house and deep house artist based in Spain, with 43 gigs on sou
 
 Viktor Olle, Igor Marijuan, Mike Gannu
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*

@@ -1,6 +1,6 @@
 # dragosh (RO)
 
-dragosh (RO) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at control, Bucharest on Sat, 21 Nov 2026.
+dragosh (RO) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at control, Bucharest on Sat, 21 Nov 2026.
 
 dragosh (RO) is a techno and acid artist based in Romania, with 14 gigs on soundcheck across Bucharest. Often billed alongside Gruell, ALISTARM and Thomas Rob. Next up: control, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ dragosh (RO) is a techno and acid artist based in Romania, with 14 gigs on sound
 
 Gruell, ALISTARM, Thomas Rob
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoshro/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoshro/)*

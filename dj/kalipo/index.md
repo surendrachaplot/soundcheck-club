@@ -1,6 +1,6 @@
 # Kalipo
 
-Kalipo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Kalipo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
 Kalipo is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 8 more. Often billed alongside Holly North, Local Suicide and Dina Summer. Next up: Colours Hoxton, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kalipo is a house and techno artist based in Germany, with 32 gigs on soundcheck
 
 Holly North, Local Suicide, Dina Summer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalipo/)*

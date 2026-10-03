@@ -1,6 +1,6 @@
 # End Train
 
-End Train is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at AMT, Berlin on Sat, 3 Oct 2026.
+End Train is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at AMT, Berlin on Sat, 3 Oct 2026.
 
 End Train is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Berlin and Mexico City. Often billed alongside CLEO, Annie O and Arne Schattenberg. Next up: AMT, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ End Train is a house and techno artist based in United Kingdom, with 11 gigs on 
 
 CLEO, Annie O, Arne Schattenberg
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endtrain/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/endtrain/)*

@@ -1,14 +1,13 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden" on Fri, 2 Oct 2026.
+The Villa is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Hakeem (US / Rinse FM) & Nora Pagu / SS: Malo / The Villa" on Sat, 3 Oct 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-ups including Daichi Wada, Erik M., Espen Iden and Eurohead and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-ups including Daichi Wada, Erik M., Eurohead and Facta and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden | Espen Iden, MCR-T, MRD (NO) |
 | Sat, 3 Oct 2026 | Hakeem (US / Rinse FM) & Nora Pagu / SS: Malo / The Villa | Hakeem, Nora Pagu |
 | Fri, 9 Oct 2026 | Daichi Wada (JP) + Little Miss Lucifer / SS: Sola Wang | Daichi Wada |
 | Sat, 10 Oct 2026 | Facta & K-LONE (UK) / SS: Christophe Boulmer & DJ Music Angel | Facta, K-LONE |
@@ -22,4 +21,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with l
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

@@ -1,6 +1,6 @@
 # Fakear
 
-Fakear is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at L'Olympia, Paris on Fri, 9 Oct 2026.
+Fakear is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at L'Olympia, Paris on Fri, 9 Oct 2026.
 
 Fakear is a downtempo and techno artist based in France, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Audem, oOgo and Aida Arko. Next up: L'Olympia, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Fakear is a downtempo and techno artist based in France, with 33 gigs on soundch
 
 Audem, oOgo, Aida Arko
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakear/)*

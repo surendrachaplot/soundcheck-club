@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Archive 404" on Fri, 2 Oct 2026.
+Supermarket is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "INCLUSIONS 3 - INKLUSIVER DAY-RAVE" on Sat, 3 Oct 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 2M, AfroKillerz, Akyra and Alci and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 2M, AfroKillerz, Akyra and Alci and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Archive 404 | Carol Fernandez, Franc Fala, Sam Madi |
 | Sat, 3 Oct 2026 | INCLUSIONS 3 - INKLUSIVER DAY-RAVE | ERROR (LYRASIS) |
 | Sat, 3 Oct 2026 | Terrazzza | Alex Kennon, And Hazel, Kantarik |
 | Fri, 9 Oct 2026 | Hidden Frequencies | Akyra, Fedo |
@@ -18,9 +17,10 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, w
 | Sat, 24 Oct 2026 | under the tree | Anthik, Elia Nafzger, Flavio (CH) |
 | Thu, 29 Oct 2026 | Planet Voltage | Aron (CH), Bohnenblust, Mihigh, Styro 2000, Zefzeed |
 | Fri, 30 Oct 2026 | Stahlbox37 | BRAINDAAMAGE, REA (AL), Raxeller, Valdemar |
+| Fri, 6 Nov 2026 | Acid Town | Patrik Widmer, mvdi |
 
 ## Address
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

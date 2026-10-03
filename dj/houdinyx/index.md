@@ -1,6 +1,6 @@
 # Houdinyx
 
-Houdinyx is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Munster Munch, London on Sat, 24 Oct 2026.
+Houdinyx is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Munster Munch, London on Sat, 24 Oct 2026.
 
 Houdinyx is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Zohr, DJ Harmee and Sunrise Fiancée. Next up: Munster Munch, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Houdinyx is a house and tech house artist based in United Kingdom, with 9 gigs o
 
 Zohr, DJ Harmee, Sunrise Fiancée
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/houdinyx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/houdinyx/)*

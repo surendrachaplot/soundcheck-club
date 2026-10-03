@@ -1,6 +1,6 @@
 # TBA - The Den
 
-TBA - The Den is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "UNSCRIPTED" on Wed, 14 Oct 2026.
+TBA - The Den is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "UNSCRIPTED" on Wed, 14 Oct 2026.
 
 TBA - The Den is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including ALLY, Doom Tempo, Fabian Laute and puffclouds and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Den is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | UNSCRIPTED | ALLY, Doom Tempo, Fabian Laute, TECSTONE, puffclouds |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-the-den/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-the-den/)*

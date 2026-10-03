@@ -1,6 +1,6 @@
 # CRi
 
-CRi is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+CRi is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 CRi is a house and deep house artist based in Canada, with 49 gigs on soundcheck across Austin, Berlin, Chicago and London and 14 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ CRi is a house and deep house artist based in Canada, with 49 gigs on soundcheck
 
 Nicky Elisabeth, Hana, Eli & Fur
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

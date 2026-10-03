@@ -1,6 +1,6 @@
 # Lucien
 
-Lucien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
+Lucien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
 
 Lucien is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Lyon and 2 more. Often billed alongside Justrice, Davko and Coeus. Next up: Obudai Island, Budapest on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lucien is a house and techno artist based in United Kingdom, with 22 gigs on sou
 
 Justrice, Davko, Coeus
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien/)*

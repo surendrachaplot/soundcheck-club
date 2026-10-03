@@ -1,6 +1,6 @@
 # Shifa Ligero
 
-Shifa Ligero is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Cross, London on Fri, 23 Oct 2026.
+Shifa Ligero is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cross, London on Fri, 23 Oct 2026.
 
 Shifa Ligero is a baile funk and club artist based in United Kingdom, with 44 gigs on soundcheck across Boston, Chicago, London and Lyon and 5 more. Often billed alongside Clara Rosa, Glade Marie and Diego Armando. Next up: The Cross, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Shifa Ligero is a baile funk and club artist based in United Kingdom, with 44 gi
 
 Clara Rosa, Glade Marie, Diego Armando
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shifaligero/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shifaligero/)*

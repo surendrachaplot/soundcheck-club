@@ -1,6 +1,6 @@
 # Killian
 
-Killian is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Club 77, Sydney on Sat, 17 Oct 2026.
+Killian is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club 77, Sydney on Sat, 17 Oct 2026.
 
 Killian is a techno and house artist based in Australia, with 27 gigs on soundcheck across Brisbane, Dublin, Glasgow and London and 4 more. Often billed alongside 1tbsp, SOLTERA and D-Grade. Next up: Club 77, Sydney on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Killian is a techno and house artist based in Australia, with 27 gigs on soundch
 
 1tbsp, SOLTERA, D-Grade
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*

@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Daniel Weirdo's GROOVE THE CREW" on Sat, 3 Oct 2026.
+Kassa Boat is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Daniel Weirdo's GROOVE THE CREW" on Sat, 3 Oct 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Budai, Dolça van Leeuwen, Dreadsun and Dual DeStress and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -22,4 +22,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

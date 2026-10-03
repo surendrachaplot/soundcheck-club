@@ -1,6 +1,6 @@
 # Victor De Roo
 
-Victor De Roo is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Victor De Roo is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Victor De Roo is an experimental and club artist based in Belgium, with 11 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside ojoo, Bassvictim and Erykah. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Victor De Roo is an experimental and club artist based in Belgium, with 11 gigs 
 
 ojoo, Bassvictim, Erykah
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorderoo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorderoo/)*

@@ -1,19 +1,19 @@
 # Savsannah
 
-Savsannah is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at JAKI, Cologne on Fri, 2 Oct 2026.
+Savsannah is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 3 Oct 2026.
 
-Savsannah is a house and pop artist based in United States of America, with 45 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: JAKI, Cologne on Fri 2 Oct.
+Savsannah is a house and pop artist based in United States of America, with 45 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: Gewölbe, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | JAKI | Cologne |
 | Sat, 3 Oct 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played
 
+- JAKI, Cologne · Fri, 2 Oct 2026
 - TBA - Blackfoot Beach, Cologne · Sun, 9 Aug 2026
 - fi, Cologne · Sat, 4 Jul 2026
 - Jolene, Copenhagen · Fri, 26 Jun 2026
@@ -21,10 +21,9 @@ Savsannah is a house and pop artist based in United States of America, with 45 g
 - JAKI, Cologne · Fri, 15 May 2026
 - JAKI, Cologne · Sat, 2 May 2026
 - Odonien, Cologne · Thu, 30 Apr 2026
-- Jugendpark, Cologne · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Sedaction, Anna Cainelli, Nikity
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*

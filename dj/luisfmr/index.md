@@ -1,6 +1,6 @@
 # Luis FMR
 
-Luis FMR is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Village Underground Lisboa, Lisbon on Fri, 16 Oct 2026.
+Luis FMR is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground Lisboa, Lisbon on Fri, 16 Oct 2026.
 
 Luis FMR is a techno and dub techno artist based in Portugal, with 19 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Hypnotic Black Magic, Enkō and Lateral Movement. Next up: Village Underground Lisboa, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Luis FMR is a techno and dub techno artist based in Portugal, with 19 gigs on so
 
 Hypnotic Black Magic, Enkō, Lateral Movement
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfmr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfmr/)*

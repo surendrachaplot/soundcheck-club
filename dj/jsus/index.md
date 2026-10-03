@@ -1,6 +1,6 @@
 # JSUS
 
-JSUS is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
+JSUS is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
 
 JSUS is a techno and drum & bass artist based in Latvia, with 32 gigs on soundcheck across Riga and Tallinn. Often billed alongside Kelvin, Kupris and Critt. Next up: TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JSUS is a techno and drum & bass artist based in Latvia, with 32 gigs on soundch
 
 Kelvin, Kupris, Critt
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsus/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsus/)*

@@ -1,6 +1,6 @@
 # Jordan Peak
 
-Jordan Peak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
+Jordan Peak is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
 
 Jordan Peak is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 12 more. Often billed alongside Clive Henry, D Stone and Darius Syrossian. Next up: XOYO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jordan Peak is a house and tech house artist based in United Kingdom, with 37 gi
 
 Clive Henry, D Stone, Darius Syrossian
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanpeak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanpeak/)*

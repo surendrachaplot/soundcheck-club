@@ -1,6 +1,6 @@
 # Emma Ro.zn
 
-Emma Ro.zn is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 31 Oct 2026.
+Emma Ro.zn is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 31 Oct 2026.
 
 Emma Ro.zn is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Leipzig. Often billed alongside DELIKAT, DJ Paradox and Gianni Noel. Next up: Void Club, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Emma Ro.zn is a trance and techno artist based in Germany, with 10 gigs on sound
 
 DELIKAT, DJ Paradox, Gianni Noel
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaro.zn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaro.zn/)*

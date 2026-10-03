@@ -1,6 +1,6 @@
 # Katalyst
 
-Katalyst is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Katalyst is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Katalyst is a drum & bass and jungle artist based in Australia, with 14 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Bryan Gee, Deekline and Harry Shotta. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Katalyst is a drum & bass and jungle artist based in Australia, with 14 gigs on 
 
 Bryan Gee, Deekline, Harry Shotta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyst/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyst/)*

@@ -1,6 +1,6 @@
 # Sunny D
 
-Sunny D is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 20 Feb 2027.
+Sunny D is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 20 Feb 2027.
 
 Sunny D is a tech house and house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, London, Manchester and Miami. Often billed alongside Buddy., Mason Wild and BABA (SA). Next up: Het Sieraad, Amsterdam on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Sunny D is a tech house and house artist based in United Kingdom, with 32 gigs o
 
 Buddy. (2), Mason Wild, BABA (SA)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*

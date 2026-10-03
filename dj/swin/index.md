@@ -1,6 +1,6 @@
 # Swin
 
-Swin is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Haus73, Hamburg on Sat, 3 Oct 2026.
+Swin is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus73, Hamburg on Sat, 3 Oct 2026.
 
 Swin is a house and electro artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Hamburg, Manchester and Newcastle. Often billed alongside ROSIE, Holly Why and Brad P. Next up: Haus73, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Swin is a house and electro artist based in United Kingdom, with 15 gigs on soun
 
 ROSIE, Holly Why, Brad P
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swin/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swin/)*

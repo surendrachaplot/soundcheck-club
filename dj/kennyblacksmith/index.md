@@ -1,6 +1,6 @@
 # Kenny Blacksmith
 
-Kenny Blacksmith is a Balearic and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
+Kenny Blacksmith is a Balearic and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Kenny Blacksmith is a balearic and electronica artist, with 12 gigs on soundcheck across Berlin, Ibiza, London and Manchester. Often billed alongside Simon Morell, Amy Dabbs and Baby Rollén. Next up: Pikes Ibiza, Ibiza on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Kenny Blacksmith is a balearic and electronica artist, with 12 gigs on soundchec
 
 Simon Morell, Amy Dabbs, Baby Rollén
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyblacksmith/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyblacksmith/)*

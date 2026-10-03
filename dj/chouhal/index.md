@@ -1,6 +1,6 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+chouhal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
 
 chouhal is a techno and trance artist based in Malta, with 28 gigs on soundcheck across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ chouhal is a techno and trance artist based in Malta, with 28 gigs on soundcheck
 
 Damz, Dicentra, Gordon Flash
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*

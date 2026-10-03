@@ -1,6 +1,6 @@
 # Iris Estefanía
 
-Iris Estefanía is a Electronica and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at El Cid, Los Angeles on Sat, 3 Oct 2026.
+Iris Estefanía is a Electronica and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Cid, Los Angeles on Sat, 3 Oct 2026.
 
 Iris Estefanía is an electronica and guaracha artist based in Mexico, with 36 gigs on soundcheck across Los Angeles, Madrid, Mexico City and New York City. Often billed alongside Aleroj, KEBRA and AddlyMuff. Next up: El Cid, Los Angeles on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Iris Estefanía is an electronica and guaracha artist based in Mexico, with 36 g
 
 Aleroj, KEBRA, AddlyMuff
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisestefania/)*

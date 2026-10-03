@@ -1,6 +1,6 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Xanadu, New York City on Fri, 16 Oct 2026.
+Xeno & Oaklander is a Industrial and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Xanadu, New York City on Fri, 16 Oct 2026.
 
 Xeno & Oaklander are an industrial and new wave duo based in United States of America, with 19 gigs on soundcheck across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Xanadu, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Xeno & Oaklander are an industrial and new wave duo based in United States of Am
 
 L.Sangre, Martial Canterel, ADULT.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*

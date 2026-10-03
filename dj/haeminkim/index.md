@@ -1,6 +1,6 @@
 # Haemin Kim
 
-Haemin Kim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
+Haemin Kim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 28 Sept 2026.
 
 Haemin Kim is a house and techno artist based in South Korea, with 69 gigs on soundcheck across Barcelona, Berlin, London and Munich and 1 more. Often billed alongside Kimgundi, Gyusco and Jesse You. Next up: Stoked&stoned, Seoul on Mon 28 Sept.
 
@@ -26,4 +26,4 @@ Haemin Kim is a house and techno artist based in South Korea, with 69 gigs on so
 
 Kimgundi, Gyusco, Jesse You
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeminkim/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeminkim/)*

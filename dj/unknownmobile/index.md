@@ -1,6 +1,6 @@
 # Unknown Mobile
 
-Unknown Mobile is a Ambient and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at pos studios, Amsterdam on Sun, 4 Oct 2026.
+Unknown Mobile is a Ambient and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at pos studios, Amsterdam on Sun, 4 Oct 2026.
 
 Unknown Mobile is an ambient and downtempo artist based in Canada, with 10 gigs on soundcheck across Amsterdam, Copenhagen, Oslo and San Diego and 3 more. Often billed alongside Erik M., Simon Tyv and Atrevido. Next up: pos studios, Amsterdam on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Unknown Mobile is an ambient and downtempo artist based in Canada, with 10 gigs 
 
 Erik M., Simon Tyv, Atrevido
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*

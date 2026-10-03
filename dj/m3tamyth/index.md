@@ -1,6 +1,6 @@
 # M3tamyth
 
-M3tamyth is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 10 Oct 2026.
+M3tamyth is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 10 Oct 2026.
 
 M3tamyth is a techno and tech house artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Vulker, Reitze and Vandiaz. Next up: Hangar48 Club, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ M3tamyth is a techno and tech house artist based in Spain, with 12 gigs on sound
 
 Vulker, Reitze, Vandiaz
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m3tamyth/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m3tamyth/)*

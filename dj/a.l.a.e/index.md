@@ -1,6 +1,6 @@
 # A.L.A.E
 
-A.L.A.E is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+A.L.A.E is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 A.L.A.E is a techno artist based in Morocco, with 9 gigs on soundcheck across Amsterdam, Marseille and Paris. Often billed alongside BNJR, Marco Ramos and A.mo. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ A.L.A.E is a techno artist based in Morocco, with 9 gigs on soundcheck across Am
 
 BNJR, Marco Ramos, A.mo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.a.e/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.a.e/)*

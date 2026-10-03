@@ -1,6 +1,6 @@
 # LEIA (2)
 
-LEIA (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+LEIA (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 LEIA is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Allexandra, Andara Nox and Anna Hoeber. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ LEIA is a techno and trance artist based in Germany, with 3 gigs on soundcheck a
 
 Allexandra, Andara Nox, Anna Hoeber
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leia-2/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leia-2/)*

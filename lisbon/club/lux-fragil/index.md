@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Family Affair Monster Jinx" on Thu, 1 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Family Affair Monster Jinx" on Thu, 1 Oct 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, with line-ups including Aera, Afonso Peixoto, Andy Martin and Billi and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, wi
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

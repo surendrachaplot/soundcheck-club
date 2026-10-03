@@ -1,6 +1,6 @@
 # FAF (1)
 
-FAF (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at ark (Melb), Melbourne on Sat, 3 Oct 2026.
+FAF (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ark (Melb), Melbourne on Sat, 3 Oct 2026.
 
 FAF is a house and techno artist based in Australia, with 11 gigs on soundcheck across Madrid and Melbourne. Often billed alongside Anima Omada, Cosy and Naycab. Next up: ark (Melb), Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ FAF is a house and techno artist based in Australia, with 11 gigs on soundcheck 
 
 Anima Omada, Cosy (2), Naycab
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

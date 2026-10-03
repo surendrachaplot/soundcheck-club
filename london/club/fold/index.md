@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 28 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak" on Fri, 2 Oct 2026.
+FOLD is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is " Tech Couture // A Family Affair: Mac Declos, Blasha & Allatt, Lacchesi, Anabel Arroyo + more" on Sat, 3 Oct 2026.
 
-FOLD is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including aalice, Aaron J, Ahmet Sisman and Alba Heidari and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including aalice, Aaron J, Ahmet Sisman and Alba Heidari and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Cabin Fever: Margaret Dygas, Roman Flügel b2b Lola Haro, Edward, Stevie Cox & Control Freak | Control Freak, Edward, Lola Haro, Margaret Dygas, Roman Flügel, Stevie Cox |
 | Sat, 3 Oct 2026 |  Tech Couture // A Family Affair: Mac Declos, Blasha & Allatt, Lacchesi, Anabel Arroyo + more | Anabel Arroyo, Blasha & Allatt, Debbie., James Newmarch, Lacchesi, Mac Declos, Nina Pixina, Voicedrone |
 | Sat, 3 Oct 2026 | Transmissions x Breakfast Club: Helena Hauff, Nicolas Lutz, RDS (live), Richard Gregory + more | Alicia (UK), Benko, Eversines, Helena Hauff, Inner Zone, Marie K (1), Nicolas Lutz, Pieter Jansen, RDS, Richard Gregory |
 | Fri, 9 Oct 2026 | Labyrinth presents: 12 hours of Life & Death at FOLD | Andre Zimmer, Ashee, Bambounou, DJ Tennis, Jen Cardini, Kim Ann Foxman, M-High, PAURRO, Tiga |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 28 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood | Elena Colombi, I:Cube, John Talabot, Michael J. Blood, OK EG, Oceanic, Older Brother, RAMZi, Wednesday, georg-i, rRoxymore |
 | Fri, 23 Oct 2026 | ✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ | Bailey Ibbs, Truncate, aalice |
 | Fri, 23 Oct 2026 | FWD>> | Dubrunner, Introspekt, Katiusha, Untold, livwutang, x3butterfly |
+| Fri, 30 Oct 2026 | Art Of Dark - Halloween | DC Salas, GNMR, Praslea, Praslesh, Raresh, Wendy Bkz, Wilba, dj vau, sohrab. |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

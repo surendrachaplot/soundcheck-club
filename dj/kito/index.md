@@ -1,6 +1,6 @@
 # Kito
 
-Kito is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA, Buenos Aires on Fri, 16 Oct 2026.
+Kito is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Buenos Aires on Fri, 16 Oct 2026.
 
 Kito is an electro and techno artist, with 9 gigs on soundcheck across Berlin, Buenos Aires, Melbourne and Milan and 1 more. Often billed alongside AGUSTIN BARBEI, Ajdos and Aquenta. Next up: TBA, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kito is an electro and techno artist, with 9 gigs on soundcheck across Berlin, B
 
 AGUSTIN BARBEI, Ajdos, Aquenta
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*

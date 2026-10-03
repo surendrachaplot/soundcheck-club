@@ -1,6 +1,6 @@
 # Janika Tenn
 
-Janika Tenn is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Maison Dio Tallinn, Tallinn on Fri, 16 Oct 2026.
+Janika Tenn is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maison Dio Tallinn, Tallinn on Fri, 16 Oct 2026.
 
 Janika Tenn is a house and tech house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London and 2 more. Often billed alongside Todd Terry, Michael Moog and Steve Taylor. Next up: Maison Dio Tallinn, Tallinn on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Janika Tenn is a house and tech house artist based in United Kingdom, with 32 gi
 
 Todd Terry, Michael Moog, Steve Taylor
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*

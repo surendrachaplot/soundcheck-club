@@ -1,6 +1,6 @@
 # Philo_
 
-Philo_ is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Gewölbe, Cologne on Sat, 3 Oct 2026.
+Philo_ is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 3 Oct 2026.
 
 Philo_ is a house artist based in Austria, with 18 gigs on soundcheck across Berlin, Cologne, Hamburg and Vienna. Often billed alongside Aino DJ, KLARYOKO and BØRT. Next up: Gewölbe, Cologne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Philo_ is a house artist based in Austria, with 18 gigs on soundcheck across Ber
 
 Aino DJ, KLARYOKO, BØRT
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philo_/)*

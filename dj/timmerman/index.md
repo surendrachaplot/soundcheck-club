@@ -1,6 +1,6 @@
 # Timmerman
 
-Timmerman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
+Timmerman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
 
 Timmerman is a house and techno artist based in Belgium, with 36 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Uni Son, Ampe and Fais Le Beau. Next up: Funke, Ghent on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Timmerman is a house and techno artist based in Belgium, with 36 gigs on soundch
 
 Uni Son, Ampe, Fais Le Beau
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmerman/)*

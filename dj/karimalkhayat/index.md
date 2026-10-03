@@ -1,18 +1,18 @@
 # Karim Alkhayat
 
-Karim Alkhayat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Karim Alkhayat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
-Karim Alkhayat is a techno and house artist based in Syria, with 62 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: KitKatClub, Berlin on Fri 2 Oct.
+Karim Alkhayat is a techno and house artist based in Syria, with 62 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | KitKatClub | Berlin |
 | Sat, 31 Oct 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
+- KitKatClub, Berlin · Fri, 2 Oct 2026
 - ÆDEN, Berlin · Fri, 18 Sept 2026
 - Mokka Mitte Bar / James Simon Park, Berlin · Fri, 11 Sept 2026
 - ÆDEN, Berlin · Wed, 26 Aug 2026
@@ -20,10 +20,9 @@ Karim Alkhayat is a techno and house artist based in Syria, with 62 gigs on soun
 - Kater, Berlin · Sat, 11 Jul 2026
 - Birgit, Berlin · Fri, 10 Jul 2026
 - ÆDEN, Berlin · Wed, 24 Jun 2026
-- La Cova, Hamburg · Fri, 15 May 2026
 
 ## Shares bills with
 
 NÚRIA (DE), KEN (DE), Leon Licht
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*

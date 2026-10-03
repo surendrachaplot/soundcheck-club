@@ -1,6 +1,6 @@
 # Raul Parra
 
-Raul Parra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 16 Oct 2026.
+Raul Parra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 16 Oct 2026.
 
 Raul Parra is a techno and industrial artist based in Spain, with 19 gigs on soundcheck across Barcelona, Cologne, Madrid and Mallorca and 1 more. Often billed alongside Cristian Varela, Hector MAD and MDTCODE. Next up: Lasociaciøn, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Raul Parra is a techno and industrial artist based in Spain, with 19 gigs on sou
 
 Cristian Varela, Hector MAD, MDTCODE
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulparra/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulparra/)*

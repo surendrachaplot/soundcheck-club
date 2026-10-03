@@ -1,6 +1,6 @@
 # Dea (6)
 
-Dea (6) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Cellar, London on Sat, 3 Oct 2026.
+Dea (6) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cellar, London on Sat, 3 Oct 2026.
 
 Dea is a techno and house artist based in Croatia, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 16 more. Often billed alongside ERIS, Enrica Falqui and Ben Kamal. Next up: Cellar, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dea is a techno and house artist based in Croatia, with 64 gigs on soundcheck ac
 
 ERIS, Enrica Falqui, Ben Kamal
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*

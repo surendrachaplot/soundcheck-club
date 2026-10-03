@@ -1,6 +1,6 @@
 # Mill.H
 
-Mill.H is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Acadana, Hong Kong on Sat, 3 Oct 2026.
+Mill.H is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Acadana, Hong Kong on Sat, 3 Oct 2026.
 
 Mill.H is a techno and house artist based in China, with 34 gigs on soundcheck across Hong Kong, Seoul, Shenzhen and Tokyo. Often billed alongside ADRIANNA.C, Dan-neo and DJ Gordon. Next up: Acadana, Hong Kong on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Mill.H is a techno and house artist based in China, with 34 gigs on soundcheck a
 
 ADRIANNA.C, Dan-neo, DJ Gordon
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millh/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millh/)*

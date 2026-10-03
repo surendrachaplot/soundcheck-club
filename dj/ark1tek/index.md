@@ -1,6 +1,6 @@
 # ARK1TEK
 
-ARK1TEK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Overture Studios, Toronto on Fri, 9 Oct 2026.
+ARK1TEK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Overture Studios, Toronto on Fri, 9 Oct 2026.
 
 ARK1TEK is a techno and electro artist based in Colombia, with 12 gigs on soundcheck across Toronto. Often billed alongside Xela., /ASYNC and Hycastle. Next up: Overture Studios, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ARK1TEK is a techno and electro artist based in Colombia, with 12 gigs on soundc
 
 Xela., /ASYNC, Hycastle
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*

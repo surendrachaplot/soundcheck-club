@@ -1,6 +1,6 @@
 # Dizzee Rascal
 
-Dizzee Rascal is a Hip-Hop and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Botanique, Brussels on Sat, 3 Oct 2026.
+Dizzee Rascal is a Hip-Hop and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sat, 3 Oct 2026.
 
 Dizzee Rascal is a hip-hop and drum & bass artist based in United Kingdom, with 7 gigs on soundcheck across Bali, Birmingham, Brussels and Ibiza and 1 more. Often billed alongside 24hr Garage Girls, 4am Kru and A Little Sound. Next up: Botanique, Brussels on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Dizzee Rascal is a hip-hop and drum & bass artist based in United Kingdom, with 
 
 24hr Garage Girls, 4am Kru, A Little Sound
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzeerascal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzeerascal/)*

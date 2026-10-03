@@ -1,6 +1,6 @@
 # City Recital Hall
 
-City Recital Hall is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. The next is "Hellcat Speedracer - Halloween Takeover" on Sat, 31 Oct 2026.
+City Recital Hall is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Hellcat Speedracer - Halloween Takeover" on Sat, 31 Oct 2026.
 
 City Recital Hall is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2-12 Angel Pl; Sydney, NSW 2000; Australia.
 
@@ -14,4 +14,4 @@ City Recital Hall is a music venue in Sydney listed on soundcheck. 1 upcoming gi
 
 2-12 Angel Pl; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/city-recital-hall/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/city-recital-hall/)*

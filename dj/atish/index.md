@@ -1,6 +1,6 @@
 # Atish
 
-Atish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
+Atish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
 
 Atish is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Berlin, Chicago, Denver and Los Angeles and 8 more. Often billed alongside Kora (CA), Nikita and Catori. Next up: Hotel Via, San Francisco/Oakland on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Atish is a house and deep house artist based in United States of America, with 4
 
 Kora (CA), Nikita, Catori
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atish/)*

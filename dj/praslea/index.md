@@ -1,18 +1,19 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Praslea is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Auberge, Switzerland on Sat, 24 Oct 2026.
 
-Praslea is a minimal and house artist based in Romania, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
+Praslea is a minimal and house artist based in Romania, with 97 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Auberge, Switzerland on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Tokonoma Club | Frankfurt |
+| Sat, 24 Oct 2026 | Auberge | Switzerland |
 | Fri, 30 Oct 2026 | FOLD | London |
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 2 Oct 2026
 - VENT, Tokyo · Sun, 20 Sept 2026
 - Supermarket, Zurich · Fri, 7 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ Praslea is a minimal and house artist based in Romania, with 96 gigs on soundche
 - Starlane Pizza Bar, London · Sat, 25 Jul 2026
 - Platforma Wolff, Bucharest · Fri, 10 Jul 2026
 - Club der Visionaere, Berlin · Sun, 5 Jul 2026
-- Deseo BS AS, Buenos Aires · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Raresh, CEZAR, Traumer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

@@ -1,6 +1,6 @@
 # Luwei
 
-Luwei is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
+Luwei is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
 
 Luwei is an electronica and electro artist, with 50 gigs on soundcheck across Berlin, Lisbon, Milan and Rome and 2 more. Often billed alongside Waldo, Industrial Romantico and Elisa Bee. Next up: Onda Listening Bar, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Luwei is an electronica and electro artist, with 50 gigs on soundcheck across Be
 
 Waldo, Industrial Romantico, Elisa Bee
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luwei/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luwei/)*

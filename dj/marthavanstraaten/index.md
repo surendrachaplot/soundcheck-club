@@ -1,6 +1,6 @@
 # Martha van Straaten
 
-Martha van Straaten is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
+Martha van Straaten is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
 
 Martha van Straaten is a downtempo and house artist based in Germany, with 55 gigs on soundcheck across Basel, Berlin, Brisbane and Cologne and 15 more. Often billed alongside Heimlich Knüller, Chris Schwarzwälder and Philipp Fein. Next up: Turtur, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Martha van Straaten is a downtempo and house artist based in Germany, with 55 gi
 
 Heimlich Knüller, Chris Schwarzwälder, Philipp Fein
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marthavanstraaten/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marthavanstraaten/)*

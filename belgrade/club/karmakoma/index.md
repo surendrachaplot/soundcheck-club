@@ -1,15 +1,14 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Heavenphetamine LIVE" on Fri, 2 Oct 2026.
+Karmakoma is a music venue in Belgrade with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Heavenphetamine LIVE" on Fri, 2 Oct 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including .Paragon, Evanora Unlimited, Filip Xavi and Jasmín and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming gigs, with line-ups including Evanora Unlimited, Jasmín, Lena Willikens and Lil Taty and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Heavenphetamine LIVE |  |
-| Fri, 2 Oct 2026 | Filip Xavi, .Paragon, lirika | .Paragon, Filip Xavi |
 | Sat, 3 Oct 2026 | Zora Collective |  |
 | Sat, 17 Oct 2026 | Yes with Jasmín, Stevie Whisper, Lil Taty | Jasmín, Lil Taty, Stevie Whisper |
 | Fri, 23 Oct 2026 | Beyond House Bday with Mr. Ho | Mr. Ho, Stellarcompanion |
@@ -21,4 +20,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, wi
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

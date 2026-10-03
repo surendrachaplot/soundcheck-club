@@ -1,6 +1,6 @@
 # Evvolita
 
-Evvolita is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
+Evvolita is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
 
 Evvolita is a techno artist based in Denmark, with 9 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside AZADÎ, Naiva and vanpana. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Evvolita is a techno artist based in Denmark, with 9 gigs on soundcheck across B
 
 AZADÎ, Naiva, vanpana
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*

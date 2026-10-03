@@ -1,6 +1,6 @@
 # Miles Atmospheric
 
-Miles Atmospheric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Revealed to ticket holders, London on Sat, 5 Dec 2026.
+Miles Atmospheric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Revealed to ticket holders, London on Sat, 5 Dec 2026.
 
 Miles Atmospheric is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Birmingham, Cardiff and London. Often billed alongside 3 Minds, ADJ and Alison Marks. Next up: TBA - Revealed to ticket holders, London on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Miles Atmospheric is a techno and house artist based in United Kingdom, with 7 g
 
 3 Minds, ADJ, Alison Marks
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milesatmospheric/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milesatmospheric/)*

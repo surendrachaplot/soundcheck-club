@@ -1,6 +1,6 @@
 # DJ Steaw
 
-DJ Steaw is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
+DJ Steaw is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
 
 DJ Steaw is a house and tech house artist based in France, with 41 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Baccus, Emma B and Vitess. Next up: TBA - Paris, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Steaw is a house and tech house artist based in France, with 41 gigs on sound
 
 Baccus, Emma B, Vitess
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteaw/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteaw/)*

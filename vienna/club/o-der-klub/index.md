@@ -1,14 +1,13 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "SIGNAL presents Joyhauser" on Fri, 2 Oct 2026.
+O der Klub is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SIGNAL presents Deep Dish" on Fri, 9 Oct 2026.
 
-O der Klub is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Beyer, Albin Brezlan, Bob Moses and Deep Dish and 2 more. See dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
+O der Klub is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Beyer, Bob Moses, Deep Dish and Fatima Hajji and 2 more. See dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | SIGNAL presents Joyhauser | Albin Brezlan, Joris Turenhout, Joyhauser, Mark Michael |
 | Fri, 9 Oct 2026 | SIGNAL presents Deep Dish | Deep Dish |
 | Fri, 16 Oct 2026 | SIGNAL presents Adam Beyer | Adam Beyer |
 | Fri, 23 Oct 2026 | SIGNAL presents Bob Moses | Bob Moses |
@@ -21,4 +20,4 @@ O der Klub is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, wit
 
 Opernring/Operngasse, 1010 Wien, Vienna
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*

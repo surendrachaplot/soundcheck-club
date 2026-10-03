@@ -1,6 +1,6 @@
 # Timm Schirmer
 
-Timm Schirmer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Timm Schirmer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
 Timm Schirmer is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Frankfurt and Nürnberg. Often billed alongside Cassa Cristano, Mantraa and Klang der Nacht. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Timm Schirmer is a techno and trance artist based in Germany, with 49 gigs on so
 
 Cassa Cristano, Mantraa, Klang der Nacht
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmschirmer/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timmschirmer/)*

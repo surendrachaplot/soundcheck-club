@@ -1,6 +1,6 @@
 # Pharo
 
-Pharo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Pharo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
 Pharo is a techno and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Moonz, Tarawar and Lulu (UK). Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pharo is a techno and tech house artist based in United Kingdom, with 9 gigs on 
 
 Moonz, Tarawar, Lulu (UK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharo/)*

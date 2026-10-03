@@ -1,6 +1,6 @@
 # Julian Bomm
 
-Julian Bomm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at fi, Cologne on Fri, 16 Oct 2026.
+Julian Bomm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fi, Cologne on Fri, 16 Oct 2026.
 
 Julian Bomm is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Leon Hagen, Usherenko and Alfalfa. Next up: fi, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Julian Bomm is a techno and house artist based in Germany, with 33 gigs on sound
 
 Leon Hagen, Usherenko, Alfalfa (2)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbomm/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbomm/)*

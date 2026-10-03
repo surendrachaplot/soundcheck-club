@@ -1,6 +1,6 @@
 # Aqwea
 
-Aqwea is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Carpet Shop, London on Fri, 9 Oct 2026.
+Aqwea is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Carpet Shop, London on Fri, 9 Oct 2026.
 
 Aqwea is a house and deep house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Berlin, Bristol and London. Often billed alongside Alexander Nut, Leanne Wright and Benji B. Next up: The Carpet Shop, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Aqwea is a house and deep house artist based in United Kingdom, with 33 gigs on 
 
 Alexander Nut, Leanne Wright, Benji B
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwea/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwea/)*

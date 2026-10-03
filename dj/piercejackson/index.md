@@ -1,6 +1,6 @@
 # Pierce Jackson
 
-Pierce Jackson is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Home Sweet Home, New York City on Sun, 18 Oct 2026.
+Pierce Jackson is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Home Sweet Home, New York City on Sun, 18 Oct 2026.
 
 Pierce Jackson is a jungle and drum & bass artist, with 8 gigs on soundcheck across New York City. Often billed alongside DJ eh, amita and 3mouth. Next up: Home Sweet Home, New York City on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Pierce Jackson is a jungle and drum & bass artist, with 8 gigs on soundcheck acr
 
 DJ eh, amita, 3mouth
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piercejackson/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piercejackson/)*

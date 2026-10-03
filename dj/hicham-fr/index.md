@@ -1,6 +1,6 @@
 # Hicham (FR)
 
-Hicham (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 10 Oct 2026.
+Hicham (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 10 Oct 2026.
 
 Hicham (FR) is a house and techno artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Walrus, Tomas Station and Arto. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hicham (FR) is a house and techno artist, with 60 gigs on soundcheck across Amst
 
 Walrus, Tomas Station, Arto
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*

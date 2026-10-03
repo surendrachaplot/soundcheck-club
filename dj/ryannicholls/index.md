@@ -1,6 +1,6 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
+Ryan Nicholls is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at XOYO, London on Sat, 3 Oct 2026.
 
 Ryan Nicholls is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Glasgow and 8 more. Often billed alongside Fleur Shore, Josh Gregg and Ryan Resso. Next up: XOYO, London on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Ryan Nicholls is a house and tech house artist based in United Kingdom, with 33 
 
 Fleur Shore, Josh Gregg, Ryan Resso
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

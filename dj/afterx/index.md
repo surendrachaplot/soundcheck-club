@@ -1,6 +1,6 @@
 # After X
 
-After X is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+After X is a Techno and Noise artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 After X is a techno and noise artist, with 11 gigs on soundcheck across Berlin, Los Angeles, Osaka and Paris and 2 more. Often billed alongside PARIS (AU), TBA and AKEYLAH. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ After X is a techno and noise artist, with 11 gigs on soundcheck across Berlin, 
 
 PARIS (AU), TBA, AKEYLAH
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afterx/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afterx/)*

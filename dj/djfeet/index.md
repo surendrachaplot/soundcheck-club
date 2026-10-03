@@ -1,6 +1,6 @@
 # DJ Feet
 
-DJ Feet is a Jazz and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+DJ Feet is a Jazz and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 DJ Feet is a jazz and club artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside Keftagine, DJ Gostoso and Alvaro Cabana. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Feet is a jazz and club artist based in Spain, with 17 gigs on soundcheck acr
 
 Keftagine, DJ Gostoso, Alvaro Cabana
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfeet/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfeet/)*

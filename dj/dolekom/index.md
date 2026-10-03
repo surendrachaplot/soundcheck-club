@@ -1,6 +1,6 @@
 # Dole & Kom
 
-Dole & Kom is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
+Dole & Kom is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
 
 Dole & Kom are a deep house and house duo based in Germany, with 23 gigs on soundcheck across Berlin, Copenhagen and Vienna. Often billed alongside Danilo Kupfernagel, Jesper Aubin and LEENI. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dole & Kom are a deep house and house duo based in Germany, with 23 gigs on soun
 
 Danilo Kupfernagel, Jesper Aubin, LEENI
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolekom/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolekom/)*

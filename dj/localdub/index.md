@@ -1,6 +1,6 @@
 # Local Dub
 
-Local Dub is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Local Dub is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Local Dub is a tech house and house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Josh Baker, Alexandria and Jentzen. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Local Dub is a tech house and house artist based in United Kingdom, with 32 gigs
 
 Josh Baker, Alexandria, Jentzen
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*

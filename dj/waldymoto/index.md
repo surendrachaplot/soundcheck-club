@@ -1,6 +1,6 @@
 # Waldymoto
 
-Waldymoto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
+Waldymoto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
 Waldymoto is a techno and house artist based in Germany, with 31 gigs on soundcheck across Antwerp, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside mojo, Ariel (DE) and Anna Konda. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Waldymoto is a techno and house artist based in Germany, with 31 gigs on soundch
 
 mojo, Ariel (DE), Anna Konda
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*

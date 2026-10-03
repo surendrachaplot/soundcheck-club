@@ -1,14 +1,13 @@
 # Bag Raiders
 
-Bag Raiders is a House and Electronica artist with 10 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at The Jazz Cafe, London on Fri, 2 Oct 2026.
+Bag Raiders is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sacré, Paris on Sat, 3 Oct 2026.
 
-Bag Raiders is a house and electronica artist based in Australia, with 39 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 12 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: The Jazz Cafe, London on Fri 2 Oct.
+Bag Raiders is a house and electronica artist based in Australia, with 39 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 12 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: Sacré, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Jazz Cafe | London |
 | Sat, 3 Oct 2026 | Sacré | Paris |
 | Fri, 30 Oct 2026 | Tumbalong Park | Sydney |
 | Fri, 6 Nov 2026 | 1720 | Los Angeles |
@@ -21,6 +20,7 @@ Bag Raiders is a house and electronica artist based in Australia, with 39 gigs o
 
 ## Recently played
 
+- The Jazz Cafe, London · Fri, 2 Oct 2026
 - Secret Location, Sydney · Fri, 15 May 2026
 - The Night Cat, Melbourne · Sat, 27 Dec 2025
 - Royal Botanic Gardens, Melbourne · Sat, 29 Nov 2025
@@ -28,10 +28,9 @@ Bag Raiders is a house and electronica artist based in Australia, with 39 gigs o
 - Metropolis, London · Sat, 14 Jun 2025
 - Metropolis, London · Sat, 14 Jun 2025
 - Sala Villanos, Madrid · Fri, 13 Jun 2025
-- Mrs Sippy Bali, Bali · Sat, 19 Apr 2025
 
 ## Shares bills with
 
 Boogs, Casey Leaver, Amber Ferraro
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagraiders/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagraiders/)*

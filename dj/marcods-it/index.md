@@ -1,6 +1,6 @@
 # MarcoDs
 
-MarcoDs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Q Club, Milan on Fri, 9 Oct 2026.
+MarcoDs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Q Club, Milan on Fri, 9 Oct 2026.
 
 MarcoDs is a techno and house artist, with 14 gigs on soundcheck across Milan. Often billed alongside Carlo Mognaschi, Re Pigi and Fatima Koanda. Next up: Q Club, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MarcoDs is a techno and house artist, with 14 gigs on soundcheck across Milan. O
 
 Carlo Mognaschi, Re Pigi, Fatima Koanda
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcods-it/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcods-it/)*

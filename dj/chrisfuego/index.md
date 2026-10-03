@@ -1,6 +1,6 @@
 # Chris Fuego
 
-Chris Fuego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+Chris Fuego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
 Chris Fuego is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DJ PayPaul, KEN (DE) and David Strasser. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Chris Fuego is a house and techno artist based in Germany, with 8 gigs on soundc
 
 DJ PayPaul, KEN (DE), David Strasser
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfuego/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfuego/)*

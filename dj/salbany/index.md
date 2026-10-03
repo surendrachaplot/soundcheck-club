@@ -1,6 +1,6 @@
 # Salbany
 
-Salbany is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
+Salbany is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 16 Oct 2026.
 
 Salbany is a techno and dub techno artist based in Portugal, with 57 gigs on soundcheck across Berlin, Helsinki, Lisbon and London and 4 more. Often billed alongside Jesterr, Chima Isaaro and Temudo. Next up: Ministerium Club, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Salbany is a techno and dub techno artist based in Portugal, with 57 gigs on sou
 
 Jesterr, Chima Isaaro, Temudo
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*

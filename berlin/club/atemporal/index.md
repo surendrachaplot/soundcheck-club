@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Atemporal listening session - FloFilz 10 years of Cenário - one night in Lisbon" on Sat, 3 Oct 2026.
+Atemporal is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Atemporal listening session - FloFilz 10 years of Cenário - one night in Lisbon" on Sat, 3 Oct 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including FloFilz and Jeena. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wit
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
 Locky is a house and tech house artist based in United Kingdom, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 31 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist based in United Kingdom, with 153 gigs on
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

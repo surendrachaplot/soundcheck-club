@@ -1,6 +1,6 @@
 # Kiss Kiss
 
-Kiss Kiss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
+Kiss Kiss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
 Kiss Kiss is a house and club artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside MTHR TRSA, Scruff Angel and Simisola. Next up: telos.haus, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Kiss Kiss is a house and club artist based in United States of America, with 10 
 
 MTHR TRSA, Scruff Angel, Simisola
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kisskiss/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kisskiss/)*

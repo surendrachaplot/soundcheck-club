@@ -1,6 +1,6 @@
 # FUGE
 
-FUGE is a Experimental and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
+FUGE is a Experimental and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
 
 FUGE is an experimental and latin bass artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Ari & Dro, Authentically Plastic and FEDRA.. Next up: TBA - Secret Location, Bed Stuy, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ FUGE is an experimental and latin bass artist based in United States of America,
 
 Ari & Dro, Authentically Plastic, FEDRA.
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuge/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuge/)*

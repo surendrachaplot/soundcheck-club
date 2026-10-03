@@ -1,6 +1,6 @@
 # E2NMN
 
-E2NMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+E2NMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 E2NMN is a techno and house artist, with 36 gigs on soundcheck across Berlin, Edinburgh, Madrid and Marseille and 4 more. Often billed alongside Jonas Xenon, APRS and Decoder. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ E2NMN is a techno and house artist, with 36 gigs on soundcheck across Berlin, Ed
 
 Jonas Xenon, APRS, Decoder
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e2nmn/)*

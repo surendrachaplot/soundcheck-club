@@ -1,6 +1,6 @@
 # Mr Scruff
 
-Mr Scruff is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Gretchen, Berlin on Fri, 9 Oct 2026.
+Mr Scruff is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gretchen, Berlin on Fri, 9 Oct 2026.
 
 Mr Scruff is a house and funk / soul artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Gretchen, Berlin on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Mr Scruff is a house and funk / soul artist based in United Kingdom, with 110 gi
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

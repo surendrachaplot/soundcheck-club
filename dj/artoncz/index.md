@@ -1,6 +1,6 @@
 # Arton (CZ)
 
-Arton (CZ) is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at pul.pit, Brno on Fri, 16 Oct 2026.
+Arton (CZ) is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at pul.pit, Brno on Fri, 16 Oct 2026.
 
 Arton (CZ) is a techno and downtempo artist based in Czech Republic, with 12 gigs on soundcheck across Brno and Prague. Often billed alongside Axis Alpha, Eva Falt and ka.za. Next up: pul.pit, Brno on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Arton (CZ) is a techno and downtempo artist based in Czech Republic, with 12 gig
 
 Axis Alpha, Eva Falt, ka.za
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*

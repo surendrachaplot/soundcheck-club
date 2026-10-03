@@ -1,6 +1,6 @@
 # Isaac Denny
 
-Isaac Denny is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at The Shy Guy, Auckland on Fri, 9 Oct 2026.
+Isaac Denny is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Shy Guy, Auckland on Fri, 9 Oct 2026.
 
 Isaac Denny is a house and tech house artist based in New Zealand, with 11 gigs on soundcheck across Auckland. Often billed alongside Herman Saiz, Greg Churchill and Jack Masters. Next up: The Shy Guy, Auckland on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Isaac Denny is a house and tech house artist based in New Zealand, with 11 gigs 
 
 Herman Saiz, Greg Churchill, Jack Masters
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacdenny/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacdenny/)*

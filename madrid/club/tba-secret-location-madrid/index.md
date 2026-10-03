@@ -1,15 +1,15 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "Off-Beat x Margarita" on Sat, 3 Oct 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Off-Beat x Margarita" on Sat, 3 Oct 2026.
 
-TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including berta (ES), Butter.Jim, Cristal Roto and Dana Kuehr and 2 more. See dates, start times and who's playing.
+TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including azul, berta (ES), Butter.Jim and Cristal Roto and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Off-Beat x Margarita | Jorge Escribano, Lukas Klötz, Montse, NULOMARIO (ES), Picasso, Valium, berta (ES), nBlueMoney |
-| Sat, 3 Oct 2026 | Club Downtempo w/ Philipp Otterbach / DJ Feet / Katatonic Silentio / Utopian | DJ Feet, Katatonic Silentio, Philipp Otterbach |
+| Sat, 3 Oct 2026 | Club Downtempo w/ azul / Philipp Otterbach / DJ Feet  / Utopian | DJ Feet, Philipp Otterbach, azul |
 | Sat, 10 Oct 2026 | The Rose Island III Anniversary | DELASFLORES, Dana Kuehr, Reformed Society, zizi k |
 | Sun, 11 Oct 2026 | NO IDOLS I |  |
 | Sat, 17 Oct 2026 | Espora season begins in fall | Butter.Jim, Cristal Roto, Killo, ONA (SP), Zagal |
@@ -18,4 +18,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Sun, 6 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Climax |  |
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending |  |
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

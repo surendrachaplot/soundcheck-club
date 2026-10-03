@@ -1,6 +1,6 @@
 # Ritchie Haydn
 
-Ritchie Haydn is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+Ritchie Haydn is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 Ritchie Haydn is a deep house and progressive house artist based in United Kingdom, with 13 gigs on soundcheck across London, Los Angeles, Paris and Tokyo. Often billed alongside KONNR, Carina Lawrence and GABS (SK). Next up: Bricks, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ritchie Haydn is a deep house and progressive house artist based in United Kingd
 
 KONNR, Carina Lawrence, GABS (SK)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchiehaydn/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchiehaydn/)*

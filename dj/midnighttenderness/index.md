@@ -1,6 +1,6 @@
 # Midnight Tenderness
 
-Midnight Tenderness is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
+Midnight Tenderness is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
 
 Midnight Tenderness is a house and hip-hop artist, with 12 gigs on soundcheck across Melbourne and Sydney. Often billed alongside RAH, Yawung and Asha Franco. Next up: Angel Music Bar, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Midnight Tenderness is a house and hip-hop artist, with 12 gigs on soundcheck ac
 
 RAH (1), Yawung, Asha Franco
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnighttenderness/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnighttenderness/)*

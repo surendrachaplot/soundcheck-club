@@ -1,14 +1,13 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. The next is "BLACK NOIR presents: BLURRED MOVEMENT" on Fri, 2 Oct 2026.
+The Flinders is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BLACK NOIR presents: headrush B2B NITTA [TW]" on Sat, 3 Oct 2026.
 
-The Flinders is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including <777>, 2LUX, Angie (CY) and Arabesque and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
+The Flinders is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including <777>, 2LUX, Angie (CY) and Arabesque and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | BLACK NOIR presents: BLURRED MOVEMENT | Bleach, Kvrt, Rio (JP) |
 | Sat, 3 Oct 2026 | BLACK NOIR presents: headrush B2B NITTA [TW] | Arabesque, BASS SLVT, headrush |
 | Fri, 9 Oct 2026 | BLACK NOIR presents: KAAI | 2LUX, KAAI, ORKA, Repercussion, keanu (3) |
 | Sat, 10 Oct 2026 | BLACK NOIR presents: LeStrange | CAVO, LeStrange, MSG, SØMR, YONKS |
@@ -21,4 +20,4 @@ The Flinders is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, w
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

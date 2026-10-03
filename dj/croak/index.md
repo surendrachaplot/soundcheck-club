@@ -1,6 +1,6 @@
 # Cröak
 
-Cröak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Usquare, Brussels on Sat, 17 Oct 2026.
+Cröak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Usquare, Brussels on Sat, 17 Oct 2026.
 
 Cröak is a disco and house artist based in Belgium, with 6 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Ajuma, Ays (NL) and Bass Toast. Next up: Usquare, Brussels on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Cröak is a disco and house artist based in Belgium, with 6 gigs on soundcheck a
 
 Ajuma, Ays (NL), Bass Toast
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*

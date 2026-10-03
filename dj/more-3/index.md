@@ -1,6 +1,6 @@
 # More (3)
 
-More (3) is a Reggaeton and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
+More (3) is a Reggaeton and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
 
 More is a reggaeton and house artist based in Italy, with 30 gigs on soundcheck across Bangkok, Berlin, Cologne and Lisbon and 10 more. Often billed alongside 4am Kru, Garage and ID. Next up: Bangkok Island, Bangkok on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ More is a reggaeton and house artist based in Italy, with 30 gigs on soundcheck 
 
 4am Kru, Garage, ID
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*

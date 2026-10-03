@@ -1,6 +1,6 @@
 # Nora Asteroid
 
-Nora Asteroid is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 2 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+Nora Asteroid is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
 
 Nora Asteroid is a trance and techno artist based in Switzerland, with 14 gigs on soundcheck across Berlin, Copenhagen and Zurich. Often billed alongside Dragovic, Astral Bandit and Mia Lund. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nora Asteroid is a trance and techno artist based in Switzerland, with 14 gigs o
 
 Dragovic, Astral Bandit, Mia Lund
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*

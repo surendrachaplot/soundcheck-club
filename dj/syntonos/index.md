@@ -1,6 +1,6 @@
 # Syntonos
 
-Syntonos is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 2 Oct 2026. Next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
+Syntonos is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
 
 Syntonos is a tech house and house artist based in Ukraine, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Paris. Often billed alongside Volmaan, YANNIK (CH) and SACK (AR). Next up: Bikini Club, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Syntonos is a tech house and house artist based in Ukraine, with 23 gigs on soun
 
 Volmaan, YANNIK (CH), SACK (AR)
 
-*Updated Fri, 2 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*
+*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntonos/)*
