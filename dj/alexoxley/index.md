@@ -1,8 +1,8 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 16 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 16 Oct 2026.
 
-Alex Oxley is a disco and italo disco artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 23 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: The Onyx Room at House of Yes, New York City on Fri 16 Oct.
+Alex Oxley is a disco and italo disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 23 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: The Onyx Room at House of Yes, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 57 gi
 | Fri, 16 Oct 2026 | The Onyx Room at House of Yes | New York City |
 | Fri, 23 Oct 2026 | Kiku Room | San Diego |
 | Sat, 24 Oct 2026 | Zebulon | Los Angeles |
+| Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Public Works Oddjob Loft | San Francisco/Oakland |

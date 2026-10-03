@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Hot Singles In Ur Area" on Sat, 3 Oct 2026.
+Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Hot Singles In Ur Area" on Sat, 3 Oct 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including Ah Dek, ANTON (ES), AROON and Bella Hex and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Ah Dek, ANTON (ES), AROON and Bella Hex and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Plaza Cultural, New York City on Sat, 3 Oct 2026.
+Bambi (FR) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Plaza Cultural, New York City on Sat, 3 Oct 2026.
 
-Bambi (FR) is a techno and trance artist based in France, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: La Plaza Cultural, New York City on Sat 3 Oct.
+Bambi (FR) is a techno and trance artist based in France, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: La Plaza Cultural, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bambi (FR) is a techno and trance artist based in France, with 81 gigs on soundc
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | La Plaza Cultural | New York City |
 | Fri, 16 Oct 2026 | TBA - Goo People | Los Angeles |
+| Sat, 17 Oct 2026 | TBA - BK | New York City |
 | Sat, 24 Oct 2026 | TBA - Premises | Chicago |
 | Fri, 18 Dec 2026 | Cadavra | Madrid |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

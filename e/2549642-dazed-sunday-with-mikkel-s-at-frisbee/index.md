@@ -1,10 +1,10 @@
 # Dazed Sunday with Mikkel S at Frisbee
 
-Dazed Sunday with Mikkel S at Frisbee on Sat 3 Oct, Copenhagen. Experimental and Afrobeat. See the line-up on soundcheck.
+Dazed Sunday with Mikkel S at Frisbee on Sun 18 Oct, Copenhagen. Experimental and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 3 Oct 2026 |
+| Date | Sun, 18 Oct 2026 |
 | Venue | Frisbee |
 | City | Copenhagen |
 

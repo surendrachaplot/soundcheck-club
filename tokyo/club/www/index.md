@@ -1,14 +1,13 @@
 # WWWβ
 
-WWWβ is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CUT OFF 20s" on Sat, 3 Oct 2026.
+WWWβ is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "βase-003" on Fri, 9 Oct 2026.
 
-WWWβ is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including MK woop and YAMA(JP/OSK). See dates, start times and who's playing. 13-17 Udagawa Shibuya Tokyo 150-0042 Japan.
+WWWβ is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 13-17 Udagawa Shibuya Tokyo 150-0042 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | CUT OFF 20s | MK woop, YAMA(JP/OSK) |
 | Fri, 9 Oct 2026 | βase-003 |  |
 
 ## Address

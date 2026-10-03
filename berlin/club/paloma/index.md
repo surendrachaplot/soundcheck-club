@@ -10,7 +10,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with l
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Disco To Go | Phonk D, Soundstream |
 | Sat, 3 Oct 2026 | Clear Memory at Paloma | Milium, Rekorder |
-| Sun, 4 Oct 2026 | Transition: Theef [LIVE], Tata, Center Of Light & eterna_l | eterna_l |
+| Sun, 4 Oct 2026 | Transition: Theef [LIVE], Tata, Center Of Light & eterna_l | Scott (Afterhours.), eterna_l |
 | Thu, 8 Oct 2026 | pre:sense [vinyl only] | Elvin, Erik Jabari |
 | Fri, 9 Oct 2026 | Rengade Snares | Bassdee, Sven von Thülen |
 | Fri, 9 Oct 2026 | Aquatic Travellers Vol. 13 | Black Mirror Park, Lily Haz, bb:fm |

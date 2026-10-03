@@ -1,14 +1,13 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+JonnyVicious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur on Wed, 7 Oct 2026.
 
-JonnyVicious is a house and techno artist based in Malaysia, with 91 gigs on soundcheck across Bali, Bangkok, Hong Kong and Kuala Lumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+JonnyVicious is a house and techno artist based in Malaysia, with 91 gigs on soundcheck across Bali, Bangkok, Hong Kong and Kuala Lumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS, Kuala Lumpur on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Wed, 7 Oct 2026 | TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS | Kuala Lumpur |
 
 ## Recently played

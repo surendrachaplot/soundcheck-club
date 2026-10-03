@@ -1,6 +1,6 @@
-# DONLITE: Donavan Glover, MICHAEL S, Father Dukes at Northern Lights Lounge
+# DONLITE: Donavan Glover, Michael S, Father Dukes at Northern Lights Lounge
 
-DONLITE: Donavan Glover, MICHAEL S, Father Dukes at Northern Lights Lounge on Sat 3 Oct, Detroit. 2 artists: Donavan Glover and Father Dukes. House and Deep House. See the line-up on soundcheck.
+DONLITE: Donavan Glover, Michael S, Father Dukes at Northern Lights Lounge on Sat 3 Oct, Detroit. 2 artists: Donavan Glover and Father Dukes. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

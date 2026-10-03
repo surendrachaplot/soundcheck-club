@@ -1,14 +1,13 @@
 # dBridge
 
-dBridge is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RASA, Singapore on Sat, 3 Oct 2026.
+dBridge is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-dBridge is a drum & bass and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Berlin, Boston and Brighton and 30 more. Often billed alongside DjRUM, SP:MC and Kia (AU). Next up: RASA, Singapore on Sat 3 Oct.
+dBridge is a drum & bass and techno artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Berlin, Boston and Brighton and 30 more. Often billed alongside DjRUM, SP:MC and Kia (AU). Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | RASA | Singapore |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 

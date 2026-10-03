@@ -1,6 +1,6 @@
 # Wife Inspection at Bossa Nova Civic Club
 
-Wife Inspection at Bossa Nova Civic Club on Thu 22 Oct, New York City. 4 artists: babu, Miss Twink USA, Robyn DaBank and Terra Magra. Techno and Ghetto Tech. See the line-up on soundcheck.
+Wife Inspection at Bossa Nova Civic Club on Thu 22 Oct, New York City. 4 artists: babu, Miss Twink USA, Robyn DaBank and Terra Magra. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

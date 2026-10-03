@@ -1,14 +1,15 @@
 # Lemon D
 
-Lemon D is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Social, London on Sat, 7 Nov 2026.
+Lemon D is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Social, London on Sat, 7 Nov 2026.
 
-Lemon D is a drum & bass and jungle artist based in United Kingdom, with 24 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 2 more. Often billed alongside Dillinja, MC GQ and Carasel. Next up: The Social, London on Sat 7 Nov.
+Lemon D is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside Dillinja, MC GQ and Carasel. Next up: The Social, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Social | London |
+| Fri, 13 Nov 2026 | Deya Brewery | West-wales |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Yoshihiro Okino
 
-Yoshihiro Okino is a Jazz and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Room, Tokyo on Sat, 3 Oct 2026.
+Yoshihiro Okino is a Jazz and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Area51 / 17map Minami, Osaka on Sun, 11 Oct 2026.
 
-Yoshihiro Okino is a jazz and club artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kyoto Jazz Massive, Shuya Okino and Masaki Tamura. Next up: The Room, Tokyo on Sat 3 Oct.
+Yoshihiro Okino is a jazz and club artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kyoto Jazz Massive, Shuya Okino and Masaki Tamura. Next up: Area51 / 17map Minami, Osaka on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Room | Tokyo |
 | Sun, 11 Oct 2026 | Area51 / 17map Minami | Osaka |
 | Sat, 19 Dec 2026 | Club Metro | Kyoto |
 

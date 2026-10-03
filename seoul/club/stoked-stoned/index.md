@@ -1,15 +1,13 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "28 Sep - 4 Oct" on Mon, 28 Sept 2026.
+Stoked&stoned is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Honey Badger Records" on Sun, 4 Oct 2026.
 
-Stoked&stoned is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including bumv, Coolrnch, Gyusco and Haemin Kim and 2 more. See dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
+Stoked&stoned is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including hcy. and JNS. See dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | 28 Sep - 4 Oct | Coolrnch, Gyusco, Haemin Kim, JNS, Jesse You, Lyumin, Mignon (2), Nolove, RTRP, Sebibadboy, Youngseok, bumv, hcy. |
-| Sat, 3 Oct 2026 | Saturday Stoked&stoned | Coolrnch, Haemin Kim, Sebibadboy, bumv |
 | Sun, 4 Oct 2026 | Honey Badger Records | JNS, hcy. |
 
 ## Address

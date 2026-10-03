@@ -1,6 +1,6 @@
 # Transition: Theef [LIVE], Tata, Center Of Light & eterna_l at Paloma
 
-Transition: Theef [LIVE], Tata, Center Of Light & eterna_l at Paloma on Sun 4 Oct, Berlin. 1 artist: eterna_l. Minimal and Deep House. See the line-up on soundcheck.
+Transition: Theef [LIVE], Tata, Center Of Light & eterna_l at Paloma on Sun 4 Oct, Berlin. 2 artists: eterna_l and Scott (Afterhours.). Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Transition: Theef [LIVE], Tata, Center Of Light & eterna_l at Paloma on Sun 4 Oc
 ## Line-up
 
 - eterna_l
+- Scott (Afterhours.)
 
 *Source: [soundcheck](https://soundcheck.club/e/2494567-transition-theef-live-tata-center-of-light-eterna-l-at-palom/)*

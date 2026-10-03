@@ -15,7 +15,7 @@ FLUCC is a music venue in Vienna listed on soundcheck. 15 upcoming gigs, with li
 | Sat, 10 Oct 2026 | Überdruck im Fluc - MYSTERYBOX 01 [Überdruck + PaxNicht + Special Guest (Belgium)] |  |
 | Sun, 11 Oct 2026 | Garten von Eben im Traumtempo VII | Nugi, Sansea |
 | Thu, 15 Oct 2026 | Palazzo Night |  |
-| Fri, 16 Oct 2026 | KISSEN | Authentically Plastic, Shepperd, anxxxious_t, zey |
+| Fri, 16 Oct 2026 | KISSEN | Authentically Plastic, Ethane, Shepperd, anxxxious_t, zey |
 | Sat, 17 Oct 2026 | A party called JACK | Altroy Jerome, JP Bechamel |
 | Sun, 18 Oct 2026 | Augend&Addend presents: Fred Moten & Brandon López and sucre sucre |  |
 

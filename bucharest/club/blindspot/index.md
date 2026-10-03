@@ -1,8 +1,8 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Not An Opening Party" on Sat, 3 Oct 2026.
+Blindspot* is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Not An Opening Party" on Sat, 3 Oct 2026.
 
-Blindspot* is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Alienmade, Kanghu, Michael Ius and Synthetica and 1 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
+Blindspot* is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Alienmade, Kanghu, Michael Ius and Synthetica and 1 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, 
 | Sat, 10 Oct 2026 | Zenyth X Euphoria | Kanghu, Michael Ius, Synthetica |
 | Fri, 30 Oct 2026 | TDIB X SSS [ HEADLINER NIGHT ] |  |
 | Sat, 31 Oct 2026 | TEKNOWEEN |  |
+| Fri, 27 Nov 2026 | TEKNOW |  |
 | Sat, 28 Nov 2026 | TDIB X SSS [ VINYL NIGHT ] |  |
 | Sat, 19 Dec 2026 | TDIB X SSS [ SHOWCASE NIGHT ] |  |
 

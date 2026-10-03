@@ -1,6 +1,6 @@
 # Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + Turnspit at New Century Locker
 
-Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + Turnspit at New Century Locker on Sat 3 Oct, Manchester. 2 artists: DJ Subaru and Paranoid London. Electro and Acid. See the line-up on soundcheck.
+Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + Turnspit at New Century Locker on Sat 3 Oct, Manchester. 2 artists: DJ Subaru and Paranoid London. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

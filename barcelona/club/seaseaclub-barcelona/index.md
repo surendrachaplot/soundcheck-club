@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air)" on Sat, 3 Oct 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "[CANCELLED] TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air)" on Sat, 3 Oct 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, Alice Youngling and arnald and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -8,7 +8,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
+| Sat, 3 Oct 2026 | [CANCELLED] TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
 | Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
 | Sat, 10 Oct 2026 | Alta Fidelidad x Diggin' x Mirador x 24seven pres. Lamache, Yamour, Voodoos & Taboos - 2 stages | Camion Bazar, Diesco, Lamache, Nancy (3), Vallde, Varan (2), Vilalta, Vince Void, Voodoos and Taboos, Yamour, arnald |
 | Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |

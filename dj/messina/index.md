@@ -1,14 +1,13 @@
 # Messina
 
-Messina is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - PARC DES DROITS DE L'HOMME, Lyon on Sat, 3 Oct 2026.
+Messina is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - PARC DE LA COMMUNE DE PARIS , Lyon on Sat, 10 Oct 2026.
 
-Messina is a techno and house artist based in France, with 31 gigs on soundcheck across Geneva, Lyon, Montreal and Paris. Often billed alongside Rōse (CH), SUERTE (FR) and CAROLO. Next up: TBA - PARC DES DROITS DE L'HOMME, Lyon on Sat 3 Oct.
+Messina is a techno and house artist based in France, with 31 gigs on soundcheck across Geneva, Lyon, Montreal and Paris. Often billed alongside Rōse (CH), SUERTE (FR) and CAROLO. Next up: TBA - PARC DE LA COMMUNE DE PARIS , Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - PARC DES DROITS DE L'HOMME | Lyon |
 | Sat, 10 Oct 2026 | TBA - PARC DE LA COMMUNE DE PARIS  | Lyon |
 | Sat, 17 Oct 2026 | TBA - STADE GEORGES LYVET - VILLEURBANNE | Lyon |
 

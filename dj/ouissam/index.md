@@ -1,14 +1,13 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Ouissam is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
 
-Ouissam is a house and techno artist based in France, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 21 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+Ouissam is a house and techno artist based in France, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 21 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Factory 47, Hanoi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Fri, 9 Oct 2026 | Factory 47 | Hanoi |
 | Sat, 10 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Sun, 11 Oct 2026 | The Observatory | Ho-chi-minh-city |

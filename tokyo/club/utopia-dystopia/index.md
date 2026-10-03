@@ -1,6 +1,6 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "IMMERSION" on Sat, 3 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FABRIC" on Wed, 7 Oct 2026.
 
 UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including 雷庵(RYan), Anri, ANZU and CKRN303 and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
@@ -8,7 +8,7 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | IMMERSION | SN_Yeah, omeme_gangimari |
+| Wed, 7 Oct 2026 | FABRIC |  |
 | Thu, 8 Oct 2026 | RIFF RAFF | DJ Juice (2), Subaske |
 | Fri, 9 Oct 2026 | U and D Halloween | Gewnky, Natasha, Yuuki, omeme_gangimari, vivi |
 | Sat, 10 Oct 2026 | L.S.S TRAXX NIGHT 'DJ MASASHI MATSUI 30th Anniversary' feat. Biz（TRANSMAT RECORDS） | ANZU, Kamaida, Tommy (2), YU-S-KE, Yonenaga |

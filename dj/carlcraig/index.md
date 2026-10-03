@@ -1,14 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Carl Craig is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
 
-Carl Craig is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
+Carl Craig is a house and techno artist based in United States of America, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |

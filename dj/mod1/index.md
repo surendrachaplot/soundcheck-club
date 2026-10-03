@@ -1,14 +1,13 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Volnost, Seoul on Sat, 3 Oct 2026.
+Mod.1 is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
-Mod.1 is a techno and dub techno artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: Volnost, Seoul on Sat 3 Oct.
+Mod.1 is a techno and dub techno artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Volnost | Seoul |
 | Sat, 10 Oct 2026 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played

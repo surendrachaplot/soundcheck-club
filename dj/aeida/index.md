@@ -1,14 +1,13 @@
 # AEIDA
 
-AEIDA is a Breakbeat and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grain Haus, Seoul on Sat, 3 Oct 2026.
+AEIDA is a Breakbeat and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Modeci, Seoul on Thu, 8 Oct 2026.
 
-AEIDA is a breakbeat and garage artist based in South Korea, with 43 gigs on soundcheck across Seoul and Tokyo. Often billed alongside WEEUN KIM, BAAWLA and HASHTAGPOPE. Next up: Grain Haus, Seoul on Sat 3 Oct.
+AEIDA is a breakbeat and garage artist based in South Korea, with 43 gigs on soundcheck across Seoul and Tokyo. Often billed alongside WEEUN KIM, BAAWLA and HASHTAGPOPE. Next up: Modeci, Seoul on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Grain Haus | Seoul |
 | Thu, 8 Oct 2026 | Modeci | Seoul |
 
 ## Recently played

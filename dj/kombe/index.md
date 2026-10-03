@@ -1,6 +1,6 @@
 # Kombé
 
-Kombé is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+Kombé is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 Kombé is a techno and bass artist based in Switzerland, with 23 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside Mafou, Mukuna and Akanbi. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -9,7 +9,6 @@ Kombé is a techno and bass artist based in Switzerland, with 23 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Heim Shanghai | Shanghai |
-| Sat, 3 Oct 2026 | HVEN | Tokyo |
 | Sat, 10 Oct 2026 | Chika-Ikkai | Osaka |
 | Thu, 15 Oct 2026 | Saloon | Tokyo |
 

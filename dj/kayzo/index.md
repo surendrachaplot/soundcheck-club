@@ -1,14 +1,13 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Piccadilly Premium, Osaka on Sat, 3 Oct 2026.
+Kayzo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Kayzo is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside hhunter, Alesso and Luude. Next up: Piccadilly Premium, Osaka on Sat 3 Oct.
+Kayzo is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside hhunter, Alesso and Luude. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Piccadilly Premium | Osaka |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 

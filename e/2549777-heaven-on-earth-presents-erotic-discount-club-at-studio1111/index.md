@@ -1,6 +1,6 @@
 # Heaven On Earth presents Erotic Discount Club at Studio1111
 
-Heaven On Earth presents Erotic Discount Club at Studio1111 on Fri 16 Oct, Berlin. 5 artists: arsen (DE), BABYNYMPH777, DBBD and Nyennea and 1 more. Electro and Pop. See the line-up on soundcheck.
+Heaven On Earth presents Erotic Discount Club at Studio1111 on Fri 16 Oct, Berlin. 6 artists: arsen (DE), BABYNYMPH777, DBBD and Miss Bashful and 2 more. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Heaven On Earth presents Erotic Discount Club at Studio1111 on Fri 16 Oct, Berli
 - arsen (DE)
 - BABYNYMPH777
 - DBBD
+- Miss Bashful
 - Nyennea
 - Porschelane
 

@@ -1,14 +1,13 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
+Sugar Free is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
-Sugar Free is a house and techno artist based in Spain, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: HVEN, Tokyo on Sat 3 Oct.
+Sugar Free is a house and techno artist based in Spain, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | HVEN | Tokyo |
 | Thu, 8 Oct 2026 | Pawnshop | Taipei |
 | Sun, 11 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |

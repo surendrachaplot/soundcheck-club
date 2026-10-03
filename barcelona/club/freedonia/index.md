@@ -1,6 +1,6 @@
 # Freedonia
 
-Freedonia is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro" on Sat, 3 Oct 2026.
+Freedonia is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "[CANCELLED] - PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro" on Sat, 3 Oct 2026.
 
 Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Eliezer, Gem Wallow, Martin Noise and Mat Spiaggi and 2 more. See dates, start times and who's playing. Carrer de la Lleialtat, 6, 08001 Raval, Barcelona.
 
@@ -8,7 +8,7 @@ Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro | Eliezer, Gem Wallow, Martin Noise |
+| Sat, 3 Oct 2026 | [CANCELLED] - PLAYGROUND with Gem Wallow + Eliezer + Martin Noise + Capurro | Eliezer, Gem Wallow, Martin Noise |
 | Sat, 10 Oct 2026 | Maccaroni Radio | Mat Spiaggi, PAZ WAZ HERE, Telexketch |
 
 ## Address

@@ -1,8 +1,8 @@
 # Nexo
 
-Nexo is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Gasolina Reggaeton Party Nightclub" on Sat, 3 Oct 2026.
+Nexo is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Gasolina Reggaeton Party Nightclub" on Sat, 3 Oct 2026.
 
-Nexo is a music venue in New York City listed on soundcheck. 20 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in New York City listed on soundcheck. 23 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Nexo is a music venue in New York City listed on soundcheck. 20 upcoming gigs. S
 | Sat, 3 Oct 2026 | District Saturdays: Reggaeton & Dancing Midtown Nightclub Halloween |  |
 | Sat, 10 Oct 2026 | King of Kings Reggaeton Party Nightclub |  |
 | Sat, 10 Oct 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
+| Sat, 10 Oct 2026 | District Satuday: Halloween with Chuckie - Reggaeton Midtown Nightclub |  |
 | Sat, 17 Oct 2026 | Un Noche en Saturno Reggaeton Party Nightclub |  |
 | Sat, 17 Oct 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
+| Sat, 17 Oct 2026 | Witches Take over District Saturdays Midtown Nightclub Halloween |  |
 | Sat, 24 Oct 2026 | Haunted in Midtown Reggaeton Halloween Party Nightclub |  |
-| Sat, 24 Oct 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
-| Sat, 31 Oct 2026 | Nightmare on 36th Street Halloween Parrty Nightclub |  |
 
 ## Address
 

@@ -1,15 +1,14 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SGP Presents: Berwick, Cersy, Josh Taylor, Boonie" on Sat, 3 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SGP Presents: Berwick, Cersy, Josh Taylor, Boonie" on Sat, 3 Oct 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Abby Harris, Abena, Amelia Leigh and April (UK) and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | SGP Presents: Berwick, Cersy, Josh Taylor, Boonie | Berwick, Cersy |
-| Sat, 3 Oct 2026 | Justified Passion Magazine Launch  | Allius, Garbo (2) |
 | Sat, 10 Oct 2026 | Izzy & Hannah & Nell's 25th Birthday |  |
 | Fri, 16 Oct 2026 | RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS | Amelia Leigh, Sweetly |
 | Sat, 17 Oct 2026 | CxCDxLJ: Laksa / Jurango / Abena – [12hrs] | Abena, April (UK), Esmé, GINA (UK), Jurango, Laksa, Waxtek |

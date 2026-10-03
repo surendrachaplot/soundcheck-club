@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nicole Moudaber (All Night Long - UK Premiere)" on Sat, 3 Oct 2026.
+E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nicole Moudaber (All Night Long - UK Premiere) Room 2: Claudio PRC" on Sat, 3 Oct 2026.
 
 E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -8,8 +8,8 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Nicole Moudaber (All Night Long - UK Premiere) | Nicole Moudaber |
-| Sat, 3 Oct 2026 | Ignez & Claudio PRC | Antonio De Angelis, Claudio PRC, Ignez, Livid (UK), Pre Silent |
+| Sat, 3 Oct 2026 | Nicole Moudaber (All Night Long - UK Premiere) Room 2: Claudio PRC | Antonio De Angelis, Claudio PRC, Nicole Moudaber, Pre Silent |
+| Sat, 3 Oct 2026 |  Claudio PRC, Antonio De Angelis | Antonio De Angelis, Claudio PRC, Ignez, Livid (UK), Pre Silent |
 | Fri, 9 Oct 2026 | ALIVE: Afem Syko, HU, Becky Stroke, ASHTREY | ASHTREY, Afem Syko, Becky Stroke, HU (IT) |
 | Fri, 9 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM +*BIGGEST HEADLINERS YET* LAST FREE TICKETS |  |
 | Fri, 9 Oct 2026 | XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS – LAST FREE TICKETS |  |

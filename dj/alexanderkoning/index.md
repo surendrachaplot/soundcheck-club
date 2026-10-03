@@ -1,8 +1,8 @@
 # Alexander Koning
 
-Alexander Koning is a Acid and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Alexander Koning is a Acid and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
-Alexander Koning is an acid and house artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Belgium, Ghent and Netherlands and 2 more. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Maassilo, Rotterdam on Sat 3 Oct.
+Alexander Koning is an acid and house artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Belgium, Ghent and Netherlands and 2 more. Often billed alongside Erick E, Lucien Foort and Remy Unger. Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Alexander Koning is an acid and house artist based in Netherlands, with 66 gigs 
 | Sat, 17 Oct 2026 | Graanfabriek | Netherlands |
 | Sat, 31 Oct 2026 | Radar | Belgium |
 | Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 14 Nov 2026 | Entrepotgebouw | Netherlands |
 | Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 13 Feb 2027 | Lofi | Amsterdam |

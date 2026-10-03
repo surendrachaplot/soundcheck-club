@@ -1,14 +1,13 @@
 # Selena (2)
 
-Selena (2) is a R&B and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
+Selena (2) is a R&B and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
-Selena is a r&b and deep house artist, with 10 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Bex, Miki and Zjoso. Next up: Angel Music Bar, Melbourne on Sat 3 Oct.
+Selena is a r&b and deep house artist, with 10 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Bex, Miki and Zjoso. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 
 ## Recently played

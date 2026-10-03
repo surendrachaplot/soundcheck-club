@@ -3150,8 +3150,12 @@ button.dst-clip-pp::after{content:"";position:absolute;inset:-4px}
 .dst-full-clip{color:var(--fg)}
 .dst-full-clip .dst-clip-pp svg{fill:var(--ink)}
 .dst-full-add{margin-top:12px}   /* stays inline-flex: the icon (::before) needs it */
-/* the "Clip" field in the log form: the picked clip as one row in the field's surface, ✕ drops it */
+/* "Add a clip" in the log form (CLIP4, Paper 2CUZ-0): ONE plain row under Note, always in view, not a pill:
+   the 5 bars in ink, the words, "Optional" at the right. After a pick: the clip as one row in the field's surface, ✕ drops it */
 #lg-clip{color:var(--fg)}
+.lg-clip-add{display:flex;justify-content:flex-start;width:100%;height:48px;padding:0;border:0;background:none;color:var(--fg);font:600 var(--fs-md)/var(--lh-md) var(--body);text-align:left;white-space:nowrap;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.lg-clip-add span{margin-left:auto;font-size:var(--fs-xs)}   /* the label size, so the <small> in it is the other fields' "Optional" */
+.lg-clip-add:focus-visible{outline:2px solid var(--sel);outline-offset:2px}
 #lg-clip .dst-clip-pp svg{fill:var(--ink)}
 #lg-clip .dst-clip{padding-top:0}
 .lg-clip{display:flex;align-items:center;gap:4px;min-width:0;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);padding:8px 4px 8px 12px}
@@ -5207,7 +5211,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1791049962116">
+<meta name="sc-build" content="1791058895407">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5266,7 +5270,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">135 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">36 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">96 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">134 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">96 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -14017,7 +14021,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '<div class="lg-field" id="lg-lineup-field"><label>Who did you see? <small class="lg-opt">tap the artists you caught</small></label><div id="lg-lineup"></div></div>'+
             '<div class="lg-field" id="lg-vrev-field" style="display:none"><label>How was <span id="lg-vrev-nm">the venue</span>? <small class="lg-opt">Optional</small></label><div id="lg-vrev"></div></div>'+
             '<div class="lg-field"><label>Note</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
-            '<div class="lg-field"><label>Clip</label><div id="lg-clip">'+LG_ADD_CLIP+'</div></div>'+
+            '<div class="lg-field"><div id="lg-clip">'+LG_ADD_CLIP+'</div></div>'+
             '<button id="lg-save" data-ic="plus" type="button" class="pf-btn primary block">Log the gig</button>'+
             '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
             '</div>'+
@@ -14785,9 +14789,9 @@ a.dst-full-t:hover{text-decoration:underline}
         var b=e.target.closest('[data-evi]'); if(b){ selectLgEvent(lgEventList[+b.dataset.evi]); document.getElementById('lg-extra').scrollIntoView({behavior:'smooth',block:'nearest'}); }
       });
     }
-    // ── "Clip" in the log form (CLIP3, Paper 2CUZ-0): the SAME pick / "Pick the part" / encode as a stub,
+    // ── "Add a clip" in the log form (CLIP3 + CLIP4, Paper 2CUZ-0): a row that is always in view; the SAME pick / "Pick the part" / encode as a stub,
     // kept here; it goes up when Log saves the gig (saveLog). ✕ drops it. lgClip = clipMake's result + `url` to play it.
-    var lgClip=null, LG_ADD_CLIP='<button class="pf-btn" id="lg-clip-add" data-ic="clip" type="button">Add a clip</button>';
+    var lgClip=null, LG_ADD_CLIP='<button class="lg-clip-add" id="lg-clip-add" data-ic="clip" type="button" aria-label="Add a clip">Add a clip<span><small class="lg-opt">Optional</small></span></button>';
     function lgClipDraw(html){ var b=document.getElementById('lg-clip'); if(b) b.innerHTML=html; clipPaint(); }
     function lgClipDrop(){ if(lgClip){ if(_clipKey===lgClip.url) clipStop(); URL.revokeObjectURL(lgClip.url); lgClip=null; } lgClipDraw(LG_ADD_CLIP); }
     async function lgClipFile(d, file){

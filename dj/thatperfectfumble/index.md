@@ -1,14 +1,13 @@
 # That Perfect Fumble
 
-That Perfect Fumble is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Roxy, London on Sat, 3 Oct 2026.
+That Perfect Fumble is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Phoenix, London on Sat, 10 Oct 2026.
 
-That Perfect Fumble is a house and hip-hop artist based in United Kingdom, with 42 gigs on soundcheck across London. Often billed alongside Gem Precious and Moses Jazz. Next up: The Roxy, London on Sat 3 Oct.
+That Perfect Fumble is a house and hip-hop artist based in United Kingdom, with 42 gigs on soundcheck across London. Often billed alongside Gem Precious and Moses Jazz. Next up: The Phoenix, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Roxy | London |
 | Sat, 10 Oct 2026 | The Phoenix | London |
 | Sat, 17 Oct 2026 | The Roxy | London |
 

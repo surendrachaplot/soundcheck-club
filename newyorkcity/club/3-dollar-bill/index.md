@@ -1,6 +1,6 @@
 # 3 Dollar Bill
 
-3 Dollar Bill is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "QTS: Brooklyn" on Sat, 17 Oct 2026.
+3 Dollar Bill is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "QTS: Brooklyn (Farius - Solarstone - TOMMYLOGIK - Mark Tyler Evans)" on Sat, 17 Oct 2026.
 
 3 Dollar Bill is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Farius, Solarstone and TOMMYLOGIK. See dates, start times and who's playing. 260 Meserole St, Brooklyn, NY, 11206, USA.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | QTS: Brooklyn | Farius, Solarstone, TOMMYLOGIK |
+| Sat, 17 Oct 2026 | QTS: Brooklyn (Farius - Solarstone - TOMMYLOGIK - Mark Tyler Evans) | Farius, Solarstone, TOMMYLOGIK |
 
 ## Address
 

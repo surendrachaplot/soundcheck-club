@@ -1,14 +1,13 @@
 # Shinyoung
 
-Shinyoung is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paper, Seoul on Sat, 3 Oct 2026.
+Shinyoung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
 
-Shinyoung is a house and techno artist based in South Korea, with 113 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside SEOD, Youknowsong and JAEHAN. Next up: Paper, Seoul on Sat 3 Oct.
+Shinyoung is a house and techno artist based in South Korea, with 113 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside SEOD, Youknowsong and JAEHAN. Next up: TBA - 강원도 화천, South Korea on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Paper | Seoul |
 | Sun, 4 Oct 2026 | TBA - 강원도 화천 | South-korea |
 
 ## Recently played

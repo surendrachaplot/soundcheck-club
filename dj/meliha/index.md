@@ -1,14 +1,13 @@
 # Meliha
 
-Meliha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Meliha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
 
-Meliha is a techno and house artist based in Malaysia, with 108 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+Meliha is a techno and house artist based in Malaysia, with 108 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Fri, 9 Oct 2026 | The Iron Fairies Kuala Lumpur | Kuala Lumpur |
 
 ## Recently played

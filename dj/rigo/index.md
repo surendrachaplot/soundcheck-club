@@ -1,14 +1,13 @@
 # RIGO
 
-RIGO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paper, Seoul on Sat, 3 Oct 2026.
+RIGO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atdge Seoul, Seoul on Wed, 7 Oct 2026.
 
-RIGO is a techno and trance artist, with 35 gigs on soundcheck across Berlin, Düsseldorf, Lyon and Nantes and 2 more. Often billed alongside CallBackSami, P errine and oror. Next up: Paper, Seoul on Sat 3 Oct.
+RIGO is a techno and trance artist, with 35 gigs on soundcheck across Berlin, Düsseldorf, Lyon and Nantes and 2 more. Often billed alongside CallBackSami, P errine and oror. Next up: Atdge Seoul, Seoul on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Paper | Seoul |
 | Wed, 7 Oct 2026 | Atdge Seoul | Seoul |
 
 ## Recently played

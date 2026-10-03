@@ -9,7 +9,7 @@ Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | b2b2b — zeroday & VIKKI b-day bash | VIKKI_, zeroday |
-| Sun, 4 Oct 2026 | SUNDAY | Samogulov |
+| Sun, 4 Oct 2026 | SUNDAY: softspot / zenwerk / Samogulov | Samogulov, zenwerk |
 | Fri, 9 Oct 2026 | FĀLĀ - Marboc, Sickdat, Shieeld, Nightfall | Marboc, Nightfall, Sickdat |
 | Sat, 10 Oct 2026 | they | Braincrush, LEM (5), Lyor Kalt, ONIMAL |
 | Sun, 11 Oct 2026 | SUNDAY | Salat |

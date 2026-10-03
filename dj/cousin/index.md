@@ -1,14 +1,13 @@
 # Cousin
 
-Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Sydney on Sat, 3 Oct 2026.
+Cousin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Solace, Melbourne on Fri, 9 Oct 2026.
 
-Cousin is a techno and house artist based in Australia, with 92 gigs on soundcheck across Amsterdam, Athens, Auckland and Berlin and 19 more. Often billed alongside DJ Fart in the Club, D-Grade and Kia (AU). Next up: TBA, Sydney on Sat 3 Oct.
+Cousin is a techno and house artist based in Australia, with 92 gigs on soundcheck across Amsterdam, Athens, Auckland and Berlin and 19 more. Often billed alongside DJ Fart in the Club, D-Grade and Kia (AU). Next up: Solace, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Sydney |
 | Fri, 9 Oct 2026 | Solace | Melbourne |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |

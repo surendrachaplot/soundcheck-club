@@ -8,7 +8,7 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Heaven On Earth presents Erotic Discount Club | BABYNYMPH777, DBBD, Nyennea, Porschelane, arsen (DE) |
+| Fri, 16 Oct 2026 | Heaven On Earth presents Erotic Discount Club | BABYNYMPH777, DBBD, Miss Bashful, Nyennea, Porschelane, arsen (DE) |
 | Fri, 6 Nov 2026 | Toy Tonics Art Jam | Kapote |
 | Thu, 19 Nov 2026 | ØTTA HOTTIES ALBUM TOUR | ØTTA |
 | Fri, 4 Dec 2026 | Toy Tonics Art Jam | Arpy Brown, Lars Eidinger |

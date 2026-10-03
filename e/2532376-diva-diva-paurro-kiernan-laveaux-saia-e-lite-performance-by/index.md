@@ -1,0 +1,18 @@
+# Diva Diva: PAURRO & Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill at public records
+
+Diva Diva: PAURRO & Kiernan Laveaux, Saia & e-Lite, performance by Willow Pill at public records on Sun 25 Oct, New York City. 4 artists: e-Lite, Kiernan Laveaux, PAURRO and Saia. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 25 Oct 2026 |
+| Venue | public records |
+| City | New York City |
+
+## Line-up
+
+- e-Lite
+- Kiernan Laveaux
+- PAURRO
+- Saia
+
+*Source: [soundcheck](https://soundcheck.club/e/2532376-diva-diva-paurro-kiernan-laveaux-saia-e-lite-performance-by/)*

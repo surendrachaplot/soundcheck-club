@@ -1,6 +1,6 @@
 # KISSEN at FLUCC
 
-KISSEN at FLUCC on Fri 16 Oct, Vienna. 4 artists: anxxxious_t, Authentically Plastic, Shepperd and zey. Techno and Bass. See the line-up on soundcheck.
+KISSEN at FLUCC on Fri 16 Oct, Vienna. 5 artists: anxxxious_t, Authentically Plastic, Ethane and Shepperd and 1 more. Techno and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ KISSEN at FLUCC on Fri 16 Oct, Vienna. 4 artists: anxxxious_t, Authentically Pla
 
 - anxxxious_t
 - Authentically Plastic
+- Ethane
 - Shepperd
 - zey
 

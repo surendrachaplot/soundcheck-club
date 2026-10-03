@@ -1,14 +1,13 @@
 # Allius
 
-Allius is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
+Allius is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 23 Oct 2026.
 
-Allius is a house and minimal artist based in United Kingdom, with 42 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Honey Street Studio, Manchester on Sat 3 Oct.
+Allius is a house and minimal artist based in United Kingdom, with 42 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Eastern Bloc Records, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Honey Street Studio | Manchester |
 | Fri, 23 Oct 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played

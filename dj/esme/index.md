@@ -1,14 +1,15 @@
 # Esmé
 
-Esmé is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Esmé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
-Esmé is a techno and house artist based in United Kingdom, with 87 gigs on soundcheck across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
+Esmé is a techno and house artist based in United Kingdom, with 88 gigs on soundcheck across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
+| Fri, 9 Oct 2026 | Todmorden Unitarian Church | North |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
 | Fri, 13 Nov 2026 | The System | Sheffield |
 

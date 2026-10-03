@@ -1,14 +1,13 @@
 # DJ KAZUMA
 
-DJ KAZUMA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BAR Inc, Osaka on Sat, 3 Oct 2026.
+DJ KAZUMA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Area_osaka, Osaka on Fri, 9 Oct 2026.
 
-DJ KAZUMA is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and CHIDA. Next up: BAR Inc, Osaka on Sat 3 Oct.
+DJ KAZUMA is a techno and house artist based in Japan, with 37 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and CHIDA. Next up: Area_osaka, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BAR Inc | Osaka |
 | Fri, 9 Oct 2026 | Area_osaka | Osaka |
 | Fri, 9 Oct 2026 | FUL Kyoto | Kyoto |
 | Fri, 16 Oct 2026 | FUL Kyoto | Kyoto |

@@ -1,14 +1,13 @@
 # Rei7801
 
-Rei7801 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Rei7801 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Metro, Kyoto on Sat, 17 Oct 2026.
 
-Rei7801 is a techno and bass artist based in Japan, with 23 gigs on soundcheck across Kyoto, Milan and Tokyo. Often billed alongside YAMAREN, tnseei and Yui (JP). Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+Rei7801 is a techno and bass artist based in Japan, with 23 gigs on soundcheck across Kyoto, Milan and Tokyo. Often billed alongside YAMAREN, tnseei and Yui (JP). Next up: Club Metro, Kyoto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 17 Oct 2026 | Club Metro | Kyoto |
 
 ## Recently played

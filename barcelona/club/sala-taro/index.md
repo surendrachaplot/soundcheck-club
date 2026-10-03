@@ -1,6 +1,6 @@
 # Sala Taro
 
-Sala Taro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "FOLIA PRES. INFRAROSSO RELEASE PARTY" on Sat, 3 Oct 2026.
+Sala Taro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "[CANCELLED] FOLIA PRES. INFRAROSSO RELEASE PARTY" on Sat, 3 Oct 2026.
 
 Sala Taro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Arielo. See dates, start times and who's playing. Carrer de Rossend Arús, 9, 08014 Barcelona, Spain.
 
@@ -8,7 +8,7 @@ Sala Taro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | FOLIA PRES. INFRAROSSO RELEASE PARTY | Arielo |
+| Sat, 3 Oct 2026 | [CANCELLED] FOLIA PRES. INFRAROSSO RELEASE PARTY | Arielo |
 
 ## Address
 

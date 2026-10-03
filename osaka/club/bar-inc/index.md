@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 29 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "WEEKEND SELECTERS" on Sat, 3 Oct 2026.
+BAR Inc is a music venue in Osaka with 28 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HOLIDAY ORDERS" on Sun, 4 Oct 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 29 upcoming gigs, with line-ups including AOKI takamasa, Benedek, CHIDA and COTA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 28 upcoming gigs, with line-ups including AOKI takamasa, Benedek, COTA and Daisuke Kakimoto and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | WEEKEND SELECTERS | CHIDA, DJ KAZUMA, Geju |
 | Sun, 4 Oct 2026 | HOLIDAY ORDERS | Deejay Energy |
 | Wed, 7 Oct 2026 | WEEKDAY ORDERS | Naco (2), sintaro fujita (2) |
 | Thu, 8 Oct 2026 | WEEKDAY ORDERS | John Agesilas |
@@ -18,6 +17,7 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 29 upcoming gigs, with l
 | Mon, 12 Oct 2026 | HOLIDAY ORDERS |  |
 | Wed, 14 Oct 2026 | WEEKDAY ORDERS | Jeremy Cheung, Marco Yanes |
 | Thu, 15 Oct 2026 | WEEKDAY ORDERS |  |
+| Fri, 16 Oct 2026 | WEEKEND SELECTERS | Hito, Nao Nomura, Satoshi Tanaka, YOKO aka LAiR |
 
 ## Address
 

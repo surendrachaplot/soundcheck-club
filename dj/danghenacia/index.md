@@ -1,14 +1,13 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Signal, New York City on Fri, 2 Oct 2026.
+Dan Ghenacia is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
-Dan Ghenacia is a house and tech house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Signal, New York City on Fri 2 Oct.
+Dan Ghenacia is a house and tech house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: FOLD, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Signal | New York City |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Sat, 17 Oct 2026 | REC Napoli | Naples |
 | Sat, 24 Oct 2026 | Rex Club | Paris |

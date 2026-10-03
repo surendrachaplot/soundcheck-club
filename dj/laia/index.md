@@ -1,14 +1,13 @@
 # Laia
 
-Laia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Laia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
 
-Laia is a techno and house artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
+Laia is a techno and house artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: KREUZWERK, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |

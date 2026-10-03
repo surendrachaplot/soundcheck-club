@@ -1,8 +1,8 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Lil' Louis is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Lil' Louis is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Lil' Louis is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Lil' Louis is a house and techno artist based in United States of America, with 
 | Fri, 16 Oct 2026 | Modeci | Seoul |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 31 Oct 2026 | Seaseaclub Barcelona | Barcelona |
+| Sun, 1 Nov 2026 | Burger Disco Club | Athens |
 | Sun, 6 Dec 2026 | Burger Disco Club | Athens |
 
 ## Recently played
