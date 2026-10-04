@@ -1,14 +1,13 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Pearl, Vancouver on Sat, 3 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
 
-DJ Assault is a ghetto tech and techno artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Detroit In Effect and Sheefy McFly. Next up: The Pearl, Vancouver on Sat 3 Oct.
+DJ Assault is a ghetto tech and techno artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Detroit In Effect and Sheefy McFly. Next up: BASIS, Utrecht on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Pearl | Vancouver |
 | Fri, 9 Oct 2026 | BASIS | Utrecht |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
 | Sat, 17 Oct 2026 | YuYu Cine Club | Mexico City |

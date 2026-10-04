@@ -1,14 +1,13 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Los Globos, Los Angeles on Sat, 3 Oct 2026.
+Todd Edwards is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Todd Edwards is a house and garage artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Los Globos, Los Angeles on Sat 3 Oct.
+Todd Edwards is a house and garage artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Los Globos | Los Angeles |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Industry City | New York City |
 | Fri, 13 Nov 2026 | Electric Brixton | London |

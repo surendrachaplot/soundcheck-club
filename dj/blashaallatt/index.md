@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: FOLD, London on Sat 3 Oct.
+Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
@@ -20,6 +19,7 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gig
 | Sat, 31 Oct 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | The Bassement | Madrid |
 | Fri, 13 Nov 2026 | The White Hotel | Manchester |
+| Sat, 14 Nov 2026 | block. | Dublin |
 
 ## Recently played
 

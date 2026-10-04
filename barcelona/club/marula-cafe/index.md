@@ -8,7 +8,7 @@ Marula Cafe is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | MUV — Live Music, Jam & Afterparty | Brian Alt, YULIE |
+| Mon, 5 Oct 2026 | MUV — Live Music, Jam & Afterparty | YULIE |
 | Mon, 12 Oct 2026 | MUV — Live Music, Jam & Afterparty | Brian Alt, YULIE |
 | Mon, 19 Oct 2026 | MUV — Live Music, Jam & Afterparty | Brian Alt, YULIE |
 | Mon, 26 Oct 2026 | MUV — Live Music, Jam & Afterparty | Brian Alt, YULIE |

@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell" on Sat, 3 Oct 2026.
+BASEMENT is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden" on Fri, 9 Oct 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and Alfonso Javier and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and Alfonso Javier and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell | Concrete Husband, Julia Govor, Ron Like Hell, Ryan Smith, S4M23, T.Wan |
 | Fri, 9 Oct 2026 | Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden | ISAbella, Meilgaarden, Subb-an, Wata Igarashi |
 | Sat, 10 Oct 2026 | Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier | Akua, Alfonso Javier, DJ TOOL, FASHION (US), Kilopatrah Jones, Yazzus |
 | Fri, 16 Oct 2026 | Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman | Anika Kunst, Byron Yeates, Juliana Huxtable, Kim Ann Foxman, Pablo Bozzi, VILE |

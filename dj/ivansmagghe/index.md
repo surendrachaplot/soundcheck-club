@@ -1,14 +1,13 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 10 Oct 2026.
 
-Ivan Smagghe is a techno and house artist based in France, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Ivan Smagghe is a techno and house artist based in France, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Club Guesthouse, Bucharest on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Sat, 10 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 16 Oct 2026 | Rex Club | Paris |
 | Sat, 17 Oct 2026 | fabric | London |

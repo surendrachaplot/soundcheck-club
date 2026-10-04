@@ -1,14 +1,13 @@
 # RONA.
 
-RONA. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+RONA. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
-RONA. is a house and techno artist based in Australia, with 23 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside DJ PGZ, Pretty Girl and Bertie. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
+RONA. is a house and techno artist based in Australia, with 23 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside DJ PGZ, Pretty Girl and Bertie. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played

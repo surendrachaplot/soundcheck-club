@@ -1,14 +1,13 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pisces, Atlanta on Sat, 17 Oct 2026.
 
-1tbsp is a house and electronica artist based in Australia, with 121 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 34 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
+1tbsp is a house and electronica artist based in Australia, with 121 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 34 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Pisces, Atlanta on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 | Sat, 17 Oct 2026 | Pisces | Atlanta |
 | Sun, 18 Oct 2026 | The Ground at Club Space | Miami |
 | Thu, 22 Oct 2026 | Nowadays | New York City |

@@ -1,14 +1,13 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Carmen Electro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
 
-Carmen Electro is a techno and house artist based in Finland, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Carmen Electro is a techno and house artist based in Finland, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: KREUZWERK, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
 

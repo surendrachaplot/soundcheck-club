@@ -1,6 +1,6 @@
 # Snatch! Records ADE Showcase at Basement (Amsterdam)
 
-Snatch! Records ADE Showcase at Basement (Amsterdam) on Thu 22 Oct, Amsterdam. 8 artists: Cinthie, Confidential Recipe, Khadija (DE) and Midas Field and 4 more. House and Tech House. See the line-up on soundcheck.
+Snatch! Records ADE Showcase at Basement (Amsterdam) on Thu 22 Oct, Amsterdam. 9 artists: Andrea Oliva, Cinthie, Confidential Recipe and Khadija (DE) and 5 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Snatch! Records ADE Showcase at Basement (Amsterdam) on Thu 22 Oct, Amsterdam. 8
 
 ## Line-up
 
+- Andrea Oliva
 - Cinthie
 - Confidential Recipe
 - Khadija (DE)

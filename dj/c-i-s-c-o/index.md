@@ -2,7 +2,7 @@
 
 C.I.S.C.O is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Seawolf Records Barcelona, Barcelona on Fri, 9 Oct 2026.
 
-C.I.S.C.O is a house and minimal artist, with 35 gigs on soundcheck across Barcelona, Ibiza and Lisbon. Often billed alongside Kid Moss, Lancaster and MURI. Next up: Seawolf Records Barcelona, Barcelona on Fri 9 Oct.
+C.I.S.C.O is a house and minimal artist based in Dominican Republic, with 35 gigs on soundcheck across Barcelona, Ibiza and Lisbon. Often billed alongside Kid Moss, Lancaster and MURI. Next up: Seawolf Records Barcelona, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 

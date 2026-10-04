@@ -1,8 +1,8 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+Hidde van Wee is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
-Hidde van Wee is a house and tech house artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 13 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
+Hidde van Wee is a house and tech house artist based in Netherlands, with 76 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 14 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Hidde van Wee is a house and tech house artist based in Netherlands, with 75 gig
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 | Sun, 6 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
+| Thu, 31 Dec 2026 | Club Holy Moly | Netherlands |
 
 ## Recently played
 

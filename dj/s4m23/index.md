@@ -1,14 +1,13 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Sat, 3 Oct 2026.
+S4M23 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nowadays, New York City on Thu, 15 Oct 2026.
 
-S4M23 is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: BASEMENT, New York City on Sat 3 Oct.
+S4M23 is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Athens, Austin, Berlin and Boston and 7 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: Nowadays, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BASEMENT | New York City |
 | Thu, 15 Oct 2026 | Nowadays | New York City |
 
 ## Recently played

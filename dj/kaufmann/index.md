@@ -1,14 +1,13 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
+Kaufmann is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
 
-Kaufmann is a techno and house artist based in Germany, with 148 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Revolver Upstairs, Melbourne on Sun 4 Oct.
+Kaufmann is a techno and house artist based in Germany, with 148 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 16 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |

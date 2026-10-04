@@ -1,14 +1,13 @@
 # Hiatus Kaiyote
 
-Hiatus Kaiyote is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Hiatus Kaiyote is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
-Hiatus Kaiyote is a house and club artist based in Australia, with 7 gigs on soundcheck across Melbourne, Mexico City, Paris and Sydney. Often billed alongside 1tbsp, Alex Rita and Antenna. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
+Hiatus Kaiyote is a house and club artist based in Australia, with 7 gigs on soundcheck across Melbourne, Mexico City, Paris and Sydney. Often billed alongside 1tbsp, Alex Rita and Antenna. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 
 ## Recently played

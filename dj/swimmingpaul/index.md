@@ -1,6 +1,6 @@
 # Swimming Paul
 
-Swimming Paul is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loo Loo, Mexico City on Sat, 3 Oct 2026.
+Swimming Paul is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loo Loo, Mexico City on Sat, 3 Oct 2026.
 
 Swimming Paul is a house and garage artist based in France, with 67 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Loo Loo, Mexico City on Sat 3 Oct.
 
@@ -8,7 +8,6 @@ Swimming Paul is a house and garage artist based in France, with 67 gigs on soun
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Loo Loo | Mexico City |
 | Sat, 3 Oct 2026 | Loo Loo | Mexico City |
 | Fri, 9 Oct 2026 | KOKO | London |
 | Sat, 10 Oct 2026 | Roxy | Prague |

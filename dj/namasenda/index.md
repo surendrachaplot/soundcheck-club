@@ -1,14 +1,13 @@
 # Namasenda
 
-Namasenda is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+Namasenda is a Club and Pop artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil, Rio-de-janeiro on Sat, 10 Oct 2026.
 
-Namasenda is a club and pop artist based in Sweden, with 20 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 9 more. Often billed alongside Boys Noize, DJ AYA and Danielle. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
+Namasenda is a club and pop artist based in Sweden, with 20 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 9 more. Often billed alongside Boys Noize, DJ AYA and Danielle. Next up: TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil, Rio De Janeiro on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Foro Niebla | Mexico City |
 | Sat, 10 Oct 2026 | TBA - Rua Sacadura Cabral, 59 - Saúde, Rio de Janeiro - RJ, 20081-261, Brazil | Rio-de-janeiro |
 | Sat, 31 Oct 2026 | Colour Factory | London |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |

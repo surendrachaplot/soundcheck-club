@@ -1,15 +1,13 @@
 # Mietze Conte
 
-Mietze Conte is a House and Experimental artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Sydney on Sat, 3 Oct 2026.
+Mietze Conte is a House and Experimental artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Lansdowne, Sydney on Mon, 5 Oct 2026.
 
-Mietze Conte is a house and experimental artist based in Austria, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 22 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: TBA, Sydney on Sat 3 Oct.
+Mietze Conte is a house and experimental artist based in Austria, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 22 more. Often billed alongside 1tbsp, DJ Gigola and Skin On Skin. Next up: The Lansdowne, Sydney on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Sydney |
-| Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
 | Mon, 5 Oct 2026 | The Lansdowne | Sydney |
 | Thu, 8 Oct 2026 | Thornbury Theatre | Melbourne |
 | Fri, 9 Oct 2026 | The Rechabite | Perth |
@@ -20,6 +18,8 @@ Mietze Conte is a house and experimental artist based in Austria, with 61 gigs o
 | Fri, 13 Nov 2026 | Sala El Sol | Madrid |
 | Thu, 19 Nov 2026 | Garagen | Cologne |
 | Fri, 20 Nov 2026 | Botanique | Brussels |
+| Sat, 21 Nov 2026 | EartH | London |
+| Fri, 27 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played
 

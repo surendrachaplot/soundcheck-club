@@ -1,8 +1,8 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sofitel Essaouira Mogador, Morocco on Sun, 4 Oct 2026.
+DJ Senc is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sofitel Essaouira Mogador, Morocco on Sun, 4 Oct 2026.
 
-DJ Senc is a house and tech house artist based in Italy, with 137 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Sofitel Essaouira Mogador, Morocco on Sun 4 Oct.
+DJ Senc is a house and tech house artist based in Italy, with 138 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Sofitel Essaouira Mogador, Morocco on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ DJ Senc is a house and tech house artist based in Italy, with 137 gigs on soundc
 | Fri, 6 Nov 2026 | Fvtvr | Paris |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
+| Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kaufmann (DE) - Winter Series pres. by Thick As Thieves" on Sun, 4 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "REVOLVER BANDROOM: TRACK WALK 3" on Fri, 9 Oct 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming gigs, with line-ups including 1NN3R53LF, ADMINISTRATOR, Alex Wann and Amity and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcoming gigs, with line-ups including 1NN3R53LF, ADMINISTRATOR, Alex Wann and Amity and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Kaufmann (DE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, KELLY TEE, Kaufmann, Spacey Space |
 | Fri, 9 Oct 2026 | REVOLVER BANDROOM: TRACK WALK 3 | DJ Kilo |
 | Fri, 9 Oct 2026 | MRR pres. BENSON b2b LO'99 | 1NN3R53LF |
 | Fri, 9 Oct 2026 | Revolver Fridays | DJ Sarah, Mike Callander |
@@ -18,6 +17,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcomin
 | Sun, 11 Oct 2026 | Alex Wann - Winter Series pres. by Thick As Thieves | Alex Wann, Amity, Ben Silver, Boogs, KELLY TEE, Spacey Space, bellxsxs |
 | Wed, 14 Oct 2026 | Tilt Shift Wednesdays | Gay Roberto, Sammy Sanchez, Superhype |
 | Fri, 16 Oct 2026 | REVOLVER BANDROOM: Unikornia — presents MAYBE |  |
+| Fri, 16 Oct 2026 | KINO (UY) — Espacio-Tiempo x Revolver Fridays | KINO (UY), Luk., Mike Callander, Modulor |
 
 ## Address
 

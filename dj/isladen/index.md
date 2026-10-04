@@ -1,14 +1,13 @@
 # Isla Den
 
-Isla Den is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+Isla Den is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Isla Den is a pop and club artist based in Canada, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
+Isla Den is a pop and club artist based in Canada, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Foro Niebla | Mexico City |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Sat, 23 Jan 2027 | Igloofest | Montreal |
 

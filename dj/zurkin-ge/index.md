@@ -1,14 +1,13 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Zurkin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Zurkin is a house and techno artist based in Georgia, with 113 gigs on soundcheck across Barcelona, Berlin, London and Melbourne and 8 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Zurkin is a house and techno artist based in Georgia, with 113 gigs on soundcheck across Barcelona, Berlin, London and Melbourne and 8 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: The 1896, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Sat, 17 Oct 2026 | The 1896 | New York City |
 
 ## Recently played

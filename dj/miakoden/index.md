@@ -1,6 +1,6 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mia Koden is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
-| Sat, 3 Oct 2026 | Los Globos | Los Angeles |
 | Fri, 9 Oct 2026 | Process PDX | Portland |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |

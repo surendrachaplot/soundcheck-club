@@ -1,14 +1,13 @@
 # Los Globos
 
-Los Globos is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden" on Sat, 3 Oct 2026.
+Los Globos is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "LUKAS & FRANK - LA" on Fri, 9 Oct 2026.
 
-Los Globos is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including bahar khadem, Danny Daze, LUKAS & FRANK and Mia Koden and 2 more. See dates, start times and who's playing. 3040 W Sunset Blvd Los Angeles, CA 90026.
+Los Globos is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including LUKAS & FRANK. See dates, start times and who's playing. 3040 W Sunset Blvd Los Angeles, CA 90026.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden | Danny Daze, Mia Koden, Pangaea, SHERELLE, Todd Edwards, bahar khadem |
 | Fri, 9 Oct 2026 | LUKAS & FRANK - LA | LUKAS & FRANK |
 
 ## Address

@@ -1,14 +1,13 @@
 # Mimi (4)
 
-Mimi (4) is a Electronica and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Mimi (4) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
-Mimi is an electronica and techno artist based in Portugal, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Mimi is an electronica and techno artist based in Portugal, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: ingang, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 23 Oct 2026 | ingang | Amsterdam |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 

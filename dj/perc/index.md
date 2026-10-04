@@ -1,14 +1,13 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Perc is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
-Perc is a techno and industrial artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Ansome, Somniac One and DAX J. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Perc is a techno and industrial artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Ansome, Somniac One and DAX J. Next up: Refuge, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 16 Oct 2026 | Refuge | New York City |
 | Sat, 24 Oct 2026 | TBA | Washington DC |
 | Sat, 31 Oct 2026 | Barraca | Valencia |
