@@ -1,6 +1,6 @@
 # Toscan Haas
 
-Toscan Haas is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+Toscan Haas is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
 
 Toscan Haas is a techno and trance artist based in France, with 59 gigs on soundcheck across Amsterdam, Berlin, Geneva and Leipzig and 3 more. Often billed alongside Lea Occhi, Alys LF and Marie-Julie. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Toscan Haas is a techno and trance artist based in France, with 59 gigs on sound
 
 Lea Occhi, Alys LF, Marie-Julie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*

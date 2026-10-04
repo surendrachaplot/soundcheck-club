@@ -1,14 +1,13 @@
 # Locke
 
-Locke is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Suay Aenna & Friends" on Sat, 3 Oct 2026.
+Locke is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Ambient forte with Knospt" on Sun, 4 Oct 2026.
 
-Locke is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Baumann, Darimel, EO and Knospt and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
+Locke is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Baumann, Darimel, EO and Knospt and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Suay Aenna & Friends | Suay Aenna |
 | Sun, 4 Oct 2026 | Ambient forte with Knospt | Knospt |
 | Wed, 7 Oct 2026 | VinylTaxi with Kreisferkeer Flaake | Quadratschulz |
 | Fri, 9 Oct 2026 | Auf Lock #3 with Danidelirium, Flumi, Mooze b2b Mido909 & sabenzzzo | sabenzzzo |
@@ -20,4 +19,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with li
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

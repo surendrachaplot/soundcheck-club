@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Apricot Ballroom (October)" on Sat, 3 Oct 2026.
+The System is a music venue in Sheffield with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Apricot Ballroom (October)" on Sat, 3 Oct 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs, with line-ups including Ashley Holmes, Berwick, Charlie Dark and DAISY and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 13 upcoming gigs,
 | Sat, 14 Nov 2026 | Love To Dance x Milestones presents: Charlie Dark [3 Hour Set] | Charlie Dark, Mucho Maas, Sirrey |
 | Fri, 20 Nov 2026 | Attention to Detail 002 | JustElliot |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

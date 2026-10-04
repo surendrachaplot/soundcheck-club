@@ -1,6 +1,6 @@
 # Natalox
 
-Natalox is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
+Natalox is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
 
 Natalox is a house and trance artist, with 15 gigs on soundcheck across Hamburg and Vienna. Often billed alongside Tekkida, Fredda and Bobbery. Next up: Südpol, Hamburg on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Natalox is a house and trance artist, with 15 gigs on soundcheck across Hamburg 
 
 Tekkida, Fredda, Bobbery
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalox/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalox/)*

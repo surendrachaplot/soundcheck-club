@@ -1,6 +1,6 @@
 # Hufnagel
 
-Hufnagel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Hufnagel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Hufnagel is a house and disco artist based in Germany, with 27 gigs on soundcheck across Hamburg. Often billed alongside DJ Dreams, cmp and david bay. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Hufnagel is a house and disco artist based in Germany, with 27 gigs on soundchec
 
 DJ Dreams, cmp (1), david bay
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*

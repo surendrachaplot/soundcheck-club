@@ -1,6 +1,6 @@
 # EMI.SNC
 
-EMI.SNC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+EMI.SNC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 EMI.SNC is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside Fufi.SNC, 0megavybe and AHURA. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EMI.SNC is a house and tech house artist based in Germany, with 11 gigs on sound
 
 Fufi.SNC, 0megavybe, AHURA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emi.snc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emi.snc/)*

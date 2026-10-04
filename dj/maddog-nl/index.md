@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: WDM, Hannover on Sat 3 Oct.
 
@@ -19,17 +19,17 @@ Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundche
 
 ## Recently played
 
+- WDM, Hannover · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - E1, London · Fri, 2 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Fabrik, Madrid · Sat, 19 Sept 2026
 - Schrotty, Cologne · Fri, 24 Jul 2026
-- Parco Dora, Turin · Fri, 3 Jul 2026
-- IDRA, Manchester · Sat, 30 May 2026
-- Revierpark Wischlingen, Dortmund, Cologne · Sun, 24 May 2026
 
 ## Shares bills with
 
 Angerfist, Korsakoff, CLTX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

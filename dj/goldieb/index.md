@@ -1,6 +1,6 @@
 # Goldie B
 
-Goldie B is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Poly, Lyon on Sat, 10 Oct 2026.
+Goldie B is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Poly, Lyon on Sat, 10 Oct 2026.
 
 Goldie B is a techno and bass artist based in France, with 31 gigs on soundcheck across Lyon, Marseille, Paris and Strasbourg. Often billed alongside Kumanope, Mad Rey and Mézigue. Next up: Poly, Lyon on Sat 10 Oct.
 
@@ -12,6 +12,7 @@ Goldie B is a techno and bass artist based in France, with 31 gigs on soundcheck
 
 ## Recently played
 
+- Mains D'œuvres, Paris · Sat, 3 Oct 2026
 - La Cité Fertile, Paris · Fri, 31 Jul 2026
 - Nido Marseille, Marseille · Sun, 28 Jun 2026
 - Le Makeda, Marseille · Fri, 19 Jun 2026
@@ -19,10 +20,9 @@ Goldie B is a techno and bass artist based in France, with 31 gigs on soundcheck
 - Sacré, Paris · Fri, 3 Apr 2026
 - Le Makeda, Marseille · Sat, 7 Mar 2026
 - Sacré, Paris · Fri, 30 Jan 2026
-- Sacré, Paris · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Kumanope, Mad Rey, Mézigue
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*

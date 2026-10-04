@@ -1,6 +1,6 @@
 # Tottie
 
-Tottie is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
+Tottie is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
 
 Tottie is a house and electronica artist based in United States of America, with 90 gigs on soundcheck across Barcelona, Detroit, Lisbon and Los Angeles and 4 more. Often billed alongside Maddy Maia, LAALLS and Masha Mar. Next up: TBA - address will be sent to ticket holders, Los Angeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tottie is a house and electronica artist based in United States of America, with
 
 Maddy Maia, LAALLS, Masha Mar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tottie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tottie/)*

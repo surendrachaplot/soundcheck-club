@@ -1,6 +1,6 @@
 # Mødze
 
-Mødze is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
+Mødze is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
 
 Mødze is a techno and industrial artist based in Switzerland, with 42 gigs on soundcheck across Antwerp, Belgrade, Berlin and Cologne and 9 more. Often billed alongside DeGuzman, Raxeller and Ana Dimco. Next up: Bootshaus, Cologne on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mødze is a techno and industrial artist based in Switzerland, with 42 gigs on s
 
 DeGuzman, Raxeller, Ana Dimco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modze/)*

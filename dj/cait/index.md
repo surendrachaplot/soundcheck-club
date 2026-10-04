@@ -1,6 +1,6 @@
 # Cáit
 
-Cáit is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
+Cáit is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
 
 Cáit is a house and techno artist based in Ireland, with 58 gigs on soundcheck across Amsterdam, Belfast, Berlin and Copenhagen and 10 more. Often billed alongside Fio Fa, Mercorn and Angel D'lite. Next up: TBA - Galway City, Galway on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cáit is a house and techno artist based in Ireland, with 58 gigs on soundcheck 
 
 Fio Fa, Mercorn, Angel D'lite
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*

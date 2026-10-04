@@ -1,6 +1,6 @@
 # Burly Chassis
 
-Burly Chassis is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Strange Brew, Bristol on Sat, 3 Oct 2026.
+Burly Chassis is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Strange Brew, Bristol on Sat, 3 Oct 2026.
 
 Burly Chassis is a disco and house artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Safiye and Brad Bradley. Next up: Strange Brew, Bristol on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Burly Chassis is a disco and house artist based in United Kingdom, with 20 gigs 
 
 ## Recently played
 
+- Strange Brew, Bristol · Sat, 3 Oct 2026
 - Strange Brew, Bristol · Fri, 5 Jun 2026
 - Strange Brew, Bristol · Sat, 31 Jan 2026
 - Strange Brew, Bristol · Wed, 31 Dec 2025
@@ -20,10 +21,9 @@ Burly Chassis is a disco and house artist based in United Kingdom, with 20 gigs 
 - The Marquee Moon, London · Sat, 18 Oct 2025
 - Paradise Garden, Cardiff · Fri, 3 Oct 2025
 - The Red Church, Bristol · Sun, 24 Aug 2025
-- The Christmas Steps, Bristol · Sat, 3 May 2025
 
 ## Shares bills with
 
 SPICYIVY, Safiye, Brad Bradley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burlychassis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burlychassis/)*

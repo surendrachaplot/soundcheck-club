@@ -1,6 +1,6 @@
 # Rudy.
 
-Rudy. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Upper East, London on Sat, 10 Oct 2026.
+Rudy. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Upper East, London on Sat, 10 Oct 2026.
 
 Rudy. is a house and deep house artist, with 6 gigs on soundcheck across London. Often billed alongside Banksie, Joey & OBS and ADR (UK). Next up: Upper East, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Rudy. is a house and deep house artist, with 6 gigs on soundcheck across London.
 
 Banksie, Joey & OBS, ADR (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudy/)*

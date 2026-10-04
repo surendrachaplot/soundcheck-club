@@ -1,14 +1,13 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+Somewhen is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Brooklyn Roots Collective, New York City on Sat, 17 Oct 2026.
 
-Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
+Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Brooklyn Roots Collective, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 17 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 23 Oct 2026 | Nordstern | Basel |
 | Sat, 24 Oct 2026 | Fusion Club | Munster |
@@ -22,6 +21,7 @@ Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundc
 
 ## Recently played
 
+- Blackstone Street Warehouse, Liverpool · Sat, 3 Oct 2026
 - Strasse E, Dresden · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
@@ -29,10 +29,9 @@ Somewhen is a techno and trance artist based in Germany, with 216 gigs on soundc
 - Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
 - Industry City, New York City · Sat, 5 Sept 2026
 - 1201 Franklin St, Vancouver · Sat, 5 Sept 2026
-- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

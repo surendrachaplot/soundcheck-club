@@ -1,6 +1,6 @@
 # turmanuma
 
-turmanuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
+turmanuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mena Berlin, Berlin on Fri, 9 Oct 2026.
 
 turmanuma is a techno and house artist based in Ukraine, with 34 gigs on soundcheck across Berlin, Hamburg, Vienna and Warsaw. Often billed alongside Eluzid, Fokko and Lifka. Next up: Mena Berlin, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ turmanuma is a techno and house artist based in Ukraine, with 34 gigs on soundch
 
 Eluzid, Fokko, Lifka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turmanuma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turmanuma/)*

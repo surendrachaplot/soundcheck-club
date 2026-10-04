@@ -1,6 +1,6 @@
 # junkie babe
 
-junkie babe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
+junkie babe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at R Lounge, Tokyo on Sun, 11 Oct 2026.
 
 junkie babe is a techno and house artist based in Japan, with 97 gigs on soundcheck across Tokyo. Often billed alongside Hackmarkt, Da Yama and SIGNAL (JP). Next up: R Lounge, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ junkie babe is a techno and house artist based in Japan, with 97 gigs on soundch
 
 Hackmarkt, Da Yama, SIGNAL (JP)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiebabe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiebabe/)*

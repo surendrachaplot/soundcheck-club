@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK" on Fri, 9 Oct 2026.
+JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK" on Fri, 9 Oct 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including Back2Bass, BUTTMONEY, Cora Lee and da:sypoda and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -18,4 +18,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

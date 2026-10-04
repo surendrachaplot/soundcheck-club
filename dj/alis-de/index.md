@@ -1,6 +1,6 @@
 # ALIS.
 
-ALIS. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
+ALIS. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
 
 ALIS. is a techno and house artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Mika Heggemann, Cleopard2000 and Stanislawa. Next up: ÆDEN, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ ALIS. is a techno and house artist based in Germany, with 110 gigs on soundcheck
 
 Mika Heggemann, Cleopard2000, Stanislawa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alis-de/)*

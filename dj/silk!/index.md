@@ -1,6 +1,6 @@
 # SILK!
 
-SILK! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MODULE, Copenhagen on Thu, 8 Oct 2026.
+SILK! is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MODULE, Copenhagen on Thu, 8 Oct 2026.
 
 SILK! is a techno and bass artist, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Valentina(DK), avoN and CALIFANO. Next up: MODULE, Copenhagen on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ SILK! is a techno and bass artist, with 6 gigs on soundcheck across Copenhagen. 
 
 Valentina(DK), avoN, CALIFANO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silk!/)*

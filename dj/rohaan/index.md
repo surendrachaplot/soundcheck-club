@@ -1,6 +1,6 @@
 # Rohaan
 
-Rohaan is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Rohaan is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Rohaan is a drum & bass and bass artist based in United Kingdom, with 29 gigs on soundcheck across Auckland, Brighton, Brisbane and Bristol and 16 more. Often billed alongside Buunshin, Ivy Lab and D Double E. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Rohaan is a drum & bass and bass artist based in United Kingdom, with 29 gigs on
 
 Buunshin, Ivy Lab, D Double E
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rohaan/)*

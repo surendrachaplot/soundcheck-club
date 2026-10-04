@@ -1,6 +1,6 @@
 # Darque
 
-Darque is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Darque is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
 Darque is an afro house and techno artist, with 7 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Shimza, ARODES and AWEN. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Darque is an afro house and techno artist, with 7 gigs on soundcheck across Amst
 
 Shimza, ARODES, AWEN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darque/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darque/)*

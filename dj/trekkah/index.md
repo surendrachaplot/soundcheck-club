@@ -1,6 +1,6 @@
 # Trekkah
 
-Trekkah is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
+Trekkah is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
 
 Trekkah is an amapiano and afro house artist, with 11 gigs on soundcheck across Glasgow, London, Manchester and Nottingham. Often billed alongside Bushman (UK), Lemon Eye and Optimistic Soul. Next up: Honey Street Studio, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Trekkah is an amapiano and afro house artist, with 11 gigs on soundcheck across 
 
 Bushman (UK), Lemon Eye, Optimistic Soul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trekkah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trekkah/)*

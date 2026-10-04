@@ -1,6 +1,6 @@
 # Gavin Wilson
 
-Gavin Wilson is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basing House, London on Sat, 7 Nov 2026.
+Gavin Wilson is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Basing House, London on Sat, 7 Nov 2026.
 
 Gavin Wilson is an afro house and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Jon E Cash, Bobby Davis and Aumy Raggo. Next up: Basing House, London on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Gavin Wilson is an afro house and house artist based in United Kingdom, with 6 g
 
 Jon E Cash, Bobby Davis, Aumy Raggo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinwilson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinwilson/)*

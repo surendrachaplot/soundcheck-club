@@ -1,6 +1,6 @@
 # Chaia
 
-Chaia is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
+Chaia is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
 
 Chaia is an ambient and techno artist, with 28 gigs on soundcheck across Chicago, Denver, Detroit and Glasgow and 8 more. Often billed alongside Kenjiro, Dynoman and Sha3by Chic. Next up: public records, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Chaia is an ambient and techno artist, with 28 gigs on soundcheck across Chicago
 
 Kenjiro, Dynoman, Sha3by Chic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaia/)*

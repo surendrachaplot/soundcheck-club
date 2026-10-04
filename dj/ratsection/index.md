@@ -1,6 +1,6 @@
 # Rat Section
 
-Rat Section is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Raleigh Chapel, London on Wed, 21 Oct 2026.
+Rat Section is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Raleigh Chapel, London on Wed, 21 Oct 2026.
 
 Rat Section is an experimental and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 14 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: Raleigh Chapel, London on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Rat Section is an experimental and electronica artist based in United Kingdom, w
 
 NEW YORK, Covco, Mellowdramatics
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*

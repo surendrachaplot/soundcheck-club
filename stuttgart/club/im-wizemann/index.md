@@ -1,6 +1,6 @@
 # Im Wizemann
 
-Im Wizemann is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Discotronic x Club Hybrid: Jan Blomqvist, Bebetta, Marius Lehnert, Alexander Maier" on Sat, 14 Nov 2026.
+Im Wizemann is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Discotronic x Club Hybrid: Jan Blomqvist, Bebetta, Marius Lehnert, Alexander Maier" on Sat, 14 Nov 2026.
 
 Im Wizemann is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Alexander Maier, Bebetta, Jan Blomqvist and Marius Lehnert. See dates, start times and who's playing. Quellenstraße 7, 70376 Stuttgart, Germany.
 
@@ -14,4 +14,4 @@ Im Wizemann is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, 
 
 Quellenstraße 7, 70376 Stuttgart, Germany, Stuttgart
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/im-wizemann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/im-wizemann/)*

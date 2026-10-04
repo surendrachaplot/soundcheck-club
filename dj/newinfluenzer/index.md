@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
+Newinfluenzer is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
 
 Newinfluenzer is a techno and electro artist based in Germany, with 89 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside DJ MELL G, yamyam and DJ SOURCE. Next up: Tokonoma Club, Frankfurt on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Newinfluenzer is a techno and electro artist based in Germany, with 89 gigs on s
 
 DJ MELL G, yamyam, DJ SOURCE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

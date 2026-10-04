@@ -1,6 +1,6 @@
 # Manfredi
 
-Manfredi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
+Manfredi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
 
 Manfredi is a house and tech house artist, with 14 gigs on soundcheck across Bali, Bangkok, Belgrade and Berlin and 4 more. Often billed alongside Mene, Phonatic and .g (TH). Next up: DURO, Milan on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Manfredi is a house and tech house artist, with 14 gigs on soundcheck across Bal
 
 Mene, Phonatic, .g (TH)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredi/)*

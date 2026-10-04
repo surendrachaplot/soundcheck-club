@@ -1,6 +1,6 @@
 # Vl ANIVERSARIO SINESTESIA x Error in the System at TBA - SALA MUV
 
-Vl ANIVERSARIO SINESTESIA x Error in the System at TBA - SALA MUV on Sat 7 Nov, Madrid. 3 artists: Arp (SNT), Hakkon and Oxygeno. See the line-up on soundcheck.
+Vl ANIVERSARIO SINESTESIA x Error in the System at TBA - SALA MUV on Sat 7 Nov, Madrid. 3 artists: Arp (SNT), Hakkon and Oxygeno. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

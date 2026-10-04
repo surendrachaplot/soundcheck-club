@@ -1,6 +1,6 @@
 # Matteo Bigliardi
 
-Matteo Bigliardi is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Tue, 13 Oct 2026.
+Matteo Bigliardi is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Tue, 13 Oct 2026.
 
 Matteo Bigliardi is a progressive house artist based in Spain, with 6 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Angie (CY), DD.MATTS and Emme Musik. Next up: Macarena Club, Barcelona on Tue 13 Oct.
 
@@ -22,4 +22,4 @@ Matteo Bigliardi is a progressive house artist based in Spain, with 6 gigs on so
 
 Angie (CY), DD.MATTS, Emme Musik
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobigliardi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobigliardi/)*

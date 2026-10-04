@@ -1,6 +1,6 @@
 # Julie Wills
 
-Julie Wills is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
+Julie Wills is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
 
 Julie Wills is a disco and funk / soul artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside Il Bosco, James Holroyd and Moodymanc. Next up: The Golden Lion, Manchester on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Julie Wills is a disco and funk / soul artist based in United Kingdom, with 8 gi
 
 Il Bosco, James Holroyd, Moodymanc
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliewills/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliewills/)*

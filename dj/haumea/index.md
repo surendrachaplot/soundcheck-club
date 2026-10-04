@@ -1,6 +1,6 @@
 # Haumea
 
-Haumea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Haumea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Haumea is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Brussels, Miami and Milan and 1 more. Often billed alongside Radar, Hitam and I-RO. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Haumea is a techno and house artist based in United States of America, with 23 g
 
 Radar, Hitam, I-RO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haumea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haumea/)*

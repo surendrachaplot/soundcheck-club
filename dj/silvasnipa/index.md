@@ -1,6 +1,6 @@
 # Silva Snipa
 
-Silva Snipa is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Silva Snipa is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside VXRGO, The Bass Injector and Janaway. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 108
 
 VXRGO, The Bass Injector, Janaway
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*

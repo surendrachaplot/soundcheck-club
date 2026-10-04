@@ -1,6 +1,6 @@
 # Vibe Positive
 
-Vibe Positive is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 17 Oct 2026.
+Vibe Positive is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 17 Oct 2026.
 
 Vibe Positive is a house and club artist, with 8 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Deepa, Afrodisiac and Angie Osman. Next up: Abercrombie Hotel, Sydney on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Vibe Positive is a house and club artist, with 8 gigs on soundcheck across Melbo
 
 Deepa, Afrodisiac, Angie Osman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibepositive/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibepositive/)*

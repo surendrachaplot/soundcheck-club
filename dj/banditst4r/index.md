@@ -1,6 +1,6 @@
 # Banditst4r
 
-Banditst4r is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
+Banditst4r is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
 
 Banditst4r is an electro and techno artist, with 5 gigs on soundcheck across Lisbon and Porto. Often billed alongside AlFaer, Clothilde and Dj Lynce. Next up: Ministerium Club, Lisbon on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Banditst4r is an electro and techno artist, with 5 gigs on soundcheck across Lis
 
 AlFaer, Clothilde, Dj Lynce
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banditst4r/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banditst4r/)*

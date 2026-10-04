@@ -1,6 +1,6 @@
 # LOTU (UK)
 
-LOTU (UK) is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+LOTU (UK) is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 LOTU (UK) is a dubstep and dub artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Chad Dubz, SGT Pokes and MINTY. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ LOTU (UK) is a dubstep and dub artist based in United Kingdom, with 26 gigs on s
 
 ## Recently played
 
+- Beaver Works, Leeds · Sat, 3 Oct 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
 - Eastern Bloc Records, Manchester · Thu, 2 Jul 2026
 - The Trinity Centre, Bristol · Sat, 21 Feb 2026
@@ -19,10 +20,9 @@ LOTU (UK) is a dubstep and dub artist based in United Kingdom, with 26 gigs on s
 - Green Works, Bristol · Sat, 18 Oct 2025
 - Cu, London · Sat, 1 Mar 2025
 - Green Works, Bristol · Sat, 11 Jan 2025
-- 26 Leake Street, London · Tue, 31 Dec 2024
 
 ## Shares bills with
 
 Chad Dubz, SGT Pokes, MINTY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotuuk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotuuk/)*

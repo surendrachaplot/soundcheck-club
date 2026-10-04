@@ -1,6 +1,6 @@
 # DJ Vivona
 
-DJ Vivona is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+DJ Vivona is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Vivona is a house and uk funky artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Bali, Berlin and Ibiza and 2 more. Often billed alongside Bianchetti, TWOEF and ADEZ. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Vivona is a house and uk funky artist based in Italy, with 11 gigs on soundch
 
 Bianchetti, TWOEF, ADEZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*

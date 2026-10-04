@@ -1,6 +1,6 @@
 # Café V Lese
 
-Café V Lese is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Joshua Idehen" on Wed, 7 Oct 2026.
+Café V Lese is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Joshua Idehen" on Wed, 7 Oct 2026.
 
 Café V Lese is a music venue in Prague listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
 
@@ -15,4 +15,4 @@ Café V Lese is a music venue in Prague listed on soundcheck. 2 upcoming gigs. S
 
 Krymska 12, Praha 10 - Vrsovice, Prague
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/caf-v-lese/)*

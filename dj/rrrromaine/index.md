@@ -1,6 +1,6 @@
 # RRRROMAINE
 
-RRRROMAINE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 13 Nov 2026.
+RRRROMAINE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 13 Nov 2026.
 
 RRRROMAINE is a techno and club artist based in United States of America, with 8 gigs on soundcheck across Philadelphia. Often billed alongside America Loves Me, Riva + Bianca and Angel Jelly. Next up: The Dolphin, Philadelphia on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ RRRROMAINE is a techno and club artist based in United States of America, with 8
 
 America Loves Me, Riva + Bianca, Angel Jelly
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrromaine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrromaine/)*

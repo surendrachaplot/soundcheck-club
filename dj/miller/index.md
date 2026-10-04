@@ -1,6 +1,6 @@
 # Miller
 
-Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Miller is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Nicolau, Ion Ludwig and Rossi. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Miller is a house and techno artist based in United Kingdom, with 33 gigs on sou
 
 Nicolau, Ion Ludwig, Rossi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*

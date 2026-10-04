@@ -1,6 +1,6 @@
 # b3bz
 
-b3bz is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+b3bz is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
 
 b3bz is a bass and breakbeat artist based in France, with 6 gigs on soundcheck across Paris and West. Often billed alongside Duane, Jacky Jeane and Abajour. Next up: Bal Chavaux, Paris on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ b3bz is a bass and breakbeat artist based in France, with 6 gigs on soundcheck a
 
 ## Recently played
 
+- Bal Chavaux, Paris · Sat, 3 Oct 2026
 - TBA - La Louverie, Paris · Thu, 13 Aug 2026
 - La Prairie du Canal, Paris · Tue, 14 Jul 2026
 - Badaboum, Paris · Sat, 9 May 2026
@@ -22,4 +23,4 @@ b3bz is a bass and breakbeat artist based in France, with 6 gigs on soundcheck a
 
 Duane, Jacky Jeane, Abajour
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b3bz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b3bz/)*

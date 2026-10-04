@@ -1,6 +1,6 @@
 # Abuelita
 
-Abuelita is a Dub and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stalownia, Warsaw on Fri, 9 Oct 2026.
+Abuelita is a Dub and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Stalownia, Warsaw on Fri, 9 Oct 2026.
 
 Abuelita is a dub and grime artist based in Poland, with 28 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Adobo (PL), eylau and KarateKnur. Next up: Stalownia, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Abuelita is a dub and grime artist based in Poland, with 28 gigs on soundcheck a
 
 Adobo (PL), eylau, KarateKnur
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*

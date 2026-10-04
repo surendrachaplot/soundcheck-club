@@ -1,6 +1,6 @@
 # Eleusinia Mysteria
 
-Eleusinia Mysteria is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Patision65, Athens on Sat, 31 Oct 2026.
+Eleusinia Mysteria is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Patision65, Athens on Sat, 31 Oct 2026.
 
 Eleusinia Mysteria is a techno and post-punk artist based in United Kingdom, with 7 gigs on soundcheck across Athens. Often billed alongside Salvi k, .Fro. and 118119. Next up: Patision65, Athens on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Eleusinia Mysteria is a techno and post-punk artist based in United Kingdom, wit
 
 Salvi k, .Fro., 118119
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*

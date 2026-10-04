@@ -1,6 +1,6 @@
 # Sp33dy Julie (2)
 
-Sp33dy Julie (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Sp33dy Julie (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Sp33dy Julie is an electro and techno artist based in Greece, with 12 gigs on soundcheck across Athens, Brussels and Greece. Often billed alongside Ayshel, Liou and Merve. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Sp33dy Julie is an electro and techno artist based in Greece, with 12 gigs on so
 
 Ayshel, Liou, Merve
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sp33dyjulie-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sp33dyjulie-2/)*

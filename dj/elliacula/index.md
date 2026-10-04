@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Elli Acula is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Elli Acula is a techno and house artist based in Germany, with 218 gigs on sound
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

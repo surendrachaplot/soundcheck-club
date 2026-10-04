@@ -1,6 +1,6 @@
 # mdngt
 
-mdngt is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
+mdngt is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
 
 mdngt is a techno and acid artist based in Serbia, with 33 gigs on soundcheck across Belgrade, Serbia and Warsaw. Often billed alongside Filip Xavi, ROPE and .Paragon. Next up: Club Drugstore, Serbia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ mdngt is a techno and acid artist based in Serbia, with 33 gigs on soundcheck ac
 
 Filip Xavi, ROPE, .Paragon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mdngt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mdngt/)*

@@ -1,6 +1,6 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+KNTRLVRLST is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
 
 KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on sound
 
 ## Recently played
 
+- Zinkbad Eventhalle, Zurich · Sat, 3 Oct 2026
 - Kesselhaus Augsburg, Augsburg · Fri, 2 Oct 2026
 - Roof 175, Frankfurt · Sat, 19 Sept 2026
 - Domicile, Miami · Sat, 19 Sept 2026
@@ -25,10 +26,9 @@ KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on sound
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
 - Lehmann Club, Stuttgart · Fri, 26 Jun 2026
-- Burning Beach, Nürnberg · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 A.N.I., Vagabund, DeGuzman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

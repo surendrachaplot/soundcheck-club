@@ -1,6 +1,6 @@
 # XIII
 
-XIII is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fischio, Rome on Sat, 10 Oct 2026.
+XIII is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fischio, Rome on Sat, 10 Oct 2026.
 
 XIII is an experimental and techno artist, with 12 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Milan and 2 more. Often billed alongside Gambo, Kreggo and AFRORACK. Next up: Fischio, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ XIII is an experimental and techno artist, with 12 gigs on soundcheck across Ams
 
 Gambo, Kreggo, AFRORACK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiii/)*

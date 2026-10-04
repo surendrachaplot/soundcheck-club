@@ -1,6 +1,6 @@
 # Fear-E
 
-Fear-E is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
+Fear-E is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
 
 Fear-E is a techno and acid artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 4 more. Often billed alongside Jerome Hill, Co-Accused and Nightwave. Next up: Lost Horizon, Bristol on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Fear-E is a techno and acid artist based in United Kingdom, with 30 gigs on soun
 
 Jerome Hill, Co-Accused, Nightwave
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fear-e/)*

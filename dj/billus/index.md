@@ -1,6 +1,6 @@
 # Billus
 
-Billus is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Billus is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
 
 Billus is a deep house and house artist based in Australia, with 20 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Bex, Jmcee and Neil E. Next up: OneSixOne, Melbourne on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Billus is a deep house and house artist based in Australia, with 20 gigs on soun
 
 Bex, Jmcee, Neil E
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*

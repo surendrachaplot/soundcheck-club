@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nonstop: Angel D'lite b2b tINI, DJ Fart in the Club, Eli Verveine, Francesco Del Garda + more" on Sat, 3 Oct 2026.
+Nowadays is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Nonstop: Angel D'lite b2b tINI, DJ Fart in the Club, Eli Verveine, Francesco Del Garda + more" on Sat, 3 Oct 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Angel D'lite and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 22 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

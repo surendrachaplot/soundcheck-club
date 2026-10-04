@@ -1,6 +1,6 @@
 # Yessi
 
-Yessi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Yessi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
 
 Yessi is an experimental and techno artist based in United States of America, with 21 gigs on soundcheck across Detroit, Los Angeles, New York City and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Malzof and Max Ellington. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yessi is an experimental and techno artist based in United States of America, wi
 
 Kiernan Laveaux, Malzof, Max Ellington
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*

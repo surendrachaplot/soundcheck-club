@@ -1,6 +1,6 @@
 # The Spy
 
-The Spy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brussels, Brussels on Fri, 9 Oct 2026.
+The Spy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Brussels, Brussels on Fri, 9 Oct 2026.
 
 The Spy is a techno and electro artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 4 more. Often billed alongside L.F.T., VOLPEVOLPE and Garçon Taupe. Next up: TBA - Brussels, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ The Spy is a techno and electro artist based in Netherlands, with 9 gigs on soun
 
 L.F.T., VOLPEVOLPE, Garçon Taupe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thespy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thespy/)*

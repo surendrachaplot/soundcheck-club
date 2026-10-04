@@ -1,6 +1,6 @@
 # Fiat Luxx
 
-Fiat Luxx is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Denver on Sat, 31 Oct 2026.
+Fiat Luxx is a Techno and Drone artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Denver on Sat, 31 Oct 2026.
 
 Fiat Luxx is a techno and drone artist based in United States of America, with 18 gigs on soundcheck across Denver. Often billed alongside Emyli Dahlia, Nico Tobón and Recurse. Next up: TBA, Denver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fiat Luxx is a techno and drone artist based in United States of America, with 1
 
 Emyli Dahlia, Nico Tobón, Recurse
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiatluxx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiatluxx/)*

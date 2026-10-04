@@ -1,6 +1,6 @@
 # Seph
 
-Seph is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
+Seph is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
 
 Seph is a techno and club artist based in Argentina, with 7 gigs on soundcheck across Buenos Aires and Leeds. Often billed alongside Bruno Caro, Cia Rebeck and Ciel. Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Seph is a techno and club artist based in Argentina, with 7 gigs on soundcheck a
 
 Bruno Caro, Cia Rebeck, Ciel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seph/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seph/)*

@@ -1,6 +1,6 @@
 # Renzo (3)
 
-Renzo (3) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Renzo (3) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
 
 Renzo is a house and minimal artist based in Switzerland, with 13 gigs on soundcheck across Berlin, Bucharest, Edinburgh and Milan and 2 more. Often billed alongside Re.dep, And.re and Papa K. Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Renzo is a house and minimal artist based in Switzerland, with 13 gigs on soundc
 
 Re.dep, And.re, Papa K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renzo-3/)*

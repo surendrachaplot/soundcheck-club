@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KOKO Electronic: Skyla Tylaa" on Sat, 3 Oct 2026.
+KOKO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KOKO Electronic: Skyla Tylaa" on Sat, 3 Oct 2026.
 
 KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Andrea Oliva, Argia, Arnie Wrong and ARODES and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

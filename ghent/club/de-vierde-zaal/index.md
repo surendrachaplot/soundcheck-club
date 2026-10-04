@@ -1,6 +1,6 @@
 # De Vierde Zaal
 
-De Vierde Zaal is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Kilobyte Records Label Party" on Sat, 24 Oct 2026.
+De Vierde Zaal is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kilobyte Records Label Party" on Sat, 24 Oct 2026.
 
 De Vierde Zaal is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Driebeekstraat 4, 9050 Gent.
 
@@ -14,4 +14,4 @@ De Vierde Zaal is a music venue in Ghent listed on soundcheck. 1 upcoming gig. S
 
 Driebeekstraat 4, 9050 Gent, Ghent
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/de-vierde-zaal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/de-vierde-zaal/)*

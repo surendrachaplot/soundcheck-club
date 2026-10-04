@@ -1,6 +1,6 @@
 # DJ NSA
 
-DJ NSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 404.EXE, Atlanta on Sat, 10 Oct 2026.
+DJ NSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 404.EXE, Atlanta on Sat, 10 Oct 2026.
 
 DJ NSA is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Atlanta, Berlin, New York City and San Francisco/Oakland and 1 more. Often billed alongside Aaron Clark, Analog Soul and BOYCA. Next up: 404.EXE, Atlanta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ NSA is a house and techno artist based in United States of America, with 10 g
 
 Aaron Clark, Analog Soul, BOYCA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnsa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnsa/)*

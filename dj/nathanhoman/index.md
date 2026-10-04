@@ -1,6 +1,6 @@
 # Nathan Homan
 
-Nathan Homan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
+Nathan Homan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BRET, Amsterdam on Fri, 9 Oct 2026.
 
 Nathan Homan is a house and techno artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: BRET, Amsterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Nathan Homan is a house and techno artist based in Netherlands, with 48 gigs on 
 
 Tsepo, Merel Helderman, SOLIT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*

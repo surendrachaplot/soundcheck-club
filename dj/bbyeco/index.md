@@ -1,6 +1,6 @@
 # Bby Eco
 
-Bby Eco is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cakeshop, Seoul on Thu, 8 Oct 2026.
+Bby Eco is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cakeshop, Seoul on Thu, 8 Oct 2026.
 
 Bby Eco is an ambient and electronica artist, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Mount XLR, Ouri and Aaron Dilloway. Next up: Cakeshop, Seoul on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Bby Eco is an ambient and electronica artist, with 20 gigs on soundcheck across 
 
 Mount XLR, Ouri, Aaron Dilloway
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyeco/)*

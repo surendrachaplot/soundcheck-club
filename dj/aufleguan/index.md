@@ -1,6 +1,6 @@
 # aufleguan
 
-aufleguan is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 22 Oct 2026.
+aufleguan is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 22 Oct 2026.
 
 aufleguan is a techno and hardcore artist based in Germany, with 5 gigs on soundcheck across Munich. Often billed alongside Mr. Stampftech, midimal and Morph Kollektiv. Next up: Bahnwärter Thiel, Munich on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ aufleguan is a techno and hardcore artist based in Germany, with 5 gigs on sound
 
 Mr. Stampftech, midimal, Morph Kollektiv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aufleguan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aufleguan/)*

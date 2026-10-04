@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Rui Vargas & Zé Salvador, Petrvs" on Sat, 3 Oct 2026.
+Gare Porto is a music venue in Porto with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Rui Vargas & Zé Salvador, Petrvs" on Sat, 3 Oct 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming gigs, with line-ups including AlFaer, Amulador, Ana JORHS. and Blazej Malinowski and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -23,4 +23,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming gigs, wit
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

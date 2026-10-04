@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more" on Sat, 3 Oct 2026.
+Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more" on Sat, 3 Oct 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including 999999999, Akua, Altinbas and blastah and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -22,4 +22,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

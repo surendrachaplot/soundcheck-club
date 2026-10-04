@@ -1,6 +1,6 @@
 # Babe Gorgeous
 
-Babe Gorgeous is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+Babe Gorgeous is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Babe Gorgeous is a bass and experimental artist based in Ireland, with 23 gigs on soundcheck across Berlin. Often billed alongside jass:minute, Ubax and DJ STRAIGHT GIRL. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Babe Gorgeous is a bass and experimental artist based in Ireland, with 23 gigs o
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - TBA - Info in Telegram, Berlin · Sat, 19 Sept 2026
 - Schwarze Heidi, Berlin · Sun, 21 Jun 2026
 - Drugstore im Rockhaus, Berlin · Sat, 30 May 2026
@@ -19,10 +20,9 @@ Babe Gorgeous is a bass and experimental artist based in Ireland, with 23 gigs o
 - Paloma, Berlin · Sat, 7 Feb 2026
 - Lauschangriff, Berlin · Thu, 8 Jan 2026
 - TBA - DM for Location, Berlin · Fri, 3 Oct 2025
-- TBA, Berlin · Sat, 27 Sept 2025
 
 ## Shares bills with
 
 jass:minute, Ubax, DJ STRAIGHT GIRL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*

@@ -1,6 +1,6 @@
 # Exilee
 
-Exilee is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
+Exilee is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
 
 Exilee is a techno and club artist based in Sweden, with 17 gigs on soundcheck across Berlin, Brussels, Copenhagen and Leipzig and 4 more. Often billed alongside Heddah, CUNT REMEMBER and Europa. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Exilee is a techno and club artist based in Sweden, with 17 gigs on soundcheck a
 
 Heddah, CUNT REMEMBER, Europa (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*

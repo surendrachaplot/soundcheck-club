@@ -1,6 +1,6 @@
 # Delian Sound
 
-Delian Sound is a Breakbeat and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
+Delian Sound is a Breakbeat and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dalston Den, London on Fri, 9 Oct 2026.
 
 Delian Sound is a breakbeat and dubstep artist, with 12 gigs on soundcheck across Bristol, Brussels, London and Prague. Often billed alongside Axle, Helios Manoeuvres and Henry Greenleaf. Next up: Dalston Den, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Delian Sound is a breakbeat and dubstep artist, with 12 gigs on soundcheck acros
 
 Axle, Helios Manoeuvres, Henry Greenleaf
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliansound/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliansound/)*

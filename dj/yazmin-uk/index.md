@@ -1,6 +1,6 @@
 # Yazmin (UK)
 
-Yazmin (UK) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
+Yazmin (UK) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dalston Den, London on Sat, 24 Oct 2026.
 
 Yazmin (UK) is a techno and deep house artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside AMAR (UK), bubushko and Adela. Next up: Dalston Den, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Yazmin (UK) is a techno and deep house artist based in United Kingdom, with 20 g
 
 AMAR (UK), bubushko, Adela
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-uk/)*

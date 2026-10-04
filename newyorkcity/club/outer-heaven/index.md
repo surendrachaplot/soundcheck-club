@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Outer Heaven presents: CAMILLA - Gui Machado" on Sat, 3 Oct 2026.
+Outer Heaven is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Outer Heaven presents: CAMILLA - Gui Machado" on Sat, 3 Oct 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 31 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

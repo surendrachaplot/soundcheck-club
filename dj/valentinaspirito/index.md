@@ -1,6 +1,6 @@
 # Valentina Spirito
 
-Valentina Spirito is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Valentina Spirito is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Valentina Spirito is a techno and electronica artist based in Argentina, with 36 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 5 more. Often billed alongside Manu Calmet, Bermani and DJ LOUI FROM JUPITER4. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Valentina Spirito is a techno and electronica artist based in Argentina, with 36
 
 Manu Calmet, Bermani, DJ LOUI FROM JUPITER4
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaspirito/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaspirito/)*

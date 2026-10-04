@@ -1,6 +1,6 @@
 # Hanna Ojanen
 
-Hanna Ojanen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaiku, Helsinki on Sat, 10 Oct 2026.
+Hanna Ojanen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaiku, Helsinki on Sat, 10 Oct 2026.
 
 Hanna Ojanen is a house and techno artist based in Finland, with 51 gigs on soundcheck across Antwerp, Berlin, Brussels and Helsinki and 3 more. Often billed alongside HiToshi, Lil Tony and DJ Aleksi. Next up: Kaiku, Helsinki on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Hanna Ojanen is a house and techno artist based in Finland, with 51 gigs on soun
 
 HiToshi, Lil Tony, DJ Aleksi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannaojanen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannaojanen/)*

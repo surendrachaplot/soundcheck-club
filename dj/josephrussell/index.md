@@ -1,6 +1,6 @@
 # Joseph Russell
 
-Joseph Russell is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Total Refreshment Centre, London on Sat, 10 Oct 2026.
+Joseph Russell is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Total Refreshment Centre, London on Sat, 10 Oct 2026.
 
 Joseph Russell is a disco and funk / soul artist based in United Kingdom, with 45 gigs on soundcheck across Edinburgh, London and Naples. Often billed alongside Andrea Montalto, Cosmo Sofi and GeraH. Next up: Total Refreshment Centre, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joseph Russell is a disco and funk / soul artist based in United Kingdom, with 4
 
 Andrea Montalto, Cosmo Sofi, GeraH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephrussell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephrussell/)*

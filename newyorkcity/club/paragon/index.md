@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Club Stars: Detroit In Effect, DJ Slugo, Amarji King + Sirens(MORENXXX b2b Loka)" on Sat, 3 Oct 2026.
+Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club Stars: Detroit In Effect, DJ Slugo, Amarji King + Sirens(MORENXXX b2b Loka)" on Sat, 3 Oct 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including MORENXXX, AK (US), Amarji King and Ashley Venom and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

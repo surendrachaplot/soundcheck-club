@@ -1,6 +1,6 @@
 # Dirty Daddy Don
 
-Dirty Daddy Don is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ficken 3000, Berlin on Fri, 9 Oct 2026.
+Dirty Daddy Don is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ficken 3000, Berlin on Fri, 9 Oct 2026.
 
 Dirty Daddy Don is a techno and house artist based in Canada, with 77 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg and 4 more. Often billed alongside Khloe, Majdolen and Jacob Meehan. Next up: Ficken 3000, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Dirty Daddy Don is a techno and house artist based in Canada, with 77 gigs on so
 
 Khloe, Majdolen, Jacob Meehan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*

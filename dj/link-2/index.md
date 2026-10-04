@@ -1,6 +1,6 @@
 # LiNK (2)
 
-LiNK (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Daikokudani Camping Ground, Kyoto on Sat, 10 Oct 2026.
+LiNK (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Daikokudani Camping Ground, Kyoto on Sat, 10 Oct 2026.
 
 LiNK is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Kyoto, Los Angeles and Stuttgart. Often billed alongside Techno Thomson, Montague and Momo Femi. Next up: Daikokudani Camping Ground, Kyoto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LiNK is a techno and house artist based in Germany, with 19 gigs on soundcheck a
 
 Techno Thomson, Montague, Momo Femi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/link-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/link-2/)*

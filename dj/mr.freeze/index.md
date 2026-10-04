@@ -1,6 +1,6 @@
 # Mr. Freeze
 
-Mr. Freeze is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cellar, London on Sat, 7 Nov 2026.
+Mr. Freeze is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cellar, London on Sat, 7 Nov 2026.
 
 Mr. Freeze is a house and electro artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Sparky (AU), Daniel Pereira and Andy Kas. Next up: Cellar, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mr. Freeze is a house and electro artist based in United Kingdom, with 10 gigs o
 
 Sparky (AU), Daniel Pereira, Andy Kas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.freeze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.freeze/)*

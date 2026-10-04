@@ -1,6 +1,6 @@
 # Sara Delirio
 
-Sara Delirio is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+Sara Delirio is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
 Sara Delirio is a techno and electro artist based in Colombia, with 8 gigs on soundcheck across Barcelona, Berlin, Bogot and Buenos Aires and 3 more. Often billed alongside Arieshandmodel, Chalita Claudine and Dave Mech. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Sara Delirio is a techno and electro artist based in Colombia, with 8 gigs on so
 
 Arieshandmodel, Chalita Claudine, Dave Mech
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*

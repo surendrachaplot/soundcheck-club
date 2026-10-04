@@ -1,6 +1,6 @@
 # georg-i
 
-georg-i is a Bass and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+georg-i is a Bass and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
 georg-i is a bass and dub techno artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Bristol, London and Rotterdam and 1 more. Often billed alongside Older Brother, 2G and ADEAD. Next up: FOLD, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ georg-i is a bass and dub techno artist based in United Kingdom, with 7 gigs on 
 
 Older Brother, 2G (1), ADEAD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*

@@ -1,6 +1,6 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
+Shakolin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
 
 Shakolin is a house and techno artist based in Ukraine, with 111 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Shakolin is a house and techno artist based in Ukraine, with 111 gigs on soundch
 
 Karine, Timur Basha, Noizar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

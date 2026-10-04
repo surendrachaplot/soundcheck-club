@@ -1,6 +1,6 @@
 # Yawung
 
-Yawung is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Yawung is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Yawung is a house and club artist, with 18 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Activator (AU), Darcy Justice and Midnight Tenderness. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Yawung is a house and club artist, with 18 gigs on soundcheck across Melbourne a
 
 Activator (AU), Darcy Justice, Midnight Tenderness
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yawung/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yawung/)*

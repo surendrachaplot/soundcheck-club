@@ -1,6 +1,6 @@
 # A.Pringle
 
-A.Pringle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
+A.Pringle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
 
 A.Pringle is a house and techno artist based in France, with 7 gigs on soundcheck across Lyon, Paris and Vienna. Often billed alongside Axel Blanc, BAUGRUPPE90 and Blame The Mono. Next up: TBA - Paris, Paris on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ A.Pringle is a house and techno artist based in France, with 7 gigs on soundchec
 
 Axel Blanc, BAUGRUPPE90, Blame The Mono
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.pringle/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.pringle/)*

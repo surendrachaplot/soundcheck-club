@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat" on Sat, 3 Oct 2026.
+The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat" on Sat, 3 Oct 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

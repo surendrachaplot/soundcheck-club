@@ -1,6 +1,6 @@
 # Amy Rymes
 
-Amy Rymes is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
+Amy Rymes is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
 
 Amy Rymes is a techno and industrial artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Rotterdam, Sydney and Utrecht. Often billed alongside Alessandro Nero, Bleach and Brecc. Next up: BASIS, Utrecht on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Amy Rymes is a techno and industrial artist based in Netherlands, with 6 gigs on
 
 Alessandro Nero, Bleach, Brecc
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyrymes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyrymes/)*

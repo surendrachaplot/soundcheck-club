@@ -1,6 +1,6 @@
 # RaFFski
 
-RaFFski is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aatma, Manchester on Sat, 17 Oct 2026.
+RaFFski is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aatma, Manchester on Sat, 17 Oct 2026.
 
 RaFFski is a techno and acid artist based in United Kingdom, with 11 gigs on soundcheck across Manchester. Often billed alongside Kazek, Kami Lee and ANNABEL DE MELCHIORI. Next up: Aatma, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ RaFFski is a techno and acid artist based in United Kingdom, with 11 gigs on sou
 
 Kazek, Kami Lee, ANNABEL DE MELCHIORI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffski/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffski/)*

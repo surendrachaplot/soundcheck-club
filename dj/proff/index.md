@@ -1,6 +1,6 @@
 # PROFF
 
-PROFF is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+PROFF is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 PROFF is a progressive house and deep house artist based in United Kingdom, with 28 gigs on soundcheck across Auckland, Berlin, London and Madrid and 6 more. Often billed alongside Altayef, Nox Vahn and Amy Wiles. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ PROFF is a progressive house and deep house artist based in United Kingdom, with
 
 Altayef, Nox Vahn, Amy Wiles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proff/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proff/)*

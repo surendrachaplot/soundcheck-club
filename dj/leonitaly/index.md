@@ -1,6 +1,6 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Leon is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
 Leon is a tech house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Leon is a tech house and techno artist based in Italy, with 65 gigs on soundchec
 
 Marco Carola, Kulage, Pirate Copy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

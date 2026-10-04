@@ -1,6 +1,6 @@
 # Allen Mock
 
-Allen Mock is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Live Haus, Tokyo on Sat, 17 Oct 2026.
+Allen Mock is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Live Haus, Tokyo on Sat, 17 Oct 2026.
 
 Allen Mock is a techno and bass artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside Herbalistek, Dayzero and Kojiro. Next up: Live Haus, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Allen Mock is a techno and bass artist based in Japan, with 22 gigs on soundchec
 
 Herbalistek, Dayzero, Kojiro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allenmock/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allenmock/)*

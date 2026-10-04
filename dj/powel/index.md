@@ -1,6 +1,6 @@
 # Powel
 
-Powel is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Powel is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Powel is a deep house and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Ibiza, Miami and New York City and 2 more. Often billed alongside Bonjour Ben, Borella and Coss. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Powel is a deep house and house artist based in Germany, with 15 gigs on soundch
 
 Bonjour Ben, Borella, Coss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powel/)*

@@ -1,6 +1,6 @@
 # Eddy Ramich
 
-Eddy Ramich is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sonnenraum, Berlin on Fri, 9 Oct 2026.
+Eddy Ramich is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonnenraum, Berlin on Fri, 9 Oct 2026.
 
 Eddy Ramich is a house and disco artist based in Netherlands, with 16 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Markus Tone, Aria Santillana and Daniel Best. Next up: Sonnenraum, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Eddy Ramich is a house and disco artist based in Netherlands, with 16 gigs on so
 
 Markus Tone, Aria Santillana, Daniel Best
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyramich/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyramich/)*

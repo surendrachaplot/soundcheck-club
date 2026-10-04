@@ -1,6 +1,6 @@
 # Supertaste
 
-Supertaste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Supertaste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
 Supertaste is a disco and house artist, with 11 gigs on soundcheck across Boston, Los Angeles, Miami and New Orleans and 3 more. Often billed alongside 3kelves, Classixx and Dylan C. Greene. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Supertaste is a disco and house artist, with 11 gigs on soundcheck across Boston
 
 3kelves, Classixx, Dylan C. Greene
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supertaste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supertaste/)*

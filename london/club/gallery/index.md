@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is " MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss" on Sat, 3 Oct 2026.
+Gallery is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is " MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss" on Sat, 3 Oct 2026.
 
 Gallery is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AUGUSTE, Batuka, Billa Bazz and DOVnROBS and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 13 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

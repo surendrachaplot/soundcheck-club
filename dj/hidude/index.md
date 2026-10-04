@@ -1,6 +1,6 @@
 # H! Dude
 
-H! Dude is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
+H! Dude is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
 
 H! Dude is a techno and hardcore artist, with 45 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Isabelle Beaucamp, Per Pleks and A.N.I.. Next up: Roof 175, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ H! Dude is a techno and hardcore artist, with 45 gigs on soundcheck across Amste
 
 Isabelle Beaucamp, Per Pleks, A.N.I.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidude/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidude/)*

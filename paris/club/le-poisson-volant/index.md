@@ -1,6 +1,6 @@
 # Le Poisson Volant
 
-Le Poisson Volant is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Redkoffee and Ohjeelo" on Fri, 9 Oct 2026.
+Le Poisson Volant is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Redkoffee and Ohjeelo" on Fri, 9 Oct 2026.
 
 Le Poisson Volant is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Coni, DJ Music, DJ Sundae and Emma DJ and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
 
@@ -22,4 +22,4 @@ Le Poisson Volant is a music venue in Paris listed on soundcheck. 9 upcoming gig
 
 5 Rue Marguerite Moret, 75011 Paris, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*

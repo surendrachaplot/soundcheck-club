@@ -1,6 +1,6 @@
 # Rose Kourts
 
-Rose Kourts is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
+Rose Kourts is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
 Rose Kourts is a house and techno artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 10 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
@@ -29,4 +29,4 @@ Rose Kourts is a house and techno artist based in United States of America, with
 
 Miss Alicia, Devoye, Analog Soul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*

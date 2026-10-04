@@ -1,6 +1,6 @@
 # esme2k
 
-esme2k is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Handlebar, Toronto on Fri, 23 Oct 2026.
+esme2k is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Handlebar, Toronto on Fri, 23 Oct 2026.
 
 esme2k is a club and ghetto tech artist based in Canada, with 18 gigs on soundcheck across Berlin, Montreal, New York City and Paris and 2 more. Often billed alongside scoodt, boy_c0ded and Traps N Trees. Next up: Handlebar, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ esme2k is a club and ghetto tech artist based in Canada, with 18 gigs on soundch
 
 scoodt, boy_c0ded, Traps N Trees
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme2k/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme2k/)*

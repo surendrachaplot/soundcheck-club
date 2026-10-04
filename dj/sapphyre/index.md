@@ -1,6 +1,6 @@
 # Sapphyre
 
-Sapphyre is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
+Sapphyre is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
 
 Sapphyre is a techno and electro artist, with 43 gigs on soundcheck across Detroit and New York City. Often billed alongside Auntie Chanel, Cherriel and Duck Trash. Next up: Jade, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sapphyre is a techno and electro artist, with 43 gigs on soundcheck across Detro
 
 Auntie Chanel, Cherriel, Duck Trash
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapphyre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapphyre/)*

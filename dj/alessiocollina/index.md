@@ -1,6 +1,6 @@
 # Alessio Collina
 
-Alessio Collina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Mon, 19 Oct 2026.
+Alessio Collina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Mon, 19 Oct 2026.
 
 Alessio Collina is a house and techno artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin, London and Milan and 2 more. Often billed alongside DJ Rou, Brine and Brizman. Next up: KitKatClub, Berlin on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Alessio Collina is a house and techno artist based in Italy, with 11 gigs on sou
 
 DJ Rou, Brine, Brizman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*

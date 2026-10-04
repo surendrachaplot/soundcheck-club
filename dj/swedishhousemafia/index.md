@@ -1,6 +1,6 @@
 # Swedish House Mafia
 
-Swedish House Mafia is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Swedish House Mafia is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Swedish House Mafia is a house and progressive house artist based in Sweden, with 29 gigs on soundcheck across Buenos Aires, Ibiza, London and Madrid and 4 more. Often billed alongside AMÉMÉ, Arielle Free and Ben Sterling. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Swedish House Mafia is a house and progressive house artist based in Sweden, wit
 
 AMÉMÉ, Arielle Free, Ben Sterling
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*

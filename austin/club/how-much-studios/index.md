@@ -1,6 +1,6 @@
 # How Much Studios
 
-How Much Studios is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Flowers" on Sat, 24 Oct 2026.
+How Much Studios is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Flowers" on Sat, 24 Oct 2026.
 
 How Much Studios is a music venue in Austin listed on soundcheck. 2 upcoming gigs, with line-ups including Cuillere and Demarkus Lewis. See dates, start times and who's playing. 6910 Shirley Ave Suite L, Austin, TX 78752.
 
@@ -15,4 +15,4 @@ How Much Studios is a music venue in Austin listed on soundcheck. 2 upcoming gig
 
 6910 Shirley Ave Suite L, Austin, TX 78752, Austin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/how-much-studios/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/how-much-studios/)*

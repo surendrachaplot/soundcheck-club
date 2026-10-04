@@ -1,6 +1,6 @@
 # &RY.
 
-&RY. is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri, 9 Oct 2026.
+&RY. is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri, 9 Oct 2026.
 
 &RY. is a house and electronica artist, with 14 gigs on soundcheck across Brussels. Often billed alongside Floèmee, His dudeness and Athenaïs. Next up: TBA - Espace Vanhomwegen, Rue de Russie 31, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@
 
 Floèmee, His dudeness, Athenaïs
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ry-be/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ry-be/)*

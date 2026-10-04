@@ -1,6 +1,6 @@
 # DJ Marviosi
 
-DJ Marviosi is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
+DJ Marviosi is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
 
 DJ Marviosi is a techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Blachord, beta_phase and LilaLuci. Next up: TBA - warehouse, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Marviosi is a techno artist based in Germany, with 11 gigs on soundcheck acro
 
 Blachord, beta_phase, LilaLuci
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarviosi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarviosi/)*

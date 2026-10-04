@@ -1,6 +1,6 @@
 # The Timber Yard
 
-The Timber Yard is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "30 Years of Chicane, Australian National Tour - Melbourne" on Sat, 6 Feb 2027.
+The Timber Yard is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "30 Years of Chicane, Australian National Tour - Melbourne" on Sat, 6 Feb 2027.
 
 The Timber Yard is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Anthony Pappa, Chicane, Robbie Lowe and Sasha & John Digweed. See dates, start times and who's playing. 351 Plummer Street, Port Melbourne, Victoria 3207.
 
@@ -15,4 +15,4 @@ The Timber Yard is a music venue in Melbourne listed on soundcheck. 2 upcoming g
 
 351 Plummer Street, Port Melbourne, Victoria 3207, Melbourne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*

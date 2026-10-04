@@ -1,6 +1,6 @@
 # pudding
 
-pudding is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+pudding is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
 
 pudding is a minimal and techno artist based in Australia, with 6 gigs on soundcheck across Brisbane. Often billed alongside creasedvenetian, Foxtrot and Luca Dioguardi. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ pudding is a minimal and techno artist based in Australia, with 6 gigs on soundc
 
 creasedvenetian, Foxtrot (2), Luca Dioguardi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pudding/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pudding/)*

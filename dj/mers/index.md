@@ -1,6 +1,6 @@
 # MERS
 
-MERS is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vertigo, Toronto on Fri, 2 Oct 2026.
+MERS is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vertigo, Toronto on Fri, 2 Oct 2026.
 
 MERS is a tech house and techno artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Addy, Kiinjo and Nambeh. Next up: Vertigo, Toronto on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ MERS is a tech house and techno artist based in Canada, with 3 gigs on soundchec
 
 Addy, Kiinjo, Nambeh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*

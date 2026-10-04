@@ -1,6 +1,6 @@
 # Tom Schön
 
-Tom Schön is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Tom Schön is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Tom Schön is a techno and tech house artist based in Germany, with 32 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Flo Circus, Wir & Beide and Swen Baez. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tom Schön is a techno and tech house artist based in Germany, with 32 gigs on s
 
 Flo Circus, Wir & Beide, Swen Baez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomschon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomschon/)*

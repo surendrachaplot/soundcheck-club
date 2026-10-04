@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TEMET X FATA MORGANA (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 3 Oct 2026.
+La Station - Gare des Mines is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TEMET X FATA MORGANA (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 3 Oct 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including 300SkullsAndCounting, A.Litique, Amnesia Scanner and Claude Murder and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

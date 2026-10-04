@@ -1,6 +1,6 @@
 # Death on the Balcony
 
-Death on the Balcony is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
+Death on the Balcony is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Tue, 6 Oct 2026.
 
 Death on the Balcony is a house and deep house artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Chicago, Leeds and London and 5 more. Often billed alongside Dastan, Surreal Flight and Alinka. Next up: Macarena Club, Barcelona on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Death on the Balcony is a house and deep house artist based in United Kingdom, w
 
 Dastan, Surreal Flight, Alinka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deathonthebalcony/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deathonthebalcony/)*

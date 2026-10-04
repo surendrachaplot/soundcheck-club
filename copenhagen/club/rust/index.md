@@ -1,6 +1,6 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "DJ Krush (JP) // RUST" on Thu, 29 Oct 2026.
+RUST is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DJ Krush (JP) // RUST" on Thu, 29 Oct 2026.
 
 RUST is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Anton Goltermann, DJ Krush and Virtual Jasper. See dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
@@ -17,4 +17,4 @@ RUST is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with 
 
 Guldbergsgade 8, 2200 København N, Copenhagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*

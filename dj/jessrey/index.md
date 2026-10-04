@@ -1,6 +1,6 @@
 # JessRey
 
-JessRey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lieberscholli, Munich on Sat, 24 Oct 2026.
+JessRey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lieberscholli, Munich on Sat, 24 Oct 2026.
 
 JessRey is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Rad.Lez, Lazykid and Roshan (DE). Next up: Lieberscholli, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ JessRey is a techno and house artist based in Germany, with 51 gigs on soundchec
 
 Rad.Lez, Lazykid, Roshan (DE)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessrey/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessrey/)*

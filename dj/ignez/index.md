@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
+Ignez is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: E1, London on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Ignez is a techno and house artist based in Netherlands, with 200 gigs on soundc
 
 ## Recently played
 
+- E1, London · Sat, 3 Oct 2026
 - Nitsa Club, Barcelona · Fri, 2 Oct 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 - Stereo, Montreal · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Ignez is a techno and house artist based in Netherlands, with 200 gigs on soundc
 - Amp, Munster · Sat, 19 Sept 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
 - BASIS, Utrecht · Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Yanamaste, Inox Traxx, Rødhåd
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

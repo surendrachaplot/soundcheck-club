@@ -1,6 +1,6 @@
 # zenwerk
 
-zenwerk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mastak, Warsaw on Sun, 4 Oct 2026.
+zenwerk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mastak, Warsaw on Sun, 4 Oct 2026.
 
 zenwerk is a tech house and house artist based in Poland, with 56 gigs on soundcheck across Krakow, Lisbon and Warsaw. Often billed alongside aist (LT), zuzaeksperyment and Helga. Next up: Mastak, Warsaw on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ zenwerk is a tech house and house artist based in Poland, with 56 gigs on soundc
 
 aist (LT), zuzaeksperyment, Helga
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*

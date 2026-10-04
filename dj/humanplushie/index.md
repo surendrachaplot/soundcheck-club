@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
+human plushie is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
 
 human plushie is a techno and trance artist based in United States of America, with 24 gigs on soundcheck across Boston, Nashville, Pennsylvania and Philadelphia and 2 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ human plushie is a techno and trance artist based in United States of America, w
 
 ## Recently played
 
+- TBA - Warehouse Location, Philadelphia · Sat, 3 Oct 2026
 - Ulana's, Philadelphia · Fri, 7 Aug 2026
 - TBA - Call Infoline for Secret Location, Boston · Fri, 7 Aug 2026
 - TBA - Secret warehouse location announced to ticket holders day of show or ask a local dj , Philadelphia · Fri, 17 Jul 2026
@@ -22,10 +23,9 @@ human plushie is a techno and trance artist based in United States of America, w
 - El Secreto De Rosita, Washington DC · Fri, 10 Jul 2026
 - TBA, Philadelphia · Sat, 4 Jul 2026
 - Umbria Arts, Philadelphia · Sat, 13 Jun 2026
-- The Sound Lounge at Percy, Philadelphia · Thu, 11 Jun 2026
 
 ## Shares bills with
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

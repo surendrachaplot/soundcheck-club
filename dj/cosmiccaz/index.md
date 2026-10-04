@@ -1,6 +1,6 @@
 # Cosmic Caz
 
-Cosmic Caz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vespers Club, London on Sat, 17 Oct 2026.
+Cosmic Caz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vespers Club, London on Sat, 17 Oct 2026.
 
 Cosmic Caz is a techno and trance artist based in United Kingdom, with 55 gigs on soundcheck across Brighton, Dublin, Kyoto and London and 3 more. Often billed alongside Melati, MileZ and TEDESCO. Next up: Vespers Club, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Cosmic Caz is a techno and trance artist based in United Kingdom, with 55 gigs o
 
 Melati, MileZ, TEDESCO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*

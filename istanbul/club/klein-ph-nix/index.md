@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Anfisa Letyago x Yanamaste – First Time Istanbul" on Sat, 3 Oct 2026.
+Klein Phönix is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Anfisa Letyago x Yanamaste – First Time Istanbul" on Sat, 3 Oct 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Anfisa Letyago, Avangart Tabldot, Black Batu and BUSSI and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -20,4 +20,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

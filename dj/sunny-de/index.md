@@ -1,6 +1,6 @@
 # Sunny (DE)
 
-Sunny (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+Sunny (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
 
 Sunny (DE) is a house and techno artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Budapest and Chicago and 5 more. Often billed alongside Anton Jonathan, Jean Mauj and LogicBeat. Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Sunny (DE) is a house and techno artist based in Germany, with 38 gigs on soundc
 
 ## Recently played
 
+- Zinkbad Eventhalle, Zurich · Sat, 3 Oct 2026
 - Fabrika, Budapest · Fri, 26 Jun 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 4 Apr 2026
 - Kater, Berlin · Sat, 12 Jul 2025
@@ -19,10 +20,9 @@ Sunny (DE) is a house and techno artist based in Germany, with 38 gigs on soundc
 - VENT, Tokyo · Sun, 12 Jan 2025
 - Ferropolis, Leipzig · Thu, 11 Jul 2024
 - Héloïse Green Area, Hamburg · Sat, 22 Jun 2024
-- Aoyama Hachi, Tokyo · Sun, 26 May 2024
 
 ## Shares bills with
 
 Anton Jonathan, Jean Mauj, LogicBeat
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunny-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunny-de/)*

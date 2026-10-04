@@ -1,6 +1,6 @@
 # Dorian Craft
 
-Dorian Craft is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
+Dorian Craft is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 Dorian Craft is a house and afro house artist based in France, with 41 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Bedouin, Birds of Mind and Baron. Next up: Hï Ibiza, Ibiza on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Dorian Craft is a house and afro house artist based in France, with 41 gigs on s
 
 ## Recently played
 
+- Hï Ibiza, Ibiza · Sat, 3 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 13 Sept 2026
 - Chinois Ibiza, Ibiza · Wed, 8 Jul 2026
 - Void Mykonos, Mykonos · Sun, 28 Jun 2026
@@ -20,10 +21,9 @@ Dorian Craft is a house and afro house artist based in France, with 41 gigs on s
 - Luz De Gas, Barcelona · Sat, 21 Feb 2026
 - Madarae San Francisco, San Francisco/Oakland · Sat, 24 Jan 2026
 - Loo Loo, Mexico City · Thu, 22 Jan 2026
-- Members, Los Angeles · Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Bedouin, Birds of Mind, Baron
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doriancraft/)*

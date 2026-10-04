@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nicole Moudaber (All Night Long - UK Premiere) Room 2: Claudio PRC" on Sat, 3 Oct 2026.
+E1 is a music venue in London with 43 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Nicole Moudaber (All Night Long - UK Premiere) Room 2: Claudio PRC" on Sat, 3 Oct 2026.
 
 E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

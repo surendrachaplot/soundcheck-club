@@ -1,6 +1,6 @@
 # Fibe
 
-Fibe is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+Fibe is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
 
 Fibe is a drum & bass and baile funk artist based in Germany, with 24 gigs on soundcheck across Hamburg. Often billed alongside Eightball, Sindicate and duaba. Next up: Fundbureau, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fibe is a drum & bass and baile funk artist based in Germany, with 24 gigs on so
 
 Eightball, Sindicate, duaba
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fibe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fibe/)*

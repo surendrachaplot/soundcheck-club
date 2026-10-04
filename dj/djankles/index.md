@@ -1,6 +1,6 @@
 # Dj Ankles
 
-Dj Ankles is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BARDO, Milan on Sat, 10 Oct 2026.
+Dj Ankles is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BARDO, Milan on Sat, 10 Oct 2026.
 
 Dj Ankles is a drum & bass and dubstep artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Milan and Rome and 1 more. Often billed alongside Bulma Brief, Achieh and Aeery. Next up: BARDO, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dj Ankles is a drum & bass and dubstep artist, with 9 gigs on soundcheck across 
 
 Bulma Brief, Achieh, Aeery
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djankles/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djankles/)*

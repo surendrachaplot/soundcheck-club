@@ -1,6 +1,6 @@
 # Dank
 
-Dank is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
+Dank is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
 
 Dank is a techno and drum & bass artist, with 5 gigs on soundcheck across Berlin, New York City and Sydney. Often billed alongside Lenny Dee, A.D.H.S. and A.N.I.. Next up: 20 Meadow, New York City on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Dank is a techno and drum & bass artist, with 5 gigs on soundcheck across Berlin
 
 Lenny Dee, A.D.H.S., A.N.I.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dank/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dank/)*

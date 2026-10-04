@@ -1,6 +1,6 @@
 # Klub 20/44
 
-Klub 20/44 is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CLUB 2099: Deffinitely not a halloween" on Sat, 10 Oct 2026.
+Klub 20/44 is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CLUB 2099: Deffinitely not a halloween" on Sat, 10 Oct 2026.
 
 Klub 20/44 is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Derrick May and Shimeon. See dates, start times and who's playing. Karađorđeva 44 Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Klub 20/44 is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, w
 
 Karađorđeva 44 Belgrade, Serbia, Belgrade
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-20-44/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-20-44/)*

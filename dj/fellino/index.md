@@ -1,6 +1,6 @@
 # Fellino
 
-Fellino is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
+Fellino is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
 
 Fellino is an acid and techno artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside JvggedDoggie, Pulpix and Alviker. Next up: Hangar48 Club, Madrid on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Fellino is an acid and techno artist based in Spain, with 6 gigs on soundcheck a
 
 JvggedDoggie, Pulpix, Alviker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fellino/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fellino/)*

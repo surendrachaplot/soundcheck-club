@@ -1,6 +1,6 @@
 # Yao Yao
 
-Yao Yao is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
+Yao Yao is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
 
 Yao Yao is a house and electro artist based in Canada, with 14 gigs on soundcheck across Toronto. Often billed alongside HYMZ, Thanks for the Tears and Vertigeux. Next up: Osler Records, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yao Yao is a house and electro artist based in Canada, with 14 gigs on soundchec
 
 HYMZ, Thanks for the Tears, Vertigeux
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*

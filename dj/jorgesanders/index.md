@@ -1,6 +1,6 @@
 # Jorge Sanders
 
-Jorge Sanders is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Jorge Sanders is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Jorge Sanders is a techno and minimal techno artist based in United States of America, with 6 gigs on soundcheck across New York City and Washington DC. Often billed alongside Anthorp, Megan Rosengarten and saintsteph4nie. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Jorge Sanders is a techno and minimal techno artist based in United States of Am
 
 Anthorp, Megan Rosengarten, saintsteph4nie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesanders/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesanders/)*

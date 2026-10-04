@@ -1,6 +1,6 @@
 # The Steamworks
 
-The Steamworks is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Big Fish Little Fish SHEFFIELD Halloween family rave! Sat 31st Oct 4-6pm" on Sat, 31 Oct 2026.
+The Steamworks is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Big Fish Little Fish SHEFFIELD Halloween family rave! Sat 31st Oct 4-6pm" on Sat, 31 Oct 2026.
 
 The Steamworks is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 109-111 Randall St, Highfield, Sheffield S2 4SJ.
 
@@ -14,4 +14,4 @@ The Steamworks is a music venue in Sheffield listed on soundcheck. 1 upcoming gi
 
 109-111 Randall St, Highfield, Sheffield S2 4SJ, Sheffield
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-steamworks/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-steamworks/)*

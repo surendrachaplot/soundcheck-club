@@ -1,6 +1,6 @@
 # Jessica Kert
 
-Jessica Kert is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+Jessica Kert is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Jessica Kert is a techno and minimal techno artist based in Germany, with 20 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Dshanna, Katharina Bévand and 3rd Party Influence. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jessica Kert is a techno and minimal techno artist based in Germany, with 20 gig
 
 Dshanna, Katharina Bévand, 3rd Party Influence
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicakert/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicakert/)*

@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PROTEGO x kerakai presents AERAE and Ocyra" on Fri, 9 Oct 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PROTEGO x kerakai presents AERAE and Ocyra" on Fri, 9 Oct 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including AERAE, Aiko Inoue, Astma and CHIDA and 2 more. See dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -16,4 +16,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, w
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

@@ -1,6 +1,6 @@
 # Joeski
 
-Joeski is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
+Joeski is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
 
 Joeski is a house and afro house artist, with 59 gigs on soundcheck across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Joeski, DJ Chus and Black Coffee. Next up: 20 Meadow, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Joeski is a house and afro house artist, with 59 gigs on soundcheck across Austi
 
 DJ Joeski, DJ Chus, Black Coffee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*

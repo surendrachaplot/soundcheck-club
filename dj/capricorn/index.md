@@ -1,6 +1,6 @@
 # Capricorn
 
-Capricorn is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
+Capricorn is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
 
 Capricorn is an experimental and club artist based in Ireland, with 11 gigs on soundcheck across Cork, Dublin, London and Paris. Often billed alongside sean pain, Plesk Parallel and Lokey. Next up: Vespers Club, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Capricorn is an experimental and club artist based in Ireland, with 11 gigs on s
 
 sean pain, Plesk Parallel, Lokey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capricorn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capricorn/)*

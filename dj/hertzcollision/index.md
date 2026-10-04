@@ -1,6 +1,6 @@
 # Hertz Collision
 
-Hertz Collision is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SMUT Athens, Athens on Sat, 3 Oct 2026.
+Hertz Collision is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SMUT Athens, Athens on Sat, 3 Oct 2026.
 
 Hertz Collision is a techno and acid artist based in Italy, with 28 gigs on soundcheck across Athens, Berlin, London and Los Angeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: SMUT Athens, Athens on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ Hertz Collision is a techno and acid artist based in Italy, with 28 gigs on soun
 
 ## Recently played
 
+- SMUT Athens, Athens · Sat, 3 Oct 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 27 Jun 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 11 Apr 2026
 - Bunker, Turin · Fri, 6 Mar 2026
@@ -22,10 +23,9 @@ Hertz Collision is a techno and acid artist based in Italy, with 28 gigs on soun
 - OXI, Berlin · Sat, 8 Nov 2025
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 11 Oct 2025
 - TBA - Los Angeles, Los Angeles · Sat, 26 Jul 2025
-- Stereo, Montreal · Fri, 25 Jul 2025
 
 ## Shares bills with
 
 ARMANDO, IKIIR, Truncate
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*

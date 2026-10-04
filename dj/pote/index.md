@@ -1,6 +1,6 @@
 # Poté
 
-Poté is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Djoon, Paris on Sat, 3 Oct 2026.
+Poté is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Djoon, Paris on Sat, 3 Oct 2026.
 
 Poté is a house and techno artist, with 16 gigs on soundcheck across London, Lyon, Mexico City and Paris. Often billed alongside Bonobo, DJ Gigola and Fakear. Next up: Djoon, Paris on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Poté is a house and techno artist, with 16 gigs on soundcheck across London, Ly
 
 ## Recently played
 
+- Djoon, Paris · Sat, 3 Oct 2026
 - La Station - Gare des Mines, Paris · Thu, 30 Apr 2026
 - Silencio, Paris · Fri, 5 Sept 2025
 - XOYO, London · Sat, 29 Mar 2025
@@ -19,10 +20,9 @@ Poté is a house and techno artist, with 16 gigs on soundcheck across London, Ly
 - TBA - Place Bellecour, Lyon · Tue, 7 May 2024
 - Badaboum, Paris · Fri, 22 Mar 2024
 - Sunday Sunday, Mexico City · Sat, 24 Feb 2024
-- TBA - Las Estacas, Mexico City · Fri, 16 Feb 2024
 
 ## Shares bills with
 
 Bonobo, DJ Gigola, Fakear
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pote/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pote/)*

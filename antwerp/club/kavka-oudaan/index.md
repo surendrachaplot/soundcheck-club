@@ -1,6 +1,6 @@
 # Kavka Oudaan
 
-Kavka Oudaan is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HOUSE2BOUNCE // BISOUX, BILLY, JIPSEY, Lorri Rose" on Sat, 3 Oct 2026.
+Kavka Oudaan is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HOUSE2BOUNCE // BISOUX, BILLY, JIPSEY, Lorri Rose" on Sat, 3 Oct 2026.
 
 Kavka Oudaan is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, with line-ups including BILLY, BISOUX, Forbidden Fruit and Gabriel Muñoz and 2 more. See dates, start times and who's playing. Oudaan 14; 2000 Antwerpen; Belgium.
 
@@ -16,4 +16,4 @@ Kavka Oudaan is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, 
 
 Oudaan 14; 2000 Antwerpen; Belgium, Antwerp
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kavka-oudaan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kavka-oudaan/)*

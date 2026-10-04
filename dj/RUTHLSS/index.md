@@ -1,6 +1,6 @@
 # Ruthlss
 
-Ruthlss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Ruthlss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
 Ruthlss is a techno and house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Berlin, Brighton and Edinburgh and 1 more. Often billed alongside Michelle Manetti, Polyamoross and Ross From Friends. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ruthlss is a techno and house artist based in United Kingdom, with 34 gigs on so
 
 Michelle Manetti, Polyamoross, Ross From Friends
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/RUTHLSS/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/RUTHLSS/)*

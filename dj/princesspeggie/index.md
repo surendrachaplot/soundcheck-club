@@ -1,6 +1,6 @@
 # Princess Peggie
 
-Princess Peggie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Animal, New York City on Sun, 4 Oct 2026.
+Princess Peggie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Animal, New York City on Sun, 4 Oct 2026.
 
 Princess Peggie is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Miami and New York City. Often billed alongside Miss Parker, DAIYAH and Byrell The Great. Next up: Animal, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Princess Peggie is a techno and house artist based in United States of America, 
 
 Miss Parker, DAIYAH, Byrell The Great
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesspeggie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesspeggie/)*

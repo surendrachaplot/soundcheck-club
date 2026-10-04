@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Stephan Jolk" on Wed, 7 Oct 2026.
+Zumana Bali is a music venue in Bali with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Stephan Jolk" on Wed, 7 Oct 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 16 upcoming gigs, with line-ups including Artbat, Argy, Colyn and Damian Lazarus and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 16 upcoming gigs, wit
 | Wed, 11 Nov 2026 | Tayllor |  |
 | Fri, 13 Nov 2026 | Lee Burridge | Lee Burridge |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

@@ -1,6 +1,6 @@
 # Illich Mujica
 
-Illich Mujica is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 30 Oct 2026.
+Illich Mujica is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Illich Mujica is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside 2melo, Armen Miran and CEEJ. Next up: Napa Music Hall, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Illich Mujica is a house and deep house artist based in United States of America
 
 2melo, Armen Miran, CEEJ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*

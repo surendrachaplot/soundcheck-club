@@ -1,6 +1,6 @@
 # Marta Paradise
 
-Marta Paradise is a Italo Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Zamora las acenas de cabanales, Madrid on Sat, 3 Oct 2026.
+Marta Paradise is a Italo Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Zamora las acenas de cabanales, Madrid on Sat, 3 Oct 2026.
 
 Marta Paradise is an italo disco and electronica artist based in Italy, with 7 gigs on soundcheck across Berlin, Madrid and Rome. Often billed alongside Bordello Soundsystem, Franz Scala and Giulia Gutterer. Next up: TBA - Zamora las acenas de cabanales, Madrid on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Marta Paradise is an italo disco and electronica artist based in Italy, with 7 g
 
 ## Recently played
 
+- TBA - Zamora las acenas de cabanales, Madrid · Sat, 3 Oct 2026
 - Spazio Cavea, Rome · Sun, 27 Sept 2026
 - Trenta Formiche, Rome · Fri, 13 Mar 2026
 - Urban Spree, Berlin · Fri, 30 May 2025
@@ -23,4 +24,4 @@ Marta Paradise is an italo disco and electronica artist based in Italy, with 7 g
 
 Bordello Soundsystem, Franz Scala, Giulia Gutterer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaparadise/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaparadise/)*

@@ -1,6 +1,6 @@
 # TBA - Wollongong CBD
 
-TBA - Wollongong CBD is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "FUGITIVE PRES. DJ SWISHERMAN" on Sun, 4 Oct 2026.
+TBA - Wollongong CBD is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "FUGITIVE PRES. DJ SWISHERMAN" on Sun, 4 Oct 2026.
 
 TBA - Wollongong CBD is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including DJ SWISHERMAN. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Wollongong CBD is a music venue in Sydney listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | FUGITIVE PRES. DJ SWISHERMAN | DJ SWISHERMAN |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-wollongong-cbd/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-wollongong-cbd/)*

@@ -1,6 +1,6 @@
 # DJ FM & DJ FREUND
 
-DJ FM & DJ FREUND is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unter Deck, Munich on Tue, 6 Oct 2026.
+DJ FM & DJ FREUND is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Unter Deck, Munich on Tue, 6 Oct 2026.
 
 DJ FM & DJ FREUND are a techno and house duo based in Germany, with 77 gigs on soundcheck across Munich. Often billed alongside Safahs, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Unter Deck, Munich on Tue 6 Oct.
 
@@ -29,4 +29,4 @@ DJ FM & DJ FREUND are a techno and house duo based in Germany, with 77 gigs on s
 
 Safahs, Die Tektonische Plattenverschiebung, Kim_Twiddle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfmdjfreund/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfmdjfreund/)*

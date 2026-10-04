@@ -1,6 +1,6 @@
 # 288 Green St
 
-288 Green St is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "hard-coord" on Sat, 24 Oct 2026.
+288 Green St is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "hard-coord" on Sat, 24 Oct 2026.
 
 288 Green St is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 288 Green St, Cambridge, MA, 02139.
 
@@ -14,4 +14,4 @@
 
 288 Green St, Cambridge, MA, 02139, Boston
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/288-green-st/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/288-green-st/)*

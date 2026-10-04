@@ -1,6 +1,6 @@
 # LUNA.le
 
-LUNA.le is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
+LUNA.le is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
 
 LUNA.le is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Leipzig. Often billed alongside adamoandiamo, Aset and Ben Derris. Next up: Neue Welle, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LUNA.le is a trance and techno artist based in Germany, with 14 gigs on soundche
 
 adamoandiamo, Aset, Ben Derris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna.le/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna.le/)*

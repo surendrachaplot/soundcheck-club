@@ -1,6 +1,6 @@
 # Sumgii
 
-Sumgii is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dom Technika, Poznan on Sat, 10 Oct 2026.
+Sumgii is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dom Technika, Poznan on Sat, 10 Oct 2026.
 
 Sumgii is a bass and dubstep artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Hong Kong, London and Manchester and 1 more. Often billed alongside Matt Frost, Dolenz and Deft. Next up: Dom Technika, Poznan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sumgii is a bass and dubstep artist based in United Kingdom, with 27 gigs on sou
 
 Matt Frost, Dolenz, Deft
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumgii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumgii/)*

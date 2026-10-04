@@ -1,6 +1,6 @@
 # Golpe
 
-Golpe is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Groove, Madrid on Sat, 3 Oct 2026.
+Golpe is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Groove, Madrid on Sat, 3 Oct 2026.
 
 Golpe is a techno and trance artist based in Czech Republic, with 43 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 13 more. Often billed alongside RiVid, Svetec and ViperXXL. Next up: Sala Groove, Madrid on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Golpe is a techno and trance artist based in Czech Republic, with 43 gigs on sou
 
 ## Recently played
 
+- Sala Groove, Madrid · Sat, 3 Oct 2026
 - Das Werk, Vienna · Fri, 2 Oct 2026
 - Bootshaus, Cologne · Sat, 26 Sept 2026
 - Bootshaus, Cologne · Sat, 26 Sept 2026
@@ -24,10 +25,9 @@ Golpe is a techno and trance artist based in Czech Republic, with 43 gigs on sou
 - Sky Lounge 360, Prague · Sat, 29 Aug 2026
 - Das Werk, Vienna · Fri, 28 Aug 2026
 - Mecca, Prague · Sat, 18 Jul 2026
-- Das Werk, Vienna · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 RiVid, Svetec, ViperXXL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

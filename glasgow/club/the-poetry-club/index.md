@@ -1,6 +1,6 @@
 # The Poetry Club
 
-The Poetry Club is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Noise Complaint! 006" on Sat, 17 Oct 2026.
+The Poetry Club is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Noise Complaint! 006" on Sat, 17 Oct 2026.
 
 The Poetry Club is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Danyo, Et Al, HUNTRESS and saparilla and 1 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -17,4 +17,4 @@ The Poetry Club is a music venue in Glasgow listed on soundcheck. 4 upcoming gig
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*

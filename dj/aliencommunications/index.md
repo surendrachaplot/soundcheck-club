@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
+Alien Communications is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Gaffe, London on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, Domenic Cappello
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

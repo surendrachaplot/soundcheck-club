@@ -1,6 +1,6 @@
 # RenzNiro
 
-RenzNiro is a Experimental and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
+RenzNiro is a Experimental and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
 
 RenzNiro is an experimental and grime artist, with 19 gigs on soundcheck across Berlin, Brussels, Copenhagen and London and 3 more. Often billed alongside Chunky, Ship Sket and iced lattina. Next up: Soup, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ RenzNiro is an experimental and grime artist, with 19 gigs on soundcheck across 
 
 Chunky, Ship Sket, iced lattina
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*

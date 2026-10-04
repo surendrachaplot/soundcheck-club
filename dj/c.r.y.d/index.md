@@ -1,6 +1,6 @@
 # C.R.Y.D
 
-C.R.Y.D is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
+C.R.Y.D is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
 
 C.R.Y.D is a techno and electronica artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside KTV (ES), Crissis and Groof. Next up: Lasociaciøn, Madrid on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ C.R.Y.D is a techno and electronica artist based in Spain, with 5 gigs on soundc
 
 KTV (ES), Crissis, Groof
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.r.y.d/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.r.y.d/)*

@@ -1,6 +1,6 @@
 # NEXCYIA
 
-NEXCYIA is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 17 Oct 2026.
+NEXCYIA is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 17 Oct 2026.
 
 NEXCYIA is an ambient and experimental artist based in France, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside mu tate, Softmatter and bod [包家巷]. Next up: Beursschouwburg, Brussels on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ NEXCYIA is an ambient and experimental artist based in France, with 34 gigs on s
 
 mu tate, Softmatter, bod [包家巷]
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nexcyia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nexcyia/)*

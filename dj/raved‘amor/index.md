@@ -1,6 +1,6 @@
 # Rave d‘Amor
 
-Rave d‘Amor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Rave d‘Amor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 Rave d‘Amor is a house and techno artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Adri Tüde, Agustin Giri and Alicia Hahn. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -15,4 +15,4 @@ Rave d‘Amor is a house and techno artist based in Germany, with 2 gigs on soun
 
 Adri Tüde, Agustin Giri, Alicia Hahn
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raved‘amor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raved‘amor/)*

@@ -1,6 +1,6 @@
 # phanom
 
-phanom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
+phanom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Salon, Amsterdam on Sat, 3 Oct 2026.
 
 phanom is a techno and electro artist based in Belgium, with 43 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Hadone, A. Brehme and Altinbas. Next up: Het Salon, Amsterdam on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ phanom is a techno and electro artist based in Belgium, with 43 gigs on soundche
 
 ## Recently played
 
+- Het Salon, Amsterdam · Sat, 3 Oct 2026
 - Garage Noord, Amsterdam · Sat, 20 Dec 2025
 - Le Sample, Paris · Fri, 21 Nov 2025
 - Illegaal, Brussels · Sat, 1 Nov 2025
@@ -19,10 +20,9 @@ phanom is a techno and electro artist based in Belgium, with 43 gigs on soundche
 - C12, Brussels · Sat, 30 Aug 2025
 - Saintklet, Brussels · Sat, 23 Aug 2025
 - Fuse, Brussels · Sat, 5 Jul 2025
-- Fuse, Brussels · Sat, 5 Jul 2025
 
 ## Shares bills with
 
 Hadone, A. Brehme, Altinbas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phanom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phanom/)*

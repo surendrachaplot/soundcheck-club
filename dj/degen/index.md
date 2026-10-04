@@ -1,6 +1,6 @@
 # degen
 
-degen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
+degen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
 
 degen is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Dreimal T, mole and Zarling. Next up: Tresor / Globus, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ degen is a techno and house artist based in Germany, with 38 gigs on soundcheck 
 
 Dreimal T, mole (2), Zarling
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*

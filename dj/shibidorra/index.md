@@ -1,6 +1,6 @@
 # ShibiDorra
 
-ShibiDorra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 4 Oct 2026.
+ShibiDorra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 4 Oct 2026.
 
 ShibiDorra is a techno and electronica artist, with 14 gigs on soundcheck across Belgrade and Zurich. Often billed alongside Emma H, vagabond and .Paragon. Next up: Para Klub Beograd, Belgrade on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ ShibiDorra is a techno and electronica artist, with 14 gigs on soundcheck across
 
 Emma H, vagabond, .Paragon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shibidorra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shibidorra/)*

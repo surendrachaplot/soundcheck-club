@@ -1,6 +1,6 @@
 # µ-Ziq
 
-µ-Ziq is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+µ-Ziq is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 µ-Ziq is an acid and techno artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside upsammy, Meemo Comma and Slikback. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -26,4 +26,4 @@
 
 upsammy, Meemo Comma, Slikback
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-ziq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-ziq/)*

@@ -1,6 +1,6 @@
 # Three6sashia
 
-Three6sashia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
+Three6sashia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Three6sashia is a house and techno artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Spiñorita, Brown Amy and Byron Yeates. Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Three6sashia is a house and techno artist based in United States of America, wit
 
 Spiñorita, Brown Amy, Byron Yeates
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*

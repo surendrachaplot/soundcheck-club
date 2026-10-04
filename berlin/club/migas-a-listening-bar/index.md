@@ -1,14 +1,13 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Davin Underwood plays at migas" on Sat, 3 Oct 2026.
+migas, a listening bar is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Gaia Banfi & rehhll play at migas" on Thu, 8 Oct 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Davin Underwood, DJ Emma G and Holten. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Emma G and Holten. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Davin Underwood plays at migas | Davin Underwood |
 | Thu, 8 Oct 2026 | Gaia Banfi & rehhll play at migas |  |
 | Fri, 9 Oct 2026 | Zen plays at migas |  |
 | Sat, 10 Oct 2026 | Emma G plays at migas | DJ Emma G |
@@ -23,4 +22,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 10 upcom
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

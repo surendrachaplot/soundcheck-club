@@ -1,6 +1,6 @@
 # Elliot Moriarty
 
-Elliot Moriarty is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Elliot Moriarty is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 Elliot Moriarty is a progressive house and deep house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Budapest, Chicago and Copenhagen and 4 more. Often billed alongside Arterapsy, Cris-H and Harry Wilson. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Elliot Moriarty is a progressive house and deep house artist based in United Kin
 
 Arterapsy, Cris-H, Harry Wilson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmoriarty/)*

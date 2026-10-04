@@ -1,6 +1,6 @@
 # Joey (2)
 
-Joey (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Werk, Vienna on Fri, 13 Nov 2026.
+Joey (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Das Werk, Vienna on Fri, 13 Nov 2026.
 
 Joey is a techno and trance artist based in Austria, with 124 gigs on soundcheck across Berlin, Leeds, Lisbon and Nürnberg and 2 more. Often billed alongside Crystal O, KILIÅN and LOUISA INDIA. Next up: Das Werk, Vienna on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Joey is a techno and trance artist based in Austria, with 124 gigs on soundcheck
 
 Crystal O, KILIÅN, LOUISA INDIA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joey-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joey-2/)*

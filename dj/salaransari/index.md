@@ -1,6 +1,6 @@
 # Salar Ansari
 
-Salar Ansari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
+Salar Ansari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
 
 Salar Ansari is a house and techno artist based in Iran, with 79 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 9 more. Often billed alongside Shigeto, Aboudi Issa and O.BEE. Next up: Salon Daomé, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Salar Ansari is a house and techno artist based in Iran, with 79 gigs on soundch
 
 Shigeto, Aboudi Issa, O.BEE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salaransari/)*

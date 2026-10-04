@@ -1,6 +1,6 @@
 # Frida(y)
 
-Frida(y) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
+Frida(y) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
 Frida(y) is a techno and house artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Anna Logic, Entree and Shaan. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Frida(y) is a techno and house artist based in Denmark, with 8 gigs on soundchec
 
 Anna Logic, Entree, Shaan (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-dk/)*

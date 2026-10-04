@@ -1,6 +1,6 @@
 # BABYNYMPH777
 
-BABYNYMPH777 is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
+BABYNYMPH777 is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
 
 BABYNYMPH777 is a club and electro artist, with 13 gigs on soundcheck across Amsterdam, Athens, Berlin and Lisbon and 1 more. Often billed alongside Porschelane, Lil Autotune and Nyennea. Next up: Studio1111, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BABYNYMPH777 is a club and electro artist, with 13 gigs on soundcheck across Ams
 
 Porschelane, Lil Autotune, Nyennea
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babynymph777/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babynymph777/)*

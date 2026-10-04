@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bikini Club, Barcelona on Fri, 9 Oct 2026.
+Mganz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bikini Club, Barcelona on Fri, 9 Oct 2026.
 
 Mganz is a house and electronica artist based in Spain, with 27 gigs on soundcheck across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Frucula. Next up: Bikini Club, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mganz is a house and electronica artist based in Spain, with 27 gigs on soundche
 
 juliboe, DC81, Frucula
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

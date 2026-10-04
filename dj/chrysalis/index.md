@@ -1,6 +1,6 @@
 # CHRYSALIS
 
-CHRYSALIS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+CHRYSALIS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 CHRYSALIS is a club and house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Cquestt, Alxander Ivey and Silhouwet. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ CHRYSALIS is a club and house artist based in United States of America, with 50 
 
 Cquestt, Alxander Ivey, Silhouwet
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrysalis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrysalis/)*

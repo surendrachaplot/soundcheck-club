@@ -1,6 +1,6 @@
 # Stan Starry
 
-Stan Starry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Stan Starry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Stan Starry is a house and techno artist based in Germany, with 54 gigs on soundcheck across Berlin, Cologne, Hamburg and Montreal and 1 more. Often billed alongside Mona Moore, justUS and Empro. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Stan Starry is a house and techno artist based in Germany, with 54 gigs on sound
 
 Mona Moore, justUS, Empro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanstarry/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanstarry/)*

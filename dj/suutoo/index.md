@@ -1,6 +1,6 @@
 # Suutoo
 
-Suutoo is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
+Suutoo is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hexagon Brussels, Brussels on Fri, 16 Oct 2026.
 
 Suutoo is an experimental and club artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Berlin, Brussels and Central and 7 more. Often billed alongside Manuka Honey, Mobilegirl and Crystallmess. Next up: Hexagon Brussels, Brussels on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Suutoo is an experimental and club artist based in United Kingdom, with 30 gigs 
 
 Manuka Honey, Mobilegirl, Crystallmess
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suutoo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suutoo/)*

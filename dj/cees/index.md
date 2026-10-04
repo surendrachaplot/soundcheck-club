@@ -1,6 +1,6 @@
 # Cees
 
-Cees is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chin Chin Club, Amsterdam on Fri, 23 Oct 2026.
+Cees is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chin Chin Club, Amsterdam on Fri, 23 Oct 2026.
 
 Cees is a house and afro house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Basel, Berlin and Copenhagen and 4 more. Often billed alongside LevyM, David Mackay and SHANNIN. Next up: Chin Chin Club, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Cees is a house and afro house artist based in Netherlands, with 20 gigs on soun
 
 LevyM, David Mackay, SHANNIN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*

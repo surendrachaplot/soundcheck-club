@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien" on Sat, 3 Oct 2026.
+Das Werk is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien" on Sat, 3 Oct 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Albin Brezlan, Crystal O, DJ Achim Feuervogel and ESCA and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -20,4 +20,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

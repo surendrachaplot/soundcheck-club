@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Seth Troxler is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -9,7 +9,6 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
-| Sat, 3 Oct 2026 | Ironworks | London |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,20 +19,21 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
+| Fri, 27 Nov 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
+- Ironworks, London · Sat, 3 Oct 2026
 - T7 Paris, Paris · Fri, 2 Oct 2026
 - TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
 - Volt Club Milano, Milan · Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
 - Sophie Festival, Malaga · Sat, 19 Sept 2026
-- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
-- NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,14 +1,15 @@
 # Pablo Valentino
 
-Pablo Valentino is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Red Bar, Tokyo on Sat, 10 Oct 2026.
+Pablo Valentino is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Red Bar, Tokyo on Sat, 10 Oct 2026.
 
-Pablo Valentino is a house and disco artist, with 28 gigs on soundcheck across Antwerp, Berlin, Geneva and Lisbon and 6 more. Often billed alongside P errine, IMA:R and Farah. Next up: Red Bar, Tokyo on Sat 10 Oct.
+Pablo Valentino is a house and disco artist, with 29 gigs on soundcheck across Antwerp, Berlin, Geneva and Lisbon and 6 more. Often billed alongside P errine, IMA:R and Farah. Next up: Red Bar, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Red Bar | Tokyo |
+| Fri, 23 Oct 2026 | Sound Bar Patrol | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pablo Valentino is a house and disco artist, with 28 gigs on soundcheck across A
 
 P errine, IMA:R, Farah (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovalentino/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovalentino/)*

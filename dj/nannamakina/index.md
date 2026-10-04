@@ -1,6 +1,6 @@
 # Nanna Makina
 
-Nanna Makina is a Trance and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Harleys Sky Bar, Glasgow on Sat, 17 Oct 2026.
+Nanna Makina is a Trance and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Harleys Sky Bar, Glasgow on Sat, 17 Oct 2026.
 
 Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside MC Tazo, 2 Sick Puppiez and 2FEL. Next up: Harleys Sky Bar, Glasgow on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gig
 
 MC Tazo, 2 Sick Puppiez, 2FEL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*

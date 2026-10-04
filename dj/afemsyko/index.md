@@ -1,14 +1,13 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Ankara on Sat, 3 Oct 2026.
+Afem Syko is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - CLUB MIRADOR INCEK, Ankara on Sat, 3 Oct 2026.
 
-Afem Syko is a techno and trance artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 49 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: TBA, Ankara on Sat 3 Oct.
+Afem Syko is a techno and trance artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 49 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: TBA - CLUB MIRADOR INCEK, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Ankara |
 | Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 9 Oct 2026 | E1 | London |
 | Sun, 11 Oct 2026 | TBA - El Jardín de las Artes, Zaragoza | North |
@@ -19,17 +18,17 @@ Afem Syko is a techno and trance artist based in Germany, with 161 gigs on sound
 
 ## Recently played
 
+- TBA, Ankara · Sat, 3 Oct 2026
+- TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
 - Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
 - Virage, Paris · Sat, 22 Aug 2026
 - Ääniwalli, Helsinki · Sat, 8 Aug 2026
 - Lehmann Club, Stuttgart · Fri, 7 Aug 2026
-- RSO.BERLIN, Berlin · Sat, 1 Aug 2026
-- 821 Runnymede Rd, Toronto · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

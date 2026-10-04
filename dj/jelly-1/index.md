@@ -1,6 +1,6 @@
 # JELLY
 
-JELLY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Time is the new space, Rotterdam on Sun, 4 Oct 2026.
+JELLY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Time is the new space, Rotterdam on Sun, 4 Oct 2026.
 
 JELLY is a techno and house artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Mexico City, Paris and Rotterdam and 3 more. Often billed alongside Jeans (NL), Jetti and Afra. Next up: Time is the new space, Rotterdam on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ JELLY is a techno and house artist based in Netherlands, with 38 gigs on soundch
 
 Jeans (NL), Jetti, Afra
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelly-1/)*

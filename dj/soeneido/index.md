@@ -1,6 +1,6 @@
 # Soeneido
 
-Soeneido is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sun, 4 Oct 2026.
+Soeneido is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sun, 4 Oct 2026.
 
 Soeneido is a jungle and drum & bass artist based in United States of America, with 39 gigs on soundcheck across Berlin, Denver, Helsinki and London and 4 more. Often billed alongside Soulox, Bored Lord and Discnogirl. Next up: F8 1192 Folsom, San Francisco/Oakland on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Soeneido is a jungle and drum & bass artist based in United States of America, w
 
 Soulox, Bored Lord, Discnogirl
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soeneido/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soeneido/)*

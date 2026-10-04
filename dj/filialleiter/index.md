@@ -1,6 +1,6 @@
 # Filialleiter
 
-Filialleiter is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
+Filialleiter is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
 
 Filialleiter is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside SIKXTO, DTEXX and Trancestrudel. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Filialleiter is a techno and trance artist based in Germany, with 73 gigs on sou
 
 SIKXTO, DTEXX, Trancestrudel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filialleiter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filialleiter/)*

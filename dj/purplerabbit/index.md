@@ -1,6 +1,6 @@
 # Purple Rabbit
 
-Purple Rabbit is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Purple Rabbit is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
 Purple Rabbit is a trance and techno artist based in South Korea, with 14 gigs on soundcheck across Seoul. Often billed alongside Casepeat, Kataploks and Kago Pengchi. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Purple Rabbit is a trance and techno artist based in South Korea, with 14 gigs o
 
 ## Recently played
 
+- Inspire Entertainment Resort, Seoul · Sat, 3 Oct 2026
 - Luka, Seoul · Sun, 13 Sept 2026
 - Ximxim Bar, Seoul · Sat, 12 Sept 2026
 - Luka, Seoul · Sun, 16 Aug 2026
@@ -19,10 +20,9 @@ Purple Rabbit is a trance and techno artist based in South Korea, with 14 gigs o
 - Mixmixtv Seongsu, Seoul · Fri, 24 Jul 2026
 - Luka, Seoul · Sun, 19 Jul 2026
 - Ximxim Bar, Seoul · Sat, 27 Jun 2026
-- Luka, Seoul · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Casepeat, Kataploks, Kago Pengchi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*

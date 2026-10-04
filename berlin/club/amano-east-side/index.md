@@ -1,6 +1,6 @@
 # Amano East-Side
 
-Amano East-Side is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "SØUL x AMÎ MASQUERADE" on Sat, 31 Oct 2026.
+Amano East-Side is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "SØUL x AMÎ MASQUERADE" on Sat, 31 Oct 2026.
 
 Amano East-Side is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Stralauer Pl. 30-31, 10243 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 1 upcoming gig.
 
 Stralauer Pl. 30-31, 10243 Berlin, Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*

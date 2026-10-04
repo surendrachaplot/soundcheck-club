@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at broad hall., Philadelphia on Fri, 16 Oct 2026.
+DJ Baby Berlin is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at broad hall., Philadelphia on Fri, 16 Oct 2026.
 
 DJ Baby Berlin is a new wave and ebm artist based in United States of America, with 83 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: broad hall., Philadelphia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Baby Berlin is a new wave and ebm artist based in United States of America, w
 
 Brad Scott, DJ Nightwitch, Mark Cage
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

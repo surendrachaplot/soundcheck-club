@@ -1,6 +1,6 @@
 # SOFIYA V
 
-SOFIYA V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
+SOFIYA V is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
 
 SOFIYA V is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Preacher's Daughter, Kettle and Lulannie. Next up: Honey's, New York City on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ SOFIYA V is a techno and house artist based in United States of America, with 12
 
 Preacher's Daughter, Kettle, Lulannie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiyav/)*

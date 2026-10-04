@@ -1,6 +1,6 @@
 # Coco Coquelicot
 
-Coco Coquelicot is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 7 Nov 2026.
+Coco Coquelicot is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 7 Nov 2026.
 
 Coco Coquelicot is a house and disco artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Tonno Disko, Laura Meester and Leroy Rey. Next up: Het Sieraad, Amsterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Coco Coquelicot is a house and disco artist based in Netherlands, with 44 gigs o
 
 Tonno Disko, Laura Meester, Leroy Rey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cococoquelicot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cococoquelicot/)*

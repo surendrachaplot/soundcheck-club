@@ -1,6 +1,6 @@
 # Francesco Tristano
 
-Francesco Tristano is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Francesco Tristano is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
 Francesco Tristano is a techno and experimental artist, with 10 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hong Kong and 3 more. Often billed alongside ANouch, Andrea Fiorito and Argenis Brito. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Francesco Tristano is a techno and experimental artist, with 10 gigs on soundche
 
 ANouch, Andrea Fiorito, Argenis Brito
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescotristano/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescotristano/)*

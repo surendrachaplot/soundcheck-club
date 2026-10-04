@@ -1,6 +1,6 @@
 # MIKE MYSTIK
 
-MIKE MYSTIK is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Loop/Vienna, Vienna on Sat, 31 Oct 2026.
+MIKE MYSTIK is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loop/Vienna, Vienna on Sat, 31 Oct 2026.
 
 MIKE MYSTIK is a techno and acid artist based in Austria, with 11 gigs on soundcheck across Vienna. Often billed alongside Mücke, Techflex and DJ Tronik. Next up: Loop/Vienna, Vienna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MIKE MYSTIK is a techno and acid artist based in Austria, with 11 gigs on soundc
 
 Mücke, Techflex, DJ Tronik
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*

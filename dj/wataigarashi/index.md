@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 3 Oct 2026.
+Wata Igarashi is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 3 Oct 2026.
 
 Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Jolene Downtown Miami, Miami on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami · Sat, 3 Oct 2026
 - TBA, Denver · Fri, 2 Oct 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Wata Igarashi is a techno and house artist based in Japan, with 218 gigs on soun
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - Stereo, Montreal · Fri, 18 Sept 2026
-- THE MAGICK BAR, Rome · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

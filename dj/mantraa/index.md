@@ -1,6 +1,6 @@
 # Mantraa
 
-Mantraa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Mantraa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
 Mantraa is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Nürnberg. Often billed alongside Cassa Cristano, Klang der Nacht and Mario Angelo. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mantraa is a techno and trance artist based in Germany, with 56 gigs on soundche
 
 Cassa Cristano, Klang der Nacht, Mario Angelo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantraa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mantraa/)*

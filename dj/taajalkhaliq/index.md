@@ -1,6 +1,6 @@
 # Taaj Al Khaliq
 
-Taaj Al Khaliq is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
+Taaj Al Khaliq is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Deep End, New York City on Fri, 16 Oct 2026.
 
 Taaj Al Khaliq is a club and ghetto tech artist, with 10 gigs on soundcheck across New York City. Often billed alongside Montross, Bodegaparty and NoahG. Next up: The Deep End, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Taaj Al Khaliq is a club and ghetto tech artist, with 10 gigs on soundcheck acro
 
 Montross, Bodegaparty, NoahG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taajalkhaliq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taajalkhaliq/)*

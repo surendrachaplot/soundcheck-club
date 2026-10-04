@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Thu, 8 Oct 2026.
+Doss is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Thu, 8 Oct 2026.
 
 Doss is a club and techno artist based in United States of America, with 55 gigs on soundcheck across Athens, Austin, Berlin and Brisbane and 19 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: Paragon, New York City on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Doss is a club and techno artist based in United States of America, with 55 gigs
 
 Yves Tumor, 1NN3R53LF, CFCF
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

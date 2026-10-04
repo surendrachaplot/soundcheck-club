@@ -1,6 +1,6 @@
 # Brenda Serna (2)
 
-Brenda Serna (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sat, 17 Oct 2026.
+Brenda Serna (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
 Brenda Serna is a techno and trance artist based in Spain, with 19 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Fabrik, Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Brenda Serna is a techno and trance artist based in Spain, with 19 gigs on sound
 
 CESAR ALMENA, Nuke, Parsa Jafari
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*

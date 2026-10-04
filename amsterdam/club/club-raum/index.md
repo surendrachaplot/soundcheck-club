@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Mama Snake, Roza Terenzi, Rey Colino" on Sat, 3 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Mama Snake, Roza Terenzi, Rey Colino" on Sat, 3 Oct 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

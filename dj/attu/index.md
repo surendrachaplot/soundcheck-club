@@ -1,6 +1,6 @@
 # Attu
 
-Attu is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Attu is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 Attu is a bass and club artist based in Australia, with 20 gigs on soundcheck across Melbourne and Sydney. Often billed alongside ATARANGI, Ciara and Izata. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Attu is a bass and club artist based in Australia, with 20 gigs on soundcheck ac
 
 ATARANGI, Ciara, Izata
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*

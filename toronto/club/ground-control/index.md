@@ -1,6 +1,6 @@
 # Ground Control
 
-Ground Control is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CHROM (Germany) LIVE + Gruve Collective LIVE + DJ Lazarus" on Mon, 12 Oct 2026.
+Ground Control is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CHROM (Germany) LIVE + Gruve Collective LIVE + DJ Lazarus" on Mon, 12 Oct 2026.
 
 Ground Control is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Gruve Collective. See dates, start times and who's playing. 1279 Queen St West, Toronto, ON M6K 1L6, Canada.
 
@@ -15,4 +15,4 @@ Ground Control is a music venue in Toronto listed on soundcheck. 2 upcoming gigs
 
 1279 Queen St West, Toronto, ON M6K 1L6, Canada, Toronto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/ground-control/)*

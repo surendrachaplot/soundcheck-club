@@ -1,6 +1,6 @@
 # Shockone
 
-Shockone is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
+Shockone is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
 
 Shockone is a drum & bass and bass artist, with 27 gigs on soundcheck across Amsterdam, Auckland, Brighton and Brisbane and 10 more. Often billed alongside Pendulum, Koven and Georgie Riot. Next up: Ice Cream Factory, Perth on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Shockone is a drum & bass and bass artist, with 27 gigs on soundcheck across Ams
 
 Pendulum, Koven, Georgie Riot
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*

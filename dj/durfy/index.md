@@ -1,6 +1,6 @@
 # DURFY
 
-DURFY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Fri, 13 Nov 2026.
+DURFY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Flash, Washington DC on Fri, 13 Nov 2026.
 
 DURFY is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Washington DC. Often billed alongside Cassia, BE EZY and Prunk. Next up: Flash, Washington DC on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DURFY is a house and tech house artist based in United States of America, with 2
 
 Cassia, BE EZY, Prunk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durfy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durfy/)*

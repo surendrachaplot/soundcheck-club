@@ -1,6 +1,6 @@
 # Just2
 
-Just2 is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Fri, 16 Oct 2026.
+Just2 is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Smolna, Warsaw on Fri, 16 Oct 2026.
 
 Just2 is a tech house and minimal artist based in Romania, with 11 gigs on soundcheck across Barcelona, Bucharest, Istanbul and Leeds and 4 more. Often billed alongside deafcandance, Angelo Mike and BARAN YILDIRIM. Next up: Smolna, Warsaw on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Just2 is a tech house and minimal artist based in Romania, with 11 gigs on sound
 
 deafcandance, Angelo Mike, BARAN YILDIRIM
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/just2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/just2/)*

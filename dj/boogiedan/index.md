@@ -1,6 +1,6 @@
 # Boogie Dan
 
-Boogie Dan is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rotbart, Berlin on Thu, 8 Oct 2026.
+Boogie Dan is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rotbart, Berlin on Thu, 8 Oct 2026.
 
 Boogie Dan is a hip-hop and funk / soul artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside Dj Quien, DJ Business and Femdelic. Next up: Rotbart, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Boogie Dan is a hip-hop and funk / soul artist based in Germany, with 25 gigs on
 
 Dj Quien, DJ Business (2), Femdelic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogiedan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogiedan/)*

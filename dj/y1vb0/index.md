@@ -1,6 +1,6 @@
 # Y1VB0
 
-Y1VB0 is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Temp., Bangkok on Sun, 4 Oct 2026.
+Y1VB0 is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Temp., Bangkok on Sun, 4 Oct 2026.
 
 Y1VB0 is an afrobeats and baile funk artist, with 18 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Zion, Xena (KR) and badassgatsby. Next up: Bar Temp., Bangkok on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Y1VB0 is an afrobeats and baile funk artist, with 18 gigs on soundcheck across B
 
 Zion, Xena (KR), badassgatsby
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/y1vb0/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/y1vb0/)*

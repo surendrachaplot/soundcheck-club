@@ -1,6 +1,6 @@
 # DR. Disko Dust
 
-DR. Disko Dust is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Northern Lights Lounge, Detroit on Thu, 8 Oct 2026.
+DR. Disko Dust is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Northern Lights Lounge, Detroit on Thu, 8 Oct 2026.
 
 DR. Disko Dust is a disco and acid artist based in United States of America, with 60 gigs on soundcheck across Detroit. Often billed alongside Nick Kothari, Steven G and BMG. Next up: Northern Lights Lounge, Detroit on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ DR. Disko Dust is a disco and acid artist based in United States of America, wit
 
 Nick Kothari, Steven G, BMG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.diskodust/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.diskodust/)*

@@ -1,6 +1,6 @@
 # MIDI War
 
-MIDI War is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at R Lounge, Tokyo on Sun, 8 Nov 2026.
+MIDI War is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at R Lounge, Tokyo on Sun, 8 Nov 2026.
 
 MIDI War is a hardcore and techno artist based in Japan, with 50 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Coretex, KAMIKAZE and DJ Shimamura. Next up: R Lounge, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ MIDI War is a hardcore and techno artist based in Japan, with 50 gigs on soundch
 
 Coretex, KAMIKAZE, DJ Shimamura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midiwar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midiwar/)*

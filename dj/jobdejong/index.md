@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Job de Jong is a House and Tech House artist with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Job de Jong is a house and tech house artist based in Netherlands, with 174 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 24 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Job de Jong is a house and tech house artist based in Netherlands, with 174 gigs
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Colorado Charlie, The Hague · Sat, 26 Sept 2026
 - Cova Santa, Ibiza · Tue, 22 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Job de Jong is a house and tech house artist based in Netherlands, with 174 gigs
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 10 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 1 Sept 2026
-- Cova Santa, Ibiza · Tue, 25 Aug 2026
 
 ## Shares bills with
 
 Dennis Quin, Prunk, M-High
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

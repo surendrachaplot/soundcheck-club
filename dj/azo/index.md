@@ -1,6 +1,6 @@
 # Azo
 
-Azo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
+Azo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
 
 Azo is a techno and house artist based in France, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Vera Moro, Fais Le Beau and Kathleen C. Next up: Bal Chavaux, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Azo is a techno and house artist based in France, with 90 gigs on soundcheck acr
 
 Vera Moro, Fais Le Beau, Kathleen C
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

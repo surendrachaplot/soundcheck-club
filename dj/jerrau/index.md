@@ -1,6 +1,6 @@
 # Jerrau
 
-Jerrau is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
+Jerrau is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
 Jerrau is a house and breakbeat artist based in Netherlands, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Nala Brown, Chinnamasta and Cinnaman. Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Jerrau is a house and breakbeat artist based in Netherlands, with 77 gigs on sou
 
 Nala Brown, Chinnamasta, Cinnaman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrau/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerrau/)*

@@ -1,6 +1,6 @@
 # DJ Hulluella
 
-DJ Hulluella is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+DJ Hulluella is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 DJ Hulluella is an electronic artist, with 3 gigs on soundcheck across Helsinki, London and Norway. Often billed alongside Somepoe, AGF and CICELY. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -19,4 +19,4 @@ DJ Hulluella is an electronic artist, with 3 gigs on soundcheck across Helsinki,
 
 Somepoe, AGF, CICELY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhulluella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhulluella/)*

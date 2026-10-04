@@ -1,6 +1,6 @@
 # Bones
 
-Bones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Bones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Bones is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bones is a house and techno artist based in United States of America, with 29 gi
 
 Lee Wells, BERLINER KINDL, Destructo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*

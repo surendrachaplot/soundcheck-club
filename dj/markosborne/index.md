@@ -1,6 +1,6 @@
 # Mark Osborne
 
-Mark Osborne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Horse & Groom, London on Sat, 17 Oct 2026.
+Mark Osborne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Horse & Groom, London on Sat, 17 Oct 2026.
 
 Mark Osborne is a house and disco artist based in United Kingdom, with 34 gigs on soundcheck across London. Often billed alongside Lauren Thompson, Martin Lodge and Ronnie Herel. Next up: The Horse & Groom, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Mark Osborne is a house and disco artist based in United Kingdom, with 34 gigs o
 
 Lauren Thompson, Martin Lodge, Ronnie Herel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*

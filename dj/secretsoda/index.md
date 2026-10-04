@@ -1,6 +1,6 @@
 # Secret Soda
 
-Secret Soda is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Secret Soda is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 Secret Soda is an afro house and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Antwerp and Rotterdam. Often billed alongside Kevin Kinembe, DJ MEOZ and FATIA. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Secret Soda is an afro house and house artist based in Netherlands, with 5 gigs 
 
 Kevin Kinembe, DJ MEOZ, FATIA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsoda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsoda/)*

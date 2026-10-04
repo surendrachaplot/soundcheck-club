@@ -1,6 +1,6 @@
 # Masedia
 
-Masedia is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
+Masedia is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
 
 Masedia is a minimal and house artist based in Germany, with 18 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Analog Crystal, Miss Evoice and AKA AKA. Next up: Fridas Pier, Stuttgart on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Masedia is a minimal and house artist based in Germany, with 18 gigs on soundche
 
 Analog Crystal, Miss Evoice, AKA AKA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masedia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masedia/)*

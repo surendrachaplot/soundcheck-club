@@ -1,6 +1,6 @@
 # Jackson
 
-Jackson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Jackson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Jackson is a house and tech house artist based in Romania, with 13 gigs on soundcheck across Ibiza, Leeds, Melbourne and Mexico City and 4 more. Often billed alongside Vintage Culture, ANNA and Antdot. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jackson is a house and tech house artist based in Romania, with 13 gigs on sound
 
 Vintage Culture, ANNA, Antdot
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackson/)*

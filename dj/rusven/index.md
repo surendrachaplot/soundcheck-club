@@ -1,6 +1,6 @@
 # Rusven
 
-Rusven is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at LAUT, Barcelona on Fri, 16 Oct 2026.
+Rusven is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Fri, 16 Oct 2026.
 
 Rusven is a techno and tech house artist based in Spain, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside -nico-, Egyptian Greyhound and Federico Formica. Next up: LAUT, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rusven is a techno and tech house artist based in Spain, with 11 gigs on soundch
 
 -nico-, Egyptian Greyhound, Federico Formica
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusven/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusven/)*

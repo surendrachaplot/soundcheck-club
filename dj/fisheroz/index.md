@@ -1,6 +1,6 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+FISHER is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 FISHER is a house and tech house artist based in Australia, with 160 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 43 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ FISHER is a house and tech house artist based in Australia, with 160 gigs on sou
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

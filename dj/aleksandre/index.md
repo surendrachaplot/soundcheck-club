@@ -1,6 +1,6 @@
 # ALEKSANDRE
 
-ALEKSANDRE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - obmiill, Barcelona on Sat, 17 Oct 2026.
+ALEKSANDRE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - obmiill, Barcelona on Sat, 17 Oct 2026.
 
 ALEKSANDRE is a techno and club artist based in Spain, with 19 gigs on soundcheck across Barcelona, Berlin, Madrid and Tbilisi. Often billed alongside VOID/DIVO, Jhort and ADHDaddy. Next up: TBA - obmiill, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ALEKSANDRE is a techno and club artist based in Spain, with 19 gigs on soundchec
 
 VOID/DIVO, Jhort, ADHDaddy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandre/)*

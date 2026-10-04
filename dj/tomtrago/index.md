@@ -1,6 +1,6 @@
 # Tom Trago
 
-Tom Trago is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 9 Oct 2026.
+Tom Trago is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 9 Oct 2026.
 
 Tom Trago is a house and techno artist based in Netherlands, with 132 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside BELLA (NL), David Vunk and Carlos Valdes. Next up: TILLATEC, Amsterdam on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Tom Trago is a house and techno artist based in Netherlands, with 132 gigs on so
 
 BELLA (NL), David Vunk, Carlos Valdes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtrago/)*

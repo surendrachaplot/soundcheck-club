@@ -1,6 +1,6 @@
 # Jude Race
 
-Jude Race is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 3 Oct 2026.
+Jude Race is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Shrimp, Manchester on Sat, 3 Oct 2026.
 
 Jude Race is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, London, Manchester and Newcastle. Often billed alongside Weston, Connor Southerland and DMC.. Next up: Bar Shrimp, Manchester on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Jude Race is a house and techno artist based in United Kingdom, with 29 gigs on 
 
 ## Recently played
 
+- Bar Shrimp, Manchester · Sat, 3 Oct 2026
 - Platt Fields Market Garden, Manchester · Sat, 12 Sept 2026
 - Honey Street Studio, Manchester · Fri, 22 May 2026
 - The DBA, Manchester · Sat, 14 Mar 2026
@@ -20,10 +21,9 @@ Jude Race is a house and techno artist based in United Kingdom, with 29 gigs on 
 - Next Door Records Two, London · Fri, 13 Mar 2026
 - Honey Street Studio, Manchester · Fri, 6 Feb 2026
 - Cobalt Studios, Newcastle · Sun, 14 Dec 2025
-- 1520, Manchester · Sun, 26 Oct 2025
 
 ## Shares bills with
 
 Weston, Connor Southerland, DMC.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*

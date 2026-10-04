@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Thu, 15 Oct 2026.
+MIRA MIRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Thu, 15 Oct 2026.
 
 MIRA MIRA is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Detroit, London, Mexico City and Miami and 3 more. Often billed alongside Rage.inald, Nick Boyd and Pamela_ and her sons. Next up: The Sound Lounge at Percy, Philadelphia on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ MIRA MIRA is a techno and house artist based in United States of America, with 4
 
 Rage.inald, Nick Boyd, Pamela_ and her sons
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

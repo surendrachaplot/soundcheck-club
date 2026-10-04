@@ -1,6 +1,6 @@
 # Kinzua
 
-Kinzua is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
+Kinzua is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
 
 Kinzua is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 9 more. Often billed alongside Lena Willikens, Vladimir Ivkovic and Shinsuke Goto. Next up: Sameheads, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Kinzua is a techno and house artist based in Germany, with 47 gigs on soundcheck
 
 Lena Willikens, Vladimir Ivkovic, Shinsuke Goto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinzua/)*

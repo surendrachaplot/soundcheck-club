@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TIMEmACHINE presents Nima Gorji & Florian Ducellier — Vinyl Only" on Sat, 3 Oct 2026.
+Esbirra Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TIMEmACHINE presents Nima Gorji & Florian Ducellier — Vinyl Only" on Sat, 3 Oct 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Brunno, CHAZZ D&B, Chelu Garcia and Dana Ruh and 2 more. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -19,4 +19,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, w
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

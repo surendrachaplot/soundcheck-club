@@ -1,6 +1,6 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Fri, 16 Oct 2026.
+Gi Gi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Fri, 16 Oct 2026.
 
 Gi Gi is a techno and house artist based in United States of America, with 73 gigs on soundcheck across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: public records, New York City on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Gi Gi is a techno and house artist based in United States of America, with 73 gi
 
 PLO Man, Charles Moon, Conna Haraway
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*

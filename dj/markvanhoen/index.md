@@ -1,6 +1,6 @@
 # Mark Van Hoen
 
-Mark Van Hoen is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
+Mark Van Hoen is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
 Mark Van Hoen is a downtempo and ambient artist based in United Kingdom, with 6 gigs on soundcheck across Glasgow, London, Los Angeles and New York City and 1 more. Often billed alongside Grant Aaron, Adam 2 and Axon. Next up: All is Joy Studios, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Mark Van Hoen is a downtempo and ambient artist based in United Kingdom, with 6 
 
 Grant Aaron, Adam 2, Axon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanhoen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanhoen/)*

@@ -1,6 +1,6 @@
 # ACA (YU)
 
-ACA (YU) is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+ACA (YU) is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
 ACA (YU) is a house and minimal artist based in Spain, with 71 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Dublin and 6 more. Often billed alongside HARRIE SUMMERS, Ryan Connolly and Darius Syrossian. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ ACA (YU) is a house and minimal artist based in Spain, with 71 gigs on soundchec
 
 HARRIE SUMMERS, Ryan Connolly, Darius Syrossian
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acayu/)*

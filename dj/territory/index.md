@@ -1,6 +1,6 @@
 # Territory
 
-Territory is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Socore Factory, Osaka on Sat, 31 Oct 2026.
+Territory is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Socore Factory, Osaka on Sat, 31 Oct 2026.
 
 Territory is a techno and acid artist based in United States of America, with 6 gigs on soundcheck across Berlin, Los Angeles, Osaka and San Francisco/Oakland. Often billed alongside D.Dan, NEKTER and Non (TO). Next up: Socore Factory, Osaka on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Territory is a techno and acid artist based in United States of America, with 6 
 
 D.Dan, NEKTER, Non (TO)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/territory/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/territory/)*

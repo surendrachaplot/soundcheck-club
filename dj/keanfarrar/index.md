@@ -1,6 +1,6 @@
 # Kean Farrar
 
-Kean Farrar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Subcero Club, Madrid on Sat, 10 Oct 2026.
+Kean Farrar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Subcero Club, Madrid on Sat, 10 Oct 2026.
 
 Kean Farrar is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin and Madrid. Often billed alongside bluete2k, RIP Swirl and John Heaven. Next up: Subcero Club, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kean Farrar is a house and techno artist based in Germany, with 17 gigs on sound
 
 bluete2k, RIP Swirl, John Heaven
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keanfarrar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keanfarrar/)*

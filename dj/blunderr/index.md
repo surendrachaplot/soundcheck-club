@@ -1,6 +1,6 @@
 # Blunderr
 
-Blunderr is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+Blunderr is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
 
 Blunderr is an electronic artist based in Italy, with 12 gigs on soundcheck across Milan and Rome. Often billed alongside MA\E, Collider and Fennec III. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Blunderr is an electronic artist based in Italy, with 12 gigs on soundcheck acro
 
 MA\E, Collider, Fennec III
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*

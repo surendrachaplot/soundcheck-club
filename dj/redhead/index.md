@@ -1,6 +1,6 @@
 # Steve RedHead
 
-Steve RedHead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
+Steve RedHead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
 
 Steve RedHead is a techno and house artist based in Belgium, with 17 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside SHDW, CMPND (BE) and Marco Bailey. Next up: KALT, Strasbourg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Steve RedHead is a techno and house artist based in Belgium, with 17 gigs on sou
 
 SHDW, CMPND (BE), Marco Bailey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redhead/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redhead/)*

@@ -1,6 +1,6 @@
 # PYRAMIDO
 
-PYRAMIDO is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 30 Oct 2026.
+PYRAMIDO is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 PYRAMIDO is a deep house and house artist, with 9 gigs on soundcheck across Athens, Los Angeles, Miami and San Francisco/Oakland. Often billed alongside Bellhop, Crescendoll and Dakota Dean. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PYRAMIDO is a deep house and house artist, with 9 gigs on soundcheck across Athe
 
 Bellhop, Crescendoll, Dakota Dean
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramido/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramido/)*

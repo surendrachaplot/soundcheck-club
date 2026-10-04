@@ -1,6 +1,6 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TAD ALL NIGHT" on Sat, 3 Oct 2026.
+Le Bain is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TAD ALL NIGHT" on Sat, 3 Oct 2026.
 
 Le Bain is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including DJ TONY TOUCH, Francois K, Tad Haes and Tony Humphries. See dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
@@ -20,4 +20,4 @@ Le Bain is a music venue in New York City listed on soundcheck. 7 upcoming gigs,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

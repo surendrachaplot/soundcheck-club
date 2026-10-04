@@ -1,6 +1,6 @@
 # KLUBMATI
 
-KLUBMATI is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - LAP Coffee, Bergmannstraße 9, 10961 Berlin, Berlin on Sat, 17 Oct 2026.
+KLUBMATI is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - LAP Coffee, Bergmannstraße 9, 10961 Berlin, Berlin on Sat, 17 Oct 2026.
 
 KLUBMATI is a disco and house artist, with 9 gigs on soundcheck across Berlin and Warsaw. Often billed alongside SENRO, Bäggy and CainDNB. Next up: TBA - LAP Coffee, Bergmannstraße 9, 10961 Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KLUBMATI is a disco and house artist, with 9 gigs on soundcheck across Berlin an
 
 SENRO, Bäggy, CainDNB
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klubmati/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klubmati/)*

@@ -1,6 +1,6 @@
 # mølly (on molly)
 
-mølly (on molly) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+mølly (on molly) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 mølly (on molly) is a trance and techno artist based in Ecuador, with 47 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside SALCHIKILLER, DJ AYEN and MIMI404. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ mølly (on molly) is a trance and techno artist based in Ecuador, with 47 gigs o
 
 SALCHIKILLER, DJ AYEN, MIMI404
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollyonmolly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollyonmolly/)*

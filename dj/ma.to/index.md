@@ -1,6 +1,6 @@
 # Ma.to
 
-Ma.to is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
+Ma.to is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
 
 Ma.to is a techno and electro artist, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 3 more. Often billed alongside Dean Denali, Velardi and Fr.analog. Next up: Hoppetosse, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Ma.to is a techno and electro artist, with 31 gigs on soundcheck across Amsterda
 
 Dean Denali, Velardi, Fr.analog
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.to/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.to/)*

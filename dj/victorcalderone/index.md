@@ -1,6 +1,6 @@
 # Victor Calderone
 
-Victor Calderone is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Montreal on Sat, 10 Oct 2026.
+Victor Calderone is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Montreal on Sat, 10 Oct 2026.
 
 Victor Calderone is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Austin, Boston, Denver and Ibiza and 11 more. Often billed alongside Danyelino, Ms. Mada and Avision. Next up: Stereo, Montreal on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Victor Calderone is a house and techno artist based in United States of America,
 
 Danyelino, Ms. Mada, Avision
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*

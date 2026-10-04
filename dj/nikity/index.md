@@ -1,6 +1,6 @@
 # Nikity
 
-Nikity is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garagen, Cologne on Sat, 10 Oct 2026.
+Nikity is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Garagen, Cologne on Sat, 10 Oct 2026.
 
 Nikity is a house and bass artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: Garagen, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nikity is a house and bass artist based in Germany, with 35 gigs on soundcheck a
 
 AMSL, Anna Cainelli, Savsannah
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*

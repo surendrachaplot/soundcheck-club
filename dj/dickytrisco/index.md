@@ -1,6 +1,6 @@
 # Dicky Trisco
 
-Dicky Trisco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Dicky Trisco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Dicky Trisco is a disco and house artist, with 63 gigs on soundcheck across Aberdeen, Bangkok, Barcelona and Brazil and 13 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Dicky Trisco is a disco and house artist, with 63 gigs on soundcheck across Aber
 
 Natasha Kitty Katt, Lisa Loud, Irena Stanisic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*

@@ -1,6 +1,6 @@
 # Zokiren
 
-Zokiren is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
+Zokiren is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
 
 Zokiren is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Viktor Kampf, Ilyas S and Basstronauten. Next up: Sensorium, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Zokiren is a techno and tech house artist based in Germany, with 17 gigs on soun
 
 Viktor Kampf, Ilyas S, Basstronauten
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zokiren/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zokiren/)*

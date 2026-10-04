@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Debit is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Debit is a techno and experimental artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside APP, AMEX (UK) and Alaska. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Debit is a techno and experimental artist based in United States of America, wit
 
 APP, AMEX (UK), Alaska (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

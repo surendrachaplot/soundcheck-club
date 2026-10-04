@@ -1,6 +1,6 @@
 # Dan Cluskey
 
-Dan Cluskey is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Dan Cluskey is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Dan Cluskey is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Auckland, Ibiza and London and 1 more. Often billed alongside Davide Del Vecchio, Old as Funk and Tatiana. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Dan Cluskey is a house and disco artist based in United Kingdom, with 52 gigs on
 
 Davide Del Vecchio, Old as Funk, Tatiana
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancluskey/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancluskey/)*

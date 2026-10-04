@@ -1,14 +1,13 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Moodymann is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRAUM, Antwerp on Fri, 9 Oct 2026.
 
-Moodymann is a house and techno artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Carl Craig, Flo Real and DJ Holographic. Next up: Ministry Of Sound, London on Sat 3 Oct.
+Moodymann is a house and techno artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Carl Craig, Flo Real and DJ Holographic. Next up: TRAUM, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Ministry Of Sound | London |
 | Fri, 9 Oct 2026 | TRAUM | Antwerp |
 | Fri, 16 Oct 2026 | The Bernard Shaw | Dublin |
 | Sat, 17 Oct 2026 | Sub Club | Glasgow |
@@ -21,6 +20,7 @@ Moodymann is a house and techno artist based in United States of America, with 1
 
 ## Recently played
 
+- Ministry Of Sound, London · Sat, 3 Oct 2026
 - Umoya, Naples · Sun, 20 Sept 2026
 - 528 Ibiza, Ibiza · Tue, 15 Sept 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
@@ -28,10 +28,9 @@ Moodymann is a house and techno artist based in United States of America, with 1
 - Union Park, Chicago · Fri, 4 Sept 2026
 - TBA, Singapore · Sat, 22 Aug 2026
 - Potato Head Beach Club, Bali · Fri, 21 Aug 2026
-- Regent Theater, DTLA, Los Angeles · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Carl Craig, Flo Real, DJ Holographic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

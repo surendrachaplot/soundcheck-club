@@ -1,6 +1,6 @@
 # Tobi Neumann
 
-Tobi Neumann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
+Tobi Neumann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sat, 10 Oct 2026.
 
 Tobi Neumann is a techno and house artist based in Germany, with 59 gigs on soundcheck across Basel, Berlin, Brussels and Cologne and 11 more. Often billed alongside Britta Arnold, Chris Di Perri and Maurizio Schmitz. Next up: Hoppetosse, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tobi Neumann is a techno and house artist based in Germany, with 59 gigs on soun
 
 Britta Arnold, Chris Di Perri, Maurizio Schmitz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobineumann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobineumann/)*

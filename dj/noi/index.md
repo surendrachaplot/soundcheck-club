@@ -1,6 +1,6 @@
 # Noi
 
-Noi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
+Noi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 Noi is a drum & bass and jungle artist based in Sweden, with 7 gigs on soundcheck across Osaka, Seoul, Tokyo and Warsaw. Often billed alongside Uman Therma, DJ yesyes and Grafix. Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Noi is a drum & bass and jungle artist based in Sweden, with 7 gigs on soundchec
 
 Uman Therma, DJ yesyes, Grafix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noi/)*

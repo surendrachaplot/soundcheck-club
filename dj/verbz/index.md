@@ -1,6 +1,6 @@
 # Verbz
 
-Verbz is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
+Verbz is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
 
 Verbz is a drum & bass and hip-hop artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Brighton, Bristol and Edinburgh and 5 more. Often billed alongside Zar., Mindstate and dogger. Next up: Volks, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Verbz is a drum & bass and hip-hop artist based in United Kingdom, with 48 gigs 
 
 Zar., Mindstate, dogger
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verbz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verbz/)*

@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Masada, Chicago on Sat, 10 Oct 2026.
+DJ Colette is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Masada, Chicago on Sat, 10 Oct 2026.
 
 DJ Colette is a house and deep house artist based in United States of America, with 75 gigs on soundcheck across Chicago, Detroit, Los Angeles and Melbourne and 10 more. Often billed alongside DJ Heather, Pete Moss and Bear Who?. Next up: Masada, Chicago on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ DJ Colette is a house and deep house artist based in United States of America, w
 
 DJ Heather, Pete Moss, Bear Who?
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

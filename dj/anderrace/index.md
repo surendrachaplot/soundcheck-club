@@ -1,6 +1,6 @@
 # Ander Race
 
-Ander Race is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Negro Rojo Club, Barcelona on Fri, 2 Oct 2026.
+Ander Race is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Negro Rojo Club, Barcelona on Fri, 2 Oct 2026.
 
 Ander Race is a house and afro house artist based in Spain, with 26 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Rick Offen, AN5 (SP) and Awk. Next up: Negro Rojo Club, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ander Race is a house and afro house artist based in Spain, with 26 gigs on soun
 
 Rick Offen, AN5 (SP), Awk (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*

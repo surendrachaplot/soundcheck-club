@@ -1,6 +1,6 @@
 # Gourlay
 
-Gourlay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Fri, 9 Oct 2026.
+Gourlay is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Fri, 9 Oct 2026.
 
 Gourlay is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: Stereo, Glasgow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Gourlay is a house and techno artist based in United Kingdom, with 48 gigs on so
 
 DJ Bz, Doogi, Eubo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*

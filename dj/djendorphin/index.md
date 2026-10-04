@@ -1,6 +1,6 @@
 # DJ endorphin
 
-DJ endorphin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at or, Tokyo on Sun, 4 Oct 2026.
+DJ endorphin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at or, Tokyo on Sun, 4 Oct 2026.
 
 DJ endorphin is a techno and house artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside uuu7, AKIRAM EN and Shogo Ito. Next up: or, Tokyo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ DJ endorphin is a techno and house artist based in Japan, with 13 gigs on soundc
 
 uuu7, AKIRAM EN, Shogo Ito
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djendorphin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djendorphin/)*

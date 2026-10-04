@@ -1,6 +1,6 @@
 # Errorsmith
 
-Errorsmith is a Experimental and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+Errorsmith is a Experimental and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
 
 Errorsmith is an experimental and breakbeat artist based in Germany, with 6 gigs on soundcheck across Berlin, Krakow, South East and Tokyo. Often billed alongside DJ Double Spoon, Dscrd and HBT. Next up: Hotel Forum, Krakow on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Errorsmith is an experimental and breakbeat artist based in Germany, with 6 gigs
 
 DJ Double Spoon, Dscrd, HBT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*

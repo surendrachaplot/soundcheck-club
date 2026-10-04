@@ -1,6 +1,6 @@
 # Sergio Santos
 
-Sergio Santos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Chemist, Boston on Thu, 15 Oct 2026.
+Sergio Santos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Chemist, Boston on Thu, 15 Oct 2026.
 
 Sergio Santos is a house and techno artist, with 9 gigs on soundcheck across Boston, Detroit, Los Angeles and Porto. Often billed alongside E Spleece, Secrets and Jay Prouty. Next up: The Chemist, Boston on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Sergio Santos is a house and techno artist, with 9 gigs on soundcheck across Bos
 
 E Spleece, Secrets, Jay Prouty
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosantos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosantos/)*

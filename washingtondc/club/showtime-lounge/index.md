@@ -1,6 +1,6 @@
 # Showtime Lounge
 
-Showtime Lounge is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "My Friend Jack - All Night Long" on Sun, 11 Oct 2026.
+Showtime Lounge is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "My Friend Jack - All Night Long" on Sun, 11 Oct 2026.
 
 Showtime Lounge is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including Candie Kitsch and My Friend Jack. See dates, start times and who's playing. 113 Rhode Island Ave NW, Washington, DC 20001.
 
@@ -15,4 +15,4 @@ Showtime Lounge is a music venue in Washington DC listed on soundcheck. 2 upcomi
 
 113 Rhode Island Ave NW, Washington, DC 20001, Washington DC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/showtime-lounge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/showtime-lounge/)*

@@ -1,6 +1,6 @@
 # Kasablanca
 
-Kasablanca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Kasablanca is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Kasablanca is a techno and progressive house artist based in Canada, with 14 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 9 more. Often billed alongside Ben Böhmer, Lane 8 and Marten Lou. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kasablanca is a techno and progressive house artist based in Canada, with 14 gig
 
 Ben Böhmer, Lane 8, Marten Lou
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasablanca/)*

@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jabula: The Official Launch Party" on Sat, 3 Oct 2026.
+The Hifi Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jabula: The Official Launch Party" on Sat, 3 Oct 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including G-Spot, Panteros666 and SUBVISIONS. See dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -16,4 +16,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, w
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

@@ -1,6 +1,6 @@
 # Jeremy
 
-Jeremy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Jeremy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Jeremy is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Bangkok, London and Manchester. Often billed alongside Goutham, Alan Fitzpatrick and Alex W.. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Jeremy is a techno and house artist based in United Kingdom, with 7 gigs on soun
 
 Goutham, Alan Fitzpatrick, Alex W.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremy/)*

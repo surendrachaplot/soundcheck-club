@@ -1,6 +1,6 @@
 # Toni The Boss
 
-Toni The Boss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Slow Club, Barcelona on Sat, 31 Oct 2026.
+Toni The Boss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Slow Club, Barcelona on Sat, 31 Oct 2026.
 
 Toni The Boss is a house and tech house artist, with 36 gigs on soundcheck across Barcelona. Often billed alongside Frankie G, Hermes Disco Eterno and D.T.H.. Next up: Slow Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Toni The Boss is a house and tech house artist, with 36 gigs on soundcheck acros
 
 Frankie G, Hermes Disco Eterno, D.T.H.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonitheboss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonitheboss/)*

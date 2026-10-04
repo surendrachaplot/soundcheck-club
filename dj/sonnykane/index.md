@@ -1,6 +1,6 @@
 # Sonny Kane
 
-Sonny Kane is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Db55, Amsterdam on Thu, 22 Oct 2026.
+Sonny Kane is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Db55, Amsterdam on Thu, 22 Oct 2026.
 
 Sonny Kane is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam and London. Often billed alongside G CHASE, HARTY and Mazos. Next up: Db55, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Sonny Kane is a house and tech house artist based in United Kingdom, with 4 gigs
 
 G CHASE, HARTY, Mazos
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnykane/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnykane/)*

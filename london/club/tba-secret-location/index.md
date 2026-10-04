@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 57 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "THE JAZZ MANSION WEEKENDER BY Organikka" on Sat, 3 Oct 2026.
+TBA - Secret Location is a music venue in London with 58 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "THE JAZZ MANSION WEEKENDER BY Organikka" on Sat, 3 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 57 upcoming gigs, with line-ups including .cosm, Aleakim, Alena Vox and Alírio and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 58 upcoming gigs, with line-ups including .cosm, Aleakim, Alena Vox and Alírio and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 57 upcomi
 | Fri, 9 Oct 2026 | HAREBRAINED: DEFCON ULTIMATE / Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies | Baseck, Kuuma, OMO (US), Seanni B, fi3nd, joycxi, madeofants |
 | Fri, 9 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

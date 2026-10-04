@@ -1,6 +1,6 @@
 # VASSIŁINA
 
-VASSIŁINA is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ilion Plus, Athens on Thu, 15 Oct 2026.
+VASSIŁINA is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ilion Plus, Athens on Thu, 15 Oct 2026.
 
 VASSIŁINA is a club and pop artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside Catu Diosis, Curses and DJ Problems. Next up: Ilion Plus, Athens on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ VASSIŁINA is a club and pop artist based in Greece, with 8 gigs on soundcheck a
 
 Catu Diosis, Curses, DJ Problems
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*

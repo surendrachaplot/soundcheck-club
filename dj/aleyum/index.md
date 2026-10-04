@@ -1,13 +1,14 @@
 # Aleyum
 
-Aleyum is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at rake?raka?, Osaka on Sat, 24 Oct 2026.
+Aleyum is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 11 Oct 2026.
 
-Aleyum is a techno and drum & bass artist based in United States of America, with 5 gigs on soundcheck across Osaka and San Francisco/Oakland. Often billed alongside BCee, BLK&WHT and Degs. Next up: rake?raka?, Osaka on Sat 24 Oct.
+Aleyum is a techno and drum & bass artist based in United States of America, with 6 gigs on soundcheck across Osaka, San Francisco/Oakland and Tokyo. Often billed alongside ANZU, Ayantula and BCee. Next up: Royal Lounge, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Royal Lounge | Tokyo |
 | Sat, 24 Oct 2026 | rake?raka? | Osaka |
 
 ## Recently played
@@ -19,6 +20,6 @@ Aleyum is a techno and drum & bass artist based in United States of America, wit
 
 ## Shares bills with
 
-BCee, BLK&WHT, Degs
+ANZU, Ayantula, BCee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleyum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleyum/)*

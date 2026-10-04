@@ -1,6 +1,6 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
+Robin Flux is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
 
 Robin Flux is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside DJ LoveCatt, Mari to the future and Triqi. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ Robin Flux is a house and techno artist based in Germany, with 101 gigs on sound
 
 ## Recently played
 
+- Renate, Berlin · Sat, 3 Oct 2026
 - Renate, Berlin · Fri, 11 Sept 2026
 - Studio1111, Berlin · Fri, 4 Sept 2026
 - Kater, Berlin · Fri, 28 Aug 2026
@@ -22,10 +23,9 @@ Robin Flux is a house and techno artist based in Germany, with 101 gigs on sound
 - Jolene, Copenhagen · Fri, 21 Aug 2026
 - Säälchen, Berlin · Fri, 14 Aug 2026
 - AMT, Berlin · Sat, 8 Aug 2026
-- TILLATEC, Amsterdam · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 DJ LoveCatt, Mari to the future, Triqi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*

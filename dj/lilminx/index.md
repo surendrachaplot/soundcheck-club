@@ -1,6 +1,6 @@
 # Lil' Minx
 
-Lil' Minx is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Talleyrand, Manchester on Sat, 3 Oct 2026.
+Lil' Minx is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Talleyrand, Manchester on Sat, 3 Oct 2026.
 
 Lil' Minx is a broken beat and house artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside Laura Jackson, Mr Scruff and Timo-G. Next up: The Talleyrand, Manchester on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Lil' Minx is a broken beat and house artist based in United Kingdom, with 16 gig
 
 ## Recently played
 
+- The Talleyrand, Manchester · Sat, 3 Oct 2026
 - Dahlia Stereo, Manchester · Sat, 26 Sept 2026
 - renae, Manchester · Sat, 12 Sept 2026
 - renae, Manchester · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Lil' Minx is a broken beat and house artist based in United Kingdom, with 16 gig
 - Rainy Heart, Manchester · Sat, 21 Mar 2026
 - renae, Manchester · Fri, 23 Jan 2026
 - Bakehouse 32, Manchester · Sun, 22 Dec 2024
-- The Talleyrand, Manchester · Fri, 15 Nov 2024
 
 ## Shares bills with
 
 Laura Jackson, Mr Scruff, Timo-G
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*

@@ -1,6 +1,6 @@
 # Scott (Afterhours.)
 
-Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sun, 4 Oct 2026.
+Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Sun, 4 Oct 2026.
 
 Scott (Afterhours.) is a minimal techno and minimal artist, with 23 gigs on soundcheck across Berlin, Dundee, Edinburgh and Lisbon and 5 more. Often billed alongside Sonho, BAYNE and Is Kill. Next up: Paloma, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Scott (Afterhours.) is a minimal techno and minimal artist, with 23 gigs on soun
 
 Sonho, BAYNE, Is Kill
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*

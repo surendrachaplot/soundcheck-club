@@ -1,6 +1,6 @@
 # La Figa
 
-La Figa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
+La Figa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 8 Oct 2026.
 
 La Figa is a house and techno artist based in Australia, with 17 gigs on soundcheck across Sydney. Often billed alongside Alex Diwa, Harry Court and Milkpaste. Next up: TBA - Museum of Contemporary Art Australia, Sydney on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ La Figa is a house and techno artist based in Australia, with 17 gigs on soundch
 
 Alex Diwa, Harry Court, Milkpaste
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiga/)*

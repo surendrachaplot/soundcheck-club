@@ -1,6 +1,6 @@
 # EVE (IE)
 
-EVE (IE) is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+EVE (IE) is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 EVE (IE) is a deep house and progressive house artist based in Ireland, with 16 gigs on soundcheck across Belfast, Berlin, Dublin and Kanto. Often billed alongside Ste Flynn, Colin Perkins and Mulljoy. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EVE (IE) is a deep house and progressive house artist based in Ireland, with 16 
 
 Ste Flynn, Colin Perkins, Mulljoy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveie/)*

@@ -1,6 +1,6 @@
 # TEK NENA
 
-TEK NENA is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Fri, 9 Oct 2026.
+TEK NENA is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Fri, 9 Oct 2026.
 
 TEK NENA is a techno and reggaeton artist based in United States of America, with 27 gigs on soundcheck across Mexico City and New York City. Often billed alongside Alta Tecnologias, Miss Beverly and Cal.x. Next up: Paragon, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ TEK NENA is a techno and reggaeton artist based in United States of America, wit
 
 Alta Tecnologias, Miss Beverly, Cal.x
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknena/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknena/)*

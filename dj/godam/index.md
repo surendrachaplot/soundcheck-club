@@ -1,6 +1,6 @@
 # Go Dam
 
-Go Dam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Modeci, Seoul on Sun, 4 Oct 2026.
+Go Dam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Modeci, Seoul on Sun, 4 Oct 2026.
 
 Go Dam is a techno and house artist based in South Korea, with 34 gigs on soundcheck across Seoul. Often billed alongside Mogwaa, .2ndfloor and Acidwork. Next up: Modeci, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Go Dam is a techno and house artist based in South Korea, with 34 gigs on soundc
 
 Mogwaa, .2ndfloor, Acidwork
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godam/)*

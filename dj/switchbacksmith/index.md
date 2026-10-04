@@ -1,6 +1,6 @@
 # Switch Back Smith
 
-Switch Back Smith is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
+Switch Back Smith is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
 
 Switch Back Smith is a hardcore and jungle artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Demetzy, Warlock and Ac1d Vicious. Next up: Low Profile Studios, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Switch Back Smith is a hardcore and jungle artist based in United Kingdom, with 
 
 Demetzy, Warlock, Ac1d Vicious
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/switchbacksmith/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/switchbacksmith/)*

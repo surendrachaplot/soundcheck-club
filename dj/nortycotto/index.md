@@ -1,6 +1,6 @@
 # Norty Cotto
 
-Norty Cotto is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Happyfun Hideaway, New York City on Sat, 17 Oct 2026.
+Norty Cotto is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Happyfun Hideaway, New York City on Sat, 17 Oct 2026.
 
 Norty Cotto is a tech house and house artist based in United States of America, with 7 gigs on soundcheck across New York City and San Diego. Often billed alongside Zeno, Veeps and Ardio Zemog. Next up: Happyfun Hideaway, New York City on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Norty Cotto is a tech house and house artist based in United States of America, 
 
 Zeno (3), Veeps, Ardio Zemog
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nortycotto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nortycotto/)*

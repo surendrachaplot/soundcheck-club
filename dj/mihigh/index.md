@@ -1,6 +1,6 @@
 # Mihigh
 
-Mihigh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Supermarket, Zurich on Thu, 29 Oct 2026.
+Mihigh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Supermarket, Zurich on Thu, 29 Oct 2026.
 
 Mihigh is a minimal and house artist based in Romania, with 57 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 11 more. Often billed alongside CEZAR, Gescu and Arapu. Next up: Supermarket, Zurich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Mihigh is a minimal and house artist based in Romania, with 57 gigs on soundchec
 
 CEZAR, Gescu, Arapu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*

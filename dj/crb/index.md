@@ -1,6 +1,6 @@
 # CRB
 
-CRB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+CRB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
 CRB is a techno and house artist based in France, with 133 gigs on soundcheck across Berlin, Budapest and Paris. Often billed alongside HAYAM, Cry Later and Nakrasia. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ CRB is a techno and house artist based in France, with 133 gigs on soundcheck ac
 
 HAYAM, Cry Later, Nakrasia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crb/)*

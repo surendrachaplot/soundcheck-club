@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
+DJ Snake is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Snake is a house and bass artist based in France, with 49 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Henry Fong, Audien and James Hype (UK). Next up: Paradiso, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ DJ Snake is a house and bass artist based in France, with 49 gigs on soundcheck 
 
 Henry Fong, Audien, James Hype (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

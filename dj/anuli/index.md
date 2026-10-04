@@ -1,6 +1,6 @@
 # Anuli
 
-Anuli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
+Anuli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
 
 Anuli is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Leipzig. Often billed alongside Dychromatic, Lip71 and makahaun. Next up: Tresor.West, Dortmund Essen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Anuli is a techno and house artist based in Germany, with 9 gigs on soundcheck a
 
 Dychromatic, Lip71, makahaun
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anuli/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anuli/)*

@@ -1,6 +1,6 @@
 # Miruna Ghica
 
-Miruna Ghica is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+Miruna Ghica is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
 Miruna Ghica is a house and tech house artist, with 11 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 3 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Miruna Ghica is a house and tech house artist, with 11 gigs on soundcheck across
 
 Darius Syrossian, Kellie Allen, Dale Hart
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*

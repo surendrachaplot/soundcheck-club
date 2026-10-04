@@ -1,6 +1,6 @@
 # egomania
 
-egomania is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Fri, 23 Oct 2026.
+egomania is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at clubasia, Tokyo on Fri, 23 Oct 2026.
 
 egomania is a hardcore and techno artist based in Japan, with 46 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside KAMIKAZE, Sonia Lagoon and KYLE MIKASA. Next up: clubasia, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ egomania is a hardcore and techno artist based in Japan, with 46 gigs on soundch
 
 KAMIKAZE, Sonia Lagoon (2), KYLE MIKASA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*

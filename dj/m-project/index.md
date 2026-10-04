@@ -1,6 +1,6 @@
 # M-Project
 
-M-Project is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
+M-Project is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
 
 M-Project is a hardcore and techno artist, with 31 gigs on soundcheck across Amsterdam, Osaka and Tokyo. Often billed alongside DJ Shimamura, Coretex and MIDI War. Next up: TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ M-Project is a hardcore and techno artist, with 31 gigs on soundcheck across Ams
 
 DJ Shimamura, Coretex, MIDI War
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-project/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-project/)*

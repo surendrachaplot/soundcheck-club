@@ -1,6 +1,6 @@
 # Valeria Litvakov
 
-Valeria Litvakov is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
+Valeria Litvakov is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
 
 Valeria Litvakov is a club and experimental artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside 300SkullsAndCounting, Oli XL and 3LNA. Next up: La Station - Gare des Mines, Paris on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Valeria Litvakov is a club and experimental artist based in Germany, with 19 gig
 
 300SkullsAndCounting, Oli XL, 3LNA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*

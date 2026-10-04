@@ -1,6 +1,6 @@
 # Marhu
 
-Marhu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at D! Club, Lausanne on Fri, 16 Oct 2026.
+Marhu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at D! Club, Lausanne on Fri, 16 Oct 2026.
 
 Marhu is a techno and trance artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Indira Paganotto, BIIA and Die Klar. Next up: D! Club, Lausanne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Marhu is a techno and trance artist based in Belgium, with 48 gigs on soundcheck
 
 Indira Paganotto, BIIA, Die Klar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*

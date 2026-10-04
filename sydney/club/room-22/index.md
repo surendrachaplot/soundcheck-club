@@ -1,6 +1,6 @@
 # Room 22
 
-Room 22 is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "GTA Pres: Kamilo Sanclemente SYDNEY 2026" on Sat, 17 Oct 2026.
+Room 22 is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "GTA Pres: Kamilo Sanclemente SYDNEY 2026" on Sat, 17 Oct 2026.
 
 Room 22 is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Aaiste, Gaston Gari, Kamilo Sanclemente and NOIYSE PROJECT. See dates, start times and who's playing. 22 Bayswater Rd, Potts Point, NSW 2011.
 
@@ -14,4 +14,4 @@ Room 22 is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with li
 
 22 Bayswater Rd, Potts Point, NSW 2011, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*

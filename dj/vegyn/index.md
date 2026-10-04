@@ -1,6 +1,6 @@
 # Vegyn
 
-Vegyn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mooi Space, Toronto on Sat, 7 Nov 2026.
+Vegyn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mooi Space, Toronto on Sat, 7 Nov 2026.
 
 Vegyn is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 24 more. Often billed alongside AMR*, Skin On Skin and amr*. Next up: Mooi Space, Toronto on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vegyn is a house and techno artist based in United Kingdom, with 68 gigs on soun
 
 AMR*, Skin On Skin, amr* (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vegyn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vegyn/)*

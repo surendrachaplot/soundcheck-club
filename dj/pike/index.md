@@ -1,6 +1,6 @@
 # PIKE
 
-PIKE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarry, Liverpool on Fri, 16 Oct 2026.
+PIKE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarry, Liverpool on Fri, 16 Oct 2026.
 
 PIKE is a techno and house artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Liverpool, Rotterdam and The Hague. Often billed alongside Roy Lodder, Atnan and ADHDJ. Next up: Quarry, Liverpool on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PIKE is a techno and house artist based in Netherlands, with 16 gigs on soundche
 
 Roy Lodder, Atnan, ADHDJ (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pike/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pike/)*

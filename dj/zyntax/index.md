@@ -1,6 +1,6 @@
 # ZYNTAX
 
-ZYNTAX is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+ZYNTAX is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
 ZYNTAX is a hardcore and gabber artist based in Germany, with 30 gigs on soundcheck across Berlin. Often billed alongside m4tsch1, Makinarium and XIMA. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ ZYNTAX is a hardcore and gabber artist based in Germany, with 30 gigs on soundch
 
 m4tsch1, Makinarium, XIMA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zyntax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zyntax/)*

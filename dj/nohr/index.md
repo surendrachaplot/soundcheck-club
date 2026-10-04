@@ -1,6 +1,6 @@
 # NOHR
 
-NOHR is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
+NOHR is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
 
 NOHR is a house and techno artist based in Denmark, with 7 gigs on soundcheck across Amsterdam, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside NTO, &ME and 999999999. Next up: BRAND SHIBUYA, Tokyo on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ NOHR is a house and techno artist based in Denmark, with 7 gigs on soundcheck ac
 
 NTO, &ME, 999999999
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohr/)*

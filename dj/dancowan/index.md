@@ -1,6 +1,6 @@
 # Dan Cowan
 
-Dan Cowan is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 93 Feet East, London on Sat, 10 Oct 2026.
+Dan Cowan is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 93 Feet East, London on Sat, 10 Oct 2026.
 
 Dan Cowan is a house artist based in United Kingdom, with 6 gigs on soundcheck across London and Manchester. Often billed alongside Groves, Lewis Carroll and Talieu. Next up: 93 Feet East, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Dan Cowan is a house artist based in United Kingdom, with 6 gigs on soundcheck a
 
 Groves, Lewis Carroll, Talieu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancowan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancowan/)*

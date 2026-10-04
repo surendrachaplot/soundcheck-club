@@ -1,6 +1,6 @@
 # Dusty Vinyl
 
-Dusty Vinyl is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dusty Vinyl Bar" on Fri, 9 Oct 2026.
+Dusty Vinyl is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Dusty Vinyl Bar" on Fri, 9 Oct 2026.
 
 Dusty Vinyl is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 11326 W Pico Blvd, Los Angeles CA 90064.
 
@@ -14,4 +14,4 @@ Dusty Vinyl is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig
 
 11326 W Pico Blvd, Los Angeles CA 90064, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/dusty-vinyl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/dusty-vinyl/)*

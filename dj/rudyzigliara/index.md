@@ -1,6 +1,6 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+Rudy Zigliara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madame Claude, Berlin on Sat, 3 Oct 2026.
 
 Rudy Zigliara is a house and techno artist based in France, with 16 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Caldii and Dr. Sud. Next up: Madame Claude, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Rudy Zigliara is a house and techno artist based in France, with 16 gigs on soun
 
 ## Recently played
 
+- Madame Claude, Berlin · Sat, 3 Oct 2026
 - TBA, Berlin · Sun, 12 Jul 2026
 - TBA - HIDDEN LOCATION (DM @Pulse_Friction) , Berlin · Fri, 1 May 2026
 - TBA - HIDDEN LOCATION (DM @Pulse_Friction) , Berlin · Sat, 4 Apr 2026
@@ -19,10 +20,9 @@ Rudy Zigliara is a house and techno artist based in France, with 16 gigs on soun
 - TBA - DM for adress, Berlin · Sat, 7 Feb 2026
 - Madame Claude, Berlin · Sat, 17 Jan 2026
 - AVA Club, Berlin · Wed, 7 Jan 2026
-- AVA Club, Berlin · Fri, 27 Jun 2025
 
 ## Shares bills with
 
 doctor doms, Caldii, Dr. Sud
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

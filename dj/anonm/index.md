@@ -1,6 +1,6 @@
 # ANONM
 
-ANONM is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+ANONM is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
 ANONM is an afro house and house artist based in Germany, with 5 gigs on soundcheck across London and Singapore. Often billed alongside Milam, Mo-Shi and Leon (FR). Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ ANONM is an afro house and house artist based in Germany, with 5 gigs on soundch
 
 Milam, Mo-Shi, Leon (FR)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anonm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anonm/)*

@@ -1,6 +1,6 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Lauren Hansom is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Lauren Hansom is a house and club artist based in Australia, with 24 gigs on soundcheck across Auckland, Brisbane, Melbourne and New York City and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Lauren Hansom is a house and club artist based in Australia, with 24 gigs on sou
 
 HanSom, Wax'o Paradiso, DJ PGZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*

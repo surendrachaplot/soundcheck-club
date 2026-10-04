@@ -1,6 +1,6 @@
 # Ryan Dank (2)
 
-Ryan Dank (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
+Ryan Dank (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
 
 Ryan Dank is a house and techno artist based in Denmark, with 38 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DJ Spice, Jonas Tuk and Tim Andresen. Next up: Culture Box, Copenhagen on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ryan Dank is a house and techno artist based in Denmark, with 38 gigs on soundch
 
 DJ Spice, Jonas Tuk, Tim Andresen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandank-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandank-2/)*

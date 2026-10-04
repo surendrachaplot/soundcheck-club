@@ -1,6 +1,6 @@
 # Krithi
 
-Krithi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Elsewhere, New York City on Fri, 16 Oct 2026.
+Krithi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Elsewhere, New York City on Fri, 16 Oct 2026.
 
 Krithi is a house and techno artist based in United States of America, with 36 gigs on soundcheck across London, New York City and Toronto. Often billed alongside Sana (NYC), Baalti and Saphe. Next up: Elsewhere, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Krithi is a house and techno artist based in United States of America, with 36 g
 
 Sana (NYC), Baalti, Saphe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*

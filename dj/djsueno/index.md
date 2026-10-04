@@ -1,6 +1,6 @@
 # Dj Sueño
 
-Dj Sueño is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
+Dj Sueño is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
 
 Dj Sueño is a reggaeton and latin bass artist, with 15 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 5 more. Often billed alongside Rosa Pistola, Bclip and DJ2D2. Next up: Razzmatazz, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dj Sueño is a reggaeton and latin bass artist, with 15 gigs on soundcheck acros
 
 Rosa Pistola, Bclip, DJ2D2
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsueno/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsueno/)*

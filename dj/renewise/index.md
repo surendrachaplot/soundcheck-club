@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Art Club, Houston on Sat, 3 Oct 2026.
+Rene Wise is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Art Club, Houston on Sat, 3 Oct 2026.
 
 Rene Wise is a techno and house artist based in United Kingdom, with 257 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Art Club, Houston on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Rene Wise is a techno and house artist based in United Kingdom, with 257 gigs on
 
 ## Recently played
 
+- Art Club, Houston · Sat, 3 Oct 2026
 - 288 Green St, Boston · Fri, 2 Oct 2026
 - Cabooze, Minneapolis-st-paul · Sun, 27 Sept 2026
 - TBA - Los Angeles, Los Angeles · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Rene Wise is a techno and house artist based in United Kingdom, with 257 gigs on
 - TBA - San Francisco, San Francisco/Oakland · Fri, 25 Sept 2026
 - SMUT Athens, Athens · Sat, 19 Sept 2026
 - essaim, Paris · Fri, 18 Sept 2026
-- Open Ground, Wuppertal · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

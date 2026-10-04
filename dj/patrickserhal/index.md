@@ -1,6 +1,6 @@
 # Patrick Serhal
 
-Patrick Serhal is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Patrick Serhal is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 Patrick Serhal is a house and progressive house artist based in Lebanon, with 12 gigs on soundcheck across Amsterdam and London. Often billed alongside Ander Race, Auggië and K.eem. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Patrick Serhal is a house and progressive house artist based in Lebanon, with 12
 
 Ander Race, Auggië, K.eem
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickserhal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickserhal/)*

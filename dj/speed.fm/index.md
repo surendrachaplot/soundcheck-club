@@ -1,6 +1,6 @@
 # Speed.FM
 
-Speed.FM is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
+Speed.FM is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 Speed.FM is a club and experimental artist based in United States of America, with 10 gigs on soundcheck across Philadelphia, Vancouver and Washington DC. Often billed alongside Obreezy Beats, RESONATE.JPEG and WILHELMINA. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Speed.FM is a club and experimental artist based in United States of America, wi
 
 Obreezy Beats, RESONATE.JPEG, WILHELMINA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*

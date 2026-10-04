@@ -1,6 +1,6 @@
 # Backstage
 
-Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Klangfarben Kollektiv pres. FUTURE FACES" on Fri, 23 Oct 2026.
+Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Klangfarben Kollektiv pres. FUTURE FACES" on Fri, 23 Oct 2026.
 
 Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including antyo and Sina Bathaie. See dates, start times and who's playing. Reitknechtstr. 6, 80639 Munich, Germany.
 
@@ -15,4 +15,4 @@ Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with
 
 Reitknechtstr. 6, 80639 Munich, Germany, Munich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*

@@ -1,6 +1,6 @@
 # Juheun
 
-Juheun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Juheun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Juheun is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Detroit, San Diego and Seoul and 2 more. Often billed alongside Michelle Sparks, Dani Savant and Donnerstag. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Juheun is a techno and house artist based in United States of America, with 10 g
 
 Michelle Sparks, Dani Savant, Donnerstag (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juheun/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juheun/)*

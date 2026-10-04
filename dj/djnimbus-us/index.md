@@ -1,6 +1,6 @@
 # dj NIMBUS
 
-dj NIMBUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
+dj NIMBUS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
 
 dj NIMBUS is a house and deep house artist, with 6 gigs on soundcheck across Austin and Houston. Often billed alongside Alex Clavijo, Bobby Blyss and CSILLA. Next up: Eldorado Ballroom, Houston on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ dj NIMBUS is a house and deep house artist, with 6 gigs on soundcheck across Aus
 
 Alex Clavijo, Bobby Blyss, CSILLA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnimbus-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnimbus-us/)*

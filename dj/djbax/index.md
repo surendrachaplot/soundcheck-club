@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
+DJ Bax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
 DJ Bax is a techno and trance artist based in New Zealand, with 20 gigs on soundcheck across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Liquid Club, Malta on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ Bax is a techno and trance artist based in New Zealand, with 20 gigs on sound
 
 2FEL, 4000 Hz, Ageusic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

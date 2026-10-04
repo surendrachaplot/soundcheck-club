@@ -1,6 +1,6 @@
 # Olevv
 
-Olevv is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
+Olevv is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
 
 Olevv is a techno and experimental artist based in Japan, with 31 gigs on soundcheck across Osaka and Tokyo. Often billed alongside adak7, OCCA and Toner(JP). Next up: Saloon, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Olevv is a techno and experimental artist based in Japan, with 31 gigs on soundc
 
 adak7, OCCA, Toner(JP)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olevv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olevv/)*

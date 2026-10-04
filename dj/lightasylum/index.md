@@ -1,6 +1,6 @@
 # Light Asylum
 
-Light Asylum is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Fri, 16 Oct 2026.
+Light Asylum is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Fri, 16 Oct 2026.
 
 Light Asylum is an ebm and industrial artist based in United States of America, with 24 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 11 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: Paragon, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Light Asylum is an ebm and industrial artist based in United States of America, 
 
 EchoDroides, Heavy Halo, Vyper
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*

@@ -1,6 +1,6 @@
 # Retrospect
 
-Retrospect is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Brighton on Fri, 16 Oct 2026.
+Retrospect is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Brighton on Fri, 16 Oct 2026.
 
 Retrospect is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across Brighton, London and Nottingham. Often billed alongside Edo.1, ADR (UK) and AZAAD. Next up: TBA - Secret Location, Brighton on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Retrospect is a garage and house artist based in United Kingdom, with 10 gigs on
 
 Edo.1, ADR (UK), AZAAD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*

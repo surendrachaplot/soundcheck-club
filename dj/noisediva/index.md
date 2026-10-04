@@ -1,6 +1,6 @@
 # Noise Diva
 
-Noise Diva is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Noise Diva is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Noise Diva is a club and bass artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 6 more. Often billed alongside YoungWoman, BADER and LazerGazer. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Noise Diva is a club and bass artist based in Netherlands, with 38 gigs on sound
 
 YoungWoman, BADER, LazerGazer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisediva/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisediva/)*

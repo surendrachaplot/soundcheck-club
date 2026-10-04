@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Theo Parrish is a House and Funk / Soul artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

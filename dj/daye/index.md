@@ -1,6 +1,6 @@
 # DAYE.
 
-DAYE. is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
+DAYE. is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
 DAYE. is a footwork and house artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Arielle Lana, DJ Manny and GEOTHEORY. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ DAYE. is a footwork and house artist based in United States of America, with 11 
 
 Arielle Lana, DJ Manny, GEOTHEORY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daye/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daye/)*

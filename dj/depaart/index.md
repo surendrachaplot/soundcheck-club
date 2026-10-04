@@ -1,6 +1,6 @@
 # Depaart
 
-Depaart is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at High Club Room, Madrid on Sat, 31 Oct 2026.
+Depaart is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at High Club Room, Madrid on Sat, 31 Oct 2026.
 
 Depaart is a house and acid artist based in Spain, with 37 gigs on soundcheck across Madrid. Often billed alongside Simon Garcia, Amor Satyr and Daniel Dawan. Next up: High Club Room, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Depaart is a house and acid artist based in Spain, with 37 gigs on soundcheck ac
 
 Simon Garcia, Amor Satyr, Daniel Dawan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/depaart/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/depaart/)*

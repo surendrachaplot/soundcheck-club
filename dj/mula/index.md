@@ -1,6 +1,6 @@
 # Mula
 
-Mula is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pm93 Essen, Dortmund-essen on Sat, 10 Oct 2026.
+Mula is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pm93 Essen, Dortmund-essen on Sat, 10 Oct 2026.
 
 Mula is a techno and downtempo artist, with 9 gigs on soundcheck across Basel, Berlin, Budapest and Dortmund Essen and 3 more. Often billed alongside Paul Traeumer, Pulli & Chomba and pulli. Next up: Pm93 Essen, Dortmund Essen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mula is a techno and downtempo artist, with 9 gigs on soundcheck across Basel, B
 
 Paul Traeumer, Pulli & Chomba, pulli
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mula/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mula/)*

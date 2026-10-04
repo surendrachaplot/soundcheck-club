@@ -1,6 +1,6 @@
 # CEB (FI)
 
-CEB (FI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
+CEB (FI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
 CEB (FI) is a techno and house artist based in Finland, with 92 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Leipzig and 1 more. Often billed alongside LARA SILVA, Paula Koski and 2THEMAX. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CEB (FI) is a techno and house artist based in Finland, with 92 gigs on soundche
 
 LARA SILVA, Paula Koski, 2THEMAX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceb-fi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceb-fi/)*

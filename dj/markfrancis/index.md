@@ -1,6 +1,6 @@
 # Mark Francis
 
-Mark Francis is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Fluid 510, 1544 Broadway, Oakland, San Francisco/Oakland on Sat, 17 Oct 2026.
+Mark Francis is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Fluid 510, 1544 Broadway, Oakland, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Mark Francis is a deep house and house artist based in United States of America, with 30 gigs on soundcheck across Chicago, Houston, London and Miami and 2 more. Often billed alongside Timmy Regisford, merlin bobb and DJ Beloved. Next up: TBA - Fluid 510, 1544 Broadway, Oakland, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mark Francis is a deep house and house artist based in United States of America,
 
 Timmy Regisford, merlin bobb, DJ Beloved
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfrancis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markfrancis/)*

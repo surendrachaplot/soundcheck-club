@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MOLOTOV TAKEOVER IN BUCHAREST" on Sat, 3 Oct 2026.
+Forge is a music venue in Bucharest with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MOLOTOV TAKEOVER IN BUCHAREST" on Sat, 3 Oct 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 11 upcoming gigs, with line-ups including BBUBU, Clast, DA NA and FAUST and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -23,4 +23,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 11 upcoming gigs, with
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

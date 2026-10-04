@@ -1,6 +1,6 @@
 # Sebastian Keks
 
-Sebastian Keks is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location Berlin, Berlin on Sat, 24 Oct 2026.
+Sebastian Keks is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location Berlin, Berlin on Sat, 24 Oct 2026.
 
 Sebastian Keks is a techno and minimal artist based in Germany, with 21 gigs on soundcheck across Belgrade, Berlin, Bucharest and London and 2 more. Often billed alongside DJ Jordan, GHOST DE and ROPE. Next up: TBA - Secret Location Berlin, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Keks is a techno and minimal artist based in Germany, with 21 gigs on 
 
 DJ Jordan, GHOST DE, ROPE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankeks/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankeks/)*

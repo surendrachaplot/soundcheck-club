@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo" on Sat, 3 Oct 2026.
+Gewölbe is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Im Fokus with Habben & Sandilé, salmjak, Savsannah & Philo" on Sat, 3 Oct 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including 04061, Andy Garvey, Anna Cainelli and a:tok and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

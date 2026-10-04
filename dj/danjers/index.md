@@ -1,6 +1,6 @@
 # Danjers
 
-Danjers is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 31 Oct 2026.
+Danjers is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 31 Oct 2026.
 
 Danjers is a house and club artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart, Alex Ferz and BLANKET. Next up: EL SÓTANO, Madrid on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Danjers is a house and club artist based in Spain, with 5 gigs on soundcheck acr
 
 Adrian Mart, Alex Ferz, BLANKET
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*

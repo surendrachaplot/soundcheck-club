@@ -1,6 +1,6 @@
 # 81 Renshaw Street
 
-81 Renshaw Street is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Interior Exit Showcase Vol 2" on Thu, 22 Oct 2026.
+81 Renshaw Street is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Interior Exit Showcase Vol 2" on Thu, 22 Oct 2026.
 
 81 Renshaw Street is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including Alex Spiers, B.A.G.S, Groß Aktiv and Jez Thelwell. See dates, start times and who's playing. 81 Renshaw Street, Liverpool, L1 2SJ.
 
@@ -14,4 +14,4 @@
 
 81 Renshaw Street, Liverpool, L1 2SJ, Liverpool
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*

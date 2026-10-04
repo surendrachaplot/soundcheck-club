@@ -1,6 +1,6 @@
 # Tess Roby
 
-Tess Roby is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
+Tess Roby is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
 
 Tess Roby is a house and trance artist, with 12 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside Alina (MTL), Bwi-Bwi and DJ Frog. Next up: Bar Datcha, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tess Roby is a house and trance artist, with 12 gigs on soundcheck across London
 
 Alina (MTL), Bwi-Bwi, DJ Frog
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tessroby/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tessroby/)*

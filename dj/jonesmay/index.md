@@ -1,6 +1,6 @@
 # Jones May
 
-Jones May is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Wed, 7 Oct 2026.
+Jones May is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Wed, 7 Oct 2026.
 
 Jones May is a tech house and house artist based in Spain, with 44 gigs on soundcheck across Barcelona. Often billed alongside Pau Guilera, Hitch and Alex Pott. Next up: Macarena Club, Barcelona on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Jones May is a tech house and house artist based in Spain, with 44 gigs on sound
 
 Pau Guilera, Hitch, Alex Pott
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*

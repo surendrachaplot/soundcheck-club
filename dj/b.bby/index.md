@@ -1,6 +1,6 @@
 # B.bby
 
-B.bby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 4 Oct 2026.
+B.bby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 4 Oct 2026.
 
 B.bby is a techno and house artist, with 11 gigs on soundcheck across Barcelona, Berlin, Brussels and Tokyo. Often billed alongside Living Code, Palcon Figeon and vip client. Next up: Aoyama Hachi, Tokyo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ B.bby is a techno and house artist, with 11 gigs on soundcheck across Barcelona,
 
 Living Code, Palcon Figeon, vip client
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.bby/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.bby/)*

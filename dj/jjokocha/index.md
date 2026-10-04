@@ -1,6 +1,6 @@
 # JJ OKOCHA
 
-JJ OKOCHA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+JJ OKOCHA is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 JJ OKOCHA is a trance and techno artist based in Australia, with 4 gigs on soundcheck across New South Wales and Sydney. Often billed alongside Karani, LOIF and MTTY. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ JJ OKOCHA is a trance and techno artist based in Australia, with 4 gigs on sound
 
 Karani, LOIF, MTTY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjokocha/)*

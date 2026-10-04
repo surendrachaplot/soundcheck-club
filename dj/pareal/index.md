@@ -1,6 +1,6 @@
 # Pareal
 
-Pareal is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kantine am Berghain, Berlin on Sun, 1 Nov 2026.
+Pareal is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kantine am Berghain, Berlin on Sun, 1 Nov 2026.
 
 Pareal is an electronica and ambient artist based in Germany, with 8 gigs on soundcheck across Berlin and Porto. Often billed alongside Afra, Alex P. and Anika Kunst. Next up: Kantine am Berghain, Berlin on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Pareal is an electronica and ambient artist based in Germany, with 8 gigs on sou
 
 Afra, Alex P., Anika Kunst
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pareal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pareal/)*

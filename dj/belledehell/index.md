@@ -1,6 +1,6 @@
 # Belle DeHell
 
-Belle DeHell is a Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 1990, Glasgow on Fri, 9 Oct 2026.
+Belle DeHell is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1990, Glasgow on Fri, 9 Oct 2026.
 
 Belle DeHell is a club artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Babyjaii, Only Fire and Rahul.mp3. Next up: 1990, Glasgow on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Belle DeHell is a club artist based in United Kingdom, with 5 gigs on soundcheck
 
 Babyjaii, Only Fire, Rahul.mp3
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belledehell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belledehell/)*

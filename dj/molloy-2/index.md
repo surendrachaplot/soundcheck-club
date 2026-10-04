@@ -1,6 +1,6 @@
 # Molloy
 
-Molloy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Meraki, Liverpool on Fri, 23 Oct 2026.
+Molloy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Meraki, Liverpool on Fri, 23 Oct 2026.
 
 Molloy is a techno and trance artist based in United Kingdom, with 20 gigs on soundcheck across Glasgow, Liverpool, London and Manchester and 2 more. Often billed alongside riccard.o0, Faster Horses and djcd. Next up: Meraki, Liverpool on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Molloy is a techno and trance artist based in United Kingdom, with 20 gigs on so
 
 riccard.o0, Faster Horses, djcd
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molloy-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molloy-2/)*

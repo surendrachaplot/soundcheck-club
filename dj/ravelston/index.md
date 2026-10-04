@@ -1,6 +1,6 @@
 # Ravelston
 
-Ravelston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Ravelston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
 
 Ravelston is a house and electronica artist based in United Kingdom, with 35 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Nikki Kent, otisworming and Ann Tweak. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ravelston is a house and electronica artist based in United Kingdom, with 35 gig
 
 Nikki Kent, otisworming, Ann Tweak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*

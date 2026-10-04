@@ -1,6 +1,6 @@
 # Mahabe
 
-Mahabe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fluor, Netherlands on Fri, 9 Oct 2026.
+Mahabe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fluor, Netherlands on Fri, 9 Oct 2026.
 
 Mahabe is a house and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside Bastienne, TAFKAMP and Mauro Moreno. Next up: Fluor, Netherlands on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mahabe is a house and techno artist based in Netherlands, with 33 gigs on soundc
 
 Bastienne, TAFKAMP, Mauro Moreno
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahabe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahabe/)*

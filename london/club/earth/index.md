@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Digitalism" on Sat, 10 Oct 2026.
+EartH is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Digitalism" on Sat, 10 Oct 2026.
 
 EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, Digitalism and DJ Brockie and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

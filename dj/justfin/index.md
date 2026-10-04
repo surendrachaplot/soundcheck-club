@@ -1,6 +1,6 @@
 # justfin
 
-justfin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+justfin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 justfin is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Bangkok, Berlin and Thailand. Often billed alongside DOTT, Mizuyo and ÆTHELGON. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ justfin is a house and techno artist based in United Kingdom, with 7 gigs on sou
 
 DOTT, Mizuyo, ÆTHELGON
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

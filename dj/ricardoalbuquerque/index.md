@@ -1,6 +1,6 @@
 # Ricardo Albuquerque
 
-Ricardo Albuquerque is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pedreira Paulo Leminski, Brazil on Mon, 6 Sept 2032.
+Ricardo Albuquerque is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pedreira Paulo Leminski, Brazil on Mon, 6 Sept 2032.
 
 Ricardo Albuquerque is a house and deep house artist, with 7 gigs on soundcheck across Brazil, Buenos Aires, Miami and San Diego. Often billed alongside Kike Roldan, Patrick M and Brian Cid. Next up: Pedreira Paulo Leminski, Brazil on Mon 6 Sept.
 
@@ -23,4 +23,4 @@ Ricardo Albuquerque is a house and deep house artist, with 7 gigs on soundcheck 
 
 Kike Roldan, Patrick M, Brian Cid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoalbuquerque/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoalbuquerque/)*

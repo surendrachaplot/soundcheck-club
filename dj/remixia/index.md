@@ -1,6 +1,6 @@
 # REMIXIA
 
-REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
+REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
 
 REMIXIA is a house and afro house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 1 more. Often billed alongside CLEIDO, Major League Djz and BADBOX. Next up: Bread and Butter, London on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ REMIXIA is a house and afro house artist based in United Kingdom, with 31 gigs o
 
 CLEIDO, Major League Djz, BADBOX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*

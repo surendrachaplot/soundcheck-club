@@ -1,6 +1,6 @@
 # Banco Vini
 
-Banco Vini is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bordello a Parigi - Turin Edition" on Thu, 8 Oct 2026.
+Banco Vini is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bordello a Parigi - Turin Edition" on Thu, 8 Oct 2026.
 
 Banco Vini is a music venue in Turin listed on soundcheck. 1 upcoming gig, with line-ups including Andrea Martello, Andrea Vietti, Bordello Soundsystem and Gambo. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Banco Vini is a music venue in Turin listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Bordello a Parigi - Turin Edition | Andrea Martello, Andrea Vietti, Bordello Soundsystem, Gambo |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/banco-vini/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/banco-vini/)*

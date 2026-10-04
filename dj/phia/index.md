@@ -1,6 +1,6 @@
 # PHIA
 
-PHIA is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+PHIA is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 PHIA is a house and electro artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Budapest, Liverpool and Rotterdam and 2 more. Often billed alongside Fafi Abdel Nour, Lucky Done Gone and Doppelgang. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ PHIA is a house and electro artist based in Netherlands, with 72 gigs on soundch
 
 Fafi Abdel Nour, Lucky Done Gone, Doppelgang
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phia/)*

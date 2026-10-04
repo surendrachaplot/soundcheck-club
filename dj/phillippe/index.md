@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+Phillippe is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 Phillippe is a house and club artist based in Canada, with 74 gigs on soundcheck across Mexico City, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jeremy Glenn and Kiki LeFreak. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Phillippe is a house and club artist based in Canada, with 74 gigs on soundcheck
 
 Karim Olen Ash, Jeremy Glenn, Kiki LeFreak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

@@ -1,6 +1,6 @@
 # matilda (2)
 
-matilda (2) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Macadam, Nantes on Tue, 10 Nov 2026.
+matilda (2) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Macadam, Nantes on Tue, 10 Nov 2026.
 
 matilda is a trance and techno artist based in France, with 23 gigs on soundcheck across Nantes and Paris. Often billed alongside Arnaud Is Dancing, CO.KO and Club Devotion. Next up: Macadam, Nantes on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ matilda is a trance and techno artist based in France, with 23 gigs on soundchec
 
 Arnaud Is Dancing, CO.KO, Club Devotion
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matilda-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matilda-2/)*

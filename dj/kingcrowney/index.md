@@ -1,6 +1,6 @@
 # KingCrowney
 
-KingCrowney is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+KingCrowney is a Deep House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 KingCrowney is a deep house and garage artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Chris Wheatley, Faro and Handson Family. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KingCrowney is a deep house and garage artist based in United Kingdom, with 9 gi
 
 Chris Wheatley, Faro, Handson Family
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingcrowney/)*

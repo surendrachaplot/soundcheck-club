@@ -1,6 +1,6 @@
 # IvaNNa
 
-IvaNNa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cloud, Berlin on Fri, 9 Oct 2026.
+IvaNNa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cloud, Berlin on Fri, 9 Oct 2026.
 
 IvaNNa is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Mexico City and Miami. Often billed alongside 10961, DURØ and P3PA. Next up: The Cloud, Berlin on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ IvaNNa is a house and techno artist based in Germany, with 8 gigs on soundcheck 
 
 10961, DURØ, P3PA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanna/)*

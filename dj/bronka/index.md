@@ -1,6 +1,6 @@
 # Bronka
 
-Bronka is a Baile Funk and Breakbeat artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
+Bronka is a Baile Funk and Breakbeat artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
 
 Bronka is a baile funk and breakbeat artist based in Brazil, with 13 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Hamburg and 7 more. Often billed alongside Mango and Ginger, Caio Prince and Carmilla Sioux. Next up: Altes Postlager, Rhineland Palatinate on Sat 3 Oct.
 
@@ -19,6 +19,7 @@ Bronka is a baile funk and breakbeat artist based in Brazil, with 13 gigs on sou
 
 ## Recently played
 
+- Altes Postlager, Rhineland-palatinate · Sat, 3 Oct 2026
 - Razzmatazz, Barcelona · Sat, 18 Jul 2026
 - La Machine Du Moulin Rouge, Paris · Fri, 26 Jun 2026
 - Leyton Jubilee Park, London · Fri, 22 May 2026
@@ -29,4 +30,4 @@ Bronka is a baile funk and breakbeat artist based in Brazil, with 13 gigs on sou
 
 Mango and Ginger, Caio Prince, Carmilla Sioux
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*

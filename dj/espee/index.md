@@ -1,6 +1,6 @@
 # Espee
 
-Espee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
+Espee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
 
 Espee is a house and deep house artist, with 14 gigs on soundcheck across Austin, Brighton, Chicago and Houston and 1 more. Often billed alongside Bendito, Jeremy Giros and Zillion. Next up: Eldorado Ballroom, Houston on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Espee is a house and deep house artist, with 14 gigs on soundcheck across Austin
 
 Bendito, Jeremy Giros, Zillion
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espee/)*

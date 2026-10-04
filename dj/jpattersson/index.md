@@ -1,6 +1,6 @@
 # Jpattersson
 
-Jpattersson is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at X-Tra, Zurich on Sat, 19 Dec 2026.
+Jpattersson is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at X-Tra, Zurich on Sat, 19 Dec 2026.
 
 Jpattersson is a deep house and techno artist based in Germany, with 21 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Danilo Kupfernagel, LEENI and Judith van Waterkant. Next up: X-Tra, Zurich on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Jpattersson is a deep house and techno artist based in Germany, with 21 gigs on 
 
 Danilo Kupfernagel, LEENI, Judith van Waterkant
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpattersson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpattersson/)*

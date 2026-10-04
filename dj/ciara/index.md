@@ -1,6 +1,6 @@
 # Ciara
 
-Ciara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
+Ciara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
 
 Ciara is a house and techno artist based in Australia, with 108 gigs on soundcheck across London, Melbourne, Sheffield and Sydney. Often billed alongside Deepa, Setwun and Jhassic. Next up: Outernet Live, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ciara is a house and techno artist based in Australia, with 108 gigs on soundche
 
 Deepa, Setwun, Jhassic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciara/)*

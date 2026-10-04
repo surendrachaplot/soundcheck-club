@@ -1,6 +1,6 @@
 # Kana Tokikawa
 
-Kana Tokikawa is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Sun, 11 Oct 2026.
+Kana Tokikawa is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Sun, 11 Oct 2026.
 
 Kana Tokikawa is a techno and minimal techno artist, with 7 gigs on soundcheck across Berlin, Milan and Tokyo. Often billed alongside MAYUDEPTH, Arao and DSKE. Next up: Suns Shimokitazawa, Tokyo on Sun 11 Oct.
 
@@ -23,4 +23,4 @@ Kana Tokikawa is a techno and minimal techno artist, with 7 gigs on soundcheck a
 
 MAYUDEPTH, Arao, DSKE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanatokikawa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanatokikawa/)*

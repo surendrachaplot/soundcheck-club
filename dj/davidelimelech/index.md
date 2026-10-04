@@ -1,6 +1,6 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 10 Oct 2026.
+David Elimelech is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 10 Oct 2026.
 
 David Elimelech is a house and techno artist, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Partok, Roi Perez and Samira. Next up: The Observatory, Ho Chi Minh City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ David Elimelech is a house and techno artist, with 74 gigs on soundcheck across 
 
 Partok, Roi Perez, Samira
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*

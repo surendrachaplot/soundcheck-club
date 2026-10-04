@@ -1,6 +1,6 @@
 # Sarah Bates
 
-Sarah Bates is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Golden Lion, Manchester on Fri, 23 Oct 2026.
+Sarah Bates is a Jazz and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Golden Lion, Manchester on Fri, 23 Oct 2026.
 
 Sarah Bates is a jazz and hip-hop artist based in United Kingdom, with 13 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Ruf Dug, Colleen 'Cosmo' Murphy and Kickin Pigeon. Next up: The Golden Lion, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sarah Bates is a jazz and hip-hop artist based in United Kingdom, with 13 gigs o
 
 Ruf Dug, Colleen 'Cosmo' Murphy, Kickin Pigeon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahbates/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahbates/)*

@@ -1,6 +1,6 @@
 # Dan McKie
 
-Dan McKie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
+Dan McKie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
 
 Dan McKie is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Madrid and New York City. Often billed alongside Ana Alves, Botana and Dave Seaman. Next up: Macarena Club, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Dan McKie is a house and techno artist based in United Kingdom, with 17 gigs on 
 
 Ana Alves, Botana, Dave Seaman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmckie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmckie/)*

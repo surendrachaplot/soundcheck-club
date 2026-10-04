@@ -1,6 +1,6 @@
 # Salvatore Foglia
 
-Salvatore Foglia is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
+Salvatore Foglia is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
 
 Salvatore Foglia is a techno and minimal artist, with 10 gigs on soundcheck across Amsterdam, Berlin and Ibiza. Often billed alongside Daniel Norrel, G.oss and Kenny Dahl. Next up: 8sixa, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Salvatore Foglia is a techno and minimal artist, with 10 gigs on soundcheck acro
 
 Daniel Norrel, G.oss, Kenny Dahl
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*

@@ -1,6 +1,6 @@
 # LAPA XII
 
-LAPA XII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
+LAPA XII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
 
 LAPA XII is a techno and trance artist based in Canada, with 15 gigs on soundcheck across Montreal. Often billed alongside Bianca Badita, JOG MODE and Meen Moreen. Next up: Sainte-Catherine Hall, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LAPA XII is a techno and trance artist based in Canada, with 15 gigs on soundche
 
 Bianca Badita, JOG MODE, Meen Moreen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lapaxii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lapaxii/)*

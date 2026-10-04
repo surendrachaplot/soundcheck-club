@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 9 Oct 2026.
+BMG is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 9 Oct 2026.
 
 BMG is a techno and electro artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 15 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: Airport Würzburg, Nürnberg on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ BMG is a techno and electro artist based in United States of America, with 71 gi
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

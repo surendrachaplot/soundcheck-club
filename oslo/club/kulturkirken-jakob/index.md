@@ -1,6 +1,6 @@
 # Kulturkirken Jakob
 
-Kulturkirken Jakob is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "NYE with Esperanto & Friends (2026)" on Thu, 31 Dec 2026.
+Kulturkirken Jakob is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "NYE with Esperanto & Friends (2026)" on Thu, 31 Dec 2026.
 
 Kulturkirken Jakob is a music venue in Oslo listed on soundcheck. 1 upcoming gig, with line-ups including Alex Tirelli. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kulturkirken Jakob is a music venue in Oslo listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | NYE with Esperanto & Friends (2026) | Alex Tirelli |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kulturkirken-jakob/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kulturkirken-jakob/)*

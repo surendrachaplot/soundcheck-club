@@ -1,6 +1,6 @@
 # Andrea Dama
 
-Andrea Dama is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
+Andrea Dama is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
 Andrea Dama is a house and italo disco artist based in Italy, with 22 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Dublin and 2 more. Often billed alongside Delfonic, Audrey Danza and DJ TEETH. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Andrea Dama is a house and italo disco artist based in Italy, with 22 gigs on so
 
 Delfonic, Audrey Danza, DJ TEETH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*

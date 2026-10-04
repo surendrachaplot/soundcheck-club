@@ -1,6 +1,6 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BLACK NOIR presents: KAAI" on Fri, 9 Oct 2026.
+The Flinders is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BLACK NOIR presents: KAAI" on Fri, 9 Oct 2026.
 
 The Flinders is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, with line-ups including <777>, 2LUX, Angie (CY) and A*S*Y*S and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
@@ -19,4 +19,4 @@ The Flinders is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, w
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

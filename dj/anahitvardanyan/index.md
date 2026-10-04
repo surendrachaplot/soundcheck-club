@@ -1,6 +1,6 @@
 # Anahit Vardanyan
 
-Anahit Vardanyan is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
+Anahit Vardanyan is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
 
 Anahit Vardanyan is a techno and electro artist based in Armenia, with 27 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside Bianka Banks, NTO and Lexer. Next up: Ritter Butzke, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Anahit Vardanyan is a techno and electro artist based in Armenia, with 27 gigs o
 
 Bianka Banks, NTO, Lexer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitvardanyan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitvardanyan/)*

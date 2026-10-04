@@ -1,6 +1,6 @@
 # Natbar / Bremen Teater
 
-Natbar / Bremen Teater is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "NATBAR" on Sat, 3 Oct 2026.
+Natbar / Bremen Teater is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "NATBAR" on Sat, 3 Oct 2026.
 
 Natbar / Bremen Teater is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Natbar Nyropsgade 39-41, 1602 Copenhagen, Denmark.
 
@@ -14,4 +14,4 @@ Natbar / Bremen Teater is a music venue in Copenhagen listed on soundcheck. 1 up
 
 Natbar Nyropsgade 39-41, 1602 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/natbar-bremen-teater/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/natbar-bremen-teater/)*

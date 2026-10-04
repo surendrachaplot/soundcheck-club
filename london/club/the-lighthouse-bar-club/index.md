@@ -1,8 +1,8 @@
 # The Lighthouse Bar & Club
 
-The Lighthouse Bar & Club is a music venue in London with 38 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Get Wild - Shoreditch Party" on Sat, 3 Oct 2026.
+The Lighthouse Bar & Club is a music venue in London with 48 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Get Wild - Shoreditch Party" on Sat, 3 Oct 2026.
 
-The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 38 upcoming gigs. See dates, start times and who's playing. 62-68 Rivington St, London EC2A 3AY.
+The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 48 upcoming gigs, with line-ups including Vybz Kartel. See dates, start times and who's playing. 62-68 Rivington St, London EC2A 3AY.
 
 ## What's on
 
@@ -11,16 +11,16 @@ The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 38 up
 | Sat, 3 Oct 2026 | Get Wild - Shoreditch Party |  |
 | Fri, 9 Oct 2026 | Bashment & Afrobeats Shoreditch Party |  |
 | Fri, 9 Oct 2026 | Get Wild - Shoreditch Party |  |
+| Fri, 9 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
 | Sat, 10 Oct 2026 | Get Wild - Shoreditch Party |  |
+| Sat, 10 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
+| Sat, 10 Oct 2026 | Bashment X Afrobeats - Shoreditch Party - Everyone Free Before 12AM |  |
+| Sat, 10 Oct 2026 | Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM | Vybz Kartel |
 | Fri, 16 Oct 2026 | Get Wild - Shoreditch Party |  |
 | Fri, 16 Oct 2026 | Bashment & Afrobeats Shoreditch Party |  |
-| Sat, 17 Oct 2026 | Get Wild - Shoreditch Party |  |
-| Fri, 23 Oct 2026 | Bashment & Afrobeats Shoreditch Party |  |
-| Fri, 23 Oct 2026 | Get Wild - Shoreditch Party |  |
-| Sat, 24 Oct 2026 | Get Wild - Shoreditch Party |  |
 
 ## Address
 
 62-68 Rivington St, London EC2A 3AY, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*

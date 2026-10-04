@@ -1,6 +1,6 @@
 # Bobby Thorpe
 
-Bobby Thorpe is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
+Bobby Thorpe is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
 Bobby Thorpe is a house and disco artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Liverpool and 2 more. Often billed alongside Bijon, Kickin Pigeon and Royal Male. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bobby Thorpe is a house and disco artist based in United Kingdom, with 53 gigs o
 
 Bijon, Kickin Pigeon, Royal Male
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*

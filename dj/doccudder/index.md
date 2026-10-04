@@ -1,6 +1,6 @@
 # doccudder
 
-doccudder is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mondo, Madrid on Sat, 17 Oct 2026.
+doccudder is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mondo, Madrid on Sat, 17 Oct 2026.
 
 doccudder is an electronic artist based in Spain, with 25 gigs on soundcheck across Madrid. Often billed alongside Gerardo Niva, DJ SWISHERMAN and pavvvvvvlo. Next up: Mondo, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ doccudder is an electronic artist based in Spain, with 25 gigs on soundcheck acr
 
 Gerardo Niva, DJ SWISHERMAN, pavvvvvvlo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doccudder/)*

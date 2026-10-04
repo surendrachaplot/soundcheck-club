@@ -1,6 +1,6 @@
 # Hywel Gregory
 
-Hywel Gregory is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
+Hywel Gregory is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
 
 Hywel Gregory is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Birmingham, Brighton, Bristol and Leeds and 2 more. Often billed alongside Mas Que Nada Brothers, Jakkob and Ellie Scougall. Next up: Moon Club, Bristol on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Hywel Gregory is a house and techno artist based in United Kingdom, with 23 gigs
 
 Mas Que Nada Brothers, Jakkob, Ellie Scougall
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hywelgregory/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hywelgregory/)*

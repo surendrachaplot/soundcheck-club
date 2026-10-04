@@ -1,6 +1,6 @@
 # Tjaro
 
-Tjaro is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 9 Oct 2026.
+Tjaro is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 9 Oct 2026.
 
 Tjaro is a garage and bass artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Leeds and London. Often billed alongside Davbanac, Dean Fielding and Joe Morris. Next up: Wharf Chambers, Leeds on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Tjaro is a garage and bass artist based in United Kingdom, with 6 gigs on soundc
 
 Davbanac, Dean Fielding, Joe Morris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjaro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjaro/)*

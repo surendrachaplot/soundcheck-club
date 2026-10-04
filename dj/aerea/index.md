@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+AEREA is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 AEREA is a techno and trance artist based in Spain, with 70 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 40 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist based in Spain, with 70 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

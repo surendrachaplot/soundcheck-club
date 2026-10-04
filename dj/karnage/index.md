@@ -1,6 +1,6 @@
 # Karnage
 
-Karnage is a Dubstep and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Karnage is a Dubstep and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Karnage is a dubstep and club artist based in United States of America, with 10 gigs on soundcheck across Denver, Detroit, Hong Kong and Liverpool and 2 more. Often billed alongside 7e, BBBBBBB and Goth-Trad. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Karnage is a dubstep and club artist based in United States of America, with 10 
 
 7e, BBBBBBB, Goth-Trad
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karnage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karnage/)*

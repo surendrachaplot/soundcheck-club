@@ -1,6 +1,6 @@
 # ZiZi
 
-ZiZi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+ZiZi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
 ZiZi is a techno and tech house artist based in Ukraine, with 6 gigs on soundcheck across Prague. Often billed alongside zazitech, DDK and RADYK. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ ZiZi is a techno and tech house artist based in Ukraine, with 6 gigs on soundche
 
 zazitech, DDK (1), RADYK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizi/)*

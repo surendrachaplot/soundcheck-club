@@ -1,6 +1,6 @@
 # Cry Baby
 
-Cry Baby is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 24 Oct 2026.
+Cry Baby is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 24 Oct 2026.
 
 Cry Baby is a techno and electro artist, with 14 gigs on soundcheck across Hobart, Melbourne, Sydney and Tokyo. Often billed alongside OnlyWithYou, Club Angel and Cookies & Cream. Next up: In The Hanging Garden, Hobart on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cry Baby is a techno and electro artist, with 14 gigs on soundcheck across Hobar
 
 OnlyWithYou, Club Angel, Cookies & Cream
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby/)*

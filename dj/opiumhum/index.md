@@ -1,6 +1,6 @@
 # Opium Hum
 
-Opium Hum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Opium Hum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Opium Hum is a techno and bass artist based in Germany, with 59 gigs on soundcheck across Berlin, Leipzig, Lisbon and London and 9 more. Often billed alongside Born in Flamez, AXT and Skrillex. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Opium Hum is a techno and bass artist based in Germany, with 59 gigs on soundche
 
 Born in Flamez, AXT, Skrillex
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*

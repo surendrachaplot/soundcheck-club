@@ -1,6 +1,6 @@
 # Mago (US)
 
-Mago (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
+Mago (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
 
 Mago (US) is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jupiter Disco, New York City on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Mago (US) is a house and techno artist based in United States of America, with 1
 
 zorenLo, For Future's Sake, BOJAQ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magous/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magous/)*

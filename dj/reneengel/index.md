@@ -1,6 +1,6 @@
 # Rene Engel
 
-Rene Engel is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
+Rene Engel is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
 
 Rene Engel is a techno and deep house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Hightower, Mark Mywords and OswaldDJ. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Rene Engel is a techno and deep house artist based in Netherlands, with 6 gigs o
 
 Hightower, Mark Mywords, OswaldDJ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneengel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneengel/)*

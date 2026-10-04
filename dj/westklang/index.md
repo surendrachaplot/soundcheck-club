@@ -1,6 +1,6 @@
 # WESTKLANG
 
-WESTKLANG is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET WAREHOUSE, Cologne on Sat, 10 Oct 2026.
+WESTKLANG is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - SECRET WAREHOUSE, Cologne on Sat, 10 Oct 2026.
 
 WESTKLANG is a hardcore and techno artist, with 7 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside Bambi (Menage a Trois), David Gomez and Speedo. Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ WESTKLANG is a hardcore and techno artist, with 7 gigs on soundcheck across Colo
 
 Bambi (Menage a Trois), David Gomez, Speedo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westklang/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westklang/)*

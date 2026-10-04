@@ -1,6 +1,6 @@
 # karishma
 
-karishma is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Last Arch, London on Sat, 3 Oct 2026.
+karishma is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Last Arch, London on Sat, 3 Oct 2026.
 
 karishma is a jungle and drum & bass artist based in United Kingdom, with 32 gigs on soundcheck across Leeds and London. Often billed alongside MF Ceól, Deselecta and The Dangers of Jazz. Next up: Last Arch, London on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ karishma is a jungle and drum & bass artist based in United Kingdom, with 32 gig
 
 ## Recently played
 
+- Last Arch, London · Sat, 3 Oct 2026
 - NUMBER 90 LONDON, London · Sat, 29 Aug 2026
 - Brixton Jamm, London · Fri, 14 Aug 2026
 - The Jago, London · Sun, 9 Aug 2026
@@ -22,10 +23,9 @@ karishma is a jungle and drum & bass artist based in United Kingdom, with 32 gig
 - Dalston Den, London · Fri, 26 Jun 2026
 - Planet Wax, London · Fri, 19 Jun 2026
 - XOYO, London · Thu, 12 Mar 2026
-- The Cause, London · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 MF Ceól, Deselecta, The Dangers of Jazz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*

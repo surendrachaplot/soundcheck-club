@@ -1,6 +1,6 @@
 # Marabou (2)
 
-Marabou (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at essaim, Paris on Sat, 3 Oct 2026.
+Marabou (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at essaim, Paris on Sat, 3 Oct 2026.
 
 Marabou is a house and tech house artist based in France, with 23 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Alich, Binh and Solal Reyes. Next up: essaim, Paris on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Marabou is a house and tech house artist based in France, with 23 gigs on soundc
 
 ## Recently played
 
+- essaim, Paris · Sat, 3 Oct 2026
 - Canal Barboteur, Paris · Sat, 25 Jul 2026
 - DOCK B, Paris · Sat, 25 Jul 2026
 - TBA, Marseille · Sat, 6 Jun 2026
@@ -19,10 +20,9 @@ Marabou is a house and tech house artist based in France, with 23 gigs on soundc
 - Nido Marseille, Marseille · Sat, 4 Apr 2026
 - 42 Marches, Paris · Fri, 20 Mar 2026
 - Fvtvr, Paris · Fri, 13 Mar 2026
-- TBA - SECRET WAREHOUSE, Lyon · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Alich (1), Binh, Solal Reyes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marabou-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marabou-2/)*

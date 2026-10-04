@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ivy, Sydney on Mon, 5 Oct 2026.
+Kanine is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Mon, 5 Oct 2026.
 
 Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 40 more. Often billed alongside Mozey, Disrupta and Bou (UK). Next up: The Ivy, Sydney on Mon 5 Oct.
 
@@ -17,6 +17,7 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs o
 
 ## Recently played
 
+- The Trusts Stadium, Auckland · Sat, 3 Oct 2026
 - Wolfbrook Arena, Christchurch · Fri, 2 Oct 2026
 - Burswood Dome, Perth · Sun, 27 Sept 2026
 - Eatons Hill Hotel and Function Centre, Brisbane · Sat, 26 Sept 2026
@@ -24,10 +25,9 @@ Kanine is a drum & bass and house artist based in United Kingdom, with 95 gigs o
 - Tägi, Zurich · Fri, 10 Jul 2026
 - Silverworks Island, London · Sun, 5 Jul 2026
 - Heaton Park, Manchester · Sat, 20 Jun 2026
-- Elsewhere, New York City · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Mozey, Disrupta, Bou (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

@@ -1,6 +1,6 @@
 # Chlorys
 
-Chlorys is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Recyclart, Brussels on Sat, 31 Oct 2026.
+Chlorys is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Recyclart, Brussels on Sat, 31 Oct 2026.
 
 Chlorys is a techno and electronica artist based in Romania, with 20 gigs on soundcheck across Berlin, Brussels, Bucharest and London. Often billed alongside Admina, Ada Kaleh and Eirwud Mudwasser. Next up: Recyclart, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chlorys is a techno and electronica artist based in Romania, with 20 gigs on sou
 
 Admina, Ada Kaleh, Eirwud Mudwasser
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlorys/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlorys/)*

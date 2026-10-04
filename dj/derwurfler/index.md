@@ -1,6 +1,6 @@
 # Der Würfler
 
-Der Würfler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Fri, 23 Oct 2026.
+Der Würfler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Fri, 23 Oct 2026.
 
 Der Würfler is a techno and tech house artist based in Germany, with 41 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Tanith, WolleXDP and DJ Jauche. Next up: KitKatClub, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Der Würfler is a techno and tech house artist based in Germany, with 41 gigs on
 
 Tanith, WolleXDP, DJ Jauche
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derwurfler/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derwurfler/)*

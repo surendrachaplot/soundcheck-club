@@ -1,6 +1,6 @@
 # Aliar
 
-Aliar is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Aliar is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Aliar is an experimental and club artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside bod [包家巷], Discka and Dmitra. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Aliar is an experimental and club artist based in Germany, with 10 gigs on sound
 
 bod [包家巷], Discka, Dmitra
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliar/)*

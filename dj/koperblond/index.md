@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Thu, 22 Oct 2026.
+Koperblond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Thu, 22 Oct 2026.
 
 Koperblond is a house and techno artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside DJ Chuckie, Merel Helderman and Pelanoir. Next up: Huis van Iemand Anders, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Koperblond is a house and techno artist based in Netherlands, with 44 gigs on so
 
 DJ Chuckie, Merel Helderman, Pelanoir
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

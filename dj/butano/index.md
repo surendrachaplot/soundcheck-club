@@ -1,6 +1,6 @@
 # André Butano
 
-André Butano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
+André Butano is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
 
 André Butano is a tech house and house artist based in Chile, with 15 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Karla Amaro, ATMEN and Paco Osuna. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ André Butano is a tech house and house artist based in Chile, with 15 gigs on s
 
 Karla Amaro, ATMEN, Paco Osuna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*

@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks" on Fri, 9 Oct 2026.
+Dalston Den is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks" on Fri, 9 Oct 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AMAR (UK), bubushko, David Ramsay and Delian Sound and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -23,4 +23,4 @@ Dalston Den is a music venue in London listed on soundcheck. 12 upcoming gigs, w
 
 91-93 Kingsland High Street, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

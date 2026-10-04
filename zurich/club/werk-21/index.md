@@ -1,6 +1,6 @@
 # Werk 21
 
-Werk 21 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Lynnic & It's Arius - Somewhere" on Thu, 3 Dec 2026.
+Werk 21 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Lynnic & It's Arius - Somewhere" on Thu, 3 Dec 2026.
 
 Werk 21 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including ARIUS X, Fejká and Lynnic. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Werk 21 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with l
 | Thu, 3 Dec 2026 | Lynnic & It's Arius - Somewhere | ARIUS X, Lynnic |
 | Thu, 17 Dec 2026 | Fejká live | Fejká |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/werk-21/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/werk-21/)*

@@ -1,6 +1,6 @@
 # Facundo Mohrr
 
-Facundo Mohrr is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat, 10 Oct 2026.
+Facundo Mohrr is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat, 10 Oct 2026.
 
 Facundo Mohrr is a deep house and house artist based in Argentina, with 66 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Denver and 14 more. Often billed alongside Lee Burridge, Tim Green and Maxi Degrassi. Next up: TBA - Finca El Recreo, Cafayate, Salta, Buenos Aires on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Facundo Mohrr is a deep house and house artist based in Argentina, with 66 gigs 
 
 Lee Burridge, Tim Green, Maxi Degrassi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facundomohrr/)*

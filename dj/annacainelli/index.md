@@ -1,6 +1,6 @@
 # Anna Cainelli
 
-Anna Cainelli is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Fri, 30 Oct 2026.
+Anna Cainelli is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gewölbe, Cologne on Fri, 30 Oct 2026.
 
 Anna Cainelli is a house and disco artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf. Often billed alongside Savsannah, Sedaction and Nikity. Next up: Gewölbe, Cologne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Anna Cainelli is a house and disco artist based in Germany, with 34 gigs on soun
 
 Savsannah, Sedaction, Nikity
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*

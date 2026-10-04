@@ -1,6 +1,6 @@
 # Laidback Luke
 
-Laidback Luke is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 13 Nov 2026.
+Laidback Luke is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 13 Nov 2026.
 
 Laidback Luke is a house and progressive house artist based in Netherlands, with 27 gigs on soundcheck across Cologne, Houston, Liverpool and Los Angeles and 13 more. Often billed alongside Steve Aoki, Bassjackers and Cedric Gervais. Next up: Joshua Brooks, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Laidback Luke is a house and progressive house artist based in Netherlands, with
 
 Steve Aoki, Bassjackers, Cedric Gervais
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laidbackluke/)*

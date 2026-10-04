@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "feedbk - grand opening with Gwenan, Dragos Illici, Kian OK, Rasho & More" on Sat, 3 Oct 2026.
+feedbk is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "feedbk - grand opening with Gwenan, Dragos Illici, Kian OK, Rasho & More" on Sat, 3 Oct 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including ADREE, Alex Neri, Amelia Holt and B.Love and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -23,4 +23,4 @@ feedbk is a music venue in New York City listed on soundcheck. 12 upcoming gigs,
 
 153 Morgan Avenue, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

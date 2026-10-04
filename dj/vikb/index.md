@@ -1,6 +1,6 @@
 # VIK B
 
-VIK B is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+VIK B is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
 VIK B is a techno and industrial artist based in United Kingdom, with 10 gigs on soundcheck across Birmingham, Budapest and Sheffield. Often billed alongside INLIMEN, DUGASZ and GØBLIN. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VIK B is a techno and industrial artist based in United Kingdom, with 10 gigs on
 
 INLIMEN, DUGASZ, GØBLIN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikb/)*

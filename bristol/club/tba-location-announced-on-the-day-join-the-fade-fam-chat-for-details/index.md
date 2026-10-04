@@ -1,6 +1,6 @@
 # TBA - Location Announced on the day. Join the Fade Fam chat for details. 
 
-TBA - Location Announced on the day. Join the Fade Fam chat for details.  is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bristol Secret Show - Location announced on the day" on Thu, 5 Nov 2026.
+TBA - Location Announced on the day. Join the Fade Fam chat for details.  is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bristol Secret Show - Location announced on the day" on Thu, 5 Nov 2026.
 
 TBA - Location Announced on the day. Join the Fade Fam chat for details.  is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including High Fade. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Location Announced on the day. Join the Fade Fam chat for details.  is a m
 | Thu, 5 Nov 2026 | Bristol Secret Show - Location announced on the day | High Fade |
 | Sun, 29 Nov 2026 | High Fade Glasgow Secret Show - 100 tickets only | High Fade |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/tba-location-announced-on-the-day-join-the-fade-fam-chat-for-details/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/tba-location-announced-on-the-day-join-the-fade-fam-chat-for-details/)*

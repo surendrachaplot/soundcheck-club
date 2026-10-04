@@ -1,6 +1,6 @@
 # Trembow
 
-Trembow is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Goya Social Club, Madrid on Sun, 11 Oct 2026.
+Trembow is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Goya Social Club, Madrid on Sun, 11 Oct 2026.
 
 Trembow is a house and tech house artist based in Venezuela, with 4 gigs on soundcheck across Madrid. Often billed alongside Taranco, FIRZA and Marco Jenner. Next up: Goya Social Club, Madrid on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Trembow is a house and tech house artist based in Venezuela, with 4 gigs on soun
 
 Taranco, FIRZA, Marco Jenner
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trembow/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trembow/)*

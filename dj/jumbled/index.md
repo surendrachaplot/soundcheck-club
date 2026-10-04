@@ -1,6 +1,6 @@
 # Jumbled
 
-Jumbled is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at renae, Manchester on Sun, 11 Oct 2026.
+Jumbled is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at renae, Manchester on Sun, 11 Oct 2026.
 
 Jumbled is a techno and ambient artist based in United Kingdom, with 25 gigs on soundcheck across Manchester. Often billed alongside krioso, gr00vy.cat and Incupa97. Next up: renae, Manchester on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Jumbled is a techno and ambient artist based in United Kingdom, with 25 gigs on 
 
 krioso, gr00vy.cat, Incupa97
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumbled/)*

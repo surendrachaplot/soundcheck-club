@@ -1,6 +1,6 @@
 # Lola Brennt
 
-Lola Brennt is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
+Lola Brennt is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
 
 Lola Brennt is a house and drum & bass artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Ivana, anna G and Ivana_dnb. Next up: ÆDEN, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Lola Brennt is a house and drum & bass artist, with 13 gigs on soundcheck across
 
 Ivana, anna G, Ivana_dnb
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabrennt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabrennt/)*

@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison" on Sat, 3 Oct 2026.
+Bal Chavaux is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TETE VIDE à Bal Chavaux: Ma Sha, Aloka, Acide Plastique b2b b3bz, Xea b2b Hyperlison" on Sat, 3 Oct 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including acideplastique, Adam Pits, Aloka and Azo and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -18,4 +18,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 5 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

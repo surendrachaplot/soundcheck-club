@@ -1,6 +1,6 @@
 # Lenny Lens
 
-Lenny Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Vic Bar, Melbourne on Sat, 10 Oct 2026.
+Lenny Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Vic Bar, Melbourne on Sat, 10 Oct 2026.
 
 Lenny Lens is a techno and house artist based in Australia, with 26 gigs on soundcheck across Melbourne. Often billed alongside Caleb Jay, MaK Swell and Alex White. Next up: The Vic Bar, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lenny Lens is a techno and house artist based in Australia, with 26 gigs on soun
 
 Caleb Jay, MaK Swell, Alex White
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennylens/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennylens/)*

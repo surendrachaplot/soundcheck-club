@@ -1,6 +1,6 @@
 # Max Heere
 
-Max Heere is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wigwam, Dublin on Sat, 17 Oct 2026.
+Max Heere is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Wigwam, Dublin on Sat, 17 Oct 2026.
 
 Max Heere is a house and trance artist, with 8 gigs on soundcheck across Amsterdam, Dublin and Utrecht. Often billed alongside Lisa Korver, PULSE (NL) and 36framez. Next up: Wigwam, Dublin on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Max Heere is a house and trance artist, with 8 gigs on soundcheck across Amsterd
 
 Lisa Korver, PULSE (NL), 36framez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxheere/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxheere/)*

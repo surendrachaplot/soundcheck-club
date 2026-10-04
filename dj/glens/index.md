@@ -1,6 +1,6 @@
 # Glen S
 
-Glen S is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
+Glen S is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
 Glen S is a progressive house and house artist based in Australia, with 32 gigs on soundcheck across Berlin, Chicago, Copenhagen and Hong Kong and 8 more. Often billed alongside Abdul Raeva, Akirahawks and BBYG. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
@@ -12,6 +12,7 @@ Glen S is a progressive house and house artist based in Australia, with 32 gigs 
 
 ## Recently played
 
+- TBA, Sydney · Sat, 3 Oct 2026
 - The Night Cat, Melbourne · Sat, 26 Sept 2026
 - TBA, Sydney · Sat, 25 Apr 2026
 - Abercrombie Hotel, Sydney · Fri, 16 Jan 2026
@@ -19,10 +20,9 @@ Glen S is a progressive house and house artist based in Australia, with 32 gigs 
 - arkaoda Berlin, Berlin · Wed, 3 Dec 2025
 - TBA, Chicago · Sat, 8 Nov 2025
 - Honey's, New York City · Sat, 1 Nov 2025
-- TBA - Secret Location, Berlin · Sat, 13 Sept 2025
 
 ## Shares bills with
 
 Abdul Raeva, Akirahawks, BBYG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glens/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glens/)*

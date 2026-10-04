@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cieloterra, Rome on Sat, 3 Oct 2026.
+Alignment is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cieloterra, Rome on Sat, 3 Oct 2026.
 
 Alignment is a techno and house artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Cieloterra, Rome on Sat 3 Oct.
 
@@ -21,6 +21,7 @@ Alignment is a techno and house artist based in Germany, with 223 gigs on soundc
 
 ## Recently played
 
+- Cieloterra, Rome · Sat, 3 Oct 2026
 - Garage Klub, Antwerp · Fri, 18 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - The Concourse Project, Austin · Sun, 6 Sept 2026
@@ -28,10 +29,9 @@ Alignment is a techno and house artist based in Germany, with 223 gigs on soundc
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
-- Flava Beach, Naples · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Shlømo, Basswell, DYEN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

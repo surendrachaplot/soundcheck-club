@@ -1,6 +1,6 @@
 # Aleksandra Słyż
 
-Aleksandra Słyż is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
+Aleksandra Słyż is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
 
 Aleksandra Słyż is an experimental and electronica artist based in Poland, with 11 gigs on soundcheck across Berlin, Copenhagen, Krakow and Turin and 2 more. Often billed alongside Alex Freiheit, Heinali and androgienia. Next up: 8MM, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Aleksandra Słyż is an experimental and electronica artist based in Poland, wit
 
 Alex Freiheit, Heinali, androgienia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandraslyz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandraslyz/)*

@@ -1,6 +1,6 @@
 # Royalty Sex Affair
 
-Royalty Sex Affair is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Royalty Sex Affair is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 Royalty Sex Affair is a techno and trance artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside Tatomed, mata rubia and ALI3N. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Royalty Sex Affair is a techno and trance artist based in Czech Republic, with 6
 
 Tatomed (2), mata rubia, ALI3N
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royaltysexaffair/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royaltysexaffair/)*

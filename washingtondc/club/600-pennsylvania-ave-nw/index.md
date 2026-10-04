@@ -1,6 +1,6 @@
 # 600 Pennsylvania Ave NW
 
-600 Pennsylvania Ave NW is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "GLOW Block Party: The Chainsmokers, MK, LAVERN + more" on Sat, 24 Oct 2026.
+600 Pennsylvania Ave NW is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "GLOW Block Party: The Chainsmokers, MK, LAVERN + more" on Sat, 24 Oct 2026.
 
 600 Pennsylvania Ave NW is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including DOUG, LAVERN, Marc Kinchen and The Chainsmokers. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | GLOW Block Party: The Chainsmokers, MK, LAVERN + more | DOUG, LAVERN, Marc Kinchen, The Chainsmokers |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/600-pennsylvania-ave-nw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/600-pennsylvania-ave-nw/)*

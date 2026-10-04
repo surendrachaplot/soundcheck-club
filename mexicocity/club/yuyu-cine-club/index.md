@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Yu Yu Cine Club: Dance Your Name y Disco Dust presentan a Fina, Miss Voltaghe, Duke Skylocker" on Sat, 3 Oct 2026.
+YuYu Cine Club is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Yu Yu Cine Club: Dance Your Name y Disco Dust presentan a Fina, Miss Voltaghe, Duke Skylocker" on Sat, 3 Oct 2026.
 
 YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including acidheaven, Astroboii, Bluecommand and D. Tiffany and 2 more. See dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -22,4 +22,4 @@ YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 9 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

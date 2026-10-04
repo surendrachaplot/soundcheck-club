@@ -1,6 +1,6 @@
 # Saag
 
-Saag is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gare Porto, Porto on Sat, 24 Oct 2026.
+Saag is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gare Porto, Porto on Sat, 24 Oct 2026.
 
 Saag is a techno and electronica artist based in Brazil, with 11 gigs on soundcheck across Lisbon, Porto and Tbilisi. Often billed alongside Ricardo P., 2bit2bi and Altinbas. Next up: Gare Porto, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Saag is a techno and electronica artist based in Brazil, with 11 gigs on soundch
 
 Ricardo P., 2bit2bi (2), Altinbas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saag/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saag/)*

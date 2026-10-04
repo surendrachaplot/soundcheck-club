@@ -1,6 +1,6 @@
 # DJ Qu
 
-DJ Qu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Djoon, Paris on Sun, 4 Oct 2026.
+DJ Qu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Djoon, Paris on Sun, 4 Oct 2026.
 
 DJ Qu is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Anthony Parasole, Simon Heyliger and Hiroko Yamamura. Next up: Djoon, Paris on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ DJ Qu is a house and techno artist based in United States of America, with 31 gi
 
 Anthony Parasole, Simon Heyliger, Hiroko Yamamura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djqu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djqu/)*

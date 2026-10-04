@@ -1,6 +1,6 @@
 # Sascha Braemer
 
-Sascha Braemer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
+Sascha Braemer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
 
 Sascha Braemer is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Markus Klee, Calypsis and MUKKIMIAU. Next up: Spindler & Klatt, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sascha Braemer is a techno and house artist based in Germany, with 37 gigs on so
 
 Markus Klee, Calypsis, MUKKIMIAU
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabraemer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschabraemer/)*

@@ -1,6 +1,6 @@
 # jeet (UK)
 
-jeet (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
+jeet (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
 
 jeet (UK) is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Avsluta, Alicia (UK) and Elijah Minnelli. Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ jeet (UK) is a garage and house artist based in United Kingdom, with 6 gigs on s
 
 Avsluta, Alicia (UK), Elijah Minnelli
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeetuk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeetuk/)*

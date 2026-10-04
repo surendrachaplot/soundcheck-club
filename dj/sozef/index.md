@@ -1,6 +1,6 @@
 # Sozef
 
-Sozef is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
+Sozef is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at De Papierfabriek, Nijmegen on Fri, 27 Nov 2026.
 
 Sozef is a house and funk / soul artist, with 26 gigs on soundcheck across Amsterdam, Cologne, Nijmegen and The Hague and 1 more. Often billed alongside Benny Rodrigues, Rozie and Jamback. Next up: De Papierfabriek, Nijmegen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sozef is a house and funk / soul artist, with 26 gigs on soundcheck across Amste
 
 Benny Rodrigues, Rozie, Jamback
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sozef/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sozef/)*

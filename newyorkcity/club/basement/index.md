@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell" on Sat, 3 Oct 2026.
+BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell" on Sat, 3 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including 98dots, Ade Kassim, Akua and Alfonso Javier and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -22,4 +22,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

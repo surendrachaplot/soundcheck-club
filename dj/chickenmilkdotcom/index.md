@@ -1,6 +1,6 @@
 # Chickenmilk dot com
 
-Chickenmilk dot com is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+Chickenmilk dot com is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 Chickenmilk dot com is an experimental and club artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and New York City and 3 more. Often billed alongside blastah, Organ Tapes and Panasiagirl. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chickenmilk dot com is an experimental and club artist based in Germany, with 17
 
 blastah, Organ Tapes, Panasiagirl
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chickenmilkdotcom/)*

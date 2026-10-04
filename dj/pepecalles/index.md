@@ -1,6 +1,6 @@
 # Pepe Calles
 
-Pepe Calles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
+Pepe Calles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
 
 Pepe Calles is a techno and house artist based in Mexico, with 25 gigs on soundcheck across Montreal and Toronto. Often billed alongside Martin Vora, Fauren and Nitin. Next up: 75 Pelham, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pepe Calles is a techno and house artist based in Mexico, with 25 gigs on soundc
 
 Martin Vora, Fauren, Nitin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*

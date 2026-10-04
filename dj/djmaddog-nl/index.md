@@ -1,6 +1,6 @@
 # DJ Mad Dog
 
-DJ Mad Dog is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
+DJ Mad Dog is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
 
 DJ Mad Dog is a techno and hardcore artist based in Italy, with 18 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Ghost in the Machine, Mad Dog and OGUZ. Next up: Cinecittà World, Rome on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ Mad Dog is a techno and hardcore artist based in Italy, with 18 gigs on sound
 
 Ghost in the Machine, Mad Dog, OGUZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*

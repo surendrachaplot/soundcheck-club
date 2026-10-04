@@ -1,6 +1,6 @@
 # Jessie Belters
 
-Jessie Belters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
+Jessie Belters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
 
 Jessie Belters is a house and techno artist, with 6 gigs on soundcheck across South Australia and Sydney. Often billed alongside El Discotheque, TOBLERON3 and Adi Toohey. Next up: Home of Plenty, South Australia on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Jessie Belters is a house and techno artist, with 6 gigs on soundcheck across So
 
 El Discotheque, TOBLERON3, Adi Toohey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiebelters/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiebelters/)*

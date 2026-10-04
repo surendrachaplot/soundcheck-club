@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
+Innellea is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
 
 Innellea is a techno and house artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Colyn, Mind Against and Âme. Next up: Savaya Bali, Bali on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Innellea is a techno and house artist based in Germany, with 147 gigs on soundch
 
 Colyn, Mind Against, Âme
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

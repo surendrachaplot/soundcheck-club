@@ -1,6 +1,6 @@
 # Domovnika
 
-Domovnika is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
+Domovnika is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
 
 Domovnika is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Madrid and Prague. Often billed alongside KÜRÜF, DJ Kodah and Emilion Dollar Baby. Next up: Prisma, Berlin on Tue 6 Oct.
 
@@ -27,4 +27,4 @@ Domovnika is a techno and house artist based in Germany, with 37 gigs on soundch
 
 KÜRÜF, DJ Kodah, Emilion Dollar Baby
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*

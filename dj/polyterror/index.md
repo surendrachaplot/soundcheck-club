@@ -1,6 +1,6 @@
 # polyterror
 
-polyterror is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
+polyterror is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 polyterror is a footwork and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow and Sheffield. Often billed alongside Craggyland, makaya and xivro. Next up: Room 2 Glasgow, Glasgow on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ polyterror is a footwork and experimental artist based in United Kingdom, with 8
 
 Craggyland, makaya, xivro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyterror/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyterror/)*

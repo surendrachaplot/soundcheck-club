@@ -1,6 +1,6 @@
 # Third soul
 
-Third soul is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Third soul is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Third soul is a tech house artist based in Georgia, with 17 gigs on soundcheck across Tbilisi. Often billed alongside Ericsson, Gio Shengelia and Kraumur. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Third soul is a tech house artist based in Georgia, with 17 gigs on soundcheck a
 
 Ericsson, Gio Shengelia, Kraumur
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdsoul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdsoul/)*

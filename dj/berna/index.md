@@ -1,6 +1,6 @@
 # Berna
 
-Berna is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sekta Selekta, Krakow on Wed, 7 Oct 2026.
+Berna is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sekta Selekta, Krakow on Wed, 7 Oct 2026.
 
 Berna is an electro and techno artist, with 14 gigs on soundcheck across Barcelona, Krakow, London and Malaga and 2 more. Often billed alongside Javier Carballo, Oliver Molina and Rubén Baiz. Next up: Sekta Selekta, Krakow on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Berna is an electro and techno artist, with 14 gigs on soundcheck across Barcelo
 
 Javier Carballo, Oliver Molina, Rubén Baiz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berna/)*

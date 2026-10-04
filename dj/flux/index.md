@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bee Noir, Manchester on Sat, 14 Nov 2026.
+Flux is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bee Noir, Manchester on Sat, 14 Nov 2026.
 
 Flux is a drum & bass and jungle artist based in Italy, with 13 gigs on soundcheck across Amsterdam, London, Manchester and New York City. Often billed alongside Ray Keith, DJ Hype and IC3. Next up: Bee Noir, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Flux is a drum & bass and jungle artist based in Italy, with 13 gigs on soundche
 
 Ray Keith, DJ Hype, IC3
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flux/)*

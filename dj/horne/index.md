@@ -1,6 +1,6 @@
 # Horne
 
-Horne is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cu, London on Fri, 30 Oct 2026.
+Horne is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cu, London on Fri, 30 Oct 2026.
 
 Horne is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Cathal, Luun and Jurango. Next up: Cu, London on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Horne is a garage and house artist based in United Kingdom, with 6 gigs on sound
 
 Cathal, Luun, Jurango
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horne/)*

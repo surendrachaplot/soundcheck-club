@@ -1,6 +1,6 @@
 # Cabizbajo
 
-Cabizbajo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Cabizbajo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Cabizbajo is a techno and house artist based in Mexico, with 52 gigs on soundcheck across Berlin, Ibiza, Los Angeles and Mexico City and 4 more. Often billed alongside Andre VII, Colossio and Damian Lazarus. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Cabizbajo is a techno and house artist based in Mexico, with 52 gigs on soundche
 
 Andre VII, Colossio, Damian Lazarus
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*

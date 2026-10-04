@@ -1,6 +1,6 @@
 # La Otra Wynwood
 
-La Otra Wynwood is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Cosmic Gate" on Fri, 9 Oct 2026.
+La Otra Wynwood is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Cosmic Gate" on Fri, 9 Oct 2026.
 
 La Otra Wynwood is a music venue in Miami listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 55 NE 24th Street, Miami, FL 33137.
 
@@ -16,4 +16,4 @@ La Otra Wynwood is a music venue in Miami listed on soundcheck. 3 upcoming gigs.
 
 55 NE 24th Street, Miami, FL 33137, Miami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/la-otra-wynwood/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/la-otra-wynwood/)*

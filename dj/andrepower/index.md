@@ -1,6 +1,6 @@
 # Andre Power
 
-Andre Power is a House and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Vinyl, Denver on Fri, 9 Oct 2026.
+Andre Power is a House and R&B artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Vinyl, Denver on Fri, 9 Oct 2026.
 
 Andre Power is a house and r&b artist based in United States of America, with 45 gigs on soundcheck across Berlin, Birmingham, Chicago and Cologne and 13 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Club Vinyl, Denver on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Andre Power is a house and r&b artist based in United States of America, with 45
 
 Bambii, DOUG, FS Green
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*

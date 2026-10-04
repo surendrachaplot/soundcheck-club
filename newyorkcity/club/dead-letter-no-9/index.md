@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dee Diggs, TYLERFROMWHERE, Kilopatrah Jones, Barangay + Friends - Dead Letter No.9" on Sat, 3 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Dee Diggs, TYLERFROMWHERE, Kilopatrah Jones, Barangay + Friends - Dead Letter No.9" on Sat, 3 Oct 2026.
 
 Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Borbón and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 11 upc
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

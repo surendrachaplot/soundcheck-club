@@ -1,6 +1,6 @@
 # Dj handbag
 
-Dj handbag is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
+Dj handbag is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 3 Oct 2026.
 
 Dj handbag is a house and techno artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Dj handbag is a house and techno artist based in Germany, with 83 gigs on soundc
 
 ## Recently played
 
+- Renate, Berlin · Sat, 3 Oct 2026
 - KREUZWERK, Berlin · Sat, 19 Sept 2026
 - Marmorbar, Berlin · Sat, 12 Sept 2026
 - gART.n, Berlin · Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ Dj handbag is a house and techno artist based in Germany, with 83 gigs on soundc
 - CLUB OST & RENATE BERLIN, Berlin · Fri, 21 Aug 2026
 - Renate, Berlin · Fri, 21 Aug 2026
 - Kasematte 20, Hamburg · Sun, 2 Aug 2026
-- TBA, Stockholm · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Daniel Berj, ADAM MUNNINGS, DJ Hyaluron
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*

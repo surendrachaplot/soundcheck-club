@@ -1,6 +1,6 @@
 # Chris Freud
 
-Chris Freud is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
+Chris Freud is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at PRST, Vienna on Sat, 3 Oct 2026.
 
 Chris Freud is a house and techno artist based in Austria, with 16 gigs on soundcheck across Vienna. Often billed alongside David Radi, Matthias Kaiser and INESSA. Next up: PRST, Vienna on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Chris Freud is a house and techno artist based in Austria, with 16 gigs on sound
 
 ## Recently played
 
+- PRST, Vienna · Sat, 3 Oct 2026
 - PRST, Vienna · Sat, 5 Sept 2026
 - PRST, Vienna · Fri, 17 Jul 2026
 - PRST, Vienna · Fri, 19 Jun 2026
@@ -19,10 +20,9 @@ Chris Freud is a house and techno artist based in Austria, with 16 gigs on sound
 - PRST, Vienna · Fri, 17 Apr 2026
 - PRST, Vienna · Sat, 6 Dec 2025
 - SASS Music Club, Vienna · Sat, 1 Nov 2025
-- PRST, Vienna · Sat, 4 Oct 2025
 
 ## Shares bills with
 
 David Radi, Matthias Kaiser, INESSA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfreud/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfreud/)*

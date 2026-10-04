@@ -1,6 +1,6 @@
 # DJ Fucks Himself
 
-DJ Fucks Himself is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+DJ Fucks Himself is a Techno and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
 DJ Fucks Himself is a techno and ghetto tech artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside HiHat, Young Lychee and Lenny Fuck. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Fucks Himself is a techno and ghetto tech artist based in Germany, with 76 gi
 
 HiHat, Young Lychee, Lenny Fuck
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*

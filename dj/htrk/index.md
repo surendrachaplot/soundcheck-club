@@ -1,6 +1,6 @@
 # HTRK
 
-HTRK is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+HTRK is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 HTRK is an experimental and downtempo artist based in Australia, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Melbourne and 7 more. Often billed alongside CS + Kreme, 600-cell and ABADIR. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ HTRK is an experimental and downtempo artist based in Australia, with 15 gigs on
 
 CS + Kreme, 600-cell, ABADIR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*

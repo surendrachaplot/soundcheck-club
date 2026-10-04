@@ -1,6 +1,6 @@
 # Maison Ware
 
-Maison Ware is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ivy, Sydney on Sat, 10 Oct 2026.
+Maison Ware is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sat, 10 Oct 2026.
 
 Maison Ware is an afro house and techno artist based in Australia, with 35 gigs on soundcheck across Bali, Bangkok, Melbourne and Mykonos and 1 more. Often billed alongside HIJCKD, Bella Backe and mara (AU). Next up: The Ivy, Sydney on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Maison Ware is an afro house and techno artist based in Australia, with 35 gigs 
 
 HIJCKD, Bella Backe, mara (AU)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonware/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonware/)*

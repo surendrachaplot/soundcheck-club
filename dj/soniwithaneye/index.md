@@ -1,6 +1,6 @@
 # Soni withanEYE
 
-Soni withanEYE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The House, New York City on Sat, 17 Oct 2026.
+Soni withanEYE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The House, New York City on Sat, 17 Oct 2026.
 
 Soni withanEYE is a house and disco artist, with 16 gigs on soundcheck across Brussels, Miami and New York City. Often billed alongside DJ Kamala, Carozilla and Nickodemus. Next up: The House, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Soni withanEYE is a house and disco artist, with 16 gigs on soundcheck across Br
 
 DJ Kamala, Carozilla, Nickodemus
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniwithaneye/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniwithaneye/)*

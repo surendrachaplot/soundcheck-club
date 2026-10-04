@@ -1,6 +1,6 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 333, New York City on Fri, 16 Oct 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 333, New York City on Fri, 16 Oct 2026.
 
 Charlotte (FR) is a house and techno artist based in France, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: TBA - 333, New York City on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Charlotte (FR) is a house and techno artist based in France, with 100 gigs on so
 
 tINI, ABI (FR), AMEX (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*

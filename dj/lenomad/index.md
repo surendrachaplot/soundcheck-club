@@ -1,6 +1,6 @@
 # Le Nomad
 
-Le Nomad is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at berlinClub, Madrid on Fri, 9 Oct 2026.
+Le Nomad is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at berlinClub, Madrid on Fri, 9 Oct 2026.
 
 Le Nomad is a house and electronica artist based in Spain, with 78 gigs on soundcheck across Barcelona, Budapest, Madrid and New York City and 1 more. Often billed alongside Foie Gras, Antoine. and Gaspar Antuña. Next up: berlinClub, Madrid on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Le Nomad is a house and electronica artist based in Spain, with 78 gigs on sound
 
 Foie Gras, Antoine., Gaspar Antuña
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*

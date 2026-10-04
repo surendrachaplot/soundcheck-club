@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
+Pegassi is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
 
 Pegassi is a techno and trance artist based in Belgium, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Pegassi is a techno and trance artist based in Belgium, with 177 gigs on soundch
 
 ## Recently played
 
+- The Telegraph Building, Belfast · Sat, 3 Oct 2026
 - Nitsa Club, Barcelona · Fri, 2 Oct 2026
 - Audiodrome, Turin · Sat, 26 Sept 2026
 - Mondo Open Air, Madrid · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Pegassi is a techno and trance artist based in Belgium, with 177 gigs on soundch
 - Else, Berlin · Sun, 13 Sept 2026
 - Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
 - MÄX, Zurich · Fri, 11 Sept 2026
-- TBA, Toronto · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Benwal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

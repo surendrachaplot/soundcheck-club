@@ -1,6 +1,6 @@
 # Jason Lindner
 
-Jason Lindner is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
+Jason Lindner is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
 Jason Lindner is a house and experimental artist based in United States of America, with 35 gigs on soundcheck across Berlin, Boston, Detroit and New York City. Often billed alongside JKriv, Aaron Dae and Disgonuts. Next up: public records, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Jason Lindner is a house and experimental artist based in United States of Ameri
 
 JKriv, Aaron Dae, Disgonuts
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonlindner/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonlindner/)*

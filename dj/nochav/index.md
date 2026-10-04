@@ -1,6 +1,6 @@
 # NOCHAV
 
-NOCHAV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+NOCHAV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 NOCHAV is a techno and house artist based in Spain, with 7 gigs on soundcheck across Madrid and Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ NOCHAV is a techno and house artist based in Spain, with 7 gigs on soundcheck ac
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nochav/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nochav/)*

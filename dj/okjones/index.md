@@ -1,6 +1,6 @@
 # OK Jones
 
-OK Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
+OK Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 17 Oct 2026.
 
 OK Jones is a disco and house artist, with 10 gigs on soundcheck across Berlin and London. Often billed alongside bad_dubs, Mr Solid Gold and Park Ranger. Next up: Der Weiße Hase, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ OK Jones is a disco and house artist, with 10 gigs on soundcheck across Berlin a
 
 bad_dubs, Mr Solid Gold, Park Ranger
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okjones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okjones/)*

@@ -1,6 +1,6 @@
 # Atef
 
-Atef is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Atef is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Atef is a techno and minimal techno artist based in Tunisia, with 22 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 5 more. Often billed alongside Aline (CH), Flavio (CH) and Ion Ludwig. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Atef is a techno and minimal techno artist based in Tunisia, with 22 gigs on sou
 
 Aline (CH), Flavio (CH), Ion Ludwig
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atef/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atef/)*

@@ -1,6 +1,6 @@
 # Arlo
 
-Arlo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Arlo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Arlo is a house and tech house artist based in Spain, with 16 gigs on soundcheck across Barcelona, Bristol, Chicago and Miami and 4 more. Often billed alongside Martini Raw, A For Alpha and AMARI. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Arlo is a house and tech house artist based in Spain, with 16 gigs on soundcheck
 
 Martini Raw, A For Alpha, AMARI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*

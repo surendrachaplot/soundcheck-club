@@ -1,6 +1,6 @@
 # Kodai
 
-Kodai is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
+Kodai is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
 
 Kodai is a house and hip-hop artist based in Japan, with 73 gigs on soundcheck across Chugoku, Kyoto, Paris and Tokyo. Often billed alongside CATRONICA, BERLINER KINDL and Fetus. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kodai is a house and hip-hop artist based in Japan, with 73 gigs on soundcheck a
 
 CATRONICA, BERLINER KINDL, Fetus
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodai/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodai/)*

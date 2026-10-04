@@ -1,6 +1,6 @@
 # Robbo
 
-Robbo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
+Robbo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
 
 Robbo is a house and minimal artist, with 39 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Jenson., Jenson and Josh Keit. Next up: Club Cheek, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Robbo is a house and minimal artist, with 39 gigs on soundcheck across Leeds, Li
 
 Jenson., Jenson, Josh Keit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

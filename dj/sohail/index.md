@@ -1,6 +1,6 @@
 # SOHAIL
 
-SOHAIL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
+SOHAIL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
 
 SOHAIL is a house and tech house artist based in Australia, with 14 gigs on soundcheck across Bali and Sydney. Often billed alongside BRAD WATTS, Ashlea Milinkovic and André Müller. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ SOHAIL is a house and tech house artist based in Australia, with 14 gigs on soun
 
 BRAD WATTS, Ashlea Milinkovic, André Müller
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*

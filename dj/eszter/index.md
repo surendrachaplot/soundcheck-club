@@ -1,6 +1,6 @@
 # Eszter
 
-Eszter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
+Eszter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
 
 Eszter is a techno and house artist, with 27 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside AGNY, Leolo Lozone and Jeremy Reinhard. Next up: Odonien, Cologne on Sat 2 Oct.
 
@@ -25,4 +25,4 @@ Eszter is a techno and house artist, with 27 gigs on soundcheck across Berlin, C
 
 AGNY, Leolo Lozone, Jeremy Reinhard
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eszter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eszter/)*

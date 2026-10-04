@@ -1,6 +1,6 @@
 # Elle Shimada
 
-Elle Shimada is a Electronica and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Shibuya Stream Hall, Tokyo on Fri, 6 Nov 2026.
+Elle Shimada is a Electronica and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Shibuya Stream Hall, Tokyo on Fri, 6 Nov 2026.
 
 Elle Shimada is an electronica and broken beat artist, with 19 gigs on soundcheck across London, Melbourne, Sydney and Tokyo. Often billed alongside Asha Franco, Midnight Tenderness and Shy One. Next up: Shibuya Stream Hall, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Elle Shimada is an electronica and broken beat artist, with 19 gigs on soundchec
 
 Asha Franco, Midnight Tenderness, Shy One
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleshimada/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleshimada/)*

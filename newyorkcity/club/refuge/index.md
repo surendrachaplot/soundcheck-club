@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Simon Doty w. EMJIE [Extended Set]" on Sat, 3 Oct 2026.
+Refuge is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Simon Doty w. EMJIE [Extended Set]" on Sat, 3 Oct 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including Adam X, Anthony Middleton, Baltra and Briela Veneno and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 21 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

@@ -1,6 +1,6 @@
 # Phil Bass
 
-Phil Bass is a Techno and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at block., Dublin on Fri, 23 Oct 2026.
+Phil Bass is a Techno and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at block., Dublin on Fri, 23 Oct 2026.
 
 Phil Bass is a techno and afro house artist based in Mauritius, with 72 gigs on soundcheck across Barcelona and Dublin. Often billed alongside Romanetto, NILAAA and Ascalon. Next up: block., Dublin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Phil Bass is a techno and afro house artist based in Mauritius, with 72 gigs on 
 
 Romanetto, NILAAA, Ascalon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philbass/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philbass/)*

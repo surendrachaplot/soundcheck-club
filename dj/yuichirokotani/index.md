@@ -1,6 +1,6 @@
 # Yuichiro Kotani
 
-Yuichiro Kotani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
+Yuichiro Kotani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
 
 Yuichiro Kotani is a techno and house artist, with 20 gigs on soundcheck across Amsterdam, Kyoto, Osaka and Seoul and 1 more. Often billed alongside SATICA, Yo Nishijima and Inqapool. Next up: WOMB, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yuichiro Kotani is a techno and house artist, with 20 gigs on soundcheck across 
 
 SATICA, Yo Nishijima, Inqapool
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuichirokotani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuichirokotani/)*

@@ -1,6 +1,6 @@
 # Katarina Gryvul
 
-Katarina Gryvul is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+Katarina Gryvul is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
 Katarina Gryvul is an experimental and club artist based in Ukraine, with 14 gigs on soundcheck across Amsterdam, Berlin, Geneva and Krakow and 8 more. Often billed alongside ABADIR, Blood of Aza and CWTCH. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Katarina Gryvul is an experimental and club artist based in Ukraine, with 14 gig
 
 ABADIR, Blood of Aza, CWTCH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinagryvul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katarinagryvul/)*

@@ -1,6 +1,6 @@
 # Rishi Romero
 
-Rishi Romero is a Hip-Hop and R&B artist with 20 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Leidse, Amsterdam on Sat, 3 Oct 2026.
+Rishi Romero is a Hip-Hop and R&B artist with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Leidse, Amsterdam on Sat, 3 Oct 2026.
 
 Rishi Romero is a hip-hop and r&b artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam. Often billed alongside Oscar Osorio and Daff. Next up: Club Leidse, Amsterdam on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Rishi Romero is a hip-hop and r&b artist based in Netherlands, with 75 gigs on s
 
 ## Recently played
 
+- Club Leidse, Amsterdam · Sat, 3 Oct 2026
 - Club Leidse, Amsterdam · Fri, 2 Oct 2026
 - Club Leidse, Amsterdam · Sat, 26 Sept 2026
 - Club Leidse, Amsterdam · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Rishi Romero is a hip-hop and r&b artist based in Netherlands, with 75 gigs on s
 - Club Leidse, Amsterdam · Fri, 18 Sept 2026
 - Club Leidse, Amsterdam · Sat, 12 Sept 2026
 - Club Leidse, Amsterdam · Fri, 11 Sept 2026
-- Club Leidse, Amsterdam · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Oscar Osorio, Daff
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rishiromero/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rishiromero/)*

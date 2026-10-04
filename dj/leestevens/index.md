@@ -1,6 +1,6 @@
 # Lee Stevens
 
-Lee Stevens is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
+Lee Stevens is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
 
 Lee Stevens is a disco and house artist, with 6 gigs on soundcheck across Vienna. Often billed alongside Simonlebon, Jakobin & Domino and LeSale. Next up: Soulkitchen Vienna, Vienna on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Lee Stevens is a disco and house artist, with 6 gigs on soundcheck across Vienna
 
 Simonlebon, Jakobin & Domino, LeSale
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leestevens/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leestevens/)*

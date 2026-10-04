@@ -1,6 +1,6 @@
 # The Buzz
 
-The Buzz is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sameheads 20th Birthday" on Fri, 20 Nov 2026.
+The Buzz is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sameheads 20th Birthday" on Fri, 20 Nov 2026.
 
 The Buzz is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Amelia Holt, An-i, Yoshi (DE) and André Pahl and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Buzz is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with l
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sameheads 20th Birthday | Amelia Holt, An-i, André Pahl, Caillou, Capablanca, Chris Imler, Cosmo Vitelli, DJ Fett Burger, Dane Close, Diamin, Fabrizio Mammarella, Franz Scala, Hara Katsiki, Intergalactic Gary, Karolina Bnv, Kinzua, Leona Jacewska, Luigi Di Venere, Melanie Havens, Niklas Wandt, Paty Vapor, Rena Volvo, Richii, Saeko Killy, Sound Metaphors Djs, Telephones, Yoshi (DE), Zozo, Òlta Karawane |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-buzz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-buzz/)*

@@ -1,6 +1,6 @@
 # Desay
 
-Desay is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 9 Oct 2026.
+Desay is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 9 Oct 2026.
 
 Desay is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Groooves, K1ng Arthur and Velasco. Next up: Eastern Bloc Records, Manchester on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Desay is a tech house and house artist based in United Kingdom, with 4 gigs on s
 
 Groooves, K1ng Arthur, Velasco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desay/)*

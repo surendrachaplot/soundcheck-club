@@ -1,6 +1,6 @@
 # Steinbock
 
-Steinbock is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
+Steinbock is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
 
 Steinbock is a techno and electro artist, with 12 gigs on soundcheck across New York City. Often billed alongside gon2, Isaiah Sanders and BUNZ. Next up: Bossa Nova Civic Club, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Steinbock is a techno and electro artist, with 12 gigs on soundcheck across New 
 
 gon2, Isaiah Sanders, BUNZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steinbock/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steinbock/)*

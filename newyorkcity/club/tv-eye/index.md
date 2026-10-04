@@ -1,6 +1,6 @@
 # TV EYE
 
-TV EYE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Let It Happen (Tame Impala Dance Party)" on Fri, 23 Oct 2026.
+TV EYE is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Let It Happen (Tame Impala Dance Party)" on Fri, 23 Oct 2026.
 
 TV EYE is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 1647 Weirfield St, Ridgewood, NY 11385.
 
@@ -16,4 +16,4 @@ TV EYE is a music venue in New York City listed on soundcheck. 3 upcoming gigs. 
 
 1647 Weirfield St, Ridgewood, NY 11385, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*

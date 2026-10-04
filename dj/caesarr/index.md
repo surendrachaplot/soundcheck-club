@@ -1,6 +1,6 @@
 # Caesarr
 
-Caesarr is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 16 Oct 2026.
+Caesarr is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 16 Oct 2026.
 
 Caesarr is a house and downtempo artist based in France, with 9 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Karani, Byron Yeates and 2THEMAX. Next up: Alte Feuerwache THF, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Caesarr is a house and downtempo artist based in France, with 9 gigs on soundche
 
 Karani, Byron Yeates, 2THEMAX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caesarr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caesarr/)*

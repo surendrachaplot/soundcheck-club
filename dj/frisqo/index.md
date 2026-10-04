@@ -1,6 +1,6 @@
 # Frisqo
 
-Frisqo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+Frisqo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Frisqo is a techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside HYPNOTIC.ERA, Jessica Kert and Julez (live). Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Frisqo is a techno artist based in Germany, with 8 gigs on soundcheck across Ber
 
 HYPNOTIC.ERA, Jessica Kert, Julez (live)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frisqo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frisqo/)*

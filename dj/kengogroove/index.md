@@ -1,6 +1,6 @@
 # Kengo Groove
 
-Kengo Groove is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Kengo Groove is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 Kengo Groove is a house and tech house artist based in Japan, with 35 gigs on soundcheck across Kyushu, Osaka and Tokyo. Often billed alongside Daitto, Chihoshi and CLESENT. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kengo Groove is a house and tech house artist based in Japan, with 35 gigs on so
 
 Daitto, Chihoshi, CLESENT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*

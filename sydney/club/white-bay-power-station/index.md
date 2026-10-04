@@ -1,6 +1,6 @@
 # White Bay Power Station
 
-White Bay Power Station is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ECHOES OF US" on Sun, 8 Nov 2026.
+White Bay Power Station is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ECHOES OF US" on Sun, 8 Nov 2026.
 
 White Bay Power Station is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Gomori, Francis Mercier, Jerk Boy and Mahmut Orhan and 2 more. See dates, start times and who's playing. 28 Robert St, Rozelle NSW 2039.
 
@@ -16,4 +16,4 @@ White Bay Power Station is a music venue in Sydney listed on soundcheck. 3 upcom
 
 28 Robert St, Rozelle NSW 2039, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/white-bay-power-station/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/white-bay-power-station/)*

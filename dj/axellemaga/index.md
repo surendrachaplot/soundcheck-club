@@ -1,6 +1,6 @@
 # Axelle Maga
 
-Axelle Maga is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sacré, Paris on Sat, 24 Oct 2026.
+Axelle Maga is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sacré, Paris on Sat, 24 Oct 2026.
 
 Axelle Maga is a house and electro artist based in France, with 12 gigs on soundcheck across New York City and Paris. Often billed alongside Romeo Louisa, ZAV and Baka G. Next up: Sacré, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Axelle Maga is a house and electro artist based in France, with 12 gigs on sound
 
 Romeo Louisa, ZAV, Baka G
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axellemaga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axellemaga/)*

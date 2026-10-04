@@ -1,6 +1,6 @@
 # Sander van Doorn
 
-Sander van Doorn is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Sander van Doorn is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
 
 Sander van Doorn is a trance and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Birmingham, Buenos Aires and Cologne and 17 more. Often billed alongside Marco V, Erick E and Alexander Koning. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sander van Doorn is a trance and techno artist based in Netherlands, with 27 gig
 
 Marco V, Erick E, Alexander Koning
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*

@@ -1,6 +1,6 @@
 # Cadeem LaMarr
 
-Cadeem LaMarr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Cadeem LaMarr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Cadeem LaMarr is a club and techno artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Tromac, ILUSM and JaySwann. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cadeem LaMarr is a club and techno artist based in United States of America, wit
 
 Tromac, ILUSM, JaySwann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeemlamarr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeemlamarr/)*

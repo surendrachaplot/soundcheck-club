@@ -1,6 +1,6 @@
 # Dani Corberó
 
-Dani Corberó is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bikini Club, Barcelona on Fri, 23 Oct 2026.
+Dani Corberó is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bikini Club, Barcelona on Fri, 23 Oct 2026.
 
 Dani Corberó is a tech house and deep house artist based in Spain, with 43 gigs on soundcheck across Barcelona. Often billed alongside DIROS, Jorgesyn and Abdon. Next up: Bikini Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dani Corberó is a tech house and deep house artist based in Spain, with 43 gigs
 
 DIROS, Jorgesyn, Abdon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danicorbero/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danicorbero/)*

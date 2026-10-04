@@ -1,6 +1,6 @@
 # Oberon
 
-Oberon is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "THE ZOO: FEELS LIKE NICOLE" on Sat, 3 Oct 2026.
+Oberon is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "THE ZOO: FEELS LIKE NICOLE" on Sat, 3 Oct 2026.
 
 Oberon is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including GOGO, Luis Fernando, PUNKAL0ID and zzzzach. See dates, start times and who's playing. 196 N 10th St, Brooklyn, NY, 11211.
 
@@ -15,4 +15,4 @@ Oberon is a music venue in New York City listed on soundcheck. 2 upcoming gigs, 
 
 196 N 10th St, Brooklyn, NY, 11211, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/oberon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/oberon/)*

@@ -1,6 +1,6 @@
 # ephemeral objects
 
-ephemeral objects is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+ephemeral objects is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 ephemeral objects is a techno and experimental artist based in Canada, with 27 gigs on soundcheck across Vancouver. Often billed alongside IHA (CA), DJ Hockey and Michael Red. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ ephemeral objects is a techno and experimental artist based in Canada, with 27 g
 
 ## Recently played
 
+- TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - TBA - Private Location, Vancouver · Fri, 21 Aug 2026
 - TBA - Secret Location, Vancouver · Sat, 1 Aug 2026
 - TBA - Shipyards North Vancouver, Vancouver · Sat, 18 Jul 2026
@@ -21,10 +22,9 @@ ephemeral objects is a techno and experimental artist based in Canada, with 27 g
 - TBA, Vancouver · Fri, 22 May 2026
 - TBA, Vancouver · Sat, 16 May 2026
 - TBA, Vancouver · Sat, 25 Apr 2026
-- TBA, Vancouver · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 IHA (CA), DJ Hockey, Michael Red
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*

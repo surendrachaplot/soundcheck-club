@@ -1,6 +1,6 @@
 # Ruben Secaduras
 
-Ruben Secaduras is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Ruben Secaduras is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Ruben Secaduras is a house and techno artist, with 115 gigs on soundcheck across Barcelona, Berlin, Brisbane and Bristol and 24 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Ruben Secaduras is a house and techno artist, with 115 gigs on soundcheck across
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Sat, 3 Oct 2026
 - La Java, Paris · Sat, 5 Sept 2026
 - Monarch, Berlin · Sat, 5 Sept 2026
 - Angel Music Bar, Melbourne · Thu, 3 Sept 2026
@@ -19,10 +20,9 @@ Ruben Secaduras is a house and techno artist, with 115 gigs on soundcheck across
 - Abercrombie Hotel, Sydney · Fri, 14 Aug 2026
 - Revolver Upstairs, Melbourne · Sun, 12 Jul 2026
 - TBA - Agriturismo Il Paliarete, Orvieto , Rome · Fri, 10 Jul 2026
-- The Glove That Fits, London · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Haus of Ralph, Jyoty, AANO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

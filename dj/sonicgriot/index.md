@@ -1,6 +1,6 @@
 # Sonic Griot
 
-Sonic Griot is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Piston, Toronto on Thu, 8 Oct 2026.
+Sonic Griot is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Piston, Toronto on Thu, 8 Oct 2026.
 
 Sonic Griot is an afro house and afro tech artist based in Canada, with 36 gigs on soundcheck across Toronto. Often billed alongside martinses, Razaq El Toro and Afrique Like Me. Next up: The Piston, Toronto on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Sonic Griot is an afro house and afro tech artist based in Canada, with 36 gigs 
 
 martinses, Razaq El Toro, Afrique Like Me
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicgriot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicgriot/)*

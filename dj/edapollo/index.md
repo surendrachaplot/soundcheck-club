@@ -1,6 +1,6 @@
 # edapollo
 
-edapollo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Volta, Amsterdam on Thu, 22 Oct 2026.
+edapollo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volta, Amsterdam on Thu, 22 Oct 2026.
 
 edapollo is a house and club artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam, London and San Francisco/Oakland. Often billed alongside Aaron F, Amatric and BAILE. Next up: Volta, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ edapollo is a house and club artist based in United Kingdom, with 4 gigs on soun
 
 Aaron F, Amatric, BAILE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*

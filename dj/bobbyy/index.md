@@ -1,6 +1,6 @@
 # Bobbyy
 
-Bobbyy is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
+Bobbyy is a Footwork and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at De La Playa Records & Leisure, Los Angeles on Sat, 31 Oct 2026.
 
 Bobbyy is a footwork and experimental artist based in United States of America, with 16 gigs on soundcheck across Chicago and Los Angeles. Often billed alongside Lastword, DJ Earl and Akumen. Next up: De La Playa Records & Leisure, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bobbyy is a footwork and experimental artist based in United States of America, 
 
 Lastword, DJ Earl, Akumen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyy/)*

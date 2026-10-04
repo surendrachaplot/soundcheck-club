@@ -1,6 +1,6 @@
 # JUICY-I
 
-JUICY-I is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+JUICY-I is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 JUICY-I is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Elliver, Marcie and 9LALEY. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ JUICY-I is a house and techno artist based in Germany, with 6 gigs on soundcheck
 
 Elliver, Marcie (2), 9LALEY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy-i/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy-i/)*

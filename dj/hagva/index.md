@@ -1,6 +1,6 @@
 # Hagva
 
-Hagva is a IDM and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+Hagva is a IDM and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
 
 Hagva is an idm and dub techno artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside CP1, Not Mass and Woody92. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Hagva is an idm and dub techno artist based in Italy, with 25 gigs on soundcheck
 
 CP1, Not Mass, Woody92
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*

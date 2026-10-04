@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford " on Sat, 3 Oct 2026.
+OST is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford " on Sat, 3 Oct 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

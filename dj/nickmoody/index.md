@@ -1,6 +1,6 @@
 # Nick Moody
 
-Nick Moody is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Theo, Amsterdam on Thu, 22 Oct 2026.
+Nick Moody is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Theo, Amsterdam on Thu, 22 Oct 2026.
 
 Nick Moody is a techno and house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Amanda Mussi, BIIA and Daniela Hensel. Next up: Bar Theo, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Nick Moody is a techno and house artist based in Netherlands, with 18 gigs on so
 
 Amanda Mussi, BIIA, Daniela Hensel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoody/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoody/)*

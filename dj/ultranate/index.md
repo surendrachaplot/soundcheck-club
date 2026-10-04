@@ -1,6 +1,6 @@
 # Ultra Naté
 
-Ultra Naté is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at LB Skybar, Baltimore on Sun, 4 Oct 2026.
+Ultra Naté is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at LB Skybar, Baltimore on Sun, 4 Oct 2026.
 
 Ultra Naté is a house and disco artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 14 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: LB Skybar, Baltimore on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Ultra Naté is a house and disco artist based in United States of America, with 
 
 DJ Spen, Derrick Carter, Rissa Garcia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

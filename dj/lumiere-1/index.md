@@ -1,6 +1,6 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Sun, 4 Oct 2026.
+Lumiere is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 42 Marches, Paris on Sun, 4 Oct 2026.
 
 Lumiere is a house and techno artist based in Argentina, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: 42 Marches, Paris on Sun 4 Oct.
 
@@ -32,4 +32,4 @@ Lumiere is a house and techno artist based in Argentina, with 118 gigs on soundc
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

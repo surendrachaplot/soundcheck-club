@@ -1,6 +1,6 @@
 # Mona Black
 
-Mona Black is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
+Mona Black is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
 
 Mona Black is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Detroit. Often billed alongside Drop Catch, RAEDY LEX and sillygirlcarmen. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mona Black is a house and techno artist based in United States of America, with 
 
 Drop Catch, RAEDY LEX, sillygirlcarmen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monablack/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monablack/)*

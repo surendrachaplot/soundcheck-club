@@ -1,6 +1,6 @@
 # MIRALEO
 
-MIRALEO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+MIRALEO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 MIRALEO is a techno and trance artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Phillinger, Captain Ahoi and Eliza Minelli. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MIRALEO is a techno and trance artist, with 13 gigs on soundcheck across Berlin.
 
 Phillinger, Captain Ahoi, Eliza Minelli
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*

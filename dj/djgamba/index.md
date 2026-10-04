@@ -1,6 +1,6 @@
 # DJ Gamba
 
-DJ Gamba is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
+DJ Gamba is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
 
 DJ Gamba is a house and electro artist based in Spain, with 104 gigs on soundcheck across Antwerp, Barcelona, Belfast and Copenhagen and 6 more. Often billed alongside mves, Sampol and CMYK. Next up: 303 Audiophile Bar, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Gamba is a house and electro artist based in Spain, with 104 gigs on soundche
 
 mves, Sampol, CMYK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*

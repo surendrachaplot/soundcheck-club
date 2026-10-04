@@ -1,6 +1,6 @@
 # HOLL3
 
-HOLL3 is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Palais Nottingham, Nottingham on Fri, 30 Oct 2026.
+HOLL3 is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Palais Nottingham, Nottingham on Fri, 30 Oct 2026.
 
 HOLL3 is a house and garage artist based in United Kingdom, with 24 gigs on soundcheck across Ibiza, London, Nottingham and Sheffield. Often billed alongside ACT ON, George Mensah and Luke Wolfman. Next up: TBA - Palais Nottingham, Nottingham on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ HOLL3 is a house and garage artist based in United Kingdom, with 24 gigs on soun
 
 ACT ON, George Mensah, Luke Wolfman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holl3/)*

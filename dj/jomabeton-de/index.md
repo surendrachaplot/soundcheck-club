@@ -1,6 +1,6 @@
 # Joma Beton
 
-Joma Beton is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
+Joma Beton is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
 Joma Beton is a tech house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Notes & Digits, Tom Eichhagen and Adri Tüde. Next up: Kater, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Joma Beton is a tech house and techno artist based in Germany, with 9 gigs on so
 
 Notes & Digits, Tom Eichhagen, Adri Tüde
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomabeton-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomabeton-de/)*

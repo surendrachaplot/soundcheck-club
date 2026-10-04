@@ -1,6 +1,6 @@
 # Les Yeux Orange
 
-Les Yeux Orange is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Fri, 9 Oct 2026.
+Les Yeux Orange is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 42 Marches, Paris on Fri, 9 Oct 2026.
 
 Les Yeux Orange is a house and disco artist based in France, with 51 gigs on soundcheck across Athens, Barcelona, Bucharest and Copenhagen and 7 more. Often billed alongside Joe Lewandowski, LeonxLeon and Vitaline. Next up: 42 Marches, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Les Yeux Orange is a house and disco artist based in France, with 51 gigs on sou
 
 Joe Lewandowski, LeonxLeon, Vitaline
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesyeuxorange/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesyeuxorange/)*

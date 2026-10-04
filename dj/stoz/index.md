@@ -1,6 +1,6 @@
 # STOZ
 
-STOZ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+STOZ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 STOZ is a house and breakbeat artist based in Greece, with 24 gigs on soundcheck across Athens, Greece, Milan and Stuttgart. Often billed alongside 22, Tomahs. and Liou. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ STOZ is a house and breakbeat artist based in Greece, with 24 gigs on soundcheck
 
 22 (1), Tomahs., Liou
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoz/)*

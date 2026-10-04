@@ -1,6 +1,6 @@
 # Rosa Pagano
 
-Rosa Pagano is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
+Rosa Pagano is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
 
 Rosa Pagano is a drum & bass and bass artist based in Spain, with 21 gigs on soundcheck across Geneva and Zurich. Often billed alongside Mara (CH), Arithmittel and Bou (UK). Next up: TBA - Komplex 457, Zurich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rosa Pagano is a drum & bass and bass artist based in Spain, with 21 gigs on sou
 
 Mara (CH), Arithmittel, Bou (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapagano/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapagano/)*

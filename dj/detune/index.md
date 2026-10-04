@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Detune is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 Detune is a techno and house artist based in Belgium, with 11 gigs on soundcheck across Amsterdam, Berlin, Cologne and Detroit. Often billed alongside T.Linder, DJ Roach and Daniel Englisch. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Detune is a techno and house artist based in Belgium, with 11 gigs on soundcheck
 
 T.Linder, DJ Roach, Daniel Englisch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detune/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detune/)*

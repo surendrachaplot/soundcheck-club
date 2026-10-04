@@ -1,6 +1,6 @@
 # Cafe Del Mar
 
-Cafe Del Mar is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "EELKE KLEIJN" on Sun, 4 Oct 2026.
+Cafe Del Mar is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "EELKE KLEIJN" on Sun, 4 Oct 2026.
 
 Cafe Del Mar is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Henry Saiz. See dates, start times and who's playing. Rooftop Terrace, Cockle Bay Wharf, 35 Wheat Rd, Sydney NSW 2000, Australia.
 
@@ -15,4 +15,4 @@ Cafe Del Mar is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, w
 
 Rooftop Terrace, Cockle Bay Wharf, 35 Wheat Rd, Sydney NSW 2000, Australia, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cafe-del-mar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cafe-del-mar/)*

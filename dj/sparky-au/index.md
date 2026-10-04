@@ -1,6 +1,6 @@
 # Sparky (AU)
 
-Sparky (AU) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cellar, London on Sat, 7 Nov 2026.
+Sparky (AU) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cellar, London on Sat, 7 Nov 2026.
 
 Sparky (AU) is a house and electro artist based in Australia, with 12 gigs on soundcheck across Kyoto, Liverpool and London. Often billed alongside Mr. Freeze, Daniel Pereira and Andy Kas. Next up: Cellar, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sparky (AU) is a house and electro artist based in Australia, with 12 gigs on so
 
 Mr. Freeze, Daniel Pereira, Andy Kas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparky-au/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparky-au/)*

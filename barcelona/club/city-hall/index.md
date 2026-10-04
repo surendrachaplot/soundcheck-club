@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "METALCORE" on Sat, 3 Oct 2026.
+City Hall is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "METALCORE" on Sat, 3 Oct 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Kynexis, Ruben XXL and SARA KRIN. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, 
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

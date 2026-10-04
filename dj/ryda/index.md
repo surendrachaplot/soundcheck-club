@@ -1,6 +1,6 @@
 # RYDA
 
-RYDA is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
+RYDA is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
 
 RYDA is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Birmingham, Bristol, London and Manchester. Often billed alongside Bella Bytes, Amoss and JUST FELIX. Next up: The Clock Factory, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ RYDA is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on
 
 Bella Bytes, Amoss, JUST FELIX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryda/)*

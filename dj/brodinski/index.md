@@ -1,6 +1,6 @@
 # Brodinski
 
-Brodinski is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
+Brodinski is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
 
 Brodinski is a hip-hop and techno artist based in France, with 61 gigs on soundcheck across Amsterdam, Bangkok, Belgrade and Berlin and 25 more. Often billed alongside Slikback, Polygonia and aya. Next up: Lithium Paris, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Brodinski is a hip-hop and techno artist based in France, with 61 gigs on soundc
 
 Slikback, Polygonia, aya
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*

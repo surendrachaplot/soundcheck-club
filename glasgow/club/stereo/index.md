@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more" on Sat, 3 Oct 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FUSE is 10 pt.4: Flowdan x Kahn, Neffa-T, Freshta + more" on Sat, 3 Oct 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Acido Cielo, Babyjaii, CLO and Creep-P and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

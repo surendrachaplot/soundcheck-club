@@ -1,6 +1,6 @@
 # Polyswitch
 
-Polyswitch is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Polyswitch is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Polyswitch is a house and funk / soul artist based in Morocco, with 6 gigs on soundcheck across Barcelona, Belgrade, Central and Naples and 1 more. Often billed alongside ANOTR, Alexis Cabrera and Amine K. Next up: TBA, Central on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Polyswitch is a house and funk / soul artist based in Morocco, with 6 gigs on so
 
 ANOTR, Alexis Cabrera, Amine K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyswitch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyswitch/)*

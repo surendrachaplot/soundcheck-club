@@ -1,6 +1,6 @@
 # Alousea
 
-Alousea is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oxygenic, Newcastle on Sat, 17 Oct 2026.
+Alousea is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oxygenic, Newcastle on Sat, 17 Oct 2026.
 
 Alousea is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Newcastle. Often billed alongside Socialness, PHJ.WAV and FroD. Next up: Oxygenic, Newcastle on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Alousea is a disco and house artist based in United Kingdom, with 19 gigs on sou
 
 Socialness, PHJ.WAV, FroD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alousea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alousea/)*

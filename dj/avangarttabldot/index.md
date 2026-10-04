@@ -1,6 +1,6 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
+Avangart Tabldot is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chinois Ibiza, Ibiza on Wed, 7 Oct 2026.
 
 Avangart Tabldot is a house and afro house artist based in Turkey, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Chinois Ibiza, Ibiza on Wed 7 Oct.
 
@@ -28,4 +28,4 @@ Avangart Tabldot is a house and afro house artist based in Turkey, with 93 gigs 
 
 Mahmut Orhan, Echonomist, Henri Bergmann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*

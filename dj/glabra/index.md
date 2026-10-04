@@ -1,6 +1,6 @@
 # Glabra
 
-Glabra is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+Glabra is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
 Glabra is a trance and bass artist based in Portugal, with 48 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Lisbon and 5 more. Often billed alongside Viegas, Saetern and Slimfit. Next up: export, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Glabra is a trance and bass artist based in Portugal, with 48 gigs on soundcheck
 
 Viegas, Saetern, Slimfit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glabra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glabra/)*

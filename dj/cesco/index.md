@@ -1,6 +1,6 @@
 # Cesco
 
-Cesco is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Radius, Chicago on Sat, 10 Oct 2026.
+Cesco is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Radius, Chicago on Sat, 10 Oct 2026.
 
 Cesco is a drum & bass and bass artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Arkansas, Austin and Birmingham and 25 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: Radius, Chicago on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Cesco is a drum & bass and bass artist based in Italy, with 62 gigs on soundchec
 
 SP:MC, Alix Perez, Monty
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*

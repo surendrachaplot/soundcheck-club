@@ -1,6 +1,6 @@
 # Luc Ringeisen
 
-Luc Ringeisen is a Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club der Visionaere, Berlin on Sun, 4 Oct 2026.
+Luc Ringeisen is a Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club der Visionaere, Berlin on Sun, 4 Oct 2026.
 
 Luc Ringeisen is a minimal artist, with 39 gigs on soundcheck across Berlin, Geneva and Ibiza. Often billed alongside DeWalta, Lorenzo Chiabotti and Pavlicu. Next up: Club der Visionaere, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Luc Ringeisen is a minimal artist, with 39 gigs on soundcheck across Berlin, Gen
 
 DeWalta, Lorenzo Chiabotti, Pavlicu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucringeisen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucringeisen/)*

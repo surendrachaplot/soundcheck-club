@@ -1,6 +1,6 @@
 # Sampology
 
-Sampology is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 26 Nov 2026.
+Sampology is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 26 Nov 2026.
 
 Sampology is a house and disco artist based in Australia, with 15 gigs on soundcheck across Auckland, Bangkok, Brisbane and Hobart and 2 more. Often billed alongside AROHA, Antal and Babetech. Next up: The Fortitude Music Hall, Brisbane on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sampology is a house and disco artist based in Australia, with 15 gigs on soundc
 
 AROHA, Antal, Babetech
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampology/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampology/)*

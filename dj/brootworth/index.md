@@ -1,6 +1,6 @@
 # Brootworth
 
-Brootworth is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
+Brootworth is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Thu, 15 Oct 2026.
 
 Brootworth is a bass and experimental artist based in Austria, with 5 gigs on soundcheck across Berlin and Vienna. Often billed alongside Rompa, Beatrice M. and Ben Sleia. Next up: OHM, Berlin on Thu 15 Oct.
 
@@ -21,4 +21,4 @@ Brootworth is a bass and experimental artist based in Austria, with 5 gigs on so
 
 Rompa, Beatrice M., Ben Sleia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brootworth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brootworth/)*

@@ -1,6 +1,6 @@
 # Hypershe
 
-Hypershe is a Jungle and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Gothenburg on Sat, 17 Oct 2026.
+Hypershe is a Jungle and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Gothenburg on Sat, 17 Oct 2026.
 
 Hypershe is a jungle and hardcore artist based in United Kingdom, with 19 gigs on soundcheck across Brighton, Bristol, Gothenburg and Hong Kong and 3 more. Often billed alongside Origin8a & Propa, DJ Hybrid and Pete Cannon. Next up: TBA, Gothenburg on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Hypershe is a jungle and hardcore artist based in United Kingdom, with 19 gigs o
 
 Origin8a & Propa, DJ Hybrid, Pete Cannon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypershe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypershe/)*

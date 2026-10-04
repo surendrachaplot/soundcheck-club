@@ -1,6 +1,6 @@
 # Josh Keit
 
-Josh Keit is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 7 Nov 2026.
+Josh Keit is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 7 Nov 2026.
 
 Josh Keit is a house and electro artist based in United Kingdom, with 50 gigs on soundcheck across Brighton, Leeds, London and Manchester. Often billed alongside Oldfield, Jardine (UK) and Jenson.. Next up: fabric, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Josh Keit is a house and electro artist based in United Kingdom, with 50 gigs on
 
 Oldfield, Jardine (UK), Jenson.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*

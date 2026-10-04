@@ -1,6 +1,6 @@
 # EWERSEEN
 
-EWERSEEN is a Afro House and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 24 Oct 2026.
+EWERSEEN is a Afro House and New Wave artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 24 Oct 2026.
 
 EWERSEEN is an afro house and new wave artist based in Poland, with 13 gigs on soundcheck across Amsterdam, Budapest, Krakow and Mykonos and 1 more. Often billed alongside Andrea Oliva, Kuvau and ARODES. Next up: Moon Warsaw, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ EWERSEEN is an afro house and new wave artist based in Poland, with 13 gigs on s
 
 Andrea Oliva, Kuvau, ARODES
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewerseen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewerseen/)*

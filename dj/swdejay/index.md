@@ -1,6 +1,6 @@
 # SWDEJAY
 
-SWDEJAY is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spkrbox, Detroit on Sun, 4 Oct 2026.
+SWDEJAY is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spkrbox, Detroit on Sun, 4 Oct 2026.
 
 SWDEJAY is a reggaeton and dembow artist based in United States of America, with 95 gigs on soundcheck across Detroit and Mexico City. Often billed alongside DJ IZA, Disc Jockey George and Dylán Gomez. Next up: Spkrbox, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ SWDEJAY is a reggaeton and dembow artist based in United States of America, with
 
 DJ IZA, Disc Jockey George, Dylán Gomez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*

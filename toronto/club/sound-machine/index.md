@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi" on Sat, 3 Oct 2026.
+Sound Machine is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "90's House Music Tribute Party with Dino & Terry, Jason Palma & DJ Yogi" on Sat, 3 Oct 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Chinelo, Dino and Terry, DRS and hadis and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
@@ -23,4 +23,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 10 upcoming gigs
 
 178 Bathurst Street, Toronto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

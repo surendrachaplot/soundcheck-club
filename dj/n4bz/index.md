@@ -1,6 +1,6 @@
 # n4bz
 
-n4bz is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+n4bz is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across Central, Morocco and Tunisia. Often billed alongside DJ Senc, Daox and ANOTR. Next up: TBA, Central on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across 
 
 DJ Senc, Daox, ANOTR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*

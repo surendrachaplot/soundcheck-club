@@ -1,6 +1,6 @@
 # Loki-Hi
 
-Loki-Hi is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Loki-Hi is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Loki-Hi is a house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Jartley, Arty (UK) and Captain Wallop. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Loki-Hi is a house and garage artist based in United Kingdom, with 7 gigs on sou
 
 ## Recently played
 
+- Mint Warehouse, Leeds · Sat, 3 Oct 2026
 - The Timber Loft, London · Sun, 22 Feb 2026
 - The Eagle Inn, Manchester · Sat, 5 Jul 2025
 - Distrikt, Leeds · Fri, 4 Jul 2025
@@ -23,4 +24,4 @@ Loki-Hi is a house and garage artist based in United Kingdom, with 7 gigs on sou
 
 Jartley, Arty (UK), Captain Wallop
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-hi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-hi/)*

@@ -1,6 +1,6 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Janina is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Janina is a techno and tech house artist based in Germany, with 72 gigs on soundcheck across Barcelona, Berlin, Greece and Hamburg and 7 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Janina is a techno and tech house artist based in Germany, with 72 gigs on sound
 
 Francesco Farfa, Luigi Rossi, Piticu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*

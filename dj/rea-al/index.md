@@ -1,6 +1,6 @@
 # REA (AL)
 
-REA (AL) is a Techno and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Valley - The Hall, Zurich on Sat, 10 Oct 2026.
+REA (AL) is a Techno and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Valley - The Hall, Zurich on Sat, 10 Oct 2026.
 
 REA (AL) is a techno and garage artist based in Albania, with 10 gigs on soundcheck across Amsterdam, Barcelona, Bristol and London and 2 more. Often billed alongside BUSSI, Black Box and ESC. Next up: The Valley - The Hall, Zurich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ REA (AL) is a techno and garage artist based in Albania, with 10 gigs on soundch
 
 BUSSI, Black Box, ESC (5)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*

@@ -1,6 +1,6 @@
 # Thiim
 
-Thiim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
+Thiim is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
 
 Thiim is a techno and trance artist based in Denmark, with 13 gigs on soundcheck across Copenhagen. Often billed alongside KAMIKAZEM, Tim Andresen and Bestrawa. Next up: Culture Box, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Thiim is a techno and trance artist based in Denmark, with 13 gigs on soundcheck
 
 KAMIKAZEM, Tim Andresen, Bestrawa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiim/)*

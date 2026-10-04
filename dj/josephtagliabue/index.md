@@ -1,6 +1,6 @@
 # Joseph Tagliabue
 
-Joseph Tagliabue is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
+Joseph Tagliabue is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
 Joseph Tagliabue is a techno and trance artist, with 20 gigs on soundcheck across Belgrade, Copenhagen, London and Milan and 5 more. Often billed alongside GNMR, Sandra Mason and marielou. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joseph Tagliabue is a techno and trance artist, with 20 gigs on soundcheck acros
 
 GNMR, Sandra Mason, marielou
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtagliabue/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephtagliabue/)*

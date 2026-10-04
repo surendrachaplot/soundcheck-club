@@ -1,6 +1,6 @@
 # ADRIANNA
 
-ADRIANNA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+ADRIANNA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 ADRIANNA is a techno and tech house artist based in Canada, with 26 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Edinburgh and 8 more. Often billed alongside Lino Fuso, Christian Smith and Cambric. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ ADRIANNA is a techno and tech house artist based in Canada, with 26 gigs on soun
 
 Lino Fuso, Christian Smith, Cambric
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*

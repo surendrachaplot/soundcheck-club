@@ -1,6 +1,6 @@
 # KELO AR
 
-KELO AR is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+KELO AR is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 KELO AR is a progressive house and deep house artist based in Spain, with 18 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside Iovino, Edu Reimer and Ivan Akselman. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KELO AR is a progressive house and deep house artist based in Spain, with 18 gig
 
 Iovino, Edu Reimer, Ivan Akselman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keloar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keloar/)*

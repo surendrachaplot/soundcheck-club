@@ -1,6 +1,6 @@
 # Kush Jones
 
-Kush Jones is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nowadays, New York City on Sun, 11 Oct 2026.
+Kush Jones is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nowadays, New York City on Sun, 11 Oct 2026.
 
 Kush Jones is a techno and house artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 28 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Nowadays, New York City on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Kush Jones is a techno and house artist based in United States of America, with 
 
 DJ SWISHA, MoMA Ready, AceMo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*

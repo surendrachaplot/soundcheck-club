@@ -1,6 +1,6 @@
 # Phase Line
 
-Phase Line is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
+Phase Line is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
 
 Phase Line is a techno and acid artist, with 8 gigs on soundcheck across Copenhagen, London, Riga and Vilnius. Often billed alongside Ksenia Kamikaza, HP-82 and Alex Krell. Next up: Elastica, Vilnius on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Phase Line is a techno and acid artist, with 8 gigs on soundcheck across Copenha
 
 Ksenia Kamikaza, HP-82, Alex Krell
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

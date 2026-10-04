@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Space Talk presents : ST05 Release Party at Gaffe" on Sat, 3 Oct 2026.
+Gaffe is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Space Talk presents : ST05 Release Party at Gaffe" on Sat, 3 Oct 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 15 upcoming gigs, with li
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

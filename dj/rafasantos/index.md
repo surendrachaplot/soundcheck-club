@@ -1,6 +1,6 @@
 # Rafa Santos
 
-Rafa Santos is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Fri, 9 Oct 2026.
+Rafa Santos is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cadavra, Madrid on Fri, 9 Oct 2026.
 
 Rafa Santos is a house and deep house artist based in Spain, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Sama Yax, Deenamic and Alvaro Cabana. Next up: Cadavra, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Rafa Santos is a house and deep house artist based in Spain, with 30 gigs on sou
 
 Sama Yax, Deenamic, Alvaro Cabana
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasantos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasantos/)*

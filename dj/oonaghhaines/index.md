@@ -1,6 +1,6 @@
 # Oonagh Haines
 
-Oonagh Haines is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+Oonagh Haines is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
 Oonagh Haines is a techno and electro artist based in Belgium, with 9 gigs on soundcheck across Brussels, Lyon, Paris and Rennes. Often billed alongside 700 BLISS, Able Noise and Antilogic. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Oonagh Haines is a techno and electro artist based in Belgium, with 9 gigs on so
 
 700 BLISS, Able Noise, Antilogic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonaghhaines/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonaghhaines/)*

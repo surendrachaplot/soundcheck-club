@@ -1,6 +1,6 @@
 # Horizon, Brighton
 
-Horizon, Brighton is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Peach Legends UK Tour - Horizon, Brighton" on Sat, 17 Oct 2026.
+Horizon, Brighton is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Peach Legends UK Tour - Horizon, Brighton" on Sat, 17 Oct 2026.
 
 Horizon, Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming gig, with line-ups including Chris Bayne, Edele Andaya, Fisha and Merc (IT) and 1 more. See dates, start times and who's playing. 214 Kings Road, Brighton, BN1 1NB, UK.
 
@@ -14,4 +14,4 @@ Horizon, Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming 
 
 214 Kings Road, Brighton, BN1 1NB, UK, Brighton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-brighton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-brighton/)*

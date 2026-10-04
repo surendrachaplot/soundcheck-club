@@ -1,6 +1,6 @@
 # Menou/iwamaki
 
-Menou/iwamaki is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
+Menou/iwamaki is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
 
 Menou/iwamaki is an ambient and techno artist, with 15 gigs on soundcheck across Barcelona, South Korea and Tokyo. Often billed alongside Hypnotic Black Magic, Toner(JP) and AERAE. Next up: TBA - 강원도 화천, South Korea on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Menou/iwamaki is an ambient and techno artist, with 15 gigs on soundcheck across
 
 Hypnotic Black Magic, Toner(JP), AERAE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menouiwamaki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menouiwamaki/)*

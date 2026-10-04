@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Yellow Mellow Invites: Legowelt" on Sat, 3 Oct 2026.
+Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Yellow Mellow Invites: Legowelt" on Sat, 3 Oct 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexandra, Andrei Ciubuc, Berto (DE) and Borja S and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

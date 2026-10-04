@@ -1,6 +1,6 @@
 # tamū
 
-tamū is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, Berlin on Sat, 3 Oct 2026.
+tamū is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, Berlin on Sat, 3 Oct 2026.
 
 tamū is a techno and idm artist based in Germany, with 7 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside MFX, theories and ALNITHRA.incidents. Next up: Monarch, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ tamū is a techno and idm artist based in Germany, with 7 gigs on soundcheck acr
 
 ## Recently played
 
+- Monarch, Berlin · Sat, 3 Oct 2026
 - Coco Boule, Berlin · Fri, 11 Sept 2026
 - TBA - Tempelhof Area, Berlin · Sat, 18 Jul 2026
 - Frappant, Hamburg · Sat, 15 Nov 2025
@@ -23,4 +24,4 @@ tamū is a techno and idm artist based in Germany, with 7 gigs on soundcheck acr
 
 MFX (1), theories, ALNITHRA.incidents
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*

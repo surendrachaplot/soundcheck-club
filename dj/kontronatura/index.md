@@ -1,6 +1,6 @@
 # Kontronatura
 
-Kontronatura is a Baile Funk and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
+Kontronatura is a Baile Funk and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Kontronatura is a baile funk and techno artist based in Brazil, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: El Pumarejo Barcelona, Barcelona on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Kontronatura is a baile funk and techno artist based in Brazil, with 101 gigs on
 
 Cashu, Alírio, EVEHIVE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*

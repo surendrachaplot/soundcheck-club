@@ -1,6 +1,6 @@
 # Bergsonist
 
-Bergsonist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
+Bergsonist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
 
 Bergsonist is a techno and house artist based in Morocco, with 44 gigs on soundcheck across Amsterdam, Los Angeles, Miami and Montreal and 5 more. Often billed alongside Relaxer, Shyboi and Zara Dekho. Next up: public records, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Bergsonist is a techno and house artist based in Morocco, with 44 gigs on soundc
 
 Relaxer, Shyboi, Zara Dekho
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bergsonist/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bergsonist/)*

@@ -1,6 +1,6 @@
 # SYM
 
-SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 33/45 Club, Valencia on Sat, 10 Oct 2026.
+SYM is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 33/45 Club, Valencia on Sat, 10 Oct 2026.
 
 SYM is a techno and acid artist, with 65 gigs on soundcheck across Barcelona, Berlin, Hong Kong and London and 3 more. Often billed alongside Niko Sanchez, H-R-Z and Lino Fuso. Next up: 33/45 Club, Valencia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SYM is a techno and acid artist, with 65 gigs on soundcheck across Barcelona, Be
 
 Niko Sanchez, H-R-Z, Lino Fuso
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sym-it/)*

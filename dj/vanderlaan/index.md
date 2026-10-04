@@ -1,6 +1,6 @@
 # Van Der Laan
 
-Van Der Laan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
+Van Der Laan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at McCarren Park, New York City on Sun, 4 Oct 2026.
 
 Van Der Laan is a house and techno artist based in United States of America, with 24 gigs on soundcheck across New York City. Often billed alongside Atilla Ural, Ksenyeah and Adrian Escobar (US). Next up: McCarren Park, New York City on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Van Der Laan is a house and techno artist based in United States of America, wit
 
 Atilla Ural, Ksenyeah, Adrian Escobar (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*

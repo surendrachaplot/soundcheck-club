@@ -1,6 +1,6 @@
 # Drew Baker
 
-Drew Baker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Sat, 10 Oct 2026.
+Drew Baker is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Sat, 10 Oct 2026.
 
 Drew Baker is a house and disco artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Joey with the Mustache, Luis Fernando and DJ Dawson. Next up: Good Room, New York City on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Drew Baker is a house and disco artist based in United States of America, with 8
 
 Joey with the Mustache, Luis Fernando, DJ Dawson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewbaker/)*

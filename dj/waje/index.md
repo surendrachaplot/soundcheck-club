@@ -1,6 +1,6 @@
 # Waje
 
-Waje is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri, 9 Oct 2026.
+Waje is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri, 9 Oct 2026.
 
 Waje is an electro and techno artist, with 6 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Ruben Montesco, Ash and Coffintexts. Next up: Industrias Mekanikas Vinyl Bar & Store, Madrid on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Waje is an electro and techno artist, with 6 gigs on soundcheck across Barcelona
 
 Ruben Montesco, Ash, Coffintexts
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waje/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waje/)*

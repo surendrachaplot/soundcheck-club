@@ -1,6 +1,6 @@
 # Beverly Chills
 
-Beverly Chills is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
+Beverly Chills is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Podlasie Club, Chicago on Sat, 17 Oct 2026.
 
 Beverly Chills is a techno and house artist, with 65 gigs on soundcheck across Chicago, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside nonsuit, likeholywine and Papa Xanny. Next up: Podlasie Club, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Beverly Chills is a techno and house artist, with 65 gigs on soundcheck across C
 
 nonsuit, likeholywine, Papa Xanny
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*

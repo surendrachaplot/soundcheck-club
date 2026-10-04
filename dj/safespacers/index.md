@@ -1,6 +1,6 @@
 # Safe Spacers
 
-Safe Spacers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
+Safe Spacers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
 
 Safe Spacers is a techno and house artist based in Denmark, with 7 gigs on soundcheck across Copenhagen. Often billed alongside ADAPT (DK), CERJ and Tim Andresen. Next up: Culture Box, Copenhagen on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Safe Spacers is a techno and house artist based in Denmark, with 7 gigs on sound
 
 ADAPT (DK), CERJ, Tim Andresen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safespacers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safespacers/)*

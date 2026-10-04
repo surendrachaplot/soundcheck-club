@@ -1,6 +1,6 @@
 # Derrick Wize
 
-Derrick Wize is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
+Derrick Wize is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jungle Hollywood, Los Angeles on Sat, 24 Oct 2026.
 
 Derrick Wize is a house and deep house artist based in United States of America, with 25 gigs on soundcheck across Chicago, Los Angeles and Paris. Often billed alongside Louis Hale, Wayne Williams and DJ Colette. Next up: Jungle Hollywood, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Derrick Wize is a house and deep house artist based in United States of America,
 
 Louis Hale, Wayne Williams, DJ Colette
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickwize/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickwize/)*

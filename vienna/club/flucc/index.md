@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gassen aus Zucker - go with the slow" on Sat, 3 Oct 2026.
+FLUCC is a music venue in Vienna with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Gassen aus Zucker - go with the slow" on Sat, 3 Oct 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 15 upcoming gigs, with line-ups including Altroy Jerome, AMOVV, anxxxious_t and Authentically Plastic and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -23,4 +23,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 15 upcoming gigs, with li
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

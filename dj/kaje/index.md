@@ -1,6 +1,6 @@
 # KAJE
 
-KAJE is a EBM and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 29 Oct 2026.
+KAJE is a EBM and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 KAJE is an ebm and club artist based in United States of America, with 13 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside Hex Embrace, ImpirumCrypt and Hopelesss. Next up: Monarch, San Francisco/Oakland on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ KAJE is an ebm and club artist based in United States of America, with 13 gigs o
 
 Hex Embrace, ImpirumCrypt, Hopelesss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaje/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaje/)*

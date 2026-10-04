@@ -1,6 +1,6 @@
 # Martin Huergo
 
-Martin Huergo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Martin Huergo is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Martin Huergo is a techno and electronica artist based in Argentina, with 7 gigs on soundcheck across Buenos Aires and Miami. Often billed alongside 120 max, Ana Hagen and Anfisa Letyago. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Martin Huergo is a techno and electronica artist based in Argentina, with 7 gigs
 
 120 max, Ana Hagen, Anfisa Letyago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinhuergo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinhuergo/)*

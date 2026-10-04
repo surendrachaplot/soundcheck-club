@@ -1,6 +1,6 @@
 # Serenus
 
-Serenus is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
+Serenus is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
 
 Serenus is a techno and electronica artist based in Germany, with 35 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Serenus is a techno and electronica artist based in Germany, with 35 gigs on sou
 
 APRS, Am Nil, Calcium Channel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenus/)*

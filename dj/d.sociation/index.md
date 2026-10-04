@@ -1,6 +1,6 @@
 # D.Sociation
 
-D.Sociation is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prisma, Berlin on Fri, 13 Nov 2026.
+D.Sociation is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Prisma, Berlin on Fri, 13 Nov 2026.
 
 D.Sociation is a techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Julian Shore, ATR DJ-TEAM and R4W&L00PZ. Next up: Prisma, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ D.Sociation is a techno artist based in Germany, with 7 gigs on soundcheck acros
 
 Julian Shore, ATR DJ-TEAM, R4W&L00PZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.sociation/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.sociation/)*

@@ -1,6 +1,6 @@
 # Tsott
 
-Tsott is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
+Tsott is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
 
 Tsott is a techno and acid artist based in Georgia, with 9 gigs on soundcheck across Barcelona and Tbilisi. Often billed alongside BLNDFLD, Solarmental and Amares. Next up: LAUT, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tsott is a techno and acid artist based in Georgia, with 9 gigs on soundcheck ac
 
 BLNDFLD, Solarmental, Amares
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsott/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsott/)*

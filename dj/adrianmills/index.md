@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Adrian Mills is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Adrian Mills is a techno and trance artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Adrian Mills is a techno and trance artist based in Germany, with 224 gigs on so
 
 Cloudy, KUKO, Serafina
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

@@ -1,6 +1,6 @@
 # Mr Fresh Official
 
-Mr Fresh Official is a House and Club artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Crown Pier, London on Thu, 29 Oct 2026.
+Mr Fresh Official is a House and Club artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Crown Pier, London on Thu, 29 Oct 2026.
 
 Mr Fresh Official is a house and club artist based in United Kingdom, with 146 gigs on soundcheck across London. Often billed alongside VanRock, NYCity Soundz and Eddie Van Poppel. Next up: Crown Pier, London on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Mr Fresh Official is a house and club artist based in United Kingdom, with 146 g
 
 VanRock, NYCity Soundz, Eddie Van Poppel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrfreshofficial-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrfreshofficial-uk/)*

@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Obsimo (live set) - Berlin" on Tue, 6 Oct 2026.
+Kantine am Berghain is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Obsimo (live set) - Berlin" on Tue, 6 Oct 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Oxley, Alex P., Do you know Juno and Fabrizio Rat - La Machina and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

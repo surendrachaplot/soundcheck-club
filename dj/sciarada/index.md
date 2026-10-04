@@ -1,6 +1,6 @@
 # Sciarada
 
-Sciarada is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 10 Oct 2026.
+Sciarada is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 10 Oct 2026.
 
 Sciarada is a disco and house artist based in Germany, with 72 gigs on soundcheck across Berlin. Often billed alongside maniac&me, Matteo Gamba and Solco privato. Next up: Orangerie Neukölln, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Sciarada is a disco and house artist based in Germany, with 72 gigs on soundchec
 
 maniac&me, Matteo Gamba, Solco privato
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciarada/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciarada/)*

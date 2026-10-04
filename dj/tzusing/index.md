@@ -1,6 +1,6 @@
 # Tzusing
 
-Tzusing is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
+Tzusing is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
 Tzusing is a techno and experimental artist based in China, with 21 gigs on soundcheck across Amsterdam, Bangkok, Berlin and London and 8 more. Often billed alongside Bill Kouligas, nunguja and Crystallmess. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Tzusing is a techno and experimental artist based in China, with 21 gigs on soun
 
 Bill Kouligas, nunguja, Crystallmess
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzusing/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tzusing/)*

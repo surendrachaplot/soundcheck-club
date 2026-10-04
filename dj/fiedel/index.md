@@ -1,6 +1,6 @@
 # Fiedel
 
-Fiedel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Fiedel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
 Fiedel is a techno and house artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 14 more. Often billed alongside Fadi Mohem, Phase Fatale and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Fiedel is a techno and house artist based in Germany, with 65 gigs on soundcheck
 
 Fadi Mohem, Phase Fatale, Steffi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedel/)*

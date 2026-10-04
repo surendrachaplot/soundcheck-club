@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Lanificio 159, Rome on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on
 
 ## Recently played
 
+- Lanificio 159, Rome · Sat, 3 Oct 2026
 - Gaffe, London · Fri, 2 Oct 2026
 - BKW Hybrid Bar, Skopje · Wed, 30 Sept 2026
 - Inter-City, The Hague · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on
 - Doka, Amsterdam · Fri, 25 Sept 2026
 - Standard Time, Toronto · Fri, 18 Sept 2026
 - Macadam, Nantes · Sun, 13 Sept 2026
-- TBA - Will got massaged 1 Day before event , Zurich · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

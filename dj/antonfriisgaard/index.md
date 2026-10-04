@@ -1,6 +1,6 @@
 # Anton Friisgaard
 
-Anton Friisgaard is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Anton Friisgaard is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Anton Friisgaard is a bass and techno artist based in Denmark, with 14 gigs on soundcheck across Brussels and Copenhagen. Often billed alongside Sofie Birch, SØS Gunver Ryberg and A.dixen. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anton Friisgaard is a bass and techno artist based in Denmark, with 14 gigs on s
 
 Sofie Birch, SØS Gunver Ryberg, A.dixen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonfriisgaard/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonfriisgaard/)*

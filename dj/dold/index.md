@@ -1,6 +1,6 @@
 # Dold
 
-Dold is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Faust, Seoul on Sat, 10 Oct 2026.
+Dold is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Faust, Seoul on Sat, 10 Oct 2026.
 
 Dold is a techno artist based in Sweden, with 31 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside AMORAL, Ahmet Sisman and Blue Hour. Next up: Faust, Seoul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dold is a techno artist based in Sweden, with 31 gigs on soundcheck across Amste
 
 AMORAL, Ahmet Sisman, Blue Hour
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*

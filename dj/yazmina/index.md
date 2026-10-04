@@ -1,6 +1,6 @@
 # Yazmina
 
-Yazmina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
+Yazmina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
 
 Yazmina is a techno and bass artist, with 14 gigs on soundcheck across London. Often billed alongside OUTTEN, Areola Grande Latte and Bekefi. Next up: Ballroom at Palais, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yazmina is a techno and bass artist, with 14 gigs on soundcheck across London. O
 
 OUTTEN, Areola Grande Latte, Bekefi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*

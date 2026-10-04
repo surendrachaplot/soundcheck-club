@@ -1,6 +1,6 @@
 # funk4
 
-funk4 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
+funk4 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
 funk4 is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside FUNIC, Amorelie and Armaville. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ funk4 is a trance and techno artist based in Germany, with 9 gigs on soundcheck 
 
 FUNIC, Amorelie, Armaville
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funk4/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funk4/)*

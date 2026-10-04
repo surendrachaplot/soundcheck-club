@@ -1,6 +1,6 @@
 # S FLY
 
-S FLY is a Drum & Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
+S FLY is a Drum & Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
 
 S FLY is a drum & bass and afro house artist based in United Kingdom, with 39 gigs on soundcheck across Hong Kong, London, Melbourne and New York City and 2 more. Often billed alongside Beezo, Supa D and Ricky Sahota. Next up: Bread and Butter, London on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ S FLY is a drum & bass and afro house artist based in United Kingdom, with 39 gi
 
 Beezo, Supa D, Ricky Sahota
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*

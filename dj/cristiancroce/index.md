@@ -1,6 +1,6 @@
 # Cristian Croce
 
-Cristian Croce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DURO, Milan on Sat, 3 Oct 2026.
+Cristian Croce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DURO, Milan on Sat, 3 Oct 2026.
 
 Cristian Croce is a house and techno artist based in Italy, with 42 gigs on soundcheck across Florence and Milan. Often billed alongside Avikal, Dove Quiete and Asevenes. Next up: DURO, Milan on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Cristian Croce is a house and techno artist based in Italy, with 42 gigs on soun
 
 ## Recently played
 
+- DURO, Milan · Sat, 3 Oct 2026
 - Sorgiva Village, Milan · Sun, 30 Aug 2026
 - Cascina Cappuccina, Milan · Wed, 25 Dec 2024
 - Masada, Milan · Sun, 23 Jun 2024
@@ -20,10 +21,9 @@ Cristian Croce is a house and techno artist based in Italy, with 42 gigs on soun
 - Masada, Milan · Sat, 4 May 2024
 - Masada, Milan · Sun, 21 Apr 2024
 - Masada, Milan · Sat, 9 Mar 2024
-- Masada, Milan · Sat, 10 Feb 2024
 
 ## Shares bills with
 
 Avikal, Dove Quiete, Asevenes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*

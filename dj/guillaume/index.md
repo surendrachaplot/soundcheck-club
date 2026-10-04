@@ -1,6 +1,6 @@
 # Guillaume & The Coutu Dumonts
 
-Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
+Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
 
 Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada, with 18 gigs on soundcheck across Berlin, Krakow, Montreal and Seoul and 2 more. Often billed alongside Vincent Lemieux, Flabbergast and Mari.te. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada,
 
 Vincent Lemieux, Flabbergast, Mari.te
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaume/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaume/)*

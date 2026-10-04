@@ -1,6 +1,6 @@
 # vp allowed
 
-vp allowed is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+vp allowed is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
 
 vp allowed is a techno and trance artist based in Italy, with 54 gigs on soundcheck across Berlin, Budapest, Copenhagen and Geneva and 4 more. Often billed alongside Agata (PL), Elios and LUCKY4U. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ vp allowed is a techno and trance artist based in Italy, with 54 gigs on soundch
 
 ## Recently played
 
+- TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin · Sat, 3 Oct 2026
 - MODULE, Copenhagen · Sat, 12 Sept 2026
 - TBA - Neukolln, Berlin · Sat, 8 Aug 2026
 - Jonny Knüppel, Berlin · Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ vp allowed is a techno and trance artist based in Italy, with 54 gigs on soundch
 - TBA - Secret Location, Berlin · Fri, 1 May 2026
 - TBA - Neukölln, Berlin · Sat, 11 Apr 2026
 - Sensorium, Berlin · Fri, 6 Mar 2026
-- Zoo, Geneva · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Agata (PL), Elios, LUCKY4U
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*

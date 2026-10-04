@@ -1,6 +1,6 @@
 # Dean Samaras
 
-Dean Samaras is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 10 Oct 2026.
+Dean Samaras is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Dean Samaras is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Denver, San Francisco/Oakland and Washington DC. Often billed alongside LYSSN UP, Lisa Rose and RawB. Next up: Public Works, San Francisco/Oakland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dean Samaras is a techno and house artist based in United States of America, wit
 
 LYSSN UP, Lisa Rose, RawB
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deansamaras/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deansamaras/)*

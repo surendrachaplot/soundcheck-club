@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 30 Oct 2026.
+Anna Ullrich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 30 Oct 2026.
 
 Anna Ullrich is a techno and trance artist based in Austria, with 52 gigs on soundcheck across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios and KAROLINA. Next up: Grelle Forelle, Vienna on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Anna Ullrich is a techno and trance artist based in Austria, with 52 gigs on sou
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

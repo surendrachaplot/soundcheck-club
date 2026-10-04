@@ -1,6 +1,6 @@
 # Rn86
 
-Rn86 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Rn86 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
 Rn86 is a techno and house artist based in Germany, with 64 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside nøvae, Simon Phil.ter and Ri0D.. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rn86 is a techno and house artist based in Germany, with 64 gigs on soundcheck a
 
 nøvae, Simon Phil.ter, Ri0D.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rn86/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rn86/)*

@@ -1,6 +1,6 @@
 # Kofi Ryan
 
-Kofi Ryan is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at YOTO, Hamburg on Sat, 10 Oct 2026.
+Kofi Ryan is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at YOTO, Hamburg on Sat, 10 Oct 2026.
 
 Kofi Ryan is an amapiano and afrobeat artist based in Germany, with 13 gigs on soundcheck across Hamburg. Often billed alongside Dj Sivlé, DJ Boas and Tracy Mayy. Next up: YOTO, Hamburg on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kofi Ryan is an amapiano and afrobeat artist based in Germany, with 13 gigs on s
 
 Dj Sivlé, DJ Boas, Tracy Mayy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofiryan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofiryan/)*

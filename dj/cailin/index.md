@@ -1,6 +1,6 @@
 # Cailín
 
-Cailín is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Racket Space, Dublin on Fri, 9 Oct 2026.
+Cailín is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Racket Space, Dublin on Fri, 9 Oct 2026.
 
 Cailín is a techno and house artist based in Ireland, with 45 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Aero, Ayolxi and Dave Clarke. Next up: The Racket Space, Dublin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Cailín is a techno and house artist based in Ireland, with 45 gigs on soundchec
 
 Aero (1), Ayolxi, Dave Clarke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*

@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Scorpios, Mykonos on Sun, 4 Oct 2026.
+WhoMadeWho is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Scorpios, Mykonos on Sun, 4 Oct 2026.
 
 WhoMadeWho is a house and techno artist based in Denmark, with 154 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Scorpios, Mykonos on Sun 4 Oct.
 
@@ -35,4 +35,4 @@ WhoMadeWho is a house and techno artist based in Denmark, with 154 gigs on sound
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

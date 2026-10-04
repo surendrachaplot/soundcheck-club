@@ -1,6 +1,6 @@
 # DARWOR
 
-DARWOR is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jazzclub Hipoza, Poland on Sat, 3 Oct 2026.
+DARWOR is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jazzclub Hipoza, Poland on Sat, 3 Oct 2026.
 
 DARWOR is an electronic artist based in Poland, with 7 gigs on soundcheck across Poland and Warsaw. Often billed alongside Angelo Mike, Alarico and Alísha. Next up: Jazzclub Hipoza, Poland on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ DARWOR is an electronic artist based in Poland, with 7 gigs on soundcheck across
 
 ## Recently played
 
+- Jazzclub Hipoza, Poland · Sat, 3 Oct 2026
 - Smolna, Warsaw · Wed, 27 May 2026
 - Smolna, Warsaw · Fri, 15 May 2026
 - KLUB WARSZAWA, Warsaw · Fri, 24 Apr 2026
@@ -23,4 +24,4 @@ DARWOR is an electronic artist based in Poland, with 7 gigs on soundcheck across
 
 Angelo Mike, Alarico, Alísha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwor/)*

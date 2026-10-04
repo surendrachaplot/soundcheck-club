@@ -1,6 +1,6 @@
 # Adapter
 
-Adapter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Adapter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Adapter is a house and tech house artist based in Italy, with 10 gigs on soundcheck across Amsterdam, Ibiza, Melbourne and Miami and 6 more. Often billed alongside Miss Monique, Anthony Attalla and Benson. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Adapter is a house and tech house artist based in Italy, with 10 gigs on soundch
 
 Miss Monique, Anthony Attalla, Benson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*

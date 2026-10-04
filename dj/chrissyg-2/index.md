@@ -1,6 +1,6 @@
 # Chrissy G (2)
 
-Chrissy G (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
+Chrissy G (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 3 Oct 2026.
 
 Chrissy G is a house and acid artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside Percy Main, Fierro Grande and Buckfast Barbie. Next up: People's Leisure Club, Edinburgh on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Chrissy G is a house and acid artist based in United Kingdom, with 9 gigs on sou
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh · Sat, 3 Oct 2026
 - Sneaky Pete's, Edinburgh · Fri, 24 Jul 2026
 - Sneaky Pete's, Edinburgh · Fri, 22 May 2026
 - Sneaky Pete's, Edinburgh · Fri, 23 Jan 2026
@@ -19,10 +20,9 @@ Chrissy G is a house and acid artist based in United Kingdom, with 9 gigs on sou
 - West Port Oracle, Edinburgh · Sun, 21 Dec 2025
 - Sneaky Pete's, Edinburgh · Fri, 28 Nov 2025
 - Sneaky Pete's, Edinburgh · Fri, 29 Aug 2025
-- West Port Oracle, Edinburgh · Sun, 3 Aug 2025
 
 ## Shares bills with
 
 Percy Main, Fierro Grande, Buckfast Barbie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyg-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyg-2/)*

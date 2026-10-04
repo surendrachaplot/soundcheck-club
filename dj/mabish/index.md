@@ -1,6 +1,6 @@
 # Mab'ish
 
-Mab'ish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TRAUM, Antwerp on Fri, 9 Oct 2026.
+Mab'ish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TRAUM, Antwerp on Fri, 9 Oct 2026.
 
 Mab'ish is a house and techno artist based in France, with 25 gigs on soundcheck across Amsterdam, Antwerp, Brussels and London and 6 more. Often billed alongside Bass Toast, Lefto Early Bird and AliA. Next up: TRAUM, Antwerp on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mab'ish is a house and techno artist based in France, with 25 gigs on soundcheck
 
 Bass Toast, Lefto Early Bird, AliA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabish/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabish/)*

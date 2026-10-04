@@ -1,6 +1,6 @@
 # Linda Lenor
 
-Linda Lenor is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 10 Oct 2026.
+Linda Lenor is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 10 Oct 2026.
 
 Linda Lenor is a techno and tech house artist based in Colombia, with 17 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Valencia. Often billed alongside Cambric, Lino Fuso and Carlos Pérez. Next up: EL SÓTANO, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Linda Lenor is a techno and tech house artist based in Colombia, with 17 gigs on
 
 Cambric, Lino Fuso, Carlos Pérez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalenor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalenor/)*

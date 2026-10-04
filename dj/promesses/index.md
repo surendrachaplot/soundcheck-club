@@ -1,6 +1,6 @@
 # Promesses
 
-Promesses is a Reggaeton and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
+Promesses is a Reggaeton and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
 
 Promesses is a reggaeton and bass artist based in France, with 24 gigs on soundcheck across Barcelona, Brussels, Geneva and Lyon and 1 more. Often billed alongside Legit Girl DJ, Baby Pantera and Brodinski. Next up: La Station - Gare des Mines, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Promesses is a reggaeton and bass artist based in France, with 24 gigs on soundc
 
 Legit Girl DJ, Baby Pantera, Brodinski
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promesses/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promesses/)*

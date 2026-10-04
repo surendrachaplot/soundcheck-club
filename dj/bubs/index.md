@@ -1,6 +1,6 @@
 # Bubs
 
-Bubs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
+Bubs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sacré, Paris on Fri, 16 Oct 2026.
 
 Bubs is a house and techno artist based in France, with 11 gigs on soundcheck across Melbourne, Paris and Stockholm. Often billed alongside Davera, Angie (FR) and Blanco. Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bubs is a house and techno artist based in France, with 11 gigs on soundcheck ac
 
 Davera, Angie (FR), Blanco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubs/)*

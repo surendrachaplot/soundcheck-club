@@ -1,6 +1,6 @@
 # RICCI (US)
 
-RICCI (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Outer Heaven, New York City on Fri, 23 Oct 2026.
+RICCI (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Outer Heaven, New York City on Fri, 23 Oct 2026.
 
 RICCI (US) is a house and tech house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Bella Mutino, Armii1n and Auphoria. Next up: Outer Heaven, New York City on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ RICCI (US) is a house and tech house artist based in United States of America, w
 
 Bella Mutino, Armii1n, Auphoria
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccius/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccius/)*

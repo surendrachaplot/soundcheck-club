@@ -1,6 +1,6 @@
 # Justin Harris
 
-Justin Harris is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
+Justin Harris is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
 
 Justin Harris is a house and deep house artist, with 17 gigs on soundcheck across Barcelona, Berlin, Bristol and Ibiza and 2 more. Often billed alongside Bart Ricardo, Lil Mark and Affani. Next up: Pikes Ibiza, Ibiza on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Justin Harris is a house and deep house artist, with 17 gigs on soundcheck acros
 
 Bart Ricardo, Lil Mark, Affani
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinharris/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinharris/)*

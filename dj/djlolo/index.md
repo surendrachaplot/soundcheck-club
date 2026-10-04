@@ -1,6 +1,6 @@
 # DJ Lolo
 
-DJ Lolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 24 Oct 2026.
+DJ Lolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 24 Oct 2026.
 
 DJ Lolo is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Munich. Often billed alongside D3VAN, DJ Parabolspiegel and FIGUREX. Next up: Aahhh Rooftop, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Lolo is a house and techno artist based in Germany, with 15 gigs on soundchec
 
 D3VAN, DJ Parabolspiegel, FIGUREX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlolo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlolo/)*

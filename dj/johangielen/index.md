@@ -1,6 +1,6 @@
 # Johan Gielen
 
-Johan Gielen is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Johan Gielen is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
 
 Johan Gielen is an acid and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Erick E, Alexander Koning and ROOG. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Johan Gielen is an acid and techno artist based in Netherlands, with 10 gigs on 
 
 Erick E, Alexander Koning, ROOG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johangielen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johangielen/)*

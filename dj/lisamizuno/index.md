@@ -1,6 +1,6 @@
 # Lisa Mizuno
 
-Lisa Mizuno is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at R Lounge, Tokyo on Sat, 17 Oct 2026.
+Lisa Mizuno is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at R Lounge, Tokyo on Sat, 17 Oct 2026.
 
 Lisa Mizuno is a techno and house artist based in Japan, with 96 gigs on soundcheck across Barcelona, Kanto, Osaka and Seoul and 1 more. Often billed alongside DANA NADA, YANNY and DANDAN. Next up: R Lounge, Tokyo on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Lisa Mizuno is a techno and house artist based in Japan, with 96 gigs on soundch
 
 DANA NADA, YANNY (1), DANDAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*

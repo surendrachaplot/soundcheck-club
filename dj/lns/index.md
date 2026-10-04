@@ -1,6 +1,6 @@
 # LNS
 
-LNS is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+LNS is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
 LNS is an electro and techno artist based in Canada, with 48 gigs on soundcheck across Amsterdam, Berlin, Detroit and Helsinki and 8 more. Often billed alongside DJ Sotofett, IMOGEN and Function. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ LNS is an electro and techno artist based in Canada, with 48 gigs on soundcheck 
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Sat, 3 Oct 2026
 - Post Bar, Helsinki · Fri, 28 Aug 2026
 - Paloma, Berlin · Fri, 14 Aug 2026
 - Tresor / Globus, Berlin · Sat, 11 Jul 2026
@@ -19,10 +20,9 @@ LNS is an electro and techno artist based in Canada, with 48 gigs on soundcheck 
 - Laak, The Hague · Sat, 27 Jun 2026
 - Système, Montreal · Sat, 30 May 2026
 - Tangent Gallery, Detroit · Sat, 23 May 2026
-- Tangent Gallery, Detroit · Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ Sotofett, IMOGEN, Function
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*

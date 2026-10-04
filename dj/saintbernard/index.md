@@ -1,6 +1,6 @@
 # Saint Bernard
 
-Saint Bernard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 31 Oct 2026.
+Saint Bernard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 31 Oct 2026.
 
 Saint Bernard is a house and techno artist based in China, with 38 gigs on soundcheck across Hong Kong. Often billed alongside Anyss, DJ Kirby and MLCH. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Saint Bernard is a house and techno artist based in China, with 38 gigs on sound
 
 Anyss, DJ Kirby, MLCH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*

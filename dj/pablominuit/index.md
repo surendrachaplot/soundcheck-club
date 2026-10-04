@@ -1,6 +1,6 @@
 # Pablo Minuit
 
-Pablo Minuit is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+Pablo Minuit is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 Pablo Minuit is an electronic artist based in Germany, with 6 gigs on soundcheck across Munich. Often billed alongside TECHNORA, DJ Hysteria and Fabifanta. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Pablo Minuit is an electronic artist based in Germany, with 6 gigs on soundcheck
 
 TECHNORA, DJ Hysteria, Fabifanta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablominuit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablominuit/)*

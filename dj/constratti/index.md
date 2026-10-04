@@ -1,6 +1,6 @@
 # Constratti
 
-Constratti is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Last Arch, London on Sat, 10 Oct 2026.
+Constratti is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Last Arch, London on Sat, 10 Oct 2026.
 
 Constratti is a minimal and house artist based in Romania, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Techu, Mihai Pol and BILA. Next up: Last Arch, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Constratti is a minimal and house artist based in Romania, with 25 gigs on sound
 
 Techu, Mihai Pol, BILA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/constratti/)*

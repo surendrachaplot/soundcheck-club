@@ -1,6 +1,6 @@
 # babyschön
 
-babyschön is a House and Acid artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tell Me, Sofia on Sat, 3 Oct 2026.
+babyschön is a House and Acid artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tell Me, Sofia on Sat, 3 Oct 2026.
 
 babyschön is a house and acid artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: Tell Me, Sofia on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ babyschön is a house and acid artist based in United Kingdom, with 93 gigs on s
 
 ## Recently played
 
+- Tell Me, Sofia · Sat, 3 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
 - The Model, Nottingham · Sat, 12 Sept 2026
 - TBA - Secret Location, Berlin · Sat, 29 Aug 2026
@@ -25,10 +26,9 @@ babyschön is a house and acid artist based in United Kingdom, with 93 gigs on s
 - KOKO, London · Sat, 25 Jul 2026
 - Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
 - Blackhorse Lane Multiple Venues, London · Sat, 13 Jun 2026
-- ASIAT Park, Brussels · Thu, 14 May 2026
 
 ## Shares bills with
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

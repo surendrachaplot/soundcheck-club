@@ -1,6 +1,6 @@
 # Juste S
 
-Juste S is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Java, Paris on Fri, 23 Oct 2026.
+Juste S is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Java, Paris on Fri, 23 Oct 2026.
 
 Juste S is a techno and house artist based in France, with 10 gigs on soundcheck across Paris and Porto. Often billed alongside Blasha & Allatt, CRYME and Christian Coiffure. Next up: La Java, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Juste S is a techno and house artist based in France, with 10 gigs on soundcheck
 
 Blasha & Allatt, CRYME, Christian Coiffure
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*

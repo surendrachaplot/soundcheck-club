@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Club Rawhide SATURDAY NIGHT 10.03.26 w/ Kim Anh, verdigris, DJ Shiver" on Sat, 3 Oct 2026.
+Club Rawhide is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club Rawhide SATURDAY NIGHT 10.03.26 w/ Kim Anh, verdigris, DJ Shiver" on Sat, 3 Oct 2026.
 
 Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Ben Wild, DJ Shiver, Kim Anh and Morabito and 1 more. See dates, start times and who's playing. 250 W 26TH ST.
 
@@ -19,4 +19,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 6 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

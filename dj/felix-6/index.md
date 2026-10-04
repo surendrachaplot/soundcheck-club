@@ -1,6 +1,6 @@
 # felix (6)
 
-felix (6) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+felix (6) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 felix is a techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Laurine Philippe, Bo Irion and Dan Bay. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ felix is a techno artist based in Germany, with 12 gigs on soundcheck across Ber
 
 Laurine Philippe, Bo Irion, Dan Bay
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-6/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-6/)*

@@ -1,6 +1,6 @@
 # La Fabriek
 
-La Fabriek is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BREAXX X Keep Hush" on Fri, 9 Oct 2026.
+La Fabriek is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BREAXX X Keep Hush" on Fri, 9 Oct 2026.
 
 La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Coki, Heavora, KŌMA and Maliman and 1 more. See dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
 
@@ -15,4 +15,4 @@ La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, w
 
 Rue de la petite ile 1A, 1070 Brussels, Belgium, Brussels
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*

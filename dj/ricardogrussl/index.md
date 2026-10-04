@@ -1,6 +1,6 @@
 # Ricardo Grüssl
 
-Ricardo Grüssl is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 17 Oct 2026.
+Ricardo Grüssl is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 17 Oct 2026.
 
 Ricardo Grüssl is an electronica and electro artist, with 11 gigs on soundcheck across Lisbon. Often billed alongside Sibson, Van Der (PT) and George Silver. Next up: Ministerium Club, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ricardo Grüssl is an electronica and electro artist, with 11 gigs on soundcheck
 
 Sibson, Van Der (PT), George Silver
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogrussl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogrussl/)*

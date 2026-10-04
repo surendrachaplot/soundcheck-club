@@ -1,6 +1,6 @@
 # Benales
 
-Benales is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Colombia on Sat, 17 Oct 2026.
+Benales is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Colombia on Sat, 17 Oct 2026.
 
 Benales is a techno and house artist, with 24 gigs on soundcheck across Amsterdam, Berlin, Colombia and Krakow and 5 more. Often billed alongside Ben Hamama, Camion Bazar and Comrade Winston. Next up: TBA, Colombia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Benales is a techno and house artist, with 24 gigs on soundcheck across Amsterda
 
 Ben Hamama, Camion Bazar, Comrade Winston
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benales/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benales/)*

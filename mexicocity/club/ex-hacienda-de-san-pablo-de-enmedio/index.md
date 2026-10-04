@@ -1,6 +1,6 @@
 # Ex Hacienda de San Pablo de Enmedio
 
-Ex Hacienda de San Pablo de Enmedio is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi" on Fri, 16 Oct 2026.
+Ex Hacienda de San Pablo de Enmedio is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi" on Fri, 16 Oct 2026.
 
 Ex Hacienda de San Pablo de Enmedio is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Alan Dixon, Alma Linda, Ben Böhmer and Eli & Fur and 2 more. See dates, start times and who's playing. Av. Ex-Hacienda de Enmedio 1, Col. Exhacienda de Enmedio, 54172 Ciudad de México, México.
 
@@ -15,4 +15,4 @@ Ex Hacienda de San Pablo de Enmedio is a music venue in Mexico City listed on so
 
 Av. Ex-Hacienda de Enmedio 1, Col. Exhacienda de Enmedio, 54172 Ciudad de México, México, Mexico City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ex-hacienda-de-san-pablo-de-enmedio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/ex-hacienda-de-san-pablo-de-enmedio/)*

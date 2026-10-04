@@ -1,6 +1,6 @@
 # Sambee
 
-Sambee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
+Sambee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
 
 Sambee is a techno and trance artist based in United States of America, with 15 gigs on soundcheck across Philadelphia. Often billed alongside rippenzack, human plushie and Molly In Berlin. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Sambee is a techno and trance artist based in United States of America, with 15 
 
 ## Recently played
 
+- TBA - Warehouse Location, Philadelphia · Sat, 3 Oct 2026
 - TBA, Philadelphia · Fri, 24 Jul 2026
 - TBA - Secret warehouse location announced to ticket holders day of show or ask a local dj , Philadelphia · Fri, 17 Jul 2026
 - Umbria Arts, Philadelphia · Sat, 13 Jun 2026
@@ -19,10 +20,9 @@ Sambee is a techno and trance artist based in United States of America, with 15 
 - Nikki Lopez, Philadelphia · Sat, 14 Mar 2026
 - Void, Philadelphia · Sat, 17 May 2025
 - TBA, Philadelphia · Fri, 25 Oct 2024
-- TBA, Philadelphia · Sat, 19 Oct 2024
 
 ## Shares bills with
 
 rippenzack, human plushie, Molly In Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambee/)*

@@ -1,6 +1,6 @@
 # Any Mello
 
-Any Mello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Any Mello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 Any Mello is a techno and house artist based in Brazil, with 46 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 7 more. Often billed alongside Eluzid, Toni Dextor and Alexander Kowalski. Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Any Mello is a techno and house artist based in Brazil, with 46 gigs on soundche
 
 Eluzid, Toni Dextor, Alexander Kowalski
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anymello/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anymello/)*

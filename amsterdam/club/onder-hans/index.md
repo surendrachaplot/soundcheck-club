@@ -1,6 +1,6 @@
 # Onder Hans
 
-Onder Hans is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Authentic Afterhours" on Thu, 8 Oct 2026.
+Onder Hans is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Authentic Afterhours" on Thu, 8 Oct 2026.
 
 Onder Hans is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including 16BL, Alessio Cristiano, Alicia Hahn and Almost Human (DJ) and 2 more. See dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
 
@@ -19,4 +19,4 @@ Onder Hans is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, 
 
 Kerkstraat 136-138, 1017 GR Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*

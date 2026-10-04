@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Thomas Melchior is a house and minimal artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Edward, Lawrence and Konstantin. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Thomas Melchior is a house and minimal artist based in Germany, with 82 gigs on 
 
 Edward, Lawrence, Konstantin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

@@ -1,6 +1,6 @@
 # Weiss
 
-Weiss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
+Weiss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
 
 Weiss is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Auckland, Brisbane, Dublin and Ibiza and 13 more. Often billed alongside Yamariki, AR (UK) and Anabel Englund. Next up: The Court Hotel, Perth on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Weiss is a house and tech house artist based in United Kingdom, with 22 gigs on 
 
 Yamariki, AR (UK), Anabel Englund
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weiss/)*

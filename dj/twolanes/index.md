@@ -1,6 +1,6 @@
 # TWO LANES
 
-TWO LANES is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz 2, Barcelona on Wed, 14 Oct 2026.
+TWO LANES is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz 2, Barcelona on Wed, 14 Oct 2026.
 
 TWO LANES is a techno and electronica artist, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Razzmatazz 2, Barcelona on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ TWO LANES is a techno and electronica artist, with 29 gigs on soundcheck across 
 
 Monolink, Christian Löffler, J.WOCKENFUSS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*

@@ -1,6 +1,6 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
+Ouissam is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
 
 Ouissam is a house and techno artist based in France, with 70 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 21 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Factory 47, Hanoi on Fri 9 Oct.
 
@@ -18,6 +18,7 @@ Ouissam is a house and techno artist based in France, with 70 gigs on soundcheck
 
 ## Recently played
 
+- TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur · Sat, 3 Oct 2026
 - Dragon I, Hong Kong · Fri, 2 Oct 2026
 - Somewhere in the Mountains., Bali · Fri, 25 Sept 2026
 - Nyapi, Seoul · Sat, 5 Sept 2026
@@ -25,10 +26,9 @@ Ouissam is a house and techno artist based in France, with 70 gigs on soundcheck
 - BLITZ, Munich · Fri, 31 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 25 Jul 2026
 - Horn, Bangkok · Sat, 11 Jul 2026
-- Bassiani, Tbilisi · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Emel, Di Linh, Saint Guel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

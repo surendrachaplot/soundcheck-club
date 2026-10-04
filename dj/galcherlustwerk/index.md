@@ -1,6 +1,6 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
+Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
 
 Galcher Lustwerk is a house and techno artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Good Room, New York City on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 Devoye, Bill Patrick, DJ Fart in the Club
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

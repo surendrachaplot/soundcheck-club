@@ -1,6 +1,6 @@
 # WALTHER
 
-WALTHER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Blue Marlin Ibiza, Ibiza on Sun, 4 Oct 2026.
+WALTHER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Blue Marlin Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 WALTHER is a house and techno artist, with 15 gigs on soundcheck across Copenhagen, Ibiza and Paris. Often billed alongside Aja Gulris, Radeckt and Anders HP. Next up: Blue Marlin Ibiza, Ibiza on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ WALTHER is a house and techno artist, with 15 gigs on soundcheck across Copenhag
 
 Aja Gulris, Radeckt, Anders HP
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walther/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walther/)*

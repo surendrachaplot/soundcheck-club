@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Cheriii is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
 Cheriii is a house and techno artist based in France, with 83 gigs on soundcheck across Antwerp, Athens, Barcelona and Berlin and 15 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ Cheriii is a house and techno artist based in France, with 83 gigs on soundcheck
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Sat, 3 Oct 2026
 - The Glove That Fits, London · Thu, 1 Oct 2026
 - OXI, Berlin · Sun, 27 Sept 2026
 - Renate, Berlin · Fri, 11 Sept 2026
@@ -22,10 +23,9 @@ Cheriii is a house and techno artist based in France, with 83 gigs on soundcheck
 - Tresor / Globus, Berlin · Fri, 31 Jul 2026
 - Renate, Berlin · Sat, 25 Jul 2026
 - Kilomètre25, Paris · Sun, 28 Jun 2026
-- Fitzroy, Berlin · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

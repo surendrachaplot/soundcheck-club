@@ -1,6 +1,6 @@
 # Tiago
 
-Tiago is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vertigo, Toronto on Fri, 2 Oct 2026.
+Tiago is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vertigo, Toronto on Fri, 2 Oct 2026.
 
 Tiago is a house and techno artist based in Portugal, with 86 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Liverpool and 11 more. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Vertigo, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Tiago is a house and techno artist based in Portugal, with 86 gigs on soundcheck
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*

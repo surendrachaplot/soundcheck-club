@@ -1,6 +1,6 @@
 # Koherent
 
-Koherent is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Koherent is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Koherent is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 11 more. Often billed alongside Monrroe, Kyrist and Murcor. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Koherent is a drum & bass and jungle artist based in United Kingdom, with 34 gig
 
 Monrroe, Kyrist, Murcor
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koherent/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koherent/)*

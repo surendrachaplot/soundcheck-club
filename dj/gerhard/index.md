@@ -1,6 +1,6 @@
 # Gerhard
 
-Gerhard is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
+Gerhard is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
 
 Gerhard is an electronica and house artist based in Mexico, with 21 gigs on soundcheck across Mexico City. Often billed alongside Maseriche, Seagit Arc and EM2K. Next up: TBA, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gerhard is an electronica and house artist based in Mexico, with 21 gigs on soun
 
 Maseriche, Seagit Arc, EM2K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerhard/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerhard/)*

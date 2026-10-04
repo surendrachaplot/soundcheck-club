@@ -1,6 +1,6 @@
 # Tyvion Valentine
 
-Tyvion Valentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 19 Dec 2026.
+Tyvion Valentine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 19 Dec 2026.
 
 Tyvion Valentine is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Dublin and London. Often billed alongside DIEBYVEG, DJ-CK and Derv. Next up: Hen's Teeth, Dublin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Tyvion Valentine is a house and techno artist based in United Kingdom, with 14 g
 
 DIEBYVEG, DJ-CK, Derv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyvionvalentine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyvionvalentine/)*

@@ -1,6 +1,6 @@
 # markellos
 
-markellos is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+markellos is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 markellos is a techno artist based in Greece, with 10 gigs on soundcheck across London. Often billed alongside GIZZI, James Harbrecht and Deranged. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ markellos is a techno artist based in Greece, with 10 gigs on soundcheck across 
 
 GIZZI, James Harbrecht, Deranged
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markellos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markellos/)*

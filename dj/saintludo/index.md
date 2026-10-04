@@ -1,14 +1,13 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Saint Ludo is a garage and bass artist, with 125 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
+Saint Ludo is a garage and bass artist, with 125 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | The Brickworks | Nottingham |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
@@ -22,6 +21,7 @@ Saint Ludo is a garage and bass artist, with 125 gigs on soundcheck across Amste
 
 ## Recently played
 
+- TBA - Vogrie Country Park, Edinburgh · Sat, 3 Oct 2026
 - Lakota, Bristol · Fri, 18 Sept 2026
 - Razzmatazz, Barcelona · Sat, 22 Aug 2026
 - The Bernard Shaw, Dublin · Sat, 30 May 2026
@@ -29,10 +29,9 @@ Saint Ludo is a garage and bass artist, with 125 gigs on soundcheck across Amste
 - The Concourse Project, Austin · Sun, 10 May 2026
 - The Concourse Project, Austin · Sat, 9 May 2026
 - Phonox, London · Sat, 18 Apr 2026
-- Amber's, Manchester · Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Bakey, Ewan McVicar, KI/KI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

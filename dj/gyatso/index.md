@@ -1,6 +1,6 @@
 # Gyatso
 
-Gyatso is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+Gyatso is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 Gyatso is a ghetto tech and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and SAIDAH. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gyatso is a ghetto tech and house artist based in Netherlands, with 69 gigs on s
 
 Franky Sticks, ZEP (NL), SAIDAH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyatso/)*

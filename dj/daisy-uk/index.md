@@ -1,6 +1,6 @@
 # DAISY
 
-DAISY is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
+DAISY is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
 DAISY is a garage and house artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy and Prozak (IRL). Next up: Distrikt, Leeds on Fri 16 Oct.
 
@@ -30,4 +30,4 @@ DAISY is a garage and house artist based in United Kingdom, with 72 gigs on soun
 
 Silva Bumpa, Oldboy (2), Prozak (IRL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*

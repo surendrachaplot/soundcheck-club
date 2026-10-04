@@ -1,0 +1,16 @@
+# The Dolphin pres: Plastician [UK DUBSTEP/GRIME PIONEER] at The Dolphin
+
+The Dolphin pres: Plastician [UK DUBSTEP/GRIME PIONEER] on Thu 8 Oct, Philadelphia. 2 artists: DJ Papaya and Plastician. Dubstep and Grime. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 8 Oct 2026 |
+| Venue | The Dolphin |
+| City | Philadelphia |
+
+## Line-up
+
+- DJ Papaya
+- Plastician
+
+*Source: [soundcheck](https://soundcheck.club/e/2543545-the-dolphin-pres-plastician-uk-dubstep-grime-pioneer-at-the/)*

@@ -1,6 +1,6 @@
 # Nick Schwenderling
 
-Nick Schwenderling is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Nick Schwenderling is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 Nick Schwenderling is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 2 more. Often billed alongside DJ Jordan, Tube & Berger and Amilli. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nick Schwenderling is a techno and trance artist based in Germany, with 12 gigs 
 
 DJ Jordan, Tube & Berger, Amilli
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickschwenderling/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickschwenderling/)*

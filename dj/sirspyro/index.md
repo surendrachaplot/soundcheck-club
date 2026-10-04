@@ -1,14 +1,13 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Iowa on Fri, 2 Oct 2026.
+Sir Spyro is a Grime and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 1-800-Lucky, Miami on Thu, 15 Oct 2026.
 
-Sir Spyro is a grime and dubstep artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 15 more. Often billed alongside Footsie, Kahn and D Double E. Next up: TBA, Iowa on Fri 2 Oct.
+Sir Spyro is a grime and dubstep artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 15 more. Often billed alongside Footsie, Kahn and D Double E. Next up: 1-800-Lucky, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Iowa |
 | Thu, 15 Oct 2026 | 1-800-Lucky | Miami |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
@@ -27,4 +26,4 @@ Sir Spyro is a grime and dubstep artist based in United Kingdom, with 73 gigs on
 
 Footsie, Kahn, D Double E
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

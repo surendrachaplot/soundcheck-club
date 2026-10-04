@@ -1,6 +1,6 @@
 # dylan.james
 
-dylan.james is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Sat, 10 Oct 2026.
+dylan.james is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bike Jesus, Prague on Sat, 10 Oct 2026.
 
 dylan.james is a trance and progressive house artist based in United States of America, with 8 gigs on soundcheck across London and Prague. Often billed alongside turn_t, DELARA and FITS ME FUNNY. Next up: Bike Jesus, Prague on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ dylan.james is a trance and progressive house artist based in United States of A
 
 turn_t, DELARA, FITS ME FUNNY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*

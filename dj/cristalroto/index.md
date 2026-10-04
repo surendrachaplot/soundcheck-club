@@ -1,6 +1,6 @@
 # Cristal Roto
 
-Cristal Roto is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 17 Oct 2026.
+Cristal Roto is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 17 Oct 2026.
 
 Cristal Roto is a techno and electronica artist based in Spain, with 10 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside DimGrøve, Killo and NETN. Next up: TBA - Secret Location (Madrid), Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Cristal Roto is a techno and electronica artist based in Spain, with 10 gigs on 
 
 DimGrøve, Killo, NETN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalroto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalroto/)*

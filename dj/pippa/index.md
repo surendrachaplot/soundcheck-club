@@ -1,6 +1,6 @@
 # PIPPA
 
-PIPPA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
+PIPPA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
 
 PIPPA is a techno and trance artist, with 22 gigs on soundcheck across Amsterdam, Copenhagen, Oslo and Stockholm. Often billed alongside Karl Fraunhofer, Kate Miao and Chris Solaris. Next up: Den Anden Side, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PIPPA is a techno and trance artist, with 22 gigs on soundcheck across Amsterdam
 
 Karl Fraunhofer, Kate Miao, Chris Solaris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pippa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pippa/)*

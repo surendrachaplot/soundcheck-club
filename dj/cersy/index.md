@@ -1,6 +1,6 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
+Cersy is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
 
 Cersy is a techno and bass artist based in United Kingdom, with 81 gigs on soundcheck across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Honey Street Studio, Manchester on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Cersy is a techno and bass artist based in United Kingdom, with 81 gigs on sound
 
 ## Recently played
 
+- Honey Street Studio, Manchester · Sat, 3 Oct 2026
 - Honey Street Studio, Manchester · Sat, 19 Sept 2026
 - Bar Shrimp, Manchester · Sun, 30 Aug 2026
 - Eastern Bloc Records, Manchester · Fri, 24 Jul 2026
@@ -23,10 +24,9 @@ Cersy is a techno and bass artist based in United Kingdom, with 81 gigs on sound
 - Soup, Manchester · Wed, 10 Jun 2026
 - Stage and Radio, Manchester · Fri, 22 May 2026
 - Eastern Bloc Records, Manchester · Sat, 16 May 2026
-- Kapsule, Liverpool · Sat, 2 May 2026
 
 ## Shares bills with
 
 Allius, GFA, Kop-Z
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*

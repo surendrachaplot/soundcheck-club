@@ -1,6 +1,6 @@
 # Beaux
 
-Beaux is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Arts Club, Liverpool on Sun, 18 Oct 2026.
+Beaux is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Arts Club, Liverpool on Sun, 18 Oct 2026.
 
 Beaux is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Chicago, Liverpool, Miami and Paris and 1 more. Often billed alongside DR MILLER, Freefall and Double Dipp. Next up: Arts Club, Liverpool on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Beaux is a house and deep house artist based in United States of America, with 1
 
 DR MILLER, Freefall, Double Dipp
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaux-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaux-1/)*

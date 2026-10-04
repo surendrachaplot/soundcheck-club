@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Watr, Austin on Sun, 4 Oct 2026.
+KILIMANJARO is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Watr, Austin on Sun, 4 Oct 2026.
 
 KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Watr, Austin on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 140 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

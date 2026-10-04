@@ -1,6 +1,6 @@
 # Owen Jay
 
-Owen Jay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 8 Oct 2026.
+Owen Jay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hard Rock Hotel Malta, Malta on Thu, 8 Oct 2026.
 
 Owen Jay is a house and techno artist, with 17 gigs on soundcheck across Berlin, London and Malta. Often billed alongside MATO, UJ/DV and Brian James. Next up: Hard Rock Hotel Malta, Malta on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Owen Jay is a house and techno artist, with 17 gigs on soundcheck across Berlin,
 
 MATO, UJ/DV, Brian James
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owenjay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owenjay/)*

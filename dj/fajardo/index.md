@@ -1,6 +1,6 @@
 # fajardo
 
-fajardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Teja House, Lisbon on Sat, 24 Oct 2026.
+fajardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Teja House, Lisbon on Sat, 24 Oct 2026.
 
 fajardo is a house and tech house artist based in Portugal, with 57 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Lisbon and 3 more. Often billed alongside jose fajardo, Chris Figueroa and David Berna. Next up: Teja House, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ fajardo is a house and tech house artist based in Portugal, with 57 gigs on soun
 
 jose fajardo, Chris Figueroa, David Berna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fajardo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fajardo/)*

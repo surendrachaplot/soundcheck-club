@@ -1,6 +1,6 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vera Cocina & بار, Washington DC on Sat, 17 Oct 2026.
+Samantha Loveridge is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vera Cocina & بار, Washington DC on Sat, 17 Oct 2026.
 
 Samantha Loveridge is a house and afro house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Vera Cocina & بار, Washington DC on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Samantha Loveridge is a house and afro house artist based in United Kingdom, wit
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

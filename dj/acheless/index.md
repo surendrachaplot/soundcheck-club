@@ -1,6 +1,6 @@
 # acheless
 
-acheless is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
+acheless is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
 
 acheless is a hardcore and industrial artist, with 6 gigs on soundcheck across Berlin, Prague, Warsaw and Wroclaw. Often billed alongside Maryolkah, HOELA$ and core-d. Next up: Ciało, Wroclaw on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ acheless is a hardcore and industrial artist, with 6 gigs on soundcheck across B
 
 Maryolkah, HOELA$, core-d
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acheless/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acheless/)*

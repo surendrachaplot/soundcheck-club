@@ -1,6 +1,6 @@
 # Fisha
 
-Fisha is a Club and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Fisha is a Club and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Fisha is a club and trance artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, Brighton, Bristol and Ibiza and 3 more. Often billed alongside Chris Bayne, Edele Andaya and Agnelli & Nelson. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Fisha is a club and trance artist based in United Kingdom, with 8 gigs on soundc
 
 Chris Bayne, Edele Andaya, Agnelli & Nelson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisha/)*

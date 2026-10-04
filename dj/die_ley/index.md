@@ -1,6 +1,6 @@
 # die_ley
 
-die_ley is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
+die_ley is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
 
 die_ley is a bass and dubstep artist based in Germany, with 12 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ Business, Wall Ra and Carl Hang. Next up: Ampere, Munich on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ die_ley is a bass and dubstep artist based in Germany, with 12 gigs on soundchec
 
 DJ Business (2), Wall Ra, Carl Hang
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/die_ley/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/die_ley/)*

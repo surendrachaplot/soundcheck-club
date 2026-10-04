@@ -1,6 +1,6 @@
 # Tommiboy
 
-Tommiboy is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
+Tommiboy is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Tommiboy is a disco and house artist based in Italy, with 43 gigs on soundcheck across Berlin, Copenhagen, Geneva and Istanbul and 5 more. Often billed alongside Kapote, Sam Ruffillo and Nadia Wise. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tommiboy is a disco and house artist based in Italy, with 43 gigs on soundcheck 
 
 Kapote, Sam Ruffillo, Nadia Wise
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiboy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiboy/)*

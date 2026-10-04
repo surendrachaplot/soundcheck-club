@@ -1,6 +1,6 @@
 # The Organism
 
-The Organism is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Playa Soleil Ibiza, Ibiza on Thu, 15 Oct 2026.
+The Organism is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Playa Soleil Ibiza, Ibiza on Thu, 15 Oct 2026.
 
 The Organism is a house and tech house artist based in Ukraine, with 16 gigs on soundcheck across Barcelona, Chicago, Ibiza and Istanbul and 3 more. Often billed alongside Alexandr Grecov, Audera and Defex. Next up: Playa Soleil Ibiza, Ibiza on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ The Organism is a house and tech house artist based in Ukraine, with 16 gigs on 
 
 Alexandr Grecov, Audera, Defex
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theorganism/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theorganism/)*

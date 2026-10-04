@@ -1,6 +1,6 @@
 # Ziggy Stardubb
 
-Ziggy Stardubb is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
+Ziggy Stardubb is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
 
 Ziggy Stardubb is a house and garage artist based in Denmark, with 7 gigs on soundcheck across Copenhagen. Often billed alongside B From E, avoN and ASTA MARI. Next up: Culture Box, Copenhagen on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Ziggy Stardubb is a house and garage artist based in Denmark, with 7 gigs on sou
 
 B From E, avoN, ASTA MARI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*

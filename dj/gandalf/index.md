@@ -1,6 +1,6 @@
 # Gandalf
 
-Gandalf is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bunker, Turin on Sat, 3 Oct 2026.
+Gandalf is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bunker, Turin on Sat, 3 Oct 2026.
 
 Gandalf is a techno and house artist based in Italy, with 115 gigs on soundcheck across Berlin, Mexico City, Milan and Seoul and 1 more. Often billed alongside sizing, Marbox and Polizei. Next up: Bunker, Turin on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Gandalf is a techno and house artist based in Italy, with 115 gigs on soundcheck
 
 ## Recently played
 
+- Bunker, Turin · Sat, 3 Oct 2026
 - Audiodrome, Turin · Fri, 2 Oct 2026
 - Audiodrome, Turin · Fri, 25 Sept 2026
 - Gianca - Murazzi, Turin · Fri, 11 Sept 2026
@@ -21,10 +22,9 @@ Gandalf is a techno and house artist based in Italy, with 115 gigs on soundcheck
 - Parco Dora, Turin · Fri, 3 Jul 2026
 - not|or|ius Club, Turin · Fri, 3 Jul 2026
 - Audiodrome, Turin · Sat, 20 Jun 2026
-- Audiodrome, Turin · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 sizing, Marbox, Polizei
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*

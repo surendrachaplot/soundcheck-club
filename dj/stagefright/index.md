@@ -1,6 +1,6 @@
 # STAGEFRIGHT
 
-STAGEFRIGHT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
+STAGEFRIGHT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
 
 STAGEFRIGHT is a techno and trance artist based in Australia, with 16 gigs on soundcheck across Melbourne. Often billed alongside MITSONA, 925 (AU) and AK-97. Next up: Sub Club Melbourne, Melbourne on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ STAGEFRIGHT is a techno and trance artist based in Australia, with 16 gigs on so
 
 MITSONA, 925 (AU), AK-97
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*

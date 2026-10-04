@@ -1,6 +1,6 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY2" on Sat, 3 Oct 2026.
+Red Bar is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY2" on Sat, 3 Oct 2026.
 
 Red Bar is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AOKI takamasa, Pablo Valentino, r1ku and Sante Visioni and 2 more. See dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -15,4 +15,4 @@ Red Bar is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with li
 
 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*

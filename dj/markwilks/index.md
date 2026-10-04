@@ -1,6 +1,6 @@
 # Mark Wilks
 
-Mark Wilks is a Trance and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mark Wilks is a Trance and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mark Wilks is a trance and minimal techno artist based in United Kingdom, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Nathia Kate, Allen Watts and BLR (NL). Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ Mark Wilks is a trance and minimal techno artist based in United Kingdom, with 2
 
 Nathia Kate, Allen Watts, BLR (NL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilks/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilks/)*

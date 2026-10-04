@@ -1,6 +1,6 @@
 # VIVAY
 
-VIVAY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
+VIVAY is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
 
 VIVAY is a techno and industrial artist, with 19 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 6 more. Often billed alongside CBR., RIKHTER and SOVA_. Next up: Nitsa Club, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ VIVAY is a techno and industrial artist, with 19 gigs on soundcheck across Barce
 
 CBR., RIKHTER, SOVA_
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivay/)*

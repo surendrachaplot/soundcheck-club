@@ -1,6 +1,6 @@
 # GIO THELLO
 
-GIO THELLO is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+GIO THELLO is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 GIO THELLO is a techno artist based in Germany, with 8 gigs on soundcheck across Berlin and Munich. Often billed alongside BASHKKA, Jamaica Suk and Katy Bähm. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ GIO THELLO is a techno artist based in Germany, with 8 gigs on soundcheck across
 
 BASHKKA, Jamaica Suk, Katy Bähm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giothello/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giothello/)*

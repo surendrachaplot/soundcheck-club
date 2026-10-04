@@ -1,6 +1,6 @@
 # LWS
 
-LWS is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Island, Bristol on Sat, 3 Oct 2026.
+LWS is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Island, Bristol on Sat, 3 Oct 2026.
 
 LWS is a techno and bass artist based in United Kingdom, with 74 gigs on soundcheck across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Feena. Next up: The Island, Bristol on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ LWS is a techno and bass artist based in United Kingdom, with 74 gigs on soundch
 
 ## Recently played
 
+- The Island, Bristol · Sat, 3 Oct 2026
 - The Liquid Room, Edinburgh · Sat, 19 Sept 2026
 - Jupiter Artland, Edinburgh · Sat, 5 Sept 2026
 - Sneaky Pete's, Edinburgh · Thu, 20 Aug 2026
@@ -21,10 +22,9 @@ LWS is a techno and bass artist based in United Kingdom, with 74 gigs on soundch
 - Sneaky Pete's, Edinburgh · Thu, 18 Jun 2026
 - TBA - Secret Loft Location, New York City · Sat, 6 Jun 2026
 - The Mash House, Edinburgh · Sat, 30 May 2026
-- EXIT Glasgow, Glasgow · Fri, 29 May 2026
 
 ## Shares bills with
 
 Skillis, Gregor AM, Feena
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*

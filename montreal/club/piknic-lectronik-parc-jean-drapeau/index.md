@@ -1,6 +1,6 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Black Tiger Sex Machine presents Connected Fighters" on Sat, 3 Oct 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Black Tiger Sex Machine presents Connected Fighters" on Sat, 3 Oct 2026.
 
 Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Asha, Beltran, Black Tiger Sex Machine and Corinita and 2 more. See dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
@@ -20,4 +20,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

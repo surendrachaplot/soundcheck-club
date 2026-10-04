@@ -1,6 +1,6 @@
 # Phone Traxxx
 
-Phone Traxxx is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Phone Traxxx is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Phone Traxxx is a garage and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 6 more. Often billed alongside Alec Falconer, Dr Banana and Harry Wills. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Phone Traxxx is a garage and house artist based in United Kingdom, with 39 gigs 
 
 ## Recently played
 
+- Mint Warehouse, Leeds · Sat, 3 Oct 2026
 - The Timber Loft, London · Sun, 3 May 2026
 - Newsam Green Farm, Leeds · Sat, 2 May 2026
 - Amber's, Manchester · Sat, 18 Apr 2026
@@ -19,10 +20,9 @@ Phone Traxxx is a garage and house artist based in United Kingdom, with 39 gigs 
 - The Hifi Club, Leeds · Fri, 13 Mar 2026
 - NUMBER 90 LONDON, London · Sun, 28 Dec 2025
 - Club Colette, Birmingham · Sat, 13 Dec 2025
-- fabric, London · Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Alec Falconer, Dr Banana, Harry Wills
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonetraxxx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonetraxxx/)*

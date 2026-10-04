@@ -1,6 +1,6 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Dynoman is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
 Dynoman is a techno and club artist based in Pakistan, with 61 gigs on soundcheck across New York City and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Mood Ring, New York City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dynoman is a techno and club artist based in Pakistan, with 61 gigs on soundchec
 
 Zara Dekho, Arianna Danae, JIALING
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*

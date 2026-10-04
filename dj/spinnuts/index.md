@@ -1,6 +1,6 @@
 # SPINNUTS
 
-SPINNUTS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Haoh Surugamachi, Kansai on Sat, 31 Oct 2026.
+SPINNUTS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Haoh Surugamachi, Kansai on Sat, 31 Oct 2026.
 
 SPINNUTS is a techno and experimental artist based in Japan, with 30 gigs on soundcheck across Kansai, Kyoto, Osaka and Tokyo. Often billed alongside Loe (JP), Ascalypso and GYOKU. Next up: Haoh Surugamachi, Kansai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SPINNUTS is a techno and experimental artist based in Japan, with 30 gigs on sou
 
 Loe (JP), Ascalypso, GYOKU
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnuts/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnuts/)*

@@ -1,6 +1,6 @@
 # Peter Schumann
 
-Peter Schumann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Peter Schumann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Peter Schumann is a house and techno artist based in Germany, with 75 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Bo Irion, Pauli Pocket and Sven Dohse. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Peter Schumann is a house and techno artist based in Germany, with 75 gigs on so
 
 Bo Irion, Pauli Pocket, Sven Dohse
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterschumann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterschumann/)*

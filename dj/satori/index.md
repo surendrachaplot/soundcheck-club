@@ -1,6 +1,6 @@
 # Satori
 
-Satori is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
+Satori is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Satori is a house and deep house artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
 
@@ -29,4 +29,4 @@ Satori is a house and deep house artist based in Netherlands, with 82 gigs on so
 
 Sorä, Cera Khin, Dixon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

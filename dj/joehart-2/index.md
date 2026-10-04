@@ -1,6 +1,6 @@
 # Joe Hart (US)
 
-Joe Hart (US) is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
+Joe Hart (US) is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Talon Bar, New York City on Fri, 9 Oct 2026.
 
 Joe Hart (US) is an ebm and industrial artist based in United States of America, with 49 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Mark Cage, Jamie K and DJ Baby Berlin. Next up: Talon Bar, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Joe Hart (US) is an ebm and industrial artist based in United States of America,
 
 Mark Cage, Jamie K, DJ Baby Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart-2/)*

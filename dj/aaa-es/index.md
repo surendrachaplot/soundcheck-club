@@ -1,6 +1,6 @@
 # AAA+
 
-AAA+ is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oven Club, Valencia on Thu, 15 Oct 2026.
+AAA+ is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oven Club, Valencia on Thu, 15 Oct 2026.
 
 AAA+ is a techno and minimal artist based in Spain, with 19 gigs on soundcheck across Madrid and Valencia. Often billed alongside AARON GEHRIG, Finalversion3 and Dj badtrip. Next up: Oven Club, Valencia on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ AAA+ is a techno and minimal artist based in Spain, with 19 gigs on soundcheck a
 
 AARON GEHRIG, Finalversion3, Dj badtrip
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaa-es/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaa-es/)*

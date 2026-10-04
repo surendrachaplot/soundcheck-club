@@ -1,6 +1,6 @@
 # Ghosty (1)
 
-Ghosty (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
+Ghosty (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 17 Oct 2026.
 
 Ghosty is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Liverpool, Melbourne and Paris. Often billed alongside DAIZ, Amber Rose and BigT. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Ghosty is a techno and trance artist based in United Kingdom, with 8 gigs on sou
 
 DAIZ, Amber Rose, BigT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*

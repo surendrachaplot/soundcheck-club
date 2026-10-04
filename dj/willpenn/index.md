@@ -1,6 +1,6 @@
 # Will Penn
 
-Will Penn is a Techno and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
+Will Penn is a Techno and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
 
 Will Penn is a techno and grime artist based in United Kingdom, with 6 gigs on soundcheck across Birmingham. Often billed alongside Alex Downey, Auracul and Caldera. Next up: Pan-Pan, Birmingham on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Will Penn is a techno and grime artist based in United Kingdom, with 6 gigs on s
 
 ## Recently played
 
+- Pan-Pan, Birmingham · Sat, 3 Oct 2026
 - TBA - The Courtyard, Harborne, Birmingham · Sun, 30 Aug 2026
 - The Courtyard, Birmingham · Sun, 24 May 2026
 - Muthers, Birmingham · Fri, 15 May 2026
@@ -22,4 +23,4 @@ Will Penn is a techno and grime artist based in United Kingdom, with 6 gigs on s
 
 Alex Downey, Auracul, Caldera
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willpenn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willpenn/)*

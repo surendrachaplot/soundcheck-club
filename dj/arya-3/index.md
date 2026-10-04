@@ -1,6 +1,6 @@
 # ARYA (3)
 
-ARYA (3) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+ARYA (3) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 ARYA is a house and deep house artist based in Germany, with 7 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Till Noon, Andeel and Astrocue. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ ARYA is a house and deep house artist based in Germany, with 7 gigs on soundchec
 
 Till Noon, Andeel, Astrocue
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arya-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arya-3/)*

@@ -1,6 +1,6 @@
 # Umbo
 
-Umbo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "SOORIYAN" on Sat, 17 Oct 2026.
+Umbo is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "SOORIYAN" on Sat, 17 Oct 2026.
 
 Umbo is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Wasserwerkstrasse 89a, 8037 Zürich, Switzerland.
 
@@ -14,4 +14,4 @@ Umbo is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates,
 
 Wasserwerkstrasse 89a, 8037 Zürich, Switzerland, Zurich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*

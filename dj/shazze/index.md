@@ -1,6 +1,6 @@
 # SHAZZE
 
-SHAZZE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+SHAZZE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 SHAZZE is a progressive house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Belgrade, Berlin and London and 1 more. Often billed alongside Darin Epsilon, Nihil Young and Michael Ritter. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SHAZZE is a progressive house and tech house artist based in United Kingdom, wit
 
 Darin Epsilon, Nihil Young, Michael Ritter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shazze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shazze/)*

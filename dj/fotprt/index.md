@@ -1,6 +1,6 @@
 # fotprt
 
-fotprt is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Débris, Tokyo on Sat, 17 Oct 2026.
+fotprt is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Débris, Tokyo on Sat, 17 Oct 2026.
 
 fotprt is a house and hip-hop artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Sha Mi, Ariaray and CD HATA. Next up: Débris, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ fotprt is a house and hip-hop artist based in Japan, with 15 gigs on soundcheck 
 
 Sha Mi, Ariaray, CD HATA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fotprt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fotprt/)*

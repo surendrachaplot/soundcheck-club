@@ -1,6 +1,6 @@
 # C3D-E
 
-C3D-E is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 21 Nov 2026.
+C3D-E is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 21 Nov 2026.
 
 C3D-E is an electronica and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg, Lisbon and Melbourne and 2 more. Often billed alongside PLO Man, David Fogarty and Kia (AU). Next up: Collect LX Factory, Lisbon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ C3D-E is an electronica and techno artist based in Germany, with 18 gigs on soun
 
 PLO Man, David Fogarty, Kia (AU)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3d-e/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3d-e/)*

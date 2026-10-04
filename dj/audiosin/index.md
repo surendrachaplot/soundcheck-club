@@ -1,6 +1,6 @@
 # Audio Sin
 
-Audio Sin is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Daomé, Montreal on Thu, 8 Oct 2026.
+Audio Sin is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Daomé, Montreal on Thu, 8 Oct 2026.
 
 Audio Sin is a tech house artist, with 8 gigs on soundcheck across Montreal. Often billed alongside Okin and Kostello. Next up: Salon Daomé, Montreal on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Audio Sin is a tech house artist, with 8 gigs on soundcheck across Montreal. Oft
 
 Okin, Kostello
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiosin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiosin/)*

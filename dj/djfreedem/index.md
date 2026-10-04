@@ -1,6 +1,6 @@
 # DJ Freedem
 
-DJ Freedem is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey's, New York City on Thu, 15 Oct 2026.
+DJ Freedem is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey's, New York City on Thu, 15 Oct 2026.
 
 DJ Freedem is a club and techno artist, with 30 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside FLWRSHRK, Kenni Javon and Love Higher. Next up: Honey's, New York City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ DJ Freedem is a club and techno artist, with 30 gigs on soundcheck across New Yo
 
 FLWRSHRK, Kenni Javon, Love Higher
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreedem/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreedem/)*

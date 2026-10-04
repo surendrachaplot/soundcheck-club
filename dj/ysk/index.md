@@ -1,6 +1,6 @@
 # YSK.
 
-YSK. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+YSK. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 YSK. is a techno and house artist based in Japan, with 30 gigs on soundcheck across Berlin, Hong Kong, Kyushu and Melbourne and 7 more. Often billed alongside OCCA, fleika and Olevv. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ YSK. is a techno and house artist based in Japan, with 30 gigs on soundcheck acr
 
 OCCA, fleika, Olevv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*

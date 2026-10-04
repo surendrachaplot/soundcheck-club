@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
+Angel D'lite is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
 
 Angel D'lite is a house and techno artist based in United Kingdom, with 243 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Nowadays, New York City on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 243 gigs
 
 ## Recently played
 
+- Nowadays, New York City · Sat, 3 Oct 2026
 - Ormside Projects, London · Sat, 26 Sept 2026
 - Stereo, Glasgow · Fri, 25 Sept 2026
 - Renate, Berlin · Fri, 11 Sept 2026
@@ -27,10 +28,9 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 243 gigs
 - Spanners, London · Fri, 28 Aug 2026
 - Else, Berlin · Sat, 8 Aug 2026
 - M.O.T, London · Sat, 18 Jul 2026
-- Ormside Projects, London · Sun, 12 Jul 2026
 
 ## Shares bills with
 
 dj sweet6teen, THC, FAFF
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

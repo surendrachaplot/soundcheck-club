@@ -1,6 +1,6 @@
 # Intuition
 
-Intuition is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Turbina, Budapest on Sat, 3 Oct 2026.
+Intuition is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Turbina, Budapest on Sat, 3 Oct 2026.
 
 Intuition is a trance and techno artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin, Budapest and Madrid and 2 more. Often billed alongside KENJI K, Kenji Ko and M8NSE. Next up: Turbina, Budapest on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Intuition is a trance and techno artist based in Spain, with 11 gigs on soundche
 
 ## Recently played
 
+- Turbina, Budapest · Sat, 3 Oct 2026
 - Werkk Kulturlokal Baden, Zurich · Sat, 9 May 2026
 - 160k, Rotterdam · Sat, 8 Nov 2025
 - RSO.BERLIN, Berlin · Sat, 18 Jan 2025
@@ -19,10 +20,9 @@ Intuition is a trance and techno artist based in Spain, with 11 gigs on soundche
 - Human Club, Barcelona · Sat, 23 Sept 2023
 - DETROIT CLUB, Barcelona · Sat, 29 Jul 2023
 - Sala Taro, Barcelona · Fri, 14 Jul 2023
-- Human Club, Barcelona · Sat, 1 Jul 2023
 
 ## Shares bills with
 
 KENJI K, Kenji Ko, M8NSE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intuition/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intuition/)*

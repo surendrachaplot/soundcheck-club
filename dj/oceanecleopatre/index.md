@@ -1,6 +1,6 @@
 # Océane Cléopatre
 
-Océane Cléopatre is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
+Océane Cléopatre is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
 
 Océane Cléopatre is an electronica artist, with 7 gigs on soundcheck across Berlin. Often billed alongside 6RAJ, ARGO and Adrija. Next up: Klunkerkranich, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Océane Cléopatre is an electronica artist, with 7 gigs on soundcheck across Be
 
 6RAJ, ARGO, Adrija
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanecleopatre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanecleopatre/)*

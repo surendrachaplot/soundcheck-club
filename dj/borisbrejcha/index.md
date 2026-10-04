@@ -1,6 +1,6 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Portugal, Lisbon on Sun, 4 Oct 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Portugal, Lisbon on Sun, 4 Oct 2026.
 
 Boris Brejcha is a techno and minimal techno artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 53 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: TBA - Portugal, Lisbon on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 121 g
 
 Moritz Hofbauer, Ann Clue, Deniz Bul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

@@ -1,6 +1,6 @@
 # Balam
 
-Balam is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
+Balam is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jupiter Disco, New York City on Fri, 16 Oct 2026.
 
 Balam is a house and acid artist based in Japan, with 5 gigs on soundcheck across Lyon, Montreal, New York City and Tokyo. Often billed alongside Carlo Sine, Courtney Bailey and DJ Shibata. Next up: Jupiter Disco, New York City on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Balam is a house and acid artist based in Japan, with 5 gigs on soundcheck acros
 
 Carlo Sine, Courtney Bailey, DJ Shibata
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balam/)*

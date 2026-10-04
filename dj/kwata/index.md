@@ -1,6 +1,6 @@
 # K Wata
 
-K Wata is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+K Wata is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 K Wata is a techno and bass artist based in United States of America, with 58 gigs on soundcheck across Central, Chicago, Denver and Detroit and 13 more. Often billed alongside Enayet, Relaxer and Simisea. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ K Wata is a techno and bass artist based in United States of America, with 58 gi
 
 Enayet, Relaxer, Simisea
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*

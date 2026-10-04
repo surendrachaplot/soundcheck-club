@@ -1,6 +1,6 @@
 # CRHERZ
 
-CRHERZ is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Malaga Sin City, Milan on Sun, 4 Oct 2026.
+CRHERZ is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Malaga Sin City, Milan on Sun, 4 Oct 2026.
 
 CRHERZ is an italo disco and techno artist based in Italy, with 18 gigs on soundcheck across Milan. Often billed alongside Lvca Versace, Vicky Montefusco and O.P.S.. Next up: Malaga Sin City, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ CRHERZ is an italo disco and techno artist based in Italy, with 18 gigs on sound
 
 Lvca Versace, Vicky Montefusco, O.P.S.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crherz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crherz/)*

@@ -1,6 +1,6 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Amador, Medellin on Sat, 3 Oct 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Amador, Medellin on Sat, 3 Oct 2026.
 
 Kamilo Sanclemente is a progressive house and deep house artist based in Colombia, with 43 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 16 more. Often billed alongside Antrim, Emi Galvan and Deep Dish. Next up: Salon Amador, Medellin on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Kamilo Sanclemente is a progressive house and deep house artist based in Colombi
 
 ## Recently played
 
+- Salon Amador, Medellin · Sat, 3 Oct 2026
 - TBA - Grand Hall, La Plata, Buenos Aires · Fri, 17 Jul 2026
 - TBA - The Bow, Costa Salguero, Buenos Aires · Sat, 11 Jul 2026
 - WaV, Liverpool · Sat, 6 Jun 2026
@@ -24,10 +25,9 @@ Kamilo Sanclemente is a progressive house and deep house artist based in Colombi
 - The Pitt Market, Edinburgh · Sun, 24 May 2026
 - Pasaje America, Mexico City · Sat, 31 Jan 2026
 - TBA - Chacra El Descanso, La Plata, Buenos Aires · Sat, 27 Dec 2025
-- TBA - Old Skull Park, Pilar, Buenos Aires · Sat, 6 Dec 2025
 
 ## Shares bills with
 
 Antrim, Emi Galvan, Deep Dish
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*

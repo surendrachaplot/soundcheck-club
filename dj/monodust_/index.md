@@ -1,6 +1,6 @@
 # Mono Dust_
 
-Mono Dust_ is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
+Mono Dust_ is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
 
 Mono Dust_ is a minimal and house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and Elliott Timoti. Next up: Colour Factory, London on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Mono Dust_ is a minimal and house artist based in United Kingdom, with 4 gigs on
 
 Andrea Giudice, Larry Cadge, Elliott Timoti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monodust_/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monodust_/)*

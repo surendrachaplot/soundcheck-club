@@ -1,6 +1,6 @@
 # Korey Dobson
 
-Korey Dobson is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
+Korey Dobson is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
 
 Korey Dobson is a techno and trance artist based in Australia, with 17 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Etwas, GavWhitehouse and Toska. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Korey Dobson is a techno and trance artist based in Australia, with 17 gigs on s
 
 Etwas, GavWhitehouse, Toska
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*

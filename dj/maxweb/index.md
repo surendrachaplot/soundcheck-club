@@ -1,6 +1,6 @@
 # Max Web
 
-Max Web is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
+Max Web is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
 
 Max Web is a house and minimal artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside AMZEL, Ramin Majlessi and Armii1n. Next up: EQ San Diego, San Diego on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Max Web is a house and minimal artist based in United States of America, with 14
 
 AMZEL, Ramin Majlessi, Armii1n
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxweb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxweb/)*

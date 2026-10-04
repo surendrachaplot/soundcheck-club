@@ -1,6 +1,6 @@
 # Bruno (DO)
 
-Bruno (DO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
+Bruno (DO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
 
 Bruno (DO) is a house and techno artist based in Dominican Republic, with 29 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Quim Clausell, Deckard and Alba Posas. Next up: TBA - secret location, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bruno (DO) is a house and techno artist based in Dominican Republic, with 29 gig
 
 Quim Clausell, Deckard, Alba Posas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruno-do/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruno-do/)*

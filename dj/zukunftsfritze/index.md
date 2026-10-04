@@ -1,6 +1,6 @@
 # Zukunftsfritze
 
-Zukunftsfritze is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
+Zukunftsfritze is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cassiopeia, Berlin on Fri, 20 Nov 2026.
 
 Zukunftsfritze is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside MILANCHOLIE, DJ Jetset and senaitstar. Next up: Cassiopeia, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Zukunftsfritze is a trance and techno artist based in Germany, with 21 gigs on s
 
 MILANCHOLIE, DJ Jetset, senaitstar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*

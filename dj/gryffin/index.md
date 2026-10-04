@@ -1,6 +1,6 @@
 # Gryffin
 
-Gryffin is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Gryffin is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 Gryffin is a house and bass artist, with 27 gigs on soundcheck across Austin, Boston, Brisbane and Dallas Fort Worth and 15 more. Often billed alongside Alesso, The Chainsmokers and KREAM. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Gryffin is a house and bass artist, with 27 gigs on soundcheck across Austin, Bo
 
 Alesso, The Chainsmokers, KREAM
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*

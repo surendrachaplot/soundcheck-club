@@ -1,6 +1,6 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Karmakoma, Belgrade on Sat, 7 Nov 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Karmakoma, Belgrade on Sat, 7 Nov 2026.
 
 Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 18 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Karmakoma, Belgrade on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

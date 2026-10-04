@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Two Shell is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -17,6 +17,7 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 84 g
 
 ## Recently played
 
+- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - The Midway, San Francisco/Oakland · Sun, 27 Sept 2026
 - TBA, Los Angeles · Sat, 26 Sept 2026
 - Standard Time, Toronto · Fri, 25 Sept 2026
@@ -24,10 +25,9 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 84 g
 - Unité.22, Marseille · Fri, 7 Aug 2026
 - The Great Northern, San Francisco/Oakland · Fri, 24 Jul 2026
 - TBA - Takanawa Gateway City, Tokyo · Sun, 28 Jun 2026
-- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

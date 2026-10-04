@@ -1,6 +1,6 @@
 # OFFAIAH
 
-OFFAIAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 16 Oct 2026.
+OFFAIAH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 16 Oct 2026.
 
 OFFAIAH is a house and tech house artist based in United Kingdom, with 46 gigs on soundcheck across Auckland, Austin, Chicago and Denver and 11 more. Often billed alongside Gene Farris, Claptone and Marc Kinchen. Next up: Prysm Nightclub, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ OFFAIAH is a house and tech house artist based in United Kingdom, with 46 gigs o
 
 Gene Farris, Claptone, Marc Kinchen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*

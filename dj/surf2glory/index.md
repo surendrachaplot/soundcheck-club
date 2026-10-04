@@ -1,6 +1,6 @@
 # Surf 2 Glory
 
-Surf 2 Glory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Java, Paris on Fri, 16 Oct 2026.
+Surf 2 Glory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Java, Paris on Fri, 16 Oct 2026.
 
 Surf 2 Glory is a techno and trance artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside MALUGI, Marlon Hoffstadt and ferrari rot. Next up: La Java, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Surf 2 Glory is a techno and trance artist based in Germany, with 129 gigs on so
 
 MALUGI, Marlon Hoffstadt, ferrari rot
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surf2glory/)*

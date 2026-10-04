@@ -1,6 +1,6 @@
 # has.san
 
-has.san is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
+has.san is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
 
 has.san is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Juana, Associate and Firestone. Next up: TBA, Washington DC on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ has.san is a techno and house artist based in United States of America, with 15 
 
 Juana, Associate, Firestone
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/has.san/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/has.san/)*

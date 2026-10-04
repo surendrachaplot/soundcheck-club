@@ -1,6 +1,6 @@
 # Feryne
 
-Feryne is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OT301, Amsterdam on Fri, 6 Nov 2026.
+Feryne is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OT301, Amsterdam on Fri, 6 Nov 2026.
 
 Feryne is an acid and electro artist based in Hungary, with 9 gigs on soundcheck across Amsterdam, Cologne, Lyon and Paris and 1 more. Often billed alongside Delmar Browne, Devid Dega and Inez Akker. Next up: OT301, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Feryne is an acid and electro artist based in Hungary, with 9 gigs on soundcheck
 
 Delmar Browne, Devid Dega, Inez Akker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feryne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feryne/)*

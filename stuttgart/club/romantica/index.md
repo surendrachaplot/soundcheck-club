@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAZZIA 4th anniversary" on Sat, 3 Oct 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAZZIA 4th anniversary" on Sat, 3 Oct 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Maier, Avocado, Femcat and Jochen Junker and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -21,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

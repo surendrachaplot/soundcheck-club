@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Groove, Madrid on Sat, 3 Oct 2026.
+Luciid is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Groove, Madrid on Sat, 3 Oct 2026.
 
 Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Sala Groove, Madrid on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundc
 
 ## Recently played
 
+- Sala Groove, Madrid · Sat, 3 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 2 Oct 2026
 - Club Exil, Vienna · Sat, 26 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
@@ -24,10 +25,9 @@ Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundc
 - OST, Berlin · Fri, 28 Aug 2026
 - Ääniwalli, Helsinki · Sat, 8 Aug 2026
 - Mia Mao, Paris · Fri, 7 Aug 2026
-- TBA - Puerto de Sagunto, Valencia · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Vendex, Dexphase, Skryption
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

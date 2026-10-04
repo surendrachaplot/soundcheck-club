@@ -1,6 +1,6 @@
 # S.I.M
 
-S.I.M is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+S.I.M is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 S.I.M is a techno and breakbeat artist based in United States of America, with 12 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside JustJovani, Saffaire and cstr. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ S.I.M is a techno and breakbeat artist based in United States of America, with 1
 
 JustJovani, Saffaire, cstr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

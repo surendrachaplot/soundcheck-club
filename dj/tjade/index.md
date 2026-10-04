@@ -1,6 +1,6 @@
 # Tjade
 
-Tjade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Tjade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Tjade is a house and techno artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 17 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ Tjade is a house and techno artist based in Netherlands, with 121 gigs on soundc
 
 Lucky Done Gone, Moody Mehran, Kyle Starkey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

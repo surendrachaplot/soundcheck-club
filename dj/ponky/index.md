@@ -1,6 +1,6 @@
 # Pōnky
 
-Pōnky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
+Pōnky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
 Pōnky is a techno and house artist based in France, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Leipzig and 7 more. Often billed alongside FENIM0RE, MADMAN and BAUGRUPPE90. Next up: MUENZE, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pōnky is a techno and house artist based in France, with 46 gigs on soundcheck 
 
 FENIM0RE, MADMAN (2), BAUGRUPPE90
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*

@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+Regal86 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Regal86 is a techno and club artist based in Mexico, with 124 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 43 more. Often billed alongside 1morning, 1OO1O and MoMA Ready. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Regal86 is a techno and club artist based in Mexico, with 124 gigs on soundcheck
 
 1morning, 1OO1O, MoMA Ready
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

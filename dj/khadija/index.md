@@ -1,6 +1,6 @@
 # Khadija
 
-Khadija is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
+Khadija is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
 
 Khadija is a techno and ebm artist based in United States of America, with 22 gigs on soundcheck across Berlin, Chicago and New York City. Often billed alongside Moment of Terror, Octonomy and motiv-a. Next up: Bossa Nova Civic Club, New York City on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ Khadija is a techno and ebm artist based in United States of America, with 22 gi
 
 Moment of Terror, Octonomy, motiv-a
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khadija/)*

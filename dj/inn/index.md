@@ -1,6 +1,6 @@
 # !NN
 
-!NN is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+!NN is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 !NN is a minimal and house artist, with 10 gigs on soundcheck across Barcelona, London and New York City. Often billed alongside Alec Falconer, Chris Liberator and ISORA. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@
 
 Alec Falconer, Chris Liberator, ISORA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*

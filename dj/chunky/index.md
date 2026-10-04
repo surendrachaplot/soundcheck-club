@@ -1,14 +1,13 @@
 # Chunky
 
-Chunky is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Golden Lion, Manchester on Sat, 3 Oct 2026.
+Chunky is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at renae, Manchester on Thu, 8 Oct 2026.
 
-Chunky is a garage and bass artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: The Golden Lion, Manchester on Sat 3 Oct.
+Chunky is a garage and bass artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brisbane and 10 more. Often billed alongside Rich Reason, LARISHKA (UK) and Tom Boogizm. Next up: renae, Manchester on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Golden Lion | Manchester |
 | Thu, 8 Oct 2026 | renae | Manchester |
 | Thu, 15 Oct 2026 | Soup | Manchester |
 | Fri, 23 Oct 2026 | Şahika | Istanbul |
@@ -17,6 +16,7 @@ Chunky is a garage and bass artist based in United Kingdom, with 106 gigs on sou
 
 ## Recently played
 
+- The Golden Lion, Manchester · Sat, 3 Oct 2026
 - The Refuge, Manchester · Sat, 26 Sept 2026
 - Hidden, Manchester · Mon, 21 Sept 2026
 - The White Hotel, Manchester · Sun, 20 Sept 2026
@@ -24,10 +24,9 @@ Chunky is a garage and bass artist based in United Kingdom, with 106 gigs on sou
 - Freight Brixton, London · Sat, 5 Sept 2026
 - The Shepherds Rest Inn. Todmorden, Manchester · Sun, 30 Aug 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 29 Aug 2026
-- The Globe, Glossop, Manchester · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Rich Reason, LARISHKA (UK), Tom Boogizm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

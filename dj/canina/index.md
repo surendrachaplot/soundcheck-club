@@ -1,6 +1,6 @@
 # Canina
 
-Canina is a Tech House and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at à la Folie Paris, Paris on Fri, 16 Oct 2026.
+Canina is a Tech House and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at à la Folie Paris, Paris on Fri, 16 Oct 2026.
 
 Canina is a tech house and guaracha artist, with 5 gigs on soundcheck across Barcelona, Madrid, New York City and Paris. Often billed alongside 2AT, BZZHOUND and Drea (ES). Next up: à la Folie Paris, Paris on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Canina is a tech house and guaracha artist, with 5 gigs on soundcheck across Bar
 
 2AT, BZZHOUND, Drea (ES)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canina/)*

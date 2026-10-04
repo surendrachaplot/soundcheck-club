@@ -1,6 +1,6 @@
 # Taxsh
 
-Taxsh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
+Taxsh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lx Factory, Lisbon on Fri, 13 Nov 2026.
 
 Taxsh is a techno and hardcore artist based in Portugal, with 68 gigs on soundcheck across Lisbon, London, Paris and Porto. Often billed alongside Ketarina, Madson Carpenter and Stëh. Next up: Lx Factory, Lisbon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Taxsh is a techno and hardcore artist based in Portugal, with 68 gigs on soundch
 
 Ketarina, Madson Carpenter, Stëh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taxsh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taxsh/)*

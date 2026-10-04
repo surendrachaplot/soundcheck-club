@@ -1,6 +1,6 @@
 # Vanilla Storm
 
-Vanilla Storm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
+Vanilla Storm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fünk, Mexico City on Thu, 22 Oct 2026.
 
 Vanilla Storm is a house and techno artist based in Mexico, with 25 gigs on soundcheck across Mexico City. Often billed alongside Fig (DYN), Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Fünk, Mexico City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Vanilla Storm is a house and techno artist based in Mexico, with 25 gigs on soun
 
 Fig (DYN), Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanillastorm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanillastorm/)*

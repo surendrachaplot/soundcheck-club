@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAW WIND" on Thu, 8 Oct 2026.
+Z Maruyama is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAW WIND" on Thu, 8 Oct 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including ASSIGN, CARTOON, CLESENT and DJ MARIA. and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "YOUTH: Duster Valentine / Grace Sands / Lyster" on Sat, 3 Oct 2026.
+The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "YOUTH: Duster Valentine / Grace Sands / Lyster" on Sat, 3 Oct 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

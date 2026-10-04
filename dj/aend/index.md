@@ -1,6 +1,6 @@
 # AEND
 
-AEND is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+AEND is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 AEND is a house and garage artist based in Austria, with 15 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris and 1 more. Often billed alongside IVAN., YPSY and DJ Lelo. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ AEND is a house and garage artist based in Austria, with 15 gigs on soundcheck a
 
 IVAN., YPSY, DJ Lelo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aend/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aend/)*

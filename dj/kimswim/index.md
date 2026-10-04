@@ -1,6 +1,6 @@
 # KIM SWIM
 
-KIM SWIM is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
+KIM SWIM is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
 
 KIM SWIM is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Mika Heggemann, Trancemaster Krause and Alba Franch. Next up: Virage, Paris on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ KIM SWIM is a techno and trance artist based in Germany, with 109 gigs on soundc
 
 Mika Heggemann, Trancemaster Krause, Alba Franch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*

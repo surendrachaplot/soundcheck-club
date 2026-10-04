@@ -1,6 +1,6 @@
 # Loading... (US)
 
-Loading... (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Temple Bar, Detroit on Sat, 3 Oct 2026.
+Loading... (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Temple Bar, Detroit on Sat, 3 Oct 2026.
 
 Loading... (US) is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Detroit. Often billed alongside Loading..., Ashton Swinton and ERNO (US). Next up: Temple Bar, Detroit on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Loading... (US) is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- Temple Bar, Detroit · Sat, 3 Oct 2026
 - TV Lounge, Detroit · Sun, 29 Sept 2024
 - The Gold Bar Detroit, Detroit · Fri, 24 May 2024
 - Spkrbox, Detroit · Sat, 2 Dec 2023
@@ -19,10 +20,9 @@ Loading... (US) is a techno and house artist based in United States of America, 
 - TV Lounge, Detroit · Sun, 19 Nov 2023
 - Tangent Gallery, Detroit · Fri, 8 Sept 2023
 - Spkrbox, Detroit · Wed, 16 Aug 2023
-- Big Pink, Detroit · Sat, 12 Aug 2023
 
 ## Shares bills with
 
 Loading..., Ashton Swinton, ERNO (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loading-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loading-us/)*

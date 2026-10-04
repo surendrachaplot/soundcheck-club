@@ -1,6 +1,6 @@
 # exuvia
 
-exuvia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+exuvia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 exuvia is a techno and house artist based in Spain, with 10 gigs on soundcheck across Amsterdam, Berlin, Madrid and Mexico City and 2 more. Often billed alongside NDSTPS, Yeiks and Mara Menace. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ exuvia is a techno and house artist based in Spain, with 10 gigs on soundcheck a
 
 NDSTPS, Yeiks, Mara Menace
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exuvia/)*

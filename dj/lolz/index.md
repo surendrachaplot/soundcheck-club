@@ -1,6 +1,6 @@
 # Lolz
 
-Lolz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
+Lolz is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Galway City, Galway on Fri, 2 Oct 2026.
 
 Lolz is an electro and techno artist based in Ireland, with 40 gigs on soundcheck across Berlin, Dublin, Galway and Limerick. Often billed alongside Eliza, Maeve O'Neill and Hannah Hession. Next up: TBA - Galway City, Galway on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lolz is an electro and techno artist based in Ireland, with 40 gigs on soundchec
 
 Eliza, Maeve O'Neill, Hannah Hession
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolz/)*

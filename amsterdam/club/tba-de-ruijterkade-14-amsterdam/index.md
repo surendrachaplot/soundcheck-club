@@ -1,6 +1,6 @@
 # TBA - De Ruijterkade 14, Amsterdam 
 
-TBA - De Ruijterkade 14, Amsterdam  is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Oasis Boat Events - Amsterdam ADE Boat Party" on Sun, 25 Oct 2026.
+TBA - De Ruijterkade 14, Amsterdam  is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Oasis Boat Events - Amsterdam ADE Boat Party" on Sun, 25 Oct 2026.
 
 TBA - De Ruijterkade 14, Amsterdam  is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including charuso, NoMore and Sunday Soulman. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - De Ruijterkade 14, Amsterdam  is a music venue in Amsterdam listed on soun
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Oasis Boat Events - Amsterdam ADE Boat Party | NoMore, Sunday Soulman, charuso |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-de-ruijterkade-14-amsterdam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-de-ruijterkade-14-amsterdam/)*

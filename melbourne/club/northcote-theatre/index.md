@@ -1,6 +1,6 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano" on Sat, 14 Nov 2026.
+Northcote Theatre is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano" on Sat, 14 Nov 2026.
 
 Northcote Theatre is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including David Penn, DJ Matab, fumi (DE) and Gilles Peterson and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
@@ -19,4 +19,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 6 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

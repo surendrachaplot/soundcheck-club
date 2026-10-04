@@ -1,6 +1,6 @@
 # Ciel
 
-Ciel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Standard Time, Toronto on Sun, 4 Oct 2026.
+Ciel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Standard Time, Toronto on Sun, 4 Oct 2026.
 
 Ciel is a techno and house artist based in Canada, with 216 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bangkok and 51 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Standard Time, Toronto on Sun 4 Oct.
 
@@ -30,4 +30,4 @@ Ciel is a techno and house artist based in Canada, with 216 gigs on soundcheck a
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

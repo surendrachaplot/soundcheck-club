@@ -1,6 +1,6 @@
 # Bagvs
 
-Bagvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 9 Oct 2026.
+Bagvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 9 Oct 2026.
 
 Bagvs is a house and techno artist based in Indonesia, with 44 gigs on soundcheck across Bali, Bangkok, Hong Kong and Melbourne and 3 more. Often billed alongside Archie Dennis, Archie and Latex. Next up: Klymax Discotheque, Bali on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bagvs is a house and techno artist based in Indonesia, with 44 gigs on soundchec
 
 Archie Dennis, Archie, Latex (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagvs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagvs/)*

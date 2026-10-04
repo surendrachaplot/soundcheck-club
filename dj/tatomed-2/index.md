@@ -1,6 +1,6 @@
 # Tatomed (2)
 
-Tatomed (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
+Tatomed (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
 
 Tatomed is a house and tech house artist based in Venezuela, with 47 gigs on soundcheck across Prague. Often billed alongside Rajky, Sam Gittis and Sebastian Paiza. Next up: K7, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tatomed is a house and tech house artist based in Venezuela, with 47 gigs on sou
 
 Rajky, Sam Gittis, Sebastian Paiza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*

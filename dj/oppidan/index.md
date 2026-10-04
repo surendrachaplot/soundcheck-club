@@ -1,14 +1,13 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
-Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
+Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Thu, 15 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | Academy LA | Los Angeles |
@@ -20,9 +19,11 @@ Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on s
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
+| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
+- TBA - Vogrie Country Park, Edinburgh · Sat, 3 Oct 2026
 - The Warehouse, Leeds · Sat, 26 Sept 2026
 - Odaiba, Tokyo · Tue, 22 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on s
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
 - Finsbury Park, London · Fri, 7 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
-- Art Club, Houston · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

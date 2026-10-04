@@ -1,6 +1,6 @@
 # Rio Theatre
 
-Rio Theatre is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "ERASERHEAD XIU XIU" on Tue, 6 Oct 2026.
+Rio Theatre is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "ERASERHEAD XIU XIU" on Tue, 6 Oct 2026.
 
 Rio Theatre is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1660 East Broadway St., Vancouver, V5N 1W1.
 
@@ -14,4 +14,4 @@ Rio Theatre is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. 
 
 1660 East Broadway St., Vancouver, V5N 1W1, Vancouver
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/rio-theatre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/rio-theatre/)*

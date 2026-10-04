@@ -1,6 +1,6 @@
 # Parea (FR)
 
-Parea (FR) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 16 Oct 2026.
+Parea (FR) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 16 Oct 2026.
 
 Parea (FR) is a house and minimal artist based in France, with 21 gigs on soundcheck across Barcelona, London, New York City and Paris. Often billed alongside Sonus, Matteo Diop and Archie Hamilton. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Parea (FR) is a house and minimal artist based in France, with 21 gigs on soundc
 
 Sonus, Matteo Diop, Archie Hamilton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pareafr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pareafr/)*

@@ -1,6 +1,6 @@
 # KAZIA
 
-KAZIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+KAZIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
 KAZIA is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and KREED.. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KAZIA is a house and tech house artist based in United Kingdom, with 42 gigs on 
 
 Geo DJ, Sho (UK), KREED.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*

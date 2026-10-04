@@ -1,6 +1,6 @@
 # Laura Trance
 
-Laura Trance is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
+Laura Trance is a Trance and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Thu, 22 Oct 2026.
 
 Laura Trance is a trance and bass artist based in France, with 13 gigs on soundcheck across Barcelona, Paris and Strasbourg. Often billed alongside vendredear, Golce and No Plexus. Next up: La Station - Gare des Mines, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Laura Trance is a trance and bass artist based in France, with 13 gigs on soundc
 
 vendredear, Golce, No Plexus
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauratrance/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauratrance/)*

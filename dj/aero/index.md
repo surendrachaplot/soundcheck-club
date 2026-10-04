@@ -1,6 +1,6 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Tue, 6 Oct 2026.
+Aero (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Tue, 6 Oct 2026.
 
 Aero is a techno and house artist based in Ireland, with 49 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Ayolxi, Cailín and MEJMI. Next up: OXI, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Aero is a techno and house artist based in Ireland, with 49 gigs on soundcheck a
 
 Ayolxi, Cailín, MEJMI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*

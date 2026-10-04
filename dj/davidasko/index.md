@@ -1,6 +1,6 @@
 # David Asko
 
-David Asko is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macadam, Nantes on Fri, 16 Oct 2026.
+David Asko is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macadam, Nantes on Fri, 16 Oct 2026.
 
 David Asko is a techno and industrial artist based in France, with 38 gigs on soundcheck across Barcelona, Basel, Berlin and Hamburg and 6 more. Often billed alongside Samantha Togni, Somniac One and Mar/us. Next up: Macadam, Nantes on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ David Asko is a techno and industrial artist based in France, with 38 gigs on so
 
 Samantha Togni, Somniac One, Mar/us
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidasko/)*

@@ -1,6 +1,6 @@
 # Emina Helena
 
-Emina Helena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at MUENZE, Berlin on Sat, 24 Oct 2026.
+Emina Helena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at MUENZE, Berlin on Sat, 24 Oct 2026.
 
 Emina Helena is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Frankie Flowerz, Acid Foxy and Annie O. Next up: MUENZE, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Emina Helena is a techno and house artist based in Germany, with 31 gigs on soun
 
 Frankie Flowerz, Acid Foxy, Annie O
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eminahelena/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eminahelena/)*

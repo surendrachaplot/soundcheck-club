@@ -1,6 +1,6 @@
 # nienquepasa
 
-nienquepasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at PIP Den Haag, The Hague on Fri, 30 Oct 2026.
+nienquepasa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at PIP Den Haag, The Hague on Fri, 30 Oct 2026.
 
 nienquepasa is a house and techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Bouk Liúw, Kennedy and Kevin Lo. Next up: PIP Den Haag, The Hague on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ nienquepasa is a house and techno artist based in Netherlands, with 7 gigs on so
 
 Bouk Liúw, Kennedy, Kevin Lo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nienquepasa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nienquepasa/)*

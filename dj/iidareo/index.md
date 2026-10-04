@@ -1,6 +1,6 @@
 # iida Reo
 
-iida Reo is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 22 Oct 2026.
+iida Reo is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 22 Oct 2026.
 
 iida Reo is a bass and hip-hop artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside moreru, 7e and BBBBBBB. Next up: Nakano Heavysick Zero, Tokyo on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ iida Reo is a bass and hip-hop artist based in Japan, with 15 gigs on soundcheck
 
 moreru, 7e, BBBBBBB
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iidareo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iidareo/)*

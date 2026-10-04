@@ -1,6 +1,6 @@
 # Tara Dikhof
 
-Tara Dikhof is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
+Tara Dikhof is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
 
 Tara Dikhof is a club and house artist based in United States of America, with 7 gigs on soundcheck across Boston, Chicago, San Diego and Washington DC. Often billed alongside ARMANA KHAN, Bridge (NY) and Ether Pleaser. Next up: Urban Mo's, San Diego on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Tara Dikhof is a club and house artist based in United States of America, with 7
 
 ARMANA KHAN, Bridge (NY), Ether Pleaser
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taradikhof/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taradikhof/)*

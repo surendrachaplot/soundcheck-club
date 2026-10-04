@@ -1,6 +1,6 @@
 # Tam Tam
 
-Tam Tam is a Italo Disco and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
+Tam Tam is a Italo Disco and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Tam Tam is an italo disco and disco artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Jonah Considine, Richii and DJ Subaru. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Tam Tam is an italo disco and disco artist based in United Kingdom, with 30 gigs
 
 Jonah Considine, Richii, DJ Subaru
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*

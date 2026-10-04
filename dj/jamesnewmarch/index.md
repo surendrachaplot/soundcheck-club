@@ -1,6 +1,6 @@
 # James Newmarch
 
-James Newmarch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
+James Newmarch is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
 
 James Newmarch is a techno and house artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Voicedrone, Anabel Arroyo and Alba Heidari. Next up: FOLD, London on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ James Newmarch is a techno and house artist based in United Kingdom, with 72 gig
 
 ## Recently played
 
+- FOLD, London · Sat, 3 Oct 2026
 - FOLD, London · Sat, 5 Sept 2026
 - Burgess Park, London · Sat, 15 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
@@ -21,10 +22,9 @@ James Newmarch is a techno and house artist based in United Kingdom, with 72 gig
 - The Cause, London · Sat, 13 Jun 2026
 - TBA - Near Salisbury, London · Fri, 12 Jun 2026
 - FOLD, London · Sat, 6 Jun 2026
-- Distillery N17, London · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Voicedrone, Anabel Arroyo, Alba Heidari
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*

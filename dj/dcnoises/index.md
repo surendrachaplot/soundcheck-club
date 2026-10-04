@@ -1,6 +1,6 @@
 # DC Noises
 
-DC Noises is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+DC Noises is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 DC Noises is a garage and house artist based in Belgium, with 65 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Arter, BAVR and KEVIN KOFII. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DC Noises is a garage and house artist based in Belgium, with 65 gigs on soundch
 
 Arter, BAVR, KEVIN KOFII
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*

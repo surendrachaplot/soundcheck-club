@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "elrow Ibiza - CLOSING PARTY" on Sat, 3 Oct 2026.
+[UNVRS] is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "elrow Ibiza - CLOSING PARTY" on Sat, 3 Oct 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -20,4 +20,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

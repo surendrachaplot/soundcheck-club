@@ -1,6 +1,6 @@
 # GISZA
 
-GISZA is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
+GISZA is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club NYX, Amsterdam on Sat, 10 Oct 2026.
 
 GISZA is a r&b and dancehall artist, with 6 gigs on soundcheck across Amsterdam, Rotterdam and The Hague. Often billed alongside MBQT, Ansjowvis and Diklipdaan. Next up: Club NYX, Amsterdam on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ GISZA is a r&b and dancehall artist, with 6 gigs on soundcheck across Amsterdam,
 
 MBQT, Ansjowvis, Diklipdaan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisza/)*

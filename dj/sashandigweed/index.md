@@ -1,6 +1,6 @@
 # Sasha & John Digweed
 
-Sasha & John Digweed is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Superordinary, Brisbane on Fri, 5 Mar 2027.
+Sasha & John Digweed is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Superordinary, Brisbane on Fri, 5 Mar 2027.
 
 Sasha & John Digweed are a techno and house duo based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 9 more. Often billed alongside John Digweed, Nick Warren and Guy J. Next up: Superordinary, Brisbane on Fri 5 Mar.
 
@@ -27,4 +27,4 @@ Sasha & John Digweed are a techno and house duo based in United Kingdom, with 23
 
 John Digweed, Nick Warren, Guy J
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*

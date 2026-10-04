@@ -1,6 +1,6 @@
 # Paul Seul
 
-Paul Seul is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
+Paul Seul is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Cargö, West on Wed, 7 Oct 2026.
 
 Paul Seul is a techno and hardcore artist based in France, with 49 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 16 more. Often billed alongside Glayden, Von Bikräv and Gabber Eleganza. Next up: Le Cargö, West on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Paul Seul is a techno and hardcore artist based in France, with 49 gigs on sound
 
 Glayden, Von Bikräv, Gabber Eleganza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*

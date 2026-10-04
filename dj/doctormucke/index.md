@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
 DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 11 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soun
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin · Sat, 3 Oct 2026
 - Odonien, Cologne · Wed, 16 Sept 2026
 - Void Club, Berlin · Sat, 12 Sept 2026
 - Humboldthain Club, Berlin · Sat, 15 Aug 2026
@@ -22,10 +23,9 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soun
 - Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
 - Stadtpark Norderstedt, Hamburg · Sat, 25 Jul 2026
 - Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026
-- Chinastraat, Ghent · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

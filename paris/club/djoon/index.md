@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Poté invite Broodoo Ramses" on Sat, 3 Oct 2026.
+Djoon is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Poté invite Broodoo Ramses" on Sat, 3 Oct 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Adri, Broodoo Ramses, Chaos In The CBD and DJ Qu and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -20,4 +20,4 @@ Djoon is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

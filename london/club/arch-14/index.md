@@ -1,6 +1,6 @@
 # Arch 14
 
-Arch 14 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "VISION" on Sat, 17 Oct 2026.
+Arch 14 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VISION" on Sat, 17 Oct 2026.
 
 Arch 14 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Bengoa, Fannoire Ge, Kevin Yost and Maslow Unknown and 2 more. See dates, start times and who's playing. 14 Bohemia Place, Hackney, London, E8 1DU.
 
@@ -15,4 +15,4 @@ Arch 14 is a music venue in London listed on soundcheck. 2 upcoming gigs, with l
 
 14 Bohemia Place, Hackney, London, E8 1DU, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*

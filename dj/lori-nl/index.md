@@ -1,6 +1,6 @@
 # LORI (NL)
 
-LORI (NL) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+LORI (NL) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 LORI (NL) is a house and techno artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Hamburg, London and Rotterdam. Often billed alongside Izak Jules, Dennis Quin and MISSLORI. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ LORI (NL) is a house and techno artist based in Netherlands, with 41 gigs on sou
 
 Izak Jules, Dennis Quin, MISSLORI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lori-nl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lori-nl/)*

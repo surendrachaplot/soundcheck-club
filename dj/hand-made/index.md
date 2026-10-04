@@ -1,6 +1,6 @@
 # Hand-made
 
-Hand-made is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+Hand-made is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
 Hand-made is a house and disco artist, with 70 gigs on soundcheck across Amsterdam, Bangkok, Dublin and Edinburgh and 2 more. Often billed alongside Boboxa, Sally Swan and Ann Tweak. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hand-made is a house and disco artist, with 70 gigs on soundcheck across Amsterd
 
 Boboxa, Sally Swan, Ann Tweak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*

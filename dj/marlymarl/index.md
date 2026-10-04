@@ -1,6 +1,6 @@
 # Marly Marl
 
-Marly Marl is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+Marly Marl is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Kenny Ken, Nicky Blackmarket and Bryan Gee. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Marly Marl is a drum & bass and jungle artist based in United Kingdom, with 15 g
 
 Kenny Ken, Nicky Blackmarket, Bryan Gee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*

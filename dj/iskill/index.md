@@ -1,6 +1,6 @@
 # Is Kill
 
-Is Kill is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at CANVAS, Dundee on Fri, 23 Oct 2026.
+Is Kill is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at CANVAS, Dundee on Fri, 23 Oct 2026.
 
 Is Kill is a techno and minimal techno artist, with 25 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Sonho, BAYNE and eosap. Next up: CANVAS, Dundee on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Is Kill is a techno and minimal techno artist, with 25 gigs on soundcheck across
 
 Sonho, BAYNE, eosap
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*

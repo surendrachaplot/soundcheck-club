@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates" on Sat, 3 Oct 2026.
+Basic Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PARTYNOTCOM • Us Two + Fabio Stingo, Soulmates" on Sat, 3 Oct 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Alfonso Mauro, Fabio Stingo and Fabrizio Fattore and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -21,4 +21,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, wit
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

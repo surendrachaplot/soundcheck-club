@@ -1,6 +1,6 @@
 # NØBLESSE
 
-NØBLESSE is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+NØBLESSE is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
 NØBLESSE is an industrial and techno artist based in Hungary, with 9 gigs on soundcheck across Birmingham, Budapest and Tokyo. Often billed alongside CRIIM, PARAPHER and DUGASZ. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NØBLESSE is an industrial and techno artist based in Hungary, with 9 gigs on so
 
 CRIIM, PARAPHER, DUGASZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noblesse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noblesse/)*

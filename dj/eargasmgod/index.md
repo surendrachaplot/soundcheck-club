@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kilomètre25, Paris on Sat, 3 Oct 2026.
+EARGASM GOD is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kilomètre25, Paris on Sat, 3 Oct 2026.
 
 EARGASM GOD is a techno and trance artist based in Poland, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Kilomètre25, Paris on Sat 3 Oct.
 
@@ -8,7 +8,6 @@ EARGASM GOD is a techno and trance artist based in Poland, with 163 gigs on soun
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 23 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -20,17 +19,17 @@ EARGASM GOD is a techno and trance artist based in Poland, with 163 gigs on soun
 
 ## Recently played
 
+- Kilomètre25, Paris · Sat, 3 Oct 2026
+- Kilomètre25, Paris · Sat, 3 Oct 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Smolna, Warsaw · Fri, 25 Sept 2026
 - Phonox, London · Sat, 12 Sept 2026
 - ://about blank, Berlin · Fri, 28 Aug 2026
 - Przyjaźń, Warsaw · Sat, 8 Aug 2026
 - Beatland Festival, Krakow · Sat, 25 Jul 2026
-- Virage, Paris · Sat, 11 Jul 2026
-- Virage, Paris · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

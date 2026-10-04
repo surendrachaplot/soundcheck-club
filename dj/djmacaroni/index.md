@@ -1,6 +1,6 @@
 # DJ MACARONI
 
-DJ MACARONI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+DJ MACARONI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 DJ MACARONI is a house and techno artist based in Australia, with 33 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside JOVE, 1tbsp and Bag Raiders. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ DJ MACARONI is a house and techno artist based in Australia, with 33 gigs on sou
 
 JOVE, 1tbsp, Bag Raiders
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*

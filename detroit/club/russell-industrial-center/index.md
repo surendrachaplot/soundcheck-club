@@ -1,6 +1,6 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Westend" on Sat, 10 Oct 2026.
+Russell Industrial Center is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Westend" on Sat, 10 Oct 2026.
 
 Russell Industrial Center is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Annicka, DJ SPHiNX, Layton Giordani and Luke Alexander and 2 more. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
@@ -19,4 +19,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 6 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

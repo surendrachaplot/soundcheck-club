@@ -1,6 +1,6 @@
 # TAARIS
 
-TAARIS is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+TAARIS is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 TAARIS is a techno artist based in France, with 10 gigs on soundcheck across Berlin, London and Paris. Often billed alongside Ylia (UK), Deranged and GIZZI. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ TAARIS is a techno artist based in France, with 10 gigs on soundcheck across Ber
 
 Ylia (UK), Deranged, GIZZI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taaris/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taaris/)*

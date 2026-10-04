@@ -1,6 +1,6 @@
 # j:me
 
-j:me is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+j:me is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
 j:me is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: fabric, London on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ j:me is a house and tech house artist based in United Kingdom, with 38 gigs on s
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

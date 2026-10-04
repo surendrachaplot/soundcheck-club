@@ -1,6 +1,6 @@
 # Coconut Club
 
-Coconut Club is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TFBL presents" on Sat, 3 Oct 2026.
+Coconut Club is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TFBL presents" on Sat, 3 Oct 2026.
 
 Coconut Club is a music venue in Austin listed on soundcheck. 2 upcoming gigs, with line-ups including JAViii and John Gomi. See dates, start times and who's playing. 310B Colorado St, Austin, TX 78701.
 
@@ -15,4 +15,4 @@ Coconut Club is a music venue in Austin listed on soundcheck. 2 upcoming gigs, w
 
 310B Colorado St, Austin, TX 78701, Austin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/coconut-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/coconut-club/)*

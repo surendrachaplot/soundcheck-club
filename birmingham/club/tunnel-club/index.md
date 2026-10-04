@@ -1,6 +1,6 @@
 # Tunnel Club
 
-Tunnel Club is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HOUSE OF GOD HALLOWEEN 2026" on Fri, 30 Oct 2026.
+Tunnel Club is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HOUSE OF GOD HALLOWEEN 2026" on Fri, 30 Oct 2026.
 
 Tunnel Club is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Bayne, Fisha, Regis and Signum. See dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
 
@@ -16,4 +16,4 @@ Tunnel Club is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs
 
 Livery Street, Birmingham, B3 1HL, United Kingdom, Birmingham
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*

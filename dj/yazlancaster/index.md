@@ -1,6 +1,6 @@
 # Yaz Lancaster
 
-Yaz Lancaster is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
+Yaz Lancaster is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 20 Oct 2026.
 
 Yaz Lancaster is a club and experimental artist based in United States of America, with 18 gigs on soundcheck across Berlin, London and New York City. Often billed alongside L4RV4, Soo Intoit and ARCHANGEL (US). Next up: Bossa Nova Civic Club, New York City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Yaz Lancaster is a club and experimental artist based in United States of Americ
 
 L4RV4, Soo Intoit, ARCHANGEL (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*

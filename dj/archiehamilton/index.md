@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Descent, Boston on Sat, 3 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Descent, Boston on Sat, 3 Oct 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Descent, Boston on Sat 3 Oct.
 
@@ -22,6 +22,7 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 ## Recently played
 
+- Descent, Boston · Sat, 3 Oct 2026
 - Prysm Nightclub, Chicago · Fri, 2 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 26 Sept 2026
 - [UNVRS], Ibiza · Wed, 16 Sept 2026
@@ -29,10 +30,9 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 - Tunnel, Milan · Fri, 11 Sept 2026
 - 528 Ibiza, Ibiza · Fri, 4 Sept 2026
 - Los Angeles State Historic Park, Los Angeles · Sun, 30 Aug 2026
-- Amnesia Ibiza, Ibiza · Tue, 25 Aug 2026
 
 ## Shares bills with
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

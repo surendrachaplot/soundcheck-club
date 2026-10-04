@@ -1,6 +1,6 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 528 Ibiza, Ibiza on Sun, 4 Oct 2026.
+Kim April is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 528 Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Kim April is a house and tech house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 6 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: 528 Ibiza, Ibiza on Sun 4 Oct.
 
@@ -33,4 +33,4 @@ Kim April is a house and tech house artist based in Netherlands, with 91 gigs on
 
 Sidney Charles, ELVI (SE), Job de Jong
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

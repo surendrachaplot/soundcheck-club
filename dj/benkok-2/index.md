@@ -1,6 +1,6 @@
 # Ben Kok (2)
 
-Ben Kok (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Fri, 9 Oct 2026.
+Ben Kok (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Fri, 9 Oct 2026.
 
 Ben Kok is a house and disco artist based in South Africa, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Suggy, Pheebs and Trucha. Next up: The Mash House, Edinburgh on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ben Kok is a house and disco artist based in South Africa, with 16 gigs on sound
 
 Suggy, Pheebs, Trucha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkok-2/)*

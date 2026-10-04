@@ -1,6 +1,6 @@
 # avely
 
-avely is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+avely is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 avely is a techno and house artist based in Germany, with 5 gigs on soundcheck across Amsterdam and Munich. Often billed alongside RIØ (DE), loumo and 9LALEY. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ avely is a techno and house artist based in Germany, with 5 gigs on soundcheck a
 
 RIØ (DE), loumo, 9LALEY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avely-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avely-de/)*

@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sable Miami, Miami on Sat, 3 Oct 2026.
+Robag Wruhme is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sable Miami, Miami on Sat, 3 Oct 2026.
 
 Robag Wruhme is a house and techno artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Sable Miami, Miami on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Robag Wruhme is a house and techno artist based in Germany, with 116 gigs on sou
 
 ## Recently played
 
+- Sable Miami, Miami · Sat, 3 Oct 2026
 - Refuge, New York City · Fri, 2 Oct 2026
 - fi, Cologne · Fri, 25 Sept 2026
 - Sparta Schwimmclub, Frankfurt · Sun, 13 Sept 2026
@@ -21,10 +22,9 @@ Robag Wruhme is a house and techno artist based in Germany, with 116 gigs on sou
 - Bikini Beach, Cologne · Fri, 28 Aug 2026
 - Distillery, Leipzig · Sat, 18 Jul 2026
 - Bevegemse Vijvers, Ghent · Fri, 10 Jul 2026
-- Kater, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Michael Mayer, Denis Stockhausen, Jonathan Kaspar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

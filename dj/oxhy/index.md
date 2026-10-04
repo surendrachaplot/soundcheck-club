@@ -1,6 +1,6 @@
 # Oxhy
 
-Oxhy is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 16 Oct 2026.
+Oxhy is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 16 Oct 2026.
 
 Oxhy is an experimental and club artist, with 24 gigs on soundcheck across Barcelona, Krakow, London and Madrid and 7 more. Often billed alongside Bassvictim, Charles Verni and Choronzon. Next up: Paral•lel 62, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Oxhy is an experimental and club artist, with 24 gigs on soundcheck across Barce
 
 Bassvictim, Charles Verni, Choronzon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxhy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxhy/)*

@@ -1,6 +1,6 @@
 # Viktor Kampf
 
-Viktor Kampf is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Sun, 4 Oct 2026.
+Viktor Kampf is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Sun, 4 Oct 2026.
 
 Viktor Kampf is a techno and tech house artist based in Germany, with 104 gigs on soundcheck across Berlin and Brussels. Often billed alongside Ilyas S, Camilla Tarantino and PETDuo. Next up: Sensorium, Berlin on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ Viktor Kampf is a techno and tech house artist based in Germany, with 104 gigs o
 
 Ilyas S, Camilla Tarantino, PETDuo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkampf/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorkampf/)*

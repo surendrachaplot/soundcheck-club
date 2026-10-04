@@ -1,6 +1,6 @@
 # Gazelle Twin
 
-Gazelle Twin is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wapping Hydraulic Power Station, London on Fri, 16 Oct 2026.
+Gazelle Twin is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Wapping Hydraulic Power Station, London on Fri, 16 Oct 2026.
 
 Gazelle Twin is an experimental and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Brighton, Bristol, Glasgow and London and 2 more. Often billed alongside 33EMYBW, Amor Muere and Antony Szmierek. Next up: Wapping Hydraulic Power Station, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Gazelle Twin is an experimental and electronica artist based in United Kingdom, 
 
 33EMYBW, Amor Muere, Antony Szmierek
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazelletwin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazelletwin/)*

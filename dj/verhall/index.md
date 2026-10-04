@@ -1,6 +1,6 @@
 # Verhall
 
-Verhall is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rote Sonne, Munich on Sat, 3 Oct 2026.
+Verhall is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rote Sonne, Munich on Sat, 3 Oct 2026.
 
 Verhall is a techno and ambient artist based in Germany, with 23 gigs on soundcheck across Berlin, Budapest, Munich and Prague and 1 more. Often billed alongside GEISTFREI, Melchiorr and Colum Urton. Next up: Rote Sonne, Munich on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Verhall is a techno and ambient artist based in Germany, with 23 gigs on soundch
 
 ## Recently played
 
+- Rote Sonne, Munich · Sat, 3 Oct 2026
 - Groove Bar, Prague · Sat, 5 Sept 2026
 - Fuchs2, Prague · Fri, 4 Sept 2026
 - Rote Sonne, Munich · Fri, 28 Aug 2026
@@ -19,10 +20,9 @@ Verhall is a techno and ambient artist based in Germany, with 23 gigs on soundch
 - Club U, Vienna · Fri, 10 Apr 2026
 - Rote Sonne, Munich · Fri, 1 Aug 2025
 - FLUCC, Vienna · Sat, 21 Jun 2025
-- Rote Sonne, Munich · Sat, 31 May 2025
 
 ## Shares bills with
 
 GEISTFREI, Melchiorr, Colum Urton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verhall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verhall/)*

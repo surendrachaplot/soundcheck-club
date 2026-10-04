@@ -1,6 +1,6 @@
 # Nightfall
 
-Nightfall is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mastak, Warsaw on Fri, 9 Oct 2026.
+Nightfall is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mastak, Warsaw on Fri, 9 Oct 2026.
 
 Nightfall is an electronica and techno artist based in Poland, with 14 gigs on soundcheck across Warsaw. Often billed alongside KOSAA, Abrew and Amoll. Next up: Mastak, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nightfall is an electronica and techno artist based in Poland, with 14 gigs on s
 
 KOSAA, Abrew, Amoll
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightfall-pl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightfall-pl/)*

@@ -1,6 +1,6 @@
 # ABEILLE
 
-ABEILLE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+ABEILLE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
 ABEILLE is a techno and minimal techno artist based in United States of America, with 14 gigs on soundcheck across Istanbul, Miami and New York City. Often billed alongside Erde, ceviché and A DJ Named SNE. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ ABEILLE is a techno and minimal techno artist based in United States of America,
 
 Erde, ceviché, A DJ Named SNE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abeille/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abeille/)*

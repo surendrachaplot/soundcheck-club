@@ -1,6 +1,6 @@
 # Malesa
 
-Malesa is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Malesa is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Malesa is a trance and techno artist based in France, with 7 gigs on soundcheck across Barcelona, Nantes and Paris. Often billed alongside Akira Yamagata, Andrae Durden and Autumns. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Malesa is a trance and techno artist based in France, with 7 gigs on soundcheck 
 
 Akira Yamagata, Andrae Durden, Autumns
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malesa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malesa/)*

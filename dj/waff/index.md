@@ -1,6 +1,6 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at World Headquarters, Newcastle on Sat, 24 Oct 2026.
+wAFF is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at World Headquarters, Newcastle on Sat, 24 Oct 2026.
 
 wAFF is a tech house and house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 33 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: World Headquarters, Newcastle on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ wAFF is a tech house and house artist based in United Kingdom, with 131 gigs on 
 
 Jamie Jones, Max Dean, Richy Ahmed
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*

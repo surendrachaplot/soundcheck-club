@@ -1,6 +1,6 @@
 # Casa Amante Club
 
-Casa Amante Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CA:Calero + Dber" on Sat, 3 Oct 2026.
+Casa Amante Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CA:Calero + Dber" on Sat, 3 Oct 2026.
 
 Casa Amante Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including JAVS. See dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
 
@@ -15,4 +15,4 @@ Casa Amante Club is a music venue in Madrid listed on soundcheck. 2 upcoming gig
 
 Calle de Santiago, 3, 28013 Madrid, España, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*

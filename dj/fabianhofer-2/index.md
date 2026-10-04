@@ -1,6 +1,6 @@
 # Fabian Hofer (2)
 
-Fabian Hofer (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Sun, 25 Oct 2026.
+Fabian Hofer (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FLUCC, Vienna on Sun, 25 Oct 2026.
 
 Fabian Hofer is a techno and house artist based in Austria, with 13 gigs on soundcheck across Vienna. Often billed alongside Crazy Sonic, Mize Hetner and SNDR_Xone. Next up: FLUCC, Vienna on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Fabian Hofer is a techno and house artist based in Austria, with 13 gigs on soun
 
 Crazy Sonic, Mize Hetner, SNDR_Xone
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhofer-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhofer-2/)*

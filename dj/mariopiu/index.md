@@ -1,6 +1,6 @@
 # Mario Piu
 
-Mario Piu is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Move, West-wales on Sat, 7 Nov 2026.
+Mario Piu is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Move, West-wales on Sat, 7 Nov 2026.
 
 Mario Piu is a trance and club artist based in Italy, with 6 gigs on soundcheck across Leeds, Turin, West Wales and Zurich. Often billed alongside Luca Pechino, 00Zicky and Agnelli & Nelson. Next up: Move, West Wales on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Mario Piu is a trance and club artist based in Italy, with 6 gigs on soundcheck 
 
 Luca Pechino, 00Zicky, Agnelli & Nelson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*

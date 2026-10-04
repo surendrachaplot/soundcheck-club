@@ -1,6 +1,6 @@
 # SOBAKA
 
-SOBAKA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vino Disco, Montreal on Sat, 17 Oct 2026.
+SOBAKA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vino Disco, Montreal on Sat, 17 Oct 2026.
 
 SOBAKA is a house and disco artist based in Canada, with 22 gigs on soundcheck across Montreal. Often billed alongside Papa Kiss, Flleur and dawny. Next up: Vino Disco, Montreal on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SOBAKA is a house and disco artist based in Canada, with 22 gigs on soundcheck a
 
 Papa Kiss, Flleur, dawny
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sobaka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sobaka/)*

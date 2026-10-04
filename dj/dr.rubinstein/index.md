@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
+Dr. Rubinstein is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hidden, Manchester on Fri, 9 Oct 2026.
 
 Dr. Rubinstein is a techno and house artist based in Germany, with 206 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 61 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: Hidden, Manchester on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 206 gigs on s
 
 Ellen Allien, Freddy K, Akua
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

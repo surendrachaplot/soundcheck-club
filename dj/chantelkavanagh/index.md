@@ -1,6 +1,6 @@
 # Chantel Kavanagh
 
-Chantel Kavanagh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Index, Dublin on Sat, 10 Oct 2026.
+Chantel Kavanagh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Index, Dublin on Sat, 10 Oct 2026.
 
 Chantel Kavanagh is a techno and house artist based in Ireland, with 16 gigs on soundcheck across Belfast, Dublin, Edinburgh and Glasgow and 1 more. Often billed alongside Hannah Laing, RIOT CODE and 999999999. Next up: Index, Dublin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chantel Kavanagh is a techno and house artist based in Ireland, with 16 gigs on 
 
 Hannah Laing, RIOT CODE, 999999999
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chantelkavanagh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chantelkavanagh/)*

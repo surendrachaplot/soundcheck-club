@@ -1,6 +1,6 @@
 # 2FEL
 
-2FEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+2FEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 2FEL is a techno and industrial artist based in Germany, with 8 gigs on soundcheck across Budapest, Manchester, Prague and Rome and 2 more. Often billed alongside VRODAK, FUMI and harder danny. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -13,6 +13,7 @@
 
 ## Recently played
 
+- Now&Wow, Rotterdam · Sat, 3 Oct 2026
 - Altenburg 1964, Prague · Sat, 30 May 2026
 - TAG Tevere, Rome · Fri, 13 Mar 2026
 - OCZKI, Warsaw · Fri, 27 Feb 2026
@@ -24,4 +25,4 @@
 
 VRODAK, FUMI, harder danny
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2fel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2fel/)*

@@ -1,6 +1,6 @@
 # Jessy Lanza
 
-Jessy Lanza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Jessy Lanza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
 Jessy Lanza is a techno and house artist based in Canada, with 34 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 14 more. Often billed alongside Kode9, nonsuit and Beverly Chills. Next up: The Cause, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jessy Lanza is a techno and house artist based in Canada, with 34 gigs on soundc
 
 Kode9, nonsuit, Beverly Chills
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessylanza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessylanza/)*

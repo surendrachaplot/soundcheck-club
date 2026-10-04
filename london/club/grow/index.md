@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE]" on Sat, 3 Oct 2026.
+Grow is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE]" on Sat, 3 Oct 2026.
 
 Grow is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -21,4 +21,4 @@ Grow is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

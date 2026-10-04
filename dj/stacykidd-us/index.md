@@ -1,6 +1,6 @@
 # Stacy Kidd
 
-Stacy Kidd is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Daomé, Montreal on Fri, 16 Oct 2026.
+Stacy Kidd is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Daomé, Montreal on Fri, 16 Oct 2026.
 
 Stacy Kidd is a house and deep house artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 8 more. Often billed alongside Bear Who?, Bustin' Loose and Crystal Touch. Next up: Salon Daomé, Montreal on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Stacy Kidd is a house and deep house artist based in United States of America, w
 
 Bear Who?, Bustin' Loose, Crystal Touch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stacykidd-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stacykidd-us/)*

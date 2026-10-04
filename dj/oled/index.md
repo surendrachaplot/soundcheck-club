@@ -1,6 +1,6 @@
 # OLED
 
-OLED is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Wed, 30 Dec 2026.
+OLED is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Wed, 30 Dec 2026.
 
 OLED is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside elvito, Sievert Serviert and Alex Friday. Next up: DSTRKT Club Berlin, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ OLED is a trance and techno artist based in Germany, with 21 gigs on soundcheck 
 
 elvito, Sievert Serviert, Alex Friday
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oled/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oled/)*

@@ -1,6 +1,6 @@
 # STE-VÍ
 
-STE-VÍ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+STE-VÍ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 STE-VÍ is a techno and house artist based in Ireland, with 65 gigs on soundcheck across Berlin, Boston, Cork and New York City and 2 more. Often billed alongside Secret Raver, Adrian Hex and Junkfile. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ STE-VÍ is a techno and house artist based in Ireland, with 65 gigs on soundchec
 
 Secret Raver, Adrian Hex, Junkfile
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*

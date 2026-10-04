@@ -1,6 +1,6 @@
 # Robin Koch
 
-Robin Koch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sun, 18 Oct 2026.
+Robin Koch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Sun, 18 Oct 2026.
 
 Robin Koch is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin and Munich. Often billed alongside Javier Bähr, Max Israel and Monaco Marco. Next up: Paloma, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Robin Koch is a house and tech house artist based in Germany, with 13 gigs on so
 
 Javier Bähr, Max Israel, Monaco Marco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkoch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkoch/)*

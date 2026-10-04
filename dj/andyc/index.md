@@ -1,6 +1,6 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Document, Bristol on Sat, 3 Oct 2026.
+Andy C is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Document, Bristol on Sat, 3 Oct 2026.
 
 Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 45 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Document, Bristol on Sat 3 Oct.
 
@@ -19,6 +19,7 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs
 
 ## Recently played
 
+- Document, Bristol · Sat, 3 Oct 2026
 - Ministry Of Sound, London · Fri, 2 Oct 2026
 - Roxy, Prague · Sat, 26 Sept 2026
 - Fuse, Brussels · Sat, 12 Sept 2026
@@ -26,10 +27,9 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 105 gigs
 - TBA, Vienna · Fri, 14 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
 - BERHTA, Washington DC · Fri, 31 Jul 2026
-- Silverworks Island, London · Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

@@ -1,6 +1,6 @@
 # abs8lute
 
-abs8lute is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+abs8lute is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 abs8lute is a techno and electro artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Lea Occhi, Fadi Mohem and Beste Hira. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ abs8lute is a techno and electro artist based in France, with 96 gigs on soundch
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - Virage, Paris · Sat, 1 Aug 2026
@@ -21,10 +22,9 @@ abs8lute is a techno and electro artist based in France, with 96 gigs on soundch
 - Mia Mao, Paris · Fri, 5 Jun 2026
 - Universe Athens, Athens · Sat, 30 May 2026
 - Else, Berlin · Sun, 24 May 2026
-- NUMBER 90 LONDON, London · Fri, 8 May 2026
 
 ## Shares bills with
 
 Lea Occhi, Fadi Mohem, Beste Hira
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*

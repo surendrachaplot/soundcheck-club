@@ -1,6 +1,6 @@
 # Boris Werner
 
-Boris Werner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Boris Werner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Boris Werner is a house and techno artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Detroit and Geneva and 4 more. Often billed alongside Benny Rodrigues, Michel de Hey and Noach. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Boris Werner is a house and techno artist based in Netherlands, with 48 gigs on 
 
 Benny Rodrigues, Michel de Hey, Noach
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriswerner/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriswerner/)*

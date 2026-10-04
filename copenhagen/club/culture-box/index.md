@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON" on Sat, 3 Oct 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON" on Sat, 3 Oct 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aerocell, Aio and Aja Gulris and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

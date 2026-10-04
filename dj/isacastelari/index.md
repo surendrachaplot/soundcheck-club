@@ -1,6 +1,6 @@
 # Isa Castelari
 
-Isa Castelari is a Baile Funk and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
+Isa Castelari is a Baile Funk and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
 Isa Castelari is a baile funk and club artist based in Brazil, with 39 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 6 more. Often billed alongside Caio Prince, GUS and N3LYSTAR. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Isa Castelari is a baile funk and club artist based in Brazil, with 39 gigs on s
 
 Caio Prince, GUS (4), N3LYSTAR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isacastelari/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isacastelari/)*

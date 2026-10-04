@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- Tangent Gallery, Detroit · Sat, 3 Oct 2026
 - Signal, New York City · Fri, 2 Oct 2026
 - TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -24,10 +25,9 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
 - Mansions, New York City · Thu, 27 Aug 2026
 - TRANSMISSION DC, Washington DC · Sat, 1 Aug 2026
-- Bossa Nova Civic Club, New York City · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

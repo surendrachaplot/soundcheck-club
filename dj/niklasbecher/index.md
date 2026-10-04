@@ -1,6 +1,6 @@
 # Niklas Becher
 
-Niklas Becher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Niklas Becher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Niklas Becher is a house and techno artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside UriBlanch, ANNASNEL and Black Box. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Niklas Becher is a house and techno artist based in Netherlands, with 13 gigs on
 
 UriBlanch, ANNASNEL, Black Box
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*

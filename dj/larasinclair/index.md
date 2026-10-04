@@ -1,6 +1,6 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+Lara Sinclair is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
 Lara Sinclair is a bass and jungle artist based in United Kingdom, with 196 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and Casement. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Lara Sinclair is a bass and jungle artist based in United Kingdom, with 196 gigs
 
 ZO3 (1), JI_2001, Casement
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

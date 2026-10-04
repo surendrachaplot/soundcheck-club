@@ -1,6 +1,6 @@
 # Rocco Han
 
-Rocco Han is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gallery, London on Thu, 15 Oct 2026.
+Rocco Han is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gallery, London on Thu, 15 Oct 2026.
 
 Rocco Han is a deep house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, samasama and BALA. Next up: Gallery, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Rocco Han is a deep house and tech house artist based in United Kingdom, with 9 
 
 FITS ME FUNNY, samasama, BALA (3)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*

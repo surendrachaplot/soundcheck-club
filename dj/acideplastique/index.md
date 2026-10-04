@@ -1,6 +1,6 @@
 # acideplastique
 
-acideplastique is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+acideplastique is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
 
 acideplastique is a bass and techno artist based in France, with 17 gigs on soundcheck across Barcelona, Nantes, Paris and Vienna. Often billed alongside Amblio, Antonia XM and Kenji Araki. Next up: Bal Chavaux, Paris on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ acideplastique is a bass and techno artist based in France, with 17 gigs on soun
 
 ## Recently played
 
+- Bal Chavaux, Paris · Sat, 3 Oct 2026
 - La Maison Bistrot, Paris · Fri, 25 Sept 2026
 - Burgtheater, Vienna · Wed, 5 Aug 2026
 - Point Ephémère, Paris · Fri, 22 May 2026
@@ -19,10 +20,9 @@ acideplastique is a bass and techno artist based in France, with 17 gigs on soun
 - La Cité Fertile, Paris · Sun, 28 Sept 2025
 - Point Ephémère, Paris · Fri, 4 Jul 2025
 - Point Ephémère, Paris · Sat, 24 May 2025
-- Le Sample, Paris · Fri, 9 May 2025
 
 ## Shares bills with
 
 Amblio, Antonia XM, Kenji Araki
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acideplastique/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acideplastique/)*

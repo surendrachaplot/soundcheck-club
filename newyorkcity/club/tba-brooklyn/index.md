@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MERGE all night long: Rrose" on Sat, 3 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MERGE all night long: Rrose" on Sat, 3 Oct 2026.
 
 TBA - Brooklyn is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Alfonso Javier, Annie Lew, Battygyal and Concrete Husband and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Brooklyn is a music venue in New York City listed on soundcheck. 6 upcomin
 | Fri, 30 Oct 2026 | MERGE HALLOWEEN | Annie Lew, Fadi Mohem, Ignez, Ne/Re/A, Phase Fatale, Robert Hood, Yonti |
 | Sun, 1 Nov 2026 | bumpy! | Dee Diggs, Fadi Mohem, Narciss, S'aint Panic, Will Automagic |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

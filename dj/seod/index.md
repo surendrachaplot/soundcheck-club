@@ -1,6 +1,6 @@
 # SEOD
 
-SEOD is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
+SEOD is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 강원도 화천, South-korea on Sun, 4 Oct 2026.
 
 SEOD is a house and club artist based in South Korea, with 44 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Shinyoung, JAEHAN and Youknowsong. Next up: TBA - 강원도 화천, South Korea on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ SEOD is a house and club artist based in South Korea, with 44 gigs on soundcheck
 
 Shinyoung, JAEHAN (2), Youknowsong
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seod/)*

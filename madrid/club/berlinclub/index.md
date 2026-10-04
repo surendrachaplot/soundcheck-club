@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Papaia Club: Gaspar & Elena - All Night Long" on Sat, 3 Oct 2026.
+berlinClub is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Papaia Club: Gaspar & Elena - All Night Long" on Sat, 3 Oct 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alejandro Paz, Alexis mayer, Daddy Squad and David Calo and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -20,4 +20,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

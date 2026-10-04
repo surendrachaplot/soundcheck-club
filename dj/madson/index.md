@@ -1,6 +1,6 @@
 # Mad Son
 
-Mad Son is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Mad Son is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Mad Son is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Naicet, Mona Pirzad and Corios. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Mad Son is a house and techno artist based in Germany, with 7 gigs on soundcheck
 
 Naicet, Mona Pirzad, Corios
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*

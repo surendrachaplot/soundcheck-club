@@ -1,6 +1,6 @@
 # LIKE61
 
-LIKE61 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+LIKE61 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 LIKE61 is a house and disco artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Drabes, Kirilski and AIS De La Montagne. Next up: TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LIKE61 is a house and disco artist based in Netherlands, with 4 gigs on soundche
 
 Drabes, Kirilski, AIS De La Montagne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/like61/)*

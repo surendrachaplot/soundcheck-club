@@ -1,6 +1,6 @@
 # Schminz
 
-Schminz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Celeste, Vienna on Fri, 9 Oct 2026.
+Schminz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Celeste, Vienna on Fri, 9 Oct 2026.
 
 Schminz is a house and disco artist based in Germany, with 23 gigs on soundcheck across Munich and Vienna. Often billed alongside schereph, Heller von Sinnen and DJLolo. Next up: Celeste, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Schminz is a house and disco artist based in Germany, with 23 gigs on soundcheck
 
 schereph, Heller von Sinnen, DJLolo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schminz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schminz/)*

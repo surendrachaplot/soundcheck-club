@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye" on Sat, 3 Oct 2026.
+Distrikt is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Mugpie 11th Birthday with DJ Masda, Vass & Matthew Neequaye" on Sat, 3 Oct 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Osifo, Arty, Binyamhn and Cadence and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with l
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

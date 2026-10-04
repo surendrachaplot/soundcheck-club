@@ -1,6 +1,6 @@
 # WobWob!
 
-WobWob! is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+WobWob! is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 WobWob! is a bass and dubstep artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Phokus, TheNext and Der Vinylizer. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ WobWob! is a bass and dubstep artist based in Germany, with 9 gigs on soundcheck
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - Golden Pudel Club, Hamburg · Sun, 9 Aug 2026
 - Hochwasserbassin Hammerbrook, Hamburg · Sat, 5 Jul 2025
 - Hafenklang, Hamburg · Sat, 14 Dec 2024
@@ -19,10 +20,9 @@ WobWob! is a bass and dubstep artist based in Germany, with 9 gigs on soundcheck
 - Goldener Salon, Hamburg · Sat, 11 Nov 2023
 - Goldener Salon, Hamburg · Sat, 14 Oct 2023
 - Goldener Salon, Hamburg · Sat, 9 Sept 2023
-- Hochwasserbassin Hammerbrook, Hamburg · Sat, 26 Aug 2023
 
 ## Shares bills with
 
 Phokus, TheNext, Der Vinylizer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wobwob!/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wobwob!/)*

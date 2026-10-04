@@ -1,6 +1,6 @@
 # Catsinka
 
-Catsinka is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paname sur Seine, Paris on Sun, 4 Oct 2026.
+Catsinka is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paname sur Seine, Paris on Sun, 4 Oct 2026.
 
 Catsinka is a tech house and minimal artist based in France, with 12 gigs on soundcheck across Paris. Often billed alongside Bigstate, ISAAC GUEYE and Gostoso. Next up: Paname sur Seine, Paris on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Catsinka is a tech house and minimal artist based in France, with 12 gigs on sou
 
 Bigstate, ISAAC GUEYE, Gostoso
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catsinka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catsinka/)*

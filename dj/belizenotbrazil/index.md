@@ -1,17 +1,19 @@
 # belizenotbrazil
 
-belizenotbrazil is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sinners and Saints, Washington DC on Sat, 3 Oct 2026.
+belizenotbrazil is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sinners and Saints, Washington DC on Sat, 3 Oct 2026.
 
-belizenotbrazil is a club and house artist based in United States of America, with 16 gigs on soundcheck across Washington DC. Often billed alongside Mooncrumb, JACKIECHANSDOG and Sküp. Next up: Sinners and Saints, Washington DC on Sat 3 Oct.
+belizenotbrazil is a club and house artist based in United States of America, with 17 gigs on soundcheck across Washington DC. Often billed alongside Mooncrumb, JACKIECHANSDOG and Sküp. Next up: Sinners and Saints, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Sinners and Saints | Washington DC |
+| Fri, 16 Oct 2026 | Sinners and Saints | Washington DC |
 
 ## Recently played
 
+- Sinners and Saints, Washington DC · Sat, 3 Oct 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Thu, 10 Sept 2026
 - Sinners and Saints, Washington DC · Sat, 1 Aug 2026
 - Sinners and Saints, Washington DC · Fri, 17 Jul 2026
@@ -19,10 +21,9 @@ belizenotbrazil is a club and house artist based in United States of America, wi
 - Sinners and Saints, Washington DC · Sat, 20 Jun 2026
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Thu, 18 Jun 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Thu, 28 May 2026
-- Sinners and Saints, Washington DC · Sat, 23 May 2026
 
 ## Shares bills with
 
 Mooncrumb, JACKIECHANSDOG, Sküp
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belizenotbrazil/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belizenotbrazil/)*

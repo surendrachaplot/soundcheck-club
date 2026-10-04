@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+D-Leria is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ D-Leria is a techno and house artist based in Italy, with 110 gigs on soundcheck
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

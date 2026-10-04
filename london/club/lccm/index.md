@@ -1,6 +1,6 @@
 # Lccm
 
-Lccm is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Music Industry Monday: Building a Sustainable Career In Music" on Mon, 5 Oct 2026.
+Lccm is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Music Industry Monday: Building a Sustainable Career In Music" on Mon, 5 Oct 2026.
 
 Lccm is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 241 Union St, London SE1 0LR, United Kingdom.
 
@@ -16,4 +16,4 @@ Lccm is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates
 
 241 Union St, London SE1 0LR, United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lccm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lccm/)*

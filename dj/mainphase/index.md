@@ -1,6 +1,6 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Main Phase is a Garage and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Main Phase is a garage and bass artist based in Denmark, with 205 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -33,4 +33,4 @@ Main Phase is a garage and bass artist based in Denmark, with 205 gigs on soundc
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

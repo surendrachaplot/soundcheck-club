@@ -1,6 +1,6 @@
 # Jad Ad
 
-Jad Ad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Thu, 22 Oct 2026.
+Jad Ad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Thu, 22 Oct 2026.
 
 Jad Ad is a techno and house artist based in Palestine, with 18 gigs on soundcheck across Toronto. Often billed alongside Chafic, Daragma and Feliciana Silvestre. Next up: TBA, Toronto on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jad Ad is a techno and house artist based in Palestine, with 18 gigs on soundche
 
 Chafic, Daragma, Feliciana Silvestre
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadad/)*

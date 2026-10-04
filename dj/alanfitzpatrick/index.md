@@ -1,14 +1,13 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - BBBANK WILDPARK , Karlsruhe on Sat, 3 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Glove That Fits, London on Sun, 4 Oct 2026.
 
-Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - BBBANK WILDPARK , Karlsruhe on Sat 3 Oct.
+Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: The Glove That Fits, London on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - BBBANK WILDPARK  | Karlsruhe |
 | Sun, 4 Oct 2026 | The Glove That Fits | London |
 | Fri, 9 Oct 2026 | Oxford Art Factory | Sydney |
 | Sat, 10 Oct 2026 | The Night Cat | Melbourne |
@@ -23,6 +22,7 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 
 
 ## Recently played
 
+- TBA - BBBANK WILDPARK , Karlsruhe · Sat, 3 Oct 2026
 - [UNVRS], Ibiza · Sun, 27 Sept 2026
 - Phonox, London · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
@@ -30,10 +30,9 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 116 
 - [UNVRS], Ibiza · Wed, 26 Aug 2026
 - Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
 - TBA - Los Angeles, Los Angeles · Fri, 14 Aug 2026
-- Marble Bar, Detroit · Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

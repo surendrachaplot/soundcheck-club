@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "aufnahme + wiedergabe X Urban Spree" on Sat, 3 Oct 2026.
+Urban Spree is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "aufnahme + wiedergabe X Urban Spree" on Sat, 3 Oct 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Albert Kraft, Architect, B. Clarke and Bam Bam's Boogie and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

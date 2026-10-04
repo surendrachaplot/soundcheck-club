@@ -1,6 +1,6 @@
 # Savanna
 
-Savanna is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
+Savanna is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at High Club Room, Madrid on Thu, 8 Oct 2026.
 
 Savanna is a house and progressive house artist based in Bolivia, with 44 gigs on soundcheck across Barcelona, Madrid and Tokyo. Often billed alongside Tucu (Tucu), Brisa Then and Demattei. Next up: High Club Room, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Savanna is a house and progressive house artist based in Bolivia, with 44 gigs o
 
 Tucu (Tucu), Brisa Then, Demattei
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savanna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savanna/)*

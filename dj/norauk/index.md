@@ -1,6 +1,6 @@
 # Nora (UK)
 
-Nora (UK) is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stage and Radio, Manchester on Fri, 13 Nov 2026.
+Nora (UK) is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stage and Radio, Manchester on Fri, 13 Nov 2026.
 
 Nora (UK) is an electro and house artist based in United Kingdom, with 60 gigs on soundcheck across Barcelona, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside teepee h, LARA and Cosimo. Next up: Stage and Radio, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Nora (UK) is an electro and house artist based in United Kingdom, with 60 gigs o
 
 teepee h, LARA, Cosimo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norauk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norauk/)*

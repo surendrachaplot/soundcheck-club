@@ -1,6 +1,6 @@
 # JÄK-87
 
-JÄK-87 is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Sat, 17 Oct 2026.
+JÄK-87 is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Sat, 17 Oct 2026.
 
 JÄK-87 is a disco and house artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside PAPA (US), Kim Ann Foxman and Alien D. Next up: Good Room, New York City on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ JÄK-87 is a disco and house artist based in United States of America, with 6 gi
 
 PAPA (US), Kim Ann Foxman, Alien D
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jak-87/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jak-87/)*

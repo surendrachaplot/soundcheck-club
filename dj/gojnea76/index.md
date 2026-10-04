@@ -1,6 +1,6 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Gojnea76 is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Gojnea76 is a house and minimal artist, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside G76, Alexander Skancke and BILA. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Gojnea76 is a house and minimal artist, with 25 gigs on soundcheck across Amster
 
 G76, Alexander Skancke, BILA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

@@ -1,6 +1,6 @@
 # Anna Morgan
 
-Anna Morgan is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
+Anna Morgan is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
 
 Anna Morgan is a bass and jungle artist based in United States of America, with 68 gigs on soundcheck across Austin, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Bianca Oblivion, Daddy Kev and DJ Nope. Next up: The Shanghai Edition, Shanghai on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Anna Morgan is a bass and jungle artist based in United States of America, with 
 
 Bianca Oblivion, Daddy Kev, DJ Nope
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*

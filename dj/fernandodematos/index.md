@@ -1,6 +1,6 @@
 # Fernando De Matos
 
-Fernando De Matos is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
+Fernando De Matos is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
 
 Fernando De Matos is a techno and progressive house artist based in Portugal, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bern and 3 more. Often billed alongside Hector Moreno, Face-B and ANouch. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Fernando De Matos is a techno and progressive house artist based in Portugal, wi
 
 ## Recently played
 
+- Druckerei Solothurn, Bern · Sat, 3 Oct 2026
 - TBA -  INDUSTRIE CAR WASH , Geneva · Fri, 25 Sept 2026
 - Veleiro Principe Perfeito, Lisbon · Sat, 11 Jul 2026
 - TBA -  INDUSTRIE CAR WASH , Geneva · Fri, 29 May 2026
@@ -19,10 +20,9 @@ Fernando De Matos is a techno and progressive house artist based in Portugal, wi
 - TBA - COSMIC CAFE GENEVE, Geneva · Sat, 4 Apr 2026
 - L'industrie, Geneva · Sat, 7 Mar 2026
 - John Doe, Amsterdam · Sat, 7 Feb 2026
-- L'industrie, Geneva · Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Hector Moreno, Face-B, ANouch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandodematos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandodematos/)*

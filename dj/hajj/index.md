@@ -1,6 +1,6 @@
 # Hajj
 
-Hajj is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Hajj is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Hajj is an experimental and hardcore artist based in France, with 14 gigs on soundcheck across Bristol, Central, Dublin and London and 4 more. Often billed alongside Ronce, gboi and Julia Louise KnifeFist. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Hajj is an experimental and hardcore artist based in France, with 14 gigs on sou
 
 Ronce, gboi, Julia Louise KnifeFist
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hajj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hajj/)*

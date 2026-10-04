@@ -1,6 +1,6 @@
 # Babs (3)
 
-Babs (3) is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
+Babs (3) is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
 
 Babs is a house and ebm artist, with 10 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Holba, A Little Bit Orange and CARALUS. Next up: Soup, Manchester on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Babs is a house and ebm artist, with 10 gigs on soundcheck across Manchester and
 
 Holba, A Little Bit Orange, CARALUS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*

@@ -1,6 +1,6 @@
 # Kvadrant
 
-Kvadrant is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 21 Nov 2026.
+Kvadrant is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 21 Nov 2026.
 
 Kvadrant is a house and dub techno artist based in Denmark, with 7 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Manchester. Often billed alongside OHM, Anton Kubikov and Robert Drewek. Next up: Waterhouse Studios, Amsterdam on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Kvadrant is a house and dub techno artist based in Denmark, with 7 gigs on sound
 
 OHM, Anton Kubikov, Robert Drewek
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadrant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvadrant/)*

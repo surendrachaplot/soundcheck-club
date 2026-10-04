@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+Bambounou is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
 Bambounou is a techno and house artist based in France, with 173 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 49 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: FOLD, London on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Bambounou is a techno and house artist based in France, with 173 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

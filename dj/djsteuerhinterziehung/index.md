@@ -1,6 +1,6 @@
 # DJ Steuerhinterziehung
 
-DJ Steuerhinterziehung is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+DJ Steuerhinterziehung is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
 DJ Steuerhinterziehung is a techno and gabber artist based in Germany, with 19 gigs on soundcheck across Berlin and Nürnberg. Often billed alongside LØUS, Osiris and FLUCC. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ DJ Steuerhinterziehung is a techno and gabber artist based in Germany, with 19 g
 
 LØUS, Osiris (2), FLUCC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteuerhinterziehung/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteuerhinterziehung/)*

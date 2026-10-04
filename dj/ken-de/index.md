@@ -1,6 +1,6 @@
 # KEN (DE)
 
-KEN (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+KEN (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
 KEN (DE) is a techno and house artist based in Germany, with 49 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ PayPaul, Tim Hagemann and FLEXTASY. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KEN (DE) is a techno and house artist based in Germany, with 49 gigs on soundche
 
 DJ PayPaul, Tim Hagemann, FLEXTASY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*

@@ -1,6 +1,6 @@
 # Aldrin
 
-Aldrin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
+Aldrin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
 
 Aldrin is a house and tech house artist, with 12 gigs on soundcheck across Singapore. Often billed alongside Jeremy Boon, Brendon P and EJ. Next up: El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aldrin is a house and tech house artist, with 12 gigs on soundcheck across Singa
 
 Jeremy Boon, Brendon P, EJ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldrin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldrin/)*

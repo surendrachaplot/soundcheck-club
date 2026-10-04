@@ -1,6 +1,6 @@
 # J:MoB
 
-J:MoB is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rolling Stock, London on Sat, 17 Oct 2026.
+J:MoB is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rolling Stock, London on Sat, 17 Oct 2026.
 
 J:MoB is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside George Peck, Bedfactory Records and Karter. Next up: Rolling Stock, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ J:MoB is a house and disco artist based in United Kingdom, with 6 gigs on soundc
 
 George Peck, Bedfactory Records, Karter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmob/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmob/)*

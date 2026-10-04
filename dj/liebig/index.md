@@ -1,6 +1,6 @@
 # Liebig
 
-Liebig is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Fri, 30 Oct 2026.
+Liebig is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Fri, 30 Oct 2026.
 
 Liebig is a house and deep house artist based in Argentina, with 17 gigs on soundcheck across Barcelona. Often billed alongside Marvio, Martin Cozar and Amadori. Next up: Macarena Club, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Liebig is a house and deep house artist based in Argentina, with 17 gigs on soun
 
 Marvio, Martin Cozar, Amadori
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liebig/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liebig/)*

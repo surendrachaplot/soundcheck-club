@@ -1,6 +1,6 @@
 # Luude
 
-Luude is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Luude is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Luude is a drum & bass and house artist based in Australia, with 40 gigs on soundcheck across Auckland, Brighton, Brisbane and Bristol and 19 more. Often billed alongside Chase & Status, Mozey and Wilkinson. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Luude is a drum & bass and house artist based in Australia, with 40 gigs on soun
 
 ## Recently played
 
+- TBA - Wollongong, NSW, Sydney · Sat, 3 Oct 2026
 - MÄX, Zurich · Sat, 8 Aug 2026
 - Shed 10, Auckland · Fri, 10 Jul 2026
 - Max Watt's, Melbourne · Sat, 4 Jul 2026
@@ -21,10 +22,9 @@ Luude is a drum & bass and house artist based in Australia, with 40 gigs on soun
 - T7 Paris, Paris · Sat, 21 Feb 2026
 - Roxy, Prague · Sat, 14 Feb 2026
 - MÄX, Zurich · Sat, 7 Feb 2026
-- Document, Bristol · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Chase & Status, Mozey, Wilkinson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*

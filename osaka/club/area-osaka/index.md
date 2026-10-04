@@ -1,14 +1,13 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "「Three」 presents@AREA OSAKA" on Sat, 3 Oct 2026.
+Area_osaka is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BAR TIME BGM DJ" on Wed, 7 Oct 2026.
 
-Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Dan Elliot, DJ KAZUMA, Grimwig and Nao Nomura and 2 more. See dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
+Area_osaka is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including Dan Elliot, DJ KAZUMA, Grimwig and Nao Nomura and 2 more. See dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | 「Three」 presents@AREA OSAKA |  |
 | Wed, 7 Oct 2026 | BAR TIME BGM DJ |  |
 | Fri, 9 Oct 2026 | Marionette showcase at Area, Osaka | DJ KAZUMA, Grimwig, YAMA(JP/OSK) |
 | Sat, 10 Oct 2026 | MDNTF | Dan Elliot, Nao Nomura, Takekiyo Ishimoto |
@@ -17,4 +16,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

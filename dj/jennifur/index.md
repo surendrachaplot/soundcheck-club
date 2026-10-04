@@ -1,6 +1,6 @@
 # Jennifur
 
-Jennifur is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Fri, 23 Oct 2026.
+Jennifur is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Botanique, Brussels on Fri, 23 Oct 2026.
 
 Jennifur is an electronica and bass artist based in Belgium, with 12 gigs on soundcheck across Brussels and Ghent. Often billed alongside Ava Eva, Alex Kassian and BAVR. Next up: Botanique, Brussels on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jennifur is an electronica and bass artist based in Belgium, with 12 gigs on sou
 
 Ava Eva, Alex Kassian, BAVR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennifur/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennifur/)*

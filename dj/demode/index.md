@@ -1,6 +1,6 @@
 # De Mode
 
-De Mode is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+De Mode is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
 De Mode is a disco and house artist based in Slovakia, with 137 gigs on soundcheck across Berlin, Los Angeles, Prague and Vienna. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ De Mode is a disco and house artist based in Slovakia, with 137 gigs on soundche
 
 Ark3r, kuju, Anton Kubikov
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*

@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Yard, Manchester on Sat, 10 Oct 2026.
+Jimpster is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Yard, Manchester on Sat, 10 Oct 2026.
 
 Jimpster is a house and deep house artist based in United Kingdom, with 88 gigs on soundcheck across Alicante, Amsterdam, Barcelona and Brighton and 34 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: The Yard, Manchester on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Jimpster is a house and deep house artist based in United Kingdom, with 88 gigs 
 
 Conrad Lee, Hudson’s Choice, Neil Pierce
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

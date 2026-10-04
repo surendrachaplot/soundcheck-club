@@ -1,6 +1,6 @@
 # Nésa Thea
 
-Nésa Thea is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
+Nésa Thea is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
 
 Nésa Thea is an amapiano and afro house artist, with 21 gigs on soundcheck across London. Often billed alongside BABY JACKZ, LISAKEEKS and Tadi.wav. Next up: DRUMSHEDS, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Nésa Thea is an amapiano and afro house artist, with 21 gigs on soundcheck acro
 
 BABY JACKZ, LISAKEEKS, Tadi.wav
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*

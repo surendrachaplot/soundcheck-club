@@ -1,6 +1,6 @@
 # Handmade
 
-Handmade is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
+Handmade is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
 
 Handmade is a techno and house artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Fucine Vulcano, Milan on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Handmade is a techno and house artist based in Germany, with 109 gigs on soundch
 
 VCO, Madalba, Kingsizebed
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*

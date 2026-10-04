@@ -1,6 +1,6 @@
 # Tony Romera
 
-Tony Romera is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 14 Nov 2026.
+Tony Romera is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 14 Nov 2026.
 
 Tony Romera is a house and tech house artist based in France, with 33 gigs on soundcheck across Austin, Boston, Chicago and Cologne and 15 more. Often billed alongside Crusy, CASSIMM and LOVRA. Next up: The Comfort Zone, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tony Romera is a house and tech house artist based in France, with 33 gigs on so
 
 Crusy, CASSIMM, LOVRA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyromera/)*

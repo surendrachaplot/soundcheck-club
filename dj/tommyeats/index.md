@@ -1,6 +1,6 @@
 # Tommy Eats
 
-Tommy Eats is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 19 Dec 2026.
+Tommy Eats is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 19 Dec 2026.
 
 Tommy Eats is a house and garage artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside JDM, 020silver and Bluetoof. Next up: Mezzanine - Tooting, London on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Tommy Eats is a house and garage artist based in United Kingdom, with 7 gigs on 
 
 JDM, 020silver, Bluetoof
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyeats/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyeats/)*

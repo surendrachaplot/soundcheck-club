@@ -1,6 +1,6 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
+Scythe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MFCC Arena, Malta on Fri, 4 Dec 2026.
 
 Scythe is a techno and trance artist based in Malta, with 43 gigs on soundcheck across Berlin, Budapest, London and Malta and 1 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: MFCC Arena, Malta on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Scythe is a techno and trance artist based in Malta, with 43 gigs on soundcheck 
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

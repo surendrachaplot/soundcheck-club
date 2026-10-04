@@ -1,6 +1,6 @@
 # Joachim Pastor
 
-Joachim Pastor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at D! Club, Lausanne on Fri, 20 Nov 2026.
+Joachim Pastor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at D! Club, Lausanne on Fri, 20 Nov 2026.
 
 Joachim Pastor is a techno and house artist based in France, with 60 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Joris Delacroix, Teho and NTO. Next up: D! Club, Lausanne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Joachim Pastor is a techno and house artist based in France, with 60 gigs on sou
 
 Joris Delacroix, Teho, NTO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimpastor/)*

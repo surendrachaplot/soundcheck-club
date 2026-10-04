@@ -1,6 +1,6 @@
 # Quai de Scène
 
-Quai de Scène is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "HAPPSY AUTUMN 2026" on Sat, 3 Oct 2026.
+Quai de Scène is a music venue in Strasbourg with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "HAPPSY AUTUMN 2026" on Sat, 3 Oct 2026.
 
 Quai de Scène is a music venue in Strasbourg listed on soundcheck. 1 upcoming gig, with line-ups including GREMMLiNS. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Quai de Scène is a music venue in Strasbourg listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | HAPPSY AUTUMN 2026 | GREMMLiNS |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*

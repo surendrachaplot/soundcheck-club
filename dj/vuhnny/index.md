@@ -1,6 +1,6 @@
 # VUHNNY
 
-VUHNNY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
+VUHNNY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
 
 VUHNNY is a techno and bass artist, with 23 gigs on soundcheck across Toronto. Often billed alongside TRINIDADDY, 'PAVV' and Shaingel. Next up: TBA - 1215 Bloor St. West, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ VUHNNY is a techno and bass artist, with 23 gigs on soundcheck across Toronto. O
 
 TRINIDADDY, 'PAVV', Shaingel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vuhnny/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vuhnny/)*

@@ -1,6 +1,6 @@
 # Serrato
 
-Serrato is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
+Serrato is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
 
 Serrato is a trance and techno artist based in Spain, with 14 gigs on soundcheck across Berlin, Madrid and Mexico City. Often billed alongside ATYCO, ABAD MANNERS and Adriana Roma. Next up: EL SÓTANO, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Serrato is a trance and techno artist based in Spain, with 14 gigs on soundcheck
 
 ATYCO, ABAD MANNERS, Adriana Roma
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serrato/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serrato/)*

@@ -1,6 +1,6 @@
 # N Fostell
 
-N Fostell is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+N Fostell is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
 N Fostell is an afro house and house artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside Shenin Amara, Beezo and DJ Majesty. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ N Fostell is an afro house and house artist based in United Kingdom, with 14 gig
 
 Shenin Amara, Beezo, DJ Majesty
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*

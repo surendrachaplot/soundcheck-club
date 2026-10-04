@@ -1,6 +1,6 @@
 # Kamran Sadeghi
 
-Kamran Sadeghi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
+Kamran Sadeghi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
 
 Kamran Sadeghi is an experimental and techno artist, with 48 gigs on soundcheck across Detroit, Kuala Lumpur, New York City and Portland and 2 more. Often billed alongside Julia Govor, Løt.te and Debit. Next up: TBA - Secret Broklyn Loft Location , New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kamran Sadeghi is an experimental and techno artist, with 48 gigs on soundcheck 
 
 Julia Govor, Løt.te, Debit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamransadeghi-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamransadeghi-us/)*

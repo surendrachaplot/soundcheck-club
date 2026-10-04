@@ -1,6 +1,6 @@
 # Tear of Joy
 
-Tear of Joy is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
+Tear of Joy is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
 
 Tear of Joy is a techno and progressive house artist based in United Kingdom, with 34 gigs on soundcheck across Budapest and London. Often billed alongside Nic Cammelli, STRAY SON and LUNÄTICO (IT). Next up: St Ethelburga's Centre for Reconciliation and Peace, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tear of Joy is a techno and progressive house artist based in United Kingdom, wi
 
 Nic Cammelli, STRAY SON, LUNÄTICO (IT)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tearofjoy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tearofjoy/)*

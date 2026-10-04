@@ -1,6 +1,6 @@
 # karete bu
 
-karete bu is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery, Leipzig on Sat, 3 Oct 2026.
+karete bu is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 karete bu is a house and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside fr. JPLA, Jessamine and V:SONNTAG. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ karete bu is a house and techno artist based in Germany, with 90 gigs on soundch
 
 ## Recently played
 
+- Distillery, Leipzig · Sat, 3 Oct 2026
 - Bassiani, Tbilisi · Fri, 25 Sept 2026
 - Kater, Berlin · Fri, 21 Aug 2026
 - frachtkante, Berlin · Sat, 1 Aug 2026
@@ -24,10 +25,9 @@ karete bu is a house and techno artist based in Germany, with 90 gigs on soundch
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 - ://about blank, Berlin · Sat, 20 Jun 2026
 - Flughafen Tegel, Berlin · Sat, 6 Jun 2026
-- Südpol, Hamburg · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 fr. JPLA, Jessamine, V:SONNTAG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*

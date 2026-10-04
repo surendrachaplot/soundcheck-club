@@ -1,6 +1,6 @@
 # Zakes Bantwini
 
-Zakes Bantwini is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zumana Bali, Bali on Sat, 10 Oct 2026.
+Zakes Bantwini is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zumana Bali, Bali on Sat, 10 Oct 2026.
 
 Zakes Bantwini is an afro house and afro tech artist based in South Africa, with 11 gigs on soundcheck across Amsterdam, Bali, London and Mexico City and 2 more. Often billed alongside Kususa, Alexandthere and Andro. Next up: Zumana Bali, Bali on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Zakes Bantwini is an afro house and afro tech artist based in South Africa, with
 
 Kususa, Alexandthere, Andro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*

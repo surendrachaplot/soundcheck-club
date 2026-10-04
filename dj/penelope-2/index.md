@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Sat, 10 Oct 2026.
+Penelope (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The DBA, Manchester on Sat, 10 Oct 2026.
 
 Penelope is a house and techno artist based in France, with 132 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: The DBA, Manchester on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Penelope is a house and techno artist based in France, with 132 gigs on soundche
 
 Mari.te, Walrus, DJ Rino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

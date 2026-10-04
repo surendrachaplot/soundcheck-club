@@ -1,6 +1,6 @@
 # Aliien Giirl
 
-Aliien Giirl is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
+Aliien Giirl is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
 
 Aliien Giirl is a techno and reggaeton artist based in Mexico, with 12 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Fuckboyzo and Magnolia Coronado. Next up: CHICO, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aliien Giirl is a techno and reggaeton artist based in Mexico, with 12 gigs on s
 
 Bluecommand, Fuckboyzo, Magnolia Coronado
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliiengiirl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliiengiirl/)*

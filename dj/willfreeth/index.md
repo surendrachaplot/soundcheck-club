@@ -1,6 +1,6 @@
 # Will Freeth
 
-Will Freeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Will Freeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Will Freeth is a house and techno artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Mozz, Caleb Jackson and DAUG. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Will Freeth is a house and techno artist based in Australia, with 11 gigs on sou
 
 ## Recently played
 
+- TBA - 2.5 Hours from Sydney, Sydney · Sat, 3 Oct 2026
 - The Lass O'Gowrie Hotel, Sydney · Sat, 18 Apr 2026
 - TBA - 2.5hrs north from Sydney, Sydney · Fri, 12 Dec 2025
 - Home The Venue, Sydney · Sat, 29 Nov 2025
@@ -19,10 +20,9 @@ Will Freeth is a house and techno artist based in Australia, with 11 gigs on sou
 - Chinese Laundry, Sydney · Sat, 1 Feb 2025
 - The Lass O'Gowrie Hotel, Sydney · Sat, 11 Jan 2025
 - King Street Hotel - Newcastle, Sydney · Fri, 8 Mar 2024
-- Shades, Sydney · Sat, 17 Jun 2023
 
 ## Shares bills with
 
 Mozz, Caleb Jackson, DAUG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*

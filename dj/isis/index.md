@@ -1,6 +1,6 @@
 # ISIS
 
-ISIS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+ISIS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 ISIS is a techno and house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Hamburg and 2 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Kaap Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ ISIS is a techno and house artist based in Netherlands, with 35 gigs on soundche
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isis/)*

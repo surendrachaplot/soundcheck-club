@@ -1,6 +1,6 @@
 # Sunnysoposted
 
-Sunnysoposted is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+Sunnysoposted is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 Sunnysoposted is a house and ghetto tech artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside Flansie, Ansjowvis and Franky Sticks. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sunnysoposted is a house and ghetto tech artist based in Netherlands, with 17 gi
 
 Flansie, Ansjowvis, Franky Sticks
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysoposted/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysoposted/)*

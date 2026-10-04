@@ -1,6 +1,6 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 27 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "EHFM Club Night" on Sat, 3 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "EHFM Club Night" on Sat, 3 Oct 2026.
 
 Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 27 upcoming gigs, with line-ups including ACHIRĀ, BORLEY, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 27 upcoming gi
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

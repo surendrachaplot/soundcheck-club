@@ -1,6 +1,6 @@
 # Kuff
 
-Kuff is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
+Kuff is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
 
 Kuff is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Austin, Chicago, Los Angeles and Miami and 1 more. Often billed alongside Almela, FI-LO and Jessy Nimni. Next up: Superior Ingredients, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Kuff is a house and tech house artist based in Spain, with 11 gigs on soundcheck
 
 Almela, FI-LO, Jessy Nimni
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuff/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuff/)*

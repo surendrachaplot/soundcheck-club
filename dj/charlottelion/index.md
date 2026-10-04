@@ -1,6 +1,6 @@
 # Charlotte Lion
 
-Charlotte Lion is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Neuköln, Berlin on Thu, 8 Oct 2026.
+Charlotte Lion is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Neuköln, Berlin on Thu, 8 Oct 2026.
 
 Charlotte Lion is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Hamburg, Ibiza and Leipzig. Often billed alongside maniaclina, KETA PERRY and Stuckeyrella. Next up: TBA - Neuköln, Berlin on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Charlotte Lion is a techno and trance artist based in Germany, with 21 gigs on s
 
 maniaclina, KETA PERRY, Stuckeyrella
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*

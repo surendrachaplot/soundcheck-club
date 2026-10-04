@@ -1,6 +1,6 @@
 # Wodda
 
-Wodda is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stealth, Nottingham on Fri, 9 Oct 2026.
+Wodda is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Stealth, Nottingham on Fri, 9 Oct 2026.
 
 Wodda is a house and garage artist based in United Kingdom, with 61 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: Stealth, Nottingham on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Wodda is a house and garage artist based in United Kingdom, with 61 gigs on soun
 
 Locky, Just Jam, ADMNTi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*

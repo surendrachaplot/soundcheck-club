@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Teletech Leeds" on Sat, 3 Oct 2026.
+The Warehouse is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Teletech Leeds" on Sat, 3 Oct 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including ATRIP, Charlotte Ord, Chopper (UK) and Clouds and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -22,4 +22,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

@@ -1,6 +1,6 @@
 # 96 Back
 
-96 Back is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+96 Back is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 96 Back is a techno and experimental artist based in United Kingdom, with 50 gigs on soundcheck across Berlin, Bristol, Brussels and Edinburgh and 12 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -27,4 +27,4 @@
 
 aya, Jennifer Walton, MYNA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*

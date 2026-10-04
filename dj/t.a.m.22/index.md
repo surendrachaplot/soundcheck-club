@@ -1,6 +1,6 @@
 # T.A.M.22
 
-T.A.M.22 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
+T.A.M.22 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
 
 T.A.M.22 is a techno and electro artist based in Belgium, with 16 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside Davy, Mogus and Annechoic. Next up: Paramour, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ T.A.M.22 is a techno and electro artist based in Belgium, with 16 gigs on soundc
 
 Davy, Mogus, Annechoic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.a.m.22/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.a.m.22/)*

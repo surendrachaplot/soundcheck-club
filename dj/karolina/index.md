@@ -1,6 +1,6 @@
 # KAROLINA
 
-KAROLINA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at PRST, Vienna on Sat, 24 Oct 2026.
+KAROLINA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PRST, Vienna on Sat, 24 Oct 2026.
 
 KAROLINA is a techno and house artist based in Poland, with 57 gigs on soundcheck across Berlin, Lisbon, Munich and Vienna. Often billed alongside FX-31, GEN97 and KRAWALLBARBIE. Next up: PRST, Vienna on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ KAROLINA is a techno and house artist based in Poland, with 57 gigs on soundchec
 
 FX-31, GEN97, KRAWALLBARBIE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*

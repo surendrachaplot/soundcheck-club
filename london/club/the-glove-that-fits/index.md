@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee" on Sat, 3 Oct 2026.
+The Glove That Fits is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ill Fitted w/ Ruby Savage & Hudson's Choice b2b Conrad Lee" on Sat, 3 Oct 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 20 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

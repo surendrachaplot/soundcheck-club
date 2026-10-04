@@ -1,6 +1,6 @@
 # Andreas Rauscher
 
-Andreas Rauscher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Andreas Rauscher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Andreas Rauscher is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin and Cologne. Often billed alongside Bonnie Ford, Coco and Empro. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Andreas Rauscher is a techno and house artist based in Germany, with 15 gigs on 
 
 Bonnie Ford, Coco, Empro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasrauscher/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasrauscher/)*

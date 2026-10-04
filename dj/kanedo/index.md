@@ -1,6 +1,6 @@
 # Kanedo
 
-Kanedo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 4 Oct 2026.
+Kanedo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Kanedo is a house and deep house artist based in Spain, with 128 gigs on soundcheck across Athens, Barcelona, Ibiza and London and 1 more. Often billed alongside Viktor Olle, Naommi and Michael Sutton. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Kanedo is a house and deep house artist based in Spain, with 128 gigs on soundch
 
 Viktor Olle, Naommi, Michael Sutton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanedo/)*

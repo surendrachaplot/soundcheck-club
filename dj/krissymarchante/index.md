@@ -1,6 +1,6 @@
 # Krissy Marchante
 
-Krissy Marchante is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
+Krissy Marchante is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
 
 Krissy Marchante is a club and baile funk artist based in United States of America, with 15 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside baby.com, BL4ZE and T3KNO. Next up: TBA - 818-724-7836, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Krissy Marchante is a club and baile funk artist based in United States of Ameri
 
 baby.com, BL4ZE, T3KNO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*

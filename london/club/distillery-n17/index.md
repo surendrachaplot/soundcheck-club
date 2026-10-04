@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SAD" on Sat, 3 Oct 2026.
+Distillery N17 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SAD" on Sat, 3 Oct 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Pits, Adrien Calvet, Alba Heidari and Amotik and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming gigs
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sat, 10 Oct 2026.
+Patrick Topping is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrik, Madrid on Sat, 10 Oct 2026.
 
 Patrick Topping is a tech house and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 43 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Fabrik, Madrid on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Patrick Topping is a tech house and house artist based in United Kingdom, with 1
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

@@ -1,6 +1,6 @@
 # Kuuma
 
-Kuuma is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
+Kuuma is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Detroit on Fri, 9 Oct 2026.
 
 Kuuma is a techno and experimental artist based in United States of America, with 33 gigs on soundcheck across Detroit and Toronto. Often billed alongside RETCON, Seanni B and OMO (US). Next up: TBA - Secret Location, Detroit on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kuuma is a techno and experimental artist based in United States of America, wit
 
 RETCON, Seanni B, OMO (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*

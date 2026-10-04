@@ -1,6 +1,6 @@
 # yodel
 
-yodel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
+yodel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spread, Tokyo on Mon, 12 Oct 2026.
 
 yodel is a techno and house artist based in Japan, with 31 gigs on soundcheck across Amsterdam, Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, E.O.U and AKIRAM EN. Next up: Spread, Tokyo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ yodel is a techno and house artist based in Japan, with 31 gigs on soundcheck ac
 
 YELLOWUHURU, E.O.U, AKIRAM EN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yodel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yodel/)*

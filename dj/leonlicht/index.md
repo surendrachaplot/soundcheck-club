@@ -1,6 +1,6 @@
 # Leon Licht
 
-Leon Licht is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+Leon Licht is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
 
 Leon Licht is a techno and house artist based in Germany, with 208 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: Hoppetosse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Leon Licht is a techno and house artist based in Germany, with 208 gigs on sound
 
 Kaufmann, ADAMN, Memo.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*

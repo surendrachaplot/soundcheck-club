@@ -1,6 +1,6 @@
 # kluntje
 
-kluntje is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+kluntje is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
 kluntje is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside BERKAN, Horst Haller and Judith van Waterkant. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ kluntje is a house and techno artist based in Germany, with 32 gigs on soundchec
 
 ## Recently played
 
+- Jonny Knüppel, Berlin · Sat, 3 Oct 2026
 - ://about blank, Berlin · Sat, 19 Sept 2026
 - TBA - Selfkant, Cologne · Sat, 25 Jul 2026
 - ://about blank, Berlin · Fri, 19 Jun 2026
@@ -20,10 +21,9 @@ kluntje is a house and techno artist based in Germany, with 32 gigs on soundchec
 - Tausend, Berlin · Sat, 16 May 2026
 - ://about blank, Berlin · Fri, 24 Apr 2026
 - Golden Gate, Berlin · Fri, 17 Apr 2026
-- TBA - Lighthouse at the lake, Berlin · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 BERKAN, Horst Haller, Judith van Waterkant
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kluntje/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kluntje/)*

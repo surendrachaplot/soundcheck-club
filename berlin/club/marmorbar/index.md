@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LaPuta Records: Nasty House All Night Long" on Fri, 9 Oct 2026.
+Marmorbar is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LaPuta Records: Nasty House All Night Long" on Fri, 9 Oct 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including CBR (Berlin), Culo Sucio, Daniel Jaramillo and DAZA and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -21,4 +21,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

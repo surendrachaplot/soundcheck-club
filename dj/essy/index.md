@@ -1,6 +1,6 @@
 # Essy
 
-Essy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+Essy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 Essy is a house and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Madrid, Malta and Netherlands and 3 more. Often billed alongside Lucky Done Gone, Moody Mehran and Moxes. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Essy is a house and techno artist based in Netherlands, with 67 gigs on soundche
 
 Lucky Done Gone, Moody Mehran, Moxes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essy/)*

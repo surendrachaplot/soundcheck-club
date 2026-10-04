@@ -1,6 +1,6 @@
 # Fiona Zanetti
 
-Fiona Zanetti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+Fiona Zanetti is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 Fiona Zanetti is a house and techno artist based in Switzerland, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Simone de Kunovich, Gerd Janson and Helena Lauwaert. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Fiona Zanetti is a house and techno artist based in Switzerland, with 62 gigs on
 
 Simone de Kunovich, Gerd Janson, Helena Lauwaert
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*

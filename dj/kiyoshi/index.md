@@ -1,6 +1,6 @@
 # Kiyoshi
 
-Kiyoshi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
+Kiyoshi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Green Room NYC, New York City on Fri, 9 Oct 2026.
 
 Kiyoshi is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Los Angeles, New York City, Osaka and Tbilisi and 2 more. Often billed alongside Chuwee, Armii1n and Gui Machado. Next up: Green Room NYC, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Kiyoshi is a house and techno artist based in United States of America, with 112
 
 Chuwee, Armii1n, Gui Machado
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*

@@ -1,6 +1,6 @@
 # Johana Jost
 
-Johana Jost is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
+Johana Jost is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
 
 Johana Jost is a house and techno artist based in Germany, with 40 gigs on soundcheck across Berlin. Often billed alongside Brahmski, Ady Toledano and Alain Gertrand. Next up: Renate, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Johana Jost is a house and techno artist based in Germany, with 40 gigs on sound
 
 Brahmski, Ady Toledano, Alain Gertrand
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johanajost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johanajost/)*

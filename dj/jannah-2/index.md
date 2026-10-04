@@ -1,6 +1,6 @@
 # jannah
 
-jannah is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
+jannah is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
 
 jannah is a techno and electro artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: Hito Scheveningen, The Hague on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ jannah is a techno and electro artist based in Netherlands, with 66 gigs on soun
 
 David Vunk, Serge, Afra
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*

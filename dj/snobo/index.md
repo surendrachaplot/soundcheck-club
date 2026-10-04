@@ -1,6 +1,6 @@
 # Snobo
 
-Snobo is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZUBAR, Tokyo on Sat, 31 Oct 2026.
+Snobo is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ZUBAR, Tokyo on Sat, 31 Oct 2026.
 
 Snobo is a bass and techno artist, with 20 gigs on soundcheck across Tokyo. Often billed alongside --- mr ---, Oshi and Aki Dolanikov. Next up: ZUBAR, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Snobo is a bass and techno artist, with 20 gigs on soundcheck across Tokyo. Ofte
 
 --- mr ---, Oshi, Aki Dolanikov
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo/)*

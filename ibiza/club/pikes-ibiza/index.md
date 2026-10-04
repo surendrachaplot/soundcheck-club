@@ -1,6 +1,6 @@
 # Pikes Ibiza
 
-Pikes Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sundays at Pikes" on Sun, 4 Oct 2026.
+Pikes Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sundays at Pikes" on Sun, 4 Oct 2026.
 
 Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Bart Ricardo, begin, Chez Damier and Dave Seaman and 2 more. See dates, start times and who's playing. Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España.
 
@@ -17,4 +17,4 @@ Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, wit
 
 Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España, Ibiza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*

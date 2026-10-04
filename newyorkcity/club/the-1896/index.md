@@ -1,6 +1,6 @@
 # The 1896
 
-The 1896 is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "eZo Festival Showcase | New York" on Sat, 17 Oct 2026.
+The 1896 is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "eZo Festival Showcase | New York" on Sat, 17 Oct 2026.
 
 The 1896 is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Boo Williams, Gabunia, Generali Minerali and Rati and 2 more. See dates, start times and who's playing. 592 Johnson Ave Brooklyn, NY 11237.
 
@@ -15,4 +15,4 @@ The 1896 is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 592 Johnson Ave Brooklyn, NY 11237, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-1896/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-1896/)*

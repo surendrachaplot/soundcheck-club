@@ -1,6 +1,6 @@
 # Josefina Tapia (2)
 
-Josefina Tapia (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
+Josefina Tapia (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
 
 Josefina Tapia is a house and electro artist based in Chile, with 38 gigs on soundcheck across Berlin, Brussels, Budapest and Copenhagen and 3 more. Often billed alongside Nils Ohrmann, Clemente (DE) and Felipe Valenzuela. Next up: Culture Box, Copenhagen on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Josefina Tapia is a house and electro artist based in Chile, with 38 gigs on sou
 
 ## Recently played
 
+- Culture Box, Copenhagen · Sat, 3 Oct 2026
 - Jalousy, Brussels · Fri, 11 Sept 2026
 - TBA - Secret Location, Berlin · Sat, 5 Sept 2026
 - arkaoda Berlin, Berlin · Thu, 27 Aug 2026
@@ -19,10 +20,9 @@ Josefina Tapia is a house and electro artist based in Chile, with 38 gigs on sou
 - Club der Visionaere, Berlin · Thu, 6 Aug 2026
 - Club der Visionaere, Berlin · Fri, 19 Jun 2026
 - TBA - Secret location in Moabit, Berlin · Sat, 2 May 2026
-- Kater, Berlin · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Nils Ohrmann, Clemente (DE), Felipe Valenzuela
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*

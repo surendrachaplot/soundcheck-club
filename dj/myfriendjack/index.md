@@ -1,6 +1,6 @@
 # My Friend Jack
 
-My Friend Jack is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Showtime Lounge, Washington DC on Sun, 11 Oct 2026.
+My Friend Jack is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Showtime Lounge, Washington DC on Sun, 11 Oct 2026.
 
 My Friend Jack is a disco and house artist based in United States of America, with 19 gigs on soundcheck across Washington DC. Often billed alongside renai, Dave from Stoke and Kenny M. Next up: Showtime Lounge, Washington DC on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ My Friend Jack is a disco and house artist based in United States of America, wi
 
 renai, Dave from Stoke, Kenny M
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriendjack/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriendjack/)*

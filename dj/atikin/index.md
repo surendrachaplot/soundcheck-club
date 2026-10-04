@@ -1,6 +1,6 @@
 # ATIKIN
 
-ATIKIN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+ATIKIN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 ATIKIN is a tech house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Fuunkt, 3ple Kix and Dean (UK). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ATIKIN is a tech house and techno artist based in Germany, with 10 gigs on sound
 
 Fuunkt, 3ple Kix, Dean (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atikin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atikin/)*

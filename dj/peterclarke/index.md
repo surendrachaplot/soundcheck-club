@@ -1,6 +1,6 @@
 # Peter Clarke
 
-Peter Clarke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+Peter Clarke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 Peter Clarke is a techno and house artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Steve Fabus, Zita Molnar and Jordan. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Peter Clarke is a techno and house artist based in United States of America, wit
 
 Steve Fabus, Zita Molnar, Jordan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterclarke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterclarke/)*

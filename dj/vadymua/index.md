@@ -1,6 +1,6 @@
 # Vadym [UA]
 
-Vadym [UA] is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Desterro, Lisbon on Thu, 22 Oct 2026.
+Vadym [UA] is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Desterro, Lisbon on Thu, 22 Oct 2026.
 
 Vadym [UA] is a techno and acid artist based in Ukraine, with 6 gigs on soundcheck across Lisbon. Often billed alongside João Melgueira, ARCHON and Ana Dimco. Next up: Desterro, Lisbon on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Vadym [UA] is a techno and acid artist based in Ukraine, with 6 gigs on soundche
 
 João Melgueira, ARCHON, Ana Dimco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vadymua/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vadymua/)*

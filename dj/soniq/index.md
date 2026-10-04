@@ -1,6 +1,6 @@
 # Soniq
 
-Soniq is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gretchen, Berlin on Sat, 14 Nov 2026.
+Soniq is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gretchen, Berlin on Sat, 14 Nov 2026.
 
 Soniq is a drum & bass and techno artist based in Germany, with 41 gigs on soundcheck across Berlin. Often billed alongside Upzet, Aynaet and Mc Jamie White. Next up: Gretchen, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Soniq is a drum & bass and techno artist based in Germany, with 41 gigs on sound
 
 Upzet, Aynaet, Mc Jamie White
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniq/)*

@@ -1,6 +1,6 @@
 # Amygdala
 
-Amygdala is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lakota, Bristol on Sun, 4 Oct 2026.
+Amygdala is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lakota, Bristol on Sun, 4 Oct 2026.
 
 Amygdala is a techno and hardcore artist based in Italy, with 32 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Mandragora, sellyourmania and 999999999. Next up: Lakota, Bristol on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Amygdala is a techno and hardcore artist based in Italy, with 32 gigs on soundch
 
 Mandragora, sellyourmania, 999999999
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*

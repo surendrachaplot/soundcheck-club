@@ -1,6 +1,6 @@
 # DJ Buona Sara
 
-DJ Buona Sara is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+DJ Buona Sara is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
 DJ Buona Sara is a techno and hip-hop artist based in Germany, with 31 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Lenny Fuck, S.3000 and DJ-Ween. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Buona Sara is a techno and hip-hop artist based in Germany, with 31 gigs on s
 
 Lenny Fuck, S.3000, DJ-Ween
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*

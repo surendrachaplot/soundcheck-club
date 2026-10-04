@@ -1,6 +1,6 @@
 # Dan Lo
 
-Dan Lo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+Dan Lo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
 Dan Lo is a house and techno artist, with 5 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and London and 1 more. Often billed alongside Al Wootton, Gonno and Harry James. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Dan Lo is a house and techno artist, with 5 gigs on soundcheck across Bangkok, H
 
 Al Wootton, Gonno, Harry James
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danlo-cy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danlo-cy/)*

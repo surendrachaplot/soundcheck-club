@@ -1,6 +1,6 @@
 # Clara Spagnuolo
 
-Clara Spagnuolo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sorgiva Village, Milan on Sun, 11 Oct 2026.
+Clara Spagnuolo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sorgiva Village, Milan on Sun, 11 Oct 2026.
 
 Clara Spagnuolo is a techno and electro artist based in Italy, with 5 gigs on soundcheck across Milan. Often billed alongside AIN'T GEORGE, BEPPE BRANDO and Emmef. Next up: Sorgiva Village, Milan on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Clara Spagnuolo is a techno and electro artist based in Italy, with 5 gigs on so
 
 AIN'T GEORGE, BEPPE BRANDO, Emmef
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claraspagnuolo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claraspagnuolo/)*

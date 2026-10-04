@@ -1,6 +1,6 @@
 # YEPIK
 
-YEPIK is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+YEPIK is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 YEPIK is a house and tech house artist based in Ukraine, with 7 gigs on soundcheck across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, Artur Bredo and ZARE. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ YEPIK is a house and tech house artist based in Ukraine, with 7 gigs on soundche
 
 Alice DiMar, Artur Bredo, ZARE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*

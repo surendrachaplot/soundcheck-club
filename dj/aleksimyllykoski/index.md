@@ -1,6 +1,6 @@
 # Aleksi Myllykoski
 
-Aleksi Myllykoski is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+Aleksi Myllykoski is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
 Aleksi Myllykoski is a house and balearic artist based in Finland, with 26 gigs on soundcheck across Helsinki. Often billed alongside MihuT, Carlina Carpelan and Roberto Rodriguez. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Aleksi Myllykoski is a house and balearic artist based in Finland, with 26 gigs 
 
 MihuT, Carlina Carpelan, Roberto Rodriguez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksimyllykoski/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksimyllykoski/)*

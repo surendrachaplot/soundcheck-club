@@ -1,6 +1,6 @@
 # Pole
 
-Pole is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Auditorium San Fedele, Milan on Mon, 14 Dec 2026.
+Pole is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Auditorium San Fedele, Milan on Mon, 14 Dec 2026.
 
 Pole is a bass and techno artist based in Germany, with 13 gigs on soundcheck across Berlin, Brighton, London and Malta and 3 more. Often billed alongside Andrea, Ayesha and JakoJako. Next up: Auditorium San Fedele, Milan on Mon 14 Dec.
 
@@ -25,4 +25,4 @@ Pole is a bass and techno artist based in Germany, with 13 gigs on soundcheck ac
 
 Andrea, Ayesha, JakoJako
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pole/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pole/)*

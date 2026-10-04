@@ -1,6 +1,6 @@
 # SIA MOAN
 
-SIA MOAN is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Martin-Luther-Kirche, Dresden on Sun, 8 Nov 2026.
+SIA MOAN is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Martin-Luther-Kirche, Dresden on Sun, 8 Nov 2026.
 
 SIA MOAN is an electronic artist, with 19 gigs on soundcheck across Dresden and Vienna. Often billed alongside Joule, Nugi and Kollektiv Sheesh. Next up: Martin-Luther-Kirche, Dresden on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ SIA MOAN is an electronic artist, with 19 gigs on soundcheck across Dresden and 
 
 Joule, Nugi, Kollektiv Sheesh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siamoan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siamoan/)*

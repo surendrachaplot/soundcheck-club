@@ -1,6 +1,6 @@
 # Zancudo Berraco
 
-Zancudo Berraco is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Zancudo Berraco is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 Zancudo Berraco is an ambient and techno artist, with 10 gigs on soundcheck across Austria, Bristol, Lisbon and London and 1 more. Often billed alongside 420@ôa, Agonis and Aircode. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Zancudo Berraco is an ambient and techno artist, with 10 gigs on soundcheck acro
 
 420@ôa, Agonis, Aircode
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zancudoberraco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zancudoberraco/)*

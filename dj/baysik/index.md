@@ -1,6 +1,6 @@
 # Baysik
 
-Baysik is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 3 Oct 2026.
+Baysik is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Baysik is a house and hip-hop artist, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Guapi, AMP and An Dy. Next up: El Rio, San Francisco/Oakland on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Baysik is a house and hip-hop artist, with 10 gigs on soundcheck across San Fran
 
 ## Recently played
 
+- El Rio, San Francisco/Oakland · Sat, 3 Oct 2026
 - DNA Lounge, San Francisco/Oakland · Fri, 8 Aug 2025
 - El Rio, San Francisco/Oakland · Sat, 2 Aug 2025
 - The Midway, San Francisco/Oakland · Thu, 15 May 2025
@@ -19,10 +20,9 @@ Baysik is a house and hip-hop artist, with 10 gigs on soundcheck across San Fran
 - Crybaby, San Francisco/Oakland · Sat, 29 Mar 2025
 - Kilowatt Bar, San Francisco/Oakland · Sat, 11 Jan 2025
 - The Knockout, San Francisco/Oakland · Sat, 21 Dec 2024
-- El Rio, San Francisco/Oakland · Sat, 6 Jan 2024
 
 ## Shares bills with
 
 Guapi, AMP (1), An Dy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baysik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baysik/)*

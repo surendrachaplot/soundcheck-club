@@ -1,14 +1,16 @@
 # Thomas Herb
 
-Thomas Herb is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pimpernel, Munich on Fri, 9 Oct 2026.
+Thomas Herb is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pimpernel, Munich on Fri, 9 Oct 2026.
 
-Thomas Herb is a house and electro artist based in Germany, with 98 gigs on soundcheck across Munich and Zurich. Often billed alongside Sonson, Kalabrese and Michael Reinboth. Next up: Pimpernel, Munich on Fri 9 Oct.
+Thomas Herb is a house and electro artist based in Germany, with 100 gigs on soundcheck across Munich and Zurich. Often billed alongside Sonson, Kalabrese and Mathias Schober. Next up: Pimpernel, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Pimpernel | Munich |
+| Fri, 23 Oct 2026 | Pimpernel | Munich |
+| Tue, 27 Oct 2026 | Pimpernel | Munich |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Thomas Herb is a house and electro artist based in Germany, with 98 gigs on soun
 
 ## Shares bills with
 
-Sonson, Kalabrese, Michael Reinboth
+Sonson, Kalabrese, Mathias Schober
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*

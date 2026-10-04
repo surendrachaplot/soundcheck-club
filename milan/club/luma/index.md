@@ -1,6 +1,6 @@
 # Luma
 
-Luma is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri" on Sat, 3 Oct 2026.
+Luma is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri" on Sat, 3 Oct 2026.
 
 Luma is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including DJ MELL G, L.F.T., Psycho Mind Transmission and Saverio Celestri. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Luma is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-u
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | MELL G, L.F.T, Psycho Mind Transmission, Saverio Celestri | DJ MELL G, L.F.T., Psycho Mind Transmission, Saverio Celestri |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/luma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/luma/)*

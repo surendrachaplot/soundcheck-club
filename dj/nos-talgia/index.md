@@ -1,6 +1,6 @@
 # NOS-talgia
 
-NOS-talgia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
+NOS-talgia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
 NOS-talgia is a techno and house artist based in Canada, with 18 gigs on soundcheck across Berlin, Chicago, Montreal and Toronto and 1 more. Often billed alongside Alister Johnson, Allterverse and Areeb Abbasi. Next up: Sensorium, Berlin on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ NOS-talgia is a techno and house artist based in Canada, with 18 gigs on soundch
 
 Alister Johnson, Allterverse, Areeb Abbasi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*

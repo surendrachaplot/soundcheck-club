@@ -1,6 +1,6 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 3 Oct 2026.
+DJ Godfather is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 3 Oct 2026.
 
 DJ Godfather is a techno and electro artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: 3oz Dive Club, San Diego on Sat 3 Oct.
 
@@ -19,6 +19,7 @@ DJ Godfather is a techno and electro artist based in United States of America, w
 
 ## Recently played
 
+- 3oz Dive Club, San Diego · Sat, 3 Oct 2026
 - TBA - Downtown LA, Los Angeles · Fri, 2 Oct 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - 3fifty Terrace, Detroit · Mon, 7 Sept 2026
@@ -26,10 +27,9 @@ DJ Godfather is a techno and electro artist based in United States of America, w
 - Lincoln Factory, Detroit · Fri, 28 Aug 2026
 - Sonnenraum, Berlin · Sun, 16 Aug 2026
 - Eventhuset, Stockholm · Sat, 15 Aug 2026
-- Karmen Camina, Strasbourg · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

@@ -1,6 +1,6 @@
 # Alexa Strange
 
-Alexa Strange is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - MICROCENTRO., Buenos Aires on Sat, 17 Oct 2026.
+Alexa Strange is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - MICROCENTRO., Buenos Aires on Sat, 17 Oct 2026.
 
 Alexa Strange is a techno and electronica artist based in Colombia, with 5 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Porto. Often billed alongside TheRipped, A.R.T. and Bardo. Next up: TBA - MICROCENTRO., Buenos Aires on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Alexa Strange is a techno and electronica artist based in Colombia, with 5 gigs 
 
 TheRipped, A.R.T., Bardo (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexastrange-/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexastrange-/)*

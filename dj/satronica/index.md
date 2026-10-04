@@ -1,6 +1,6 @@
 # satronica
 
-satronica is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+satronica is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 satronica is a techno and hardcore artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, New York City and Washington DC. Often billed alongside DJ Land Reform, Gabberbitch69 and DEMEN-TEK. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ satronica is a techno and hardcore artist based in United States of America, wit
 
 DJ Land Reform, Gabberbitch69, DEMEN-TEK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satronica/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satronica/)*

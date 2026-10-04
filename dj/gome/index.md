@@ -1,6 +1,6 @@
 # GOME
 
-GOME is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
+GOME is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
 
 GOME is a house and disco artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: Golden Pudel Club, Hamburg on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ GOME is a house and disco artist based in Germany, with 87 gigs on soundcheck ac
 
 LOVEFOXY, Cinthie, Jean Mauj
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*

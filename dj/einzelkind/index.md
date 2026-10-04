@@ -1,6 +1,6 @@
 # Arno aka Einzelkind
 
-Arno aka Einzelkind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Arno aka Einzelkind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Arno aka Einzelkind is a techno and house artist based in Germany, with 26 gigs on soundcheck across Barcelona, Berlin, Bucharest and Greece and 5 more. Often billed alongside Alexia, Cap and Eli Verveine. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Arno aka Einzelkind is a techno and house artist based in Germany, with 26 gigs 
 
 Alexia (2), Cap, Eli Verveine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einzelkind/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einzelkind/)*

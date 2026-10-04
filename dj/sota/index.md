@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+SOTA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 SOTA is a house and techno artist based in Japan, with 124 gigs on soundcheck across Antwerp, Auckland, Birmingham and Brisbane and 12 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ SOTA is a house and techno artist based in Japan, with 124 gigs on soundcheck ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

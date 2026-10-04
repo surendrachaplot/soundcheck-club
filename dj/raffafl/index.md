@@ -1,6 +1,6 @@
 # Raffa FL
 
-Raffa FL is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
+Raffa FL is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
 
 Raffa FL is a tech house and house artist based in Italy, with 6 gigs on soundcheck across Barcelona, Boston, Montreal and San Diego and 2 more. Often billed alongside Bag Raiders, Fran DC and Hugel. Next up: Tumbalong Park, Sydney on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Raffa FL is a tech house and house artist based in Italy, with 6 gigs on soundch
 
 Bag Raiders, Fran DC, Hugel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffafl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffafl/)*

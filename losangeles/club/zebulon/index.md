@@ -1,6 +1,6 @@
 # Zebulon
 
-Zebulon is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Horror Hi-Fi" on Sat, 24 Oct 2026.
+Zebulon is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Horror Hi-Fi" on Sat, 24 Oct 2026.
 
 Zebulon is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Alex Oxley and Roxanne Roll. See dates, start times and who's playing. 2478 Fletcher Drive, Los Angeles, CA 90039.
 
@@ -14,4 +14,4 @@ Zebulon is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, wi
 
 2478 Fletcher Drive, Los Angeles, CA 90039, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zebulon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zebulon/)*

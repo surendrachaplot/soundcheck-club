@@ -1,6 +1,6 @@
 # Oluwafemi
 
-Oluwafemi is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
+Oluwafemi is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
 
 Oluwafemi is a house and afro house artist based in United States of America, with 8 gigs on soundcheck across London and Philadelphia. Often billed alongside Ben Arsenal, DJ Dommis and Full Moon Fool. Next up: Distillery N17, London on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Oluwafemi is a house and afro house artist based in United States of America, wi
 
 Ben Arsenal, DJ Dommis, Full Moon Fool
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oluwafemi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oluwafemi/)*

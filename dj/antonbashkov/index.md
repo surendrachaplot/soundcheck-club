@@ -1,6 +1,6 @@
 # ANTON BASHKOV
 
-ANTON BASHKOV is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 6 Nov 2026.
+ANTON BASHKOV is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 6 Nov 2026.
 
 ANTON BASHKOV is a techno and tech house artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside BlanchEcho, HEATER and KILL 9 1. Next up: Geary Avenue Warehouse Project, Toronto on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ ANTON BASHKOV is a techno and tech house artist based in Canada, with 5 gigs on 
 
 BlanchEcho, HEATER, KILL 9 1
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonbashkov/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonbashkov/)*

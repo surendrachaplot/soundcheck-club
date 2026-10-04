@@ -1,6 +1,6 @@
 # Neon Wasabi
 
-Neon Wasabi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zeefgebouw, Netherlands on Sat, 19 Dec 2026.
+Neon Wasabi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zeefgebouw, Netherlands on Sat, 19 Dec 2026.
 
 Neon Wasabi is a trance and techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Netherlands and Utrecht. Often billed alongside Emmz, Jelte and Kara Okay. Next up: Zeefgebouw, Netherlands on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Neon Wasabi is a trance and techno artist based in Netherlands, with 7 gigs on s
 
 Emmz, Jelte, Kara Okay
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwasabi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwasabi/)*

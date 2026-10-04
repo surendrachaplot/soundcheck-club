@@ -1,6 +1,6 @@
 # claire rousay
 
-claire rousay is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at First Unitarian Church, Philadelphia on Sat, 7 Nov 2026.
+claire rousay is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at First Unitarian Church, Philadelphia on Sat, 7 Nov 2026.
 
 claire rousay is an experimental and ambient artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 20 more. Often billed alongside Heinali, Ami Dang and Andriana-Yaroslava Saienko. Next up: First Unitarian Church, Philadelphia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ claire rousay is an experimental and ambient artist based in United States of Am
 
 Heinali, Ami Dang, Andriana-Yaroslava Saienko
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clairerousay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clairerousay/)*

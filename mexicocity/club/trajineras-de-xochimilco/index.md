@@ -1,6 +1,6 @@
 # Trajineras de Xochimilco
 
-Trajineras de Xochimilco is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "COSMOS 10" on Sat, 3 Oct 2026.
+Trajineras de Xochimilco is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "COSMOS 10" on Sat, 3 Oct 2026.
 
 Trajineras de Xochimilco is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Trajineras de Xochimilco is a music venue in Mexico City listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | COSMOS 10 |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/trajineras-de-xochimilco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/trajineras-de-xochimilco/)*

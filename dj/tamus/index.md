@@ -1,6 +1,6 @@
 # Tamus
 
-Tamus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at renae, Manchester on Fri, 16 Oct 2026.
+Tamus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at renae, Manchester on Fri, 16 Oct 2026.
 
 Tamus is an experimental and techno artist, with 22 gigs on soundcheck across London and Manchester. Often billed alongside KD22LR, Medlock and Carrier. Next up: renae, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tamus is an experimental and techno artist, with 22 gigs on soundcheck across Lo
 
 KD22LR, Medlock, Carrier
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*

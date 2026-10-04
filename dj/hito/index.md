@@ -1,6 +1,6 @@
 # Hito
 
-Hito is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at CASABLANCA, Kansai on Sun, 4 Oct 2026.
+Hito is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at CASABLANCA, Kansai on Sun, 4 Oct 2026.
 
 Hito is a techno and tech house artist based in Japan, with 47 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Ibiza and 8 more. Often billed alongside Dub Tiger, Alex Bohemien and Artslaves. Next up: CASABLANCA, Kansai on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Hito is a techno and tech house artist based in Japan, with 47 gigs on soundchec
 
 Dub Tiger, Alex Bohemien, Artslaves
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*

@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Sat, 3 Oct 2026.
+Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Sat, 3 Oct 2026.
 
 Ale De Tuglie is a tech house and house artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bucharest and 19 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: YoYo - Palais de Tokyo, Paris on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Ale De Tuglie is a tech house and house artist based in Italy, with 78 gigs on s
 
 ## Recently played
 
+- YoYo - Palais de Tokyo, Paris · Sat, 3 Oct 2026
 - Pacha Ibiza, Ibiza · Fri, 4 Sept 2026
 - NIX Barcelon, Barcelona · Sun, 30 Aug 2026
 - Tapada da Ajuda, Lisbon · Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Ale De Tuglie is a tech house and house artist based in Italy, with 78 gigs on s
 - Hï Ibiza, Ibiza · Tue, 4 Aug 2026
 - Thuishaven, Amsterdam · Sun, 2 Aug 2026
 - Ministry Of Sound, London · Sat, 1 Aug 2026
-- Pacha Ibiza, Ibiza · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

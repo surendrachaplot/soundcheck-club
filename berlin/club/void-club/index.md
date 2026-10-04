@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NetWork with Fracture, J:Kenzo, LXC & Martsman" on Sat, 3 Oct 2026.
+Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "NetWork with Fracture, J:Kenzo, LXC & Martsman" on Sat, 3 Oct 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Agem, Allexandra, alllone and Babe Gorgeous and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

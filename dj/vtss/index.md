@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+VTSS is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 61 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -22,6 +22,7 @@ VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck a
 
 ## Recently played
 
+- Jasna 1, Warsaw · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Silencio, Paris · Fri, 2 Oct 2026
 - The Midway, San Francisco/Oakland · Sun, 27 Sept 2026
@@ -29,10 +30,9 @@ VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck a
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Boucher Road Fields, Belfast · Sat, 29 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Boys Noize, I Hate Models, Patrick Mason
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

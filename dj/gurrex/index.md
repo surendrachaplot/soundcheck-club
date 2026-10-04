@@ -1,6 +1,6 @@
 # Gurrex
 
-Gurrex is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
+Gurrex is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spook Club, Valencia on Fri, 9 Oct 2026.
 
 Gurrex is a house and afro house artist based in Spain, with 6 gigs on soundcheck across Madrid and Valencia. Often billed alongside Fes Bondat, alvar. and Clemente (ES). Next up: Spook Club, Valencia on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Gurrex is a house and afro house artist based in Spain, with 6 gigs on soundchec
 
 Fes Bondat, alvar., Clemente (ES)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurrex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurrex/)*

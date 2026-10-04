@@ -1,6 +1,6 @@
 # David Fogarty
 
-David Fogarty is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 10 Oct 2026.
+David Fogarty is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 10 Oct 2026.
 
 David Fogarty is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 12 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: Golden Pudel Club, Hamburg on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ David Fogarty is a techno and trance artist based in Germany, with 56 gigs on so
 
 Sound Metaphors Djs, Temple Rat, Alicia Carrera
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*

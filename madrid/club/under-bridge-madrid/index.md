@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Solava x (Promised) Wax ~ Under Bridge" on Sat, 3 Oct 2026.
+Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Solava x (Promised) Wax ~ Under Bridge" on Sat, 3 Oct 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Diego Merino, Giulia Mad, Jobe1811 and Palimpseste. See dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -15,4 +15,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

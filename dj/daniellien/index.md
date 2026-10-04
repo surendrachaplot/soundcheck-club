@@ -1,6 +1,6 @@
 # Daniel Lien
 
-Daniel Lien is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
+Daniel Lien is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
 
 Daniel Lien is a house and techno artist based in Sweden, with 26 gigs on soundcheck across Berlin, Lisbon and Stockholm. Often billed alongside Nico O'Konor, Elless & Benn and Flord King. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Daniel Lien is a house and techno artist based in Sweden, with 26 gigs on soundc
 
 Nico O'Konor, Elless & Benn, Flord King
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*

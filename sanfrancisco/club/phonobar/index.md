@@ -1,6 +1,6 @@
 # Phonobar
 
-Phonobar is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Spaced Out presents" on Fri, 20 Nov 2026.
+Phonobar is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spaced Out presents" on Fri, 20 Nov 2026.
 
 Phonobar is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Aaron F. See dates, start times and who's playing. 370 Grove Street.
 
@@ -14,4 +14,4 @@ Phonobar is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcom
 
 370 Grove Street, San Francisco/Oakland
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*

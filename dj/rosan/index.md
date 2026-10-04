@@ -1,6 +1,6 @@
 # Rosan
 
-Rosan is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
+Rosan is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
 
 Rosan is a techno and dub techno artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin and Munich. Often billed alongside Sarica, RIØ (DE) and DASH (SLO). Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Rosan is a techno and dub techno artist based in Germany, with 24 gigs on soundc
 
 Sarica, RIØ (DE), DASH (SLO)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosan/)*

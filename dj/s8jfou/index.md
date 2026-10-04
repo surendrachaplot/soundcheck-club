@@ -1,6 +1,6 @@
 # s8jfou
 
-s8jfou is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+s8jfou is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
 s8jfou is an ambient and acid artist, with 9 gigs on soundcheck across Chicago, Copenhagen, Nantes and Paris and 2 more. Often billed alongside Ekaliff, m50 and teemup. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ s8jfou is an ambient and acid artist, with 9 gigs on soundcheck across Chicago, 
 
 Ekaliff, m50, teemup
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*

@@ -1,6 +1,6 @@
 # scoodt
 
-scoodt is a Electro and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Handlebar, Toronto on Fri, 23 Oct 2026.
+scoodt is a Electro and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Handlebar, Toronto on Fri, 23 Oct 2026.
 
 scoodt is an electro and gabber artist based in Canada, with 6 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside esme2k, alecks and moodyjooly. Next up: Handlebar, Toronto on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ scoodt is an electro and gabber artist based in Canada, with 6 gigs on soundchec
 
 esme2k, alecks, moodyjooly
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoodt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoodt/)*

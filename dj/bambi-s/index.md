@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Bambi-S is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Bambi-S is a house and tech house artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Bambi-S is a house and tech house artist based in Germany, with 40 gigs on sound
 
 Stipo, Cristina Lazic, It's George!
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

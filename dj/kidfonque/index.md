@@ -1,6 +1,6 @@
 # Kid Fonque
 
-Kid Fonque is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bluesquare, Milan on Sat, 17 Oct 2026.
+Kid Fonque is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bluesquare, Milan on Sat, 17 Oct 2026.
 
 Kid Fonque is a house and afro house artist based in South Africa, with 20 gigs on soundcheck across Amsterdam, Glasgow, Ibiza and London and 4 more. Often billed alongside Sam Divine, Kitty Amor and Afronaut UK. Next up: Bluesquare, Milan on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kid Fonque is a house and afro house artist based in South Africa, with 20 gigs 
 
 Sam Divine, Kitty Amor, Afronaut UK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*

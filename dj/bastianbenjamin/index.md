@@ -1,6 +1,6 @@
 # Bastian Benjamin
 
-Bastian Benjamin is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+Bastian Benjamin is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
 
 Bastian Benjamin is an idm and electronica artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Prague and Rotterdam. Often billed alongside French II, Alberta Balsam and Malvae. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Bastian Benjamin is an idm and electronica artist based in Netherlands, with 12 
 
 French II, Alberta Balsam, Malvae
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbenjamin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbenjamin/)*

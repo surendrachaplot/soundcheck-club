@@ -1,6 +1,6 @@
 # The Office
 
-The Office is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+The Office is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
 The Office is a techno and house artist based in Germany, with 13 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Oliver Koletzki, Frida Darko and Kotoe. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ The Office is a techno and house artist based in Germany, with 13 gigs on soundc
 
 Oliver Koletzki, Frida Darko, Kotoe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoffice/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoffice/)*

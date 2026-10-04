@@ -1,6 +1,6 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Electric Studios, Sheffield on Sat, 3 Oct 2026.
+BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Electric Studios, Sheffield on Sat, 3 Oct 2026.
 
 BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 12 more. Often billed alongside Hedex, IC3 and Carasel. Next up: Electric Studios, Sheffield on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 62 g
 
 ## Recently played
 
+- Electric Studios, Sheffield · Sat, 3 Oct 2026
 - Mint XL, Leeds · Fri, 2 Oct 2026
 - Electric Studios, Sheffield · Sat, 19 Sept 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
@@ -22,10 +23,9 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, with 62 g
 - Tank, Sheffield · Sun, 19 Jul 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
 - Antwerp Expo, Antwerp · Fri, 17 Apr 2026
-- Tank, Sheffield · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Hedex, IC3, Carasel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

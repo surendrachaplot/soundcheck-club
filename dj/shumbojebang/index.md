@@ -1,6 +1,6 @@
 # Shumbo Jebang
 
-Shumbo Jebang is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Off The Square, Manchester on Sat, 10 Oct 2026.
+Shumbo Jebang is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Off The Square, Manchester on Sat, 10 Oct 2026.
 
 Shumbo Jebang is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Manchester. Often billed alongside Chael-UK, MAD Beats and Mat Matthews. Next up: Off The Square, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Shumbo Jebang is a house and tech house artist based in United Kingdom, with 14 
 
 Chael-UK, MAD Beats, Mat Matthews
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shumbojebang/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shumbojebang/)*

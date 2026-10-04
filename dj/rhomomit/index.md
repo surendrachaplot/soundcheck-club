@@ -1,6 +1,6 @@
 # Rhom Omit
 
-Rhom Omit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+Rhom Omit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 Rhom Omit is a house and techno artist based in Germany, with 27 gigs on soundcheck across Bangkok, Barcelona, Berlin and Prague and 1 more. Often billed alongside Cesare vs Disorder, Weg (DE) and Isaac Elejalde. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rhom Omit is a house and techno artist based in Germany, with 27 gigs on soundch
 
 Cesare vs Disorder, Weg (DE), Isaac Elejalde
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*

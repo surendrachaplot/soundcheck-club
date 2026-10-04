@@ -1,6 +1,6 @@
 # natebytheway
 
-natebytheway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Venue, Seattle on Fri, 30 Oct 2026.
+natebytheway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Private Venue, Seattle on Fri, 30 Oct 2026.
 
 natebytheway is a house and techno artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland and Seattle. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: TBA - Private Venue, Seattle on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ natebytheway is a house and techno artist based in United States of America, wit
 
 Phil Spank, Clancy Hickinbotham, Jimmy B
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*

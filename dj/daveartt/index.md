@@ -1,6 +1,6 @@
 # Daveartt
 
-Daveartt is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Viñedos Azteca, Quer-taro on Sat, 31 Oct 2026.
+Daveartt is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Viñedos Azteca, Quer-taro on Sat, 31 Oct 2026.
 
 Daveartt is a house and afro house artist, with 5 gigs on soundcheck across Mexico City and Quer Taro. Often billed alongside Efren Kairos, JOSH DIAZ and Jordy Medina. Next up: TBA - Viñedos Azteca, Quer Taro on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Daveartt is a house and afro house artist, with 5 gigs on soundcheck across Mexi
 
 Efren Kairos, JOSH DIAZ, Jordy Medina
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveartt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveartt/)*

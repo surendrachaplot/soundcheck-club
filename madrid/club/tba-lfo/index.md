@@ -1,6 +1,6 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "EN1GMACLUB" on Fri, 9 Oct 2026.
+TBA - LFO is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "EN1GMACLUB" on Fri, 9 Oct 2026.
 
 TBA - LFO is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Alinka, Alputo, Amphia and Anso and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - LFO is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with
 | Sat, 31 Oct 2026 | Halloween Extended Tricks by Quinoa, 99PN, Wonderkids & Baguette Magique | Chris Gorrie, Le Nomad, Moulin, Taxi Drivers, Valium |
 | Sat, 5 Dec 2026 | Tincture |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

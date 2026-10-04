@@ -1,6 +1,6 @@
 # Gemayel
 
-Gemayel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+Gemayel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
 Gemayel is a techno and house artist based in Lithuania, with 6 gigs on soundcheck across Berlin, Madrid, Riga and Vilnius. Often billed alongside ANGEDONIYA, Audino and Basso Mata. Next up: Elastica, Vilnius on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Gemayel is a techno and house artist based in Lithuania, with 6 gigs on soundche
 
 ANGEDONIYA, Audino, Basso Mata
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*

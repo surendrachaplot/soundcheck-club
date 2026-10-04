@@ -1,6 +1,6 @@
 # ABOPF
 
-ABOPF is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at vurt., Seoul on Fri, 9 Oct 2026.
+ABOPF is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at vurt., Seoul on Fri, 9 Oct 2026.
 
 ABOPF is an experimental and bass artist, with 15 gigs on soundcheck across Berlin and Seoul. Often billed alongside Yetsuby, dayoung and Arexibo. Next up: vurt., Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ABOPF is an experimental and bass artist, with 15 gigs on soundcheck across Berl
 
 Yetsuby, dayoung, Arexibo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abopf/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abopf/)*

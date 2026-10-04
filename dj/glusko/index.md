@@ -1,6 +1,6 @@
 # Glusko
 
-Glusko is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
+Glusko is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Echostage, Washington DC on Fri, 20 Nov 2026.
 
 Glusko is a deep house and progressive house artist based in United States of America, with 7 gigs on soundcheck across Los Angeles and Washington DC. Often billed alongside Nora En Pure, Above & Beyond and Cristoph. Next up: Echostage, Washington DC on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Glusko is a deep house and progressive house artist based in United States of Am
 
 Nora En Pure, Above & Beyond, Cristoph
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glusko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glusko/)*

@@ -1,6 +1,6 @@
 # Oscar Jones
 
-Oscar Jones is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+Oscar Jones is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
 Oscar Jones is a minimal and house artist based in United Kingdom, with 11 gigs on soundcheck across Leeds, London and Zurich. Often billed alongside Mortalyf, Sam Pratt and TEZZA. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oscar Jones is a minimal and house artist based in United Kingdom, with 11 gigs 
 
 Mortalyf, Sam Pratt, TEZZA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarjones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarjones/)*

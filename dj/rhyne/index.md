@@ -1,6 +1,6 @@
 # Rhyne
 
-Rhyne is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BAR Inc, Osaka on Tue, 27 Oct 2026.
+Rhyne is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BAR Inc, Osaka on Tue, 27 Oct 2026.
 
 Rhyne is a hip-hop and electronica artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, Osaka and Tokyo. Often billed alongside m_boogs, wave Groove and el delpha. Next up: BAR Inc, Osaka on Tue 27 Oct.
 
@@ -22,4 +22,4 @@ Rhyne is a hip-hop and electronica artist based in United States of America, wit
 
 m_boogs, wave Groove, el delpha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyne/)*

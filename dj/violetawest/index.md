@@ -1,6 +1,6 @@
 # Violeta West
 
-Violeta West is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
+Violeta West is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 9 Oct 2026.
 
 Violeta West is a techno and baile funk artist based in France, with 8 gigs on soundcheck across Brussels, Paris and Strasbourg. Often billed alongside pam (unofficial), Birol and Bob Sleigh. Next up: Le Poisson Volant, Paris on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Violeta West is a techno and baile funk artist based in France, with 8 gigs on s
 
 pam (unofficial), Birol, Bob Sleigh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violetawest/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violetawest/)*

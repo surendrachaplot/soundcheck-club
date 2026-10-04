@@ -1,6 +1,6 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "STRAFF / Thursday Techno" on Thu, 1 Oct 2026.
+Der Weiße Hase is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "STRAFF / Thursday Techno" on Thu, 1 Oct 2026.
 
 Der Weiße Hase is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including andré wiese, Anubix, August Kind and Bassdee and 2 more. See dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 25 upcoming gig
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

@@ -1,6 +1,6 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Egø Deåth // Day Rave in Hackney" on Sat, 10 Oct 2026.
+Algha's Plantroom is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Egø Deåth // Day Rave in Hackney" on Sat, 10 Oct 2026.
 
 Algha's Plantroom is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
@@ -16,4 +16,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 3 upcoming gi
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

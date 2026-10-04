@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FMS 6 Deck - Bristol" on Fri, 9 Oct 2026.
+Lost Horizon is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FMS 6 Deck - Bristol" on Fri, 9 Oct 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Fear-E, Jerome Hill, Lens and Licia and 2 more. See dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -17,4 +17,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, 
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

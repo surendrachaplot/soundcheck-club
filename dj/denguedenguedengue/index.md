@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Latin Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Fri, 16 Oct 2026.
+Dengue Dengue Dengue is a Latin Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Fri, 16 Oct 2026.
 
 Dengue Dengue Dengue is a latin bass and bass artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Florentino, Basy Tropikalne and Phran. Next up: Stereo, Glasgow on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Dengue Dengue Dengue is a latin bass and bass artist based in Germany, with 54 g
 
 Florentino, Basy Tropikalne, Phran
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

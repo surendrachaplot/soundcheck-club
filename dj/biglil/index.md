@@ -1,6 +1,6 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+Big Lil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
 Big Lil is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Prague. Often billed alongside Fembot, Kaotic and AVHD. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Big Lil is a techno and house artist based in United States of America, with 59 
 
 Fembot, Kaotic, AVHD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

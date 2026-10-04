@@ -1,6 +1,6 @@
 # Sami Hugo
 
-Sami Hugo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pracht, Frankfurt on Sat, 24 Oct 2026.
+Sami Hugo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pracht, Frankfurt on Sat, 24 Oct 2026.
 
 Sami Hugo is a techno and tech house artist based in Germany, with 22 gigs on soundcheck across Frankfurt. Often billed alongside Sven Louis, Musti Nero and ASK:ME. Next up: Pracht, Frankfurt on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sami Hugo is a techno and tech house artist based in Germany, with 22 gigs on so
 
 Sven Louis, Musti Nero, ASK:ME
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samihugo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samihugo/)*

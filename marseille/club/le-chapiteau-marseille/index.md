@@ -1,6 +1,6 @@
 # Le Chapiteau - Marseille
 
-Le Chapiteau - Marseille is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LA MONA À MARSEILLE " on Sat, 3 Oct 2026.
+Le Chapiteau - Marseille is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LA MONA À MARSEILLE " on Sat, 3 Oct 2026.
 
 Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, with line-ups including 2LaCasse and Nick V. See dates, start times and who's playing. 38 TVS Notre Dame De Bon Secours.
 
@@ -17,4 +17,4 @@ Le Chapiteau - Marseille is a music venue in Marseille listed on soundcheck. 4 u
 
 38 TVS Notre Dame De Bon Secours, Marseille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-chapiteau-marseille/)*

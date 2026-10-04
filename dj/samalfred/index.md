@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Substation, Seattle on Fri, 9 Oct 2026.
+Sam Alfred is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Substation, Seattle on Fri, 9 Oct 2026.
 
 Sam Alfred is a house and techno artist based in Egypt, with 148 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside Club Angel, X CLUB. and KETTAMA. Next up: Substation, Seattle on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 148 gigs on soundch
 
 Club Angel, X CLUB., KETTAMA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

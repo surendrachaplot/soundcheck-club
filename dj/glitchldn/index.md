@@ -1,6 +1,6 @@
 # Glitch (LDN)
 
-Glitch (LDN) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
+Glitch (LDN) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
 
 Glitch (LDN) is a house and garage artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside SwearyPrincess, gravitas and Andy Farley. Next up: Two Tribes CAMPFIRE, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Glitch (LDN) is a house and garage artist based in United Kingdom, with 6 gigs o
 
 SwearyPrincess, gravitas, Andy Farley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glitchldn/)*

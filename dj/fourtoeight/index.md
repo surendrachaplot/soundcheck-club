@@ -1,6 +1,6 @@
 # Four To Eight
 
-Four To Eight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Third Day, Melbourne on Sat, 31 Oct 2026.
+Four To Eight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Third Day, Melbourne on Sat, 31 Oct 2026.
 
 Four To Eight is a techno and house artist based in Australia, with 41 gigs on soundcheck across Barcelona, Berlin and Melbourne. Often billed alongside Gus McKinna, Black Dave and JMIC. Next up: The Third Day, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Four To Eight is a techno and house artist based in Australia, with 41 gigs on s
 
 Gus McKinna, Black Dave, JMIC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtoeight/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtoeight/)*

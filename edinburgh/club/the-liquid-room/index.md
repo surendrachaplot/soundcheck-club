@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nightvision presents: David Rust (All Night Long) // Edinburgh" on Fri, 9 Oct 2026.
+The Liquid Room is a music venue in Edinburgh with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Nightvision presents: David Rust (All Night Long) // Edinburgh" on Fri, 9 Oct 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Farell, ARWEN, Bellaire and Club Angel and 2 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 10 upcoming 
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Watsons EQ, Sydney on Sun, 4 Oct 2026.
+Bustin' Loose is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Watsons EQ, Sydney on Sun, 4 Oct 2026.
 
 Bustin' Loose is a house and disco artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 17 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Watsons EQ, Sydney on Sun 4 Oct.
 
@@ -32,4 +32,4 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 159 gigs
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

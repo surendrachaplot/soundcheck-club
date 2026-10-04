@@ -1,6 +1,6 @@
 # Hraach
 
-Hraach is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Fri, 9 Oct 2026.
+Hraach is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Smolna, Warsaw on Fri, 9 Oct 2026.
 
 Hraach is a deep house and house artist based in Spain, with 18 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Krakow and 8 more. Often billed alongside Victor Norman, Ahiram and Audera. Next up: Smolna, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hraach is a deep house and house artist based in Spain, with 18 gigs on soundche
 
 Victor Norman, Ahiram, Audera
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hraach/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hraach/)*

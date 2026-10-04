@@ -1,6 +1,6 @@
 # Markuss
 
-Markuss is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sidecar, Barcelona on Sun, 4 Oct 2026.
+Markuss is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidecar, Barcelona on Sun, 4 Oct 2026.
 
 Markuss is a house and electronica artist based in Spain, with 46 gigs on soundcheck across Austin, Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: Sidecar, Barcelona on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Markuss is a house and electronica artist based in Spain, with 46 gigs on soundc
 
 CHRIS RAZZ, a$ia, Basement Scene
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*

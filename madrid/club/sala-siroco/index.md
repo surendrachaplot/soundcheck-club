@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gusano Club" on Sat, 3 Oct 2026.
+Sala Siroco is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Gusano Club" on Sat, 3 Oct 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including ADRI.G, Ana Sant, CRKS290 and Fer Xplosion and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

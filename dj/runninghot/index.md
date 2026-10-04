@@ -1,6 +1,6 @@
 # Running Hot
 
-Running Hot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+Running Hot is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
 Running Hot is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 14 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Running Hot is a house and techno artist based in United Kingdom, with 75 gigs o
 
 Alex Kassian, Vio PRG, DJ TEETH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*

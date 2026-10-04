@@ -1,6 +1,6 @@
 # Parra Vie
 
-Parra Vie is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
+Parra Vie is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
 
 Parra Vie is a progressive house and afro house artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside 2Doters, Ebz and Altayef. Next up: Maya Marylebone, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Parra Vie is a progressive house and afro house artist based in United Kingdom, 
 
 2Doters, Ebz, Altayef
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parravie/)*

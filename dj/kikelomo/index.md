@@ -1,6 +1,6 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
+Kikelomo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
 Kikelomo is a techno and house artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Gabrielle Kwarteng. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kikelomo is a techno and house artist based in United Kingdom, with 94 gigs on s
 
 Honey Dijon, Avalon Emerson, Gabrielle Kwarteng
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikelomo/)*

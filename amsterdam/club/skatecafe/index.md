@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SPOELBOYS 7 JAAR" on Sat, 3 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SPOELBOYS 7 JAAR" on Sat, 3 Oct 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

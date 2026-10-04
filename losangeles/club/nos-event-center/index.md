@@ -1,6 +1,6 @@
 # NOS Event Center
 
-NOS Event Center is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Escape Halloween" on Fri, 30 Oct 2026.
+NOS Event Center is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Escape Halloween" on Fri, 30 Oct 2026.
 
 NOS Event Center is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including 999999999, AC Slater, Adam Ten and Adventure Club and 2 more. See dates, start times and who's playing. 689 South E Street, San Bernardino, CA 92408.
 
@@ -16,4 +16,4 @@ NOS Event Center is a music venue in Los Angeles listed on soundcheck. 3 upcomin
 
 689 South E Street, San Bernardino, CA 92408, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*

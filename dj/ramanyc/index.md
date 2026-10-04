@@ -1,6 +1,6 @@
 # Rama NYC
 
-Rama NYC is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at feedbk, New York City on Sat, 17 Oct 2026.
+Rama NYC is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at feedbk, New York City on Sat, 17 Oct 2026.
 
 Rama NYC is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Barcelona, Berlin, Chicago and London and 5 more. Often billed alongside Desyn, Tom Morgan and Faciendo Soundsystem. Next up: feedbk, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rama NYC is a house and techno artist based in United States of America, with 43
 
 Desyn, Tom Morgan, Faciendo Soundsystem
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramanyc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramanyc/)*

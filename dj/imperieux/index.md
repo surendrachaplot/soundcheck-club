@@ -1,6 +1,6 @@
 # Impérieux
 
-Impérieux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
+Impérieux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
 
 Impérieux is a techno and house artist based in Bulgaria, with 27 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hamburg and 9 more. Often billed alongside Buoy, Ryoma Sasaki and Octavio Octavio. Next up: Officine Grandi Riparazioni, Turin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Impérieux is a techno and house artist based in Bulgaria, with 27 gigs on sound
 
 Buoy, Ryoma Sasaki, Octavio Octavio
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imperieux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imperieux/)*

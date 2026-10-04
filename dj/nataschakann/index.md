@@ -1,6 +1,6 @@
 # Natascha Kann
 
-Natascha Kann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery, Leipzig on Sat, 3 Oct 2026.
+Natascha Kann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 Natascha Kann is a house and techno artist based in Germany, with 42 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Discrete Circuit, Iron Curtis and Marie Lung. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Natascha Kann is a house and techno artist based in Germany, with 42 gigs on sou
 
 ## Recently played
 
+- Distillery, Leipzig · Sat, 3 Oct 2026
 - Südpol, Hamburg · Fri, 4 Sept 2026
 - Tresor / Globus, Berlin · Sat, 22 Aug 2026
 - TBA - Private Location, Berlin · Fri, 17 Jul 2026
@@ -20,10 +21,9 @@ Natascha Kann is a house and techno artist based in Germany, with 42 gigs on sou
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 25 Apr 2026
 - Südpol, Hamburg · Fri, 30 Jan 2026
 - TBA, Berlin · Sat, 17 Jan 2026
-- Bassiani, Tbilisi · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Discrete Circuit, Iron Curtis, Marie Lung
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*

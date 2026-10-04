@@ -1,6 +1,6 @@
 # Crate Digga
 
-Crate Digga is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The High Dive, Detroit on Tue, 6 Oct 2026.
+Crate Digga is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The High Dive, Detroit on Tue, 6 Oct 2026.
 
 Crate Digga is a funk / soul and house artist, with 32 gigs on soundcheck across Detroit. Often billed alongside Eddie Logix, littlefaace and Andrés. Next up: The High Dive, Detroit on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Crate Digga is a funk / soul and house artist, with 32 gigs on soundcheck across
 
 Eddie Logix, littlefaace, Andrés
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cratedigga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cratedigga/)*

@@ -1,6 +1,6 @@
 # ABS (4)
 
-ABS (4) is a House and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
+ABS (4) is a House and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
 
 ABS is a house and rio funk artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Armii1n, Choukroun and DLR (nyc). Next up: Jolene Sound Room Brooklyn, New York City on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ ABS is a house and rio funk artist based in United States of America, with 8 gig
 
 Armii1n, Choukroun, DLR (nyc)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs-4/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs-4/)*

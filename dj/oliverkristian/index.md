@@ -1,6 +1,6 @@
 # Oliver Kristian
 
-Oliver Kristian is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
+Oliver Kristian is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
 
 Oliver Kristian is an electro and house artist based in United Kingdom, with 39 gigs on soundcheck across Belfast, Bristol, Leeds and London and 1 more. Often billed alongside Torin Grady, Isaac Frost and Kennedy (UK). Next up: Eiger Studios, Leeds on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Oliver Kristian is an electro and house artist based in United Kingdom, with 39 
 
 Torin Grady, Isaac Frost, Kennedy (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkristian/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkristian/)*

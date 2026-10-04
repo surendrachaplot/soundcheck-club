@@ -1,6 +1,6 @@
 # Midnight Society
 
-Midnight Society is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Midnight Society is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Midnight Society is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Boston and New York City. Often billed alongside A$HLEY, ANDROMEDA and Anthony Nero. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Midnight Society is a house and techno artist based in United States of America,
 
 A$HLEY, ANDROMEDA, Anthony Nero
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsociety/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsociety/)*

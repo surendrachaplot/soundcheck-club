@@ -1,6 +1,6 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+STRAWBRY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 STRAWBRY is a house and club artist based in United States of America, with 23 gigs on soundcheck across Los Angeles, Manchester, Miami and San Diego and 1 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ STRAWBRY is a house and club artist based in United States of America, with 23 g
 
 ATRIP, Oppidan, BIATA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*

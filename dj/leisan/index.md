@@ -1,6 +1,6 @@
 # LEISAN
 
-LEISAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+LEISAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 LEISAN is a house and techno artist based in Russia, with 30 gigs on soundcheck across Boston, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ LEISAN is a house and techno artist based in Russia, with 30 gigs on soundcheck 
 
 ALKMST, Adam Rose, Afriqua
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*

@@ -1,6 +1,6 @@
 # elshazly
 
-elshazly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 31 Oct 2026.
+elshazly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Cheek, London on Sat, 31 Oct 2026.
 
 elshazly is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Minashi, Easily Pleased and becks. Next up: Club Cheek, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ elshazly is a house and techno artist based in United Kingdom, with 14 gigs on s
 
 Minashi, Easily Pleased, becks (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elshazly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elshazly/)*

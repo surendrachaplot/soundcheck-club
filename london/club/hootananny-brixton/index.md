@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Brixton Bass: Dillinja, Doc Scott, Frost" on Sat, 3 Oct 2026.
+Hootananny Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Brixton Bass: Dillinja, Doc Scott, Frost" on Sat, 3 Oct 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Atjazz, Cassia, Dillinja and Doc Scott and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -22,4 +22,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 9 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

@@ -1,6 +1,6 @@
 # Stefania Vos
 
-Stefania Vos is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bunker, Turin on Fri, 9 Oct 2026.
+Stefania Vos is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bunker, Turin on Fri, 9 Oct 2026.
 
 Stefania Vos is an electronica and techno artist based in Italy, with 13 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Francesco Skip, Sandra Mason and Al Paino. Next up: Bunker, Turin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Stefania Vos is an electronica and techno artist based in Italy, with 13 gigs on
 
 Francesco Skip, Sandra Mason, Al Paino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefaniavos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefaniavos/)*

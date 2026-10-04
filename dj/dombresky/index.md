@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BERHTA, Washington DC on Sat, 3 Oct 2026.
+Dombresky is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BERHTA, Washington DC on Sat, 3 Oct 2026.
 
 Dombresky is a house and tech house artist based in France, with 146 gigs on soundcheck across Arizona, Austin, Bali and Barcelona and 33 more. Often billed alongside Jaded (UK), Tini Gessler and Purple Disco Machine. Next up: BERHTA, Washington DC on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Dombresky is a house and tech house artist based in France, with 146 gigs on sou
 
 ## Recently played
 
+- BERHTA, Washington DC · Sat, 3 Oct 2026
 - Club Space Miami, Miami · Fri, 2 Oct 2026
 - BCM, Mallorca · Sat, 26 Sept 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
@@ -24,10 +25,9 @@ Dombresky is a house and tech house artist based in France, with 146 gigs on sou
 - The Grand Boston, Boston · Sat, 5 Sept 2026
 - Boat Cruise Summer Series, Boston · Sat, 5 Sept 2026
 - Magazine Open–Air, London · Fri, 14 Aug 2026
-- Smoke & Mirrors, Chicago · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Jaded (UK), Tini Gessler, Purple Disco Machine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

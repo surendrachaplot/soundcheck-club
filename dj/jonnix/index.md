@@ -1,6 +1,6 @@
 # Jonnix
 
-Jonnix is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Junction Underground, Toronto on Fri, 9 Oct 2026.
+Jonnix is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Junction Underground, Toronto on Fri, 9 Oct 2026.
 
 Jonnix is a techno and deep house artist based in Canada, with 14 gigs on soundcheck across Toronto. Often billed alongside Jose Carbonell, 2HZY and Sartrax. Next up: Junction Underground, Toronto on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jonnix is a techno and deep house artist based in Canada, with 14 gigs on soundc
 
 Jose Carbonell, 2HZY, Sartrax
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnix/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnix/)*

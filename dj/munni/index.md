@@ -1,19 +1,19 @@
 # MUNNI
 
-MUNNI is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
+MUNNI is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Arch 14, London on Sat, 17 Oct 2026.
 
-MUNNI is a club and house artist based in United Kingdom, with 28 gigs on soundcheck across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: Starlane Pizza Bar, London on Sat 3 Oct.
+MUNNI is a club and house artist based in United Kingdom, with 28 gigs on soundcheck across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: Arch 14, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 17 Oct 2026 | Arch 14 | London |
 | Sun, 8 Nov 2026 | The Timber Loft | London |
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sat, 3 Oct 2026
 - XOYO, London · Sat, 12 Sept 2026
 - fabric, London · Sun, 16 Aug 2026
 - Crate Brewery, London · Sun, 16 Aug 2026
@@ -21,10 +21,9 @@ MUNNI is a club and house artist based in United Kingdom, with 28 gigs on soundc
 - fabric, London · Sat, 11 Jul 2026
 - The Cross, London · Sat, 16 May 2026
 - Bermondsey Social Club, London · Sat, 18 Apr 2026
-- Bubba Oasis, Islington, London · Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Jelsen, Madjestic Kasual, Organ Tapes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*

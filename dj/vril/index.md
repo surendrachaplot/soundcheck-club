@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KEPK, Brisbane on Sun, 4 Oct 2026.
+.VRIL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KEPK, Brisbane on Sun, 4 Oct 2026.
 
 .VRIL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: KEPK, Brisbane on Sun 4 Oct.
 
@@ -17,6 +17,7 @@
 
 ## Recently played
 
+- Coil, Melbourne · Sat, 3 Oct 2026
 - Abercrombie Hotel, Sydney · Fri, 2 Oct 2026
 - VENT, Tokyo · Fri, 25 Sept 2026
 - Paradiso, Amsterdam · Fri, 18 Sept 2026
@@ -24,10 +25,9 @@
 - RSO.BERLIN, Berlin · Fri, 11 Sept 2026
 - Haus der Visionäre, Berlin · Fri, 24 Jul 2026
 - Bassiani, Tbilisi · Sat, 18 Jul 2026
-- Lofi, Amsterdam · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 DJ Dustin, Edward, Konstantin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

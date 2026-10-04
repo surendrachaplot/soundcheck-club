@@ -1,6 +1,6 @@
 # Anna Lazer
 
-Anna Lazer is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
+Anna Lazer is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
 
 Anna Lazer is a tech house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ Nebelmaschine, Liebe Nachbarn and Bernd Bugatti. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Anna Lazer is a tech house and techno artist based in Germany, with 19 gigs on s
 
 DJ Nebelmaschine, Liebe Nachbarn, Bernd Bugatti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalazer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalazer/)*

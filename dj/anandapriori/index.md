@@ -1,6 +1,6 @@
 # ananda priori
 
-ananda priori is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
+ananda priori is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
 
 ananda priori is a techno and electro artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 1 more. Often billed alongside Elisen, mojo and Gutkind. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ ananda priori is a techno and electro artist based in Germany, with 17 gigs on s
 
 Elisen, mojo, Gutkind
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anandapriori/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anandapriori/)*

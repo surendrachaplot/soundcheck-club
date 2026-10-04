@@ -1,6 +1,6 @@
 # Marco Yanes
 
-Marco Yanes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BAR Inc, Osaka on Wed, 14 Oct 2026.
+Marco Yanes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BAR Inc, Osaka on Wed, 14 Oct 2026.
 
 Marco Yanes is a techno and house artist, with 10 gigs on soundcheck across Berlin, Hong Kong, Munich and Osaka and 2 more. Often billed alongside KMG, DANA NADA and Dan-neo. Next up: BAR Inc, Osaka on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Marco Yanes is a techno and house artist, with 10 gigs on soundcheck across Berl
 
 KMG, DANA NADA, Dan-neo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*

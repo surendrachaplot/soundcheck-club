@@ -1,6 +1,6 @@
 # Hen's Teeth
 
-Hen's Teeth is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Imbas presents Blimp" on Sat, 17 Oct 2026.
+Hen's Teeth is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Imbas presents Blimp" on Sat, 17 Oct 2026.
 
 Hen's Teeth is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Blimp, Cian Ó Cíobháin, DJ-CK and iasc and 2 more. See dates, start times and who's playing. Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD.
 
@@ -17,4 +17,4 @@ Hen's Teeth is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, wi
 
 Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD, Dublin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*

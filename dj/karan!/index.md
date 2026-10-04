@@ -1,6 +1,6 @@
 # KARAN!
 
-KARAN! is a Baile Funk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
+KARAN! is a Baile Funk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
 
 KARAN! is a baile funk and experimental artist based in Brazil, with 4 gigs on soundcheck across Jacksonville, Osaka, Seattle and Tokyo. Often billed alongside AK SPORTS, ALTF4 and Baalti. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ KARAN! is a baile funk and experimental artist based in Brazil, with 4 gigs on s
 
 AK SPORTS, ALTF4, Baalti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*

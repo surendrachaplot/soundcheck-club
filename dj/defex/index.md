@@ -1,6 +1,6 @@
 # Defex
 
-Defex is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
+Defex is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 Defex is a house and tech house artist based in Germany, with 88 gigs on soundcheck across Austria, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Camilo Miranda, Bushwacka! and CC:DISCO!. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Defex is a house and tech house artist based in Germany, with 88 gigs on soundch
 
 Camilo Miranda, Bushwacka!, CC:DISCO!
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*

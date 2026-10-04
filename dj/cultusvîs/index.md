@@ -1,6 +1,6 @@
 # CÛLTÛS VÎS
 
-CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
+CÛLTÛS VÎS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
 
 CÛLTÛS VÎS is a techno and trance artist based in United States of America, with 13 gigs on soundcheck across Miami. Often billed alongside Dadrev, DomnRob and iCKY. Next up: The Ground at Club Space, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CÛLTÛS VÎS is a techno and trance artist based in United States of America, w
 
 Dadrev, DomnRob, iCKY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cultusvîs/)*

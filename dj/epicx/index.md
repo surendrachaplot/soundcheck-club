@@ -1,6 +1,6 @@
 # Epicx
 
-Epicx is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Wed, 7 Oct 2026.
+Epicx is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Wed, 7 Oct 2026.
 
 Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Anubix, Emma and DJ Jordan. Next up: KitKatClub, Berlin on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ Epicx is a techno and trance artist based in Syria, with 126 gigs on soundcheck 
 
 Anubix, Emma (8), DJ Jordan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/epicx/)*

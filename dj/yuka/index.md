@@ -1,6 +1,6 @@
 # Yuka
 
-Yuka is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Yuka is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
 Yuka is a house and electro artist based in Russia, with 8 gigs on soundcheck across Los Angeles, Seoul and Tokyo. Often billed alongside Bliss, GG and LOOZBONE. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Yuka is a house and electro artist based in Russia, with 8 gigs on soundcheck ac
 
 ## Recently played
 
+- Inspire Entertainment Resort, Seoul · Sat, 3 Oct 2026
 - Lion Super Club, Seoul · Sat, 26 Sept 2026
 - DeTour, Tokyo · Fri, 7 Aug 2026
 - Lion Super Club, Seoul · Sat, 20 Jun 2026
@@ -24,4 +25,4 @@ Yuka is a house and electro artist based in Russia, with 8 gigs on soundcheck ac
 
 Bliss (1), GG (2), LOOZBONE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*

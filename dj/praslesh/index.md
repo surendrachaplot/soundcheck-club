@@ -1,6 +1,6 @@
 # Praslesh
 
-Praslesh is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
+Praslesh is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
 
 Praslesh is a minimal and techno artist based in Romania, with 22 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 5 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: FOLD, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Praslesh is a minimal and techno artist based in Romania, with 22 gigs on soundc
 
 Praslea, Raresh, Sonja Moonear
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*

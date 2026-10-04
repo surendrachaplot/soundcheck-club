@@ -1,6 +1,6 @@
 # CONE (2)
 
-CONE (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
+CONE (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
 
 CONE is a club and techno artist based in United Kingdom, with 22 gigs on soundcheck across London and Manchester. Often billed alongside Lucian (UK), MBB_ and Plan T. Next up: Hidden, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ CONE is a club and techno artist based in United Kingdom, with 22 gigs on soundc
 
 Lucian (UK), MBB_, Plan T
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cone-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cone-2/)*

@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Ennaria - Manifesto Tour" on Fri, 9 Oct 2026.
+Miscellania is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Ennaria - Manifesto Tour" on Fri, 9 Oct 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Ed Kent and Merve and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -21,4 +21,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

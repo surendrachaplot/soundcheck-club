@@ -1,6 +1,6 @@
 # CYRK
 
-CYRK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
+CYRK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
 
 CYRK is a house and techno artist based in Germany, with 31 gigs on soundcheck across Bali, Bangkok, Berlin and Ibiza and 7 more. Often billed alongside Jorkes, La Schmock and Muallem. Next up: RSO.BERLIN, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ CYRK is a house and techno artist based in Germany, with 31 gigs on soundcheck a
 
 Jorkes, La Schmock, Muallem
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*

@@ -1,6 +1,6 @@
 # Ryan Taylor
 
-Ryan Taylor is a Funk / Soul and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ballroom at Palais, London on Thu, 8 Oct 2026.
+Ryan Taylor is a Funk / Soul and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ballroom at Palais, London on Thu, 8 Oct 2026.
 
 Ryan Taylor is a funk / soul and hip-hop artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Bear Winder, Beavs and Daydream Disco. Next up: Ballroom at Palais, London on Thu 8 Oct.
 
@@ -23,4 +23,4 @@ Ryan Taylor is a funk / soul and hip-hop artist based in United Kingdom, with 7 
 
 Bear Winder, Beavs, Daydream Disco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryantaylor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryantaylor/)*

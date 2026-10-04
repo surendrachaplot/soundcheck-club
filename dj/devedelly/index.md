@@ -1,6 +1,6 @@
 # De Vedelly
 
-De Vedelly is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+De Vedelly is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 De Vedelly is a club and techno artist based in France, with 19 gigs on soundcheck across London and Paris. Often billed alongside Corbeille Dallas, PEPIITA and 131bpm. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ De Vedelly is a club and techno artist based in France, with 19 gigs on soundche
 
 Corbeille Dallas, PEPIITA, 131bpm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devedelly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devedelly/)*

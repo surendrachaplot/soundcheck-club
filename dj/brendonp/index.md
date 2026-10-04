@@ -1,6 +1,6 @@
 # Brendon P
 
-Brendon P is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
+Brendon P is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
 
 Brendon P is a house and funk / soul artist, with 5 gigs on soundcheck across Singapore. Often billed alongside Aldrin, Jeremy Boon and Stephen Day. Next up: El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Brendon P is a house and funk / soul artist, with 5 gigs on soundcheck across Si
 
 Aldrin, Jeremy Boon, Stephen Day
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendonp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendonp/)*

@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 PARAMIDA is a house and techno artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 50 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -20,6 +20,7 @@ PARAMIDA is a house and techno artist based in Germany, with 259 gigs on soundch
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - TRAUM, Antwerp · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Club Guesthouse, Bucharest · Sat, 26 Sept 2026
@@ -27,10 +28,9 @@ PARAMIDA is a house and techno artist based in Germany, with 259 gigs on soundch
 - Azimut Club, Turin · Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
-- Jolene Downtown Miami, Miami · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

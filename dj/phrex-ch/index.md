@@ -1,6 +1,6 @@
 # Phrex
 
-Phrex is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
+Phrex is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
 
 Phrex is a techno and ambient artist based in Switzerland, with 16 gigs on soundcheck across Basel, Berlin, Ghent and London and 1 more. Often billed alongside Koodoo, Azu Tiwaline and CRi. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Phrex is a techno and ambient artist based in Switzerland, with 16 gigs on sound
 
 Koodoo, Azu Tiwaline, CRi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phrex-ch/)*

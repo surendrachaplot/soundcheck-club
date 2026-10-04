@@ -1,6 +1,6 @@
 # Thorn Wych
 
-Thorn Wych is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+Thorn Wych is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
 
 Thorn Wych is an experimental artist, with 8 gigs on soundcheck across London, Manchester, Nantes and North. Often billed alongside Kelly Jayne Jones, Memotone and Able Noise. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Thorn Wych is an experimental artist, with 8 gigs on soundcheck across London, M
 
 Kelly Jayne Jones, Memotone, Able Noise
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thornwych/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thornwych/)*

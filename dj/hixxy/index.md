@@ -1,6 +1,6 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
 Hixxy is a hardcore and bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Austin, Brighton and Edinburgh and 11 more. Often billed alongside Dougal, Darren Styles and MC Storm. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, with 25 gigs on sou
 
 Dougal, Darren Styles, MC Storm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

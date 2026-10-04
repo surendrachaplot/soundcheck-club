@@ -1,6 +1,6 @@
 # Alex M.O.R.P.H.
 
-Alex M.O.R.P.H. is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Alex M.O.R.P.H. is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Alex M.O.R.P.H. is a trance and progressive house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Ibiza, London and New York City and 4 more. Often billed alongside Aly & Fila, Paul Van Dyk and Ciaran McAuley. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alex M.O.R.P.H. is a trance and progressive house artist based in Netherlands, w
 
 Aly & Fila, Paul Van Dyk, Ciaran McAuley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexm.o.r.p.h./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexm.o.r.p.h./)*

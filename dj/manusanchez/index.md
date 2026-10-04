@@ -1,6 +1,6 @@
 # Manu Sanchez
 
-Manu Sanchez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
+Manu Sanchez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
 
 Manu Sanchez is a house and tech house artist based in Spain, with 16 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mallorca. Often billed alongside CAAL, East End Dubs and Fatima Hajji. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Manu Sanchez is a house and tech house artist based in Spain, with 16 gigs on so
 
 CAAL, East End Dubs, Fatima Hajji
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manusanchez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manusanchez/)*

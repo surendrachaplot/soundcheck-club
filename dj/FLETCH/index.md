@@ -1,6 +1,6 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
+FLETCH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
 
 FLETCH is a house and tech house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Boston and 20 more. Often billed alongside Mason Collective, Max Dean and Ben Sterling. Next up: IDRA, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ FLETCH is a house and tech house artist based in United Kingdom, with 62 gigs on
 
 Mason Collective, Max Dean, Ben Sterling
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

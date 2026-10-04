@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Momentum - Episode 002" on Sat, 3 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "B48 live x BEHIND" on Thu, 8 Oct 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Agoostina, Anka, chinobi and Diego Ro-k and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -8,7 +8,6 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Momentum - Episode 002 |  |
 | Thu, 8 Oct 2026 | B48 live x BEHIND | J Key, Monty, Monzo, REXER |
 | Fri, 9 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience |  |
 | Thu, 15 Oct 2026 | B48 live x SUPER HARD GROOVE |  |
@@ -18,9 +17,10 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 | Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic |
 | Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Diego Ro-k, Mac (4) |
 | Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT |  |
+| Sat, 7 Nov 2026 | UMBRAL Techno Culture |  |
 
 ## Address
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

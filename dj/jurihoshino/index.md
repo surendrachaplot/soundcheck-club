@@ -1,6 +1,6 @@
 # JURI HOSHINO
 
-JURI HOSHINO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at WOMB, Tokyo on Wed, 7 Oct 2026.
+JURI HOSHINO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at WOMB, Tokyo on Wed, 7 Oct 2026.
 
 JURI HOSHINO is a techno and house artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside RYOHEI, MonochroME and ALEXANDER M. Next up: WOMB, Tokyo on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ JURI HOSHINO is a techno and house artist based in Japan, with 29 gigs on soundc
 
 RYOHEI, MonochroME (2), ALEXANDER M
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*

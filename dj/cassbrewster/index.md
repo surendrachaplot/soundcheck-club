@@ -1,6 +1,6 @@
 # Cass Brewster
 
-Cass Brewster is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Four Quarters, London on Fri, 13 Nov 2026.
+Cass Brewster is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Four Quarters, London on Fri, 13 Nov 2026.
 
 Cass Brewster is a minimal and tech house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside El Cassar, MADAMA and 00ab. Next up: Four Quarters, London on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Cass Brewster is a minimal and tech house artist based in United Kingdom, with 7
 
 El Cassar, MADAMA, 00ab
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*

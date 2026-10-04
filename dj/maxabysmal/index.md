@@ -1,6 +1,6 @@
 # Max Abysmal
 
-Max Abysmal is a Dub Techno and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at murmur, Amsterdam on Fri, 16 Oct 2026.
+Max Abysmal is a Dub Techno and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at murmur, Amsterdam on Fri, 16 Oct 2026.
 
 Max Abysmal is a dub techno and balearic artist, with 12 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside YoungWoman, Identified Patient and LazerGazer. Next up: murmur, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Max Abysmal is a dub techno and balearic artist, with 12 gigs on soundcheck acro
 
 YoungWoman, Identified Patient, LazerGazer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxabysmal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxabysmal/)*

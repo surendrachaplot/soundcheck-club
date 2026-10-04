@@ -1,6 +1,6 @@
 # LITA DA DOLL
 
-LITA DA DOLL is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
+LITA DA DOLL is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
 
 LITA DA DOLL is a club and house artist based in United States of America, with 43 gigs on soundcheck across Chicago, New York City and Washington DC. Often billed alongside allducksrock, BLAIZE and CMD+JAZMINE. Next up: Paragon, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ LITA DA DOLL is a club and house artist based in United States of America, with 
 
 allducksrock, BLAIZE, CMD+JAZMINE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*

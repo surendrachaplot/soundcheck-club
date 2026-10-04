@@ -1,6 +1,6 @@
 # Hameedullah
 
-Hameedullah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
+Hameedullah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
 Hameedullah is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside 11111111111, CTRLZORA and Brendan Lemkin. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Hameedullah is a house and techno artist based in United States of America, with
 
 11111111111, CTRLZORA, Brendan Lemkin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameedullah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameedullah/)*

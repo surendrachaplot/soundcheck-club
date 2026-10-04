@@ -1,6 +1,6 @@
 # SUNDAY: softspot / zenwerk / Samogulov at Mastak
 
-SUNDAY: softspot / zenwerk / Samogulov at Mastak on Sun 4 Oct, Warsaw. 2 artists: Samogulov and zenwerk. Experimental and Electronica. See the line-up on soundcheck.
+SUNDAY: softspot / zenwerk / Samogulov at Mastak on Sun 4 Oct, Warsaw. 3 artists: Dharma Doom, Samogulov and zenwerk. Minimal and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SUNDAY: softspot / zenwerk / Samogulov at Mastak on Sun 4 Oct, Warsaw. 2 artists
 
 ## Line-up
 
+- Dharma Doom
 - Samogulov
 - zenwerk
 

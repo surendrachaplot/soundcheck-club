@@ -1,6 +1,6 @@
 # Damu
 
-Damu is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Factory Floor, Sheffield on Wed, 28 Oct 2026.
+Damu is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Factory Floor, Sheffield on Wed, 28 Oct 2026.
 
 Damu is an experimental and bass artist, with 5 gigs on soundcheck across Sheffield. Often billed alongside sleepsang, Eye Measure and MYNA. Next up: Factory Floor, Sheffield on Wed 28 Oct.
 
@@ -21,4 +21,4 @@ Damu is an experimental and bass artist, with 5 gigs on soundcheck across Sheffi
 
 sleepsang, Eye Measure, MYNA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damu/)*

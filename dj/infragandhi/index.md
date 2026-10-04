@@ -1,6 +1,6 @@
 # Infragandhi
 
-Infragandhi is a Techno and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Edith, Budapest on Sat, 3 Oct 2026.
+Infragandhi is a Techno and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Edith, Budapest on Sat, 3 Oct 2026.
 
 Infragandhi is a techno and afrobeat artist based in Hungary, with 33 gigs on soundcheck across Budapest. Often billed alongside Galactic Jackson, Klayman and Lenny Lenoks. Next up: Edith, Budapest on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Infragandhi is a techno and afrobeat artist based in Hungary, with 33 gigs on so
 
 ## Recently played
 
+- Edith, Budapest · Sat, 3 Oct 2026
 - Edith, Budapest · Fri, 25 Sept 2026
 - Viadukt Bar, Budapest · Sat, 25 Jul 2026
 - Edith, Budapest · Fri, 13 Mar 2026
@@ -19,10 +20,9 @@ Infragandhi is a techno and afrobeat artist based in Hungary, with 33 gigs on so
 - Edith, Budapest · Fri, 23 Jan 2026
 - Edith, Budapest · Wed, 31 Dec 2025
 - Edith, Budapest · Sat, 25 Oct 2025
-- Viadukt Bar, Budapest · Sat, 2 Aug 2025
 
 ## Shares bills with
 
 Galactic Jackson, Klayman, Lenny Lenoks
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infragandhi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infragandhi/)*

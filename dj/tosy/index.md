@@ -1,6 +1,6 @@
 # Tosy
 
-Tosy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Osaka, Osaka on Fri, 9 Oct 2026.
+Tosy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Circus Osaka, Osaka on Fri, 9 Oct 2026.
 
 Tosy is a techno and bass artist based in Japan, with 18 gigs on soundcheck across Kyoto, Osaka, Rome and Tokyo. Often billed alongside cazbow, nazanael and ryota dj. Next up: Circus Osaka, Osaka on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tosy is a techno and bass artist based in Japan, with 18 gigs on soundcheck acro
 
 cazbow, nazanael, ryota dj
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tosy/)*

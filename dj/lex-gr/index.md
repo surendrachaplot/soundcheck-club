@@ -1,6 +1,6 @@
 # Lex (GR)
 
-Lex (GR) is a Jungle and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Lex (GR) is a Jungle and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Lex (GR) is a jungle and deep house artist based in Greece, with 29 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Chevy, Locke and MATRIX3K. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Lex (GR) is a jungle and deep house artist based in Greece, with 29 gigs on soun
 
 Chevy, Locke, MATRIX3K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-gr/)*

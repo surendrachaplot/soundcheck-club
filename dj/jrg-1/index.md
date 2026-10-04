@@ -1,6 +1,6 @@
 # JRG
 
-JRG is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sigma, Ibiza on Sun, 25 Oct 2026.
+JRG is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sigma, Ibiza on Sun, 25 Oct 2026.
 
 JRG is a techno and industrial artist based in Spain, with 72 gigs on soundcheck across Barcelona, Berlin, Cologne and Ibiza and 2 more. Often billed alongside Møstroh, Tasuik and Pulpix. Next up: Sigma, Ibiza on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ JRG is a techno and industrial artist based in Spain, with 72 gigs on soundcheck
 
 Møstroh, Tasuik, Pulpix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jrg-1/)*

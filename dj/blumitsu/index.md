@@ -1,6 +1,6 @@
 # BLUMITSU
 
-BLUMITSU is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+BLUMITSU is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 BLUMITSU is a bass and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 13 more. Often billed alongside Bluetoof, Jossy Mitsu and Aletha. Next up: The Cause, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ BLUMITSU is a bass and techno artist based in United Kingdom, with 41 gigs on so
 
 Bluetoof, Jossy Mitsu, Aletha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*

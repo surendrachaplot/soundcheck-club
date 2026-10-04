@@ -1,6 +1,6 @@
 # Zanias
 
-Zanias is a Techno and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
+Zanias is a Techno and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
 
 Zanias is a techno and post-punk artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Kris Baha, Neu-Romancer and Berlin Bunny. Next up: Bossa Nova Civic Club, New York City on Mon 5 Oct.
 
@@ -28,4 +28,4 @@ Zanias is a techno and post-punk artist based in Australia, with 43 gigs on soun
 
 Kris Baha, Neu-Romancer, Berlin Bunny
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*

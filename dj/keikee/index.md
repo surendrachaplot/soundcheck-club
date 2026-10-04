@@ -1,6 +1,6 @@
 # keikee
 
-keikee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
+keikee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 10 Oct 2026.
 
 keikee is a house and techno artist based in South Korea, with 46 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Mexico City and 1 more. Often billed alongside Philipp Fein, Peter Invasion and Franz Scala. Next up: Klunkerkranich, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ keikee is a house and techno artist based in South Korea, with 46 gigs on soundc
 
 Philipp Fein, Peter Invasion, Franz Scala
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*

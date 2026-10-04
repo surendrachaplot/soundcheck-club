@@ -1,6 +1,6 @@
 # Buday
 
-Buday is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 10 Oct 2026.
+Buday is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
 Buday is a techno and trance artist based in France, with 16 gigs on soundcheck across Amsterdam, Berlin, Brussels and Madrid and 1 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: RADION, Amsterdam on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Buday is a techno and trance artist based in France, with 16 gigs on soundcheck 
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

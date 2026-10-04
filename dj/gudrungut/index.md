@@ -1,6 +1,6 @@
 # Gudrun Gut
 
-Gudrun Gut is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Gudrun Gut is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Gudrun Gut is an electronic artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Kabeaushé, Modeselektor and 96 Back. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -21,4 +21,4 @@ Gudrun Gut is an electronic artist, with 5 gigs on soundcheck across Berlin. Oft
 
 Kabeaushé, Modeselektor, 96 Back
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gudrungut/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gudrungut/)*

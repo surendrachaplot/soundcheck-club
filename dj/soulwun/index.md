@@ -1,6 +1,6 @@
 # Soul Wun
 
-Soul Wun is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 23 Oct 2026.
+Soul Wun is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 23 Oct 2026.
 
 Soul Wun is a house and garage artist based in Australia, with 21 gigs on soundcheck across Ibiza, London, Melbourne and New South Wales and 2 more. Often billed alongside Human Movement, Upper90 and ANIKA. Next up: Oxford Art Factory, Sydney on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Soul Wun is a house and garage artist based in Australia, with 21 gigs on soundc
 
 Human Movement, Upper90, ANIKA (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*

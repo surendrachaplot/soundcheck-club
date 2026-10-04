@@ -1,6 +1,6 @@
 # Hotel Arena
 
-Hotel Arena is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "UNRELEASED pres. The Church - ADE Edition" on Wed, 21 Oct 2026.
+Hotel Arena is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "UNRELEASED pres. The Church - ADE Edition" on Wed, 21 Oct 2026.
 
 Hotel Arena is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Acid Arab, Antigone, ARODES and Collé and 2 more. See dates, start times and who's playing. 's Gravesandestraat 55, 1092 AA Amsterdam.
 
@@ -15,4 +15,4 @@ Hotel Arena is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs,
 
 's Gravesandestraat 55, 1092 AA Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hotel-arena/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hotel-arena/)*

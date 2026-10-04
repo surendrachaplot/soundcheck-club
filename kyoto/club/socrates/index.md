@@ -1,6 +1,6 @@
 # Socrates
 
-Socrates is a music venue in Kyoto with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Nothing Feels Real presents Praise Japan Tour 2026" on Fri, 9 Oct 2026.
+Socrates is a music venue in Kyoto with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Nothing Feels Real presents Praise Japan Tour 2026" on Fri, 9 Oct 2026.
 
 Socrates is a music venue in Kyoto listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 447-14 Kajiicho, Kamigyo-ku, Kyoto-shi, Kyoto, 602-0841 Japan.
 
@@ -18,4 +18,4 @@ Socrates is a music venue in Kyoto listed on soundcheck. 5 upcoming gigs. See da
 
 447-14 Kajiicho, Kamigyo-ku, Kyoto-shi, Kyoto, 602-0841 Japan, Kyoto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/socrates/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/socrates/)*

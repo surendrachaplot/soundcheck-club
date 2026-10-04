@@ -1,6 +1,6 @@
 # Mat Spiaggi
 
-Mat Spiaggi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Freedonia, Barcelona on Sat, 10 Oct 2026.
+Mat Spiaggi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Freedonia, Barcelona on Sat, 10 Oct 2026.
 
 Mat Spiaggi is a house and minimal artist based in Argentina, with 32 gigs on soundcheck across Barcelona and Malaga. Often billed alongside POSSEF, CAZOU and Fontango. Next up: Freedonia, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mat Spiaggi is a house and minimal artist based in Argentina, with 32 gigs on so
 
 POSSEF, CAZOU, Fontango
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matspiaggi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matspiaggi/)*

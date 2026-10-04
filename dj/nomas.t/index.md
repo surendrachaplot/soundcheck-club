@@ -1,6 +1,6 @@
 # NOMAS.T
 
-NOMAS.T is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basis Vinschgau Venosta, North on Sat, 3 Oct 2026.
+NOMAS.T is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Basis Vinschgau Venosta, North on Sat, 3 Oct 2026.
 
 NOMAS.T is a house and techno artist, with 8 gigs on soundcheck across Berlin and North. Often billed alongside Bøgen, Karim Alkhayat and Michael Ritter. Next up: Basis Vinschgau Venosta, North on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ NOMAS.T is a house and techno artist, with 8 gigs on soundcheck across Berlin an
 
 ## Recently played
 
+- Basis Vinschgau Venosta, North · Sat, 3 Oct 2026
 - AVA Club, Berlin · Sat, 13 Dec 2025
 - Silver Event Location, Berlin · Sat, 10 May 2025
 - Birgit, Berlin · Fri, 19 Jul 2024
@@ -24,4 +25,4 @@ NOMAS.T is a house and techno artist, with 8 gigs on soundcheck across Berlin an
 
 Bøgen, Karim Alkhayat, Michael Ritter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomas.t/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomas.t/)*

@@ -1,6 +1,6 @@
 # Elijah Minnelli
 
-Elijah Minnelli is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
+Elijah Minnelli is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Cheek, London on Sat, 10 Oct 2026.
 
 Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Bristol, Brussels and Edinburgh and 4 more. Often billed alongside i-sha, Al Wootton and Dame Area. Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 2
 
 i-sha, Al Wootton, Dame Area
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*

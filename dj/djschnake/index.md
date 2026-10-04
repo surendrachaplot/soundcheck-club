@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
+Dj Schnake is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Château du Bois Guy, Rennes on Sat, 17 Oct 2026.
 
 Dj Schnake is a techno and trance artist based in France, with 54 gigs on soundcheck across Antwerp, Berlin, Brussels and Budapest and 10 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Le Château du Bois Guy, Rennes on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Dj Schnake is a techno and trance artist based in France, with 54 gigs on soundc
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

@@ -1,6 +1,6 @@
 # Simona Castricum
 
-Simona Castricum is a New Wave and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Vanguard, Sydney on Fri, 9 Oct 2026.
+Simona Castricum is a New Wave and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Vanguard, Sydney on Fri, 9 Oct 2026.
 
 Simona Castricum is a new wave and vaporwave artist based in Australia, with 13 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Caucasian Opportunities, DJ PGZ and Aarti Jadu. Next up: The Vanguard, Sydney on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Simona Castricum is a new wave and vaporwave artist based in Australia, with 13 
 
 Caucasian Opportunities, DJ PGZ, Aarti Jadu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*

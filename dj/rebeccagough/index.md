@@ -1,6 +1,6 @@
 # Rebecca Gough
 
-Rebecca Gough is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FOLD, London on Fri, 4 Dec 2026.
+Rebecca Gough is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 4 Dec 2026.
 
 Rebecca Gough is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Düsseldorf, Glasgow and London. Often billed alongside Redfreya, Gus Emmett and TIMANTI. Next up: FOLD, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Rebecca Gough is a techno and house artist based in United Kingdom, with 40 gigs
 
 Redfreya, Gus Emmett, TIMANTI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagough/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagough/)*

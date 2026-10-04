@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Schwuppenexpress Party" on Fri, 9 Oct 2026.
+Badehaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Schwuppenexpress Party" on Fri, 9 Oct 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Anna Æther. See dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

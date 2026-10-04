@@ -1,6 +1,6 @@
 # The Rainbow Pub
 
-The Rainbow Pub is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Alma Halloween Dia De los Muertos" on Sat, 31 Oct 2026.
+The Rainbow Pub is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Alma Halloween Dia De los Muertos" on Sat, 31 Oct 2026.
 
 The Rainbow Pub is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Belms, Igor Carmo, JAYDAA and Marc Spence. See dates, start times and who's playing. 160 Digbeth High Street, Birmingham, B9 4EE.
 
@@ -15,4 +15,4 @@ The Rainbow Pub is a music venue in Birmingham listed on soundcheck. 2 upcoming 
 
 160 Digbeth High Street, Birmingham, B9 4EE, Birmingham
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-rainbow-pub/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-rainbow-pub/)*

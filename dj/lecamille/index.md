@@ -1,6 +1,6 @@
 # LeCamille
 
-LeCamille is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
+LeCamille is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 13 Oct 2026.
 
 LeCamille is a club and bass artist based in United States of America, with 62 gigs on soundcheck across Miami and New York City. Often billed alongside BEYBLADE SHAWTY, Love Higher and 444. Next up: Bossa Nova Civic Club, New York City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ LeCamille is a club and bass artist based in United States of America, with 62 g
 
 BEYBLADE SHAWTY, Love Higher, 444 (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*

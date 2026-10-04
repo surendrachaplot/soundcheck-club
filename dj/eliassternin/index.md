@@ -1,6 +1,6 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
+Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cellar, London on Sun, 11 Oct 2026.
 
 Elias Sternin is a techno and electro artist based in Uruguay, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Rufo, Audri and Daura. Next up: Cellar, London on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Elias Sternin is a techno and electro artist based in Uruguay, with 23 gigs on s
 
 Rufo, Audri, Daura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

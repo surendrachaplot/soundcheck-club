@@ -1,6 +1,6 @@
 # Semuta
 
-Semuta is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+Semuta is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 Semuta is a techno and electro artist based in Spain, with 28 gigs on soundcheck across Madrid. Often billed alongside HCOR, Esterne Moog and Donkker. Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Semuta is a techno and electro artist based in Spain, with 28 gigs on soundcheck
 
 HCOR, Esterne Moog, Donkker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semuta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semuta/)*

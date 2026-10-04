@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Pfandidos Klubnacht x Tag der Clubkultur" on Sat, 3 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Pfandidos Klubnacht x Tag der Clubkultur" on Sat, 3 Oct 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including YOVA, Anne-Sophie Selig, Atze G and B.R.K.Ø. and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming g
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

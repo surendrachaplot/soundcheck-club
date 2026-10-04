@@ -1,6 +1,6 @@
 # CHANCEKNOT
 
-CHANCEKNOT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Prime, Amsterdam on Sat, 24 Oct 2026.
+CHANCEKNOT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Prime, Amsterdam on Sat, 24 Oct 2026.
 
 CHANCEKNOT is a techno and tech house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Alex Sharp, Gaya Carmeli and Melgazzo. Next up: Club Prime, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ CHANCEKNOT is a techno and tech house artist based in Netherlands, with 5 gigs o
 
 Alex Sharp, Gaya Carmeli, Melgazzo (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chanceknot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chanceknot/)*

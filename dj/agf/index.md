@@ -1,6 +1,6 @@
 # AGF
 
-AGF is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+AGF is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 AGF is an experimental and electro artist, with 5 gigs on soundcheck across Berlin, Helsinki, Leipzig and Lyon and 1 more. Often billed alongside DJ Travella, Kelman Duran and Maara. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -21,4 +21,4 @@ AGF is an experimental and electro artist, with 5 gigs on soundcheck across Berl
 
 DJ Travella, Kelman Duran, Maara
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agf/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agf/)*

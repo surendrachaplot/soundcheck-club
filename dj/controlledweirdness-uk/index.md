@@ -1,6 +1,6 @@
 # Controlled Weirdness
 
-Controlled Weirdness is a Electro and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Planet Wax, London on Fri, 16 Oct 2026.
+Controlled Weirdness is a Electro and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Planet Wax, London on Fri, 16 Oct 2026.
 
 Controlled Weirdness is an electro and drum & bass artist based in United Kingdom, with 34 gigs on soundcheck across Brighton and London. Often billed alongside Uncle G, Dexta and Gunfinger Food. Next up: Planet Wax, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Controlled Weirdness is an electro and drum & bass artist based in United Kingdo
 
 Uncle G, Dexta, Gunfinger Food
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlledweirdness-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/controlledweirdness-uk/)*

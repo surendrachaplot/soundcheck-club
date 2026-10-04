@@ -1,6 +1,6 @@
 # Philip Paul
 
-Philip Paul is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
+Philip Paul is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
 
 Philip Paul is an electronic artist based in Greece, with 13 gigs on soundcheck across Athens. Often billed alongside Freeflow, Blame The Mono and LEFTYT. Next up: Oddity Club, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Philip Paul is an electronic artist based in Greece, with 13 gigs on soundcheck 
 
 Freeflow, Blame The Mono, LEFTYT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*

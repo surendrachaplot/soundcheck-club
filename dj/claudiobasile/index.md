@@ -1,6 +1,6 @@
 # Claudio Basile
 
-Claudio Basile is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
+Claudio Basile is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at STEREO, London on Sun, 11 Oct 2026.
 
 Claudio Basile is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Davide Decay, Albi & Kego and Giacomo Moras. Next up: STEREO, London on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Claudio Basile is a house and tech house artist based in United Kingdom, with 5 
 
 Davide Decay, Albi & Kego, Giacomo Moras
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiobasile/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiobasile/)*

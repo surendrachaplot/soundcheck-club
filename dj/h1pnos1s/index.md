@@ -1,6 +1,6 @@
 # H1pnos1s
 
-H1pnos1s is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sat, 3 Oct 2026.
+H1pnos1s is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
 H1pnos1s is a techno and trance artist based in Spain, with 34 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside QUINCE, NARCX and PÜCH. Next up: Fabrik, Madrid on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ H1pnos1s is a techno and trance artist based in Spain, with 34 gigs on soundchec
 
 ## Recently played
 
+- Fabrik, Madrid · Sat, 3 Oct 2026
 - Hotel El Bruc, Barcelona · Sat, 19 Sept 2026
 - Lokschuppen Berlin, Berlin · Fri, 3 Jul 2026
 - M7 Club, Barcelona · Sat, 20 Jun 2026
@@ -21,10 +22,9 @@ H1pnos1s is a techno and trance artist based in Spain, with 34 gigs on soundchec
 - Lokschuppen Berlin, Berlin · Fri, 22 May 2026
 - Sala Independance Club, Madrid · Fri, 17 Apr 2026
 - Mondo, Madrid · Thu, 12 Mar 2026
-- Lokschuppen Berlin, Berlin · Sat, 21 Feb 2026
 
 ## Shares bills with
 
 QUINCE (2), NARCX, PÜCH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h1pnos1s/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h1pnos1s/)*

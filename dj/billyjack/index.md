@@ -1,6 +1,6 @@
 # Billy Jack
 
-Billy Jack is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Billy Jack is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Billy Jack is a disco and funk / soul artist based in United States of America, with 5 gigs on soundcheck across Leeds and London. Often billed alongside Nick Clev, Sam Beach and Acid Sally. Next up: The Cause, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Billy Jack is a disco and funk / soul artist based in United States of America, 
 
 Nick Clev, Sam Beach, Acid Sally
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack/)*

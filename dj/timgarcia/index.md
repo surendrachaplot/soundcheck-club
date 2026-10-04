@@ -1,6 +1,6 @@
 # Tim Garcia
 
-Tim Garcia is a Jazz and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ninety One, London on Sat, 21 Nov 2026.
+Tim Garcia is a Jazz and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ninety One, London on Sat, 21 Nov 2026.
 
 Tim Garcia is a jazz and broken beat artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, Copenhagen and London. Often billed alongside Tina Edwards, Saige Sounds and A For Alpha. Next up: Ninety One, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tim Garcia is a jazz and broken beat artist based in United Kingdom, with 28 gig
 
 Tina Edwards, Saige Sounds, A For Alpha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timgarcia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timgarcia/)*

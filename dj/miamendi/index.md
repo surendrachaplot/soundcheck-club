@@ -1,6 +1,6 @@
 # Mia Mendi
 
-Mia Mendi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Mia Mendi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Mia Mendi is a techno and progressive house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Ibiza and 4 more. Often billed alongside Baime, widerberg and Julia Linkogel. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mia Mendi is a techno and progressive house artist based in United Kingdom, with
 
 Baime, widerberg, Julia Linkogel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamendi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamendi/)*

@@ -1,6 +1,6 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaswrx Birmingham, London on Fri, 16 Oct 2026.
+Eric Prydz is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaswrx Birmingham, London on Fri, 16 Oct 2026.
 
 Eric Prydz is a techno and house artist based in Sweden, with 107 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 32 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Gaswrx Birmingham, London on Fri 16 Oct.
 
@@ -35,4 +35,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 107 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

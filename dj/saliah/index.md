@@ -1,6 +1,6 @@
 # Saliah
 
-Saliah is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
+Saliah is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ausgang Plaza, Montreal on Sat, 28 Nov 2026.
 
 Saliah is an electro and pop artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Dublin and Geneva and 14 more. Often billed alongside MzRizk, Salam Kitty and Wake Island. Next up: Ausgang Plaza, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Saliah is an electro and pop artist based in United Kingdom, with 42 gigs on sou
 
 MzRizk, Salam Kitty, Wake Island
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saliah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saliah/)*

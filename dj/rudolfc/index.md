@@ -1,6 +1,6 @@
 # Rudolf C
 
-Rudolf C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, Berlin on Sat, 3 Oct 2026.
+Rudolf C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, Berlin on Sat, 3 Oct 2026.
 
 Rudolf C is a house and techno artist based in Germany, with 35 gigs on soundcheck across Berlin, Dublin, Leipzig and Madrid and 8 more. Often billed alongside Alfred Czital, Ashikaga and Balthazar Martinez. Next up: Monarch, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Rudolf C is a house and techno artist based in Germany, with 35 gigs on soundche
 
 ## Recently played
 
+- Monarch, Berlin · Sat, 3 Oct 2026
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - TBA - Secret Location, Berlin · Fri, 15 May 2026
 - arkaoda Berlin, Berlin · Fri, 8 May 2026
@@ -19,10 +20,9 @@ Rudolf C is a house and techno artist based in Germany, with 35 gigs on soundche
 - Bassiani, Tbilisi · Sat, 15 Nov 2025
 - Mckr, Leipzig · Fri, 24 Oct 2025
 - Cadavra, Madrid · Sat, 13 Sept 2025
-- Club der Visionaere, Berlin · Wed, 9 Jul 2025
 
 ## Shares bills with
 
 Alfred Czital, Ashikaga, Balthazar Martinez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfc/)*

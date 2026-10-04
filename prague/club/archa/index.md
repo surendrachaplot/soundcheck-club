@@ -1,6 +1,6 @@
 # Archa+
 
-Archa+ is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Berlin Manson křest" on Thu, 29 Oct 2026.
+Archa+ is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Berlin Manson křest" on Thu, 29 Oct 2026.
 
 Archa+ is a music venue in Prague listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Na Poříčí 1047/26, 110 00.
 
@@ -15,4 +15,4 @@ Archa+ is a music venue in Prague listed on soundcheck. 2 upcoming gigs. See dat
 
 Na Poříčí 1047/26, 110 00, Prague
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/archa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/archa/)*

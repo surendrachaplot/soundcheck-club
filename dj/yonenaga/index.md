@@ -1,6 +1,6 @@
 # Yonenaga
 
-Yonenaga is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 10 Oct 2026.
+Yonenaga is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 10 Oct 2026.
 
 Yonenaga is a techno and house artist, with 38 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Satoshi Matsui, Tommy and Arao. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Yonenaga is a techno and house artist, with 38 gigs on soundcheck across Osaka a
 
 Satoshi Matsui, Tommy (2), Arao
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonenaga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonenaga/)*

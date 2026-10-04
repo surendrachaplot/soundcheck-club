@@ -1,6 +1,6 @@
 # TOMMYLOGIK
 
-TOMMYLOGIK is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 3 Dollar Bill, New York City on Sat, 17 Oct 2026.
+TOMMYLOGIK is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 3 Dollar Bill, New York City on Sat, 17 Oct 2026.
 
 TOMMYLOGIK is a progressive house and trance artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Wassu, SunrYse and Zehv. Next up: 3 Dollar Bill, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TOMMYLOGIK is a progressive house and trance artist based in United States of Am
 
 Wassu, SunrYse, Zehv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylogik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylogik/)*

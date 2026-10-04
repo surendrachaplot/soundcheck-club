@@ -1,6 +1,6 @@
 # D.K.
 
-D.K. is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+D.K. is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 D.K. is a bass and club artist, with 18 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 7 more. Often billed alongside December, Mogwaa and Zaltan. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ D.K. is a bass and club artist, with 18 gigs on soundcheck across Barcelona, Ber
 
 December, Mogwaa, Zaltan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.k./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.k./)*

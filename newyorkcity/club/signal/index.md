@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Moritz von Oswald, Sarah Wreath" on Sat, 3 Oct 2026.
+Signal is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Moritz von Oswald, Sarah Wreath" on Sat, 3 Oct 2026.
 
 Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

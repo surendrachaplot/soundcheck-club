@@ -1,6 +1,6 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
+Dominik Eulberg is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
 Dominik Eulberg is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 13 more. Often billed alongside Prismode, Super Flu and Bebetta. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Dominik Eulberg is a techno and house artist based in Germany, with 85 gigs on s
 
 Prismode, Super Flu, Bebetta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*

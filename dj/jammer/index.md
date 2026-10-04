@@ -1,6 +1,6 @@
 # Jammer
 
-Jammer is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
+Jammer is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
 
 Jammer is a house and grime artist based in United Kingdom, with 23 gigs on soundcheck across Ibiza, London, Malaga and Malta and 4 more. Often billed alongside Skepta, Meeshy and Ossie. Next up: Basing House, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jammer is a house and grime artist based in United Kingdom, with 23 gigs on soun
 
 Skepta, Meeshy, Ossie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jammer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jammer/)*

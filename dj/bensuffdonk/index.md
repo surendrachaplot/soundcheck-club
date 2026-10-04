@@ -1,6 +1,6 @@
 # Ben Suff Donk
 
-Ben Suff Donk is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
+Ben Suff Donk is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
 Ben Suff Donk is a hardcore and bass artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Phatworld, Dankle and Dr Cryptic. Next up: FORGE, Sheffield on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ben Suff Donk is a hardcore and bass artist based in United Kingdom, with 20 gig
 
 Phatworld, Dankle, Dr Cryptic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensuffdonk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensuffdonk/)*

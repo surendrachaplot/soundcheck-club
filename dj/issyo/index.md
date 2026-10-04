@@ -1,6 +1,6 @@
 # Issyo
 
-Issyo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Arena Shimokitazawa, Tokyo on Sat, 17 Oct 2026.
+Issyo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Arena Shimokitazawa, Tokyo on Sat, 17 Oct 2026.
 
 Issyo is a house and tech house artist based in Japan, with 68 gigs on soundcheck across Tokyo. Often billed alongside Kitano, KDT and TAT2K. Next up: Arena Shimokitazawa, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Issyo is a house and tech house artist based in Japan, with 68 gigs on soundchec
 
 Kitano, KDT, TAT2K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issyo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issyo/)*

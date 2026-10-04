@@ -1,6 +1,6 @@
 # Scuba
 
-Scuba is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Scuba is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Scuba is a techno and bass artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Chloé Robinson, George FitzGerald and Mala. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Scuba is a techno and bass artist based in United Kingdom, with 44 gigs on sound
 
 Chloé Robinson, George FitzGerald, Mala
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scuba/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scuba/)*

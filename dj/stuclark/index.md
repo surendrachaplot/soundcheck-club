@@ -1,6 +1,6 @@
 # Stu Clark
 
-Stu Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Grow, London on Sat, 10 Oct 2026.
+Stu Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Grow, London on Sat, 10 Oct 2026.
 
 Stu Clark is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, London and Singapore. Often billed alongside Wolf Music, Akua and DJ Pointless. Next up: Grow, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Stu Clark is a house and techno artist based in United Kingdom, with 6 gigs on s
 
 Wolf Music, Akua, DJ Pointless
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuclark/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuclark/)*

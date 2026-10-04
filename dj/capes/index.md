@@ -1,6 +1,6 @@
 # Capes
 
-Capes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
+Capes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Better Tomorrow, Los-angeles on Thu, 8 Oct 2026.
 
 Capes is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside Adult Hits, Hazy and fun2bjane. Next up: Better Tomorrow, Los Angeles on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Capes is a house and techno artist based in United States of America, with 72 gi
 
 Adult Hits, Hazy, fun2bjane
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capes/)*

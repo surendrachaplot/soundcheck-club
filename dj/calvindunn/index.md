@@ -1,6 +1,6 @@
 # Calvin Dunn
 
-Calvin Dunn is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Franca, Los Angeles on Sun, 18 Oct 2026.
+Calvin Dunn is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Franca, Los Angeles on Sun, 18 Oct 2026.
 
 Calvin Dunn is a house and afro house artist based in United States of America, with 8 gigs on soundcheck across London, Los Angeles and New York City. Often billed alongside Shaun Ross, Ashley Younniä and Boy Cordero. Next up: Bar Franca, Los Angeles on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Calvin Dunn is a house and afro house artist based in United States of America, 
 
 Shaun Ross, Ashley Younniä, Boy Cordero
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvindunn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvindunn/)*

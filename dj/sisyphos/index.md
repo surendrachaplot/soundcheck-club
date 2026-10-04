@@ -1,6 +1,6 @@
 # Sisyphos
 
-Sisyphos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Bodega, Hamburg on Fri, 30 Oct 2026.
+Sisyphos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Bodega, Hamburg on Fri, 30 Oct 2026.
 
 Sisyphos is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Anna Schreit, Juli N. More and Leon Licht. Next up: La Bodega, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sisyphos is a techno and house artist based in Germany, with 48 gigs on soundche
 
 Anna Schreit, Juli N. More, Leon Licht
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisyphos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisyphos/)*

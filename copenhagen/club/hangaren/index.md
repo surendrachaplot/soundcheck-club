@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Damian Lazarus, MiniMalene, NILU" on Sat, 3 Oct 2026.
+Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Damian Lazarus, MiniMalene, NILU" on Sat, 3 Oct 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including AELVA K, Baime, CAIVA and Cara Elizabeth and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

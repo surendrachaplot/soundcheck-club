@@ -1,6 +1,6 @@
 # Weg (DE)
 
-Weg (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+Weg (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 Weg (DE) is a techno and tech house artist, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig. Often billed alongside Cesare vs Disorder, Rhom Omit and Ocean Lam. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Weg (DE) is a techno and tech house artist, with 22 gigs on soundcheck across Am
 
 Cesare vs Disorder, Rhom Omit, Ocean Lam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weg-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weg-de/)*

@@ -1,6 +1,6 @@
 # SWAGGER
 
-SWAGGER is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at T2 Shinjuku, Tokyo on Mon, 5 Oct 2026.
+SWAGGER is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at T2 Shinjuku, Tokyo on Mon, 5 Oct 2026.
 
 SWAGGER is a techno and hardcore artist based in Japan, with 20 gigs on soundcheck across Amsterdam, Berlin, Osaka and Seoul and 1 more. Often billed alongside BLACK(JP), NIKI (JP) and MARU. Next up: T2 Shinjuku, Tokyo on Mon 5 Oct.
 
@@ -27,4 +27,4 @@ SWAGGER is a techno and hardcore artist based in Japan, with 20 gigs on soundche
 
 BLACK(JP), NIKI (JP), MARU (3)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swagger/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swagger/)*

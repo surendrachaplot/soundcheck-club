@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "La Boum du Samedi" on Sat, 3 Oct 2026.
+Le Makeda is a music venue in Marseille with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "La Boum du Samedi" on Sat, 3 Oct 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 9 upcoming gigs, with line-ups including Mystique. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -22,4 +22,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 9 upcoming gigs, w
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

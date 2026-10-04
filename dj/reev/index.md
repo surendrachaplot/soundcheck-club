@@ -1,6 +1,6 @@
 # R.E.E.V.
 
-R.E.E.V. is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 27 Nov 2026.
+R.E.E.V. is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 27 Nov 2026.
 
 R.E.E.V. is an electronica and deep house artist, with 10 gigs on soundcheck across Cork, Dublin, London and Waterford. Often billed alongside Electric Foxx, Jon Gurd and Andrew Robertson. Next up: Vittoria Wharf Studio, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ R.E.E.V. is an electronica and deep house artist, with 10 gigs on soundcheck acr
 
 Electric Foxx, Jon Gurd, Andrew Robertson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reev/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reev/)*

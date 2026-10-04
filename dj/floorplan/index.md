@@ -1,6 +1,6 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sun, 4 Oct 2026.
+Floorplan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sun, 4 Oct 2026.
 
 Floorplan is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: public records, New York City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Floorplan is a house and techno artist based in United States of America, with 7
 
 Melvo Baptiste, Robert Hood, DJ Holographic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

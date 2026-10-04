@@ -1,6 +1,6 @@
 # Nyra
 
-Nyra is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+Nyra is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
 
 Nyra is a house and techno artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 17 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ Nyra is a house and techno artist based in United Kingdom, with 64 gigs on sound
 
 ## Recently played
 
+- Zinkbad Eventhalle, Zurich · Sat, 3 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 11 Sept 2026
 - Maassilo, Rotterdam · Sat, 29 Aug 2026
 - Night Tales, London · Thu, 20 Aug 2026
@@ -25,10 +26,9 @@ Nyra is a house and techno artist based in United Kingdom, with 64 gigs on sound
 - Kater, Berlin · Fri, 7 Aug 2026
 - LN-CC, London · Thu, 6 Aug 2026
 - Club Vaag, Antwerp · Fri, 17 Jul 2026
-- DC-10, Ibiza · Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Chloé Caillet, Demi Riquisimo, Grace Sands
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

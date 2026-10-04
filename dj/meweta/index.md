@@ -1,6 +1,6 @@
 # meweta
 
-meweta is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Thu, 8 Oct 2026.
+meweta is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Thu, 8 Oct 2026.
 
 meweta is a bass and electronica artist based in Japan, with 58 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, Telematic Visions and Xamd. Next up: Forestlimit, Tokyo on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ meweta is a bass and electronica artist based in Japan, with 58 gigs on soundche
 
 NordOst, Telematic Visions, Xamd
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*

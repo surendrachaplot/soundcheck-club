@@ -1,6 +1,6 @@
 # Angara
 
-Angara is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Angara is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
 Angara is a progressive house and deep house artist based in France, with 7 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 3 more. Often billed alongside Tonic Walter, ABSL and ALLKNIGHT. Next up: E1, London on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Angara is a progressive house and deep house artist based in France, with 7 gigs
 
 Tonic Walter, ABSL, ALLKNIGHT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angara/)*

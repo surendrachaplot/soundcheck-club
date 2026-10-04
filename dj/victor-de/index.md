@@ -1,6 +1,6 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at export, Rotterdam on Fri, 9 Oct 2026.
+Victor (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at export, Rotterdam on Fri, 9 Oct 2026.
 
 Victor (DE) is a techno and house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: export, Rotterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Victor (DE) is a techno and house artist based in Germany, with 88 gigs on sound
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

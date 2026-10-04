@@ -1,6 +1,6 @@
 # OJPB
 
-OJPB is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Salon Daomé, Montreal on Fri, 9 Oct 2026.
+OJPB is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Daomé, Montreal on Fri, 9 Oct 2026.
 
 OJPB is a techno and bass artist, with 25 gigs on soundcheck across Montreal. Often billed alongside Dj Hermano, CMD and CUERPOS. Next up: Salon Daomé, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ OJPB is a techno and bass artist, with 25 gigs on soundcheck across Montreal. Of
 
 Dj Hermano, CMD, CUERPOS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ojpb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ojpb/)*

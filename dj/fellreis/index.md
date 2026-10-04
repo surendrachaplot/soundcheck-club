@@ -1,6 +1,6 @@
 # Fell Reis
 
-Fell Reis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Fell Reis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
 Fell Reis is a tech house and house artist, with 15 gigs on soundcheck across Amsterdam, Ibiza, London and Sao Paulo and 1 more. Often billed alongside Pablo Fierro, AMÉMÉ and Adnan Sharif. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Fell Reis is a tech house and house artist, with 15 gigs on soundcheck across Am
 
 Pablo Fierro, AMÉMÉ, Adnan Sharif
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fellreis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fellreis/)*

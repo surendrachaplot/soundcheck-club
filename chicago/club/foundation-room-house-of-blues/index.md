@@ -1,6 +1,6 @@
 # Foundation Room - House Of Blues
 
-Foundation Room - House Of Blues is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Stuck In The Scene presents Saqib and bawab" on Sat, 3 Oct 2026.
+Foundation Room - House Of Blues is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Stuck In The Scene presents Saqib and bawab" on Sat, 3 Oct 2026.
 
 Foundation Room - House Of Blues is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including bawab and Saqib. See dates, start times and who's playing. 329 N. Dearborn, Chicago IL 60654.
 
@@ -14,4 +14,4 @@ Foundation Room - House Of Blues is a music venue in Chicago listed on soundchec
 
 329 N. Dearborn, Chicago IL 60654, Chicago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/foundation-room-house-of-blues/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/foundation-room-house-of-blues/)*

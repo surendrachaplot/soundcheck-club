@@ -1,6 +1,6 @@
 # Stameni
 
-Stameni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Stameni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 Stameni is a techno and house artist based in Serbia, with 19 gigs on soundcheck across Belgrade and Sofia. Often billed alongside laccotti, Asarri and Monorail. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Stameni is a techno and house artist based in Serbia, with 19 gigs on soundcheck
 
 laccotti, Asarri, Monorail
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*

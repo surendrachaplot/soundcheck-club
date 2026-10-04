@@ -1,6 +1,6 @@
 # GTTRDMMRNG
 
-GTTRDMMRNG is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Forum, Krakow on Thu, 8 Oct 2026.
+GTTRDMMRNG is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Forum, Krakow on Thu, 8 Oct 2026.
 
 GTTRDMMRNG is an electronic artist based in Poland, with 11 gigs on soundcheck across Krakow, Warsaw and Zurich. Often billed alongside Hermeneia, GWAN and Some Guest. Next up: Hotel Forum, Krakow on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ GTTRDMMRNG is an electronic artist based in Poland, with 11 gigs on soundcheck a
 
 Hermeneia, GWAN, Some Guest
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gttrdmmrng/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gttrdmmrng/)*

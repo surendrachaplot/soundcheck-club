@@ -1,6 +1,6 @@
 # Make Money Mafia
 
-Make Money Mafia is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
+Make Money Mafia is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
 
 Make Money Mafia is a bass and house artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside MAÏS, Mutley Mutimer and Faded Society. Next up: The Greyhound, London on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Make Money Mafia is a bass and house artist based in United Kingdom, with 27 gig
 
 MAÏS, Mutley Mutimer, Faded Society
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makemoneymafia/)*

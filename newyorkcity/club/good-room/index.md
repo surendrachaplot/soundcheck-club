@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night)" on Sat, 3 Oct 2026.
+Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night)" on Sat, 3 Oct 2026.
 
 Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

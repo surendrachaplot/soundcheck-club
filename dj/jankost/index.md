@@ -1,6 +1,6 @@
 # Jan Kost
 
-Jan Kost is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
+Jan Kost is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
 
 Jan Kost is a deep house and house artist based in Colombia, with 10 gigs on soundcheck across Melbourne. Often billed alongside A.Well, Oscar de Lima and Joey Coco. Next up: Sub Club Melbourne, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jan Kost is a deep house and house artist based in Colombia, with 10 gigs on sou
 
 A.Well, Oscar de Lima, Joey Coco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jankost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jankost/)*

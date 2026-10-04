@@ -1,6 +1,6 @@
 # moistbreezy
 
-moistbreezy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 13 Nov 2026.
+moistbreezy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 13 Nov 2026.
 
 moistbreezy is a trance and techno artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Barcelona, Boston and Detroit and 11 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and sh4dows. Next up: The Dolphin, Philadelphia on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ moistbreezy is a trance and techno artist based in United States of America, wit
 
 CITYSPROBLEM, Princess Elf Bar, sh4dows
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moistbreezy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moistbreezy/)*

@@ -1,14 +1,13 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Ankara on Sat, 3 Oct 2026.
+KX CHR is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - CLUB MIRADOR INCEK, Ankara on Sat, 3 Oct 2026.
 
-KX CHR is a techno and industrial artist based in France, with 47 gigs on soundcheck across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: TBA, Ankara on Sat 3 Oct.
+KX CHR is a techno and industrial artist based in France, with 47 gigs on soundcheck across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: TBA - CLUB MIRADOR INCEK, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Ankara |
 | Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
@@ -16,17 +15,17 @@ KX CHR is a techno and industrial artist based in France, with 47 gigs on soundc
 
 ## Recently played
 
+- TBA, Ankara · Sat, 3 Oct 2026
+- TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
 - Mia Mao, Paris · Sat, 26 Sept 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - E1, London · Fri, 4 Sept 2026
 - TBA - Brooklyn, New York City · Fri, 7 Aug 2026
 - TBA - DTLA, Los Angeles · Sun, 2 Aug 2026
 - Fuse, Brussels · Fri, 3 Jul 2026
-- Plage Privée Parc de Miribel, Lyon · Sat, 27 Jun 2026
-- Melbourne Showgrounds, Melbourne · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 OMAKS, Alex Farell, Nik Kastel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

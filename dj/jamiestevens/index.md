@@ -1,6 +1,6 @@
 # Jamie Stevens
 
-Jamie Stevens is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Fitzgerald, Brisbane on Sat, 10 Oct 2026.
+Jamie Stevens is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fitzgerald, Brisbane on Sat, 10 Oct 2026.
 
 Jamie Stevens is a progressive house and techno artist based in Australia, with 17 gigs on soundcheck across Auckland, Brisbane, Buenos Aires and Glasgow and 3 more. Often billed alongside Andrew Till, Anthony Pappa and Eric Lune. Next up: The Fitzgerald, Brisbane on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jamie Stevens is a progressive house and techno artist based in Australia, with 
 
 Andrew Till, Anthony Pappa, Eric Lune
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*

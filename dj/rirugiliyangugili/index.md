@@ -1,6 +1,6 @@
 # rirugiliyangugili
 
-rirugiliyangugili is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+rirugiliyangugili is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 rirugiliyangugili is a hardcore and club artist based in Japan, with 14 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside BEENIE PIMP, egomania and moreru. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ rirugiliyangugili is a hardcore and club artist based in Japan, with 14 gigs on 
 
 BEENIE PIMP, egomania, moreru
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rirugiliyangugili/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rirugiliyangugili/)*

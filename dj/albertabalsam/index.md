@@ -1,6 +1,6 @@
 # Alberta Balsam
 
-Alberta Balsam is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+Alberta Balsam is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
 
 Alberta Balsam is a techno and idm artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside French II, Serge and Afra. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Alberta Balsam is a techno and idm artist based in Netherlands, with 47 gigs on 
 
 French II, Serge, Afra
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertabalsam/)*

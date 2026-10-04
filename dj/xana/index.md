@@ -1,6 +1,6 @@
 # Xana
 
-Xana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at R Lounge, Tokyo on Sat, 14 Nov 2026.
+Xana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at R Lounge, Tokyo on Sat, 14 Nov 2026.
 
 Xana is a techno and house artist based in Malaysia, with 15 gigs on soundcheck across Kuala Lumpur, Miami and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: R Lounge, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Xana is a techno and house artist based in Malaysia, with 15 gigs on soundcheck 
 
 1-800-Lolita, SATURNSARii, Mai iachetti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*

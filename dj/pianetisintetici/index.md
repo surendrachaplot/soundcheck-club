@@ -1,6 +1,6 @@
 # Pianeti Sintetici
 
-Pianeti Sintetici is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Pianeti Sintetici is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Pianeti Sintetici is a techno and experimental artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, London and Lyon and 5 more. Often billed alongside ojoo, Konduku and Forest Drive West. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pianeti Sintetici is a techno and experimental artist based in Italy, with 22 gi
 
 ojoo, Konduku, Forest Drive West
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pianetisintetici/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pianetisintetici/)*

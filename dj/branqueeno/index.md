@@ -1,6 +1,6 @@
 # branqueeno
 
-branqueeno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+branqueeno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 branqueeno is a house and tech house artist based in United States of America, with 64 gigs on soundcheck across London, Mexico City, Miami and New York City. Often billed alongside Bustin' Loose, Remniqe and E-Mood. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ branqueeno is a house and tech house artist based in United States of America, w
 
 Bustin' Loose, Remniqe, E-Mood
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/branqueeno/)*

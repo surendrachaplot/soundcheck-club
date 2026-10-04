@@ -1,6 +1,6 @@
 # Ade Kassim
 
-Ade Kassim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
+Ade Kassim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
 
 Ade Kassim is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Montreal and New York City. Often billed alongside Marco Weibel, Spurge and 1morning. Next up: BASEMENT, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ade Kassim is a techno and house artist based in United States of America, with 
 
 Marco Weibel, Spurge, 1morning
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adekassim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adekassim/)*

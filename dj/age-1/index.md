@@ -1,6 +1,6 @@
 # age (1)
 
-age (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - somewhere in nishiazabu, Tokyo on Sat, 24 Oct 2026.
+age (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - somewhere in nishiazabu, Tokyo on Sat, 24 Oct 2026.
 
 age is a techno and trance artist based in Japan, with 11 gigs on soundcheck across Seoul and Tokyo. Often billed alongside UG, Lisa Mizuno and lostbaggage. Next up: TBA - somewhere in nishiazabu, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ age is a techno and trance artist based in Japan, with 11 gigs on soundcheck acr
 
 UG (1), Lisa Mizuno, lostbaggage
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/age-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/age-1/)*

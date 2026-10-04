@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mitsuki, Tokyo on Fri, 9 Oct 2026.
+DJ MARIA. is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mitsuki, Tokyo on Fri, 9 Oct 2026.
 
 DJ MARIA. is a techno and trance artist based in Japan, with 150 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Mitsuki, Tokyo on Fri 9 Oct.
 
@@ -16,6 +16,7 @@ DJ MARIA. is a techno and trance artist based in Japan, with 150 gigs on soundch
 
 ## Recently played
 
+- HVEN, Tokyo · Sat, 3 Oct 2026
 - WOMB, Tokyo · Fri, 2 Oct 2026
 - Somewhere in the Mountains., Bali · Fri, 25 Sept 2026
 - TBA, Montreal · Sun, 20 Sept 2026
@@ -23,10 +24,9 @@ DJ MARIA. is a techno and trance artist based in Japan, with 150 gigs on soundch
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - Signal, New York City · Fri, 11 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
-- ZEROTOKYO, Tokyo · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

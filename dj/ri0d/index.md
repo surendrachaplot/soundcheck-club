@@ -1,6 +1,6 @@
 # Ri0D.
 
-Ri0D. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Ri0D. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
 Ri0D. is a techno and electro artist based in Germany, with 16 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Rn86, nøvae and Simon Phil.ter. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ri0D. is a techno and electro artist based in Germany, with 16 gigs on soundchec
 
 Rn86, nøvae, Simon Phil.ter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ri0d/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ri0d/)*

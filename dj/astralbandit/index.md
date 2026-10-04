@@ -1,6 +1,6 @@
 # Astral Bandit
 
-Astral Bandit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
+Astral Bandit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
 
 Astral Bandit is a techno and trance artist based in United Kingdom, with 19 gigs on soundcheck across Athens, Berlin, Copenhagen and Helsinki and 2 more. Often billed alongside Mvcoko, Nora Asteroid and Troy Violens. Next up: TBA, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Astral Bandit is a techno and trance artist based in United Kingdom, with 19 gig
 
 Mvcoko, Nora Asteroid, Troy Violens
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astralbandit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astralbandit/)*

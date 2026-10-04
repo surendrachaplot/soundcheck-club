@@ -1,6 +1,6 @@
 # Home Bar
 
-Home Bar is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "MANTRA - BY BOTANICA SOUND" on Tue, 13 Oct 2026.
+Home Bar is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "MANTRA - BY BOTANICA SOUND" on Tue, 13 Oct 2026.
 
 Home Bar is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 69 Home Street, Edinburgh, EH39JP.
 
@@ -14,4 +14,4 @@ Home Bar is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See
 
 69 Home Street, Edinburgh, EH39JP, Edinburgh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/home-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/home-bar/)*

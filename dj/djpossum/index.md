@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Solace, Melbourne on Fri, 9 Oct 2026.
+DJ Possum is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Solace, Melbourne on Fri, 9 Oct 2026.
 
 DJ Possum is a house and techno artist based in Colombia, with 90 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Myles Mac, Bex and Terri. Next up: Solace, Melbourne on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ DJ Possum is a house and techno artist based in Colombia, with 90 gigs on soundc
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

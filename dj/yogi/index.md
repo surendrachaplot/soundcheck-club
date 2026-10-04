@@ -1,6 +1,6 @@
 # Yogi
 
-Yogi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sound Machine, Toronto on Sat, 3 Oct 2026.
+Yogi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sound Machine, Toronto on Sat, 3 Oct 2026.
 
 Yogi is a house and club artist based in Canada, with 153 gigs on soundcheck across Amsterdam, Chicago, Lisbon and New York City and 1 more. Often billed alongside Iced Misto, Jason Palma and Dino and Terry. Next up: Sound Machine, Toronto on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Yogi is a house and club artist based in Canada, with 153 gigs on soundcheck acr
 
 ## Recently played
 
+- Sound Machine, Toronto · Sat, 3 Oct 2026
 - Copper Boot, Toronto · Sun, 13 Sept 2026
 - Acqua Supper Club, Toronto · Sun, 6 Sept 2026
 - Copper Boot, Toronto · Sat, 22 Aug 2026
@@ -21,10 +22,9 @@ Yogi is a house and club artist based in Canada, with 153 gigs on soundcheck acr
 - Sound Machine, Toronto · Sat, 25 Jul 2026
 - Woodbine Park, Toronto · Fri, 24 Jul 2026
 - Copper Boot, Toronto · Sat, 18 Jul 2026
-- Wiggle Room, Toronto · Tue, 30 Jun 2026
 
 ## Shares bills with
 
 Iced Misto, Jason Palma, Dino and Terry
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*

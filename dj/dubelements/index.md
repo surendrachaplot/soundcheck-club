@@ -1,6 +1,6 @@
 # Dub Elements
 
-Dub Elements is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fever, Bilbao on Fri, 9 Oct 2026.
+Dub Elements is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fever, Bilbao on Fri, 9 Oct 2026.
 
 Dub Elements is an electronic artist based in Spain, with 7 gigs on soundcheck across Bilbao, Madrid, Porto and Prague and 1 more. Often billed alongside Black Sun Empire, Andy C and Basstripper. Next up: Fever, Bilbao on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Dub Elements is an electronic artist based in Spain, with 7 gigs on soundcheck a
 
 Black Sun Empire, Andy C, Basstripper
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubelements/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubelements/)*

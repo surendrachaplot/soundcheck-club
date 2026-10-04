@@ -1,6 +1,6 @@
 # Gamma Knife
 
-Gamma Knife is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sun, 11 Oct 2026.
+Gamma Knife is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sun, 11 Oct 2026.
 
 Gamma Knife is a techno and electro artist based in South Korea, with 36 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, Jamjari and PSYTONIC. Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Gamma Knife is a techno and electro artist based in South Korea, with 36 gigs on
 
 Honn, Jamjari, PSYTONIC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaknife/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaknife/)*

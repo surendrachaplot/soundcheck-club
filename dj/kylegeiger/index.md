@@ -1,6 +1,6 @@
 # Kyle Geiger
 
-Kyle Geiger is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Fri, 9 Oct 2026.
+Kyle Geiger is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Fri, 9 Oct 2026.
 
 Kyle Geiger is a techno and dub techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 6 more. Often billed alongside Fadi Mohem, Rødhåd and Dustin Zahn. Next up: public records, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Kyle Geiger is a techno and dub techno artist based in United States of America,
 
 Fadi Mohem, Rødhåd, Dustin Zahn
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylegeiger/)*

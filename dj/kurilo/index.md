@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+Kurilo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
 Kurilo is a house and techno artist based in Ukraine, with 125 gigs on soundcheck across Berlin, Boston, Detroit and Krakow and 8 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Kurilo is a house and techno artist based in Ukraine, with 125 gigs on soundchec
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 3 Oct 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 3 Oct 2026.
 
 Max Cooper is a techno and electronica artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Actress, Blawan and Logic1000. Next up: fabric, London on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 127 
 
 ## Recently played
 
+- fabric, London · Sat, 3 Oct 2026
 - Button Factory, Dublin · Sat, 26 Sept 2026
 - Vrachon Theater, Athens · Sun, 20 Sept 2026
 - Rex Club, Paris · Fri, 18 Sept 2026
@@ -25,10 +26,9 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 127 
 - Haus der Visionäre, Berlin · Fri, 24 Jul 2026
 - Maravilla Studios, Mexico City · Sun, 19 Jul 2026
 - Belasco Theater, Los Angeles · Sat, 18 Jul 2026
-- Gray Area, San Francisco/Oakland · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Actress, Blawan, Logic1000
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

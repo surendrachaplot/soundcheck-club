@@ -1,6 +1,6 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
+Lauren Flax is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
 
 Lauren Flax is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Boston and 16 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Green Room NYC, New York City on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ Lauren Flax is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- Green Room NYC, New York City · Sat, 3 Oct 2026
 - Qncc, New York City · Sun, 27 Sept 2026
 - Qncc, New York City · Sun, 27 Sept 2026
 - Qncc, New York City · Sat, 26 Sept 2026
@@ -25,10 +26,9 @@ Lauren Flax is a techno and house artist based in United States of America, with
 - TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
 - Qncc, New York City · Fri, 25 Sept 2026
 - Qncc, New York City · Thu, 24 Sept 2026
-- Club Rawhide, New York City · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

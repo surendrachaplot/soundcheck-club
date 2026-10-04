@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "O'Flynn" on Sat, 3 Oct 2026.
+Fidelity Studio is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Pretty Girl" on Fri, 16 Oct 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Bridge (NY), Dr Banana, Gerd Janson and Leon Vynehall and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Bridge (NY), Dr Banana, Gerd Janson and Leon Vynehall and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | O'Flynn | O'Flynn |
 | Fri, 16 Oct 2026 | Pretty Girl | Pretty Girl |
 | Sat, 17 Oct 2026 | Leon Vynehall & Yu Su | Leon Vynehall, Yu Su |
 | Fri, 23 Oct 2026 | SOLD OUT Romare (DJ Set) | Romare |
@@ -21,4 +20,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 8 upcoming gigs
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

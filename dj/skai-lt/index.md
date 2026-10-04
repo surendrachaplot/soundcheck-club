@@ -1,6 +1,6 @@
 # SKAI (LT)
 
-SKAI (LT) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
+SKAI (LT) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
 SKAI (LT) is a progressive house and techno artist based in Lithuania, with 11 gigs on soundcheck across Copenhagen. Often billed alongside Desaint (DK), Frede (NO) and NILU. Next up: Tap1, Copenhagen on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ SKAI (LT) is a progressive house and techno artist based in Lithuania, with 11 g
 
 ## Recently played
 
+- Tap1, Copenhagen · Sat, 3 Oct 2026
 - Amager Strandpark, Copenhagen · Sat, 11 Jul 2026
 - Langeline Pavillonen, Copenhagen · Sat, 18 Apr 2026
 - Arch, Copenhagen · Wed, 26 Nov 2025
@@ -19,10 +20,9 @@ SKAI (LT) is a progressive house and techno artist based in Lithuania, with 11 g
 - Arch, Copenhagen · Sat, 20 Sept 2025
 - Ukraine House in Denmark, Copenhagen · Sat, 20 Sept 2025
 - Copenhill, Copenhagen · Fri, 19 Sept 2025
-- The Plant, Copenhagen · Sat, 12 Oct 2024
 
 ## Shares bills with
 
 Desaint (DK), Frede (NO), NILU
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skai-lt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skai-lt/)*

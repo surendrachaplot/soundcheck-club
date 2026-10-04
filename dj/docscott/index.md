@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
 
 Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 26 more. Often billed alongside Goldie, Ant TC1 and Grooverider. Next up: Hootananny Brixton, London on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 106 g
 
 ## Recently played
 
+- Hootananny Brixton, London · Sat, 3 Oct 2026
 - Hare & Hounds, Birmingham · Fri, 28 Aug 2026
 - The Cause, London · Sat, 22 Aug 2026
 - Joshua Brooks, Manchester · Fri, 21 Aug 2026
@@ -23,10 +24,9 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 106 g
 - Document, Bristol · Sat, 18 Jul 2026
 - World Headquarters, Newcastle · Fri, 17 Jul 2026
 - Misfits, Melbourne · Sat, 4 Jul 2026
-- Abercrombie Hotel, Sydney · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Goldie, Ant TC1, Grooverider
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

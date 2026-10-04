@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Jesse Futerman & Riohv" on Sat, 3 Oct 2026.
+Bar Datcha is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jesse Futerman & Riohv" on Sat, 3 Oct 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -23,4 +23,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, 
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

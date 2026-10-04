@@ -1,6 +1,6 @@
 # Zaleel
 
-Zaleel is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ballroom at Palais, London on Fri, 16 Oct 2026.
+Zaleel is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ballroom at Palais, London on Fri, 16 Oct 2026.
 
 Zaleel is a bass and pop artist based in United Kingdom, with 27 gigs on soundcheck across London and Manchester. Often billed alongside Manara (UK), Basmati and MOYA_. Next up: Ballroom at Palais, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Zaleel is a bass and pop artist based in United Kingdom, with 27 gigs on soundch
 
 Manara (UK), Basmati (1), MOYA_
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*

@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Summit, Columbus on Sat, 3 Oct 2026.
+Ariel Zetina is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Summit, Columbus on Sat, 3 Oct 2026.
 
 Ariel Zetina is a techno and house artist based in United States of America, with 196 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 24 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: The Summit, Columbus on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 
 ## Recently played
 
+- The Summit, Columbus · Sat, 3 Oct 2026
 - Dorian's, Chicago · Thu, 24 Sept 2026
 - The Jama, Toronto · Sat, 19 Sept 2026
 - Chicago Eagle, Chicago · Sat, 12 Sept 2026
@@ -23,10 +24,9 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 - The Berkeley Suite, Glasgow · Fri, 4 Sept 2026
 - smartbar, Chicago · Sat, 29 Aug 2026
 - Bossa Nova Civic Club, New York City · Thu, 27 Aug 2026
-- Love City Gardens, Philadelphia · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

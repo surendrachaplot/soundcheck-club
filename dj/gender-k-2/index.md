@@ -1,6 +1,6 @@
 # GENDER-K (2)
 
-GENDER-K (2) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
+GENDER-K (2) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
 
 GENDER-K is a techno and gabber artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside EMILIO, KAMIKAZE and KANON. Next up: Cube, Tokyo on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ GENDER-K is a techno and gabber artist based in Japan, with 8 gigs on soundcheck
 
 EMILIO (3), KAMIKAZE, KANON (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*

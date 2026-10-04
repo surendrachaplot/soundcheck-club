@@ -1,6 +1,6 @@
 # Milkpaste
 
-Milkpaste is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
+Milkpaste is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
 
 Milkpaste is a house and techno artist based in Australia, with 24 gigs on soundcheck across South Australia and Sydney. Often billed alongside Unprotected Success, Harry Court and Alex Diwa. Next up: Home of Plenty, South Australia on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Milkpaste is a house and techno artist based in Australia, with 24 gigs on sound
 
 Unprotected Success, Harry Court, Alex Diwa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkpaste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milkpaste/)*

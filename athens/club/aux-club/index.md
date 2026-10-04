@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club" on Sat, 3 Oct 2026.
+AUX Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club" on Sat, 3 Oct 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including a.metz, Adam Des, BASS VIP and BIIA and 2 more. See dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -18,4 +18,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with 
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

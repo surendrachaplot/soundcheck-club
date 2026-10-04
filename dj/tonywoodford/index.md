@@ -1,6 +1,6 @@
 # Tony Woodford
 
-Tony Woodford is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Tony Woodford is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Tony Woodford is a tech house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam and London. Often billed alongside Craze, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Tony Woodford is a tech house and garage artist based in United Kingdom, with 7 
 
 Craze, Huck Finn, Shady Lady
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonywoodford/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonywoodford/)*

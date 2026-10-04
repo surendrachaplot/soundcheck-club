@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ASHAWO" on Sat, 3 Oct 2026.
+Podlasie Club is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ASHAWO" on Sat, 3 Oct 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with line-ups including avas, Beau Wanzer, Beverly Chills and Bok Bok and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -23,4 +23,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

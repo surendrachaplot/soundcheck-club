@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+SLVL is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -23,17 +23,17 @@ SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on sou
 
 ## Recently played
 
+- Complejo Embrujo, South · Sat, 3 Oct 2026
+- Complejo Embrujo, South · Sat, 3 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
 - The Art School, Glasgow · Fri, 25 Sept 2026
 - The Yard Vienna, Vienna · Sat, 12 Sept 2026
 - Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 - Mia Mao, Paris · Fri, 31 Jul 2026
-- TBA - Brooklyn, New York City · Fri, 17 Jul 2026
-- Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

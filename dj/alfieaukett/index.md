@@ -1,6 +1,6 @@
 # Alfie Aukett
 
-Alfie Aukett is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+Alfie Aukett is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
 Alfie Aukett is a house and electro artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Thom Parris, Louis Ray and Ariane V. Next up: fabric, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alfie Aukett is a house and electro artist based in United Kingdom, with 9 gigs 
 
 Thom Parris, Louis Ray, Ariane V
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieaukett/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfieaukett/)*

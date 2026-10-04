@@ -1,6 +1,6 @@
 # Andaz Hotel / Blue Spoon
 
-Andaz Hotel / Blue Spoon is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Loud Ladies Business hub at Andaz Hotel at ADE" on Wed, 21 Oct 2026.
+Andaz Hotel / Blue Spoon is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Loud Ladies Business hub at Andaz Hotel at ADE" on Wed, 21 Oct 2026.
 
 Andaz Hotel / Blue Spoon is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Prinsengracht 587, 1016 HT Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Andaz Hotel / Blue Spoon is a music venue in Amsterdam listed on soundcheck. 3 u
 
 Prinsengracht 587, 1016 HT Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/andaz-hotel-blue-spoon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/andaz-hotel-blue-spoon/)*

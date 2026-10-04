@@ -1,6 +1,6 @@
 # Veinte Uñas
 
-Veinte Uñas is a Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Worm, Rotterdam on Fri, 16 Oct 2026.
+Veinte Uñas is a Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Worm, Rotterdam on Fri, 16 Oct 2026.
 
 Veinte Uñas is a bass and dembow artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Eurowitch, Amir and Dj Babatr. Next up: Worm, Rotterdam on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Veinte Uñas is a bass and dembow artist based in Netherlands, with 6 gigs on so
 
 Eurowitch, Amir, Dj Babatr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veinteunas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veinteunas/)*

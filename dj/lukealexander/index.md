@@ -1,6 +1,6 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
+Luke Alexander is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Russell Industrial Center, Detroit on Sat, 10 Oct 2026.
 
 Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Russell Industrial Center, Detroit on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 18 gi
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

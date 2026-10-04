@@ -1,14 +1,13 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Ankara on Sat, 3 Oct 2026.
+Kø:lab is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - CLUB MIRADOR INCEK, Ankara on Sat, 3 Oct 2026.
 
-Kø:lab is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Berlin and 21 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: TBA, Ankara on Sat 3 Oct.
+Kø:lab is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Berlin and 21 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: TBA - CLUB MIRADOR INCEK, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Ankara |
 | Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
@@ -17,17 +16,17 @@ Kø:lab is a techno and trance artist based in Germany, with 114 gigs on soundch
 
 ## Recently played
 
+- TBA, Ankara · Sat, 3 Oct 2026
+- TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
 - OST, Berlin · Sat, 19 Sept 2026
 - Das Werk, Vienna · Fri, 11 Sept 2026
 - Gleis19, Vienna · Fri, 11 Sept 2026
 - Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
 - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
-- Schrotty, Cologne · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 SEKTOR69, Cara Elizabeth, Dominique Lamee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*

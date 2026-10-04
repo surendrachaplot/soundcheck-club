@@ -1,6 +1,6 @@
 # TRYCE
 
-TRYCE is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kauz, Zurich on Sat, 24 Oct 2026.
+TRYCE is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kauz, Zurich on Sat, 24 Oct 2026.
 
 TRYCE is an experimental and industrial artist based in Italy, with 31 gigs on soundcheck across Berlin, Copenhagen, Leipzig and London and 4 more. Often billed alongside ALEX WANG, Franarchy and ABADIR. Next up: Kauz, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TRYCE is an experimental and industrial artist based in Italy, with 31 gigs on s
 
 ALEX WANG, Franarchy, ABADIR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*

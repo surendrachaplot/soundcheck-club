@@ -1,6 +1,6 @@
 # XD3SIGN
 
-XD3SIGN is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moonlight Lounge, Toronto on Fri, 30 Oct 2026.
+XD3SIGN is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moonlight Lounge, Toronto on Fri, 30 Oct 2026.
 
 XD3SIGN is a hardcore and techno artist based in Canada, with 6 gigs on soundcheck across Toronto. Often billed alongside 25ohms, Audi Étoffe and Forged Reigns. Next up: Moonlight Lounge, Toronto on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ XD3SIGN is a hardcore and techno artist based in Canada, with 6 gigs on soundche
 
 25ohms, Audi Étoffe, Forged Reigns
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xd3sign/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xd3sign/)*

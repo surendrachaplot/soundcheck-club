@@ -1,6 +1,6 @@
 # Euan Fryer
 
-Euan Fryer is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Euan Fryer is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 Euan Fryer is a disco and funk / soul artist, with 28 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and London and 1 more. Often billed alongside Lel Palfrey, Athens of the North and Adam Pits. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Euan Fryer is a disco and funk / soul artist, with 28 gigs on soundcheck across 
 
 Lel Palfrey, Athens of the North, Adam Pits
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*

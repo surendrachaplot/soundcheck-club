@@ -1,6 +1,6 @@
 # Collé
 
-Collé is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Collé is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
 Collé is a house and techno artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and Bedouin. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Collé is a house and techno artist based in Netherlands, with 50 gigs on soundc
 
 Hedda Stenberg, Mees Salomé, Bedouin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*

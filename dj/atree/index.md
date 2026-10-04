@@ -1,6 +1,6 @@
 # Atree
 
-Atree is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
+Atree is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nido Marseille, Marseille on Sat, 31 Oct 2026.
 
 Atree is a house and techno artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Cleymoore, ALINA and rubi*. Next up: Nido Marseille, Marseille on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Atree is a house and techno artist based in Germany, with 52 gigs on soundcheck 
 
 Cleymoore, ALINA (3), rubi*
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atree/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atree/)*

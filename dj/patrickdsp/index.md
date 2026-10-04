@@ -1,6 +1,6 @@
 # Patrick DSP
 
-Patrick DSP is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fuchs2, Prague on Fri, 16 Oct 2026.
+Patrick DSP is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuchs2, Prague on Fri, 16 Oct 2026.
 
 Patrick DSP is a techno and acid artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Milan and 2 more. Often billed alongside Groove Daniel, Lukr Range and Rebekah. Next up: Fuchs2, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Patrick DSP is a techno and acid artist based in Canada, with 13 gigs on soundch
 
 Groove Daniel, Lukr Range, Rebekah
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickdsp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickdsp/)*

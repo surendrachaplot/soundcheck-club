@@ -1,6 +1,6 @@
 # Tromblon
 
-Tromblon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
+Tromblon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
 
 Tromblon is a house and techno artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, Luca Malkos and Mand0. Next up: Story Toronto, Toronto on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Tromblon is a house and techno artist based in Canada, with 4 gigs on soundcheck
 
 KILL 9 1, Luca Malkos, Mand0
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromblon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromblon/)*

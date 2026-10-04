@@ -1,6 +1,6 @@
 # 5.6
 
-5.6 is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Ambient Pillow" on Sat, 24 Oct 2026.
+5.6 is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Ambient Pillow" on Sat, 24 Oct 2026.
 
 5.6 is a music venue in Osaka listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1-18-8, Honjohigashi Kita-ku, Osaka-shi, Osaka-fu, 531-0074, Japan.
 
@@ -15,4 +15,4 @@
 
 1-18-8, Honjohigashi Kita-ku, Osaka-shi, Osaka-fu, 531-0074, Japan, Osaka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/5-6/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/5-6/)*

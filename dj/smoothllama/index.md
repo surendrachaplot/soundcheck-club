@@ -1,6 +1,6 @@
 # Smooth Llama
 
-Smooth Llama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
+Smooth Llama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
 
 Smooth Llama is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Detroit. Often billed alongside Pitchblnd, Brent Shay and Andrea Kalajian. Next up: Corktown Tavern, Detroit on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Smooth Llama is a house and techno artist based in United States of America, wit
 
 Pitchblnd, Brent Shay, Andrea Kalajian
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothllama/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothllama/)*

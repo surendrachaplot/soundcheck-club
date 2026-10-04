@@ -1,6 +1,6 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WDM, Hannover on Fri, 16 Oct 2026.
+Paraçek is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WDM, Hannover on Fri, 16 Oct 2026.
 
 Paraçek is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 17 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: WDM, Hannover on Fri 16 Oct.
 
@@ -36,4 +36,4 @@ Paraçek is a techno and trance artist based in Germany, with 163 gigs on soundc
 
 A.N.I., KLING&KLANG, DJ WASSERFALL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

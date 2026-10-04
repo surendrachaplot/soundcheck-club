@@ -1,6 +1,6 @@
 # Sonny Grin
 
-Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
+Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
 
 Sonny Grin is a hip-hop and r&b artist based in Australia, with 6 gigs on soundcheck across Berlin and Sydney. Often billed alongside Cleo (AU), Luminiah and NanaBcool. Next up: Orangerie Neukölln, Berlin on Tue 6 Oct.
 
@@ -22,4 +22,4 @@ Sonny Grin is a hip-hop and r&b artist based in Australia, with 6 gigs on soundc
 
 Cleo (AU), Luminiah, NanaBcool
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnygrin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnygrin/)*

@@ -1,6 +1,6 @@
 # Komedia Brighton
 
-Komedia Brighton is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "James Lavelle (Unkle / Mo'Wax)" on Tue, 29 Dec 2026.
+Komedia Brighton is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "James Lavelle (Unkle / Mo'Wax)" on Tue, 29 Dec 2026.
 
 Komedia Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming gig, with line-ups including James Lavelle. See dates, start times and who's playing. 44-47 Gardner St, Brighton BN1 1UN, UK.
 
@@ -14,4 +14,4 @@ Komedia Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming g
 
 44-47 Gardner St, Brighton BN1 1UN, UK, Brighton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/komedia-brighton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/komedia-brighton/)*

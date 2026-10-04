@@ -1,6 +1,6 @@
 # Jaeko
 
-Jaeko is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
+Jaeko is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
 Jaeko is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Leeds and London. Often billed alongside ALISHA, DXNBY and Arthh. Next up: Mint XL, Leeds on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jaeko is a house and tech house artist based in United Kingdom, with 11 gigs on 
 
 ALISHA, DXNBY, Arthh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaeko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaeko/)*

@@ -1,6 +1,6 @@
 # 42nd Avenue
 
-42nd Avenue is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+42nd Avenue is a House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 42nd Avenue is a house and minimal techno artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside Caim, Naath and Mia Cecille. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@
 
 Caim, Naath, Mia Cecille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/42ndavenue/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/42ndavenue/)*

@@ -1,6 +1,6 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Helgas Stadtpalast, Mecklenburg-vorpommern on Sat, 3 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Helgas Stadtpalast, Mecklenburg-vorpommern on Sat, 3 Oct 2026.
 
 Trancemaster Krause is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Helgas Stadtpalast, Mecklenburg Vorpommern on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 201 gig
 
 ## Recently played
 
+- Helgas Stadtpalast, Mecklenburg-vorpommern · Sat, 3 Oct 2026
 - Strasse E, Dresden · Fri, 2 Oct 2026
 - Grelle Forelle, Vienna · Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 201 gig
 - Bootshaus, Cologne · Fri, 18 Sept 2026
 - Fabrik, Madrid · Sat, 12 Sept 2026
 - Lehmann Club, Stuttgart · Fri, 11 Sept 2026
-- TBA, Melbourne · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

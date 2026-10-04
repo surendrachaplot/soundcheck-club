@@ -1,6 +1,6 @@
 # Martinou
 
-Martinou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Under Bron, Stockholm on Sat, 17 Oct 2026.
+Martinou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Under Bron, Stockholm on Sat, 17 Oct 2026.
 
 Martinou is a techno and house artist based in Sweden, with 35 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 8 more. Often billed alongside Hame, Ben Kaczor and Hafa. Next up: Under Bron, Stockholm on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Martinou is a techno and house artist based in Sweden, with 35 gigs on soundchec
 
 Hame (1), Ben Kaczor, Hafa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*

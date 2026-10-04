@@ -1,6 +1,6 @@
 # HMEHDI
 
-HMEHDI is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
+HMEHDI is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
 
 HMEHDI is a techno and electronica artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Grillac, XZ5000 and Nizo. Next up: Sameheads, Berlin on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ HMEHDI is a techno and electronica artist, with 6 gigs on soundcheck across Berl
 
 Grillac, XZ5000, Nizo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmehdi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hmehdi/)*

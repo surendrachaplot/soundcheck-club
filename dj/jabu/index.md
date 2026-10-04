@@ -1,6 +1,6 @@
 # Jabu
 
-Jabu is a Experimental and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
+Jabu is a Experimental and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
 
 Jabu is an experimental and minimal techno artist based in United Kingdom, with 22 gigs on soundcheck across Belgrade, Berlin, Bristol and Brussels and 9 more. Often billed alongside Memotone, Anina and i-sha. Next up: TBA - Belgrade Around City Centre, Belgrade on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Jabu is an experimental and minimal techno artist based in United Kingdom, with 
 
 Memotone, Anina, i-sha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jabu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jabu/)*

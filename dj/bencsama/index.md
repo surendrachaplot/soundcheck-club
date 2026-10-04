@@ -1,6 +1,6 @@
 # Bencsama
 
-Bencsama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
+Bencsama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
 Bencsama is a techno and house artist based in Italy, with 21 gigs on soundcheck across Budapest. Often billed alongside CRB, Atashi and Cry Later. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Bencsama is a techno and house artist based in Italy, with 21 gigs on soundcheck
 
 CRB, Atashi, Cry Later
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bencsama/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bencsama/)*

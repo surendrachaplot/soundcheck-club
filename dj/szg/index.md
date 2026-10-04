@@ -1,6 +1,6 @@
 # SZG
 
-SZG is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
+SZG is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
 
 SZG is a techno and trance artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Gotec, Karlsruhe on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ SZG is a techno and trance artist based in Germany, with 116 gigs on soundcheck 
 
 Arman John, Cara Elizabeth, DJ GUESTLIST
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

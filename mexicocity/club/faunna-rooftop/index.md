@@ -1,6 +1,6 @@
 # Faunna Rooftop
 
-Faunna Rooftop is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "HAUNTED GROOVES BY SINESTHESIA" on Fri, 30 Oct 2026.
+Faunna Rooftop is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "HAUNTED GROOVES BY SINESTHESIA" on Fri, 30 Oct 2026.
 
 Faunna Rooftop is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Av. Juarez 104, Colonia Centro, Centro, Cuauhtémoc, 06040, CDMX.
 
@@ -14,4 +14,4 @@ Faunna Rooftop is a music venue in Mexico City listed on soundcheck. 1 upcoming 
 
 Av. Juarez 104, Colonia Centro, Centro, Cuauhtémoc, 06040, CDMX, Mexico City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/faunna-rooftop/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/faunna-rooftop/)*

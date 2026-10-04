@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "presented by MEGAHERTZ: MHZ X Obf Sync Warehouse party" on Sun, 4 Oct 2026.
+Modeci is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "presented by MEGAHERTZ: MHZ X Obf Sync Warehouse party" on Sun, 4 Oct 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Co.kr, Acidwork, AEIDA and BAAWLA and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -16,4 +16,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

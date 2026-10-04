@@ -1,6 +1,6 @@
 # Ulysse
 
-Ulysse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Die Schneiderei, Zurich on Fri, 9 Oct 2026.
+Ulysse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Die Schneiderei, Zurich on Fri, 9 Oct 2026.
 
 Ulysse is a house and techno artist, with 7 gigs on soundcheck across London and Zurich. Often billed alongside Alessandro Miranda, Amy Cutter and DMC.. Next up: Die Schneiderei, Zurich on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Ulysse is a house and techno artist, with 7 gigs on soundcheck across London and
 
 Alessandro Miranda, Amy Cutter, DMC.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*

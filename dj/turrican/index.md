@@ -1,6 +1,6 @@
 # Turrican
 
-Turrican is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+Turrican is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Turrican is a bass and drum & bass artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside alllone, Survey and Mc Jamie White. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Turrican is a bass and drum & bass artist based in Germany, with 16 gigs on soun
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - Gretchen, Berlin · Sat, 27 Jun 2026
 - Gretchen, Berlin · Sun, 21 Jun 2026
 - Gretchen, Berlin · Sat, 9 Aug 2025
@@ -19,10 +20,9 @@ Turrican is a bass and drum & bass artist based in Germany, with 16 gigs on soun
 - Gretchen, Berlin · Sat, 9 Nov 2024
 - Gretchen, Berlin · Wed, 2 Oct 2024
 - Gretchen, Berlin · Sat, 13 Jul 2024
-- Gretchen, Berlin · Sat, 13 Jul 2024
 
 ## Shares bills with
 
 alllone, Survey, Mc Jamie White
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turrican/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turrican/)*

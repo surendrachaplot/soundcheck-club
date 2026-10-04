@@ -1,6 +1,6 @@
 # Freska
 
-Freska is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
+Freska is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 16 Oct 2026.
 
 Freska is an acid and techno artist based in Russia, with 7 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Dj Yulya Yudenich, DJ Final Boss and Fellino. Next up: Hangar48 Club, Madrid on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Freska is an acid and techno artist based in Russia, with 7 gigs on soundcheck a
 
 Dj Yulya Yudenich, DJ Final Boss, Fellino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freska/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freska/)*

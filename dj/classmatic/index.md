@@ -1,6 +1,6 @@
 # Classmatic
 
-Classmatic is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Space Miami, Miami on Sat, 10 Oct 2026.
+Classmatic is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Space Miami, Miami on Sat, 10 Oct 2026.
 
 Classmatic is a tech house and house artist based in Brazil, with 87 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside The Martinez Brothers, Paco Osuna and Jesse Calosso. Next up: Club Space Miami, Miami on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Classmatic is a tech house and house artist based in Brazil, with 87 gigs on sou
 
 The Martinez Brothers, Paco Osuna, Jesse Calosso
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*

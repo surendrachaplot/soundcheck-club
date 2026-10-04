@@ -1,6 +1,6 @@
 # Matteo Freyrie
 
-Matteo Freyrie is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
+Matteo Freyrie is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
 
 Matteo Freyrie is a techno and tech house artist based in Australia, with 84 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Etwas, Andrea Guadalupi and Ophelie Mercury. Next up: TBA - Il Mercato Centrale, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Matteo Freyrie is a techno and tech house artist based in Australia, with 84 gig
 
 Etwas, Andrea Guadalupi, Ophelie Mercury
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteofreyrie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteofreyrie/)*

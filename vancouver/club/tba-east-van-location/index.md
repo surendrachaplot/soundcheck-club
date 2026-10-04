@@ -1,6 +1,6 @@
 # TBA - East Van location 
 
-TBA - East Van location  is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "NIGHT TALES" on Sat, 3 Oct 2026.
+TBA - East Van location  is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "NIGHT TALES" on Sat, 3 Oct 2026.
 
 TBA - East Van location  is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Fisher Bryce, Sharlese and ZIGGY ZAYA. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - East Van location  is a music venue in Vancouver listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NIGHT TALES | Fisher Bryce, Sharlese, ZIGGY ZAYA |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-east-van-location/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-east-van-location/)*

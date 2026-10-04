@@ -1,6 +1,6 @@
 # TOBEHONEST
 
-TOBEHONEST is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Academy LA, Los Angeles on Sat, 10 Oct 2026.
+TOBEHONEST is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Academy LA, Los Angeles on Sat, 10 Oct 2026.
 
 TOBEHONEST is a house and tech house artist based in United States of America, with 39 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 10 more. Often billed alongside Davibe, Walker & Royce and Wax Motif. Next up: Academy LA, Los Angeles on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ TOBEHONEST is a house and tech house artist based in United States of America, w
 
 Davibe, Walker & Royce, Wax Motif
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*

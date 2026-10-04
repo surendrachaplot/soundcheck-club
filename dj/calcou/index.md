@@ -1,6 +1,6 @@
 # Calcou
 
-Calcou is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 12 Dec 2026.
+Calcou is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 12 Dec 2026.
 
 Calcou is a house and progressive house artist based in Germany, with 5 gigs on soundcheck across Berlin, London and The Hague. Often billed alongside Jody Wisternoff, Because of Art and Braxton. Next up: The Cause, London on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Calcou is a house and progressive house artist based in Germany, with 5 gigs on 
 
 Jody Wisternoff, Because of Art, Braxton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calcou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calcou/)*

@@ -1,6 +1,6 @@
 # AUGUSTE
 
-AUGUSTE is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gallery, London on Thu, 8 Oct 2026.
+AUGUSTE is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gallery, London on Thu, 8 Oct 2026.
 
 AUGUSTE is an afro house and house artist, with 27 gigs on soundcheck across Detroit, Ibiza, London and Los Angeles and 5 more. Often billed alongside DJ Habibeats, Vann Essa and Admiral. Next up: Gallery, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ AUGUSTE is an afro house and house artist, with 27 gigs on soundcheck across Det
 
 DJ Habibeats, Vann Essa, Admiral
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auguste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auguste/)*

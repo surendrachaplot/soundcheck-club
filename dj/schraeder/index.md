@@ -1,6 +1,6 @@
 # schraeder
 
-schraeder is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+schraeder is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
 schraeder is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Budapest. Often billed alongside CRB, Rovizz and DJ RENT A TENT. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ schraeder is a techno and trance artist based in Germany, with 68 gigs on soundc
 
 CRB, Rovizz, DJ RENT A TENT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schraeder/)*

@@ -1,6 +1,6 @@
 # Patch+
 
-Patch+ is a Experimental and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Patch+ is a Experimental and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Patch+ is an experimental and electro artist based in United States of America, with 15 gigs on soundcheck across Berlin, Brussels, London and Los Angeles and 5 more. Often billed alongside Deer park, AYEGY and B0YG1RL. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Patch+ is an experimental and electro artist based in United States of America, 
 
 Deer park, AYEGY, B0YG1RL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*

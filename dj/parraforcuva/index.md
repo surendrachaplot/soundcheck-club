@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Komplex Klub, Zurich on Sun, 4 Oct 2026.
+Parra for Cuva is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Komplex Klub, Zurich on Sun, 4 Oct 2026.
 
 Parra for Cuva is a house and electronica artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Komplex Klub, Zurich on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ Parra for Cuva is a house and electronica artist based in Germany, with 73 gigs 
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

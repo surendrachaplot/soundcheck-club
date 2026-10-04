@@ -1,6 +1,6 @@
 # Francesco Zappala
 
-Francesco Zappala is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 10 Oct 2026.
+Francesco Zappala is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soap House - Ex Saponerie Mira Lanza, Rome on Sat, 10 Oct 2026.
 
 Francesco Zappala is a techno and acid artist, with 7 gigs on soundcheck across Milan and Rome. Often billed alongside Cirillo, D Lewis and Emix. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Francesco Zappala is a techno and acid artist, with 7 gigs on soundcheck across 
 
 Cirillo, D Lewis, Emix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescozappala/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescozappala/)*

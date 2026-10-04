@@ -1,6 +1,6 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nyapi, Seoul on Sun, 4 Oct 2026.
+Eric Duncan is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nyapi, Seoul on Sun, 4 Oct 2026.
 
 Eric Duncan is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Athens, Bangkok, Belgrade and Berlin and 18 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Nyapi, Seoul on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Eric Duncan is a house and disco artist based in United States of America, with 
 
 FFAN, Monkey Timers, YOSHIHAARAA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericduncan/)*

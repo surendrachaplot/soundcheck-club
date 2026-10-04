@@ -1,6 +1,6 @@
 # Nuit Claire
 
-Nuit Claire is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
+Nuit Claire is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
 
 Nuit Claire is a techno and trance artist, with 9 gigs on soundcheck across Berlin, Brussels, Osaka and Paris and 1 more. Often billed alongside Himeji, Le Saint and Manon Démon. Next up: Virage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nuit Claire is a techno and trance artist, with 9 gigs on soundcheck across Berl
 
 Himeji, Le Saint, Manon Démon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuitclaire/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuitclaire/)*

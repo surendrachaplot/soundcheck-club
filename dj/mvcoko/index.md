@@ -1,6 +1,6 @@
 # Mvcoko
 
-Mvcoko is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
+Mvcoko is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
 
 Mvcoko is a techno and experimental artist based in United Kingdom, with 49 gigs on soundcheck across Berlin, Bristol, Glasgow and Leeds and 4 more. Often billed alongside Blood of Aza, KLAUDIO and KAVARI. Next up: BASIS, Utrecht on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Mvcoko is a techno and experimental artist based in United Kingdom, with 49 gigs
 
 Blood of Aza, KLAUDIO, KAVARI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvcoko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvcoko/)*

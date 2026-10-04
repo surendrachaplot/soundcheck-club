@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PIXEL VOL 3 W ROBS [IT/ DE]  PRE REGISTER FOR FRE ENTRY" on Fri, 9 Oct 2026.
+B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PIXEL VOL 3 W ROBS [IT/ DE]  PRE REGISTER FOR FRE ENTRY" on Fri, 9 Oct 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with line-ups including Balmishev, Diego Krause, Electricano and Kapusta and 2 more. See dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -19,4 +19,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with li
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

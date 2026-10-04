@@ -1,6 +1,6 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Open Park, Punta del Este, Uruguay on Sat, 2 Jan 2027.
+ANTO ZAGU is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Open Park, Punta del Este, Uruguay on Sat, 2 Jan 2027.
 
 ANTO ZAGU is a house and electronica artist, with 12 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 4 more. Often billed alongside ARVØW, Alev Tav and Argia. Next up: TBA - Open Park, Punta del Este, Uruguay on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ ANTO ZAGU is a house and electronica artist, with 12 gigs on soundcheck across A
 
 ARVØW, Alev Tav, Argia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

@@ -1,6 +1,6 @@
 # Afrodite (2)
 
-Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
 Afrodite is a house and techno artist, with 101 gigs on soundcheck across Hong Kong, Seoul, South Korea and Tokyo. Often billed alongside Gumi, Moeuv and Doyeon. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Afrodite is a house and techno artist, with 101 gigs on soundcheck across Hong K
 
 ## Recently played
 
+- TBA - 고성 잼버리 수련장, 강원도, South-korea · Sat, 3 Oct 2026
 - Yless, Seoul · Sat, 19 Sept 2026
 - Nyapi, Seoul · Fri, 29 May 2026
 - Grain Haus, Seoul · Sat, 9 May 2026
@@ -19,10 +20,9 @@ Afrodite is a house and techno artist, with 101 gigs on soundcheck across Hong K
 - BBCB: Beton Brut+Concrete Bar, Seoul · Thu, 2 Apr 2026
 - TCC Seoul, Seoul · Sat, 28 Mar 2026
 - Stoked&stoned, Seoul · Tue, 3 Mar 2026
-- BBCB: Beton Brut+Concrete Bar, Seoul · Thu, 12 Feb 2026
 
 ## Shares bills with
 
 Gumi, Moeuv, Doyeon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*

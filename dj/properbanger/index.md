@@ -1,6 +1,6 @@
 # Proper Banger
 
-Proper Banger is a Minimal Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Panama, Amsterdam on Sat, 24 Oct 2026.
+Proper Banger is a Minimal Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Panama, Amsterdam on Sat, 24 Oct 2026.
 
 Proper Banger is a minimal techno and tech house artist based in Portugal, with 4 gigs on soundcheck across Amsterdam, Malta and North Macedonia. Often billed alongside Philip Ackowsky, BOA and Kate Moss. Next up: Panama, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Proper Banger is a minimal techno and tech house artist based in Portugal, with 
 
 Philip Ackowsky, BOA (1), Kate Moss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/properbanger/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/properbanger/)*

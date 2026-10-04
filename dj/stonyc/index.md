@@ -1,6 +1,6 @@
 # Stony C
 
-Stony C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
+Stony C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
 
 Stony C is a techno and house artist based in Serbia, with 22 gigs on soundcheck across Belgrade. Often billed alongside Mark Aasgier, Boychevski and Emma H. Next up: Drugstore Beograd, Belgrade on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Stony C is a techno and house artist based in Serbia, with 22 gigs on soundcheck
 
 Mark Aasgier, Boychevski, Emma H
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonyc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonyc/)*

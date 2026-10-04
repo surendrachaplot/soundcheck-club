@@ -1,6 +1,6 @@
 # Charlemagne Palestine
 
-Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
+Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
 
 Charlemagne Palestine is an experimental and electronica artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Netherlands and 4 more. Often billed alongside Oren Ambarchi, Brian Eno and Carl Stone. Next up: Het Burgerweeshuis, Netherlands on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Charlemagne Palestine is an experimental and electronica artist based in United 
 
 ## Recently played
 
+- Het Burgerweeshuis, Netherlands · Sat, 3 Oct 2026
 - TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City · Fri, 25 Sept 2026
 - Muziekgebouw aan t' IJ, Amsterdam · Fri, 17 Apr 2026
 - Blå, Oslo · Wed, 29 Oct 2025
@@ -24,4 +25,4 @@ Charlemagne Palestine is an experimental and electronica artist based in United 
 
 Oren Ambarchi, Brian Eno, Carl Stone
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*

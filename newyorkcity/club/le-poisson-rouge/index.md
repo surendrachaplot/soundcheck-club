@@ -1,6 +1,6 @@
 # Le Poisson Rouge
 
-Le Poisson Rouge is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ULTRA SUNN with Soft Vein + DJ Jeffo" on Sat, 17 Oct 2026.
+Le Poisson Rouge is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ULTRA SUNN with Soft Vein + DJ Jeffo" on Sat, 17 Oct 2026.
 
 Le Poisson Rouge is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including bradeazy and corto.alto. See dates, start times and who's playing. 158 Bleecker Street; New York, NY 10012; United States.
 
@@ -16,4 +16,4 @@ Le Poisson Rouge is a music venue in New York City listed on soundcheck. 3 upcom
 
 158 Bleecker Street; New York, NY 10012; United States, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-poisson-rouge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-poisson-rouge/)*

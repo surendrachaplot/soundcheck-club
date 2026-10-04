@@ -1,6 +1,6 @@
 # Et Cetera
 
-Et Cetera is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
+Et Cetera is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 Et Cetera is a house and techno artist based in Lithuania, with 7 gigs on soundcheck across Berlin, Copenhagen, Riga and Sao Paulo and 1 more. Often billed alongside 999999999, ANNYL and Acidless. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Et Cetera is a house and techno artist based in Lithuania, with 7 gigs on soundc
 
 999999999, ANNYL, Acidless
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*

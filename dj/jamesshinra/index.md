@@ -1,6 +1,6 @@
 # James Shinra
 
-James Shinra is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
+James Shinra is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
 
 James Shinra is an electro and techno artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Bristol, Dublin and London and 6 more. Often billed alongside Alien Communications, Andy Garvey and Annie Hall. Next up: radial, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ James Shinra is an electro and techno artist based in United Kingdom, with 17 gi
 
 Alien Communications, Andy Garvey, Annie Hall
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*

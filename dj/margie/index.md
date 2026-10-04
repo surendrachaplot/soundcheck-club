@@ -1,6 +1,6 @@
 # Margie
 
-Margie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 9 Oct 2026.
+Margie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 9 Oct 2026.
 
 Margie is a house and disco artist, with 28 gigs on soundcheck across Amsterdam, Madrid, Manchester and Netherlands and 2 more. Often billed alongside Garnett, Annebel and Mowgli (NL). Next up: Hall of Fame, Netherlands on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Margie is a house and disco artist, with 28 gigs on soundcheck across Amsterdam,
 
 Garnett, Annebel, Mowgli (NL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margie/)*

@@ -1,6 +1,6 @@
 # UMAFRICANA
 
-UMAFRICANA is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moon Club, Lisbon on Sat, 3 Oct 2026.
+UMAFRICANA is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moon Club, Lisbon on Sat, 3 Oct 2026.
 
 UMAFRICANA is a club and electronica artist based in Portugal, with 25 gigs on soundcheck across Lisbon and Paris. Often billed alongside Von Di, Marcolan and Saint Caboclo. Next up: Moon Club, Lisbon on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ UMAFRICANA is a club and electronica artist based in Portugal, with 25 gigs on s
 
 ## Recently played
 
+- Moon Club, Lisbon · Sat, 3 Oct 2026
 - Duro de Matar, Lisbon · Fri, 31 Jul 2026
 - Casa Capitão, Lisbon · Sat, 20 Dec 2025
 - Duro de Matar, Lisbon · Fri, 28 Nov 2025
@@ -19,10 +20,9 @@ UMAFRICANA is a club and electronica artist based in Portugal, with 25 gigs on s
 - Village Underground Lisboa, Lisbon · Fri, 3 Oct 2025
 - Musa de Marvila, Lisbon · Fri, 5 Sept 2025
 - Dr Bernard Costa da Caparica, Lisbon · Sat, 23 Aug 2025
-- Lux Fragil, Lisbon · Thu, 31 Jul 2025
 
 ## Shares bills with
 
 Von Di, Marcolan, Saint Caboclo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*

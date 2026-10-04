@@ -1,6 +1,6 @@
 # NOON
 
-NOON is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
+NOON is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
 
 NOON is a bass and techno artist based in France, with 10 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Paris. Often billed alongside Unsho, Antoine Calvino and Baila Morena. Next up: Badaboum, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NOON is a bass and techno artist based in France, with 10 gigs on soundcheck acr
 
 Unsho, Antoine Calvino, Baila Morena
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noon/)*

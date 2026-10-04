@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a House and Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Audio SF, San Francisco/Oakland on Fri, 9 Oct 2026.
+Baauer is a House and Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Audio SF, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Baauer is a house and bass artist based in United States of America, with 24 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 9 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and A-Trak. Next up: Audio SF, San Francisco/Oakland on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Baauer is a house and bass artist based in United States of America, with 24 gig
 
 Bianca Oblivion, Hudson Mohawke, A-Trak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

@@ -1,6 +1,6 @@
 # Dachen
 
-Dachen is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
+Dachen is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Thu, 8 Oct 2026.
 
 Dachen is an electronica and pop artist based in United States of America, with 5 gigs on soundcheck across London, New York City and Shenzhen. Often billed alongside 444theGod, Beibeilon and CLAIR (BAI). Next up: M.O.T, London on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Dachen is an electronica and pop artist based in United States of America, with 
 
 444theGod, Beibeilon, CLAIR (BAI)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dachen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dachen/)*

@@ -1,6 +1,6 @@
 # Andy Stott
 
-Andy Stott is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kingdom Nightclub, Austin on Fri, 9 Oct 2026.
+Andy Stott is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kingdom Nightclub, Austin on Fri, 9 Oct 2026.
 
 Andy Stott is an experimental and electronica artist based in United Kingdom, with 30 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 19 more. Often billed alongside Debit, Demdike Stare and The Bug. Next up: Kingdom Nightclub, Austin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Andy Stott is an experimental and electronica artist based in United Kingdom, wi
 
 Debit, Demdike Stare, The Bug
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*

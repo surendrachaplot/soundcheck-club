@@ -1,6 +1,6 @@
 # Esmé
 
-Esmé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Esmé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Esmé is a techno and house artist based in United Kingdom, with 88 gigs on soundcheck across Glasgow, Leeds, Liverpool and London and 3 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Esmé is a techno and house artist based in United Kingdom, with 88 gigs on soun
 
 April (UK), Jase Jeffery, Luke Daniels
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*

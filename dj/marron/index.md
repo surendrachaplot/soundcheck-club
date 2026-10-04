@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 MARRØN is a techno and house artist based in Netherlands, with 271 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ MARRØN is a techno and house artist based in Netherlands, with 271 gigs on soun
 
 ## Recently played
 
+- Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 2 Oct 2026
 - TBA - Los Angeles, Los Angeles · Sat, 26 Sept 2026
 - TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist based in Netherlands, with 271 gigs on soun
 - Flash, Washington DC · Sat, 19 Sept 2026
 - TBA - Brooklyn, New York City · Fri, 18 Sept 2026
 - Descent, Boston · Thu, 17 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

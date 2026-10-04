@@ -1,6 +1,6 @@
 # Jetti
 
-Jetti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+Jetti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
 Jetti is a techno and house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jetti is a techno and house artist based in Netherlands, with 58 gigs on soundch
 
 Post, Jeans (NL), David Vunk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

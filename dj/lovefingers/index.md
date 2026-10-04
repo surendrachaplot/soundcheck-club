@@ -1,6 +1,6 @@
 # Lovefingers
 
-Lovefingers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 9 Oct 2026.
+Lovefingers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Lovefingers is a house and disco artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 24 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lovefingers is a house and disco artist based in United States of America, with 
 
 Heidi Lawden, Bears In Space, Stacy Christine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*

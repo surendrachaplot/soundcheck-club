@@ -1,6 +1,6 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+HoneyLuv is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 HoneyLuv is a house and tech house artist based in United States of America, with 170 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -32,4 +32,4 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 
 Dennis Ferrer, Nic Fanciulli, Andrea Oliva
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

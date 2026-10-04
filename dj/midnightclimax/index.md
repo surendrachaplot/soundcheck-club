@@ -1,6 +1,6 @@
 # Midnight Climax
 
-Midnight Climax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Midnight Climax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Midnight Climax is a techno and trance artist based in United States of America, with 22 gigs on soundcheck across Austin, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside PAX, CUNT REMEMBER and Reinhaudt. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Midnight Climax is a techno and trance artist based in United States of America,
 
 PAX (2), CUNT REMEMBER, Reinhaudt
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightclimax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightclimax/)*

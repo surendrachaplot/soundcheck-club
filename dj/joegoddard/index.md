@@ -1,6 +1,6 @@
 # Joe Goddard
 
-Joe Goddard is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Joe Goddard is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Joe Goddard is a house and disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Colleen 'Cosmo' Murphy, Hot Chip and Alexis Taylor. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joe Goddard is a house and disco artist based in United Kingdom, with 58 gigs on
 
 Colleen 'Cosmo' Murphy, Hot Chip, Alexis Taylor
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*

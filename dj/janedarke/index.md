@@ -1,6 +1,6 @@
 # Jane Darke
 
-Jane Darke is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
+Jane Darke is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
 
 Jane Darke is a techno and ebm artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: Sneaky Pete's, Edinburgh on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Jane Darke is a techno and ebm artist based in United Kingdom, with 20 gigs on s
 
 JON KRIEGER, Arrosa, Claudia Kane
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*

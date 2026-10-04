@@ -1,6 +1,6 @@
 # Shield
 
-Shield is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hearth, Amsterdam on Thu, 22 Oct 2026.
+Shield is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hearth, Amsterdam on Thu, 22 Oct 2026.
 
 Shield is a balearic and house artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside Chromatic Filters, Albert Marzinotto and CC:DISCO!. Next up: Hearth, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Shield is a balearic and house artist based in Italy, with 6 gigs on soundcheck 
 
 Chromatic Filters, Albert Marzinotto, CC:DISCO!
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shield/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shield/)*

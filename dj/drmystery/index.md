@@ -1,6 +1,6 @@
 # DR MYSTERY
 
-DR MYSTERY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+DR MYSTERY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 DR MYSTERY is a techno and bass artist based in Latvia, with 32 gigs on soundcheck across London, Manchester, Riga and Sheffield. Often billed alongside Obeka, Henzo and Korzi. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DR MYSTERY is a techno and bass artist based in Latvia, with 32 gigs on soundche
 
 Obeka, Henzo, Korzi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*

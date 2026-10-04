@@ -1,6 +1,6 @@
 # kieniewicz
 
-kieniewicz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
+kieniewicz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
 
 kieniewicz is a techno and house artist, with 8 gigs on soundcheck across Warsaw. Often billed alongside Medzz, Blamcior and Benwal. Next up: Smolna, Warsaw on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ kieniewicz is a techno and house artist, with 8 gigs on soundcheck across Warsaw
 
 Medzz, Blamcior, Benwal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieniewicz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kieniewicz/)*

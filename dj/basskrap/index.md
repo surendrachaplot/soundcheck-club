@@ -1,6 +1,6 @@
 # BASSKRAP
 
-BASSKRAP is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Luka, Seoul on Fri, 9 Oct 2026.
+BASSKRAP is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Luka, Seoul on Fri, 9 Oct 2026.
 
 BASSKRAP is a hardcore and techno artist based in South Korea, with 34 gigs on soundcheck across Bangkok, Nantes and Seoul. Often billed alongside Carbonatez, Pennywize and D.E.F. Next up: Luka, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BASSKRAP is a hardcore and techno artist based in South Korea, with 34 gigs on s
 
 Carbonatez, Pennywize, D.E.F
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basskrap/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basskrap/)*

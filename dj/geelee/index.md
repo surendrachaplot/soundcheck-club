@@ -1,6 +1,6 @@
 # GEE LEE
 
-GEE LEE is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
+GEE LEE is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
 
 GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside JACK MARLOW, salameh and Shaolin Cowboy. Next up: TBA - DTLA, Los Angeles on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ GEE LEE is a house and garage artist based in United Kingdom, with 51 gigs on so
 
 JACK MARLOW, salameh, Shaolin Cowboy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*

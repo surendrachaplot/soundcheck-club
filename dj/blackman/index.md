@@ -1,6 +1,6 @@
 # Blackman
 
-Blackman is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
+Blackman is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
 Blackman is a club and techno artist based in Canada, with 22 gigs on soundcheck across Budapest and Toronto. Often billed alongside Wavy Oasis, Prince Batrick and Ard1n. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Blackman is a club and techno artist based in Canada, with 22 gigs on soundcheck
 
 Wavy Oasis, Prince Batrick, Ard1n
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackman/)*

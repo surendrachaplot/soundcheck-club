@@ -1,6 +1,6 @@
 # Alpaca_
 
-Alpaca_ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jupiter Disco, New York City on Wed, 28 Oct 2026.
+Alpaca_ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jupiter Disco, New York City on Wed, 28 Oct 2026.
 
 Alpaca_ is a house and deep house artist, with 6 gigs on soundcheck across New York City. Often billed alongside FI-LO and Tommy Castro. Next up: Jupiter Disco, New York City on Wed 28 Oct.
 
@@ -22,4 +22,4 @@ Alpaca_ is a house and deep house artist, with 6 gigs on soundcheck across New Y
 
 FI-LO, Tommy Castro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaca_/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaca_/)*

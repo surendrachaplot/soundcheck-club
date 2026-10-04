@@ -1,6 +1,6 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Born 2 Bounce: Paul Meier, Saphyr & More" on Sat, 3 Oct 2026.
+Nouveau Casino is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Born 2 Bounce: Paul Meier, Saphyr & More" on Sat, 3 Oct 2026.
 
 Nouveau Casino is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Manson, Keeno, Lawrence Lee and Paul Meier. See dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
@@ -16,4 +16,4 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 3 upcoming gigs, 
 
 109 Rue Oberkampf, 75011 Paris, France, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*

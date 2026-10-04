@@ -1,6 +1,6 @@
 # Vaninajaz.
 
-Vaninajaz. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
+Vaninajaz. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
 
 Vaninajaz. is a house and tech house artist based in Argentina, with 6 gigs on soundcheck across Barcelona. Often billed alongside Devicious, Dimarziio and LORZA. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ Vaninajaz. is a house and tech house artist based in Argentina, with 6 gigs on s
 
 Devicious, Dimarziio, LORZA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*

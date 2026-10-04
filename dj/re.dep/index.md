@@ -1,6 +1,6 @@
 # Re.dep
 
-Re.dep is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Re.dep is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
 
 Re.dep is a house and minimal artist based in Switzerland, with 7 gigs on soundcheck across Basel, Berlin, Bucharest and Edinburgh and 1 more. Often billed alongside Renzo, Constratti and Dece.. Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Re.dep is a house and minimal artist based in Switzerland, with 7 gigs on soundc
 
 Renzo (3), Constratti, Dece.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/re.dep/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/re.dep/)*

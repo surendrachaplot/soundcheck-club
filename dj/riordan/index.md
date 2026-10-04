@@ -1,6 +1,6 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 9 Oct 2026.
+Riordan is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Riordan is a house and tech house artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: 1015 Folsom, San Francisco/Oakland on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Riordan is a house and tech house artist based in United Kingdom, with 126 gigs 
 
 Gorgon City, Prunk, Jackie Hollander
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

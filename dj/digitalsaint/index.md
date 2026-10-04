@@ -1,6 +1,6 @@
 # DIGITALSAINT
 
-DIGITALSAINT is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moustache Bar, London on Fri, 9 Oct 2026.
+DIGITALSAINT is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moustache Bar, London on Fri, 9 Oct 2026.
 
 DIGITALSAINT is a club and disco artist based in Ireland, with 15 gigs on soundcheck across London. Often billed alongside Blue Ringed Baby, fAt-lÏP and midnightswami. Next up: Moustache Bar, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DIGITALSAINT is a club and disco artist based in Ireland, with 15 gigs on soundc
 
 Blue Ringed Baby, fAt-lÏP, midnightswami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalsaint/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalsaint/)*

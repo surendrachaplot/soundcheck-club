@@ -1,6 +1,6 @@
 # Tekk Nikk
 
-Tekk Nikk is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 31 Oct 2026.
+Tekk Nikk is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 31 Oct 2026.
 
 Tekk Nikk is a techno and breakbeat artist, with 6 gigs on soundcheck across Berlin, Denver, Detroit and Minneapolis St Paul. Often billed alongside A², Nacht-Aktiv and Techno Frühstück. Next up: TBA, Minneapolis St Paul on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Tekk Nikk is a techno and breakbeat artist, with 6 gigs on soundcheck across Ber
 
 A², Nacht-Aktiv, Techno Frühstück
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknikk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknikk/)*

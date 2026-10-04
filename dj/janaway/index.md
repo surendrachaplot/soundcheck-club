@@ -1,6 +1,6 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Janaway is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Janaway is a jungle and hardcore artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Janaway is a jungle and hardcore artist based in United Kingdom, with 82 gigs on
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

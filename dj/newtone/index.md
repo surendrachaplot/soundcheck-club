@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+NewTone is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 NewTone is a house and techno artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 12 more. Often billed alongside Boris Coelman, TINS and DART. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ NewTone is a house and techno artist based in Netherlands, with 105 gigs on soun
 
 Boris Coelman, TINS, DART
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

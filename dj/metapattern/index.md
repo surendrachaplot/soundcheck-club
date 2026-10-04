@@ -1,6 +1,6 @@
 # Metapattern
 
-Metapattern is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eventhuset, Stockholm on Sat, 7 Nov 2026.
+Metapattern is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eventhuset, Stockholm on Sat, 7 Nov 2026.
 
 Metapattern is a techno and tech house artist based in Australia, with 11 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Madrid and 4 more. Often billed alongside Fergus Sweetland, 8-AN and ALIS.. Next up: Eventhuset, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Metapattern is a techno and tech house artist based in Australia, with 11 gigs o
 
 Fergus Sweetland, 8-AN, ALIS.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metapattern/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metapattern/)*

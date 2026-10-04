@@ -1,6 +1,6 @@
 # Waveratio 618
 
-Waveratio 618 is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Waveratio 618 is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Waveratio 618 is a deep house and electro artist based in Spain, with 12 gigs on soundcheck across Barcelona. Often billed alongside Nico Etorena, ildec and Ana Alves. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Waveratio 618 is a deep house and electro artist based in Spain, with 12 gigs on
 
 Nico Etorena, ildec, Ana Alves
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*

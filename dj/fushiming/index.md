@@ -1,6 +1,6 @@
 # Fushiming
 
-Fushiming is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Koara, Tokyo on Sat, 17 Oct 2026.
+Fushiming is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Koara, Tokyo on Sat, 17 Oct 2026.
 
 Fushiming is a house and techno artist based in Japan, with 34 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside YO.AN, Haruka Katagata and Mamazu. Next up: Koara, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fushiming is a house and techno artist based in Japan, with 34 gigs on soundchec
 
 YO.AN, Haruka Katagata, Mamazu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fushiming/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fushiming/)*

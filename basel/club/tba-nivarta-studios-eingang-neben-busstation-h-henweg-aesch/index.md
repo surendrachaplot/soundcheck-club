@@ -1,6 +1,6 @@
 # TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch)
 
-TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Soul Gathering" on Fri, 9 Oct 2026.
+TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Soul Gathering" on Fri, 9 Oct 2026.
 
 TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) is a music ven
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Soul Gathering |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/tba-nivarta-studios-eingang-neben-busstation-h-henweg-aesch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/tba-nivarta-studios-eingang-neben-busstation-h-henweg-aesch/)*

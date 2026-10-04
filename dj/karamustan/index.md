@@ -1,6 +1,6 @@
 # Karamustan
 
-Karamustan is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at M-BIA, Berlin on Fri, 9 Oct 2026.
+Karamustan is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at M-BIA, Berlin on Fri, 9 Oct 2026.
 
 Karamustan is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Barcelona, Berlin, Cologne and Düsseldorf and 8 more. Often billed alongside Paranormila, Isabelle Beaucamp and DeGuzman. Next up: M-BIA, Berlin on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Karamustan is a techno and trance artist based in Germany, with 37 gigs on sound
 
 Paranormila, Isabelle Beaucamp, DeGuzman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karamustan/)*

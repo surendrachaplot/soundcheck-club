@@ -1,6 +1,6 @@
 # Hydroplane
 
-Hydroplane is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
+Hydroplane is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Hydroplane is an idm and experimental artist based in United States of America, with 10 gigs on soundcheck across Melbourne and San Francisco/Oakland. Often billed alongside Richard Haig, Nezzy Idy and Adam 2. Next up: Underground SF, San Francisco/Oakland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hydroplane is an idm and experimental artist based in United States of America, 
 
 Richard Haig, Nezzy Idy, Adam 2
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hydroplane/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hydroplane/)*

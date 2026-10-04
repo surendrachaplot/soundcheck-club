@@ -1,6 +1,6 @@
 # ESCA (3)
 
-ESCA (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Werk, Vienna on Fri, 9 Oct 2026.
+ESCA (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Das Werk, Vienna on Fri, 9 Oct 2026.
 
 ESCA is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Antonym, Bélavie and Crystal O. Next up: Das Werk, Vienna on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ESCA is a techno and trance artist based in Germany, with 11 gigs on soundcheck 
 
 Antonym, Bélavie, Crystal O
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esca-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esca-3/)*

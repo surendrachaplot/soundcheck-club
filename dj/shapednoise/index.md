@@ -1,6 +1,6 @@
 # Shapednoise
 
-Shapednoise is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bozar, Brussels on Thu, 22 Oct 2026.
+Shapednoise is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bozar, Brussels on Thu, 22 Oct 2026.
 
 Shapednoise is an experimental and electronica artist based in Italy, with 30 gigs on soundcheck across Berlin, Brussels, Glasgow and Krakow and 11 more. Often billed alongside Blawan, Assyouti and Caterina Barbieri. Next up: Bozar, Brussels on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Shapednoise is an experimental and electronica artist based in Italy, with 30 gi
 
 Blawan, Assyouti, Caterina Barbieri
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapednoise/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapednoise/)*

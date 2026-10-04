@@ -1,6 +1,6 @@
 # cristian zanotti
 
-cristian zanotti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
+cristian zanotti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
 
 cristian zanotti is a house and techno artist based in Germany, with 24 gigs on soundcheck across Athens, Berlin and Hamburg. Often billed alongside Bézier, Electrosexual and La Carpio. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ cristian zanotti is a house and techno artist based in Germany, with 24 gigs on 
 
 ## Recently played
 
+- Golden Pudel Club, Hamburg · Sat, 3 Oct 2026
 - Kater, Berlin · Sat, 25 Jul 2026
 - TBA - Secret Location, Berlin · Fri, 17 Jul 2026
 - Südpol, Hamburg · Sat, 7 Mar 2026
@@ -19,10 +20,9 @@ cristian zanotti is a house and techno artist based in Germany, with 24 gigs on 
 - Lark, Berlin · Sat, 30 Aug 2025
 - Minimal Bar, Berlin · Sat, 1 Mar 2025
 - SMUT Athens, Athens · Tue, 24 Dec 2024
-- ÆDEN, Berlin · Sat, 31 Aug 2024
 
 ## Shares bills with
 
 Bézier, Electrosexual, La Carpio
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianzanotti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianzanotti/)*

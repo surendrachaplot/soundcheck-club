@@ -1,6 +1,6 @@
 # hans bas
 
-hans bas is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 16 Oct 2026.
+hans bas is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 16 Oct 2026.
 
 hans bas is a trance and techno artist based in United States of America, with 15 gigs on soundcheck across Miami and New York City. Often billed alongside ASTER (DJ), Lilflower and fake.stan. Next up: Metropolitan Bar, New York City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ hans bas is a trance and techno artist based in United States of America, with 1
 
 ASTER (DJ), Lilflower, fake.stan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansbas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansbas/)*

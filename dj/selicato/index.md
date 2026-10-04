@@ -1,6 +1,6 @@
 # SELICATO
 
-SELICATO is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sound Department, South on Sat, 3 Oct 2026.
+SELICATO is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sound Department, South on Sat, 3 Oct 2026.
 
 SELICATO is a techno artist based in Italy, with 5 gigs on soundcheck across Naples and South. Often billed alongside Alignment, Ben Techy and Cera Khin. Next up: Sound Department, South on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ SELICATO is a techno artist based in Italy, with 5 gigs on soundcheck across Nap
 
 ## Recently played
 
+- Sound Department, South · Sat, 3 Oct 2026
 - Flava Beach, Naples · Sat, 18 Jul 2026
 - The Wall Club, Naples · Sat, 16 May 2026
 - Common Ground, Naples · Sat, 19 Jul 2025
@@ -21,4 +22,4 @@ SELICATO is a techno artist based in Italy, with 5 gigs on soundcheck across Nap
 
 Alignment, Ben Techy, Cera Khin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selicato/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selicato/)*

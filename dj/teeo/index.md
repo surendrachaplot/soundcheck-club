@@ -1,6 +1,6 @@
 # Teeo
 
-Teeo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Astoria, Turin on Fri, 16 Oct 2026.
+Teeo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Astoria, Turin on Fri, 16 Oct 2026.
 
 Teeo is a techno and house artist based in Albania, with 31 gigs on soundcheck across Milan and Turin. Often billed alongside Allegretti, Mike Esse and Syca. Next up: Astoria, Turin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Teeo is a techno and house artist based in Albania, with 31 gigs on soundcheck a
 
 Allegretti, Mike Esse, Syca
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeo/)*

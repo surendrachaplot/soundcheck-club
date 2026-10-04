@@ -1,6 +1,6 @@
 # Lymph
 
-Lymph is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Live Haus, Tokyo on Fri, 9 Oct 2026.
+Lymph is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Live Haus, Tokyo on Fri, 9 Oct 2026.
 
 Lymph is a hip-hop and club artist based in Italy, with 6 gigs on soundcheck across Berlin, Milan and Tokyo. Often billed alongside Avikal, Ferro_5 and MK woop. Next up: Live Haus, Tokyo on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Lymph is a hip-hop and club artist based in Italy, with 6 gigs on soundcheck acr
 
 Avikal, Ferro_5, MK woop
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lymph/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lymph/)*

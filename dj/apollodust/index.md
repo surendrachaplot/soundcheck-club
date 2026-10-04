@@ -1,6 +1,6 @@
 # Apollo Dust
 
-Apollo Dust is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
+Apollo Dust is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
 
 Apollo Dust is a house and techno artist based in France, with 28 gigs on soundcheck across Washington DC. Often billed alongside Henry P (US), House Twelve and Jess in the Flesh. Next up: Flash, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Apollo Dust is a house and techno artist based in France, with 28 gigs on soundc
 
 Henry P (US), House Twelve, Jess in the Flesh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*

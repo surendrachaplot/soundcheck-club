@@ -1,6 +1,6 @@
 # Óbuda Bay
 
-Óbuda Bay is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SOC Events pres. 20 YEARS IN TRANCE – OCT10 - Budapest, Hungary" on Sat, 10 Oct 2026.
+Óbuda Bay is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SOC Events pres. 20 YEARS IN TRANCE – OCT10 - Budapest, Hungary" on Sat, 10 Oct 2026.
 
 Óbuda Bay is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Aly & Fila, John Digweed, Giuseppe Ottaviani and Husa & Zeyada and 2 more. See dates, start times and who's playing. 1033 Budapest, Hajógyár utca 18386/9.
 
@@ -16,4 +16,4 @@
 
 1033 Budapest, Hajógyár utca 18386/9, Budapest
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*

@@ -1,6 +1,6 @@
 # AOI BLOOM
 
-AOI BLOOM is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Room, Tokyo on Sun, 4 Oct 2026.
+AOI BLOOM is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Room, Tokyo on Sun, 4 Oct 2026.
 
 AOI BLOOM is a house and electronica artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Naoki Iwata, cosmolady and Tatsuo Kitagawa. Next up: The Room, Tokyo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ AOI BLOOM is a house and electronica artist based in Japan, with 15 gigs on soun
 
 Naoki Iwata, cosmolady, Tatsuo Kitagawa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibloom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibloom/)*

@@ -1,6 +1,6 @@
 # Anne-Sophie Selig
 
-Anne-Sophie Selig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+Anne-Sophie Selig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 Anne-Sophie Selig is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside tzunamic, Der olle Kramer and Fabian Fischbach. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Anne-Sophie Selig is a house and techno artist based in Germany, with 15 gigs on
 
 tzunamic, Der olle Kramer, Fabian Fischbach
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*

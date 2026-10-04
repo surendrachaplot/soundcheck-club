@@ -1,14 +1,15 @@
 # Neo Edo
 
-Neo Edo is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Neo Edo is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
-Neo Edo is a techno and hardcore artist based in Canada, with 45 gigs on soundcheck across Montreal. Often billed alongside D.Blavatsky, Beamskii and DJ Pacifier. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
+Neo Edo is a techno and hardcore artist based in Canada, with 46 gigs on soundcheck across Montreal. Often billed alongside D.Blavatsky, Beamskii and DJ Pacifier. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Foufounes Electronique | Montreal |
+| Sat, 10 Oct 2026 | TBA - LOCATION SENT TO TIX HOLDERS ON DAY OF EVENT | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Neo Edo is a techno and hardcore artist based in Canada, with 45 gigs on soundch
 
 D.Blavatsky, Beamskii, DJ Pacifier
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*

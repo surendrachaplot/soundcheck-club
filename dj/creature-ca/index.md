@@ -1,6 +1,6 @@
 # Creature (CA)
 
-Creature (CA) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Creature (CA) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Creature (CA) is an industrial and techno artist, with 9 gigs on soundcheck across Montreal. Often billed alongside Hollie Hensman, Aurélie Schleger and CVLTIST. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Creature (CA) is an industrial and techno artist, with 9 gigs on soundcheck acro
 
 Hollie Hensman, Aurélie Schleger, CVLTIST
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creature-ca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creature-ca/)*

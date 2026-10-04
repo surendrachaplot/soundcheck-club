@@ -1,6 +1,6 @@
 # TBA - Fiji
 
-TBA - Fiji is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Spring Break Fiji" on Fri, 13 Nov 2026.
+TBA - Fiji is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spring Break Fiji" on Fri, 13 Nov 2026.
 
 TBA - Fiji is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Fiji is a music venue in Auckland listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Spring Break Fiji |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/tba-fiji/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/tba-fiji/)*

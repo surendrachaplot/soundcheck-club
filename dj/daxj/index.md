@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
+DAX J is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
 
 DAX J is a techno and house artist based in United Kingdom, with 264 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Lehmann Club, Stuttgart on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ DAX J is a techno and house artist based in United Kingdom, with 264 gigs on sou
 
 ## Recently played
 
+- Lehmann Club, Stuttgart · Sat, 3 Oct 2026
 - essaim, Paris · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Sun, 27 Sept 2026
 - Spook Club, Valencia · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ DAX J is a techno and house artist based in United Kingdom, with 264 gigs on sou
 - Nitsa Club, Barcelona · Fri, 18 Sept 2026
 - TBA - Los Angeles, Los Angeles · Sun, 6 Sept 2026
 - Radius, Chicago · Sat, 5 Sept 2026
-- TBA - Secret Location, Toronto · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

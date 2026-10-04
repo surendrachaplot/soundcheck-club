@@ -1,6 +1,6 @@
 # Peletronic
 
-Peletronic is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
+Peletronic is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
 
 Peletronic is a house and breakbeat artist, with 21 gigs on soundcheck across Vienna. Often billed alongside Dzc., JP Bechamel and Kid Kodama. Next up: Soulkitchen Vienna, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Peletronic is a house and breakbeat artist, with 21 gigs on soundcheck across Vi
 
 Dzc., JP Bechamel, Kid Kodama
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peletronic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peletronic/)*

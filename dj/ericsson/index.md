@@ -1,6 +1,6 @@
 # Ericsson
 
-Ericsson is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Ericsson is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Ericsson is a techno artist based in Georgia, with 25 gigs on soundcheck across Tbilisi. Often billed alongside Tomma, Bero and Gio Shengelia. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ericsson is a techno artist based in Georgia, with 25 gigs on soundcheck across 
 
 Tomma, Bero, Gio Shengelia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericsson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericsson/)*

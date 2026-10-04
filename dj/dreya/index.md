@@ -1,6 +1,6 @@
 # DREYA
 
-DREYA is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Sat, 31 Oct 2026.
+DREYA is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Sat, 31 Oct 2026.
 
 DREYA is a house and industrial artist based in Austria, with 31 gigs on soundcheck across Berlin, Geneva, Ibiza and Miami and 5 more. Often billed alongside TEZIBEL, DJ Deadlift and Felix Rupprecht. Next up: Forestlimit, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DREYA is a house and industrial artist based in Austria, with 31 gigs on soundch
 
 TEZIBEL, DJ Deadlift, Felix Rupprecht
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*

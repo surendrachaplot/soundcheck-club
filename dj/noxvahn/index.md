@@ -1,6 +1,6 @@
 # Nox Vahn
 
-Nox Vahn is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 12 Dec 2026.
+Nox Vahn is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 12 Dec 2026.
 
 Nox Vahn is a progressive house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 18 more. Often billed alongside Jody Wisternoff, 16BL and Marsh. Next up: The Cause, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nox Vahn is a progressive house and deep house artist based in United States of 
 
 Jody Wisternoff, 16BL, Marsh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxvahn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxvahn/)*

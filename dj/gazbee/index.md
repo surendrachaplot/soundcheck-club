@@ -1,6 +1,6 @@
 # Gazbee
 
-Gazbee is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
+Gazbee is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
 
 Gazbee is a downtempo and progressive house artist, with 10 gigs on soundcheck across Amsterdam, Berlin, London and Rome. Often billed alongside Fabïan, Mona Pirzad and Ralph Nasr. Next up: Beate Uwe, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Gazbee is a downtempo and progressive house artist, with 10 gigs on soundcheck a
 
 Fabïan, Mona Pirzad, Ralph Nasr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazbee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gazbee/)*

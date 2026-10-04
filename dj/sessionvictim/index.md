@@ -1,6 +1,6 @@
 # Session Victim
 
-Session Victim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+Session Victim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
 
 Session Victim is a house and disco artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Berlin, Brussels and Detroit and 24 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Session Victim is a house and disco artist based in Germany, with 71 gigs on sou
 
 Black Loops, Folamour, Harrison BDP
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*

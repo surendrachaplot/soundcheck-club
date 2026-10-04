@@ -1,6 +1,6 @@
 # DJ CZ
 
-DJ CZ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+DJ CZ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 DJ CZ is a techno and experimental artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland. Often billed alongside llloyd (US), David Siska and Joe Rice. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ CZ is a techno and experimental artist based in United States of America, wit
 
 llloyd (US), David Siska, Joe Rice
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcz/)*

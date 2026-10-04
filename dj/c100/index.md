@@ -1,6 +1,6 @@
 # C100
 
-C100 is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
+C100 is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
 
 C100 is a garage and house artist based in Australia, with 9 gigs on soundcheck across Dublin, Manchester and Sydney. Often billed alongside Charlie Shell, Banno and Shantan Wantan Ichiban. Next up: Secret Warehouse, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ C100 is a garage and house artist based in Australia, with 9 gigs on soundcheck 
 
 Charlie Shell, Banno, Shantan Wantan Ichiban
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c100/)*

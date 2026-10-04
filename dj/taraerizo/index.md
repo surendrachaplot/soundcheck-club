@@ -1,6 +1,6 @@
 # Tara Erizo
 
-Tara Erizo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Fri, 13 Nov 2026.
+Tara Erizo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Fri, 13 Nov 2026.
 
 Tara Erizo is a techno and industrial artist based in Germany, with 32 gigs on soundcheck across London, Munich, New York City and Sheffield. Often billed alongside Vivra Verra, HORN-E and LIL DARK ONE. Next up: E1, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tara Erizo is a techno and industrial artist based in Germany, with 32 gigs on s
 
 Vivra Verra, HORN-E, LIL DARK ONE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taraerizo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taraerizo/)*

@@ -1,6 +1,6 @@
 # Brian Eno
 
-Brian Eno is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
+Brian Eno is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Burgerweeshuis, Netherlands on Sat, 3 Oct 2026.
 
 Brian Eno is an electronica and ambient artist, with 6 gigs on soundcheck across Brussels, London, Netherlands and Paris. Often billed alongside Aika Mal, Amaliah and Byron Yeates. Next up: Het Burgerweeshuis, Netherlands on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Brian Eno is an electronica and ambient artist, with 6 gigs on soundcheck across
 
 ## Recently played
 
+- Het Burgerweeshuis, Netherlands · Sat, 3 Oct 2026
 - Bozar, Brussels · Thu, 16 Oct 2025
 - Various Venues, London · Thu, 29 Feb 2024
 - Southbank Centre, London · Mon, 30 Oct 2023
@@ -22,4 +23,4 @@ Brian Eno is an electronica and ambient artist, with 6 gigs on soundcheck across
 
 Aika Mal, Amaliah, Byron Yeates
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianeno/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianeno/)*

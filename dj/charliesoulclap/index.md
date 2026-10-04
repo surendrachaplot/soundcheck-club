@@ -1,6 +1,6 @@
 # Charlie Soul Clap
 
-Charlie Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
+Charlie Soul Clap is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
 
 Charlie Soul Clap is a house and disco artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 2 more. Often billed alongside Soul Clap, Devon James and FSQ. Next up: Bordello Aperitivo, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Charlie Soul Clap is a house and disco artist based in United States of America,
 
 Soul Clap, Devon James, FSQ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesoulclap/)*

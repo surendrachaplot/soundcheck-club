@@ -1,6 +1,6 @@
 # Antoine Sy
 
-Antoine Sy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dr Banana Club, Sao Paulo on Sat, 10 Oct 2026.
+Antoine Sy is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dr Banana Club, Sao Paulo on Sat, 10 Oct 2026.
 
 Antoine Sy is a house and electro artist based in France, with 44 gigs on soundcheck across Barcelona, Berlin, Brussels and Hong Kong and 9 more. Often billed alongside Depad, Bassam and Eliot Sheperd. Next up: Dr Banana Club, Sao Paulo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Antoine Sy is a house and electro artist based in France, with 44 gigs on soundc
 
 Depad, Bassam, Eliot Sheperd
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinesy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinesy/)*

@@ -1,6 +1,6 @@
 # Aristides
 
-Aristides is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Aristides is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Aristides is a techno and house artist based in Italy, with 5 gigs on soundcheck across Barcelona, Manchester and Tbilisi. Often billed alongside Joey Stella, HØLEIGH and Sylvia (ES). Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Aristides is a techno and house artist based in Italy, with 5 gigs on soundcheck
 
 Joey Stella, HØLEIGH, Sylvia (ES)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aristydes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aristydes/)*

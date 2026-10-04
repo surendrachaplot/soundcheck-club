@@ -1,6 +1,6 @@
 # unDs
 
-unDs is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+unDs is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
 
 unDs is a tech house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: Hoppetosse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ unDs is a tech house and techno artist based in Germany, with 27 gigs on soundch
 
 Leon Licht, Fast (DE), Kaufmann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*

@@ -1,6 +1,6 @@
 # Jonny Nash
 
-Jonny Nash is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
+Jonny Nash is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Goko Farm Auto Campground, Chubu on Sat, 3 Oct 2026.
 
 Jonny Nash is an electronic artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Eline (BE), Galcher Lustwerk and Sybil. Next up: Goko Farm Auto Campground, Chubu on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Jonny Nash is an electronic artist based in United Kingdom, with 8 gigs on sound
 
 ## Recently played
 
+- Goko Farm Auto Campground, Chubu · Sat, 3 Oct 2026
 - TBA - Multiple Venues, Barcelona · Wed, 29 Apr 2026
 - The Grey Space In The Middle, The Hague · Fri, 6 Feb 2026
 - The Jazz Cafe, London · Tue, 3 Feb 2026
@@ -24,4 +25,4 @@ Jonny Nash is an electronic artist based in United Kingdom, with 8 gigs on sound
 
 Eline (BE), Galcher Lustwerk, Sybil
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnynash/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnynash/)*

@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pacha Ibiza, Ibiza on Sun, 4 Oct 2026.
+Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pacha Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Solomun is a techno and house artist based in Portugal, with 189 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 37 more. Often billed alongside Chloé Caillet, DJ Tennis and Seth Troxler. Next up: Pacha Ibiza, Ibiza on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Solomun is a techno and house artist based in Portugal, with 189 gigs on soundch
 
 Chloé Caillet, DJ Tennis, Seth Troxler
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

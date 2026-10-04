@@ -1,6 +1,6 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 20 more. Often billed alongside Inja, DJ SS and Benny L. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 82 
 
 Inja, DJ SS, Benny L
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

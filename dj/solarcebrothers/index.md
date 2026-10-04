@@ -1,6 +1,6 @@
 # Solarce Brothers
 
-Solarce Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
+Solarce Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
 
 Solarce Brothers is a house and tech house artist based in Brazil, with 8 gigs on soundcheck across Amsterdam, Lyon, Malta and Sao Paulo. Often billed alongside Mochakk, Halfcab and Seth Troxler. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Solarce Brothers is a house and tech house artist based in Brazil, with 8 gigs o
 
 Mochakk, Halfcab, Seth Troxler
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*

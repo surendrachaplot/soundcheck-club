@@ -1,6 +1,6 @@
 # Jack Mulqueen
 
-Jack Mulqueen is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
+Jack Mulqueen is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, New York City on Sat, 10 Oct 2026.
 
 Jack Mulqueen is a house and techno artist based in United States of America, with 64 gigs on soundcheck across New York City. Often billed alongside Choukroun, Rana Iravani and Tolga. Next up: TBA, New York City on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Jack Mulqueen is a house and techno artist based in United States of America, wi
 
 Choukroun, Rana Iravani, Tolga
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmulqueen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmulqueen/)*

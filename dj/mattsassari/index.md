@@ -1,6 +1,6 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at It'll Do, Dallas-fort-worth on Sat, 3 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at It'll Do, Dallas-fort-worth on Sat, 3 Oct 2026.
 
 Matt Sassari is a techno and tech house artist based in France, with 73 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: It'll Do, Dallas Fort Worth on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Matt Sassari is a techno and tech house artist based in France, with 73 gigs on 
 
 ## Recently played
 
+- It'll Do, Dallas-fort-worth · Sat, 3 Oct 2026
 - Lion Super Club, Seoul · Sat, 19 Sept 2026
 - Pacha, Munich · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Fri, 4 Sept 2026
@@ -23,10 +24,9 @@ Matt Sassari is a techno and tech house artist based in France, with 73 gigs on 
 - Bauhaus, Houston · Fri, 31 Jul 2026
 - Ushuaïa Ibiza, Ibiza · Thu, 23 Jul 2026
 - Ushuaïa Ibiza, Ibiza · Mon, 29 Jun 2026
-- Club Vinyl, Denver · Sat, 30 May 2026
 
 ## Shares bills with
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

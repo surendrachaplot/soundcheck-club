@@ -1,6 +1,6 @@
 # Moonglow Oakland
 
-Moonglow Oakland is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Soul Session with Black Panda" on Sat, 3 Oct 2026.
+Moonglow Oakland is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Soul Session with Black Panda" on Sat, 3 Oct 2026.
 
 Moonglow Oakland is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Black Panda, Huffy and Sánlo. See dates, start times and who's playing. 1900 Telegraph Ave, Oakland, CA 94612, USA.
 
@@ -17,4 +17,4 @@ Moonglow Oakland is a music venue in San Francisco/Oakland listed on soundcheck.
 
 1900 Telegraph Ave, Oakland, CA 94612, USA, San Francisco/Oakland
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moonglow-oakland/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/moonglow-oakland/)*

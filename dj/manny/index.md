@@ -1,6 +1,6 @@
 # MANNY
 
-MANNY is a Reggaeton and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+MANNY is a Reggaeton and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 MANNY is a reggaeton and house artist based in India, with 12 gigs on soundcheck across London, New York City and Tbilisi. Often billed alongside DJ Smooth, Donnie Sunshine and Fiyahdred. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MANNY is a reggaeton and house artist based in India, with 12 gigs on soundcheck
 
 DJ Smooth, Donnie Sunshine, Fiyahdred
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manny/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manny/)*

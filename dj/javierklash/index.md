@@ -1,6 +1,6 @@
 # Javier Klash
 
-Javier Klash is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Specka, Madrid on Sun, 11 Oct 2026.
+Javier Klash is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Specka, Madrid on Sun, 11 Oct 2026.
 
 Javier Klash is a techno and electronica artist based in Spain, with 46 gigs on soundcheck across Madrid. Often billed alongside Vandiaz, Dyans and Belkan. Next up: Specka, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Javier Klash is a techno and electronica artist based in Spain, with 46 gigs on 
 
 Vandiaz, Dyans, Belkan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierklash/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierklash/)*

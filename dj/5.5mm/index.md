@@ -1,6 +1,6 @@
 # 5.5MM
 
-5.5MM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Horn, Bangkok on Sat, 24 Oct 2026.
+5.5MM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Horn, Bangkok on Sat, 24 Oct 2026.
 
 5.5MM is a techno and house artist based in Singapore, with 37 gigs on soundcheck across Bangkok, Berlin and Singapore. Often billed alongside MJMA, OLLE (TH) and Mae Happyair. Next up: Horn, Bangkok on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 MJMA, OLLE (TH), Mae Happyair
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5.5mm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5.5mm/)*

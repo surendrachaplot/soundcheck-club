@@ -1,6 +1,6 @@
 # MIKA G
 
-MIKA G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Weekend, Berlin on Fri, 30 Oct 2026.
+MIKA G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Weekend, Berlin on Fri, 30 Oct 2026.
 
 MIKA G is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside Eric Brwn, Enis Asfah and UWE!. Next up: Weekend, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MIKA G is a techno and house artist based in Germany, with 33 gigs on soundcheck
 
 Eric Brwn, Enis Asfah, UWE!
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*

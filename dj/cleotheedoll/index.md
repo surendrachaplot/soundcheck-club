@@ -1,6 +1,6 @@
 # CleoTheeDoll
 
-CleoTheeDoll is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
+CleoTheeDoll is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
 
 CleoTheeDoll is a techno and electro artist based in United States of America, with 21 gigs on soundcheck across Detroit and New York City. Often billed alongside Garrison XR, Auntie Chanel and Tylr. Next up: Jade, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CleoTheeDoll is a techno and electro artist based in United States of America, w
 
 Garrison XR, Auntie Chanel, Tylr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleotheedoll/)*

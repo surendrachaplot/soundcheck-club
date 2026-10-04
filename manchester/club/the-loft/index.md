@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Loft: Kyle Starkey & Entasia" on Sat, 3 Oct 2026.
+The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Loft: Kyle Starkey & Entasia" on Sat, 3 Oct 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Fastlove, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, 
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

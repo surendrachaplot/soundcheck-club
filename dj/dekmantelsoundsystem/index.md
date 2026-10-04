@@ -1,6 +1,6 @@
 # Dekmantel Soundsystem
 
-Dekmantel Soundsystem is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
+Dekmantel Soundsystem is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
 
 Dekmantel Soundsystem is a house and techno artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Casper Tielrooij, RHR and Call Super. Next up: EQ San Diego, San Diego on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Dekmantel Soundsystem is a house and techno artist based in Netherlands, with 50
 
 Casper Tielrooij, RHR, Call Super
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*

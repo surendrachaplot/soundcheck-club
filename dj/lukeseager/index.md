@@ -1,6 +1,6 @@
 # Luke Seager
 
-Luke Seager is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 42 Marches, Paris on Sun, 4 Oct 2026.
+Luke Seager is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 42 Marches, Paris on Sun, 4 Oct 2026.
 
 Luke Seager is a house and electro artist based in France, with 6 gigs on soundcheck across Barcelona and Paris. Often billed alongside Alyhas, AGUSTIN BARBEI and Alexis Namur. Next up: 42 Marches, Paris on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ Luke Seager is a house and electro artist based in France, with 6 gigs on soundc
 
 Alyhas, AGUSTIN BARBEI, Alexis Namur
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeseager/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeseager/)*

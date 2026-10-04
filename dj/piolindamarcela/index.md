@@ -1,6 +1,6 @@
 # Piolinda Marcela
 
-Piolinda Marcela is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
+Piolinda Marcela is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafeteria, Toronto on Fri, 9 Oct 2026.
 
 Piolinda Marcela is a reggaeton and latin bass artist based in Colombia, with 40 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Aleroj, BZZHOUND and Linapary. Next up: Cafeteria, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Piolinda Marcela is a reggaeton and latin bass artist based in Colombia, with 40
 
 Aleroj, BZZHOUND, Linapary
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*

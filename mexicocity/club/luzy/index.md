@@ -1,6 +1,6 @@
 # Luzy
 
-Luzy is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "RA25: Mexico Community Garden / Talleres Gratuitos y Comunidad" on Sat, 17 Oct 2026.
+Luzy is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "RA25: Mexico Community Garden / Talleres Gratuitos y Comunidad" on Sat, 17 Oct 2026.
 
 Luzy is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including constanza and fka phaedra. See dates, start times and who's playing. Lisboa 46, Juarez. Cuauhtemoc, Ciudad de Mexico.
 
@@ -14,4 +14,4 @@ Luzy is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with 
 
 Lisboa 46, Juarez. Cuauhtemoc, Ciudad de Mexico, Mexico City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/luzy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/luzy/)*

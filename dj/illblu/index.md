@@ -1,6 +1,6 @@
 # Ill Blu
 
-Ill Blu is a Afro House and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Basing House, London on Sat, 3 Oct 2026.
+Ill Blu is a Afro House and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Basing House, London on Sat, 3 Oct 2026.
 
 Ill Blu is an afro house and r&b artist based in United Kingdom, with 11 gigs on soundcheck across London and Prague. Often billed alongside DJ Eastwood, Shenin Amara and Supa D. Next up: Basing House, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Ill Blu is an afro house and r&b artist based in United Kingdom, with 11 gigs on
 
 ## Recently played
 
+- Basing House, London · Sat, 3 Oct 2026
 - Ministry Of Sound, London · Sat, 15 Aug 2026
 - Addington Park, London · Sat, 8 Aug 2026
 - Basing House, London · Sun, 24 May 2026
@@ -19,10 +20,9 @@ Ill Blu is an afro house and r&b artist based in United Kingdom, with 11 gigs on
 - Acres, London · Sat, 6 Dec 2025
 - Egg London, London · Sat, 13 Sept 2025
 - Peckham Audio, London · Fri, 25 Jul 2025
-- Peckham Audio, London · Sun, 29 Jun 2025
 
 ## Shares bills with
 
 DJ Eastwood, Shenin Amara, Supa D
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illblu/)*

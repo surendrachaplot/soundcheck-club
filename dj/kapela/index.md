@@ -1,6 +1,6 @@
 # Kapela
 
-Kapela is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Djoon, Paris on Sun, 4 Oct 2026.
+Kapela is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Djoon, Paris on Sun, 4 Oct 2026.
 
 Kapela is a house and afro house artist based in France, with 81 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Copenhagen and 11 more. Often billed alongside Afshin, Greg Gauthier and Jamesey. Next up: Djoon, Paris on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Kapela is a house and afro house artist based in France, with 81 gigs on soundch
 
 Afshin, Greg Gauthier, Jamesey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapela/)*

@@ -1,6 +1,6 @@
 # Guido Iacovitti
 
-Guido Iacovitti is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Banja Luka, Berlin on Fri, 9 Oct 2026.
+Guido Iacovitti is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Banja Luka, Berlin on Fri, 9 Oct 2026.
 
 Guido Iacovitti is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin. Often billed alongside Gforty, Bconscious and Sciarada. Next up: Banja Luka, Berlin on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Guido Iacovitti is a techno and house artist based in Germany, with 26 gigs on s
 
 Gforty, Bconscious, Sciarada
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoiacovitti/)*

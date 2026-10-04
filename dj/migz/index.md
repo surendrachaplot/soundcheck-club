@@ -1,6 +1,6 @@
 # Migz
 
-Migz is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+Migz is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Migz is a bass and jungle artist based in Malta, with 49 gigs on soundcheck across Berlin, Malta and Stockholm. Often billed alongside Dub Isotope, Upzet and Hovercat. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Migz is a bass and jungle artist based in Malta, with 49 gigs on soundcheck acro
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - Mucha, Berlin · Sat, 26 Sept 2026
 - Mucha, Berlin · Fri, 11 Sept 2026
 - Void Club, Berlin · Fri, 28 Aug 2026
@@ -19,10 +20,9 @@ Migz is a bass and jungle artist based in Malta, with 49 gigs on soundcheck acro
 - Void Hall, Berlin · Fri, 19 Jun 2026
 - Der Kegel, Berlin · Sat, 13 Jun 2026
 - UNO MALTA, Malta · Thu, 14 May 2026
-- Void Club, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 
 Dub Isotope, Upzet, Hovercat
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*

@@ -1,6 +1,6 @@
 # Osmaan
 
-Osmaan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
+Osmaan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
 
 Osmaan is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Brighton, Liverpool and London. Often billed alongside Danny Vito, Tadeusz and Liam Cross. Next up: M.O.T, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Osmaan is a house and techno artist based in United Kingdom, with 50 gigs on sou
 
 Danny Vito, Tadeusz, Liam Cross
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmaan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmaan/)*

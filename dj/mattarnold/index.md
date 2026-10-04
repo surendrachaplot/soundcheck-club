@@ -1,6 +1,6 @@
 # Matt Arnold
 
-Matt Arnold is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - House of Ora 48A Mitcham Rd, London SW17 9NA, London on Fri, 13 Nov 2026.
+Matt Arnold is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - House of Ora 48A Mitcham Rd, London SW17 9NA, London on Fri, 13 Nov 2026.
 
 Matt Arnold is a tech house and techno artist based in United Kingdom, with 37 gigs on soundcheck across London and Melbourne. Often billed alongside Diego Gee, Etwas and Ophelie Mercury. Next up: TBA - House of Ora 48A Mitcham Rd, London SW17 9NA, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Matt Arnold is a tech house and techno artist based in United Kingdom, with 37 g
 
 Diego Gee, Etwas, Ophelie Mercury
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*

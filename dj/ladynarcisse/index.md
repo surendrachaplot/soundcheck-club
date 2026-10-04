@@ -1,6 +1,6 @@
 # Lady Narcisse
 
-Lady Narcisse is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Boombox, Miami on Sun, 4 Oct 2026.
+Lady Narcisse is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Boombox, Miami on Sun, 4 Oct 2026.
 
 Lady Narcisse is a techno and club artist based in United States of America, with 25 gigs on soundcheck across Miami. Often billed alongside Racci, Pressure Point (US) and FORESEER. Next up: The Boombox, Miami on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Lady Narcisse is a techno and club artist based in United States of America, wit
 
 Racci, Pressure Point (US), FORESEER
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladynarcisse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladynarcisse/)*

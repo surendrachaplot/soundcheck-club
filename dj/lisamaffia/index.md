@@ -1,6 +1,6 @@
 # Lisa Maffia
 
-Lisa Maffia is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
+Lisa Maffia is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
 
 Lisa Maffia is a garage and house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Birmingham, London and Manchester. Often billed alongside Artful Dodger, Romeo and DJ Luck & MC Neat. Next up: Dixie Queen Paddle Steamer, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lisa Maffia is a garage and house artist based in United Kingdom, with 18 gigs o
 
 Artful Dodger, Romeo, DJ Luck & MC Neat
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*

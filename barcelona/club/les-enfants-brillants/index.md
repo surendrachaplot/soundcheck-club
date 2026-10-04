@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CANCELLED Les Enfants pres. Alexia Glensy b2b Alex Dima" on Sat, 3 Oct 2026.
+Les Enfants Brillants is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CANCELLED Les Enfants pres. Alexia Glensy b2b Alex Dima" on Sat, 3 Oct 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upcoming gigs, with line-ups including Alexander Skancke, Alex Dima, Alexia Glensy and Alex Pott and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

@@ -1,0 +1,26 @@
+# SEA (2)
+
+SEA (2) is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sound Bar Patrol, Tokyo on Fri, 23 Oct 2026.
+
+SEA is a house and jazz artist based in Romania, with 7 gigs on soundcheck across Barcelona, Frankfurt and Tokyo. Often billed alongside 000 (DJ), 5harpy and Abzocka. Next up: Sound Bar Patrol, Tokyo on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | Sound Bar Patrol | Tokyo |
+
+## Recently played
+
+- COUNTER CLUB, Tokyo · Tue, 1 Sept 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Thu, 27 Aug 2026
+- PBOX STND, Tokyo · Thu, 27 Aug 2026
+- Shibuya Club Ball, Tokyo · Thu, 10 Jul 2025
+- TBA - SEA YOU HOUSE, Barcelona · Fri, 4 Oct 2024
+- Aoyama Hachi, Tokyo · Sat, 8 Jul 2023
+
+## Shares bills with
+
+000 (DJ), 5harpy, Abzocka
+
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sea-2/)*

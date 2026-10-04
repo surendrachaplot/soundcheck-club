@@ -1,6 +1,6 @@
 # Crystallmess
 
-Crystallmess is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Crystallmess is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
 Crystallmess is a techno and experimental artist based in France, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
@@ -28,4 +28,4 @@ Crystallmess is a techno and experimental artist based in France, with 118 gigs 
 
 ojoo, Bill Kouligas, Blawan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*

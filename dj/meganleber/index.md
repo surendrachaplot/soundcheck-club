@@ -1,6 +1,6 @@
 # Megan Leber
 
-Megan Leber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
+Megan Leber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 15 Oct 2026.
 
 Megan Leber is a techno and house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Speedy J, Colin Benders and Dasha Rush. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Megan Leber is a techno and house artist based in Netherlands, with 28 gigs on s
 
 Speedy J, Colin Benders, Dasha Rush
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganleber/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganleber/)*

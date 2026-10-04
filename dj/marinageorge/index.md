@@ -1,6 +1,6 @@
 # Marina George
 
-Marina George is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Marina George is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
 Marina George is a techno and house artist based in Greece, with 53 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg and 5 more. Often billed alongside Tante Emma, Danya (DE) and Josh Reid. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Marina George is a techno and house artist based in Greece, with 53 gigs on soun
 
 Tante Emma, Danya (DE), Josh Reid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marinageorge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marinageorge/)*

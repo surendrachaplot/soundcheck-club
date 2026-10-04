@@ -1,6 +1,6 @@
 # MDM
 
-MDM is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Imperial Private Club, Barcelona on Fri, 23 Oct 2026.
+MDM is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Imperial Private Club, Barcelona on Fri, 23 Oct 2026.
 
 MDM is a techno and industrial artist, with 15 gigs on soundcheck across Amsterdam, Austin and Barcelona. Often billed alongside Kleyver Reyes, Giusseppi and Matt.p. Next up: Imperial Private Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MDM is a techno and industrial artist, with 15 gigs on soundcheck across Amsterd
 
 Kleyver Reyes, Giusseppi, Matt.p
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mdm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mdm/)*

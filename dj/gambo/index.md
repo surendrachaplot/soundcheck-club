@@ -1,6 +1,6 @@
 # Gambo
 
-Gambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
+Gambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
 
 Gambo is a techno and house artist, with 18 gigs on soundcheck across London and Turin. Often billed alongside Alex Dima, Kreggo and Seven sins. Next up: Banco Vini, Turin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Gambo is a techno and house artist, with 18 gigs on soundcheck across London and
 
 Alex Dima, Kreggo, Seven sins
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gambo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gambo/)*

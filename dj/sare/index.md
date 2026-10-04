@@ -1,6 +1,6 @@
 # SARE
 
-SARE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+SARE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
 SARE is a techno and house artist based in United States of America, with 8 gigs on soundcheck across London and New York City. Often billed alongside AWEN, Alice Longyu Gao and Andhim. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ SARE is a techno and house artist based in United States of America, with 8 gigs
 
 AWEN, Alice Longyu Gao, Andhim
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sare/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sare/)*

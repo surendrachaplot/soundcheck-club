@@ -1,6 +1,6 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nice N Sleazy, Glasgow on Sat, 10 Oct 2026.
+Angel Negrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nice N Sleazy, Glasgow on Sat, 10 Oct 2026.
 
 Angel Negrin is a techno and house artist based in Venezuela, with 19 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside LOVELL, Co-Accused and Kairogen. Next up: Nice N Sleazy, Glasgow on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Angel Negrin is a techno and house artist based in Venezuela, with 19 gigs on so
 
 LOVELL, Co-Accused, Kairogen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

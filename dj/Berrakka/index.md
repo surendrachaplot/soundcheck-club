@@ -1,6 +1,6 @@
 # Berrakka
 
-Berrakka is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Berrakka is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Berrakka is a techno and club artist based in United States of America, with 63 gigs on soundcheck across Los Angeles, Miami, New York City and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Berrakka is a techno and club artist based in United States of America, with 63 
 
 v1fro, Pressure Point (US), SATURNSARii
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*

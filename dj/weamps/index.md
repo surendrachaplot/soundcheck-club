@@ -1,6 +1,6 @@
 # we.amps
 
-we.amps is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bluesquare, Milan on Fri, 30 Oct 2026.
+we.amps is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bluesquare, Milan on Fri, 30 Oct 2026.
 
 we.amps is a house and techno artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Milan. Often billed alongside Samuele De Santis, Human Trax and Lele Sacchi. Next up: Bluesquare, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ we.amps is a house and techno artist based in Italy, with 20 gigs on soundcheck 
 
 Samuele De Santis, Human Trax, Lele Sacchi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weamps/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weamps/)*

@@ -1,6 +1,6 @@
 # FIMIANI
 
-FIMIANI is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
+FIMIANI is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
 
 FIMIANI is a house and italo disco artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Kapote, Sam Ruffillo and Stump Valley. Next up: Biblioteca di Parco Sempione, Milan on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ FIMIANI is a house and italo disco artist based in Italy, with 40 gigs on soundc
 
 Kapote, Sam Ruffillo, Stump Valley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*

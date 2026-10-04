@@ -1,6 +1,6 @@
 # Diego Gee
 
-Diego Gee is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
+Diego Gee is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
 Diego Gee is a tech house and house artist, with 24 gigs on soundcheck across London. Often billed alongside Brandon Tourle, Jaden Pace and Matt Arnold. Next up: Tola, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Diego Gee is a tech house and house artist, with 24 gigs on soundcheck across Lo
 
 Brandon Tourle, Jaden Pace, Matt Arnold
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogee/)*

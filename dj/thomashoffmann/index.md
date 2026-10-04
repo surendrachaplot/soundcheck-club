@@ -1,6 +1,6 @@
 # Thomas Hoffmann
 
-Thomas Hoffmann is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+Thomas Hoffmann is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
 Thomas Hoffmann is an electronic artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Syrtaki, Jonas Hilkert and Rafush. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Thomas Hoffmann is an electronic artist based in Germany, with 15 gigs on soundc
 
 ## Recently played
 
+- Tresor / Globus, Berlin · Sat, 3 Oct 2026
 - OHM, Berlin · Wed, 13 May 2026
 - arkaoda Berlin, Berlin · Wed, 15 Apr 2026
 - Tresor / Globus, Berlin · Sat, 14 Feb 2026
@@ -19,10 +20,9 @@ Thomas Hoffmann is an electronic artist based in Germany, with 15 gigs on soundc
 - OHM, Berlin · Thu, 2 Oct 2025
 - Blue Velvet, Berlin · Fri, 12 Sept 2025
 - Kraftwerk Berlin / OHM, Berlin · Sun, 31 Aug 2025
-- Kraftwerk Berlin, Berlin · Wed, 27 Aug 2025
 
 ## Shares bills with
 
 Syrtaki, Jonas Hilkert, Rafush
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashoffmann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashoffmann/)*

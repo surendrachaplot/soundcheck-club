@@ -1,6 +1,6 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Ampere presents: The Founding Father of House, Lil' Louis" on Sat, 3 Oct 2026.
+Ampere is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Ampere presents: The Founding Father of House, Lil' Louis" on Sat, 3 Oct 2026.
 
 Ampere is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with line-ups including AliA, BAVR, Dave Clarke and David Vunk and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
@@ -20,4 +20,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with l
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

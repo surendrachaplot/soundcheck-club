@@ -1,6 +1,6 @@
 # Julien Simmons
 
-Julien Simmons is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Julien Simmons is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 Julien Simmons is a house and minimal artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Mino Abadier, Michel de Hey and De Sluwe Vos. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Julien Simmons is a house and minimal artist based in Netherlands, with 91 gigs 
 
 Mino Abadier, Michel de Hey, De Sluwe Vos
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*

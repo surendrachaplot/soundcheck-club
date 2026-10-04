@@ -1,6 +1,6 @@
 # Positive_Con
 
-Positive_Con is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Makossa, London on Sat, 10 Oct 2026.
+Positive_Con is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Makossa, London on Sat, 10 Oct 2026.
 
 Positive_Con is a drum & bass and garage artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside tasha.mp4, Faded Society and Gem Precious. Next up: Club Makossa, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Positive_Con is a drum & bass and garage artist based in United Kingdom, with 12
 
 tasha.mp4, Faded Society, Gem Precious
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*

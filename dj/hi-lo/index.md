@@ -1,6 +1,6 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
+HI-LO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
 
 HI-LO is a techno and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Benny Rodrigues and Space 92. Next up: Creekside - Under The K Bridge, New York City on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ HI-LO is a techno and house artist based in Netherlands, with 64 gigs on soundch
 
 Eli Brown, Benny Rodrigues, Space 92
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

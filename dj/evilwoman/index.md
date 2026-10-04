@@ -1,6 +1,6 @@
 # Evil Woman
 
-Evil Woman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Model, Nottingham on Fri, 16 Oct 2026.
+Evil Woman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Model, Nottingham on Fri, 16 Oct 2026.
 
 Evil Woman is a techno and trance artist based in United Kingdom, with 27 gigs on soundcheck across Leeds, Nottingham and Sheffield. Often billed alongside soapy, Keeks and Mush Love (UK). Next up: The Model, Nottingham on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Evil Woman is a techno and trance artist based in United Kingdom, with 27 gigs o
 
 soapy, Keeks, Mush Love (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilwoman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilwoman/)*

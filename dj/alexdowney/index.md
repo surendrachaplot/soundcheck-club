@@ -1,6 +1,6 @@
 # Alex Downey
 
-Alex Downey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
+Alex Downey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
 
 Alex Downey is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Adam Shelton, Steevio and Suzybee. Next up: Pan-Pan, Birmingham on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Alex Downey is a techno and house artist based in United Kingdom, with 14 gigs o
 
 ## Recently played
 
+- Pan-Pan, Birmingham · Sat, 3 Oct 2026
 - The Bee's Mouth, Brighton · Fri, 17 Jul 2026
 - Bijhuub, Amsterdam · Sat, 13 Jun 2026
 - Next Door Records Two, London · Sat, 30 May 2026
@@ -19,10 +20,9 @@ Alex Downey is a techno and house artist based in United Kingdom, with 14 gigs o
 - Cobalt Studios, Newcastle · Sat, 22 Nov 2025
 - Club395, Bristol · Fri, 14 Nov 2025
 - Gaffe, London · Sat, 1 Mar 2025
-- TBA - Arch 535, London · Fri, 21 Feb 2025
 
 ## Shares bills with
 
 Adam Shelton, Steevio, Suzybee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdowney/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdowney/)*

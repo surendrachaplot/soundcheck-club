@@ -1,6 +1,6 @@
 # KAMIKO
 
-KAMIKO is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
+KAMIKO is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
 
 KAMIKO is a drum & bass and dubstep artist based in Thailand, with 9 gigs on soundcheck across Bangkok and Thailand. Often billed alongside LXYN, JOJOH and NENEIA. Next up: Speaker Box Live House, Thailand on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KAMIKO is a drum & bass and dubstep artist based in Thailand, with 9 gigs on sou
 
 LXYN, JOJOH, NENEIA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamiko/)*

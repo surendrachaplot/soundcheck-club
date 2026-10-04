@@ -1,6 +1,6 @@
 # VANI
 
-VANI is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SOBs, New York City on Fri, 9 Oct 2026.
+VANI is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SOBs, New York City on Fri, 9 Oct 2026.
 
 VANI is a house and baile funk artist, with 12 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Bianca Maieli, MTooray and ARINI. Next up: SOBs, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ VANI is a house and baile funk artist, with 12 gigs on soundcheck across Los Ang
 
 Bianca Maieli, MTooray, ARINI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vani/)*

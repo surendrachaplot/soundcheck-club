@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "GENAU: DJ Dextro (Mutual Rytm - CLR / PT)" on Sat, 3 Oct 2026.
+Bunker is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "GENAU: DJ Dextro (Mutual Rytm - CLR / PT)" on Sat, 3 Oct 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -19,4 +19,4 @@ Bunker is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

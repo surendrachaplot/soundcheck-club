@@ -1,6 +1,6 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LODGE & MUSIC feat Donna Leake" on Fri, 9 Oct 2026.
+Compufunk Records is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LODGE & MUSIC feat Donna Leake" on Fri, 9 Oct 2026.
 
 Compufunk Records is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Donna Leake and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
@@ -22,4 +22,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 9 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
+Luke Una is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
 
 Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
 
@@ -20,6 +20,7 @@ Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on s
 
 ## Recently played
 
+- Carriageworks, Sydney · Sat, 3 Oct 2026
 - 528 Ibiza, Ibiza · Sat, 5 Sept 2026
 - Hidden, Manchester · Sun, 30 Aug 2026
 - Freight Island Newcastle, Newcastle · Sat, 15 Aug 2026
@@ -27,10 +28,9 @@ Luke Una is a house and disco artist based in United Kingdom, with 144 gigs on s
 - TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
 - 528 Ibiza, Ibiza · Thu, 23 Jul 2026
 - LDN East, London · Sat, 18 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

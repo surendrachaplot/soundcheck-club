@@ -1,6 +1,6 @@
 # Karlie Marx
 
-Karlie Marx is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
+Karlie Marx is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
 
 Karlie Marx is a techno and bass artist based in United Kingdom, with 61 gigs on soundcheck across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Joshua James, THEMPRESS and Michelle Manetti. Next up: The Divine, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Karlie Marx is a techno and bass artist based in United Kingdom, with 61 gigs on
 
 Joshua James, THEMPRESS, Michelle Manetti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karliemarx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karliemarx/)*

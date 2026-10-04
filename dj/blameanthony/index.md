@@ -1,6 +1,6 @@
 # Blame Anthony
 
-Blame Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
+Blame Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
 
 Blame Anthony is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Thabo, Butterhands and Thalo Santana. Next up: TILLATEC, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Blame Anthony is a house and techno artist based in United Kingdom, with 13 gigs
 
 Thabo, Butterhands, Thalo Santana
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blameanthony/)*

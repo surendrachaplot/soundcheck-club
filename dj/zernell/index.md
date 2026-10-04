@@ -1,6 +1,6 @@
 # Zernell
 
-Zernell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Zernell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Zernell is a house and disco artist based in United States of America, with 24 gigs on soundcheck across Chicago, Los Angeles, Miami and Munich and 5 more. Often billed alongside Juliet Mendoza, Quicktastic and Santiago Salazar. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Zernell is a house and disco artist based in United States of America, with 24 g
 
 Juliet Mendoza, Quicktastic, Santiago Salazar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zernell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zernell/)*

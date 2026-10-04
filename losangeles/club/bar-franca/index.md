@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "This Week at Bar Franca" on Thu, 1 Oct 2026.
+Bar Franca is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "This Week at Bar Franca" on Thu, 1 Oct 2026.
 
 Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Ho (US), Calvin Dunn, Dekmantel Soundsystem and Demi Riquisimo and 2 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -17,4 +17,4 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

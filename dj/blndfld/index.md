@@ -1,6 +1,6 @@
 # BLNDFLD
 
-BLNDFLD is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
+BLNDFLD is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
 
 BLNDFLD is a techno and acid artist based in Georgia, with 15 gigs on soundcheck across Barcelona and Tbilisi. Often billed alongside Solarmental, Tsott and Aksed. Next up: LAUT, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BLNDFLD is a techno and acid artist based in Georgia, with 15 gigs on soundcheck
 
 Solarmental, Tsott, Aksed
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blndfld/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blndfld/)*

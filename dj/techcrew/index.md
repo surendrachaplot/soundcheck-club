@@ -1,6 +1,6 @@
 # Tech C
 
-Tech C is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Stay In The Room, Naples on Wed, 9 Dec 2026.
+Tech C is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Stay In The Room, Naples on Wed, 9 Dec 2026.
 
 Tech C is a techno and acid artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside TC Dj, Mr.Lucky and MaNu (UK). Next up: TBA - Stay In The Room, Naples on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Tech C is a techno and acid artist based in Italy, with 9 gigs on soundcheck acr
 
 TC Dj, Mr.Lucky, MaNu (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techcrew/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techcrew/)*

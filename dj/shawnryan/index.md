@@ -1,6 +1,6 @@
 # Shawn Ryan
 
-Shawn Ryan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Philly Aids Thrift, Philadelphia on Sat, 10 Oct 2026.
+Shawn Ryan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Philly Aids Thrift, Philadelphia on Sat, 10 Oct 2026.
 
 Shawn Ryan is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Universal Cave, Michael The Lion and DEL. Next up: Philly Aids Thrift, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Shawn Ryan is a house and disco artist based in United States of America, with 2
 
 Universal Cave, Michael The Lion, DEL (11)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnryan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnryan/)*

@@ -1,6 +1,6 @@
 # Thomas Colin
 
-Thomas Colin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kowalski, Stuttgart on Fri, 16 Oct 2026.
+Thomas Colin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kowalski, Stuttgart on Fri, 16 Oct 2026.
 
 Thomas Colin is a techno and house artist based in Germany, with 7 gigs on soundcheck across Düsseldorf and Stuttgart. Often billed alongside Egotot, Franz Jäger and DJ Unholy. Next up: Kowalski, Stuttgart on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Thomas Colin is a techno and house artist based in Germany, with 7 gigs on sound
 
 Egotot, Franz Jäger, DJ Unholy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomascolin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomascolin/)*

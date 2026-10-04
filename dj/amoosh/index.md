@@ -1,6 +1,6 @@
 # Amoosh
 
-Amoosh is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Story Toronto, Toronto on Fri, 6 Nov 2026.
+Amoosh is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Story Toronto, Toronto on Fri, 6 Nov 2026.
 
 Amoosh is a house and tech house artist, with 5 gigs on soundcheck across Toronto. Often billed alongside Aydan XR, DJ LÉA and Enrico Chirchiello. Next up: Story Toronto, Toronto on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Amoosh is a house and tech house artist, with 5 gigs on soundcheck across Toront
 
 Aydan XR, DJ LÉA, Enrico Chirchiello
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoosh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoosh/)*

@@ -1,6 +1,6 @@
 # Brenda.
 
-Brenda. is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Union Pine, Portland on Sat, 31 Oct 2026.
+Brenda. is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Union Pine, Portland on Sat, 31 Oct 2026.
 
 Brenda. is a latin bass and club artist, with 29 gigs on soundcheck across Belgrade, Berlin, Boston and Budapest and 14 more. Often billed alongside MARIA MANUELA, CRRDR and Feroui. Next up: TBA - Union Pine, Portland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Brenda. is a latin bass and club artist, with 29 gigs on soundcheck across Belgr
 
 MARIA MANUELA, CRRDR, Feroui
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*

@@ -1,6 +1,6 @@
 # Sebastian Bayne
 
-Sebastian Bayne is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 2ten, Athens on Tue, 27 Oct 2026.
+Sebastian Bayne is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 2ten, Athens on Tue, 27 Oct 2026.
 
 Sebastian Bayne is a techno and minimal artist, with 13 gigs on soundcheck across Athens, Berlin, Detroit and Sydney and 1 more. Often billed alongside Denise Rabe, Erosive and Gaya Kloud. Next up: 2ten, Athens on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Bayne is a techno and minimal artist, with 13 gigs on soundcheck acros
 
 Denise Rabe, Erosive, Gaya Kloud
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianbayne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianbayne/)*

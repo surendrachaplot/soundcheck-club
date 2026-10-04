@@ -1,6 +1,6 @@
 # 300SkullsAndCounting
 
-300SkullsAndCounting is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
+300SkullsAndCounting is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
 
 300SkullsAndCounting is an experimental and electronica artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Valeria Litvakov, Bassvictim and Global. Next up: Garage Noord, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@
 
 Valeria Litvakov, Bassvictim, Global
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/300skullsandcounting/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/300skullsandcounting/)*

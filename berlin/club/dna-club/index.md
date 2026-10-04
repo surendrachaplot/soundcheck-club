@@ -1,14 +1,13 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KTA.MKE - Progressive House on Open Air Terrace and Indoor Club" on Sat, 3 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Cancelled OBXENE TAG DER KULTUR " on Fri, 9 Oct 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Friday, Filialleiter, Khaøz and La Rod's and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Friday, Filialleiter, Khaøz and La Rod's and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Silversurfer, Tallah |
 | Fri, 9 Oct 2026 | Cancelled OBXENE TAG DER KULTUR  | La Rod's, Nothing Left, VNVK |
 | Fri, 9 Oct 2026 | FREE ENTRY: Get-Together: OPEN DECKS (All Night Long) - presented by DNA. CLUB |  |
 | Fri, 23 Oct 2026 | BIRTHDAY AFFAIR |  |
@@ -20,4 +19,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

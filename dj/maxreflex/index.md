@@ -1,6 +1,6 @@
 # Max Reflex
 
-Max Reflex is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bredouille, Berlin on Fri, 9 Oct 2026.
+Max Reflex is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bredouille, Berlin on Fri, 9 Oct 2026.
 
 Max Reflex is a downtempo and house artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nikkel, Mechanick and Philanthrop. Next up: Bredouille, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Max Reflex is a downtempo and house artist, with 6 gigs on soundcheck across Ber
 
 Nikkel, Mechanick, Philanthrop
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreflex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreflex/)*

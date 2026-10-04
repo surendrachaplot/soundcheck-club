@@ -1,6 +1,6 @@
 # Crystal O
 
-Crystal O is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Das Werk, Vienna on Fri, 9 Oct 2026.
+Crystal O is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Das Werk, Vienna on Fri, 9 Oct 2026.
 
 Crystal O is a techno and trance artist based in Austria, with 81 gigs on soundcheck across Berlin and Vienna. Often billed alongside Joey, KILIÅN and keha. Next up: Das Werk, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Crystal O is a techno and trance artist based in Austria, with 81 gigs on soundc
 
 Joey (2), KILIÅN, keha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalo/)*

@@ -1,6 +1,6 @@
 # Dominique.
 
-Dominique. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sub Club, Glasgow on Thu, 22 Oct 2026.
+Dominique. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sub Club, Glasgow on Thu, 22 Oct 2026.
 
 Dominique. is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Barcelona, Berlin, Dundee and Edinburgh and 7 more. Often billed alongside GUBBY, Robbie and t e s t p r e s s. Next up: Sub Club, Glasgow on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Dominique. is a techno and house artist based in United Kingdom, with 52 gigs on
 
 GUBBY, Robbie, t e s t p r e s s
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominique./)*

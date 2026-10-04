@@ -1,6 +1,6 @@
 # Mandel
 
-Mandel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
+Mandel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
 
 Mandel is a house and techno artist, with 18 gigs on soundcheck across Berlin, Hamburg, London and Munich and 1 more. Often billed alongside Jana Falcon, PARAMIDA and Vio PRG. Next up: Renate, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mandel is a house and techno artist, with 18 gigs on soundcheck across Berlin, H
 
 Jana Falcon, PARAMIDA, Vio PRG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandel/)*

@@ -1,6 +1,6 @@
 # Chrisse Kunst
 
-Chrisse Kunst is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Chrisse Kunst is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
 Chrisse Kunst is a techno and house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Oliver Koletzki, CIOZ and The Office. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Chrisse Kunst is a techno and house artist based in Germany, with 10 gigs on sou
 
 Oliver Koletzki, CIOZ, The Office
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissekunst/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissekunst/)*

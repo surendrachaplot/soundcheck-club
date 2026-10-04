@@ -1,6 +1,6 @@
 # Bianca Maieli
 
-Bianca Maieli is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
+Bianca Maieli is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
 
 Bianca Maieli is a baile funk and afrobeat artist based in United States of America, with 45 gigs on soundcheck across London, Los Angeles, New York City and San Diego and 1 more. Often billed alongside MTooray, DJ SUDI and Aku. Next up: public records, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Bianca Maieli is a baile funk and afrobeat artist based in United States of Amer
 
 MTooray, DJ SUDI, Aku
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancamaieli/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancamaieli/)*

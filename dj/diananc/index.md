@@ -1,6 +1,6 @@
 # Diana NC
 
-Diana NC is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Diana NC is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
 Diana NC is a house and deep house artist based in Colombia, with 12 gigs on soundcheck across Miami, New York City, Tampa Bay and Washington DC. Often billed alongside David Zapata, Felis Beātus and Kurilo. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Diana NC is a house and deep house artist based in Colombia, with 12 gigs on sou
 
 David Zapata, Felis Beātus, Kurilo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*

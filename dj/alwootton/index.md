@@ -1,6 +1,6 @@
 # Al Wootton
 
-Al Wootton is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
+Al Wootton is a Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
 
 Al Wootton is a techno and dub artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Valentina Magaletti, Azu Tiwaline and upsammy. Next up: Haus der Visionäre, Berlin on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Al Wootton is a techno and dub artist based in United Kingdom, with 66 gigs on s
 
 Valentina Magaletti, Azu Tiwaline, upsammy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alwootton/)*

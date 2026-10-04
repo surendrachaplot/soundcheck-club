@@ -1,6 +1,6 @@
 # BLAIZE
 
-BLAIZE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
+BLAIZE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
 BLAIZE is a techno and club artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Budapest, London and New York City and 4 more. Often billed alongside ARCHANGEL (US), SEXINCHURCH and Amarji King. Next up: Paragon, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BLAIZE is a techno and club artist based in United States of America, with 58 gi
 
 ARCHANGEL (US), SEXINCHURCH, Amarji King
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*

@@ -1,14 +1,13 @@
 # Hanebüchener
 
-Hanebüchener is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Baergarten, Berlin on Sun, 11 Oct 2026.
+Hanebüchener is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Sat, 27 Feb 2027.
 
-Hanebüchener is a house and disco artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside Zettka, Coss and Melbeatz. Next up: TBA - Baergarten, Berlin on Sun 11 Oct.
+Hanebüchener is a house and disco artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside Zettka, Coss and Melbeatz. Next up: TBA, Berlin on Sat 27 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | TBA - Baergarten | Berlin |
 | Sat, 27 Feb 2027 | TBA | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Hanebüchener is a house and disco artist based in Germany, with 24 gigs on soun
 
 Zettka, Coss, Melbeatz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanebuchener/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanebuchener/)*

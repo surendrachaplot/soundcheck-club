@@ -1,6 +1,6 @@
 # Mavridis
 
-Mavridis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Patision65, Athens on Sat, 10 Oct 2026.
+Mavridis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Patision65, Athens on Sat, 10 Oct 2026.
 
 Mavridis is a techno and electro artist based in Greece, with 6 gigs on soundcheck across Athens. Often billed alongside DJ Problems, Re/Act and Alpha Sect. Next up: Patision65, Athens on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Mavridis is a techno and electro artist based in Greece, with 6 gigs on soundche
 
 DJ Problems, Re/Act, Alpha Sect
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mavridis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mavridis/)*

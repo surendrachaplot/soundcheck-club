@@ -1,6 +1,6 @@
 # Unit Moebius
 
-Unit Moebius is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OT301, Amsterdam on Sat, 21 Nov 2026.
+Unit Moebius is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OT301, Amsterdam on Sat, 21 Nov 2026.
 
 Unit Moebius is a techno and electro artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Brussels and Rotterdam and 1 more. Often billed alongside Baz Reznik, Charlton and Drvg Cvltvre. Next up: OT301, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Unit Moebius is a techno and electro artist, with 9 gigs on soundcheck across Am
 
 Baz Reznik, Charlton, Drvg Cvltvre
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unitmoebius/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unitmoebius/)*

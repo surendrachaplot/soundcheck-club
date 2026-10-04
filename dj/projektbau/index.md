@@ -1,6 +1,6 @@
 # Projektbau
 
-Projektbau is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
+Projektbau is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
 
 Projektbau is a house and hip-hop artist based in Germany, with 19 gigs on soundcheck across Berlin, Budapest, Cologne and Dublin and 7 more. Often billed alongside dj poolboi, Baltra and DJ Cinéma Quartier Latin. Next up: Lark, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Projektbau is a house and hip-hop artist based in Germany, with 19 gigs on sound
 
 dj poolboi, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/projektbau/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/projektbau/)*

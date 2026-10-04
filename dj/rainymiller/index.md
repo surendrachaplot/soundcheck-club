@@ -1,6 +1,6 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Rainy Miller is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
 Rainy Miller is an experimental and electronica artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Rainy Miller is an experimental and electronica artist based in United Kingdom, 
 
 2K88, Bianca Scout, aya
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*

@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+BAUGRUPPE90 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
 BAUGRUPPE90 is a techno and house artist based in Germany, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 47 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ BAUGRUPPE90 is a techno and house artist based in Germany, with 160 gigs on soun
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

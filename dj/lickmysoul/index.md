@@ -1,6 +1,6 @@
 # LickMySoul
 
-LickMySoul is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
+LickMySoul is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
 
 LickMySoul is a techno and trance artist based in Czech Republic, with 19 gigs on soundcheck across Prague. Often billed alongside Segment, mata rubia and patricccio. Next up: Ankali & Planeta Za, Prague on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ LickMySoul is a techno and trance artist based in Czech Republic, with 19 gigs o
 
 ## Recently played
 
+- Ankali & Planeta Za, Prague · Sat, 3 Oct 2026
 - Ankali & Planeta Za, Prague · Fri, 18 Sept 2026
 - TBA, Prague · Sat, 11 Jul 2026
 - Ankali & Planeta Za, Prague · Fri, 26 Jun 2026
@@ -20,10 +21,9 @@ LickMySoul is a techno and trance artist based in Czech Republic, with 19 gigs o
 - Fuchs2, Prague · Fri, 19 Jun 2026
 - Ankali & Planeta Za, Prague · Fri, 29 May 2026
 - Ankali & Planeta Za, Prague · Sat, 4 Apr 2026
-- Kolektor, Prague · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Segment, mata rubia, patricccio
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lickmysoul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lickmysoul/)*

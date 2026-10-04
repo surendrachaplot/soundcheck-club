@@ -1,6 +1,6 @@
 # Fedty
 
-Fedty is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
+Fedty is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
 
 Fedty is a house and afro house artist based in Denmark, with 25 gigs on soundcheck across Copenhagen and Paris. Often billed alongside Coco & Breezy, Ena Cosovic and Qazi. Next up: Pumpehuset, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Fedty is a house and afro house artist based in Denmark, with 25 gigs on soundch
 
 Coco & Breezy, Ena Cosovic, Qazi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedty/)*

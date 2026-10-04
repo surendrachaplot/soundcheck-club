@@ -1,6 +1,6 @@
 # XANGA
 
-XANGA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafeteria, Toronto on Sat, 24 Oct 2026.
+XANGA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafeteria, Toronto on Sat, 24 Oct 2026.
 
 XANGA is a house and electro artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside DR 4SKYN, Delicious DJ and emmy.wav. Next up: Cafeteria, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ XANGA is a house and electro artist based in Canada, with 10 gigs on soundcheck 
 
 DR 4SKYN, Delicious DJ, emmy.wav
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*

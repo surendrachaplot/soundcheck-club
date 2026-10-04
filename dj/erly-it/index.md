@@ -1,6 +1,6 @@
 # Erly Tepshi
 
-Erly Tepshi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
+Erly Tepshi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
 
 Erly Tepshi is a techno and minimal techno artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Berlin, Ghent and London and 4 more. Often billed alongside Alex Sharp, Daniel Blade and Ivan Masa. Next up: Upper East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Erly Tepshi is a techno and minimal techno artist based in Italy, with 11 gigs o
 
 Alex Sharp, Daniel Blade, Ivan Masa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erly-it/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erly-it/)*

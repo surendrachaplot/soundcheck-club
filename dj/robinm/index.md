@@ -1,6 +1,6 @@
 # Robin M
 
-Robin M is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Century, London on Sat, 31 Oct 2026.
+Robin M is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Century, London on Sat, 31 Oct 2026.
 
 Robin M is a house and afro house artist based in United Kingdom, with 25 gigs on soundcheck across Ibiza, London and San Francisco/Oakland. Often billed alongside Jeremiah Asiamah, Bedouin and L.A. Dave. Next up: Century, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Robin M is a house and afro house artist based in United Kingdom, with 25 gigs o
 
 Jeremiah Asiamah, Bedouin, L.A. Dave
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinm/)*

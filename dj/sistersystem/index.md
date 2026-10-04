@@ -1,6 +1,6 @@
 # Sister System
 
-Sister System is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
+Sister System is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 15 Oct 2026.
 
 Sister System is a techno and house artist based in United States of America, with 71 gigs on soundcheck across Chicago, Denver, Miami and New York City. Often billed alongside Coffintexts, Jonny From Space and Bakke. Next up: Jolene Downtown Miami, Miami on Thu 15 Oct.
 
@@ -31,4 +31,4 @@ Sister System is a techno and house artist based in United States of America, wi
 
 Coffintexts, Jonny From Space, Bakke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersystem/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersystem/)*

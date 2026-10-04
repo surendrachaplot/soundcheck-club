@@ -1,6 +1,6 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
+Kwartz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
 
 Kwartz is a techno and house artist based in Spain, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: fabric, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kwartz is a techno and house artist based in Spain, with 92 gigs on soundcheck a
 
 Kaiser (K S R), BLANKA, Beste Hira
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*

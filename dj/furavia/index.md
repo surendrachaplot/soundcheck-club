@@ -1,6 +1,6 @@
 # FURAVIA
 
-FURAVIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
+FURAVIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
 
 FURAVIA is a techno and trance artist based in Italy, with 15 gigs on soundcheck across Lisbon. Often billed alongside João Melgueira, DJ Yok and ophell. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ FURAVIA is a techno and trance artist based in Italy, with 15 gigs on soundcheck
 
 João Melgueira, DJ Yok, ophell
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furavia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furavia/)*

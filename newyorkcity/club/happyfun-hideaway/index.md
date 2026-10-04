@@ -1,6 +1,6 @@
 # Happyfun Hideaway
 
-Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64" on Sat, 3 Oct 2026.
+Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64" on Sat, 3 Oct 2026.
 
 Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including EEVEE, Niyx, Norty Cotto and v64 and 1 more. See dates, start times and who's playing. 1211 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -15,4 +15,4 @@ Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upco
 
 1211 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*

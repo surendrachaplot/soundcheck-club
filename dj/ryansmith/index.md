@@ -1,6 +1,6 @@
 # Ryan Smith
 
-Ryan Smith is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BASEMENT, New York City on Sat, 3 Oct 2026.
+Ryan Smith is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Sat, 3 Oct 2026.
 
 Ryan Smith is a techno and jungle artist based in United States of America, with 47 gigs on soundcheck across Miami, Montreal, New York City and San Francisco/Oakland. Often billed alongside Ron Like Hell, Day Thief and Juana. Next up: BASEMENT, New York City on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Ryan Smith is a techno and jungle artist based in United States of America, with
 
 ## Recently played
 
+- BASEMENT, New York City · Sat, 3 Oct 2026
 - BASEMENT, New York City · Sat, 12 Sept 2026
 - BASEMENT, New York City · Sat, 8 Aug 2026
 - BASEMENT, New York City · Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ Ryan Smith is a techno and jungle artist based in United States of America, with
 - BASEMENT, New York City · Sat, 16 May 2026
 - BASEMENT, New York City · Sat, 18 Apr 2026
 - BASEMENT, New York City · Sat, 21 Mar 2026
-- BASEMENT, New York City · Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Ron Like Hell, Day Thief, Juana
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansmith/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansmith/)*

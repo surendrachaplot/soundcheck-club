@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HVEN presents: Before the Blue" on Sun, 4 Oct 2026.
+HVEN is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HVEN presents: Before the Blue" on Sun, 4 Oct 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including AiMii, DJason, ELYSIUM and Good Company Broadcast Group and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -16,4 +16,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

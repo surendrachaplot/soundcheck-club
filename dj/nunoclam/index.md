@@ -1,6 +1,6 @@
 # Nuno Clam
 
-Nuno Clam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
+Nuno Clam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
 
 Nuno Clam is a techno and house artist based in Portugal, with 10 gigs on soundcheck across Lisbon and Porto. Often billed alongside Downtown, Glender and A.Paul. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nuno Clam is a techno and house artist based in Portugal, with 10 gigs on soundc
 
 Downtown, Glender, A.Paul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoclam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoclam/)*

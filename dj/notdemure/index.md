@@ -1,6 +1,6 @@
 # Not Demure
 
-Not Demure is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+Not Demure is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 Not Demure is a progressive house and deep house artist based in Argentina, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Around Us, Callecat and Dowden. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Not Demure is a progressive house and deep house artist based in Argentina, with
 
 Around Us, Callecat, Dowden
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notdemure/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notdemure/)*

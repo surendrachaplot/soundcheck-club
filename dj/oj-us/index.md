@@ -1,6 +1,6 @@
 # OJ (US)
 
-OJ (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
+OJ (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
 
 OJ (US) is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Los Angeles and Seattle. Often billed alongside KETTAMA, AK SPORTS and Akumen. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ OJ (US) is a techno and house artist based in United States of America, with 12 
 
 ## Recently played
 
+- TBA - Los Angeles (Warehouse), Los Angeles · Sat, 3 Oct 2026
 - TBA - Under the 6th St. Bridge, Los Angeles · Fri, 5 Jun 2026
 - TBA - Warehouse, Los Angeles · Fri, 19 Sept 2025
 - TBA - DTLA, Los Angeles · Sat, 10 May 2025
@@ -19,10 +20,9 @@ OJ (US) is a techno and house artist based in United States of America, with 12 
 - TBA - Los Angeles, Los Angeles · Fri, 27 Dec 2024
 - Substation, Seattle · Fri, 15 Nov 2024
 - Melody Lounge, Los Angeles · Thu, 18 Jul 2024
-- TBA - Santa Monica Warehouse, Los Angeles · Sat, 22 Jun 2024
 
 ## Shares bills with
 
 KETTAMA, AK SPORTS, Akumen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oj-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oj-us/)*

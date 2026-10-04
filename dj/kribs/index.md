@@ -1,6 +1,6 @@
 # Kribs
 
-Kribs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fi, Cologne on Sat, 28 Nov 2026.
+Kribs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at fi, Cologne on Sat, 28 Nov 2026.
 
 Kribs is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt. Often billed alongside Miles Pinkert, mojo and Anna Konda. Next up: fi, Cologne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kribs is a techno and house artist based in Germany, with 29 gigs on soundcheck 
 
 Miles Pinkert, mojo, Anna Konda
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kribs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kribs/)*

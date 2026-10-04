@@ -1,6 +1,6 @@
 # Nalen
 
-Nalen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Moxy Annual Halloween Party" on Sat, 31 Oct 2026.
+Nalen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Moxy Annual Halloween Party" on Sat, 31 Oct 2026.
 
 Nalen is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Regeringsgatan 74, 111 39, Stockholm.
 
@@ -14,4 +14,4 @@ Nalen is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See da
 
 Regeringsgatan 74, 111 39, Stockholm, Stockholm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/nalen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/nalen/)*

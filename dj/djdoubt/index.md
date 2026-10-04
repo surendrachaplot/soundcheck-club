@@ -1,6 +1,6 @@
 # DJ Doubt
 
-DJ Doubt is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Planet Wax, London on Sun, 4 Oct 2026.
+DJ Doubt is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Planet Wax, London on Sun, 4 Oct 2026.
 
 DJ Doubt is a jungle and hardcore artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, London, Nottingham and Sheffield. Often billed alongside Deselecta, DJ Azure and Fez the Kid. Next up: Planet Wax, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ DJ Doubt is a jungle and hardcore artist based in United Kingdom, with 27 gigs o
 
 Deselecta, DJ Azure, Fez the Kid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoubt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoubt/)*

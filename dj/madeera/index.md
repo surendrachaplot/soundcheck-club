@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
+madeera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
 
 madeera is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Detroit, Dublin, Newcastle and New York City and 2 more. Often billed alongside Brent Shay, Antikkka and Cody Hammer. Next up: TBA -   HEY HEY SOCIAL , San Antonio on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ madeera is a techno and house artist based in United States of America, with 19 
 
 Brent Shay, Antikkka, Cody Hammer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

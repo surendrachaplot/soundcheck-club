@@ -1,6 +1,6 @@
 # SÜRVIVØR
 
-SÜRVIVØR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Vancouver on Fri, 9 Oct 2026.
+SÜRVIVØR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Vancouver on Fri, 9 Oct 2026.
 
 SÜRVIVØR is a techno and industrial artist based in Belgium, with 6 gigs on soundcheck across Vancouver. Often billed alongside MED!C, Fizch and Behrad Tehrani. Next up: TBA, Vancouver on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ SÜRVIVØR is a techno and industrial artist based in Belgium, with 6 gigs on so
 
 MED!C, Fizch, Behrad Tehrani
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/survivor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/survivor/)*

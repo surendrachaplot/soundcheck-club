@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TRAUMA UNIT 2 YEARS" on Sat, 3 Oct 2026.
+The Greyhound is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TRAUMA UNIT 2 YEARS" on Sat, 3 Oct 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 20 upcoming gigs,
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

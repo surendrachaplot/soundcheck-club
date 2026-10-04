@@ -1,6 +1,6 @@
 # MC Tazo
 
-MC Tazo is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+MC Tazo is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 MC Tazo is a hardcore and club artist based in United Kingdom, with 12 gigs on soundcheck across Glasgow, London, Manchester and Newcastle. Often billed alongside Andy Whitby, Klubfiller and Lozza. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ MC Tazo is a hardcore and club artist based in United Kingdom, with 12 gigs on s
 
 Andy Whitby, Klubfiller, Lozza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctazo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mctazo/)*

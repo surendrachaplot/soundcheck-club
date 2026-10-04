@@ -1,6 +1,6 @@
 # Az Aachen
 
-Az Aachen is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Echo Chamber 3" on Sat, 24 Oct 2026.
+Az Aachen is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Echo Chamber 3" on Sat, 24 Oct 2026.
 
 Az Aachen is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Meli Mena. See dates, start times and who's playing. Vereinsstr. 25, 52062, Aachen, Germany.
 
@@ -14,4 +14,4 @@ Az Aachen is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with
 
 Vereinsstr. 25, 52062, Aachen, Germany, Cologne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/az-aachen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/az-aachen/)*

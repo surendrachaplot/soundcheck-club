@@ -1,6 +1,6 @@
 # Tronic
 
-Tronic is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande, Amsterdam on Fri, 23 Oct 2026.
+Tronic is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande, Amsterdam on Fri, 23 Oct 2026.
 
 Tronic is a techno and psytrance artist, with 6 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Vienna. Often billed alongside 2nd Floor, Abyss and Anna Reusch. Next up: TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Tronic is a techno and psytrance artist, with 6 gigs on soundcheck across Amster
 
 2nd Floor, Abyss, Anna Reusch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*

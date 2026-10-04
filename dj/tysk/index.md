@@ -1,13 +1,14 @@
 # TYSK
 
-TYSK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Roof 175, Frankfurt on Fri, 16 Oct 2026.
+TYSK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sexto Station, Lisbon on Sat, 10 Oct 2026.
 
-TYSK is a techno and trance artist based in Ukraine, with 8 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon. Often billed alongside Sasha Pervukhin, Eurodance2000 and 420@ôa. Next up: Roof 175, Frankfurt on Fri 16 Oct.
+TYSK is a techno and trance artist based in Ukraine, with 9 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon. Often billed alongside Sasha Pervukhin, Eurodance2000 and matvii. Next up: Sexto Station, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Sexto Station | Lisbon |
 | Fri, 16 Oct 2026 | Roof 175 | Frankfurt |
 
 ## Recently played
@@ -22,6 +23,6 @@ TYSK is a techno and trance artist based in Ukraine, with 8 gigs on soundcheck a
 
 ## Shares bills with
 
-Sasha Pervukhin, Eurodance2000, 420@ôa
+Sasha Pervukhin, Eurodance2000, matvii
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tysk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tysk/)*

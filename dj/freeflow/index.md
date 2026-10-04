@@ -1,6 +1,6 @@
 # Freeflow
 
-Freeflow is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
+Freeflow is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
 
 Freeflow is an electronic artist based in Greece, with 12 gigs on soundcheck across Athens. Often billed alongside Philip Paul, Blame The Mono and LEFTYT. Next up: Oddity Club, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Freeflow is an electronic artist based in Greece, with 12 gigs on soundcheck acr
 
 Philip Paul, Blame The Mono, LEFTYT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freeflow/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freeflow/)*

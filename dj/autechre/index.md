@@ -1,14 +1,13 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Universe Athens, Athens on Sat, 3 Oct 2026.
+Autechre is a IDM and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Block 33, Thessaloniki on Sun, 4 Oct 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Universe Athens, Athens on Sat 3 Oct.
+Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Block 33, Thessaloniki on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Universe Athens | Athens |
 | Sun, 4 Oct 2026 | Block 33 | Thessaloniki |
 | Tue, 6 Oct 2026 | Toplocentrala | Sofia |
 | Wed, 7 Oct 2026 | Club Guesthouse | Bucharest |
@@ -20,9 +19,11 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 | Wed, 14 Oct 2026 | Le Bataclan | Paris |
 | Thu, 15 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
 | Fri, 16 Oct 2026 | L'Aéronef | Lille |
+| Tue, 20 Oct 2026 | Vicar Street | Dublin |
 
 ## Recently played
 
+- Universe Athens, Athens · Sat, 3 Oct 2026
 - Ložionica, Belgrade · Thu, 1 Oct 2026
 - Planet.tt Gasometer, Vienna · Tue, 29 Sept 2026
 - National Gallery Prague, Prague · Sun, 27 Sept 2026
@@ -30,10 +31,9 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 - Rote Fabrik, Zurich · Fri, 25 Sept 2026
 - Yogibo Meta Valley, Osaka · Thu, 5 Feb 2026
 - Zepp Tokyo, Tokyo · Wed, 4 Feb 2026
-- Mandela Hall, Belfast · Fri, 7 Nov 2025
 
 ## Shares bills with
 
 Mark Broom, HiTech, ojoo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

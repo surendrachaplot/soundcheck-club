@@ -1,6 +1,6 @@
 # Margolis Music Lounge
 
-Margolis Music Lounge is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sunday Night Service" on Sat, 3 Oct 2026.
+Margolis Music Lounge is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sunday Night Service" on Sat, 3 Oct 2026.
 
 Margolis Music Lounge is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Gianni Lee. See dates, start times and who's playing. 9 West Wildey Street, Philadelphia, PA 19123, USA.
 
@@ -14,4 +14,4 @@ Margolis Music Lounge is a music venue in Philadelphia listed on soundcheck. 1 u
 
 9 West Wildey Street, Philadelphia, PA 19123, USA, Philadelphia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/margolis-music-lounge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/margolis-music-lounge/)*

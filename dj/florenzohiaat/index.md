@@ -1,6 +1,6 @@
 # Florenzo Hiäät
 
-Florenzo Hiäät is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Florenzo Hiäät is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Florenzo Hiäät is a techno and trance artist based in Albania, with 18 gigs on soundcheck across Amsterdam, Liverpool and London. Often billed alongside DREIAN, Fernweh and Carlos Martinez. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Florenzo Hiäät is a techno and trance artist based in Albania, with 18 gigs on
 
 DREIAN, Fernweh (2), Carlos Martinez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florenzohiaat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florenzohiaat/)*

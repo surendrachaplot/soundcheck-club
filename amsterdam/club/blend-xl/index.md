@@ -1,6 +1,6 @@
 # Blend XL
 
-Blend XL is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LOOSE MONKEY TAKEOVER AT Blend XL" on Fri, 23 Oct 2026.
+Blend XL is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LOOSE MONKEY TAKEOVER AT Blend XL" on Fri, 23 Oct 2026.
 
 Blend XL is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Camilo Do Santos, ChillOhm, Doc Link and Eddy Romero and 2 more. See dates, start times and who's playing. Reguliersdwarsstraat 44.
 
@@ -17,4 +17,4 @@ Blend XL is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, wi
 
 Reguliersdwarsstraat 44, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blend-xl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blend-xl/)*

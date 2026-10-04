@@ -1,6 +1,6 @@
 # fka.m4a
 
-fka.m4a is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
+fka.m4a is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
 
 fka.m4a is a house and techno artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: KREUZWERK, Berlin on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ fka.m4a is a house and techno artist based in United Kingdom, with 194 gigs on s
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

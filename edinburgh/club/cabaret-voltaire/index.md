@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NCTRN024: Club Nocturne presents Sweeney b2b Tosher" on Sat, 3 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "NCTRN024: Club Nocturne presents Sweeney b2b Tosher" on Sat, 3 Oct 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 15 upcoming gigs, with line-ups including Bakey, Boss Priester, Cam Stockman and Captain Wallop and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 15 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

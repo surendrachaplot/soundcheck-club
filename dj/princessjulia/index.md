@@ -1,6 +1,6 @@
 # Princess Julia
 
-Princess Julia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
+Princess Julia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
 
 Princess Julia is a house and disco artist based in United Kingdom, with 51 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Joshua James, Mike Menace and Fat Tony. Next up: The Divine, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Princess Julia is a house and disco artist based in United Kingdom, with 51 gigs
 
 Joshua James, Mike Menace, Fat Tony
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessjulia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessjulia/)*

@@ -1,6 +1,6 @@
 # Fernanda Arrau
 
-Fernanda Arrau is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
+Fernanda Arrau is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
 
 Fernanda Arrau is a house and techno artist, with 74 gigs on soundcheck across Barcelona, Berlin, Bucharest and Buenos Aires and 9 more. Often billed alongside Ketiov, Myd and TWO EX. Next up: Sunday Sunday, Mexico City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Fernanda Arrau is a house and techno artist, with 74 gigs on soundcheck across B
 
 Ketiov, Myd, TWO EX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandaarrau-cl/)*

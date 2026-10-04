@@ -1,6 +1,6 @@
 # beccs
 
-beccs is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
+beccs is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
 
 beccs is a tech house and techno artist based in Germany, with 79 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leeds and 4 more. Often billed alongside Anton Jonathan, Najeh and Tana. Next up: Hafenklang, Hamburg on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ beccs is a tech house and techno artist based in Germany, with 79 gigs on soundc
 
 Anton Jonathan, Najeh, Tana (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*

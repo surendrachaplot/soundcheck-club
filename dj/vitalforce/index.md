@@ -1,6 +1,6 @@
 # Vital Force
 
-Vital Force is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
+Vital Force is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat, 19 Dec 2026.
 
 Vital Force is a hardcore and techno artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Lance (JP), riichi / we_like_180bpm and DJ Shimamura. Next up: TBA - PUBLIC PUBLIC Shibuya, Tokyo on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vital Force is a hardcore and techno artist based in Japan, with 10 gigs on soun
 
 Lance (JP), riichi / we_like_180bpm, DJ Shimamura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalforce/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitalforce/)*

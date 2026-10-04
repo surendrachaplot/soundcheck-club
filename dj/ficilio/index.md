@@ -1,6 +1,6 @@
 # Ficilio
 
-Ficilio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bambi's, Toronto on Sat, 7 Nov 2026.
+Ficilio is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bambi's, Toronto on Sat, 7 Nov 2026.
 
 Ficilio is a house and techno artist based in Canada, with 38 gigs on soundcheck across Montreal, Osaka and Toronto. Often billed alongside Ciel, Milch and Rabzi. Next up: Bambi's, Toronto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ficilio is a house and techno artist based in Canada, with 38 gigs on soundcheck
 
 Ciel, Milch (1), Rabzi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ficilio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ficilio/)*

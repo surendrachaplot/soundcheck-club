@@ -1,6 +1,6 @@
 # Klippee
 
-Klippee is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Klippee is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
 Klippee is a drum & bass and bass artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, San Diego, Seattle and Vancouver. Often billed alongside Enei, Kasra and Calyx & Teebee. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
@@ -14,6 +14,8 @@ Klippee is a drum & bass and bass artist based in United States of America, with
 
 ## Recently played
 
+- The Red Room, Vancouver · Sat, 3 Oct 2026
+- The Red Room, Vancouver · Sat, 3 Oct 2026
 - Substation, Seattle · Fri, 7 Nov 2025
 - Spin, San Diego · Fri, 14 Apr 2023
 - 1720, Los Angeles · Sat, 18 Mar 2023
@@ -22,4 +24,4 @@ Klippee is a drum & bass and bass artist based in United States of America, with
 
 Enei, Kasra, Calyx & Teebee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klippee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klippee/)*

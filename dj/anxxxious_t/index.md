@@ -1,6 +1,6 @@
 # anxxxious_t
 
-anxxxious_t is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Fri, 16 Oct 2026.
+anxxxious_t is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FLUCC, Vienna on Fri, 16 Oct 2026.
 
 anxxxious_t is a techno and house artist, with 29 gigs on soundcheck across Berlin, Hamburg, Prague and Vienna. Often billed alongside Yves, zey and DJ WKStA. Next up: FLUCC, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ anxxxious_t is a techno and house artist, with 29 gigs on soundcheck across Berl
 
 Yves (2), zey, DJ WKStA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*

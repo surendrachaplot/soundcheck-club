@@ -1,6 +1,6 @@
 # DJ STAKXX
 
-DJ STAKXX is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Detroit Shipping Company, Detroit on Sat, 31 Oct 2026.
+DJ STAKXX is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Detroit Shipping Company, Detroit on Sat, 31 Oct 2026.
 
 DJ STAKXX is a techno and club artist based in United States of America, with 9 gigs on soundcheck across Detroit and New York City. Often billed alongside jamea., DJ KILLA SQUID and BEYBLADE SHAWTY. Next up: Detroit Shipping Company, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ STAKXX is a techno and club artist based in United States of America, with 9 
 
 jamea., DJ KILLA SQUID, BEYBLADE SHAWTY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstakxx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstakxx/)*

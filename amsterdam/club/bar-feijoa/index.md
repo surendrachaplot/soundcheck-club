@@ -1,6 +1,6 @@
 # Bar Feijoa
 
-Bar Feijoa is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Urge To Dance x Reconsider: ADE '26 Showcase" on Sun, 25 Oct 2026.
+Bar Feijoa is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Urge To Dance x Reconsider: ADE '26 Showcase" on Sun, 25 Oct 2026.
 
 Bar Feijoa is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Vijzelstraat 39, 1017 HE Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Bar Feijoa is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. S
 
 Vijzelstraat 39, 1017 HE Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-feijoa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bar-feijoa/)*

@@ -1,6 +1,6 @@
 # Erykah
 
-Erykah is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+Erykah is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
 Erykah is a breakbeat and house artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, AliA and Vers. Next up: Amigo, Ghent on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Erykah is a breakbeat and house artist based in Belgium, with 66 gigs on soundch
 
 gguusstt, AliA, Vers
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

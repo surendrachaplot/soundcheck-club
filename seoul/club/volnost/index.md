@@ -1,6 +1,6 @@
 # Volnost
 
-Volnost is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Thursday Volnost" on Thu, 8 Oct 2026.
+Volnost is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Thursday Volnost" on Thu, 8 Oct 2026.
 
 Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including ASYNC, ccb, chukimaandal and ComaRobot and 2 more. See dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -22,4 +22,4 @@ Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with li
 
 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*

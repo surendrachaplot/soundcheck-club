@@ -1,6 +1,6 @@
 # Dojo Boutique Club
 
-Dojo Boutique Club is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "DOJO SECTOR with DARCO (IL) 10.03" on Sat, 3 Oct 2026.
+Dojo Boutique Club is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DOJO SECTOR with DARCO (IL) 10.03" on Sat, 3 Oct 2026.
 
 Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 5 upcoming gigs, with line-ups including Budai House Clique, CHRSTPHR, HotLap and LERM. See dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
 
@@ -18,4 +18,4 @@ Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 5 upcoming
 
 Budapest, Zrínyi u. 4/a, 1051, Hungary, Budapest
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*

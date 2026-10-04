@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Tama Sumo is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
 Tama Sumo is a house and techno artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Tama Sumo is a house and techno artist based in Germany, with 200 gigs on soundc
 
 Lakuti, Roi Perez, MUSCLECARS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

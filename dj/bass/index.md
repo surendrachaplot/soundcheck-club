@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 10 Oct 2026.
+Bass is a Drum & Bass and Jazz artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Coup by BUNKERBUNKER!!, Singapore on Sat, 10 Oct 2026.
 
 Bass is a drum & bass and jazz artist based in Egypt, with 120 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 40 more. Often billed alongside Jungle (UK), Tekk and A². Next up: The Coup by BUNKERBUNKER!!, Singapore on Sat 10 Oct.
 
@@ -32,4 +32,4 @@ Bass is a drum & bass and jazz artist based in Egypt, with 120 gigs on soundchec
 
 Jungle (UK), Tekk, A²
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

@@ -1,6 +1,6 @@
 # Mordio
 
-Mordio is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+Mordio is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 Mordio is a techno and dub techno artist, with 13 gigs on soundcheck across Berlin, Brussels, Leipzig and Malta and 1 more. Often billed alongside Polygonia, Hypnotic Black Magic and Vanta (DE). Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mordio is a techno and dub techno artist, with 13 gigs on soundcheck across Berl
 
 Polygonia, Hypnotic Black Magic, Vanta (DE)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordio/)*

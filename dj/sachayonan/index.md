@@ -1,6 +1,6 @@
 # Sacha Yonan
 
-Sacha Yonan is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cross, London on Fri, 30 Oct 2026.
+Sacha Yonan is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cross, London on Fri, 30 Oct 2026.
 
 Sacha Yonan is a house and progressive house artist based in France, with 22 gigs on soundcheck across Amsterdam, Berlin, Geneva and Ibiza and 1 more. Often billed alongside AOB, CENKK and Francesco Betti. Next up: The Cross, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sacha Yonan is a house and progressive house artist based in France, with 22 gig
 
 AOB, CENKK, Francesco Betti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachayonan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachayonan/)*

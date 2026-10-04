@@ -1,6 +1,6 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jamie Fielding is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Jamie Fielding is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -23,17 +23,17 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 69
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
+- Void Hull, North · Sat, 3 Oct 2026
 - Motion Club, Aberdeen · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 20 Sept 2026
 - 528 Ibiza, Ibiza · Sun, 13 Sept 2026
 - Studio 338, London · Sat, 12 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 10 Sept 2026
-- Eden, Ibiza · Sun, 23 Aug 2026
-- Barras Art & Design Centre, Glasgow · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Marsolo, Niteplan, Job de Jong
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

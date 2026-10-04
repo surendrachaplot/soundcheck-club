@@ -1,6 +1,6 @@
 # DiscoDaisy
 
-DiscoDaisy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
+DiscoDaisy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 21 Nov 2026.
 
 DiscoDaisy is a trance and techno artist based in Austria, with 31 gigs on soundcheck across Barcelona, Berlin, Leipzig and Munich. Often billed alongside CARGO (DE), DJ SeXex and Felix Schwarzenberger. Next up: DETROIT CLUB, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DiscoDaisy is a trance and techno artist based in Austria, with 31 gigs on sound
 
 CARGO (DE), DJ SeXex, Felix Schwarzenberger
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discodaisy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discodaisy/)*

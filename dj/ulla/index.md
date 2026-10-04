@@ -1,6 +1,6 @@
 # Ulla
 
-Ulla is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Ulla is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Ulla is an experimental and ambient artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Ulla is an experimental and ambient artist based in United States of America, wi
 
 Perila, Lawrence, Map.ache
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*

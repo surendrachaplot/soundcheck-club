@@ -1,6 +1,6 @@
 # Bjørnson
 
-Bjørnson is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
+Bjørnson is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
 Bjørnson is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Frankfurt and Stuttgart. Often billed alongside Anna Reusch, LEO TIGER and Joyhauser. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Bjørnson is a techno and trance artist based in Germany, with 37 gigs on soundc
 
 Anna Reusch, LEO TIGER, Joyhauser
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjornson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjornson/)*

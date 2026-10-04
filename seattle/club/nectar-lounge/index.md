@@ -1,6 +1,6 @@
 # Nectar Lounge
 
-Nectar Lounge is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Satin Jackets with Pressha and Justin Hartinger" on Sat, 10 Oct 2026.
+Nectar Lounge is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Satin Jackets with Pressha and Justin Hartinger" on Sat, 10 Oct 2026.
 
 Nectar Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with line-ups including ATYYA, DR. GABBA, Jamie Schwabl and Jason Code and 2 more. See dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
 
@@ -19,4 +19,4 @@ Nectar Lounge is a music venue in Seattle listed on soundcheck. 6 upcoming gigs,
 
 412 N. 36th Street; Seattle, WA 98103; United States, Seattle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*

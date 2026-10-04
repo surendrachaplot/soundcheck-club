@@ -1,6 +1,6 @@
 # Last Men On Earth
 
-Last Men On Earth is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Last Men On Earth is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
 Last Men On Earth is a house and tech house artist based in Argentina, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 6 more. Often billed alongside Agustin Giri, Djolee and Gespona. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Last Men On Earth is a house and tech house artist based in Argentina, with 25 g
 
 Agustin Giri, Djolee, Gespona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*

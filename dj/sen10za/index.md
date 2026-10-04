@@ -1,6 +1,6 @@
 # SEN10ZA
 
-SEN10ZA is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
+SEN10ZA is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
 
 SEN10ZA is a house and funk / soul artist based in France, with 7 gigs on soundcheck across Hong Kong, Lisbon and Lyon. Often billed alongside FastArth, Cora M. and Di Linh. Next up: Bar Badassery, Lisbon on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ SEN10ZA is a house and funk / soul artist based in France, with 7 gigs on soundc
 
 FastArth, Cora M., Di Linh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*

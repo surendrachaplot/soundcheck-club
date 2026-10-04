@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+Samuel Moriero (2) is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 Samuel Moriero is a techno and industrial artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Onlynumbers, Restricted and ASLO. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Samuel Moriero is a techno and industrial artist based in Italy, with 26 gigs on
 
 ## Recently played
 
+- TBA, Toronto · Sat, 3 Oct 2026
 - 314 Scholes, New York City · Fri, 2 Oct 2026
 - DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
 - The Classic Grand, Glasgow · Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Samuel Moriero is a techno and industrial artist based in Italy, with 26 gigs on
 - Amnesia Ibiza, Ibiza · Wed, 15 Jul 2026
 - Club Vaag, Antwerp · Fri, 10 Jul 2026
 - Fuse, Brussels · Fri, 3 Jul 2026
-- Eden, Ibiza · Tue, 30 Jun 2026
 
 ## Shares bills with
 
 Onlynumbers, Restricted, ASLO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

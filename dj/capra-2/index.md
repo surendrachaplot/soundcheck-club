@@ -1,6 +1,6 @@
 # Capra (2)
 
-Capra (2) is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Capra (2) is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Capra is a house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside nik-ey, Caim and ETERNAL JOE. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Capra is a house artist based in Netherlands, with 5 gigs on soundcheck across A
 
 nik-ey, Caim, ETERNAL JOE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capra-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capra-2/)*

@@ -1,6 +1,6 @@
 # DJ E.M.
 
-DJ E.M. is a Latin Bass and Pop artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Boat - Liberty Belle, New York City on Sat, 31 Oct 2026.
+DJ E.M. is a Latin Bass and Pop artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Boat - Liberty Belle, New York City on Sat, 31 Oct 2026.
 
 DJ E.M. is a latin bass and pop artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside Junior O. Next up: Boat - Liberty Belle, New York City on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ DJ E.M. is a latin bass and pop artist based in United States of America, with 1
 
 Junior O
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*

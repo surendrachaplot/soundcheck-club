@@ -1,6 +1,6 @@
 # Michael Myth
 
-Michael Myth is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
+Michael Myth is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H2o6, Riga on Sat, 28 Nov 2026.
 
 Michael Myth is a techno and acid artist based in Latvia, with 24 gigs on soundcheck across Riga. Often billed alongside Paul Hnikin, Ksenia Kamikaza and Queer On Acid. Next up: H2o6, Riga on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Michael Myth is a techno and acid artist based in Latvia, with 24 gigs on soundc
 
 Paul Hnikin, Ksenia Kamikaza, Queer On Acid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmyth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmyth/)*

@@ -1,6 +1,6 @@
 # SDOT MUSIC
 
-SDOT MUSIC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 31 Oct 2026.
+SDOT MUSIC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 31 Oct 2026.
 
 SDOT MUSIC is a club and techno artist based in United States of America, with 17 gigs on soundcheck across Denver, Detroit, Glasgow and London and 4 more. Often billed alongside Kade Young, CalvoMusic and DJ KORIS. Next up: Bossa Nova Civic Club, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SDOT MUSIC is a club and techno artist based in United States of America, with 1
 
 Kade Young, CalvoMusic, DJ KORIS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*

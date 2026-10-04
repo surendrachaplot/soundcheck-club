@@ -1,6 +1,6 @@
 # Oran Mor
 
-Oran Mor is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Circulate: Òran Mór Halloween Special" on Fri, 30 Oct 2026.
+Oran Mor is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Circulate: Òran Mór Halloween Special" on Fri, 30 Oct 2026.
 
 Oran Mor is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including gau7t, High Fade, Lewis Taylor and Tre Reynolds. See dates, start times and who's playing. 731 Great Western Road; Glasgow, G12 8QX; Scotland.
 
@@ -17,4 +17,4 @@ Oran Mor is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with
 
 731 Great Western Road; Glasgow, G12 8QX; Scotland, Glasgow
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/oran-mor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/oran-mor/)*

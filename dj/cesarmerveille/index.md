@@ -1,6 +1,6 @@
 # Cesar Merveille
 
-Cesar Merveille is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Cesar Merveille is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Cesar Merveille is a house and minimal artist based in Germany, with 74 gigs on soundcheck across Berlin, Brussels, Bucharest and Central and 16 more. Often billed alongside Viken Arman, Clovis and Rhadoo. Next up: TBA, Central on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Cesar Merveille is a house and minimal artist based in Germany, with 74 gigs on 
 
 Viken Arman, Clovis, Rhadoo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*

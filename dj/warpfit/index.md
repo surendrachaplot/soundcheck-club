@@ -1,6 +1,6 @@
 # Warpfit
 
-Warpfit is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hidden, Manchester on Thu, 29 Oct 2026.
+Warpfit is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hidden, Manchester on Thu, 29 Oct 2026.
 
 Warpfit is a garage and bass artist based in United Kingdom, with 32 gigs on soundcheck across Leeds, London, Manchester and Sheffield. Often billed alongside Flextime, Big Ang and DJ SS. Next up: Hidden, Manchester on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Warpfit is a garage and bass artist based in United Kingdom, with 32 gigs on sou
 
 Flextime, Big Ang, DJ SS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warpfit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warpfit/)*

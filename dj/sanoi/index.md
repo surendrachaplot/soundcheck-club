@@ -1,6 +1,6 @@
 # Sanoi
 
-Sanoi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Silent Studios, Auckland on Sat, 7 Nov 2026.
+Sanoi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Silent Studios, Auckland on Sat, 7 Nov 2026.
 
 Sanoi is a techno and house artist based in Germany, with 19 gigs on soundcheck across Auckland, Berlin, Brisbane and Melbourne and 1 more. Often billed alongside Mia Kober, Logan Baker and Dylan C. Next up: Silent Studios, Auckland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sanoi is a techno and house artist based in Germany, with 19 gigs on soundcheck 
 
 Mia Kober, Logan Baker, Dylan C
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanoi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanoi/)*

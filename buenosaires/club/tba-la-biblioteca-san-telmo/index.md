@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "VICTORIA WHYNOT, Somos Produce, La Biblioteca, San Telmo Buenos Aires" on Sat, 3 Oct 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VICTORIA WHYNOT, Somos Produce, La Biblioteca, San Telmo Buenos Aires" on Sat, 3 Oct 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gigs, with line-ups including Marcelo Vasami, Rodriguez Jr., Tantum and VICTORIA WHYNOT. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires listed on soundc
 | Fri, 30 Oct 2026 | Javier Bussola - Karmic, La Biblioteca - ALLMusicParties |  |
 | Sat, 31 Oct 2026 | Mike Rish - Somos Produce, La Biblioteca - ALLMusicParties |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

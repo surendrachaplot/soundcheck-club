@@ -1,6 +1,6 @@
 # Dimitri From Paris
 
-Dimitri From Paris is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
+Dimitri From Paris is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Dimitri From Paris is a house and disco artist based in France, with 106 gigs on soundcheck across Antwerp, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Melvo Baptiste, Melon Bomb and Sophie Lloyd. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Dimitri From Paris is a house and disco artist based in France, with 106 gigs on
 
 Melvo Baptiste, Melon Bomb, Sophie Lloyd
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrifromparis/)*

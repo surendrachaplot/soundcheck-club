@@ -1,6 +1,6 @@
 # Josh
 
-Josh is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
+Josh is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
 
 Josh is a house and downtempo artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt, London and Milan and 2 more. Often billed alongside Aigner, Atree and Der Andere. Next up: 93 Feet East, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Josh is a house and downtempo artist based in Germany, with 8 gigs on soundcheck
 
 Aigner, Atree, Der Andere
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josh/)*

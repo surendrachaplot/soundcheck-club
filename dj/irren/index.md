@@ -1,6 +1,6 @@
 # Irren
 
-Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
+Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
 
 Irren is a house and tech house artist based in Moldova, with 16 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and BRYZ. Next up: Colour Factory, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Irren is a house and tech house artist based in Moldova, with 16 gigs on soundch
 
 Andrea Giudice, Larry Cadge, BRYZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*

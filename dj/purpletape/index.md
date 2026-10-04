@@ -1,6 +1,6 @@
 # Purple Tape
 
-Purple Tape is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Malaga Sin City, Milan on Fri, 9 Oct 2026.
+Purple Tape is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Malaga Sin City, Milan on Fri, 9 Oct 2026.
 
 Purple Tape is an electronica and progressive house artist, with 10 gigs on soundcheck across Barcelona, Milan and Turin. Often billed alongside Althoff, ERRANT and Tony Efdì. Next up: Malaga Sin City, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Purple Tape is an electronica and progressive house artist, with 10 gigs on soun
 
 Althoff, ERRANT, Tony Efdì
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purpletape/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purpletape/)*

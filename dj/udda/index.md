@@ -1,6 +1,6 @@
 # Udda
 
-Udda is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
+Udda is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
 Udda is a bass and ambient artist based in Ukraine, with 45 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Udda is a bass and ambient artist based in Ukraine, with 45 gigs on soundcheck a
 
 Habitat Shaking, Ann Mysochka, Terikon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*

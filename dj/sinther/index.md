@@ -1,6 +1,6 @@
 # SINTHER
 
-SINTHER is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
+SINTHER is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
 
 SINTHER is a techno and industrial artist based in Poland, with 24 gigs on soundcheck across Amsterdam, Athens, Berlin and Krakow and 2 more. Often billed alongside MARTINEZ0, Aithō and Sylad. Next up: Piękno, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SINTHER is a techno and industrial artist based in Poland, with 24 gigs on sound
 
 MARTINEZ0, Aithō, Sylad (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinther/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinther/)*

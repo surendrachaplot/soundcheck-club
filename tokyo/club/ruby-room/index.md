@@ -1,6 +1,6 @@
 # Ruby Room
 
-Ruby Room is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Groovy Ruby" on Fri, 16 Oct 2026.
+Ruby Room is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Groovy Ruby" on Fri, 16 Oct 2026.
 
 Ruby Room is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Calavera and LYOM. See dates, start times and who's playing. 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -14,4 +14,4 @@ Ruby Room is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with l
 
 2-25-17 Dogenzaka,  Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ruby-room/)*

@@ -1,6 +1,6 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Claude VonStroke is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Claude VonStroke is a house and tech house artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 Green Velvet, Ardalan, Boys Noize
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*

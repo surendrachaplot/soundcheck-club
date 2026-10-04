@@ -1,6 +1,6 @@
 # Nugi
 
-Nugi is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Sun, 11 Oct 2026.
+Nugi is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FLUCC, Vienna on Sun, 11 Oct 2026.
 
 Nugi is a techno and downtempo artist based in Germany, with 47 gigs on soundcheck across Berlin, Hamburg, Stuttgart and Vienna. Often billed alongside Kollektiv Sheesh, Joule and SIA MOAN. Next up: FLUCC, Vienna on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Nugi is a techno and downtempo artist based in Germany, with 47 gigs on soundche
 
 Kollektiv Sheesh, Joule, SIA MOAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nugi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nugi/)*

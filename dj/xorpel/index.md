@@ -1,6 +1,6 @@
 # Xorpel
 
-Xorpel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
+Xorpel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
 
 Xorpel is a house and electro artist based in Spain, with 6 gigs on soundcheck across Berlin and Madrid. Often billed alongside Anso, Tremūl and 9LALEY. Next up: TBA - LFO, Madrid on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Xorpel is a house and electro artist based in Spain, with 6 gigs on soundcheck a
 
 Anso, Tremūl, 9LALEY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xorpel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xorpel/)*

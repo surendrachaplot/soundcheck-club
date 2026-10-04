@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Shanti Celeste is a house and techno artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -22,17 +22,17 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 217 gi
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
+- Under The Arches, Leeds · Sat, 3 Oct 2026
 - Kapsule, Liverpool · Fri, 2 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - The White Hotel, Manchester · Sat, 19 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Uto-Staffel, Zurich · Sat, 5 Sept 2026
 - Southwark Park, London · Sun, 30 Aug 2026
-- Kelvedon Hall, London · Sat, 29 Aug 2026
-- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

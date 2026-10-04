@@ -1,6 +1,6 @@
 # ALXV
 
-ALXV is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
+ALXV is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
 ALXV is a techno artist based in Italy, with 14 gigs on soundcheck across Milan. Often billed alongside DIVY, Alex Brasile and AllaDerivaLontano. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ ALXV is a techno artist based in Italy, with 14 gigs on soundcheck across Milan.
 
 DIVY, Alex Brasile, AllaDerivaLontano
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxv/)*

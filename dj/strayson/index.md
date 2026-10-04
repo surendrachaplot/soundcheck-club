@@ -1,6 +1,6 @@
 # STRAY SON
 
-STRAY SON is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
+STRAY SON is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
 
 STRAY SON is a deep house and afro house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam and London. Often billed alongside Tear of Joy, Altayef and Ebz. Next up: Lower Deck, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ STRAY SON is a deep house and afro house artist based in United Kingdom, with 38
 
 Tear of Joy, Altayef, Ebz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strayson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strayson/)*

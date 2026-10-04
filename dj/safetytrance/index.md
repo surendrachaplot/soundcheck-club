@@ -1,6 +1,6 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Le Trabendo, Paris on Sat, 3 Oct 2026.
+Safety Trance is a Techno and Reggaeton artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Trabendo, Paris on Sat, 3 Oct 2026.
 
 Safety Trance is a techno and reggaeton artist based in Venezuela, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 45 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Le Trabendo, Paris on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ Safety Trance is a techno and reggaeton artist based in Venezuela, with 114 gigs
 
 ## Recently played
 
+- Le Trabendo, Paris · Sat, 3 Oct 2026
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
 - ALICE, Copenhagen · Sat, 19 Sept 2026
 - Nitsa Club, Barcelona · Fri, 4 Sept 2026
@@ -25,10 +26,9 @@ Safety Trance is a techno and reggaeton artist based in Venezuela, with 114 gigs
 - Cakeshop, Seoul · Fri, 14 Aug 2026
 - OIL Club, Shenzhen · Sat, 1 Aug 2026
 - Teatro Mars, Sao Paulo · Fri, 24 Jul 2026
-- OXI, Berlin · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

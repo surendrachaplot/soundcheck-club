@@ -1,6 +1,6 @@
 # TMI.
 
-TMI. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Horn, Bangkok on Fri, 16 Oct 2026.
+TMI. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Horn, Bangkok on Fri, 16 Oct 2026.
 
 TMI. is a techno and house artist based in Myanmar, with 14 gigs on soundcheck across Bangkok. Often billed alongside MJMA, L3SS TH4N and MOONBLUE. Next up: Horn, Bangkok on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TMI. is a techno and house artist based in Myanmar, with 14 gigs on soundcheck a
 
 MJMA, L3SS TH4N, MOONBLUE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmi./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmi./)*

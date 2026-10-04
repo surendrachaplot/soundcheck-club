@@ -1,6 +1,6 @@
 # Patrik Berg
 
-Patrik Berg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Bahnhof Ehrenfeld, Cologne on Thu, 26 Nov 2026.
+Patrik Berg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Bahnhof Ehrenfeld, Cologne on Thu, 26 Nov 2026.
 
 Patrik Berg is a techno and tech house artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Alchemiah, Another Life and Biagio Sibilla. Next up: Club Bahnhof Ehrenfeld, Cologne on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Patrik Berg is a techno and tech house artist based in Germany, with 49 gigs on 
 
 Alchemiah, Another Life, Biagio Sibilla
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikberg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikberg/)*

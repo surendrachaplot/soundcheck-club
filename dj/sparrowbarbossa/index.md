@@ -1,6 +1,6 @@
 # Sparrow & Barbossa
 
-Sparrow & Barbossa is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
+Sparrow & Barbossa is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
 
 Sparrow & Barbossa are an afro house and house duo based in Switzerland, with 97 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Francis Mercier, MoBlack and Prospa. Next up: D! Club, Lausanne on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Sparrow & Barbossa are an afro house and house duo based in Switzerland, with 97
 
 Francis Mercier, MoBlack, Prospa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowbarbossa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowbarbossa/)*

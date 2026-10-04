@@ -1,6 +1,6 @@
 # Vhyce
 
-Vhyce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Thu, 22 Oct 2026.
+Vhyce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Thu, 22 Oct 2026.
 
 Vhyce is a house and techno artist based in Belgium, with 7 gigs on soundcheck across Amsterdam, Berlin, Brussels and New York City and 2 more. Often billed alongside Agnes DB, Amarcord and Andi. Next up: Bordello Aperitivo, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Vhyce is a house and techno artist based in Belgium, with 7 gigs on soundcheck a
 
 Agnes DB, Amarcord, Andi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhyce/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhyce/)*

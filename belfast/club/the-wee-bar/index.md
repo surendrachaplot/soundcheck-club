@@ -1,6 +1,6 @@
 # The Wee Bar
 
-The Wee Bar is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Contact presents: 666cmg" on Fri, 30 Oct 2026.
+The Wee Bar is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Contact presents: 666cmg" on Fri, 30 Oct 2026.
 
 The Wee Bar is a music venue in Belfast listed on soundcheck. 1 upcoming gig, with line-ups including 666cmg. See dates, start times and who's playing. 1 Elmwood Avenue, BT9 6AZ.
 
@@ -14,4 +14,4 @@ The Wee Bar is a music venue in Belfast listed on soundcheck. 1 upcoming gig, wi
 
 1 Elmwood Avenue, BT9 6AZ, Belfast
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-wee-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-wee-bar/)*

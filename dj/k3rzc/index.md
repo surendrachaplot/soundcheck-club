@@ -1,6 +1,6 @@
 # K3RZC
 
-K3RZC is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
+K3RZC is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
 
 K3RZC is an electro and minimal artist based in Poland, with 11 gigs on soundcheck across Copenhagen, Krakow and Warsaw. Often billed alongside Buchan, Contakt (PL) and DiV4. Next up: Mesteren & Lærlingen, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ K3RZC is an electro and minimal artist based in Poland, with 11 gigs on soundche
 
 Buchan, Contakt (PL), DiV4
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k3rzc/)*

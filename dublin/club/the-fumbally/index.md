@@ -1,6 +1,6 @@
 # The Fumbally
 
-The Fumbally is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Halloween Pagan Party" on Sat, 31 Oct 2026.
+The Fumbally is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Halloween Pagan Party" on Sat, 31 Oct 2026.
 
 The Fumbally is a music venue in Dublin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Fumbally Ln, The Liberties, Dublin 8, D08 HFF2.
 
@@ -14,4 +14,4 @@ The Fumbally is a music venue in Dublin listed on soundcheck. 1 upcoming gig. Se
 
 Fumbally Ln, The Liberties, Dublin 8, D08 HFF2, Dublin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-fumbally/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-fumbally/)*

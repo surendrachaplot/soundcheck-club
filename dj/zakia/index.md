@@ -1,6 +1,6 @@
 # Zakia
 
-Zakia is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+Zakia is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
 Zakia is a house and funk / soul artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Berlin, Brussels and Helsinki and 9 more. Often billed alongside Leanne Wright, MarshmeLLo and Shy One. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Zakia is a house and funk / soul artist based in United Kingdom, with 38 gigs on
 
 Leanne Wright, MarshmeLLo, Shy One
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*

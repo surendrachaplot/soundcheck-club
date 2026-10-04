@@ -1,6 +1,6 @@
 # DJ 86
 
-DJ 86 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OIL Club, Shenzhen on Sat, 17 Oct 2026.
+DJ 86 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OIL Club, Shenzhen on Sat, 17 Oct 2026.
 
 DJ 86 is a club and techno artist based in China, with 102 gigs on soundcheck across Berlin, Hong Kong, Seoul and Shenzhen. Often billed alongside Beibeilon, zzm and Foambb. Next up: OIL Club, Shenzhen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ 86 is a club and techno artist based in China, with 102 gigs on soundcheck ac
 
 Beibeilon, zzm (2), Foambb
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj86/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj86/)*

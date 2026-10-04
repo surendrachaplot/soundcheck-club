@@ -1,6 +1,6 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab" on Sun, 4 Oct 2026.
+Petit CAB is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab" on Sun, 4 Oct 2026.
 
 Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including Dj Schnake, Kendal, Kenny Larkin and Mad Rey and 2 more. See dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
@@ -23,4 +23,4 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, 
 
 41 rue Jobin, 13003 MARSEILLE, Marseille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/petit-cab/)*

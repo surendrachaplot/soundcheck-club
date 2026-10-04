@@ -1,6 +1,6 @@
 # deadright
 
-deadright is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
+deadright is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
 
 deadright is a techno and deep house artist based in Ireland, with 18 gigs on soundcheck across Brighton and London. Often billed alongside Ross Harper, Gosia and Just Her. Next up: Hare & Hounds, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ deadright is a techno and deep house artist based in Ireland, with 18 gigs on so
 
 Ross Harper, Gosia, Just Her
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadright/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadright/)*

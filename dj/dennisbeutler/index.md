@@ -1,6 +1,6 @@
 # Dennis Beutler
 
-Dennis Beutler is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Weekend, Berlin on Fri, 13 Nov 2026.
+Dennis Beutler is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Weekend, Berlin on Fri, 13 Nov 2026.
 
 Dennis Beutler is a tech house and house artist based in Germany, with 76 gigs on soundcheck across Berlin and London. Often billed alongside Bombata, Peet Flower and Fab Massimo. Next up: Weekend, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Dennis Beutler is a tech house and house artist based in Germany, with 76 gigs o
 
 Bombata, Peet Flower, Fab Massimo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbeutler/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisbeutler/)*

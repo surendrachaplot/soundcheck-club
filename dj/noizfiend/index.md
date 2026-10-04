@@ -1,6 +1,6 @@
 # Noizfiend
 
-Noizfiend is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Makossa, London on Sat, 10 Oct 2026.
+Noizfiend is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Makossa, London on Sat, 10 Oct 2026.
 
 Noizfiend is a bass and dubstep artist based in United States of America, with 6 gigs on soundcheck across London. Often billed alongside tasha.mp4, BIDOIS and Margella. Next up: Club Makossa, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Noizfiend is a bass and dubstep artist based in United States of America, with 6
 
 tasha.mp4, BIDOIS, Margella
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizfiend/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizfiend/)*

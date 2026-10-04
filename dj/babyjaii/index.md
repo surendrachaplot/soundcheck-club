@@ -1,6 +1,6 @@
 # Babyjaii
 
-Babyjaii is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Sat, 31 Oct 2026.
+Babyjaii is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Sat, 31 Oct 2026.
 
 Babyjaii is a club and techno artist based in United Kingdom, with 61 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside Miss Cabbage, Shrek666 and EYVE. Next up: Stereo, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Babyjaii is a club and techno artist based in United Kingdom, with 61 gigs on so
 
 Miss Cabbage, Shrek666, EYVE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*

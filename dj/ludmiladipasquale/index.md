@@ -1,6 +1,6 @@
 # Ludmila Di Pasquale
 
-Ludmila Di Pasquale is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Ludmila Di Pasquale is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Ludmila Di Pasquale is a house and techno artist based in Argentina, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Bermani, Lucas Escarioni and Ana Hagen. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ludmila Di Pasquale is a house and techno artist based in Argentina, with 51 gig
 
 Bermani, Lucas Escarioni, Ana Hagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*

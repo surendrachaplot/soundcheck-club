@@ -1,6 +1,6 @@
 # Kat Klub São Paulo
 
-Kat Klub São Paulo is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Baile Do Gato! 09/10" on Fri, 9 Oct 2026.
+Kat Klub São Paulo is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Baile Do Gato! 09/10" on Fri, 9 Oct 2026.
 
 Kat Klub São Paulo is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including FRESHPRINCEDABAHIA and TH4YS. See dates, start times and who's playing. R. Augusta, 609 - Consolação, São Paulo - SP, 01305-000, Brasil.
 
@@ -14,4 +14,4 @@ Kat Klub São Paulo is a music venue in Sao Paulo listed on soundcheck. 1 upcomi
 
 R. Augusta, 609 - Consolação, São Paulo - SP, 01305-000, Brasil, Sao Paulo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/kat-klub-s-o-paulo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/kat-klub-s-o-paulo/)*

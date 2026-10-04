@@ -1,6 +1,6 @@
 # Jama Deejay
 
-Jama Deejay is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
+Jama Deejay is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at X Private Club, Madrid on Sat, 24 Oct 2026.
 
 Jama Deejay is a techno and tech house artist, with 12 gigs on soundcheck across Berlin, Madrid, Milan and Vienna. Often billed alongside Adri Tüde, Joma Beton and The Bille. Next up: X Private Club, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jama Deejay is a techno and tech house artist, with 12 gigs on soundcheck across
 
 Adri Tüde, Joma Beton, The Bille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamadeejay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamadeejay/)*

@@ -1,6 +1,6 @@
 # Kerena
 
-Kerena is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Kerena is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
 Kerena is a house and techno artist based in Taiwan, with 6 gigs on soundcheck across Hong Kong, Shenzhen, Taipei and Tokyo. Often billed alongside Al Burro, Alion and Celter. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ Kerena is a house and techno artist based in Taiwan, with 6 gigs on soundcheck a
 
 Al Burro, Alion, Celter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*

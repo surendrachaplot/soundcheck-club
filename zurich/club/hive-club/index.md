@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "20 Jahre Animal Trainer" on Sat, 3 Oct 2026.
+Hive Club is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "20 Jahre Animal Trainer" on Sat, 3 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including 1luu, ACID FLORA, Alex Belluscio and Animal Trainer and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

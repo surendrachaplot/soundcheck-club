@@ -1,6 +1,6 @@
 # Wyndham
 
-Wyndham is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Fri, 16 Oct 2026.
+Wyndham is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Greyhound, London on Fri, 16 Oct 2026.
 
 Wyndham is a house and progressive house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Cat Curl, Filippo MSM and Joey Fontaine. Next up: The Greyhound, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Wyndham is a house and progressive house artist based in United Kingdom, with 12
 
 Cat Curl, Filippo MSM, Joey Fontaine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyndham/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyndham/)*

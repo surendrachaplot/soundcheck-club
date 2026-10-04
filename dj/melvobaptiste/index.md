@@ -1,6 +1,6 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Melvo Baptiste is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Melvo Baptiste is a house and disco artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 22 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Melvo Baptiste is a house and disco artist based in United Kingdom, with 124 gig
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

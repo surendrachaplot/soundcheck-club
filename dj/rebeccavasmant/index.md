@@ -1,6 +1,6 @@
 # Rebecca Vasmant
 
-Rebecca Vasmant is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Rebecca Vasmant is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 Rebecca Vasmant is a house and jazz artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Athlete Whippet, ButhoTheWarrior and Coco Maria. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rebecca Vasmant is a house and jazz artist based in United Kingdom, with 57 gigs
 
 Athlete Whippet, ButhoTheWarrior, Coco Maria
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccavasmant/)*

@@ -1,6 +1,6 @@
 # Colin Francis
 
-Colin Francis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
+Colin Francis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
 
 Colin Francis is a tech house and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside DJ Murrell, Lauren Thompson and Ronnie Herel. Next up: Dixie Queen Paddle Steamer, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Colin Francis is a tech house and house artist based in United Kingdom, with 5 g
 
 DJ Murrell, Lauren Thompson, Ronnie Herel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinfrancis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinfrancis/)*

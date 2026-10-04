@@ -1,6 +1,6 @@
 # Varela
 
-Varela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
+Varela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
 
 Varela is a house and tech house artist based in Portugal, with 106 gigs on soundcheck across Austin, Barcelona and Lisbon. Often billed alongside Rui Vargas, Inês Duarte and Dexter Lux. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Varela is a house and tech house artist based in Portugal, with 106 gigs on soun
 
 Rui Vargas, Inês Duarte, Dexter Lux
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varela/)*

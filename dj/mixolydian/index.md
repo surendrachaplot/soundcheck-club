@@ -1,6 +1,6 @@
 # Mixolydian
 
-Mixolydian is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Mixolydian is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
 
 Mixolydian is a house and tech house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Berlin, London and Vancouver. Often billed alongside Kyra Khaldi, SOLIT and 36framez. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Mixolydian is a house and tech house artist based in Netherlands, with 19 gigs o
 
 Kyra Khaldi, SOLIT, 36framez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolydian/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolydian/)*

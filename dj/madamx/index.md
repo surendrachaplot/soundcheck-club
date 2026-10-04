@@ -1,6 +1,6 @@
 # Madam X
 
-Madam X is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Beach House San Diego, San Diego on Fri, 30 Oct 2026.
+Madam X is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beach House San Diego, San Diego on Fri, 30 Oct 2026.
 
 Madam X is a bass and techno artist based in United Kingdom, with 102 gigs on soundcheck across Athens, Auckland, Bangkok and Berlin and 31 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: Beach House San Diego, San Diego on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Madam X is a bass and techno artist based in United Kingdom, with 102 gigs on so
 
 Poor J’Darr, Jay Carder, Debba
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*

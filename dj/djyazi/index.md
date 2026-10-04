@@ -1,6 +1,6 @@
 # DJ Yazi
 
-DJ Yazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+DJ Yazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 DJ Yazi is a techno and house artist based in Japan, with 89 gigs on soundcheck across Amsterdam, Athens, Berlin and Hong Kong and 9 more. Often billed alongside Mari Sakurai, DJ MARIA. and DJ Nobu. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Yazi is a techno and house artist based in Japan, with 89 gigs on soundcheck 
 
 Mari Sakurai, DJ MARIA., DJ Nobu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*

@@ -1,6 +1,6 @@
 # Carrot Green
 
-Carrot Green is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
+Carrot Green is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Carrot Green is a house and acid artist, with 9 gigs on soundcheck across Lisbon, London, Rio De Janeiro and Sao Paulo. Often billed alongside Gigios, Craig Ouar and Giu Nunez. Next up: TBA - Centro, Rio De Janeiro on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Carrot Green is a house and acid artist, with 9 gigs on soundcheck across Lisbon
 
 Gigios, Craig Ouar, Giu Nunez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrotgreen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrotgreen/)*

@@ -1,6 +1,6 @@
 # Level 1 @ Cannonball Arts
 
-Level 1 @ Cannonball Arts is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Restricted" on Sat, 7 Nov 2026.
+Level 1 @ Cannonball Arts is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Restricted" on Sat, 7 Nov 2026.
 
 Level 1 @ Cannonball Arts is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including Adrian Mills, Afrojack, Restricted and Serafina and 1 more. See dates, start times and who's playing. 1930 3rd Ave, Seattle, WA 98101.
 
@@ -17,4 +17,4 @@ Level 1 @ Cannonball Arts is a music venue in Seattle listed on soundcheck. 4 up
 
 1930 3rd Ave, Seattle, WA 98101, Seattle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/level-1-cannonball-arts/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/level-1-cannonball-arts/)*

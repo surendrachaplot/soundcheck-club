@@ -1,6 +1,6 @@
 # Abribass
 
-Abribass is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 7 Oct 2026.
+Abribass is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 7 Oct 2026.
 
 Abribass is a house and tech house artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside Blachord, Papa Hase and Anaté. Next up: Spielbank Berlin am Potsdamer Platz, Berlin on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Abribass is a house and tech house artist based in Germany, with 16 gigs on soun
 
 Blachord, Papa Hase, Anaté
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*

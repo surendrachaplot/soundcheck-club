@@ -1,6 +1,6 @@
 # Francesco Maria
 
-Francesco Maria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Francesco Maria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 Francesco Maria is a house and tech house artist based in Italy, with 57 gigs on soundcheck across Berlin, Ibiza, London and Milan and 4 more. Often billed alongside Andrea Saba, Alessandro Addi and Marcolino. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Francesco Maria is a house and tech house artist based in Italy, with 57 gigs on
 
 Andrea Saba, Alessandro Addi, Marcolino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescomaria/)*

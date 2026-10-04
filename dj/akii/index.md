@@ -1,6 +1,6 @@
 # akii
 
-akii is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 15 Oct 2026.
+akii is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 15 Oct 2026.
 
 akii is a bass and dub artist based in Japan, with 56 gigs on soundcheck across Barcelona, Berlin, Kyoto and Tokyo. Often billed alongside M.I.O, Aliceyuki and Andrew (TREKKIE TRAX). Next up: ZEROTOKYO, Tokyo on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ akii is a bass and dub artist based in Japan, with 56 gigs on soundcheck across 
 
 M.I.O, Aliceyuki, Andrew (TREKKIE TRAX)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

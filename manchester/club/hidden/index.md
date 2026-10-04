@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Hidden presents: Delilah, Jakkob " on Sat, 3 Oct 2026.
+Hidden is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hidden presents: Delilah, Jakkob " on Sat, 3 Oct 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Hidden presents: Delilah, Jakkob  | Delilah, Jakkob |
 | Fri, 9 Oct 2026 | Freak Queer Rave w/ Dr. Rubinstein, Nene H, ketia & Egg On Toast | Dr. Rubinstein, Egg On Toast, Nene H, ketia |
+| Fri, 16 Oct 2026 | 5 Years of OBP | Jelsen, Malachy |
 | Sat, 17 Oct 2026 | Tim Reaper (4 Hour Set) + Syntaxx | Tim Reaper |
 | Fri, 23 Oct 2026 | Hidden x Great Danes presents DJ SWISHA Curates | CONE (2), DJ SWISHA, Kush Jones, Lucian (UK), MBB_, re:ni |
 | Thu, 29 Oct 2026 | Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin, SIMMS + more | DJ Q, ESC (5), Flowdan, Fold, Higgo, SHADEV, SIMMS, Warpfit |
@@ -17,10 +18,9 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer | Andre Zimmer, Arthi, Bok Bok, Camille Doe, Hanz, K1ng Arthur, Katy B |
 | Fri, 6 Nov 2026 | CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru | Amelia Leigh, Origin, Simmo. |
 | Fri, 13 Nov 2026 | Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair | Client_03, Dopplereffekt, Nikki Nair |
-| Fri, 13 Nov 2026 | PTD Records x ?????? - Headliners TBA |  |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

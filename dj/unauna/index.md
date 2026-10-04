@@ -1,6 +1,6 @@
 # UNAUNA
 
-UNAUNA is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+UNAUNA is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
 
 UNAUNA is an acid and techno artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Istanbul and Utrecht. Often billed alongside KITT, Boris Coelman and Cheyanne Hudson. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ UNAUNA is an acid and techno artist based in Netherlands, with 26 gigs on soundc
 
 KITT, Boris Coelman, Cheyanne Hudson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unauna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unauna/)*

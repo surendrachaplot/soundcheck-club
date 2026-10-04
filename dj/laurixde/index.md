@@ -1,6 +1,6 @@
 # LAURIX (DE)
 
-LAURIX (DE) is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at WDM, Hannover on Fri, 16 Oct 2026.
+LAURIX (DE) is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WDM, Hannover on Fri, 16 Oct 2026.
 
 LAURIX (DE) is a trance and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig and 2 more. Often billed alongside Ivana Parti, Krash Cora and Limoncello. Next up: WDM, Hannover on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ LAURIX (DE) is a trance and techno artist based in Germany, with 34 gigs on soun
 
 Ivana Parti, Krash Cora, Limoncello
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*

@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Ash Lauryn is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
 Ash Lauryn is a house and techno artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
@@ -18,6 +18,7 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - TBA - Near Villeray, Montreal · Sat, 26 Sept 2026
 - Mess Hall, Washington DC · Sun, 20 Sept 2026
 - Signal, New York City · Fri, 21 Aug 2026
@@ -25,10 +26,9 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 - Night Tales Loft, London · Fri, 31 Jul 2026
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 18 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 28 Jun 2026
-- Cannons, Detroit · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

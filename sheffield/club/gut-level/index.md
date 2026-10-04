@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G" on Sat, 3 Oct 2026.
+Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G" on Sat, 3 Oct 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bubbles (UK) and Danielle and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -22,4 +22,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, w
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

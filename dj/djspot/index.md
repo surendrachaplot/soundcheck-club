@@ -1,6 +1,6 @@
 # DJ SPOT
 
-DJ SPOT is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 夜来香　YE LAI Xiang Osaka Shinsaibashi, Osaka on Sat, 17 Oct 2026.
+DJ SPOT is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 夜来香　YE LAI Xiang Osaka Shinsaibashi, Osaka on Sat, 17 Oct 2026.
 
 DJ SPOT is a minimal and minimal techno artist based in Japan, with 26 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside Shingo, AOKI takamasa and DAIY. Next up: 夜来香　YE LAI Xiang Osaka Shinsaibashi, Osaka on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ SPOT is a minimal and minimal techno artist based in Japan, with 26 gigs on s
 
 Shingo, AOKI takamasa, DAIY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspot/)*

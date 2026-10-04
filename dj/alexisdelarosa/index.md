@@ -1,6 +1,6 @@
 # ALEXIS DE LA ROSA
 
-ALEXIS DE LA ROSA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Qncc, New York City on Sat, 10 Oct 2026.
+ALEXIS DE LA ROSA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Qncc, New York City on Sat, 10 Oct 2026.
 
 ALEXIS DE LA ROSA is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Mexico City and New York City. Often billed alongside Sterling Juan Diaz, MORENXXX and Leonce. Next up: Qncc, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ ALEXIS DE LA ROSA is a house and techno artist based in United States of America
 
 Sterling Juan Diaz, MORENXXX, Leonce
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*

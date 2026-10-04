@@ -1,6 +1,6 @@
 # Chris Youké
 
-Chris Youké is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Chris Youké is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 Chris Youké is a techno and trance artist, with 15 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Hysope, L'enfant Nocturne and Susano. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Chris Youké is a techno and trance artist, with 15 gigs on soundcheck across Am
 
 Hysope, L'enfant Nocturne, Susano
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisyouke/)*

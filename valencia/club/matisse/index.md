@@ -1,6 +1,6 @@
 # Matisse
 
-Matisse is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Bristol Northern Soul Club International - VALENCIA" on Sat, 28 Nov 2026.
+Matisse is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bristol Northern Soul Club International - VALENCIA" on Sat, 28 Nov 2026.
 
 Matisse is a music venue in Valencia listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C de Campoamor, 60, 46022 València, Valencia, Spain.
 
@@ -14,4 +14,4 @@ Matisse is a music venue in Valencia listed on soundcheck. 1 upcoming gig. See d
 
 C de Campoamor, 60, 46022 València, Valencia, Spain, Valencia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/matisse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/matisse/)*

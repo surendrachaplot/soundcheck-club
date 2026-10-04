@@ -1,6 +1,6 @@
 # D. Ramirez
 
-D. Ramirez is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+D. Ramirez is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bears Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 D. Ramirez is a techno and tech house artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Berlin and Miami. Often billed alongside GAWP, Placebo eFx and Redux Saints. Next up: Bears Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ D. Ramirez is a techno and tech house artist based in United Kingdom, with 6 gig
 
 GAWP, Placebo eFx, Redux Saints
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dramirez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dramirez/)*

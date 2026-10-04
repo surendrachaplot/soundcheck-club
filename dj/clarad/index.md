@@ -1,6 +1,6 @@
 # Clara D
 
-Clara D is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kompass Klub, Ghent on Fri, 9 Oct 2026.
+Clara D is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Fri, 9 Oct 2026.
 
 Clara D is a techno and house artist based in Belgium, with 61 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 4 more. Often billed alongside Askkin, Initial Code and Azo. Next up: Kompass Klub, Ghent on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Clara D is a techno and house artist based in Belgium, with 61 gigs on soundchec
 
 Askkin, Initial Code, Azo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*

@@ -1,6 +1,6 @@
 # Techflex
 
-Techflex is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
+Techflex is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
 
 Techflex is a techno artist based in Austria, with 9 gigs on soundcheck across Vienna. Often billed alongside MIKE MYSTIK, chris deeper and CPR0. Next up: FLUCC, Vienna on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Techflex is a techno artist based in Austria, with 9 gigs on soundcheck across V
 
 MIKE MYSTIK, chris deeper, CPR0
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techflex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techflex/)*

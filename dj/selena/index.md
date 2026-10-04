@@ -1,6 +1,6 @@
 # SELENA
 
-SELENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+SELENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 SELENA is a techno and house artist based in South Korea, with 16 gigs on soundcheck across Barcelona, Melbourne and Seoul. Often billed alongside SILVERSTAR OH, Bagagee Viphex13 and Mukthi. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ SELENA is a techno and house artist based in South Korea, with 16 gigs on soundc
 
 SILVERSTAR OH, Bagagee Viphex13, Mukthi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selena/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selena/)*

@@ -1,6 +1,6 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Horoom – Sat, 03.10.2026" on Sat, 3 Oct 2026.
+Bassiani is a music venue in Tbilisi with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Horoom – Sat, 03.10.2026" on Sat, 3 Oct 2026.
 
 Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming gigs, with line-ups including 2ciu, 3AM, Albert van Abbe and Anthony Rother and 2 more. See dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
@@ -20,4 +20,4 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming gigs, with
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

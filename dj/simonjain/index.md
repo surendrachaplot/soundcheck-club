@@ -1,6 +1,6 @@
 # Simon Jain
 
-Simon Jain is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bibliotheque, Toronto on Sun, 11 Oct 2026.
+Simon Jain is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bibliotheque, Toronto on Sun, 11 Oct 2026.
 
 Simon Jain is a house and tech house artist, with 19 gigs on soundcheck across Toronto. Often billed alongside Pasha, Chiara and RUDEE NIK. Next up: Bibliotheque, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Simon Jain is a house and tech house artist, with 19 gigs on soundcheck across T
 
 Pasha, Chiara, RUDEE NIK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonjain/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonjain/)*

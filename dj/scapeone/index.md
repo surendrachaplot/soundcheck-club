@@ -1,6 +1,6 @@
 # Scape One
 
-Scape One is a Acid and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Chicago on Sun, 4 Oct 2026.
+Scape One is a Acid and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Chicago on Sun, 4 Oct 2026.
 
 Scape One is an acid and ambient artist based in United Kingdom, with 6 gigs on soundcheck across Chicago. Often billed alongside m50, Aguila and B-Pushr. Next up: TBA, Chicago on Sun 4 Oct.
 
@@ -22,4 +22,4 @@ Scape One is an acid and ambient artist based in United Kingdom, with 6 gigs on 
 
 m50, Aguila, B-Pushr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scapeone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scapeone/)*

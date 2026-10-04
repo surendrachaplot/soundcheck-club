@@ -1,6 +1,6 @@
 # Robin RB
 
-Robin RB is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Robin RB is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Robin RB is a house and electro artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ben Balance, Anthea and Carmelo. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Robin RB is a house and electro artist based in Germany, with 36 gigs on soundch
 
 Ben Balance, Anthea, Carmelo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinrb/)*

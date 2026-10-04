@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
+Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
 
 Crazy P is a disco and house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and PBR Streetgang. Next up: Sala Villanos, Madrid on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Crazy P is a disco and house artist based in United Kingdom, with 134 gigs on so
 
 DJ Paulette, Luke Una, PBR Streetgang
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

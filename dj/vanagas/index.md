@@ -1,6 +1,6 @@
 # vanagas
 
-vanagas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
+vanagas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
 
 vanagas is a house and tech house artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Better Call Paul, Nikklaas and Aimé You. Next up: Bulbul Berlin, Berlin on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ vanagas is a house and tech house artist, with 7 gigs on soundcheck across Berli
 
 Better Call Paul, Nikklaas, Aimé You
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanagas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanagas/)*

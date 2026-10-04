@@ -1,6 +1,6 @@
 # Mambi Dexter
 
-Mambi Dexter is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tausend, Berlin on Fri, 23 Oct 2026.
+Mambi Dexter is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tausend, Berlin on Fri, 23 Oct 2026.
 
 Mambi Dexter is a house and disco artist based in Poland, with 36 gigs on soundcheck across Berlin, Sydney and Warsaw. Often billed alongside Piotr Ho, Hyperbole and PayoYayo. Next up: Tausend, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Mambi Dexter is a house and disco artist based in Poland, with 36 gigs on soundc
 
 Piotr Ho, Hyperbole, PayoYayo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*

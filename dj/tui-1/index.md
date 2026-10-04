@@ -1,6 +1,6 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at West Harlem, Kyoto on Wed, 7 Oct 2026.
+Tui (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at West Harlem, Kyoto on Wed, 7 Oct 2026.
 
 Tui is a techno and house artist based in Japan, with 30 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and Lewo Chyba. Next up: West Harlem, Kyoto on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ Tui is a techno and house artist based in Japan, with 30 gigs on soundcheck acro
 
 Eichi Abe, GAKUTO(TOKYO), Lewo Chyba
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lena Willikens is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -9,7 +9,6 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
-| Sat, 3 Oct 2026 | TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis | Paris |
 | Fri, 9 Oct 2026 | Strange Brew | Bristol |
 | Fri, 16 Oct 2026 | TBA | Detroit |
 | Sun, 18 Oct 2026 | Flash | Washington DC |
@@ -23,6 +22,7 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 
 ## Recently played
 
+- TBA - 6 rue Francis de Pressensé - 93210 Saint-Denis, Paris · Sat, 3 Oct 2026
 - Macadam, Nantes · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Bar Part Time, San Francisco/Oakland · Fri, 25 Sept 2026
@@ -30,10 +30,9 @@ Lena Willikens is a techno and house artist based in Germany, with 214 gigs on s
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - H0L0, New York City · Fri, 18 Sept 2026
 - M.O.T, London · Sat, 12 Sept 2026
-- Bar Part Time, San Francisco/Oakland · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

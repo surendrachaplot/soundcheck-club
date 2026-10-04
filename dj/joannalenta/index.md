@@ -1,6 +1,6 @@
 # Joanna Lenta
 
-Joanna Lenta is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
+Joanna Lenta is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Sun, 1 Nov 2026.
 
 Joanna Lenta is a downtempo and techno artist, with 15 gigs on soundcheck across Berlin. Often billed alongside K2W0, Colsen and Gazbee. Next up: Beate Uwe, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Joanna Lenta is a downtempo and techno artist, with 15 gigs on soundcheck across
 
 K2W0, Colsen, Gazbee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*

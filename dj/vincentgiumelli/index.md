@@ -1,6 +1,6 @@
 # Vincent Giumelli
 
-Vincent Giumelli is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
+Vincent Giumelli is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
 
 Vincent Giumelli is a minimal techno and house artist, with 6 gigs on soundcheck across Madrid. Often billed alongside Giorgio Robles, Human Halo and F.E.X. Next up: Next Clubbing, Madrid on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Vincent Giumelli is a minimal techno and house artist, with 6 gigs on soundcheck
 
 Giorgio Robles, Human Halo, F.E.X
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentgiumelli/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentgiumelli/)*

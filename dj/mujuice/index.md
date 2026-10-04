@@ -1,6 +1,6 @@
 # Mujuice
 
-Mujuice is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+Mujuice is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 Mujuice is an electronica and experimental artist, with 5 gigs on soundcheck across London, Los Angeles and New York City. Often billed alongside Hovsep (AM), Moa Pillar and TWONSKi. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Mujuice is an electronica and experimental artist, with 5 gigs on soundcheck acr
 
 Hovsep (AM), Moa Pillar, TWONSKi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mujuice/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mujuice/)*

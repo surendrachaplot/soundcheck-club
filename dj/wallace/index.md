@@ -1,6 +1,6 @@
 # Wallace
 
-Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Fri, 9 Oct 2026.
+Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Phonox, London on Fri, 9 Oct 2026.
 
 Wallace is a house and disco artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside Bradley Zero, Gallegos and Altinbas. Next up: Phonox, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Wallace is a house and disco artist based in United Kingdom, with 77 gigs on sou
 
 Bradley Zero, Gallegos, Altinbas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*

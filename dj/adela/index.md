@@ -1,6 +1,6 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
+Adela is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
 
 Adela is a deep house and progressive house artist based in United Kingdom, with 51 gigs on soundcheck across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: HQI, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Adela is a deep house and progressive house artist based in United Kingdom, with
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

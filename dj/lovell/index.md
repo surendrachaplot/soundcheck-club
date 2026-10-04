@@ -1,6 +1,6 @@
 # LOVELL
 
-LOVELL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 21 Oct 2026.
+LOVELL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 21 Oct 2026.
 
 LOVELL is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Acid Boner, Angel Negrin and Illogical Operator. Next up: Sneaky Pete's, Edinburgh on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ LOVELL is a house and techno artist based in United Kingdom, with 21 gigs on sou
 
 Acid Boner, Angel Negrin, Illogical Operator
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*

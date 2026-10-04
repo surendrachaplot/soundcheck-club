@@ -1,6 +1,6 @@
 # ArioVistus
 
-ArioVistus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+ArioVistus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 ArioVistus is a techno and acid artist based in Canada, with 17 gigs on soundcheck across Amsterdam, Montreal, Toronto and Vancouver. Often billed alongside Kay Wagner, AKKI (DE) and BPlease. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ ArioVistus is a techno and acid artist based in Canada, with 17 gigs on soundche
 
 Kay Wagner, AKKI (DE), BPlease
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariovistus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariovistus/)*

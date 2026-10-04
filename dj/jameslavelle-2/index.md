@@ -1,6 +1,6 @@
 # James Lavelle (2)
 
-James Lavelle (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+James Lavelle (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
 James Lavelle is a house and disco artist, with 10 gigs on soundcheck across Ibiza, London and Malta. Often billed alongside Phill de Janeiro, Tom Da Silva and Benji King. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ James Lavelle is a house and disco artist, with 10 gigs on soundcheck across Ibi
 
 Phill de Janeiro, Tom Da Silva, Benji King
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle-2/)*

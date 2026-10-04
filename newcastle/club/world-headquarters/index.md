@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sexy Lady Massive presents The Massive Tour - Newcastle, World HQ" on Sat, 3 Oct 2026.
+World Headquarters is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sexy Lady Massive presents The Massive Tour - Newcastle, World HQ" on Sat, 3 Oct 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 22 upcoming gigs, with line-ups including A.M.C., adamgr, Alousea and Danielle and 2 more. See dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 22 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

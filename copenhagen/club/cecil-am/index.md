@@ -1,6 +1,6 @@
 # Cecil AM
 
-Cecil AM is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Olof Dreijer (SE)" on Sat, 24 Oct 2026.
+Cecil AM is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Olof Dreijer (SE)" on Sat, 24 Oct 2026.
 
 Cecil AM is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Debbie Sings, dragongirl, HEX ELECTRONIX and Olof Dreijer. See dates, start times and who's playing. Niels Hemmingsens Gade 10, 1153 København, Denmark.
 
@@ -16,4 +16,4 @@ Cecil AM is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, w
 
 Niels Hemmingsens Gade 10, 1153 København, Denmark, Copenhagen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/cecil-am/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/cecil-am/)*

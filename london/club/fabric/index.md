@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 31 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz" on Sat, 3 Oct 2026.
+fabric is a music venue in London with 31 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz" on Sat, 3 Oct 2026.
 
 fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including AANO, Aaron Hibell, Adana Twins and A For Alpha and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

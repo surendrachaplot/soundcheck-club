@@ -1,6 +1,6 @@
 # Alvaro Cabana
 
-Alvaro Cabana is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Specka, Madrid on Sat, 31 Oct 2026.
+Alvaro Cabana is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Specka, Madrid on Sat, 31 Oct 2026.
 
 Alvaro Cabana is an electronica and house artist based in Spain, with 114 gigs on soundcheck across Antwerp, Barcelona, Berlin and Madrid and 1 more. Often billed alongside David Ponziano, Javi Redondo and TEEMON&POOMBA. Next up: Specka, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alvaro Cabana is an electronica and house artist based in Spain, with 114 gigs o
 
 David Ponziano, Javi Redondo, TEEMON&POOMBA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvarocabana/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvarocabana/)*

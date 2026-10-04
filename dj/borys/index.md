@@ -1,6 +1,6 @@
 # Borys
 
-Borys is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Closer, Kyiv on Sat, 3 Oct 2026.
+Borys is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Closer, Kyiv on Sat, 3 Oct 2026.
 
 Borys is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, Berlin, Krakow and Kyiv and 2 more. Often billed alongside Noizar, Alex Savage and Karine. Next up: Closer, Kyiv on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Borys is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, 
 
 ## Recently played
 
+- Closer, Kyiv · Sat, 3 Oct 2026
 - ZENNER, Berlin · Sat, 11 Nov 2023
 - RADION, Amsterdam · Sun, 22 Oct 2023
 - RSO.BERLIN, Berlin · Fri, 23 Jun 2023
@@ -24,4 +25,4 @@ Borys is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, 
 
 Noizar, Alex Savage, Karine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borys/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borys/)*

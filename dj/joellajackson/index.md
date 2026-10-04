@@ -1,6 +1,6 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Joëlla Jackson is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Joëlla Jackson is a house and tech house artist based in Netherlands, with 119 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 17 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Joëlla Jackson is a house and tech house artist based in Netherlands, with 119 
 
 ## Recently played
 
+- Ministry Of Sound, London · Sat, 3 Oct 2026
 - [UNVRS], Ibiza · Sat, 19 Sept 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 12 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 1 Sept 2026
@@ -23,10 +24,9 @@ Joëlla Jackson is a house and tech house artist based in Netherlands, with 119 
 - KOKO, London · Fri, 28 Aug 2026
 - Playa Soleil & Bora Bora, Ibiza · Fri, 21 Aug 2026
 - [UNVRS], Ibiza · Sat, 15 Aug 2026
-- Hï Ibiza, Ibiza · Tue, 21 Jul 2026
 
 ## Shares bills with
 
 Benny Rodrigues, Franky Rizardo, Mason Collective
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*

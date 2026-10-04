@@ -1,6 +1,6 @@
 # VIGILANT
 
-VIGILANT is a Downtempo and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
+VIGILANT is a Downtempo and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
 
 VIGILANT is a downtempo and afro house artist based in Kazakhstan, with 6 gigs on soundcheck across Amsterdam and Warsaw. Often billed alongside LUT (UA), Mi.ON and TAMIRISS. Next up: Bar Rouge, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ VIGILANT is a downtempo and afro house artist based in Kazakhstan, with 6 gigs o
 
 LUT (UA), Mi.ON, TAMIRISS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilant/)*

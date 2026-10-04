@@ -1,6 +1,6 @@
 # Aksamit
 
-Aksamit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Aksamit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Aksamit is a techno and house artist based in Poland, with 32 gigs on soundcheck across Berlin, Central, Krakow and London and 4 more. Often billed alongside Hypnotic Black Magic, DJ Nobu and YUTA. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Aksamit is a techno and house artist based in Poland, with 32 gigs on soundcheck
 
 Hypnotic Black Magic, DJ Nobu, YUTA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksamit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksamit/)*

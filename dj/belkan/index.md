@@ -1,6 +1,6 @@
 # Belkan
 
-Belkan is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Specka, Madrid on Sun, 11 Oct 2026.
+Belkan is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Specka, Madrid on Sun, 11 Oct 2026.
 
 Belkan is a techno and electronica artist based in Spain, with 21 gigs on soundcheck across Madrid. Often billed alongside Dyans, Vandiaz and Djen. Next up: Specka, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Belkan is a techno and electronica artist based in Spain, with 21 gigs on soundc
 
 Dyans, Vandiaz, Djen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belkan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belkan/)*

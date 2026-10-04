@@ -1,6 +1,6 @@
 # Emora
 
-Emora is a Downtempo and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
+Emora is a Downtempo and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
 
 Emora is a downtempo and bass artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside AdomasLP, Tommy Cross and Abby Harris. Next up: 1520, Manchester on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Emora is a downtempo and bass artist based in United Kingdom, with 8 gigs on sou
 
 AdomasLP, Tommy Cross, Abby Harris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*

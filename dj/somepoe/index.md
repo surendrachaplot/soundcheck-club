@@ -1,6 +1,6 @@
 # Somepoe
 
-Somepoe is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kaiku, Helsinki on Sat, 24 Oct 2026.
+Somepoe is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaiku, Helsinki on Sat, 24 Oct 2026.
 
 Somepoe is an electronic artist, with 6 gigs on soundcheck across Helsinki, London and Manchester. Often billed alongside Winter Games, DJ Hulluella and Jamie Unknown. Next up: Kaiku, Helsinki on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Somepoe is an electronic artist, with 6 gigs on soundcheck across Helsinki, Lond
 
 Winter Games, DJ Hulluella, Jamie Unknown
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somepoe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somepoe/)*

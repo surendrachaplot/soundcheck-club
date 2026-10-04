@@ -1,6 +1,6 @@
 # Deer park
 
-Deer park is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Botanique, Brussels on Sun, 8 Nov 2026.
+Deer park is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Botanique, Brussels on Sun, 8 Nov 2026.
 
 Deer park is an experimental and hip-hop artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 4 more. Often billed alongside Patch+, ANTHEM and Able Archer. Next up: Botanique, Brussels on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Deer park is an experimental and hip-hop artist based in United States of Americ
 
 Patch+, ANTHEM, Able Archer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerpark/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerpark/)*

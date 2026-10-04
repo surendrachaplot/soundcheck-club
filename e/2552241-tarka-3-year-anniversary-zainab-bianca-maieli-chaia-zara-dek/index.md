@@ -1,6 +1,6 @@
-# Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana + more at public records
+# Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana, + more at public records
 
-Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana + more at public records on Sun 8 Nov, New York City. 8 artists: ARINI, Bergsonist, Bianca Maieli and Chaia and 4 more. See the line-up on soundcheck.
+Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana, + more at public records on Sun 8 Nov, New York City. 8 artists: ARINI, Bergsonist, Bianca Maieli and Chaia and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

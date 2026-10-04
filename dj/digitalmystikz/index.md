@@ -1,6 +1,6 @@
 # Digital Mystikz
 
-Digital Mystikz is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Digital Mystikz is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Digital Mystikz is a bass and techno artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Bristol, Dublin and London and 1 more. Often billed alongside Coki, Mala and Flowdan. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Digital Mystikz is a bass and techno artist based in United Kingdom, with 8 gigs
 
 Coki, Mala, Flowdan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalmystikz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalmystikz/)*

@@ -1,6 +1,6 @@
 # Nico Bondi
 
-Nico Bondi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paris15, Malaga on Sat, 31 Oct 2026.
+Nico Bondi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paris15, Malaga on Sat, 31 Oct 2026.
 
 Nico Bondi is a techno and industrial artist based in Spain, with 25 gigs on soundcheck across Barcelona, London, Madrid and Malaga and 3 more. Often billed alongside BELCEBÚ, Dres Codex and EVE. Next up: Paris15, Malaga on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nico Bondi is a techno and industrial artist based in Spain, with 25 gigs on sou
 
 BELCEBÚ, Dres Codex, EVE (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobondi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobondi/)*

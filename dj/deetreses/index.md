@@ -1,6 +1,6 @@
 # Deetres (ES)
 
-Deetres (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 7 Oct 2026.
+Deetres (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 7 Oct 2026.
 
 Deetres (ES) is a house and techno artist based in Spain, with 7 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Alex Silva, Boys Don't Disco and CJ Posada. Next up: Noxe Barcelona, Barcelona on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Deetres (ES) is a house and techno artist based in Spain, with 7 gigs on soundch
 
 Alex Silva, Boys Don't Disco, CJ Posada
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetreses/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetreses/)*

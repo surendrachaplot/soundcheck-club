@@ -1,6 +1,6 @@
 # Orla Halligan
 
-Orla Halligan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
+Orla Halligan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
 Orla Halligan is a house and garage artist based in United Kingdom, with 44 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Loose E, Et Al and Jenn Gunn. Next up: SWG3, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Orla Halligan is a house and garage artist based in United Kingdom, with 44 gigs
 
 Loose E, Et Al (1), Jenn Gunn (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlahalligan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orlahalligan/)*

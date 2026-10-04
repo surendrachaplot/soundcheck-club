@@ -1,6 +1,6 @@
 # Amy Amor
 
-Amy Amor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 30 Oct 2026.
+Amy Amor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 30 Oct 2026.
 
 Amy Amor is a house and techno artist, with 14 gigs on soundcheck across Birmingham, Manchester and Sheffield. Often billed alongside Animaux, Benedict and Adam Shelton. Next up: Eastern Bloc Records, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Amy Amor is a house and techno artist, with 14 gigs on soundcheck across Birming
 
 Animaux, Benedict, Adam Shelton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyamor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyamor/)*

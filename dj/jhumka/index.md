@@ -1,6 +1,6 @@
 # Jhumka
 
-Jhumka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Cheek, London on Sat, 3 Oct 2026.
+Jhumka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Cheek, London on Sat, 3 Oct 2026.
 
 Jhumka is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Basel, Berlin, Chicago and London. Often billed alongside fae (UK), Leo Gosh and Osmaan. Next up: Club Cheek, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Jhumka is a house and techno artist based in United Kingdom, with 55 gigs on sou
 
 ## Recently played
 
+- Club Cheek, London · Sat, 3 Oct 2026
 - Night Tales, London · Fri, 31 Jul 2026
 - The Glove That Fits, London · Fri, 3 Jul 2026
 - Grymsdyke Farm, London · Fri, 26 Jun 2026
@@ -19,10 +20,9 @@ Jhumka is a house and techno artist based in United Kingdom, with 55 gigs on sou
 - Starlane Pizza Bar, London · Fri, 19 Jun 2026
 - Club Cheek, London · Sat, 13 Jun 2026
 - Ballroom at Palais, London · Fri, 5 Jun 2026
-- Various Venues, London · Sat, 30 May 2026
 
 ## Shares bills with
 
 fae (UK), Leo Gosh, Osmaan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhumka/)*

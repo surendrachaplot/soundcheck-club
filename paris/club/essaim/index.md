@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "cocoon - Marabou, Sedef Adasï" on Sat, 3 Oct 2026.
+essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "cocoon - Marabou, Sedef Adasï" on Sat, 3 Oct 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Justine Perry, A.Litique, AgainstMe and Aleqs Notal and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with li
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

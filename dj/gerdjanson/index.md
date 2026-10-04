@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
+Gerd Janson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
 
 Gerd Janson is a house and techno artist based in Germany, with 309 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Hito Scheveningen, The Hague on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist based in Germany, with 309 gigs on soun
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

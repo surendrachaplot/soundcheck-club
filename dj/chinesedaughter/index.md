@@ -1,6 +1,6 @@
 # Chinese Daughter
 
-Chinese Daughter is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rebellion, Manchester on Fri, 23 Oct 2026.
+Chinese Daughter is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Rebellion, Manchester on Fri, 23 Oct 2026.
 
 Chinese Daughter is a jungle and drum & bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 14 more. Often billed alongside Benton (UK), Loefah and Silva Snipa. Next up: Rebellion, Manchester on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Chinese Daughter is a jungle and drum & bass artist based in United Kingdom, wit
 
 Benton (UK), Loefah, Silva Snipa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*

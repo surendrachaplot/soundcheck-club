@@ -1,6 +1,6 @@
 # Sue From HR
 
-Sue From HR is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
+Sue From HR is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
 
 Sue From HR is a disco and house artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona and London. Often billed alongside Al Gray, Tiffany Quinn and Beats by Drea. Next up: Unit 58, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sue From HR is a disco and house artist based in United Kingdom, with 27 gigs on
 
 Al Gray, Tiffany Quinn, Beats by Drea
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suefromhr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suefromhr/)*

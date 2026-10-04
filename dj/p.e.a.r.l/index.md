@@ -1,20 +1,20 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at ∄, Kyiv on Sat, 3 Oct 2026.
+P.E.A.R.L. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Fri, 23 Oct 2026.
 
-P.E.A.R.L. is a techno and house artist based in Spain, with 89 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 29 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: ∄, Kyiv on Sat 3 Oct.
+P.E.A.R.L. is a techno and house artist based in Spain, with 89 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 29 more. Often billed alongside Not A Headliner, Henning Baer and Adriana Lopez. Next up: public records, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | ∄ | Kyiv |
 | Fri, 23 Oct 2026 | public records | New York City |
 | Sat, 31 Oct 2026 | The Lower Level | Boston |
 | Sat, 21 Nov 2026 | Azimut Club | Turin |
 
 ## Recently played
 
+- ∄, Kyiv · Sat, 3 Oct 2026
 - Tresor.West, Dortmund-essen · Sat, 19 Sept 2026
 - LA Rítmica Club, Valencia · Sat, 19 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
@@ -22,10 +22,9 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 89 gigs on soundche
 - Liquid Club, Malta · Fri, 3 Jul 2026
 - The Bassement, Madrid · Sat, 13 Jun 2026
 - RADION, Amsterdam · Sat, 16 May 2026
-- Razzmatazz, Barcelona · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Not A Headliner, Henning Baer, Adriana Lopez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*

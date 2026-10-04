@@ -1,6 +1,6 @@
 # Armooniaman
 
-Armooniaman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kings Arms E2, London on Sun, 25 Oct 2026.
+Armooniaman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kings Arms E2, London on Sun, 25 Oct 2026.
 
 Armooniaman is a house and tech house artist, with 16 gigs on soundcheck across London. Often billed alongside Aur0m, Francesco Poggi and Earl the Kid. Next up: Kings Arms E2, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Armooniaman is a house and tech house artist, with 16 gigs on soundcheck across 
 
 Aur0m, Francesco Poggi, Earl the Kid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*

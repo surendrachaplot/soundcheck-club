@@ -1,6 +1,6 @@
 # NOBUYA (2)
 
-NOBUYA (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
+NOBUYA (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
 
 NOBUYA is a techno and tech house artist based in Japan, with 76 gigs on soundcheck across Osaka, Singapore and Tokyo. Often billed alongside O-MAN, ALESSA(JP) and Nao Nomura. Next up: Joule, Osaka on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ NOBUYA is a techno and tech house artist based in Japan, with 76 gigs on soundch
 
 O-MAN, ALESSA(JP), Nao Nomura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-2/)*

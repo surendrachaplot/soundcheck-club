@@ -1,6 +1,6 @@
 # julës jay
 
-julës jay is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
+julës jay is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 julës jay is a house and minimal artist based in Germany, with 81 gigs on soundcheck across Hamburg, Munich and Vienna. Often billed alongside KITI ARSA, Vincent Lang and Ede. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ julës jay is a house and minimal artist based in Germany, with 81 gigs on sound
 
 KITI ARSA, Vincent Lang, Ede
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jules/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jules/)*

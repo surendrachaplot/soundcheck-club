@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Audio SF, San Francisco/Oakland on Sun, 18 Oct 2026.
+DJ Spen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Audio SF, San Francisco/Oakland on Sun, 18 Oct 2026.
 
 DJ Spen is a house and deep house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Chicago, Detroit and Edinburgh and 26 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: Audio SF, San Francisco/Oakland on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ DJ Spen is a house and deep house artist based in United States of America, with
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

@@ -1,6 +1,6 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "innerzone with shane irving" on Sun, 4 Oct 2026.
+dubble is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "innerzone with shane irving" on Sun, 4 Oct 2026.
 
 dubble is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Bella Hall, DJ Klapsalon, mul/ANNA and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
@@ -21,4 +21,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

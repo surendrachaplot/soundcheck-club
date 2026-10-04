@@ -1,6 +1,6 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BASEMENT, New York City on Fri, 9 Oct 2026.
+ISAbella is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
 ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: BASEMENT, New York City on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundc
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

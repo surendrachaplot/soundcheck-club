@@ -1,6 +1,6 @@
 # Runy
 
-Runy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+Runy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
 Runy is a house and techno artist based in Serbia, with 28 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Vienna. Often billed alongside Janko, Nemax and Anna Wall. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Runy is a house and techno artist based in Serbia, with 28 gigs on soundcheck ac
 
 Janko, Nemax, Anna Wall
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runy/)*

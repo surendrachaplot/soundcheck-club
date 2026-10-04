@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Vinyl Pressure" on Sat, 3 Oct 2026.
+Teritorija is a music venue in Riga with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Vinyl Pressure" on Sat, 3 Oct 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 16 upcoming gigs, with line-ups including Aniri Chan, ARRISHA, DENOVA and Dmitry Puffin and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 16 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

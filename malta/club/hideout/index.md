@@ -1,18 +1,17 @@
 # Hideout
 
-Hideout is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Prog Pulse at Hideout | DJ Ruby Extended Set" on Sat, 3 Oct 2026.
+Hideout is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "THE GARDEN: END OF SEASON" on Sat, 7 Nov 2026.
 
-Hideout is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Ruby. See dates, start times and who's playing. BMX track, Triq Martin Luther King, Pembroke, PBK 1990.
+Hideout is a music venue in Malta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. BMX track, Triq Martin Luther King, Pembroke, PBK 1990.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Prog Pulse at Hideout / DJ Ruby Extended Set | DJ Ruby |
 | Sat, 7 Nov 2026 | THE GARDEN: END OF SEASON |  |
 
 ## Address
 
 BMX track, Triq Martin Luther King, Pembroke, PBK 1990, Malta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hideout/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/hideout/)*

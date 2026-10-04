@@ -1,6 +1,6 @@
 # ophélie
 
-ophélie is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+ophélie is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 ophélie is a techno and bass artist based in France, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ ophélie is a techno and bass artist based in France, with 93 gigs on soundcheck
 
 Marylou, Azu Tiwaline, CCL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*

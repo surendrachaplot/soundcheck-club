@@ -1,6 +1,6 @@
 # Lovin Duo
 
-Lovin Duo is a Acid and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
+Lovin Duo is a Acid and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
 Lovin Duo is an acid and electronica artist, with 35 gigs on soundcheck across Milan and New York City. Often billed alongside Lvca, Erika Gueli and Sunrush. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Lovin Duo is an acid and electronica artist, with 35 gigs on soundcheck across M
 
 Lvca, Erika Gueli, Sunrush
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinduo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovinduo/)*

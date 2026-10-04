@@ -1,6 +1,6 @@
 # ZIL (US)
 
-ZIL (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - VOID, Denver on Sat, 31 Oct 2026.
+ZIL (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - VOID, Denver on Sat, 31 Oct 2026.
 
 ZIL (US) is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Denver and Tokyo. Often billed alongside Metaphysiq, Alala.One and Alex Ormond. Next up: TBA - VOID, Denver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ZIL (US) is a techno and house artist based in United States of America, with 9 
 
 Metaphysiq, Alala.One, Alex Ormond
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zilus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zilus/)*

@@ -1,6 +1,6 @@
 # ĀTMĀN
 
-ĀTMĀN is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+ĀTMĀN is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
 ĀTMĀN is a techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Deltapeak, Amo (IT) and August Kind. Next up: BABY01, Berlin on Sat 7 Nov.
 
@@ -21,4 +21,4 @@
 
 Deltapeak, Amo (IT), August Kind
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atman-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atman-1/)*

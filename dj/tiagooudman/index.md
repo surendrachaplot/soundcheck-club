@@ -1,6 +1,6 @@
 # Tiago Oudman
 
-Tiago Oudman is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Tiago Oudman is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Tiago Oudman is a house and club artist based in Indonesia, with 66 gigs on soundcheck across Amsterdam, Bali, Berlin and Lisbon and 11 more. Often billed alongside PNNY, Ryan Elliott and Adam Purnell. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Tiago Oudman is a house and club artist based in Indonesia, with 66 gigs on soun
 
 PNNY, Ryan Elliott, Adam Purnell
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagooudman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagooudman/)*

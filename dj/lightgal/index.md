@@ -1,18 +1,18 @@
 # Light Gal
 
-Light Gal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Sat, 3 Oct 2026.
+Light Gal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Light Gal is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside Diana Loredana, Thomas Galbardi and Aruna. Next up: Unit 58, London on Sat 3 Oct.
+Light Gal is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside Diana Loredana, Thomas Galbardi and Aruna. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Unit 58 | London |
 | Fri, 23 Oct 2026 | Bears Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Unit 58, London · Sat, 3 Oct 2026
 - Hoxton Cabin, London · Fri, 29 May 2026
 - Quebar, London · Sat, 7 Mar 2026
 - Forest Road Brewery, London · Fri, 12 Dec 2025
@@ -20,10 +20,9 @@ Light Gal is a techno and house artist based in United Kingdom, with 18 gigs on 
 - TBA - Quebar, Unit 5, 560-568 High Rd, London N17 9TA, London · Sat, 27 Sept 2025
 - Southwark Park, London · Sun, 24 Aug 2025
 - Corsica Studios, London · Thu, 17 Apr 2025
-- Quebar, London · Sat, 22 Mar 2025
 
 ## Shares bills with
 
 Diana Loredana, Thomas Galbardi, Aruna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightgal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lightgal/)*

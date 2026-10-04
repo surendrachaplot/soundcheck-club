@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "CLTX for OVER PARTY" on Sat, 3 Oct 2026.
+Audiodrome is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CLTX for OVER PARTY" on Sat, 3 Oct 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including CLTX, DYEN, Enrico Sangiuliano and Gandalf and 2 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -20,4 +20,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

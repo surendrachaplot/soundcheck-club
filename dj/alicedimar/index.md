@@ -1,6 +1,6 @@
 # Alice DiMar
 
-Alice DiMar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
+Alice DiMar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sat, 24 Oct 2026.
 
 Alice DiMar is a tech house and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside diskoheinz, Artur Bredo and Michael Nowak. Next up: Crane Hotel Faralda, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alice DiMar is a tech house and house artist based in Germany, with 73 gigs on s
 
 diskoheinz, Artur Bredo, Michael Nowak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicedimar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicedimar/)*

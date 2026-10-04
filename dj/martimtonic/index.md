@@ -1,6 +1,6 @@
 # Martim Tonic
 
-Martim Tonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cavo Rooftop, Lisbon on Sat, 24 Oct 2026.
+Martim Tonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cavo Rooftop, Lisbon on Sat, 24 Oct 2026.
 
 Martim Tonic is a house and techno artist based in Portugal, with 28 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside Lou de Melo, MURI and C4STRO. Next up: Cavo Rooftop, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Martim Tonic is a house and techno artist based in Portugal, with 28 gigs on sou
 
 Lou de Melo, MURI, C4STRO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*

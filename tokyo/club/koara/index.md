@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Me/lon feat.401&Sayuri" on Sat, 10 Oct 2026.
+Koara is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Me/lon feat.401&Sayuri" on Sat, 10 Oct 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Aoi Kurihara, eurlica, finedining and FLEDtokyo and 2 more. See dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -18,4 +18,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

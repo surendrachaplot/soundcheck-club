@@ -1,6 +1,6 @@
 # Harold mp1
 
-Harold mp1 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
+Harold mp1 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Funke, Ghent on Fri, 16 Oct 2026.
 
 Harold mp1 is an electro and house artist, with 21 gigs on soundcheck across Brussels and Ghent. Often billed alongside Ava Eva, Bapow and Bon Public. Next up: Funke, Ghent on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Harold mp1 is an electro and house artist, with 21 gigs on soundcheck across Bru
 
 Ava Eva, Bapow, Bon Public
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*

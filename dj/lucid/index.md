@@ -1,6 +1,6 @@
 # Lucid
 
-Lucid is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
+Lucid is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Bremen on Fri, 11 Dec 2026.
 
 Lucid is a techno and minimal techno artist based in Australia, with 8 gigs on soundcheck across Amsterdam, Bremen, Frankfurt and Melbourne and 1 more. Often billed alongside 6am at the Garage, A.N.I. and ALLY. Next up: TBA, Bremen on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Lucid is a techno and minimal techno artist based in Australia, with 8 gigs on s
 
 6am at the Garage, A.N.I., ALLY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid/)*

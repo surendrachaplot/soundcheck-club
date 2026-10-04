@@ -1,6 +1,6 @@
 # Bekefi
 
-Bekefi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
+Bekefi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ballroom at Palais, London on Sat, 17 Oct 2026.
 
 Bekefi is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, Budapest, London and Manchester. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Ballroom at Palais, London on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Bekefi is a house and techno artist based in United Kingdom, with 43 gigs on sou
 
 S_STEELE, HOLY C, Hayley Wallace
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*

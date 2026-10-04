@@ -1,6 +1,6 @@
 # brokenhead
 
-brokenhead is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 16 Oct 2026.
+brokenhead is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 16 Oct 2026.
 
 brokenhead is a tech house and house artist, with 9 gigs on soundcheck across Rome. Often billed alongside Luca Bortolo, Antonio Viani and Da Vid. Next up: Circolo degli Illuminati, Rome on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ brokenhead is a tech house and house artist, with 9 gigs on soundcheck across Ro
 
 Luca Bortolo, Antonio Viani, Da Vid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhead/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenhead/)*

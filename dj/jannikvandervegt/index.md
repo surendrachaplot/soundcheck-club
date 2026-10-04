@@ -1,6 +1,6 @@
 # Jannik van der Vegt
 
-Jannik van der Vegt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Jannik van der Vegt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 Jannik van der Vegt is a trance and techno artist, with 19 gigs on soundcheck across Amsterdam, Augsburg, Berlin and Cologne and 4 more. Often billed alongside Cassa Cristano, DJ SODBRENNEN and DeGuzman. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jannik van der Vegt is a trance and techno artist, with 19 gigs on soundcheck ac
 
 Cassa Cristano, DJ SODBRENNEN, DeGuzman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*

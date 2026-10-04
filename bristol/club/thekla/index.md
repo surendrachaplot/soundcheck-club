@@ -1,6 +1,6 @@
 # Thekla
 
-Thekla is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Dazed Muzic presents: Oh My Rosh & Friends" on Fri, 9 Oct 2026.
+Thekla is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Dazed Muzic presents: Oh My Rosh & Friends" on Fri, 9 Oct 2026.
 
 Thekla is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Basstripper, Charlie Tee, Diagnostix and General Levy and 2 more. See dates, start times and who's playing. The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom.
 
@@ -18,4 +18,4 @@ Thekla is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with l
 
 The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom, Bristol
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*

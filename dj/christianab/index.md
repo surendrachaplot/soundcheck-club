@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Christian AB is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -35,4 +35,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 33 gigs 
 
 Christian AB, Francesco Del Garda, Call Super
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

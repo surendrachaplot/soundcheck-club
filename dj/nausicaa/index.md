@@ -1,6 +1,6 @@
 # Nausicaä
 
-Nausicaä is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Nausicaä is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Nausicaä is a house and techno artist based in Greece, with 53 gigs on soundcheck across Athens, Barcelona, Berlin and Greece and 1 more. Often billed alongside Liou, DjGus and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Nausicaä is a house and techno artist based in Greece, with 53 gigs on soundche
 
 Liou, DjGus, 22 (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*

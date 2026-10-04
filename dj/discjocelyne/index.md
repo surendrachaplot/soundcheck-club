@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, with 38 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and al gu. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, with 38 gi
 
 Ravelston, Lara Sinclair, al gu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

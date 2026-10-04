@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx" on Sat, 3 Oct 2026.
+WaV is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx" on Sat, 3 Oct 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -23,4 +23,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with l
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

@@ -1,6 +1,6 @@
 # Dragan Zaranoff
 
-Dragan Zaranoff is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at B21, Brussels on Sat, 3 Oct 2026.
+Dragan Zaranoff is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at B21, Brussels on Sat, 3 Oct 2026.
 
 Dragan Zaranoff is an electro and techno artist based in Belgium, with 18 gigs on soundcheck across Brussels, Ghent, Prague and Riga and 2 more. Often billed alongside leinaD, ATARAXY and K-65. Next up: B21, Brussels on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Dragan Zaranoff is an electro and techno artist based in Belgium, with 18 gigs o
 
 ## Recently played
 
+- B21, Brussels · Sat, 3 Oct 2026
 - Meininger Hotel Brussels City Center, Brussels · Sat, 6 Jun 2026
 - B21, Brussels · Sat, 9 May 2026
 - B21, Brussels · Fri, 13 Feb 2026
@@ -19,10 +20,9 @@ Dragan Zaranoff is an electro and techno artist based in Belgium, with 18 gigs o
 - Laska V21, Riga · Fri, 12 Sept 2025
 - Funke, Ghent · Sat, 21 Jun 2025
 - B21, Brussels · Fri, 20 Jun 2025
-- Phloxy Club, Tbilisi · Sat, 7 Jun 2025
 
 ## Shares bills with
 
 leinaD, ATARAXY, K-65
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draganzaranoff/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draganzaranoff/)*

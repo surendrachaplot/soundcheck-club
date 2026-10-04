@@ -1,6 +1,6 @@
 # piaconcept
 
-piaconcept is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+piaconcept is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 piaconcept is a techno and bass artist, with 22 gigs on soundcheck across Bordeaux, Lyon and Paris. Often billed alongside Lüma-G, Unsho and ABRAN. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ piaconcept is a techno and bass artist, with 22 gigs on soundcheck across Bordea
 
 Lüma-G, Unsho, ABRAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piaconcept/)*

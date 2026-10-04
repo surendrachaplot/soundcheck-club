@@ -1,6 +1,6 @@
 # Redemptive
 
-Redemptive is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
+Redemptive is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
 
 Redemptive is a drum & bass and garage artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside DBADJO, SPNR and octavate. Next up: H15 Scene & Studio, Copenhagen on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Redemptive is a drum & bass and garage artist based in Denmark, with 6 gigs on s
 
 DBADJO, SPNR, octavate
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*

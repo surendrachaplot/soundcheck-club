@@ -1,6 +1,6 @@
 # Jester
 
-Jester is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Doppler Studio, Midlands on Sat, 17 Oct 2026.
+Jester is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Doppler Studio, Midlands on Sat, 17 Oct 2026.
 
 Jester is a techno and hip-hop artist based in Italy, with 26 gigs on soundcheck across Cologne, Düsseldorf, London and Midlands and 2 more. Often billed alongside Dana Roosy, KOHL and Ropemaker. Next up: Doppler Studio, Midlands on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jester is a techno and hip-hop artist based in Italy, with 26 gigs on soundcheck
 
 Dana Roosy, KOHL, Ropemaker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*

@@ -1,6 +1,6 @@
 # Surferboy
 
-Surferboy is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wigwam, Dublin on Sat, 3 Oct 2026.
+Surferboy is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Wigwam, Dublin on Sat, 3 Oct 2026.
 
 Surferboy is a house and minimal artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, Ireland, London and Paris and 1 more. Often billed alongside Neo Cortex, Enclave and Jenn Hession. Next up: Wigwam, Dublin on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ Surferboy is a house and minimal artist based in United Kingdom, with 27 gigs on
 
 ## Recently played
 
+- Wigwam, Dublin · Sat, 3 Oct 2026
 - KABUL à GoGo, Utrecht · Wed, 27 May 2026
 - Panic Room, Paris · Wed, 13 May 2026
 - Yamamori Tengu, Dublin · Sat, 9 May 2026
@@ -22,10 +23,9 @@ Surferboy is a house and minimal artist based in United Kingdom, with 27 gigs on
 - Yamamori Tengu, Dublin · Thu, 5 Feb 2026
 - Slane Castle, Dublin · Wed, 31 Dec 2025
 - Wigwam, Dublin · Fri, 19 Dec 2025
-- Wigwam, Dublin · Thu, 4 Dec 2025
 
 ## Shares bills with
 
 Neo Cortex, Enclave (2), Jenn Hession
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*

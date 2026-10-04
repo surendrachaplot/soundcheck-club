@@ -1,6 +1,6 @@
 # Patronaat
 
-Patronaat is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "T-Motion" on Fri, 9 Oct 2026.
+Patronaat is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "T-Motion" on Fri, 9 Oct 2026.
 
 Patronaat is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alexander Koning, BØĘRY, CLAESSENS and Cynthia Spiering and 2 more. See dates, start times and who's playing. Zijlsingel 2, 2013 DN, Haarlem.
 
@@ -15,4 +15,4 @@ Patronaat is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Zijlsingel 2, 2013 DN, Haarlem, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/patronaat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/patronaat/)*

@@ -1,6 +1,6 @@
 # Trimtone
 
-Trimtone is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
+Trimtone is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
 Trimtone is a house and club artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Trimtone is a house and club artist based in United Kingdom, with 23 gigs on sou
 
 David Penn, Marshall Jefferson, Sam Divine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*

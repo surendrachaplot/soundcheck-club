@@ -1,6 +1,6 @@
 # PRDELANZA
 
-PRDELANZA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
+PRDELANZA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
 
 PRDELANZA is a house and techno artist based in Czech Republic, with 10 gigs on soundcheck across Prague. Often billed alongside Big Lil, Fembot and Kewu. Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PRDELANZA is a house and techno artist based in Czech Republic, with 10 gigs on 
 
 Big Lil, Fembot, Kewu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prdelanza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prdelanza/)*

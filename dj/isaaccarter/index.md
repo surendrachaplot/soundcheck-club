@@ -1,6 +1,6 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Isaac Carter is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 Isaac Carter is a house and tech house artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -33,4 +33,4 @@ Isaac Carter is a house and tech house artist based in United Kingdom, with 98 g
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

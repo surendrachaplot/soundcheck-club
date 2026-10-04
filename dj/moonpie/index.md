@@ -1,6 +1,6 @@
 # Moonpie
 
-Moonpie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Moonpie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Moonpie is a techno and club artist based in United States of America, with 49 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 40split, SOBA and Vertigo. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Moonpie is a techno and club artist based in United States of America, with 49 g
 
 40split, SOBA, Vertigo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*

@@ -1,6 +1,6 @@
 # FSQ
 
-FSQ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
+FSQ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
 
 FSQ is a disco and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 3 more. Often billed alongside Soul Clap, COLOURS 87 and DJ Minx. Next up: Bordello Aperitivo, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ FSQ is a disco and house artist based in United States of America, with 38 gigs 
 
 Soul Clap, COLOURS 87, DJ Minx
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fsq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fsq/)*

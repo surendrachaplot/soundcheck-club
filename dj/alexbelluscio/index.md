@@ -1,6 +1,6 @@
 # Alex Belluscio
 
-Alex Belluscio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hive Club, Zurich on Sat, 10 Oct 2026.
+Alex Belluscio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hive Club, Zurich on Sat, 10 Oct 2026.
 
 Alex Belluscio is a techno and tech house artist, with 7 gigs on soundcheck across Amsterdam, Basel, Rotterdam and Zurich. Often billed alongside Mike The Connector, Mikhu and Comzy. Next up: Hive Club, Zurich on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Alex Belluscio is a techno and tech house artist, with 7 gigs on soundcheck acro
 
 Mike The Connector, Mikhu, Comzy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbelluscio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbelluscio/)*

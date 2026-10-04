@@ -1,6 +1,6 @@
 # Lil Zé
 
-Lil Zé is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Honey's, New York City on Sat, 17 Oct 2026.
+Lil Zé is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey's, New York City on Sat, 17 Oct 2026.
 
 Lil Zé is a club and baile funk artist based in United States of America, with 33 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Papi Weli, Yuca Frita and 8ULENTINA. Next up: Honey's, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Lil Zé is a club and baile funk artist based in United States of America, with 
 
 Papi Weli, Yuca Frita, 8ULENTINA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilze/)*

@@ -1,6 +1,6 @@
 # Agnia
 
-Agnia is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+Agnia is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 Agnia is a techno and acid artist, with 15 gigs on soundcheck across Finland, Helsinki, Quintana Roo and Stockholm and 1 more. Often billed alongside Artheia, Don Taco and Katvyl. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Agnia is a techno and acid artist, with 15 gigs on soundcheck across Finland, He
 
 Artheia, Don Taco, Katvyl
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnia/)*

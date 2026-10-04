@@ -1,6 +1,6 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Milly on Air is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Milly on Air is a house and techno artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Milly on Air is a house and techno artist based in United Kingdom, with 74 gigs 
 
 Gallegos, J.Rains, A For Alpha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

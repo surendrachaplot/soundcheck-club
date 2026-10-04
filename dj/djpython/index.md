@@ -1,6 +1,6 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+DJ Python is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 DJ Python is a techno and house artist based in United States of America, with 186 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DJ Python is a techno and house artist based in United States of America, with 1
 
 Nick León, Ana Roxanne, VTSS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

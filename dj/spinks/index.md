@@ -1,6 +1,6 @@
 # Spinks
 
-Spinks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rolling Stock, London on Fri, 27 Nov 2026.
+Spinks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rolling Stock, London on Fri, 27 Nov 2026.
 
 Spinks is a techno and house artist based in United Kingdom, with 57 gigs on soundcheck across Brighton and London. Often billed alongside Atoxyl, Yiota and Acid Carbon. Next up: Rolling Stock, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Spinks is a techno and house artist based in United Kingdom, with 57 gigs on sou
 
 Atoxyl, Yiota, Acid Carbon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinks/)*

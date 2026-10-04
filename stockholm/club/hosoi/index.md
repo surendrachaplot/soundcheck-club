@@ -1,6 +1,6 @@
 # Hosoi
 
-Hosoi is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "My Analog Journal (Live)" on Thu, 8 Oct 2026.
+Hosoi is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "My Analog Journal (Live)" on Thu, 8 Oct 2026.
 
 Hosoi is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including ell.iot. See dates, start times and who's playing. Hallvägen 9, 121 61 Johanneshov.
 
@@ -16,4 +16,4 @@ Hosoi is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with 
 
 Hallvägen 9, 121 61 Johanneshov, Stockholm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/hosoi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/hosoi/)*

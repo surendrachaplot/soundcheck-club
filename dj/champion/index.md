@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Champion is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Champion is a garage and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Champion is a garage and bass artist based in United Kingdom, with 51 gigs on so
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

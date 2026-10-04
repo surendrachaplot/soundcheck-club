@@ -1,6 +1,6 @@
 # domizako
 
-domizako is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+domizako is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
 
 domizako is a techno and experimental artist, with 50 gigs on soundcheck across Amsterdam, Berlin, London and Prague and 2 more. Often billed alongside Kaa Glo, NEW MAGIC MEDIA and Miss Univers. Next up: Bike Jesus, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ domizako is a techno and experimental artist, with 50 gigs on soundcheck across 
 
 Kaa Glo, NEW MAGIC MEDIA, Miss Univers
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*

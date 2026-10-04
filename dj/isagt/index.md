@@ -1,6 +1,6 @@
 # Isa GT
 
-Isa GT is a Reggaeton and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Sat, 17 Oct 2026.
+Isa GT is a Reggaeton and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Sat, 17 Oct 2026.
 
 Isa GT is a reggaeton and guaracha artist based in United Kingdom, with 32 gigs on soundcheck across Barcelona, Berlin, Leipzig and London and 4 more. Often billed alongside Lazy Rosario, Linapary and MALAGÜERA. Next up: ÆDEN, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Isa GT is a reggaeton and guaracha artist based in United Kingdom, with 32 gigs 
 
 Lazy Rosario, Linapary, MALAGÜERA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isagt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isagt/)*

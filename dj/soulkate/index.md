@@ -1,6 +1,6 @@
 # Soulkate
 
-Soulkate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cross Club, Prague on Fri, 9 Oct 2026.
+Soulkate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cross Club, Prague on Fri, 9 Oct 2026.
 
 Soulkate is a house and techno artist based in Czech Republic, with 28 gigs on soundcheck across London and Prague. Often billed alongside C'moi, ANĪC and Daniel Neighbour. Next up: Cross Club, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Soulkate is a house and techno artist based in Czech Republic, with 28 gigs on s
 
 C'moi, ANĪC, Daniel Neighbour
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulkate/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulkate/)*

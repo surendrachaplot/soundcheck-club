@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Crilli DNB presents Shebeen Sessions with Zero T and Fox" on Sat, 3 Oct 2026.
+The Ulster Sports Club is a music venue in Belfast with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Crilli DNB presents Shebeen Sessions with Zero T and Fox" on Sat, 3 Oct 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upcoming gigs, with line-ups including ByPhil, Chris Flannigan, Conor Schmtz and Cooke and 2 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 10 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

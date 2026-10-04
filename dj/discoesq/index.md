@@ -1,6 +1,6 @@
 # discoesq
 
-discoesq is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 10 Oct 2026.
+discoesq is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 discoesq is a disco and house artist based in United States of America, with 37 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside Amatric, Evbot and HUFFY. Next up: The Great Northern, San Francisco/Oakland on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ discoesq is a disco and house artist based in United States of America, with 37 
 
 Amatric, Evbot, HUFFY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discoesq/)*

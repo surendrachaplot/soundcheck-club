@@ -1,6 +1,6 @@
 # JOA (IT)
 
-JOA (IT) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+JOA (IT) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 JOA (IT) is a techno and club artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ibiza and 5 more. Often billed alongside Virginia W, Artbat and 96 Back. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JOA (IT) is a techno and club artist based in Italy, with 18 gigs on soundcheck 
 
 Virginia W, Artbat, 96 Back
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joait/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joait/)*

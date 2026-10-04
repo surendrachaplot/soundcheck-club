@@ -1,6 +1,6 @@
 # DJ ing
 
-DJ ing is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
+DJ ing is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
 DJ ing is a house and club artist based in United States of America, with 31 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside Brant Wolff, To The End. and Mozn. Next up: Mood Ring, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ ing is a house and club artist based in United States of America, with 31 gig
 
 Brant Wolff, To The End., Mozn
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*

@@ -1,6 +1,6 @@
 # Fanndemm
 
-Fanndemm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
+Fanndemm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Fri, 16 Oct 2026.
 
 Fanndemm is a techno and house artist based in Canada, with 18 gigs on soundcheck across Toronto. Often billed alongside Young Teesh, Nino Brown and Chippy Nonstop. Next up: TBA, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fanndemm is a techno and house artist based in Canada, with 18 gigs on soundchec
 
 Young Teesh, Nino Brown (2), Chippy Nonstop
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanndemm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanndemm/)*

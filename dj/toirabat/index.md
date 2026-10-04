@@ -1,6 +1,6 @@
 # Toirabat
 
-Toirabat is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
+Toirabat is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
 
 Toirabat is a dub and jungle artist based in Belgium, with 16 gigs on soundcheck across Brussels. Often billed alongside DJ Bisou, Marouchka and Model101. Next up: Beursschouwburg, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Toirabat is a dub and jungle artist based in Belgium, with 16 gigs on soundcheck
 
 DJ Bisou, Marouchka, Model101
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toirabat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toirabat/)*

@@ -1,6 +1,6 @@
 # Black/Tuesday
 
-Black/Tuesday is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Nineteen 25, Denver on Sat, 3 Oct 2026.
+Black/Tuesday is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Nineteen 25, Denver on Sat, 3 Oct 2026.
 
 Black/Tuesday is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Denver and New York City. Often billed alongside Den Of Snakes, CHKLTE and Lidas. Next up: TBA - Nineteen 25, Denver on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Black/Tuesday is a house and techno artist based in United States of America, wi
 
 ## Recently played
 
+- TBA - Nineteen 25, Denver · Sat, 3 Oct 2026
 - TBA - Denver, Denver · Sat, 15 Aug 2026
 - TBA - Warehouse, Denver · Fri, 3 Jul 2026
 - Signal, New York City · Thu, 28 Aug 2025
@@ -19,10 +20,9 @@ Black/Tuesday is a house and techno artist based in United States of America, wi
 - TBA - Outdoor Open-Air, Denver · Sat, 19 Jul 2025
 - Orchid Denver, Denver · Sat, 17 Aug 2024
 - TBA - Private Loft Downtown Denver, Denver · Sat, 17 Aug 2024
-- TBA, Denver · Sun, 14 Jul 2024
 
 ## Shares bills with
 
 Den Of Snakes, CHKLTE, Lidas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktuesday/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktuesday/)*

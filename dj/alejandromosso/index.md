@@ -1,6 +1,6 @@
 # Alejandro Mosso
 
-Alejandro Mosso is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ikii, Berlin on Fri, 23 Oct 2026.
+Alejandro Mosso is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ikii, Berlin on Fri, 23 Oct 2026.
 
 Alejandro Mosso is an ambient and electronica artist based in Argentina, with 16 gigs on soundcheck across Barcelona, Berlin, Geneva and Ibiza and 1 more. Often billed alongside Mad Dim, Benjamin Fehr and Lenny Mailleau. Next up: Ikii, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alejandro Mosso is an ambient and electronica artist based in Argentina, with 16
 
 Mad Dim, Benjamin Fehr, Lenny Mailleau
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromosso/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromosso/)*

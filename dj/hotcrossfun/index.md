@@ -1,6 +1,6 @@
 # Hot Cross Fun
 
-Hot Cross Fun is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Two More Years, London on Sat, 31 Oct 2026.
+Hot Cross Fun is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Two More Years, London on Sat, 31 Oct 2026.
 
 Hot Cross Fun is a disco and house artist based in United Kingdom, with 28 gigs on soundcheck across London and Milan. Often billed alongside Gerrardo, Arnie Wrong and STEWPOT. Next up: Two More Years, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hot Cross Fun is a disco and house artist based in United Kingdom, with 28 gigs 
 
 Gerrardo, Arnie Wrong, STEWPOT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotcrossfun/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotcrossfun/)*

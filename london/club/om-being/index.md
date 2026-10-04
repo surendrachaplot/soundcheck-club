@@ -1,6 +1,6 @@
 # Om Being
 
-Om Being is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Deep Listening Room | Desirée" on Sat, 10 Oct 2026.
+Om Being is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Deep Listening Room | Desirée" on Sat, 10 Oct 2026.
 
 Om Being is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Desiree', Donna Leake, Heling and Hems. See dates, start times and who's playing. Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT.
 
@@ -16,4 +16,4 @@ Om Being is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*

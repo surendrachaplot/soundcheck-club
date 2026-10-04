@@ -1,6 +1,6 @@
 # MC CKP
 
-MC CKP is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
+MC CKP is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Night Tales, London on Sat, 14 Nov 2026.
 
 MC CKP is a garage and house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside MC DT, MC Creed and MC PSG. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MC CKP is a garage and house artist based in United Kingdom, with 24 gigs on sou
 
 MC DT, MC Creed, MC PSG
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcckp/)*

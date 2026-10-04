@@ -1,6 +1,6 @@
 # Ron Allen
 
-Ron Allen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Boogie, Toronto on Sat, 31 Oct 2026.
+Ron Allen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Boogie, Toronto on Sat, 31 Oct 2026.
 
 Ron Allen is a house and deep house artist based in Canada, with 18 gigs on soundcheck across Detroit and Toronto. Often billed alongside Yogi, Dirty Dale and Toronto Hustle. Next up: Boogie, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ron Allen is a house and deep house artist based in Canada, with 18 gigs on soun
 
 Yogi, Dirty Dale, Toronto Hustle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronallen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronallen/)*

@@ -1,6 +1,6 @@
 # Jonas Fritz
 
-Jonas Fritz is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Jonas Fritz is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Jonas Fritz is a techno and progressive house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Cologne and Stuttgart. Often billed alongside Jamin, Badlokk and Bellville. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jonas Fritz is a techno and progressive house artist based in Germany, with 9 gi
 
 Jamin, Badlokk, Bellville
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasfritz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasfritz/)*

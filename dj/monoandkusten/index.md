@@ -1,6 +1,6 @@
 # Mono and Kusten
 
-Mono and Kusten is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mono and Kusten is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mono and Kusten are a house and techno duo based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin and Hamburg. Often billed alongside Schlawinsky, Neobeo and Andreas Balicki. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mono and Kusten are a house and techno duo based in Germany, with 10 gigs on sou
 
 Schlawinsky, Neobeo, Andreas Balicki
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoandkusten/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoandkusten/)*

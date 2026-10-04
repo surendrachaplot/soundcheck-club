@@ -1,6 +1,6 @@
 # hiRobbie
 
-hiRobbie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 1990, Glasgow on Fri, 20 Nov 2026.
+hiRobbie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1990, Glasgow on Fri, 20 Nov 2026.
 
 hiRobbie is a garage and house artist, with 17 gigs on soundcheck across Aberdeen, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside SEAH, Loose E and smokeylegatta. Next up: 1990, Glasgow on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ hiRobbie is a garage and house artist, with 17 gigs on soundcheck across Aberdee
 
 SEAH, Loose E, smokeylegatta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirobbie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirobbie/)*

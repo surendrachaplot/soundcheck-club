@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+Rafael Cerato is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 Rafael Cerato is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 33 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rafael Cerato is a house and techno artist based in United Kingdom, with 65 gigs
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

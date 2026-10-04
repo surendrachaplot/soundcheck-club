@@ -1,6 +1,6 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
+KTK (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
 
 KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside DLV, BIIANCO and Kander. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
 
@@ -31,4 +31,4 @@ KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amster
 
 DLV, BIIANCO, Kander
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

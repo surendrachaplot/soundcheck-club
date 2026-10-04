@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Roberta's, New York City on Sat, 10 Oct 2026.
+Late Replies is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Roberta's, New York City on Sat, 10 Oct 2026.
 
 Late Replies is a tech house and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 17 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Roberta's, New York City on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Late Replies is a tech house and house artist based in United Kingdom, with 73 g
 
 Detlef, Archie Hamilton, Darius Syrossian
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

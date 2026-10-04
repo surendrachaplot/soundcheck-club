@@ -1,6 +1,6 @@
 # Pulss
 
-Pulss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Teritorija, Riga on Fri, 9 Oct 2026.
+Pulss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Teritorija, Riga on Fri, 9 Oct 2026.
 
 Pulss is a techno and house artist based in Latvia, with 35 gigs on soundcheck across Paris and Riga. Often billed alongside Slepe, Garjane and Notwelcome. Next up: Teritorija, Riga on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pulss is a techno and house artist based in Latvia, with 35 gigs on soundcheck a
 
 Slepe, Garjane, Notwelcome
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulss/)*

@@ -1,6 +1,6 @@
 # Late Night Jockel Session
 
-Late Night Jockel Session is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 3 Oct 2026.
+Late Night Jockel Session is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 3 Oct 2026.
 
 Late Night Jockel Session is a techno and house artist based in Austria, with 19 gigs on soundcheck across Berlin, Hamburg, Munich and Vienna. Often billed alongside E-Gerät, Crew Ombrelle and Kabeljo. Next up: Bahnwärter Thiel, Munich on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Late Night Jockel Session is a techno and house artist based in Austria, with 19
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Sat, 3 Oct 2026
 - gART.n, Berlin · Sun, 7 Jun 2026
 - Südpol, Hamburg · Sat, 4 Apr 2026
 - MS Stubnitz, Hamburg · Sat, 8 Nov 2025
@@ -19,10 +20,9 @@ Late Night Jockel Session is a techno and house artist based in Austria, with 19
 - Renate, Berlin · Sat, 19 Apr 2025
 - Hafenklang, Hamburg · Sat, 22 Mar 2025
 - Hafenklang, Hamburg · Sat, 1 Feb 2025
-- Kater, Berlin · Fri, 27 Dec 2024
 
 ## Shares bills with
 
 E-Gerät, Crew Ombrelle, Kabeljo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenightjockelsession/)*

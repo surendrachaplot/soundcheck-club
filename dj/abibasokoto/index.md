@@ -1,6 +1,6 @@
 # Abiba Sokoto
 
-Abiba Sokoto is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 013 Poppodium, Netherlands on Sat, 19 Dec 2026.
+Abiba Sokoto is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 013 Poppodium, Netherlands on Sat, 19 Dec 2026.
 
 Abiba Sokoto is a house and italo disco artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Netherlands and Rotterdam. Often billed alongside David Vunk, Elias Mazian and BASHKKA. Next up: 013 Poppodium, Netherlands on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Abiba Sokoto is a house and italo disco artist based in Germany, with 18 gigs on
 
 David Vunk, Elias Mazian, BASHKKA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abibasokoto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abibasokoto/)*

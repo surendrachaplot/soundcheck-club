@@ -1,6 +1,6 @@
 # Preacher's Daughter
 
-Preacher's Daughter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
+Preacher's Daughter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
 Preacher's Daughter is a techno and house artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside LTE, ramón.ting and Alex Hell-n. Next up: Paragon, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Preacher's Daughter is a techno and house artist based in United States of Ameri
 
 LTE (1), ramón.ting, Alex Hell-n
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/preachersdaughter/)*

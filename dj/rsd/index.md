@@ -1,6 +1,6 @@
 # RSD
 
-RSD is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+RSD is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 RSD is a dubstep and dub artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Bristol, Leeds and London and 2 more. Often billed alongside LOTU (UK), SGT Pokes and Chad Dubz. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ RSD is a dubstep and dub artist based in United Kingdom, with 9 gigs on soundche
 
 LOTU (UK), SGT Pokes, Chad Dubz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsd/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsd/)*

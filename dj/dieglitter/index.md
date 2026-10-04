@@ -1,6 +1,6 @@
 # dieglitter
 
-dieglitter is a Downtempo and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at à la Folie Paris, Paris on Fri, 16 Oct 2026.
+dieglitter is a Downtempo and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at à la Folie Paris, Paris on Fri, 16 Oct 2026.
 
 dieglitter is a downtempo and latin bass artist based in Mexico, with 14 gigs on soundcheck across Berlin, Brussels, Mexico City and Paris. Often billed alongside otap, mika.collage and Susobrino. Next up: à la Folie Paris, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ dieglitter is a downtempo and latin bass artist based in Mexico, with 14 gigs on
 
 otap, mika.collage, Susobrino
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieglitter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieglitter/)*

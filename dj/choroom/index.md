@@ -1,6 +1,6 @@
 # Cho Room
 
-Cho Room is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
+Cho Room is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
 
 Cho Room is a bass and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Brussels, Hamburg and London and 1 more. Often billed alongside Haaizey, Spriteeyez and Chinyere. Next up: Paloma, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Cho Room is a bass and techno artist based in Germany, with 41 gigs on soundchec
 
 Haaizey, Spriteeyez, Chinyere
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*

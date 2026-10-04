@@ -1,6 +1,6 @@
 # Faust
 
-Faust is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KIMYO Night Invites: Yonti ( Berlin )" on Sun, 4 Oct 2026.
+Faust is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KIMYO Night Invites: Yonti ( Berlin )" on Sun, 4 Oct 2026.
 
 Faust is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Connor Wall, Cristian Marras, Dold and Lyumin and 2 more. See dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
@@ -18,4 +18,4 @@ Faust is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

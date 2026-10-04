@@ -1,6 +1,6 @@
 # Tough Love
 
-Tough Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Tough Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Tough Love is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London. Often billed alongside Darrell Privett, JAYDAA and Jerome Six. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tough Love is a house and tech house artist based in United Kingdom, with 28 gig
 
 Darrell Privett, JAYDAA, Jerome Six
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toughlove/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toughlove/)*

@@ -1,6 +1,6 @@
 # Billy Spike Iland
 
-Billy Spike Iland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Billy Spike Iland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
 Billy Spike Iland is a techno and house artist based in Ireland, with 24 gigs on soundcheck across Belfast, Berlin and Dublin. Often billed alongside Vlad., Jack Nolan and Offtrack. Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Billy Spike Iland is a techno and house artist based in Ireland, with 24 gigs on
 
 Vlad., Jack Nolan, Offtrack
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billyspikeiland/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billyspikeiland/)*

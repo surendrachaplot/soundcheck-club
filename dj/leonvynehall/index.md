@@ -1,6 +1,6 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Leon Vynehall is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gig
 
 ## Recently played
 
+- TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - Fidelity Studio, Dublin · Fri, 25 Sept 2026
 - TBA, Los Angeles · Sun, 20 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
@@ -24,10 +25,9 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 141 gig
 - public records, New York City · Sun, 30 Aug 2026
 - Standard Time, Toronto · Fri, 28 Aug 2026
 - Middlesex, Boston · Thu, 27 Aug 2026
-- smartbar, Chicago · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Moxie, Young Marco, Yu Su
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

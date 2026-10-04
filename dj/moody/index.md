@@ -1,6 +1,6 @@
 # Moody
 
-Moody is a Funk / Soul and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distrikt, Leeds on Fri, 9 Oct 2026.
+Moody is a Funk / Soul and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Fri, 9 Oct 2026.
 
 Moody is a funk / soul and ghetto tech artist based in France, with 11 gigs on soundcheck across Antwerp, Berlin, Ghent and Leeds and 3 more. Often billed alongside Acid Frank, Adrija and Alexander Nut. Next up: Distrikt, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Moody is a funk / soul and ghetto tech artist based in France, with 11 gigs on s
 
 Acid Frank, Adrija, Alexander Nut
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moody/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moody/)*

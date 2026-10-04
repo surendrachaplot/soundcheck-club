@@ -1,6 +1,6 @@
 # HK. (1)
 
-HK. (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 17 Oct 2026.
+HK. (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 17 Oct 2026.
 
 HK. is a trance and psytrance artist based in Japan, with 16 gigs on soundcheck across Osaka and Tokyo. Often billed alongside WATARU, PONTA and PUSTER. Next up: ZEROTOKYO, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HK. is a trance and psytrance artist based in Japan, with 16 gigs on soundcheck 
 
 WATARU, PONTA, PUSTER
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*

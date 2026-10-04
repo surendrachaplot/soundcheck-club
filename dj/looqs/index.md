@@ -1,6 +1,6 @@
 # LOOQS
 
-LOOQS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 24 Oct 2026.
+LOOQS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 24 Oct 2026.
 
 LOOQS is a house and tech house artist based in Australia, with 54 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Brown Boy Magic, Andrew88 and Etwas. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LOOQS is a house and tech house artist based in Australia, with 54 gigs on sound
 
 Brown Boy Magic, Andrew88, Etwas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/looqs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/looqs/)*

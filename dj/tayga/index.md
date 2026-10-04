@@ -1,6 +1,6 @@
 # Tayga
 
-Tayga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Arca, Milan on Sat, 3 Oct 2026.
+Tayga is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Arca, Milan on Sat, 3 Oct 2026.
 
 Tayga is a house and techno artist based in Italy, with 28 gigs on soundcheck across Milan, Paris and Turin. Often billed alongside Bugsy, DJLMP and Dirty Channels. Next up: Arca, Milan on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Tayga is a house and techno artist based in Italy, with 28 gigs on soundcheck ac
 
 ## Recently played
 
+- Arca, Milan · Sat, 3 Oct 2026
 - Parco La Spezia, Milan · Sun, 6 Sept 2026
 - DURO, Milan · Fri, 5 Jun 2026
 - Arca, Milan · Sat, 23 May 2026
@@ -19,10 +20,9 @@ Tayga is a house and techno artist based in Italy, with 28 gigs on soundcheck ac
 - TBA - Parco Segantini, Milan · Sun, 19 Apr 2026
 - Arca, Milan · Sat, 11 Apr 2026
 - Arca, Milan · Sat, 21 Mar 2026
-- Arca, Milan · Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Bugsy, DJLMP, Dirty Channels
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tayga/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tayga/)*

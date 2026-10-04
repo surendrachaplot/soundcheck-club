@@ -1,6 +1,6 @@
 # DEZO
 
-DEZO is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 1000fryd, Denmark on Sat, 7 Nov 2026.
+DEZO is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 1000fryd, Denmark on Sat, 7 Nov 2026.
 
 DEZO is a techno and industrial artist based in Denmark, with 7 gigs on soundcheck across Berlin, Copenhagen, Denmark and Sydney. Often billed alongside Epicx, 2LUX and Arnaud Le Texier. Next up: 1000fryd, Denmark on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ DEZO is a techno and industrial artist based in Denmark, with 7 gigs on soundche
 
 Epicx, 2LUX, Arnaud Le Texier
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dezo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dezo/)*

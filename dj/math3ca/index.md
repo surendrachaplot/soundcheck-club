@@ -1,6 +1,6 @@
 # Math3ca
 
-Math3ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
+Math3ca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at American Legion Marsh Post #442, Boston on Sat, 3 Oct 2026.
 
 Math3ca is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Boston and New York City. Often billed alongside Adam Unknown, Mx. Blaire and Alex Slater. Next up: American Legion Marsh Post #442, Boston on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Math3ca is a house and techno artist based in United States of America, with 23 
 
 ## Recently played
 
+- American Legion Marsh Post #442, Boston · Sat, 3 Oct 2026
 - District 288, Boston · Sat, 5 Sept 2026
 - Manray, Boston · Thu, 3 Sept 2026
 - C'mon Everybody, New York City · Sun, 31 May 2026
@@ -19,10 +20,9 @@ Math3ca is a house and techno artist based in United States of America, with 23 
 - Fresh Pond Beer Garden, Boston · Sat, 28 Jun 2025
 - TBA - Greek American Political Club, Boston · Fri, 13 Jun 2025
 - 52 Church, Boston · Sat, 15 Feb 2025
-- 52 Church, Boston · Fri, 6 Sept 2024
 
 ## Shares bills with
 
 Adam Unknown, Mx. Blaire, Alex Slater
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*

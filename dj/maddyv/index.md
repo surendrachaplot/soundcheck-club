@@ -1,6 +1,6 @@
 # Maddy V
 
-Maddy V is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Z-Bau, Nürnberg on Sat, 17 Oct 2026.
+Maddy V is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Z-Bau, Nürnberg on Sat, 17 Oct 2026.
 
 Maddy V is a drum & bass and bass artist based in United Kingdom, with 11 gigs on soundcheck across Brighton, Bristol, London and Manchester and 3 more. Often billed alongside Mandidextrous, Charlotte Devaney and Lobsta B. Next up: Z-Bau, Nürnberg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Maddy V is a drum & bass and bass artist based in United Kingdom, with 11 gigs o
 
 Mandidextrous, Charlotte Devaney, Lobsta B
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddyv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddyv/)*

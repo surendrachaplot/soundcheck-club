@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Westhafen ENDLESS SUMMER Festival" on Sat, 3 Oct 2026.
+Westhafen is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Westhafen ENDLESS SUMMER Festival" on Sat, 3 Oct 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including Alias Aura, Anton Gerden, Emina Helena and Jil Tanner and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -18,4 +18,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

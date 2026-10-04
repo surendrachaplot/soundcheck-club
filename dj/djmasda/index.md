@@ -1,6 +1,6 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+DJ Masda is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
 DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Distrikt, Leeds on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundchec
 
 ## Recently played
 
+- Distrikt, Leeds · Sat, 3 Oct 2026
 - TBA - IYKYK , Los Angeles · Sat, 26 Sept 2026
 - Nowadays, New York City · Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundchec
 - ISOamsterdam, Amsterdam · Sun, 2 Aug 2026
 - Quinta do Miratejo, Lisbon · Sat, 18 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
-- Tokonoma Club, Frankfurt · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

@@ -1,6 +1,6 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
+Flash Gea is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
 
 Flash Gea is a techno and trance artist based in United States of America, with 27 gigs on soundcheck across Chicago, Miami, New York City and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Concord Music Hall, Chicago on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 Conrad Taylor, girl_irl, AMAYAH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

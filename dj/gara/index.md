@@ -1,6 +1,6 @@
 # Gara
 
-Gara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
+Gara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
 Gara is a house and techno artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside Manami T.B, Saku NewMoon and DJ ISE. Next up: or, Tokyo on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Gara is a house and techno artist based in Japan, with 49 gigs on soundcheck acr
 
 Manami T.B, Saku NewMoon, DJ ISE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*

@@ -1,6 +1,6 @@
 # Xenia Xamanek
 
-Xenia Xamanek is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
+Xenia Xamanek is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
 
 Xenia Xamanek is a techno and experimental artist based in Honduras, with 24 gigs on soundcheck across Copenhagen, London and Paris. Often billed alongside Francesca Burattelli, DJ Tjiquita and Emil Palme. Next up: Christianshavns Beboerhus, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Xenia Xamanek is a techno and experimental artist based in Honduras, with 24 gig
 
 Francesca Burattelli, DJ Tjiquita, Emil Palme
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniaxamanek/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniaxamanek/)*

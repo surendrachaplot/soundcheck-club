@@ -1,6 +1,6 @@
 # Vitaline
 
-Vitaline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kilomètre25, Paris on Sat, 10 Oct 2026.
+Vitaline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kilomètre25, Paris on Sat, 10 Oct 2026.
 
 Vitaline is a techno and house artist based in France, with 84 gigs on soundcheck across Barcelona, Berlin, Brussels and Geneva and 12 more. Often billed alongside Break A Leg, Bassi-fr and Dj Schnake. Next up: Kilomètre25, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vitaline is a techno and house artist based in France, with 84 gigs on soundchec
 
 Break A Leg, Bassi-fr, Dj Schnake
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*

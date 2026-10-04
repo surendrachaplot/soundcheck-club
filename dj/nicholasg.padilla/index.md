@@ -1,6 +1,6 @@
 # Nicholas G. Padilla
 
-Nicholas G. Padilla is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Nicholas G. Padilla is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Nicholas G. Padilla is a baile funk and experimental artist based in United States of America, with 13 gigs on soundcheck across Miami. Often billed alongside Sel.6, Alexx in Chainss and Bakke. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nicholas G. Padilla is a baile funk and experimental artist based in United Stat
 
 Sel.6, Alexx in Chainss, Bakke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasg.padilla/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasg.padilla/)*

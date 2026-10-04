@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FOCUS + KARETE BU invites" on Sat, 3 Oct 2026.
+Distillery is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FOCUS + KARETE BU invites" on Sat, 3 Oct 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including Bephål, bertziherzi, BIGALKE and Carlotta Jacobi and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

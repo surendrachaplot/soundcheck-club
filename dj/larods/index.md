@@ -1,6 +1,6 @@
 # La Rod's
 
-La Rod's is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
+La Rod's is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 9 Oct 2026.
 
 La Rod's is a techno and trance artist based in Cyprus, with 8 gigs on soundcheck across Berlin. Often billed alongside Quolcat, Alex Pastore and Alien Rain. Next up: DNA. CLUB, Berlin on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ La Rod's is a techno and trance artist based in Cyprus, with 8 gigs on soundchec
 
 Quolcat, Alex Pastore, Alien Rain
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larods/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larods/)*

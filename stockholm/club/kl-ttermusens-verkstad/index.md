@@ -1,6 +1,6 @@
 # Klättermusens Verkstad
 
-Klättermusens Verkstad is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "ROTATION RADIO GOES ON A HIKE" on Sun, 11 Oct 2026.
+Klättermusens Verkstad is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "ROTATION RADIO GOES ON A HIKE" on Sun, 11 Oct 2026.
 
 Klättermusens Verkstad is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including DJ Beverage. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Klättermusens Verkstad is a music venue in Stockholm listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | ROTATION RADIO GOES ON A HIKE | DJ Beverage |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kl-ttermusens-verkstad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/kl-ttermusens-verkstad/)*

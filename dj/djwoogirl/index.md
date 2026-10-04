@@ -1,6 +1,6 @@
 # DJ Woo Girl
 
-DJ Woo Girl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+DJ Woo Girl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
 DJ Woo Girl is a house and techno artist based in Denmark, with 21 gigs on soundcheck across Copenhagen. Often billed alongside Baltza, Lucky Lube and Frederik Tollund. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Woo Girl is a house and techno artist based in Denmark, with 21 gigs on sound
 
 Baltza, Lucky Lube, Frederik Tollund
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*

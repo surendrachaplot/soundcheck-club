@@ -1,6 +1,6 @@
 # Overload
 
-Overload is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Sun, 1 Nov 2026.
+Overload is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Sun, 1 Nov 2026.
 
 Overload is a techno and tech house artist based in Russia, with 7 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Blck-Swan, Viktor Kampf and BOUNCE SAPIENS. Next up: Sensorium, Berlin on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ Overload is a techno and tech house artist based in Russia, with 7 gigs on sound
 
 Blck-Swan, Viktor Kampf, BOUNCE SAPIENS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overload/)*

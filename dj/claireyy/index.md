@@ -1,6 +1,6 @@
 # Claireyy
 
-Claireyy is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
+Claireyy is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
 
 Claireyy is a techno and trance artist based in Canada, with 43 gigs on soundcheck across Montreal. Often billed alongside Outback, Wasie and nastygloss. Next up: Bar Datcha, Montreal on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Claireyy is a techno and trance artist based in Canada, with 43 gigs on soundche
 
 Outback, Wasie, nastygloss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*

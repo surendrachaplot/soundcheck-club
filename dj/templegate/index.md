@@ -1,6 +1,6 @@
 # Temple Gate
 
-Temple Gate is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Sat, 23 Jan 2027.
+Temple Gate is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Sat, 23 Jan 2027.
 
 Temple Gate is a progressive house and techno artist based in Argentina, with 19 gigs on soundcheck across Brazil, Buenos Aires and Miami. Often billed alongside Greta Meier, Jay de Lys and Adam Sellouk. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Temple Gate is a progressive house and techno artist based in Argentina, with 19
 
 Greta Meier, Jay de Lys, Adam Sellouk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templegate/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templegate/)*

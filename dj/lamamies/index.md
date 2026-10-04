@@ -1,6 +1,6 @@
 # Mamie's
 
-Mamie's is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rex Club, Paris on Fri, 9 Oct 2026.
+Mamie's is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Rex Club, Paris on Fri, 9 Oct 2026.
 
 Mamie's is a house and techno artist based in France, with 63 gigs on soundcheck across Bali, Bangkok, Barcelona and Hong Kong and 10 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: Rex Club, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mamie's is a house and techno artist based in France, with 63 gigs on soundcheck
 
 MLCH, Mr. Ho, Antal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*

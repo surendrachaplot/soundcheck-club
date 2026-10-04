@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NIX Barcelon, Barcelona on Fri, 30 Oct 2026.
+Calussa is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NIX Barcelon, Barcelona on Fri, 30 Oct 2026.
 
 Calussa is a house and afro house artist based in United States of America, with 59 gigs on soundcheck across Austin, Barcelona, Buenos Aires and Chicago and 14 more. Often billed alongside BLOND:ISH, Bora Uzer and Max Styler. Next up: NIX Barcelon, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Calussa is a house and afro house artist based in United States of America, with
 
 BLOND:ISH, Bora Uzer, Max Styler
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

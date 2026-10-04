@@ -1,6 +1,6 @@
 # David Bucka
 
-David Bucka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
+David Bucka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Luzztro, Warsaw on Sat, 17 Oct 2026.
 
 David Bucka is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Ibiza and 1 more. Often billed alongside justUS, Intaktogene and Katzengold. Next up: Luzztro, Warsaw on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ David Bucka is a techno and house artist based in Germany, with 24 gigs on sound
 
 justUS, Intaktogene, Katzengold
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbucka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbucka/)*

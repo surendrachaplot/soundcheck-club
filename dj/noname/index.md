@@ -1,6 +1,6 @@
 # NoName
 
-NoName is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+NoName is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 NoName is a techno and house artist based in Germany, with 15 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 5 more. Often billed alongside William Luck, 2HOT2PLAY and A.N.I.. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ NoName is a techno and house artist based in Germany, with 15 gigs on soundcheck
 
 William Luck, 2HOT2PLAY, A.N.I.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noname/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noname/)*

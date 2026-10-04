@@ -1,6 +1,6 @@
 # Castor W.
 
-Castor W. is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 17 Oct 2026.
+Castor W. is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 17 Oct 2026.
 
 Castor W. is a jungle and drum & bass artist based in Belgium, with 18 gigs on soundcheck across Brussels and Ghent. Often billed alongside Castor, Jaquarius and Adrien d'Elzius. Next up: Muziekcentrum Kinky Star, Ghent on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Castor W. is a jungle and drum & bass artist based in Belgium, with 18 gigs on s
 
 Castor, Jaquarius, Adrien d'Elzius
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castorw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castorw/)*

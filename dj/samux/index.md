@@ -1,6 +1,6 @@
 # SAMUX
 
-SAMUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
+SAMUX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
 
 SAMUX is a techno and trance artist based in Ireland, with 12 gigs on soundcheck across Dublin. Often billed alongside ALPER SKR, WINSLAO and Connect. Next up: The Grand Social, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SAMUX is a techno and trance artist based in Ireland, with 12 gigs on soundcheck
 
 ALPER SKR, WINSLAO, Connect
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samux/)*

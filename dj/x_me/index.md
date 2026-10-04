@@ -1,6 +1,6 @@
 # x_me
 
-x_me is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Avve, Bangkok on Fri, 9 Oct 2026.
+x_me is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Avve, Bangkok on Fri, 9 Oct 2026.
 
 x_me is a techno and electro artist based in Russia, with 21 gigs on soundcheck across Bangkok. Often billed alongside Jorgium, Em-J and GLCK. Next up: Avve, Bangkok on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ x_me is a techno and electro artist based in Russia, with 21 gigs on soundcheck 
 
 Jorgium, Em-J, GLCK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x_me/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x_me/)*

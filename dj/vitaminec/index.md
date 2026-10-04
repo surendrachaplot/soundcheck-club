@@ -1,6 +1,6 @@
 # VITAMINE C
 
-VITAMINE C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Badaboum, Paris on Thu, 5 Nov 2026.
+VITAMINE C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Badaboum, Paris on Thu, 5 Nov 2026.
 
 VITAMINE C is a techno and house artist based in France, with 30 gigs on soundcheck across Brussels and Paris. Often billed alongside AMAYO, ANKA and Alexi Shell. Next up: Badaboum, Paris on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ VITAMINE C is a techno and house artist based in France, with 30 gigs on soundch
 
 AMAYO, ANKA (4), Alexi Shell
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaminec/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaminec/)*

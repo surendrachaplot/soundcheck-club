@@ -1,6 +1,6 @@
 # DJ Paul C
 
-DJ Paul C is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KEYBAR, New York City on Sun, 4 Oct 2026.
+DJ Paul C is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KEYBAR, New York City on Sun, 4 Oct 2026.
 
 DJ Paul C is a drum & bass and jungle artist, with 47 gigs on soundcheck across Copenhagen and New York City. Often billed alongside Hector Mamajuana, Christian Bruna and MIZTAH LEX. Next up: KEYBAR, New York City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ DJ Paul C is a drum & bass and jungle artist, with 47 gigs on soundcheck across 
 
 Hector Mamajuana, Christian Bruna, MIZTAH LEX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*

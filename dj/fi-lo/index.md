@@ -1,6 +1,6 @@
 # FI-LO
 
-FI-LO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
+FI-LO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
 
 FI-LO is a house and minimal artist based in United States of America, with 25 gigs on soundcheck across Madrid and New York City. Often billed alongside David Zapata, Jake Korolev and Jean-Paul. Next up: Superior Ingredients, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ FI-LO is a house and minimal artist based in United States of America, with 25 g
 
 David Zapata, Jake Korolev, Jean-Paul
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fi-lo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fi-lo/)*

@@ -1,6 +1,6 @@
 # Løt.te
 
-Løt.te is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
+Løt.te is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Broklyn Loft Location , New York City on Sat, 10 Oct 2026.
 
 Løt.te is an experimental and techno artist, with 7 gigs on soundcheck across New York City. Often billed alongside Kamran Sadeghi, Julia Govor and Emit. Next up: TBA - Secret Broklyn Loft Location , New York City on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Løt.te is an experimental and techno artist, with 7 gigs on soundcheck across N
 
 Kamran Sadeghi, Julia Govor, Emit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotte-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotte-us/)*

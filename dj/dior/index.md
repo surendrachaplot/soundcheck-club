@@ -1,6 +1,6 @@
 # DIØR
 
-DIØR is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+DIØR is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
 DIØR is a hardcore and techno artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Budapest, Glasgow and Warsaw. Often billed alongside Gibby, ALT8 and Andrew Cairns. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DIØR is a hardcore and techno artist based in United Kingdom, with 10 gigs on s
 
 Gibby, ALT8, Andrew Cairns
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dior/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dior/)*

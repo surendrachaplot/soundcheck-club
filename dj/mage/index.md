@@ -1,6 +1,6 @@
 # mage
 
-mage is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at radial, London on Sat, 3 Oct 2026.
+mage is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Sat, 3 Oct 2026.
 
 mage is a bass and techno artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Bristol, Copenhagen and Leeds and 3 more. Often billed alongside Bakey, Breaka and Buckley (UK). Next up: radial, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ mage is a bass and techno artist based in United Kingdom, with 22 gigs on soundc
 
 ## Recently played
 
+- radial, London · Sat, 3 Oct 2026
 - OXI, Berlin · Thu, 9 Jul 2026
 - Exchange, Bristol · Fri, 17 Oct 2025
 - The Old Blue Last, London · Fri, 3 Oct 2025
@@ -19,10 +20,9 @@ mage is a bass and techno artist based in United Kingdom, with 22 gigs on soundc
 - Cross Club, Prague · Fri, 22 Aug 2025
 - The Carpet Shop, London · Fri, 30 May 2025
 - Stage and Radio, Manchester · Fri, 16 May 2025
-- Phonox, London · Fri, 25 Apr 2025
 
 ## Shares bills with
 
 Bakey, Breaka, Buckley (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mage/)*

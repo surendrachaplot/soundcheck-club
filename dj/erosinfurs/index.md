@@ -1,6 +1,6 @@
 # EROS IN FURS
 
-EROS IN FURS is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio dB, Berlin on Tue, 6 Oct 2026.
+EROS IN FURS is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Studio dB, Berlin on Tue, 6 Oct 2026.
 
 EROS IN FURS is a house and ambient artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Jonathan Apelbaum. Next up: Studio dB, Berlin on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ EROS IN FURS is a house and ambient artist based in Germany, with 21 gigs on sou
 
 ADAM MUNNINGS, DJ Petite, Jonathan Apelbaum
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erosinfurs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erosinfurs/)*

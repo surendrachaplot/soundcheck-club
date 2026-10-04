@@ -1,6 +1,6 @@
 # DJ Service
 
-DJ Service is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
+DJ Service is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 DJ Service is a house and electro artist based in Spain, with 57 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Nick (IT) and Quim Clausell. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Service is a house and electro artist based in Spain, with 57 gigs on soundch
 
 CMYK, Nick (IT), Quim Clausell
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*

@@ -1,6 +1,6 @@
 # The Cube Guys
 
-The Cube Guys is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+The Cube Guys is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
 The Cube Guys is a house and tech house artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Mexico City and 4 more. Often billed alongside Nelson Reis, David Penn and Double B. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ The Cube Guys is a house and tech house artist based in Italy, with 14 gigs on s
 
 Nelson Reis, David Penn, Double B
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecubeguys/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecubeguys/)*

@@ -1,6 +1,6 @@
 # Rafa Paella
 
-Rafa Paella is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Promenaden Eck, Berlin on Fri, 6 Nov 2026.
+Rafa Paella is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Promenaden Eck, Berlin on Fri, 6 Nov 2026.
 
 Rafa Paella is a house and disco artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Eren, Mischa and Alexander Paulski. Next up: Promenaden Eck, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rafa Paella is a house and disco artist based in Germany, with 12 gigs on soundc
 
 Eren (2), Mischa (2), Alexander Paulski
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*

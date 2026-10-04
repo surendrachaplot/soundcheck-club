@@ -1,6 +1,6 @@
 # OriaBela
 
-OriaBela is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
+OriaBela is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
 
 OriaBela is a house and afro house artist based in France, with 9 gigs on soundcheck across Amsterdam, Lisbon and London. Often billed alongside Rob Coley, Chris Wheatley and Frederick (UK). Next up: Black Gold, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ OriaBela is a house and afro house artist based in France, with 9 gigs on soundc
 
 Rob Coley, Chris Wheatley, Frederick (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriabela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriabela/)*

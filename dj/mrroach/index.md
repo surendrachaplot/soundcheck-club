@@ -1,6 +1,6 @@
 # Mr Roach
 
-Mr Roach is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Mr Roach is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 Mr Roach is a garage and deep house artist, with 8 gigs on soundcheck across London. Often billed alongside KingCrowney, DJ CARELESS and David Bailey (UK). Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Mr Roach is a garage and deep house artist, with 8 gigs on soundcheck across Lon
 
 KingCrowney, DJ CARELESS, David Bailey (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*

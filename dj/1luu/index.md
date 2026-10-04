@@ -1,6 +1,6 @@
 # 1luu
 
-1luu is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 9 Oct 2026.
+1luu is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 9 Oct 2026.
 
 1luu is a techno and trance artist based in Switzerland, with 103 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 13 more. Often billed alongside Aexhy, DJ Henk and DJ Traytex. Next up: Cabaret  Aléatoire, Marseille on Fri 9 Oct.
 
@@ -27,4 +27,4 @@
 
 Aexhy, DJ Henk, DJ Traytex
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*

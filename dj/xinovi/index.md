@@ -1,6 +1,6 @@
 # XINOVI
 
-XINOVI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+XINOVI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
 XINOVI is a techno and trance artist based in Japan, with 77 gigs on soundcheck across Tokyo. Often billed alongside Daichi Wada, DIV and EVE. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ XINOVI is a techno and trance artist based in Japan, with 77 gigs on soundcheck 
 
 Daichi Wada, DIV, EVE (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinovi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinovi/)*

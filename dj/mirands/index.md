@@ -1,6 +1,6 @@
 # Mirands
 
-Mirands is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+Mirands is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
 Mirands is a house and disco artist based in Brazil, with 39 gigs on soundcheck across Hamburg, Leipzig, Lisbon and London and 2 more. Often billed alongside Rafa Balera, Paulete Lindacelva and BADSISTA. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mirands is a house and disco artist based in Brazil, with 39 gigs on soundcheck 
 
 Rafa Balera, Paulete Lindacelva, BADSISTA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirands/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirands/)*

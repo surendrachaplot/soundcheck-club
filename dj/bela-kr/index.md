@@ -1,6 +1,6 @@
 # bela
 
-bela is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Silent Green, Berlin on Tue, 20 Oct 2026.
+bela is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Silent Green, Berlin on Tue, 20 Oct 2026.
 
 bela is an experimental and club artist based in South Korea, with 51 gigs on soundcheck across Amsterdam, Auckland, Basel and Berlin and 17 more. Often billed alongside Animistic Beliefs, Lord Spikeheart and 2K88. Next up: Silent Green, Berlin on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ bela is an experimental and club artist based in South Korea, with 51 gigs on so
 
 Animistic Beliefs, Lord Spikeheart, 2K88
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bela-kr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bela-kr/)*

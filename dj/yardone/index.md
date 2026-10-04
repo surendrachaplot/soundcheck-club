@@ -1,6 +1,6 @@
 # Yard One
 
-Yard One is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 31 Oct 2026.
+Yard One is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 31 Oct 2026.
 
 Yard One is a house and acid artist based in United Kingdom, with 7 gigs on soundcheck across Bangkok and Manchester. Often billed alongside Means&3rd, Sam The Bastard and Daz Mac. Next up: Eastern Bloc Records, Manchester on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Yard One is a house and acid artist based in United Kingdom, with 7 gigs on soun
 
 Means&3rd, Sam The Bastard, Daz Mac
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yardone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yardone/)*

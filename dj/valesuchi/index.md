@@ -1,6 +1,6 @@
 # Valesuchi
 
-Valesuchi is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
+Valesuchi is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Centro, Rio-de-janeiro on Sat, 10 Oct 2026.
 
 Valesuchi is a techno and experimental artist based in Chile, with 27 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 8 more. Often billed alongside Cashu, Bitter Babe and Clementaum. Next up: TBA - Centro, Rio De Janeiro on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Valesuchi is a techno and experimental artist based in Chile, with 27 gigs on so
 
 Cashu, Bitter Babe, Clementaum
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*

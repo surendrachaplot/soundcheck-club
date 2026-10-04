@@ -1,6 +1,6 @@
 # Marco Baskind
 
-Marco Baskind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Marco Baskind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Marco Baskind is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Surreal (DE), Le.Fu and Antoine Baiser. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Marco Baskind is a techno and house artist based in Germany, with 44 gigs on sou
 
 Surreal (DE), Le.Fu, Antoine Baiser
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaskind/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaskind/)*

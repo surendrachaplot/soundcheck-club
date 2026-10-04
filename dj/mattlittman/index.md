@@ -1,6 +1,6 @@
 # Matt Littman
 
-Matt Littman is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Matt Littman is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Matt Littman is a house and garage artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, London, Manchester and Milan. Often billed alongside Sidney Charles, Stef Davidse and Chopper (UK). Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Matt Littman is a house and garage artist based in United Kingdom, with 10 gigs 
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Distrikt, Leeds · Fri, 12 Jun 2026
 - Basing House, London · Fri, 28 Nov 2025
 - Tunnel, Milan · Fri, 14 Nov 2025
@@ -19,10 +20,9 @@ Matt Littman is a house and garage artist based in United Kingdom, with 10 gigs 
 - Studio 338, London · Tue, 31 Dec 2024
 - Rumors Brentwood, London · Sat, 14 Dec 2024
 - 93 Feet East, London · Sat, 25 Nov 2023
-- HWK: The Lot, London · Sun, 3 Sept 2023
 
 ## Shares bills with
 
 Sidney Charles, Stef Davidse, Chopper (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlittman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattlittman/)*

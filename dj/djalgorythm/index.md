@@ -1,6 +1,6 @@
 # Dj Algorythm
 
-Dj Algorythm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
+Dj Algorythm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
 
 Dj Algorythm is a techno and house artist based in Denmark, with 44 gigs on soundcheck across Copenhagen and Rotterdam. Often billed alongside Britney Speed, Schacke and Johannes Astrup. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dj Algorythm is a techno and house artist based in Denmark, with 44 gigs on soun
 
 Britney Speed, Schacke, Johannes Astrup
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalgorythm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalgorythm/)*

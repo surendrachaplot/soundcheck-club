@@ -1,6 +1,6 @@
 # Pearlz
 
-Pearlz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ramona, Manchester on Sat, 31 Oct 2026.
+Pearlz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ramona, Manchester on Sat, 31 Oct 2026.
 
 Pearlz is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Bristol and Manchester. Often billed alongside Leaha, blo rida and Charley Bolton. Next up: Ramona, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pearlz is a techno and house artist based in United Kingdom, with 17 gigs on sou
 
 Leaha, blo rida, Charley Bolton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearlz/)*

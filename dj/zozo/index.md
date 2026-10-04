@@ -1,6 +1,6 @@
 # Zozo
 
-Zozo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
+Zozo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
 Zozo is a techno and house artist based in Turkey, with 36 gigs on soundcheck across Amsterdam, Auckland, Belgrade and Berlin and 9 more. Often billed alongside Diamin, Ece Özel and Sound Metaphors Djs. Next up: The 1896, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Zozo is a techno and house artist based in Turkey, with 36 gigs on soundcheck ac
 
 Diamin, Ece Özel, Sound Metaphors Djs
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*

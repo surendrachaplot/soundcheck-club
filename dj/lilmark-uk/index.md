@@ -1,6 +1,6 @@
 # Lil Mark
 
-Lil Mark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
+Lil Mark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pikes Ibiza, Ibiza on Fri, 23 Oct 2026.
 
 Lil Mark is a house and techno artist, with 9 gigs on soundcheck across Bristol, Edinburgh, Ibiza and London and 1 more. Often billed alongside Justin Harris, Bart Ricardo and Grace Sands. Next up: Pikes Ibiza, Ibiza on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lil Mark is a house and techno artist, with 9 gigs on soundcheck across Bristol,
 
 Justin Harris, Bart Ricardo, Grace Sands
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmark-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmark-uk/)*

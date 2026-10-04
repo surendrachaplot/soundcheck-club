@@ -1,6 +1,6 @@
 # Larizzle
 
-Larizzle is a Amapiano and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Brixton Jamm, London on Fri, 16 Oct 2026.
+Larizzle is a Amapiano and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Brixton Jamm, London on Fri, 16 Oct 2026.
 
 Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside Juls, Papu Raf and Duo. Next up: Brixton Jamm, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Larizzle is an amapiano and afrobeat artist based in United Kingdom, with 32 gig
 
 Juls, Papu Raf, Duo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*

@@ -1,6 +1,6 @@
 # Karyendasoul
 
-Karyendasoul is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Karyendasoul is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Karyendasoul is an afro house and deep house artist based in South Africa, with 14 gigs on soundcheck across Amsterdam, Lisbon, London and Malta and 2 more. Often billed alongside Meedy, Rancido and DJ BREYTH. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Karyendasoul is an afro house and deep house artist based in South Africa, with 
 
 Meedy, Rancido, DJ BREYTH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karyendasoul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karyendasoul/)*

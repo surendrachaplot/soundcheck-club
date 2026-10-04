@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Small Great House 'Garden Closing 2026' (Open Air + Indoor)" on Sat, 3 Oct 2026.
+OXI is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Small Great House 'Garden Closing 2026' (Open Air + Indoor)" on Sat, 3 Oct 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Aero, Alexa Fluor, Amo (IT) and Ana Molina and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

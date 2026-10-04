@@ -1,6 +1,6 @@
 # DJ PLANE-SPOTTER
 
-DJ PLANE-SPOTTER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+DJ PLANE-SPOTTER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
 DJ PLANE-SPOTTER is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh. Often billed alongside CLEAR UK, JDJ and Christian Rogers. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ PLANE-SPOTTER is a house and tech house artist based in United Kingdom, with 
 
 CLEAR UK, JDJ (1), Christian Rogers
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplane-spotter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplane-spotter/)*

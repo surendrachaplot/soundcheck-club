@@ -1,6 +1,6 @@
 # Pattn
 
-Pattn is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 3 Oct 2026.
+Pattn is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 3 Oct 2026.
 
 Pattn is a house and techno artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Brighton and London and 4 more. Often billed alongside Hardt Antoine, Lyalla and Sahar. Next up: fabric, London on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Pattn is a house and techno artist based in United Kingdom, with 42 gigs on soun
 
 ## Recently played
 
+- fabric, London · Sat, 3 Oct 2026
 - E1, London · Fri, 3 Jul 2026
 - Kater, Berlin · Fri, 5 Jun 2026
 - Village Underground, London · Fri, 6 Mar 2026
@@ -21,10 +22,9 @@ Pattn is a house and techno artist based in United Kingdom, with 42 gigs on soun
 - Bar Oriente, Mexico City · Fri, 7 Nov 2025
 - Kater, Berlin · Sat, 11 Oct 2025
 - fabric, London · Sat, 23 Aug 2025
-- Club Cheek, London · Fri, 11 Jul 2025
 
 ## Shares bills with
 
 Hardt Antoine, Lyalla, Sahar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pattn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pattn/)*

@@ -1,6 +1,6 @@
 # A/PM
 
-A/PM is a Bass and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+A/PM is a Bass and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 A/PM is a bass and italo disco artist based in Czech Republic, with 7 gigs on soundcheck across Prague. Often billed alongside Powder Ranger, Mother Menace and Chromic Disease. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ A/PM is a bass and italo disco artist based in Czech Republic, with 7 gigs on so
 
 Powder Ranger, Mother Menace, Chromic Disease
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apm/)*

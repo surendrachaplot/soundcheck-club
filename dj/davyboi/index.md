@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
+davyboi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
 davyboi is a techno and trance artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
@@ -36,4 +36,4 @@ davyboi is a techno and trance artist based in Germany, with 170 gigs on soundch
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

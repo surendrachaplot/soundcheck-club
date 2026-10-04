@@ -1,6 +1,6 @@
 # Niara Sterling
 
-Niara Sterling is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at House of Yes, New York City on Sat, 10 Oct 2026.
+Niara Sterling is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at House of Yes, New York City on Sat, 10 Oct 2026.
 
 Niara Sterling is a house and afro house artist based in United States of America, with 44 gigs on soundcheck across New York City and Washington DC. Often billed alongside Meedy, pizzi and Cosmo (NY). Next up: House of Yes, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Niara Sterling is a house and afro house artist based in United States of Americ
 
 Meedy, pizzi, Cosmo (NY)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niarasterling/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niarasterling/)*

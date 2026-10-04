@@ -1,6 +1,6 @@
 # Mike Nervous
 
-Mike Nervous is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Negroni Bistro & Sushi Bar, Miami on Thu, 15 Oct 2026.
+Mike Nervous is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Negroni Bistro & Sushi Bar, Miami on Thu, 15 Oct 2026.
 
 Mike Nervous is a house and afro house artist based in United States of America, with 44 gigs on soundcheck across Berlin, Detroit, Ibiza and Miami and 3 more. Often billed alongside Benny Soto, Lazaro Casanova and Oscar G. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Mike Nervous is a house and afro house artist based in United States of America,
 
 Benny Soto, Lazaro Casanova, Oscar G
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

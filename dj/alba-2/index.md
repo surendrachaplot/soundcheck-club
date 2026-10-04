@@ -1,6 +1,6 @@
 # Alba (2)
 
-Alba (2) is a Club and Jazz artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Yamamori Tengu, Dublin on Tue, 20 Oct 2026.
+Alba (2) is a Club and Jazz artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yamamori Tengu, Dublin on Tue, 20 Oct 2026.
 
 Alba is a club and jazz artist based in Spain, with 24 gigs on soundcheck across Berlin, Copenhagen, Cork and Dublin and 3 more. Often billed alongside Tadhg K, Síofra and Cathy Flynn. Next up: Yamamori Tengu, Dublin on Tue 20 Oct.
 
@@ -27,4 +27,4 @@ Alba is a club and jazz artist based in Spain, with 24 gigs on soundcheck across
 
 Tadhg K, Síofra, Cathy Flynn
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-2/)*

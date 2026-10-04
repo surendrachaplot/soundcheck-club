@@ -1,6 +1,6 @@
 # Disthene
 
-Disthene is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Handlebar, Toronto on Sat, 10 Oct 2026.
+Disthene is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Handlebar, Toronto on Sat, 10 Oct 2026.
 
 Disthene is a bass and club artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside Stella Maise, ESCOBUTT and GRRLCRRSH. Next up: Handlebar, Toronto on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Disthene is a bass and club artist based in Canada, with 22 gigs on soundcheck a
 
 Stella Maise, ESCOBUTT, GRRLCRRSH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disthene/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disthene/)*

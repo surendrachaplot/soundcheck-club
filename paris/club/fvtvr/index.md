@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST" on Sat, 3 Oct 2026.
+Fvtvr is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST" on Sat, 3 Oct 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -19,4 +19,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

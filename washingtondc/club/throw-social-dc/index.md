@@ -1,6 +1,6 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LOST MIRACLE - Sébastien Léger - Roy Rosenfeld" on Sat, 3 Oct 2026.
+Throw Social DC is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LOST MIRACLE - Sébastien Léger - Roy Rosenfeld" on Sat, 3 Oct 2026.
 
 Throw Social DC is a music venue in Washington DC listed on soundcheck. 5 upcoming gigs, with line-ups including Roy Rosenfeld. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
@@ -18,4 +18,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 5 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

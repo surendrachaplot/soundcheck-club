@@ -1,6 +1,6 @@
 # KRISHAWN
 
-KRISHAWN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
+KRISHAWN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
 KRISHAWN is a house and tech house artist based in Bahamas, with 18 gigs on soundcheck across Berlin, New York City and Toronto. Often billed alongside Psi, Sophie Jones and Kamal (CA). Next up: TBA, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ KRISHAWN is a house and tech house artist based in Bahamas, with 18 gigs on soun
 
 Psi (1), Sophie Jones, Kamal (CA)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krishawn1992/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krishawn1992/)*

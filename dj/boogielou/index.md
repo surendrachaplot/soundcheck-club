@@ -1,6 +1,6 @@
 # boogielou
 
-boogielou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
+boogielou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Unit 58, London on Sat, 31 Oct 2026.
 
 boogielou is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Brighton and London. Often billed alongside Jamie Ardor, T!SCO and Adam Romo. Next up: Unit 58, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ boogielou is a house and disco artist based in United Kingdom, with 10 gigs on s
 
 Jamie Ardor, T!SCO, Adam Romo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*

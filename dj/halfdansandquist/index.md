@@ -1,6 +1,6 @@
 # Halfdan Sandquist
 
-Halfdan Sandquist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
+Halfdan Sandquist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
 Halfdan Sandquist is a techno and house artist based in Denmark, with 24 gigs on soundcheck across Copenhagen. Often billed alongside DJ Dopamina, Adam Eisert and Anna Logic. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Halfdan Sandquist is a techno and house artist based in Denmark, with 24 gigs on
 
 DJ Dopamina, Adam Eisert, Anna Logic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfdansandquist/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfdansandquist/)*

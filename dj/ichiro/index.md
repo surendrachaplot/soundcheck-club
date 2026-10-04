@@ -1,6 +1,6 @@
 # Ichiro
 
-Ichiro is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Sat, 10 Oct 2026.
+Ichiro is a Hip-Hop and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at clubasia, Tokyo on Sat, 10 Oct 2026.
 
 Ichiro is a hip-hop and footwork artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside TAICHO a.k.a. N.A.R.U, dj yui and Can. Next up: clubasia, Tokyo on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Ichiro is a hip-hop and footwork artist based in Japan, with 7 gigs on soundchec
 
 TAICHO a.k.a. N.A.R.U, dj yui, Can (8)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ichiro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ichiro/)*

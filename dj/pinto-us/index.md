@@ -1,6 +1,6 @@
 # Pinto (US)
 
-Pinto (US) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+Pinto (US) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
 Pinto (US) is a house and disco artist based in United States of America, with 29 gigs on soundcheck across Chicago, Detroit, Los Angeles and Melbourne and 7 more. Often billed alongside ARTST, Said Dami and Darius Syrossian. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pinto (US) is a house and disco artist based in United States of America, with 2
 
 ARTST, Said Dami, Darius Syrossian
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinto-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinto-us/)*

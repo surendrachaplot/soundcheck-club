@@ -1,6 +1,6 @@
 # Greifswalder Straße 23a
 
-Greifswalder Straße 23a is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Halloween Party - The Abandoned Factory Pt. 1" on Fri, 30 Oct 2026.
+Greifswalder Straße 23a is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Halloween Party - The Abandoned Factory Pt. 1" on Fri, 30 Oct 2026.
 
 Greifswalder Straße 23a is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Greifswalder Straße 23a, 10407 Berlin, Deutschland.
 
@@ -16,4 +16,4 @@ Greifswalder Straße 23a is a music venue in Berlin listed on soundcheck. 3 upco
 
 Greifswalder Straße 23a, 10407 Berlin, Deutschland, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/greifswalder-stra-e-23a/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/greifswalder-stra-e-23a/)*

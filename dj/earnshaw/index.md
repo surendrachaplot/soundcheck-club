@@ -1,6 +1,6 @@
 # Earnshaw
 
-Earnshaw is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
+Earnshaw is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
 
 Earnshaw is a tech house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Aberdeen and London. Often billed alongside Marco Savo, Alan Paddy and Calvin Earnshaw. Next up: Tola, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Earnshaw is a tech house and techno artist based in United Kingdom, with 6 gigs 
 
 Marco Savo, Alan Paddy, Calvin Earnshaw
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earnshaw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earnshaw/)*

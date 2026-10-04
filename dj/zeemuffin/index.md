@@ -1,6 +1,6 @@
 # ZEEMUFFIN
 
-ZEEMUFFIN is a Hip-Hop and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
+ZEEMUFFIN is a Hip-Hop and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sun, 8 Nov 2026.
 
 ZEEMUFFIN is a hip-hop and club artist based in United States of America, with 38 gigs on soundcheck across Chicago, Copenhagen, Hong Kong and London and 9 more. Often billed alongside MNSA, Nadim Maghzal and Arianna Danae. Next up: public records, New York City on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ ZEEMUFFIN is a hip-hop and club artist based in United States of America, with 3
 
 MNSA, Nadim Maghzal, Arianna Danae
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemuffin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemuffin/)*

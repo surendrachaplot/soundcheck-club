@@ -1,6 +1,6 @@
 # Nick Clev
 
-Nick Clev is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Nick Clev is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Nick Clev is a house and garage artist based in United Kingdom, with 43 gigs on soundcheck across London. Often billed alongside Sam Beach, Michelle Manetti and ASHTREY. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nick Clev is a house and garage artist based in United Kingdom, with 43 gigs on 
 
 Sam Beach, Michelle Manetti, ASHTREY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*

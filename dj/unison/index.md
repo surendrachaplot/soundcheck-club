@@ -1,6 +1,6 @@
 # Uni Son
 
-Uni Son is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
+Uni Son is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
 
 Uni Son is a house and disco artist based in Spain, with 15 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Timmerman, gguusstt and AliA. Next up: Funke, Ghent on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Uni Son is a house and disco artist based in Spain, with 15 gigs on soundcheck a
 
 Timmerman, gguusstt, AliA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unison/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unison/)*

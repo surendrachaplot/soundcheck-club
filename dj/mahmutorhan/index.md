@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Eventpyramide Vösendorf, Austria on Sat, 3 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Eventpyramide Vösendorf, Austria on Sat, 3 Oct 2026.
 
 Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Shimza and ARODES. Next up: Eventpyramide Vösendorf, Austria on Sat 3 Oct.
 
@@ -23,17 +23,17 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 132 gigs on 
 
 ## Recently played
 
+- Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
+- Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
 - Klein Phönix, Istanbul · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 28 Sept 2026
 - FOMO, Azerbaijan · Sat, 26 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 12 Sept 2026
 - Chinois Ibiza, Ibiza · Fri, 11 Sept 2026
 - UNO MALTA, Malta · Fri, 28 Aug 2026
-- UNO MALTA, Malta · Fri, 28 Aug 2026
-- Chinois Ibiza, Ibiza · Wed, 26 Aug 2026
 
 ## Shares bills with
 
 Francis Mercier, Shimza, ARODES
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

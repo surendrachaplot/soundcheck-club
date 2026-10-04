@@ -1,6 +1,6 @@
 # Aline (CH)
 
-Aline (CH) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
+Aline (CH) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
 
 Aline (CH) is a house and minimal artist based in Switzerland, with 51 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 2 more. Often billed alongside Flavio (CH), Aron (CH) and Ion Ludwig. Next up: Supermarket, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Aline (CH) is a house and minimal artist based in Switzerland, with 51 gigs on s
 
 Flavio (CH), Aron (CH), Ion Ludwig
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aline-ch/)*

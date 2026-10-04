@@ -1,6 +1,6 @@
 # 22 Interns
 
-22 Interns is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 16 Oct 2026.
+22 Interns is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 16 Oct 2026.
 
 22 Interns is a house and trance artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside AUTOFLOWER, Rozie and Benny Rodrigues. Next up: Complex Maastricht, Netherlands on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 AUTOFLOWER, Rozie, Benny Rodrigues
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/22interns/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/22interns/)*

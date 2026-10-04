@@ -1,6 +1,6 @@
 # E. Alexander
 
-E. Alexander is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
+E. Alexander is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 E. Alexander is a house and tech house artist based in United Kingdom, with 55 gigs on soundcheck across Brighton, Edinburgh, Hamburg and London. Often billed alongside Trixie (UK), Jake Hodgkinson and Alien Communications. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ E. Alexander is a house and tech house artist based in United Kingdom, with 55 g
 
 Trixie (UK), Jake Hodgkinson, Alien Communications
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*

@@ -1,6 +1,6 @@
 # Kasumisty
 
-Kasumisty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at VENT, Tokyo on Fri, 16 Oct 2026.
+Kasumisty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at VENT, Tokyo on Fri, 16 Oct 2026.
 
 Kasumisty is a house and techno artist based in Japan, with 40 gigs on soundcheck across Tokyo. Often billed alongside Da Yama, tnseei and Hayato. Next up: VENT, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kasumisty is a house and techno artist based in Japan, with 40 gigs on soundchec
 
 Da Yama, tnseei, Hayato
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasumisty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasumisty/)*

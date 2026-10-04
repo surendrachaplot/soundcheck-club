@@ -1,6 +1,6 @@
 # marimari
 
-marimari is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at New Cross Inn, London on Thu, 29 Oct 2026.
+marimari is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at New Cross Inn, London on Thu, 29 Oct 2026.
 
 marimari is a techno and industrial artist based in Japan, with 31 gigs on soundcheck across Liverpool, London and Tokyo. Often billed alongside Akiko Iwahara, Kaori Watt and Kiyoyuki Kanno. Next up: New Cross Inn, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ marimari is a techno and industrial artist based in Japan, with 31 gigs on sound
 
 Akiko Iwahara, Kaori Watt, Kiyoyuki Kanno
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marimari/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marimari/)*

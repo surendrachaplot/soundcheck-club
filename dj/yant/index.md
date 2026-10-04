@@ -1,6 +1,6 @@
 # Yant
 
-Yant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+Yant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
 Yant is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Yant is a techno and house artist based in United Kingdom, with 76 gigs on sound
 
 Setaoc Mass, Blasha & Allatt, Aletha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*

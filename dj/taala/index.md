@@ -1,6 +1,6 @@
 # TAALA
 
-TAALA is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
+TAALA is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
 
 TAALA is an electronica and deep house artist based in Switzerland, with 34 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Sascha Stohler, Don Son and Sascha Braemer. Next up: Nordstern, Basel on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TAALA is an electronica and deep house artist based in Switzerland, with 34 gigs
 
 Sascha Stohler, Don Son, Sascha Braemer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taala/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taala/)*

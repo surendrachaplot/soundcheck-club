@@ -1,6 +1,6 @@
 # HORNS (1)
 
-HORNS (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
+HORNS (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
 
 HORNS is a techno and trance artist, with 40 gigs on soundcheck across Amsterdam, Copenhagen, Detroit and Hamburg and 3 more. Often billed alongside Seqta, Neri J and Matriark. Next up: Kasematte 20, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ HORNS is a techno and trance artist, with 40 gigs on soundcheck across Amsterdam
 
 Seqta, Neri J, Matriark
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horns-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horns-1/)*

@@ -1,6 +1,6 @@
 # ｎｏｎｏｋａ
 
-ｎｏｎｏｋａ is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spread, Tokyo on Fri, 9 Oct 2026.
+ｎｏｎｏｋａ is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spread, Tokyo on Fri, 9 Oct 2026.
 
 ｎｏｎｏｋａ is a bass and pop artist, with 18 gigs on soundcheck across Seoul and Tokyo. Often billed alongside MELEETIME, MUNÉO and NordOst. Next up: Spread, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@
 
 MELEETIME, MUNÉO, NordOst
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonoka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonoka/)*

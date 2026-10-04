@@ -1,6 +1,6 @@
 # Bobo
 
-Bobo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Liquidate, Manchester on Fri, 30 Oct 2026.
+Bobo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Liquidate, Manchester on Fri, 30 Oct 2026.
 
 Bobo is a house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Glasgow, Manchester, Melbourne and Mexico City and 1 more. Often billed alongside Animaux, Wild Forts and AMIRA. Next up: Liquidate, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bobo is a house and techno artist based in United Kingdom, with 14 gigs on sound
 
 Animaux, Wild Forts, AMIRA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobo/)*

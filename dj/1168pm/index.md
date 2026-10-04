@@ -1,6 +1,6 @@
 # 11:68PM
 
-11:68PM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
+11:68PM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
 
 11:68PM is a house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Lyon and Vienna. Often billed alongside Candy Jones, Ateş Sönmez and Saber. Next up: Paloma, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 Candy Jones, Ateş Sönmez, Saber (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1168pm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1168pm/)*

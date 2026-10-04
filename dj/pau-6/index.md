@@ -1,6 +1,6 @@
 # PAU (6)
 
-PAU (6) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+PAU (6) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 PAU is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Basel, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Polytoxic, A.T.E.K and DJ Cringey. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PAU is a techno and trance artist based in Germany, with 38 gigs on soundcheck a
 
 Polytoxic, A.T.E.K, DJ Cringey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*

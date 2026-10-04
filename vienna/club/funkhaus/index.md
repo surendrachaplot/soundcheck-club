@@ -1,6 +1,6 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Club Casa X Motion Blur" on Sat, 3 Oct 2026.
+Funkhaus is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club Casa X Motion Blur" on Sat, 3 Oct 2026.
 
 Funkhaus is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Gerd Janson, Kyli Kaos, Malounadou and Marc Sker and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with 
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

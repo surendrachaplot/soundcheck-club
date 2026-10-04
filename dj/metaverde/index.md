@@ -1,6 +1,6 @@
 # metaverde
 
-metaverde is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
+metaverde is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
 
 metaverde is a house and breakbeat artist based in Germany, with 36 gigs on soundcheck across Berlin. Often billed alongside Vio PRG, Enchanted Rhythms and Alexandra. Next up: Hoppetosse, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ metaverde is a house and breakbeat artist based in Germany, with 36 gigs on soun
 
 Vio PRG, Enchanted Rhythms, Alexandra
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*

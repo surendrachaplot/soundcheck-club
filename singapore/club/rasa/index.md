@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RASA presents Lil' Louis (The Founding Father Of House)" on Fri, 9 Oct 2026.
+RASA is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RASA presents Lil' Louis (The Founding Father Of House)" on Fri, 9 Oct 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including Alam, Erwin Linden, Lee Burridge and Lil' Louis and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ RASA is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with l
 | Fri, 30 Oct 2026 | RASA x The Deep End presents Temple of Dance with Patrice Bäumel | Patrice Bäumel |
 | Sat, 7 Nov 2026 | Lee Burridge - Singapore 2026 | Lee Burridge |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

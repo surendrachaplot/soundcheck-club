@@ -1,6 +1,6 @@
 # Kevin Kinembe
 
-Kevin Kinembe is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Kevin Kinembe is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
 Kevin Kinembe is an afro house and house artist based in Belgium, with 5 gigs on soundcheck across Amsterdam, Antwerp and Ibiza. Often billed alongside Jana Vitiligo, Secret Soda and MELLA MARA. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Kevin Kinembe is an afro house and house artist based in Belgium, with 5 gigs on
 
 Jana Vitiligo, Secret Soda, MELLA MARA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkinembe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkinembe/)*

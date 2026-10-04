@@ -1,19 +1,19 @@
 # Ben Zo
 
-Ben Zo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Windrush Bar / Pequeño Restaurant & Bar, London on Sat, 3 Oct 2026.
+Ben Zo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SILO, New York City on Thu, 22 Oct 2026.
 
-Ben Zo is a techno and house artist based in Philippines, with 143 gigs on soundcheck across Cologne, Dundee, Ghent and Leipzig and 4 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: Windrush Bar / Pequeño Restaurant & Bar, London on Sat 3 Oct.
+Ben Zo is a techno and house artist based in Philippines, with 143 gigs on soundcheck across Cologne, Dundee, Ghent and Leipzig and 4 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: SILO, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Windrush Bar / Pequeño Restaurant & Bar | London |
 | Thu, 22 Oct 2026 | SILO | New York City |
 | Sun, 1 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
+- Windrush Bar / Pequeño Restaurant & Bar, London · Sat, 3 Oct 2026
 - Bossa Nova Civic Club, New York City · Sun, 6 Sept 2026
 - The Gutter, New York City · Sat, 29 Aug 2026
 - TBA - XTC BUSHWICK (1277 Flushing Ave) , New York City · Thu, 16 Jul 2026
@@ -21,10 +21,9 @@ Ben Zo is a techno and house artist based in Philippines, with 143 gigs on sound
 - Happyfun Hideaway, New York City · Thu, 2 Jul 2026
 - Dada, New York City · Wed, 10 Jun 2026
 - Happyfun Hideaway, New York City · Sat, 23 May 2026
-- Pianos, New York City · Fri, 15 May 2026
 
 ## Shares bills with
 
 cruz ctrl, STEEN, David Lunch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*

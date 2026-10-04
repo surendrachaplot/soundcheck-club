@@ -1,6 +1,6 @@
 # Sabo
 
-Sabo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+Sabo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
 Sabo is a house and deep house artist based in United States of America, with 59 gigs on soundcheck across Austin, Berlin, Chicago and Denver and 14 more. Often billed alongside Goldcap, ELIF and SATICA. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ Sabo is a house and deep house artist based in United States of America, with 59
 
 Goldcap, ELIF, SATICA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*

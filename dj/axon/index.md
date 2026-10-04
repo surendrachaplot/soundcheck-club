@@ -1,6 +1,6 @@
 # Axon
 
-Axon is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
+Axon is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
 Axon is a house and bass artist, with 12 gigs on soundcheck across Brighton, Liverpool, London and Mexico City and 3 more. Often billed alongside SAKO, Double Bass Burgers and MOOTOE. Next up: All is Joy Studios, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Axon is a house and bass artist, with 12 gigs on soundcheck across Brighton, Liv
 
 SAKO, Double Bass Burgers, MOOTOE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axon/)*

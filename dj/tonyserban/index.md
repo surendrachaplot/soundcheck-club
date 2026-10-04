@@ -1,6 +1,6 @@
 # Tony Serban
 
-Tony Serban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Altrove, Milan on Sat, 10 Oct 2026.
+Tony Serban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Altrove, Milan on Sat, 10 Oct 2026.
 
 Tony Serban is a house and minimal artist based in United States of America, with 15 gigs on soundcheck across Bangkok, London, Miami and Milan and 1 more. Often billed alongside Rakim Under, BabyBass and Karnak On Acid. Next up: Altrove, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tony Serban is a house and minimal artist based in United States of America, wit
 
 Rakim Under, BabyBass, Karnak On Acid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*

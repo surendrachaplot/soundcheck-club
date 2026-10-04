@@ -1,6 +1,6 @@
 # John O'Callaghan
 
-John O'Callaghan is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
+John O'Callaghan is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
 
 John O'Callaghan is a trance and techno artist based in Ireland, with 33 gigs on soundcheck across Bangkok, Bristol, Buenos Aires and Chicago and 15 more. Often billed alongside Aly & Fila, Paul Van Dyk and Ferry Corsten. Next up: O2 Academy, Glasgow on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ John O'Callaghan is a trance and techno artist based in Ireland, with 33 gigs on
 
 Aly & Fila, Paul Van Dyk, Ferry Corsten
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*

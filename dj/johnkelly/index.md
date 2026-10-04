@@ -1,6 +1,6 @@
 # John Kelly
 
-John Kelly is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at WaV, Liverpool on Mon, 28 Dec 2026.
+John Kelly is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at WaV, Liverpool on Mon, 28 Dec 2026.
 
 John Kelly is a house and acid artist based in United Kingdom, with 16 gigs on soundcheck across Birmingham, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside Jeremy Healy, Judge Jules and Ben Santiago. Next up: WaV, Liverpool on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ John Kelly is a house and acid artist based in United Kingdom, with 16 gigs on s
 
 Jeremy Healy, Judge Jules, Ben Santiago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkelly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkelly/)*

@@ -1,6 +1,6 @@
 # Jordan Diston
 
-Jordan Diston is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
+Jordan Diston is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Movers, Nottingham on Sat, 28 Nov 2026.
 
 Jordan Diston is a house and minimal artist, with 16 gigs on soundcheck across Birmingham, Leeds, London and Manchester and 4 more. Often billed alongside Scott Streak, Lily C-D and Mica (UK). Next up: Movers, Nottingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jordan Diston is a house and minimal artist, with 16 gigs on soundcheck across B
 
 Scott Streak, Lily C-D, Mica (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordandiston/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordandiston/)*

@@ -1,6 +1,6 @@
 # Wesley Jay
 
-Wesley Jay is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cottons Club - Hoxton, London on Sun, 4 Oct 2026.
+Wesley Jay is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cottons Club - Hoxton, London on Sun, 4 Oct 2026.
 
 Wesley Jay is a garage and jungle artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Bailey (UK), Booker T and Carlos Aries. Next up: The Cottons Club - Hoxton, London on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ Wesley Jay is a garage and jungle artist based in United Kingdom, with 7 gigs on
 
 Bailey (UK), Booker T, Carlos Aries
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyjay-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyjay-uk/)*

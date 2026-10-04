@@ -1,6 +1,6 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at public records, New York City on Sat, 10 Oct 2026.
+Colored Craig is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sat, 10 Oct 2026.
 
 Colored Craig is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: public records, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Colored Craig is a house and techno artist based in United States of America, wi
 
 Kilopatrah Jones, Sevyn, Ashley Younniä
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*

@@ -1,6 +1,6 @@
 # Phokus
 
-Phokus is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+Phokus is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Phokus is a bass and dubstep artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Der Vinylizer, TheNext and Doc Bader. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Phokus is a bass and dubstep artist based in Germany, with 17 gigs on soundcheck
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - Golden Pudel Club, Hamburg · Sun, 9 Aug 2026
 - Golden Pudel Club, Hamburg · Sun, 19 Apr 2026
 - Golden Pudel Club, Hamburg · Sun, 21 Dec 2025
@@ -19,10 +20,9 @@ Phokus is a bass and dubstep artist based in Germany, with 17 gigs on soundcheck
 - Hochwasserbassin Hammerbrook, Hamburg · Sat, 5 Jul 2025
 - Golden Pudel Club, Hamburg · Sun, 27 Apr 2025
 - Hafenklang, Hamburg · Sat, 14 Dec 2024
-- Hafenklang, Hamburg · Sat, 12 Oct 2024
 
 ## Shares bills with
 
 Der Vinylizer, TheNext, Doc Bader
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phokus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phokus/)*

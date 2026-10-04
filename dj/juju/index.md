@@ -1,6 +1,6 @@
 # Juju
 
-Juju is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Juju is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Juju is a house and deep house artist based in Ireland, with 17 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 5 more. Often billed alongside Electric Field, Tamara Lanza and Jaygee. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Juju is a house and deep house artist based in Ireland, with 17 gigs on soundche
 
 Electric Field, Tamara Lanza, Jaygee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juju/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juju/)*

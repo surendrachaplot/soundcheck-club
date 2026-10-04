@@ -1,6 +1,6 @@
 # Gils Promor
 
-Gils Promor is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Gils Promor is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 Gils Promor is a tech house and minimal artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Joshi Shawn, HOTBOX COLLECTIVE and Nindo. Next up: MeWe Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gils Promor is a tech house and minimal artist based in Netherlands, with 11 gig
 
 Joshi Shawn, HOTBOX COLLECTIVE, Nindo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilspromor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilspromor/)*

@@ -1,6 +1,6 @@
 # Onirik
 
-Onirik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Onirik is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
 Onirik is a house and techno artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside GNMR, Karine and Ancut. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Onirik is a house and techno artist based in Germany, with 69 gigs on soundcheck
 
 GNMR, Karine, Ancut
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onirik/)*

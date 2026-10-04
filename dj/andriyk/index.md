@@ -1,6 +1,6 @@
 # Andriy K.
 
-Andriy K. is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Silent Green, Berlin on Sat, 17 Oct 2026.
+Andriy K. is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Silent Green, Berlin on Sat, 17 Oct 2026.
 
 Andriy K. is an ambient and experimental artist based in Ukraine, with 79 gigs on soundcheck across Amsterdam, Basel, Berlin and Krakow and 10 more. Often billed alongside AXT, endléa and BLUME. Next up: Silent Green, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Andriy K. is an ambient and experimental artist based in Ukraine, with 79 gigs o
 
 AXT, endléa, BLUME
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*

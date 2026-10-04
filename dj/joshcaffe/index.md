@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
+Josh Caffé is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Green Room NYC, New York City on Sat, 3 Oct 2026.
 
 Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 39 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Green Room NYC, New York City on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs 
 
 ## Recently played
 
+- Green Room NYC, New York City · Sat, 3 Oct 2026
 - Green Room NYC, New York City · Fri, 2 Oct 2026
 - Kilomètre25, Paris · Sat, 26 Sept 2026
 - Lux Fragil, Lisbon · Sat, 19 Sept 2026
@@ -27,10 +28,9 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 156 gigs 
 - Kelvedon Hall, London · Fri, 14 Aug 2026
 - The White Hotel, Manchester · Sun, 9 Aug 2026
 - CLUB RAUM, Amsterdam · Sat, 1 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

@@ -1,6 +1,6 @@
 # Lady Lykez
 
-Lady Lykez is a Dancehall and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sankt Bartlmä, Halle 6, Innsbruck, Austria on Thu, 22 Oct 2026.
+Lady Lykez is a Dancehall and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sankt Bartlmä, Halle 6, Innsbruck, Austria on Thu, 22 Oct 2026.
 
 Lady Lykez is a dancehall and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Austria, London, Munich and Utrecht. Often billed alongside Calibre, Objekt and SICARIA. Next up: Sankt Bartlmä, Halle 6, Innsbruck, Austria on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Lady Lykez is a dancehall and jungle artist based in United Kingdom, with 8 gigs
 
 Calibre, Objekt, SICARIA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylykez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylykez/)*

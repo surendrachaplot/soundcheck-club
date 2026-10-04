@@ -1,6 +1,6 @@
 # Jose Macabra
 
-Jose Macabra is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
+Jose Macabra is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
 
 Jose Macabra is an experimental and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Beau Beaumont, Bionisamp and Corpus Replica. Next up: International Anthony Burgess Foundation, Manchester on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Jose Macabra is an experimental and electronica artist based in United Kingdom, 
 
 Beau Beaumont, Bionisamp, Corpus Replica
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemacabra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemacabra/)*

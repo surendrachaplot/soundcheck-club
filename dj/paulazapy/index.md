@@ -1,6 +1,6 @@
 # PAULA ZAPY
 
-PAULA ZAPY is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+PAULA ZAPY is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 PAULA ZAPY is a techno and electronica artist based in Spain, with 52 gigs on soundcheck across Barcelona and Madrid. Often billed alongside TEEMON&POOMBA, Null Pointer and Luska. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ PAULA ZAPY is a techno and electronica artist based in Spain, with 52 gigs on so
 
 TEEMON&POOMBA, Null Pointer, Luska
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*

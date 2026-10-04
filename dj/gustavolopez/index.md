@@ -1,6 +1,6 @@
 # Gustavo Lopez
 
-Gustavo Lopez is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Moog Club, Barcelona on Sun, 4 Oct 2026.
+Gustavo Lopez is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Moog Club, Barcelona on Sun, 4 Oct 2026.
 
 Gustavo Lopez is a techno and electronica artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside Gato, Miguel Silva and Civaro. Next up: Moog Club, Barcelona on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Gustavo Lopez is a techno and electronica artist based in Spain, with 19 gigs on
 
 Gato, Miguel Silva, Civaro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*

@@ -1,6 +1,6 @@
 # Black Francis
 
-Black Francis is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 17 Oct 2026.
+Black Francis is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Muziekcentrum Kinky Star, Ghent on Sat, 17 Oct 2026.
 
 Black Francis is an acid and techno artist based in Belgium, with 5 gigs on soundcheck across Ghent. Often billed alongside Acidulant, Castor W. and Fraktion9. Next up: Muziekcentrum Kinky Star, Ghent on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Black Francis is an acid and techno artist based in Belgium, with 5 gigs on soun
 
 Acidulant, Castor W., Fraktion9
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackfrancis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackfrancis/)*

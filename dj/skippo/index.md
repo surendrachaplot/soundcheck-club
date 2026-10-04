@@ -1,6 +1,6 @@
 # Skippo
 
-Skippo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nachtflug & Starz, Cologne on Sun, 29 Nov 2026.
+Skippo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nachtflug & Starz, Cologne on Sun, 29 Nov 2026.
 
 Skippo is a techno and tech house artist based in Germany, with 33 gigs on soundcheck across Antwerp, Berlin, Cologne and Melbourne and 3 more. Often billed alongside Ben Manson, Juan Del Chambo and Alalkih. Next up: Nachtflug & Starz, Cologne on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Skippo is a techno and tech house artist based in Germany, with 33 gigs on sound
 
 Ben Manson, Juan Del Chambo, Alalkih
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skippo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skippo/)*

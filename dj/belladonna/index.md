@@ -1,6 +1,6 @@
 # BELLADONNA
 
-BELLADONNA is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SKY CLUB, Malta on Sat, 7 Nov 2026.
+BELLADONNA is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - SKY CLUB, Malta on Sat, 7 Nov 2026.
 
 BELLADONNA is a tech house and minimal techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Ibiza and 3 more. Often billed alongside belladonna of sadness, Afshin Momadi and theories. Next up: TBA - SKY CLUB, Malta on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ BELLADONNA is a tech house and minimal techno artist based in Germany, with 11 g
 
 belladonna of sadness, Afshin Momadi, theories
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*

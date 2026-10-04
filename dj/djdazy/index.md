@@ -1,6 +1,6 @@
 # DJ Dazy
 
-DJ Dazy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar22, Amsterdam on Sat, 24 Oct 2026.
+DJ Dazy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar22, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Dazy is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Los Angeles, Portland and San Diego. Often billed alongside DJ Colette, Hector Moralez and J-Dub. Next up: Bar22, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DJ Dazy is a house and deep house artist based in United States of America, with
 
 DJ Colette, Hector Moralez, J-Dub
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*

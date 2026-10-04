@@ -1,6 +1,6 @@
 # Moray Leisure Centre
 
-Moray Leisure Centre is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
+Moray Leisure Centre is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 3 Oct 2026.
 
 Moray Leisure Centre is a techno and bass artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Edinburgh and Glasgow. Often billed alongside St Sunday, Lewis Lowe and Bartek. Next up: Sneaky Pete's, Edinburgh on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Moray Leisure Centre is a techno and bass artist based in United Kingdom, with 1
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Sat, 3 Oct 2026
 - Sub Club, Glasgow · Fri, 6 Feb 2026
 - The Flying Duck, Glasgow · Fri, 29 Aug 2025
 - Stereo, Glasgow · Fri, 6 Jun 2025
@@ -19,10 +20,9 @@ Moray Leisure Centre is a techno and bass artist based in United Kingdom, with 1
 - Sneaky Pete's, Edinburgh · Sat, 3 Aug 2024
 - Sneaky Pete's, Edinburgh · Sat, 13 Jul 2024
 - The Flying Duck, Glasgow · Fri, 12 Jul 2024
-- The Leith Depot, Edinburgh · Fri, 21 Jun 2024
 
 ## Shares bills with
 
 St Sunday, Lewis Lowe, Bartek
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morayleisurecentre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morayleisurecentre/)*

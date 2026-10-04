@@ -1,6 +1,6 @@
 # Gōdō
 
-Gōdō is a Club and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Gōdō is a Club and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Gōdō is a club and minimal artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Greece and 4 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Gōdō is a club and minimal artist based in Italy, with 15 gigs on soundcheck a
 
 Benny (El Rio Hostel), Mila Morr, 22 (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*

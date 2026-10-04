@@ -1,6 +1,6 @@
 # Daddy Squad
 
-Daddy Squad is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at berlinClub, Madrid on Fri, 23 Oct 2026.
+Daddy Squad is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at berlinClub, Madrid on Fri, 23 Oct 2026.
 
 Daddy Squad is a house and club artist based in Australia, with 32 gigs on soundcheck across Athens, Bangkok, Berlin and Brussels and 5 more. Often billed alongside Ezekiel Monjes, Daniel Wang and Elninodiablo. Next up: berlinClub, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Daddy Squad is a house and club artist based in Australia, with 32 gigs on sound
 
 Ezekiel Monjes, Daniel Wang, Elninodiablo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddysquad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daddysquad/)*

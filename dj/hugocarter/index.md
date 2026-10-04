@@ -1,6 +1,6 @@
 # Hugo Carter
 
-Hugo Carter is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Goya Social Club, Madrid on Fri, 9 Oct 2026.
+Hugo Carter is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Goya Social Club, Madrid on Fri, 9 Oct 2026.
 
 Hugo Carter is a house and tech house artist based in Spain, with 41 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Ibiza and 4 more. Often billed alongside Jay Luna, Foie Gras and Ian Storm. Next up: Goya Social Club, Madrid on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Hugo Carter is a house and tech house artist based in Spain, with 41 gigs on sou
 
 Jay Luna, Foie Gras, Ian Storm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugocarter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugocarter/)*

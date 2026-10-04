@@ -1,6 +1,6 @@
 # JAVS
 
-JAVS is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Casa Amante Club, Madrid on Sun, 4 Oct 2026.
+JAVS is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Casa Amante Club, Madrid on Sun, 4 Oct 2026.
 
 JAVS is a deep house and house artist, with 19 gigs on soundcheck across Madrid, Mallorca and Mexico City. Often billed alongside EM2K, Ronaldo and polō. Next up: Casa Amante Club, Madrid on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ JAVS is a deep house and house artist, with 19 gigs on soundcheck across Madrid,
 
 EM2K, Ronaldo, polō
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javs/)*

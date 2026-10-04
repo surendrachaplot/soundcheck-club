@@ -1,6 +1,6 @@
 # M8NSE
 
-M8NSE is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 16 Oct 2026.
+M8NSE is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Upload Barcelona, Barcelona on Fri, 16 Oct 2026.
 
 M8NSE is a latin bass and techno artist based in Chile, with 71 gigs on soundcheck across Barcelona, Berlin, Brussels and Geneva and 7 more. Often billed alongside AMANTRA, Acidnena and ENGALANAN. Next up: Sala Upload Barcelona, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ M8NSE is a latin bass and techno artist based in Chile, with 71 gigs on soundche
 
 AMANTRA, Acidnena, ENGALANAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m8nse/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m8nse/)*

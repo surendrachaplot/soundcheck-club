@@ -1,6 +1,6 @@
 # CityBoyLounge
 
-CityBoyLounge is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at South Swell Cafe, Osaka on Sat, 24 Oct 2026.
+CityBoyLounge is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at South Swell Cafe, Osaka on Sat, 24 Oct 2026.
 
 CityBoyLounge is a house and club artist based in Japan, with 40 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ko Yang (JP), Alex Albrecht and SEIJI. Next up: South Swell Cafe, Osaka on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CityBoyLounge is a house and club artist based in Japan, with 40 gigs on soundch
 
 Ko Yang (JP), Alex Albrecht, SEIJI (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*

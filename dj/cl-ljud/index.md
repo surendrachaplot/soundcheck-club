@@ -1,6 +1,6 @@
 # CL-ljud
 
-CL-ljud is a Minimal and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Rosie's Bar, Berlin on Fri, 9 Oct 2026.
+CL-ljud is a Minimal and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Rosie's Bar, Berlin on Fri, 9 Oct 2026.
 
 CL-ljud is a minimal and progressive house artist based in Italy, with 6 gigs on soundcheck across Berlin, Rome and Warsaw. Often billed alongside maniac&me, Easy Audio and Model 68. Next up: Rosie's Bar, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ CL-ljud is a minimal and progressive house artist based in Italy, with 6 gigs on
 
 maniac&me, Easy Audio, Model 68
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ljud/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ljud/)*

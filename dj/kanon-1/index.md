@@ -1,6 +1,6 @@
 # KANON (1)
 
-KANON (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+KANON (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 KANON is a techno and hardcore artist based in Japan, with 44 gigs on soundcheck across Cologne, Frankfurt, Glasgow and London and 4 more. Often billed alongside KAMIKAZE, EVE and Sonia Lagoon. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ KANON is a techno and hardcore artist based in Japan, with 44 gigs on soundcheck
 
 KAMIKAZE, EVE (1), Sonia Lagoon (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanon-1/)*

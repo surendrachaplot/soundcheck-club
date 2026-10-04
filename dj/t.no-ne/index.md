@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
+T.NO is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 3 Oct 2026.
 
 T.NO is a bass and techno artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Berlin, Bristol and Eindhoven and 13 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: The Basement Eindhoven, Eindhoven on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ T.NO is a bass and techno artist based in Netherlands, with 60 gigs on soundchec
 
 ## Recently played
 
+- The Basement Eindhoven, Eindhoven · Sat, 3 Oct 2026
 - Open Ground, Wuppertal · Fri, 2 Oct 2026
 - Golden Pudel Club, Hamburg · Sat, 19 Sept 2026
 - Skatecafe, Amsterdam · Fri, 4 Sept 2026
@@ -23,10 +24,9 @@ T.NO is a bass and techno artist based in Netherlands, with 60 gigs on soundchec
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 - Garage Noord, Amsterdam · Sun, 26 Jul 2026
-- Mono, Rotterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Styn, Rozaly, Shinshan Salazar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

@@ -1,6 +1,6 @@
 # U-BEND
 
-U-BEND is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Cafe Westerdok, Amsterdam on Sun, 25 Oct 2026.
+U-BEND is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Cafe Westerdok, Amsterdam on Sun, 25 Oct 2026.
 
 U-BEND is a balearic and acid artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, London, Manchester and Melbourne. Often billed alongside A For Alpha, A-Bril and AYSHA. Next up: TBA - Cafe Westerdok, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ U-BEND is a balearic and acid artist based in United Kingdom, with 10 gigs on so
 
 A For Alpha, A-Bril, AYSHA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*

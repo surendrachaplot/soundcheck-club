@@ -1,6 +1,6 @@
 # André Lodemann
 
-André Lodemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
+André Lodemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
 
 André Lodemann is a techno and house artist, with 6 gigs on soundcheck across Alicante and Berlin. Often billed alongside Frankie Flowerz, HANNAHHANSEN and Alejandro Molinari. Next up: Hotel Montepiedra, Alicante on Thu 27 May.
 
@@ -22,4 +22,4 @@ André Lodemann is a techno and house artist, with 6 gigs on soundcheck across A
 
 Frankie Flowerz, HANNAHHANSEN, Alejandro Molinari
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelodemann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelodemann/)*

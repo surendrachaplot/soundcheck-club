@@ -1,6 +1,6 @@
 # Daragma
 
-Daragma is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
+Daragma is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
 
 Daragma is a techno and minimal techno artist, with 23 gigs on soundcheck across Sao Paulo and Toronto. Often billed alongside Barbosa, CAETANO and Chafic. Next up: Bsmt 254, Toronto on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Daragma is a techno and minimal techno artist, with 23 gigs on soundcheck across
 
 Barbosa, CAETANO, Chafic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*

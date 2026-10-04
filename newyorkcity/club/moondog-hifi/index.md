@@ -1,6 +1,6 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Corey Baker" on Sat, 3 Oct 2026.
+Moondog Hifi is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Corey Baker" on Sat, 3 Oct 2026.
 
 Moondog Hifi is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Corey Baker and Derek Russo. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
@@ -21,4 +21,4 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

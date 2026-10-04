@@ -1,14 +1,13 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FLINTASY" on Sat, 3 Oct 2026.
+Unit 58 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Arise festival: London edition + Bobby Beethoven" on Fri, 9 Oct 2026.
 
-Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including acidhousewife3000, Al Gray, Apsara and BJ Holy and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
+Unit 58 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including acidhousewife3000, Al Gray, BJ Holy and bod [包家巷] and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | FLINTASY | Apsara, Light Gal, Valkyria, WildSoul |
 | Fri, 9 Oct 2026 | Arise festival: London edition + Bobby Beethoven | BJ Holy, Exploited Body, Hovsep (AM), Moa Pillar, Mujuice, Salena, Total Freedom, Ushko, acidhousewife3000, bod [包家巷], costi (1), dbeater |
 | Fri, 16 Oct 2026 | Club Citrus: IAMBP, Oh Henry, Liam J | IAMBP, Liam J, Oh Henry |
 | Fri, 23 Oct 2026 | Cosmic Blast – Monster Attack | Miss Lightbeam |
@@ -18,4 +17,4 @@ Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

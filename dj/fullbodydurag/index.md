@@ -1,6 +1,6 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri, 9 Oct 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri, 9 Oct 2026.
 
 Fullbodydurag is a ghetto tech and house artist based in United States of America, with 83 gigs on soundcheck across Chicago, Denver, Detroit and New York City. Often billed alongside JMT, Disc Jockey George and Sheefy McFly. Next up: The Wild Hare & Singing Armadillo Frog Sanctuary, Chicago on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*

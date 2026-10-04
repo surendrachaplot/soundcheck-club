@@ -1,6 +1,6 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
+Kingsizebed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fucine Vulcano, Milan on Sat, 10 Oct 2026.
 
 Kingsizebed is a house and techno artist based in Italy, with 57 gigs on soundcheck across Athens, Berlin, Brussels and Geneva and 2 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: Fucine Vulcano, Milan on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kingsizebed is a house and techno artist based in Italy, with 57 gigs on soundch
 
 Aaron Blau, R.ocks, 131bpm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*

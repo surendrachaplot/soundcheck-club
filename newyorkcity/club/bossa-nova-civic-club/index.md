@@ -1,6 +1,6 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Happy Hour: Aleska" on Sat, 3 Oct 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Happy Hour: Aleska" on Sat, 3 Oct 2026.
 
 Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 32 upcoming gigs, with line-ups including .json, 4AM NYC, 8ULENTINA and ABEILLE and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
@@ -23,4 +23,4 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 32
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # brawni
 
-brawni is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+brawni is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
 
 brawni is a techno and bass artist based in Ireland, with 23 gigs on soundcheck across Belfast, Dublin, Galway and Limerick. Often billed alongside Chaz Moloney, Tadhg K and Barker. Next up: Mandela Hall, Belfast on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ brawni is a techno and bass artist based in Ireland, with 23 gigs on soundcheck 
 
 Chaz Moloney, Tadhg K, Barker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brawni/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brawni/)*

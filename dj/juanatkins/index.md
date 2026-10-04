@@ -1,6 +1,6 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 9 Oct 2026.
+Juan Atkins is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 9 Oct 2026.
 
 Juan Atkins is a techno and house artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Frankhan Selectist, Istanbul on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Juan Atkins is a techno and house artist based in United States of America, with
 
 Delano Smith, Carl Craig, Christian AB
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*

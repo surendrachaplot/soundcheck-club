@@ -1,6 +1,6 @@
 # Wrong Party!
 
-Wrong Party! is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
+Wrong Party! is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
 
 Wrong Party! is an acid and house artist based in United Kingdom, with 20 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Vladimir Ivkovic. Next up: La Cheetah Club, Glasgow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Wrong Party! is an acid and house artist based in United Kingdom, with 20 gigs o
 
 GK Machine, Illogical Operator, Vladimir Ivkovic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

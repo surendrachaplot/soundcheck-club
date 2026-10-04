@@ -1,6 +1,6 @@
 # Korolova
 
-Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
+Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Tue, 6 Oct 2026.
 
 Korolova is a techno and house artist based in Portugal, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Artbat, Adam Beyer and Franky Wah. Next up: [UNVRS], Ibiza on Tue 6 Oct.
 
@@ -27,4 +27,4 @@ Korolova is a techno and house artist based in Portugal, with 128 gigs on soundc
 
 Artbat, Adam Beyer, Franky Wah
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

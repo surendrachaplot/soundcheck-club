@@ -1,6 +1,6 @@
 # Lewis G. Burton
 
-Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
+Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
 
 Lewis G. Burton is a techno and hardcore artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Lisbon and 5 more. Often billed alongside Samantha Togni, Wax Wings and Slim Soledad. Next up: Distillery N17, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lewis G. Burton is a techno and hardcore artist based in United Kingdom, with 46
 
 Samantha Togni, Wax Wings, Slim Soledad
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*

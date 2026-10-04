@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
+Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
 
 Anna Wall is a house and techno artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Sameheads, Berlin on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Anna Wall is a house and techno artist based in United Kingdom, with 119 gigs on
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

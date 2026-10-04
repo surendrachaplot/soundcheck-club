@@ -1,6 +1,6 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bogen 43, Berlin on Sun, 1 Nov 2026.
+Olsvangèr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bogen 43, Berlin on Sun, 1 Nov 2026.
 
 Olsvangèr is a house and techno artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Bogen 43, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Olsvangèr is a house and techno artist based in Germany, with 75 gigs on soundc
 
 MYKI, Niklas Wandt, Bijon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*

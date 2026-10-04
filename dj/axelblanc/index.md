@@ -1,6 +1,6 @@
 # Axel Blanc
 
-Axel Blanc is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
+Axel Blanc is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Paris, Paris on Fri, 9 Oct 2026.
 
 Axel Blanc is a house and techno artist based in France, with 33 gigs on soundcheck across Berlin, Copenhagen, Dublin and Hamburg and 2 more. Often billed alongside P errine, A.Pringle and CallBackSami. Next up: TBA - Paris, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Axel Blanc is a house and techno artist based in France, with 33 gigs on soundch
 
 P errine, A.Pringle, CallBackSami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*

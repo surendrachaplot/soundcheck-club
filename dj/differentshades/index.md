@@ -1,6 +1,6 @@
 # Different Shades
 
-Different Shades is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
+Different Shades is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
 
 Different Shades is a techno and bass artist based in Malaysia, with 29 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Kuala Lumpur and 5 more. Often billed alongside LOIF, Andy Garvey and Kia (AU). Next up: 90mil, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Different Shades is a techno and bass artist based in Malaysia, with 29 gigs on 
 
 LOIF, Andy Garvey, Kia (AU)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/differentshades/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/differentshades/)*

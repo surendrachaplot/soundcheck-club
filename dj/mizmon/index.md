@@ -1,6 +1,6 @@
 # Mizmon
 
-Mizmon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at CASABLANCA, Kansai on Sun, 4 Oct 2026.
+Mizmon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at CASABLANCA, Kansai on Sun, 4 Oct 2026.
 
 Mizmon is a house and techno artist, with 10 gigs on soundcheck across Kansai, Osaka and Rome. Often billed alongside DMITRI ABSINTHE, MAX PELA and Nao Nomura. Next up: CASABLANCA, Kansai on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mizmon is a house and techno artist, with 10 gigs on soundcheck across Kansai, O
 
 DMITRI ABSINTHE, MAX PELA, Nao Nomura
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizmon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizmon/)*

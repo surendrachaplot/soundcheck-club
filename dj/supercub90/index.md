@@ -1,6 +1,6 @@
 # SuperCub90
 
-SuperCub90 is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skull Bar, Athens on Sun, 4 Oct 2026.
+SuperCub90 is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Skull Bar, Athens on Sun, 4 Oct 2026.
 
 SuperCub90 is an electro and breakbeat artist based in Greece, with 17 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, Datalogs and IMPVLSIV. Next up: Skull Bar, Athens on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ SuperCub90 is an electro and breakbeat artist based in Greece, with 17 gigs on s
 
 Piece of Kate, Datalogs, IMPVLSIV
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*

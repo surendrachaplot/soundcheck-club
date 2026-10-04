@@ -1,6 +1,6 @@
 # Pascal Rudert
 
-Pascal Rudert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
+Pascal Rudert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
 
 Pascal Rudert is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside fuxia, Stefan Muchte and Aaron Kubel. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Pascal Rudert is a techno and house artist based in Germany, with 8 gigs on soun
 
 fuxia, Stefan Muchte, Aaron Kubel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalrudert/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalrudert/)*

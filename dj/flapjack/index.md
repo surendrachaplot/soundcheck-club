@@ -1,6 +1,6 @@
 # Flapjack
 
-Flapjack is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+Flapjack is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 Flapjack is a hardcore and gabber artist based in United States of America, with 44 gigs on soundcheck across Austin, Chicago, Los Angeles and Madrid and 9 more. Often billed alongside Baseck, Technopagan and BL4ZE. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Flapjack is a hardcore and gabber artist based in United States of America, with
 
 Baseck, Technopagan, BL4ZE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*

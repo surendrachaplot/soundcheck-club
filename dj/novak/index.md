@@ -1,6 +1,6 @@
 # Novak
 
-Novak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 77, London on Fri, 9 Oct 2026.
+Novak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 77, London on Fri, 9 Oct 2026.
 
 Novak is a house and techno artist based in Serbia, with 13 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 2 more. Often billed alongside LevyM, Marasi and ARYMÉ. Next up: 77, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Novak is a house and techno artist based in Serbia, with 13 gigs on soundcheck a
 
 LevyM, Marasi, ARYMÉ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novak/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novak/)*

@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Haylee Wood" on Sat, 3 Oct 2026.
+Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Haylee Wood" on Sat, 3 Oct 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Kasia (OFC), Marco Strous and Victor Calderone. See dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -17,4 +17,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

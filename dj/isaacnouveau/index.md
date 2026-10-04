@@ -1,6 +1,6 @@
 # Isaac Nouveau
 
-Isaac Nouveau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cafe La Palma, Madrid on Sun, 11 Oct 2026.
+Isaac Nouveau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafe La Palma, Madrid on Sun, 11 Oct 2026.
 
 Isaac Nouveau is a house and disco artist based in Spain, with 13 gigs on soundcheck across Berlin and Madrid. Often billed alongside Zora, materia hache and DADI. Next up: Cafe La Palma, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Isaac Nouveau is a house and disco artist based in Spain, with 13 gigs on soundc
 
 Zora, materia hache, DADI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacnouveau/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacnouveau/)*

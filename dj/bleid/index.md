@@ -1,6 +1,6 @@
 # BLEID
 
-BLEID is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Casa Independente, Lisbon on Sat, 10 Oct 2026.
+BLEID is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Casa Independente, Lisbon on Sat, 10 Oct 2026.
 
 BLEID is a techno and house artist based in Portugal, with 43 gigs on soundcheck across Berlin, Leipzig, Lisbon and Munich and 2 more. Often billed alongside marum, Violet (PT) and Phoebe. Next up: Casa Independente, Lisbon on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ BLEID is a techno and house artist based in Portugal, with 43 gigs on soundcheck
 
 marum, Violet (PT), Phoebe (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleid/)*

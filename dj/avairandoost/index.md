@@ -1,6 +1,6 @@
 # AVA Irandoost
 
-AVA Irandoost is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+AVA Irandoost is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
 
 AVA Irandoost is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Dirty Doering, Niconé and Peter Schumann. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ AVA Irandoost is a techno and house artist based in Germany, with 35 gigs on sou
 
 Dirty Doering, Niconé, Peter Schumann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*

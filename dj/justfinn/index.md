@@ -1,18 +1,18 @@
 # JUST FINN
 
-JUST FINN is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - North London Boat, London on Sat, 3 Oct 2026.
+JUST FINN is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NDR2 Red Room, London on Sat, 24 Oct 2026.
 
-JUST FINN is a house and progressive house artist, with 7 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Lyde, Dembinski and Neev. Next up: TBA - North London Boat, London on Sat 3 Oct.
+JUST FINN is a house and progressive house artist, with 7 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Lyde, Dembinski and Neev. Next up: NDR2 Red Room, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - North London Boat | London |
 | Sat, 24 Oct 2026 | NDR2 Red Room | London |
 
 ## Recently played
 
+- TBA - North London Boat, London · Sat, 3 Oct 2026
 - Gaffe, London · Fri, 2 Oct 2026
 - Crate Brewery, London · Sat, 20 Apr 2024
 - Unit 58, London · Fri, 3 Nov 2023
@@ -23,4 +23,4 @@ JUST FINN is a house and progressive house artist, with 7 gigs on soundcheck acr
 
 Lyde, Dembinski, Neev
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfinn/)*

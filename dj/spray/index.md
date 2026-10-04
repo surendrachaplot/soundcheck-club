@@ -1,6 +1,6 @@
 # Spray
 
-Spray is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Palladium, Geneva on Sat, 10 Oct 2026.
+Spray is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Palladium, Geneva on Sat, 10 Oct 2026.
 
 Spray is a techno and house artist based in Ireland, with 205 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Palladium, Geneva on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Spray is a techno and house artist based in Ireland, with 205 gigs on soundcheck
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

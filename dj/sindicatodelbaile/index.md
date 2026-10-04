@@ -1,6 +1,6 @@
 # Sindicato Del Baile
 
-Sindicato Del Baile is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Sindicato Del Baile is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
 Sindicato Del Baile is a house and electronica artist based in Spain, with 37 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 5 more. Often billed alongside Seth Troxler, Alex (ES) and Jonny Rock. Next up: BRET, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Sindicato Del Baile is a house and electronica artist based in Spain, with 37 gi
 
 Seth Troxler, Alex (ES), Jonny Rock
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicatodelbaile/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sindicatodelbaile/)*

@@ -1,6 +1,6 @@
 # Benster
 
-Benster is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
+Benster is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
 
 Benster is a house and disco artist based in Denmark, with 22 gigs on soundcheck across Copenhagen. Often billed alongside Bokéh, Enterthevoigt and Wille. Next up: Klub Werkstatt, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Benster is a house and disco artist based in Denmark, with 22 gigs on soundcheck
 
 Bokéh, Enterthevoigt, Wille
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benster/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benster/)*

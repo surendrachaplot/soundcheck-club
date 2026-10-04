@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "POLYxMODE take over" on Sat, 3 Oct 2026.
+Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "POLYxMODE take over" on Sat, 3 Oct 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CEEE and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, w
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

@@ -1,6 +1,6 @@
 # GENNARO
 
-GENNARO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
+GENNARO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at IDRA, Manchester on Sat, 10 Oct 2026.
 
 GENNARO is a house and tech house artist based in Italy, with 21 gigs on soundcheck across Amsterdam, Chicago, Cologne and Ibiza and 7 more. Often billed alongside ANOTR, Aline Umber and Beltran. Next up: IDRA, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ GENNARO is a house and tech house artist based in Italy, with 21 gigs on soundch
 
 ANOTR, Aline Umber, Beltran
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

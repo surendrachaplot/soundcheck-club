@@ -1,6 +1,6 @@
 # Kaveh
 
-Kaveh is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
+Kaveh is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
 
 Kaveh is a house and tech house artist, with 20 gigs on soundcheck across Austin, Berlin, Los Angeles and New York City. Often billed alongside Stoley, Sosh & Mosh and Edd. Next up: TBA - Santa Monica, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kaveh is a house and tech house artist, with 20 gigs on soundcheck across Austin
 
 Stoley, Sosh & Mosh, Edd (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaveh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaveh/)*

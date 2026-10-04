@@ -1,6 +1,6 @@
 # Nile Fee
 
-Nile Fee is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
+Nile Fee is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 17 Oct 2026.
 
 Nile Fee is an electronica and house artist, with 48 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside John Heaven, Daniel 2000 and Marcelo Pantani. Next up: Razzmatazz, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nile Fee is an electronica and house artist, with 48 gigs on soundcheck across B
 
 John Heaven, Daniel 2000, Marcelo Pantani
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*

@@ -1,6 +1,6 @@
 # SUITSIDE
 
-SUITSIDE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+SUITSIDE is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 SUITSIDE is a trance and techno artist based in Austria, with 66 gigs on soundcheck across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey, BabaBass3000 and ASCHENBRENNER. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ SUITSIDE is a trance and techno artist based in Austria, with 66 gigs on soundch
 
 Joey (2), BabaBass3000, ASCHENBRENNER
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*

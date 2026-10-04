@@ -1,6 +1,6 @@
 # S'aint Panic
 
-S'aint Panic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
+S'aint Panic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
 
 S'aint Panic is a house and techno artist based in United States of America, with 69 gigs on soundcheck across Detroit, New York City and San Francisco/Oakland. Often billed alongside Alissa Brianna, Will Automagic and Nita Aviance. Next up: Good Room, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ S'aint Panic is a house and techno artist based in United States of America, wit
 
 Alissa Brianna, Will Automagic, Nita Aviance
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpanic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpanic/)*

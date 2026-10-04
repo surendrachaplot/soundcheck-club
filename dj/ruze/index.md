@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+RUZE is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 RUZE is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -10,7 +10,6 @@ RUZE is a house and tech house artist based in United Kingdom, with 123 gigs on 
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Sat, 3 Oct 2026 | Marcfait | Amsterdam |
 | Sat, 17 Oct 2026 | Joshua Brooks | Manchester |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
@@ -20,6 +19,7 @@ RUZE is a house and tech house artist based in United Kingdom, with 123 gigs on 
 
 ## Recently played
 
+- Marcfait, Amsterdam · Sat, 3 Oct 2026
 - KOKO, London · Fri, 2 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
@@ -27,10 +27,9 @@ RUZE is a house and tech house artist based in United Kingdom, with 123 gigs on 
 - World Headquarters, Newcastle · Fri, 25 Sept 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza · Wed, 16 Sept 2026
-- FORGE, Sheffield · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

@@ -1,6 +1,6 @@
 # OCCA
 
-OCCA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+OCCA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 OCCA is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 19 more. Often billed alongside Spekki Webu, OSHALEY and DJ Sodeyama. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ OCCA is a techno and house artist based in Japan, with 134 gigs on soundcheck ac
 
 Spekki Webu, OSHALEY, DJ Sodeyama
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

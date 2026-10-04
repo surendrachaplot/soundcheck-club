@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
+Francis Mercier is a Afro House and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
 
 Francis Mercier is an afro house and house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: D! Club, Lausanne on Sun 4 Oct.
 
@@ -36,4 +36,4 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

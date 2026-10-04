@@ -1,6 +1,6 @@
 # KINIA G
 
-KINIA G is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
+KINIA G is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Fri, 16 Oct 2026.
 
 KINIA G is a techno artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Lau.tastic, Micro Bites and Skav. Next up: E1, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ KINIA G is a techno artist based in United Kingdom, with 6 gigs on soundcheck ac
 
 Lau.tastic, Micro Bites, Skav
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiniag/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiniag/)*

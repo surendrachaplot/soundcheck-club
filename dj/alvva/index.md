@@ -1,6 +1,6 @@
 # Alvva
 
-Alvva is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
+Alvva is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 16 Oct 2026.
 
 Alvva is a garage and breakbeat artist based in Spain, with 68 gigs on soundcheck across Barcelona, Kyoto, Leeds and Lisbon and 6 more. Often billed alongside DJ2D2, Kanti and PethbUri. Next up: Nitsa Club, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alvva is a garage and breakbeat artist based in Spain, with 68 gigs on soundchec
 
 DJ2D2, Kanti, PethbUri
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvva/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvva/)*

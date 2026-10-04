@@ -1,6 +1,6 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
+AG (1) is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
 
 AG is a club and footwork artist based in United States of America, with 42 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, Tromac and Eevee. Next up: Meteoro, Barcelona on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ AG is a club and footwork artist based in United States of America, with 42 gigs
 
 DJ Fat Frog, Tromac, Eevee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

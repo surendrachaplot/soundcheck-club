@@ -1,6 +1,6 @@
 # MALAS
 
-MALAS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+MALAS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 MALAS is a house and deep house artist based in Spain, with 16 gigs on soundcheck across London, Los Angeles, Miami and New York City and 3 more. Often billed alongside Admiral, Glauco Di Mambro and Mandrake. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MALAS is a house and deep house artist based in Spain, with 16 gigs on soundchec
 
 Admiral, Glauco Di Mambro, Mandrake
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*

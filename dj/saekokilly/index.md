@@ -1,6 +1,6 @@
 # Saeko Killy
 
-Saeko Killy is a Disco and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Zentralwäscherei, Zurich on Thu, 29 Oct 2026.
+Saeko Killy is a Disco and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Zentralwäscherei, Zurich on Thu, 29 Oct 2026.
 
 Saeko Killy is a disco and new wave artist, with 51 gigs on soundcheck across Berlin, Brussels, Edinburgh and Glasgow and 8 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Zentralwäscherei, Zurich on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Saeko Killy is a disco and new wave artist, with 51 gigs on soundcheck across Be
 
 African Head Charge, Marta De Pascalis, PRAED
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saekokilly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saekokilly/)*

@@ -1,6 +1,6 @@
 # Baby Rollén
 
-Baby Rollén is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Fri, 16 Oct 2026.
+Baby Rollén is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Glove That Fits, London on Fri, 16 Oct 2026.
 
 Baby Rollén is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 6 more. Often billed alongside Jive Talk, Make A Dance and A For Alpha. Next up: The Glove That Fits, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Baby Rollén is a house and techno artist based in United Kingdom, with 40 gigs 
 
 Jive Talk, Make A Dance, A For Alpha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrollen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyrollen/)*

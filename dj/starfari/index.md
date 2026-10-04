@@ -1,6 +1,6 @@
 # starfari
 
-starfari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+starfari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 starfari is a house and disco artist based in United States of America, with 40 gigs on soundcheck across Los Angeles, Paris, San Francisco Oakland and San Francisco/Oakland and 1 more. Often billed alongside DJ M3, discoesq and &ndmore. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ starfari is a house and disco artist based in United States of America, with 40 
 
 DJ M3, discoesq, &ndmore
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*

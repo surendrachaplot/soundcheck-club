@@ -1,6 +1,6 @@
 # Aniri Chan
 
-Aniri Chan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Teritorija, Riga on Sat, 10 Oct 2026.
+Aniri Chan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Teritorija, Riga on Sat, 10 Oct 2026.
 
 Aniri Chan is a techno and house artist based in Latvia, with 34 gigs on soundcheck across Riga. Often billed alongside Existal, Ksenia Kamikaza and ANGEDONIYA. Next up: Teritorija, Riga on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aniri Chan is a techno and house artist based in Latvia, with 34 gigs on soundch
 
 Existal, Ksenia Kamikaza, ANGEDONIYA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*

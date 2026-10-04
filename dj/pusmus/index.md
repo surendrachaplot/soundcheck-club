@@ -1,6 +1,6 @@
 # PUSMUS
 
-PUSMUS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
+PUSMUS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
 PUSMUS is a techno and trance artist based in Croatia, with 7 gigs on soundcheck across Barcelona, Budapest, Krakow and Zagreb. Often billed alongside ALGAYEV, Alex Farell and CCSC. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ PUSMUS is a techno and trance artist based in Croatia, with 7 gigs on soundcheck
 
 ALGAYEV, Alex Farell, CCSC
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*

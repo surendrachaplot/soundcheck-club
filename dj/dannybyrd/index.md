@@ -1,6 +1,6 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sydenham Underpass, Christchurch on Fri, 9 Oct 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sydenham Underpass, Christchurch on Fri, 9 Oct 2026.
 
 Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 15 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Sydenham Underpass, Christchurch on Fri 9 Oct.
 
@@ -17,6 +17,7 @@ Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 40 g
 
 ## Recently played
 
+- Watsons EQ, Sydney · Sat, 3 Oct 2026
 - The Jazz Cafe, London · Fri, 8 May 2026
 - Karma Live Music Venue, Washington DC · Sat, 14 Mar 2026
 - Quantum, New York City · Fri, 13 Mar 2026
@@ -24,10 +25,9 @@ Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 40 g
 - Thekla, Bristol · Fri, 6 Feb 2026
 - Spin, San Diego · Fri, 23 Jan 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sun, 18 Jan 2026
-- Chinese Laundry, Sydney · Fri, 21 Nov 2025
 
 ## Shares bills with
 
 DJ SS, Bladerunner, Unglued
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*

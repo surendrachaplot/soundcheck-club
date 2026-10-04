@@ -1,6 +1,6 @@
 # Juju le Moko
 
-Juju le Moko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Datcha, Montreal on Thu, 15 Oct 2026.
+Juju le Moko is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Datcha, Montreal on Thu, 15 Oct 2026.
 
 Juju le Moko is a house and club artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Lexis (Music Is My Sanctuary), Lia Plutonic and Alina (MTL). Next up: Bar Datcha, Montreal on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Juju le Moko is a house and club artist based in Canada, with 31 gigs on soundch
 
 Lexis (Music Is My Sanctuary), Lia Plutonic, Alina (MTL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jujulemoko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jujulemoko/)*

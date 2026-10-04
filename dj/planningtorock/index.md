@@ -1,6 +1,6 @@
 # Planningtorock
 
-Planningtorock is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Concorde 2, Brighton on Fri, 20 Nov 2026.
+Planningtorock is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Concorde 2, Brighton on Fri, 20 Nov 2026.
 
 Planningtorock is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Brighton, Bristol and Brussels and 5 more. Often billed alongside Lewis G. Burton, Manuka Honey and Angel D'lite. Next up: Concorde 2, Brighton on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Planningtorock is a techno and house artist based in United Kingdom, with 19 gig
 
 Lewis G. Burton, Manuka Honey, Angel D'lite
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planningtorock/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planningtorock/)*

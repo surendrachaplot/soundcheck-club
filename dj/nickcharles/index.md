@@ -1,6 +1,6 @@
 # Nick Charles
 
-Nick Charles is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
+Nick Charles is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
 Nick Charles is a house and disco artist based in United Kingdom, with 32 gigs on soundcheck across Manchester. Often billed alongside Macy Lancaster, krioso and Celdred. Next up: Yes, Manchester on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Nick Charles is a house and disco artist based in United Kingdom, with 32 gigs o
 
 Macy Lancaster, krioso, Celdred
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcharles/)*

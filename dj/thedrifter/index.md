@@ -1,6 +1,6 @@
 # The Drifter
 
-The Drifter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+The Drifter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
 The Drifter is a house and techno artist based in Ireland, with 11 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cork and 3 more. Often billed alongside Mano Le Tough and Rosa Red. Next up: BRET, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ The Drifter is a house and techno artist based in Ireland, with 11 gigs on sound
 
 Mano Le Tough, Rosa Red, 
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedrifter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedrifter/)*

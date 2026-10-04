@@ -1,6 +1,6 @@
 # DISKQ
 
-DISKQ is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
+DISKQ is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
 
 DISKQ is a techno and idm artist, with 7 gigs on soundcheck across Los Angeles. Often billed alongside 92Jelani, C.R.T.R. and DJ LIGMA. Next up: Coyote Studios, Los Angeles on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ DISKQ is a techno and idm artist, with 7 gigs on soundcheck across Los Angeles. 
 
 92Jelani, C.R.T.R., DJ LIGMA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskq/)*

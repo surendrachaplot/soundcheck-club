@@ -1,6 +1,6 @@
 # this.is.noah
 
-this.is.noah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+this.is.noah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 this.is.noah is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside DJ Kodah, Alex Iso and Brian Ring. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ this.is.noah is a house and techno artist based in Germany, with 6 gigs on sound
 
 DJ Kodah, Alex Iso, Brian Ring
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/this.is.noah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/this.is.noah/)*

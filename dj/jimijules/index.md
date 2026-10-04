@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Jimi Jules is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
 Jimi Jules is a house and techno artist based in Switzerland, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ Jimi Jules is a house and techno artist based in Switzerland, with 198 gigs on s
 
 ## Recently played
 
+- Maravilla Studios, Mexico City · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 18 Sept 2026
 - TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
@@ -27,10 +28,9 @@ Jimi Jules is a house and techno artist based in Switzerland, with 198 gigs on s
 - Scorpios, Mykonos · Thu, 10 Sept 2026
 - Woodstock'69, Amsterdam · Sun, 6 Sept 2026
 - Fvtvr, Paris · Fri, 4 Sept 2026
-- Scorpios, Mykonos · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Dixon, Âme, Trikk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

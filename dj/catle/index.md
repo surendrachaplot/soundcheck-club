@@ -1,6 +1,6 @@
 # CA$TLE
 
-CA$TLE is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+CA$TLE is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 CA$TLE is a footwork and bass artist based in United Kingdom, with 5 gigs on soundcheck across Brighton and London. Often billed alongside Shirley Temper, Ambient Babestation Meltdown and Ariadne's Labyrinth. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ CA$TLE is a footwork and bass artist based in United Kingdom, with 5 gigs on sou
 
 Shirley Temper, Ambient Babestation Meltdown, Ariadne's Labyrinth
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catle/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catle/)*

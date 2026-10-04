@@ -1,6 +1,6 @@
 # Dolly (2)
 
-Dolly (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Dolly (2) is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Dolly is a tech house and techno artist based in Australia, with 27 gigs on soundcheck across Melbourne, New South Wales, Sydney and Tokyo. Often billed alongside Kimi, Miscmeg and Reptant. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dolly is a tech house and techno artist based in Australia, with 27 gigs on soun
 
 Kimi, Miscmeg, Reptant
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*

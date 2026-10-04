@@ -1,13 +1,14 @@
 # PUNK N MATRIX
 
-PUNK N MATRIX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 25 Oct 2026.
+PUNK N MATRIX is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 11 Oct 2026.
 
-PUNK N MATRIX is a house and tech house artist based in Japan, with 84 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Yamariki, ANZU and CARTOON. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 25 Oct.
+PUNK N MATRIX is a house and tech house artist based in Japan, with 85 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Yamariki, ANZU and CARTOON. Next up: Royal Lounge, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Royal Lounge | Tokyo |
 | Sun, 25 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ PUNK N MATRIX is a house and tech house artist based in Japan, with 84 gigs on s
 
 Yamariki, ANZU, CARTOON
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*

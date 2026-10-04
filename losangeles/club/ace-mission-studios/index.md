@@ -1,6 +1,6 @@
 # Ace*Mission Studios
 
-Ace*Mission Studios is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Factory 93 presents Brunello's Mellow Circus" on Sat, 31 Oct 2026.
+Ace*Mission Studios is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Factory 93 presents Brunello's Mellow Circus" on Sat, 31 Oct 2026.
 
 Ace*Mission Studios is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including Adrian Mills, Bambounou, Ben Klock and Blawan and 2 more. See dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
 
@@ -16,4 +16,4 @@ Ace*Mission Studios is a music venue in Los Angeles listed on soundcheck. 3 upco
 
 516 S Mission Rd, Los Angeles, CA 90033, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios/)*

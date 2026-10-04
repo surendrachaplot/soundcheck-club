@@ -1,6 +1,6 @@
 # Ham (5)
 
-Ham (5) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 9 Oct 2026.
+Ham (5) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 9 Oct 2026.
 
 Ham is a house and techno artist based in Australia, with 34 gigs on soundcheck across Melbourne and Victoria. Often billed alongside ADMINISTRATOR, Séarlait and Tina Disco. Next up: Angel Music Bar, Melbourne on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ham is a house and techno artist based in Australia, with 34 gigs on soundcheck 
 
 ADMINISTRATOR, Séarlait, Tina Disco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ham-5/)*

@@ -1,6 +1,6 @@
 # Mia Aurora
 
-Mia Aurora is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Mia Aurora is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Mia Aurora is a progressive house and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Brighton, Bristol and Budapest and 7 more. Often billed alongside Jody Wisternoff, Because of Art and Romain Garcia. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Mia Aurora is a progressive house and house artist based in United Kingdom, with
 
 Jody Wisternoff, Because of Art, Romain Garcia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaaurora/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaaurora/)*

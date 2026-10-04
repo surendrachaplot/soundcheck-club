@@ -1,6 +1,6 @@
 # franck
 
-franck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+franck is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 franck is a techno and trance artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside Charlie Sparks, 999999999 and Cloudy. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ franck is a techno and trance artist based in United Kingdom, with 200 gigs on s
 
 Charlie Sparks, 999999999, Cloudy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*

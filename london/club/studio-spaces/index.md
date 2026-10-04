@@ -1,6 +1,6 @@
 # Studio Spaces
 
-Studio Spaces is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Obscura X-01: Runway Project" on Sat, 7 Nov 2026.
+Studio Spaces is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Obscura X-01: Runway Project" on Sat, 7 Nov 2026.
 
 Studio Spaces is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Studio Spaces is a music venue in London listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Obscura X-01: Runway Project |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-spaces/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-spaces/)*

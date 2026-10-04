@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+jWave is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 jWave is a tech house and house artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ jWave is a tech house and house artist based in United Kingdom, with 52 gigs on 
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - Toffler, Rotterdam · Sat, 19 Sept 2026
 - ark (Melb), Melbourne · Sat, 12 Sept 2026
@@ -22,10 +23,9 @@ jWave is a tech house and house artist based in United Kingdom, with 52 gigs on 
 - Amnesia Ibiza, Ibiza · Thu, 6 Aug 2026
 - Amnesia Ibiza, Ibiza · Thu, 23 Jul 2026
 - Amnesia Ibiza, Ibiza · Thu, 2 Jul 2026
-- Amnesia Ibiza, Ibiza · Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

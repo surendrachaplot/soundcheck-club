@@ -1,6 +1,6 @@
 # Ali James
 
-Ali James is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
+Ali James is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
 
 Ali James is a techno and trance artist based in Australia, with 21 gigs on soundcheck across Belfast, Berlin, Brisbane and Manchester and 3 more. Often billed alongside DoubleDrop, Billy Currie and Koey. Next up: The Limelight, Belfast on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ali James is a techno and trance artist based in Australia, with 21 gigs on soun
 
 DoubleDrop, Billy Currie, Koey
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alijames/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alijames/)*

@@ -1,6 +1,6 @@
 # PILAR MOLINERO
 
-PILAR MOLINERO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
+PILAR MOLINERO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
 
 PILAR MOLINERO is a house and minimal artist based in Argentina, with 66 gigs on soundcheck across Barcelona and Berlin. Often billed alongside PAULA GM, Jo-Sie and FRAXA. Next up: 303 Audiophile Bar, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ PILAR MOLINERO is a house and minimal artist based in Argentina, with 66 gigs on
 
 PAULA GM, Jo-Sie, FRAXA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarmolinero/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarmolinero/)*

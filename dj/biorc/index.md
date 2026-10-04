@@ -1,6 +1,6 @@
 # Biorc
 
-Biorc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
+Biorc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
 
 Biorc is a techno and house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Angelo Stasi, Ali-Az and Antonio De Angelis. Next up: Studio76 Club, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Biorc is a techno and house artist based in Spain, with 14 gigs on soundcheck ac
 
 Angelo Stasi, Ali-Az, Antonio De Angelis
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biorc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biorc/)*

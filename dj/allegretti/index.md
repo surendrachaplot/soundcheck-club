@@ -1,6 +1,6 @@
 # Allegretti
 
-Allegretti is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Azimut Club, Turin on Sat, 21 Nov 2026.
+Allegretti is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Azimut Club, Turin on Sat, 21 Nov 2026.
 
 Allegretti is a techno artist based in Italy, with 18 gigs on soundcheck across Turin. Often billed alongside Teeo, Syca and Arthur Robert. Next up: Azimut Club, Turin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Allegretti is a techno artist based in Italy, with 18 gigs on soundcheck across 
 
 Teeo, Syca, Arthur Robert
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allegretti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allegretti/)*

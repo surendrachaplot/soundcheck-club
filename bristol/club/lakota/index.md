@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "AFROBEATS X AFRO CARIBBEAN SATURDAY LINK UP" on Sat, 3 Oct 2026.
+Lakota is a music venue in Bristol with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "AFROBEATS X AFRO CARIBBEAN SATURDAY LINK UP" on Sat, 3 Oct 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 16 upcoming gigs, with line-ups including Amygdala, C.A.R., Dan Shake and Eksman and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 16 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

@@ -1,6 +1,6 @@
 # Dan Mlinar
 
-Dan Mlinar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
+Dan Mlinar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
 
 Dan Mlinar is a techno and tech house artist based in Germany, with 36 gigs on soundcheck across Berlin, Copenhagen, Munich and Nürnberg. Often billed alongside VALOUR, CHOOSE WHITE and Modul Kollektiv. Next up: MH5 Rooftop, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dan Mlinar is a techno and tech house artist based in Germany, with 36 gigs on s
 
 VALOUR, CHOOSE WHITE, Modul Kollektiv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmlinar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmlinar/)*

@@ -1,6 +1,6 @@
 # Rareasfck
 
-Rareasfck is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
+Rareasfck is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
 
 Rareasfck is a hardcore and techno artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside 666.pastel, GUSSYEE and Stella Maise. Next up: Motorista Studio, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Rareasfck is a hardcore and techno artist based in Canada, with 13 gigs on sound
 
 666.pastel, GUSSYEE, Stella Maise
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rareasfck/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rareasfck/)*

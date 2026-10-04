@@ -1,6 +1,6 @@
 # Majid
 
-Majid is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Majid is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Majid is an electronic artist, with 7 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside Always Late, CHKLTE and Jay Tripwire. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Majid is an electronic artist, with 7 gigs on soundcheck across Amsterdam, Athen
 
 Always Late, CHKLTE, Jay Tripwire
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*

@@ -1,6 +1,6 @@
 # Motormouf
 
-Motormouf is a Jungle and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
+Motormouf is a Jungle and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
 
 Motormouf is a jungle and hip-hop artist based in United Kingdom, with 10 gigs on soundcheck across Liverpool and London. Often billed alongside Beat Detective, Matica and Charlie Power. Next up: Hangar 34, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Motormouf is a jungle and hip-hop artist based in United Kingdom, with 10 gigs o
 
 Beat Detective, Matica, Charlie Power
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motormouf/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motormouf/)*

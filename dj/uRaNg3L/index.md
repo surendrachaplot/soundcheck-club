@@ -1,6 +1,6 @@
 # uRaNg3L
 
-uRaNg3L is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+uRaNg3L is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 uRaNg3L is a techno and club artist based in United States of America, with 44 gigs on soundcheck across Chicago and Nashville. Often billed alongside Tdy, Miss Twink USA and Flores Negras. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ uRaNg3L is a techno and club artist based in United States of America, with 44 g
 
 Tdy (1), Miss Twink USA, Flores Negras
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uRaNg3L/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uRaNg3L/)*

@@ -1,6 +1,6 @@
 # Will Sass
 
-Will Sass is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night We Met, Nashville on Fri, 16 Oct 2026.
+Will Sass is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Night We Met, Nashville on Fri, 16 Oct 2026.
 
 Will Sass is a tech house and house artist, with 7 gigs on soundcheck across Nashville and New York City. Often billed alongside bradeazy, Amtrac and Bastian Bux. Next up: Night We Met, Nashville on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Will Sass is a tech house and house artist, with 7 gigs on soundcheck across Nas
 
 bradeazy, Amtrac, Bastian Bux
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsass/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsass/)*

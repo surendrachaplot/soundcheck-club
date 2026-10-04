@@ -1,6 +1,6 @@
 # Jones
 
-Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 Jones is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Berlin, Cologne, London and Miami and 2 more. Often billed alongside zakariyah, Aleister and Anna Schreit. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jones is a house and techno artist based in United States of America, with 10 gi
 
 zakariyah, Aleister, Anna Schreit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jones/)*

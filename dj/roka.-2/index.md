@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Roka is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
 
 Roka is a tech house and house artist based in Australia, with 22 gigs on soundcheck across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: OneSixOne, Melbourne on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Roka is a tech house and house artist based in Australia, with 22 gigs on soundc
 
 Séarlait, Char(k), DJ Possum
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

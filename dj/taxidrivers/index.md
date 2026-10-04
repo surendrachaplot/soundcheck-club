@@ -1,6 +1,6 @@
 # Taxi Drivers
 
-Taxi Drivers is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
+Taxi Drivers is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
 
 Taxi Drivers is a house and electro artist based in France, with 23 gigs on soundcheck across Barcelona, Lisbon, Madrid and Paris. Often billed alongside Memphis, SAMPA and Atree. Next up: TBA - LFO, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Taxi Drivers is a house and electro artist based in France, with 23 gigs on soun
 
 Memphis, SAMPA, Atree
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taxidrivers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taxidrivers/)*

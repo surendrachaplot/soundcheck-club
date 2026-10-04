@@ -1,6 +1,6 @@
 # The Subs
 
-The Subs is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+The Subs is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 The Subs is an electro and electronica artist based in Belgium, with 6 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside NEON SHADOW, Amber Broos and Axel Haube. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ The Subs is an electro and electronica artist based in Belgium, with 6 gigs on s
 
 NEON SHADOW, Amber Broos, Axel Haube
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesubs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesubs/)*

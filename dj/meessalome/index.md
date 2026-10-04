@@ -1,6 +1,6 @@
 # Mees Salomé
 
-Mees Salomé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
+Mees Salomé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
 
 Mees Salomé is a techno and house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ibiza and 8 more. Often billed alongside Benny Rodrigues, Miss Melera and Rose Ringed. Next up: De Kromhouthal, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mees Salomé is a techno and house artist based in Netherlands, with 65 gigs on 
 
 Benny Rodrigues, Miss Melera, Rose Ringed
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*

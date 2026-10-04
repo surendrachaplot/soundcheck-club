@@ -1,6 +1,6 @@
 # Seviliya
 
-Seviliya is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Seviliya is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Seviliya is a club and tech house artist based in Ukraine, with 14 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Ilyas S, AXT and Blck-Swan. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Seviliya is a club and tech house artist based in Ukraine, with 14 gigs on sound
 
 Ilyas S, AXT, Blck-Swan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*

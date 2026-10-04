@@ -1,6 +1,6 @@
 # C.Versa
 
-C.Versa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Daphnia, Osaka on Fri, 9 Oct 2026.
+C.Versa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Daphnia, Osaka on Fri, 9 Oct 2026.
 
 C.Versa is a house and techno artist based in Japan, with 7 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Sou Kitahara, Ryogo and kitapon. Next up: Club Daphnia, Osaka on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ C.Versa is a house and techno artist based in Japan, with 7 gigs on soundcheck a
 
 Sou Kitahara, Ryogo, kitapon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*

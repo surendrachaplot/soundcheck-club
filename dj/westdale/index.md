@@ -1,6 +1,6 @@
 # Westdale
 
-Westdale is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
+Westdale is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
 
 Westdale is a techno and bass artist based in Canada, with 17 gigs on soundcheck across Belgrade, Berlin, Leipzig and Mexico City and 3 more. Often billed alongside Skalm, Warzou and Elvira. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Westdale is a techno and bass artist based in Canada, with 17 gigs on soundcheck
 
 Skalm, Warzou, Elvira (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*

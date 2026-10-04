@@ -1,6 +1,6 @@
 # TBA - FORTY, Dundalk 
 
-TBA - FORTY, Dundalk  is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT" on Sat, 31 Oct 2026.
+TBA - FORTY, Dundalk  is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT" on Sat, 31 Oct 2026.
 
 TBA - FORTY, Dundalk  is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including cälpol and ikigai3000. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - FORTY, Dundalk  is a music venue in Dublin listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT | cälpol, ikigai3000 |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-forty-dundalk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-forty-dundalk/)*

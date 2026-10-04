@@ -1,6 +1,6 @@
 # Dasychira
 
-Dasychira is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at XTC Bushwick, New York City on Sat, 10 Oct 2026.
+Dasychira is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at XTC Bushwick, New York City on Sat, 10 Oct 2026.
 
 Dasychira is an experimental and electronica artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Los Angeles and 3 more. Often billed alongside Qualiatik, Sausha and Via App. Next up: XTC Bushwick, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dasychira is an experimental and electronica artist based in United States of Am
 
 Qualiatik, Sausha, Via App
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasychira/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasychira/)*

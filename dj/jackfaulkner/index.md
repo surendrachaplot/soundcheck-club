@@ -1,6 +1,6 @@
 # JACK FAULKNER
 
-JACK FAULKNER is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+JACK FAULKNER is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
 JACK FAULKNER is a deep house and house artist based in United States of America, with 18 gigs on soundcheck across Los Angeles and Puerto Vallarta. Often billed alongside Noir D Costas, David Harness and Sou Saudade. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ JACK FAULKNER is a deep house and house artist based in United States of America
 
 Noir D Costas, David Harness, Sou Saudade
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfaulkner/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackfaulkner/)*

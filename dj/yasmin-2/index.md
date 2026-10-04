@@ -1,6 +1,6 @@
 # Yasmin Sun
 
-Yasmin Sun is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Yasmin Sun is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Yasmin Sun is an electronic artist, with 6 gigs on soundcheck across Berlin, New York City and Tunisia. Often billed alongside Cez, Hubble and Lenny Mailleau. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Yasmin Sun is an electronic artist, with 6 gigs on soundcheck across Berlin, New
 
 Cez (1), Hubble, Lenny Mailleau
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2/)*

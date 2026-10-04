@@ -1,6 +1,6 @@
 # Olekhar
 
-Olekhar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Jama, Toronto on Fri, 9 Oct 2026.
+Olekhar is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Jama, Toronto on Fri, 9 Oct 2026.
 
 Olekhar is a house and electro artist based in Ukraine, with 14 gigs on soundcheck across Toronto. Often billed alongside Milidi, Steve Marto and Alexander Harris. Next up: The Jama, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Olekhar is a house and electro artist based in Ukraine, with 14 gigs on soundche
 
 Milidi, Steve Marto, Alexander Harris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olekhar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olekhar/)*

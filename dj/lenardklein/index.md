@@ -1,6 +1,6 @@
 # Lenard Klein
 
-Lenard Klein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+Lenard Klein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 Lenard Klein is a house and techno artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Athens, Berlin and Copenhagen and 3 more. Often billed alongside Spikey Lee, Haeder and Bunsen. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lenard Klein is a house and techno artist based in Germany, with 86 gigs on soun
 
 Spikey Lee, Haeder, Bunsen
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenardklein/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenardklein/)*

@@ -1,6 +1,6 @@
 # Magic Touch
 
-Magic Touch is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Franca, Los Angeles on Thu, 1 Oct 2026.
+Magic Touch is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Franca, Los Angeles on Thu, 1 Oct 2026.
 
 Magic Touch is a house and disco artist, with 22 gigs on soundcheck across Detroit, London, Los Angeles and San Diego. Often billed alongside AIRS, COLOURS 87 and Chase Aldridge. Next up: Bar Franca, Los Angeles on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Magic Touch is a house and disco artist, with 22 gigs on soundcheck across Detro
 
 AIRS, COLOURS 87, Chase Aldridge
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magictouch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magictouch/)*

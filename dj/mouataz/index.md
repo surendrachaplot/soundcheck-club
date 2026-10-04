@@ -1,6 +1,6 @@
 # Mouataz
 
-Mouataz is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Mouataz is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 Mouataz is a techno and breakbeat artist based in Morocco, with 15 gigs on soundcheck across Brussels, Lyon, Marseille and Paris. Often billed alongside Farah, P errine and Beatrice M.. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Mouataz is a techno and breakbeat artist based in Morocco, with 15 gigs on sound
 
 Farah (2), P errine, Beatrice M.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mouataz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mouataz/)*

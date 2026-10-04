@@ -1,6 +1,6 @@
 # Maison Blanche
 
-Maison Blanche is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Djoon, Paris on Sat, 17 Oct 2026.
+Maison Blanche is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Djoon, Paris on Sat, 17 Oct 2026.
 
 Maison Blanche is a house and electro artist based in France, with 38 gigs on soundcheck across Berlin, London and Paris. Often billed alongside Mira Ló, Blanche and Tour-Maubourg. Next up: Djoon, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Maison Blanche is a house and electro artist based in France, with 38 gigs on so
 
 Mira Ló, Blanche, Tour-Maubourg
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonblanche/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonblanche/)*

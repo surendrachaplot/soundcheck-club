@@ -1,6 +1,6 @@
 # marielou
 
-marielou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
+marielou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
 marielou is a techno and house artist, with 39 gigs on soundcheck across Düsseldorf, Malaga, Milan and Rome and 1 more. Often billed alongside GNMR, Dove Quiete and Trancesetters of Westphalia. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ marielou is a techno and house artist, with 39 gigs on soundcheck across Düssel
 
 GNMR, Dove Quiete, Trancesetters of Westphalia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*

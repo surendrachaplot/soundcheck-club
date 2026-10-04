@@ -1,6 +1,6 @@
 # Beswerda
 
-Beswerda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Beswerda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
 Beswerda is a techno and house artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Brussels, Budapest and Copenhagen and 7 more. Often billed alongside Colyn, VNTM and Mees Salomé. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Beswerda is a techno and house artist based in Netherlands, with 48 gigs on soun
 
 Colyn, VNTM, Mees Salomé
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beswerda/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beswerda/)*

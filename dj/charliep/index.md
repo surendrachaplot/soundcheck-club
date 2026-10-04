@@ -1,6 +1,6 @@
 # Charlie P
 
-Charlie P is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
+Charlie P is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
 
 Charlie P is a dub and bass artist based in United Kingdom, with 11 gigs on soundcheck across Chicago, Geneva, Glasgow and Leeds and 3 more. Often billed alongside O.B.F, Iration Steppas and Prince Fatty. Next up: Zoo, Geneva on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Charlie P is a dub and bass artist based in United Kingdom, with 11 gigs on soun
 
 O.B.F, Iration Steppas, Prince Fatty
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*

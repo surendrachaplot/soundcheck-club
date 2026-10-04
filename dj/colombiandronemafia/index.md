@@ -1,6 +1,6 @@
 # Colombian Drone Mafia
 
-Colombian Drone Mafia is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at BARDO, Milan on Wed, 14 Oct 2026.
+Colombian Drone Mafia is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BARDO, Milan on Wed, 14 Oct 2026.
 
 Colombian Drone Mafia is a techno and electronica artist, with 21 gigs on soundcheck across Berlin, London, Milan and New York City and 1 more. Often billed alongside Nyksan, Ehua and Nick León. Next up: BARDO, Milan on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Colombian Drone Mafia is a techno and electronica artist, with 21 gigs on soundc
 
 Nyksan, Ehua, Nick León
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*

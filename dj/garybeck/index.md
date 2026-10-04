@@ -1,6 +1,6 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Gary Beck is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Gary Beck is a techno and house artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Gary Beck is a techno and house artist based in United Kingdom, with 41 gigs on 
 
 ## Recently played
 
+- Complejo Embrujo, South · Sat, 3 Oct 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
 - The Old Fruitmarket, Glasgow · Sat, 1 Aug 2026
 - La Cheetah Club, Glasgow · Sat, 1 Aug 2026
@@ -21,10 +22,9 @@ Gary Beck is a techno and house artist based in United Kingdom, with 41 gigs on 
 - Moonfield, Antwerp · Fri, 10 Jul 2026
 - The Bongo Club, Edinburgh · Fri, 5 Jun 2026
 - De Vierde Zaal, Ghent · Sat, 25 Apr 2026
-- Kassa Boat, Budapest · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Co-Accused, Frazi.er, Dave Clarke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

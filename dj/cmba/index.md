@@ -1,6 +1,6 @@
 # Cmba
 
-Cmba is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
+Cmba is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
 Cmba is a house and club artist based in Germany, with 17 gigs on soundcheck across Berlin and Sao Paulo. Often billed alongside courtroom drama, anna andersrum and Appleblim. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Cmba is a house and club artist based in Germany, with 17 gigs on soundcheck acr
 
 courtroom drama, anna andersrum, Appleblim
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmba/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmba/)*

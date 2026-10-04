@@ -1,6 +1,6 @@
 # Daniel Alanís
 
-Daniel Alanís is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
+Daniel Alanís is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Downtown Bellas Artes, Mexico City on Sun, 4 Oct 2026.
 
 Daniel Alanís is a techno and dub techno artist based in Mexico, with 13 gigs on soundcheck across Ghent, Mexico City and Montreal. Often billed alongside Yentl., Majo Villalobos and Ursula Prawn. Next up: TBA - Downtown Bellas Artes, Mexico City on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Daniel Alanís is a techno and dub techno artist based in Mexico, with 13 gigs o
 
 Yentl., Majo Villalobos, Ursula Prawn
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielalanís/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielalanís/)*

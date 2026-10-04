@@ -1,6 +1,6 @@
 # TIKOA
 
-TIKOA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OST, Berlin on Thu, 8 Oct 2026.
+TIKOA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Thu, 8 Oct 2026.
 
 TIKOA is a techno and house artist based in Germany, with 48 gigs on soundcheck across Belgrade, Berlin, Brussels and Hamburg and 1 more. Often billed alongside Stallo, CALLE and Hannah Addams. Next up: OST, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ TIKOA is a techno and house artist based in Germany, with 48 gigs on soundcheck 
 
 Stallo, CALLE, Hannah Addams
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*

@@ -1,6 +1,6 @@
 # Mori Ra
 
-Mori Ra is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Teranoma Tidepool, Osaka on Sun, 11 Oct 2026.
+Mori Ra is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Teranoma Tidepool, Osaka on Sun, 11 Oct 2026.
 
 Mori Ra is a disco and house artist based in Japan, with 32 gigs on soundcheck across Brisbane, Hong Kong, Los Angeles and Melbourne and 5 more. Often billed alongside Roy Comanchero, Curumayoi and Black Pomade. Next up: Teranoma Tidepool, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Mori Ra is a disco and house artist based in Japan, with 32 gigs on soundcheck a
 
 Roy Comanchero, Curumayoi, Black Pomade
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morira/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morira/)*

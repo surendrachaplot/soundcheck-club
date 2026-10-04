@@ -1,6 +1,6 @@
 # Umbria Arts
 
-Umbria Arts is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "GhettoMusick" on Sat, 31 Oct 2026.
+Umbria Arts is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "GhettoMusick" on Sat, 31 Oct 2026.
 
 Umbria Arts is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including ALLNATUREL, CalvoMusic, DJ-SUN and DJ Reezey. See dates, start times and who's playing. 5100 Umbria St, Philadelphia, PA 19128.
 
@@ -14,4 +14,4 @@ Umbria Arts is a music venue in Philadelphia listed on soundcheck. 1 upcoming gi
 
 5100 Umbria St, Philadelphia, PA 19128, Philadelphia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/umbria-arts/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/umbria-arts/)*

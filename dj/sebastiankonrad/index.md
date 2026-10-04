@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Sebastian Konrad is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Sebastian Konrad is a house and afro house artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 8 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sebastian Konrad is a house and afro house artist based in Switzerland, with 56 
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

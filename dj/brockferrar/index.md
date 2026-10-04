@@ -1,6 +1,6 @@
 # Brock Ferrar
 
-Brock Ferrar is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Brightside, Brisbane on Sun, 15 Nov 2026.
+Brock Ferrar is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Brightside, Brisbane on Sun, 15 Nov 2026.
 
 Brock Ferrar is a techno and minimal artist, with 11 gigs on soundcheck across Brisbane, Melbourne, Osaka and Tokyo. Often billed alongside Jmcee, Crozier and Hannah D. Next up: The Brightside, Brisbane on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Brock Ferrar is a techno and minimal artist, with 11 gigs on soundcheck across B
 
 Jmcee, Crozier, Hannah D
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brockferrar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brockferrar/)*

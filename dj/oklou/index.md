@@ -1,6 +1,6 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+Oklou is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
 Oklou is an experimental and pop artist based in France, with 34 gigs on soundcheck across Amsterdam, Bristol, Brussels and Chicago and 16 more. Often billed alongside Erika de Casier, james K and Nick León. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Oklou is an experimental and pop artist based in France, with 34 gigs on soundch
 
 Erika de Casier, james K, Nick León
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*

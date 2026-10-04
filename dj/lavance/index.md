@@ -1,6 +1,6 @@
 # Lavance
 
-Lavance is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 3 Oct 2026.
+Lavance is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 3 Oct 2026.
 
 Lavance is a drum & bass and club artist based in Belgium, with 7 gigs on soundcheck across Brussels, Ghent, Porto and Tokyo. Often billed alongside Bredren, Aliceyuki and Amoss. Next up: VIERNULVIER, Ghent on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Lavance is a drum & bass and club artist based in Belgium, with 7 gigs on soundc
 
 ## Recently played
 
+- VIERNULVIER, Ghent · Sat, 3 Oct 2026
 - Chinastraat, Ghent · Sat, 8 Aug 2026
 - Chinastraat, Ghent · Sat, 8 Nov 2025
 - S Nightclub, Tokyo · Sat, 8 Mar 2025
@@ -23,4 +24,4 @@ Lavance is a drum & bass and club artist based in Belgium, with 7 gigs on soundc
 
 Bredren, Aliceyuki, Amoss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavance/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavance/)*

@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Deeper's Club at ONE NIGHT. BACK2BERJA IS BACK" on Sat, 10 Oct 2026.
+X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Deeper's Club at ONE NIGHT. BACK2BERJA IS BACK" on Sat, 10 Oct 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Warp, DPAZ, Jaime O'Connor and Jama Deejay and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

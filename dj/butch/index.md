@@ -1,6 +1,6 @@
 # Butch
 
-Butch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
+Butch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
 
 Butch is a house and tech house artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Toman, Nic Fanciulli and Solomun. Next up: Chinois Ibiza, Ibiza on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Butch is a house and tech house artist based in Germany, with 56 gigs on soundch
 
 Toman, Nic Fanciulli, Solomun
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*

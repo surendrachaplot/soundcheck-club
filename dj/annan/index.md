@@ -1,6 +1,6 @@
 # anna(n)
 
-anna(n) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 9 Oct 2026.
+anna(n) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 9 Oct 2026.
 
 anna(n) is a techno and house artist based in Sweden, with 26 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: QQQ ST. Park, Melbourne on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ anna(n) is a techno and house artist based in Sweden, with 26 gigs on soundcheck
 
 Charlotte Rooney, Hasvat Informant, ADMINISTRATOR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*

@@ -1,6 +1,6 @@
 # Afonso Peixoto
 
-Afonso Peixoto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 16 Oct 2026.
+Afonso Peixoto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 16 Oct 2026.
 
 Afonso Peixoto is a techno and house artist based in Portugal, with 41 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside Yizhaq, Varela and AAguilAA. Next up: Lux Fragil, Lisbon on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Afonso Peixoto is a techno and house artist based in Portugal, with 41 gigs on s
 
 Yizhaq, Varela, AAguilAA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*

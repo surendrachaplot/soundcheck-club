@@ -1,6 +1,6 @@
 # Nycky Estrella
 
-Nycky Estrella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
+Nycky Estrella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
 
 Nycky Estrella is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Leipzig. Often billed alongside Rakans, SOCIAL VLAD and DiskoTitties. Next up: Giri, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nycky Estrella is a house and techno artist based in Germany, with 18 gigs on so
 
 Rakans, SOCIAL VLAD, DiskoTitties
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyckyestrella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyckyestrella/)*

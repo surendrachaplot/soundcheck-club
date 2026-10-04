@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sala Urbana, Mexico City on Fri, 9 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Urbana, Mexico City on Fri, 9 Oct 2026.
 
 KLOFAMA is a techno and industrial artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Sala Urbana, Mexico City on Fri 9 Oct.
 
@@ -23,6 +23,7 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 106 gigs on
 
 ## Recently played
 
+- TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
 - The Yard Vienna, Vienna · Sat, 12 Sept 2026
 - O2 Academy, Glasgow · Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 106 gigs on
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 - Eden, Ibiza · Tue, 21 Jul 2026
-- Spook Club, Valencia · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 KARAH, SLVL, Fantasm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

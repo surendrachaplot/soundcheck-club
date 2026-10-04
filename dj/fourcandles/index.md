@@ -1,6 +1,6 @@
 # Four Candles
 
-Four Candles is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The 212 Café & Bar, Leeds on Sat, 28 Nov 2026.
+Four Candles is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The 212 Café & Bar, Leeds on Sat, 28 Nov 2026.
 
 Four Candles is a progressive house and electronica artist, with 6 gigs on soundcheck across Buenos Aires, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside John Digweed, Aidan Doherty and Jody Barr. Next up: The 212 Café & Bar, Leeds on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Four Candles is a progressive house and electronica artist, with 6 gigs on sound
 
 John Digweed, Aidan Doherty, Jody Barr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourcandles/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourcandles/)*

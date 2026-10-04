@@ -1,6 +1,6 @@
 # Gina Turner
 
-Gina Turner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Crown, New York City on Sat, 17 Oct 2026.
+Gina Turner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Crown, New York City on Sat, 17 Oct 2026.
 
 Gina Turner is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Denver, Los Angeles, Miami and Milan and 3 more. Often billed alongside CRSPY, Louisahhh and samisosa. Next up: The Crown, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Gina Turner is a house and techno artist based in United States of America, with
 
 CRSPY, Louisahhh, samisosa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginaturner/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginaturner/)*

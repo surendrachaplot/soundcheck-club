@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
+Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
 
 Huerta is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Haus der Visionäre, Berlin on Thu 8 Oct.
 
@@ -29,4 +29,4 @@ Huerta is a house and techno artist based in United States of America, with 125 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

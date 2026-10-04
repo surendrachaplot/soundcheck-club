@@ -1,6 +1,6 @@
 # Mafalda Mais
 
-Mafalda Mais is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Collect LX Factory, Lisbon on Thu, 15 Oct 2026.
+Mafalda Mais is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Collect LX Factory, Lisbon on Thu, 15 Oct 2026.
 
 Mafalda Mais is a house and bass artist, with 15 gigs on soundcheck across Lisbon and Porto. Often billed alongside Caroline Lethô, Mayan (PT) and puçanga. Next up: Collect LX Factory, Lisbon on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Mafalda Mais is a house and bass artist, with 15 gigs on soundcheck across Lisbo
 
 Caroline Lethô, Mayan (PT), puçanga
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafaldamais/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafaldamais/)*

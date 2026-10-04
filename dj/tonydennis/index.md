@@ -1,6 +1,6 @@
 # Tony Dennis
 
-Tony Dennis is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Tony Dennis is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Tony Dennis is a techno and deep house artist based in United States of America, with 14 gigs on soundcheck across Detroit. Often billed alongside Bruce Bailey, Al Ester and Ashton Swinton. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Tony Dennis is a techno and deep house artist based in United States of America,
 
 Bruce Bailey, Al Ester, Ashton Swinton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydennis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydennis/)*

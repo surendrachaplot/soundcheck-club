@@ -1,6 +1,6 @@
 # Gio Frangishvili
 
-Gio Frangishvili is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Gio Frangishvili is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Gio Frangishvili is an electronic artist based in Georgia, with 14 gigs on soundcheck across Tbilisi. Often billed alongside Giorgi Devadze, Bero and Generali Minerali. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gio Frangishvili is an electronic artist based in Georgia, with 14 gigs on sound
 
 Giorgi Devadze, Bero, Generali Minerali
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giofrangishvili/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giofrangishvili/)*

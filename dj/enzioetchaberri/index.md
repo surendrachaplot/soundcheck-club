@@ -1,6 +1,6 @@
 # Enzio Etchaberri
 
-Enzio Etchaberri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 25 Nov 2026.
+Enzio Etchaberri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 25 Nov 2026.
 
 Enzio Etchaberri is a house and techno artist, with 56 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Tresor / Globus, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Enzio Etchaberri is a house and techno artist, with 56 gigs on soundcheck across
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*

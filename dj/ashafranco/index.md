@@ -1,6 +1,6 @@
 # Asha Franco
 
-Asha Franco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
+Asha Franco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Black Bear Lodge, Brisbane on Sun, 4 Oct 2026.
 
 Asha Franco is a house and disco artist, with 22 gigs on soundcheck across Brisbane and Melbourne. Often billed alongside Mark Moon, Zjoso and AceMo. Next up: Black Bear Lodge, Brisbane on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Asha Franco is a house and disco artist, with 22 gigs on soundcheck across Brisb
 
 Mark Moon, Zjoso, AceMo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*

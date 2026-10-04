@@ -1,6 +1,6 @@
 # CøkiT
 
-CøkiT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
+CøkiT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
 
 CøkiT is a techno and house artist based in Italy, with 15 gigs on soundcheck across Copenhagen. Often billed alongside VI/TO, Midele and DJ Void. Next up: Culture Box, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CøkiT is a techno and house artist based in Italy, with 15 gigs on soundcheck a
 
 VI/TO, Midele, DJ Void
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cokit-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cokit-2/)*

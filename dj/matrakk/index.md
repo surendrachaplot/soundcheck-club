@@ -1,6 +1,6 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
+MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
 MATRAKK is a techno and trance artist based in France, with 90 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside 2HOT2PLAY, CLTX and Maudux. Next up: Warehouse, Nantes on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ MATRAKK is a techno and trance artist based in France, with 90 gigs on soundchec
 
 2HOT2PLAY, CLTX, Maudux
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*

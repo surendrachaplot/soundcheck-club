@@ -1,6 +1,6 @@
 # Flora Yin-Wong
 
-Flora Yin-Wong is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarry, Liverpool on Fri, 9 Oct 2026.
+Flora Yin-Wong is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarry, Liverpool on Fri, 9 Oct 2026.
 
 Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 19 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Ana Quiroga and Astrid Sonne. Next up: Quarry, Liverpool on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, wi
 
 Ekaterina Bazhenova-Yamasaki, Ana Quiroga, Astrid Sonne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*

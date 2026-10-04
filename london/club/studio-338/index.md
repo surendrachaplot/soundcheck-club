@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Official Karan Aujla Concert After Party - Studio 338" on Sun, 4 Oct 2026.
+Studio 338 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Official Karan Aujla Concert After Party - Studio 338" on Sun, 4 Oct 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including ASHOJU, Bontan, Chicks Luv Us and DELTA LABS and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -20,4 +20,4 @@ Studio 338 is a music venue in London listed on soundcheck. 7 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

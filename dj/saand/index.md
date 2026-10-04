@@ -1,6 +1,6 @@
 # SAAND
 
-SAAND is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 9 Oct 2026.
+SAAND is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Napa Music Hall, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 SAAND is a house and deep house artist based in United States of America, with 25 gigs on soundcheck across Los Angeles, Mexico City, Miami and San Diego and 1 more. Often billed alongside Ali Gria, Terry Jasinto and AMIRA. Next up: Napa Music Hall, San Francisco/Oakland on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SAAND is a house and deep house artist based in United States of America, with 2
 
 Ali Gria, Terry Jasinto, AMIRA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saand/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saand/)*

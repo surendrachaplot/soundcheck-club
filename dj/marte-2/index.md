@@ -1,6 +1,6 @@
 # Marte (US)
 
-Marte (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 10 Oct 2026.
+Marte (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 10 Oct 2026.
 
 Marte (US) is a house and tech house artist based in Venezuela, with 52 gigs on soundcheck across Chicago, Los Angeles and Miami. Often billed alongside SATURNSARii, 1-800-Lolita and XANA (US). Next up: Jolene Downtown Miami, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marte (US) is a house and tech house artist based in Venezuela, with 52 gigs on 
 
 SATURNSARii, 1-800-Lolita, XANA (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*

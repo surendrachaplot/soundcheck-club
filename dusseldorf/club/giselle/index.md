@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAW SOUL with Flashbaxx (Live), Svenson, Anton" on Sat, 3 Oct 2026.
+Giselle is a music venue in Düsseldorf with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAW SOUL with Flashbaxx (Live), Svenson, Anton" on Sat, 3 Oct 2026.
 
 Giselle is a music venue in Düsseldorf listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Flatbeat, Flashbaxx, Lavan and Mille (DE) and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -16,4 +16,4 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 3 upcoming gigs, w
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

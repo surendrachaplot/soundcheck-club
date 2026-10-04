@@ -1,6 +1,6 @@
 # Francesco Rizzi
 
-Francesco Rizzi is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Francesco Rizzi is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Francesco Rizzi is a downtempo and deep house artist based in Germany, with 27 gigs on soundcheck across Berlin, Stuttgart and Zurich. Often billed alongside Adrian Schneider, Tvísker and Brigade. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Francesco Rizzi is a downtempo and deep house artist based in Germany, with 27 g
 
 Adrian Schneider, Tvísker, Brigade
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescorizzi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescorizzi/)*

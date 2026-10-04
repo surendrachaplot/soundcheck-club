@@ -1,6 +1,6 @@
 # Westminster Pier
 
-Westminster Pier is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "New Year's Eve London 2026/27 - Fireworks View Thames Boat Party" on Thu, 31 Dec 2026.
+Westminster Pier is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "New Year's Eve London 2026/27 - Fireworks View Thames Boat Party" on Thu, 31 Dec 2026.
 
 Westminster Pier is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Westminster Pier, London, SW1A 2JH.
 
@@ -14,4 +14,4 @@ Westminster Pier is a music venue in London listed on soundcheck. 1 upcoming gig
 
 Westminster Pier, London, SW1A 2JH, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/westminster-pier/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/westminster-pier/)*

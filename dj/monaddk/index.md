@@ -1,6 +1,6 @@
 # MONAD (DK)
 
-MONAD (DK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
+MONAD (DK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tap1, Copenhagen on Sat, 3 Oct 2026.
 
 MONAD (DK) is a techno and progressive house artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Desaint (DK), AELVA K and Aja Gulris. Next up: Tap1, Copenhagen on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ MONAD (DK) is a techno and progressive house artist based in Denmark, with 6 gig
 
 ## Recently played
 
+- Tap1, Copenhagen · Sat, 3 Oct 2026
 - MODULE, Copenhagen · Sat, 20 Jun 2026
 - MODULE, Copenhagen · Wed, 1 Apr 2026
 - Tap 1, Copenhagen · Sat, 15 Nov 2025
@@ -22,4 +23,4 @@ MONAD (DK) is a techno and progressive house artist based in Denmark, with 6 gig
 
 Desaint (DK), AELVA K, Aja Gulris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monaddk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monaddk/)*

@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sun, 11 Oct 2026.
+Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sun, 11 Oct 2026.
 
 Baldo is a house and acid artist based in Spain, with 82 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Les Enfants Brillants, Barcelona on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Baldo is a house and acid artist based in Spain, with 82 gigs on soundcheck acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

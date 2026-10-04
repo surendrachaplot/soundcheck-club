@@ -1,6 +1,6 @@
 # L.Sangre
 
-L.Sangre is a Industrial and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
+L.Sangre is a Industrial and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
 
 L.Sangre is an industrial and minimal artist based in United States of America, with 29 gigs on soundcheck across Montreal and New York City. Often billed alongside Heidi Sabertooth, R Gamble and Xeno & Oaklander. Next up: Red Roof Church, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ L.Sangre is an industrial and minimal artist based in United States of America, 
 
 Heidi Sabertooth, R Gamble, Xeno & Oaklander
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*

@@ -1,6 +1,6 @@
 # Dj Pepo
 
-Dj Pepo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Barraca, Valencia on Sat, 14 Nov 2026.
+Dj Pepo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Barraca, Valencia on Sat, 14 Nov 2026.
 
 Dj Pepo is a techno and industrial artist based in Spain, with 33 gigs on soundcheck across Barcelona, Madrid, Malaga and Naples and 2 more. Often billed alongside Cristian Varela, Abel Ramos and CESAR ALMENA. Next up: Barraca, Valencia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dj Pepo is a techno and industrial artist based in Spain, with 33 gigs on soundc
 
 Cristian Varela, Abel Ramos, CESAR ALMENA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpepo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpepo/)*

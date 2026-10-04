@@ -1,6 +1,6 @@
 # Titi Calor
 
-Titi Calor is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
+Titi Calor is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
 
 Titi Calor is an experimental and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona, Berlin and Rome. Often billed alongside AG, AMARANTE and CAPITANA. Next up: Meteoro, Barcelona on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Titi Calor is an experimental and techno artist based in Spain, with 8 gigs on s
 
 AG (1), AMARANTE, CAPITANA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titicalor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titicalor/)*

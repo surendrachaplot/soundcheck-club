@@ -1,6 +1,6 @@
 # o0 (1)
 
-o0 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
+o0 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
 
 o0 is a techno and house artist based in China, with 30 gigs on soundcheck across Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside Jascer, mingo and Alion. Next up: OIL Club, Shenzhen on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ o0 is a techno and house artist based in China, with 30 gigs on soundcheck acros
 
 Jascer, mingo, Alion
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o0-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o0-1/)*

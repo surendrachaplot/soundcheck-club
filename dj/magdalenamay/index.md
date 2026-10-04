@@ -1,6 +1,6 @@
 # MAGDALENA MAY
 
-MAGDALENA MAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
+MAGDALENA MAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
 
 MAGDALENA MAY is a techno and house artist based in Germany, with 46 gigs on soundcheck across Basel, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside TIKOA, M21SIX and Alina Viktoria. Next up: elipamanoke, Leipzig on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MAGDALENA MAY is a techno and house artist based in Germany, with 46 gigs on sou
 
 TIKOA, M21SIX, Alina Viktoria
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalenamay/)*

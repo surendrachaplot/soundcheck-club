@@ -1,6 +1,6 @@
 # Karolkode
 
-Karolkode is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
+Karolkode is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
 
 Karolkode is a minimal techno and techno artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside MEAKIN, I-DA and MARIUS SEBASTIAN. Next up: HQI, London on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Karolkode is a minimal techno and techno artist based in United Kingdom, with 8 
 
 MEAKIN, I-DA, MARIUS SEBASTIAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolkode/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolkode/)*

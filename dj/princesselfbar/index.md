@@ -1,6 +1,6 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vespers Club, London on Sat, 17 Oct 2026.
+Princess Elf Bar is a Trance and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vespers Club, London on Sat, 17 Oct 2026.
 
 Princess Elf Bar is a trance and techno artist based in United Kingdom, with 165 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: Vespers Club, London on Sat 17 Oct.
 
@@ -35,4 +35,4 @@ Princess Elf Bar is a trance and techno artist based in United Kingdom, with 165
 
 AYDJ, Anop, ASHTYLR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

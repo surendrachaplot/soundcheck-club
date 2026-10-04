@@ -1,6 +1,6 @@
 # Yannick Müller
 
-Yannick Müller is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Yannick Müller is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Yannick Müller is a techno and house artist based in Switzerland, with 22 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside MøønkiZa, Avocado and David Hasert. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Yannick Müller is a techno and house artist based in Switzerland, with 22 gigs 
 
 MøønkiZa, Avocado, David Hasert
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickmuller/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yannickmuller/)*

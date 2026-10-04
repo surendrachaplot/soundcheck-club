@@ -1,6 +1,6 @@
 # Darling Cool
 
-Darling Cool is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Darling Cool is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Darling Cool is a house and afro house artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland and 1 more. Often billed alongside Chriz Javey, Joogmac and 2theT. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Darling Cool is a house and afro house artist based in United States of America,
 
 Chriz Javey, Joogmac, 2theT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*

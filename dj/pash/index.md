@@ -1,6 +1,6 @@
 # Pash
 
-Pash is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Pash is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Pash is a techno and tech house artist, with 11 gigs on soundcheck across Auckland, Basel, Istanbul and Lisbon and 2 more. Often billed alongside 1luu, AROHA and ATTEMPT. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Pash is a techno and tech house artist, with 11 gigs on soundcheck across Auckla
 
 1luu, AROHA, ATTEMPT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pash/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pash/)*

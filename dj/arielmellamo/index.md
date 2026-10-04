@@ -1,6 +1,6 @@
 # Ariel me Llamo
 
-Ariel me Llamo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quinta Catedral Ciudad del Este, Paraguay on Fri, 9 Oct 2026.
+Ariel me Llamo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quinta Catedral Ciudad del Este, Paraguay on Fri, 9 Oct 2026.
 
 Ariel me Llamo is a techno and house artist based in Paraguay, with 21 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Martino Boga, ADREE and Ed Warner. Next up: Quinta Catedral Ciudad del Este, Paraguay on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ariel me Llamo is a techno and house artist based in Paraguay, with 21 gigs on s
 
 Martino Boga, ADREE, Ed Warner
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielmellamo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielmellamo/)*

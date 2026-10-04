@@ -1,6 +1,6 @@
 # alllone
 
-alllone is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
+alllone is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 alllone is a jungle and bass artist based in Austria, with 23 gigs on soundcheck across Berlin. Often billed alongside Turrican, Dub Isotope and Mc Jamie White. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ alllone is a jungle and bass artist based in Austria, with 23 gigs on soundcheck
 
 ## Recently played
 
+- Void Club, Berlin · Sat, 3 Oct 2026
 - YAAM Berlin, Berlin · Sat, 26 Sept 2026
 - Mucha, Berlin · Fri, 11 Sept 2026
 - Gretchen, Berlin · Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ alllone is a jungle and bass artist based in Austria, with 23 gigs on soundcheck
 - Void Club, Berlin · Sat, 28 Mar 2026
 - Der Kegel, Berlin · Fri, 20 Mar 2026
 - Gretchen, Berlin · Fri, 13 Feb 2026
-- Lauschangriff, Berlin · Thu, 8 Jan 2026
 
 ## Shares bills with
 
 Turrican, Dub Isotope, Mc Jamie White
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alllone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alllone/)*

@@ -1,6 +1,6 @@
 # Big Cee
 
-Big Cee is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+Big Cee is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
 Big Cee is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: California Plaza, Los Angeles on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Big Cee is a house and deep house artist based in United States of America, with
 
 Marques Wyatt, Anton Tumas, Bollo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigcee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigcee/)*

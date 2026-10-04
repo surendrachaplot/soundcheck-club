@@ -1,6 +1,6 @@
 # Casska
 
-Casska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bourbon On Division, Chicago on Sat, 10 Oct 2026.
+Casska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bourbon On Division, Chicago on Sat, 10 Oct 2026.
 
 Casska is a techno and house artist, with 26 gigs on soundcheck across Chicago, Los Angeles, Paris and San Diego and 1 more. Often billed alongside Cyberia Lain, -CZAR and CLAWZ. Next up: Bourbon On Division, Chicago on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Casska is a techno and house artist, with 26 gigs on soundcheck across Chicago, 
 
 Cyberia Lain, -CZAR, CLAWZ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casska/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casska/)*

@@ -1,6 +1,6 @@
 # Julian Justin
 
-Julian Justin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Madam, Amsterdam on Sat, 28 Nov 2026.
+Julian Justin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madam, Amsterdam on Sat, 28 Nov 2026.
 
 Julian Justin is a tech house and house artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Nitefield, ADEZ and Alexia. Next up: Madam, Amsterdam on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Julian Justin is a tech house and house artist based in Netherlands, with 7 gigs
 
 Nitefield, ADEZ, Alexia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjustin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjustin/)*

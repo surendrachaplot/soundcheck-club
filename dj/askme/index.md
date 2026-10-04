@@ -1,6 +1,6 @@
 # ASK:ME
 
-ASK:ME is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Thu, 22 Oct 2026.
+ASK:ME is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Thu, 22 Oct 2026.
 
 ASK:ME is a techno and tech house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 4 more. Often billed alongside Anna Tur, Simina Grigoriu and Felix Kröcher. Next up: TBA - EIVISSA, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ ASK:ME is a techno and tech house artist based in Germany, with 25 gigs on sound
 
 Anna Tur, Simina Grigoriu, Felix Kröcher
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/askme/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/askme/)*

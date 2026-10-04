@@ -1,6 +1,6 @@
 # Eurodance2000
 
-Eurodance2000 is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Odonien, Cologne on Wed, 7 Oct 2026.
+Eurodance2000 is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Odonien, Cologne on Wed, 7 Oct 2026.
 
 Eurodance2000 is a trance and techno artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, OCIN and Scrappy Coco. Next up: Odonien, Cologne on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ Eurodance2000 is a trance and techno artist based in Germany, with 46 gigs on so
 
 Kacy, OCIN, Scrappy Coco
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurodance2000/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurodance2000/)*

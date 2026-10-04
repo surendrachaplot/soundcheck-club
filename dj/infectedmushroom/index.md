@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Infected Mushroom is a Psytrance and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Infected Mushroom is a psytrance and trance artist based in Israel, with 50 gigs on soundcheck across Athens, Austin, Berlin and Boston and 24 more. Often billed alongside Angerfist, Astrix and Billy Gillies. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Infected Mushroom is a psytrance and trance artist based in Israel, with 50 gigs
 
 Angerfist, Astrix, Billy Gillies
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

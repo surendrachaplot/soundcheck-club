@@ -1,6 +1,6 @@
 # Phraba
 
-Phraba is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
+Phraba is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Street Smash Burgers, Milan on Thu, 15 Oct 2026.
 
 Phraba is a house and electro artist, with 11 gigs on soundcheck across Milan. Often billed alongside Coni, Francesco Peregalli and Larry Masmero. Next up: TBA - Street Smash Burgers, Milan on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Phraba is a house and electro artist, with 11 gigs on soundcheck across Milan. O
 
 Coni (2), Francesco Peregalli, Larry Masmero
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Phraba/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Phraba/)*

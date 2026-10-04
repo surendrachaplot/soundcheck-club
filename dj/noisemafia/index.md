@@ -1,6 +1,6 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Radius, Chicago on Sat, 3 Oct 2026.
+Noise Mafia is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Radius, Chicago on Sat, 3 Oct 2026.
 
 Noise Mafia is a techno and trance artist based in Colombia, with 70 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 28 more. Often billed alongside PETERBLUE, Afem Syko and Adrian Mills. Next up: Radius, Chicago on Sat 3 Oct.
 
@@ -21,6 +21,7 @@ Noise Mafia is a techno and trance artist based in Colombia, with 70 gigs on sou
 
 ## Recently played
 
+- Radius, Chicago · Sat, 3 Oct 2026
 - Domicile, Miami · Fri, 2 Oct 2026
 - fabric, London · Fri, 18 Sept 2026
 - Fabrik, Madrid · Sat, 12 Sept 2026
@@ -28,10 +29,9 @@ Noise Mafia is a techno and trance artist based in Colombia, with 70 gigs on sou
 - Loo Loo, Mexico City · Sat, 29 Aug 2026
 - Artheater, Cologne · Fri, 7 Aug 2026
 - Le point fort d'Aubervilliers, Paris · Sat, 1 Aug 2026
-- Rex Club, Paris · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 PETERBLUE, Afem Syko, Adrian Mills
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*

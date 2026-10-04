@@ -1,6 +1,6 @@
 # Massano
 
-Massano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Dome, Liverpool on Sat, 3 Oct 2026.
+Massano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Dome, Liverpool on Sat, 3 Oct 2026.
 
 Massano is a techno and house artist based in United Kingdom, with 166 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 52 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: The Dome, Liverpool on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ Massano is a techno and house artist based in United Kingdom, with 166 gigs on s
 
 ## Recently played
 
+- The Dome, Liverpool · Sat, 3 Oct 2026
 - Poolen, Copenhagen · Fri, 2 Oct 2026
 - Coda, Toronto · Sat, 26 Sept 2026
 - Factory Town, Miami · Fri, 25 Sept 2026
@@ -27,10 +28,9 @@ Massano is a techno and house artist based in United Kingdom, with 166 gigs on s
 - Lofi, Amsterdam · Sat, 12 Sept 2026
 - Bolivar Beach Bar, Athens · Fri, 11 Sept 2026
 - Amnesia Ibiza, Ibiza · Wed, 9 Sept 2026
-- [UNVRS], Ibiza · Mon, 31 Aug 2026
 
 ## Shares bills with
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

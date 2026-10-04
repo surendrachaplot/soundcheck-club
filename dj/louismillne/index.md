@@ -1,6 +1,6 @@
 # Louis Millne
 
-Louis Millne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 9 Oct 2026.
+Louis Millne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 9 Oct 2026.
 
 Louis Millne is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Ibiza, Leeds and Liverpool and 4 more. Often billed alongside GW Harrison, Will Wiley and Danny Howard. Next up: Joshua Brooks, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Louis Millne is a house and tech house artist based in United Kingdom, with 18 g
 
 GW Harrison, Will Wiley, Danny Howard
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louismillne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louismillne/)*

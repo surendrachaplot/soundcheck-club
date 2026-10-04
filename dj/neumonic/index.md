@@ -1,6 +1,6 @@
 # Neumonic
 
-Neumonic is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Barbary, Philadelphia on Thu, 19 Nov 2026.
+Neumonic is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Barbary, Philadelphia on Thu, 19 Nov 2026.
 
 Neumonic is a garage and house artist based in United States of America, with 27 gigs on soundcheck across Chicago, Denver, Los Angeles and New York City and 6 more. Often billed alongside DWATA, Justin Jay and Nightware. Next up: The Barbary, Philadelphia on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Neumonic is a garage and house artist based in United States of America, with 27
 
 DWATA, Justin Jay, Nightware
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*

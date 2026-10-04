@@ -1,6 +1,6 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mercati Generali, Sicily on Sat, 3 Oct 2026.
+East End Dubs is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mercati Generali, Sicily on Sat, 3 Oct 2026.
 
 East End Dubs is a house and tech house artist based in United Kingdom, with 285 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Mercati Generali, Sicily on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 285
 
 ## Recently played
 
+- Mercati Generali, Sicily · Sat, 3 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 29 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 22 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 285
 - Hï Ibiza, Ibiza · Tue, 8 Sept 2026
 - BCM, Mallorca · Thu, 3 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 1 Sept 2026
-- Jardins de Joan Brossa, Barcelona · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

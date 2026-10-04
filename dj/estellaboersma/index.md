@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Estella Boersma is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
 Estella Boersma is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ Estella Boersma is a techno and house artist based in Germany, with 179 gigs on 
 
 ## Recently played
 
+- Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - ZEROTOKYO, Tokyo · Sun, 20 Sept 2026
 - UNDERCITY, Seoul · Sat, 19 Sept 2026
@@ -27,10 +28,9 @@ Estella Boersma is a techno and house artist based in Germany, with 179 gigs on 
 - Hï Ibiza, Ibiza · Sun, 6 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
 - Virage, Paris · Fri, 14 Aug 2026
-- UNO MALTA, Malta · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

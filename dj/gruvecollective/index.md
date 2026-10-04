@@ -1,6 +1,6 @@
 # Gruve Collective
 
-Gruve Collective is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Wych, Toronto on Fri, 9 Oct 2026.
+Gruve Collective is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Wych, Toronto on Fri, 9 Oct 2026.
 
 Gruve Collective is a downtempo and electronica artist based in Canada, with 11 gigs on soundcheck across Toronto. Often billed alongside Fame Diet, Sean Savage and Sixtroke. Next up: The Wych, Toronto on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Gruve Collective is a downtempo and electronica artist based in Canada, with 11 
 
 Fame Diet, Sean Savage, Sixtroke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gruvecollective/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gruvecollective/)*

@@ -1,6 +1,6 @@
 # Bassel Darwish
 
-Bassel Darwish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Loft 22 at Ummo, Chicago on Thu, 1 Oct 2026.
+Bassel Darwish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Loft 22 at Ummo, Chicago on Thu, 1 Oct 2026.
 
 Bassel Darwish is a tech house and house artist based in Spain, with 41 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 14 more. Often billed alongside Dennis Cruz, KinAhau and Vidaloca. Next up: Loft 22 at Ummo, Chicago on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Bassel Darwish is a tech house and house artist based in Spain, with 41 gigs on 
 
 Dennis Cruz, KinAhau, Vidaloca
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*

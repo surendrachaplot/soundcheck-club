@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+DJ Holographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -21,6 +21,7 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - TBA, Detroit · Fri, 2 Oct 2026
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 26 Sept 2026
 - Los Globos, Los Angeles · Fri, 25 Sept 2026
@@ -28,10 +29,9 @@ DJ Holographic is a house and techno artist based in United States of America, w
 - Palais, London · Fri, 11 Sept 2026
 - The Midway, San Francisco/Oakland · Sat, 5 Sept 2026
 - The Midway, San Francisco/Oakland · Sat, 5 Sept 2026
-- Under the K Bridge, New York City · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+HearThug is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 61 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ HearThug is a house and electro artist based in Tunisia, with 61 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

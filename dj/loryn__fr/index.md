@@ -1,6 +1,6 @@
 # loryn (FR)
 
-loryn (FR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
+loryn (FR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 loryn (FR) is a house and electro artist based in France, with 22 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Alyhas, HearThug and IAMBP. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ loryn (FR) is a house and electro artist based in France, with 22 gigs on soundc
 
 Alyhas, HearThug, IAMBP
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn__fr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn__fr/)*

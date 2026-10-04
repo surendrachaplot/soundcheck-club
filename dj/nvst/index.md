@@ -1,6 +1,6 @@
 # NVST
 
-NVST is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Valencia on Tue, 13 Oct 2026.
+NVST is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Valencia on Tue, 13 Oct 2026.
 
 NVST is a techno and bass artist based in Switzerland, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside ojoo, Zohar and Mika Oki. Next up: TBA, Valencia on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ NVST is a techno and bass artist based in Switzerland, with 128 gigs on soundche
 
 ojoo, Zohar, Mika Oki
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*

@@ -1,6 +1,6 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
+Tania Atyabi is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Fri, 20 Nov 2026.
 
 Tania Atyabi is an electro and italo disco artist, with 24 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: radial, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tania Atyabi is an electro and italo disco artist, with 24 gigs on soundcheck ac
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

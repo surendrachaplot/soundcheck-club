@@ -1,6 +1,6 @@
 # PALLAR
 
-PALLAR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
+PALLAR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
 PALLAR is a techno and trance artist based in France, with 13 gigs on soundcheck across Nantes. Often billed alongside Discostouf, KOLLER and Da:mu. Next up: Macadam, Nantes on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ PALLAR is a techno and trance artist based in France, with 13 gigs on soundcheck
 
 Discostouf, KOLLER, Da:mu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pallar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pallar/)*

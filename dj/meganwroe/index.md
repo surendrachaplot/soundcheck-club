@@ -1,6 +1,6 @@
 # Megan Wroe
 
-Megan Wroe is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
+Megan Wroe is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yes, Manchester on Fri, 23 Oct 2026.
 
 Megan Wroe is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Amsterdam, Birmingham and Brighton and 10 more. Often billed alongside Silva Bumpa, DAISY and Prozak (IRL). Next up: Yes, Manchester on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Megan Wroe is a garage and house artist based in United Kingdom, with 43 gigs on
 
 Silva Bumpa, DAISY, Prozak (IRL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganwroe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganwroe/)*

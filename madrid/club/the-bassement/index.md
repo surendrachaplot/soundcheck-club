@@ -1,15 +1,14 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LASTER presents DÉCIMA by Nørbak with Surgeon" on Sat, 3 Oct 2026.
+The Bassement is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LASTER presents DÉCIMA by Nørbak with Surgeon" on Sat, 3 Oct 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Anthony Godfather, Blasha & Allatt and Chami and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | LASTER presents DÉCIMA by Nørbak with Surgeon | Nørbak, Surgeon |
-| Sat, 3 Oct 2026 | Hop on The Top MADRID - Hip Hop / R&B / Funk / Soul - The Bassement Club | DJ AMAZING |
 | Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 | Sat, 10 Oct 2026 | Laster Club presents Claudio PRC & Isabel Soto [All Night Long] | Claudio PRC, Isabel Soto |
 | Thu, 15 Oct 2026 | DVRKSUN MADRID ROUND 2 | Daniella da Silva, Parsa Jafari, RIKHTER |
@@ -18,9 +17,10 @@ The Bassement is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 | Sun, 1 Nov 2026 | Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER | JakoJako, Kameliia, Roll Dann, Rødhåd |
 | Sat, 7 Nov 2026 | Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN | Alarico, Blasha & Allatt, Chami, Connor Wall, Laia, Olivia Mendez, Shadow Hrym (ES) |
 | Sat, 14 Nov 2026 | CACAO by ANTHONY GODFATHER | Anthony Godfather (2) |
+| Fri, 27 Nov 2026 | JAZZY at BASSMNT CLUB hosted by ROOTS : Francesco Del Garda | Francesco Del Garda, Unai Trotti |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

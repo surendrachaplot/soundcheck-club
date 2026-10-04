@@ -1,6 +1,6 @@
 # Eden Prince
 
-Eden Prince is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
+Eden Prince is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Invisible Wind Factory, Liverpool on Sat, 14 Nov 2026.
 
 Eden Prince is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Ibiza, Liverpool and London and 4 more. Often billed alongside Jamie Love, Parris Taylor and Fatzo. Next up: Invisible Wind Factory, Liverpool on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Eden Prince is a house and tech house artist based in United Kingdom, with 30 gi
 
 Jamie Love, Parris Taylor, Fatzo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenprince/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenprince/)*

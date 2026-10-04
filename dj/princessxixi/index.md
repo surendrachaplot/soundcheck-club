@@ -1,6 +1,6 @@
 # Princess Xixi
 
-Princess Xixi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+Princess Xixi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 Princess Xixi is a bass and club artist based in United Kingdom, with 53 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Princess Xixi is a bass and club artist based in United Kingdom, with 53 gigs on
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

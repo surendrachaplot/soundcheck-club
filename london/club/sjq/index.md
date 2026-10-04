@@ -1,6 +1,6 @@
 # SJQ
 
-SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Haseeb Iqbal: Studio Crumb Midweek Sessions" on Thu, 8 Oct 2026.
+SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Haseeb Iqbal: Studio Crumb Midweek Sessions" on Thu, 8 Oct 2026.
 
 SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Donna Leake and Haseeb Iqbal. See dates, start times and who's playing. 10a Bradbury Street , Dalston, N16 8JH.
 
@@ -15,4 +15,4 @@ SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-
 
 10a Bradbury Street , Dalston, N16 8JH, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*

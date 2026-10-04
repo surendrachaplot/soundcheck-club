@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Girls Night: uiava & Patsi Parisi" on Sat, 3 Oct 2026.
+B-SIDE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Girls Night: uiava & Patsi Parisi" on Sat, 3 Oct 2026.
 
 B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Franz Scala, Liza Azemsha, Patsi Parisi and Pawel Blot and 1 more. See dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
@@ -15,4 +15,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with li
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

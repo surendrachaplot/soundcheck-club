@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "VOLTIQUE X VICE" on Sat, 3 Oct 2026.
+TBA - DTLA is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VOLTIQUE X VICE" on Sat, 3 Oct 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, MORENXXX, Brick (US) and BUCK/OFF and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 15 upcoming gig
 | Sat, 24 Oct 2026 | CLUB PIVETE: HALLOWEEN |  |
 | Fri, 6 Nov 2026 | CLOSER presents THERMAL with 6 SENSE (LA Debut) | 6 SENSE, Brick (US), S.I.M, fun2bjane |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

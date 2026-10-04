@@ -1,6 +1,6 @@
 # Natan Kryszk
 
-Natan Kryszk is a Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hevre, Krakow on Fri, 16 Oct 2026.
+Natan Kryszk is a Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hevre, Krakow on Fri, 16 Oct 2026.
 
 Natan Kryszk is an electro artist based in Poland, with 6 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Tymek Papior, Olga Anna Markowska and dj neurospicy. Next up: Hevre, Krakow on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Natan Kryszk is an electro artist based in Poland, with 6 gigs on soundcheck acr
 
 Tymek Papior, Olga Anna Markowska, dj neurospicy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natankryszk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natankryszk/)*

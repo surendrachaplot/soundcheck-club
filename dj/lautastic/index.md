@@ -1,6 +1,6 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Maze Venue, Cyprus on Sat, 3 Oct 2026.
+Lau.tastic is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maze Venue, Cyprus on Sat, 3 Oct 2026.
 
 Lau.tastic is a techno and industrial artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 6 more. Often billed alongside Dres Codex, Labåzuy and KASTILO. Next up: Maze Venue, Cyprus on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Lau.tastic is a techno and industrial artist based in United Kingdom, with 89 gi
 
 ## Recently played
 
+- Maze Venue, Cyprus · Sat, 3 Oct 2026
 - John Doe, Amsterdam · Sat, 12 Sept 2026
 - E1, London · Fri, 4 Sept 2026
 - TBA - Secret Location, London · Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Lau.tastic is a techno and industrial artist based in United Kingdom, with 89 gi
 - LDN East, London · Sat, 25 Jul 2026
 - Archives, London · Sat, 4 Jul 2026
 - DSTRKT Club Berlin, Berlin · Sat, 27 Jun 2026
-- Egg London, London · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Dres Codex, Labåzuy, KASTILO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

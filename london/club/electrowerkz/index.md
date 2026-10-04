@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "LOADED - FULL FETISH NIGHT" on Sat, 3 Oct 2026.
+Electrowerkz is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LOADED - FULL FETISH NIGHT" on Sat, 3 Oct 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming gigs, 
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

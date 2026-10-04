@@ -1,6 +1,6 @@
 # malicedeejay
 
-malicedeejay is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
+malicedeejay is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
 
 malicedeejay is a hardcore and club artist, with 25 gigs on soundcheck across Berlin and Edinburgh. Often billed alongside DV60, al gu and miira. Next up: Panke, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ malicedeejay is a hardcore and club artist, with 25 gigs on soundcheck across Be
 
 DV60, al gu, miira
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malicedeejay/)*

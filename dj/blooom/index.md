@@ -1,6 +1,6 @@
 # Blooom
 
-Blooom is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
+Blooom is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
 
 Blooom is a drum & bass and dubstep artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 11 more. Often billed alongside Delta Heavy, Black Sun Empire and Camo & Krooked. Next up: H2o6, Riga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Blooom is a drum & bass and dubstep artist based in Germany, with 28 gigs on sou
 
 Delta Heavy, Black Sun Empire, Camo & Krooked
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*

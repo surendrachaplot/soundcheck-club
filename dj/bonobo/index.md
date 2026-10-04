@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at First Avenue Mainroom, Minneapolis-st-paul on Tue, 24 Nov 2026.
+Bonobo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at First Avenue Mainroom, Minneapolis-st-paul on Tue, 24 Nov 2026.
 
 Bonobo is a house and techno artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 42 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: First Avenue Mainroom, Minneapolis St Paul on Tue 24 Nov.
 
@@ -28,4 +28,4 @@ Bonobo is a house and techno artist based in United States of America, with 96 g
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

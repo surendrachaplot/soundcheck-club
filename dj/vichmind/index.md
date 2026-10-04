@@ -1,6 +1,6 @@
 # Vich Mind
 
-Vich Mind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+Vich Mind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
 
 Vich Mind is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin and Vienna. Often billed alongside Farad, AfroNinja and DJ DIAMOND. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Vich Mind is a techno and trance artist based in Germany, with 15 gigs on soundc
 
 Farad, AfroNinja, DJ DIAMOND (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vichmind/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vichmind/)*

@@ -1,6 +1,6 @@
 # Thaiboy Digital
 
-Thaiboy Digital is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Rechabite, Perth on Sat, 5 Dec 2026.
+Thaiboy Digital is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Rechabite, Perth on Sat, 5 Dec 2026.
 
 Thaiboy Digital is an experimental and pop artist based in Thailand, with 19 gigs on soundcheck across Bangkok, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside 10cust, Frost Children and Ali RQ. Next up: The Rechabite, Perth on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Thaiboy Digital is an experimental and pop artist based in Thailand, with 19 gig
 
 10cust, Frost Children, Ali RQ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*

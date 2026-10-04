@@ -1,6 +1,6 @@
 # Deskai
 
-Deskai is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
+Deskai is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Thu, 8 Oct 2026.
 
 Deskai is a drum & bass and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside ALIS., ANDI A. and Antiquis Anima. Next up: ÆDEN, Berlin on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Deskai is a drum & bass and techno artist based in Germany, with 5 gigs on sound
 
 ALIS., ANDI A., Antiquis Anima
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deskai/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deskai/)*

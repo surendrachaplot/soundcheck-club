@@ -1,6 +1,6 @@
 # B3
 
-B3 is a Deep House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
+B3 is a Deep House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
 
 B3 is a deep house and tech house artist based in United Kingdom, with 39 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and Dominique Danielle. Next up: Basing House, London on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ B3 is a deep house and tech house artist based in United Kingdom, with 39 gigs o
 
 Mark Radford, Lance Morgan, Dominique Danielle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*

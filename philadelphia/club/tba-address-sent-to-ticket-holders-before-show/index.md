@@ -1,6 +1,6 @@
 # TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW
 
-TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "FOREVER NO MATTER WHAT: Cubby b2b Nave Mãe" on Fri, 16 Oct 2026.
+TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "FOREVER NO MATTER WHAT: Cubby b2b Nave Mãe" on Fri, 16 Oct 2026.
 
 TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Cubby, GorpoPap and Nave Mãe. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ADDRESS SENT TO TICKET HOLDERS BEFORE SHOW is a music venue in Philadelphi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | FOREVER NO MATTER WHAT: Cubby b2b Nave Mãe | Cubby, GorpoPap, Nave Mãe |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-address-sent-to-ticket-holders-before-show/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-address-sent-to-ticket-holders-before-show/)*

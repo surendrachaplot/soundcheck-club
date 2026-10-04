@@ -1,6 +1,6 @@
 # Yos
 
-Yos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Socore Factory, Osaka on Sun, 11 Oct 2026.
+Yos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Socore Factory, Osaka on Sun, 11 Oct 2026.
 
 Yos is a techno and tech house artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Chicago, Houston and Los Angeles and 2 more. Often billed alongside AGA BORYN, AP(uk) and AYAŌLA. Next up: Socore Factory, Osaka on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Yos is a techno and tech house artist based in United States of America, with 6 
 
 AGA BORYN, AP(uk), AYAŌLA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yos/)*

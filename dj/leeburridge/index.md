@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
+Lee Burridge is a Deep House and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
 
 Lee Burridge is a deep house and house artist based in United Kingdom, with 149 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Pershing Square, Los Angeles on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 149 
 
 ## Recently played
 
+- Pershing Square, Los Angeles · Sat, 3 Oct 2026
 - KOKO, London · Fri, 25 Sept 2026
 - Industry City, New York City · Sat, 19 Sept 2026
 - Industry City Courtyard 1/2, New York City · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 149 
 - Scorpios, Mykonos · Wed, 22 Jul 2026
 - Shoreline Aquatic Park, Los Angeles · Sat, 18 Jul 2026
 - The Den, Portland · Sat, 18 Jul 2026
-- Q Nightclub, Seattle · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

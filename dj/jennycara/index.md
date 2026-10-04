@@ -1,6 +1,6 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
+Jenny Cara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oven Club, Valencia on Fri, 9 Oct 2026.
 
 Jenny Cara is a house and techno artist based in Switzerland, with 113 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: Oven Club, Valencia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jenny Cara is a house and techno artist based in Switzerland, with 113 gigs on s
 
 Luka (CH), Alex Dallas, Bennet (DE)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*

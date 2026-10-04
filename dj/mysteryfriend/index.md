@@ -1,6 +1,6 @@
 # Mystery Friend
 
-Mystery Friend is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Oriente, Mexico City on Thu, 15 Oct 2026.
+Mystery Friend is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Oriente, Mexico City on Thu, 15 Oct 2026.
 
 Mystery Friend is a house and techno artist based in Argentina, with 7 gigs on soundcheck across Berlin, Buenos Aires, Leeds and London and 1 more. Often billed alongside BUENDÍA, Dani Labb and Diamin. Next up: Bar Oriente, Mexico City on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ Mystery Friend is a house and techno artist based in Argentina, with 7 gigs on s
 
 BUENDÍA, Dani Labb, Diamin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryfriend/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryfriend/)*

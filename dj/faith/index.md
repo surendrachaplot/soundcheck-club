@@ -1,6 +1,6 @@
 # FAITH
 
-FAITH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
+FAITH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
 FAITH is a house and techno artist based in Turkey, with 18 gigs on soundcheck across Amsterdam and Istanbul. Often billed alongside Volkan Gunduz, Atakan Uysal and Manendria. Next up: Escape, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ FAITH is a house and techno artist based in Turkey, with 18 gigs on soundcheck a
 
 Volkan Gunduz, Atakan Uysal, Manendria
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faith/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faith/)*

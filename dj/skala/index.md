@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+SKALA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 SKALA is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ SKALA is a techno and house artist based in Germany, with 93 gigs on soundcheck 
 
 Theologos, ELIF, Mila Stern
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

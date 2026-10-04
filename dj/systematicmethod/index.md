@@ -1,6 +1,6 @@
 # Systematic Method
 
-Systematic Method is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
+Systematic Method is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
 Systematic Method is a techno and dub techno artist based in Spain, with 45 gigs on soundcheck across Madrid. Often billed alongside Kevin Matto, Ali-Az and Hakkon. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Systematic Method is a techno and dub techno artist based in Spain, with 45 gigs
 
 Kevin Matto, Ali-Az, Hakkon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/systematicmethod/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/systematicmethod/)*

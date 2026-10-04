@@ -1,6 +1,6 @@
 # Dr.Tommy
 
-Dr.Tommy is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Débris, Tokyo on Thu, 8 Oct 2026.
+Dr.Tommy is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Débris, Tokyo on Thu, 8 Oct 2026.
 
 Dr.Tommy is a downtempo and house artist, with 73 gigs on soundcheck across Osaka and Tokyo. Often billed alongside NABE, Simon from Amsterdam and DJ Wada. Next up: Débris, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Dr.Tommy is a downtempo and house artist, with 73 gigs on soundcheck across Osak
 
 NABE, Simon from Amsterdam, DJ Wada
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.tommy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.tommy/)*

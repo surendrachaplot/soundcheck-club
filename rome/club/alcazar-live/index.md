@@ -1,6 +1,6 @@
 # Alcazar Live
 
-Alcazar Live is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Disco Express: Rome" on Fri, 13 Nov 2026.
+Alcazar Live is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Disco Express: Rome" on Fri, 13 Nov 2026.
 
 Alcazar Live is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Bustin' Loose and Lela Xein. See dates, start times and who's playing. Via Cardinale Merry Del Val , 14, 00153 Roma.
 
@@ -15,4 +15,4 @@ Alcazar Live is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wit
 
 Via Cardinale Merry Del Val , 14, 00153 Roma, Rome
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*

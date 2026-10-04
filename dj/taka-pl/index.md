@@ -1,6 +1,6 @@
 # T A K A
 
-T A K A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
+T A K A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
 
 T A K A is a house and techno artist based in Poland, with 9 gigs on soundcheck across New York City and Tokyo. Often billed alongside A Space for Sound, Daisuke Pak and Do Shock Booze. Next up: ZUBAR, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ T A K A is a house and techno artist based in Poland, with 9 gigs on soundcheck 
 
 A Space for Sound, Daisuke Pak, Do Shock Booze
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taka-pl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taka-pl/)*

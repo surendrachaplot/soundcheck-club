@@ -1,6 +1,6 @@
 # Cassia
 
-Cassia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
+Cassia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
 
 Cassia is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Budapest, Hamburg, Leipzig and London and 3 more. Often billed alongside SPCL.K, Cloud Ary and Chase Wilson. Next up: Hootananny Brixton, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Cassia is a house and deep house artist based in United States of America, with 
 
 ## Recently played
 
+- Hootananny Brixton, London · Sat, 3 Oct 2026
 - La Fabrica, Washington DC · Fri, 14 Aug 2026
 - Obudai Island, Budapest · Tue, 11 Aug 2026
 - 618 DC, Washington DC · Fri, 31 Jul 2026
@@ -19,10 +20,9 @@ Cassia is a house and deep house artist based in United States of America, with 
 - Tigres de la Noche, Washington DC · Fri, 26 Jun 2026
 - La Fabrica, Washington DC · Fri, 15 May 2026
 - Distillery N17, London · Sat, 9 May 2026
-- TBA - THE DANCEHALL LND 1 NAVIGATOR SQUARE LONDON N19, London · Fri, 8 May 2026
 
 ## Shares bills with
 
 SPCL.K, Cloud Ary, Chase Wilson
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassia/)*

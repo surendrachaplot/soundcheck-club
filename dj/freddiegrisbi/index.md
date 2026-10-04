@@ -1,6 +1,6 @@
 # Freddie Grisbi
 
-Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 16 Oct 2026.
+Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 16 Oct 2026.
 
 Freddie Grisbi is a tech house and deep house artist based in United Kingdom, with 6 gigs on soundcheck across London and Sheffield. Often billed alongside obviouslyalex, The Doobskins and A For Alpha. Next up: Starlane Pizza Bar, London on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Freddie Grisbi is a tech house and deep house artist based in United Kingdom, wi
 
 obviouslyalex, The Doobskins, A For Alpha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*

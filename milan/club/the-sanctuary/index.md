@@ -1,6 +1,6 @@
 # The Sanctuary
 
-The Sanctuary is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Rey&Kjavik in Milan" on Fri, 23 Oct 2026.
+The Sanctuary is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Rey&Kjavik in Milan" on Fri, 23 Oct 2026.
 
 The Sanctuary is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Rey&Kjavik. See dates, start times and who's playing. Via Pietro Andrea Saccardo, 12, 20134 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ The Sanctuary is a music venue in Milan listed on soundcheck. 1 upcoming gig, wi
 
 Via Pietro Andrea Saccardo, 12, 20134 Milano MI, Italy, Milan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/the-sanctuary/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/the-sanctuary/)*

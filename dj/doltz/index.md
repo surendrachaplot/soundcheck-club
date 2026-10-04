@@ -1,6 +1,6 @@
 # Doltz
 
-Doltz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Doltz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 Doltz is a techno and house artist, with 30 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 11 more. Often billed alongside DJ Nobu, OCCA and DANA NADA. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Doltz is a techno and house artist, with 30 gigs on soundcheck across Athens, Ba
 
 DJ Nobu, OCCA, DANA NADA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*

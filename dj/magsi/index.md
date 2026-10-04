@@ -1,6 +1,6 @@
 # Magsi
 
-Magsi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at SASS Music Club, Vienna on Thu, 8 Oct 2026.
+Magsi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at SASS Music Club, Vienna on Thu, 8 Oct 2026.
 
 Magsi is a house and tech house artist, with 9 gigs on soundcheck across Munich and Vienna. Often billed alongside Leon Diamant, Angel K and Andi Britz. Next up: SASS Music Club, Vienna on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Magsi is a house and tech house artist, with 9 gigs on soundcheck across Munich 
 
 Leon Diamant, Angel K, Andi Britz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magsi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magsi/)*

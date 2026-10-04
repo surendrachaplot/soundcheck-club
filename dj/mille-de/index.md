@@ -1,6 +1,6 @@
 # MILLE
 
-MILLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Giselle, Düsseldorf on Sat, 5 Dec 2026.
+MILLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Giselle, Düsseldorf on Sat, 5 Dec 2026.
 
 MILLE is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and London and 1 more. Often billed alongside Mille (DE), DJ MILLE and Momo. Next up: Giselle, Düsseldorf on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ MILLE is a house and techno artist based in Germany, with 8 gigs on soundcheck a
 
 Mille (DE), DJ MILLE, Momo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mille-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mille-de/)*

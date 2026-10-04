@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Fattony is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 Fattony is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Eats Everything and Melvo Baptiste. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Fattony is a house and tech house artist based in Germany, with 33 gigs on sound
 
 Horse Meat Disco, Eats Everything, Melvo Baptiste
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

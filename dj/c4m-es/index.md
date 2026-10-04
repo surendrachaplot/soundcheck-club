@@ -1,6 +1,6 @@
 # C4m.
 
-C4m. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+C4m. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 C4m. is an electro and house artist based in Argentina, with 9 gigs on soundcheck across Barcelona. Often billed alongside Anah, Angel D'lite and C.ru.z. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ C4m. is an electro and house artist based in Argentina, with 9 gigs on soundchec
 
 Anah, Angel D'lite, C.ru.z
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4m-es/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c4m-es/)*

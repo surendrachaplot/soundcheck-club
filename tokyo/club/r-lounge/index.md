@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "VGM Sound Collision" on Mon, 5 Oct 2026.
+R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VGM Sound Collision" on Mon, 5 Oct 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AEMI and AKIRAM EN and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

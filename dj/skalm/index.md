@@ -1,6 +1,6 @@
 # Skalm
 
-Skalm is a Trance and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Twist Bar, Prague on Sat, 17 Oct 2026.
+Skalm is a Trance and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Twist Bar, Prague on Sat, 17 Oct 2026.
 
 Skalm is a trance and idm artist based in Czech Republic, with 20 gigs on soundcheck across Copenhagen and Prague. Often billed alongside Kobayashi Maru, Atch22 and Exhausted Modern. Next up: Twist Bar, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Skalm is a trance and idm artist based in Czech Republic, with 20 gigs on soundc
 
 Kobayashi Maru, Atch22, Exhausted Modern
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skalm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skalm/)*

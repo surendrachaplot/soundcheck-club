@@ -1,6 +1,6 @@
 # K-H1
 
-K-H1 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KitKatClub, Berlin on Sun, 15 Nov 2026.
+K-H1 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Sun, 15 Nov 2026.
 
 K-H1 is a techno and tech house artist based in Russia, with 17 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside SIMZ (DE), Khloe and Charlie.. Next up: KitKatClub, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ K-H1 is a techno and tech house artist based in Russia, with 17 gigs on soundche
 
 SIMZ (DE), Khloe, Charlie.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-h1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-h1/)*

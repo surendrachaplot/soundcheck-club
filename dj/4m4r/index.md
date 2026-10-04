@@ -1,6 +1,6 @@
 # 4M4R
 
-4M4R is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+4M4R is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 4M4R is a house and electro artist based in Spain, with 5 gigs on soundcheck across Berlin. Often billed alongside Miss T Delight, 2727 and Adam Cooke. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -21,4 +21,4 @@
 
 Miss T Delight, 2727, Adam Cooke
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4m4r/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4m4r/)*

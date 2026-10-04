@@ -1,6 +1,6 @@
 # Lady Goccia
 
-Lady Goccia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Q Club, Milan on Fri, 16 Oct 2026.
+Lady Goccia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Q Club, Milan on Fri, 16 Oct 2026.
 
 Lady Goccia is a techno and house artist based in Italy, with 33 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside IKIIR, ARMANDO and AMBRA. Next up: Q Club, Milan on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lady Goccia is a techno and house artist based in Italy, with 33 gigs on soundch
 
 IKIIR, ARMANDO, AMBRA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*

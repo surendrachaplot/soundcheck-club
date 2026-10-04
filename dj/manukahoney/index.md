@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at New Century Locker, Manchester on Fri, 9 Oct 2026.
+Manuka Honey is a Club and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at New Century Locker, Manchester on Fri, 9 Oct 2026.
 
 Manuka Honey is a club and techno artist, with 151 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: New Century Locker, Manchester on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Manuka Honey is a club and techno artist, with 151 gigs on soundcheck across Ams
 
 Baby Cocada, Florentino, Safety Trance
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

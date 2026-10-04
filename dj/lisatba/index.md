@@ -1,6 +1,6 @@
 # lisa tba
 
-lisa tba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Südpol, Hamburg on Sat, 17 Oct 2026.
+lisa tba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Sat, 17 Oct 2026.
 
 lisa tba is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: Südpol, Hamburg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ lisa tba is a techno and house artist based in Germany, with 40 gigs on soundche
 
 Bamela Paywatch, Gwen Wayne, AGILY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*

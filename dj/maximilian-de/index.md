@@ -1,6 +1,6 @@
 # Maximilian
 
-Maximilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
+Maximilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
 
 Maximilian is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne, New York City and San Francisco/Oakland. Often billed alongside ENNA, Eszter and ANNA. Next up: Odonien, Cologne on Sat 2 Oct.
 
@@ -23,4 +23,4 @@ Maximilian is a house and techno artist based in Germany, with 7 gigs on soundch
 
 ENNA, Eszter, ANNA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilian-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilian-de/)*

@@ -1,6 +1,6 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS" on Sat, 3 Oct 2026.
+Beaver Works is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS" on Sat, 3 Oct 2026.
 
 Beaver Works is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Badger (UK), Bakey, Blackeye MC and Chad Dubz and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
@@ -20,4 +20,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

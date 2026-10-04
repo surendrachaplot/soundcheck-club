@@ -1,6 +1,6 @@
 # Olympus Theater
 
-Olympus Theater is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FUNHAUS" on Sat, 31 Oct 2026.
+Olympus Theater is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FUNHAUS" on Sat, 31 Oct 2026.
 
 Olympus Theater is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Boyfriend Dick and LATEX GIRL. See dates, start times and who's playing. 940 W. McNichols Rd, Detroit, MI 48203.
 
@@ -15,4 +15,4 @@ Olympus Theater is a music venue in Detroit listed on soundcheck. 2 upcoming gig
 
 940 W. McNichols Rd, Detroit, MI 48203, Detroit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/olympus-theater/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/olympus-theater/)*

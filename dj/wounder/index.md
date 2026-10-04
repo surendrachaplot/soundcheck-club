@@ -1,6 +1,6 @@
 # Wounder
 
-Wounder is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at IKLECTIK, London on Sat, 10 Oct 2026.
+Wounder is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at IKLECTIK, London on Sat, 10 Oct 2026.
 
 Wounder is an experimental and club artist, with 16 gigs on soundcheck across Berlin, London, Manchester and Vienna. Often billed alongside Crimson Chaos, Kamixlo and Madjestic Kasual. Next up: IKLECTIK, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Wounder is an experimental and club artist, with 16 gigs on soundcheck across Be
 
 Crimson Chaos, Kamixlo, Madjestic Kasual
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*

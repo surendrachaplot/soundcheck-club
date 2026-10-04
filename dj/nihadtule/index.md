@@ -1,6 +1,6 @@
 # Nihad Tule
 
-Nihad Tule is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Stockholm on Fri, 16 Oct 2026.
+Nihad Tule is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Stockholm on Fri, 16 Oct 2026.
 
 Nihad Tule is a techno and club artist, with 25 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 9 more. Often billed alongside Hashashin, Kvanchi and Philippa Pacho. Next up: TBA, Stockholm on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nihad Tule is a techno and club artist, with 25 gigs on soundcheck across Amster
 
 Hashashin, Kvanchi, Philippa Pacho
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nihadtule/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nihadtule/)*

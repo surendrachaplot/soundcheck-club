@@ -1,6 +1,6 @@
 # Kara (UK)
 
-Kara (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+Kara (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
 Kara (UK) is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Brighton and 23 more. Often billed alongside IC3, K Motionz and Dillinja. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Kara (UK) is a drum & bass and jungle artist based in United Kingdom, with 65 gi
 
 IC3, K Motionz, Dillinja
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*

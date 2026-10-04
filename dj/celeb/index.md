@@ -1,6 +1,6 @@
 # Celeb
 
-Celeb is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+Celeb is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 Celeb is an ambient and experimental artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside Krai, baby ganoush and Chickenmilk dot com. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Celeb is an ambient and experimental artist based in Netherlands, with 5 gigs on
 
 Krai, baby ganoush, Chickenmilk dot com
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celeb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celeb/)*

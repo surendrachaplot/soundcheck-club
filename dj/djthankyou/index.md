@@ -1,6 +1,6 @@
 # DJ Thank You
 
-DJ Thank You is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Market Hotel, New York City on Fri, 9 Oct 2026.
+DJ Thank You is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Market Hotel, New York City on Fri, 9 Oct 2026.
 
 DJ Thank You is a techno and club artist based in United States of America, with 96 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Angel Money, DJ Sour and flirty800. Next up: Market Hotel, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Thank You is a techno and club artist based in United States of America, with
 
 Angel Money, DJ Sour, flirty800
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djthankyou/)*

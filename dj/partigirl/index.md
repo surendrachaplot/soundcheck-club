@@ -1,6 +1,6 @@
 # PARTIGIRL
 
-PARTIGIRL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+PARTIGIRL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 PARTIGIRL is a house and techno artist based in Australia, with 32 gigs on soundcheck across Amsterdam and Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ PARTIGIRL is a house and techno artist based in Australia, with 32 gigs on sound
 
 RHINESTONE COWGIRL, Deens, Digi Doll
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*

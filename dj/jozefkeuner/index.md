@@ -1,6 +1,6 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+Józef Keuner is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
 Józef Keuner is a techno and trance artist, with 57 gigs on soundcheck across Krakow and Warsaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Józef Keuner is a techno and trance artist, with 57 gigs on soundcheck across K
 
 ## Recently played
 
+- Klub Progresja, Warsaw · Sat, 3 Oct 2026
 - TBA, Warsaw · Fri, 18 Sept 2026
 - Przyjaźń, Warsaw · Sat, 8 Aug 2026
 - Smolna, Warsaw · Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ Józef Keuner is a techno and trance artist, with 57 gigs on soundcheck across K
 - Smolna, Warsaw · Tue, 7 Jul 2026
 - Smolna, Warsaw · Sun, 17 May 2026
 - Klub Progresja, Warsaw · Sat, 16 May 2026
-- Playhaus, Krakow · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 VRAXX, ERNST (UA), SCHELLT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*

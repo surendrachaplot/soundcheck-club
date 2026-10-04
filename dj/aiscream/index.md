@@ -1,6 +1,6 @@
 # Aiscream
 
-Aiscream is a Pop and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club NYX, Amsterdam on Sat, 17 Oct 2026.
+Aiscream is a Pop and R&B artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club NYX, Amsterdam on Sat, 17 Oct 2026.
 
 Aiscream is a pop and r&b artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside Joseph Steel, Emma Champagne Queen and Soulfania. Next up: Club NYX, Amsterdam on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Aiscream is a pop and r&b artist based in Netherlands, with 6 gigs on soundcheck
 
 Joseph Steel, Emma Champagne Queen, Soulfania
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiscream/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiscream/)*

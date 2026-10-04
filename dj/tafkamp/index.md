@@ -1,6 +1,6 @@
 # TAFKAMP
 
-TAFKAMP is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at OHM, Berlin on Sat, 3 Oct 2026.
+TAFKAMP is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Sat, 3 Oct 2026.
 
 TAFKAMP is a techno and house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brussels and 18 more. Often billed alongside Bastienne, Grace Dahl and Lobster (NL). Next up: OHM, Berlin on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ TAFKAMP is a techno and house artist based in Netherlands, with 86 gigs on sound
 
 ## Recently played
 
+- OHM, Berlin · Sat, 3 Oct 2026
 - Muovitehdas, Finland · Fri, 25 Sept 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
 - BRET, Amsterdam · Sun, 19 Jul 2026
@@ -24,10 +25,9 @@ TAFKAMP is a techno and house artist based in Netherlands, with 86 gigs on sound
 - NDSM Docklands, Amsterdam · Sun, 14 Jun 2026
 - UNO MALTA, Malta · Thu, 14 May 2026
 - BRET, Amsterdam · Sat, 2 May 2026
-- export, Rotterdam · Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Bastienne, Grace Dahl, Lobster (NL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*

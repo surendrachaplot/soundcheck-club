@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gut Bye Wien" on Fri, 9 Oct 2026.
+Celeste is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Gut Bye Wien" on Fri, 9 Oct 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Altroy Jerome, Malounadou, Nick Hanzo and schereph and 1 more. See dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -15,4 +15,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with l
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

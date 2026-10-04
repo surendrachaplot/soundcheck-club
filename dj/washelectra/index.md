@@ -1,6 +1,6 @@
 # Wash Electra
 
-Wash Electra is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Sat, 10 Oct 2026.
+Wash Electra is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Sat, 10 Oct 2026.
 
 Wash Electra is an experimental and bass artist based in Poland, with 12 gigs on soundcheck across Bristol, London and Tallinn. Often billed alongside Dharma Doom, Katja Adrikova and Shah Rud. Next up: Paavli Kultuurivabrik, Tallinn on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Wash Electra is an experimental and bass artist based in Poland, with 12 gigs on
 
 Dharma Doom, Katja Adrikova, Shah Rud
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/washelectra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/washelectra/)*

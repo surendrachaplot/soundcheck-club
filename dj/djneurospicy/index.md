@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+dj neurospicy is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 dj neurospicy is a bass and club artist based in Poland, with 28 gigs on soundcheck across Warsaw. Often billed alongside anymati, KAROLINDA and DiV4. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ dj neurospicy is a bass and club artist based in Poland, with 28 gigs on soundch
 
 anymati, KAROLINDA, DiV4
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

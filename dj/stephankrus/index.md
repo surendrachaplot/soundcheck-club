@@ -1,6 +1,6 @@
 # Stephan Krus
 
-Stephan Krus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
+Stephan Krus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
 
 Stephan Krus is a techno and hardcore artist, with 21 gigs on soundcheck across Amsterdam, Athens, Basel and Bucharest and 11 more. Often billed alongside RÄV, NTHR and Gianni Di Bernardo. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Stephan Krus is a techno and hardcore artist, with 21 gigs on soundcheck across 
 
 RÄV, NTHR, Gianni Di Bernardo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephankrus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephankrus/)*

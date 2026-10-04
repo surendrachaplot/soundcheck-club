@@ -1,6 +1,6 @@
 # Gawdat
 
-Gawdat is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Gawdat is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Gawdat is a tech house and electronica artist based in Egypt, with 16 gigs on soundcheck across Central, Ibiza, Lisbon and London and 4 more. Often billed alongside AJNA, Dany Gómez and Daox. Next up: TBA, Central on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gawdat is a tech house and electronica artist based in Egypt, with 16 gigs on so
 
 AJNA, Dany Gómez, Daox
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdat/)*

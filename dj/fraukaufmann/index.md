@@ -1,6 +1,6 @@
 # Frau Kaufmann
 
-Frau Kaufmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
+Frau Kaufmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
 
 Frau Kaufmann is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Dydaa Forne, vom Feisten and Daniel Neuland. Next up: Klunkerkranich, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Frau Kaufmann is a techno and house artist based in Germany, with 40 gigs on sou
 
 Dydaa Forne, vom Feisten, Daniel Neuland
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fraukaufmann/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fraukaufmann/)*

@@ -1,6 +1,6 @@
 # FU (JP)
 
-FU (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
+FU (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
 FU (JP) is a house and techno artist based in Japan, with 67 gigs on soundcheck across Bangkok, Hamburg, Istanbul and Melbourne and 3 more. Often billed alongside Joe O, CHIDA and Al Jones. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ FU (JP) is a house and techno artist based in Japan, with 67 gigs on soundcheck 
 
 Joe O, CHIDA, Al Jones
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*

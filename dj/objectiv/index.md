@@ -1,6 +1,6 @@
 # Objectiv
 
-Objectiv is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
+Objectiv is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
 
 Objectiv is a drum & bass and dubstep artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 6 more. Often billed alongside Amoss, Sydney Bryce and Visionobi. Next up: E1, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Objectiv is a drum & bass and dubstep artist based in United Kingdom, with 25 gi
 
 Amoss, Sydney Bryce, Visionobi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objectiv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objectiv/)*

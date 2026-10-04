@@ -1,6 +1,6 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
+flotussin is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
 
 flotussin is a club and techno artist based in United States of America, with 73 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Tromac, DJ-SUN and Jacq Jill. Next up: Tigres de la Noche, Washington DC on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ flotussin is a club and techno artist based in United States of America, with 73
 
 Tromac, DJ-SUN, Jacq Jill
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

@@ -1,6 +1,6 @@
 # Will (ES)
 
-Will (ES) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Garage 442, Barcelona on Wed, 7 Oct 2026.
+Will (ES) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage 442, Barcelona on Wed, 7 Oct 2026.
 
 Will (ES) is a house and deep house artist, with 7 gigs on soundcheck across Barcelona, Berlin and Leeds. Often billed alongside Devesa, Jimmy Siao (ES) and Demofather. Next up: Garage 442, Barcelona on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Will (ES) is a house and deep house artist, with 7 gigs on soundcheck across Bar
 
 Devesa, Jimmy Siao (ES), Demofather
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/will-es/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/will-es/)*

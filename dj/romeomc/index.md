@@ -1,6 +1,6 @@
 # Romeo MC
 
-Romeo MC is a Garage and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
+Romeo MC is a Garage and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dixie Queen Paddle Steamer, London on Sat, 31 Oct 2026.
 
 Romeo MC is a garage and funk / soul artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Lisa Maffia, Artful Dodger and Dan Jolly. Next up: Dixie Queen Paddle Steamer, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Romeo MC is a garage and funk / soul artist based in United Kingdom, with 6 gigs
 
 Lisa Maffia, Artful Dodger, Dan Jolly
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeomc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeomc/)*

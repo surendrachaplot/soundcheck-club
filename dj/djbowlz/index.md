@@ -1,6 +1,6 @@
 # Dj Bowlz
 
-Dj Bowlz is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Die Kunstbar, Cologne on Fri, 6 Nov 2026.
+Dj Bowlz is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Die Kunstbar, Cologne on Fri, 6 Nov 2026.
 
 Dj Bowlz is a techno and italo disco artist based in Germany, with 6 gigs on soundcheck across Cologne. Often billed alongside andré wiese, Kashinski and PATEK. Next up: Die Kunstbar, Cologne on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Dj Bowlz is a techno and italo disco artist based in Germany, with 6 gigs on sou
 
 andré wiese, Kashinski, PATEK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlz/)*

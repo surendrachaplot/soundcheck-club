@@ -1,6 +1,6 @@
 # Traverse City Whiskey Co. Outpost
 
-Traverse City Whiskey Co. Outpost is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Outpost: Joshua Adams" on Sat, 3 Oct 2026.
+Traverse City Whiskey Co. Outpost is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Outpost: Joshua Adams" on Sat, 3 Oct 2026.
 
 Traverse City Whiskey Co. Outpost is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 22812 Woodward Ave #200, Ferndale, MI 48220.
 
@@ -14,4 +14,4 @@ Traverse City Whiskey Co. Outpost is a music venue in Detroit listed on soundche
 
 22812 Woodward Ave #200, Ferndale, MI 48220, Detroit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/traverse-city-whiskey-co-outpost/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/traverse-city-whiskey-co-outpost/)*

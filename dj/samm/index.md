@@ -1,6 +1,6 @@
 # Samm
 
-Samm is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
+Samm is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Parc Jean-Drapeau, Montreal on Mon, 12 Oct 2026.
 
 Samm is a house and deep house artist based in Greece, with 13 gigs on soundcheck across Amsterdam, Hamburg, Ibiza and London and 3 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Parc Jean-Drapeau, Montreal on Mon 12 Oct.
 
@@ -27,4 +27,4 @@ Samm is a house and deep house artist based in Greece, with 13 gigs on soundchec
 
 AJNA, Andrea Oliva, Adriatique
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

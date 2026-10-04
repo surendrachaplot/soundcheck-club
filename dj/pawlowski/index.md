@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Strand DC, Washington DC on Sat, 3 Oct 2026.
+Pawlowski is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Strand DC, Washington DC on Sat, 3 Oct 2026.
 
 Pawlowski is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Strand DC, Washington DC on Sat 3 Oct.
 
@@ -15,6 +15,7 @@ Pawlowski is a techno and trance artist based in France, with 119 gigs on soundc
 
 ## Recently played
 
+- Strand DC, Washington DC · Sat, 3 Oct 2026
 - Superior Ingredients, New York City · Fri, 2 Oct 2026
 - Room 2 Glasgow, Glasgow · Sun, 27 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
@@ -22,10 +23,9 @@ Pawlowski is a techno and trance artist based in France, with 119 gigs on soundc
 - Forte Antenne, Rome · Fri, 28 Aug 2026
 - Antwerp Expo, Antwerp · Sun, 23 Aug 2026
 - UNO MALTA, Malta · Sat, 8 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Nico Moreno, Azyr, DYEN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

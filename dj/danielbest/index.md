@@ -1,6 +1,6 @@
 # Daniel Best
 
-Daniel Best is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sonnenraum, Berlin on Fri, 9 Oct 2026.
+Daniel Best is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonnenraum, Berlin on Fri, 9 Oct 2026.
 
 Daniel Best is a funk / soul and disco artist based in Germany, with 21 gigs on soundcheck across Berlin, Paris, Strasbourg and Zurich. Often billed alongside Delfonic, Allynx and Eddy Ramich. Next up: Sonnenraum, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Daniel Best is a funk / soul and disco artist based in Germany, with 21 gigs on 
 
 Delfonic, Allynx, Eddy Ramich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbest/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbest/)*

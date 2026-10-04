@@ -1,6 +1,6 @@
 # Dj Kosmos
 
-Dj Kosmos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Macarena Club, Barcelona on Sat, 17 Oct 2026.
+Dj Kosmos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Macarena Club, Barcelona on Sat, 17 Oct 2026.
 
 Dj Kosmos is a techno and electro artist based in Spain, with 33 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside Mr. B, Rho and oddzero. Next up: Macarena Club, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dj Kosmos is a techno and electro artist based in Spain, with 33 gigs on soundch
 
 Mr. B, Rho, oddzero
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkosmos/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkosmos/)*

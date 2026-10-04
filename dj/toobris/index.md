@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Graf Karl, Kassel on Sat, 3 Oct 2026.
+Toobris is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Graf Karl, Kassel on Sat, 3 Oct 2026.
 
 Toobris is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Graf Karl, Kassel on Sat 3 Oct.
 
@@ -18,6 +18,7 @@ Toobris is a techno and house artist based in Germany, with 60 gigs on soundchec
 
 ## Recently played
 
+- Graf Karl, Kassel · Sat, 3 Oct 2026
 - Ciało, Wroclaw · Fri, 2 Oct 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
 - DETROIT CLUB, Barcelona · Sat, 19 Sept 2026
@@ -25,10 +26,9 @@ Toobris is a techno and house artist based in Germany, with 60 gigs on soundchec
 - Wigwam, Dublin · Sat, 5 Sept 2026
 - Open Ground, Wuppertal · Fri, 4 Sept 2026
 - Rote Sonne, Munich · Fri, 14 Aug 2026
-- Gianpula Village, Malta · Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Freddy K, Alarico, Ignez
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

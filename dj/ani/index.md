@@ -1,6 +1,6 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+A.N.I. is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -23,17 +23,17 @@ A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundche
 
 ## Recently played
 
+- Complejo Embrujo, South · Sat, 3 Oct 2026
+- Complejo Embrujo, South · Sat, 3 Oct 2026
 - MÄX, Zurich · Fri, 2 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 - Mia Mao, Paris · Fri, 11 Sept 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
-- Electrisize, Düsseldorf · Fri, 7 Aug 2026
-- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

@@ -1,6 +1,6 @@
 # TBA - Zappa Barka
 
-TBA - Zappa Barka is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Tenzija x TNG at Zappa barka" on Fri, 16 Oct 2026.
+TBA - Zappa Barka is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Tenzija x TNG at Zappa barka" on Fri, 16 Oct 2026.
 
 TBA - Zappa Barka is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Zappa Barka is a music venue in Belgrade listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tenzija x TNG at Zappa barka |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/tba-zappa-barka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/tba-zappa-barka/)*

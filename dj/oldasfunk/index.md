@@ -1,6 +1,6 @@
 # Old as Funk
 
-Old as Funk is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Old as Funk is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Old as Funk is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, London, Paris and Sao Paulo. Often billed alongside Dan Cluskey, Bustin' Loose and Poppi. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Old as Funk is a disco and house artist based in United Kingdom, with 19 gigs on
 
 Dan Cluskey, Bustin' Loose, Poppi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*

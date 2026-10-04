@@ -1,6 +1,6 @@
 # DU'DU (MX)
 
-DU'DU (MX) is a Funk / Soul and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Niza 42, Cdmx, Mexico City on Sat, 17 Oct 2026.
+DU'DU (MX) is a Funk / Soul and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Niza 42, Cdmx, Mexico City on Sat, 17 Oct 2026.
 
 DU'DU (MX) is a funk / soul and baile funk artist based in Brazil, with 19 gigs on soundcheck across Mexico City. Often billed alongside Katarra, Black Daria and KRISTYA. Next up: Niza 42, Cdmx, Mexico City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DU'DU (MX) is a funk / soul and baile funk artist based in Brazil, with 19 gigs 
 
 Katarra, Black Daria, KRISTYA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudu-mx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudu-mx/)*

@@ -1,6 +1,6 @@
 # MATSURYO
 
-MATSURYO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at rake?raka?, Osaka on Wed, 14 Oct 2026.
+MATSURYO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at rake?raka?, Osaka on Wed, 14 Oct 2026.
 
 MATSURYO is a techno and trance artist based in Japan, with 11 gigs on soundcheck across Osaka. Often billed alongside HSC, ALTF4 and DJ Morita. Next up: rake?raka?, Osaka on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ MATSURYO is a techno and trance artist based in Japan, with 11 gigs on soundchec
 
 HSC (1), ALTF4, DJ Morita
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matsuryo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matsuryo/)*

@@ -1,6 +1,6 @@
 # Enrico Vivaldi
 
-Enrico Vivaldi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lanificio 159, Rome on Fri, 9 Oct 2026.
+Enrico Vivaldi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lanificio 159, Rome on Fri, 9 Oct 2026.
 
 Enrico Vivaldi is a techno and house artist based in Italy, with 91 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Psycho Mind Transmission, Inner Lakes and Dario Lem. Next up: Lanificio 159, Rome on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Enrico Vivaldi is a techno and house artist based in Italy, with 91 gigs on soun
 
 Psycho Mind Transmission, Inner Lakes, Dario Lem
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*

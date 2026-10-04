@@ -1,6 +1,6 @@
 # Josie Bee
 
-Josie Bee is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
+Josie Bee is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Fri, 9 Oct 2026.
 
 Josie Bee is a jungle and techno artist based in United Kingdom, with 11 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside Lily Huu, 4am Kru and Abby Daze. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Josie Bee is a jungle and techno artist based in United Kingdom, with 11 gigs on
 
 Lily Huu, 4am Kru, Abby Daze
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josiebee/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josiebee/)*

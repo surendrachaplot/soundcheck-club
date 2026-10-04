@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
+Ancut is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
 
 Ancut is a techno and electro artist based in Italy, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias, So-Fi and Alex Picone. Next up: TBA - Secret Location, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Ancut is a techno and electro artist based in Italy, with 64 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - Secret Location, Berlin · Sat, 3 Oct 2026
 - Sonnenraum, Berlin · Sat, 29 Aug 2026
 - Platforma Wolff, Bucharest · Sat, 8 Aug 2026
 - Club der Visionaere, Berlin · Wed, 5 Aug 2026
@@ -19,10 +20,9 @@ Ancut is a techno and electro artist based in Italy, with 64 gigs on soundcheck 
 - THE MAGICK BAR, Rome · Sun, 5 Jul 2026
 - Club der Visionaere, Berlin · Thu, 25 Jun 2026
 - BAR Inc, Osaka · Sat, 16 May 2026
-- WOMB, Tokyo · Fri, 15 May 2026
 
 ## Shares bills with
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

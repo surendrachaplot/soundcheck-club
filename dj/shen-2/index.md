@@ -1,6 +1,6 @@
 # Shen (2)
 
-Shen (2) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Shen (2) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
 Shen is a deep house and house artist based in Egypt, with 50 gigs on soundcheck across Amsterdam, Cologne, London and Toronto. Often billed alongside SAWIFROMSPACE, Rami Nassif and Theysiii. Next up: TBA, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Shen is a deep house and house artist based in Egypt, with 50 gigs on soundcheck
 
 SAWIFROMSPACE, Rami Nassif, Theysiii
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*

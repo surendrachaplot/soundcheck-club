@@ -1,6 +1,6 @@
 # Martin Messier
 
-Martin Messier is a Techno and Electronica artist with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
+Martin Messier is a Techno and Electronica artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
 
 Martin Messier is a techno and electronica artist, with 24 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Geneva and 5 more. Often billed alongside Andreas Lutz, Kon (FR) and media.tribe. Next up: TBA - Secret Location, Berlin on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Martin Messier is a techno and electronica artist, with 24 gigs on soundcheck ac
 
 Andreas Lutz, Kon (FR), media.tribe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmessier/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmessier/)*

@@ -1,6 +1,6 @@
 # Xoginoss
 
-Xoginoss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
+Xoginoss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
 
 Xoginoss is a techno and trance artist based in Greece, with 7 gigs on soundcheck across Athens. Often billed alongside Mariø, AQUILES. and Alisa Murphy. Next up: Oddity Club, Athens on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Xoginoss is a techno and trance artist based in Greece, with 7 gigs on soundchec
 
 Mariø, AQUILES., Alisa Murphy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoginoss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xoginoss/)*

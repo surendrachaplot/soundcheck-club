@@ -1,6 +1,6 @@
 # Florian Picasso
 
-Florian Picasso is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at La Java, Paris on Fri, 16 Oct 2026.
+Florian Picasso is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Java, Paris on Fri, 16 Oct 2026.
 
 Florian Picasso is a techno and trance artist based in Vietnam, with 40 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside CAPTNNN', Two Dots and Bad Boombox. Next up: La Java, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Florian Picasso is a techno and trance artist based in Vietnam, with 40 gigs on 
 
 CAPTNNN', Two Dots, Bad Boombox
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*

@@ -1,6 +1,6 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
+Adam X is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
 Adam X is a techno and acid artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Refuge, New York City on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Adam X is a techno and acid artist based in Germany, with 72 gigs on soundcheck 
 
 MAEDON, Frankie Bones, Orphx
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*

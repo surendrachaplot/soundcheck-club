@@ -1,6 +1,6 @@
 # Zeki
 
-Zeki is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The System, Sheffield on Fri, 23 Oct 2026.
+Zeki is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The System, Sheffield on Fri, 23 Oct 2026.
 
 Zeki is a grime and club artist based in United Kingdom, with 14 gigs on soundcheck across Auckland, Hamburg and Sheffield. Often billed alongside Eze, Omašta and colecta. Next up: The System, Sheffield on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Zeki is a grime and club artist based in United Kingdom, with 14 gigs on soundch
 
 Eze, Omašta, colecta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeki/)*

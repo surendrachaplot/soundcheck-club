@@ -1,6 +1,6 @@
 # Chop Suey
 
-Chop Suey is a music venue in Seattle with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Flammable presents: Doza! (Hunt&Gather / Flammable / LCG) with LYONS & GARFIELD~" on Sun, 4 Oct 2026.
+Chop Suey is a music venue in Seattle with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Flammable presents: Doza! (Hunt&Gather / Flammable / LCG) with LYONS & GARFIELD~" on Sun, 4 Oct 2026.
 
 Chop Suey is a music venue in Seattle listed on soundcheck. 3 upcoming gigs, with line-ups including Brian Lyons, Dane Garfield and Doza. See dates, start times and who's playing. 1325 E. Madison; Seattle, WA 98122; United States.
 
@@ -16,4 +16,4 @@ Chop Suey is a music venue in Seattle listed on soundcheck. 3 upcoming gigs, wit
 
 1325 E. Madison; Seattle, WA 98122; United States, Seattle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*

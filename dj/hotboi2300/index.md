@@ -1,6 +1,6 @@
 # HOTBOI2300
 
-HOTBOI2300 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
+HOTBOI2300 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
 HOTBOI2300 is a techno and trance artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 12 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ HOTBOI2300 is a techno and trance artist based in Germany, with 78 gigs on sound
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*

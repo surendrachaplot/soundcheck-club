@@ -1,6 +1,6 @@
 # Sinetiketa
 
-Sinetiketa is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Sinetiketa is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Sinetiketa is a techno and tech house artist based in Argentina, with 21 gigs on soundcheck across Berlin. Often billed alongside 10961, DURØ and P3PA. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sinetiketa is a techno and tech house artist based in Argentina, with 21 gigs on
 
 10961, DURØ, P3PA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinetiketa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinetiketa/)*

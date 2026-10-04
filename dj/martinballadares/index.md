@@ -1,6 +1,6 @@
 # Martin Balladares
 
-Martin Balladares is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Malasaña, Madrid on Sat, 3 Oct 2026.
+Martin Balladares is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Malasaña, Madrid on Sat, 3 Oct 2026.
 
 Martin Balladares is an electronica and house artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside Tania Vulcano, AGELESS and Agustin Clark. Next up: Club Malasaña, Madrid on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Martin Balladares is an electronica and house artist based in Spain, with 13 gig
 
 ## Recently played
 
+- Club Malasaña, Madrid · Sat, 3 Oct 2026
 - Club Malasaña, Madrid · Fri, 11 Sept 2026
 - Barco Sound House, Madrid · Thu, 18 Jun 2026
 - Goya Social Club, Madrid · Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Martin Balladares is an electronica and house artist based in Spain, with 13 gig
 - Subcero Club, Madrid · Fri, 17 Apr 2026
 - Goya Social Club, Madrid · Sat, 11 Apr 2026
 - Goya Social Club, Madrid · Sat, 14 Feb 2026
-- Goya Social Club, Madrid · Sat, 24 Jan 2026
 
 ## Shares bills with
 
 Tania Vulcano, AGELESS, Agustin Clark
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinballadares/)*

@@ -1,14 +1,13 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Camp and Furnace | Liverpool |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,6 +19,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 3 Oct 2026
 - Electric Studios, Sheffield · Fri, 2 Oct 2026
 - Mint Warehouse, Leeds · Mon, 21 Sept 2026
 - Bronze Beach, Amsterdam · Sat, 19 Sept 2026
@@ -27,10 +27,9 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs
 - 528 Ibiza, Ibiza · Sun, 13 Sept 2026
 - Revolver Upstairs, Melbourne · Sun, 6 Sept 2026
 - Room 22, Sydney · Sat, 5 Sept 2026
-- XOYO, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

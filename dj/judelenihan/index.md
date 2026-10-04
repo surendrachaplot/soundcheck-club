@@ -1,6 +1,6 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+Jude Lenihan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
 Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: fabric, London on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Jude Lenihan is a house and tech house artist based in United Kingdom, with 52 g
 
 Benji King, Phill de Janeiro, j:me
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*

@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Yamour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Yamour is a house and techno artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 32 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -18,6 +18,7 @@ Yamour is a house and techno artist based in Germany, with 163 gigs on soundchec
 
 ## Recently played
 
+- TBA, Sofia · Sat, 3 Oct 2026
 - Loco Park, Tbilisi · Fri, 2 Oct 2026
 - H0L0, New York City · Sat, 26 Sept 2026
 - Fünk, Mexico City · Fri, 11 Sept 2026
@@ -25,10 +26,9 @@ Yamour is a house and techno artist based in Germany, with 163 gigs on soundchec
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 29 Aug 2026
 - Tokonoma Club, Frankfurt · Sat, 15 Aug 2026
 - BRET, Amsterdam · Sun, 9 Aug 2026
-- SAGE, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

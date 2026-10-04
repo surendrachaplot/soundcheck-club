@@ -1,14 +1,13 @@
 # Ninety One
 
-Ninety One is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sounds Like London: Sippin' T, Lily London, Gracey (Launch Night)" on Sat, 3 Oct 2026.
+Ninety One is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sounds Like London: Girls Love Grime" on Sat, 10 Oct 2026.
 
-Ninety One is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Amber Rose, Bear Winder, Calm Stiege and candice a.m and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
+Ninety One is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Amber Rose, Bear Winder, Calm Stiege and candice a.m and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sounds Like London: Sippin' T, Lily London, Gracey (Launch Night) | Lily London, Sippin' T |
 | Sat, 10 Oct 2026 | Sounds Like London: Girls Love Grime | Amber Rose |
 | Sat, 17 Oct 2026 | Sounds Like London: Freshta (3 Hour Set) + Temujin | Freshta, Temujin |
 | Sat, 24 Oct 2026 | Sounds Like London: Roska, Klose One + Mike Chin | Klose One, Roska |
@@ -23,4 +22,4 @@ Ninety One is a music venue in London listed on soundcheck. 10 upcoming gigs, wi
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

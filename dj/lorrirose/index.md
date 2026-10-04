@@ -1,6 +1,6 @@
 # Lorri Rose
 
-Lorri Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
+Lorri Rose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
 
 Lorri Rose is a techno and house artist based in Belgium, with 8 gigs on soundcheck across Antwerp and Brussels. Often billed alongside JIPSEY, ATARAXY and BILLY. Next up: Kavka Oudaan, Antwerp on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Lorri Rose is a techno and house artist based in Belgium, with 8 gigs on soundch
 
 ## Recently played
 
+- Kavka Oudaan, Antwerp · Sat, 3 Oct 2026
 - Club Vaag, Antwerp · Fri, 11 Sept 2026
 - Stormkop, Antwerp · Sat, 11 Jul 2026
 - BRISA Rooftop, Antwerp · Sat, 30 May 2026
@@ -24,4 +25,4 @@ Lorri Rose is a techno and house artist based in Belgium, with 8 gigs on soundch
 
 JIPSEY, ATARAXY, BILLY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorrirose/)*

@@ -1,6 +1,6 @@
 # Khen
 
-Khen is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Story Toronto, Toronto on Fri, 16 Oct 2026.
+Khen is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Story Toronto, Toronto on Fri, 16 Oct 2026.
 
 Khen is a progressive house and house artist based in Israel, with 69 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Budapest and 24 more. Often billed alongside Sebastien Leger, Guy J and Guy Mantzur. Next up: Story Toronto, Toronto on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Khen is a progressive house and house artist based in Israel, with 69 gigs on so
 
 Sebastien Leger, Guy J, Guy Mantzur
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*

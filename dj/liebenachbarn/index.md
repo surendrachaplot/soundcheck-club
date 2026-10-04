@@ -1,6 +1,6 @@
 # Liebe Nachbarn
 
-Liebe Nachbarn is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
+Liebe Nachbarn is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
 
 Liebe Nachbarn is a tech house and house artist based in Germany, with 20 gigs on soundcheck across Berlin and Munich. Often billed alongside Anna Lazer, DJ Nebelmaschine and Bernd Bugatti. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Liebe Nachbarn is a tech house and house artist based in Germany, with 20 gigs o
 
 Anna Lazer, DJ Nebelmaschine, Bernd Bugatti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*

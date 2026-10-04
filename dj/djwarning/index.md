@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Process PDX, Portland on Sat, 17 Oct 2026.
+Dj Warning is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Process PDX, Portland on Sat, 17 Oct 2026.
 
 Dj Warning is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Process PDX, Portland on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Dj Warning is a techno and house artist based in United States of America, with 
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

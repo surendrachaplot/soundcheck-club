@@ -1,6 +1,6 @@
 # Fonzi (2)
 
-Fonzi (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 5A, Lisbon on Thu, 22 Oct 2026.
+Fonzi (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 5A, Lisbon on Thu, 22 Oct 2026.
 
 Fonzi is a house and techno artist based in Portugal, with 29 gigs on soundcheck across Lisbon and Porto. Often billed alongside Nibius, Pitcho and Kaesar. Next up: 5A, Lisbon on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Fonzi is a house and techno artist based in Portugal, with 29 gigs on soundcheck
 
 Nibius, Pitcho, Kaesar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*

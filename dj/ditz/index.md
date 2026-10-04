@@ -1,6 +1,6 @@
 # DITZ
 
-DITZ is a Post-Punk and Noise artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Thu, 15 Oct 2026.
+DITZ is a Post-Punk and Noise artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The White Hotel, Manchester on Thu, 15 Oct 2026.
 
 DITZ is a post-punk and noise artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, Manchester and The Hague. Often billed alongside Warmduscher, Alessandro Adriani and Antony Szmierek. Next up: The White Hotel, Manchester on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ DITZ is a post-punk and noise artist based in United Kingdom, with 6 gigs on sou
 
 Warmduscher, Alessandro Adriani, Antony Szmierek
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ditz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ditz/)*

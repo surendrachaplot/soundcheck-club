@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BLUR with Maher Daniel" on Sat, 3 Oct 2026.
+PRST is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BLUR with Maher Daniel" on Sat, 3 Oct 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Catana, Apua, ATNIL and Camion Bazar and 2 more. See dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -21,4 +21,4 @@ PRST is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

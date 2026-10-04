@@ -1,6 +1,6 @@
 # The Hideout Inn
 
-The Hideout Inn is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Heart of Chicago Soul Club Dance Party" on Sat, 17 Oct 2026.
+The Hideout Inn is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Heart of Chicago Soul Club Dance Party" on Sat, 17 Oct 2026.
 
 The Hideout Inn is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1354 W Wabansia; Chicago; IL 60642.
 
@@ -14,4 +14,4 @@ The Hideout Inn is a music venue in Chicago listed on soundcheck. 1 upcoming gig
 
 1354 W Wabansia; Chicago; IL 60642, Chicago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-hideout-inn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-hideout-inn/)*

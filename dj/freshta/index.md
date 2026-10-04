@@ -1,6 +1,6 @@
 # Freshta
 
-Freshta is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
+Freshta is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
 Freshta is a garage and bass artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Birmingham, Brisbane and Bristol and 12 more. Often billed alongside Lady Passion, Neffa-T and Capo Lee. Next up: Stereo, Glasgow on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Freshta is a garage and bass artist based in United Kingdom, with 46 gigs on sou
 
 ## Recently played
 
+- Stereo, Glasgow · Sat, 3 Oct 2026
 - Ninety One, London · Sat, 20 Jun 2026
 - Pistil, Seoul · Sat, 2 May 2026
 - Saloon, Tokyo · Fri, 17 Apr 2026
@@ -21,10 +22,9 @@ Freshta is a garage and bass artist based in United Kingdom, with 46 gigs on sou
 - Corsica Studios, London · Thu, 20 Nov 2025
 - Last Arch, London · Fri, 17 Oct 2025
 - Planet Wax, London · Sun, 12 Oct 2025
-- The Greyhound, London · Sat, 6 Sept 2025
 
 ## Shares bills with
 
 Lady Passion, Neffa-T, Capo Lee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freshta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freshta/)*

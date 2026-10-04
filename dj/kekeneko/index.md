@@ -1,6 +1,6 @@
 # Kekeneko
 
-Kekeneko is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Yes, Manchester on Fri, 9 Oct 2026.
+Kekeneko is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yes, Manchester on Fri, 9 Oct 2026.
 
 Kekeneko is a club and techno artist based in Japan, with 18 gigs on soundcheck across Brighton, London, Manchester and Tokyo. Often billed alongside Kop-Z, Loveblade and Seren 4 Ever. Next up: Yes, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kekeneko is a club and techno artist based in Japan, with 18 gigs on soundcheck 
 
 Kop-Z, Loveblade, Seren 4 Ever
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*

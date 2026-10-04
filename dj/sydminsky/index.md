@@ -1,6 +1,6 @@
 # Syd Minsky
 
-Syd Minsky is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
+Syd Minsky is a New Wave and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
 
 Syd Minsky is a new wave and electronica artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Matt Hum, Make A Dance and Royal Male. Next up: Sidney & Matilda, Sheffield on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Syd Minsky is a new wave and electronica artist based in United Kingdom, with 25
 
 Matt Hum, Make A Dance, Royal Male
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydminsky/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydminsky/)*

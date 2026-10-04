@@ -1,6 +1,6 @@
 # Paul Bauhaus
 
-Paul Bauhaus is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
+Paul Bauhaus is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
 
 Paul Bauhaus is a trance and techno artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Patchy, EZA (DE) and DJ Spaßgetränk. Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Paul Bauhaus is a trance and techno artist based in Germany, with 17 gigs on sou
 
 Patchy, EZA (DE), DJ Spaßgetränk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbauhaus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbauhaus/)*

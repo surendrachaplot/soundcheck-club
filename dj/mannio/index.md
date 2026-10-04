@@ -1,6 +1,6 @@
 # MANNIO
 
-MANNIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
+MANNIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
 
 MANNIO is a techno and house artist based in Ireland, with 21 gigs on soundcheck across Berlin, Dublin, Galway and London and 1 more. Often billed alongside Culchee, Niall Kelly and Peadar. Next up: radial, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ MANNIO is a techno and house artist based in Ireland, with 21 gigs on soundcheck
 
 Culchee, Niall Kelly, Peadar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*

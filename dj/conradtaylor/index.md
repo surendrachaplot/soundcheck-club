@@ -1,6 +1,6 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
+Conrad Taylor is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
 Conrad Taylor is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Austin, Berlin, Dallas Fort Worth and New York City and 6 more. Often billed alongside Flash Gea, Marie Vaunt and hhunter. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 
 ## Recently played
 
+- Ritter Butzke, Berlin · Sat, 3 Oct 2026
 - Industry City, New York City · Sat, 5 Sept 2026
 - Industry City, New York City · Sat, 5 Sept 2026
 - Celebrities Night Club, Vancouver · Sat, 22 Aug 2026
@@ -23,10 +24,9 @@ Conrad Taylor is a techno and house artist based in United States of America, wi
 - 1015 Folsom, San Francisco/Oakland · Thu, 18 Jun 2026
 - Echostage, Washington DC · Fri, 12 Jun 2026
 - Sacré, Paris · Thu, 12 Feb 2026
-- Mood Ring, New York City · Thu, 28 Aug 2025
 
 ## Shares bills with
 
 Flash Gea, Marie Vaunt, hhunter
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

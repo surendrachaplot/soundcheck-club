@@ -1,6 +1,6 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Âme DJ & Hardt Antoine" on Sat, 3 Oct 2026.
+Club Space Miami is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Âme DJ & Hardt Antoine" on Sat, 3 Oct 2026.
 
 Club Space Miami is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with line-ups including AABEL, AJ Christou, Âme and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
@@ -23,4 +23,4 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 17 upcoming gig
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

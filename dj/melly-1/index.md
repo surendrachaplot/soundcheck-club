@@ -1,6 +1,6 @@
 # Melly (1)
 
-Melly (1) is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
+Melly (1) is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Orange Room, London on Sat, 24 Oct 2026.
 
 Melly is a house and dancehall artist based in United Kingdom, with 14 gigs on soundcheck across Glasgow, London and Oslo. Often billed alongside AUDIO DUNE, warmluke and DJoe. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Melly is a house and dancehall artist based in United Kingdom, with 14 gigs on s
 
 AUDIO DUNE, warmluke, DJoe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*

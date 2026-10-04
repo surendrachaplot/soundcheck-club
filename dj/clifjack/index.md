@@ -1,6 +1,6 @@
 # Clif Jack
 
-Clif Jack is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Clif Jack is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Clif Jack is a techno and tech house artist based in Italy, with 9 gigs on soundcheck across Amsterdam, Austria, Düsseldorf and London and 2 more. Often billed alongside Ilona Maras, Spartaque and AKA AKA. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Clif Jack is a techno and tech house artist based in Italy, with 9 gigs on sound
 
 Ilona Maras, Spartaque, AKA AKA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clifjack/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clifjack/)*

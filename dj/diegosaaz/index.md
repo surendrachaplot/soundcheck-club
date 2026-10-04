@@ -1,6 +1,6 @@
 # Diego Saaz
 
-Diego Saaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat, 24 Oct 2026.
+Diego Saaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat, 24 Oct 2026.
 
 Diego Saaz is a house and techno artist based in Mexico, with 14 gigs on soundcheck across Mexico City. Often billed alongside YAM YAMS, Geor-G and Alexx Fall. Next up: TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Diego Saaz is a house and techno artist based in Mexico, with 14 gigs on soundch
 
 YAM YAMS, Geor-G, Alexx Fall
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosaaz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegosaaz/)*

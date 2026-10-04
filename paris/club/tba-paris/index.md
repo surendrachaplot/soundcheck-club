@@ -1,6 +1,6 @@
 # TBA - Paris
 
-TBA - Paris is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ACCIDENT THEORY presents: ON/PHASE" on Fri, 9 Oct 2026.
+TBA - Paris is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ACCIDENT THEORY presents: ON/PHASE" on Fri, 9 Oct 2026.
 
 TBA - Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including A.Pringle, AMORAL, Amotik and Apoteoz and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, wit
 | Fri, 11 Dec 2026 | Spectrum Waves: Anniversary |  |
 | Thu, 31 Dec 2026 | Illusion Nye XXL Rave: Rooler Santos Dikke Baap | SANTØS |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-paris/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-paris/)*

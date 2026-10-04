@@ -1,6 +1,6 @@
 # xPOLLYx
 
-xPOLLYx is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
+xPOLLYx is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Centro Sociale Rivolta, Venice on Sat, 17 Oct 2026.
 
 xPOLLYx is an electronica artist based in Italy, with 15 gigs on soundcheck across Berlin, Krakow, Venice and Warsaw. Often billed alongside KULYENCHIKEV, Kasei P and Sakrum. Next up: Centro Sociale Rivolta, Venice on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ xPOLLYx is an electronica artist based in Italy, with 15 gigs on soundcheck acro
 
 KULYENCHIKEV, Kasei P, Sakrum
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xpollyx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xpollyx/)*

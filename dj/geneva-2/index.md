@@ -1,6 +1,6 @@
 # Geneva (2)
 
-Geneva (2) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
+Geneva (2) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
 
 Geneva is a techno and electro artist based in Canada, with 22 gigs on soundcheck across Detroit, Hamilton, Paris and Toronto. Often billed alongside Circumscums, Measure Divide and Program Sam. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Geneva is a techno and electro artist based in Canada, with 22 gigs on soundchec
 
 Circumscums, Measure Divide, Program Sam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*

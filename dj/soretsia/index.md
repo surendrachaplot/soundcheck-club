@@ -1,6 +1,6 @@
 # Soretsia
 
-Soretsia is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Thu, 22 Oct 2026.
+Soretsia is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Thu, 22 Oct 2026.
 
 Soretsia is an experimental and club artist, with 7 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Spinefluid, AKUMU and Maniatrix. Next up: Stereo, Glasgow on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Soretsia is an experimental and club artist, with 7 gigs on soundcheck across Ed
 
 Spinefluid, AKUMU, Maniatrix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soretsia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soretsia/)*

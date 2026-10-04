@@ -1,6 +1,6 @@
 # DJ Lgcc
 
-DJ Lgcc is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Chicago on Fri, 9 Oct 2026.
+DJ Lgcc is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Chicago on Fri, 9 Oct 2026.
 
 DJ Lgcc is an acid and ambient artist based in United States of America, with 22 gigs on soundcheck across Chicago and Philadelphia. Often billed alongside m50, r.ss and IT-XPO. Next up: TBA, Chicago on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ Lgcc is an acid and ambient artist based in United States of America, with 22
 
 m50, r.ss, IT-XPO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlgcc/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlgcc/)*

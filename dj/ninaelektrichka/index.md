@@ -1,6 +1,6 @@
 # Nina Elektrichka
 
-Nina Elektrichka is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Laska V21, Riga on Fri, 9 Oct 2026.
+Nina Elektrichka is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Laska V21, Riga on Fri, 9 Oct 2026.
 
 Nina Elektrichka is a techno and minimal techno artist based in Latvia, with 15 gigs on soundcheck across Paris and Riga. Often billed alongside SIRDSAPES, Aizvakardiena and Dmitry Puffin. Next up: Laska V21, Riga on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nina Elektrichka is a techno and minimal techno artist based in Latvia, with 15 
 
 SIRDSAPES, Aizvakardiena, Dmitry Puffin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaelektrichka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaelektrichka/)*

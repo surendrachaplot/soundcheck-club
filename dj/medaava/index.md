@@ -1,6 +1,6 @@
 # Meda-Ava
 
-Meda-Ava is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
+Meda-Ava is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
 
 Meda-Ava is a techno and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin, Cork and Dublin and 1 more. Often billed alongside Offtrack, Jack Devine and Doiléir. Next up: AMT, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Meda-Ava is a techno and house artist based in Netherlands, with 20 gigs on soun
 
 Offtrack, Jack Devine, Doiléir
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medaava/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medaava/)*

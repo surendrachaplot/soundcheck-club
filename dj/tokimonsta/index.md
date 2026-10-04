@@ -1,6 +1,6 @@
 # TOKiMONSTA
 
-TOKiMONSTA is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Time Nightclub, Orange-county on Sat, 17 Oct 2026.
+TOKiMONSTA is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Time Nightclub, Orange-county on Sat, 17 Oct 2026.
 
 TOKiMONSTA is a house and electronica artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Austin, Berlin and Chicago and 18 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: Time Nightclub, Orange County on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ TOKiMONSTA is a house and electronica artist based in United States of America, 
 
 Rochelle Jordan, Rozet, Bonobo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*

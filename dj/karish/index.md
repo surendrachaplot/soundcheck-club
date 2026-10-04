@@ -1,6 +1,6 @@
 # KARISH
 
-KARISH is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 6 Nov 2026.
+KARISH is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 6 Nov 2026.
 
 KARISH is a techno and trance artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside two girls one mom, 3LEEZA and HANÀ. Next up: RSO.BERLIN, Berlin on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ KARISH is a techno and trance artist based in Netherlands, with 20 gigs on sound
 
 two girls one mom, 3LEEZA, HANÀ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*

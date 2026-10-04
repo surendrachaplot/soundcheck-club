@@ -1,6 +1,6 @@
 # Dx
 
-Dx is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Club Culture: Rødhåd & Niqi" on Thu, 17 Dec 2026.
+Dx is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club Culture: Rødhåd & Niqi" on Thu, 17 Dec 2026.
 
 Dx is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Niqi and Rødhåd. See dates, start times and who's playing. 33 Dunster St, Cambridge, MA 02138.
 
@@ -14,4 +14,4 @@ Dx is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-up
 
 33 Dunster St, Cambridge, MA 02138, Boston
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dx/)*

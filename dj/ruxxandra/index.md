@@ -1,6 +1,6 @@
 # RuxXandra
 
-RuxXandra is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
+RuxXandra is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
 
 RuxXandra is a house and afro house artist, with 40 gigs on soundcheck across Barcelona. Often billed alongside Cabana, Andrea Love and Alice Youngling. Next up: TBA - Secret location, Tarragona, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ RuxXandra is a house and afro house artist, with 40 gigs on soundcheck across Ba
 
 Cabana, Andrea Love, Alice Youngling
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruxxandra/)*

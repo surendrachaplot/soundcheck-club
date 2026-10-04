@@ -1,6 +1,6 @@
 # Nicolas Rada
 
-Nicolas Rada is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Nicolas Rada is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
 Nicolas Rada is a progressive house and techno artist based in Argentina, with 60 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Budapest and 10 more. Often billed alongside Marcelo Vasami, Antrim and Nick Warren. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Nicolas Rada is a progressive house and techno artist based in Argentina, with 6
 
 Marcelo Vasami, Antrim, Nick Warren
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*

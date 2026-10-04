@@ -1,6 +1,6 @@
 # Amarcord
 
-Amarcord is a Acid and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
+Amarcord is a Acid and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
 
 Amarcord is an acid and ebm artist based in Italy, with 13 gigs on soundcheck across Barcelona, Berlin, Leipzig and New York City and 4 more. Often billed alongside Dorian Flagrant, Facets and Kendal. Next up: Kulturlounge, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Amarcord is an acid and ebm artist based in Italy, with 13 gigs on soundcheck ac
 
 Dorian Flagrant, Facets, Kendal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarcord/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarcord/)*

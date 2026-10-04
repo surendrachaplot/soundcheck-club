@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HEKAYA: KAYYAK (ALL NIGHT LONG)" on Sat, 3 Oct 2026.
+Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HEKAYA: KAYYAK (ALL NIGHT LONG)" on Sat, 3 Oct 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including Davide Dev, Flo Real, Ge-ology and Gee Lane and 2 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -18,4 +18,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

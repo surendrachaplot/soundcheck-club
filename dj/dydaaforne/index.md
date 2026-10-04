@@ -1,6 +1,6 @@
 # Dydaa Forne
 
-Dydaa Forne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Beate Uwe, Berlin on Fri, 16 Oct 2026.
+Dydaa Forne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Fri, 16 Oct 2026.
 
 Dydaa Forne is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin and Hamburg. Often billed alongside vom Feisten, Daniel Neuland and Martin Ka. Next up: Beate Uwe, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dydaa Forne is a techno and house artist based in Germany, with 51 gigs on sound
 
 vom Feisten, Daniel Neuland, Martin Ka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dydaaforne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dydaaforne/)*

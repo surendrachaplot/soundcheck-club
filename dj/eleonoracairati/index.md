@@ -1,6 +1,6 @@
 # Eleonora Cairati
 
-Eleonora Cairati is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tola, London on Sat, 3 Oct 2026.
+Eleonora Cairati is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tola, London on Sat, 3 Oct 2026.
 
 Eleonora Cairati is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Ryan Henry, Thomas Galbardi and Althoff. Next up: Tola, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Eleonora Cairati is a techno and house artist based in United Kingdom, with 14 g
 
 ## Recently played
 
+- Tola, London · Sat, 3 Oct 2026
 - Azul Rooftop Barceloneta, Barcelona · Fri, 11 Sept 2026
 - Union Club, Vauxhall, London · Sat, 13 Jun 2026
 - Tola, London · Sat, 25 Apr 2026
@@ -19,10 +20,9 @@ Eleonora Cairati is a techno and house artist based in United Kingdom, with 14 g
 - The Castle, London · Fri, 27 Mar 2026
 - TBA - Check details - Bus going around London, London · Sat, 20 Dec 2025
 - Union Club, Vauxhall, London · Sat, 8 Nov 2025
-- Tola, London · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Ryan Henry, Thomas Galbardi, Althoff
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonoracairati/)*

@@ -1,6 +1,6 @@
 # JEFFE
 
-JEFFE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+JEFFE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 JEFFE is a techno and trance artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Kaldero, MAIYHAUS and xspencer. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ JEFFE is a techno and trance artist based in Australia, with 6 gigs on soundchec
 
 Kaldero, MAIYHAUS, xspencer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffe/)*

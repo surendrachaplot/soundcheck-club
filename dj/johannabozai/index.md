@@ -1,6 +1,6 @@
 # Johanna Bozai
 
-Johanna Bozai is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
+Johanna Bozai is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
 
 Johanna Bozai is a techno and trance artist, with 21 gigs on soundcheck across Budapest. Often billed alongside ädene, Akác and KALMIKVCS. Next up: Vektor - The Klub, Budapest on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Johanna Bozai is a techno and trance artist, with 21 gigs on soundcheck across B
 
 ädene, Akác, KALMIKVCS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*

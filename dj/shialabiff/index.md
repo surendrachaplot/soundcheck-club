@@ -1,6 +1,6 @@
 # Shia LaBiff
 
-Shia LaBiff is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
+Shia LaBiff is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
 Shia LaBiff is a new wave and techno artist based in Germany, with 23 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Aural Trace, Lauer and Andi. Next up: ://about blank, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Shia LaBiff is a new wave and techno artist based in Germany, with 23 gigs on so
 
 Aural Trace, Lauer, Andi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shialabiff/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shialabiff/)*

@@ -1,6 +1,6 @@
 # Star Eater
 
-Star Eater is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
+Star Eater is a Pop and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Star Eater is a pop and techno artist based in United States of America, with 11 gigs on soundcheck across San Francisco/Oakland. Often billed alongside MAMA SAN, MAMA SANx and NOT NO. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Star Eater is a pop and techno artist based in United States of America, with 11
 
 MAMA SAN, MAMA SANx, NOT NO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stareater/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stareater/)*

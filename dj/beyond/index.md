@@ -1,6 +1,6 @@
 # Beyond
 
-Beyond is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Beyond is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Beyond is a house and afrobeats artist based in Spain, with 9 gigs on soundcheck across Barcelona, Berlin, Cologne and Los Angeles and 4 more. Often billed alongside Armin van Buuren, Astrix and Billy Gillies. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Beyond is a house and afrobeats artist based in Spain, with 9 gigs on soundcheck
 
 Armin van Buuren, Astrix, Billy Gillies
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beyond/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beyond/)*

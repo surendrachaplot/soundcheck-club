@@ -1,6 +1,6 @@
 # MMIV
 
-MMIV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Doka, Amsterdam on Sat, 31 Oct 2026.
+MMIV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Doka, Amsterdam on Sat, 31 Oct 2026.
 
 MMIV is a house and techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Shady Lady, Doppelgang and BELLA (NL). Next up: Doka, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MMIV is a house and techno artist based in Netherlands, with 16 gigs on soundche
 
 Shady Lady, Doppelgang, BELLA (NL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmiv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmiv/)*

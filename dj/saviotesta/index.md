@@ -1,6 +1,6 @@
 # Savio Testa
 
-Savio Testa is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sun, 4 Oct 2026.
+Savio Testa is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sun, 4 Oct 2026.
 
 Savio Testa is a tech house and minimal artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, London and Mykonos and 1 more. Often billed alongside BRADII, Verso and BECKIE ADAMS. Next up: fabric, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Savio Testa is a tech house and minimal artist based in United Kingdom, with 35 
 
 BRADII, Verso, BECKIE ADAMS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saviotesta/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saviotesta/)*

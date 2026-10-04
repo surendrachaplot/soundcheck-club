@@ -1,6 +1,6 @@
 # LArA (5)
 
-LArA (5) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Garrison, Toronto on Fri, 9 Oct 2026.
+LArA (5) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Garrison, Toronto on Fri, 9 Oct 2026.
 
 LArA is a house and electronica artist based in Mexico, with 13 gigs on soundcheck across Toronto. Often billed alongside Delicious DJ, Prince Batrick and GRRLCRRSH. Next up: The Garrison, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ LArA is a house and electronica artist based in Mexico, with 13 gigs on soundche
 
 Delicious DJ, Prince Batrick, GRRLCRRSH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*

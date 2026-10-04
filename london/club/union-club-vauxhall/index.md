@@ -1,6 +1,6 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "TROUGH LONDON" on Sat, 3 Oct 2026.
+Union Club, Vauxhall is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TROUGH LONDON" on Sat, 3 Oct 2026.
 
 Union Club, Vauxhall is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 13 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

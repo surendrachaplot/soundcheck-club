@@ -1,6 +1,6 @@
 # mer.ve
 
-mer.ve is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+mer.ve is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
 mer.ve is a techno and trance artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside TWOFACEDKIMMY, ANDATA and ATAVEM. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ mer.ve is a techno and trance artist, with 6 gigs on soundcheck across Berlin an
 
 ## Recently played
 
+- Fabrique im Gängeviertel, Hamburg · Sat, 3 Oct 2026
 - Turtur, Hamburg · Fri, 11 Sept 2026
 - Uebel & Gefährlich, Hamburg · Wed, 13 May 2026
 - Südpol, Hamburg · Sat, 28 Mar 2026
@@ -22,4 +23,4 @@ mer.ve is a techno and trance artist, with 6 gigs on soundcheck across Berlin an
 
 TWOFACEDKIMMY, ANDATA, ATAVEM
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merve-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merve-2/)*

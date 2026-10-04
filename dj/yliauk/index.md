@@ -1,6 +1,6 @@
 # Ylia (UK)
 
-Ylia (UK) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Ylia (UK) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
 
 Ylia (UK) is a techno artist based in France, with 33 gigs on soundcheck across Berlin, London and Milan. Often billed alongside H Grade, James Harbrecht and Deranged. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ylia (UK) is a techno artist based in France, with 33 gigs on soundcheck across 
 
 H Grade, James Harbrecht, Deranged
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*

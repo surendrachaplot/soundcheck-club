@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
+Arthi is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 16 Oct 2026.
 
 Arthi is a garage and house artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Bakey, Katy B and Diffrent. Next up: Razzmatazz, Barcelona on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Arthi is a garage and house artist based in United Kingdom, with 106 gigs on sou
 
 Bakey, Katy B, Diffrent
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

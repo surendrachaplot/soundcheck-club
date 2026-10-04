@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
+FENIM0RE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
 
 FENIM0RE is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 24 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: glimmer, Hamburg on Sat 3 Oct.
 
@@ -20,6 +20,7 @@ FENIM0RE is a techno and trance artist based in Germany, with 56 gigs on soundch
 
 ## Recently played
 
+- glimmer, Hamburg · Sat, 3 Oct 2026
 - Grelle Forelle, Vienna · Sat, 26 Sept 2026
 - Lehmann Club, Stuttgart · Sat, 19 Sept 2026
 - BASIS, Utrecht · Fri, 18 Sept 2026
@@ -27,10 +28,9 @@ FENIM0RE is a techno and trance artist based in Germany, with 56 gigs on soundch
 - EXIL, Zurich · Fri, 4 Sept 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - Poolen, Copenhagen · Sat, 8 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

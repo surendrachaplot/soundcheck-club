@@ -1,6 +1,6 @@
 # Warhaus
 
-Warhaus is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
+Warhaus is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
 
 Warhaus is an electronica and experimental artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Brussels and Budapest. Often billed alongside AMÉMÉ, ANOTR and Anfisa Letyago. Next up: Cinetol, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Warhaus is an electronica and experimental artist based in Netherlands, with 4 g
 
 AMÉMÉ, ANOTR, Anfisa Letyago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warhaus/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warhaus/)*

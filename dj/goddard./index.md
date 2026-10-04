@@ -1,6 +1,6 @@
 # goddard.
 
-goddard. is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ilam Fields, Christchurch on Sat, 17 Oct 2026.
+goddard. is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Ilam Fields, Christchurch on Sat, 17 Oct 2026.
 
 goddard. is a drum & bass and bass artist based in United Kingdom, with 27 gigs on soundcheck across Auckland, Austin, Birmingham and Bristol and 12 more. Often billed alongside DREAD MC, Hybrid Minds and K Motionz. Next up: TBA - Ilam Fields, Christchurch on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ goddard. is a drum & bass and bass artist based in United Kingdom, with 27 gigs 
 
 DREAD MC, Hybrid Minds, K Motionz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*

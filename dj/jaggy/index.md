@@ -1,6 +1,6 @@
 # Jaggy
 
-Jaggy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Jaggy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
 Jaggy is a house and techno artist based in United States of America, with 54 gigs on soundcheck across Barcelona, Berlin, Chicago and Detroit. Often billed alongside patrick conahan, Josh Aaron and frail808. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jaggy is a house and techno artist based in United States of America, with 54 gi
 
 patrick conahan, Josh Aaron, frail808
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaggy/)*

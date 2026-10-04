@@ -1,6 +1,6 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
+Joris Voorn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
 
 Joris Voorn is a techno and house artist based in Netherlands, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 51 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Odiseja BTC Ljubljana, Ljubljana on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Joris Voorn is a techno and house artist based in Netherlands, with 192 gigs on 
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

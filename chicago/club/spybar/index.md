@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "INPHINITY & Beyond" on Sat, 3 Oct 2026.
+Spybar is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "INPHINITY & Beyond" on Sat, 3 Oct 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including Effy, Franc Fala, INPHINITY and Jazzy (IRL) and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

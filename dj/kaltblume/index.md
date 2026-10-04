@@ -1,6 +1,6 @@
 # KALTBLUME
 
-KALTBLUME is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at KALT, Strasbourg on Sat, 10 Oct 2026.
+KALTBLUME is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KALT, Strasbourg on Sat, 10 Oct 2026.
 
 KALTBLUME is a techno and industrial artist based in France, with 30 gigs on soundcheck across Amsterdam, Berlin, Milan and Nantes and 2 more. Often billed alongside Iman Janes, KUSS and RUIZ OSC1. Next up: KALT, Strasbourg on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ KALTBLUME is a techno and industrial artist based in France, with 30 gigs on sou
 
 Iman Janes, KUSS, RUIZ OSC1
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaltblume/)*

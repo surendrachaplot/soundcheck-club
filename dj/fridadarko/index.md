@@ -1,6 +1,6 @@
 # Frida Darko
 
-Frida Darko is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
+Frida Darko is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
 Frida Darko is a techno and house artist, with 96 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Frida Darko is a techno and house artist, with 96 gigs on soundcheck across Amst
 
 Oliver Koletzki, Urem, FLAVE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridadarko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridadarko/)*

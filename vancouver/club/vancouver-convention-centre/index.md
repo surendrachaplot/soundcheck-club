@@ -1,6 +1,6 @@
 # Vancouver Convention Centre
 
-Vancouver Convention Centre is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Foundation v18.0 Halloween with Chris Lake - Access Code 'RAVEFAM'" on Sat, 31 Oct 2026.
+Vancouver Convention Centre is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Foundation v18.0 Halloween with Chris Lake - Access Code 'RAVEFAM'" on Sat, 31 Oct 2026.
 
 Vancouver Convention Centre is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1055 Canada Pl.
 
@@ -14,4 +14,4 @@ Vancouver Convention Centre is a music venue in Vancouver listed on soundcheck. 
 
 1055 Canada Pl, Vancouver
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/vancouver-convention-centre/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/vancouver-convention-centre/)*

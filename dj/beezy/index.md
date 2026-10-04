@@ -1,6 +1,6 @@
 # BE EZY
 
-BE EZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
+BE EZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
 
 BE EZY is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Sydney and Washington DC. Often billed alongside E-QUE, MaMan and Stephan Maman. Next up: Flash, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BE EZY is a house and techno artist based in United States of America, with 36 g
 
 E-QUE, MaMan, Stephan Maman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beezy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beezy/)*

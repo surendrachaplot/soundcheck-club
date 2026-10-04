@@ -1,6 +1,6 @@
 # Noway
 
-Noway is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Piree, Athens on Sat, 3 Oct 2026.
+Noway is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Piree, Athens on Sat, 3 Oct 2026.
 
 Noway is a bass and house artist based in Canada, with 36 gigs on soundcheck across Athens, Berlin, Geneva and Osaka and 2 more. Often billed alongside MOOTOE, In-Character and SLEEPY HEVD. Next up: Piree, Athens on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Noway is a bass and house artist based in Canada, with 36 gigs on soundcheck acr
 
 ## Recently played
 
+- Piree, Athens · Sat, 3 Oct 2026
 - Solfa, Tokyo · Fri, 11 Sept 2026
 - Audio Club, Geneva · Sat, 29 Aug 2026
 - Circus Tokyo, Tokyo · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ Noway is a bass and house artist based in Canada, with 36 gigs on soundcheck acr
 - Circus Tokyo, Tokyo · Fri, 8 May 2026
 - J.J. Mahoney's Bar, Seoul · Fri, 10 Apr 2026
 - Zerotokyo, Tokyo · Thu, 2 Apr 2026
-- Enter Shibuya, Tokyo · Tue, 17 Feb 2026
 
 ## Shares bills with
 
 MOOTOE, In-Character, SLEEPY HEVD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*

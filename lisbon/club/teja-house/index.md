@@ -1,14 +1,13 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Gypsy Dinner and Siren Song" on Sat, 3 Oct 2026.
+Teja House is a music venue in Lisbon with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TEJAM Sessions" on Tue, 6 Oct 2026.
 
-Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, with line-ups including Armanda, fajardo and Señor Pelota. See dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
+Teja House is a music venue in Lisbon listed on soundcheck. 13 upcoming gigs, with line-ups including Armanda, fajardo and Señor Pelota. See dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Gypsy Dinner and Siren Song |  |
 | Tue, 6 Oct 2026 | TEJAM Sessions |  |
 | Wed, 7 Oct 2026 | Techno Yoga with Kate Zubok |  |
 | Fri, 9 Oct 2026 | 6 Years of Eritage |  |
@@ -18,9 +17,10 @@ Teja House is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, wi
 | Wed, 21 Oct 2026 | Techno Yoga with Kate Zubok |  |
 | Sat, 24 Oct 2026 | A GUD ONE WITH THE GUD ONES | Armanda, Señor Pelota, fajardo |
 | Tue, 27 Oct 2026 | TEJAM Sessions |  |
+| Wed, 28 Oct 2026 | Techno Yoga with Kate Zubok |  |
 
 ## Address
 
 Cais do Sodré 5, 1200-450 Lisboa, Lisbon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*

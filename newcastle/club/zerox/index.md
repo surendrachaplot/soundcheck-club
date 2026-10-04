@@ -1,6 +1,6 @@
 # Zerox
 
-Zerox is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Skylarking" on Sat, 24 Oct 2026.
+Zerox is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Skylarking" on Sat, 24 Oct 2026.
 
 Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK.
 
@@ -14,4 +14,4 @@ Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. See da
 
 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK, Newcastle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*

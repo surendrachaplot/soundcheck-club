@@ -1,6 +1,6 @@
 # The Phoenix
 
-The Phoenix is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "[CANCELLED] SOUNDTRACKS - A Movie Themed Day Party" on Sat, 10 Oct 2026.
+The Phoenix is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "[CANCELLED] SOUNDTRACKS - A Movie Themed Day Party" on Sat, 10 Oct 2026.
 
 The Phoenix is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including That Perfect Fumble. See dates, start times and who's playing. 37 Cavendish Square, Marylebone, London W1G 0PP, UK.
 
@@ -14,4 +14,4 @@ The Phoenix is a music venue in London listed on soundcheck. 1 upcoming gig, wit
 
 37 Cavendish Square, Marylebone, London W1G 0PP, UK, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-phoenix/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-phoenix/)*

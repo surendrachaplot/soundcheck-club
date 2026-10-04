@@ -1,6 +1,6 @@
 # Låndkruzer
 
-Låndkruzer is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
+Låndkruzer is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene, Copenhagen on Sat, 24 Oct 2026.
 
 Låndkruzer is a house and breakbeat artist based in United Kingdom, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Nizzy, Niko Nuevo and Samuel Rees. Next up: Jolene, Copenhagen on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Låndkruzer is a house and breakbeat artist based in United Kingdom, with 6 gigs
 
 Nizzy, Niko Nuevo, Samuel Rees
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/landkruzer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/landkruzer/)*

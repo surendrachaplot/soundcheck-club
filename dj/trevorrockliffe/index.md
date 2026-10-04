@@ -1,6 +1,6 @@
 # Trevor Rockcliffe
 
-Trevor Rockcliffe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Trevor Rockcliffe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Trevor Rockcliffe is a techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, Cologne, Leeds and London and 1 more. Often billed alongside Colin Dale, ANAHITA and Anahita Shamsaei. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Trevor Rockcliffe is a techno and house artist based in United Kingdom, with 6 g
 
 Colin Dale, ANAHITA, Anahita Shamsaei
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorrockliffe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trevorrockliffe/)*

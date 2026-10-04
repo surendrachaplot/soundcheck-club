@@ -1,6 +1,6 @@
 # Index
 
-Index is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Red Rattler, Sydney on Sat, 10 Oct 2026.
+Index is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Red Rattler, Sydney on Sat, 10 Oct 2026.
 
 Index is a bass and hardcore artist based in Australia, with 17 gigs on soundcheck across London, Melbourne, Milan and Osaka and 1 more. Often billed alongside kakepon, Arsonist and Jungist. Next up: The Red Rattler, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Index is a bass and hardcore artist based in Australia, with 17 gigs on soundche
 
 kakepon, Arsonist, Jungist
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/index/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/index/)*

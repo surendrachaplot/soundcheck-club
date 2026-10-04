@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Andy Martin is a techno and house artist based in Mexico, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Niño Arbol, Ogazón and Rene Wise. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ Andy Martin is a techno and house artist based in Mexico, with 77 gigs on soundc
 
 Niño Arbol, Ogazón, Rene Wise
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

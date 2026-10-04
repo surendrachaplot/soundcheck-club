@@ -1,6 +1,6 @@
 # LeNil
 
-LeNil is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Munster Munch, London on Sat, 3 Oct 2026.
+LeNil is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Munster Munch, London on Sat, 3 Oct 2026.
 
 LeNil is a trance and house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Rath Ki Rani, Sophia Nicole and Merlo Ponti. Next up: Munster Munch, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ LeNil is a trance and house artist based in United Kingdom, with 11 gigs on soun
 
 ## Recently played
 
+- Munster Munch, London · Sat, 3 Oct 2026
 - M.O.T, London · Fri, 4 Sept 2026
 - TBA - Bread & Butter Arch, London · Sat, 20 Jun 2026
 - Last Arch, London · Fri, 15 May 2026
@@ -19,10 +20,9 @@ LeNil is a trance and house artist based in United Kingdom, with 11 gigs on soun
 - TBA - Secret Venue, London · Sat, 11 Apr 2026
 - Dalston Den, London · Fri, 10 Apr 2026
 - Club Cheek, London · Fri, 23 Jan 2026
-- Dalston Den, London · Sun, 19 Jan 2025
 
 ## Shares bills with
 
 Rath Ki Rani, Sophia Nicole, Merlo Ponti
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenil/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenil/)*

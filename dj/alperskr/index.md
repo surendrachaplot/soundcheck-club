@@ -1,6 +1,6 @@
 # ALPER SKR
 
-ALPER SKR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
+ALPER SKR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
 
 ALPER SKR is a techno and trance artist based in Turkey, with 13 gigs on soundcheck across Dublin. Often billed alongside SAMUX, WINSLAO and Connect. Next up: The Grand Social, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ALPER SKR is a techno and trance artist based in Turkey, with 13 gigs on soundch
 
 SAMUX, WINSLAO, Connect
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*

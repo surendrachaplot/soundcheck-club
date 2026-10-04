@@ -1,6 +1,6 @@
 # alice.km
 
-alice.km is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Matriarch LA, Los Angeles on Sat, 10 Oct 2026.
+alice.km is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Matriarch LA, Los Angeles on Sat, 10 Oct 2026.
 
 alice.km is a progressive house and deep house artist based in United States of America, with 6 gigs on soundcheck across Los Angeles, New York City and Philadelphia. Often billed alongside AKIVA, Angelinkast and Araminta. Next up: Matriarch LA, Los Angeles on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ alice.km is a progressive house and deep house artist based in United States of 
 
 AKIVA, Angelinkast, Araminta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicekm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicekm/)*

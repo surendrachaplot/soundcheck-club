@@ -1,6 +1,6 @@
 # Kai (TO)
 
-Kai (TO) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bambi's, Toronto on Fri, 16 Oct 2026.
+Kai (TO) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bambi's, Toronto on Fri, 16 Oct 2026.
 
 Kai (TO) is a techno and club artist based in Canada, with 49 gigs on soundcheck across Barcelona, Montreal and Toronto. Often billed alongside Critter, moody.cn.man and Jaw Jones. Next up: Bambi's, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Kai (TO) is a techno and club artist based in Canada, with 49 gigs on soundcheck
 
 Critter, moody.cn.man, Jaw Jones
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*

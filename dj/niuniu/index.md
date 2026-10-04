@@ -1,6 +1,6 @@
 # NiUNiU
 
-NiUNiU is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Toronto on Sat, 10 Oct 2026.
+NiUNiU is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Toronto on Sat, 10 Oct 2026.
 
 NiUNiU is a garage and bass artist based in Canada, with 18 gigs on soundcheck across Toronto. Often billed alongside In Depth Subject, Nihility and Akkai. Next up: TBA - Secret Location, Toronto on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ NiUNiU is a garage and bass artist based in Canada, with 18 gigs on soundcheck a
 
 In Depth Subject, Nihility, Akkai (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niuniu/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niuniu/)*

@@ -1,6 +1,6 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Patterns, Brighton on Sat, 17 Oct 2026.
+James Zabiela is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Patterns, Brighton on Sat, 17 Oct 2026.
 
 James Zabiela is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: Patterns, Brighton on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ James Zabiela is a house and techno artist based in United Kingdom, with 62 gigs
 
 Sasha, Anthony Pappa, Danny Howells
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

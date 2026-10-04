@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Newa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Newa is a techno and house artist based in Georgia, with 133 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Newa is a techno and house artist based in Georgia, with 133 gigs on soundcheck 
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

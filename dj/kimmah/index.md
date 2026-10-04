@@ -1,6 +1,6 @@
 # kimmah
 
-kimmah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blue Monkey, Vietnam on Fri, 16 Oct 2026.
+kimmah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Blue Monkey, Vietnam on Fri, 16 Oct 2026.
 
 kimmah is a techno and electro artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Ghent and 12 more. Often billed alongside Faustin (NL), Marsman and Slimfit. Next up: Blue Monkey, Vietnam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ kimmah is a techno and electro artist based in Netherlands, with 65 gigs on soun
 
 Faustin (NL), Marsman, Slimfit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*

@@ -1,6 +1,6 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
+YOSHIMASA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
 
 YOSHIMASA is a techno and house artist based in Japan, with 93 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: BRAND SHIBUYA, Tokyo on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ YOSHIMASA is a techno and house artist based in Japan, with 93 gigs on soundchec
 
 DJ 34, BEPPU, Takami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

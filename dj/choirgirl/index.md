@@ -1,6 +1,6 @@
 # Choirgirl
 
-Choirgirl is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Podlasie Club, Chicago on Thu, 15 Oct 2026.
+Choirgirl is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Podlasie Club, Chicago on Thu, 15 Oct 2026.
 
 Choirgirl is a house and ghetto tech artist based in United States of America, with 6 gigs on soundcheck across Chicago. Often billed alongside Dj Daddy Wannie, Glamour Cadaver and Initial G. Next up: Podlasie Club, Chicago on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Choirgirl is a house and ghetto tech artist based in United States of America, w
 
 Dj Daddy Wannie, Glamour Cadaver, Initial G
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choirgirl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choirgirl/)*

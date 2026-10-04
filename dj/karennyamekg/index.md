@@ -1,6 +1,6 @@
 # Karen Nyame KG
 
-Karen Nyame KG is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
+Karen Nyame KG is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
 
 Karen Nyame KG is a house and amapiano artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 12 more. Often billed alongside Ikonika, Fiyahdred and AYAYA. Next up: fabric, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Karen Nyame KG is a house and amapiano artist based in United Kingdom, with 65 g
 
 Ikonika, Fiyahdred, AYAYA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennyamekg/)*

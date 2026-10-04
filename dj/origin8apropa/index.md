@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Gothenburg on Sat, 17 Oct 2026.
+Origin8a & Propa is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Gothenburg on Sat, 17 Oct 2026.
 
 Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 8 gigs on soundcheck across Brighton, Bristol, Gothenburg and Newcastle. Often billed alongside Hypershe, Cheff The Boy and DJ Hybrid. Next up: TBA, Gothenburg on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 
 
 Hypershe, Cheff The Boy, DJ Hybrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

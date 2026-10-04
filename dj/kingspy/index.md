@@ -1,6 +1,6 @@
 # KINGSPY
 
-KINGSPY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 10 Oct 2026.
+KINGSPY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 10 Oct 2026.
 
 KINGSPY is a house and club artist based in United States of America, with 6 gigs on soundcheck across Philadelphia. Often billed alongside Foxy Nora, Ohlei and DJ Dommis. Next up: Warehouse on Watts, Philadelphia on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ KINGSPY is a house and club artist based in United States of America, with 6 gig
 
 Foxy Nora, Ohlei, DJ Dommis
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*

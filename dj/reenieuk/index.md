@@ -1,6 +1,6 @@
 # Reenie (UK)
 
-Reenie (UK) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
+Reenie (UK) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Divine, London on Fri, 6 Nov 2026.
 
 Reenie (UK) is a house and trance artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Berlin, Brighton and Brisbane and 5 more. Often billed alongside ASHTREY, Rojdar and BAiiN TWINS. Next up: The Divine, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Reenie (UK) is a house and trance artist based in United Kingdom, with 35 gigs o
 
 ASHTREY, Rojdar, BAiiN TWINS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenieuk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenieuk/)*

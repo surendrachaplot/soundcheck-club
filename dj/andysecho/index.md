@@ -1,6 +1,6 @@
 # Andy's Echo
 
-Andy's Echo is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Malaga Sin City, Milan on Fri, 9 Oct 2026.
+Andy's Echo is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Malaga Sin City, Milan on Fri, 9 Oct 2026.
 
 Andy's Echo is a downtempo and electronica artist based in Germany, with 14 gigs on soundcheck across Berlin, Hamburg, Milan and Munich and 1 more. Often billed alongside Mollono.Bass, Danilo Kupfernagel and Daunbert. Next up: Malaga Sin City, Milan on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Andy's Echo is a downtempo and electronica artist based in Germany, with 14 gigs
 
 Mollono.Bass, Danilo Kupfernagel, Daunbert
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andysecho/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andysecho/)*

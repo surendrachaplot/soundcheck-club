@@ -1,6 +1,6 @@
 # Ben Böhmer
 
-Ben Böhmer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Ben Böhmer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Ben Böhmer is a house and techno artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Ben Böhmer is a house and techno artist based in Germany, with 85 gigs on sound
 
 Adriatique, Deer Jade, KI/KI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*

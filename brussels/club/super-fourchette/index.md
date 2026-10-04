@@ -1,6 +1,6 @@
 # Super Fourchette
 
-Super Fourchette is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Moving as a Giant + Tuesday Violence" on Tue, 3 Nov 2026.
+Super Fourchette is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Moving as a Giant + Tuesday Violence" on Tue, 3 Nov 2026.
 
 Super Fourchette is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rue des Hirondelles 3, 1000 Bruxelles.
 
@@ -14,4 +14,4 @@ Super Fourchette is a music venue in Brussels listed on soundcheck. 1 upcoming g
 
 Rue des Hirondelles 3, 1000 Bruxelles, Brussels
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/super-fourchette/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/super-fourchette/)*

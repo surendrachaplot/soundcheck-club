@@ -1,6 +1,6 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Supermarket, Zurich on Sat, 10 Oct 2026.
+Joe Vanditti is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Supermarket, Zurich on Sat, 10 Oct 2026.
 
 Joe Vanditti is a tech house and house artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 14 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Supermarket, Zurich on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Joe Vanditti is a tech house and house artist based in Italy, with 50 gigs on so
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

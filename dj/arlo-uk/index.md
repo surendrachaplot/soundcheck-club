@@ -1,6 +1,6 @@
 # ARLO (UK)
 
-ARLO (UK) is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+ARLO (UK) is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 ARLO (UK) is a progressive house and bass artist, with 6 gigs on soundcheck across Bristol, Los Angeles and Washington DC. Often billed alongside Milly on Air, Alesso and Archie Hamilton. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ ARLO (UK) is a progressive house and bass artist, with 6 gigs on soundcheck acro
 
 Milly on Air, Alesso, Archie Hamilton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo-uk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo-uk/)*

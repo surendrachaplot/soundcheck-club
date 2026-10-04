@@ -1,6 +1,6 @@
 # VSC (1)
 
-VSC (1) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+VSC (1) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 VSC is a bass and dub artist based in Italy, with 14 gigs on soundcheck across Berlin and Rome. Often billed alongside Her Nice Too, Mantis (IT) and Prest. Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ VSC is a bass and dub artist based in Italy, with 14 gigs on soundcheck across B
 
 Her Nice Too, Mantis (IT), Prest
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*

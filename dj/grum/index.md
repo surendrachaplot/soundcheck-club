@@ -1,6 +1,6 @@
 # Grum
 
-Grum is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
+Grum is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
 
 Grum is a progressive house and trance artist based in United Kingdom, with 19 gigs on soundcheck across Chicago, Glasgow, London and Los Angeles and 6 more. Often billed alongside Above & Beyond, Leena Punks and Paul Van Dyk. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Grum is a progressive house and trance artist based in United Kingdom, with 19 g
 
 Above & Beyond, Leena Punks, Paul Van Dyk
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grum/)*

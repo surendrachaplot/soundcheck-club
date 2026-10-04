@@ -1,6 +1,6 @@
 # Marie Midori
 
-Marie Midori is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
+Marie Midori is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
 
 Marie Midori is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Dangermami, MSJY and Cryptofauna. Next up: Crack Bellmer, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Marie Midori is a house and techno artist based in Germany, with 47 gigs on soun
 
 ## Recently played
 
+- Crack Bellmer, Berlin · Sat, 3 Oct 2026
 - OHM, Berlin · Fri, 3 Apr 2026
 - Ikii, Berlin · Fri, 30 Jan 2026
 - Under Bron, Stockholm · Sat, 24 Jan 2026
@@ -19,10 +20,9 @@ Marie Midori is a house and techno artist based in Germany, with 47 gigs on soun
 - TBA - Monopol, Berlin · Sat, 25 Oct 2025
 - RSO.BERLIN, Berlin · Thu, 14 Aug 2025
 - Tresor / Globus, Berlin · Wed, 9 Jul 2025
-- Crack Bellmer, Berlin · Sat, 10 May 2025
 
 ## Shares bills with
 
 Dangermami, MSJY, Cryptofauna
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemidori/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemidori/)*

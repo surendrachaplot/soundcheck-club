@@ -1,6 +1,6 @@
 # Alex Ho (US)
 
-Alex Ho (US) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar Franca, Los Angeles on Thu, 1 Oct 2026.
+Alex Ho (US) is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Franca, Los Angeles on Thu, 1 Oct 2026.
 
 Alex Ho (US) is a balearic and house artist, with 8 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside AIRS, Body Wave DJs and CZ Wang. Next up: Bar Franca, Los Angeles on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Alex Ho (US) is a balearic and house artist, with 8 gigs on soundcheck across Lo
 
 AIRS, Body Wave DJs, CZ Wang
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexho-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexho-us/)*

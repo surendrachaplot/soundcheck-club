@@ -1,6 +1,6 @@
 # ALI IRL
 
-ALI IRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
+ALI IRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
 
 ALI IRL is a techno and electro artist based in United States of America, with 26 gigs on soundcheck across Detroit and New York City. Often billed alongside Garrison XR, IRL (US) and DJ Shannon. Next up: Jade, New York City on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ ALI IRL is a techno and electro artist based in United States of America, with 2
 
 Garrison XR, IRL (US), DJ Shannon
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliirl/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliirl/)*

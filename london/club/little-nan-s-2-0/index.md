@@ -1,6 +1,6 @@
 # Little Nan’s 2.0
 
-Little Nan’s 2.0 is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "WE ARE OUTSIDE PREMIERE" on Tue, 29 Dec 2026.
+Little Nan’s 2.0 is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "WE ARE OUTSIDE PREMIERE" on Tue, 29 Dec 2026.
 
 Little Nan’s 2.0 is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 23-24 Resolution Way, Deptford, London SE8 4NT.
 
@@ -14,4 +14,4 @@ Little Nan’s 2.0 is a music venue in London listed on soundcheck. 1 upcoming g
 
 23-24 Resolution Way, Deptford, London SE8 4NT, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/little-nan-s-2-0/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/little-nan-s-2-0/)*

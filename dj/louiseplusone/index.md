@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
+Louise Plus One is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
 
 Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: M.O.T, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 12
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

@@ -1,6 +1,6 @@
 # DiMO (BG)
 
-DiMO (BG) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 11 Dec 2026.
+DiMO (BG) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 11 Dec 2026.
 
 DiMO (BG) is an afro house and techno artist based in Bulgaria, with 5 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Paris and 1 more. Often billed alongside MËSTIZA, Diass and Boston 168. Next up: Inter Expo Centre, Sofia on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ DiMO (BG) is an afro house and techno artist based in Bulgaria, with 5 gigs on s
 
 MËSTIZA, Diass, Boston 168
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimobg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimobg/)*

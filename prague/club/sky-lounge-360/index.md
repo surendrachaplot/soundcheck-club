@@ -1,6 +1,6 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "GENERATE: HYBERNIA HALLOWEEN " on Fri, 30 Oct 2026.
+Sky Lounge 360 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "GENERATE: HYBERNIA HALLOWEEN " on Fri, 30 Oct 2026.
 
 Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Lumiere, Hugorieri, Ondrej K and Spada. See dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
@@ -15,4 +15,4 @@ Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming gigs,
 
 Náměstí Republiky 5, 110 00 Praha 1, Prague
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*

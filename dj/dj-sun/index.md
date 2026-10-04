@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
+DJ-SUN is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tigres de la Noche, Washington DC on Sun, 11 Oct 2026.
 
 DJ-SUN is a club and house artist based in United States of America, with 39 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Washington DC. Often billed alongside Tromac, flotussin and JEWELSSEA. Next up: Tigres de la Noche, Washington DC on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ DJ-SUN is a club and house artist based in United States of America, with 39 gig
 
 Tromac, flotussin, JEWELSSEA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

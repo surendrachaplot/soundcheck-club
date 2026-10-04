@@ -1,6 +1,6 @@
 # Shanny
 
-Shanny is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Brixtonia Lounge, London on Sat, 31 Oct 2026.
+Shanny is a R&B and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Brixtonia Lounge, London on Sat, 31 Oct 2026.
 
 Shanny is a r&b and dancehall artist based in United Kingdom, with 7 gigs on soundcheck across Brighton, London and Seoul. Often billed alongside AUDIO DUNE, JAY-MO and RACH!. Next up: Brixtonia Lounge, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Shanny is a r&b and dancehall artist based in United Kingdom, with 7 gigs on sou
 
 AUDIO DUNE, JAY-MO, RACH!
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanny/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanny/)*

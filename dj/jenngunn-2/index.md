@@ -1,6 +1,6 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
+Jenn Gunn (2) is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
 
 Jenn Gunn is a garage and house artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Jenn Gunn is a garage and house artist based in United Kingdom, with 56 gigs on 
 
 C Frame, Gourlay, Et Al (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*

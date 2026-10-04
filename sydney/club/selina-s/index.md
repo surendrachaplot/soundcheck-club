@@ -1,6 +1,6 @@
 # Selina's
 
-Selina's is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE" on Thu, 15 Oct 2026.
+Selina's is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE" on Thu, 15 Oct 2026.
 
 Selina's is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Carl Cox and Dusky. See dates, start times and who's playing. 253 Coogee Bay Rd, Coogee NSW 2034.
 
@@ -17,4 +17,4 @@ Selina's is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with 
 
 253 Coogee Bay Rd, Coogee NSW 2034, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/selina-s/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/selina-s/)*

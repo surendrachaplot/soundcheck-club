@@ -1,6 +1,6 @@
 # Quantaloop
 
-Quantaloop is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Sun, 4 Oct 2026.
+Quantaloop is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Los Angeles on Sun, 4 Oct 2026.
 
 Quantaloop is a techno and psytrance artist, with 15 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Los Angeles and 4 more. Often billed alongside Kozy, Crescendoll and Lisbird. Next up: TBA, Los Angeles on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Quantaloop is a techno and psytrance artist, with 15 gigs on soundcheck across B
 
 Kozy, Crescendoll, Lisbird
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantaloop/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantaloop/)*

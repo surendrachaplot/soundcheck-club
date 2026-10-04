@@ -1,6 +1,6 @@
 # Marco V
 
-Marco V is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
+Marco V is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
 
 Marco V is a trance and techno artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Budapest, Edinburgh and Frankfurt and 7 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: O2 Academy, Glasgow on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Marco V is a trance and techno artist based in Netherlands, with 24 gigs on soun
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcov/)*

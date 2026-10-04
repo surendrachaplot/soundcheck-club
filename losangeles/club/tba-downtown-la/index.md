@@ -1,6 +1,6 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SMD - Pablo Bozzi & Jorkes" on Sat, 10 Oct 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SMD - Pablo Bozzi & Jorkes" on Sat, 10 Oct 2026.
 
 TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Armen Miran, Jorkes, Loukeman and Mayell and 2 more. See dates, start times and who's playing. To Be Announced - DTLA.
 
@@ -19,4 +19,4 @@ TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcomi
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

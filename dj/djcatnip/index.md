@@ -1,6 +1,6 @@
 # DJ Catnip
 
-DJ Catnip is a Italo Disco and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Art School, Glasgow on Sat, 21 Nov 2026.
+DJ Catnip is a Italo Disco and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Art School, Glasgow on Sat, 21 Nov 2026.
 
 DJ Catnip is an italo disco and post-punk artist based in United Kingdom, with 35 gigs on soundcheck across Glasgow. Often billed alongside Bonzai Bonner, Dean Munch and Queer History of Dance Music. Next up: The Art School, Glasgow on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Catnip is an italo disco and post-punk artist based in United Kingdom, with 3
 
 Bonzai Bonner, Dean Munch, Queer History of Dance Music
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcatnip/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcatnip/)*

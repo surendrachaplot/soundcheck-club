@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE" on Sat, 10 Oct 2026.
+Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE" on Sat, 10 Oct 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including AREA ØNE, Cufme, DAESU and Daniel Noah and 2 more. See dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -17,4 +17,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

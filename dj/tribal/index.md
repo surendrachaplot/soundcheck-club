@@ -1,6 +1,6 @@
 # Tribal
 
-Tribal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
+Tribal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
 
 Tribal is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Cat Caesura, Larnie and Luchik. Next up: Take Five Cafe, Bristol on Fri 23 Oct.
 
@@ -16,4 +16,4 @@ Tribal is a techno and house artist based in United Kingdom, with 3 gigs on soun
 
 Cat Caesura, Larnie, Luchik
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tribal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tribal/)*

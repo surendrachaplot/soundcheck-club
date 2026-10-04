@@ -1,6 +1,6 @@
 # Hakkon
 
-Hakkon is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
+Hakkon is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
 
 Hakkon is a techno and dub techno artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside Ali-Az, Systematic Method and Kevin Matto. Next up: TBA - SALA MUV, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hakkon is a techno and dub techno artist based in Spain, with 13 gigs on soundch
 
 Ali-Az, Systematic Method, Kevin Matto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hakkon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hakkon/)*

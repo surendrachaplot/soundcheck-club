@@ -1,6 +1,6 @@
 # Warrior Queen
 
-Warrior Queen is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
+Warrior Queen is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gretchen, Berlin on Sat, 21 Nov 2026.
 
 Warrior Queen is a dub and techno artist based in Jamaica, with 19 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside The Bug, Mia Koden and Nazar. Next up: Gretchen, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Warrior Queen is a dub and techno artist based in Jamaica, with 19 gigs on sound
 
 The Bug, Mia Koden, Nazar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warriorqueen/)*

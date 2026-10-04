@@ -1,6 +1,6 @@
 # FOULMOUTH
 
-FOULMOUTH is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Thu, 8 Oct 2026.
+FOULMOUTH is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The DBA, Manchester on Thu, 8 Oct 2026.
 
 FOULMOUTH is a hardcore and trance artist based in United Kingdom, with 30 gigs on soundcheck across Leeds and Manchester. Often billed alongside Anop, FKA Hardcore and Princess Elf Bar. Next up: The DBA, Manchester on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ FOULMOUTH is a hardcore and trance artist based in United Kingdom, with 30 gigs 
 
 Anop, FKA Hardcore, Princess Elf Bar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

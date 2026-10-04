@@ -1,6 +1,6 @@
 # Denis Horvat
 
-Denis Horvat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Denis Horvat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Denis Horvat is a techno and house artist based in Denmark, with 99 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Colyn, Lehar and Auggië. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Denis Horvat is a techno and house artist based in Denmark, with 99 gigs on soun
 
 Colyn, Lehar, Auggië
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*

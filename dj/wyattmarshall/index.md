@@ -1,6 +1,6 @@
 # Wyatt Marshall
 
-Wyatt Marshall is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
+Wyatt Marshall is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
 
 Wyatt Marshall is a house and deep house artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Lubelski, Cristoph and Hannah Wants. Next up: TBA, Los Angeles on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Wyatt Marshall is a house and deep house artist based in United States of Americ
 
 Lubelski, Cristoph, Hannah Wants
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyattmarshall/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wyattmarshall/)*

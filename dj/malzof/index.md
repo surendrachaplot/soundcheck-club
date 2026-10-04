@@ -1,6 +1,6 @@
 # Malzof
 
-Malzof is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Animal, New York City on Sun, 4 Oct 2026.
+Malzof is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Animal, New York City on Sun, 4 Oct 2026.
 
 Malzof is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Detroit, Los Angeles, New York City and Philadelphia and 3 more. Often billed alongside Kiernan Laveaux, Yessi and Security Dog. Next up: Animal, New York City on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Malzof is a techno and house artist based in United States of America, with 12 g
 
 Kiernan Laveaux, Yessi, Security Dog
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

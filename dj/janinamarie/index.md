@@ -1,6 +1,6 @@
 # Janina Marie
 
-Janina Marie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Standard Time, Toronto on Sat, 10 Oct 2026.
+Janina Marie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Standard Time, Toronto on Sat, 10 Oct 2026.
 
 Janina Marie is a house and disco artist based in Canada, with 37 gigs on soundcheck across Manchester, Mexico City, Montreal and Toronto. Often billed alongside Jodie D, Kiki LeFreak and Sakiko Nagai. Next up: Standard Time, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Janina Marie is a house and disco artist based in Canada, with 37 gigs on soundc
 
 Jodie D, Kiki LeFreak, Sakiko Nagai
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janinamarie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janinamarie/)*

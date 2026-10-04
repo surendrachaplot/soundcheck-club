@@ -1,6 +1,6 @@
 # Yuuki
 
-Yuuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
+Yuuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
 
 Yuuki is a house and techno artist based in France, with 24 gigs on soundcheck across London, New York City, Osaka and Seoul and 1 more. Often billed alongside Saumac, DJ AKi and Darley. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Yuuki is a house and techno artist based in France, with 24 gigs on soundcheck a
 
 Saumac, DJ AKi, Darley
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuuki/)*

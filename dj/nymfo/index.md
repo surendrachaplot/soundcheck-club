@@ -1,6 +1,6 @@
 # Nymfo
 
-Nymfo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
+Nymfo is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
 
 Nymfo is a drum & bass and jungle artist, with 21 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 2 more. Often billed alongside DJ Storm, Hiraeth and Abstract (US). Next up: Skatecafe, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nymfo is a drum & bass and jungle artist, with 21 gigs on soundcheck across Amst
 
 DJ Storm, Hiraeth, Abstract (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymfo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymfo/)*

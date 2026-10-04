@@ -1,6 +1,6 @@
 # SISSY MISFIT
 
-SISSY MISFIT is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 7 Nov 2026.
+SISSY MISFIT is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 7 Nov 2026.
 
 SISSY MISFIT is an experimental and house artist based in Turkey, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 6 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: M.O.T, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SISSY MISFIT is an experimental and house artist based in Turkey, with 28 gigs o
 
 Blood of Aza, KLAUDIO, Mvcoko
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissymisfit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissymisfit/)*

@@ -1,6 +1,6 @@
 # BitterCaress
 
-BitterCaress is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
+BitterCaress is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
 BitterCaress is a techno and trance artist based in France, with 47 gigs on soundcheck across Berlin, Copenhagen, Ghent and Lyon and 7 more. Often billed alongside KORVN, Meen Moreen and Xaviera. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BitterCaress is a techno and trance artist based in France, with 47 gigs on soun
 
 KORVN, Meen Moreen, Xaviera
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bittercaress/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bittercaress/)*

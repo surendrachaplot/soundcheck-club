@@ -1,6 +1,6 @@
 # GALATIUS
 
-GALATIUS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
+GALATIUS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Fri, 9 Oct 2026.
 
 GALATIUS is a techno and house artist based in Denmark, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Adrian Salcedo, Aio and Bestrawa. Next up: Culture Box, Copenhagen on Fri 9 Oct.
 
@@ -16,4 +16,4 @@ GALATIUS is a techno and house artist based in Denmark, with 3 gigs on soundchec
 
 Adrian Salcedo, Aio, Bestrawa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galatius/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galatius/)*

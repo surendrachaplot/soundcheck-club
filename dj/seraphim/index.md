@@ -1,6 +1,6 @@
 # Seraphim
 
-Seraphim is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Seraphim is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
 Seraphim is a techno and dub artist based in United States of America, with 6 gigs on soundcheck across Austin, Berlin, Ghent and London and 1 more. Often billed alongside Breger, Grouch and Krumelur. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Seraphim is a techno and dub artist based in United States of America, with 6 gi
 
 Breger, Grouch, Krumelur
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*

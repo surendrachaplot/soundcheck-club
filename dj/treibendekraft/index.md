@@ -1,6 +1,6 @@
 # Treibende Kraft
 
-Treibende Kraft is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+Treibende Kraft is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 Treibende Kraft is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside AREA ØNE, BENITO (DE) and BENNETT. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Treibende Kraft is a techno and trance artist based in Germany, with 7 gigs on s
 
 AREA ØNE, BENITO (DE), BENNETT
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treibendekraft/)*

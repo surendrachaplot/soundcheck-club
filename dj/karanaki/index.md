@@ -1,6 +1,6 @@
 # karanaki
 
-karanaki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KGR(n), Tokyo on Mon, 12 Oct 2026.
+karanaki is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KGR(n), Tokyo on Mon, 12 Oct 2026.
 
 karanaki is an experimental and techno artist based in Japan, with 25 gigs on soundcheck across Seoul and Tokyo. Often billed alongside C-KAY, KotaNakano and In Ray. Next up: KGR(n), Tokyo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ karanaki is an experimental and techno artist based in Japan, with 25 gigs on so
 
 C-KAY, KotaNakano, In Ray
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karanaki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karanaki/)*

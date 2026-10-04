@@ -1,6 +1,6 @@
 # TAIYO (3)
 
-TAIYO (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
+TAIYO (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
 
 TAIYO is a techno and trance artist based in Japan, with 7 gigs on soundcheck across Osaka and Tokyo. Often billed alongside EVE, Coretex and EMILIO. Next up: Cube, Tokyo on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ TAIYO is a techno and trance artist based in Japan, with 7 gigs on soundcheck ac
 
 EVE (1), Coretex, EMILIO (3)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiyo-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiyo-3/)*

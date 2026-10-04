@@ -1,6 +1,6 @@
 # Freigeist
 
-Freigeist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+Freigeist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
 
 Freigeist is a techno and house artist based in Germany, with 27 gigs on soundcheck across Belgrade and Berlin. Often billed alongside Npoint_O, Josh Reid and Beryll. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Freigeist is a techno and house artist based in Germany, with 27 gigs on soundch
 
 Npoint_O, Josh Reid, Beryll
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freigeist/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freigeist/)*

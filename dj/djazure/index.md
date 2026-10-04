@@ -1,6 +1,6 @@
 # DJ Azure
 
-DJ Azure is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
+DJ Azure is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 17 Oct 2026.
 
 DJ Azure is a jungle and hardcore artist based in United Kingdom, with 32 gigs on soundcheck across Bristol, Cardiff, London and Sheffield. Often billed alongside Hughesee, Louise Plus One and Equinox (UK). Next up: M.O.T, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Azure is a jungle and hardcore artist based in United Kingdom, with 32 gigs o
 
 Hughesee, Louise Plus One, Equinox (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djazure/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djazure/)*

@@ -1,6 +1,6 @@
 # K-Paul
 
-K-Paul is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
+K-Paul is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
 
 K-Paul is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin, Düsseldorf and Warsaw. Often billed alongside Cherry, Westbam and Hardy Hard. Next up: Spindler & Klatt, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ K-Paul is a techno and tech house artist based in Germany, with 15 gigs on sound
 
 Cherry, Westbam, Hardy Hard
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*

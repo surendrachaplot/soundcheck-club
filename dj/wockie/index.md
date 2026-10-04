@@ -1,6 +1,6 @@
 # WOCKIE
 
-WOCKIE is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+WOCKIE is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 WOCKIE is a reggaeton and club artist based in United States of America, with 23 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside mare.e.fresh, Profesito and Femme Jatale. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ WOCKIE is a reggaeton and club artist based in United States of America, with 23
 
 mare.e.fresh, Profesito, Femme Jatale
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wockie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wockie/)*

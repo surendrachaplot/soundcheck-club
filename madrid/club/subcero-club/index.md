@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SUBCERO CLUB x QUINOA EXPERIENCE" on Sat, 3 Oct 2026.
+Subcero Club is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SUBCERO CLUB x QUINOA EXPERIENCE" on Sat, 3 Oct 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including AL MANDO, Elwei, Emi Koto and Fonso Alegría and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -23,4 +23,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, 
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

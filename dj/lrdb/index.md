@@ -1,6 +1,6 @@
 # LRDB
 
-LRDB is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
+LRDB is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
 
 LRDB is a techno artist based in Belgium, with 9 gigs on soundcheck across Brussels. Often billed alongside Backlight, LMR TRAXX and Keusmo. Next up: Jungle Bar, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LRDB is a techno artist based in Belgium, with 9 gigs on soundcheck across Bruss
 
 Backlight, LMR TRAXX, Keusmo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lrdb/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lrdb/)*

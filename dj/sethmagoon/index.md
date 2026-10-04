@@ -1,6 +1,6 @@
 # Seth Magoon
 
-Seth Magoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
+Seth Magoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
 
 Seth Magoon is a house and techno artist, with 22 gigs on soundcheck across Helsinki, Munich and New York City. Often billed alongside Mike Guimond, Amelia Holt and Justin Strauss. Next up: H0L0, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Seth Magoon is a house and techno artist, with 22 gigs on soundcheck across Hels
 
 Mike Guimond, Amelia Holt, Justin Strauss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethmagoon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethmagoon/)*

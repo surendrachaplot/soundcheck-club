@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 23 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Apontow Akyi, Joey Daniel, Rooléh" on Sat, 3 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Apontow Akyi, Joey Daniel, Rooléh" on Sat, 3 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 23 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 23 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

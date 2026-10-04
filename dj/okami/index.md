@@ -1,6 +1,6 @@
 # ŌKAMI
 
-ŌKAMI is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
+ŌKAMI is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Greyhound, London on Thu, 8 Oct 2026.
 
 ŌKAMI is a jungle and bass artist based in United Kingdom, with 29 gigs on soundcheck across London, Los Angeles, Osaka and Tokyo. Often billed alongside Deejay Nye, Vince Lam and BlackMagicWoman. Next up: The Greyhound, London on Thu 8 Oct.
 
@@ -26,4 +26,4 @@
 
 Deejay Nye, Vince Lam, BlackMagicWoman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okami/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okami/)*

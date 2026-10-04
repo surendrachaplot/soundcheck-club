@@ -1,6 +1,6 @@
 # Plantation Paris
 
-Plantation Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing" on Fri, 16 Oct 2026.
+Plantation Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing" on Fri, 16 Oct 2026.
 
 Plantation Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Gilb'R, JPYE, MALKÖ and Richard Fribert. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Plantation Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing | Gilb'R, JPYE, MALKÖ, Richard Fribert |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation-paris/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation-paris/)*

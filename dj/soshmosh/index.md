@@ -1,6 +1,6 @@
 # Sosh & Mosh
 
-Sosh & Mosh is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
+Sosh & Mosh is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Santa Monica, Los Angeles on Sat, 31 Oct 2026.
 
 Sosh & Mosh are a house and electronica duo, with 14 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Stoley, Kaveh and Devon James. Next up: TBA - Santa Monica, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sosh & Mosh are a house and electronica duo, with 14 gigs on soundcheck across L
 
 Stoley, Kaveh, Devon James
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soshmosh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soshmosh/)*

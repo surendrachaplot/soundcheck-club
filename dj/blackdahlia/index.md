@@ -1,6 +1,6 @@
 # Black Dahlia
 
-Black Dahlia is a EBM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
+Black Dahlia is a EBM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
 
 Black Dahlia is an ebm and experimental artist based in Australia, with 11 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Estée Louder, Postponez and Wisdom Tits. Next up: TBA - Secret Inner West Location, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Black Dahlia is an ebm and experimental artist based in Australia, with 11 gigs 
 
 Estée Louder, Postponez, Wisdom Tits
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdahlia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdahlia/)*

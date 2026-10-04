@@ -1,6 +1,6 @@
 # Gardenparty
 
-Gardenparty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 525 SE Pine st, Portland on Fri, 16 Oct 2026.
+Gardenparty is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 525 SE Pine st, Portland on Fri, 16 Oct 2026.
 
 Gardenparty is a techno and bass artist based in United States of America, with 15 gigs on soundcheck across Portland and Vancouver. Often billed alongside DJ Eft, Carly Barton and Succubass. Next up: TBA - 525 SE Pine st, Portland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gardenparty is a techno and bass artist based in United States of America, with 
 
 DJ Eft, Carly Barton, Succubass
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gardenparty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gardenparty/)*

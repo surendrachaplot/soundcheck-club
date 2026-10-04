@@ -1,6 +1,6 @@
 # Lopezhouse_live
 
-Lopezhouse_live is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
+Lopezhouse_live is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
 Lopezhouse_live is a house and progressive house artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Demattei, Savanna and OIBAF. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Lopezhouse_live is a house and progressive house artist, with 7 gigs on soundche
 
 Demattei, Savanna, OIBAF
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezhouse_live/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezhouse_live/)*

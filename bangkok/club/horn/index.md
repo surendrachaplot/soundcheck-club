@@ -1,6 +1,6 @@
 # Horn
 
-Horn is a music venue in Bangkok with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "FEED with OXYBOY / Elila.b / GAPFXCK" on Thu, 8 Oct 2026.
+Horn is a music venue in Bangkok with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FEED with OXYBOY / Elila.b / GAPFXCK" on Thu, 8 Oct 2026.
 
 Horn is a music venue in Bangkok listed on soundcheck. 8 upcoming gigs, with line-ups including 5.5MM, Cardi L, CEM and Ciriya and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
@@ -21,4 +21,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 8 upcoming gigs, with lin
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

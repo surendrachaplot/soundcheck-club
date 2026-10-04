@@ -1,6 +1,6 @@
 # Elias. (DE)
 
-Elias. (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+Elias. (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 Elias. (DE) is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside nuúm, 50PHIE and A Thousand Details. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Elias. (DE) is a techno and house artist based in Germany, with 9 gigs on soundc
 
 nuúm, 50PHIE, A Thousand Details
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elias-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elias-de/)*

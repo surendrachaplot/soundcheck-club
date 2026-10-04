@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Don't Mind The Gap x Keep Hush" on Sat, 3 Oct 2026.
+EKKO is a music venue in Utrecht with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Don't Mind The Gap x Keep Hush" on Sat, 3 Oct 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 10 upcoming gigs, with line-ups including askmelater, Bella Hall, Camy Huot and David Vunk and 2 more. See dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 10 upcoming gigs, with li
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

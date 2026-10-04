@@ -1,6 +1,6 @@
 # HNTR
 
-HNTR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Coda, Toronto on Sun, 4 Oct 2026.
+HNTR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Coda, Toronto on Sun, 4 Oct 2026.
 
 HNTR is a techno and house artist based in Canada, with 43 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 19 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: Coda, Toronto on Sun 4 Oct.
 
@@ -30,4 +30,4 @@ HNTR is a techno and house artist based in Canada, with 43 gigs on soundcheck ac
 
 DÉTOLLY, Eli Brown, Adam Beyer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*

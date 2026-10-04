@@ -1,6 +1,6 @@
 # cee_ohh
 
-cee_ohh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+cee_ohh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 cee_ohh is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Lisatrix, Pilar Jordan and Dela Nesto. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ cee_ohh is a techno and trance artist based in Germany, with 12 gigs on soundche
 
 Lisatrix, Pilar Jordan, Dela Nesto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*

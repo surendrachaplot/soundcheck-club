@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "RAW CUTS x House of Yes: DJ Minx, Bridge" on Sat, 3 Oct 2026.
+House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAW CUTS x House of Yes: DJ Minx, Bridge" on Sat, 3 Oct 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Aluna, Amber Valentine, Bella Mutino and Bridge (NY) and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

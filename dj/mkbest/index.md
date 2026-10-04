@@ -1,6 +1,6 @@
 # mkbest
 
-mkbest is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 10 Oct 2026.
+mkbest is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 10 Oct 2026.
 
 mkbest is a house and techno artist, with 18 gigs on soundcheck across Belfast. Often billed alongside Matcha, Sophie and Chris Flannigan. Next up: TBA - SECRET LOCATION, Belfast on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ mkbest is a house and techno artist, with 18 gigs on soundcheck across Belfast. 
 
 Matcha, Sophie (2), Chris Flannigan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkbest/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkbest/)*

@@ -1,6 +1,6 @@
 # Ilgattoelavolpe
 
-Ilgattoelavolpe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonfim, North on Fri, 9 Oct 2026.
+Ilgattoelavolpe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bonfim, North on Fri, 9 Oct 2026.
 
 Ilgattoelavolpe is a techno and house artist based in Italy, with 21 gigs on soundcheck across Milan, Naples, North and Rome. Often billed alongside kaizoku, DE12 and Zama. Next up: Bonfim, North on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Ilgattoelavolpe is a techno and house artist based in Italy, with 21 gigs on sou
 
 kaizoku, DE12, Zama
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*

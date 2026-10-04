@@ -1,6 +1,6 @@
 # Duble Mctruble
 
-Duble Mctruble is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Thu, 8 Oct 2026.
+Duble Mctruble is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Thu, 8 Oct 2026.
 
 Duble Mctruble is a house and techno artist, with 23 gigs on soundcheck across London. Often billed alongside PIR (UK), Nearest Neighbor and Trixie (UK). Next up: fabric, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Duble Mctruble is a house and techno artist, with 23 gigs on soundcheck across L
 
 PIR (UK), Nearest Neighbor, Trixie (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublemctruble/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublemctruble/)*

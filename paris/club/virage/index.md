@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue" on Fri, 9 Oct 2026.
+Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue" on Fri, 9 Oct 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Bella Claxton, Canelle Doublekick, Cannonbar and DJ Physical and 2 more. See dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -19,4 +19,4 @@ Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with lin
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

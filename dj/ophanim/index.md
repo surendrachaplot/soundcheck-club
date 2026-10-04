@@ -1,6 +1,6 @@
 # Ophanim
 
-Ophanim is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
+Ophanim is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
 Ophanim is a progressive house and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside ALLKNIGHT, Estiva and Anriu. Next up: E1, London on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Ophanim is a progressive house and house artist based in United Kingdom, with 6 
 
 ALLKNIGHT, Estiva, Anriu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophanim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ophanim/)*

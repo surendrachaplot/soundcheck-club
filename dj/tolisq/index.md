@@ -1,6 +1,6 @@
 # TolisQ
 
-TolisQ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 2ten, Athens on Sat, 10 Oct 2026.
+TolisQ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 2ten, Athens on Sat, 10 Oct 2026.
 
 TolisQ is a house and techno artist based in Greece, with 41 gigs on soundcheck across Athens. Often billed alongside George Apergis, Marthe and Isi. Next up: 2ten, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ TolisQ is a house and techno artist based in Greece, with 41 gigs on soundcheck 
 
 George Apergis, Marthe, Isi (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tolisq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tolisq/)*

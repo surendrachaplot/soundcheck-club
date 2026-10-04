@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Art School, Glasgow on Wed, 21 Oct 2026.
+Upper90 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Art School, Glasgow on Wed, 21 Oct 2026.
 
 Upper90 is a techno and trance artist based in Australia, with 127 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: The Art School, Glasgow on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Upper90 is a techno and trance artist based in Australia, with 127 gigs on sound
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

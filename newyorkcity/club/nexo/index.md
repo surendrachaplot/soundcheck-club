@@ -1,8 +1,8 @@
 # Nexo
 
-Nexo is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Gasolina Reggaeton Party Nightclub" on Sat, 3 Oct 2026.
+Nexo is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Gasolina Reggaeton Party Nightclub" on Sat, 3 Oct 2026.
 
-Nexo is a music venue in New York City listed on soundcheck. 23 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in New York City listed on soundcheck. 24 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nexo is a music venue in New York City listed on soundcheck. 23 upcoming gigs. S
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

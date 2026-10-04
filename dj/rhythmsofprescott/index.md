@@ -1,6 +1,6 @@
 # Rhythms Of Prescott
 
-Rhythms Of Prescott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
+Rhythms Of Prescott is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
 
 Rhythms Of Prescott is a house and disco artist based in Ireland, with 16 gigs on soundcheck across Berlin, London and New York City. Often billed alongside Davide Del Vecchio, 3 Minds and AXLNDR. Next up: Gaffe, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rhythms Of Prescott is a house and disco artist based in Ireland, with 16 gigs o
 
 Davide Del Vecchio, 3 Minds, AXLNDR
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmsofprescott/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmsofprescott/)*

@@ -1,6 +1,6 @@
 # Zoe Gitter
 
-Zoe Gitter is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Zoe Gitter is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Zoe Gitter is a club and house artist based in United States of America, with 28 gigs on soundcheck across Arizona, Chicago, Ibiza and London and 6 more. Often billed alongside Alex Chapman, Ben Sterling and Mita Gami. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Zoe Gitter is a club and house artist based in United States of America, with 28
 
 Alex Chapman, Ben Sterling, Mita Gami
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoegitter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoegitter/)*

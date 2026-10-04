@@ -1,6 +1,6 @@
 # 620 Jones
 
-620 Jones is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Shingo Nakamura day party - 620 Jones Terrace" on Sat, 3 Oct 2026.
+620 Jones is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Shingo Nakamura day party - 620 Jones Terrace" on Sat, 3 Oct 2026.
 
 620 Jones is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including MYRNE and Shingo Nakamura. See dates, start times and who's playing. 620 Jones Street, San Francisco, CA 94102, USA.
 
@@ -15,4 +15,4 @@
 
 620 Jones Street, San Francisco, CA 94102, USA, San Francisco/Oakland
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/620-jones/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/620-jones/)*

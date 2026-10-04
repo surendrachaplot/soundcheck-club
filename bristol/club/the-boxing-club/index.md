@@ -1,6 +1,6 @@
 # The Boxing Club
 
-The Boxing Club is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Usual Suspects" on Sat, 31 Oct 2026.
+The Boxing Club is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Usual Suspects" on Sat, 31 Oct 2026.
 
 The Boxing Club is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Adam F, Bateman, Charla Green and Client_03 and 2 more. See dates, start times and who's playing. Clement St, Bristol, BS2 9ES, United Kingdom.
 
@@ -15,4 +15,4 @@ The Boxing Club is a music venue in Bristol listed on soundcheck. 2 upcoming gig
 
 Clement St, Bristol, BS2 9ES, United Kingdom, Bristol
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-boxing-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-boxing-club/)*

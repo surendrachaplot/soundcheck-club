@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Demonika, TerminusTechnikus" on Sat, 3 Oct 2026.
+Twist Bar is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Demonika, TerminusTechnikus" on Sat, 3 Oct 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with line-ups including aláya, Ariane V, Ben Gomori and Demonika and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 18 upcoming gigs, wit
 | Fri, 16 Oct 2026 | Compact Disco: Twist with Dodo (RO) | Dodo, Old & Rich |
 | Sat, 17 Oct 2026 | Lower Education, Skalm | Skalm |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

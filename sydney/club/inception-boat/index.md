@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Long Weekend Boat Party Special feat. PIERO PIRUPA" on Sun, 4 Oct 2026.
+Inception Boat is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Long Weekend Boat Party Special feat. PIERO PIRUPA" on Sun, 4 Oct 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including Miguel Campbell. See dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -20,4 +20,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 7 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

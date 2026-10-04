@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Sissi's Saturday: Boris Coelman invites SUCHI & Connection art invites Sawt of Soul" on Sat, 3 Oct 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sissi's Saturday: Boris Coelman invites SUCHI & Connection art invites Sawt of Soul" on Sat, 3 Oct 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including A For Alpha, bebe bad, Benny2 and Benny Rodrigues and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

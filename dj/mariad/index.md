@@ -1,6 +1,6 @@
 # MARIAD
 
-MARIAD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
+MARIAD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bal Chavaux, Paris on Fri, 9 Oct 2026.
 
 MARIAD is a techno and bass artist based in France, with 58 gigs on soundcheck across Brussels, Lyon, Marseille and Paris and 3 more. Often billed alongside encore une autre, De Grandi and Fatale Furylax. Next up: Bal Chavaux, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MARIAD is a techno and bass artist based in France, with 58 gigs on soundcheck a
 
 encore une autre, De Grandi, Fatale Furylax
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariad/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariad/)*

@@ -1,6 +1,6 @@
 # CEREAL
 
-CEREAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+CEREAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 CEREAL is a techno and house artist based in Czech Republic, with 26 gigs on soundcheck across Prague. Often billed alongside Dash (CZ), Alfred Czital and Demonika. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ CEREAL is a techno and house artist based in Czech Republic, with 26 gigs on sou
 
 Dash (CZ), Alfred Czital, Demonika
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cereal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cereal/)*

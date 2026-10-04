@@ -1,6 +1,6 @@
 # Loco (IT)
 
-Loco (IT) is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Sensorium, Berlin on Sun, 18 Oct 2026.
+Loco (IT) is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Sun, 18 Oct 2026.
 
 Loco (IT) is a tech house and techno artist based in Italy, with 13 gigs on soundcheck across Amsterdam, Berlin, Krakow and Milan and 1 more. Often billed alongside Viktor Kampf, Camilla Tarantino and DJ Hype. Next up: Sensorium, Berlin on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ Loco (IT) is a tech house and techno artist based in Italy, with 13 gigs on soun
 
 Viktor Kampf, Camilla Tarantino, DJ Hype
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locoit/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locoit/)*

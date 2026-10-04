@@ -1,6 +1,6 @@
 # SIMONA
 
-SIMONA is a Disco and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+SIMONA is a Disco and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
 SIMONA is a disco and latin bass artist based in Argentina, with 13 gigs on soundcheck across Barcelona, Brussels, Madrid and Melbourne. Often billed alongside Aka theo, Aleroj and Isablu. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SIMONA is a disco and latin bass artist based in Argentina, with 13 gigs on soun
 
 Aka theo, Aleroj, Isablu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona-es/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona-es/)*

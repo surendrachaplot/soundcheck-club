@@ -1,6 +1,6 @@
 # OGQT
 
-OGQT is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
+OGQT is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 1215 Bloor St. West, Toronto on Fri, 20 Nov 2026.
 
 OGQT is a club and bass artist based in Canada, with 31 gigs on soundcheck across Montreal and Toronto. Often billed alongside Ard1n, Litney and HVN. Next up: TBA - 1215 Bloor St. West, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ OGQT is a club and bass artist based in Canada, with 31 gigs on soundcheck acros
 
 Ard1n, Litney, HVN (1)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*

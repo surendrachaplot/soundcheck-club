@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "inU with Cristoph & Yotto" on Sat, 3 Oct 2026.
+Digital is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "inU with Cristoph & Yotto" on Sat, 3 Oct 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 22 upcoming gigs, with line-ups including 4am Kru, Kepler, Andy Whitby and Bushbaby and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 22 upcoming gigs, wi
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

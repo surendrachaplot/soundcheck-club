@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Kaufmann (DE) - Winter Series pres. by Thick As Thieves" on Sun, 4 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kaufmann (DE) - Winter Series pres. by Thick As Thieves" on Sun, 4 Oct 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming gigs, with line-ups including 1NN3R53LF, ADMINISTRATOR, Alex Wann and Amity and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

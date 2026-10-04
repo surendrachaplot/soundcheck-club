@@ -1,6 +1,6 @@
 # Friascut
 
-Friascut is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
+Friascut is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 Friascut is a deep house and house artist, with 33 gigs on soundcheck across Barcelona. Often billed alongside Baffa, Matteo Floris and Guille Pinet. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Friascut is a deep house and house artist, with 33 gigs on soundcheck across Bar
 
 Baffa, Matteo Floris, Guille Pinet
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friascut/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friascut/)*

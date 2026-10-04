@@ -1,6 +1,6 @@
 # Catenation
 
-Catenation is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amann Studios, Vienna on Fri, 9 Oct 2026.
+Catenation is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Amann Studios, Vienna on Fri, 9 Oct 2026.
 
 Catenation is an experimental artist, with 5 gigs on soundcheck across Berlin and Vienna. Often billed alongside Chang Rodrigues, Hilary C/B and Julez (live). Next up: Amann Studios, Vienna on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Catenation is an experimental artist, with 5 gigs on soundcheck across Berlin an
 
 Chang Rodrigues, Hilary C/B, Julez (live)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catenation/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catenation/)*

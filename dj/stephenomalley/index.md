@@ -1,6 +1,6 @@
 # Stephen O'Malley
 
-Stephen O'Malley is a Ambient and Classical artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Gedächtniskirche, Berlin on Mon, 25 Jan 2027.
+Stephen O'Malley is a Ambient and Classical artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gedächtniskirche, Berlin on Mon, 25 Jan 2027.
 
 Stephen O'Malley is an ambient and classical artist based in France, with 15 gigs on soundcheck across Berlin, Brussels, London and Los Angeles and 2 more. Often billed alongside Kali Malone, Alva Noto and Ryuichi Sakamoto. Next up: Gedächtniskirche, Berlin on Mon 25 Jan.
 
@@ -26,4 +26,4 @@ Stephen O'Malley is an ambient and classical artist based in France, with 15 gig
 
 Kali Malone, Alva Noto, Ryuichi Sakamoto
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenomalley/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenomalley/)*

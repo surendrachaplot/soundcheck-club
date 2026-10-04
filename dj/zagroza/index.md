@@ -1,6 +1,6 @@
 # ZAGROZA
 
-ZAGROZA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
+ZAGROZA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 ZAGROZA is a techno and trance artist based in Ukraine, with 54 gigs on soundcheck across Berlin, Frankfurt, Krakow and Leipzig and 1 more. Often billed alongside A.N.I., DJ Jordan and ELOISA. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ZAGROZA is a techno and trance artist based in Ukraine, with 54 gigs on soundche
 
 A.N.I., DJ Jordan, ELOISA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagroza/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zagroza/)*

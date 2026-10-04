@@ -1,6 +1,6 @@
 # Emerald
 
-Emerald is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+Emerald is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
 Emerald is a house and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Special Request, Aletha and KILIMANJARO. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Emerald is a house and techno artist based in United Kingdom, with 72 gigs on so
 
 Special Request, Aletha, KILIMANJARO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*

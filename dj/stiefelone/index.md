@@ -1,6 +1,6 @@
 # Stiefel One
 
-Stiefel One is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
+Stiefel One is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Gate, Berlin on Fri, 9 Oct 2026.
 
 Stiefel One is a techno and minimal artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Hochholzner, Moms on Acid and Midas 104. Next up: Golden Gate, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Stiefel One is a techno and minimal artist based in Germany, with 12 gigs on sou
 
 Hochholzner, Moms on Acid, Midas 104
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiefelone/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiefelone/)*

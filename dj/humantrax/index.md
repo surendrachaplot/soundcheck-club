@@ -1,6 +1,6 @@
 # Human Trax
 
-Human Trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
+Human Trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Acud Macht NEU, Berlin on Thu, 8 Oct 2026.
 
 Human Trax is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside marta, Erta Ale and DJ FRESH 030.303. Next up: Acud Macht NEU, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Human Trax is a techno and house artist based in Germany, with 22 gigs on soundc
 
 marta, Erta Ale, DJ FRESH 030.303
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humantrax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humantrax/)*

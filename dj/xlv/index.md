@@ -1,6 +1,6 @@
 # X.L.V
 
-X.L.V is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
+X.L.V is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
 X.L.V is a techno and ebm artist based in Chile, with 7 gigs on soundcheck across Berlin and Dublin. Often billed alongside ABIBA, Anton Quasi and Antonymic. Next up: Wigwam, Dublin on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ X.L.V is a techno and ebm artist based in Chile, with 7 gigs on soundcheck acros
 
 ABIBA, Anton Quasi, Antonymic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlv/)*

@@ -1,6 +1,6 @@
 # Keegan McQuade
 
-Keegan McQuade is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The DBA, Manchester on Sat, 7 Nov 2026.
+Keegan McQuade is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The DBA, Manchester on Sat, 7 Nov 2026.
 
 Keegan McQuade is an electro and techno artist based in United Kingdom, with 14 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside Jay Kilka, Redshift and Ste Roberts. Next up: The DBA, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Keegan McQuade is an electro and techno artist based in United Kingdom, with 14 
 
 Jay Kilka, Redshift (2), Ste Roberts
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keeganmcquade/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keeganmcquade/)*

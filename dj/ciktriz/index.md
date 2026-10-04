@@ -1,6 +1,6 @@
 # CIKTRIZ
 
-CIKTRIZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 33/45 Club, Valencia on Fri, 9 Oct 2026.
+CIKTRIZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 33/45 Club, Valencia on Fri, 9 Oct 2026.
 
 CIKTRIZ is a techno and house artist, with 18 gigs on soundcheck across Madrid and Valencia. Often billed alongside Lucía Gea, Finalversion3 and Adreno. Next up: 33/45 Club, Valencia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CIKTRIZ is a techno and house artist, with 18 gigs on soundcheck across Madrid a
 
 Lucía Gea, Finalversion3, Adreno
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciktriz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciktriz/)*

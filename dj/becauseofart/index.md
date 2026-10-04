@@ -1,6 +1,6 @@
 # Because of Art
 
-Because of Art is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Because of Art is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Because of Art is a progressive house and deep house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Leeds and 11 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Braxton. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ Because of Art is a progressive house and deep house artist based in United King
 
 Jody Wisternoff, Nicky Elisabeth, Braxton
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*

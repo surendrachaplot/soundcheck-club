@@ -1,6 +1,6 @@
 # Fast (DE)
 
-Fast (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+Fast (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
 
 Fast (DE) is a techno and tech house artist based in Germany, with 43 gigs on soundcheck across Bangkok, Berlin, Munich and Paris and 1 more. Often billed alongside Leon Licht, unDs and Kaufmann. Next up: Hoppetosse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fast (DE) is a techno and tech house artist based in Germany, with 43 gigs on so
 
 Leon Licht, unDs, Kaufmann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fast-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fast-de/)*

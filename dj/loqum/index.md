@@ -1,6 +1,6 @@
 # Loqum
 
-Loqum is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 17 Oct 2026.
+Loqum is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 17 Oct 2026.
 
 Loqum is a techno and club artist based in Turkey, with 42 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 1 more. Often billed alongside Flores Negras, Elock and karennoid. Next up: Bossa Nova Civic Club, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Loqum is a techno and club artist based in Turkey, with 42 gigs on soundcheck ac
 
 Flores Negras, Elock, karennoid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loqum/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loqum/)*

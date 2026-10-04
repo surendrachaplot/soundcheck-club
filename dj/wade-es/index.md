@@ -1,6 +1,6 @@
 # Wade
 
-Wade is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Opium Barcelona, Barcelona on Fri, 9 Oct 2026.
+Wade is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Opium Barcelona, Barcelona on Fri, 9 Oct 2026.
 
 Wade is a tech house and house artist based in Spain, with 105 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 32 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Opium Barcelona, Barcelona on Fri 9 Oct.
 
@@ -14,6 +14,7 @@ Wade is a tech house and house artist based in Spain, with 105 gigs on soundchec
 
 ## Recently played
 
+- Óbuda Bay, Budapest · Sat, 3 Oct 2026
 - Fitz Club, Madrid · Sat, 26 Sept 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - [UNVRS], Ibiza · Sat, 19 Sept 2026
@@ -21,10 +22,9 @@ Wade is a tech house and house artist based in Spain, with 105 gigs on soundchec
 - BCM, Mallorca · Sat, 15 Aug 2026
 - Medusa Beach, Valencia · Thu, 13 Aug 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
-- UNO MALTA, Malta · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

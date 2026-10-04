@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 32 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "KONCERT & AIR CROSS TECHNO with Kryzha & HOUSE STAGE" on Sat, 3 Oct 2026.
+Cross Club is a music venue in Prague with 32 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KONCERT & AIR CROSS TECHNO with Kryzha & HOUSE STAGE" on Sat, 3 Oct 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 32 upcoming gigs, with line-ups including Acid Arab, AMAR DURGA, BBBBBBB and Daniel Neighbour and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -23,4 +23,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 32 upcoming gigs, wi
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

@@ -1,6 +1,6 @@
 # DANAE
 
-DANAE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Miniera Beach, Sardinia on Sat, 10 Oct 2026.
+DANAE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Miniera Beach, Sardinia on Sat, 10 Oct 2026.
 
 DANAE is a house and techno artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and London and 7 more. Often billed alongside Fabrizio Sala, Dario Lem and Enrico Vivaldi. Next up: La Miniera Beach, Sardinia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DANAE is a house and techno artist based in Italy, with 46 gigs on soundcheck ac
 
 Fabrizio Sala, Dario Lem, Enrico Vivaldi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-2/)*

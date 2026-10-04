@@ -1,6 +1,6 @@
 # SUFI
 
-SUFI is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Document, Bristol on Sat, 10 Oct 2026.
+SUFI is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Document, Bristol on Sat, 10 Oct 2026.
 
 SUFI is a house and garage artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Bristol, Cardiff and Liverpool and 4 more. Often billed alongside Deselecta, Hayliegh and IN PARALLEL. Next up: Document, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SUFI is a house and garage artist based in United Kingdom, with 24 gigs on sound
 
 Deselecta, Hayliegh, IN PARALLEL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufi/)*

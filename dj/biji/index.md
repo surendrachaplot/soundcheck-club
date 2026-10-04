@@ -1,6 +1,6 @@
 # Biji
 
-Biji is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bar A Bar, London on Sat, 3 Oct 2026.
+Biji is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar A Bar, London on Sat, 3 Oct 2026.
 
 Biji is a minimal techno and techno artist based in Slovakia, with 6 gigs on soundcheck across Amsterdam, London, Stockholm and Vienna. Often billed alongside AMORAL, Anahita Shamsaei and BLANKA. Next up: Bar A Bar, London on Sat 3 Oct.
 
@@ -13,6 +13,8 @@ Biji is a minimal techno and techno artist based in Slovakia, with 6 gigs on sou
 
 ## Recently played
 
+- Bar A Bar, London · Sat, 3 Oct 2026
+- B72, Vienna · Sat, 3 Oct 2026
 - Village Underground, London · Fri, 6 Jun 2025
 - Parallel, Amsterdam · Wed, 16 Oct 2024
 - Värmeverket, Stockholm · Fri, 30 Aug 2024
@@ -22,4 +24,4 @@ Biji is a minimal techno and techno artist based in Slovakia, with 6 gigs on sou
 
 AMORAL, Anahita Shamsaei, BLANKA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biji/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biji/)*

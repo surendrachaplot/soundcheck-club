@@ -1,6 +1,6 @@
 # AMARE
 
-AMARE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
+AMARE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
 
 AMARE is a techno and house artist based in Belgium, with 44 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Dirty Doering, Doreen Van Steen and DOBE. Next up: Nicholas Groente & Fruit, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ AMARE is a techno and house artist based in Belgium, with 44 gigs on soundcheck 
 
 Dirty Doering, Doreen Van Steen, DOBE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amare-be/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amare-be/)*

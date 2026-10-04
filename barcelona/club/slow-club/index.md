@@ -1,6 +1,6 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "The Retrospective: Navider (Cancelado)" on Sat, 3 Oct 2026.
+Slow Club is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Retrospective: Navider (Cancelado)" on Sat, 3 Oct 2026.
 
 Slow Club is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Hermes Disco Eterno, Marc Monton, Navider and Toni The Boss. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
@@ -23,4 +23,4 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, 
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

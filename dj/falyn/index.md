@@ -1,6 +1,6 @@
 # FALYN
 
-FALYN is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
+FALYN is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
 
 FALYN is an afro house and house artist based in United States of America, with 18 gigs on soundcheck across Düsseldorf, Ibiza, London and Los Angeles and 3 more. Often billed alongside MoBlack, RARA (US) and Nii Tei. Next up: Refuge, New York City on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ FALYN is an afro house and house artist based in United States of America, with 
 
 MoBlack, RARA (US), Nii Tei
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falyn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falyn/)*

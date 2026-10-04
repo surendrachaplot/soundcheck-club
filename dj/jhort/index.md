@@ -1,6 +1,6 @@
 # Jhort
 
-Jhort is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 11 Oct 2026.
+Jhort is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 11 Oct 2026.
 
 Jhort is a techno and house artist based in Spain, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside VOID/DIVO, Verushka and ALEKSANDRE. Next up: Razzmatazz, Barcelona on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Jhort is a techno and house artist based in Spain, with 51 gigs on soundcheck ac
 
 VOID/DIVO, Verushka, ALEKSANDRE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhort/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhort/)*

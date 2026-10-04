@@ -1,6 +1,6 @@
 # TOOT
 
-TOOT is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The White Hotel, Manchester on Fri, 30 Oct 2026.
+TOOT is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The White Hotel, Manchester on Fri, 30 Oct 2026.
 
 TOOT is an electronica and deep house artist based in United Kingdom, with 10 gigs on soundcheck across Leeds and Manchester. Often billed alongside Kop-Z, Flames Disperse and sclews. Next up: The White Hotel, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TOOT is an electronica and deep house artist based in United Kingdom, with 10 gi
 
 Kop-Z, Flames Disperse, sclews
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toot/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toot/)*

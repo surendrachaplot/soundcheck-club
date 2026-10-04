@@ -1,6 +1,6 @@
 # BJ Holy
 
-BJ Holy is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
+BJ Holy is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
 BJ Holy is an experimental and electronica artist based in United Kingdom, with 19 gigs on soundcheck across London, Paris and Turin. Often billed alongside Kenichi Iwasa, Coby Sey and Bianca Scout. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BJ Holy is an experimental and electronica artist based in United Kingdom, with 
 
 Kenichi Iwasa, Coby Sey, Bianca Scout
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjholy/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjholy/)*

@@ -1,6 +1,6 @@
 # Damon Rider
 
-Damon Rider is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Cafe, Bangkok on Fri, 9 Oct 2026.
+Damon Rider is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Cafe, Bangkok on Fri, 9 Oct 2026.
 
 Damon Rider is a techno and industrial artist based in Thailand, with 128 gigs on soundcheck across Bangkok. Often billed alongside Gunya, The3RD and REIKS. Next up: Culture Cafe, Bangkok on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Damon Rider is a techno and industrial artist based in Thailand, with 128 gigs o
 
 Gunya, The3RD, REIKS
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonrider/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonrider/)*

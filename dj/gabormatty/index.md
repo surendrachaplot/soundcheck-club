@@ -1,6 +1,6 @@
 # Gabor Matty
 
-Gabor Matty is a Disco and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
+Gabor Matty is a Disco and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 30 Oct 2026.
 
 Gabor Matty is a disco and club artist based in United Kingdom, with 33 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ButhoTheWarrior, David Barbarossa and Hu-Sane. Next up: The Ivory Hotel, Glasgow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Gabor Matty is a disco and club artist based in United Kingdom, with 33 gigs on 
 
 ButhoTheWarrior, David Barbarossa, Hu-Sane
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*

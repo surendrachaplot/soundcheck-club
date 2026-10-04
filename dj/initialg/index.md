@@ -1,6 +1,6 @@
 # Initial G
 
-Initial G is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Emporium Arcade Bar - Logan Square, Chicago on Sat, 31 Oct 2026.
+Initial G is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Emporium Arcade Bar - Logan Square, Chicago on Sat, 31 Oct 2026.
 
 Initial G is a footwork and house artist, with 48 gigs on soundcheck across Chicago and Sydney. Often billed alongside DJ Acey, Steve Noah and Elock. Next up: Emporium Arcade Bar - Logan Square, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Initial G is a footwork and house artist, with 48 gigs on soundcheck across Chic
 
 DJ Acey, Steve Noah, Elock
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialg/)*

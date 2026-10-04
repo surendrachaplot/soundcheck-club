@@ -1,6 +1,6 @@
 # Die Selektion
 
-Die Selektion is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
+Die Selektion is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
 
 Die Selektion is an ebm and new wave artist based in Germany, with 8 gigs on soundcheck across Berlin, Brussels, London and Montreal and 1 more. Often billed alongside Philipp Strobel, 24sex-b and Alessandro Adriani. Next up: Camden Assembly, London on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Die Selektion is an ebm and new wave artist based in Germany, with 8 gigs on sou
 
 Philipp Strobel, 24sex-b, Alessandro Adriani
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselektion/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselektion/)*

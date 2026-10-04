@@ -1,6 +1,6 @@
 # Hill Station Cafe
 
-Hill Station Cafe is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "Shades of Black" on Sun, 4 Oct 2026.
+Hill Station Cafe is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Shades of Black" on Sun, 4 Oct 2026.
 
 Hill Station Cafe is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hill Station Cafe is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Shades of Black |  |
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hill-station-cafe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hill-station-cafe/)*

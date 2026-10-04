@@ -1,6 +1,6 @@
 # Baltra
 
-Baltra is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Airliner, Los Angeles on Sat, 17 Oct 2026.
+Baltra is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Airliner, Los Angeles on Sat, 17 Oct 2026.
 
 Baltra is a house and techno artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: The Airliner, Los Angeles on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Baltra is a house and techno artist based in United States of America, with 88 g
 
 dj poolboi, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*

@@ -1,6 +1,6 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
+Delta Funktionen is a Techno and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
 
 Delta Funktionen is a techno and downtempo artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside DJ SO, Full Sentimental and John Plaza. Next up: Space Orbit, Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Delta Funktionen is a techno and downtempo artist based in Netherlands, with 9 g
 
 DJ SO, Full Sentimental, John Plaza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*

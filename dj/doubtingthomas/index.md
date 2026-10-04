@@ -1,6 +1,6 @@
 # DoubtingThomas
 
-DoubtingThomas is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
+DoubtingThomas is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
 
 DoubtingThomas is a house and minimal artist based in Germany, with 16 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Lisbon and 8 more. Often billed alongside AOKI takamasa, Kohei and Rem Kina. Next up: 303 Audiophile Bar, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DoubtingThomas is a house and minimal artist based in Germany, with 16 gigs on s
 
 AOKI takamasa, Kohei, Rem Kina
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubtingthomas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubtingthomas/)*

@@ -1,6 +1,6 @@
 # Resi Regelt
 
-Resi Regelt is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
+Resi Regelt is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 9 Oct 2026.
 
 Resi Regelt is a house and bass artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Lisatrix, Pilar Jordan and CLAVD. Next up: Klunkerkranich, Berlin on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Resi Regelt is a house and bass artist, with 6 gigs on soundcheck across Berlin.
 
 Lisatrix, Pilar Jordan, CLAVD
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resiregelt/)*

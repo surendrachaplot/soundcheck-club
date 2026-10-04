@@ -1,6 +1,6 @@
 # Meraki (3)
 
-Meraki (3) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Sat, 17 Oct 2026.
+Meraki (3) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sat, 17 Oct 2026.
 
 Meraki is a techno and house artist based in Switzerland, with 19 gigs on soundcheck across Amsterdam, London, Seoul and Stuttgart and 1 more. Often billed alongside Caromelle, ACID FLORA and Manuel Moreno. Next up: RADION, Amsterdam on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Meraki is a techno and house artist based in Switzerland, with 19 gigs on soundc
 
 Caromelle, ACID FLORA, Manuel Moreno
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*

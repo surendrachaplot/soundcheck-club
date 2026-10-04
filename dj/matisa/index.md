@@ -1,6 +1,6 @@
 # Matisa
 
-Matisa is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Matisa is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
 Matisa is a house and techno artist based in Italy, with 128 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: TBA, Central on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Matisa is a house and techno artist based in Italy, with 128 gigs on soundcheck 
 
 CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

@@ -1,6 +1,6 @@
 # Luca Ruiz
 
-Luca Ruiz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
+Luca Ruiz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
 
 Luca Ruiz is a minimal and house artist based in France, with 6 gigs on soundcheck across Barcelona, Dublin, Geneva and Glasgow and 2 more. Often billed alongside Bibi Seck, Dimode and Giamma Soren. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Luca Ruiz is a minimal and house artist based in France, with 6 gigs on soundche
 
 Bibi Seck, Dimode, Giamma Soren
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*

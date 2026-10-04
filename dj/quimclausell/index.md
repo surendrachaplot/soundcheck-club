@@ -1,6 +1,6 @@
 # Quim Clausell
 
-Quim Clausell is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
+Quim Clausell is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - secret location, Barcelona on Fri, 16 Oct 2026.
 
 Quim Clausell is a house and electro artist based in Spain, with 65 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Bruno (DO), Alba Posas and Adria (ES). Next up: TBA - secret location, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Quim Clausell is a house and electro artist based in Spain, with 65 gigs on soun
 
 Bruno (DO), Alba Posas, Adria (ES)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*

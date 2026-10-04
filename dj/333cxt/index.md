@@ -1,6 +1,6 @@
 # 333CXT
 
-333CXT is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tranzit, Hamburg on Fri, 9 Oct 2026.
+333CXT is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tranzit, Hamburg on Fri, 9 Oct 2026.
 
 333CXT is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 3 more. Often billed alongside VECTA, FennX and SOLID. Next up: Tranzit, Hamburg on Fri 9 Oct.
 
@@ -27,4 +27,4 @@
 
 VECTA, FennX, SOLID (2)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

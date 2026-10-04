@@ -1,6 +1,6 @@
 # OOZE
 
-OOZE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+OOZE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
 OOZE is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Berlin, Detroit, London and Lyon and 2 more. Often billed alongside Drop Catch, ojoo and Cortex of Light. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ OOZE is a house and techno artist based in United States of America, with 35 gig
 
 Drop Catch, ojoo, Cortex of Light
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ooze/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ooze/)*

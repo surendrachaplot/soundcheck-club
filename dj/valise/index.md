@@ -1,6 +1,6 @@
 # VALISE
 
-VALISE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
+VALISE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
 VALISE is a trance and techno artist, with 9 gigs on soundcheck across Nantes, New York City and Paris. Often billed alongside ANNX, Aaron Dilloway and Adam Pits. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ VALISE is a trance and techno artist, with 9 gigs on soundcheck across Nantes, N
 
 ANNX, Aaron Dilloway, Adam Pits
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valise/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valise/)*

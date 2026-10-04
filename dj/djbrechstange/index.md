@@ -1,6 +1,6 @@
 # DJ BRECHSTANGE
 
-DJ BRECHSTANGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
+DJ BRECHSTANGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
 DJ BRECHSTANGE is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Athens, Berlin, Frankfurt and Krakow. Often billed alongside DiskoJochen, HØLLE and DJ TIPSTER. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ DJ BRECHSTANGE is a techno and trance artist based in Germany, with 31 gigs on s
 
 ## Recently played
 
+- Humboldthain Club, Berlin · Sat, 3 Oct 2026
 - ://about blank, Berlin · Fri, 28 Aug 2026
 - Jonny Knüppel, Berlin · Fri, 21 Aug 2026
 - Humboldthain Club, Berlin · Thu, 30 Apr 2026
@@ -19,10 +20,9 @@ DJ BRECHSTANGE is a techno and trance artist based in Germany, with 31 gigs on s
 - Humboldthain Club, Berlin · Wed, 31 Dec 2025
 - Festsaal Kreuzberg, Berlin · Sat, 27 Dec 2025
 - Lokschuppen Berlin, Berlin · Fri, 18 Jul 2025
-- ://about blank, Berlin · Fri, 4 Jul 2025
 
 ## Shares bills with
 
 DiskoJochen, HØLLE (2), DJ TIPSTER
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrechstange/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrechstange/)*

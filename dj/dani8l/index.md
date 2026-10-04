@@ -1,6 +1,6 @@
 # DANI8L
 
-DANI8L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amnesia, Bangkok on Fri, 23 Oct 2026.
+DANI8L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia, Bangkok on Fri, 23 Oct 2026.
 
 DANI8L is a techno and house artist based in Switzerland, with 42 gigs on soundcheck across Bangkok, Singapore and Zurich. Often billed alongside Sam Laxton, LonSkii and Mojack. Next up: Amnesia, Bangkok on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DANI8L is a techno and house artist based in Switzerland, with 42 gigs on soundc
 
 Sam Laxton, LonSkii, Mojack
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dani8l/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dani8l/)*

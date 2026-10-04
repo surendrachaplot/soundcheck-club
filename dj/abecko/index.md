@@ -1,6 +1,6 @@
 # abecko
 
-abecko is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+abecko is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
 abecko is a house and minimal artist based in Czech Republic, with 11 gigs on soundcheck across Prague. Often billed alongside 3TB, Kirill Astra and Markel. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ abecko is a house and minimal artist based in Czech Republic, with 11 gigs on so
 
 3TB (1), Kirill Astra, Markel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abecko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abecko/)*

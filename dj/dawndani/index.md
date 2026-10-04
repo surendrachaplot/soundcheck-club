@@ -1,6 +1,6 @@
 # dawn dani
 
-dawn dani is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+dawn dani is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
 dawn dani is a techno and electronica artist based in Portugal, with 10 gigs on soundcheck across Lisbon, Porto and Portugal. Often billed alongside Azu Tiwaline, BLEID and Colinas. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ dawn dani is a techno and electronica artist based in Portugal, with 10 gigs on 
 
 Azu Tiwaline, BLEID, Colinas
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawndani/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawndani/)*

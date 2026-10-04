@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Det Gode Selskab: Chris Solaris + Karl Fraunhofer + Tod Louie" on Sat, 3 Oct 2026.
+Jaeger is a music venue in Oslo with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Det Gode Selskab: Chris Solaris + Karl Fraunhofer + Tod Louie" on Sat, 3 Oct 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with line-ups including Anthea, Chris Solaris, Einmusik and Finnebassen and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 14 upcoming gigs, with lin
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

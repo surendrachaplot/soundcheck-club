@@ -1,6 +1,6 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 7 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura" on Sat, 3 Oct 2026.
+Circolo degli Illuminati is a music venue in Rome with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura" on Sat, 3 Oct 2026.
 
 Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 7 upcoming gigs, with line-ups including Allegra De Angelis, Asymptote, brokenhead and Fireground and 2 more. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
@@ -20,4 +20,4 @@ Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 7 upcomi
 
 Via Giuseppe Libetta 1, 00154 Roma (RM), Italy, Rome
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*

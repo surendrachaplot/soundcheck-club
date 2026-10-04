@@ -1,6 +1,6 @@
 # Robosonic
 
-Robosonic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
+Robosonic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
 
 Robosonic is a house and tech house artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Ibiza and Mexico City. Often billed alongside B. Clarke, Kristina Sheli and Rob La. Next up: Hoppetosse, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Robosonic is a house and tech house artist based in Germany, with 19 gigs on sou
 
 B. Clarke, Kristina Sheli, Rob La
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robosonic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robosonic/)*

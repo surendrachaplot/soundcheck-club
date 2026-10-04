@@ -1,6 +1,6 @@
 # Yves Tomas
 
-Yves Tomas is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
+Yves Tomas is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
 
 Yves Tomas is a house and bass artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Just Jane, ASHTREY and B 4ME. Next up: Phonox, London on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Yves Tomas is a house and bass artist based in United Kingdom, with 7 gigs on so
 
 Just Jane, ASHTREY, B 4ME
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestomas/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvestomas/)*

@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ACN with Ngly / Outermost / Devika" on Sat, 3 Oct 2026.
+Astron Club is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ACN with Ngly / Outermost / Devika" on Sat, 3 Oct 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including BMSK, Devika, Kazteins and Ngly and 2 more. See dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -15,4 +15,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 2 upcoming gigs, wi
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

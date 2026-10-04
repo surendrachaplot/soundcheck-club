@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Livehouse, Dundee on Sat, 3 Oct 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Livehouse, Dundee on Sat, 3 Oct 2026.
 
 Hayley Zalassi is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Livehouse, Dundee on Sat 3 Oct.
 
@@ -14,6 +14,7 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, with 93 gig
 
 ## Recently played
 
+- Livehouse, Dundee · Sat, 3 Oct 2026
 - The Art School, Glasgow · Wed, 23 Sept 2026
 - Ramona, Manchester · Sat, 19 Sept 2026
 - Public NQ, Manchester · Sat, 12 Sept 2026
@@ -21,10 +22,9 @@ Hayley Zalassi is a house and techno artist based in United Kingdom, with 93 gig
 - Burgess Park, London · Sun, 9 Aug 2026
 - Burgess Park, London · Sun, 9 Aug 2026
 - Quarters, Brighton · Sat, 1 Aug 2026
-- Hidden, Manchester · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

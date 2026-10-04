@@ -1,6 +1,6 @@
 # POLO JAFFA
 
-POLO JAFFA is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Planet Wax, London on Thu, 22 Oct 2026.
+POLO JAFFA is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Planet Wax, London on Thu, 22 Oct 2026.
 
 POLO JAFFA is a garage and techno artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, Leeds, London and Manchester. Often billed alongside whoswill, 1-800 GIRLS and After Hours. Next up: Planet Wax, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ POLO JAFFA is a garage and techno artist based in United Kingdom, with 16 gigs o
 
 whoswill, 1-800 GIRLS, After Hours
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polojaffa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polojaffa/)*

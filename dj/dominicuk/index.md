@@ -1,6 +1,6 @@
 # Dominic (UK)
 
-Dominic (UK) is a Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
+Dominic (UK) is a Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Glove That Fits, London on Sat, 3 Oct 2026.
 
 Dominic (UK) is a deep house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Lenny (UK), Frederik Anthony and Max Sinàl. Next up: The Glove That Fits, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Dominic (UK) is a deep house artist based in United Kingdom, with 7 gigs on soun
 
 ## Recently played
 
+- The Glove That Fits, London · Sat, 3 Oct 2026
 - The Glove That Fits, London · Sat, 27 Jun 2026
 - TBA - Secret N London Location, Revealed to Ticket Holders on Day, London · Sat, 30 May 2026
 - NUMBER 90 LONDON, London · Fri, 17 Apr 2026
@@ -23,4 +24,4 @@ Dominic (UK) is a deep house artist based in United Kingdom, with 7 gigs on soun
 
 Lenny (UK), Frederik Anthony, Max Sinàl
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominicuk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominicuk/)*

@@ -1,6 +1,6 @@
 # Baalti
 
-Baalti is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
+Baalti is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
 
 Baalti is a house and club artist, with 60 gigs on soundcheck across Amsterdam, Austin, Berlin and Brisbane and 20 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Good Room, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Baalti is a house and club artist, with 60 gigs on soundcheck across Amsterdam, 
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

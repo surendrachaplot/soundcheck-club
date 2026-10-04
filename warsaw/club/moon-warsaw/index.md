@@ -1,6 +1,6 @@
 # Moon Warsaw
 
-Moon Warsaw is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "MOON PRESENTS: Agoria" on Sat, 3 Oct 2026.
+Moon Warsaw is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MOON PRESENTS: Agoria" on Sat, 3 Oct 2026.
 
 Moon Warsaw is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Agoria, Andrea Oliva, Benja and EWERSEEN and 2 more. See dates, start times and who's playing. Wioślarska 6, 00-411 Warszawa.
 
@@ -17,4 +17,4 @@ Moon Warsaw is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, wi
 
 Wioślarska 6, 00-411 Warszawa, Warsaw
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*

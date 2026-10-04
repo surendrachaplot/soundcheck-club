@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Office Hours: funkin donut, Arjun Shah, Inés" on Sat, 3 Oct 2026.
+Jupiter Disco is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Office Hours: funkin donut, Arjun Shah, Inés" on Sat, 3 Oct 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Arjun Shah and Balam and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 21 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

@@ -1,6 +1,6 @@
 # RAFAELO
 
-RAFAELO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
+RAFAELO is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Signal, New York City on Sun, 11 Oct 2026.
 
 RAFAELO is a house and minimal artist, with 15 gigs on soundcheck across Berlin and New York City. Often billed alongside Hagel, Christopher Lawrenz and Johnny D. Next up: Signal, New York City on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ RAFAELO is a house and minimal artist, with 15 gigs on soundcheck across Berlin 
 
 Hagel, Christopher Lawrenz, Johnny D
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelo/)*

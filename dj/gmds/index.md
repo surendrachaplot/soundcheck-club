@@ -1,6 +1,6 @@
 # GMDS
 
-GMDS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at komunal, Birmingham on Fri, 9 Oct 2026.
+GMDS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at komunal, Birmingham on Fri, 9 Oct 2026.
 
 GMDS is a tech house and techno artist, with 6 gigs on soundcheck across Birmingham and Nottingham. Often billed alongside Elegance Of The Damned. Next up: komunal, Birmingham on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ GMDS is a tech house and techno artist, with 6 gigs on soundcheck across Birming
 
 Elegance Of The Damned
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gmds/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gmds/)*

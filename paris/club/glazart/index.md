@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "After O'Clock X La Plage Open Air: Ricardo Garduno, Miss Nat H Lee, Le Saint" on Sun, 4 Oct 2026.
+Glazart is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "After O'Clock X La Plage Open Air: Ricardo Garduno, Miss Nat H Lee, Le Saint" on Sun, 4 Oct 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Anabel Arroyo, Austher, Etienne Nogues and Hyper Sam and 2 more. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -16,4 +16,4 @@ Glazart is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with li
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

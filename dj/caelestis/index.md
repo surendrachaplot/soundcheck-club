@@ -1,6 +1,6 @@
 # Caelestis
 
-Caelestis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Caelestis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Caelestis is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam. Often billed alongside Vale.T, rebrånded and Robert De Neer. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Caelestis is a techno and tech house artist based in Netherlands, with 13 gigs o
 
 Vale.T, rebrånded, Robert De Neer
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caelestis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caelestis/)*

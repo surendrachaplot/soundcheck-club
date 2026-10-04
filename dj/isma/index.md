@@ -1,6 +1,6 @@
 # Isma
 
-Isma is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Isma is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 Isma is a house and garage artist based in Norway, with 6 gigs on soundcheck across Barcelona, Milan, Porto and Sao Paulo. Often billed alongside Amanda Mussi, Ananda (BR) and Bitter Babe. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Isma is a house and garage artist based in Norway, with 6 gigs on soundcheck acr
 
 Amanda Mussi, Ananda (BR), Bitter Babe
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isma/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isma/)*

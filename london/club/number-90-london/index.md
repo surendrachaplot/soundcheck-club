@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PLAYGRIL X SEXTOU" on Sat, 3 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PLAYGRIL X SEXTOU" on Sat, 3 Oct 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 25 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

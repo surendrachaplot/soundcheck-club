@@ -1,6 +1,6 @@
 # HINNA
 
-HINNA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+HINNA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
 HINNA is a techno and electro artist, with 7 gigs on soundcheck across Berlin. Often billed alongside 2FARO, Amperia and Buoy. Next up: Renate, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ HINNA is a techno and electro artist, with 7 gigs on soundcheck across Berlin. O
 
 2FARO, Amperia, Buoy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinna/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinna/)*

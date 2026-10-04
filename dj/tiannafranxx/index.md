@@ -1,6 +1,6 @@
 # Tianna Franxx
 
-Tianna Franxx is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Four Quarters, London on Fri, 30 Oct 2026.
+Tianna Franxx is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Four Quarters, London on Fri, 30 Oct 2026.
 
 Tianna Franxx is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam and London. Often billed alongside JAY-MO, Randoma and Wilman. Next up: Four Quarters, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Tianna Franxx is a drum & bass and jungle artist based in United Kingdom, with 1
 
 JAY-MO, Randoma, Wilman
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiannafranxx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiannafranxx/)*

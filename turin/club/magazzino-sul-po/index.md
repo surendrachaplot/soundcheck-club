@@ -1,6 +1,6 @@
 # Magazzino sul Po
 
-Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "bitcrusher with Peppe Amore (pres. Giuseppe Amoruoso) + Nontiagitare, Thaiz" on Fri, 9 Oct 2026.
+Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "bitcrusher with Peppe Amore (pres. Giuseppe Amoruoso) + Nontiagitare, Thaiz" on Fri, 9 Oct 2026.
 
 Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Sotofett, Katatonic Silentio, Lord Spikeheart and Nontiagitare and 1 more. See dates, start times and who's playing. Murazzi del Po 18/20 (lato sx).
 
@@ -16,4 +16,4 @@ Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs
 
 Murazzi del Po 18/20 (lato sx), Turin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*

@@ -1,6 +1,6 @@
 # Carl Luis
 
-Carl Luis is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Ming Lounge, Portland on Fri, 2 Oct 2026.
+Carl Luis is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Ming Lounge, Portland on Fri, 2 Oct 2026.
 
 Carl Luis is a dub and dancehall artist based in Germany, with 28 gigs on soundcheck across Berlin, Milan, New York City and Portland. Often billed alongside Giouann, Arthur (DE) and Gavsborg. Next up: TBA - Ming Lounge, Portland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Carl Luis is a dub and dancehall artist based in Germany, with 28 gigs on soundc
 
 Giouann, Arthur (DE), Gavsborg
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*

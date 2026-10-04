@@ -1,6 +1,6 @@
 # Cari Lekebusch
 
-Cari Lekebusch is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
+Cari Lekebusch is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
 
 Cari Lekebusch is a techno and acid artist based in Sweden, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Cari Lekebusch is a techno and acid artist based in Sweden, with 15 gigs on soun
 
 Christian AB, Olof Dreijer, Polygonia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carilekebusch/)*

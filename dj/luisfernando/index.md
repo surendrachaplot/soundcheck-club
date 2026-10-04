@@ -1,6 +1,6 @@
 # Luis Fernando
 
-Luis Fernando is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Oberon, New York City on Sat, 3 Oct 2026.
+Luis Fernando is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oberon, New York City on Sat, 3 Oct 2026.
 
 Luis Fernando is a house and pop artist based in United States of America, with 8 gigs on soundcheck across Mexico City and New York City. Often billed alongside Drew Baker, Joey with the Mustache and Ben Wild. Next up: Oberon, New York City on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Luis Fernando is a house and pop artist based in United States of America, with 
 
 ## Recently played
 
+- Oberon, New York City · Sat, 3 Oct 2026
 - Oberon, New York City · Fri, 25 Sept 2026
 - H0L0, New York City · Fri, 24 Jul 2026
 - The Chocolate Factory, New York City · Fri, 6 Feb 2026
@@ -24,4 +25,4 @@ Luis Fernando is a house and pop artist based in United States of America, with 
 
 Drew Baker, Joey with the Mustache, Ben Wild
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfernando/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfernando/)*

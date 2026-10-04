@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "ADE CYCLE - Bridges for Music - Fundraiser" on Tue, 13 Oct 2026.
+Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ADE CYCLE - Bridges for Music - Fundraiser" on Tue, 13 Oct 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including CLEIDO, Any Koh, Bushman (UK) and Carl Rowlinson and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -18,4 +18,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

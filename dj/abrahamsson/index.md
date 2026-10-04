@@ -1,6 +1,6 @@
 # Abrahamsson
 
-Abrahamsson is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Dear Darling, London on Sat, 3 Oct 2026.
+Abrahamsson is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dear Darling, London on Sat, 3 Oct 2026.
 
 Abrahamsson is a tech house and minimal artist based in Sweden, with 5 gigs on soundcheck across Copenhagen and London. Often billed alongside Arian Saravi and Kate Moss. Next up: Dear Darling, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Abrahamsson is a tech house and minimal artist based in Sweden, with 5 gigs on s
 
 ## Recently played
 
+- Dear Darling, London · Sat, 3 Oct 2026
 - La Boucherie, Copenhagen · Sat, 28 Mar 2026
 - Maroto, London · Sat, 6 Sept 2025
 - Kave, London · Sat, 6 Sept 2025
@@ -21,4 +22,4 @@ Abrahamsson is a tech house and minimal artist based in Sweden, with 5 gigs on s
 
 Arian Saravi, Kate Moss
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abrahamsson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abrahamsson/)*

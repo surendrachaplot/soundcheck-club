@@ -1,6 +1,6 @@
 # Ohlei
 
-Ohlei is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 10 Oct 2026.
+Ohlei is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 10 Oct 2026.
 
 Ohlei is a house and afro house artist based in United States of America, with 24 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside Khiari Bakar, Dom Haley and BlckTeeth. Next up: Warehouse on Watts, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ohlei is a house and afro house artist based in United States of America, with 2
 
 Khiari Bakar, Dom Haley, BlckTeeth
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohlei/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohlei/)*

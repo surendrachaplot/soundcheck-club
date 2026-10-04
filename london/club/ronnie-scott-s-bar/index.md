@@ -1,14 +1,13 @@
 # Ronnie Scott's Bar
 
-Ronnie Scott's Bar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Late Late Show Upstairs with The Nest Sessions" on Sat, 3 Oct 2026.
+Ronnie Scott's Bar is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Late Late Electronic with Willy Delphia" on Sat, 10 Oct 2026.
 
-Ronnie Scott's Bar is a music venue in London listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
+Ronnie Scott's Bar is a music venue in London listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Late Late Show Upstairs with The Nest Sessions |  |
 | Sat, 10 Oct 2026 | Late Late Electronic with Willy Delphia |  |
 | Sat, 24 Oct 2026 | Late Late Show Upstairs with Alsogood |  |
 | Sat, 31 Oct 2026 | Late Late Show with Don Glori |  |
@@ -18,4 +17,4 @@ Ronnie Scott's Bar is a music venue in London listed on soundcheck. 5 upcoming g
 
 47 Frith Street; Soho; London W1D 4HT; United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*

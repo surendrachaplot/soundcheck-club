@@ -1,6 +1,6 @@
 # Kibo
 
-Kibo is a Grime and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Pustervik, Gothenburg on Fri, 11 Dec 2026.
+Kibo is a Grime and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pustervik, Gothenburg on Fri, 11 Dec 2026.
 
 Kibo is a grime and hip-hop artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Glasgow, Gothenburg and London and 5 more. Often billed alongside M.I.C (The Master of Inane Conversation), ISO YSO and CHAMBER45. Next up: Pustervik, Gothenburg on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kibo is a grime and hip-hop artist based in United Kingdom, with 23 gigs on soun
 
 M.I.C (The Master of Inane Conversation), ISO YSO, CHAMBER45
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo/)*

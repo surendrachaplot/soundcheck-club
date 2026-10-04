@@ -1,6 +1,6 @@
 # Jampikid
 
-Jampikid is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Xolo, Munich on Sat, 3 Oct 2026.
+Jampikid is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Xolo, Munich on Sat, 3 Oct 2026.
 
 Jampikid is a tech house and minimal artist, with 18 gigs on soundcheck across Berlin and Munich. Often billed alongside SILSAN, AM.I and ANDRÆ. Next up: Xolo, Munich on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Jampikid is a tech house and minimal artist, with 18 gigs on soundcheck across B
 
 ## Recently played
 
+- Xolo, Munich · Sat, 3 Oct 2026
 - Bahnwärter Thiel, Munich · Fri, 6 Mar 2026
 - Bahnwärter Thiel, Munich · Fri, 19 Sept 2025
 - Bahnwärter Thiel, Munich · Fri, 13 Dec 2024
@@ -19,10 +20,9 @@ Jampikid is a tech house and minimal artist, with 18 gigs on soundcheck across B
 - Palais, Munich · Fri, 19 Jul 2024
 - AVA Club, Berlin · Sat, 25 May 2024
 - Pimpernel, Munich · Fri, 5 Jan 2024
-- Pimpernel, Munich · Sat, 9 Dec 2023
 
 ## Shares bills with
 
 SILSAN, AM.I, ANDRÆ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jampikid/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jampikid/)*

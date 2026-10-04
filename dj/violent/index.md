@@ -1,6 +1,6 @@
 # Violent
 
-Violent is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Smolna, Warsaw on Thu, 8 Oct 2026.
+Violent is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Smolna, Warsaw on Thu, 8 Oct 2026.
 
 Violent is a techno and industrial artist, with 21 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside MERVH, Sabre (PL) and BEXA. Next up: Smolna, Warsaw on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Violent is a techno and industrial artist, with 21 gigs on soundcheck across Ber
 
 MERVH, Sabre (PL), BEXA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violent/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violent/)*

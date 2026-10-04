@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣" on Sat, 3 Oct 2026.
+Illegaal is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣" on Sat, 3 Oct 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -19,4 +19,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

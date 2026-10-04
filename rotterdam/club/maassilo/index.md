@@ -1,14 +1,13 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED" on Sat, 3 Oct 2026.
+Maassilo is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BØĘRY All Night Long" on Sat, 10 Oct 2026.
 
-Maassilo is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including A.M.C., AAT (NL), Alexander Koning and amara and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
+Maassilo is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Art of Fighters and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Summer of Love aan de Maas - The Golden age of house 89/05 - POStPONED | Alexander Koning, Jay Dee, Klubbheads, Remy Unger |
 | Sat, 10 Oct 2026 | BØĘRY All Night Long | BØĘRY |
 | Sat, 24 Oct 2026 | Megarave | Art of Fighters, Buzz Fuzz, Endymion, Lunatic, Neophyte, Ophidian, Panic, Ruffian |
 | Fri, 30 Oct 2026 | Hospital30 Halloween Rotterdam | A.M.C., Audio, Buunshin, Circadian, Ed Rush, Enta, Hoax (UK), Metrik, Netsky, Nu:Tone, Phace, SMG (UK), Waeys |
@@ -21,4 +20,4 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, wi
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*

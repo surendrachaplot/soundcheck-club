@@ -1,6 +1,6 @@
 # Serial Killaz
 
-Serial Killaz is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Serial Killaz is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Serial Killaz is a drum & bass and jungle artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Birmingham, Bristol and Frankfurt and 14 more. Often billed alongside Deekline, Benny Page and Killa P. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Serial Killaz is a drum & bass and jungle artist based in United Kingdom, with 3
 
 ## Recently played
 
+- Complejo Embrujo, South · Sat, 3 Oct 2026
 - Suburbia, South-east · Fri, 25 Sept 2026
 - 24 Kitchen Street, Liverpool · Fri, 11 Sept 2026
 - XOYO, London · Sat, 29 Aug 2026
@@ -20,10 +21,9 @@ Serial Killaz is a drum & bass and jungle artist based in United Kingdom, with 3
 - Brixton Jamm, London · Sun, 24 May 2026
 - The Clock Factory, Bristol · Sat, 2 May 2026
 - Oslo Hackney, London · Sat, 7 Mar 2026
-- Audio, Glasgow · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Deekline, Benny Page, Killa P
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serialkillaz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serialkillaz/)*

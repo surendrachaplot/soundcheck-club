@@ -1,6 +1,6 @@
 # echofarmer
 
-echofarmer is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cinetol, Amsterdam on Thu, 22 Oct 2026.
+echofarmer is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cinetol, Amsterdam on Thu, 22 Oct 2026.
 
 echofarmer is an electronic artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Lisbon and 2 more. Often billed alongside Niels Orens, Rival Consoles and Aroh. Next up: Cinetol, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ echofarmer is an electronic artist based in Belgium, with 8 gigs on soundcheck a
 
 Niels Orens, Rival Consoles, Aroh
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echofarmer/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echofarmer/)*

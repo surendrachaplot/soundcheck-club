@@ -1,6 +1,6 @@
 # A.M. Project
 
-A.M. Project is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+A.M. Project is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 A.M. Project is a house and electronica artist, with 72 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ A.M. Project is a house and electronica artist, with 72 gigs on soundcheck acros
 
 Samuel Deep, AZAAD, DJ Senc
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*

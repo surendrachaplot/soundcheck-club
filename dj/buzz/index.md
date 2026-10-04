@@ -1,6 +1,6 @@
 # Buzz
 
-Buzz is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+Buzz is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
 
 Buzz is a psytrance and techno artist based in Italy, with 9 gigs on soundcheck across Osaka, Tokyo and Vienna. Often billed alongside C!AO, YUKI (JP) and YUKI.T. Next up: 南港三角公園, Osaka on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Buzz is a psytrance and techno artist based in Italy, with 9 gigs on soundcheck 
 
 ## Recently played
 
+- 南港三角公園, Osaka · Sat, 3 Oct 2026
 - Shibuya Club Ball, Tokyo · Fri, 17 Jul 2026
 - The Loft, Vienna · Fri, 15 May 2026
 - DAM / DAM, Vienna · Fri, 25 Jul 2025
@@ -19,10 +20,9 @@ Buzz is a psytrance and techno artist based in Italy, with 9 gigs on soundcheck 
 - or, Tokyo · Fri, 1 Mar 2024
 - Joule, Osaka · Sat, 9 Dec 2023
 - Club Under, Osaka · Sat, 28 Oct 2023
-- clubasia, Tokyo · Fri, 18 Aug 2023
 
 ## Shares bills with
 
 C!AO, YUKI (JP), YUKI.T
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzz/)*

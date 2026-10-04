@@ -1,20 +1,20 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
+Ottoman Grüw is a EBM and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chitei 地底, Tokyo on Sun, 4 Oct 2026.
 
-Ottoman Grüw is an ebm and techno artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Traffic, Tokyo on Sat 3 Oct.
+Ottoman Grüw is an ebm and techno artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Chitei 地底, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Traffic | Tokyo |
 | Sun, 4 Oct 2026 | Chitei 地底 | Tokyo |
 | Fri, 23 Oct 2026 | 宀 Club | Hong Kong |
 | Sat, 31 Oct 2026 | Beursschouwburg | Brussels |
 
 ## Recently played
 
+- Traffic, Tokyo · Sat, 3 Oct 2026
 - Volnost, Seoul · Fri, 25 Sept 2026
 - Madame Moustache, Brussels · Thu, 3 Sept 2026
 - arkaoda Berlin, Berlin · Thu, 21 May 2026
@@ -22,10 +22,9 @@ Ottoman Grüw is an ebm and techno artist, with 60 gigs on soundcheck across Ams
 - GIMIC, Brussels · Thu, 7 May 2026
 - Bodies in Space, Brussels · Sun, 5 Apr 2026
 - Bodies in Space, Brussels · Sat, 4 Apr 2026
-- Magasin 4, Brussels · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

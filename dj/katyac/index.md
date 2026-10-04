@@ -1,6 +1,6 @@
 # Katya C
 
-Katya C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Boston, Boston on Fri, 23 Oct 2026.
+Katya C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Boston, Boston on Fri, 23 Oct 2026.
 
 Katya C is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Boston and New York City. Often billed alongside Chaouki Alba, cutwoes and CAMILLA. Next up: TBA - Boston, Boston on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Katya C is a house and techno artist based in United States of America, with 31 
 
 Chaouki Alba, cutwoes, CAMILLA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyac/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyac/)*

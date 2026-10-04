@@ -1,6 +1,6 @@
 # Habikat
 
-Habikat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Habikat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Habikat is a house and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Maria Theresia von Eberg, Admo and Anjin. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Habikat is a house and tech house artist based in Germany, with 7 gigs on soundc
 
 Maria Theresia von Eberg, Admo, Anjin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habikat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habikat/)*

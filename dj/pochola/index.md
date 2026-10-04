@@ -1,6 +1,6 @@
 # Pochola
 
-Pochola is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Fri, 23 Oct 2026.
+Pochola is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Fri, 23 Oct 2026.
 
 Pochola is a club and electronica artist based in Mexico, with 14 gigs on soundcheck across Berlin, London and San Francisco/Oakland. Often billed alongside Mobilegirl, Nico Adomako and Suutoo. Next up: M.O.T, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pochola is a club and electronica artist based in Mexico, with 14 gigs on soundc
 
 Mobilegirl, Nico Adomako, Suutoo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*

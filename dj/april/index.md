@@ -1,6 +1,6 @@
 # April
 
-April is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
+April is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
 
 April is a techno and house artist, with 8 gigs on soundcheck across Bangkok, London, Melbourne and Thailand. Often billed alongside DJ Casper, DJ Nobita and Liem (TH). Next up: Deep Green, Thailand on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ April is a techno and house artist, with 8 gigs on soundcheck across Bangkok, Lo
 
 DJ Casper, DJ Nobita, Liem (TH)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/april/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/april/)*

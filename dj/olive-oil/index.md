@@ -1,6 +1,6 @@
 # Olive Oil
 
-Olive Oil is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Olive Oil is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
 Olive Oil is a hip-hop and house artist, with 6 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside DJ Quietstorm, Baku and DJ FUMI. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Olive Oil is a hip-hop and house artist, with 6 gigs on soundcheck across Kyushu
 
 DJ Quietstorm, Baku, DJ FUMI
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olive-oil/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olive-oil/)*

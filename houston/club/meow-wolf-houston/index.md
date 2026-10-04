@@ -1,6 +1,6 @@
 # Meow Wolf Houston
 
-Meow Wolf Houston is a music venue in Houston with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Calcium" on Fri, 9 Oct 2026.
+Meow Wolf Houston is a music venue in Houston with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Calcium" on Fri, 9 Oct 2026.
 
 Meow Wolf Houston is a music venue in Houston listed on soundcheck. 4 upcoming gigs, with line-ups including Baauer. See dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
 
@@ -17,4 +17,4 @@ Meow Wolf Houston is a music venue in Houston listed on soundcheck. 4 upcoming g
 
 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA, Houston
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*

@@ -1,6 +1,6 @@
 # d.phylleia
 
-d.phylleia is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ormside Projects, London on Sat, 31 Oct 2026.
+d.phylleia is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ormside Projects, London on Sat, 31 Oct 2026.
 
 d.phylleia is an electro and techno artist based in United Kingdom, with 22 gigs on soundcheck across Glasgow, Hamburg, Leeds and London and 1 more. Often billed alongside Jerome Hill, Practical and April (UK). Next up: Ormside Projects, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ d.phylleia is an electro and techno artist based in United Kingdom, with 22 gigs
 
 Jerome Hill, Practical, April (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dphylleia/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dphylleia/)*

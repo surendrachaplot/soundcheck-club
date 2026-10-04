@@ -1,6 +1,6 @@
 # Josef Khan
 
-Josef Khan is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
+Josef Khan is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
 
 Josef Khan is a bass and uk funky artist, with 6 gigs on soundcheck across Leeds. Often billed alongside CARMICHAEL, DJ LUMBRIDGE and Esdaile. Next up: Headrow House, Leeds on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Josef Khan is a bass and uk funky artist, with 6 gigs on soundcheck across Leeds
 
 CARMICHAEL, DJ LUMBRIDGE, Esdaile
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefkhan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefkhan/)*

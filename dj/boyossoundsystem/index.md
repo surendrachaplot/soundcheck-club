@@ -1,6 +1,6 @@
 # Boyos Soundsystem
 
-Boyos Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
+Boyos Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
 
 Boyos Soundsystem is a house and disco artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam. Often billed alongside da Graca Brothers, Emma Champagne Queen and AIS De La Montagne. Next up: Toekomstmuziek, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Boyos Soundsystem is a house and disco artist based in Netherlands, with 25 gigs
 
 da Graca Brothers, Emma Champagne Queen, AIS De La Montagne
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyossoundsystem/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyossoundsystem/)*

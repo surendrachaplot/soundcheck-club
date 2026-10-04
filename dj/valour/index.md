@@ -1,6 +1,6 @@
 # VALOUR
 
-VALOUR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
+VALOUR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
 
 VALOUR is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Dan Mlinar, CHOOSE WHITE and Mlinar. Next up: MH5 Rooftop, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ VALOUR is a techno and house artist based in Germany, with 40 gigs on soundcheck
 
 Dan Mlinar, CHOOSE WHITE, Mlinar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*

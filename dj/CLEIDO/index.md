@@ -1,6 +1,6 @@
 # CLEIDO
 
-CLEIDO is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
+CLEIDO is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
 
 CLEIDO is an afro house and deep house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Ibiza, London and Paris. Often billed alongside DJEFF, Dillan Desai and Nicky Summers. Next up: Bread and Butter, London on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ CLEIDO is an afro house and deep house artist based in United Kingdom, with 56 g
 
 DJEFF, Dillan Desai, Nicky Summers
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CLEIDO/)*

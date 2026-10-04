@@ -1,6 +1,6 @@
 # The Jakob Sister
 
-The Jakob Sister is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Blue Velvet, Berlin on Sun, 4 Oct 2026.
+The Jakob Sister is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Blue Velvet, Berlin on Sun, 4 Oct 2026.
 
 The Jakob Sister is a trance and techno artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 18 more. Often billed alongside Sabu!, RaverPik and Blame the Booker. Next up: Blue Velvet, Berlin on Sun 4 Oct.
 
@@ -30,4 +30,4 @@ The Jakob Sister is a trance and techno artist based in Germany, with 108 gigs o
 
 Sabu!, RaverPik, Blame the Booker
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejakobsister/)*

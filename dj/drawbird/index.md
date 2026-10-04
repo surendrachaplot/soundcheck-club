@@ -1,6 +1,6 @@
 # Drawbird
 
-Drawbird is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - The Lumberyard, Seattle on Sat, 17 Oct 2026.
+Drawbird is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - The Lumberyard, Seattle on Sat, 17 Oct 2026.
 
 Drawbird is a tech house and garage artist, with 20 gigs on soundcheck across Osaka, Seattle and Tokyo. Often billed alongside Ramiro, Mark Hardy and Ramiro Uniting Souls. Next up: TBA - The Lumberyard, Seattle on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Drawbird is a tech house and garage artist, with 20 gigs on soundcheck across Os
 
 Ramiro, Mark Hardy, Ramiro Uniting Souls
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbird/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbird/)*

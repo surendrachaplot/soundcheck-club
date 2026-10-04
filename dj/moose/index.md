@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
+Moose is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hootananny Brixton, London on Sat, 3 Oct 2026.
 
 Moose is a drum & bass and jungle artist based in Netherlands, with 51 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Jumping Jack Frost, Funsta and Bryan Gee. Next up: Hootananny Brixton, London on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Moose is a drum & bass and jungle artist based in Netherlands, with 51 gigs on s
 
 ## Recently played
 
+- Hootananny Brixton, London · Sat, 3 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
@@ -20,10 +21,9 @@ Moose is a drum & bass and jungle artist based in Netherlands, with 51 gigs on s
 - Riverside East, London · Sat, 15 Aug 2026
 - XOYO, London · Sat, 25 Jul 2026
 - The Cause, London · Sun, 14 Jun 2026
-- fabric, London · Sat, 30 May 2026
 
 ## Shares bills with
 
 Jumping Jack Frost, Funsta, Bryan Gee
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

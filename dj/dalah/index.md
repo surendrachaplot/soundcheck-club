@@ -1,6 +1,6 @@
 # DALAH
 
-DALAH is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
+DALAH is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
 
 DALAH is an afro house and techno artist based in Thailand, with 11 gigs on soundcheck across Bangkok, Barcelona and Indonesia. Often billed alongside neBilA deussaL, Aracil and CL1NK. Next up: Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DALAH is an afro house and techno artist based in Thailand, with 11 gigs on soun
 
 neBilA deussaL, Aracil, CL1NK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalah/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalah/)*

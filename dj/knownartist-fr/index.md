@@ -1,6 +1,6 @@
 # KnownArtist
 
-KnownArtist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
+KnownArtist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 16 Oct 2026.
 
 KnownArtist is a house and techno artist based in France, with 40 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 20 more. Often billed alongside Bérou, DJ Botermelk and Deborah Aime La Bagarre. Next up: Drugstore Beograd, Belgrade on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KnownArtist is a house and techno artist based in France, with 40 gigs on soundc
 
 Bérou, DJ Botermelk, Deborah Aime La Bagarre
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist-fr/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knownartist-fr/)*

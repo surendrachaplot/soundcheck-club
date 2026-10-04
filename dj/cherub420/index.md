@@ -1,6 +1,6 @@
 # Cherub420
 
-Cherub420 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
+Cherub420 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
 
 Cherub420 is a techno and club artist, with 23 gigs on soundcheck across California and San Francisco/Oakland. Often billed alongside 9-System, AGROPOL and DJ Saratonin. Next up: TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cherub420 is a techno and club artist, with 23 gigs on soundcheck across Califor
 
 9-System, AGROPOL, DJ Saratonin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherub420/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherub420/)*

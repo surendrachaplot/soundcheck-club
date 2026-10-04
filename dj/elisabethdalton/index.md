@@ -1,6 +1,6 @@
 # Lis Dalton
 
-Lis Dalton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The New Hot Mass, Pittsburgh on Sat, 10 Oct 2026.
+Lis Dalton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The New Hot Mass, Pittsburgh on Sat, 10 Oct 2026.
 
 Lis Dalton is a techno and house artist, with 71 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 2 more. Often billed alongside Lia Plutonic, Pascale Project and Liv K. Next up: The New Hot Mass, Pittsburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lis Dalton is a techno and house artist, with 71 gigs on soundcheck across Chica
 
 Lia Plutonic, Pascale Project, Liv K
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabethdalton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabethdalton/)*

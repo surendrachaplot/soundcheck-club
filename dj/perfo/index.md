@@ -1,6 +1,6 @@
 # Perfo
 
-Perfo is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
+Perfo is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
 
 Perfo is a techno and ambient artist based in France, with 20 gigs on soundcheck across Belgrade, Berlin, Cologne and Munich and 7 more. Often billed alongside Amotik, André Galluzzi and Anika Kunst. Next up: Ikii, Berlin on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Perfo is a techno and ambient artist based in France, with 20 gigs on soundcheck
 
 Amotik, André Galluzzi, Anika Kunst
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perfo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perfo/)*

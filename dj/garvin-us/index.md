@@ -1,6 +1,6 @@
 # Garvin
 
-Garvin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
+Garvin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
 
 Garvin is a house and tech house artist, with 10 gigs on soundcheck across Miami and Philadelphia. Often billed alongside J. Park, Lousy Lover and Oscar N (US). Next up: The Barbary, Philadelphia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Garvin is a house and tech house artist, with 10 gigs on soundcheck across Miami
 
 J. Park, Lousy Lover, Oscar N (US)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garvin-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garvin-us/)*

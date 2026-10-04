@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "World League with Kevin de Vries" on Fri, 6 Nov 2026.
+Pacha is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "World League with Kevin de Vries" on Fri, 6 Nov 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Kevin de Vries and Sven Vath. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -15,4 +15,4 @@ Pacha is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

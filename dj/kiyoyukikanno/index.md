@@ -1,6 +1,6 @@
 # Kiyoyuki Kanno
 
-Kiyoyuki Kanno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 9 Oct 2026.
+Kiyoyuki Kanno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 9 Oct 2026.
 
 Kiyoyuki Kanno is a techno and industrial artist based in Japan, with 19 gigs on soundcheck across Seoul and Tokyo. Often billed alongside marimari, Kaori Watt and Akiko Iwahara. Next up: Atdge Seoul, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kiyoyuki Kanno is a techno and industrial artist based in Japan, with 19 gigs on
 
 marimari, Kaori Watt, Akiko Iwahara
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoyukikanno/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoyukikanno/)*

@@ -1,6 +1,6 @@
 # Aline Rocha
 
-Aline Rocha is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Aline Rocha is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Aline Rocha is a house and disco artist based in Brazil, with 55 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Copenhagen and 14 more. Often billed alongside The Shapeshifters, Melvo Baptiste and Dan Shake. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Aline Rocha is a house and disco artist based in Brazil, with 55 gigs on soundch
 
 The Shapeshifters, Melvo Baptiste, Dan Shake
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*

@@ -1,6 +1,6 @@
 # mausam
 
-mausam is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
+mausam is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
 
 mausam is a club and house artist, with 14 gigs on soundcheck across New York City and Washington DC. Often billed alongside Chris Waldt, Ghozt (NYC) and Nishévitha. Next up: Trans-Pecos, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ mausam is a club and house artist, with 14 gigs on soundcheck across New York Ci
 
 Chris Waldt, Ghozt (NYC), Nishévitha
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mausam/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mausam/)*

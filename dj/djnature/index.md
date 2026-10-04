@@ -1,6 +1,6 @@
 # DJ Nature
 
-DJ Nature is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
+DJ Nature is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
 
 DJ Nature is a house and club artist based in United Kingdom, with 10 gigs on soundcheck across Barcelona, Bristol, Kyoto and Lisbon and 2 more. Often billed alongside DJ Nori, oriön (JP) and Alex From Tokyo. Next up: Omeara, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Nature is a house and club artist based in United Kingdom, with 10 gigs on so
 
 DJ Nori, oriön (JP), Alex From Tokyo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnature/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnature/)*

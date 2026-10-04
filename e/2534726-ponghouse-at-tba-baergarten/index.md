@@ -1,6 +1,6 @@
 # PONGHOUSE at TBA - Baergarten
 
-PONGHOUSE at TBA - Baergarten on Sun 11 Oct, Berlin. 1 artist: Hanebüchener. House and Minimal. See the line-up on soundcheck.
+PONGHOUSE at TBA - Baergarten on Sun 11 Oct, Berlin. 2 artists: Janosch Ulm and Livaton. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PONGHOUSE at TBA - Baergarten on Sun 11 Oct, Berlin. 1 artist: Hanebüchener. Ho
 
 ## Line-up
 
-- Hanebüchener
+- Janosch Ulm
+- Livaton
 
 *Source: [soundcheck](https://soundcheck.club/e/2534726-ponghouse-at-tba-baergarten/)*

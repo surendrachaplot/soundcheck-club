@@ -1,14 +1,13 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "PEEL Community Gathering" on Sat, 3 Oct 2026.
+Waterhouse Studios is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "For The Rhythm presents: Fort Riddim Vol. 1" on Sat, 10 Oct 2026.
 
-Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Acopo, After Affair, Alex Pi and André Galluzzi and 2 more. See dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
+Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Acopo, After Affair, Alex Pi and André Galluzzi and 2 more. See dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PEEL Community Gathering | Encomio, Kaikaina, Terrakin, Uksimo |
 | Sat, 10 Oct 2026 | For The Rhythm presents: Fort Riddim Vol. 1 | BOOGIE96, Gibbo, Manscream |
 | Thu, 22 Oct 2026 | EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ | GEE LEE, Pijus, Shaolin Cowboy, Target Demographic, upper class, ysheso__ |
 | Fri, 23 Oct 2026 | ADE of LOVE: Love Foundation X CoSy Festival - Iorie (workshop + live), Soso Klein & many more | Iorie, Oli Neate, Robert Romain, SOWL.XYZ, Soso Klein |
@@ -22,4 +21,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 9 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

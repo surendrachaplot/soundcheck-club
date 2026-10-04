@@ -1,6 +1,6 @@
 # Simonlebon
 
-Simonlebon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
+Simonlebon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soulkitchen Vienna, Vienna on Fri, 16 Oct 2026.
 
 Simonlebon is a house and disco artist, with 14 gigs on soundcheck across Berlin and Vienna. Often billed alongside Jakobin & Domino, LeSale and Lee Stevens. Next up: Soulkitchen Vienna, Vienna on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Simonlebon is a house and disco artist, with 14 gigs on soundcheck across Berlin
 
 Jakobin & Domino, LeSale, Lee Stevens
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonlebon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonlebon/)*

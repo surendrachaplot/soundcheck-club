@@ -1,6 +1,6 @@
 # Caín Lima
 
-Caín Lima is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
+Caín Lima is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
 
 Caín Lima is a techno and club artist based in Peru, with 10 gigs on soundcheck across New York City. Often billed alongside DJ DEADNAME, thembow and ANNA PURA. Next up: Paragon, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Caín Lima is a techno and club artist based in Peru, with 10 gigs on soundcheck
 
 DJ DEADNAME, thembow, ANNA PURA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caínlima/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caínlima/)*

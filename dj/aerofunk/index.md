@@ -1,6 +1,6 @@
 # Aerofunk
 
-Aerofunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 17 Oct 2026.
+Aerofunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 17 Oct 2026.
 
 Aerofunk is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Bristol, Leeds, Lisbon and Liverpool and 2 more. Often billed alongside Dig This, 4D (UK) and DMC.. Next up: Starlane Pizza Bar, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aerofunk is a house and techno artist based in United Kingdom, with 38 gigs on s
 
 Dig This, 4D (UK), DMC.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*

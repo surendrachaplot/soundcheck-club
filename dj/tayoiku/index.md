@@ -1,6 +1,6 @@
 # Tayo Iku
 
-Tayo Iku is a Dancehall and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Setlist @ Somerset House, London on Sat, 3 Oct 2026.
+Tayo Iku is a Dancehall and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Setlist @ Somerset House, London on Sat, 3 Oct 2026.
 
 Tayo Iku is a dancehall and afrobeat artist based in United Kingdom, with 6 gigs on soundcheck across London and Tallinn. Often billed alongside Donnie Sunshine, Fiyahdred and Lil C. Next up: Setlist @ Somerset House, London on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Tayo Iku is a dancehall and afrobeat artist based in United Kingdom, with 6 gigs
 
 ## Recently played
 
+- Setlist @ Somerset House, London · Sat, 3 Oct 2026
 - Queen Elizabeth Olympic Park, London · Sat, 22 Aug 2026
 - Queen Elizabeth Olympic Park, London · Sat, 22 Aug 2026
 - Club Privé, Tallinn · Fri, 11 Apr 2025
@@ -22,4 +23,4 @@ Tayo Iku is a dancehall and afrobeat artist based in United Kingdom, with 6 gigs
 
 Donnie Sunshine, Fiyahdred, Lil C
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tayoiku/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tayoiku/)*

@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
 
 DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: Hare & Hounds, Birmingham on Sat 3 Oct.
 
@@ -17,6 +17,7 @@ DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 115 g
 
 ## Recently played
 
+- Hare & Hounds, Birmingham · Sat, 3 Oct 2026
 - Stereo, Glasgow · Sat, 26 Sept 2026
 - The Jazz Cafe, London · Fri, 25 Sept 2026
 - The Carpet Shop, London · Sun, 20 Sept 2026
@@ -24,10 +25,9 @@ DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 115 g
 - The Jam Jar, Bristol · Sun, 30 Aug 2026
 - The Cause, London · Sat, 22 Aug 2026
 - The Prospect Building, Bristol · Sat, 8 Aug 2026
-- Hidden, Manchester · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Mantra, SP:MC, MC GQ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

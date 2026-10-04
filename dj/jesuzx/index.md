@@ -1,6 +1,6 @@
 # JESUZ X
 
-JESUZ X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+JESUZ X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
 JESUZ X is a techno and house artist, with 15 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 10 more. Often billed alongside Clementaum, NSPERGER and Ne/Re/A. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JESUZ X is a techno and house artist, with 15 gigs on soundcheck across Barcelon
 
 Clementaum, NSPERGER, Ne/Re/A
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesuzx/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesuzx/)*

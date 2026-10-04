@@ -1,6 +1,6 @@
 # Sakro
 
-Sakro is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fünk, Mexico City on Thu, 8 Oct 2026.
+Sakro is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fünk, Mexico City on Thu, 8 Oct 2026.
 
 Sakro is a house and minimal artist based in Mexico, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 9 more. Often billed alongside Mejia, Miguel Puente and Ray Okpara. Next up: Fünk, Mexico City on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Sakro is a house and minimal artist based in Mexico, with 39 gigs on soundcheck 
 
 Mejia, Miguel Puente, Ray Okpara
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*

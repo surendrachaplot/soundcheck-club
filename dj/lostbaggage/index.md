@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
+lostbaggage is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Wed, 7 Oct 2026.
 
 lostbaggage is a house and techno artist based in Japan, with 163 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: Forestlimit, Tokyo on Wed 7 Oct.
 
@@ -29,4 +29,4 @@ lostbaggage is a house and techno artist based in Japan, with 163 gigs on soundc
 
 YELLOWUHURU, arow, AKIRAM EN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

@@ -1,6 +1,6 @@
 # ALTRAX
 
-ALTRAX is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 17 Oct 2026.
+ALTRAX is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 17 Oct 2026.
 
 ALTRAX is a hardcore and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside Hysteria, BreakStyle and CUTIE. Next up: DETROIT CLUB, Barcelona on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ ALTRAX is a hardcore and techno artist based in Spain, with 8 gigs on soundcheck
 
 Hysteria, BreakStyle, CUTIE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altrax/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altrax/)*

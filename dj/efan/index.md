@@ -1,6 +1,6 @@
 # Efan
 
-Efan is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
+Efan is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
 
 Efan is a garage and bass artist based in United Kingdom, with 54 gigs on soundcheck across Aberdeen, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Jackum, Bushbaby and Anaïs. Next up: Bricks, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Efan is a garage and bass artist based in United Kingdom, with 54 gigs on soundc
 
 Jackum, Bushbaby, Anaïs
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efan/)*

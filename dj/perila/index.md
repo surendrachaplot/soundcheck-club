@@ -1,6 +1,6 @@
 # Perila
 
-Perila is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fuerst Wiacek, Berlin on Wed, 18 Nov 2026.
+Perila is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuerst Wiacek, Berlin on Wed, 18 Nov 2026.
 
 Perila is an ambient and experimental artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Ulla, DjRUM and upsammy. Next up: Fuerst Wiacek, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Perila is an ambient and experimental artist based in Germany, with 50 gigs on s
 
 Ulla, DjRUM, upsammy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perila/)*

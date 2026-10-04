@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Unbound x Obscura presents: Redbatun & Luwck" on Sat, 3 Oct 2026.
+Room 2 Glasgow is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Unbound x Obscura presents: Redbatun & Luwck" on Sat, 3 Oct 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 6EJOU, Girls of the Internet, Jalo and KIRSTY and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 11 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

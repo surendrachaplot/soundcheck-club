@@ -1,6 +1,6 @@
 # 2garlics
 
-2garlics is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cadavra, Madrid on Sat, 28 Nov 2026.
+2garlics is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cadavra, Madrid on Sat, 28 Nov 2026.
 
 2garlics is a house and electronica artist based in Spain, with 15 gigs on soundcheck across Madrid. Often billed alongside Kimho, Cesc (ES) and Avo (ES). Next up: Cadavra, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@
 
 Kimho, Cesc (ES), Avo (ES)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2garlics/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2garlics/)*

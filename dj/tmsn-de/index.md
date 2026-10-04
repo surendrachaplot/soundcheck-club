@@ -1,6 +1,6 @@
 # TMSN
 
-TMSN is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
+TMSN is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
 
 TMSN is a garage and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin and Stockholm. Often billed alongside Ben Mono, Xamount and Dub Isotope. Next up: Paloma, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TMSN is a garage and house artist based in Germany, with 34 gigs on soundcheck a
 
 Ben Mono, Xamount, Dub Isotope
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmsn-de/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmsn-de/)*

@@ -1,6 +1,6 @@
 # HØLEIGH
 
-HØLEIGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+HØLEIGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
 
 HØLEIGH is a techno and trance artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 16 more. Often billed alongside colell, AISHA and Azyr. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ HØLEIGH is a techno and trance artist, with 60 gigs on soundcheck across Amster
 
 colell, AISHA, Azyr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holeigh/)*

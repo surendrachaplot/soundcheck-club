@@ -1,6 +1,6 @@
 # Vitaly
 
-Vitaly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Vitaly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Vitaly is a house and tech house artist based in Germany, with 6 gigs on soundcheck across Berlin and Zurich. Often billed alongside Steve Challier, Esther Silex and Marco Resmann. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Vitaly is a house and tech house artist based in Germany, with 6 gigs on soundch
 
 Steve Challier, Esther Silex, Marco Resmann
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaly/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaly/)*

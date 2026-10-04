@@ -1,6 +1,6 @@
 # MMXXI
 
-MMXXI is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
+MMXXI is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
 
 MMXXI is a drum & bass and bass artist, with 6 gigs on soundcheck across Toronto. Often billed alongside Ms. GothicFish, 999ADJ and Ard1n. Next up: TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ MMXXI is a drum & bass and bass artist, with 6 gigs on soundcheck across Toronto
 
 Ms. GothicFish, 999ADJ, Ard1n
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmxxi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmxxi/)*

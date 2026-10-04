@@ -1,6 +1,6 @@
 # saHHar
 
-saHHar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
+saHHar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
 
 saHHar is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin, Brussels, Munich and New York City and 1 more. Often billed alongside Omar.D, Al Aslan and Meriem S. Next up: Gretchen, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ saHHar is a techno and house artist based in Germany, with 46 gigs on soundcheck
 
 Omar.D, Al Aslan, Meriem S
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*

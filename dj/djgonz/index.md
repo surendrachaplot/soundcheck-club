@@ -1,6 +1,6 @@
 # DJ Gonz
 
-DJ Gonz is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
+DJ Gonz is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
 
 DJ Gonz is a techno and experimental artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Düsseldorf and 5 more. Often billed alongside Conrad Pack, John T. Gast and Angel Steele. Next up: M.O.T, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Gonz is a techno and experimental artist based in United Kingdom, with 34 gig
 
 Conrad Pack, John T. Gast, Angel Steele
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*

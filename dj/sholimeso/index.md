@@ -1,6 +1,6 @@
 # Sholim Eso
 
-Sholim Eso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Sholim Eso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Sholim Eso is a techno and house artist based in Montenegro, with 30 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sholim Eso is a techno and house artist based in Montenegro, with 30 gigs on sou
 
 Fawks, Jumpr, likeholywine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sholimeso/)*

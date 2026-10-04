@@ -1,6 +1,6 @@
 # Florentino
 
-Florentino is a Reggaeton and Latin Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stereo, Glasgow on Fri, 16 Oct 2026.
+Florentino is a Reggaeton and Latin Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stereo, Glasgow on Fri, 16 Oct 2026.
 
 Florentino is a reggaeton and latin bass artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Manuka Honey, Dengue Dengue Dengue and Safety Trance. Next up: Stereo, Glasgow on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Florentino is a reggaeton and latin bass artist based in United Kingdom, with 81
 
 Manuka Honey, Dengue Dengue Dengue, Safety Trance
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*

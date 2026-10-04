@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "DJ Spinn, BMLé BMLé, Tempest" on Sat, 3 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DJ Spinn, BMLé BMLé, Tempest" on Sat, 3 Oct 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

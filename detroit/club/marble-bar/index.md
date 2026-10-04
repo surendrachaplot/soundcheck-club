@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Marble Bar 11 Year Anniversary" on Sat, 3 Oct 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Marble Bar 11 Year Anniversary" on Sat, 3 Oct 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including A Guy Called Gerald, Black Rave Culture, BRALLE and Craze and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -21,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

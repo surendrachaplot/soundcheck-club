@@ -1,6 +1,6 @@
 # Wraz
 
-Wraz is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
+Wraz is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
 
 Wraz is a dubstep and drum & bass artist based in Canada, with 7 gigs on soundcheck across Detroit, Los Angeles, Montreal and San Francisco/Oakland and 1 more. Often billed alongside Hypho, ANDROMEDA and Darkstar. Next up: Sainte-Catherine Hall, Montreal on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Wraz is a dubstep and drum & bass artist based in Canada, with 7 gigs on soundch
 
 Hypho, ANDROMEDA, Darkstar
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wraz-ca/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wraz-ca/)*

@@ -1,6 +1,6 @@
 # Jimmy Allen
 
-Jimmy Allen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Leith Arches, Edinburgh on Fri, 9 Oct 2026.
+Jimmy Allen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Leith Arches, Edinburgh on Fri, 9 Oct 2026.
 
 Jimmy Allen is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh, Lisbon, Liverpool and Manchester and 1 more. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: Leith Arches, Edinburgh on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jimmy Allen is a house and disco artist based in United Kingdom, with 24 gigs on
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*

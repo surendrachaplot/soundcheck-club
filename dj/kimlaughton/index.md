@@ -1,6 +1,6 @@
 # Kim Laughton
 
-Kim Laughton is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Kim Laughton is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Kim Laughton is a techno and experimental artist based in Japan, with 18 gigs on soundcheck across Bangkok, London, Manchester and Tokyo. Often billed alongside Tzusing, MOUTH and PRETTYBWOY. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kim Laughton is a techno and experimental artist based in Japan, with 18 gigs on
 
 Tzusing, MOUTH, PRETTYBWOY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*

@@ -1,6 +1,6 @@
 # EUREKA
 
-EUREKA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at West Harlem, Kyoto on Mon, 5 Oct 2026.
+EUREKA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at West Harlem, Kyoto on Mon, 5 Oct 2026.
 
 EUREKA is a house and disco artist based in Japan, with 95 gigs on soundcheck across Kyoto, New York City, Osaka and Tokyo. Often billed alongside SOTA, Kross Section and KOTSU. Next up: West Harlem, Kyoto on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ EUREKA is a house and disco artist based in Japan, with 95 gigs on soundcheck ac
 
 SOTA, Kross Section, KOTSU
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*

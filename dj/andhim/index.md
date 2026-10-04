@@ -1,6 +1,6 @@
 # Andhim
 
-Andhim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
+Andhim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
 
 Andhim is a house and techno artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Frankhan Selectist, Istanbul on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Andhim is a house and techno artist based in Germany, with 118 gigs on soundchec
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Sat, 3 Oct 2026
 - Seehaus Hamburg, Hamburg · Wed, 22 Jul 2026
 - Chinois Ibiza, Ibiza · Sat, 11 Jul 2026
 - Fridas Pier, Stuttgart · Sat, 13 Jun 2026
@@ -23,10 +24,9 @@ Andhim is a house and techno artist based in Germany, with 118 gigs on soundchec
 - Tuinen van West, Amsterdam · Sat, 23 May 2026
 - 77, London · Fri, 22 May 2026
 - Gewölbe, Cologne · Fri, 1 May 2026
-- Brooklyn Storehouse, New York City · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Space of Sound with Hot Since 82, Crusy" on Sat, 3 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Space of Sound with Hot Since 82, Crusy" on Sat, 3 Oct 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Beyer, Claptone, Crusy and Djammin and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, w
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

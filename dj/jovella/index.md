@@ -1,6 +1,6 @@
 # Jovella
 
-Jovella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
+Jovella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
 Jovella is a techno and house artist, with 14 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside AMZEL, Anastasia Giovani and Lady Afrodisiac. Next up: Petco Park, San Diego on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Jovella is a techno and house artist, with 14 gigs on soundcheck across Los Ange
 
 AMZEL, Anastasia Giovani, Lady Afrodisiac
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovella/)*

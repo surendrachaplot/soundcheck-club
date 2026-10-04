@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
+S!RENE is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Altes Postlager, Rhineland-palatinate on Sat, 3 Oct 2026.
 
 S!RENE is a hip-hop and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 23 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: Altes Postlager, Rhineland Palatinate on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ S!RENE is a hip-hop and house artist based in Netherlands, with 64 gigs on sound
 
 ## Recently played
 
+- Altes Postlager, Rhineland-palatinate · Sat, 3 Oct 2026
 - BAR15, Stockholm · Fri, 25 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Rotterdam Centre, Rotterdam · Fri, 11 Sept 2026
@@ -20,10 +21,9 @@ S!RENE is a hip-hop and house artist based in Netherlands, with 64 gigs on sound
 - Night Tales Loft, London · Fri, 17 Jul 2026
 - BIRD, Rotterdam · Fri, 10 Jul 2026
 - Waterbom Bali, Bali · Sat, 4 Jul 2026
-- RASA, Singapore · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

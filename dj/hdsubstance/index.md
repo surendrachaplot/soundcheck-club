@@ -1,6 +1,6 @@
 # Hd Substance
 
-Hd Substance is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
+Hd Substance is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
 
 Hd Substance is a techno and club artist, with 24 gigs on soundcheck across Barcelona, Madrid and Porto. Often billed alongside Rabent, DVS1 and Javier Gantz. Next up: Lasociaciøn, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hd Substance is a techno and club artist, with 24 gigs on soundcheck across Barc
 
 Rabent, DVS1, Javier Gantz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdsubstance/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdsubstance/)*

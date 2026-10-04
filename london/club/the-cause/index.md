@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 30 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Labyrinth presents: Boys Noize ONES and ZEROS" on Sat, 3 Oct 2026.
+The Cause is a music venue in London with 30 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Labyrinth presents: Boys Noize ONES and ZEROS" on Sat, 3 Oct 2026.
 
 The Cause is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 30 upcoming gigs, wit
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

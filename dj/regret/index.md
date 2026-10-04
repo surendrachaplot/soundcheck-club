@@ -1,6 +1,6 @@
 # Rëgret
 
-Rëgret is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at clubasia, Tokyo on Sat, 7 Nov 2026.
+Rëgret is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at clubasia, Tokyo on Sat, 7 Nov 2026.
 
 Rëgret is a hardcore and gabber artist based in Japan, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside matres, kakepon and CH1LL. Next up: clubasia, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rëgret is a hardcore and gabber artist based in Japan, with 14 gigs on soundche
 
 matres, kakepon, CH1LL
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*

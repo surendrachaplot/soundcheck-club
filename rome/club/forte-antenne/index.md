@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. The next is "[NIGHT] Lost Boys at Forte Antenne - Season Closing" on Sat, 3 Oct 2026.
+Forte Antenne is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "[NIGHT] Lost Boys at Forte Antenne - Season Closing" on Sat, 3 Oct 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Brasi, Cinthie, Dante (H501) and Ferrari and 2 more. See dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -14,4 +14,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 1 upcoming gig, wit
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

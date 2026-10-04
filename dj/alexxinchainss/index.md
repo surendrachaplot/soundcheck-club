@@ -1,6 +1,6 @@
 # Alexx in Chainss
 
-Alexx in Chainss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Alexx in Chainss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Alexx in Chainss is a techno and acid artist based in United States of America, with 29 gigs on soundcheck across Los Angeles, Miami, New York City and Washington DC. Often billed alongside Sel.6, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alexx in Chainss is a techno and acid artist based in United States of America, 
 
 Sel.6, SATURNSARii, Berrakka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxinchainss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxinchainss/)*

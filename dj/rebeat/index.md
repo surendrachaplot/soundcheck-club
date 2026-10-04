@@ -1,6 +1,6 @@
 # Rebeat
 
-Rebeat is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Midnight Tokyo, Bali on Sat, 10 Oct 2026.
+Rebeat is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Midnight Tokyo, Bali on Sat, 10 Oct 2026.
 
 Rebeat is a tech house and techno artist based in Iran, with 7 gigs on soundcheck across Bali, Istanbul and Kuala Lumpur. Often billed alongside BugzB, Childplay and Eline (BE). Next up: Midnight Tokyo, Bali on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Rebeat is a tech house and techno artist based in Iran, with 7 gigs on soundchec
 
 BugzB, Childplay, Eline (BE)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeat/)*

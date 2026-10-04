@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Hacienda la Martina Popayán, Colombia on Sat, 3 Oct 2026.
+Fadi Mohem is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Hacienda la Martina Popayán, Colombia on Sat, 3 Oct 2026.
 
 Fadi Mohem is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: TBA - Hacienda la Martina Popayán, Colombia on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ Fadi Mohem is a techno and house artist based in Germany, with 234 gigs on sound
 
 ## Recently played
 
+- TBA - Hacienda la Martina Popayán, Colombia · Sat, 3 Oct 2026
 - TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Fadi Mohem is a techno and house artist based in Germany, with 234 gigs on sound
 - Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
 - RADION, Amsterdam · Sun, 2 Aug 2026
-- BLITZ, Munich · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, JakoJako
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

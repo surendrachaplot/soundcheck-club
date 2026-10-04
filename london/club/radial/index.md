@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Camhanaich ✹ Seasoning Family Birthday Fundraiser" on Sat, 3 Oct 2026.
+radial is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Camhanaich ✹ Seasoning Family Birthday Fundraiser" on Sat, 3 Oct 2026.
 
 radial is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Abby Daze and Ac1d Vicious and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 15 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

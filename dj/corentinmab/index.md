@@ -1,6 +1,6 @@
 # Corentin Mab
 
-Corentin Mab is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Warehouse, Nantes on Sat, 7 Nov 2026.
+Corentin Mab is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse, Nantes on Sat, 7 Nov 2026.
 
 Corentin Mab is an electro and house artist based in France, with 7 gigs on soundcheck across Nantes and Paris. Often billed alongside Dan Bono, Quentin Schneider and Afshin. Next up: Warehouse, Nantes on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Corentin Mab is an electro and house artist based in France, with 7 gigs on soun
 
 Dan Bono, Quentin Schneider, Afshin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corentinmab/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corentinmab/)*

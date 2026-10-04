@@ -1,18 +1,17 @@
 # Cafe OTO
 
-Cafe OTO is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Krautrock karaoke x life is beautiful (pt.3)" on Sat, 3 Oct 2026.
+Cafe OTO is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "AM: Flora Yin Wong & Jerzy Maczynski, Ibrahim Alfa Jnr, opo & Felix Taylor, Elijah Minnelli" on Fri, 6 Nov 2026.
 
-Cafe OTO is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Ben Vince, David Kennedy, Flora Yin-Wong and Guava and 2 more. See dates, start times and who's playing. 18-22 Ashwin Street, Dalston, London E8 3DL.
+Cafe OTO is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Flora Yin-Wong, Ibrahim Alfa, Jerzy Mączyński and Opoku. See dates, start times and who's playing. 18-22 Ashwin Street, Dalston, London E8 3DL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Krautrock karaoke x life is beautiful (pt.3) | Ben Vince, David Kennedy, Guava, James Massiah, Jin (TW), Kenichi Iwasa, Laila Sakini, Paul (1), Sean Being |
 | Fri, 6 Nov 2026 | AM: Flora Yin Wong & Jerzy Maczynski, Ibrahim Alfa Jnr, opo & Felix Taylor, Elijah Minnelli | Flora Yin-Wong, Ibrahim Alfa, Jerzy Mączyński, Opoku |
 
 ## Address
 
 18-22 Ashwin Street, Dalston, London E8 3DL, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-oto/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-oto/)*

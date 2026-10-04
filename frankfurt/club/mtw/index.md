@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "WE ARE ONE x MTW with Karamustan, Zapravka" on Sat, 7 Nov 2026.
+MTW is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "WE ARE ONE x MTW with Karamustan, Zapravka" on Sat, 7 Nov 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with line-ups including ANN-LUX, Artificial DNA, CiKi and co:co and 2 more. See dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -18,4 +18,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with li
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

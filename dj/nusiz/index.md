@@ -1,6 +1,6 @@
 # NUSIZ
 
-NUSIZ is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 9 Oct 2026.
+NUSIZ is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 9 Oct 2026.
 
 NUSIZ is a techno and minimal artist, with 21 gigs on soundcheck across Seoul. Often billed alongside Cy Nico, DJ SIN and Maetel. Next up: Atdge Seoul, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ NUSIZ is a techno and minimal artist, with 21 gigs on soundcheck across Seoul. O
 
 Cy Nico, DJ SIN, Maetel
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nusiz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nusiz/)*

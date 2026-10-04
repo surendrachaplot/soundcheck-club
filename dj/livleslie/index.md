@@ -1,6 +1,6 @@
 # Liv Leslie
 
-Liv Leslie is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
+Liv Leslie is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
 
 Liv Leslie is an electronica and minimal techno artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool. Often billed alongside Dj Streaks, Sakers and Aly P. Next up: Heebie Jeebies, Liverpool on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Liv Leslie is an electronica and minimal techno artist based in United Kingdom, 
 
 Dj Streaks, Sakers, Aly P
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livleslie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livleslie/)*

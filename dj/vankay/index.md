@@ -1,6 +1,6 @@
 # van Kay
 
-van Kay is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
+van Kay is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
 
 van Kay is a house and bass artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Baerbel, 7ommes and Carlo Bonanza. Next up: Bulbul Berlin, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ van Kay is a house and bass artist, with 7 gigs on soundcheck across Berlin. Oft
 
 Baerbel, 7ommes, Carlo Bonanza
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vankay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vankay/)*

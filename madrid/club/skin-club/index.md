@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "SKIN SALIVA: MAR + SAVE☨ME + Sora Éke" on Sat, 3 Oct 2026.
+Skin Club is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SKIN SALIVA: MAR + SAVE☨ME + Sora Éke" on Sat, 3 Oct 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and Ezekiel and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -22,4 +22,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

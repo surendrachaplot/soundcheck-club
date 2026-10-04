@@ -1,6 +1,6 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Knockdown Center, New York City on Sun, 4 Oct 2026.
+Axel Boman is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Knockdown Center, New York City on Sun, 4 Oct 2026.
 
 Axel Boman is a house and techno artist based in Sweden, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Knockdown Center, New York City on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Axel Boman is a house and techno artist based in Sweden, with 148 gigs on soundc
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

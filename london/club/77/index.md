@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 3 Oct 2026.
+77 is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 3 Oct 2026.
 
 77 is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including AfroKillerz, Alan Dixon, AliTR and Angela Rose and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

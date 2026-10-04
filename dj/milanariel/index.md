@@ -1,6 +1,6 @@
 # Milan Ariel
 
-Milan Ariel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Spkrbox, Detroit on Sat, 10 Oct 2026.
+Milan Ariel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Spkrbox, Detroit on Sat, 10 Oct 2026.
 
 Milan Ariel is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Denver and Detroit. Often billed alongside Sheefy McFly, Juan Atkins and Augustus Williams. Next up: Spkrbox, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Milan Ariel is a techno and house artist based in United States of America, with
 
 Sheefy McFly, Juan Atkins, Augustus Williams
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanariel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanariel/)*

@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 13 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "THE ESSENCE. Detroit Techno" on Fri, 2 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "THE ESSENCE. Detroit Techno" on Fri, 2 Oct 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 13 upcoming gigs, with line-ups including Chamelio 3000, Denno Matini, E-PUNK and Juan Del Chambo and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -23,4 +23,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 13 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

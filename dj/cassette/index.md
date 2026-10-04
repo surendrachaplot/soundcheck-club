@@ -1,6 +1,6 @@
 # Cassette
 
-Cassette is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Cassette is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Cassette is a house and deep house artist based in Australia, with 63 gigs on soundcheck across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ Cassette is a house and deep house artist based in Australia, with 63 gigs on so
 
 ## Recently played
 
+- TBA - 2.5 Hours from Sydney, Sydney · Sat, 3 Oct 2026
 - Spice Cellar, Sydney · Sat, 12 Sept 2026
 - TBA, Sydney · Sat, 22 Aug 2026
 - Factory Theatre, Sydney · Sat, 18 Jul 2026
@@ -20,10 +21,9 @@ Cassette is a house and deep house artist based in Australia, with 63 gigs on so
 - The Lucky Cat, Sydney · Sat, 30 May 2026
 - The Lucky Cat, Sydney · Sat, 30 May 2026
 - Carousel Bar & Ballroom, Sydney · Sat, 16 May 2026
-- Carousel Bar & Ballroom, Sydney · Sat, 16 May 2026
 
 ## Shares bills with
 
 Danni B, Ben Nott, Elijah Something
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*

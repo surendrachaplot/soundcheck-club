@@ -1,6 +1,6 @@
 # Peshay
 
-Peshay is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Peshay is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Peshay is a drum & bass artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Budapest and London. Often billed alongside Dillinja, Chris.SU and Goldie. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Peshay is a drum & bass artist based in United Kingdom, with 10 gigs on soundche
 
 Dillinja, Chris.SU, Goldie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peshay/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peshay/)*

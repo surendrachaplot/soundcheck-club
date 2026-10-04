@@ -1,6 +1,6 @@
 # ANKKH
 
-ANKKH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
+ANKKH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
 
 ANKKH is a techno and hardcore artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 7 more. Often billed alongside Dshock, ABYSS 369 and samJ. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ ANKKH is a techno and hardcore artist based in Italy, with 68 gigs on soundcheck
 
 Dshock, ABYSS 369, samJ
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*

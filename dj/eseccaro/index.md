@@ -1,6 +1,6 @@
 # Eseccaro
 
-Eseccaro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at EartH Kitchen, London on Fri, 9 Oct 2026.
+Eseccaro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EartH Kitchen, London on Fri, 9 Oct 2026.
 
 Eseccaro is a techno and trance artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside DJ LIL-E, Goddess II and 10:35. Next up: EartH Kitchen, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Eseccaro is a techno and trance artist based in United Kingdom, with 31 gigs on 
 
 DJ LIL-E, Goddess II, 10:35
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eseccaro/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eseccaro/)*

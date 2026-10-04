@@ -1,6 +1,6 @@
 # Layo & Bushwacka!
 
-Layo & Bushwacka! is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
+Layo & Bushwacka! is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
 
 Layo & Bushwacka! are a house and tech house duo based in United Kingdom, with 8 gigs on soundcheck across Ibiza, London and Madrid. Often billed alongside Paul Woolford, Acid Astrid and Alex Clap. Next up: 528 Ibiza, Ibiza on Tue 6 Oct.
 
@@ -24,4 +24,4 @@ Layo & Bushwacka! are a house and tech house duo based in United Kingdom, with 8
 
 Paul Woolford, Acid Astrid, Alex Clap
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/layoandbushwacka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/layoandbushwacka/)*

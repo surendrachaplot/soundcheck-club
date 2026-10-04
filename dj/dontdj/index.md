@@ -1,6 +1,6 @@
 # DON'T DJ
 
-DON'T DJ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
+DON'T DJ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Sat, 28 Nov 2026.
 
 DON'T DJ is a techno and experimental artist based in Germany, with 13 gigs on soundcheck across Barcelona, Berlin and Düsseldorf. Often billed alongside Anna Butter, Marc Matter and Inken. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DON'T DJ is a techno and experimental artist based in Germany, with 13 gigs on s
 
 Anna Butter, Marc Matter, Inken
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontdj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontdj/)*

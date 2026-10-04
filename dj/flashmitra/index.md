@@ -1,6 +1,6 @@
 # Flash Mitra
 
-Flash Mitra is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Secret London Location TBA, London on Fri, 23 Oct 2026.
+Flash Mitra is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Secret London Location TBA, London on Fri, 23 Oct 2026.
 
 Flash Mitra is an acid and house artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside Ellie Anderson, Torin Grady and Defunked. Next up: Secret London Location TBA, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Flash Mitra is an acid and house artist based in United Kingdom, with 46 gigs on
 
 Ellie Anderson, Torin Grady, Defunked
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmitra/)*

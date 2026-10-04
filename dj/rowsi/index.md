@@ -1,6 +1,6 @@
 # Rowsi
 
-Rowsi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+Rowsi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 Rowsi is a techno and trance artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside JOANNA COELHO, DIDIXX and Felinae. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rowsi is a techno and trance artist based in Spain, with 84 gigs on soundcheck a
 
 JOANNA COELHO, DIDIXX, Felinae
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*

@@ -1,6 +1,6 @@
 # Svensøn
 
-Svensøn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Giselle, Düsseldorf on Sat, 3 Oct 2026.
+Svensøn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Giselle, Düsseldorf on Sat, 3 Oct 2026.
 
 Svensøn is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Leipzig. Often billed alongside Marek Hemmann, Niconé and Bebetta. Next up: Giselle, Düsseldorf on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Svensøn is a techno and house artist based in Germany, with 12 gigs on soundche
 
 ## Recently played
 
+- Giselle, Düsseldorf · Sat, 3 Oct 2026
 - Ritter Butzke, Berlin · Sat, 1 Aug 2026
 - Ritter Butzke, Berlin · Sat, 22 Mar 2025
 - Odonien, Cologne · Sat, 14 Sept 2024
@@ -19,10 +20,9 @@ Svensøn is a techno and house artist based in Germany, with 12 gigs on soundche
 - Odonien, Cologne · Sat, 18 May 2024
 - Ritter Butzke, Berlin · Sat, 20 Apr 2024
 - Hotel Europa, Cologne · Sun, 31 Dec 2023
-- Ritter Butzke, Berlin · Sat, 22 Apr 2023
 
 ## Shares bills with
 
 Marek Hemmann, Niconé, Bebetta
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenson/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenson/)*

@@ -1,6 +1,6 @@
 # Mya (1)
 
-Mya (1) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
+Mya (1) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
 Mya is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester. Often billed alongside Benji King, Phill de Janeiro and Jude Lenihan. Next up: fabric, London on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Mya is a house and tech house artist based in United Kingdom, with 17 gigs on so
 
 Benji King, Phill de Janeiro, Jude Lenihan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*

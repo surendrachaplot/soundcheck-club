@@ -1,6 +1,6 @@
 # Alfaz
 
-Alfaz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at The Cross, London on Sat, 24 Oct 2026.
+Alfaz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cross, London on Sat, 24 Oct 2026.
 
 Alfaz is a house and disco artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Ize, ARLYSS and Zak Miller. Next up: The Cross, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Alfaz is a house and disco artist based in United Kingdom, with 25 gigs on sound
 
 Ize (1), ARLYSS, Zak Miller
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*

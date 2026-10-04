@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "NEGITIV" on Sat, 3 Oct 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "NEGITIV" on Sat, 3 Oct 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AEREA, Andre Winter, BNZN and Cleopard2000 and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 10 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

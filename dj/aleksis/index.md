@@ -1,6 +1,6 @@
 # Alek Sis
 
-Alek Sis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
+Alek Sis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
 
 Alek Sis is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin and Paris. Often billed alongside Break A Leg, 131bpm and 3ple Kix. Next up: TBA, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Alek Sis is a techno and trance artist based in Germany, with 10 gigs on soundch
 
 Break A Leg, 131bpm, 3ple Kix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksis/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksis/)*

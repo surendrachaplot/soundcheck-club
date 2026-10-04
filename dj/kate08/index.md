@@ -1,6 +1,6 @@
 # Kate08
 
-Kate08 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
+Kate08 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
 
 Kate08 is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Birmingham, Leeds and London and 2 more. Often billed alongside Lora Mipsum, Mush Love (UK) and Richard Gregory. Next up: Avalon Cafe Bermondsey, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kate08 is a techno and house artist based in United Kingdom, with 28 gigs on sou
 
 Lora Mipsum, Mush Love (UK), Richard Gregory
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kate08/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kate08/)*

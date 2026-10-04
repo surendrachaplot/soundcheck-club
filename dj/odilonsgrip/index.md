@@ -1,6 +1,6 @@
 # Odilon's Grip
 
-Odilon's Grip is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+Odilon's Grip is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 Odilon's Grip is an ebm and techno artist based in United Kingdom, with 22 gigs on soundcheck across Athens, Buenos Aires, Lisbon and London and 1 more. Often billed alongside Arrosa, Ricardo Castro and Elander Ziggy. Next up: Omeara, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Odilon's Grip is an ebm and techno artist based in United Kingdom, with 22 gigs 
 
 Arrosa, Ricardo Castro, Elander Ziggy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odilonsgrip/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odilonsgrip/)*

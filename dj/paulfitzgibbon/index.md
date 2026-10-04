@@ -1,6 +1,6 @@
 # Paul Fitzgibbon
 
-Paul Fitzgibbon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+Paul Fitzgibbon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
 Paul Fitzgibbon is a techno and industrial artist based in Ireland, with 11 gigs on soundcheck across Dublin, London and Stockholm. Often billed alongside BLILI, DREIAN and Famos Jr. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Paul Fitzgibbon is a techno and industrial artist based in Ireland, with 11 gigs
 
 BLILI, DREIAN, Famos Jr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfitzgibbon/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfitzgibbon/)*

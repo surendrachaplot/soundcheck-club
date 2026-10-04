@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Rhizomatic" on Sun, 18 Oct 2026.
+Sans Soleil is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Rhizomatic" on Sun, 18 Oct 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including bell.pierre, Doc'trin, Roland Gonzales and somebody3lse. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -16,4 +16,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

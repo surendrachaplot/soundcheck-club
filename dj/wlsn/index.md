@@ -1,6 +1,6 @@
 # WŁSN
 
-WŁSN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Vibes Glasgow, Glasgow on Fri, 23 Oct 2026.
+WŁSN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vibes Glasgow, Glasgow on Fri, 23 Oct 2026.
 
 WŁSN is a techno and industrial artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow. Often billed alongside A-TØN, Make It Last and Demi. Next up: Vibes Glasgow, Glasgow on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ WŁSN is a techno and industrial artist based in United Kingdom, with 7 gigs on 
 
 A-TØN, Make It Last, Demi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wlsn/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wlsn/)*

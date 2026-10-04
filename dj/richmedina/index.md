@@ -1,6 +1,6 @@
 # Rich Medina
 
-Rich Medina is a House and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Stan's, Queensland on Thu, 8 Oct 2026.
+Rich Medina is a House and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stan's, Queensland on Thu, 8 Oct 2026.
 
 Rich Medina is a house and hip-hop artist based in United States of America, with 200 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Denver and 21 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: Stan's, Queensland on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Rich Medina is a house and hip-hop artist based in United States of America, wit
 
 Djinji Brown, Dvize, Sunny Cheeba
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*

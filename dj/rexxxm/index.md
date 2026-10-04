@@ -1,6 +1,6 @@
 # Rexxx M
 
-Rexxx M is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Culture Box, Copenhagen on Fri, 16 Oct 2026.
+Rexxx M is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Fri, 16 Oct 2026.
 
 Rexxx M is a house and techno artist based in Denmark, with 22 gigs on soundcheck across Copenhagen. Often billed alongside Anna Logic, Bongo & Pusk and Steven Fremad. Next up: Culture Box, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Rexxx M is a house and techno artist based in Denmark, with 22 gigs on soundchec
 
 Anna Logic, Bongo & Pusk, Steven Fremad
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rexxxm/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rexxxm/)*

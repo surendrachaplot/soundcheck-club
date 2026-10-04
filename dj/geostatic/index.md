@@ -1,6 +1,6 @@
 # Geostatic
 
-Geostatic is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Melkweg, Amsterdam on Mon, 12 Oct 2026.
+Geostatic is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Melkweg, Amsterdam on Mon, 12 Oct 2026.
 
 Geostatic is a drum & bass and dubstep artist based in Austria, with 13 gigs on soundcheck across Amsterdam, Austria, Basel and Berlin and 3 more. Often billed alongside Anton Quasi, Upzet and Spektiv. Next up: Melkweg, Amsterdam on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Geostatic is a drum & bass and dubstep artist based in Austria, with 13 gigs on 
 
 Anton Quasi, Upzet, Spektiv
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geostatic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geostatic/)*

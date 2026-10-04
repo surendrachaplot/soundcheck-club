@@ -1,6 +1,6 @@
 # møod ring
 
-møod ring is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
+møod ring is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
 
 møod ring is a house and bass artist based in United States of America, with 10 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Camillionaire, Bea Trinidad and Castillonaire. Next up: Mothership, San Francisco/Oakland on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ møod ring is a house and bass artist based in United States of America, with 10
 
 Camillionaire, Bea Trinidad, Castillonaire
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodring-us/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodring-us/)*

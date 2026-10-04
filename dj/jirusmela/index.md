@@ -1,6 +1,6 @@
 # Jirus (MELA)
 
-Jirus (MELA) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mitsuki, Tokyo on Sat, 24 Oct 2026.
+Jirus (MELA) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mitsuki, Tokyo on Sat, 24 Oct 2026.
 
 Jirus (MELA) is a house and techno artist based in Thailand, with 95 gigs on soundcheck across Bali, Bangkok, Seoul and Singapore and 1 more. Often billed alongside DOTT, Sarayu and Jimin. Next up: Mitsuki, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Jirus (MELA) is a house and techno artist based in Thailand, with 95 gigs on sou
 
 DOTT, Sarayu, Jimin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jirusmela/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jirusmela/)*

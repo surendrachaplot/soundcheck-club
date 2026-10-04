@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "goodie no.157: Rob Paine, Bridget B" on Sat, 3 Oct 2026.
+The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "goodie no.157: Rob Paine, Bridget B" on Sat, 3 Oct 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including Bridget B, Caleb Jackson, Chus & Ceballos and Garvin and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -18,4 +18,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

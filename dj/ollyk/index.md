@@ -1,6 +1,6 @@
 # OllyK
 
-OllyK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
+OllyK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
 
 OllyK is a techno and electro artist based in Ukraine, with 20 gigs on soundcheck across Edinburgh, Krakow and London. Often billed alongside Yova Yager, Luc * and 1BYAKKO. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ OllyK is a techno and electro artist based in Ukraine, with 20 gigs on soundchec
 
 Yova Yager, Luc *, 1BYAKKO
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyk/)*

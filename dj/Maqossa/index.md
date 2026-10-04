@@ -1,6 +1,6 @@
 # Maqossa
 
-Maqossa is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Luxor Live, Netherlands on Fri, 9 Oct 2026.
+Maqossa is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Luxor Live, Netherlands on Fri, 9 Oct 2026.
 
 Maqossa is a house and tech house artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Barcelona, Düsseldorf and Ibiza and 7 more. Often billed alongside Joey Daniel, Prunk and Benny Rodrigues. Next up: Luxor Live, Netherlands on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Maqossa is a house and tech house artist based in Netherlands, with 100 gigs on 
 
 Joey Daniel, Prunk, Benny Rodrigues
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*

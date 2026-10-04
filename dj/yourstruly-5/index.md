@@ -1,6 +1,6 @@
 # Yours Truly (5)
 
-Yours Truly (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Róisín Dubh, Galway on Sat, 17 Oct 2026.
+Yours Truly (5) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Róisín Dubh, Galway on Sat, 17 Oct 2026.
 
 Yours Truly is a house and techno artist based in Ireland, with 9 gigs on soundcheck across Berlin, Dublin and Galway. Often billed alongside Havik, Surka and Talinho. Next up: Róisín Dubh, Galway on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yours Truly is a house and techno artist based in Ireland, with 9 gigs on soundc
 
 Havik, Surka (1), Talinho
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*

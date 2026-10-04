@@ -1,6 +1,6 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
+Vendex is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Index, Dublin on Fri, 9 Oct 2026.
 
 Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside CARV, Alignment and DYEN. Next up: Index, Dublin on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Vendex is a techno and industrial artist based in Spain, with 199 gigs on soundc
 
 CARV, Alignment, DYEN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

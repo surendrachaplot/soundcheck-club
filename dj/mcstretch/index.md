@@ -1,6 +1,6 @@
 # MC Stretch
 
-MC Stretch is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
+MC Stretch is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
 
 MC Stretch is a hardcore and club artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Glasgow, Newcastle and Rotterdam. Often billed alongside MC Stompin, MC Tazo and Andy Whitby. Next up: Skatecafe, Amsterdam on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ MC Stretch is a hardcore and club artist based in United Kingdom, with 7 gigs on
 
 MC Stompin, MC Tazo, Andy Whitby
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstretch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstretch/)*

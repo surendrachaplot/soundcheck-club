@@ -1,6 +1,6 @@
 # Branko (DJ)
 
-Branko (DJ) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Innjoy Wicker Park, Chicago on Sun, 4 Oct 2026.
+Branko (DJ) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Innjoy Wicker Park, Chicago on Sun, 4 Oct 2026.
 
 Branko (DJ) is a techno and house artist based in Serbia, with 7 gigs on soundcheck across Chicago. Often billed alongside Pat Fee, Gabriel Palomo and Adorio. Next up: Innjoy Wicker Park, Chicago on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ Branko (DJ) is a techno and house artist based in Serbia, with 7 gigs on soundch
 
 Pat Fee, Gabriel Palomo, Adorio
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brankodj/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brankodj/)*

@@ -1,6 +1,6 @@
 # akcel
 
-akcel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at RADION, Amsterdam on Fri, 9 Oct 2026.
+akcel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Fri, 9 Oct 2026.
 
 akcel is a house and minimal artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside GAZTAMBIDE, Kyra Khaldi and SAMEFACES. Next up: RADION, Amsterdam on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ akcel is a house and minimal artist based in Netherlands, with 6 gigs on soundch
 
 GAZTAMBIDE, Kyra Khaldi, SAMEFACES
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akcel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akcel/)*

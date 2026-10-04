@@ -1,6 +1,6 @@
 # Chad Harrison
 
-Chad Harrison is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at XOYO, London on Sat, 10 Oct 2026.
+Chad Harrison is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at XOYO, London on Sat, 10 Oct 2026.
 
 Chad Harrison is a bass and garage artist based in United Kingdom, with 31 gigs on soundcheck across Birmingham, Leeds, London and Manchester and 1 more. Often billed alongside Jamie Duggan, DJ Pantha and DJ Q. Next up: XOYO, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Chad Harrison is a bass and garage artist based in United Kingdom, with 31 gigs 
 
 Jamie Duggan, DJ Pantha, DJ Q
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chadharrison/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chadharrison/)*

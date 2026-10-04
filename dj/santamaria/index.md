@@ -1,6 +1,6 @@
 # Santamaria
 
-Santamaria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Santamaria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Santamaria is a techno and house artist based in Japan, with 40 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 2 more. Often billed alongside Kengo Yuasa, kenichi yoshida and Compuma. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Santamaria is a techno and house artist based in Japan, with 40 gigs on soundche
 
 Kengo Yuasa, kenichi yoshida, Compuma
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santamaria/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santamaria/)*

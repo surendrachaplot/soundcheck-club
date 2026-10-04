@@ -1,6 +1,6 @@
 # Stckman
 
-Stckman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+Stckman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
 Stckman is a house and techno artist based in Portugal, with 48 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Stckman is a house and techno artist based in Portugal, with 48 gigs on soundche
 
 Guigas, ozmin, Raphael Carrau
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*

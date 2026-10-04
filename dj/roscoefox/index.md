@@ -1,6 +1,6 @@
 # Roscoe Fox
 
-Roscoe Fox is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quarry, Liverpool on Fri, 9 Oct 2026.
+Roscoe Fox is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarry, Liverpool on Fri, 9 Oct 2026.
 
 Roscoe Fox is an experimental and ambient artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow, Liverpool, London and Manchester. Often billed alongside Grey Streak, BFTT and Mun Sing. Next up: Quarry, Liverpool on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Roscoe Fox is an experimental and ambient artist based in United Kingdom, with 8
 
 Grey Streak, BFTT, Mun Sing
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roscoefox/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roscoefox/)*

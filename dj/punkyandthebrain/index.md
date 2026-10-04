@@ -1,6 +1,6 @@
 # Punky and the brain
 
-Punky and the brain is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
+Punky and the brain is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
 
 Punky and the brain are a house and techno duo based in Italy, with 3 gigs on soundcheck across Barcelona, London and Turin. Often billed alongside Paul Lution, Alex Dima and Alexia Glensy. Next up: Last Arch, London on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Punky and the brain are a house and techno duo based in Italy, with 3 gigs on so
 
 Paul Lution, Alex Dima, Alexia Glensy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkyandthebrain/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkyandthebrain/)*

@@ -1,6 +1,6 @@
 # Birrell
 
-Birrell is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Soup, Manchester on Fri, 9 Oct 2026.
+Birrell is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Soup, Manchester on Fri, 9 Oct 2026.
 
 Birrell is a progressive house and techno artist based in United Kingdom, with 28 gigs on soundcheck across London and Manchester. Often billed alongside Slim Shae, Front Bench and Jovak. Next up: Soup, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Birrell is a progressive house and techno artist based in United Kingdom, with 2
 
 Slim Shae, Front Bench, Jovak
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birrell/)*

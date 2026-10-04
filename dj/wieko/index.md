@@ -1,6 +1,6 @@
 # Wieko
 
-Wieko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
+Wieko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KHC Neustrelitz, Mecklenburg-vorpommern on Sat, 24 Oct 2026.
 
 Wieko is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin and Mecklenburg Vorpommern. Often billed alongside Filialleiter, SIKXTO and DTEXX. Next up: KHC Neustrelitz, Mecklenburg Vorpommern on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Wieko is a techno and trance artist based in Germany, with 18 gigs on soundcheck
 
 Filialleiter, SIKXTO, DTEXX
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieko/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieko/)*

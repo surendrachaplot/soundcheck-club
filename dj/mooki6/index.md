@@ -1,6 +1,6 @@
 # Mooki6
 
-Mooki6 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+Mooki6 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 Mooki6 is a techno and bass artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Bristol and Krakow and 4 more. Often billed alongside B4mba, TNTC and Baba Sy. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mooki6 is a techno and bass artist based in France, with 21 gigs on soundcheck a
 
 B4mba, TNTC, Baba Sy
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooki6/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooki6/)*

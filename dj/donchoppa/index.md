@@ -1,6 +1,6 @@
 # DonChoppa
 
-DonChoppa is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
+DonChoppa is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
 DonChoppa is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Anuuk, Kø:lab and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ DonChoppa is a techno and trance artist based in Germany, with 33 gigs on soundc
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin · Sat, 3 Oct 2026
 - Schrotty, Cologne · Fri, 4 Sept 2026
 - Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
 - Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
@@ -23,10 +24,9 @@ DonChoppa is a techno and trance artist based in Germany, with 33 gigs on soundc
 - Lokschuppen Berlin, Berlin · Fri, 10 Jul 2026
 - Schrotty, Cologne · Sat, 4 Jul 2026
 - Lehmann Club, Stuttgart · Fri, 3 Jul 2026
-- Strandbad Erkner, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 
 Anuuk, Kø:lab, SEKTOR69
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*

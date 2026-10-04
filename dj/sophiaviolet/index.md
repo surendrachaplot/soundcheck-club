@@ -1,6 +1,6 @@
 # Sophia Violet
 
-Sophia Violet is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Sophia Violet is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
 Sophia Violet is a garage and house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Belfast and 12 more. Often billed alongside Girls Don't Sync, Rich Reason and Skeptic. Next up: Mint XL, Leeds on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Sophia Violet is a garage and house artist based in United Kingdom, with 76 gigs
 
 ## Recently played
 
+- Mint XL, Leeds · Sat, 3 Oct 2026
 - Night Tales, London · Fri, 2 Oct 2026
 - Thekla, Bristol · Fri, 25 Sept 2026
 - The Cause, London · Sat, 20 Jun 2026
@@ -23,10 +24,9 @@ Sophia Violet is a garage and house artist based in United Kingdom, with 76 gigs
 - Lakota, Bristol · Sat, 9 May 2026
 - Paradiso, Amsterdam · Fri, 8 May 2026
 - Night Tales Loft, London · Fri, 27 Mar 2026
-- Thuishaven, Amsterdam · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Girls Don't Sync, Rich Reason, Skeptic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiaviolet/)*

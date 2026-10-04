@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "BACK ROOM by SALA RADIO" on Fri, 2 Oct 2026.
+Apollo Club Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BACK ROOM by SALA RADIO" on Fri, 2 Oct 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Paula Tape, Benjamin Fröhlich, Daniel Monaco and Dante (H501) and 2 more. See dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -17,4 +17,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

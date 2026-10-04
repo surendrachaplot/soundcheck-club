@@ -1,6 +1,6 @@
 # Woreq
 
-Woreq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
+Woreq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at H0L0, New York City on Sat, 10 Oct 2026.
 
 Woreq is a house and techno artist based in Georgia, with 22 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Mitrimar, CAMILLA and Kurilo. Next up: H0L0, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Woreq is a house and techno artist based in Georgia, with 22 gigs on soundcheck 
 
 Mitrimar, CAMILLA, Kurilo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woreq/)*

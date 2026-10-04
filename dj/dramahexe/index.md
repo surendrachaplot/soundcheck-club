@@ -1,6 +1,6 @@
 # Drama Hexe
 
-Drama Hexe is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
+Drama Hexe is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
 
 Drama Hexe is a house and progressive house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Mistressandcommander, cliff and ibiza urchins. Next up: Fitzroy, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Drama Hexe is a house and progressive house artist, with 9 gigs on soundcheck ac
 
 Mistressandcommander, cliff, ibiza urchins
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dramahexe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dramahexe/)*

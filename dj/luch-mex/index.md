@@ -1,6 +1,6 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Space Miami, Miami on Fri, 9 Oct 2026.
+LUCH (MEX) is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Space Miami, Miami on Fri, 9 Oct 2026.
 
 LUCH (MEX) is an afro house and house artist based in Mexico, with 25 gigs on soundcheck across Barcelona, Chicago, Ibiza and Lisbon and 12 more. Often billed alongside Jamie Jones, Maxi Meraki and BLOND:ISH. Next up: Club Space Miami, Miami on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ LUCH (MEX) is an afro house and house artist based in Mexico, with 25 gigs on so
 
 Jamie Jones, Maxi Meraki, BLOND:ISH
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

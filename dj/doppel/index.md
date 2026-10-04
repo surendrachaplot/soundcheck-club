@@ -1,6 +1,6 @@
 # Doppel
 
-Doppel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Doppel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Doppel is a techno and house artist based in Australia, with 7 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Tom Baker (AU), Andy Garvey and Butane. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ Doppel is a techno and house artist based in Australia, with 7 gigs on soundchec
 
 ## Recently played
 
+- TBA - 2.5 Hours from Sydney, Sydney · Sat, 3 Oct 2026
 - TBA - Wee Jasper, Sydney · Fri, 25 Sept 2026
 - My Aeon, Melbourne · Sat, 11 Oct 2025
 - Riverwood Downs Mountain Valley Resort, Sydney · Fri, 8 Dec 2023
@@ -23,4 +24,4 @@ Doppel is a techno and house artist based in Australia, with 7 gigs on soundchec
 
 Tom Baker (AU), Andy Garvey, Butane
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppel/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppel/)*

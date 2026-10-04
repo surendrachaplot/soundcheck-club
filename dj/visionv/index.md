@@ -1,6 +1,6 @@
 # VisionV
 
-VisionV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+VisionV is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 VisionV is a house and techno artist based in Austria, with 19 gigs on soundcheck across Amsterdam, Berlin, Boston and Ibiza and 5 more. Often billed alongside Mat Schubert, LAVERN and Martin Garrix. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ VisionV is a house and techno artist based in Austria, with 19 gigs on soundchec
 
 Mat Schubert, LAVERN, Martin Garrix
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visionv/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visionv/)*

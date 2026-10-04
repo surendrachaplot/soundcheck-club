@@ -1,6 +1,6 @@
 # UriBlanch
 
-UriBlanch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+UriBlanch is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 UriBlanch is a house and minimal artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Niklas Becher, ANNASNEL and Lidia Lo. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ UriBlanch is a house and minimal artist based in Netherlands, with 9 gigs on sou
 
 Niklas Becher, ANNASNEL, Lidia Lo
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*

@@ -1,6 +1,6 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Enter Shibuya, Tokyo on Mon, 5 Oct 2026.
+kengotaki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Enter Shibuya, Tokyo on Mon, 5 Oct 2026.
 
 kengotaki is a house and techno artist based in Japan, with 169 gigs on soundcheck across Osaka, Sydney and Tokyo. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Enter Shibuya, Tokyo on Mon 5 Oct.
 
@@ -26,4 +26,4 @@ kengotaki is a house and techno artist based in Japan, with 169 gigs on soundche
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

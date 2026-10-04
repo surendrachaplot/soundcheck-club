@@ -1,6 +1,6 @@
 # Dame Area
 
-Dame Area is a Post-Punk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Dame Area is a Post-Punk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
 Dame Area is a post-punk and experimental artist based in Spain, with 37 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 19 more. Often billed alongside aya, mad miran and Oriana. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Dame Area is a post-punk and experimental artist based in Spain, with 37 gigs on
 
 aya, mad miran, Oriana
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*

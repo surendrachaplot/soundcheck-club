@@ -1,6 +1,6 @@
 # Maria Callapez
 
-Maria Callapez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gare Porto, Porto on Fri, 23 Oct 2026.
+Maria Callapez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gare Porto, Porto on Fri, 23 Oct 2026.
 
 Maria Callapez is a techno and house artist based in Portugal, with 66 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Amulador, Kokeshi and Hypnotic Black Magic. Next up: Gare Porto, Porto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maria Callapez is a techno and house artist based in Portugal, with 66 gigs on s
 
 Amulador, Kokeshi, Hypnotic Black Magic
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacallapez/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacallapez/)*

@@ -1,6 +1,6 @@
 # ABOUT SOFIYA
 
-ABOUT SOFIYA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+ABOUT SOFIYA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
 ABOUT SOFIYA is a techno and tech house artist based in Japan, with 24 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Secret Cinema, Stephane K and THE RATA. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ABOUT SOFIYA is a techno and tech house artist based in Japan, with 24 gigs on s
 
 Secret Cinema, Stephane K, THE RATA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aboutsofiya/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aboutsofiya/)*

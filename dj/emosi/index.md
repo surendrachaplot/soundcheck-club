@@ -1,6 +1,6 @@
 # EMOSI
 
-EMOSI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Casa Corona Seoul, Seoul on Sun, 4 Oct 2026.
+EMOSI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Casa Corona Seoul, Seoul on Sun, 4 Oct 2026.
 
 EMOSI is a house and tech house artist, with 9 gigs on soundcheck across Seoul. Often billed alongside Better, Grace Kim and Sterling Silver. Next up: Casa Corona Seoul, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ EMOSI is a house and tech house artist, with 9 gigs on soundcheck across Seoul. 
 
 Better, Grace Kim, Sterling Silver
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emosi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emosi/)*

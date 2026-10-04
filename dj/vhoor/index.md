@@ -1,6 +1,6 @@
 # VHOOR
 
-VHOOR is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
+VHOOR is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
 
 VHOOR is a baile funk and house artist based in Brazil, with 66 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Deekapz, Florentino and Bieu. Next up: Night Tales, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ VHOOR is a baile funk and house artist based in Brazil, with 66 gigs on soundche
 
 Deekapz, Florentino, Bieu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*

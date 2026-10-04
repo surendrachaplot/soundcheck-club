@@ -1,6 +1,6 @@
 # The Belgian Stallion
 
-The Belgian Stallion is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+The Belgian Stallion is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
 The Belgian Stallion is a techno and trance artist based in Germany, with 63 gigs on soundcheck across Berlin, Frankfurt, Nürnberg and Stuttgart. Often billed alongside DeGuzman, Paranormila and SANDRA ROMINA. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ The Belgian Stallion is a techno and trance artist based in Germany, with 63 gig
 
 DeGuzman, Paranormila, SANDRA ROMINA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebelgianstallion/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebelgianstallion/)*

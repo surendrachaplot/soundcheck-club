@@ -1,6 +1,6 @@
 # WÏLES
 
-WÏLES is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Eagle Bar, Manchester on Fri, 9 Oct 2026.
+WÏLES is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Eagle Bar, Manchester on Fri, 9 Oct 2026.
 
 WÏLES is a house and disco artist based in United Kingdom, with 17 gigs on soundcheck across London and Manchester. Often billed alongside Joshua James, Lewis John and Bear Winder. Next up: The Eagle Bar, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ WÏLES is a house and disco artist based in United Kingdom, with 17 gigs on soun
 
 Joshua James, Lewis John, Bear Winder
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiles/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiles/)*

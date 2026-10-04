@@ -1,6 +1,6 @@
 # Bouffant Bouffant
 
-Bouffant Bouffant is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 2 Oct 2026.
+Bouffant Bouffant is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 2 Oct 2026.
 
 Bouffant Bouffant is a house and electro artist based in United States of America, with 22 gigs on soundcheck across Berlin, Hong Kong, Houston and Kuala Lumpur and 5 more. Often billed alongside LYDO, Markus (US) and AAguilAA. Next up: Lux Fragil, Lisbon on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Bouffant Bouffant is a house and electro artist based in United States of Americ
 
 LYDO, Markus (US), AAguilAA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*

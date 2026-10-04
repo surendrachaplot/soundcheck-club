@@ -1,6 +1,6 @@
 # GREMMLiNS
 
-GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Quai de Scène, Strasbourg on Sat, 3 Oct 2026.
+GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quai de Scène, Strasbourg on Sat, 3 Oct 2026.
 
 GREMMLiNS is a techno and psytrance artist based in France, with 8 gigs on soundcheck across Strasbourg. Often billed alongside Bruyant, Cinder and Mehr is Mehr. Next up: Quai de Scène, Strasbourg on Sat 3 Oct.
 
@@ -12,6 +12,7 @@ GREMMLiNS is a techno and psytrance artist based in France, with 8 gigs on sound
 
 ## Recently played
 
+- Quai de Scène, Strasbourg · Sat, 3 Oct 2026
 - Quai de Scène, Strasbourg · Fri, 25 Sept 2026
 - TBA - Le Quai de Scène, 5 quai du General Koenig 67000 Strasbourg, Strasbourg · Sat, 21 Mar 2026
 - TBA - Quai de Scène Strasbourg , Strasbourg · Sat, 7 Mar 2026
@@ -24,4 +25,4 @@ GREMMLiNS is a techno and psytrance artist based in France, with 8 gigs on sound
 
 Bruyant, Cinder, Mehr is Mehr
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*

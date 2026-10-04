@@ -1,6 +1,6 @@
 # Soyklo
 
-Soyklo is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Panke, Berlin on Thu, 8 Oct 2026.
+Soyklo is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Panke, Berlin on Thu, 8 Oct 2026.
 
 Soyklo is a bass and jungle artist based in Germany, with 25 gigs on soundcheck across Berlin, London, New York City and Paris. Often billed alongside Abibi, DJ NORTHERN and Meg10. Next up: Panke, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Soyklo is a bass and jungle artist based in Germany, with 25 gigs on soundcheck 
 
 Abibi, DJ NORTHERN, Meg10
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soyklo/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soyklo/)*

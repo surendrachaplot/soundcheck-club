@@ -1,6 +1,6 @@
 # Guille Gironde (2)
 
-Guille Gironde (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at DETROIT CLUB, Barcelona on Fri, 9 Oct 2026.
+Guille Gironde (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DETROIT CLUB, Barcelona on Fri, 9 Oct 2026.
 
 Guille Gironde is a house and techno artist based in Spain, with 6 gigs on soundcheck across Barcelona. Often billed alongside Eli Ercolani, Andrés Cornavaca and Empher. Next up: DETROIT CLUB, Barcelona on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Guille Gironde is a house and techno artist based in Spain, with 6 gigs on sound
 
 Eli Ercolani, Andrés Cornavaca, Empher
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillegironde-2/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillegironde-2/)*

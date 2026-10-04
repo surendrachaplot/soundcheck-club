@@ -1,6 +1,6 @@
 # Camilla Reghenzi
 
-Camilla Reghenzi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
+Camilla Reghenzi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
 
 Camilla Reghenzi is a house and disco artist based in United Kingdom, with 16 gigs on soundcheck across Manchester. Often billed alongside Semi Peppered, Danuka and Jim Bane. Next up: renae, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Camilla Reghenzi is a house and disco artist based in United Kingdom, with 16 gi
 
 Semi Peppered, Danuka, Jim Bane
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillareghenzi/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillareghenzi/)*

@@ -1,6 +1,6 @@
 # Huxley
 
-Huxley is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
+Huxley is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UNLOCKED, London on Thu, 15 Oct 2026.
 
 Huxley is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 4 more. Often billed alongside Amine Edge, Jimmy Switch and Josh Butler. Next up: UNLOCKED, London on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Huxley is a house and tech house artist based in United Kingdom, with 20 gigs on
 
 Amine Edge, Jimmy Switch, Josh Butler
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huxley/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huxley/)*

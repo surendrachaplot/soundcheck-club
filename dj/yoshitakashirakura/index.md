@@ -1,18 +1,18 @@
 # Yoshitaka Shirakura
 
-Yoshitaka Shirakura is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Yoshitaka Shirakura is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Sat, 21 Nov 2026.
 
-Yoshitaka Shirakura is a techno and ambient artist based in Japan, with 43 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YUKIMASA, Ario and Kojiro. Next up: Bonobo, Tokyo on Sat 3 Oct.
+Yoshitaka Shirakura is a techno and ambient artist based in Japan, with 43 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YUKIMASA, Ario and Kojiro. Next up: Forestlimit, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bonobo | Tokyo |
 | Sat, 21 Nov 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 
+- Bonobo, Tokyo · Sat, 3 Oct 2026
 - TBA -    Kodamanomori Camp Ground, Nagano, Tokyo · Fri, 11 Sept 2026
 - TBA - Check Event Info, Tokyo · Sat, 27 Jun 2026
 - Enter Shibuya, Tokyo · Fri, 26 Jun 2026
@@ -20,10 +20,9 @@ Yoshitaka Shirakura is a techno and ambient artist based in Japan, with 43 gigs 
 - Soup, Tokyo · Sun, 7 Jun 2026
 - UTOPIA / DYSTOPIA, Tokyo · Sat, 30 May 2026
 - Yoyogi Park, Tokyo · Sat, 28 Mar 2026
-- Forestlimit, Tokyo · Thu, 26 Mar 2026
 
 ## Shares bills with
 
 YUKIMASA, Ario, Kojiro
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakashirakura/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakashirakura/)*

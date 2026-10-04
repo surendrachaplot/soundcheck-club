@@ -1,6 +1,6 @@
 # Frankie
 
-Frankie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Cukrarna Gallery, Ljubljana on Wed, 7 Oct 2026.
+Frankie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cukrarna Gallery, Ljubljana on Wed, 7 Oct 2026.
 
 Frankie is a house and techno artist based in France, with 21 gigs on soundcheck across Bristol, Düsseldorf, Ljubljana and Los Angeles and 6 more. Often billed alongside Kelman Duran, Abiu and Dis Fig. Next up: Cukrarna Gallery, Ljubljana on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Frankie is a house and techno artist based in France, with 21 gigs on soundcheck
 
 Kelman Duran, Abiu, Dis Fig
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*

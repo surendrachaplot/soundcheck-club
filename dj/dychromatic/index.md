@@ -1,6 +1,6 @@
 # Dychromatic
 
-Dychromatic is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
+Dychromatic is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
 
 Dychromatic is a techno and minimal techno artist, with 6 gigs on soundcheck across Berlin, Copenhagen, Dortmund Essen and Leipzig. Often billed alongside Anuli, Lip71 and Rostøm. Next up: Tresor.West, Dortmund Essen on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Dychromatic is a techno and minimal techno artist, with 6 gigs on soundcheck acr
 
 Anuli, Lip71, Rostøm
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dychromatic/)*

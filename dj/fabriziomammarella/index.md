@@ -1,6 +1,6 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
 Fabrizio Mammarella is a house and techno artist based in Italy, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 21 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, with 90 gigs on
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

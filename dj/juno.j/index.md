@@ -1,6 +1,6 @@
 # juno.j
 
-juno.j is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
+juno.j is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
 
 juno.j is an electro and techno artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside DJ ASS TITS, Aaro and BUTTMONEY. Next up: JAKI, Cologne on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ juno.j is an electro and techno artist based in Germany, with 4 gigs on soundche
 
 DJ ASS TITS, Aaro (3), BUTTMONEY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juno.j/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juno.j/)*

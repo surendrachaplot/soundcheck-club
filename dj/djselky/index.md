@@ -1,6 +1,6 @@
 # Selky
 
-Selky is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Commercial Rowing Club Dublin, Dublin on Fri, 9 Oct 2026.
+Selky is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Commercial Rowing Club Dublin, Dublin on Fri, 9 Oct 2026.
 
 Selky is a club and baile funk artist based in Ireland, with 31 gigs on soundcheck across Amsterdam, Dublin, Glasgow and Prague and 1 more. Often billed alongside Roo Honeychild, Rhyzine and Drua. Next up: Commercial Rowing Club Dublin, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Selky is a club and baile funk artist based in Ireland, with 31 gigs on soundche
 
 Roo Honeychild, Rhyzine, Drua
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djselky/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djselky/)*

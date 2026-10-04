@@ -1,6 +1,6 @@
 # Mollie Collins
 
-Mollie Collins is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
+Mollie Collins is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
 Mollie Collins is a drum & bass and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Auckland, Brighton, Bristol and Geneva and 5 more. Often billed alongside Hedex, Alcemist and Aries. Next up: Onyx (E1), London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mollie Collins is a drum & bass and jungle artist based in United Kingdom, with 
 
 Hedex, Alcemist, Aries
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molliecollins/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molliecollins/)*

@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Wibar, Netherlands on Sat, 3 Oct 2026.
+BASHKKA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Wibar, Netherlands on Sat, 3 Oct 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Wibar, Netherlands on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ BASHKKA is a techno and house artist based in Germany, with 310 gigs on soundche
 
 ## Recently played
 
+- Wibar, Netherlands · Sat, 3 Oct 2026
 - Fvtvr, Paris · Wed, 30 Sept 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - Azimut Club, Turin · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ BASHKKA is a techno and house artist based in Germany, with 310 gigs on soundche
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - BASEMENT, New York City · Fri, 11 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
-- Southwark Park, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

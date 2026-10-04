@@ -1,6 +1,6 @@
 # Joe Le Groove
 
-Joe Le Groove is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 10 Oct 2026.
+Joe Le Groove is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 10 Oct 2026.
 
 Joe Le Groove is a tech house and house artist, with 15 gigs on soundcheck across London. Often billed alongside Subject 13, Nookie (UK) and Outrage. Next up: NUMBER 90 LONDON, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joe Le Groove is a tech house and house artist, with 15 gigs on soundcheck acros
 
 Subject 13, Nookie (UK), Outrage
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*

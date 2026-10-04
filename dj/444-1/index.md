@@ -1,6 +1,6 @@
 # 444 (1)
 
-444 (1) is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at SOBs, New York City on Fri, 9 Oct 2026.
+444 (1) is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SOBs, New York City on Fri, 9 Oct 2026.
 
 444 is a club and house artist based in United States of America, with 27 gigs on soundcheck across Mexico City, Montreal and New York City. Often billed alongside BEYBLADE SHAWTY, LeCamille and Ushka. Next up: SOBs, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@
 
 BEYBLADE SHAWTY, LeCamille, Ushka
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*

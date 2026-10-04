@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Spell pres. Moin" on Sun, 4 Oct 2026.
+Haus der Visionäre is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spell pres. Moin" on Sun, 4 Oct 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Al Wootton, Clovis, Flabbergast and future.666 and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -18,4 +18,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

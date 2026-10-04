@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 25 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. The next is "Swing Dash: Felix Dickinson, rPal + Gail [Atrium 2AM Party]" on Sat, 3 Oct 2026.
+Movers is a music venue in Nottingham with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Swing Dash: Felix Dickinson, rPal + Gail [Atrium 2AM Party]" on Sat, 3 Oct 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # camukg
 
-camukg is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 21 Nov 2026.
+camukg is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 21 Nov 2026.
 
 camukg is a garage and house artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Leeds, London and Newcastle and 1 more. Often billed alongside Jae Depz, whoswill and B-HIND. Next up: Mint Warehouse, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ camukg is a garage and house artist based in United Kingdom, with 18 gigs on sou
 
 Jae Depz, whoswill, B-HIND
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*

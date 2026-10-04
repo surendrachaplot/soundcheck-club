@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Jeff Mills is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -23,17 +23,17 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Complejo Embrujo, South · Sat, 3 Oct 2026
+- Complejo Embrujo, South · Sat, 3 Oct 2026
 - Fvtvr, Paris · Wed, 30 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Vrachon Theater, Athens · Sun, 20 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
 - Under the K Bridge, New York City · Sat, 5 Sept 2026
-- MTELUS, Montreal · Fri, 28 Aug 2026
-- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

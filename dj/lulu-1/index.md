@@ -1,6 +1,6 @@
 # LULU (1)
 
-LULU (1) is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
+LULU (1) is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
 
 LULU is a techno and uk funky artist based in Japan, with 17 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Melbourne and 4 more. Often billed alongside Dash (CZ), 999999999 and ARTISAN. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LULU is a techno and uk funky artist based in Japan, with 17 gigs on soundcheck 
 
 Dash (CZ), 999999999, ARTISAN
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*

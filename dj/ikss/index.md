@@ -1,6 +1,6 @@
 # Ikss
 
-Ikss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
+Ikss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 Ikss is a techno and house artist based in Latvia, with 93 gigs on soundcheck across Riga. Often billed alongside HP-82, Ksenia Kamikaza and Freiya March. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Ikss is a techno and house artist based in Latvia, with 93 gigs on soundcheck ac
 
 HP-82, Ksenia Kamikaza, Freiya March
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*

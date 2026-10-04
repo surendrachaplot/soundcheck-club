@@ -1,6 +1,6 @@
 # Maia Dros
 
-Maia Dros is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
+Maia Dros is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Nube, Buenos Aires on Fri, 16 Oct 2026.
 
 Maia Dros is a house and techno artist based in Argentina, with 10 gigs on soundcheck across Buenos Aires. Often billed alongside Bermani, Loïc and ADHILA. Next up: La Nube, Buenos Aires on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Maia Dros is a house and techno artist based in Argentina, with 10 gigs on sound
 
 Bermani, Loïc, ADHILA
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiadros/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiadros/)*

@@ -1,6 +1,6 @@
 # Alienata
 
-Alienata is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
+Alienata is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
 
 Alienata is a techno and electro artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: Tresor.West, Dortmund Essen on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Alienata is a techno and electro artist based in Germany, with 101 gigs on sound
 
 Bloody Mary, Ben Sims, L.F.T.
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*

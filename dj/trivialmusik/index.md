@@ -1,6 +1,6 @@
 # Trivialmusik
 
-Trivialmusik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Amsterdam Noord, Amsterdam on Fri, 23 Oct 2026.
+Trivialmusik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Amsterdam Noord, Amsterdam on Fri, 23 Oct 2026.
 
 Trivialmusik is a techno and hardcore artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Donkerdok, Kade Noir and Levin Schwarz. Next up: TBA - Amsterdam Noord, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Trivialmusik is a techno and hardcore artist based in Netherlands, with 3 gigs o
 
 Donkerdok, Kade Noir, Levin Schwarz
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trivialmusik/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trivialmusik/)*

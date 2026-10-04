@@ -1,6 +1,6 @@
 # Jordi Castell (1)
 
-Jordi Castell (1) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 9 Oct 2026.
+Jordi Castell (1) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 9 Oct 2026.
 
 Jordi Castell is a house and electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona, Berlin, Madrid and South and 1 more. Often billed alongside Alvaro Medina, Federico Molinari and Nekes. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jordi Castell is a house and electronica artist based in Spain, with 13 gigs on 
 
 Alvaro Medina, Federico Molinari, Nekes
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*

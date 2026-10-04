@@ -1,6 +1,6 @@
 # Alessio Deluxe
 
-Alessio Deluxe is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Visionnaire Rome, Rome on Sat, 10 Oct 2026.
+Alessio Deluxe is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Visionnaire Rome, Rome on Sat, 10 Oct 2026.
 
 Alessio Deluxe is a tech house and house artist based in Italy, with 5 gigs on soundcheck across London and Rome. Often billed alongside URBANKIDZ, Diego Cardarelli and Félix (UK). Next up: Visionnaire Rome, Rome on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Alessio Deluxe is a tech house and house artist based in Italy, with 5 gigs on s
 
 URBANKIDZ, Diego Cardarelli, Félix (UK)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiodeluxe/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiodeluxe/)*

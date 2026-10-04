@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+The Lady Machine is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
 The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
@@ -23,6 +23,7 @@ The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
 - Ciało, Wroclaw · Fri, 2 Oct 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on 
 - Bassiani, Tbilisi · Fri, 11 Sept 2026
 - DETROIT CLUB, Barcelona · Fri, 4 Sept 2026
 - Maaya, Berlin · Sun, 23 Aug 2026
-- TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

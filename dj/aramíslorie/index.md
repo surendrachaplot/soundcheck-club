@@ -1,6 +1,6 @@
 # Aramís Lorié
 
-Aramís Lorié is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 30 Oct 2026.
+Aramís Lorié is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 30 Oct 2026.
 
 Aramís Lorié is a house and disco artist, with 7 gigs on soundcheck across Miami. Often billed alongside Bakke, Danyelino and Mutant Pete. Next up: Jolene Downtown Miami, Miami on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Aramís Lorié is a house and disco artist, with 7 gigs on soundcheck across Mia
 
 Bakke, Danyelino, Mutant Pete
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aramíslorie/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aramíslorie/)*

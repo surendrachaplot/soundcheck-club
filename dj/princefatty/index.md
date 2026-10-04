@@ -1,6 +1,6 @@
 # Prince Fatty
 
-Prince Fatty is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at The Fox and Firkin, London on Fri, 11 Dec 2026.
+Prince Fatty is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fox and Firkin, London on Fri, 11 Dec 2026.
 
 Prince Fatty is a dub and dancehall artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Kyoto, Liverpool and London and 2 more. Often billed alongside Charlie P, Iration Steppas and Mungo's Hi Fi. Next up: The Fox and Firkin, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Prince Fatty is a dub and dancehall artist based in United Kingdom, with 21 gigs
 
 Charlie P, Iration Steppas, Mungo's Hi Fi
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princefatty/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princefatty/)*

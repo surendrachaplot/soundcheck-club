@@ -1,6 +1,6 @@
 # Jaage
 
-Jaage is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Enterprise Brewing Co., San Francisco/Oakland on Sat, 17 Oct 2026.
+Jaage is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Enterprise Brewing Co., San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Jaage is a disco and funk / soul artist based in United States of America, with 41 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Evbot, AKA DISK and FeLine. Next up: Enterprise Brewing Co., San Francisco/Oakland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jaage is a disco and funk / soul artist based in United States of America, with 
 
 Evbot, AKA DISK, FeLine
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaage/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaage/)*

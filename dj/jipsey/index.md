@@ -1,6 +1,6 @@
 # JIPSEY
 
-JIPSEY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
+JIPSEY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
 
 JIPSEY is a techno and trance artist based in Netherlands, with 15 gigs on soundcheck across Antwerp, Basel and Brussels. Often billed alongside FEMMI, Arter and BLNK. Next up: Kavka Oudaan, Antwerp on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ JIPSEY is a techno and trance artist based in Netherlands, with 15 gigs on sound
 
 ## Recently played
 
+- Kavka Oudaan, Antwerp · Sat, 3 Oct 2026
 - Club Vaag, Antwerp · Fri, 25 Sept 2026
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
@@ -20,10 +21,9 @@ JIPSEY is a techno and trance artist based in Netherlands, with 15 gigs on sound
 - BRISA Rooftop, Antwerp · Sat, 30 May 2026
 - Port of Brussels, Brussels · Fri, 1 May 2026
 - Club Vaag, Antwerp · Sat, 7 Feb 2026
-- Club Capital, Antwerp · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 FEMMI, Arter, BLNK
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jipsey/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jipsey/)*

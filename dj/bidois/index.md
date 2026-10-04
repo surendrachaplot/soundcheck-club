@@ -1,6 +1,6 @@
 # BIDOIS
 
-BIDOIS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Club Makossa, London on Thu, 22 Oct 2026.
+BIDOIS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Makossa, London on Thu, 22 Oct 2026.
 
 BIDOIS is a drum & bass and house artist based in New Zealand, with 5 gigs on soundcheck across London. Often billed alongside Margella, Noizfiend and tasha.mp4. Next up: Club Makossa, London on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ BIDOIS is a drum & bass and house artist based in New Zealand, with 5 gigs on so
 
 Margella, Noizfiend, tasha.mp4
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bidois/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bidois/)*

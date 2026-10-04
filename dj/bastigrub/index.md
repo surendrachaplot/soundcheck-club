@@ -1,6 +1,6 @@
 # Basti Grub
 
-Basti Grub is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 23 Oct 2026.
+Basti Grub is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 23 Oct 2026.
 
 Basti Grub is a house and electro artist based in Germany, with 9 gigs on soundcheck across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside Sonson, 2Reisende and Biagio Sibilla. Next up: Do Not Sit On The Furniture, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Basti Grub is a house and electro artist based in Germany, with 9 gigs on soundc
 
 Sonson, 2Reisende, Biagio Sibilla
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastigrub/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastigrub/)*

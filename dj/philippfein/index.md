@@ -1,6 +1,6 @@
 # Philipp Fein
 
-Philipp Fein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Gewölbe, Cologne on Sat, 10 Oct 2026.
+Philipp Fein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gewölbe, Cologne on Sat, 10 Oct 2026.
 
 Philipp Fein is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Stuttgart and Vienna. Often billed alongside keikee, Heimlich Knüller and Martha van Straaten. Next up: Gewölbe, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Philipp Fein is a techno and house artist based in Germany, with 37 gigs on soun
 
 keikee, Heimlich Knüller, Martha van Straaten
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*

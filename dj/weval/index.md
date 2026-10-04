@@ -1,6 +1,6 @@
 # Weval
 
-Weval is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 3 Oct 2026. Next at Phonox, London on Sat, 3 Oct 2026.
+Weval is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Phonox, London on Sat, 3 Oct 2026.
 
 Weval is a house and electro artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Ross From Friends, Actress and CHRIS STASSY. Next up: Phonox, London on Sat 3 Oct.
 
@@ -16,6 +16,7 @@ Weval is a house and electro artist based in Netherlands, with 61 gigs on soundc
 
 ## Recently played
 
+- Phonox, London · Sat, 3 Oct 2026
 - Château D'egreville, Paris · Fri, 3 Jul 2026
 - Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
 - Hacienda Club, Rome · Sat, 16 May 2026
@@ -23,10 +24,9 @@ Weval is a house and electro artist based in Netherlands, with 61 gigs on soundc
 - The Cause, London · Fri, 3 Apr 2026
 - The Roxy, Los Angeles · Sat, 28 Feb 2026
 - Sunset at EDITION, Los Angeles · Sat, 28 Feb 2026
-- The Independent, San Francisco/Oakland · Fri, 27 Feb 2026
 
 ## Shares bills with
 
 Ross From Friends, Actress, CHRIS STASSY
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weval/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weval/)*

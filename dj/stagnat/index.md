@@ -1,6 +1,6 @@
 # Stagnat
 
-Stagnat is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
+Stagnat is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
 
 Stagnat is a techno artist, with 8 gigs on soundcheck across Belgrade, Ljubljana and Vienna. Often billed alongside Adriatica, Amotik and Anemona. Next up: Klub K4, Ljubljana on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Stagnat is a techno artist, with 8 gigs on soundcheck across Belgrade, Ljubljana
 
 Adriatica, Amotik, Anemona
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*

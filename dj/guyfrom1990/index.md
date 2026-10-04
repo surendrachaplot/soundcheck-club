@@ -1,6 +1,6 @@
 # Guy from 1990
 
-Guy from 1990 is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 3 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
+Guy from 1990 is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
 
 Guy from 1990 is a house and garage artist based in Portugal, with 54 gigs on soundcheck across Brussels, Lisbon, Paris and Porto. Often billed alongside Jorge Caiado, Sara Wual and Mayan (PT). Next up: Lux Fragil, Lisbon on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Guy from 1990 is a house and garage artist based in Portugal, with 54 gigs on so
 
 Jorge Caiado, Sara Wual, Mayan (PT)
 
-*Updated Sat, 3 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfrom1990/)*
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guyfrom1990/)*
