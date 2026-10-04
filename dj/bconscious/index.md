@@ -2,7 +2,7 @@
 
 Bconscious is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Banja Luka, Berlin on Fri, 9 Oct 2026.
 
-Bconscious is a techno and house artist, with 48 gigs on soundcheck across Bangkok, Berlin and Hamburg. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: Banja Luka, Berlin on Fri 9 Oct.
+Bconscious is a techno and house artist, with 47 gigs on soundcheck across Bangkok, Berlin and Hamburg. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: Banja Luka, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 

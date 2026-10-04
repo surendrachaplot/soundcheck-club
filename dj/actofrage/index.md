@@ -1,14 +1,13 @@
 # Act of Rage
 
-Act of Rage is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Act of Rage is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kesselhaus, Munich on Sat, 31 Oct 2026.
 
-Act of Rage is a hardcore and techno artist based in United Kingdom, with 24 gigs on soundcheck across Brussels, Cologne, Dortmund Essen and Frankfurt and 8 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
+Act of Rage is a hardcore and techno artist based in United Kingdom, with 24 gigs on soundcheck across Brussels, Cologne, Dortmund Essen and Frankfurt and 8 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: Kesselhaus, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Sat, 31 Oct 2026 | Kesselhaus | Munich |
 
 ## Recently played

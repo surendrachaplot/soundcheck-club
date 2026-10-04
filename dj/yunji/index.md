@@ -1,14 +1,13 @@
 # YUNJI
 
-YUNJI is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+YUNJI is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cakeshop, Seoul on Fri, 9 Oct 2026.
 
-YUNJI is a club and house artist based in South Korea, with 34 gigs on soundcheck across Barcelona, London, Paris and Seoul and 3 more. Often billed alongside Coziest, 2SPADE and Better. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
+YUNJI is a club and house artist based in South Korea, with 34 gigs on soundcheck across Barcelona, London, Paris and Seoul and 3 more. Often billed alongside Coziest, 2SPADE and Better. Next up: Cakeshop, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Space Nodeul K | Seoul |
 | Fri, 9 Oct 2026 | Cakeshop | Seoul |
 | Sat, 7 Nov 2026 | UNDERCITY | Seoul |
 

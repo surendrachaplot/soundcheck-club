@@ -1,14 +1,13 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 24 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Belgrave Music Hall, Leeds on Mon, 12 Oct 2026.
 
-Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
+Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Belgrave Music Hall, Leeds on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Mon, 12 Oct 2026 | Belgrave Music Hall | Leeds |
 | Tue, 13 Oct 2026 | The Grove | Newcastle |
 | Thu, 15 Oct 2026 | FORGE | Sheffield |
@@ -20,6 +19,7 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 121 gigs on sou
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Sun, 25 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 30 Oct 2026 | The Limelight | Belfast |
+| Fri, 6 Nov 2026 | Circolo Magnolia | Milan |
 
 ## Recently played
 

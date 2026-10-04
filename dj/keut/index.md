@@ -1,13 +1,14 @@
 # KEUT
 
-KEUT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+KEUT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le 211, Paris on Sun, 11 Oct 2026.
 
-KEUT is a techno and house artist, with 36 gigs on soundcheck across Berlin, Los Angeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
+KEUT is a techno and house artist, with 37 gigs on soundcheck across Berlin, Los Angeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: Le 211, Paris on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Le 211 | Paris |
 | Sat, 17 Oct 2026 | TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris | Paris |
 
 ## Recently played

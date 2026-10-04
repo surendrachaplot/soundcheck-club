@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SYNC" on Sun, 4 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ACT - HIPHOP / R&B / HOUSE / UKG / BASS -" on Thu, 8 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including akii, Anfisa Letyago, AVALON and Axwell and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including akii, Anfisa Letyago, AVALON and Axwell and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | SYNC |  |
 | Thu, 8 Oct 2026 | ACT - HIPHOP / R&B / HOUSE / UKG / BASS - |  |
 | Fri, 9 Oct 2026 | YONAGUNI FIESTA |  |
 | Sat, 10 Oct 2026 | SOUNDGATE - TECHNO / HOUSE - | Carpainter, DADO, FELINE (JP), HATSUYUKI, KOTSU, Kotono Shirai, Krankent, Mary-chan, Ririko, Seimei, Sekitova, Takkyu Ishino, maikoo |
@@ -18,6 +17,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with
 | Sat, 17 Oct 2026 | ＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE - | HK. (1), PONTA, WATARU |
 | Sun, 25 Oct 2026 | FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - | CRAZYHYUGA, HiTOMi |
 | Thu, 29 Oct 2026 | PRISM - All Underground Music |  |
+| Fri, 30 Oct 2026 | ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # m.O.N.R.O.E.
 
-m.O.N.R.O.E. is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Los Angeles on Sat, 3 Oct 2026.
+m.O.N.R.O.E. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
 
-m.O.N.R.O.E. is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: TBA, Los Angeles on Sat 3 Oct.
+m.O.N.R.O.E. is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Andrea Ghita, Jorissen and Kellie Allen. Next up: H0L0, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Los Angeles |
 | Sat, 7 Nov 2026 | H0L0 | New York City |
 
 ## Recently played

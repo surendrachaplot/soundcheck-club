@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ROVR" on Sun, 4 Oct 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ROVR" on Sun, 4 Oct 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Carl H, Connor, Dan Andrei and DJ MARIA. and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including AKIRAM EN, Carl H, Connor and Dan Andrei and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with li
 | Mon, 12 Oct 2026 | DOTT/levolant | DOTT, levolant |
 | Sat, 17 Oct 2026 | Elías Sternin / Karuta / Connor | Connor, Elias Sternin, Karuta |
 | Sat, 24 Oct 2026 | Bar Temp Take Over | Jirus (MELA), Kova O' Sarin, Sarayu, Wada Yosuke, levolant |
+| Mon, 2 Nov 2026 | stc | AKIRAM EN, LOST, Pointhope, SOGI |
 
 ## Address
 

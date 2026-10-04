@@ -1,14 +1,13 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
+Tash LC is a House and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ormside Projects, London on Fri, 16 Oct 2026.
 
-Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
+Tash LC is a house and dancehall artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: Ormside Projects, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | Ormside Projects | London |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |

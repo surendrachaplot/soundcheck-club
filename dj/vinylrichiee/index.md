@@ -1,14 +1,15 @@
 # Vinyl Richiee
 
-Vinyl Richiee is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
+Vinyl Richiee is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 17 Oct 2026.
 
-Vinyl Richiee is an electronica and disco artist based in United Kingdom, with 18 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: Sidney & Matilda, Sheffield on Sat 17 Oct.
+Vinyl Richiee is a disco and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: Sidney & Matilda, Sheffield on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Sidney & Matilda | Sheffield |
+| Sat, 7 Nov 2026 | The System | Sheffield |
 
 ## Recently played
 

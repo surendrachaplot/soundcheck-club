@@ -1,8 +1,8 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mezz, Netherlands on Sat, 10 Oct 2026.
+Erik Luebs is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mezz, Netherlands on Sat, 10 Oct 2026.
 
-Erik Luebs is a techno and house artist based in Japan, with 46 gigs on soundcheck across Amsterdam, Athens, Berlin and Brisbane and 16 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Mezz, Netherlands on Sat 10 Oct.
+Erik Luebs is a techno and house artist based in Japan, with 47 gigs on soundcheck across Amsterdam, Athens, Berlin and Brisbane and 17 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Mezz, Netherlands on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Erik Luebs is a techno and house artist based in Japan, with 46 gigs on soundche
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Mezz | Netherlands |
 | Fri, 16 Oct 2026 | Specka | Madrid |
+| Sat, 17 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 13 Nov 2026 | 宀 Club | Hong Kong |
 
 ## Recently played

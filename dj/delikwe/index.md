@@ -1,14 +1,13 @@
 # Delikwe
 
-Delikwe is a Ambient and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Combo Milano, Milan on Sun, 4 Oct 2026.
+Delikwe is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Thu, 8 Oct 2026.
 
-Delikwe is an ambient and dub artist based in Italy, with 28 gigs on soundcheck across Berlin, Lisbon and Milan. Often billed alongside SALTI, .VRIL and Al Paino. Next up: Combo Milano, Milan on Sun 4 Oct.
+Delikwe is an ambient and dub artist based in Italy, with 28 gigs on soundcheck across Berlin, Lisbon and Milan. Often billed alongside SALTI, .VRIL and Al Paino. Next up: Lux Fragil, Lisbon on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Combo Milano | Milan |
 | Thu, 8 Oct 2026 | Lux Fragil | Lisbon |
 
 ## Recently played

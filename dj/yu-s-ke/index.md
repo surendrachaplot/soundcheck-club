@@ -1,14 +1,13 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DeTour, Tokyo on Sun, 4 Oct 2026.
+YU-S-KE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sabaco Music & Cafe, Tokyo on Sat, 10 Oct 2026.
 
-YU-S-KE is a techno and house artist based in Japan, with 63 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Kulage. Next up: DeTour, Tokyo on Sun 4 Oct.
+YU-S-KE is a techno and house artist based in Japan, with 63 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Kulage. Next up: Sabaco Music & Cafe, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | DeTour | Tokyo |
 | Sat, 10 Oct 2026 | Sabaco Music & Cafe | Tokyo |
 | Sat, 10 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 17 Oct 2026 | WOMB | Tokyo |

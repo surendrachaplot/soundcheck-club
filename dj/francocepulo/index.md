@@ -1,13 +1,14 @@
 # Franco Cepulo
 
-Franco Cepulo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Electric Garden, Dublin on Fri, 30 Oct 2026.
+Franco Cepulo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Aye, Cork on Sat, 24 Oct 2026.
 
-Franco Cepulo is a techno and tech house artist, with 7 gigs on soundcheck across Cork and Dublin. Often billed alongside CHACHØU, AMR and An Daghdha. Next up: Electric Garden, Dublin on Fri 30 Oct.
+Franco Cepulo is a techno and tech house artist, with 8 gigs on soundcheck across Cork and Dublin. Often billed alongside CHACHØU, AMR and An Daghdha. Next up: Aye, Cork on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Aye | Cork |
 | Fri, 30 Oct 2026 | Electric Garden | Dublin |
 
 ## Recently played

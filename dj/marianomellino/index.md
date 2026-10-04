@@ -1,15 +1,13 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Sydney on Sun, 4 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mothership, Auckland on Fri, 9 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: TBA, Sydney on Sun 4 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: The Mothership, Auckland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | TBA | Sydney |
-| Sun, 4 Oct 2026 | Liberty Hall | Sydney |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Sat, 10 Oct 2026 | TBA | Melbourne |
@@ -20,6 +18,8 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 | Sat, 17 Oct 2026 | TBA - Over Club, PALMA DE MALLORCA. | Mallorca |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
+| Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 
 ## Recently played
 

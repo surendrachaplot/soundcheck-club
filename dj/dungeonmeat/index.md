@@ -1,6 +1,6 @@
 # Dungeon Meat
 
-Dungeon Meat is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
+Dungeon Meat is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
 
 Dungeon Meat is a house and minimal artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Chicago and 17 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: S.A.S.H in the Street, New South Wales on Sun 4 Oct.
 
@@ -9,7 +9,6 @@ Dungeon Meat is a house and minimal artist based in United Kingdom, with 65 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | S.A.S.H in the Street | New-south-wales |
-| Sun, 4 Oct 2026 | Home The Venue | Sydney |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 13 Nov 2026 | Digital | Newcastle |

@@ -1,14 +1,15 @@
 # Nonna Fab
 
-Nonna Fab is a Jazz and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Nonna Fab is a Jazz and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
-Nonna Fab is a jazz and funk / soul artist based in United Kingdom, with 94 gigs on soundcheck across Birmingham, Cardiff, Leeds and Liverpool and 5 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
+Nonna Fab is a jazz and funk / soul artist based in United Kingdom, with 95 gigs on soundcheck across Birmingham, Cardiff, Leeds and Liverpool and 5 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
+| Sat, 7 Nov 2026 | The System | Sheffield |
 | Sat, 21 Nov 2026 | Pan-Pan | Birmingham |
 | Sat, 13 Feb 2027 | The System | Sheffield |
 

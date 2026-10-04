@@ -1,14 +1,13 @@
 # Torus
 
-Torus is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sasazuka Bowl, Tokyo on Sun, 4 Oct 2026.
+Torus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
-Torus is a house and techno artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Sasazuka Bowl, Tokyo on Sun 4 Oct.
+Torus is a house and techno artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Sasazuka Bowl | Tokyo |
 | Thu, 22 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 

@@ -1,14 +1,13 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Avalon Emerson is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |

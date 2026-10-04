@@ -1,14 +1,13 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+DJ Nobu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at C12, Brussels on Fri, 9 Oct 2026.
 
-DJ Nobu is a techno and house artist based in Japan, with 232 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 59 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
+DJ Nobu is a techno and house artist based in Japan, with 232 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 59 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: C12, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Fri, 9 Oct 2026 | C12 | Brussels |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

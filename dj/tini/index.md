@@ -1,14 +1,13 @@
 # tINI
 
-tINI is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
+tINI is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
 
-tINI is a house and techno artist based in Germany, with 245 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Nowadays, New York City on Sat 3 Oct.
+tINI is a house and techno artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: The Loft, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Nowadays | New York City |
 | Fri, 9 Oct 2026 | The Loft | Manchester |
 | Sat, 10 Oct 2026 | Link | Bologna |
 | Fri, 16 Oct 2026 | Cobalt Studios | Newcastle |
@@ -18,6 +17,7 @@ tINI is a house and techno artist based in Germany, with 245 gigs on soundcheck 
 | Sat, 7 Nov 2026 | Curador Club Social | Cali |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Fri, 4 Dec 2026 | TBA - East Williamsburg | New-york-city |
 | Fri, 11 Dec 2026 | Moon Club | Bristol |
 | Sat, 12 Dec 2026 | fabric | London |
 

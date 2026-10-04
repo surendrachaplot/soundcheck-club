@@ -1,13 +1,14 @@
 # April (UK)
 
-April (UK) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+April (UK) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
-April (UK) is a techno and electro artist based in United Kingdom, with 66 gigs on soundcheck across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
+April (UK) is a techno and electro artist based in United Kingdom, with 67 gigs on soundcheck across Berlin, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: Sensorium, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Sensorium | Berlin |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
 

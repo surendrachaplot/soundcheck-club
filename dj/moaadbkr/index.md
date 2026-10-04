@@ -13,7 +13,7 @@ Moaad BKR is a house and techno artist based in Canada, with 68 gigs on soundche
 
 ## Recently played
 
-- TBA, Montreal · Sat, 3 Oct 2026
+- Breakglass Studios, Montreal · Sat, 3 Oct 2026
 - feedbk, New York City · Fri, 25 Sept 2026
 - Starlane Pizza Bar, London · Fri, 18 Sept 2026
 - TBA - Secret Location (Madrid), Madrid · Sat, 12 Sept 2026

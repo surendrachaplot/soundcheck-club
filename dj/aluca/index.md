@@ -1,14 +1,13 @@
 # ALUCA
 
-ALUCA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
+ALUCA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Socore Factory, Osaka on Fri, 30 Oct 2026.
 
-ALUCA is a techno and house artist based in Japan, with 36 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kohei, AOKI takamasa and Tetsuo. Next up: Club Daphnia, Osaka on Sat 3 Oct.
+ALUCA is a techno and house artist based in Japan, with 36 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kohei, AOKI takamasa and Tetsuo. Next up: Socore Factory, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 | Fri, 30 Oct 2026 | Socore Factory | Osaka |
 
 ## Recently played

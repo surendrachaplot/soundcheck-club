@@ -1,14 +1,13 @@
 # The Pickle
 
-The Pickle is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Pickle" on Sat, 3 Oct 2026.
+The Pickle is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Pickle" on Fri, 16 Oct 2026.
 
-The Pickle is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1morning, Anthea, Danny Daze and David Berrie and 2 more. See dates, start times and who's playing. 1395 NW 57th Ave.
+The Pickle is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including 1morning, Anthea, Danny Daze and David Berrie and 2 more. See dates, start times and who's playing. 1395 NW 57th Ave.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Pickle |  |
 | Fri, 16 Oct 2026 | The Pickle |  |
 | Sun, 18 Oct 2026 | Satellite: The Pickle x III Points |  |
 | Fri, 30 Oct 2026 | Free Acid Halloween Edition with Un_Mute |  |
@@ -18,6 +17,7 @@ The Pickle is a music venue in Miami listed on soundcheck. 13 upcoming gigs, wit
 | Wed, 25 Nov 2026 | The Pickle |  |
 | Thu, 3 Dec 2026 | Where Are My Keys - Miami Basel (4 Days) | 1morning, Anthea, Danny Daze, David Berrie, Demi Riquisimo, Desyn, Dyed Soundorom, Dylan Payne, Edward, Enzo Siragusa, Fumiya Tanaka, Hugo Martinez, Inbal, Isaac Carter, Janina, Lulah Francs, Make A Dance, Midnight Magic, Mike Servito, Mystic Bill, Puma (US), R/V Calypso, Rafa (1), Raphael Carrau, Ricardo Villalobos, Rimaye, Shokh, Shonky, Shubostar, Spacetravel, Terence Tabeau, Tomas Station, Will Renuart, tINI |
 | Fri, 11 Dec 2026 | The Pickle |  |
+| Fri, 18 Dec 2026 | The Pickle |  |
 
 ## Address
 

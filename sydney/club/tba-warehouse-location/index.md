@@ -1,8 +1,8 @@
-# TBA - Warehouse Location
+# TBA - Warehouse Location 
 
-TBA - Warehouse Location is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Unbound presents: Compulsion // Emma Rak, Cow Tools, Seo, Puccikat" on Fri, 9 Oct 2026.
+TBA - Warehouse Location  is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Unbound presents: Compulsion // Emma Rak, Cow Tools, Seo, Puccikat" on Fri, 9 Oct 2026.
 
-TBA - Warehouse Location is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Klock, Cow Tools, Emma Rak and fumi (DE) and 2 more. See dates, start times and who's playing.
+TBA - Warehouse Location  is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Klock, Cow Tools, Emma Rak and fumi (DE) and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

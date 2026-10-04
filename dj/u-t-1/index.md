@@ -1,14 +1,13 @@
 # U-T
 
-U-T is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Numm, Tokyo on Sat, 3 Oct 2026.
+U-T is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 6 Oct 2026.
 
-U-T is a house and techno artist based in Japan, with 72 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside AMANE, Gonno and Kenjamode. Next up: Numm, Tokyo on Sat 3 Oct.
+U-T is a house and techno artist based in Japan, with 72 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside AMANE, Gonno and Kenjamode. Next up: Enter Shibuya, Tokyo on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Numm | Tokyo |
 | Tue, 6 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Miguel Clark
 
-Miguel Clark is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
+Miguel Clark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Miguel Clark is a techno and house artist based in Venezuela, with 14 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: TBA - DTLA, Los Angeles on Sat 3 Oct.
+Miguel Clark is a techno and house artist based in Venezuela, with 14 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - DTLA | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

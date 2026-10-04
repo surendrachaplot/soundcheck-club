@@ -1,14 +1,13 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Hasvat Informant is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Sat, 10 Oct 2026.
 
-Hasvat Informant is a techno and house artist based in Australia, with 67 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Hasvat Informant is a techno and house artist based in Australia, with 67 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: FOLD, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 | Sun, 15 Nov 2026 | Fitzroy | Berlin |

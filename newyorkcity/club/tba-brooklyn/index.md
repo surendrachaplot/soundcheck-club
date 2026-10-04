@@ -1,14 +1,13 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MERGE all night long: Rrose" on Sat, 3 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Techno Brooklyn presents Cristobal Pesce" on Fri, 9 Oct 2026.
 
-TBA - Brooklyn is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Alfonso Javier, Annie Lew, Battygyal and Concrete Husband and 2 more. See dates, start times and who's playing.
+TBA - Brooklyn is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Alfonso Javier, Annie Lew, Battygyal and Concrete Husband and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | MERGE all night long: Rrose | Rrose |
 | Fri, 9 Oct 2026 | Techno Brooklyn presents Cristobal Pesce | Cristobal Pesce |
 | Sat, 10 Oct 2026 | Techno Brooklyn presents USH |  |
 | Sat, 17 Oct 2026 | PLAY ME TECHNO XII | Alfonso Javier, Battygyal, Concrete Husband, Feonix (2), KYRUH, OCTI, SKIN CONTACT, sydfalls |

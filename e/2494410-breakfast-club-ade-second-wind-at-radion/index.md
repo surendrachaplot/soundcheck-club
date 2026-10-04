@@ -25,6 +25,6 @@ Breakfast Club ADE: Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 artists: 
 - OK Williams
 - PHIA
 - Vasco
-- Yumi
+- Yu Mi
 
 *Source: [soundcheck](https://soundcheck.club/e/2494410-breakfast-club-ade-second-wind-at-radion/)*

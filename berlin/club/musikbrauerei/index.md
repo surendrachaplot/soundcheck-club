@@ -9,7 +9,7 @@ Musikbrauerei is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Dani Flow - Euro Tour |  |
-| Sat, 14 Nov 2026 | VOLLKOMMEN — Fourth Anniversary |  |
+| Sat, 14 Nov 2026 | VOLLKOMMEN - Fourth Anniversary |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sydney Glass Island, Sydney on Sun, 4 Oct 2026.
+Chris Luno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hotel Cecil, Copenhagen on Fri, 16 Oct 2026.
 
-Chris Luno is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Sydney Glass Island, Sydney on Sun 4 Oct.
+Chris Luno is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Hotel Cecil, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Sydney Glass Island | Sydney |
 | Fri, 16 Oct 2026 | Hotel Cecil | Copenhagen |
 
 ## Recently played

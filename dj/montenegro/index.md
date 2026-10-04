@@ -1,13 +1,14 @@
 # Montenegro
 
-Montenegro is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
+Montenegro is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Rincón de las Montañas, Estado de México, Estado-de-m-xico on Sun, 4 Oct 2026.
 
-Montenegro is a techno and progressive house artist based in Mexico, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 3 more. Often billed alongside Julietta Ferrari, Europa and Global. Next up: Razzmatazz, Barcelona on Fri 9 Oct.
+Montenegro is a techno and progressive house artist based in Mexico, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Estado De M Xico and 4 more. Often billed alongside Julietta Ferrari, Europa and Global. Next up: TBA - Rincón de las Montañas, Estado de México, Estado De M Xico on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | TBA - Rincón de las Montañas, Estado de México | Estado-de-m-xico |
 | Fri, 9 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

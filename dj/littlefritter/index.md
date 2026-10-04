@@ -1,14 +1,13 @@
 # Little Fritter
 
-Little Fritter is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Little Fritter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eatons Hill Hotel and Function Centre, Brisbane on Fri, 22 Jan 2027.
 
-Little Fritter is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Auckland, Bali, Brisbane and Dublin and 11 more. Often billed alongside FISHER, Vintage Culture and Andrea Oliva. Next up: The Ivy, Sydney on Sun 4 Oct.
+Little Fritter is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Auckland, Bali, Brisbane and Dublin and 11 more. Often billed alongside FISHER, Vintage Culture and Andrea Oliva. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Fri 22 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 
 ## Recently played

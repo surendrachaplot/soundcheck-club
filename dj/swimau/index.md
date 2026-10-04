@@ -1,14 +1,13 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+SWIM (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
 
-SWIM (AU) is a house and techno artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+SWIM (AU) is a house and techno artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Ijland, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
 | Sat, 21 Nov 2026 | Hackney Church | London |
 

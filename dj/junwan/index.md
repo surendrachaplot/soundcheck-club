@@ -1,14 +1,13 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Jun Wan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fraser Park, Sydney on Sat, 7 Nov 2026.
 
-Jun Wan is a techno and house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Assembler Code, Lorna Clarkson and N3BULA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Jun Wan is a techno and house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Assembler Code, Lorna Clarkson and N3BULA. Next up: Fraser Park, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Sat, 7 Nov 2026 | Club 77 | Sydney |
 

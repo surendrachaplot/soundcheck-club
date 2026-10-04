@@ -1,14 +1,13 @@
 # LEYA
 
-LEYA is a Experimental and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chmury, Warsaw on Sun, 4 Oct 2026.
+LEYA is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
-LEYA is an experimental and electronica artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Still House Plants. Next up: Chmury, Warsaw on Sun 4 Oct.
+LEYA is an experimental and electronica artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Still House Plants. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Chmury | Warsaw |
 | Sat, 10 Oct 2026 | Chiesetta Della Misericordia + Argo16 | Venice |
 | Sun, 11 Oct 2026 | TBA - Clap, Turin | North |
 | Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |

@@ -14,7 +14,7 @@ Badgalquirit is a techno and house artist based in Canada, with 52 gigs on sound
 
 ## Recently played
 
-- TBA, Montreal · Sat, 3 Oct 2026
+- Breakglass Studios, Montreal · Sat, 3 Oct 2026
 - Système, Montreal · Thu, 13 Aug 2026
 - TBA - mile ex, Montreal · Sat, 8 Aug 2026
 - TBA - Centre-sud, Montreal · Fri, 7 Aug 2026

@@ -1,14 +1,13 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chitei 地底, Tokyo on Sun, 4 Oct 2026.
+AISHA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-AISHA is a techno and trance artist based in United Kingdom, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 45 more. Often billed alongside franck, Azyr and Faster Horses. Next up: Chitei 地底, Tokyo on Sun 4 Oct.
+AISHA is a techno and trance artist based in United Kingdom, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 45 more. Often billed alongside franck, Azyr and Faster Horses. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Chitei 地底 | Tokyo |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Sat, 24 Oct 2026 | Mia Mao | Paris |
 | Sat, 14 Nov 2026 | ROSA | Berlin |

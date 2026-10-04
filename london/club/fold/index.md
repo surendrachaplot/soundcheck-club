@@ -15,7 +15,7 @@ FOLD is a music venue in London listed on soundcheck. 25 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Goodness: John Talabot, Oceanic b2b rRoxymore, RAMZi, I:Cube, Elena Colombi, Michael J Blood | Elena Colombi, I:Cube, John Talabot, Michael J. Blood, OK EG, Oceanic, Older Brother, RAMZi, Wednesday, georg-i, rRoxymore |
 | Fri, 23 Oct 2026 | ✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ | Bailey Ibbs, Truncate, aalice |
 | Fri, 23 Oct 2026 | FWD>> | Dubrunner, Introspekt, Katiusha, Untold, livwutang, x3butterfly |
-| Fri, 30 Oct 2026 | Art Of Dark - Halloween | DC Salas, GNMR, Praslea, Praslesh, Raresh, Wendy Bkz, Wilba, dj vau, sohrab. |
+| Fri, 30 Oct 2026 | Art Of Dark - Halloween - Praslesh (Raresh B2B Praslea), DC Salas (live), GNMR, Wendy + more | DC Salas, GNMR, Praslea, Praslesh, Raresh, Wendy Bkz, Wilba, dj vau, sohrab. |
 | Sat, 31 Oct 2026 | Origins: The Ghost (All Day Long) | The Ghost |
 | Sat, 31 Oct 2026 | Origins: Roza Terenzi & D. Tiffany (All Night Long) + Mama Snake, THC | D. Tiffany, Mama Snake, Roza Terenzi, THC |
 

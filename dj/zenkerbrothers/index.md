@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Zenker Brothers is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Zenker Brothers is a techno and house artist based in Germany, with 153 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
-| Sat, 3 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Thu, 8 Oct 2026 | TBA | Boston |
 | Sat, 10 Oct 2026 | TBA - Announced to Ticketholders Day Of | Seattle |
 | Sun, 11 Oct 2026 | TBA | Vancouver |

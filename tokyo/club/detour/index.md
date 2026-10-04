@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TECHNOTES" on Sun, 4 Oct 2026.
+DeTour is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DT TUESDAY" on Tue, 6 Oct 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including BEPPU, CATRONICA, DJ B2B and FILM and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including BEPPU, CATRONICA, DJ B2B and FILM and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | TECHNOTES | BEPPU, YU-S-KE |
 | Tue, 6 Oct 2026 | DT TUESDAY | BEPPU, FILM, Saku NewMoon |
 | Thu, 8 Oct 2026 | UNKNOWN |  |
 | Fri, 9 Oct 2026 | TECHNO ROOM | BEPPU, Jay Turio, KASHIWAGI, Krankent |

@@ -1,14 +1,13 @@
 # ANiIIIIiiiKii
 
-ANiIIIIiiiKii is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Forestlimit, Tokyo on Sun, 4 Oct 2026.
+ANiIIIIiiiKii is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 15 Oct 2026.
 
-ANiIIIIiiiKii is a house and techno artist based in Japan, with 59 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FELINE (JP), EUREKA and Yuto Sasaki. Next up: Forestlimit, Tokyo on Sun 4 Oct.
+ANiIIIIiiiKii is a house and techno artist based in Japan, with 59 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FELINE (JP), EUREKA and Yuto Sasaki. Next up: BRAND SHIBUYA, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Forestlimit | Tokyo |
 | Thu, 15 Oct 2026 | BRAND SHIBUYA | Tokyo |
 | Sat, 31 Oct 2026 | Aoyama Hachi | Tokyo |
 

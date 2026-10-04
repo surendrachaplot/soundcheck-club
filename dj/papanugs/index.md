@@ -1,14 +1,13 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Papa Nugs is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 9 Oct 2026.
 
-Papa Nugs is a house and techno artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: The Ivy, Sydney on Sun 4 Oct.
+Papa Nugs is a house and techno artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: fabric, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | fabric | London |
 | Fri, 16 Oct 2026 | Meraki | Liverpool |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |

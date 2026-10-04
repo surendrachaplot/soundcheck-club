@@ -1,8 +1,8 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kacper & Jasper present: A Night Of City Pop 3.0" on Sat, 17 Oct 2026.
+Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kacper & Jasper present: A Night Of City Pop 3.0" on Sat, 17 Oct 2026.
 
-Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including F3rg13, Kacper Pieta and Megan Wroe. See dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
+Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Scissher, F3rg13, Kacper Pieta and Megan Wroe and 1 more. See dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcomi
 | Sat, 31 Oct 2026 | CFN X CROP: Spooky Disco |  |
 | Fri, 27 Nov 2026 | Revamp 9th Birthday |  |
 | Fri, 11 Dec 2026 | The Danger Zone | F3rg13, Megan Wroe |
+| Thu, 31 Dec 2026 | Hello Darling - New Years Eve | DJ Scissher, Treble Gemini |
 
 ## Address
 

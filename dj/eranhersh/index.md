@@ -2,7 +2,7 @@
 
 Eran Hersh is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Desa Kitsune, Bali on Tue, 6 Oct 2026.
 
-Eran Hersh is an afro house and house artist, with 44 gigs on soundcheck across Amsterdam, Bali, Berlin and Düsseldorf and 12 more. Often billed alongside Hugel, Savage & She and Juany Bravo. Next up: Desa Kitsune, Bali on Tue 6 Oct.
+Eran Hersh is an afro house and house artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Bali, Berlin and Düsseldorf and 12 more. Often billed alongside Hugel, Savage & She and Juany Bravo. Next up: Desa Kitsune, Bali on Tue 6 Oct.
 
 ## Upcoming shows
 

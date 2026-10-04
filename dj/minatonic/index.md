@@ -1,14 +1,13 @@
 # Mina Tonic
 
-Mina Tonic is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Mina Tonic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
 
-Mina Tonic is a house and techno artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Jane Decks. Next up: The Ivy, Sydney on Sun 4 Oct.
+Mina Tonic is a house and techno artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Jane Decks. Next up: The Red Rattler, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Sat, 24 Oct 2026 | The Red Rattler | Sydney |
 | Sat, 24 Oct 2026 | The Red Rattler | Sydney |
 

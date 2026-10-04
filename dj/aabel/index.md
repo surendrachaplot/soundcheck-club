@@ -1,14 +1,13 @@
 # AABEL
 
-AABEL is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Space Miami, Miami on Sat, 3 Oct 2026.
+AABEL is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-AABEL is an afro house and house artist based in United States of America, with 19 gigs on soundcheck across London and Miami. Often billed alongside Cami di Marzo, Pezlo MD and SIEGEL. Next up: Club Space Miami, Miami on Sat 3 Oct.
+AABEL is an afro house and house artist based in United States of America, with 19 gigs on soundcheck across London and Miami. Often billed alongside Cami di Marzo, Pezlo MD and SIEGEL. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Space Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

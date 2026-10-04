@@ -1,14 +1,13 @@
 # Tjade
 
-Tjade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Tjade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Luigis Hot Pizza Bali, Bali on Mon, 12 Oct 2026.
 
-Tjade is a house and techno artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 17 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: The Ivy, Sydney on Sun 4 Oct.
+Tjade is a house and techno artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 17 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Luigis Hot Pizza Bali, Bali on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Mon, 12 Oct 2026 | Luigis Hot Pizza Bali | Bali |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |

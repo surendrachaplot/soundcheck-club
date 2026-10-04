@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ＬＩＬＩＴＨ ✦" on Wed, 7 Oct 2026.
+ÆDEN is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 7 Oct 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | ＬＩＬＩＴＨ ✦ |  |
+| Wed, 7 Oct 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE |  |
 | Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Krackk, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |

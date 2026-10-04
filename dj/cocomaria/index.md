@@ -1,14 +1,13 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun, 4 Oct 2026.
+Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Carpet Shop, London on Fri, 16 Oct 2026.
 
-Coco Maria is a house and disco artist based in Mexico, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sun 4 Oct.
+Coco Maria is a house and disco artist based in Mexico, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: The Carpet Shop, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | The Carpet Shop | London |
 | Sat, 17 Oct 2026 | Faith in Strangers | South-east |
 | Fri, 23 Oct 2026 | La Paloma | Barcelona |

@@ -9,7 +9,7 @@ Bermondsey Social Club is a music venue in London listed on soundcheck. 2 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Honeydrip (Live) | Honeydrip |
-| Sat, 31 Oct 2026 | Dodgem Halloween |  |
+| Sat, 31 Oct 2026 | Dodgem Halloween: Taste of Cherry [Live], Kamran, Dodgem Residents |  |
 
 ## Address
 

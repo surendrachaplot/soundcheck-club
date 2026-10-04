@@ -1,14 +1,13 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Lost Sundays Block Party — October 4 [Long Weekend]" on Sun, 4 Oct 2026.
+The Ivy is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DnB Allstars (Sydney)" on Mon, 5 Oct 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Lost Sundays Block Party — October 4 [Long Weekend] | Bryson Hill, Casual P, Couch Mechanic, Elijah Something, Human Movement, Jacqui Cunningham, Lilian, Little Fritter, Mina Tonic, Mincy, Papa Nugs, Tjade |
 | Mon, 5 Oct 2026 | DnB Allstars (Sydney) | Camo & Krooked, Crossy, Disrupta, Kanine |
 | Sat, 10 Oct 2026 | ZURI feat. Alex Wann (FR) | Alex Wann, Maison Ware |
 | Sat, 17 Oct 2026 | Terminal V Sydney | AEREA, AKEYLAH, Azyr, Bailey Ibbs, Ben Hemsley, Emma Moon, Raredub, Trym, brookeloveshoney |

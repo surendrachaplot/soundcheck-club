@@ -1,14 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Brighton Sundae with WheelUP" on Sun, 4 Oct 2026.
+Patterns is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26" on Fri, 9 Oct 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, with line-ups including Dusky, George FitzGerald, Girls of the Internet and INKY MCKAY and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, with line-ups including Dusky, George FitzGerald, Girls of the Internet and INKY MCKAY and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
 | Fri, 9 Oct 2026 | GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 | INKY MCKAY, Vergano |
 | Sat, 17 Oct 2026 | Sexy Lady Massive presents: The Massive Tour | Sexy Lady Massive |
 | Sat, 17 Oct 2026 | Memory Box with James Zabiela | James Zabiela, Robin Ball |
@@ -18,6 +17,7 @@ Patterns is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Return To UKGrave (Halloween Special) |  |
 | Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
 | Sat, 7 Nov 2026 | Nick Hakim |  |
+| Fri, 20 Nov 2026 | Lukas & Frank live in Brighton | LUKAS & FRANK |
 
 ## Address
 

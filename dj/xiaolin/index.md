@@ -1,14 +1,13 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+Xiaolin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Xiaolin is a house and techno artist, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
+Xiaolin is a house and techno artist, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 | Fri, 20 Nov 2026 | DURO | Milan |
 | Fri, 20 Nov 2026 | DURO | Milan |

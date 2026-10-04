@@ -1,14 +1,13 @@
 # cosmolady
 
-cosmolady is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Room, Tokyo on Sun, 4 Oct 2026.
+cosmolady is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Débris, Tokyo on Fri, 9 Oct 2026.
 
-cosmolady is a house and techno artist based in Japan, with 100 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: The Room, Tokyo on Sun 4 Oct.
+cosmolady is a house and techno artist based in Japan, with 100 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: Débris, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Room | Tokyo |
 | Fri, 9 Oct 2026 | Débris | Tokyo |
 
 ## Recently played

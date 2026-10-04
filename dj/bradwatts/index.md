@@ -1,14 +1,14 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
+BRAD WATTS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Zumana Bali, Bali on Sat, 17 Oct 2026.
 
-BRAD WATTS is a house and deep house artist based in Australia, with 34 gigs on soundcheck across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
+BRAD WATTS is a house and deep house artist based in Australia, with 35 gigs on soundcheck across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: Zumana Bali, Bali on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Lucky Cat | Sydney |
+| Sat, 17 Oct 2026 | Zumana Bali | Bali |
 
 ## Recently played
 

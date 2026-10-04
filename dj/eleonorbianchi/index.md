@@ -2,7 +2,7 @@
 
 Eleonor Bianchi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
-Eleonor Bianchi is a techno and tech house artist based in Italy, with 10 gigs on soundcheck across Berlin. Often billed alongside Anika Maculangan, UniKhatu and BUTENKØ. Next up: Sensorium, Berlin on Wed 7 Oct.
+Eleonor Bianchi is a techno and tech house artist based in Italy, with 10 gigs on soundcheck across Berlin. Often billed alongside Anika Maculangan, UniKhatu and April (UK). Next up: Sensorium, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Eleonor Bianchi is a techno and tech house artist based in Italy, with 10 gigs o
 
 ## Shares bills with
 
-Anika Maculangan, UniKhatu, BUTENKØ
+Anika Maculangan, UniKhatu, April (UK)
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorbianchi/)*

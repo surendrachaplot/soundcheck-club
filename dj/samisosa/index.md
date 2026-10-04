@@ -2,7 +2,7 @@
 
 samisosa is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Honey's, New York City on Thu, 15 Oct 2026.
 
-samisosa is a drum & bass and jungle artist, with 36 gigs on soundcheck across New York City. Often billed alongside Lord of Ciphers, Dazegxd and Lovelydaze. Next up: Honey's, New York City on Thu 15 Oct.
+samisosa is a drum & bass and jungle artist based in United States of America, with 36 gigs on soundcheck across New York City. Often billed alongside Lord of Ciphers, Dazegxd and Lovelydaze. Next up: Honey's, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 

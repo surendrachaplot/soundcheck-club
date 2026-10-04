@@ -1,14 +1,13 @@
 # Mihak
 
-Mihak is a Tech House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Mihak is a Tech House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hertz, Seoul on Thu, 8 Oct 2026.
 
-Mihak is a tech house and electro artist based in South Korea, with 148 gigs on soundcheck across Bangkok, Osaka, Seoul and South Korea and 1 more. Often billed alongside Lyumin, Kang Seongmin and Krijka. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
+Mihak is a tech house and electro artist based in South Korea, with 148 gigs on soundcheck across Bangkok, Osaka, Seoul and South Korea and 1 more. Often billed alongside Lyumin, Kang Seongmin and Krijka. Next up: Hertz, Seoul on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - 고성 잼버리 수련장, 강원도 | South-korea |
 | Thu, 8 Oct 2026 | Hertz | Seoul |
 | Sat, 17 Oct 2026 | teller | Seoul |
 

@@ -1,14 +1,13 @@
 # MASOI
 
-MASOI is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+MASOI is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Blvck Water, Osaka on Sat, 31 Oct 2026.
 
-MASOI is a psytrance and techno artist based in Japan, with 35 gigs on soundcheck across Barcelona, Osaka and Tokyo. Often billed alongside YUKI.T, Tom Monkey and WOLT. Next up: 南港三角公園, Osaka on Sat 3 Oct.
+MASOI is a psytrance and techno artist based in Japan, with 35 gigs on soundcheck across Barcelona, Osaka and Tokyo. Often billed alongside YUKI.T, Tom Monkey and WOLT. Next up: Blvck Water, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | 南港三角公園 | Osaka |
 | Sat, 31 Oct 2026 | Blvck Water | Osaka |
 
 ## Recently played

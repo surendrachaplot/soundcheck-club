@@ -1,14 +1,15 @@
 # faron
 
-faron is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sekta Selekta, Krakow on Wed, 7 Oct 2026.
+faron is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sekta Selekta, Krakow on Wed, 7 Oct 2026.
 
-faron is a bass and techno artist based in Poland, with 64 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: Sekta Selekta, Krakow on Wed 7 Oct.
+faron is a bass and techno artist based in Poland, with 65 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: Sekta Selekta, Krakow on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | Sekta Selekta | Krakow |
+| Sat, 24 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 6 Nov 2026 | underiolo | Warsaw |
 
 ## Recently played

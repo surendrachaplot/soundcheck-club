@@ -1,13 +1,14 @@
 # Philip Kylberg
 
-Philip Kylberg is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Philip Kylberg is a Electro and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
 
-Philip Kylberg is an electro and ambient artist, with 18 gigs on soundcheck across Amsterdam, Berlin, Central and Manchester and 4 more. Often billed alongside Alessandro Baroncini, SEIYA and Medlock. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Philip Kylberg is an electro and ambient artist, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 5 more. Often billed alongside SEIYA, Alessandro Baroncini and Medlock. Next up: Casa Androna, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Casa Androna | Barcelona |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
@@ -23,6 +24,6 @@ Philip Kylberg is an electro and ambient artist, with 18 gigs on soundcheck acro
 
 ## Shares bills with
 
-Alessandro Baroncini, SEIYA, Medlock
+SEIYA, Alessandro Baroncini, Medlock
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*

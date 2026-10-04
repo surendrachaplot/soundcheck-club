@@ -1,6 +1,6 @@
 # Shades of Black at Hill Station Cafe
 
-Shades of Black at Hill Station Cafe on Sun 4 Oct, London. Funk / Soul and Afrobeat. See the line-up on soundcheck.
+Shades of Black at Hill Station Cafe on Sun 4 Oct, London. Afrobeat and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

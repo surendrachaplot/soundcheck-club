@@ -1,15 +1,13 @@
 # Phanta
 
-Phanta is a Electronica and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+Phanta is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX, Mexico City on Sun, 4 Oct 2026.
 
-Phanta is an electronica and ambient artist based in Mexico, with 93 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Tahres and Primordial Om. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
+Phanta is an electronica and ambient artist based in Mexico, with 93 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Tahres and Primordial Om. Next up: TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Madrid 15, Colonia Tabacalera, CDMX | Mexico City |
-| Sat, 3 Oct 2026 | CHICO | Mexico City |
 | Sun, 4 Oct 2026 | TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX | Mexico City |
 
 ## Recently played

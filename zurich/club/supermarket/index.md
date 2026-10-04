@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "INCLUSIONS 3 - INKLUSIVER DAY-RAVE" on Sat, 3 Oct 2026.
+Supermarket is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hidden Frequencies" on Fri, 9 Oct 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming gigs, with line-ups including 2M, AfroKillerz, Akyra and Alci and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including 2M, AfroKillerz, Akyra and Alci and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | INCLUSIONS 3 - INKLUSIVER DAY-RAVE | ERROR (LYRASIS) |
 | Fri, 9 Oct 2026 | Hidden Frequencies | Akyra, Fedo |
 | Sat, 10 Oct 2026 | CATS | And Hazel, De La Maso, Joe Vanditti |
 | Sat, 17 Oct 2026 | Mystika | AfroKillerz |

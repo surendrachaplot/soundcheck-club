@@ -1,14 +1,13 @@
 # KAITO.
 
-KAITO. is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Daphnia, Osaka on Sat, 3 Oct 2026.
+KAITO. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
 
-KAITO. is a house and techno artist based in Japan, with 42 gigs on soundcheck across Chubu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside TETSUO, AKIHIRO and Lomax. Next up: Club Daphnia, Osaka on Sat 3 Oct.
+KAITO. is a house and techno artist based in Japan, with 42 gigs on soundcheck across Chubu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside TETSUO, AKIHIRO and Lomax. Next up: Noon + Cafe, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 | Sat, 10 Oct 2026 | Noon + Cafe | Osaka |
 | Sat, 14 Nov 2026 | TBA - club (O)Utopos | Chubu |
 

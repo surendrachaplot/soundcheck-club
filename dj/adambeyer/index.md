@@ -1,14 +1,13 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun, 4 Oct 2026.
+Adam Beyer is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 9 Oct 2026.
 
-Adam Beyer is a techno and tech house artist based in Sweden, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun 4 Oct.
+Adam Beyer is a techno and tech house artist based in Sweden, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: LAB theCLUB, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore | Singapore |
 | Fri, 9 Oct 2026 | LAB theCLUB | Madrid |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 16 Oct 2026 | O der Klub | Vienna |

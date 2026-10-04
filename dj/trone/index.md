@@ -1,14 +1,13 @@
 # Tr One
 
-Tr One is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Racket Space, Dublin on Sun, 4 Oct 2026.
+Tr One is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Racket Space, Dublin on Sun, 11 Oct 2026.
 
-Tr One is a house and techno artist based in Ireland, with 60 gigs on soundcheck across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: The Racket Space, Dublin on Sun 4 Oct.
+Tr One is a house and techno artist based in Ireland, with 60 gigs on soundcheck across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and Hooligan. Next up: The Racket Space, Dublin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Racket Space | Dublin |
 | Sun, 11 Oct 2026 | The Racket Space | Dublin |
 
 ## Recently played

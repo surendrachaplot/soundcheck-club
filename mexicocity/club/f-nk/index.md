@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "West Side Project x Fünk" on Sat, 3 Oct 2026.
+Fünk is a music venue in Mexico City with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bon Vivant 10 Years" on Thu, 8 Oct 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 14 upcoming gigs, with line-ups including Alby Esc, Astroboii, BADSISTA and Bluecommand and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 13 upcoming gigs, with line-ups including Alby Esc, Astroboii, BADSISTA and Bluecommand and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | West Side Project x Fünk | MINÄ, Nosssia |
 | Thu, 8 Oct 2026 | Bon Vivant 10 Years | Mejia, Sakro |
 | Thu, 8 Oct 2026 | Silueta x Fünk |  |
 | Fri, 9 Oct 2026 | Disco Bacocho: María Nocheydía + Lorena + Solarx | LORENA (MX), Maria Nocheydía |
@@ -18,6 +17,7 @@ Fünk is a music venue in Mexico City listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 17 Oct 2026 | RA25: Mexico City | BADSISTA, Bluecommand, Pearson Sound, Valeriana |
 | Thu, 22 Oct 2026 | Dance Your Name: HalloVvvVeen | Fig (DYN), Koscoy, TRR, Vanilla Storm |
 | Fri, 23 Oct 2026 | Nesta + Eugle + TBA | Nesta |
+| Sat, 24 Oct 2026 | Querico: Move D + Hanzo Tono + Lily | Hanzo Tono, Lily (JP), Move D |
 
 ## Address
 

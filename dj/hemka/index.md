@@ -1,14 +1,13 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 1201 Franklin St, Vancouver on Sat, 3 Oct 2026.
+Hemka is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-Hemka is a techno and minimal techno artist based in France, with 48 gigs on soundcheck across Amsterdam, Berlin, Boston and Budapest and 17 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: 1201 Franklin St, Vancouver on Sat 3 Oct.
+Hemka is a techno and minimal techno artist based in France, with 48 gigs on soundcheck across Amsterdam, Berlin, Boston and Budapest and 17 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | 1201 Franklin St | Vancouver |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played

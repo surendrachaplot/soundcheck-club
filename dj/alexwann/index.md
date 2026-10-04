@@ -1,14 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Savaya Bali, Bali on Sun, 4 Oct 2026.
+Alex Wann is a Afro House and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sat, 10 Oct 2026.
 
-Alex Wann is an afro house and house artist based in France, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Savaya Bali, Bali on Sun 4 Oct.
+Alex Wann is an afro house and house artist based in France, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: The Ivy, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Savaya Bali | Bali |
 | Sat, 10 Oct 2026 | The Ivy | Sydney |
 | Sun, 11 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 16 Oct 2026 | Westlight Rooftop at The William Vale | New York City |
