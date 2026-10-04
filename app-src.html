@@ -5211,7 +5211,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1791058895407">
+<meta name="sc-build" content="1791072149800">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5414,7 +5414,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // /london/. Bump whenever a city is added or the payload changes. Kept in step
     // with the app's CITIES_V (soundcheck-native src/api.ts); the endpoints differ,
     // but one number is easier to keep honest than two.
-    var CITIES_V = '3';   // 2026-09-13: Helsinki added
+    var CITIES_V = '4';   // 2026-10-03: each city carries its tz (Tonight's "Since yesterday" rows). 2026-09-13: Helsinki added
     var YT_SETS_V = '11';   // 2026-10-02: SoundCloud lists now refresh; Cloudflare held yesterday's list for /api/soundcloud/sets, v11 busts the edge copy for every artist. 2026-09-28: v9 edge-cached the OLD popular pick; v10 busts it (popular itself is read from /api/artist). 2026-09-27: set-ownership verdict purge (1fe8818). 2026-09-19: sets ranked newest-first (a b2b no longer loses to an older solo), so play starts the most recent
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -15560,11 +15560,13 @@ a.dst-full-t:hover{text-decoration:underline}
       }, function(){ showToast('Couldn’t get your location. Check the permission.'); }, { enableHighAccuracy:false, timeout:9000, maximumAge:600000 });
     }
     onEl('pick-near','click',function(e){ e.stopPropagation(); toggleNear(); });
-    function renderEvents(events, eyebrowPrefix){
+    // lead = rows that go above the ranked list as they are (Tonight: last night's gigs still running).
+    function renderEvents(events, eyebrowPrefix, lead){
       stopActive();
+      lead=lead||[];
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a gig we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
-      var ordered=orderEvents(evs);
+      if(evs.length===0 && !lead.length){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a gig we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
+      var ordered=lead.concat(orderEvents(evs));
       _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
       paintCurrentGrid();
       rebuildLookup(ordered);
@@ -15607,7 +15609,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function fmtDateLabel(iso){ var d=new Date(iso+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
     function fmtRange(a,b){ var da=new Date(a+'T12:00:00'); return da.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'})+' – '+fmtDateLabel(b); }
     var currentDate=null, currentRange=null, mode='weekend', activePick='weekend';
-    // ── day strip: Tonight + the upcoming Fri/Sat/Sun are pinned; the week's other
+    // ── day strip: Yesterday, Tonight + the upcoming Fri/Sat/Sun are pinned; the week's other
     // days (anything between today and that Friday — i.e. the weekdays) collapse
     // under a "···" that expands them in place. A calendar tile covers anything
     // further out. syncChips() (name kept for callers) re-highlights the selection. ──
@@ -15648,6 +15650,7 @@ a.dst-full-t:hover{text-decoration:underline}
     var _stripMid=[], _stripExpanded=false, _stripFocus=null;
     function _addDaysISO(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return isoOf(d); }
     function _dtTile(iso, isToday){
+      if(isToday==='y') return '<button class="dt lab" type="button" data-iso="'+iso+'">Yesterday</button>';
       if(isToday) return '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>';
       var d=new Date(iso+'T12:00:00');
       return '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
@@ -15682,7 +15685,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var today=todayISO();
       // focus mode: a date beyond this week was picked → window centred on it (Tonight stays up front to jump back)
       if(_stripFocus){
-        var fh=_dtTile(today, true), flast=today;
+        var fh=_dtTile(_addDaysISO(today,-1), 'y')+_dtTile(today, true), flast=today;
         for(var fd=_addDaysISO(_stripFocus,-3); fd<=_addDaysISO(_stripFocus,3); fd=_addDaysISO(fd,1)){ if(fd>today){ fh+=_dtTile(fd, false); flast=fd; } }
         _renderStrip(fh, flast); return;
       }
@@ -15690,7 +15693,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var weekend=[fri,_addDaysISO(fri,1),_addDaysISO(fri,2)].filter(function(d){ return d!==today; });
       _stripMid=[]; for(var c=_addDaysISO(today,1); c<fri; c=_addDaysISO(c,1)) _stripMid.push(c);
       var expand = _stripExpanded || (currentDate && _stripMid.indexOf(currentDate)>=0);
-      var html=_dtTile(today, true);
+      var html=_dtTile(_addDaysISO(today,-1), 'y')+_dtTile(today, true);
       if(_stripMid.length>=2 && !expand) html+='<button class="dt dsell" id="dt-ell" type="button" aria-label="Show '+_stripMid.length+' more days">···<span class="dsell-c">'+_stripMid.length+'</span></button>';
       else _stripMid.forEach(function(iso){ html+=_dtTile(iso); });
       weekend.forEach(function(iso){ html+=_dtTile(iso); });
@@ -16050,7 +16053,7 @@ a.dst-full-t:hover{text-decoration:underline}
         try{
           var tomorrow=isoOf(new Date(Date.now()+86400000));
           var wd=weekendDatesFor(0);
-          [todayISO(), tomorrow, wd[0], wd[1]].forEach(prefetchDay);
+          [todayISO(), tomorrow, wd[0], wd[1], _addDaysISO(todayISO(),-1)].forEach(prefetchDay);
         }catch(_){}
       };
       if(window.requestIdleCallback) requestIdleCallback(run,{timeout:2500}); else setTimeout(run,1200);
@@ -16063,16 +16066,53 @@ a.dst-full-t:hover{text-decoration:underline}
       if(window.scFootHold) scFootHold();   // footer waits for the day's real cards
     }
 
+    // "YYYY-MM-DDTHH:MM" now, on the city's wall clock (RA times are local to the city).
+    // No tz from /api/cities (an old cached list) → the browser's clock.
+    function cityNowISO(){
+      var c=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===currentCity){ c=CITY_LIST[i]; break; } }
+      var d=new Date();
+      if(c && c.tz){
+        try{
+          var p={}; new Intl.DateTimeFormat('en-GB',{timeZone:c.tz,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'})
+            .formatToParts(d).forEach(function(x){ p[x.type]=x.value; });
+          return p.year+'-'+p.month+'-'+p.day+'T'+p.hour+':'+p.minute;
+        }catch(_){}
+      }
+      return isoOf(d)+'T'+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');
+    }
+    // Yesterday's gigs that have not ended yet (a club night 23:00 – 06:00, a day festival).
+    // A gig with no end time is left out: we cannot say it is still on.
+    function stillOn(events){
+      var now=cityNowISO();
+      return (events||[]).filter(function(e){
+        var end=e.endTime&&String(e.endTime).slice(0,16);
+        return end && /T\d{2}:\d{2}$/.test(end) && end>now;
+      }).sort(function(a,b){ return (b.attending||0)-(a.attending||0); })
+        .map(function(e){ return Object.assign({},e,{_day:'Since yesterday'}); });
+    }
     // single-day mode
     async function load(date, pick){
-      mode='day'; currentDate=date; activePick=pick||(date===todayISO()?'tonight':'date'); syncChips();
+      var today=todayISO(), yday=_addDaysISO(today,-1);
+      mode='day'; currentDate=date; activePick=pick||(date===today?'tonight':date===yday?'yesterday':'date'); syncChips();
       _retryLoad=function(){ load(date, pick); };
       setCityTitle(); history.replaceState(null,'',withCityQS('?date='+date));
-      setStatus('<span class="spinner"></span> Loading '+esc(fmtDateLabel(date))+'…'); skeletonGrid();
+      setStatus('<span class="spinner"></span> Loading '+esc(date===yday?'yesterday':fmtDateLabel(date))+'…'); skeletonGrid();
       try{
-        var json=await fetchDay(date);
+        // Tonight also asks for yesterday, for the gigs still running. That call never
+        // blocks or breaks Tonight: it fails soft and gives up after 2.5 s (the answer
+        // still lands in _dayCache for the next visit).
+        var yP = date===today ? Promise.race([
+          fetchDay(yday).catch(function(){ return null; }),
+          new Promise(function(r){ setTimeout(function(){ r(null); }, 2500); })
+        ]) : null;
+        var json=await fetchDay(date), yJson=yP ? await yP : null;
+        if(currentDate!==date || mode!=='day') return;   // another day was picked meanwhile
         setStatus('');
-        renderEvents(json.events, date===todayISO()?'Tonight':fmtDateLabel(date));
+        var evs=json.events;
+        if(date===yday) evs=(evs||[]).map(function(e){ return Object.assign({},e,{_day:'Yesterday'}); });
+        var lead=yJson?stillOn(yJson.events):null;
+        if(lead){ var seen={}; (evs||[]).forEach(function(e){ seen[String(e.id)]=1; }); lead=lead.filter(function(e){ return !seen[String(e.id)]; }); }   // a two-day event is listed on both days
+        renderEvents(evs, date===today?'Tonight':date===yday?'Yesterday':fmtDateLabel(date), lead);
         prefetchAround();
       }catch(err){ showGridError(); }
     }
