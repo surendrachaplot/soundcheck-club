@@ -1,16 +1,17 @@
 # Anetha
 
-Anetha is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Anetha is a techno and house artist based in France, with 211 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 61 more. Often billed alongside Mac Declos, VEL (MA) and SPFDJ. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
+Anetha is a techno and house artist based in France, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: Hï Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Nitsa Club | Barcelona |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Palladium | Geneva |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Thu, 19 Nov 2026 | Flash | Washington DC |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
@@ -19,7 +20,6 @@ Anetha is a techno and house artist based in France, with 211 gigs on soundcheck
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Anetha is a techno and house artist based in France, with 211 gigs on soundcheck
 
 ## Shares bills with
 
-Mac Declos, VEL (MA), SPFDJ
+Mac Declos, VEL (MA), DJ Gigola
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

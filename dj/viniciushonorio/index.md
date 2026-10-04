@@ -1,13 +1,14 @@
 # Vinicius Honorio
 
-Vinicius Honorio is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Frekuence, Tirana on Fri, 9 Oct 2026.
+Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Glove That Fits, London on Sun, 4 Oct 2026.
 
-Vinicius Honorio is a techno and dub techno artist based in Brazil, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bilbao and 16 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: Frekuence, Tirana on Fri 9 Oct.
+Vinicius Honorio is a techno and dub techno artist based in Brazil, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bilbao and 16 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: The Glove That Fits, London on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | The Glove That Fits | London |
 | Fri, 9 Oct 2026 | Frekuence | Tirana |
 | Fri, 16 Oct 2026 | Sigma | Ibiza |
 

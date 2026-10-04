@@ -1,14 +1,13 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Post Bar, Helsinki on Sat, 3 Oct 2026.
+Yushh is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
-Yushh is a bass and techno artist based in United Kingdom, with 113 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Post Bar, Helsinki on Sat 3 Oct.
+Yushh is a bass and techno artist based in United Kingdom, with 113 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Post Bar | Helsinki |
 | Sat, 10 Oct 2026 | Razzmatazz | Barcelona |
 | Fri, 30 Oct 2026 | radial | London |
 | Fri, 6 Nov 2026 | Soup | Manchester |

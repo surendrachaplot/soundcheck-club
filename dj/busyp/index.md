@@ -1,14 +1,13 @@
 # Busy P
 
-Busy P is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Rex Club, Paris on Sat, 3 Oct 2026.
+Busy P is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
-Busy P is a house and electro artist based in France, with 51 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Geneva and 13 more. Often billed alongside Tatyana Jane, Breakbot and Myd. Next up: Rex Club, Paris on Sat 3 Oct.
+Busy P is a house and electro artist based in France, with 51 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Geneva and 13 more. Often billed alongside Tatyana Jane, Breakbot and Myd. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Rex Club | Paris |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
 
 ## Recently played

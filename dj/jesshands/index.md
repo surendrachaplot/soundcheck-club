@@ -1,14 +1,14 @@
 # Jess Hands
 
-Jess Hands is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
+Jess Hands is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
 
-Jess Hands is a techno and house artist based in United Kingdom, with 47 gigs on soundcheck across Birmingham, Brighton, Bristol and Copenhagen and 4 more. Often billed alongside Michelle Manetti, Jay Carder and Jaye Ward. Next up: The Loco Klub, Bristol on Sat 3 Oct.
+Jess Hands is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Brighton, Bristol and Copenhagen and 4 more. Often billed alongside Michelle Manetti, Jay Carder and Jaye Ward. Next up: The Glove That Fits, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Loco Klub | Bristol |
+| Sat, 28 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
 

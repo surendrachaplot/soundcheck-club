@@ -1,14 +1,13 @@
 # auto_timer
 
-auto_timer is a Latin Bass and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+auto_timer is a Latin Bass and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
-auto_timer is a latin bass and baile funk artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+auto_timer is a latin bass and baile funk artist based in Brazil, with 42 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Fri, 9 Oct 2026 | ÆDEN | Berlin |
 | Sat, 17 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 

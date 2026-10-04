@@ -1,14 +1,13 @@
 # Goth-Trad
 
-Goth-Trad is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Goth-Trad is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Jazz Cafe, London on Tue, 6 Oct 2026.
 
-Goth-Trad is a dubstep and bass artist based in Japan, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Goth-Trad is a dubstep and bass artist based in Japan, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE. Next up: The Jazz Cafe, London on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Tue, 6 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played

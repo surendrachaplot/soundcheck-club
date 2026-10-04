@@ -1,15 +1,13 @@
 # Kasra
 
-Kasra is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Kasra is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-Kasra is a drum & bass and bass artist based in United Kingdom, with 58 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 18 more. Often billed alongside Enei, Jakes and Mantmast. Next up: The Red Room, Vancouver on Sat 3 Oct.
+Kasra is a drum & bass and bass artist based in United Kingdom, with 58 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 18 more. Often billed alongside Enei, Jakes and Mantmast. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Red Room | Vancouver |
-| Sat, 3 Oct 2026 | The Red Room | Vancouver |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Hidden | Manchester |
 | Fri, 11 Dec 2026 | Volks | Brighton |

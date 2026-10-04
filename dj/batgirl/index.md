@@ -1,14 +1,13 @@
 # batgirl
 
-batgirl is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
+batgirl is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
 
-batgirl is a techno and electro artist based in United Kingdom, with 19 gigs on soundcheck across Brighton and London. Often billed alongside Ruby SD, Jacob Trip and Jiminy Watts. Next up: NDR2 Red Room, London on Sat 3 Oct.
+batgirl is a techno and electro artist based in United Kingdom, with 19 gigs on soundcheck across Brighton and London. Often billed alongside Ruby SD, Jacob Trip and Jiminy Watts. Next up: Avalon Cafe Bermondsey, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NDR2 Red Room | London |
 | Fri, 23 Oct 2026 | Avalon Cafe Bermondsey | London |
 
 ## Recently played

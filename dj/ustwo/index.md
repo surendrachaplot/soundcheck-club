@@ -1,14 +1,13 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Basic Club, Naples on Sat, 3 Oct 2026.
+Us Two is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Weekend, Berlin on Sat, 10 Oct 2026.
 
-Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Basic Club, Naples on Sat 3 Oct.
+Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: Weekend, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Basic Club | Naples |
 | Sat, 10 Oct 2026 | Weekend | Berlin |
 | Sat, 17 Oct 2026 | 93 Feet East | London |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |

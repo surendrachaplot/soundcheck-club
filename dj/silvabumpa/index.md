@@ -1,14 +1,13 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Love Inn, Bristol on Sat, 3 Oct 2026.
+Silva Bumpa is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Limelight, Belfast on Fri, 9 Oct 2026.
 
-Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: The Love Inn, Bristol on Sat 3 Oct.
+Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: The Limelight, Belfast on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Love Inn | Bristol |
 | Fri, 9 Oct 2026 | The Limelight | Belfast |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | SWG3 | Glasgow |
@@ -19,6 +18,7 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs 
 | Fri, 30 Oct 2026 | Badaboum | Paris |
 | Sat, 31 Oct 2026 | Fuse | Brussels |
 | Thu, 19 Nov 2026 | One22 | Canberra |
+| Sat, 21 Nov 2026 | Liberty Hall | Sydney |
 | Sat, 21 Nov 2026 | Liberty Hall | Sydney |
 
 ## Recently played

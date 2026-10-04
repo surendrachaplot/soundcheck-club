@@ -1,14 +1,13 @@
 # Koboyo
 
-Koboyo is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Koboyo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 9 Oct 2026.
 
-Koboyo is a techno and trance artist based in France, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Gotec, Karlsruhe on Sat 3 Oct.
+Koboyo is a techno and trance artist based in France, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Karmen Camina, Strasbourg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 9 Oct 2026 | Karmen Camina | Strasbourg |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
 

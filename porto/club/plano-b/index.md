@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Tiago Cruz" on Sat, 3 Oct 2026.
+Plano B is a music venue in Porto with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "NIGHTSHIFT - MadRaff + Xavier" on Thu, 8 Oct 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 17 upcoming gigs, with line-ups including 9T2, Alive, Bruno and Catarina Silva and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 16 upcoming gigs, with line-ups including 9T2, Alive, Bruno and Catarina Silva and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tiago Cruz | Rui Trintaeum |
 | Thu, 8 Oct 2026 | NIGHTSHIFT - MadRaff + Xavier |  |
 | Fri, 9 Oct 2026 | Gusta-vo |  |
 | Sat, 10 Oct 2026 | salute (AT) | Rúben Costa, Veludo, salute |
@@ -18,6 +17,7 @@ Plano B is a music venue in Porto listed on soundcheck. 17 upcoming gigs, with l
 | Thu, 22 Oct 2026 | NIGHTSHIFT - Alive + Pedro Tinoco | Alive |
 | Fri, 23 Oct 2026 | Catarina Silva | Catarina Silva |
 | Sat, 24 Oct 2026 | Nuno Lopes | Dupplo |
+| Thu, 29 Oct 2026 | NIGHTSHIFT - Paul Day + Matos |  |
 
 ## Address
 

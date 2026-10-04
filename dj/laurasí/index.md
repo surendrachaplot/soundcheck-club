@@ -1,6 +1,6 @@
 # Laura Sí
 
-Laura Sí is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
+Laura Sí is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Sat, 3 Oct 2026.
 
 Laura Sí is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Dorsch, Pilar Jordan and CAMI (DE). Next up: Beate Uwe, Berlin on Sat 3 Oct.
 
@@ -8,7 +8,6 @@ Laura Sí is a techno and house artist based in Germany, with 9 gigs on soundche
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beate Uwe | Berlin |
 | Sat, 3 Oct 2026 | Beate Uwe | Berlin |
 
 ## Recently played

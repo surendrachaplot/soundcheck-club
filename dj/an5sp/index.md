@@ -2,7 +2,7 @@
 
 AN5 (SP) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidecar, Barcelona on Sun, 4 Oct 2026.
 
-AN5 (SP) is a house and progressive house artist, with 13 gigs on soundcheck across Barcelona. Often billed alongside Ander Race, LASK and HNKS. Next up: Sidecar, Barcelona on Sun 4 Oct.
+AN5 (SP) is a house and progressive house artist based in Spain, with 13 gigs on soundcheck across Barcelona. Often billed alongside Ander Race, LASK and HNKS. Next up: Sidecar, Barcelona on Sun 4 Oct.
 
 ## Upcoming shows
 

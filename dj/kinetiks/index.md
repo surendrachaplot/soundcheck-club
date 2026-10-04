@@ -1,14 +1,13 @@
 # KINETIKS
 
-KINETIKS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 3 Oct 2026.
+KINETIKS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 17 Oct 2026.
 
-KINETIKS is a house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Skatecafe, Amsterdam on Sat 3 Oct.
+KINETIKS is a house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht and 1 more. Often billed alongside Lucky Done Gone, AUTOFLOWER and Kara Okay. Next up: Shelter Amsterdam, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 17 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Shelter Amsterdam | Amsterdam |
 

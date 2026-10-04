@@ -1,14 +1,13 @@
 # Tiga
 
-Tiga is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OCZKI, Warsaw on Sat, 3 Oct 2026.
+Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: OCZKI, Warsaw on Sat 3 Oct.
+Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: FOLD, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OCZKI | Warsaw |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | TBA - Metropolis Venue | Lithuania |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |

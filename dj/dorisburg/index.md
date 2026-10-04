@@ -1,14 +1,13 @@
 # Dorisburg
 
-Dorisburg is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UMI, Brussels on Sat, 3 Oct 2026.
+Dorisburg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
 
-Dorisburg is a techno and house artist based in Sweden, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Oberman, Laura BCR and Luigi Tozzi. Next up: UMI, Brussels on Sat 3 Oct.
+Dorisburg is a techno and house artist based in Sweden, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Oberman, Laura BCR and Luigi Tozzi. Next up: Bassiani, Tbilisi on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | UMI | Brussels |
 | Fri, 30 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 14 Nov 2026 | Collect LX Factory | Lisbon |
 

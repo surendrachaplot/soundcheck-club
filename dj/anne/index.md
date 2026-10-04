@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+ANNĒ is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
@@ -9,7 +9,6 @@ ANNĒ is a techno and house artist based in Greece, with 191 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
-| Sat, 3 Oct 2026 | glimmer | Hamburg |
 | Sat, 17 Oct 2026 | WDM | Hannover |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
@@ -20,6 +19,7 @@ ANNĒ is a techno and house artist based in Greece, with 191 gigs on soundcheck 
 | Sat, 21 Nov 2026 | WE club | Thessaloniki |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Manning Bar | Sydney |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 

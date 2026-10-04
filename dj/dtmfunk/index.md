@@ -1,14 +1,13 @@
 # DTM Funk
 
-DTM Funk is a House and Funk / Soul artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ampere, Antwerp on Sat, 3 Oct 2026.
+DTM Funk is a House and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Alte Feuerwache THF, Berlin on Fri, 16 Oct 2026.
 
-DTM Funk is a house and funk / soul artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Lefto Early Bird. Next up: Ampere, Antwerp on Sat 3 Oct.
+DTM Funk is a house and funk / soul artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Lefto Early Bird. Next up: Alte Feuerwache THF, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Ampere | Antwerp |
 | Fri, 16 Oct 2026 | Alte Feuerwache THF | Berlin |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Fri, 13 Nov 2026 | TRAUM | Antwerp |

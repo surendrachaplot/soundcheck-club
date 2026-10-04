@@ -1,14 +1,13 @@
 # Bitzer Maloney
 
-Bitzer Maloney is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 1520, Manchester on Sat, 3 Oct 2026.
+Bitzer Maloney is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
 
-Bitzer Maloney is an acid and techno artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside Schuttle, Jorg Kuning and Jane Fitz. Next up: 1520, Manchester on Sat 3 Oct.
+Bitzer Maloney is an acid and techno artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside Schuttle, Jorg Kuning and Jane Fitz. Next up: TBA, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | 1520 | Manchester |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
 

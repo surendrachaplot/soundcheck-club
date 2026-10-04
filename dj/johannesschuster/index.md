@@ -1,14 +1,13 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Spook Club, Valencia on Sat, 3 Oct 2026.
+Johannes Schuster is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
-Johannes Schuster is a techno and trance artist based in Germany, with 205 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Spook Club, Valencia on Sat 3 Oct.
+Johannes Schuster is a techno and trance artist based in Germany, with 205 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Spook Club | Valencia |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
@@ -20,6 +19,7 @@ Johannes Schuster is a techno and trance artist based in Germany, with 205 gigs 
 | Fri, 27 Nov 2026 | Schrotty | Cologne |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
+| Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 
 ## Recently played
 

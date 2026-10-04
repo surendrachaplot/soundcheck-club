@@ -10,6 +10,6 @@ Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck.
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Frizone Fredag på Flappen | Dennis DAFG, Entree |
 | Sat, 31 Oct 2026 | Perfect Slip | 3LNA, Exilee, Heddah, Ryong, Valeria Litvakov, Xenia Reaper |
-| Sun, 1 Nov 2026 | Summer Isn't Over Yet - Sunday Party at Pylonen - Langebro | Dennis DAFG, Entree, Frida(y), Halfdan Sandquist, NAT (SK), Peachlyfe, Shaan (2), YOON |
+| Sun, 1 Nov 2026 | Summer Isn't Over Yet - Sunday Party at Pylonen - Langebro | Dennis DAFG, Entree, Frida(y), Halfdan Sandquist, NAT(SK), Peachlyfe, Shaan (2), YOON |
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*

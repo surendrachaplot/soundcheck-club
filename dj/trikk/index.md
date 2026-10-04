@@ -1,14 +1,13 @@
 # Trikk
 
-Trikk is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Trikk is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
-Trikk is a house and techno artist based in Portugal, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Trikk is a house and techno artist based in Portugal, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: The Garage, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
 | Wed, 21 Oct 2026 | THE OTHER SIDE | Amsterdam |

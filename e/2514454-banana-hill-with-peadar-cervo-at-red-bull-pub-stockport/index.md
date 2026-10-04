@@ -1,6 +1,6 @@
 # Banana Hill with Peadar & Cervo at Red Bull Pub - Stockport
 
-Banana Hill with Peadar & Cervo at Red Bull Pub - Stockport on Sat 10 Oct, Manchester. 2 artists: Banana Hill and Cervo. Disco and Afrobeat. See the line-up on soundcheck.
+Banana Hill with Peadar & Cervo at Red Bull Pub - Stockport on Sat 10 Oct, Manchester. 2 artists: Banana Hill and Cervo. Afrobeat and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

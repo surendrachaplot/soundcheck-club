@@ -9,7 +9,7 @@ Planet Wax is a music venue in London listed on soundcheck. 32 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TIMELINES | Ben Repertoire, LMajor |
-| Sun, 4 Oct 2026 | SUNDAY SERVICE LIVE | Dexta, Slundarq, Uncle G |
+| Sun, 4 Oct 2026 | SUNDAY SERVICE LIVE | Amy  B, Slundarq, Uncle G |
 | Sun, 4 Oct 2026 | INFRARED.FM // Sunday Sessions | Azure, DJ Doubt, Interlude |
 | Wed, 7 Oct 2026 | OPEN DECKS |  |
 | Thu, 8 Oct 2026 | BASEPLATE: SAMSARA | SCARLETT, TILDA (2) |

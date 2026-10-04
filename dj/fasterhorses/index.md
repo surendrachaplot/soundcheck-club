@@ -1,14 +1,13 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
+Faster Horses is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: The Warehouse, Leeds on Sat 3 Oct.
+Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Warehouse | Leeds |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Village Underground | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
@@ -20,6 +19,7 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 250 gi
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Fri, 20 Nov 2026 | Lakota | Bristol |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

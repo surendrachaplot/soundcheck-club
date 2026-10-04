@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuse, Brussels on Sat, 3 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonnenraum, Berlin on Sun, 4 Oct 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Fuse, Brussels on Sat 3 Oct.
+Jennifer Loveless is a house and techno artist based in Australia, with 251 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Sonnenraum, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Fuse | Brussels |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |

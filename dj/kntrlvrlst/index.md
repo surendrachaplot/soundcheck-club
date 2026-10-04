@@ -1,14 +1,13 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+KNTRLVRLST is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
 
-KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
+KNTRLVRLST is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Gotec, Karlsruhe on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
 | Sat, 10 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |

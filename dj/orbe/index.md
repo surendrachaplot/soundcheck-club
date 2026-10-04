@@ -1,15 +1,13 @@
 # ORBE
 
-ORBE is a Techno and Minimal Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+ORBE is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-ORBE is a techno and minimal techno artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: Complejo Embrujo, South on Sat 3 Oct.
+ORBE is a techno and minimal techno artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | EXIT Glasgow | Glasgow |
 | Sat, 21 Nov 2026 | TBA - TRXX WRHS | Minneapolis-st-paul |

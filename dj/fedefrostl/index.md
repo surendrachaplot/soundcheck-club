@@ -1,14 +1,13 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loop, Vienna on Sat, 3 Oct 2026.
+Fede Frostl is a Progressive House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Roter Bogen, Vienna on Fri, 9 Oct 2026.
 
-Fede Frostl is a progressive house and electronica artist based in Austria, with 100 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Loop, Vienna on Sat 3 Oct.
+Fede Frostl is a progressive house and electronica artist based in Austria, with 100 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Roter Bogen, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Loop | Vienna |
 | Fri, 9 Oct 2026 | Roter Bogen | Vienna |
 | Fri, 16 Oct 2026 | Kramladen | Vienna |
 | Sat, 21 Nov 2026 | Jaz in the City | Vienna |

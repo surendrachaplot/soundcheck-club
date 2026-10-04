@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Terminal 1, Central on Sat, 3 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Film Studios, Gothenburg on Fri, 9 Oct 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Terminal 1, Central on Sat 3 Oct.
+Onlynumbers is a techno and hardcore artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Film Studios, Gothenburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Terminal 1 | Central |
 | Fri, 9 Oct 2026 | Film Studios | Gothenburg |
 | Sun, 11 Oct 2026 | TBA - Espacio Zity, Zaragoza | North |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
@@ -20,6 +19,7 @@ Onlynumbers is a techno and hardcore artist based in France, with 86 gigs on sou
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

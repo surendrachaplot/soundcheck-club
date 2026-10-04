@@ -1,14 +1,13 @@
 # JMT (2)
 
-JMT (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at House of Yes, New York City on Sat, 3 Oct 2026.
+JMT (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TV Lounge, Detroit on Sat, 10 Oct 2026.
 
-JMT is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Chicago, Denver, Detroit and Glasgow and 1 more. Often billed alongside Fullbodydurag, Disc Jockey George and Duck Trash. Next up: House of Yes, New York City on Sat 3 Oct.
+JMT is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Chicago, Denver, Detroit and Glasgow and 1 more. Often billed alongside Fullbodydurag, Disc Jockey George and Duck Trash. Next up: TV Lounge, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | House of Yes | New York City |
 | Sat, 10 Oct 2026 | TV Lounge | Detroit |
 
 ## Recently played

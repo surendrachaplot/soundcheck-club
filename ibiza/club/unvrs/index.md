@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "elrow Ibiza - CLOSING PARTY" on Sat, 3 Oct 2026.
+[UNVRS] is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Carl Cox - CLOSING PARTY" on Sun, 4 Oct 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | elrow Ibiza - CLOSING PARTY | ATT, Chelina Manuhutu, Ilario Alicante, Paco Osuna, Tini Gessler |
 | Sun, 4 Oct 2026 | Carl Cox - CLOSING PARTY | Carl Cox, Melon Bomb |
 | Mon, 5 Oct 2026 | Armin Van Buuren presents A State Of Trance - CLOSING PARTY | Armin van Buuren |
 | Tue, 6 Oct 2026 | TOP 100 DJS LIVE | Anastazja, Charlotte de Witte, Gordo (1), Korolova, Vintage Culture |

@@ -1,15 +1,13 @@
 # Eva Selezneva
 
-Eva Selezneva is a House and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Eva Selezneva is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
-Eva Selezneva is a house and experimental artist based in Ukraine, with 28 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Warsaw. Often billed alongside Miura, Bae Blade and Thabo. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+Eva Selezneva is a house and experimental artist based in Ukraine, with 28 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Warsaw. Often billed alongside Miura, Bae Blade and Thabo. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
-| Sat, 3 Oct 2026 | Jolene | Copenhagen |
 | Sat, 10 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Akua
 
-Akua is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 3 Oct 2026.
+Akua is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
 
-Akua is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Razzmatazz, Barcelona on Sat 3 Oct.
+Akua is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: BASEMENT, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |

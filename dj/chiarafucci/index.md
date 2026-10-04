@@ -1,14 +1,13 @@
 # Chiara Fucci
 
-Chiara Fucci is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nordstern, Basel on Sat, 3 Oct 2026.
+Chiara Fucci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
-Chiara Fucci is a techno and house artist based in Germany, with 6 gigs on soundcheck across Basel, Berlin, Freiburg and Stuttgart. Often billed alongside DJ PayPaul, FLEXTASY and KEN (DE). Next up: Nordstern, Basel on Sat 3 Oct.
+Chiara Fucci is a techno and house artist based in Germany, with 6 gigs on soundcheck across Basel, Berlin, Freiburg and Stuttgart. Often billed alongside DJ PayPaul, FLEXTASY and KEN (DE). Next up: KitKatClub, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Nordstern | Basel |
 | Fri, 30 Oct 2026 | KitKatClub | Berlin |
 
 ## Recently played

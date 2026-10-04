@@ -1255,13 +1255,6 @@
     .pillrow { display:flex; flex-wrap:wrap; gap:7px; }
     .pill-link { background:rgba(255,255,255,0.04); border:1px solid var(--border); color:var(--fg); border-radius:var(--radius-pill); padding:7px 13px; font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; }
     .pill-link:hover { border-color:var(--accent); color:var(--accent); }
-    .feed-row { display:flex; gap:11px; align-items:flex-start; padding:11px 2px; border-bottom:1px solid var(--border); }
-    .feed-row:last-child { border-bottom:none; }
-    .feed-row .fav { width:30px; height:30px; border-radius:var(--radius-pill); background:var(--accent); color:var(--ink); display:inline-flex; align-items:center; justify-content:center; font-weight:800; font-size:var(--fs-sm); text-transform:uppercase; flex-shrink:0; }
-    .feed-row .ft { font-size:var(--fs-base); line-height:1.4; }
-    .feed-row .ft b { font-weight:700; }
-    .feed-row .ft .lk { color:var(--accent); cursor:pointer; }
-    .feed-row .fw { color:var(--muted); font-size:var(--fs-xs); margin-top:2px; }
     .an.linky { cursor:pointer; }
     .an.linky:hover { color:var(--accent); text-decoration:underline; }
     .an-play { cursor:pointer; }   /* home grid: tapping the artist name plays their set */
@@ -2279,7 +2272,7 @@
     .auth-close { position:absolute; top:12px; right:12px; width:32px; height:32px; border-radius:var(--radius-pill); background:rgba(255,255,255,0.06); border:none; color:var(--fg); font-size:var(--fs-md); cursor:pointer; }
     @media (max-width:480px){ .account .who .hn { max-width:80px; } }
     /* avatars: generated marble or uploaded photo as a cover background */
-    .account .who .av, .hub-head .av-lg, .prof-av, .feed-row .fav, .panel-handle .av-lg { background-size:cover; background-position:center; background-repeat:no-repeat; }
+    .account .who .av, .hub-head .av-lg, .prof-av, .panel-handle .av-lg { background-size:cover; background-position:center; background-repeat:no-repeat; }
     .hub-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex-shrink:0; }
     .hub-head .av-edit .cam { position:absolute; right:-2px; bottom:-2px; width:22px; height:22px; border-radius:var(--radius-pill); background:var(--accent); color:var(--ink); border:2px solid var(--surface); display:flex; align-items:center; justify-content:center; }
     .hub-head .av-edit .cam svg { width:var(--icon-xs); height:var(--icon-xs); }
@@ -5207,11 +5200,74 @@ a.dst-full-t:hover{text-decoration:underline}
       .fp-hero .fp-hdna .vd-row{ padding:0; border:0; gap:16px; font:500 var(--fs-base)/22px var(--body); color:var(--fg); }
       .fp-hero .fp-hdna .vd-k{ flex:0 0 72px; font:700 var(--fs-2xs)/18px var(--font-mono); letter-spacing:.08em; color:var(--muted); }
     }
+    /* ═══ FRIENDS FEED (founder 4 Oct 2026; Paper NEXT "Friends feed (3 Oct)", entry option B) ═══
+       One 640 column at the content left edge (phones: full width). No boxes: hairlines between
+       posts. Every object is the page's own existing component, laid out as a row here. */
+    #hdr-friends{ width:41px; height:41px; border-width:1px; border-color:var(--border); }
+    .frd-dot{ position:absolute; top:-1px; right:-1px; width:10px; height:10px; border-radius:50%; background:var(--accent-grad) border-box; border:2px solid var(--bg); }
+    .frd-dot[hidden]{ display:none; }
+    @media(max-width:620px){ #hdr-friends{ margin-left:auto; } body.page-on #hdr-friends{ display:none; } }   /* phones: on Home only, at the right of the header row */
+    .frd{ max-width:640px; }
+    .frd-day{ padding-top:22px; font:700 var(--fs-2xs)/16px var(--font-mono); letter-spacing:.1em; text-transform:uppercase; color:var(--muted); }
+    .frd-post{ display:flex; flex-direction:column; gap:12px; padding:16px 0; }
+    .frd-post + .frd-post{ border-top:1px solid var(--line); }
+    .frd-hd{ display:flex; align-items:center; gap:10px; }
+    .frd-av{ flex:none; width:32px; height:32px; border-radius:50%; background:var(--surface-3) center/cover no-repeat; }
+    .frd-who{ flex:1; min-width:0; font:400 var(--fs-base)/20px var(--body); color:var(--muted); overflow-wrap:anywhere; }
+    .frd a.frd-lk{ font-weight:700; color:var(--fg); }
+    .frd a.frd-lk:hover{ text-decoration:underline; }
+    .frd-t{ flex:none; font:500 var(--fs-sm)/18px var(--body); color:var(--faint); }
+    .frd-obj{ display:flex; flex-direction:column; gap:16px; min-width:0; }
+    .frd-fold > .frd-it:nth-child(n+3){ display:none; }
+    .frd-more{ align-self:flex-start; margin:-6px 0 -10px; }
+    .frd-ln{ font:400 var(--fs-base)/20px var(--body); }
+    /* the diary stub: one a row, the full column */
+    .frd .dst{ padding:0; }
+    .frd .dst-grid{ grid-template-columns:minmax(0,1fr); }
+    /* the ONE set row, as a row at every width (the phone layout of .fp-skw) */
+    .frd .fp-skw{ display:flex; align-items:center; gap:12px; padding:0; }
+    .frd .fp-sk{ flex-direction:row; align-items:center; gap:12px; flex:1 1 auto; width:auto; }
+    .frd .fp-sk-th{ width:80px; height:45px; aspect-ratio:auto; flex:none; }
+    .frd .fp-sk-th .gen{ padding:5px; }
+    .frd .fp-sk-th .gen .gt, .frd .fp-sk-dur{ display:none; }
+    .frd .fp-sk-tx{ display:flex; flex-direction:column; gap:2px; flex:1 1 auto; }
+    .frd .fp-sk-ti{ font:700 var(--fs-base)/19px var(--body); letter-spacing:0; margin:0; min-height:0; }
+    .frd .fp-sk-ar{ margin:0; }
+    .frd .fp-sk-acts{ flex:none; margin:0 -13px 0 0; }
+    /* the line-up artist row: face, name + heart, the next gig under the name, play */
+    .frd .fp-lu{ display:grid; grid-template-columns:48px minmax(0,1fr) 44px; grid-template-areas:"f tx pl" "f at pl"; align-items:center; column-gap:8px; row-gap:3px; padding:0; border:0; }
+    .frd .fp-lu-face{ grid-area:f; width:48px; height:48px; }
+    .frd .fp-lu-tx{ grid-area:tx; width:auto; }
+    .frd .fp-lu-nm{ font-size:var(--fs-md); }
+    .frd .fp-lu-at{ grid-area:at; }
+    .frd .fp-lu-at:empty{ display:none; }
+    .frd .fp-lu-pl{ grid-area:pl; }
+    /* the Home gig row: no box, no side padding */
+    .frd .lvr, .frd .gcard.evc.lvr{ background:none; border:0; border-radius:0; box-shadow:none; padding:0; gap:12px; }
+    .frd .lvr .evc-play{ right:auto; bottom:auto; }   /* the card's offsets (.evc-play) push the disc out of a row */
+    /* a venue rating: her words, then the star lines she gave */
+    .frd-rv{ display:flex; flex-direction:column; gap:2px; }
+    .frd-rv-w{ margin-bottom:6px; font:500 var(--fs-base)/20px var(--body); color:var(--fg); }
+    .frd-rv-l{ display:flex; align-items:baseline; gap:12px; font:500 var(--fs-sm)/20px var(--body); color:var(--faint); }
+    .frd-rv-l > span:first-child{ flex:0 0 78px; }
+    .frd-rv-l .evm-stars{ font-weight:600; }
+    /* states */
+    .frd-st{ padding:72px 0; text-align:center; }
+    .frd-st b{ display:block; font:700 var(--fs-base)/22px var(--body); }
+    .frd-st p{ margin:6px 0 0; font:400 var(--fs-sm)/20px var(--body); color:var(--muted); }
+    .frd-st .fp-ab{ margin-top:16px; }
+    .frd-sug{ display:flex; flex-wrap:wrap; gap:4px 16px; padding:10px 0 24px; font:400 var(--fs-base)/24px var(--body); }
+    /* phones: Friends is its own screen. The back bar (the page's sticky bar, pinned) is the header. */
+    @media(max-width:620px){
+      .frd > .rad-hd, body:has(.frd) .wrap > nav, body:has(.frd) .promo{ display:none; }
+      .frd{ padding-top:56px; }
+    }
+    [data-ic="search"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18 11a7 7 0 1 1-14 0 7 7 0 0 1 14 0zM20 20l-4-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
 </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1791072149800">
+<meta name="sc-build" content="1791109181187">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5231,6 +5287,7 @@ a.dst-full-t:hover{text-decoration:underline}
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events, promoters and people"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events, promoters and people</span></button>
       <button class="fp-ab" id="hdr-log" data-ic="plus" type="button" style="display:none"><span>Log a gig</span></button>
+      <button class="fp-ib" id="hdr-friends" type="button" aria-label="Friends"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c0-3.2 2.7-5.2 6-5.2s6 2 6 5.2"/><path d="M15.5 5.2a3.2 3.2 0 0 1 0 5.6M17.5 14.2c2.1.6 3.5 2.3 3.5 4.8"/></svg><span class="frd-dot" id="frd-dot" hidden></span></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -5270,7 +5327,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">134 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">96 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">97 events</span></a></li><li><a href="/london/2026-10-10/">Sat 10 Oct <span class="c">120 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7889,6 +7946,7 @@ a.dst-full-t:hover{text-decoration:underline}
         document.getElementById('signup-btn').addEventListener('click',function(){ scOnboard('email','join'); });
       }
       paintPromo();
+      frdAuthChanged();
     }
 
     // ── Promo strip ───────────────────────────────────────────────────────────
@@ -9987,10 +10045,6 @@ a.dst-full-t:hover{text-decoration:underline}
       var row='<li><span class="sk" style="flex:0 0 46px;width:46px;height:46px;border-radius:50%"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:48%;height:13px;border-radius:5px;margin-bottom:11px"></span><span class="sk" style="display:block;width:82%;height:11px;border-radius:5px;margin-bottom:8px"></span><span class="sk" style="display:block;width:64%;height:11px;border-radius:5px"></span></div></li>';
       return '<ul class="cu-list cu-grid" aria-hidden="true">'+row+row+row+row+'</ul>';
     }
-    function feedSkeleton(){
-      var row=function(w){ return '<div class="feed-row"><span class="sk" style="flex-shrink:0;width:30px;height:30px;border-radius:var(--radius-pill)"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:'+w+';height:13px;border-radius:5px;margin-bottom:7px"></span><span class="sk" style="display:block;width:34%;height:9px;border-radius:4px"></span></div></div>'; };
-      return '<div style="margin-top:8px" aria-hidden="true">'+row('72%')+row('58%')+row('66%')+row('50%')+row('63%')+'</div>';
-    }
     // Blur-on-scroll header: frost the sticky top bar once the page scrolls (DS v2).
     (function(){
       var nav=document.querySelector('.wrap > nav'); if(!nav) return;
@@ -11237,7 +11291,7 @@ a.dst-full-t:hover{text-decoration:underline}
           } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
         { label:'Add an event', run:function(){ openImport(); } },
-        { label:'Feed', run:function(){ openFeed(); } },
+        { label:'Friends', run:function(){ openFriends(); } },
         { label:'Sign out', run:function(){ signOut(); } },
         { label:'Delete account', run:function(){ openDeleteAccountModal(); } }
       ]}); });
@@ -11623,33 +11677,187 @@ a.dst-full-t:hover{text-decoration:underline}
         b.parentNode.querySelectorAll('.cu-hide').forEach(function(x){ x.classList.remove('cu-hide'); }); b.remove();
       }); });
     }
-    async function openFeed(){
-      if(!currentUser){ openAuth(); return; }
-      setRoute('feed');
-      openPanel('<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>'+feedSkeleton());
+    // ═══ FRIENDS (founder 4 Oct 2026; Paper NEXT "Friends feed (3 Oct)", entry option B) ═══
+    // What the people you follow did, newest first, under day labels. It replaces the old
+    // text "Feed" page (#feed lands here). The server builds the posts, the verbs and the
+    // folding (GET /api/friends; the dot = GET /api/friends/new). Every object is drawn by
+    // the renderer its own page uses and wired by the same functions: the diary stub
+    // (dstStubHTML + wireDiary), the one set row (lsnCard + lsnPlay), the line-up artist row
+    // with the name heart, the Home gig row (listRow + wireCard + wireEvcCards).
+    var _frd={ seq:0, posts:[], people:{}, day:null }, _frdDotAt=0, _frdU=null;
+    var FRD_KINDS={ gig:1, clip:1, set:1, artist:1, seen:1, going:1, saved_gig:1, venue_rating:1, follow:1, handle:1 };
+    var FRD_STARS=[['sound','Sound'],['crowd','Crowd'],['toilets','Toilets']];
+    var FRD_SKEL='<div aria-hidden="true">'+[150,45].map(function(h){ return '<div class="frd-post"><div class="frd-hd"><span class="sk frd-av"></span><span class="sk" style="width:38%;height:12px;border-radius:4px"></span></div><span class="sk" style="display:block;height:'+h+'px;border-radius:10px"></span></div>'; }).join('')+'</div>';
+    function frdTZ(){ try{ return Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC'; }catch(_){ return 'UTC'; } }
+    function frdISO(ms){ try{ return new Date(ms).toLocaleDateString('en-CA',{ timeZone:frdTZ() }); }catch(_){ return new Date(ms).toISOString().slice(0,10); } }
+    // "Today", "Yesterday", then "Sat 27 Sep" (CSS prints them in capitals)
+    function frdDayLabel(day){
+      if(day===frdISO(Date.now())) return 'Today';
+      if(day===frdISO(Date.now()-86400000)) return 'Yesterday';
+      var d=new Date(day+'T12:00:00');
+      return isNaN(d)?'':d.toLocaleDateString('en-GB',{ weekday:'short', day:'numeric', month:'short' }).replace(/,/g,'').replace('Sept','Sep');
+    }
+    // "2h", "Fri", then "26 Sep"
+    function frdTime(iso){
+      var t=new Date(iso), s=(Date.now()-t.getTime())/1000; if(isNaN(s)) return '';
+      if(s<60) return 'now'; if(s<3600) return Math.floor(s/60)+'m'; if(s<86400) return Math.floor(s/3600)+'h';
+      return t.toLocaleDateString('en-GB', s<6*86400?{ weekday:'short' }:{ day:'numeric', month:'short' }).replace('Sept','Sep');
+    }
+    // Names are text links, never pills.
+    function frdUser(h){ return '<a class="nav frd-lk" href="'+esc(profileHref(h))+'" data-handle="'+esc(h)+'">u/'+esc(h)+'</a>'; }
+    function frdVenue(v){ return '<a class="nav frd-lk" href="'+esc(venueHref(v.name, v.citySlug))+'" data-venue="'+esc(v.name)+'"'+(v.citySlug?' data-city="'+esc(v.citySlug)+'"':'')+'>'+esc(v.name)+'</a>'; }
+    function frdTarget(t){
+      if(t.type==='user') return frdUser(t.handle);
+      if(t.type==='promoter') return '<a class="nav frd-lk" href="'+esc(promoterHref(t.slug))+'">'+esc(t.name||t.slug)+'</a>';
+      return frdVenue(t);
+    }
+    // One object of a post. `one` = a normal post (its venue / person rides the head line).
+    function frdItem(p, it, i, one){
+      var k=p.kind, h='';
+      if((k==='gig'||k==='clip') && it.entry){
+        _diaryById[it.entry.id]=it.entry;   // the tap opens HER full stub (dstOpen)
+        h='<div class="dst" data-handle="'+esc(p.actor.handle)+'"><div class="dst-grid">'+dstStubHTML(it.entry, false)+'</div></div>';
+      } else if(k==='set' && it.set){
+        var sk=lsnKey(it.set.id, it.set.source); if(sk && it.set.addedAt && !it.set.heardAt) _lsnAdded[lsnK(sk)]=1;   // YOUR bookmark
+        h=lsnCard(it.set, i);
+      } else if((k==='artist'||k==='seen') && it.artist){
+        var a=it.artist, ng=gigLine(a.nextGig), ah=' href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'"';
+        h='<div class="fp-lu"><a class="fp-lu-face nav"'+ah+' tabindex="-1" aria-hidden="true"'+(a.image?' style="background-image:url(\''+esc(imgUrl(a.image,120))+'\')"':'')+'></a>'+
+          '<div class="fp-lu-tx"><a class="fp-lu-nl nav"'+ah+'><div class="fp-lu-nm">'+esc(a.name)+'</div></a>'+nameHeartHTML(a.slug, a.name)+'</div>'+
+          '<div class="fp-lu-at">'+(ng?'<span class="fp-sk-ng">'+esc(ng)+'</span>':'')+'</div>'+
+          '<button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug)+'" aria-label="Play '+esc(a.name)+'">'+PLAY_SVG+'</button></div>';
+      } else if((k==='going'||k==='saved_gig') && it.gig){
+        h='<div data-fg="'+i+'"></div>';   // filled by frdGig once it is in the page
+      } else if(k==='venue_rating' && it.rating){
+        var rv=it.rating;
+        h=((rv.tags||[]).length?'<div class="frd-rv-w">'+esc(rv.tags.join(' · '))+'</div>':'')+
+          FRD_STARS.map(function(s){ var n=Math.min(5, +rv[s[0]]||0); return n>0?'<div class="frd-rv-l"><span>'+s[1]+'</span><span class="evm-stars" role="img" aria-label="'+n+' of 5">'+'★'.repeat(n)+'</span></div>':''; }).join('');
+        if(!one) h='<div class="frd-ln">'+frdVenue(rv.venue)+'</div>'+h;
+        if(h) h='<div class="frd-rv">'+h+'</div>';
+      } else if(k==='follow' && it.target && !one){
+        h='<div class="frd-ln">'+frdTarget(it.target)+'</div>';
+      }
+      return h?'<div class="frd-it">'+h+'</div>':'';
+    }
+    function frdPost(p, pi){
+      if(!p || !FRD_KINDS[p.kind] || !p.actor) return '';   // a kind from a later server: skip it
+      var its=p.items||[], one=its.length<2, who=p.actor.handle, it0=its[0]||{};
+      var tail=!one?'':(p.kind==='venue_rating' && it0.rating)?' '+frdVenue(it0.rating.venue):(p.kind==='follow' && it0.target)?' '+frdTarget(it0.target):'';
+      var objs=its.map(function(it, i){ return frdItem(p, it, i, one); }).filter(Boolean);
+      return '<div class="frd-post" data-pi="'+pi+'" data-kind="'+esc(p.kind)+'">'+
+        '<div class="frd-hd"><a class="frd-av nav" href="'+esc(profileHref(who))+'" data-handle="'+esc(who)+'" tabindex="-1" aria-hidden="true" style="background-image:'+avatarBg(who, (_frd.people[who]||{}).avatar)+'"></a>'+
+        '<div class="frd-who">'+frdUser(who)+' '+esc(p.verb||'')+tail+'</div><span class="frd-t">'+esc(frdTime(p.time))+'</span></div>'+
+        (objs.length?'<div class="frd-obj'+(objs.length>2?' frd-fold':'')+'">'+objs.join('')+'</div>':'')+
+        // a folded post: 2 rows, then the text link opens the rest in place
+        (objs.length>2?'<button class="fp-lk frd-more" type="button">Show '+(objs.length-2)+' more</button>':'')+'</div>';
+    }
+    // The Home gig row, wired as Home wires it (the row opens the gig, the disc plays the line-up).
+    function frdGig(el, g){
+      var ev={ id:g.id, title:g.title, venue:g.venue, genres:g.genres, _day:g.date?fmtDateLabel(g.date):'', _city:g.city||'',
+        startTime:g.startTime, endTime:g.endTime, poster:g.poster, has_sets:g.has_sets,
+        artists:(g.artists||[]).map(function(x){ return { name:x.name, contentUrl:'/dj/'+x.slug }; }) };
+      el.innerHTML='<div class="grid grid-list">'+listRow(ev)+'</div>';
+      wireCard(el); var m={}; m[String(g.id)]=ev; wireEvcCards(el, m);
+    }
+    function frdWire(root, from){
+      root.querySelectorAll('.frd-post[data-pi]').forEach(function(el){
+        var pi=+el.dataset.pi; if(pi<from) return;
+        var its=_frd.posts[pi].items||[];
+        el.querySelectorAll('.frd-it').forEach(function(x){ if(x.querySelector('.dst')) wireDiary(x, false); });
+        el.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(its.map(function(x){ return x.set||{}; }), +b.dataset.li); }); });
+        el.querySelectorAll('.fp-lu-pl[data-slug]').forEach(function(b){ b.addEventListener('click', function(){
+          var a=(its.filter(function(x){ return x.artist && x.artist.slug===b.dataset.slug; })[0]||{}).artist; if(!a) return;
+          playYtList([{ slug:a.slug, name:a.name, poster:a.image }], 0, { one:true });
+        }); });
+        el.querySelectorAll('[data-fg]').forEach(function(x){ frdGig(x, its[+x.dataset.fg].gig); });
+        var m=el.querySelector('.frd-more'); if(m) m.addEventListener('click', function(){ el.querySelector('.frd-obj').classList.remove('frd-fold'); m.remove(); });
+      });
+      lsnNowPaint();
+    }
+    // The states: signed out, you follow nobody, the load failed.
+    function frdState(el, kind, retry){
+      el.innerHTML= kind==='out' ? '<div class="frd-st"><b>Sign in to see your friends.</b><button class="fp-ab go" id="frd-in" data-ic="signin" type="button">Sign in</button></div>'
+        : kind==='empty' ? '<div class="frd-st"><b>Nobody here yet</b><p>Follow people to see their gigs, sets and clips.</p><button class="fp-ab" id="frd-find" data-ic="search" type="button">Find people</button></div>'
+        : '<div class="frd-st"><p>'+loadErr('the feed')+'</p><button class="fp-ab" id="frd-retry" data-ic="retry" type="button">Try again</button></div>';
+      el.querySelector('button').addEventListener('click', kind==='out'?function(){ scOnboard('email','signin'); }:kind==='empty'?function(){ openSearch(); }:retry);
+      if(kind==='empty') frdSuggest(el);
+    }
+    // "People you might know" (the old Feed page had it): plain text links, no pills, no counts.
+    async function frdSuggest(el){
       try{
-        var r=await authedFetch('/api/feed'); var j=await r.json(); var rows=j.events||[];
-        var h='<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>';
-        if(!rows.length){ h+='<div class="empty">Nothing here yet. Follow a few people and their gigs show up.</div>'; openPanel(h); maybeSuggest(); return; }
-        h+='<div style="margin-top:8px">'+rows.map(function(a){
-          var verb = a.kind==='wanna_see'?'wants to see':a.kind==='seen'?'saw':a.kind==='save_event'?'is interested in':a.kind==='going_event'?'is going to':a.kind==='follow'?'followed':a.kind==='diary'?'logged a gig at':a.kind==='handle'?'is now known as':'·';
-          var subj = a.kind==='handle'?'<span class="lk" data-profile="'+esc(a.subject_label||'')+'">'+esc(a.subject_label||'')+'</span>':
-                     a.subject_type==='artist'?'<a class="lk nav" href="'+esc(djHref(a.subject_id))+'" data-artist="'+esc(a.subject_id)+'">'+esc(a.subject_label||a.subject_id)+'</a>':
-                     a.subject_type==='user'?'<span class="lk" data-profile="'+esc(a.subject_id)+'">u/'+esc(a.subject_id)+'</span>':esc(a.subject_label||'an event');
-          return '<div class="feed-row">'+av(a.author_handle)+'<div><div class="ft"><b class="lk" data-profile="'+esc(a.author_handle)+'">u/'+esc(a.author_handle)+'</b> '+verb+' '+subj+'</div><div class="fw">'+relTime(a.created_at)+'</div></div></div>';
-        }).join('')+'</div>';
-        openPanel(h); wireFeed();
-      }catch(_){ openPanel('<h2 class="page-title">Feed</h2><div class="empty">'+loadErr('the feed')+'</div>'); }
-    }
-    function wireFeed(){
-      panelBody.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
-      panelBody.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-    }
-    async function maybeSuggest(){
-      try{ var r=await authedFetch('/api/suggest'); var j=await r.json(); if(!j.people||!j.people.length) return;
-        var h='<div class="sec-h" style="margin-top:18px">People you might know</div><div class="pillrow">'+j.people.map(function(p){ return '<button class="pill-link" data-profile="'+esc(p.handle)+'">u/'+esc(p.handle)+' · '+p.overlap+' shared</button>'; }).join('')+'</div>';
-        panelBody.insertAdjacentHTML('beforeend', h); wireFeed();
+        var j=await (await authedFetch('/api/suggest')).json(); if(!j.people || !j.people.length || !el.isConnected) return;
+        el.insertAdjacentHTML('beforeend','<div class="frd-day">People you might know</div><div class="frd-sug">'+j.people.map(function(p){ return frdUser(p.handle); }).join('')+'</div>');
       }catch(_){}
+    }
+    async function frdLoad(cursor){
+      var body=document.getElementById('frd-body'), seq=++_frd.seq; if(!body) return;
+      if(!currentUser){ frdState(body, 'out'); return; }
+      var j=null, st=0;
+      try{
+        var r=await authedFetch('/api/friends?tz='+encodeURIComponent(frdTZ())+(cursor?'&cursor='+encodeURIComponent(cursor):''));
+        st=r.status; if(r.ok) j=await r.json();
+      }catch(_){}
+      if(seq!==_frd.seq || !body.isConnected) return;
+      if(st===401){ frdState(body, 'out'); return; }
+      if(st===400 && cursor){ frdLoad(); return; }   // a cursor this server did not make: the first page again
+      var next=document.getElementById('frd-next');
+      if(!j || !Array.isArray(j.posts)){
+        if(cursor && next) frdState(next, 'err', function(){ frdLoad(cursor); });   // the posts on screen stay
+        else frdState(body, 'err', function(){ body.innerHTML=FRD_SKEL; frdLoad(); });
+        return;
+      }
+      if(next) next.remove();
+      if(!cursor){
+        body.innerHTML=''; _frd.posts=[]; _frd.people={}; _frd.day=null;
+        frdDot(false); _frdDotAt=Date.now();   // the first page marks Friends as seen
+        if(!j.posts.length){ frdState(body, 'empty'); return; }
+      }
+      Object.assign(_frd.people, j.people||{});
+      var from=_frd.posts.length, h='';
+      j.posts.forEach(function(p){
+        var pi=_frd.posts.push(p)-1, ph=frdPost(p, pi); if(!ph) return;
+        if(p.day!==_frd.day){ _frd.day=p.day; h+='<div class="frd-day">'+esc(frdDayLabel(p.day))+'</div>'; }
+        h+=ph;
+      });
+      body.insertAdjacentHTML('beforeend', h+(j.next?'<div id="frd-next"></div>':''));
+      frdWire(body, from);
+      next=document.getElementById('frd-next');
+      if(next && 'IntersectionObserver' in window){
+        var io=new IntersectionObserver(function(es){ if(es[0].isIntersecting){ io.disconnect(); frdLoad(j.next); } }, { rootMargin:'600px' });
+        io.observe(next);
+      }
+    }
+    async function openFriends(){
+      if(currentRoute()==='feed') history.replaceState({sc:1},'',SC_BASE+'#friends'); else setRoute('friends');
+      openPanel('<div class="frd"><div class="rad-hd"><h2 class="rad-h1">Friends</h2></div><div id="frd-body">'+FRD_SKEL+'</div></div>');
+      // phones: its own screen with the back bar; web: the bar comes when the title scrolls away
+      armSticky('Friends', null, matchMedia('(max-width:620px)').matches?null:panelBody.querySelector('.rad-hd'));
+      setSeo('Friends | soundcheck', 'The gigs, sets and clips of the people you follow.', null, location.origin+SC_BASE);
+      await whenAuthKnown();
+      if(currentRoute()==='friends') frdLoad();
+    }
+    // The dot on the people button: something new since you last opened Friends.
+    function frdDot(on){
+      var b=document.getElementById('hdr-friends'), d=document.getElementById('frd-dot'); if(!b || !d) return;
+      d.hidden=!on; b.setAttribute('aria-label', on?'Friends. New activity':'Friends');
+    }
+    // Asked on load, on sign-in and when the tab comes back to the front; never more than once in 3 minutes.
+    function frdDotCheck(){
+      var u=currentUser?currentUser.handle:''; if(u!==_frdU){ _frdU=u; _frdDotAt=0; }
+      if(!u){ frdDot(false); return; }
+      if(Date.now()-_frdDotAt<180000) return;
+      _frdDotAt=Date.now();
+      authedFetch('/api/friends/new').then(function(r){ return r.ok?r.json():null; })
+        .then(function(j){ if(j && currentRoute()!=='friends') frdDot(!!j['new']); })
+        .catch(function(){});   // an error keeps the dot as it was
+    }
+    document.addEventListener('visibilitychange', function(){ if(!document.hidden) frdDotCheck(); });
+    document.getElementById('hdr-friends').addEventListener('click', function(){ openFriends(); });
+    // renderAccount() calls this: first paint, sign-in, sign-out.
+    function frdAuthChanged(){
+      frdDotCheck();
+      var b=document.getElementById('frd-body');
+      if(b && _meLoaded && currentRoute()==='friends' && (!!b.querySelector('#frd-in'))===!!currentUser) frdLoad();
     }
 
     // Wire the poster-led event cards (.gcard.evc) inside `scope` — ONE wiring path
@@ -15202,7 +15410,7 @@ a.dst-full-t:hover{text-decoration:underline}
       else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
-      else if(hash==='feed') openFeed();
+      else if(hash==='feed' || hash==='friends') openFriends();   // #feed = the old Feed page: it lands on Friends
       else if(hash==='log') openLog();
       else if(hash==='import') openImport();
       else if(hash==='admin') openAdmin();

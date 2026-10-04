@@ -1,14 +1,13 @@
 # JADALAREIGN
 
-JADALAREIGN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sat, 3 Oct 2026.
+JADALAREIGN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 16 Oct 2026.
 
-JADALAREIGN is a house and techno artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 19 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: public records, New York City on Sat 3 Oct.
+JADALAREIGN is a house and techno artist based in United States of America, with 187 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 19 more. Often billed alongside Mike Servito, Ash Lauryn and Carlos Souffront. Next up: Circus Tokyo, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | public records | New York City |
 | Fri, 16 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 17 Oct 2026 | BAR Inc | Osaka |
 

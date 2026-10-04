@@ -9,7 +9,7 @@ Amaluna Paris is a music venue in Paris listed on soundcheck. 2 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | SIDERATIO² - 2nd Ep: Les Ratz & Human Aventura (live) |  |
-| Sat, 7 Nov 2026 | SIDERATIO² - 2nd Ep: Les Ratz & Human Aventura (live) | Enzo Leep |
+| Sat, 7 Nov 2026 | SIDERATIO² / 3rd Ep: Enzo Leep & Residents | Enzo Leep |
 
 ## Address
 

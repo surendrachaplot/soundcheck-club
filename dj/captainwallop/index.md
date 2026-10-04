@@ -1,14 +1,13 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
 
-Captain Wallop is a garage and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
+Captain Wallop is a garage and house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside RTK Tarantino, DAISY and MADVILLA. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 9 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 10 Oct 2026 | Jacobs Basement | Cardiff |
 | Sat, 31 Oct 2026 | Quarters | Brighton |

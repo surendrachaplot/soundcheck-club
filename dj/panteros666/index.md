@@ -1,13 +1,15 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+Panteros666 is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Panteros666 is a trance and techno artist based in France, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: The Hifi Club, Leeds on Sat 17 Oct.
+Panteros666 is a trance and techno artist based in France, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Part Time Killer, Die Klar and 2HOT2PLAY. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Sat, 17 Oct 2026 | The Hifi Club | Leeds |
 | Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
@@ -28,6 +30,6 @@ Panteros666 is a trance and techno artist based in France, with 96 gigs on sound
 
 ## Shares bills with
 
-Die Klar, Part Time Killer, TDJ
+Part Time Killer, Die Klar, 2HOT2PLAY
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

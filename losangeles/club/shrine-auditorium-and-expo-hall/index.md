@@ -1,14 +1,13 @@
 # Shrine Auditorium and Expo Hall
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Max Styler" on Sat, 3 Oct 2026.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Prospa present Prophecy - 3rd night added" on Wed, 14 Oct 2026.
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Afrojack, Ali RQ, &friends and Brutalismus 3000 and 2 more. See dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including Afrojack, Ali RQ, &friends and Brutalismus 3000 and 2 more. See dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Max Styler | Max Styler |
 | Wed, 14 Oct 2026 | Prospa present Prophecy - 3rd night added | Prospa |
 | Sun, 18 Oct 2026 | it's murph |  |
 | Fri, 23 Oct 2026 | Channel Tres | &friends, Channel Tres |

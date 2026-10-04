@@ -1,14 +1,13 @@
 # KAMIKAZE
 
-KAMIKAZE is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Baalsaal, Hamburg on Sat, 3 Oct 2026.
+KAMIKAZE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
 
-KAMIKAZE is a techno and hardcore artist based in Japan, with 127 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside EVE, egomania and KANON. Next up: Baalsaal, Hamburg on Sat 3 Oct.
+KAMIKAZE is a techno and hardcore artist based in Japan, with 127 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside EVE, egomania and KANON. Next up: Cube, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Baalsaal | Hamburg |
 | Fri, 23 Oct 2026 | Cube | Tokyo |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
+Einmusik is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
-Einmusik is a techno and progressive house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
+Einmusik is a techno and progressive house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: E1, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Druckerei Solothurn | Bern |
 | Sat, 10 Oct 2026 | E1 | London |
 | Fri, 16 Oct 2026 | Jaeger | Oslo |
 | Sat, 17 Oct 2026 | Pracht | Frankfurt |

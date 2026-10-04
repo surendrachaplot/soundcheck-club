@@ -1,14 +1,13 @@
 # Korsakoff
 
-Korsakoff is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Korsakoff is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Korsakoff is a hardcore and gabber artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona, Dortmund Essen and Frankfurt and 9 more. Often billed alongside Angerfist, Mad Dog and The Dark Horror. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Korsakoff is a hardcore and gabber artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona, Dortmund Essen and Frankfurt and 9 more. Often billed alongside Angerfist, Mad Dog and The Dark Horror. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 

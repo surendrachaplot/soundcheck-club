@@ -1,14 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 3 Oct 2026.
+Kilopatrah Jones is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
 
-Kilopatrah Jones is a house and techno artist based in United States of America, with 189 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Dead Letter No. 9, New York City on Sat 3 Oct.
+Kilopatrah Jones is a house and techno artist based in United States of America, with 189 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Good Room, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 9 Oct 2026 | Good Room | New York City |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |

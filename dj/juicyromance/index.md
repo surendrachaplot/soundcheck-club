@@ -1,14 +1,13 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
+Juicy Romance is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
-Juicy Romance is a techno and house artist based in Australia, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 48 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: The Warehouse, Leeds on Sat 3 Oct.
+Juicy Romance is a techno and house artist based in Australia, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 48 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Warehouse | Leeds |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |

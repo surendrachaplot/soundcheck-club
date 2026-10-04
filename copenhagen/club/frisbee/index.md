@@ -1,8 +1,8 @@
 # Frisbee
 
-Frisbee is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Dazed Sunday with Uffe" on Sun, 4 Oct 2026.
+Frisbee is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Dazed Sunday with Uffe" on Sun, 4 Oct 2026.
 
-Frisbee is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
+Frisbee is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
 
 ## What's on
 
@@ -10,7 +10,6 @@ Frisbee is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs. Se
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Dazed Sunday with Uffe |  |
 | Fri, 16 Oct 2026 | Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session |  |
-| Sun, 18 Oct 2026 | Dazed Sunday with Mikkel S |  |
 
 ## Address
 

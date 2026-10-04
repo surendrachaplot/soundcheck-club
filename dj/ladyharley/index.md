@@ -1,14 +1,13 @@
 # Lady Harley
 
-Lady Harley is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Sat, 3 Oct 2026.
+Lady Harley is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
-Lady Harley is an electro and techno artist based in United States of America, with 37 gigs on soundcheck across New York City and Washington DC. Often billed alongside Laila Amira, Mui Mui and EREZ.JPG. Next up: Good Room, New York City on Sat 3 Oct.
+Lady Harley is an electro and techno artist based in United States of America, with 37 gigs on soundcheck across New York City and Washington DC. Often billed alongside Laila Amira, Mui Mui and EREZ.JPG. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Good Room | New York City |
 | Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played

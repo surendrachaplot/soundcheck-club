@@ -1,14 +1,13 @@
 # Akanbi
 
-Akanbi is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Outside, Los Angeles on Sat, 3 Oct 2026.
+Akanbi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Judson Memorial Church, New York City on Wed, 14 Oct 2026.
 
-Akanbi is a techno and club artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 20 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: TBA - Outside, Los Angeles on Sat 3 Oct.
+Akanbi is a techno and club artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 20 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: Judson Memorial Church, New York City on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Outside | Los Angeles |
 | Wed, 14 Oct 2026 | Judson Memorial Church | New York City |
 
 ## Recently played

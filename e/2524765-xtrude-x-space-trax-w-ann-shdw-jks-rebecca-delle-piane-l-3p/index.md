@@ -1,6 +1,6 @@
 # XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y at RSO.BERLIN
 
-XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y at RSO.BERLIN on Sat 3 Oct, Berlin. 15 artists: ANNĒ, AYIM, Exos and Félicie and 11 more. Trance and Techno. See the line-up on soundcheck.
+XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y at RSO.BERLIN on Sat 3 Oct, Berlin. 15 artists: ANNĒ, AYIM, Exos and FILTH.y and 11 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,10 +13,10 @@ XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y
 - ANNĒ
 - AYIM
 - Exos
-- Félicie
 - FILTH.y
 - Frank Heise
 - JKS
+- Kim She
 - Maōh
 - Mefteh
 - MXV (1)

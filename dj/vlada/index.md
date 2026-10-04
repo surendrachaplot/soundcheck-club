@@ -1,15 +1,15 @@
 # Vlada
 
-Vlada is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRAUM, Antwerp on Sat, 3 Oct 2026.
+Vlada is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Haus der Visionäre, Berlin on Sun, 4 Oct 2026.
 
-Vlada is a techno and house artist based in Russia, with 200 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: TRAUM, Antwerp on Sat 3 Oct.
+Vlada is a techno and house artist based in Russia, with 201 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 52 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Haus der Visionäre, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TRAUM | Antwerp |
 | Sun, 4 Oct 2026 | Haus der Visionäre | Berlin |
+| Sat, 10 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 21 Nov 2026 | essaim | Paris |

@@ -1,14 +1,13 @@
 # ASCENDER
 
-ASCENDER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 3 Oct 2026.
+ASCENDER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Radost FX, Prague on Sat, 7 Nov 2026.
 
-ASCENDER is a techno and house artist based in Czech Republic, with 10 gigs on soundcheck across Prague. Often billed alongside Jan Nedved, Hiro and hiro (CZ). Next up: Bukanyr Boat, Prague on Sat 3 Oct.
+ASCENDER is a techno and house artist based in Czech Republic, with 10 gigs on soundcheck across Prague. Often billed alongside Jan Nedved, Hiro and hiro (CZ). Next up: Radost FX, Prague on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bukanyr Boat | Prague |
 | Sat, 7 Nov 2026 | Radost FX | Prague |
 
 ## Recently played

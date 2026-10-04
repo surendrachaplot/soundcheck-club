@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Quelza is a techno and house artist based in France, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 62 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Quelza is a techno and house artist based in France, with 218 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
-| Sat, 3 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 9 Oct 2026 | C12 | Brussels |
 | Sat, 10 Oct 2026 | Oma Doris | Dortmund-essen |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |

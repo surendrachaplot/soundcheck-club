@@ -1,14 +1,13 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Odiseja BTC Ljubljana, Ljubljana on Fri, 9 Oct 2026.
 
-Dennis Cruz is a tech house and house artist based in Spain, with 189 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Dennis Cruz is a tech house and house artist based in Spain, with 189 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Odiseja BTC Ljubljana, Ljubljana on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 9 Oct 2026 | Odiseja BTC Ljubljana | Ljubljana |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 17 Oct 2026 | The Garage | Madrid |

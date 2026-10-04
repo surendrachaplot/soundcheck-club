@@ -1,14 +1,13 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Afterthought & commuters Pres. Margaret Dygas" on Sat, 3 Oct 2026.
+Moon Club is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CRAVE HER: HEXED" on Sat, 10 Oct 2026.
 
-Moon Club is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including BETH, Cristi Cons, DJ Sarah Bonito and Fumiya Tanaka and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
+Moon Club is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including BETH, Cristi Cons, DJ Sarah Bonito and Fumiya Tanaka and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Afterthought & commuters Pres. Margaret Dygas | Jake Moree, Josh Clark, Margaret Dygas, rasel h |
 | Sat, 10 Oct 2026 | CRAVE HER: HEXED |  |
 | Fri, 16 Oct 2026 | Mas Que Nada | BETH, Hywel Gregory, Mas Que Nada Brothers, Tibasko |
 | Sat, 17 Oct 2026 | Quanto presents Cristi Cons, Eksish & Jake Moree + residents | Cristi Cons |

@@ -1,0 +1,23 @@
+# LEANNE
+
+LEANNE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub K4, Ljubljana on Sat, 24 Oct 2026.
+
+LEANNE is a techno and trance artist based in Slovenia, with 4 gigs on soundcheck across Berlin, Ljubljana, Slovenia and Vienna. Often billed alongside AliA, Arman Shadow and Brtinzz. Next up: Klub K4, Ljubljana on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | Klub K4 | Ljubljana |
+
+## Recently played
+
+- Canava House, Slovenia · Sat, 26 Sept 2026
+- Void Club, Berlin · Sat, 8 Aug 2026
+- Das Werk, Vienna · Fri, 24 Jul 2026
+
+## Shares bills with
+
+AliA, Arman Shadow, Brtinzz
+
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leanne/)*

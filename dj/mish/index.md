@@ -1,14 +1,13 @@
 # Mish
 
-Mish is a R&B and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Mish is a R&B and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Mish is a r&b and hardcore artist based in Mexico, with 22 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund Essen and 6 more. Often billed alongside Angerfist, Act of Rage and Adjuzt. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Mish is a r&b and hardcore artist based in Mexico, with 22 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund Essen and 6 more. Often billed alongside Angerfist, Act of Rage and Adjuzt. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Wed, 21 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |

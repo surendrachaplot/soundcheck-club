@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "POLYxMODE take over" on Sat, 3 Oct 2026.
+Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "lazy.sunday mit Mario Lauriano" on Sun, 4 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CEEE and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | POLYxMODE take over | CEEE, Danny Subsonic, Kijara |
 | Sun, 4 Oct 2026 | lazy.sunday mit Mario Lauriano | Mario Lauriano |
 | Mon, 5 Oct 2026 | manic.monday mit Hunscha |  |
 | Tue, 6 Oct 2026 | go.play mit Foly | Foly |
@@ -18,6 +17,7 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, w
 | Sat, 10 Oct 2026 | U10247: Berlinozepam (feat.CL-Ijud and maniac&me) | CL-ljud, maniac&me |
 | Sun, 11 Oct 2026 | lazy.sunday mit Yakov | Yakov |
 | Mon, 12 Oct 2026 | manic.monday mit VALENCE  | VALENCE |
+| Tue, 13 Oct 2026 | go.play mit Pablo Cornejo (Chile) | Pablo Cornejo |
 
 ## Address
 

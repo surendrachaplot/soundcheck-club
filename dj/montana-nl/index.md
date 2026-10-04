@@ -2,7 +2,7 @@
 
 Montana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Montana is a techno and house artist, with 207 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: TBA, Victoria on Fri 6 Nov.
+Montana is a techno and house artist based in Netherlands, with 207 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 

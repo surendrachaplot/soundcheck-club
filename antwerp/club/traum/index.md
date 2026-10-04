@@ -1,14 +1,13 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Traum Nacht: Vlada, mad miran, Kuba '97" on Sat, 3 Oct 2026.
+TRAUM is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Traum Nacht: Moodymann, Oko Stellar, Mab'ish" on Fri, 9 Oct 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Bevan, Casper and Cheriii and 2 more. See dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Bevan, Casper and Cheriii and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Traum Nacht: Vlada, mad miran, Kuba '97 | Kuba'97, Vlada, mad miran |
 | Fri, 9 Oct 2026 | Traum Nacht: Moodymann, Oko Stellar, Mab'ish | Mab'ish, Moodymann, Oko Stellar |
 | Sat, 10 Oct 2026 | Jungle Alliance | Coco Bryce, Dwarde, Sully, Tim Reaper |
 | Fri, 16 Oct 2026 | 9 Years of Soulful Sessions with Palms Trax | Bevan, EG (1), Lil Lawaw, Palms Trax, Zouzibabe |
@@ -18,5 +17,6 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with l
 | Fri, 30 Oct 2026 | Curated by Phemia: Justine Perry, Pooja B, Phemia | Justine Perry, Phemia, Pooja B |
 | Sat, 31 Oct 2026 | BOO! Send in the Clowns | Dana Montana, JEKKAMAÏ, Kathleen C, Rostgoed |
 | Sat, 7 Nov 2026 | Traum Nacht: John Talabot, Casper | Casper, John Talabot |
+| Fri, 13 Nov 2026 | Traum Nacht: DTM Funk (All Night Long) | DTM Funk |
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

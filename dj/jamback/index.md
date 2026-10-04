@@ -1,14 +1,13 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jamback is a House and Tech House artist with 26 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sun, 11 Oct 2026.
 
-Jamback is a house and tech house artist based in Netherlands, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Jamback is a house and tech house artist based in Netherlands, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 17 Oct 2026 | Depot | Cardiff |
@@ -20,6 +19,7 @@ Jamback is a house and tech house artist based in Netherlands, with 202 gigs on 
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
+| Sat, 7 Nov 2026 | Amber's | Manchester |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fox and Firkin, London on Sat, 3 Oct 2026.
+Jay Carder is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Red Church, Bristol on Sat, 24 Oct 2026.
 
-Jay Carder is a bass and garage artist based in United Kingdom, with 111 gigs on soundcheck across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Bluetoof. Next up: The Fox and Firkin, London on Sat 3 Oct.
+Jay Carder is a bass and garage artist based in United Kingdom, with 111 gigs on soundcheck across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Bluetoof. Next up: The Red Church, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Fox and Firkin | London |
 | Sat, 24 Oct 2026 | The Red Church | Bristol |
 | Fri, 30 Oct 2026 | Gaffe | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |

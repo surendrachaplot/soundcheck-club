@@ -1,14 +1,13 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Prysm Nightclub, Chicago on Sat, 3 Oct 2026.
+19:26 is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Resident Denver, Denver on Fri, 9 Oct 2026.
 
-19:26 is a techno and electronica artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Prysm Nightclub, Chicago on Sat 3 Oct.
+19:26 is a techno and electronica artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Resident Denver, Denver on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Prysm Nightclub | Chicago |
 | Fri, 9 Oct 2026 | Resident Denver | Denver |
 | Sat, 17 Oct 2026 | Savaya Bali | Bali |
 | Fri, 30 Oct 2026 | Button Factory | Dublin |

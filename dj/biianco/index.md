@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - CLUB MIRADOR INCEK, Ankara on Sat, 3 Oct 2026.
+BIIANCO is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
 
-BIIANCO is a techno and trance artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: TBA - CLUB MIRADOR INCEK, Ankara on Sat 3 Oct.
+BIIANCO is a techno and trance artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |

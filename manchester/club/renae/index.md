@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "reane: Matthew Rothery" on Sat, 3 Oct 2026.
+renae is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "reane: Space Tours & Lucia" on Sun, 4 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | reane: Matthew Rothery |  |
 | Sun, 4 Oct 2026 | reane: Space Tours & Lucia |  |
 | Thu, 8 Oct 2026 | renae x Eat Well Fundraiser ft. Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney & Synna G | Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney |
 | Sat, 10 Oct 2026 | Llou's: imad:re, Jordan Villa, SDJ, SoundboyLJ B2B BaccanalBill, OJP B2B Earnie | Jordan Villa, imad:re |

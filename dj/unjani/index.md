@@ -1,14 +1,13 @@
 # unjani
 
-unjani is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+unjani is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
 
-unjani is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alibi, SPORTMANN and TRYPTAJ. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
+unjani is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alibi, SPORTMANN and TRYPTAJ. Next up: Südpol, Hamburg on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Fabrique im Gängeviertel | Hamburg |
 | Fri, 18 Dec 2026 | Südpol | Hamburg |
 
 ## Recently played

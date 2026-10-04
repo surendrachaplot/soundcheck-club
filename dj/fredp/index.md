@@ -1,14 +1,13 @@
 # Fred P
 
-Fred P is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Fred P is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nowadays, New York City on Sat, 10 Oct 2026.
 
-Fred P is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+Fred P is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Nowadays, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
 | Fri, 16 Oct 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 

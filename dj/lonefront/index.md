@@ -1,6 +1,6 @@
 # Lonefront
 
-Lonefront is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
+Lonefront is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
 
 Lonefront is a techno and dub techno artist based in United States of America, with 24 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 8 more. Often billed alongside Decoder, FLAWS and Dustin Zahn. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
 
@@ -9,7 +9,6 @@ Lonefront is a techno and dub techno artist based in United States of America, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Ferguson Station | Hamilton |
-| Sat, 3 Oct 2026 | Système | Montreal |
 
 ## Recently played
 

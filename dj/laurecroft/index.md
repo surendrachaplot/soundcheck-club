@@ -1,14 +1,13 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+Laure Croft is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Sat, 10 Oct 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, with 192 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
+Laure Croft is a techno and house artist based in Netherlands, with 192 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 50 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: TBA, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 10 Oct 2026 | TBA | Berlin |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |

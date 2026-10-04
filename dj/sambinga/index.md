@@ -1,14 +1,13 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Sam Binga is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Radius, Chicago on Sat, 10 Oct 2026.
 
-Sam Binga is a bass and garage artist based in United Kingdom, with 88 gigs on soundcheck across Auckland, Austin, Birmingham and Boston and 35 more. Often billed alongside Addison Groove, Bianca Oblivion and Amy Kisnorbo. Next up: The Regency Ballroom, San Francisco/Oakland on Sat 3 Oct.
+Sam Binga is a bass and garage artist based in United Kingdom, with 88 gigs on soundcheck across Auckland, Austin, Birmingham and Boston and 35 more. Often billed alongside Addison Groove, Bianca Oblivion and Amy Kisnorbo. Next up: Radius, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Radius | Chicago |
 | Sat, 31 Oct 2026 | Soup | Manchester |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

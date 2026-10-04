@@ -1,15 +1,13 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+upsammy is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Backsteinboot, Berlin on Sat, 10 Oct 2026.
 
-upsammy is a techno and experimental artist based in Netherlands, with 193 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 50 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Gessnerallee, Zurich on Fri 2 Oct.
+upsammy is a techno and experimental artist based in Netherlands, with 193 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 50 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Backsteinboot, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Gessnerallee | Zurich |
-| Sat, 3 Oct 2026 | Centre Point | Dublin |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |

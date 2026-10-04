@@ -1,14 +1,13 @@
 # Alina (MTL)
 
-Alina (MTL) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Balcon, Montreal on Sat, 3 Oct 2026.
+Alina (MTL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Système, Montreal on Fri, 16 Oct 2026.
 
-Alina (MTL) is a house and disco artist based in Canada, with 83 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Guthrie, Ferias and Lia Plutonic. Next up: Le Balcon, Montreal on Sat 3 Oct.
+Alina (MTL) is a house and disco artist based in Canada, with 83 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Guthrie, Ferias and Lia Plutonic. Next up: Système, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Le Balcon | Montreal |
 | Fri, 16 Oct 2026 | Système | Montreal |
 | Sat, 31 Oct 2026 | TBA - down by the water | Montreal |
 

@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VIZE - djs Danjela, ANDRAM, ASCENDER, Hiro, YE(N)S" on Sat, 3 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spank - djs Ondrej K, Identic, Ian Oskadev" on Fri, 9 Oct 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including aros, ASCENDER, Biodan and Blackloud and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 7 upcoming gigs, with line-ups including aros, Biodan, Blackloud and Cubik and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | VIZE - djs Danjela, ANDRAM, ASCENDER, Hiro, YE(N)S | ASCENDER, Hiro, hiro (CZ) |
 | Fri, 9 Oct 2026 | Spank - djs Ondrej K, Identic, Ian Oskadev | Ian Oskadev, Identic, Ondrej K |
 | Sat, 10 Oct 2026 | Sexy Beats - djs Lumiere, Mill, Rody | Lumiere |
 | Sat, 17 Oct 2026 | House Madness - djs Manntracs, Olinství, Olga Zhaldak | Manntracs, Olga Zhaldak, Olinstvi |

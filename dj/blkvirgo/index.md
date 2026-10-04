@@ -1,14 +1,13 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Jama, Toronto on Sat, 3 Oct 2026.
+Blkvirgo is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Jama, Toronto on Sat, 17 Oct 2026.
 
-Blkvirgo is a house and deep house artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: The Jama, Toronto on Sat 3 Oct.
+Blkvirgo is a house and deep house artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: The Jama, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Jama | Toronto |
 | Sat, 17 Oct 2026 | The Jama | Toronto |
 | Sat, 24 Oct 2026 | Cafeteria | Toronto |
 | Fri, 30 Oct 2026 | TBA | Toronto |

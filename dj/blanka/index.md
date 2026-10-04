@@ -1,14 +1,13 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+BLANKA is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
-BLANKA is a techno and house artist based in Spain, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Angioma, Jeff Mills and Phil Berg. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+BLANKA is a techno and house artist based in Spain, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Angioma, Jeff Mills and Phil Berg. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |

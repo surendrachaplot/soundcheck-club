@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club" on Sat, 3 Oct 2026.
+Studio Club Malaga is a music venue in Malaga with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Studio Club Invites: 6EJOU" on Fri, 9 Oct 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, Alarico, Alinka and Âme and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 6 upcoming gigs, with line-ups including 6EJOU, Alarico, Alinka and Âme and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club | Danny Tenaglia, Radio Slave |
 | Fri, 9 Oct 2026 | Studio Club Invites: 6EJOU | 6EJOU |
 | Fri, 16 Oct 2026 | Studio X Structone | Alarico, Montero, Rene Wise |
 | Sat, 17 Oct 2026 | Studio Cub Invites: Âme - Henrik Schwarz Live - & More | Alinka, Axel Boman, Henrik Schwarz, Thimble, Trikk, Âme |

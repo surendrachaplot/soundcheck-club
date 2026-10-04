@@ -1,14 +1,13 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Anaïs is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
-Anaïs is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: Club Exil, Vienna on Sat 3 Oct.
+Anaïs is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Exil | Vienna |
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 

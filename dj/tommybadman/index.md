@@ -1,14 +1,13 @@
 # Tommy Badman
 
-Tommy Badman is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plot 22, Sheffield on Sat, 3 Oct 2026.
+Tommy Badman is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Plot 22, Sheffield on Sat, 12 Dec 2026.
 
-Tommy Badman is a jungle and drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across Sheffield. Often billed alongside Earl Grey, mark andrew and King Chuga. Next up: Plot 22, Sheffield on Sat 3 Oct.
+Tommy Badman is a jungle and drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across Sheffield. Often billed alongside Earl Grey, mark andrew and King Chuga. Next up: Plot 22, Sheffield on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Plot 22 | Sheffield |
 | Sat, 12 Dec 2026 | Plot 22 | Sheffield |
 
 ## Recently played

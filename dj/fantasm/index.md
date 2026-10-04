@@ -1,14 +1,13 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Areal Böhler, Düsseldorf on Sat, 3 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
 
-Fantasm is a techno and hardcore artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: TBA - Areal Böhler, Düsseldorf on Sat 3 Oct.
+Fantasm is a techno and hardcore artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Sektor 6D, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Areal Böhler | Düsseldorf |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |

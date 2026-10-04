@@ -1,14 +1,13 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SESH pres. MCR-T ANL" on Sat, 3 Oct 2026.
+Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "240 KM/H pres. Serafina B2B ALL NIGHT LONG" on Fri, 9 Oct 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Andreas Kraemer, anyka, A*S*Y*S and BabaBass3000 and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Andreas Kraemer, anyka, A*S*Y*S and BabaBass3000 and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | SESH pres. MCR-T ANL | MCR-T |
 | Fri, 9 Oct 2026 | 240 KM/H pres. Serafina B2B ALL NIGHT LONG | Fronsi, Neon Graveyard, Serafina, zwilling. |
 | Sat, 10 Oct 2026 | ECLIPSE | Baron Von Trax, DJ Sonnenbrand, Ken Brause, LEO.PARDYY, MARRED, RAFFA, Tristan K (1), anyka, snoritz |
 | Fri, 16 Oct 2026 | Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL | A*S*Y*S (2), Andreas Kraemer, Daniela Hensel, Drumcomplex, Kerstin Eden, Markus Weigelt, Matthias Olck, Nick Schwenderling, PETER PAHN, Sebastian Groth |
@@ -18,6 +17,7 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 | Wed, 11 Nov 2026 | KLUENGEL XXL |  |
 | Fri, 13 Nov 2026 | Swimming Paul @ Schrotty Köln | Swimming Paul |
 | Fri, 27 Nov 2026 | 303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m. | GRAVEDGR, Johannes Schuster, Noise Not War |
+| Sat, 28 Nov 2026 | AOS | Penglord, Speckman, Supergloss, ferrari rot |
 
 ## Address
 

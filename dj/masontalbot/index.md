@@ -1,14 +1,13 @@
 # Mason Talbot
 
-Mason Talbot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Mason Talbot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
-Mason Talbot is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Birmingham, Leeds, Liverpool and London and 1 more. Often billed alongside Nausy, Finn Eden and Locky. Next up: Mint XL, Leeds on Sat 3 Oct.
+Mason Talbot is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Birmingham, Leeds, Liverpool and London and 1 more. Often billed alongside Nausy, Finn Eden and Locky. Next up: Distrikt, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 
 ## Recently played

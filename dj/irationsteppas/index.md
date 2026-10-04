@@ -1,14 +1,13 @@
 # Iration Steppas
 
-Iration Steppas is a Dub and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Iration Steppas is a Dub and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
 
-Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 22 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 22 more. Often billed alongside O.B.F, Simon Scott and Breakfake. Next up: The Golden Lion, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Fri, 9 Oct 2026 | The Golden Lion | Manchester |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 

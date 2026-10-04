@@ -1,14 +1,13 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
+Miss Parker is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Los Angeles on Fri, 9 Oct 2026.
 
-Miss Parker is a techno and house artist based in United States of America, with 132 gigs on soundcheck across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
+Miss Parker is a techno and house artist based in United States of America, with 132 gigs on soundcheck across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: TBA, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Warehouse Location | Philadelphia |
 | Fri, 9 Oct 2026 | TBA | Los Angeles |
 | Thu, 15 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |

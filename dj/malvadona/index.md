@@ -1,14 +1,13 @@
 # MALVADØNA
 
-MALVADØNA is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
+MALVADØNA is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yes, Manchester on Fri, 9 Oct 2026.
 
-MALVADØNA is a club and hardcore artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside AdomasLP, Girlfriend and 2CUTE2CUE. Next up: Stage and Radio, Manchester on Sat 3 Oct.
+MALVADØNA is a club and hardcore artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside AdomasLP, Girlfriend and 2CUTE2CUE. Next up: Yes, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Stage and Radio | Manchester |
 | Fri, 9 Oct 2026 | Yes | Manchester |
 
 ## Recently played

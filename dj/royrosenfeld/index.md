@@ -1,14 +1,13 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Throw Social DC, Washington DC on Sat, 3 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Vaag, Antwerp on Fri, 9 Oct 2026.
 
-Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Throw Social DC, Washington DC on Sat 3 Oct.
+Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Club Vaag, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Throw Social DC | Washington DC |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |

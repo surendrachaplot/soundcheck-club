@@ -1,14 +1,13 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kilomètre25, Paris on Sat, 3 Oct 2026.
+EARGASM GOD is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-EARGASM GOD is a techno and trance artist based in Poland, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Kilomètre25, Paris on Sat 3 Oct.
+EARGASM GOD is a techno and trance artist based in Poland, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 23 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |

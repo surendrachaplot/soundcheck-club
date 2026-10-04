@@ -1,15 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Jeff Mills is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun, 11 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Jeff Mills is a techno and house artist based in United States of America, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Saline Royale D'arc-et-Senans (25 Doubs), Lyon on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sun, 11 Oct 2026 | Saline Royale D'arc-et-Senans (25 Doubs) | Lyon |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
@@ -20,6 +18,8 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
 | Fri, 20 Nov 2026 | Basel Venue | Santiago |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sun, 6 Dec 2026 | Cité De La Musique | Paris |
 
 ## Recently played
 

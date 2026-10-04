@@ -1,14 +1,13 @@
 # Angelo Mike
 
-Angelo Mike is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jazzclub Hipoza, Poland on Sat, 3 Oct 2026.
+Angelo Mike is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Reddo Warsaw Club, Warsaw on Fri, 9 Oct 2026.
 
-Angelo Mike is a techno and house artist based in Poland, with 58 gigs on soundcheck across Krakow, Poland and Warsaw. Often billed alongside Konca, Kuvau and NuCasa. Next up: Jazzclub Hipoza, Poland on Sat 3 Oct.
+Angelo Mike is a techno and house artist based in Poland, with 58 gigs on soundcheck across Krakow, Poland and Warsaw. Often billed alongside Konca, Kuvau and NuCasa. Next up: Reddo Warsaw Club, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Jazzclub Hipoza | Poland |
 | Fri, 9 Oct 2026 | Reddo Warsaw Club | Warsaw |
 
 ## Recently played

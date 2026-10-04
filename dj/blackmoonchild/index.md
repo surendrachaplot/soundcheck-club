@@ -1,14 +1,13 @@
 # Blackmoonchild
 
-Blackmoonchild is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Blackmoonchild is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Periodicals, Detroit on Thu, 15 Oct 2026.
 
-Blackmoonchild is a techno and house artist based in United States of America, with 70 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
+Blackmoonchild is a techno and house artist based in United States of America, with 70 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Periodicals, Detroit on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tangent Gallery | Detroit |
 | Thu, 15 Oct 2026 | Periodicals | Detroit |
 
 ## Recently played

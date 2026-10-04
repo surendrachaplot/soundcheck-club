@@ -1,14 +1,13 @@
 # Khainz
 
-Khainz is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
+Khainz is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Halfmoon Festival Koh Pha-Nang, Thailand on Wed, 10 Feb 2027.
 
-Khainz is a techno and tech house artist based in Switzerland, with 18 gigs on soundcheck across Amsterdam, Berlin, Bern and Cologne and 8 more. Often billed alongside Einmusik, 9OASES and Avocado. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
+Khainz is a techno and tech house artist based in Switzerland, with 18 gigs on soundcheck across Amsterdam, Berlin, Bern and Cologne and 8 more. Often billed alongside Einmusik, 9OASES and Avocado. Next up: Halfmoon Festival Koh Pha-Nang, Thailand on Wed 10 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Druckerei Solothurn | Bern |
 | Wed, 10 Feb 2027 | Halfmoon Festival Koh Pha-Nang | Thailand |
 
 ## Recently played

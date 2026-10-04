@@ -1,14 +1,13 @@
 # Icarus (BE)
 
-Icarus (BE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jungle Bar, Brussels on Sat, 3 Oct 2026.
+Icarus (BE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jungle Bar, Brussels on Sun, 11 Oct 2026.
 
-Icarus (BE) is a techno and trance artist based in Belgium, with 5 gigs on soundcheck across Brussels. Often billed alongside Backlight, Oxtazz and VNCAPT. Next up: Jungle Bar, Brussels on Sat 3 Oct.
+Icarus (BE) is a techno and trance artist based in Belgium, with 5 gigs on soundcheck across Brussels. Often billed alongside Backlight, Oxtazz and VNCAPT. Next up: Jungle Bar, Brussels on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Jungle Bar | Brussels |
 | Sun, 11 Oct 2026 | Jungle Bar | Brussels |
 
 ## Recently played

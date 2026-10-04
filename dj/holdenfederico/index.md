@@ -1,14 +1,13 @@
 # Holden Federico
 
-Holden Federico is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
+Holden Federico is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 17 Oct 2026.
 
-Holden Federico is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dublin and 8 more. Often billed alongside Analog Soul, MARRØN and Philippa Pacho. Next up: Lincoln Factory, Detroit on Sat 3 Oct.
+Holden Federico is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dublin and 8 more. Often billed alongside Analog Soul, MARRØN and Philippa Pacho. Next up: TBA - TRXX WRHS, Minneapolis St Paul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Lincoln Factory | Detroit |
 | Sat, 17 Oct 2026 | TBA - TRXX WRHS | Minneapolis-st-paul |
 
 ## Recently played

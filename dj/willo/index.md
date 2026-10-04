@@ -1,14 +1,13 @@
 # Willo
 
-Willo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Willo is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
-Willo is a house and techno artist based in Australia, with 35 gigs on soundcheck across Amsterdam, Brisbane, Chicago and Dublin and 9 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Willo is a house and techno artist based in Australia, with 35 gigs on soundcheck across Amsterdam, Brisbane, Chicago and Dublin and 9 more. Often billed alongside 1tbsp, Ayebatonye and Duskus. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Wed, 7 Oct 2026 | Knockdown Center | New York City |
 | Thu, 8 Oct 2026 | Q Nightclub | Seattle |
 | Fri, 9 Oct 2026 | Beach House San Diego | San Diego |

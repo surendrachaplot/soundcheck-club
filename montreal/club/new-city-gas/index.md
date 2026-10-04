@@ -1,14 +1,13 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Afrojack presents: CONTROL" on Sat, 3 Oct 2026.
+New City Gas is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Oliver Heldens, HILLS" on Sat, 10 Oct 2026.
 
-New City Gas is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Afrojack, Bob Sinclar, CamelPhat and Dillon Francis and 2 more. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
+New City Gas is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Bob Sinclar, CamelPhat, Dillon Francis and Gareth Emery and 2 more. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Afrojack presents: CONTROL | Afrojack, Torren Foot |
 | Sat, 10 Oct 2026 | Oliver Heldens, HILLS | Oliver Heldens |
 | Sun, 11 Oct 2026 | Gorgon City | Gorgon City |
 | Thu, 15 Oct 2026 | DJ Mag presents Sub Focus | Sub Focus |
@@ -18,6 +17,7 @@ New City Gas is a music venue in Montreal listed on soundcheck. 11 upcoming gigs
 | Sat, 31 Oct 2026 | Max Styler, JØRD | Max Styler |
 | Sat, 7 Nov 2026 | [DSTRKT] CamelPhat, VOLKODER | CamelPhat |
 | Sat, 21 Nov 2026 | IT'S MURPH |  |
+| Sat, 28 Nov 2026 | [DSTRKT] Layton Giordani | Layton Giordani |
 
 ## Address
 

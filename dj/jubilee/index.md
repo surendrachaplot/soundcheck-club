@@ -1,15 +1,13 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
+Jubilee is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Loso, Richmond on Sat, 10 Oct 2026.
 
-Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Elsewhere, New York City on Sat 3 Oct.
+Jubilee is a house and techno artist based in United States of America, with 158 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 18 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Loso, Richmond on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Elsewhere | New York City |
-| Sat, 3 Oct 2026 | SASS Music Club | Vienna |
 | Sat, 10 Oct 2026 | Loso | Richmond |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | ZeyZey | Miami |

@@ -1,15 +1,13 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS" on Sat, 3 Oct 2026.
+Gorilla is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Brainiac presents: Napes & DJ Flight" on Sat, 17 Oct 2026.
 
-Gorilla is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. See dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
+Gorilla is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. See dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |
-| Sat, 3 Oct 2026 | 360° BOILER ROOM // 140, BASS, GRIME // LAST FREE TICKETS |  |
 | Sat, 17 Oct 2026 | Brainiac presents: Napes & DJ Flight | Amelia Leigh, DJ Flight, Napes, Simmo., Sweetly |
 | Thu, 22 Oct 2026 | Interim_002: Born On Road + Support | Aries, DAIZ, Kelvin 373, Simmo. |
 | Fri, 23 Oct 2026 | Bass Face // DNB, BASS, 140, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS |  |

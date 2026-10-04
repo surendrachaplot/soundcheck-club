@@ -1,14 +1,13 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LINCOLN JESSER (Melodic House) at MadaRae" on Sat, 3 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Malive (Maccabi House, MoBlack, Kompakt, Dynamic)" on Fri, 9 Oct 2026.
 
-Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Deer (US), Goldcap, MAGA and Malive and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Deer (US), Goldcap, MAGA and Malive and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | LINCOLN JESSER (Melodic House) at MadaRae |  |
 | Fri, 9 Oct 2026 | Malive (Maccabi House, MoBlack, Kompakt, Dynamic) | Malive |
 | Sat, 10 Oct 2026 | MAGA AT Madarae San Francisco | MAGA |
 | Fri, 16 Oct 2026 | Samm (BE) at Madarae Nightclub San Francisco | Samm (BE) |

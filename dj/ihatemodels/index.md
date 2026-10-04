@@ -1,15 +1,16 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+I Hate Models is a Techno and House artist with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
-I Hate Models is a techno and house artist based in France, with 284 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 77 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+I Hate Models is a techno and house artist based in France, with 286 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 78 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 31 Oct 2026 | TBA - La Estacion, Cordoba | Argentina |
@@ -19,7 +20,6 @@ I Hate Models is a techno and house artist based in France, with 284 gigs on sou
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sun, 22 Nov 2026 | TBA - Quinta Las Rosas, Mendoza | Argentina |
-| Sat, 28 Nov 2026 | Kompass Klub | Ghent |
 
 ## Recently played
 

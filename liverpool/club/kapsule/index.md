@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAW presents: Truly Madly (4 Hours)" on Sat, 3 Oct 2026.
+Kapsule is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jamie Fielding All Night Long - Modello" on Fri, 9 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Autumns, Bradley Zero, Budino and Chaos In The CBD and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Autumns, Bradley Zero, Budino and Chaos In The CBD and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | RAW presents: Truly Madly (4 Hours) | Truly Madly |
 | Fri, 9 Oct 2026 | Jamie Fielding All Night Long - Modello | Jamie Fielding |
 | Sat, 17 Oct 2026 | Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI | Autumns, Conor Thomas, Kahn, Lupini |
 | Fri, 23 Oct 2026 | The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool | Budino, Vladimir Ivkovic |

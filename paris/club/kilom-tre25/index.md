@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE" on Sat, 3 Oct 2026.
+Kilomètre25 is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE" on Fri, 9 Oct 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including NYRA (DE), ASLO, Avenir and BIIA and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
 | Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, STO_DJ, Vitaline |
 | Fri, 16 Oct 2026 | ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7 | BIIA, BOTICKA, Dica |

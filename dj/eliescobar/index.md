@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 3 Oct 2026.
+Eli Escobar is a House and Electro artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gabriela, New York City on Thu, 8 Oct 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 556 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 19 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat 3 Oct.
+Eli Escobar is a house and electro artist based in United States of America, with 556 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 19 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Thu, 8 Oct 2026 | Gabriela | New York City |
 | Sat, 10 Oct 2026 | Signal | New York City |
 | Thu, 15 Oct 2026 | Gabriela | New York City |
@@ -20,6 +19,7 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 6 Nov 2026 | House of Yes | New York City |
+| Fri, 13 Nov 2026 | TBA | Denver |
 
 ## Recently played
 

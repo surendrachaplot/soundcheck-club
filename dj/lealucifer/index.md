@@ -1,14 +1,13 @@
 # lealucifer
 
-lealucifer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+lealucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ficken 3000, Berlin on Fri, 9 Oct 2026.
 
-lealucifer is a house and techno artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Dirty Daddy Don, CUNT REMEMBER and Dmitra. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+lealucifer is a house and techno artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Dirty Daddy Don, CUNT REMEMBER and Dmitra. Next up: Ficken 3000, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Fri, 9 Oct 2026 | Ficken 3000 | Berlin |
 
 ## Recently played

@@ -1,16 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CLUB 909: Model Hz & GOTIS" on Sun, 27 Sept 2026.
+La Gare / Le Gore is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "CLUB 909: GIA NEIL & GOTIS" on Sun, 4 Oct 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Oslo, Alhena_, GOTIS and In-Tan and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Oslo, Alhena_, GOTIS and In-Tan and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | CLUB 909: Model Hz & GOTIS | GOTIS, Model Hz |
-| Mon, 28 Sept 2026 | Acid Oslo ALL NIGHT LONG | Acid Oslo |
-| Sat, 3 Oct 2026 | LA RIPOSTE: Tewo Rina inv. SECRETS GUESTS | Tewo Rina |
 | Sun, 4 Oct 2026 | CLUB 909: GIA NEIL & GOTIS | GOTIS |
 | Mon, 5 Oct 2026 | Acid Oslo ALL NIGHT LONG | Acid Oslo |
 | Tue, 6 Oct 2026 | JAM DU BPM CONTEST |  |
@@ -18,6 +15,9 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 14 upcoming gi
 | Thu, 8 Oct 2026 | 59 BEL RECORDS: SILV4RE & TSIEG |  |
 | Fri, 9 Oct 2026 | LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG | S'il Te Plait Bruno |
 | Sat, 10 Oct 2026 | LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG | S'il Te Plait Bruno |
+| Sun, 11 Oct 2026 | CLUB 909: ALHENA & GOTIS | Alhena_, GOTIS |
+| Mon, 12 Oct 2026 | Acid Oslo ALL NIGHT LONG | Acid Oslo |
+| Tue, 13 Oct 2026 | JAM DU BPM CONTEST |  |
 
 ## Address
 

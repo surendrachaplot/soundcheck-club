@@ -1,14 +1,13 @@
 # Descent
 
-Descent is a music venue in Boston with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PROVINCE 44 presents Archie Hamilton" on Sat, 3 Oct 2026.
+Descent is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PROVINCE 44 presents L.P. Rhythm" on Sat, 10 Oct 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 9 upcoming gigs, with line-ups including Archie Hamilton, Cam Stockman, D.Dan and Dean Turnley and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with line-ups including Cam Stockman, D.Dan, Dean Turnley and DVS1 and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PROVINCE 44 presents Archie Hamilton | Archie Hamilton |
 | Sat, 10 Oct 2026 | PROVINCE 44 presents L.P. Rhythm | L.P. Rhythm |
 | Sat, 17 Oct 2026 | PROVINCE 44 presents Ranger Trucco | Ranger Trucco |
 | Sat, 24 Oct 2026 | PROVINCE 44 presents Dean Turnley | Dean Turnley |

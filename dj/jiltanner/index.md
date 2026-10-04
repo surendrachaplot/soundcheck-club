@@ -1,14 +1,13 @@
 # Jil Tanner
 
-Jil Tanner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Jil Tanner is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
-Jil Tanner is a techno and house artist based in Germany, with 39 gigs on soundcheck across Austria, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside LOVRA, Vlad Yaki and AKA AKA. Next up: Westhafen, Leipzig on Sat 3 Oct.
+Jil Tanner is a techno and house artist based in Germany, with 39 gigs on soundcheck across Austria, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside LOVRA, Vlad Yaki and AKA AKA. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Westhafen | Leipzig |
 | Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 

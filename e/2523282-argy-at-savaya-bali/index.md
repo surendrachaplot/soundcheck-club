@@ -1,6 +1,6 @@
 # Argy at Savaya Bali
 
-Argy at Savaya Bali on Sat 2 Jan, Bali. 1 artist: Argy. See the line-up on soundcheck.
+Argy at Savaya Bali on Sat 2 Jan, Bali. 1 artist: Argy. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

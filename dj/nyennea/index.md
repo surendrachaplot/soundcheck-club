@@ -1,14 +1,13 @@
 # Nyennea
 
-Nyennea is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Nyennea is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
 
-Nyennea is a club and experimental artist based in Greece, with 15 gigs on soundcheck across Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+Nyennea is a club and experimental artist based in Greece, with 15 gigs on soundcheck across Berlin. Often billed alongside Porschelane, Anthracene and bod [包家巷]. Next up: Studio1111, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Fri, 16 Oct 2026 | Studio1111 | Berlin |
 
 ## Recently played

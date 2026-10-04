@@ -1,14 +1,13 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
+Centre Point is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jyoty" on Fri, 9 Oct 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including charlois, Club Angel, Dave Clarke and DeFeKT and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including charlois, Club Angel, Dave Clarke and DeFeKT and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mount Kimbie DJ pres. TunnelVision with upsammy | Mount Kimbie, upsammy |
 | Fri, 9 Oct 2026 | Jyoty | JWY (1), Jyoty |
 | Sat, 17 Oct 2026 | SOAP x The Lounge presents: Club Angel & SHUFFA | Club Angel, SHUFFA, charlois |
 | Sat, 24 Oct 2026 | Circles: Leftfield - DJ Set  | Leftfield, Pat Hyland |
@@ -18,6 +17,7 @@ Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, 
 | Fri, 20 Nov 2026 | Weval (DJ) | Ste Flynn, Weval |
 | Sat, 21 Nov 2026 | Maribou State (DJ Set) | Maribou State |
 | Sat, 28 Nov 2026 | Dave Clarke, DeFeKT - Live & Kaycee | Dave Clarke, DeFeKT, Kaycee |
+| Fri, 4 Dec 2026 | Dennis Quin b2b Job de Jong – All Night Long | Dennis Quin, Job de Jong |
 
 ## Address
 

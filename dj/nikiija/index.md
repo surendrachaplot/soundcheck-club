@@ -1,14 +1,13 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 3 Oct 2026.
+Nikiija is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
 
-Nikiija is a techno and house artist, with 52 gigs on soundcheck across Hamburg and Prague. Often billed alongside NO.MADS, Randali and VABU. Next up: Club Frau Holle, Hamburg on Sat 3 Oct.
+Nikiija is a techno and house artist, with 52 gigs on soundcheck across Hamburg and Prague. Often billed alongside NO.MADS, Randali and VABU. Next up: Fundbureau, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Frau Holle | Hamburg |
 | Sat, 10 Oct 2026 | Fundbureau | Hamburg |
 
 ## Recently played

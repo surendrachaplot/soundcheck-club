@@ -1,14 +1,13 @@
 # K.atou
 
-K.atou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plex, Athens on Sat, 3 Oct 2026.
+K.atou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Romantso, Athens on Thu, 8 Oct 2026.
 
-K.atou is a techno and house artist based in Greece, with 66 gigs on soundcheck across Athens, Berlin, Brussels and Chicago and 4 more. Often billed alongside Maria Politi, ClubKid and Stathis (GR). Next up: Plex, Athens on Sat 3 Oct.
+K.atou is a techno and house artist based in Greece, with 66 gigs on soundcheck across Athens, Berlin, Brussels and Chicago and 4 more. Often billed alongside Maria Politi, ClubKid and Stathis (GR). Next up: Romantso, Athens on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Plex | Athens |
 | Thu, 8 Oct 2026 | Romantso | Athens |
 
 ## Recently played

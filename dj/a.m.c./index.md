@@ -1,14 +1,13 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Under The Prom, West-wales on Sat, 3 Oct 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volks, Brighton on Sat, 10 Oct 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Under The Prom, West Wales on Sat 3 Oct.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Volks, Brighton on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Under The Prom | West-wales |
 | Sat, 10 Oct 2026 | Volks | Brighton |
 | Fri, 16 Oct 2026 | World Headquarters | Newcastle |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |

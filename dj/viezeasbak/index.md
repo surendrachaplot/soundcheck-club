@@ -1,14 +1,13 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+Vieze Asbak is a Techno and Hardcore artist with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Vieze Asbak is a techno and hardcore artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
+Vieze Asbak is a techno and hardcore artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Kompass Klub | Ghent |
@@ -20,6 +19,7 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 111 gigs 
 | Fri, 13 Nov 2026 | Phantom, Paris | Paris |
 | Mon, 16 Nov 2026 | Roxy | Prague |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Fri, 27 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played
 

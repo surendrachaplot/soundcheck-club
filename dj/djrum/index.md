@@ -1,6 +1,6 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+DjRUM is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 DjRUM is a techno and bass artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 47 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ DjRUM is a techno and bass artist based in United Kingdom, with 142 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
-| Sat, 3 Oct 2026 | TBA - Outside | Los Angeles |
 | Fri, 9 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |

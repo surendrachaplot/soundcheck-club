@@ -1,14 +1,13 @@
 # TBA - Private Location
 
-TBA - Private Location is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DISCOTECA 002" on Sat, 3 Oct 2026.
+TBA - Private Location is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SOLUNE ft Lee Burridge" on Sun, 4 Oct 2026.
 
-TBA - Private Location is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Aivilo, Angel Science, Bella Mode and Brendocha and 2 more. See dates, start times and who's playing.
+TBA - Private Location is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Aivilo, Angel Science, Bella Mode and Brendocha and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | DISCOTECA 002 | Jesusdapnk |
 | Sun, 4 Oct 2026 | SOLUNE ft Lee Burridge | Jimbo James, Lee Burridge |
 | Sat, 10 Oct 2026 | DOLLY presents... x3butterfly (NYC) with Mood Change & INNEZZ b2b SUBDIDI | INNEZZ, Mood Change, SUBDIDI, x3butterfly |
 | Sat, 24 Oct 2026 | Between the Lines presents: Bruno Schmidt | Aivilo, Bruno Schmidt |

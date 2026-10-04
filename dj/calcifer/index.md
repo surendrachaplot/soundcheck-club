@@ -1,14 +1,13 @@
 # Calcifer
 
-Calcifer is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Calcifer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Späti 4 You, Berlin on Sat, 31 Oct 2026.
 
-Calcifer is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Elias Nuit, bbymeister and DETOXX. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Calcifer is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Elias Nuit, bbymeister and DETOXX. Next up: Späti 4 You, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Sat, 31 Oct 2026 | Späti 4 You | Berlin |
 
 ## Recently played

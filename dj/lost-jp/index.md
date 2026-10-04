@@ -1,14 +1,13 @@
 # LØST
 
-LØST is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 4 Oct 2026.
+LØST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 7 Oct 2026.
 
-LØST is a techno and trance artist based in Japan, with 80 gigs on soundcheck across Tokyo. Often billed alongside savezearth, comm and TEI TEI. Next up: Aoyama Hachi, Tokyo on Sun 4 Oct.
+LØST is a techno and trance artist based in Japan, with 80 gigs on soundcheck across Tokyo. Often billed alongside savezearth, comm and TEI TEI. Next up: Enter Shibuya, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Aoyama Hachi | Tokyo |
 | Wed, 7 Oct 2026 | Enter Shibuya | Tokyo |
 | Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | WOMB | Tokyo |

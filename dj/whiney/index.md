@@ -1,14 +1,13 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Whiney is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
 
-Whiney is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 28 more. Often billed alongside P Money, Degs and Unglued. Next up: Club Exil, Vienna on Sat 3 Oct.
+Whiney is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 28 more. Often billed alongside P Money, Degs and Unglued. Next up: Ice Cream Factory, Perth on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Exil | Vienna |
 | Fri, 30 Oct 2026 | Ice Cream Factory | Perth |
 
 ## Recently played

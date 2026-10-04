@@ -1,14 +1,13 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
 
-Mano Le Tough is a house and techno artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Mano Le Tough is a house and techno artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: La Terrrazza, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 11 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 3 Oct 2026.
+77 is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "77 hosts MASAKA AFRICANA: Novak & Vidojean & Mickey Dastinz" on Fri, 9 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including AfroKillerz, Alan Dixon, AliTR and Angela Rose and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alan Dixon, AliTR, Angela Rose and Cinar and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77 hosts MASAKA AFRICANA: Novak & Vidojean & Mickey Dastinz | Novak |
 | Sat, 10 Oct 2026 | Soul Session - Sixteenth Birthday | Angela Rose, Gavin Peters, Melo-D |
 | Mon, 12 Oct 2026 | FullHouse Monday Launch Party: Special Guest |  |
@@ -18,6 +17,7 @@
 | Tue, 20 Oct 2026 | 77: Alan Dixon | Alan Dixon, Sam Holland |
 | Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA | Kidflo |
 | Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II |  |
+| Mon, 26 Oct 2026 | FullHouse Monday Party: Special Guest |  |
 
 ## Address
 

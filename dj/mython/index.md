@@ -1,14 +1,13 @@
 # Mython
 
-Mython is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Graf Karl, Kassel on Sat, 3 Oct 2026.
+Mython is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
-Mython is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 11 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: Graf Karl, Kassel on Sat 3 Oct.
+Mython is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 11 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Graf Karl | Kassel |
 | Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | Surr Warehouse | Uzbekistan |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |

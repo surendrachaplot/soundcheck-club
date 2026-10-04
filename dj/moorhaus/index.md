@@ -1,14 +1,13 @@
 # Moorhaus
 
-Moorhaus is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cardinal Bar, Madison on Sat, 3 Oct 2026.
+Moorhaus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Prysm Nightclub, Chicago on Sat, 17 Oct 2026.
 
-Moorhaus is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Chicago, Madison and Miami. Often billed alongside Muffy, Dunes of Dawn and Beltran. Next up: Cardinal Bar, Madison on Sat 3 Oct.
+Moorhaus is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Chicago, Madison and Miami. Often billed alongside Muffy, Dunes of Dawn and Beltran. Next up: Prysm Nightclub, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Cardinal Bar | Madison |
 | Sat, 17 Oct 2026 | Prysm Nightclub | Chicago |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 

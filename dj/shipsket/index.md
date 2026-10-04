@@ -1,6 +1,6 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Ship Sket is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Ship Sket is an experimental and club artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Proc Fiskal, KAVARI and Naramnesia. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Ship Sket is an experimental and club artist based in United Kingdom, with 79 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Sat, 3 Oct 2026 | The Greyhound | London |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 

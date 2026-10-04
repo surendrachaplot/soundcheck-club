@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Anetha · Drazzit / SOUNDIT Club: Kyle Hall · Steven Julien · Pau Roca" on Sat, 3 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jimi Jules All Night Long / LSDXOXO · Mina Galán · ENGALANAN" on Fri, 9 Oct 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Paula Tape, Alvva, Anetha and Answer Code Request and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Alvva, Answer Code Request and Batu and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Anetha · Drazzit / SOUNDIT Club: Kyle Hall · Steven Julien · Pau Roca | Anetha, Drazzit, Kyle Hall, Pau Roca, Steven Julien |
 | Fri, 9 Oct 2026 | Jimi Jules All Night Long / LSDXOXO · Mina Galán · ENGALANAN | ENGALANAN, Jimi Jules, LSDXOXO, Mina Galán |
 | Sat, 10 Oct 2026 | DJ Tennis All Night Long / Batu · Answer Code Request Live · Kenya Arakama | Answer Code Request, Batu, DJ Tennis, Kenya Arakama |
 | Fri, 16 Oct 2026 | Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY | Alvva, Laidlaw, PRADA2000, Silva Bumpa, VIVAY |
@@ -18,6 +17,7 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 | Sat, 31 Oct 2026 | Oscar Mulero · Sylvia · Dj Fra / MSE: Verushka b2b Bella Sarris · Cashu b2b Meritxell De Soto | Bella Sarris, Cashu, Dj Fra, Meritxell De Soto, Oscar Mulero, Sylvia (ES), Verushka |
 | Fri, 13 Nov 2026 | oskar med k | oskar med k |
 | Sat, 21 Nov 2026 | Cloonee | Cloonee |
+| Sat, 19 Dec 2026 | Hotties: ØTTA | ØTTA |
 
 ## Address
 

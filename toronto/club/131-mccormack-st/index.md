@@ -1,14 +1,13 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PRECIOUS CARGO x Sniffies (WAREHOUSE)" on Sat, 3 Oct 2026.
+131 Mccormack St is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "429: El Mefti All Night Long" on Sat, 28 Nov 2026.
 
-131 Mccormack St is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Delicious DJ, James Axon, Michael Cignarale and Sevyn. See dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
+131 Mccormack St is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PRECIOUS CARGO x Sniffies (WAREHOUSE) | Delicious DJ, James Axon, Michael Cignarale, Sevyn |
 | Sat, 28 Nov 2026 | 429: El Mefti All Night Long |  |
 
 ## Address

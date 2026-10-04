@@ -1,15 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Fri, 9 Oct 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Kompass Klub, Ghent on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
-| Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 9 Oct 2026 | Kompass Klub | Ghent |
 | Fri, 23 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -20,6 +18,8 @@ Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundc
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 7 Nov 2026 | FOLD | London |
+| Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 
 ## Recently played
 

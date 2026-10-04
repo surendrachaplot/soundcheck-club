@@ -1,14 +1,13 @@
 # Lee Osborne
 
-Lee Osborne is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mooi Space, Toronto on Sat, 3 Oct 2026.
+Lee Osborne is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Warehouse, Toronto on Sat, 10 Oct 2026.
 
-Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: Mooi Space, Toronto on Sat 3 Oct.
+Lee Osborne is a techno and electronica artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: TBA - Warehouse, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mooi Space | Toronto |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
 | Fri, 20 Nov 2026 | Standard Time | Toronto |
 

@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TIZI with Monile b2b Desirée Falessi" on Sat, 3 Oct 2026.
+Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Stojche & Tremul at Anfang" on Thu, 8 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TIZI with Monile b2b Desirée Falessi | Desirée Falessi, Jose Vera, Monile, Ninalash!, Rony Finkel |
 | Thu, 8 Oct 2026 | Stojche & Tremul at Anfang | Stojche, Tremūl |
 | Fri, 9 Oct 2026 | CDVR with Inland Knights | Guarino, Inland Knights, Rafa Santos, Simon Garcia |
 | Sat, 10 Oct 2026 | TIME TO PANIC with Luisa | Denso, Ed Warner, Luisa, Valleyk, ildec |
@@ -18,6 +17,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with 
 | Thu, 22 Oct 2026 | IMOGEN at Anfang | IMOGEN, Jakka, VRØD |
 | Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Avo (ES), Cesc (ES), DANI RUBIO, DANIL0, Fernando Costantini, Mark (ES) |
 | Sat, 24 Oct 2026 | HOLLYWOOD with Diamin | Diamin, TWO EX |
+| Thu, 29 Oct 2026 | Ruman at ANFANG | Ruman, Unkle Fon |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Love Inn, Bristol on Fri, 2 Oct 2026.
+K-LONE is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Villa, Oslo on Sat, 10 Oct 2026.
 
-K-LONE is a house and bass artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 15 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: The Love Inn, Bristol on Fri 2 Oct.
+K-LONE is a house and bass artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 15 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: The Villa, Oslo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Love Inn | Bristol |
 | Sat, 10 Oct 2026 | The Villa | Oslo |
 | Fri, 16 Oct 2026 | Soup | Manchester |
 | Fri, 23 Oct 2026 | OHM | Berlin |

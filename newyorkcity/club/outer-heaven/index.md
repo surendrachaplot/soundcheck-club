@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Outer Heaven presents: CAMILLA - Gui Machado" on Sat, 3 Oct 2026.
+Outer Heaven is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Outer Heaven presents: Pablo Romero" on Wed, 7 Oct 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Outer Heaven presents: CAMILLA - Gui Machado | CAMILLA, Gui Machado |
 | Wed, 7 Oct 2026 | Outer Heaven presents: Pablo Romero | Pablo Romero |
 | Thu, 8 Oct 2026 | Not So Static presents: Schloss b2b BV |  |
 | Fri, 9 Oct 2026 | pregame presents: Monk Birthday Bash | Armii1n, John Everett, Monk (2), Zayd |
@@ -18,6 +17,7 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 31 upcoming
 | Wed, 14 Oct 2026 | Outer Heaven presents: Robbie Lumpkin | Robbie Lumpkin |
 | Thu, 15 Oct 2026 | Outer Heaven presents: Timo Lee - UMA DJ | Timo Lee, UMA DJ |
 | Fri, 16 Oct 2026 | Outer Heaven Records 002 Release Party: A.Wild | A.Wild, Chloe Battelle |
+| Sat, 17 Oct 2026 | Attention Spin!: Dawidu b2b Nuts | Chuwee, Dawidu, NUTS (2) |
 
 ## Address
 

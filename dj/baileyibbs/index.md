@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Java, Paris on Sat, 3 Oct 2026.
+Bailey Ibbs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: La Java, Paris on Sat 3 Oct.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | La Java | Paris |
 | Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |

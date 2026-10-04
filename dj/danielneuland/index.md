@@ -1,14 +1,13 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Daniel Neuland is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Daniel Neuland is a techno and tech house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Daniel Neuland is a techno and tech house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
 

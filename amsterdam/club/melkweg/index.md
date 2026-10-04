@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 54 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Notion" on Sat, 3 Oct 2026.
+Melkweg is a music venue in Amsterdam with 53 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Cheeky Monday: Gremlinz" on Mon, 5 Oct 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 54 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 53 upcoming gigs, with line-ups including 2HOT2PLAY, 4am Kru, Yulia Niko and ALT8 and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Notion | MALLAURY, Notion, Sam Girling, Y U QT |
 | Mon, 5 Oct 2026 | Cheeky Monday: Gremlinz | Gremlinz |
 | Tue, 6 Oct 2026 | Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo | Dexon, Inez Akker, Jayzo |
 | Sat, 10 Oct 2026 | Hard Attack | Gysèle |
@@ -18,6 +17,7 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 54 upcoming gigs, wi
 | Tue, 20 Oct 2026 | Techno Tuesday Amsterdam, Icey Planet, Dexon, A.R.T | A.R.T., Dexon, Icey Planet |
 | Wed, 21 Oct 2026 | Mind Enterprises - ADE |  |
 | Wed, 21 Oct 2026 | ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out) |  |
+| Wed, 21 Oct 2026 | Mind Enterprises - ADE |  |
 
 ## Address
 

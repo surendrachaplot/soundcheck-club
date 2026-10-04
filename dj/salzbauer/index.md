@@ -1,14 +1,13 @@
 # Salzbauer
 
-Salzbauer is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
+Salzbauer is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
-Salzbauer is a trance and techno artist based in Germany, with 46 gigs on soundcheck across Antwerp, Berlin, Cologne and Hamburg and 5 more. Often billed alongside SOHOE, Stinny Stone and futurristic. Next up: glimmer, Hamburg on Sat 3 Oct.
+Salzbauer is a trance and techno artist based in Germany, with 46 gigs on soundcheck across Antwerp, Berlin, Cologne and Hamburg and 5 more. Often billed alongside SOHOE, Stinny Stone and futurristic. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | glimmer | Hamburg |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Tala Berg is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
-Tala Berg is a techno and downtempo artist based in Germany, with 6 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside Wanda Wild, ANASTASÍA and Amøn. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Tala Berg is a techno and downtempo artist based in Germany, with 6 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside Wanda Wild, ANASTASÍA and Amøn. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 16 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played

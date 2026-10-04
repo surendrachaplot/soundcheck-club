@@ -1,14 +1,13 @@
 # Panic
 
-Panic is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Panic is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Panic is a techno and hardcore artist based in Australia, with 25 gigs on soundcheck across Amsterdam, Cologne, Dortmund Essen and Frankfurt and 5 more. Often billed alongside Marc Acardipane, Neophyte and Partyraiser. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Panic is a techno and hardcore artist based in Australia, with 25 gigs on soundcheck across Amsterdam, Cologne, Dortmund Essen and Frankfurt and 5 more. Often billed alongside Marc Acardipane, Neophyte and Partyraiser. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Sat, 24 Oct 2026 | Maassilo | Rotterdam |
 

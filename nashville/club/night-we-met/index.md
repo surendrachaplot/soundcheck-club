@@ -1,14 +1,13 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HILLS" on Sat, 3 Oct 2026.
+Night We Met is a music venue in Nashville with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Distant Matter" on Fri, 9 Oct 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 15 upcoming gigs, with line-ups including Biscits, bradeazy, Cut Copy and Jackie Hollander and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 14 upcoming gigs, with line-ups including Biscits, bradeazy, Cut Copy and Jackie Hollander and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | HILLS |  |
 | Fri, 9 Oct 2026 | Distant Matter |  |
 | Sat, 10 Oct 2026 | Dreya V |  |
 | Fri, 16 Oct 2026 | bradeazy | Will Sass, bradeazy |
@@ -18,6 +17,7 @@ Night We Met is a music venue in Nashville listed on soundcheck. 15 upcoming gig
 | Fri, 30 Oct 2026 | AR/CO |  |
 | Sat, 31 Oct 2026 | Biscits | Biscits |
 | Fri, 6 Nov 2026 | Daft Disko: Nashville |  |
+| Sat, 7 Nov 2026 | Mythos feat. Millero | Merchant |
 
 ## Address
 

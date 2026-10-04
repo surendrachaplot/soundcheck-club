@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TROUGH LONDON" on Sat, 3 Oct 2026.
+Union Club, Vauxhall is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Orbit Sunday night / Monday morning after party" on Sun, 4 Oct 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TROUGH LONDON | Massimo Paramour |
 | Sun, 4 Oct 2026 | Orbit Sunday night / Monday morning after party | Dhez, Duwat?, Thomas Galbardi, Yukari |
 | Thu, 8 Oct 2026 | DESIRE - Weekly Thursday After Party - JULIANA BRANCO | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 9 Oct 2026 | FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) |  |
@@ -18,6 +17,7 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 13 upcomin
 | Sun, 18 Oct 2026 | Orbit Sunday night / Monday morning after party | Thomas Galbardi |
 | Thu, 22 Oct 2026 | DESIRE - Weekly Thursday After Party - Francesco Poggi | Dhez, Duwat?, Elisa Nau., Francesco Poggi, Simone Sim |
 | Sun, 25 Oct 2026 | Orbit Sunday night / Monday morning after party |  |
+| Thu, 29 Oct 2026 | DESIRE - Weekly Thursday After Party - HALLOWEEN SPECIAL | Dhez, Duwat?, Elisa Nau., Simone Sim |
 
 ## Address
 

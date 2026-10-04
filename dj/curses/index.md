@@ -1,14 +1,13 @@
 # Curses
 
-Curses is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Carpet Shop, London on Sat, 3 Oct 2026.
+Curses is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
 
-Curses is a techno and house artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: The Carpet Shop, London on Sat 3 Oct.
+Curses is a techno and house artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Fuse, Brussels on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Carpet Shop | London |
 | Sat, 10 Oct 2026 | Fuse | Brussels |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Badaboum | Paris |

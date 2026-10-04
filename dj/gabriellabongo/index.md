@@ -1,14 +1,13 @@
 # Gabriella Bongo
 
-Gabriella Bongo is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Gabriella Bongo is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarters, Brighton on Fri, 23 Oct 2026.
 
-Gabriella Bongo is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 8 more. Often billed alongside Nu:Tone, Metrik and Flava D. Next up: halle02, Heidelberg on Sat 3 Oct.
+Gabriella Bongo is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 8 more. Often billed alongside Nu:Tone, Metrik and Flava D. Next up: Quarters, Brighton on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | halle02 | Heidelberg |
 | Fri, 23 Oct 2026 | Quarters | Brighton |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |

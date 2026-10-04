@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "YOUTH: Duster Valentine / Grace Sands / Lyster" on Sat, 3 Oct 2026.
+The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Beauty Witch presents: Dagmar Zuniga" on Tue, 6 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | YOUTH: Duster Valentine / Grace Sands / Lyster | DJ Lyster, Grace Sands |
 | Tue, 6 Oct 2026 | The Beauty Witch presents: Dagmar Zuniga |  |
 | Thu, 8 Oct 2026 | Self: Vanessa Bedoret, Magnus Westwell, Needle | Magnus Westwell, Vanessa Bedoret |
 | Fri, 9 Oct 2026 | The Trilogy Tapes: Josey Rebelle / mi-el / Max Ball / Will Bankhead | Josey Rebelle, Will Bankhead, mi-el |
@@ -18,6 +17,7 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming
 | Tue, 13 Oct 2026 | Toast Club |  |
 | Thu, 15 Oct 2026 | Grey Lantern presents: DITZ / Bathing Suits | DITZ |
 | Fri, 16 Oct 2026 | High Hoops w/ Jennifer Loveless, Ivy F, Myka, d. clemente & Fastlove | Fastlove, Ivy F, Jennifer Loveless, d. clemente |
+| Sat, 17 Oct 2026 | The Final Club Romantico: Dengue Dengue Dengue! / DJ Plead / Florentino & special guest | DJ Plead, Dengue Dengue Dengue, Florentino |
 
 ## Address
 

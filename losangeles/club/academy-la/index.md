@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Rebūke" on Sat, 3 Oct 2026.
+Academy LA is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw" on Sat, 10 Oct 2026.
 
-Academy LA is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including AC Slater, Desert Hearts, Justin Martin and Marco Strous and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including AC Slater, Desert Hearts, Justin Martin and Marco Strous and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Rebūke | Rebuke |
 | Sat, 10 Oct 2026 | Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw | TOBEHONEST |
 | Sat, 17 Oct 2026 | Oppidan | Oppidan |
 | Fri, 23 Oct 2026 | Marco Strous | Marco Strous |

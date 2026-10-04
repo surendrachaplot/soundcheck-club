@@ -1,14 +1,13 @@
 # Vass
 
-Vass is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Vass is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 10 Oct 2026.
 
-Vass is a techno and electro artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Distrikt, Leeds on Sat 3 Oct.
+Vass is a techno and electro artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Les Enfants Brillants, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Sat, 10 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 7 Nov 2026 | The Yard | Manchester |
 

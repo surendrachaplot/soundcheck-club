@@ -1,14 +1,13 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Strand DC, Washington DC on Sat, 3 Oct 2026.
+Pawlowski is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Vancouver on Fri, 9 Oct 2026.
 
-Pawlowski is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Strand DC, Washington DC on Sat 3 Oct.
+Pawlowski is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: TBA, Vancouver on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Strand DC | Washington DC |
 | Fri, 9 Oct 2026 | TBA | Vancouver |
 | Sat, 10 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | D! Club | Lausanne |

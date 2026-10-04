@@ -1,14 +1,13 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Movers, Nottingham on Sat, 3 Oct 2026.
+Felix Dickinson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The White Hotel, Manchester on Sat, 31 Oct 2026.
 
-Felix Dickinson is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Athens, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: Movers, Nottingham on Sat 3 Oct.
+Felix Dickinson is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Athens, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: The White Hotel, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Movers | Nottingham |
 | Sat, 31 Oct 2026 | The White Hotel | Manchester |
 | Fri, 6 Nov 2026 | M.O.T | London |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |

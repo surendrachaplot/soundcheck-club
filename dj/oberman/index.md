@@ -1,14 +1,13 @@
 # Oberman
 
-Oberman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Palais, London on Sat, 3 Oct 2026.
+Oberman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
 
-Oberman is a techno and house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 9 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Palais, London on Sat 3 Oct.
+Oberman is a techno and house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 9 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Palais | London |
 | Sat, 10 Oct 2026 | Lantaren/Venster | Rotterdam |
 | Thu, 22 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 

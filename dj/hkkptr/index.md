@@ -1,14 +1,13 @@
 # HKKPTR
 
-HKKPTR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+HKKPTR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
 
-HKKPTR is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Frankfurt and Munich and 1 more. Often billed alongside RaverPik, Sabu! and The Jakob Sister. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
+HKKPTR is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Frankfurt and Munich and 1 more. Often billed alongside RaverPik, Sabu! and The Jakob Sister. Next up: Altenburg 1964, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 
 ## Recently played

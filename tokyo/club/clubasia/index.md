@@ -17,7 +17,7 @@ clubasia is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with 
 | Thu, 15 Oct 2026 | club asia THURSDAY |  |
 | Fri, 16 Oct 2026 | GROOVIN' 2nd Anniversary | Ground (1) |
 | Mon, 19 Oct 2026 | TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL | Bass |
-| Thu, 22 Oct 2026 | 𝗰𝗹𝘂𝗯𝗮𝘀𝗶𝗮 𝗧𝗛𝗨𝗥𝗦𝗗𝗔𝗬 | Sekitova, Telematic Visions, illequal |
+| Thu, 22 Oct 2026 | clubasia THURSDAY | Sekitova, Telematic Visions, illequal |
 
 ## Address
 

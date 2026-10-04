@@ -1,15 +1,13 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+SLVL is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
 
-SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Complejo Embrujo, South on Sat 3 Oct.
+SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -20,6 +18,7 @@ SLVL is a techno and industrial artist based in Netherlands, with 90 gigs on sou
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 

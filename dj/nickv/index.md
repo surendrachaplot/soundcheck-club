@@ -1,14 +1,13 @@
 # Nick V
 
-Nick V is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 3 Oct 2026.
+Nick V is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plantation, Paris on Fri, 9 Oct 2026.
 
-Nick V is a house and disco artist based in France, with 84 gigs on soundcheck across Berlin, Geneva, Liverpool and Lyon and 4 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Le Chapiteau - Marseille, Marseille on Sat 3 Oct.
+Nick V is a house and disco artist based in France, with 84 gigs on soundcheck across Berlin, Geneva, Liverpool and Lyon and 4 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Plantation, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Le Chapiteau - Marseille | Marseille |
 | Fri, 9 Oct 2026 | Plantation | Paris |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
 

@@ -1,14 +1,13 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Strange Brew, Bristol on Sat, 3 Oct 2026.
+Stella Zekri is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Stella Zekri is a house and techno artist based in France, with 192 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: Strange Brew, Bristol on Sat 3 Oct.
+Stella Zekri is a house and techno artist based in France, with 192 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Strange Brew | Bristol |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 17 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |

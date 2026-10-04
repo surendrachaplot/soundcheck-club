@@ -1,6 +1,6 @@
 # Radar Festival Brisbane at Superordinary
 
-Radar Festival Brisbane at Superordinary on Sat 2 Jan, Brisbane. 19 artists: AK SPORTS, Bella Claxton, Boys Noize and Carla Martinez and 15 more. See the line-up on soundcheck.
+Radar Festival Brisbane at Superordinary on Sat 2 Jan, Brisbane. 19 artists: AK SPORTS, Bella Claxton, Boys Noize and Carla Martinez and 15 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

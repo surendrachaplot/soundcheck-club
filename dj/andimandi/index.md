@@ -1,14 +1,13 @@
 # ANDi MANDi
 
-ANDi MANDi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+ANDi MANDi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 5 Nov 2026.
 
-ANDi MANDi is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Philadelphia. Often billed alongside JFK (USA), De León and DJ Kalin. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
+ANDi MANDi is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Philadelphia. Often billed alongside JFK (USA), De León and DJ Kalin. Next up: Noto Philadelphia, Philadelphia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Thu, 5 Nov 2026 | Noto Philadelphia | Philadelphia |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Sam Bangura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
 
-Sam Bangura is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
+Sam Bangura is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played

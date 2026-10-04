@@ -1,14 +1,13 @@
 # Gem Wallow
 
-Gem Wallow is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Freedonia, Barcelona on Sat, 3 Oct 2026.
+Gem Wallow is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BOUM MARSEILLE, Marseille on Thu, 8 Oct 2026.
 
-Gem Wallow is a house and techno artist based in Japan, with 52 gigs on soundcheck across Barcelona, Berlin, Marseille and Osaka and 1 more. Often billed alongside Mustache X, Diego Montiel and Chris MS. Next up: Freedonia, Barcelona on Sat 3 Oct.
+Gem Wallow is a house and techno artist based in Japan, with 52 gigs on soundcheck across Barcelona, Berlin, Marseille and Osaka and 1 more. Often billed alongside Mustache X, Diego Montiel and Chris MS. Next up: BOUM MARSEILLE, Marseille on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Freedonia | Barcelona |
 | Thu, 8 Oct 2026 | BOUM MARSEILLE | Marseille |
 
 ## Recently played

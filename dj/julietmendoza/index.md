@@ -1,14 +1,13 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+Juliet Mendoza is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Eldorado Ballroom, Houston on Fri, 16 Oct 2026.
 
-Juliet Mendoza is a house and deep house artist based in United States of America, with 106 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
+Juliet Mendoza is a house and deep house artist based in United States of America, with 106 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Eldorado Ballroom, Houston on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Small Green Door | Los-angeles |
 | Fri, 16 Oct 2026 | Eldorado Ballroom | Houston |
 | Sat, 7 Nov 2026 | 1720 | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |

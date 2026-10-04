@@ -1,14 +1,13 @@
 # Marco Ramos
 
-Marco Ramos is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
+Marco Ramos is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at John Doe, Amsterdam on Thu, 8 Oct 2026.
 
-Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Yunhee, Industrialyzer and Chich. Next up: NADA Lisbon, Lisbon on Sat 3 Oct.
+Marco Ramos is a techno and house artist based in Netherlands, with 285 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Yunhee, Industrialyzer and Chich. Next up: John Doe, Amsterdam on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NADA Lisbon | Lisbon |
 | Thu, 8 Oct 2026 | John Doe | Amsterdam |
 | Sat, 10 Oct 2026 | John Doe | Amsterdam |
 | Thu, 15 Oct 2026 | John Doe | Amsterdam |

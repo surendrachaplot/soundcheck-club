@@ -1,14 +1,13 @@
 # XIMA
 
-XIMA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Sat, 3 Oct 2026.
+XIMA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
 
-XIMA is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside HØLLE, DJ TIPSTER and YOVA. Next up: OST, Berlin on Sat 3 Oct.
+XIMA is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside HØLLE, DJ TIPSTER and YOVA. Next up: OXI, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OST | Berlin |
 | Sat, 19 Dec 2026 | OXI | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 19 Feb 2027 | Lokschuppen Berlin | Berlin |

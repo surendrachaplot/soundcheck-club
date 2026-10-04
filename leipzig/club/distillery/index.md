@@ -1,15 +1,13 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "FOCUS + KARETE BU invites" on Sat, 3 Oct 2026.
+Distillery is a music venue in Leipzig with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Culture Connects Clubnight" on Fri, 9 Oct 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including Bephål, bertziherzi, BIGALKE and Carlotta Jacobi and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 8 upcoming gigs, with line-ups including Bephål, bertziherzi, BIGALKE and Carlotta Jacobi and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | FOCUS + KARETE BU invites | Laima Adelaide, Natascha Kann, R!ke, Toxido Mask, V:SONNTAG, karete bu |
-| Sat, 3 Oct 2026 | Focus: invites by V:SONNTAG |  |
 | Fri, 9 Oct 2026 | Culture Connects Clubnight |  |
 | Sat, 10 Oct 2026 | KEINKOLLEKTIV × NORMAN NODGE all night long | DJ Skonti, Delirante, InterStella, Nadine Talakovics, Norman Nodge |
 | Fri, 16 Oct 2026 | 34 YRS distillery | BIGALKE, Bephål, Carlotta Jacobi, Cynthia Matisse, Daniel Stefanik, MAY/O, Mascha Roth, Moto Moto, Neele, Nørbak, OLIV, Padsingers, RIKHTER, Submod, Thomas Stieler, Traxx Jr, mp.ulle, noxsonos, pokka |

@@ -1,14 +1,13 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+Dopplereffekt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at L'Alhambra, Geneva on Thu, 8 Oct 2026.
 
-Dopplereffekt is a techno and electro artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
+Dopplereffekt is a techno and electro artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: L'Alhambra, Geneva on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Thu, 8 Oct 2026 | L'Alhambra | Geneva |
 | Thu, 5 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Fri, 13 Nov 2026 | Hidden | Manchester |

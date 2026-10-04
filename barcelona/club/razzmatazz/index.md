@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAZZCLUBS: Prestige Pak:Handsome Rob+Architect+ il C+Lagoon-POWERED BY Greenlight Sound System" on Sat, 3 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery" on Fri, 9 Oct 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Acidnena, Adame DJ, Akua and Aleman Beatz and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Acidnena, Adame DJ, Aleman Beatz and amil raja and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | RAZZCLUBS: Prestige Pak:Handsome Rob+Architect+ il C+Lagoon-POWERED BY Greenlight Sound System | Akua, Architect, Decka, Disturbia, Function, Handsome Rob, Lagoon, Lil C, Mystral |
 | Fri, 9 Oct 2026 | RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery | Aleman Beatz, Global, Montenegro, Seaina, amil raja, pavvvvvvlo |
 | Sat, 10 Oct 2026 | RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh | BLANKA, Brus Equation, Carlota, DJ2D2, Elli Acula, Julietta Ferrari, Lucca, SH4RIN, Yushh |
 | Sun, 11 Oct 2026 | Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem | Anthony Linell, Claudio PRC, Jhort, Philippa Pacho, Rrose, Verushka, mad miran, oma totem |
@@ -18,6 +17,7 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs,
 | Sat, 24 Oct 2026 | RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech | Bas Mooy, DJ Godfather, DJ KETAFLUSH, David Elimelech, Elwood, Kaiser (K S R), Miramizu, NAUAL, Natural Language, Rosecut, Speare, Spiderwrap |
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 13 Nov 2026 | SPORTS |  |
+| Sat, 21 Nov 2026 | Pre-human x Refractor | Andrae Durden, Convoluted Mental Mirror, Malesa |
 
 ## Address
 

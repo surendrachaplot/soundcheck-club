@@ -1,14 +1,13 @@
 # dj poolboi
 
-dj poolboi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 3 Oct 2026.
+dj poolboi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Airliner, Los Angeles on Sat, 17 Oct 2026.
 
-dj poolboi is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside sunflwr, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Bar Le Ritz PDB, Montreal on Sat 3 Oct.
+dj poolboi is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside sunflwr, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: The Airliner, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bar Le Ritz PDB | Montreal |
 | Sat, 17 Oct 2026 | The Airliner | Los Angeles |
 | Thu, 22 Oct 2026 | Lark | Berlin |
 | Fri, 6 Nov 2026 | Night Tales Loft | London |

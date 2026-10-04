@@ -1,13 +1,15 @@
 # Vladimir Cauchemar
 
-Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse, Nantes on Fri, 30 Oct 2026.
+Vladimir Cauchemar is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Vladimir Cauchemar is a techno and electro artist based in France, with 41 gigs on soundcheck across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside LESSSS, Mandragora and billx. Next up: Warehouse, Nantes on Fri 30 Oct.
+Vladimir Cauchemar is a techno and electro artist based in France, with 43 gigs on soundcheck across Barcelona, Bordeaux, Brussels and Geneva and 9 more. Often billed alongside LESSSS, Mandragora and billx. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Fri, 30 Oct 2026 | Warehouse | Nantes |
 | Fri, 4 Dec 2026 | Phantom, Paris | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |

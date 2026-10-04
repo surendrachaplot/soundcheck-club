@@ -1,14 +1,13 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Polyamor x Faster" on Sat, 3 Oct 2026.
+Zoom Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "4 My People X Femme Frequency" on Sat, 17 Oct 2026.
 
-Zoom Club is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including 18+, CAIVA, Cera Khin and Fedele and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
+Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including 18+, CAIVA, Cera Khin and Fedele and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Polyamor x Faster |  |
 | Sat, 17 Oct 2026 | 4 My People X Femme Frequency | 18+, CAIVA, Cera Khin, Mila Black, STELLA BOSSI, VIVI909 |
 | Sat, 24 Oct 2026 | HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER |  |
 | Fri, 6 Nov 2026 | Cocoon Frankfurt ZOOM | Fedele, Marcel Dettmann, Maurizio Schmitz, Ogazón, Raxon, Sublee |

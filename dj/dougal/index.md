@@ -1,14 +1,13 @@
 # Dougal
 
-Dougal is a Hardcore and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
+Dougal is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
 
-Dougal is a hardcore and trance artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Birmingham, Glasgow and Leeds and 6 more. Often billed alongside Scott Brown, Hixxy and Mark Breeze. Next up: Distillery N17, London on Sat 3 Oct.
+Dougal is a hardcore and trance artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Birmingham, Glasgow and Leeds and 6 more. Often billed alongside Scott Brown, Hixxy and Mark Breeze. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distillery N17 | London |
 | Sat, 10 Oct 2026 | The Classic Grand | Glasgow |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
 

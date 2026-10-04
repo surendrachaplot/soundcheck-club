@@ -1,14 +1,13 @@
 # DJ SWISHA
 
-DJ SWISHA is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Rex Club, Paris on Sat, 3 Oct 2026.
+DJ SWISHA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ampere, Antwerp on Fri, 9 Oct 2026.
 
-DJ SWISHA is a house and techno artist based in United States of America, with 205 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 47 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Rex Club, Paris on Sat 3 Oct.
+DJ SWISHA is a house and techno artist based in United States of America, with 205 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 47 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Ampere, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Rex Club | Paris |
 | Fri, 9 Oct 2026 | Ampere | Antwerp |
 | Sat, 10 Oct 2026 | KABUL à GoGo | Utrecht |
 | Fri, 16 Oct 2026 | Palais | London |

@@ -1,14 +1,13 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ormside Projects, London on Sat, 3 Oct 2026.
+DJ Pete is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
 
-DJ Pete is a techno and electro artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: Ormside Projects, London on Sat 3 Oct.
+DJ Pete is a techno and electro artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: Paloma, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Ormside Projects | London |
 | Fri, 16 Oct 2026 | Paloma | Berlin |
 
 ## Recently played

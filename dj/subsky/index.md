@@ -1,14 +1,13 @@
 # Subsky
 
-Subsky is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Minimüzikhol, Istanbul on Sat, 3 Oct 2026.
+Subsky is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Minimüzikhol, Istanbul on Sat, 10 Oct 2026.
 
-Subsky is a house and deep house artist based in Turkey, with 42 gigs on soundcheck across Istanbul. Often billed alongside Fuchs, Barish Turker and Cem Ozden. Next up: Minimüzikhol, Istanbul on Sat 3 Oct.
+Subsky is a house and deep house artist based in Turkey, with 42 gigs on soundcheck across Istanbul. Often billed alongside Fuchs, Barish Turker and Cem Ozden. Next up: Minimüzikhol, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Minimüzikhol | Istanbul |
 | Sat, 10 Oct 2026 | Minimüzikhol | Istanbul |
 
 ## Recently played

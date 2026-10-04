@@ -1,14 +1,13 @@
 # Joe Smooth
 
-Joe Smooth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Telford Arena & Rechabite Concert Hall, Midlands on Sat, 3 Oct 2026.
+Joe Smooth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-Joe Smooth is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Chicago, London and Marseille and 1 more. Often billed alongside Alex Pi, DJ Pierre and Gettoblaster. Next up: Telford Arena & Rechabite Concert Hall, Midlands on Sat 3 Oct.
+Joe Smooth is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Chicago, London and Marseille and 1 more. Often billed alongside Alex Pi, DJ Pierre and Gettoblaster. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Telford Arena & Rechabite Concert Hall | Midlands |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played

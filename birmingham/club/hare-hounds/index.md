@@ -1,15 +1,13 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "whiplash ft. grace sands // emilia g // spring // yshee black" on Sat, 3 Oct 2026.
+Hare & Hounds is a music venue in Birmingham with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kylie Wears Berghaus" on Fri, 9 Oct 2026.
 
-Hare & Hounds is a music venue in Birmingham listed on soundcheck. 9 upcoming gigs, with line-ups including DAR DISKU, DJ Flight, DRS and Greg Wilson and 2 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
+Hare & Hounds is a music venue in Birmingham listed on soundcheck. 7 upcoming gigs, with line-ups including DAR DISKU, Greg Wilson, Horse Meat Disco and Kylie Wears Berghaus and 2 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | whiplash ft. grace sands // emilia g // spring // yshee black |  |
-| Sat, 3 Oct 2026 | Space Cadet DRS, DJ Flight, Anile, SL8R | DJ Flight, DRS, SL8R |
 | Fri, 9 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
 | Sun, 11 Oct 2026 | Luke Una | Luke Una |
 | Sat, 17 Oct 2026 | Variations X DUNYA presents - DAR DISKU | DAR DISKU |

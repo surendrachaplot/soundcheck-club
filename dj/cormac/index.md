@@ -1,14 +1,13 @@
 # Cormac
 
-Cormac is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Cormac is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
 
-Cormac is a house and techno artist, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Cormac is a house and techno artist, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 30 Oct 2026 | The Biscuit Factory | Edinburgh |
 | Fri, 6 Nov 2026 | Yamamori Tengu | Dublin |

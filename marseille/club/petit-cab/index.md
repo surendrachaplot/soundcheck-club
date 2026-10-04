@@ -1,14 +1,13 @@
 # Petit CAB
 
-Petit CAB is a music venue in Marseille with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab" on Sun, 4 Oct 2026.
+Petit CAB is a music venue in Marseille with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab" on Fri, 9 Oct 2026.
 
-Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, with line-ups including Dj Schnake, Kendal, Kenny Larkin and Mad Rey and 2 more. See dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
+Petit CAB is a music venue in Marseille listed on soundcheck. 12 upcoming gigs, with line-ups including Dj Schnake, Kendal, Kenny Larkin and Mad Rey and 2 more. See dates, start times and who's playing. 41 rue Jobin, 13003 MARSEILLE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab |  |
 | Fri, 9 Oct 2026 | Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab |  |
 | Sat, 10 Oct 2026 | Clôture Actoral Festival @ Petit Cab |  |
 | Fri, 16 Oct 2026 | Myd + Pastel @ Petit Cab | Myd, Pastel |
@@ -18,6 +17,7 @@ Petit CAB is a music venue in Marseille listed on soundcheck. 13 upcoming gigs, 
 | Sat, 14 Nov 2026 | Kendal [All Night Long] @ Petit Cab | Kendal |
 | Sat, 21 Nov 2026 | Dreamachine Festival @ Petit Cab |  |
 | Fri, 4 Dec 2026 | Arch Club @ Petit Cab |  |
+| Fri, 11 Dec 2026 | Club inFiné invite Nathan Fake Live + guests @ Petit Cab | Nathan Fake |
 
 ## Address
 

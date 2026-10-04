@@ -1,14 +1,13 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 3 Oct 2026.
+Maxi Meraki is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Punarnava Resort, Other-regions on Sun, 4 Oct 2026.
 
-Maxi Meraki is a house and afro house artist based in Belgium, with 97 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 36 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: The Penthouse Dubai, Dubai on Sat 3 Oct.
+Maxi Meraki is a house and afro house artist based in Belgium, with 97 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 36 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: The Punarnava Resort, Other Regions on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Penthouse Dubai | Dubai |
 | Sun, 4 Oct 2026 | The Punarnava Resort | Other-regions |
 | Fri, 9 Oct 2026 | Club Space Miami | Miami |
 | Fri, 23 Oct 2026 | Volt Club Milano | Milan |

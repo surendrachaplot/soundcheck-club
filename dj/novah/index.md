@@ -1,14 +1,13 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Klub, Antwerp on Sat, 3 Oct 2026.
+NOVAH is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
-NOVAH is a techno and trance artist based in Belgium, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Garage Klub, Antwerp on Sat 3 Oct.
+NOVAH is a techno and trance artist based in Belgium, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Nico Moreno and KUKO. Next up: Warehouse, Nantes on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Garage Klub | Antwerp |
 | Fri, 9 Oct 2026 | Warehouse | Nantes |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
@@ -20,6 +19,7 @@ NOVAH is a techno and trance artist based in Belgium, with 175 gigs on soundchec
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 

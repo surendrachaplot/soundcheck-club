@@ -1,14 +1,13 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Alvaro Medina is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 9 Oct 2026.
 
-Alvaro Medina is a house and minimal artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+Alvaro Medina is a house and minimal artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
 | Fri, 9 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 10 Oct 2026 | Pandora Sevilla | South |
 | Fri, 30 Oct 2026 | Signal | New York City |

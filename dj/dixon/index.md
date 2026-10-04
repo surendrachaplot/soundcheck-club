@@ -1,14 +1,13 @@
 # Dixon
 
-Dixon is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Dixon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
-Dixon is a house and techno artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Dixon is a house and techno artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: The Garage, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Fri, 30 Oct 2026 | Prysm Nightclub | Chicago |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |

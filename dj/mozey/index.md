@@ -1,14 +1,13 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Mozey is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Mozey is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Boston and 30 more. Often billed alongside Kanine, K Motionz and Hedex. Next up: halle02, Heidelberg on Sat 3 Oct.
+Mozey is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Boston and 30 more. Often billed alongside Kanine, K Motionz and Hedex. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | halle02 | Heidelberg |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 22 Oct 2026 | Ijland | Amsterdam |
 | Sat, 31 Oct 2026 | MK Arena | Midlands |

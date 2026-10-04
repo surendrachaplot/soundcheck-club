@@ -1,14 +1,13 @@
 # LOVRA
 
-LOVRA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
+LOVRA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
-LOVRA is a house and techno artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 16 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
+LOVRA is a house and techno artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 16 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Ministry Of Sound | London |
 | Fri, 23 Oct 2026 | The Midway | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |

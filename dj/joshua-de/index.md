@@ -1,0 +1,24 @@
+# JØSHUA
+
+JØSHUA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+
+JØSHUA is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alex Benz, Linh and co:co. Next up: TBA, Hamburg on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA | Hamburg |
+
+## Recently played
+
+- Baalsaal, Hamburg · Fri, 1 May 2026
+- Baalsaal, Hamburg · Fri, 20 Mar 2026
+- Baalsaal, Hamburg · Sat, 29 Nov 2025
+- Fitzroy, Berlin · Fri, 15 Aug 2025
+
+## Shares bills with
+
+Alex Benz, Linh (2), co:co
+
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshua-de/)*

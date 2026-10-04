@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KOSMOS with Konfusia" on Sat, 3 Oct 2026.
+elipamanoke is a music venue in Leipzig with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "between x SARE" on Wed, 7 Oct 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, Aender and Aio and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, BOHO and Bonnie Spacey and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | KOSMOS with Konfusia | Aender, Aio, FLAVE, Konfusia |
 | Wed, 7 Oct 2026 | between x SARE | Finster |
 | Fri, 9 Oct 2026 | fem*vak - The Fall of Patriarchy | CLEO, DJ Annita, LARIOUS, Mariposa x Lyra, itsadisasta, smooksy |
 | Sat, 10 Oct 2026 | 2 Guys 1 Dub |  |
@@ -18,6 +17,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, 
 | Fri, 23 Oct 2026 | elifaces #4 hosted by Red Harmony & R-SOHR | DJ ritalino, MAGDALENA MAY, Medha, Philipp Drube, R-SOHR |
 | Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN |  |
 | Fri, 30 Oct 2026 | Trancegedance - Halloween Special | Acid Goldee, GoaGraf, ch4r20tte, monotony |
+| Sat, 31 Oct 2026 | ZAN – Witches* & Friends |  |
 
 ## Address
 

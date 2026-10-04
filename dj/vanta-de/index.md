@@ -1,14 +1,13 @@
 # Vanta (DE)
 
-Vanta (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat, 3 Oct 2026.
+Vanta (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Sat, 10 Oct 2026.
 
-Vanta (DE) is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Polygonia, DJ G1NA R. and Medha. Next up: TBA - Neukolln. 52.47736265617827, 13.4592885932799, Berlin on Sat 3 Oct.
+Vanta (DE) is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Polygonia, DJ G1NA R. and Medha. Next up: ://about blank, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
 | Sat, 10 Oct 2026 | ://about blank | Berlin |
 | Sat, 7 Nov 2026 | Renate | Berlin |
 

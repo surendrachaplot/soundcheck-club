@@ -1,14 +1,13 @@
 # Auggië
 
-Auggië is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
+Auggië is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
 
-Auggië is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Ivory, Âme and Cipy. Next up: Volt Club Milano, Milan on Sat 3 Oct.
+Auggië is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Ivory, Âme and Cipy. Next up: Mason Bar, Cyprus on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 9 Oct 2026 | Mason Bar | Cyprus |
 | Thu, 22 Oct 2026 | Cut Throat | Amsterdam |
 | Sat, 24 Oct 2026 | Volt Club Milano | Milan |

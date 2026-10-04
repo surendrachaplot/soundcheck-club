@@ -1,14 +1,13 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kilomètre25, Paris on Sat, 3 Oct 2026.
+Paralich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 17 Oct 2026.
 
-Paralich is a techno and trance artist based in Hungary, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Kilomètre25, Paris on Sat 3 Oct.
+Paralich is a techno and trance artist based in Hungary, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Vektor - The Klub, Budapest on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 17 Oct 2026 | Vektor - The Klub | Budapest |
 | Thu, 22 Oct 2026 | Club Magno | Madrid |
 | Sat, 14 Nov 2026 | Arzenal | Budapest |

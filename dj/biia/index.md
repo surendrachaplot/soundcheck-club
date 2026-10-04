@@ -1,14 +1,13 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BASIS, Utrecht on Sat, 3 Oct 2026.
+BIIA is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
-BIIA is a techno and hardcore artist based in Portugal, with 146 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: BASIS, Utrecht on Sat 3 Oct.
+BIIA is a techno and hardcore artist based in Portugal, with 146 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BASIS | Utrecht |
 | Fri, 9 Oct 2026 | The Great Pyramids OF Giza | Egypt |
 | Fri, 16 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 17 Oct 2026 | Lokschuppen Berlin | Berlin |

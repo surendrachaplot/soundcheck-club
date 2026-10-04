@@ -1,14 +1,13 @@
 # Tim Green
 
-Tim Green is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
+Tim Green is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
-Tim Green is a house and deep house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Pershing Square, Los Angeles on Sat 3 Oct.
+Tim Green is a house and deep house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Kaap Amsterdam, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Pershing Square | Los Angeles |
 | Sat, 10 Oct 2026 | Kaap Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Cupra City Garage Manchester | Manchester |
 | Sat, 21 Nov 2026 | The Timber Loft | London |

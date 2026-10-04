@@ -1,14 +1,13 @@
 # Gvantsky
 
-Gvantsky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+Gvantsky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Chinesca, Philadelphia on Sun, 11 Oct 2026.
 
-Gvantsky is a house and techno artist based in Georgia, with 22 gigs on soundcheck across Dublin, New York City, Philadelphia and Tbilisi. Often billed alongside Keen, Mr. Murray and Royce Larøca. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
+Gvantsky is a house and techno artist based in Georgia, with 22 gigs on soundcheck across Dublin, New York City, Philadelphia and Tbilisi. Often billed alongside Keen, Mr. Murray and Royce Larøca. Next up: La Chinesca, Philadelphia on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Sun, 11 Oct 2026 | La Chinesca | Philadelphia |
 
 ## Recently played

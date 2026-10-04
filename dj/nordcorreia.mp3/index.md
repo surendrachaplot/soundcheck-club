@@ -1,14 +1,13 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Reineke Fuchs, Cologne on Fri, 9 Oct 2026.
 
-nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+nordcorreia.mp3 is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: Reineke Fuchs, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 9 Oct 2026 | Reineke Fuchs | Cologne |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |

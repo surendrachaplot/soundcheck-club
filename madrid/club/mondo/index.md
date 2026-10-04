@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Andres Campo / Andres Campo B2B Gerardo Niva / Gerardo Niva" on Sat, 3 Oct 2026.
+Mondo is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Alignment / Barbara Lago / pavvvvvvlo" on Thu, 8 Oct 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alignment, Bad Boombox, Bárbara Lago and Benwal and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Andres Campo / Andres Campo B2B Gerardo Niva / Gerardo Niva | Andres Campo, Gerardo Niva |
 | Thu, 8 Oct 2026 | Alignment / Barbara Lago / pavvvvvvlo | Alignment, Bárbara Lago, pavvvvvvlo |
 | Sat, 10 Oct 2026 | Diffrent / Gerardo Niva / DJ SWISHERMAN B2B Emi Koto | DJ SWISHERMAN, Diffrent, Emi Koto, Gerardo Niva |
 | Sun, 11 Oct 2026 | AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa | Bad Boombox, Club Angel, Gerardo Niva, Maruwa, salute |
@@ -18,6 +17,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with li
 | Sat, 24 Oct 2026 | Pablo Bozzi / Gerardo Niva | Gerardo Niva, Pablo Bozzi |
 | Thu, 29 Oct 2026 | Papa Nugs / Gerardo Niva / doccudder | Gerardo Niva, Papa Nugs, doccudder |
 | Sat, 31 Oct 2026 | AFTERPARTY EXTENDED: HALLOWEEN WEEKENDER: The Hacker / Gerardo Niva / RUIZ OSC1 / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, RUIZ OSC1, The Hacker |
+| Sun, 1 Nov 2026 | AFTERPARTY EXTENDED: Benwal B2B Olive Anguz / Gerardo Niva | Benwal, Gerardo Niva, Olive Anguz |
 
 ## Address
 

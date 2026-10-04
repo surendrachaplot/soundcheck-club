@@ -1,14 +1,13 @@
 # AJNA
 
-AJNA is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 3 Oct 2026.
+AJNA is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UFO im Velodrom, Berlin on Sat, 17 Oct 2026.
 
-AJNA is an afro house and house artist based in Belgium, with 40 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: BORIS CLUB, Barcelona on Sat 3 Oct.
+AJNA is an afro house and house artist based in Belgium, with 40 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: UFO im Velodrom, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BORIS CLUB | Barcelona |
 | Sat, 17 Oct 2026 | UFO im Velodrom | Berlin |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 11 Dec 2026 | Outernet Live | London |

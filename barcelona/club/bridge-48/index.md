@@ -17,7 +17,7 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 | Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic |
 | Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Diego Ro-k, Mac (4) |
 | Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT |  |
-| Sat, 7 Nov 2026 | UMBRAL Techno Culture |  |
+| Sat, 7 Nov 2026 | UMBRAL Techno Culture | Diffuse Reality, JKEY, Oscar Zillini, RHITA, Squaric |
 
 ## Address
 

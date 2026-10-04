@@ -1,14 +1,13 @@
 # Inner Zone
 
-Inner Zone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
+Inner Zone is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
-Inner Zone is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Bristol, Edinburgh and Helsinki and 7 more. Often billed alongside Alien Communications, DJ TEETH and Lora Mipsum. Next up: Starlane Pizza Bar, London on Sat 3 Oct.
+Inner Zone is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Bristol, Edinburgh and Helsinki and 7 more. Often billed alongside Alien Communications, DJ TEETH and Lora Mipsum. Next up: FOLD, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 7 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | FOLD | London |
 

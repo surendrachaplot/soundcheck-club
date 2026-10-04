@@ -14,11 +14,11 @@ When Pigs Fly NYE 2026 at Collingwood Children's Farm on Thu 31 Dec, Melbourne. 
 - Cuerpo Negro
 - DJ Matab
 - DJ PGZ
-- DJ rahaan
 - Drifting Clouds
 - Intermood
 - JALE
 - Mikalah Watego
+- Rahaan
 - SELENA
 - Silentjay
 - SIMONA

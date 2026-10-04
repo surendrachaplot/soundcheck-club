@@ -1,14 +1,13 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at New Rose, Chicago on Sat, 3 Oct 2026.
+Beau Wanzer is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Podlasie Club, Chicago on Wed, 21 Oct 2026.
 
-Beau Wanzer is an experimental and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: New Rose, Chicago on Sat 3 Oct.
+Beau Wanzer is an experimental and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Podlasie Club, Chicago on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | New Rose | Chicago |
 | Wed, 21 Oct 2026 | Podlasie Club | Chicago |
 
 ## Recently played

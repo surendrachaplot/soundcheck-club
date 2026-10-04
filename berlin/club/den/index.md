@@ -9,7 +9,7 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | ＬＩＬＩＴＨ ✦ |  |
-| Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Lola Brennt |
+| Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Krackk, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
 | Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, sterni (DE), subcutan |

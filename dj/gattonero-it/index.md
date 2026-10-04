@@ -1,14 +1,13 @@
 # Gattonero
 
-Gattonero is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lanificio 159, Rome on Sat, 3 Oct 2026.
+Gattonero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cieloterra, Rome on Fri, 16 Oct 2026.
 
-Gattonero is a techno and house artist based in Italy, with 51 gigs on soundcheck across Milan and Rome. Often billed alongside Cosimo Damiano, LPLPLP and Bluemarina. Next up: Lanificio 159, Rome on Sat 3 Oct.
+Gattonero is a techno and house artist based in Italy, with 51 gigs on soundcheck across Milan and Rome. Often billed alongside Cosimo Damiano, LPLPLP and Bluemarina. Next up: Cieloterra, Rome on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Lanificio 159 | Rome |
 | Fri, 16 Oct 2026 | Cieloterra | Rome |
 
 ## Recently played

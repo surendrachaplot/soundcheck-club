@@ -1,15 +1,13 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hybrid Minds, Basslayerz & more!" on Sat, 3 Oct 2026.
+Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Devlin - Sheffield" on Thu, 8 Oct 2026.
 
-Electric Studios is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Amy Dabbs, BassLayerz, Channel One Sound and Chicane and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
+Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Amy Dabbs, Channel One Sound, Chicane and Dan Shake and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Hybrid Minds, Basslayerz & more! | BassLayerz, Hybrid Minds |
-| Sat, 3 Oct 2026 | Hybrid Minds, BassLayerz | Hybrid Minds |
 | Thu, 8 Oct 2026 | Devlin - Sheffield |  |
 | Fri, 9 Oct 2026 | Danza x SuNKeN presents SCOTT STEER ETHAN WALSH |  |
 | Fri, 16 Oct 2026 | Dusky | Amy Dabbs, Denham Audio, Dusky |

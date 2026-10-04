@@ -1,14 +1,13 @@
 # Cu
 
-Cu is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Frozen Tempo presents: European Dubstep" on Sat, 3 Oct 2026.
+Cu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Homerton YAROU" on Thu, 8 Oct 2026.
 
-Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including babybear, Bisect, Cathal and Deep Tempo and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including babybear, Bisect, Cathal and ETHICS and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Frozen Tempo presents: European Dubstep | Deep Tempo |
 | Thu, 8 Oct 2026 | Homerton YAROU | KATAINAKA, YASDUB |
 | Fri, 9 Oct 2026 | TUSH: Bass, Breaks & Techno (Rethink Fundraiser) | Kassita, Rebekah Abdeen, babybear (2), inda Flo |
 | Sun, 11 Oct 2026 | HOLY | Richard Fearless, Tom Dubwise, Wrecked Lightship |

@@ -1,14 +1,13 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Melkweg, Amsterdam on Sat, 3 Oct 2026.
+Sam Girling is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: Melkweg, Amsterdam on Sat 3 Oct.
+Sam Girling is a house and garage artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: UNLOCKED, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
 | Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |

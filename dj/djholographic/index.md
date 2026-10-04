@@ -1,14 +1,13 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+DJ Holographic is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Necto, Detroit on Fri, 9 Oct 2026.
 
-DJ Holographic is a house and techno artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+DJ Holographic is a house and techno artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Necto, Detroit on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Fri, 9 Oct 2026 | Necto | Detroit |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Good Room | New York City |

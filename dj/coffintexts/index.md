@@ -1,14 +1,13 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
+Coffintexts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Coffintexts is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Smoke & Mirrors, Chicago on Sat 3 Oct.
+Coffintexts is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Smoke & Mirrors | Chicago |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 31 Oct 2026 | Bastet | Philadelphia |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |

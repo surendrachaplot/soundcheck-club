@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Yellow Mellow Invites: Legowelt" on Sat, 3 Oct 2026.
+Hoppetosse is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Apricots' Jam" on Fri, 9 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexandra, Andrei Ciubuc, Berto (DE) and Borja S and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexandra, Andrei Ciubuc, Berto (DE) and Borja S and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam | Alexandra, DJ Slim Fit, Enchanted Rhythms, Meat, metaverde |
 | Sat, 10 Oct 2026 | Mission: Hajdar's Bday | Dorian Paic, Franco Cinelli, Tobi Neumann |
 | Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro [Free Entry with RA] | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
@@ -18,6 +17,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Sun, 1 Nov 2026 | Outer Place | Borja S, Dean Denali, Interstellar Funk, Ma.to, Marco Shuttle |
 | Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Schlecksi |
 | Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
+| Fri, 13 Nov 2026 | MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell | Andrei Ciubuc, Maik Yells, Robin Ordell, The Pushamann |
 
 ## Address
 

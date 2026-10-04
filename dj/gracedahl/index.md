@@ -1,14 +1,13 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Grace Dahl is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Virage, Paris on Fri, 9 Oct 2026.
 
-Grace Dahl is a techno and house artist based in Netherlands, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Gotec, Karlsruhe on Sat 3 Oct.
+Grace Dahl is a techno and house artist based in Netherlands, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Virage, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 9 Oct 2026 | Virage | Paris |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |

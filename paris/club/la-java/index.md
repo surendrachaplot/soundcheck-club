@@ -1,14 +1,13 @@
 # La Java
 
-La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Flasha: Bailey Ibbs, Serō, Mirnaxx, Lou De Swarte & Maÿ" on Sat, 3 Oct 2026.
+La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset" on Fri, 9 Oct 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Bailey Ibbs, Chinau, Die Klar and Egna and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Chinau, Die Klar, Egna and Elsa Bernini and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Flasha: Bailey Ibbs, Serō, Mirnaxx, Lou De Swarte & Maÿ | Bailey Ibbs, Serō |
 | Fri, 9 Oct 2026 | Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset |  |
 | Sat, 10 Oct 2026 | Stef Davidse, Del Bono, Vons & Yahzi: Aurora | Stef Davidse, Vons (FR), Yahzi |
 | Thu, 15 Oct 2026 | La Java 103 Ans: Louis The 4th, Egna B2b Equus Belli & More | Egna, Equus Belli, Louis The 4th |

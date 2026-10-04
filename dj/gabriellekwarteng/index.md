@@ -1,14 +1,13 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FORGE, Sheffield on Fri, 9 Oct 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, with 250 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Pawn Shop, Dublin on Sat 3 Oct.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, with 250 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: FORGE, Sheffield on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Pawn Shop | Dublin |
 | Fri, 9 Oct 2026 | FORGE | Sheffield |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 | Fri, 16 Oct 2026 | The Love Inn | Bristol |
@@ -20,6 +19,7 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
+| Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # dj.zamocno
 
-dj.zamocno is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 3 Oct 2026.
+dj.zamocno is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
-dj.zamocno is a techno and bass artist based in Poland, with 72 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: K-Bar Powiśle, Warsaw on Sat 3 Oct.
+dj.zamocno is a techno and bass artist based in Poland, with 72 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, toutestmagnifique and DOMEL. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 10 Oct 2026 | K-Bar Powiśle | Warsaw |
 | Fri, 16 Oct 2026 | K-Bar Powiśle | Warsaw |
 

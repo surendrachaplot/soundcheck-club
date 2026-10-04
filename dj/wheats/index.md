@@ -1,14 +1,13 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Wheats is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sub Club, Glasgow on Thu, 12 Nov 2026.
 
-Wheats is a tech house and house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: The Nest, Nottingham on Sat 3 Oct.
+Wheats is a tech house and house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: Sub Club, Glasgow on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Nest | Nottingham |
 | Thu, 12 Nov 2026 | Sub Club | Glasgow |
 | Fri, 13 Nov 2026 | 77 | London |
 | Fri, 20 Nov 2026 | Shelter Amsterdam | Amsterdam |

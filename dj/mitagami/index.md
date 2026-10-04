@@ -1,14 +1,13 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pacha New York, New-york-city on Sat, 3 Oct 2026.
+Mita Gami is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Mita Gami is a house and techno artist based in Israel, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Pacha New York, New York City on Sat 3 Oct.
+Mita Gami is a house and techno artist based in Israel, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Pacha New York | New-york-city |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Hangar | Belgrade |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |

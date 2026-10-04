@@ -1,14 +1,13 @@
 # Shed
 
-Shed is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+Shed is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 15 Oct 2026.
 
-Shed is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
+Shed is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Head High, Skee Mask and CCL. Next up: TRANSMISSION DC, Washington DC on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 15 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 16 Oct 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | Standard Time | Toronto |

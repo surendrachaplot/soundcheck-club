@@ -1,14 +1,13 @@
 # Kollision
 
-Kollision is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depo Klub, Zagreb on Sat, 3 Oct 2026.
+Kollision is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cova, Hamburg on Fri, 9 Oct 2026.
 
-Kollision is a techno and trance artist based in India, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: Depo Klub, Zagreb on Sat 3 Oct.
+Kollision is a techno and trance artist based in India, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: La Cova, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depo Klub | Zagreb |
 | Fri, 9 Oct 2026 | La Cova | Hamburg |
 
 ## Recently played

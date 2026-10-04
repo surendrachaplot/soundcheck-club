@@ -1,14 +1,13 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -20,6 +19,7 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | BERHTA | Washington DC |
+| Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

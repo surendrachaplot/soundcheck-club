@@ -1,14 +1,13 @@
 # Reactant
 
-Reactant is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+Reactant is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
 
-Reactant is a techno and trance artist based in Malta, with 50 gigs on soundcheck across Berlin, Malta and Paris. Often billed alongside INVERTED (MT), Echofaze and SLIZER. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
+Reactant is a techno and trance artist based in Malta, with 50 gigs on soundcheck across Berlin, Malta and Paris. Often billed alongside INVERTED (MT), Echofaze and SLIZER. Next up: Gianpula Main Room, Malta on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Secret Location | Malta |
 | Fri, 13 Nov 2026 | Gianpula Main Room | Malta |
 
 ## Recently played

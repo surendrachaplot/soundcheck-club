@@ -1,14 +1,16 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Ben Klock is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 264 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 60 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | D! Club | Lausanne |
@@ -18,8 +20,6 @@ Ben Klock is a techno and house artist based in Germany, with 264 gigs on soundc
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 21 Nov 2026 | Walter Studios | Phoenix |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
-| Sat, 5 Dec 2026 | fabric | London |
 
 ## Recently played
 

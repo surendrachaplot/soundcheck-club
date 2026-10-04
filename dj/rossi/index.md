@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Rossi is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot, Cardiff on Fri, 9 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, with 241 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Amnesia Milano, Milan on Sat 3 Oct.
+Rossi is a house and tech house artist based in United Kingdom, with 241 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Depot, Cardiff on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Amnesia Milano | Milan |
 | Fri, 9 Oct 2026 | Depot | Cardiff |
 | Sat, 10 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
@@ -20,6 +19,7 @@ Rossi is a house and tech house artist based in United Kingdom, with 241 gigs on
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

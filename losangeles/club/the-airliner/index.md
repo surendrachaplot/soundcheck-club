@@ -1,14 +1,13 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spin the Bottle" on Sat, 3 Oct 2026.
+The Airliner is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Aaron Paar, Darone Sassounian, SEEPS" on Sat, 10 Oct 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Aaron Paar, Ava Blank, Baltra and Captain Planet and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Aaron Paar, Ava Blank, Baltra and Captain Planet and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Spin the Bottle | SOLTERA |
 | Sat, 10 Oct 2026 | Aaron Paar, Darone Sassounian, SEEPS | Aaron Paar, Darone Sassounian, SEEPS |
 | Sun, 11 Oct 2026 | Uniting Entity presents: cranes + katmoji |  |
 | Fri, 16 Oct 2026 | BAJO w. Jeremy Sole & Captain Planet | Captain Planet, Jeremy Sole |

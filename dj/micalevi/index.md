@@ -1,6 +1,6 @@
 # Mica Levi
 
-Mica Levi is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Mica Levi is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Mica Levi is an experimental and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Krakow and 7 more. Often billed alongside 2K88, Arca and ojoo. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Mica Levi is an experimental and electronica artist based in United Kingdom, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Sat, 3 Oct 2026 | Sektor 6D | Warsaw |
 
 ## Recently played
 

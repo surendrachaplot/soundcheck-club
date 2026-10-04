@@ -1,14 +1,13 @@
 # Pawel Blot
 
-Pawel Blot is a Italo Disco and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 3 Oct 2026.
+Pawel Blot is a Italo Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 9 Oct 2026.
 
-Pawel Blot is an italo disco and acid artist based in Poland, with 31 gigs on soundcheck across Barcelona, Berlin, Krakow and The Hague and 1 more. Often billed alongside Pitti Schmitti, Cosmic Force and Internal Operator. Next up: Sekta Selekta, Krakow on Sat 3 Oct.
+Pawel Blot is an italo disco and acid artist based in Poland, with 31 gigs on soundcheck across Barcelona, Berlin, Krakow and The Hague and 1 more. Often billed alongside Pitti Schmitti, Cosmic Force and Internal Operator. Next up: K-Bar Powiśle, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sekta Selekta | Krakow |
 | Fri, 9 Oct 2026 | K-Bar Powiśle | Warsaw |
 | Sat, 10 Oct 2026 | B-SIDE | Warsaw |
 

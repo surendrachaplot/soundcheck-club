@@ -1,14 +1,13 @@
 # Miss Jay (RO)
 
-Miss Jay (RO) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lark, Berlin on Sat, 3 Oct 2026.
+Miss Jay (RO) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at control, Bucharest on Thu, 8 Oct 2026.
 
-Miss Jay (RO) is a bass and club artist based in Romania, with 40 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Sukubratz, Mareeo and BRAVA. Next up: Lark, Berlin on Sat 3 Oct.
+Miss Jay (RO) is a bass and club artist based in Romania, with 40 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Sukubratz, Mareeo and BRAVA. Next up: control, Bucharest on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Lark | Berlin |
 | Thu, 8 Oct 2026 | control | Bucharest |
 
 ## Recently played

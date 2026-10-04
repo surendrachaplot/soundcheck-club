@@ -1,14 +1,13 @@
 # Jacob Matthews
 
-Jacob Matthews is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jacob Matthews is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 24 Oct 2026.
 
-Jacob Matthews is a tech house and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, Dublin, Leeds and Manchester and 1 more. Often billed alongside ADR (US), Alex Culross and Alexandria. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Jacob Matthews is a tech house and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, Dublin, Leeds and Manchester and 1 more. Often billed alongside ADR (US), Alex Culross and Alexandria. Next up: Mint Warehouse, Leeds on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 24 Oct 2026 | Mint Warehouse | Leeds |
 
 ## Recently played

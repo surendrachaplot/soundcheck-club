@@ -1,14 +1,13 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club Zero Vol.14" on Sat, 3 Oct 2026.
+Ääniwalli is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Wolf Eyes" on Mon, 5 Oct 2026.
 
-Ääniwalli is a music venue in Helsinki listed on soundcheck. 7 upcoming gigs, with line-ups including ALLFIVE, amil raja, Cara Elizabeth and CEB (FI) and 2 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
+Ääniwalli is a music venue in Helsinki listed on soundcheck. 6 upcoming gigs, with line-ups including ALLFIVE, Cara Elizabeth, CEB (FI) and Conntex and 2 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Zero Vol.14 | Exploited Body, Glayden, MFM (FI), Niko Demus, amil raja, una (1) |
 | Mon, 5 Oct 2026 | Wolf Eyes | Wolf Eyes |
 | Fri, 9 Oct 2026 | DJ Orion: Homecoming Helsinki | Orion (FI) |
 | Fri, 16 Oct 2026 | Club Fury: Cara Elizabeth, Johannes Schuster, Mika Heggemann | Cara Elizabeth, Johannes Schuster, Mika Heggemann |

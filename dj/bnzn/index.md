@@ -1,14 +1,13 @@
 # BNZN
 
-BNZN is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at glimmer, Hamburg on Sat, 3 Oct 2026.
+BNZN is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 9 Oct 2026.
 
-BNZN is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg. Often billed alongside Elon Bass, DJ SPORTSCHUH and Carluschka. Next up: glimmer, Hamburg on Sat 3 Oct.
+BNZN is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg. Often billed alongside Elon Bass, DJ SPORTSCHUH and Carluschka. Next up: Uebel & Gefährlich, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | glimmer | Hamburg |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 17 Oct 2026 | Coco Boule | Berlin |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |

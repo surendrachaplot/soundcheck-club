@@ -1,14 +1,13 @@
 # Kizu
 
-Kizu is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Kizu is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
-Kizu is a trance and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside SATYS FYRE, Vaneska and sterni (DE). Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Kizu is a trance and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside SATYS FYRE, Vaneska and sterni (DE). Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played

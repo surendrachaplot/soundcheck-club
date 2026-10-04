@@ -1,14 +1,13 @@
 # max whatever
 
-max whatever is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 3 Oct 2026.
+max whatever is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
-max whatever is a techno and house artist based in Ukraine, with 26 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and fiedorka. Next up: STK 47 WAREHOUSE, Krakow on Sat 3 Oct.
+max whatever is a techno and house artist based in Ukraine, with 26 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and fiedorka. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | STK 47 WAREHOUSE | Krakow |
 | Sat, 10 Oct 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played

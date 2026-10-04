@@ -1,14 +1,13 @@
 # Formella
 
-Formella is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Formella is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
 
-Formella is a bass and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, yungfya and Sabine Hoffmann. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Formella is a bass and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, yungfya and Sabine Hoffmann. Next up: OHM, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Sat, 10 Oct 2026 | OHM | Berlin |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 

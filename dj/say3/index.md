@@ -1,14 +1,13 @@
 # SAY3
 
-SAY3 is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Boombox, Miami on Sat, 3 Oct 2026.
+SAY3 is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 23 Oct 2026.
 
-SAY3 is an afro house and techno artist based in United States of America, with 23 gigs on soundcheck across Miami, Montreal, New York City and Toronto. Often billed alongside DJ Marfox, DJ Nigga Fox and J-Cush. Next up: The Boombox, Miami on Sat 3 Oct.
+SAY3 is an afro house and techno artist based in United States of America, with 23 gigs on soundcheck across Miami, Montreal, New York City and Toronto. Often billed alongside DJ Marfox, DJ Nigga Fox and J-Cush. Next up: Jolene Sound Room Brooklyn, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Boombox | Miami |
 | Fri, 23 Oct 2026 | Jolene Sound Room Brooklyn | New York City |
 
 ## Recently played

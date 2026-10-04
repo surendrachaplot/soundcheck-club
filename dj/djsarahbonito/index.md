@@ -1,14 +1,13 @@
 # DJ Sarah Bonito
 
-DJ Sarah Bonito is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
+DJ Sarah Bonito is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Moon Club, Bristol on Fri, 23 Oct 2026.
 
-DJ Sarah Bonito is a hardcore and club artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Slayphex Twins, PLUSHB4BY and Peggy Viennetta. Next up: Distillery N17, London on Sat 3 Oct.
+DJ Sarah Bonito is a hardcore and club artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Slayphex Twins, PLUSHB4BY and Peggy Viennetta. Next up: Moon Club, Bristol on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distillery N17 | London |
 | Fri, 23 Oct 2026 | Moon Club | Bristol |
 | Fri, 13 Nov 2026 | The Cause | London |
 

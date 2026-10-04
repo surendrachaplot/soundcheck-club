@@ -1,14 +1,13 @@
 # Better Late
 
-Better Late is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret location, Tarragona, Barcelona on Fri, 2 Oct 2026.
+Better Late is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
-Better Late is a house and disco artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: TBA - Secret location, Tarragona, Barcelona on Fri 2 Oct.
+Better Late is a house and disco artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Secret location, Tarragona | Barcelona |
 | Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
 
 ## Recently played

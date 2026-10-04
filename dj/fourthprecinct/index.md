@@ -1,14 +1,13 @@
 # Fourth Precinct
 
-Fourth Precinct is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 3 Oct 2026.
+Fourth Precinct is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 31 Oct 2026.
 
-Fourth Precinct is a garage and house artist based in United Kingdom, with 63 gigs on soundcheck across Edinburgh, Glasgow, London and Tokyo. Often billed alongside Lowree, Skillis and Feena. Next up: La Cheetah Club, Glasgow on Sat 3 Oct.
+Fourth Precinct is a garage and house artist based in United Kingdom, with 63 gigs on soundcheck across Edinburgh, Glasgow, London and Tokyo. Often billed alongside Lowree, Skillis and Feena. Next up: La Cheetah Club, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | La Cheetah Club | Glasgow |
 | Sat, 31 Oct 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played

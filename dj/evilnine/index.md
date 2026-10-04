@@ -1,15 +1,13 @@
 # Evil Nine
 
-Evil Nine is a House and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Evil Nine is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
-Evil Nine is a house and breakbeat artist based in United Kingdom, with 10 gigs on soundcheck across Brighton, Budapest, London and Prague and 1 more. Often billed alongside Stanton Warriors, A.N.I. and C-System. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Evil Nine is a house and breakbeat artist based in United Kingdom, with 10 gigs on soundcheck across Brighton, Budapest, London and Prague and 1 more. Often billed alongside Stanton Warriors, A.N.I. and C-System. Next up: Brixton Jamm, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 31 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played

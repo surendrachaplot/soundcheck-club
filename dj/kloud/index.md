@@ -1,15 +1,13 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+KLOUD is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
-KLOUD is a techno and house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+KLOUD is a techno and house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
-| Sat, 3 Oct 2026 | Smolna | Warsaw |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | Elastica | Vilnius |
 | Sat, 10 Oct 2026 | OST | Berlin |
@@ -20,6 +18,8 @@ KLOUD is a techno and house artist based in United States of America, with 86 gi
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Distrikt | Prague |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+Ma Sha is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Ma Sha is a techno and bass artist based in United States of America, with 97 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Bal Chavaux, Paris on Sat 3 Oct.
+Ma Sha is a techno and bass artist based in United States of America, with 97 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bal Chavaux | Paris |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

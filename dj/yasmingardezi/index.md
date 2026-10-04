@@ -1,14 +1,13 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Yasmin Gardezi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KALT, Strasbourg on Sat, 24 Oct 2026.
 
-Yasmin Gardezi is a techno and trance artist based in Ireland, with 101 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 32 more. Often billed alongside blk., franck and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Yasmin Gardezi is a techno and trance artist based in Ireland, with 101 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 32 more. Often billed alongside blk., franck and Charlie Sparks. Next up: KALT, Strasbourg on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 24 Oct 2026 | KALT | Strasbourg |
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 

@@ -1,14 +1,13 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Matthew Neequaye is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
-Matthew Neequaye is a house and electro artist, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 12 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: Distrikt, Leeds on Sat 3 Oct.
+Matthew Neequaye is a house and electro artist, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 12 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: RADION, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 

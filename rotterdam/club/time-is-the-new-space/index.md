@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PAESAGGI RECORDS AUTUNNO MINITOUR #2" on Sat, 3 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SOIL TRAX SUNDAYS" on Sun, 4 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Helmond Lang and Italo Brutalo and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PAESAGGI RECORDS AUTUNNO MINITOUR #2 | Gropina, Stefhanja, Wutu |
 | Sun, 4 Oct 2026 | SOIL TRAX SUNDAYS | Charlton, Gabalyn, JELLY |
 | Wed, 7 Oct 2026 | CHESS NIGHT W/ E4 |  |
 | Thu, 8 Oct 2026 | HIDDEN BEHIND X TITNS VOL. 24 |  |

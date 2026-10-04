@@ -1,14 +1,13 @@
 # From House to Disco
 
-From House to Disco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
+From House to Disco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
-From House to Disco is a house and disco artist based in Brazil, with 63 gigs on soundcheck across Berlin, Brazil, Lisbon and New York City and 1 more. Often billed alongside Paulete Lindacelva, Eli Iwasa and Leo Janeiro. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
+From House to Disco is a house and disco artist based in Brazil, with 63 gigs on soundcheck across Berlin, Brazil, Lisbon and New York City and 1 more. Often billed alongside Paulete Lindacelva, Eli Iwasa and Leo Janeiro. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Edifício Martinelli | Sao Paulo |
 | Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 

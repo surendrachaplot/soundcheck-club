@@ -1,14 +1,13 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Mar/us is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
-Mar/us is a techno and house artist, with 95 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 27 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: Fuchs2, Prague on Sat 3 Oct.
+Mar/us is a techno and house artist, with 95 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 27 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: RADION, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Fuchs2 | Prague |
 | Sat, 10 Oct 2026 | RADION | Amsterdam |
 | Fri, 16 Oct 2026 | Macadam | Nantes |
 | Fri, 23 Oct 2026 | Faust | Seoul |

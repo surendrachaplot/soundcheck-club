@@ -11,7 +11,7 @@ Honey's is a music venue in New York City listed on soundcheck. 5 upcoming gigs,
 | Fri, 9 Oct 2026 | Village Hidden in Sound | DJ girlcrush, HELIX (NYC), J.N.R., KYRUH, Samuel Pojer, Synestesia, Touch Base, ceviché, vivaval, zoro! |
 | Thu, 15 Oct 2026 | PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva | DJ Freedem, Love Higher, Samantha DaSilva, samisosa |
 | Sat, 17 Oct 2026 | PAREDÃO SINISTRO | Embaci, Lil Zé, Papi Weli |
-| Wed, 21 Oct 2026 | Chess.irl X Stop1 | Amelia Holt, Kettle, SOFIYA V |
+| Wed, 21 Oct 2026 | Chess.irl X Stop1 | Amelia Holt, Iggy Nuclear, Kettle, Rila, SOFIYA V |
 | Sat, 24 Oct 2026 | Vantage presents: GLAZED | JULIEN (NYC), Kettle, Knostalgia, Naomi Duan, Nymphostar, Nöel Black, Rhino Clark, S A M I, Stef Ozaru |
 
 ## Address

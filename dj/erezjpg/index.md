@@ -1,14 +1,13 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at House of Yes, New York City on Sat, 3 Oct 2026.
+EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
-EREZ.JPG is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: House of Yes, New York City on Sat 3 Oct.
+EREZ.JPG is a house and minimal artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | House of Yes | New York City |
 | Sat, 10 Oct 2026 | TBA - Secret Location  | Mexico City |
 | Fri, 27 Nov 2026 | Outer Heaven | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |

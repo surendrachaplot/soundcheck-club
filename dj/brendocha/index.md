@@ -1,14 +1,13 @@
 # Brendocha
 
-Brendocha is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
+Brendocha is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Studios, Vancouver on Thu, 22 Oct 2026.
 
-Brendocha is a techno and latin bass artist based in Peru, with 31 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: ESC, Montreal on Sat 3 Oct.
+Brendocha is a techno and latin bass artist based in Peru, with 31 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: Village Studios, Vancouver on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | ESC | Montreal |
 | Thu, 22 Oct 2026 | Village Studios | Vancouver |
 | Sat, 14 Nov 2026 | TBA - Private Location | Vancouver |
 

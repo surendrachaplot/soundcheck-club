@@ -1,15 +1,13 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+RTK Tarantino is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hazy Club, Sheffield on Sat, 10 Oct 2026.
 
-RTK Tarantino is a house and garage artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
+RTK Tarantino is a house and garage artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Hazy Club, Sheffield on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Fri, 30 Oct 2026 | Patterns | Brighton |

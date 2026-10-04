@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Forgivemetommy! (All Night Long)" on Sat, 3 Oct 2026.
+StereoBar is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LBD: VIBRAN (All Night Long)" on Sun, 4 Oct 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Bodaishin, Crescenzo, Julian Prince and Soul Of Zoo and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Bodaishin, Crescenzo, Julian Prince and Soul Of Zoo and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Forgivemetommy! (All Night Long) |  |
 | Sun, 4 Oct 2026 | LBD: VIBRAN (All Night Long) | VIBRAN |
 | Fri, 9 Oct 2026 | Stban - Julian Prince | Julian Prince |
 | Sat, 10 Oct 2026 | YokoO (All Night Long) | YokoO |

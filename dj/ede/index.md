@@ -1,14 +1,13 @@
 # Ede
 
-Ede is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
+Ede is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat, 10 Oct 2026.
 
-Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Volt Club Milano, Milan on Sat 3 Oct.
+Ede is a techno and house artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 25 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: TBA - Izmir Marriott Pagos Rooftop, Izmir on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 10 Oct 2026 | TBA - Izmir Marriott Pagos Rooftop | Izmir |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |

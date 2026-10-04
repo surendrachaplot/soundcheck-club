@@ -1,14 +1,13 @@
 # Picasso
 
-Picasso is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+Picasso is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA -  Kummelholmen, Stockholm on Sat, 10 Oct 2026.
 
-Picasso is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Bowyer, Kian OK and Duowe. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
+Picasso is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Bowyer, Kian OK and Duowe. Next up: TBA -  Kummelholmen, Stockholm on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Sat, 10 Oct 2026 | TBA -  Kummelholmen | Stockholm |
 | Fri, 16 Oct 2026 | TBA - secret location | Barcelona |
 | Fri, 27 Nov 2026 | TBA | Tunisia |

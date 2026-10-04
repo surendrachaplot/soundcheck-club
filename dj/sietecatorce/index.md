@@ -1,6 +1,6 @@
 # Siete Catorce
 
-Siete Catorce is a Latin Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Siete Catorce is a Latin Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 Siete Catorce is a latin bass and experimental artist based in Mexico, with 19 gigs on soundcheck across Berlin, Los Angeles, Mexico City and Montreal and 5 more. Often billed alongside SIETE, DJ JUANNY and Kode9. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Siete Catorce is a latin bass and experimental artist based in Mexico, with 19 g
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Sat, 3 Oct 2026 | TBA - Secret Location, Bed Stuy | New York City |
 
 ## Recently played
 

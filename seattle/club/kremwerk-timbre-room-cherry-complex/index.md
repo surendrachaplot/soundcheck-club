@@ -1,14 +1,13 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Club CTRL" on Sat, 3 Oct 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BARCODE feat. DJ Girlfriends, Teyj Menon" on Fri, 9 Oct 2026.
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 9 upcoming gigs, with line-ups including 2AT, ACHAMA, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 8 upcoming gigs, with line-ups including 2AT, ACHAMA, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club CTRL | Ctrl.mp3 |
 | Fri, 9 Oct 2026 | BARCODE feat. DJ Girlfriends, Teyj Menon | KJ3 (US), Korra the Kid, Mirin Doja, Temenon |
 | Sat, 10 Oct 2026 | KARAN! at Impact | KARAN! |
 | Sat, 10 Oct 2026 | Disco Dust: All Vinyl Night feat. Eddie C | Eddie C, Théque Support |

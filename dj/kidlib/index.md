@@ -1,14 +1,13 @@
 # Kid Lib
 
-Kid Lib is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Kid Lib is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 9 Oct 2026.
 
-Kid Lib is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Mantra, Charla Green and Double O. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Kid Lib is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Mantra, Charla Green and Double O. Next up: Sidney & Matilda, Sheffield on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Fri, 9 Oct 2026 | Sidney & Matilda | Sheffield |
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 | Sat, 12 Dec 2026 | Plot 22 | Sheffield |

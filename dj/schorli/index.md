@@ -1,14 +1,13 @@
 # Schorli
 
-Schorli is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Schorli is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fitzroy, Berlin on Sat, 10 Oct 2026.
 
-Schorli is a house and trance artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside CHOREOPHILA, Stefoon and krawallwitz. Next up: ://about blank, Berlin on Sat 3 Oct.
+Schorli is a house and trance artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside CHOREOPHILA, Stefoon and krawallwitz. Next up: Fitzroy, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | ://about blank | Berlin |
 | Sat, 10 Oct 2026 | Fitzroy | Berlin |
 | Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
 

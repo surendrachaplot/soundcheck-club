@@ -1,14 +1,13 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "**CANCELLED** Medio Crew x Microdots present Diego Krause at 303" on Sat, 3 Oct 2026.
+303 Audiophile Bar is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Siku presents: Onoffon, Rufo, shank at 303" on Thu, 8 Oct 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including AARON GEHRIG, Alex Garcia, Andrea Love and B2G and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including AARON GEHRIG, Alex Garcia, Andrea Love and B2G and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | **CANCELLED** Medio Crew x Microdots present Diego Krause at 303 | Diego Krause, TOT (BR) |
 | Thu, 8 Oct 2026 | Siku presents: Onoffon, Rufo, shank at 303 | Onoffon, Rufo, shank |
 | Fri, 9 Oct 2026 | Kommuna pres.Oliver.r & pekkuliar at 303 | Oliver.r, pekkuliar |
 | Sat, 10 Oct 2026 | 303 x Signal New York at 303 | David Berrie, Karla Böhm, PILAR MOLINERO |
@@ -18,6 +17,7 @@
 | Thu, 22 Oct 2026 | Sounds of Barcy at 303 | B2G (1), Breezywav, Milla Campollo |
 | Fri, 23 Oct 2026 | Error 404 pres. Enrico Vivaldi at 303 | Enrico Vivaldi |
 | Sat, 24 Oct 2026 | Seguim pres. Lazer Man at 303 | Alex Garcia (2), Vince Void |
+| Thu, 29 Oct 2026 | 303 pres. INDRA TRAFERRI / Jade Rolt / Diana | Diana (3), INDRA TRAFERRI, Jade Rolt |
 
 ## Address
 

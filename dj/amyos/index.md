@@ -1,14 +1,13 @@
 # Amy Os
 
-Amy Os is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Amy Os is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Amy Os is a tech house and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Ben Rau, Benji King and Dennis Quin. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Amy Os is a tech house and house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Ben Rau, Benji King and Dennis Quin. Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Phonox | London |
 

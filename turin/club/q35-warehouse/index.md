@@ -1,14 +1,13 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Kangding Ray (Ara /FR), Stef Mendesidis live (Klockworks /GR), Kessa (WRD /IT)" on Sat, 3 Oct 2026.
+Q35 WAREHOUSE is a music venue in Turin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Marie Montexier hosted by EAR\WAX" on Sat, 10 Oct 2026.
 
-Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 10 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
+Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 9 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kangding Ray (Ara /FR), Stef Mendesidis live (Klockworks /GR), Kessa (WRD /IT) | Kangding Ray, Kessa, Stef Mendesidis |
 | Sat, 10 Oct 2026 | Marie Montexier hosted by EAR\WAX | Marie Montexier |
 | Sun, 18 Oct 2026 | Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE | Héctor Oaks, Mike Esse, Rytm |
 | Sat, 24 Oct 2026 | Daniel Avery hosted by EAR\WAX | Daniel Avery |

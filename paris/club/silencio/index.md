@@ -1,14 +1,13 @@
 # Silencio
 
-Silencio is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DANCEHOLE: COUCOU CHLOÉ, Petit, POVOA, TOCCORORO & SURPRISE GUEST" on Sat, 3 Oct 2026.
+Silencio is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "JUDE PARTY: BB TRICKZ & FRIENDS" on Sun, 4 Oct 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including COUCOU CHLOE, Petit and TOCCORORO. See dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | DANCEHOLE: COUCOU CHLOÉ, Petit, POVOA, TOCCORORO & SURPRISE GUEST | COUCOU CHLOE, Petit, TOCCORORO |
 | Sun, 4 Oct 2026 | JUDE PARTY: BB TRICKZ & FRIENDS |  |
 
 ## Address

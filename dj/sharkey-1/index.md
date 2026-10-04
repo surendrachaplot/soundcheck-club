@@ -1,14 +1,13 @@
 # Sharkey (1)
 
-Sharkey (1) is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Sat, 3 Oct 2026.
+Sharkey (1) is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 10 Oct 2026.
 
-Sharkey is a hardcore and trance artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Dougal, Scott Brown and Charlie B. Next up: Distillery N17, London on Sat 3 Oct.
+Sharkey is a hardcore and trance artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Dougal, Scott Brown and Charlie B. Next up: The Classic Grand, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distillery N17 | London |
 | Sat, 10 Oct 2026 | The Classic Grand | Glasgow |
 
 ## Recently played

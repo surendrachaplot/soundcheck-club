@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Dasha Rush is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Dasha Rush is a techno and house artist, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Dasha Rush is a techno and house artist, with 168 gigs on soundcheck across Amst
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
-| Sat, 3 Oct 2026 | fabric | London |
 | Thu, 15 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 17 Oct 2026 | La Comédie De Genève | Geneva |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -20,6 +19,7 @@ Dasha Rush is a techno and house artist, with 168 gigs on soundcheck across Amst
 | Fri, 13 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 

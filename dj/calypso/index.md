@@ -1,14 +1,13 @@
 # calypso
 
-calypso is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Munster Munch, London on Sat, 3 Oct 2026.
+calypso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sky Club, Leipzig on Sat, 28 Nov 2026.
 
-calypso is a techno and trance artist based in United Kingdom, with 7 gigs on soundcheck across Leipzig and London. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Munster Munch, London on Sat 3 Oct.
+calypso is a techno and trance artist based in United Kingdom, with 7 gigs on soundcheck across Leipzig and London. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Sky Club, Leipzig on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Munster Munch | London |
 | Sat, 28 Nov 2026 | Sky Club | Leipzig |
 
 ## Recently played

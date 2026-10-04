@@ -1,14 +1,13 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+DJ Masda is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Twentyone, Florence on Thu, 8 Oct 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Distrikt, Leeds on Sat 3 Oct.
+DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Club Twentyone, Florence on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Thu, 8 Oct 2026 | Club Twentyone | Florence |
 | Sat, 10 Oct 2026 | essaim | Paris |
 | Sat, 17 Oct 2026 | fabric | London |
@@ -20,6 +19,7 @@ DJ Masda is a techno and house artist based in Japan, with 216 gigs on soundchec
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
+| Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

@@ -1,15 +1,13 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
-Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: WDM, Hannover on Sat 3 Oct.
+Mad Dog is a techno and hardcore artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | WDM | Hannover |
-| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Sat, 10 Oct 2026 | TBA - The Nortehrn  | Byron-bay |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |

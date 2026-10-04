@@ -1,14 +1,13 @@
 # Dico Nemus
 
-Dico Nemus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
+Dico Nemus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at MODULE, Copenhagen on Fri, 23 Oct 2026.
 
-Dico Nemus is a techno and trance artist based in Denmark, with 20 gigs on soundcheck across Copenhagen. Often billed alongside Holtz, LMN and SORT SIND. Next up: Den Anden Side, Copenhagen on Sat 3 Oct.
+Dico Nemus is a techno and trance artist based in Denmark, with 20 gigs on soundcheck across Copenhagen. Often billed alongside Holtz, LMN and SORT SIND. Next up: MODULE, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | MODULE | Copenhagen |
 
 ## Recently played

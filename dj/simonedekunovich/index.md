@@ -1,14 +1,13 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Forte Antenne, Rome on Sat, 3 Oct 2026.
+Simone de Kunovich is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
 
-Simone de Kunovich is a house and techno artist based in Italy, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: Forte Antenne, Rome on Sat 3 Oct.
+Simone de Kunovich is a house and techno artist based in Italy, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside PARAMIDA, Dante (H501) and Pascal Moscheni. Next up: West Indish Huis, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Forte Antenne | Rome |
 | Thu, 22 Oct 2026 | West Indish Huis | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |

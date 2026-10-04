@@ -1,14 +1,13 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Good Room, New York City on Sat, 3 Oct 2026.
+Jordan Nocturne is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
-Jordan Nocturne is a house and techno artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 19 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Good Room, New York City on Sat 3 Oct.
+Jordan Nocturne is a house and techno artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 19 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Good Room | New York City |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Shorts Sports & Recreation Club | Belfast |
 

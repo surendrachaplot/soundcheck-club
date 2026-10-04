@@ -1,14 +1,13 @@
 # Esther Silex
 
-Esther Silex is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+Esther Silex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Esther Silex is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne, Hamburg and Istanbul and 4 more. Often billed alongside Sascha Cawa, Britta Arnold and Peter Schumann. Next up: Kater, Berlin on Fri 2 Oct.
+Esther Silex is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne, Hamburg and Istanbul and 4 more. Often billed alongside Sascha Cawa, Britta Arnold and Peter Schumann. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Kater | Berlin |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 
 ## Recently played

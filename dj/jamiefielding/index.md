@@ -1,15 +1,13 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jamie Fielding is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kapsule, Liverpool on Fri, 9 Oct 2026.
 
-Jamie Fielding is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Jamie Fielding is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Kapsule, Liverpool on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
-| Sat, 3 Oct 2026 | Void Hull | North |
 | Fri, 9 Oct 2026 | Kapsule | Liverpool |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |

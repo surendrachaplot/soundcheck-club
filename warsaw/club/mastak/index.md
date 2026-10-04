@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "b2b2b — zeroday & VIKKI b-day bash" on Sat, 3 Oct 2026.
+Mastak is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SUNDAY: softspot / zenwerk / Samogulov" on Sun, 4 Oct 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with line-ups including Braincrush, Dharma Doom, Inhaberin and LEM and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with line-ups including Braincrush, Dharma Doom, Inhaberin and LEM and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | b2b2b — zeroday & VIKKI b-day bash | VIKKI_, zeroday |
 | Sun, 4 Oct 2026 | SUNDAY: softspot / zenwerk / Samogulov | Dharma Doom, Samogulov, zenwerk |
 | Fri, 9 Oct 2026 | FĀLĀ - Marboc, Sickdat, Shieeld, Nightfall | Marboc, Nightfall, Sickdat |
 | Sat, 10 Oct 2026 | they | Braincrush, LEM (5), Lyor Kalt, ONIMAL |
@@ -18,6 +17,7 @@ Mastak is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with l
 | Sun, 18 Oct 2026 | SUNDAY |  |
 | Sun, 25 Oct 2026 | SUNDAY |  |
 | Sat, 7 Nov 2026 | NOKTURN | Inhaberin (2), Pean, Salat, Vi (PL), sporra |
+| Sat, 14 Nov 2026 | Label Night |  |
 
 ## Address
 

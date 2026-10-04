@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Chloé Caillet is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fabrik, Madrid on Sat, 10 Oct 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Chloé Caillet is a house and techno artist based in United States of America, with 240 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Fabrik, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Fabrik | Madrid |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |

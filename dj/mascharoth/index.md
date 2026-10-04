@@ -1,14 +1,13 @@
 # Mascha Roth
 
-Mascha Roth is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at MAW, Tokyo on Sat, 3 Oct 2026.
+Mascha Roth is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-Mascha Roth is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden, Leipzig and Tokyo. Often billed alongside DUSTNER, Skurrben and BIGALKE. Next up: MAW, Tokyo on Sat 3 Oct.
+Mascha Roth is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden, Leipzig and Tokyo. Often billed alongside DUSTNER, Skurrben and BIGALKE. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | MAW | Tokyo |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Sat, 17 Oct 2026 | Sektor Evolution | Dresden |
 

@@ -1,14 +1,13 @@
 # WaV
 
-WaV is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx" on Sat, 3 Oct 2026.
+WaV is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "THE BACKROOMS presents: HADES + MORE" on Sat, 10 Oct 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aidyscape, Ciaran McAuley, Connor (UK) and David Rust and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx |  |
 | Sat, 10 Oct 2026 | THE BACKROOMS presents: HADES + MORE | Hades |
 | Fri, 16 Oct 2026 | In The Now |  |
 | Sat, 17 Oct 2026 | Paradisco at WAV | Dimitri From Paris, Paul Reynolds, Ross Whisper |
@@ -18,6 +17,7 @@ WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 31 Oct 2026 | SHOW ME LUV: Halloween Night |  |
 | Sat, 7 Nov 2026 | Seb Fontaine presents Prototype | Seb Fontaine |
 | Sat, 14 Nov 2026 | Ravelife: Event 6 at WAV | Klubfiller, Nanna Makina |
+| Sat, 28 Nov 2026 | 909 x WAV presents Seladoria |  |
 
 ## Address
 

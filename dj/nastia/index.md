@@ -1,14 +1,13 @@
 # Nastia
 
-Nastia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 3 Oct 2026.
+Nastia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
 
-Nastia is a techno and house artist based in Ukraine, with 172 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Karmen Camina, Strasbourg on Sat 3 Oct.
+Nastia is a techno and house artist based in Ukraine, with 172 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Karmen Camina | Strasbourg |
 | Sun, 4 Oct 2026 | TBA - Spijkerkade 2 | Amsterdam |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |

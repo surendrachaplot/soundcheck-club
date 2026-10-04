@@ -1,14 +1,13 @@
 # Huebl
 
-Huebl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Das Werk, Vienna on Sat, 3 Oct 2026.
+Huebl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kramladen, Vienna on Sat, 10 Oct 2026.
 
-Huebl is a techno and house artist based in Austria, with 75 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Albin Brezlan, Dana Melissa and Telicho. Next up: Das Werk, Vienna on Sat 3 Oct.
+Huebl is a techno and house artist based in Austria, with 75 gigs on soundcheck across Amsterdam and Vienna. Often billed alongside Albin Brezlan, Dana Melissa and Telicho. Next up: Kramladen, Vienna on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Das Werk | Vienna |
 | Sat, 10 Oct 2026 | Kramladen | Vienna |
 
 ## Recently played

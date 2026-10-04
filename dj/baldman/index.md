@@ -1,14 +1,13 @@
 # Baldman
 
-Baldman is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Baldman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lasociaciøn, Madrid on Sun, 11 Oct 2026.
 
-Baldman is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Axis Mundi and Gala (ES). Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+Baldman is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Axis Mundi and Gala (ES). Next up: Lasociaciøn, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | La Terrrazza | Barcelona |
 | Sun, 11 Oct 2026 | Lasociaciøn | Madrid |
 | Fri, 16 Oct 2026 | Cadavra | Madrid |
 | Sat, 31 Oct 2026 | Village Underground Barcelona | Barcelona |

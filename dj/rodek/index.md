@@ -1,14 +1,13 @@
 # Rodèk
 
-Rodèk is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Westhafen, Leipzig on Sat, 3 Oct 2026.
+Rodèk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
-Rodèk is a techno and house artist based in Germany, with 15 gigs on soundcheck across Leipzig. Often billed alongside knete, Rn86 and Friedrich Gegner. Next up: Westhafen, Leipzig on Sat 3 Oct.
+Rodèk is a techno and house artist based in Germany, with 15 gigs on soundcheck across Leipzig. Often billed alongside knete, Rn86 and Friedrich Gegner. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Westhafen | Leipzig |
 | Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 
 ## Recently played

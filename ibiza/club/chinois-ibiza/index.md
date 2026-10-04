@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Masquerade: Claptone, Lee Foss, James de Torres, DIEGO SAN DIEGO" on Sat, 3 Oct 2026.
+Chinois Ibiza is a music venue in Ibiza with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bedouin presents SAGA Closing" on Sun, 4 Oct 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. See dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. See dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Masquerade: Claptone, Lee Foss, James de Torres, DIEGO SAN DIEGO | Claptone, DIEGO SAN DIEGO, James de Torres, Lee Foss |
 | Sun, 4 Oct 2026 | Bedouin presents SAGA Closing | Bedouin |
 | Mon, 5 Oct 2026 | La Troya: Sparrow, Oscar Colorado, RAMPINI, Felix Da Funk | Felix Da Funk, Oscar Colorado, Sparrow (CH) |
 | Wed, 7 Oct 2026 | Mahmut Orhan Closing | Avangart Tabldot, Mahmut Orhan |

@@ -1,14 +1,13 @@
 # Andrew Rayel
 
-Andrew Rayel is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tunnel, Milan on Sat, 3 Oct 2026.
+Andrew Rayel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Andrew Rayel is a trance and techno artist based in Moldova, with 27 gigs on soundcheck across Amsterdam, Austin, Denver and Edmonton and 16 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Tunnel, Milan on Sat 3 Oct.
+Andrew Rayel is a trance and techno artist based in Moldova, with 27 gigs on soundcheck across Amsterdam, Austin, Denver and Edmonton and 16 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tunnel | Milan |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 

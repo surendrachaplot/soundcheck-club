@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Smolna: Indecorum, KLOUD, NØNAME, KLAUDIA" on Sat, 3 Oct 2026.
+Smolna is a music venue in Warsaw with 26 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HIDEOUT SOCIAL CLUB #26 || TCBRX x SAYURI x Tuchowsky" on Wed, 7 Oct 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 27 upcoming gigs, with line-ups including Alinka, Âme, Aurora and Azzecca and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with line-ups including Alinka, Âme, Aurora and Azzecca and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Smolna: Indecorum, KLOUD, NØNAME, KLAUDIA | Indecorum, KLAUDIA, KLOUD, MR Danger |
 | Wed, 7 Oct 2026 | HIDEOUT SOCIAL CLUB #26 // TCBRX x SAYURI x Tuchowsky | Sayuri (1), Tuchowsky |
 | Thu, 8 Oct 2026 | SMLИ Thursday x Academy Showcase: Mordeaux, Violent, Theviacya, Vozny | Mordeaux, Theviacya, Violent |
 | Fri, 9 Oct 2026 | Smolna: Kollektiv Turmstrasse - Etnika Elektronika x The X Festival | CJ Art, Essex, Hraach, Kollektiv Turmstrasse |
@@ -18,6 +17,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 27 upcoming gigs, with l
 | Fri, 16 Oct 2026 | Smolna: Worakls, Will Spleen, Just2 | CZART, Just2, Worakls, deafcandance |
 | Sat, 17 Oct 2026 | Smolna x Cyberglow: SPFDJ, G-Sound | SPFDJ |
 | Wed, 21 Oct 2026 | HIDEOUT SOCIAL CLUB #28 // Aurora | Aurora |
+| Thu, 22 Oct 2026 | Smolna Tribe: Ramzi Attia |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Easby
 
-Easby is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Digital, Newcastle on Sat, 3 Oct 2026.
+Easby is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Archive, Leeds on Fri, 16 Oct 2026.
 
-Easby is a progressive house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Leeds and Newcastle. Often billed alongside SOBAH, Gav Easby and Alex O'Rion. Next up: Digital, Newcastle on Sat 3 Oct.
+Easby is a progressive house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Leeds and Newcastle. Often billed alongside SOBAH, Gav Easby and Alex O'Rion. Next up: Archive, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Digital | Newcastle |
 | Fri, 16 Oct 2026 | Archive | Leeds |
 | Sat, 7 Nov 2026 | Digital | Newcastle |
 

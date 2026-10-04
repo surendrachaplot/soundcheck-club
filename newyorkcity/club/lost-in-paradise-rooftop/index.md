@@ -1,14 +1,13 @@
 # Lost in Paradise Rooftop
 
-Lost in Paradise Rooftop is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Reggaeton Paradise Rooftop Party – Lost in Paradise, Queens – Oct 03" on Sat, 3 Oct 2026.
+Lost in Paradise Rooftop is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "FLY Queens - Lost in Paradise" on Sun, 4 Oct 2026.
 
-Lost in Paradise Rooftop is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 11-01 43rd Avenue, Long Island City, NYC.
+Lost in Paradise Rooftop is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 11-01 43rd Avenue, Long Island City, NYC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Reggaeton Paradise Rooftop Party – Lost in Paradise, Queens – Oct 03 |  |
 | Sun, 4 Oct 2026 | FLY Queens - Lost in Paradise |  |
 
 ## Address

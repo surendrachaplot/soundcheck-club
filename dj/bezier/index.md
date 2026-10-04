@@ -1,14 +1,13 @@
 # Bézier
 
-Bézier is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
+Bézier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
 
-Bézier is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Berlin, Detroit, Hamburg and Hong Kong and 7 more. Often billed alongside BrthrMidnyt, La Carpio and cristian zanotti. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
+Bézier is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Berlin, Detroit, Hamburg and Hong Kong and 7 more. Often billed alongside BrthrMidnyt, La Carpio and cristian zanotti. Next up: Kater, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Golden Pudel Club | Hamburg |
 | Fri, 27 Nov 2026 | Kater | Berlin |
 
 ## Recently played

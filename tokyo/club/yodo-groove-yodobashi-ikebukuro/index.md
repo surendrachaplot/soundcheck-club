@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil)" on Sun, 4 Oct 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Today  Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil)" on Sun, 4 Oct 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ANZU, COCOLY, DJ Emma and DJ MIYU and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -8,7 +8,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil) | COCOLY, YURI VALEN |
+| Sun, 4 Oct 2026 | Today  Tech house Rooftop Session –  FUZIGER (EXE Audio / Brazil) | COCOLY, YURI VALEN |
 | Sat, 10 Oct 2026 | SKY MUSIC JOURNEY: A-JAY — House & Progressive | DJ OGAWA, Vino (1) |
 | Sun, 11 Oct 2026 | SUNSHINE – Tokyo Rooftop Session: Techno, UKG & Tech House |  |
 | Mon, 12 Oct 2026 | DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary | DJ MIYU, KEiTA, Light.aka, Sarina Tokihira |

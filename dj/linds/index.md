@@ -1,13 +1,15 @@
 # Linds
 
-Linds is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 6 Nov 2026.
+Linds is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Linds is a techno and trance artist based in Poland, with 47 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 11 more. Often billed alongside GI.O, Kichta and LINDS (NL). Next up: RSO.BERLIN, Berlin on Fri 6 Nov.
+Linds is a techno and trance artist based in Poland, with 49 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 12 more. Often billed alongside 2HOT2PLAY, GI.O and Kichta. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 14 Nov 2026 | Evenementenhal Depart | Belgium |
 
@@ -24,6 +26,6 @@ Linds is a techno and trance artist based in Poland, with 47 gigs on soundcheck 
 
 ## Shares bills with
 
-GI.O, Kichta, LINDS (NL)
+2HOT2PLAY, GI.O, Kichta
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*

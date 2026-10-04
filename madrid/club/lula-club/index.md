@@ -1,14 +1,13 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 35 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Bendita Locura x Connect with Prunk" on Sat, 3 Oct 2026.
+Lula Club is a music venue in Madrid with 34 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "NO NAME" on Thu, 8 Oct 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, with line-ups including Adam Ten, Andrea Oliva, CAMET and Cassius and 2 more. See dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 34 upcoming gigs, with line-ups including Adam Ten, Andrea Oliva, CAMET and Cassius and 2 more. See dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bendita Locura x Connect with Prunk | Prunk |
 | Thu, 8 Oct 2026 | NO NAME |  |
 | Fri, 9 Oct 2026 | Andrea Oliva | Andrea Oliva |
 | Fri, 9 Oct 2026 | FÜNDAY OPENING: DAYTIME CLUBBING at LULA | DLOU, Loopita |
@@ -18,6 +17,7 @@ Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, wit
 | Fri, 16 Oct 2026 | MAZ | Maz (BR) |
 | Sat, 17 Oct 2026 | HOUSE OF RICHI w/Richi Risco | Richi Risco |
 | Thu, 22 Oct 2026 | Benditos Locos with Simon Kidzoo | Simon Kidzoo |
+| Fri, 23 Oct 2026 | FRIDAY NIGHT |  |
 
 ## Address
 

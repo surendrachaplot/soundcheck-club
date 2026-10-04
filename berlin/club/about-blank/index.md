@@ -1,14 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Always ON TOP" on Sat, 3 Oct 2026.
+://about blank is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "STAUB XS_Familydisco_TREE OF THE CORE" on Sun, 4 Oct 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 4NOUK, Al Aslan, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 4NOUK, Al Aslan, alemiko and Alex.Do and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Always ON TOP | Bamela Paywatch, CHOREOPHILA, Carl Hang, DJ Ferrari (2), Ini Lamborghini, Multifun, Schorli |
 | Sun, 4 Oct 2026 | STAUB XS_Familydisco_TREE OF THE CORE |  |
 | Fri, 9 Oct 2026 | PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE | DJ Semisecco, Droughtwerk, FI3BER, Flotte Motte, MATHILDA (2), Philena, co:co |
 | Sat, 10 Oct 2026 | ://elements | Biocym, Casual Treatment, Cia Rebeck, Electric Visionary, Shia LaBiff, THNTS, Vanta (DE), deliora |
@@ -18,6 +17,7 @@
 | Fri, 23 Oct 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
 | Sat, 24 Oct 2026 | glue & bass down borders | Al Aslan, Antonella mags schneller, Ele Luz, JUSTICE (DE), Libra, MIRALEO, Mehr is Mehr, RAULITO WOLF, Ramy Hasnawe, SACID, kimchi cora |
 | Fri, 30 Oct 2026 | ★ LOWKEY STARS ☆ HALLOWEEN | Andara Nox, Anna Hoeber, April the pink, CHAR, Cottí Larje, DJ Spaßgetränk, Delm, Dino S, EVYA, L.OST, LEIA (2), MAD.MOD, MARØ, Mona (2), Monalisa Michaelis, Natasha Roze, R1D1, RaVix, Sasa (FR), Sinetiketa, YANU, antyo, clubm8, shakesbiier |
+| Sat, 31 Oct 2026 | Glücklich durch die Krise (G2DK) - Daytime Rave | Anna Kasyan, DJ.KRISE, Felizissima, Rosa Luxemburg, The Brvtalist |
 
 ## Address
 

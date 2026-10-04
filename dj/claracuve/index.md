@@ -1,8 +1,8 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Clara Cuvé is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Clara Cuvé is a techno and house artist based in Germany, with 237 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Kobosil, 999999999 and MCR-T. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Clara Cuvé is a techno and house artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Clara Cuvé is a techno and house artist based in Germany, with 237 gigs on soun
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | E1 | London |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
@@ -18,8 +20,6 @@ Clara Cuvé is a techno and house artist based in Germany, with 237 gigs on soun
 | Fri, 13 Nov 2026 | Club Cultural Lima | Peru |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Fri, 20 Nov 2026 | Radius | Chicago |
-| Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Clara Cuvé is a techno and house artist based in Germany, with 237 gigs on soun
 
 ## Shares bills with
 
-Kobosil, 999999999, MCR-T
+Kobosil, I Hate Models, 999999999
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Evening Unlimited x nonverbal communication" on Sat, 3 Oct 2026.
+Système is a music venue in Montreal with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon" on Sun, 4 Oct 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 17 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Evening Unlimited x nonverbal communication | Esther Côté, Lonefront, anise, esme (US) |
 | Sun, 4 Oct 2026 | Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon | Adam Solomon, Aline Setton, Cosmic JD |
 | Thu, 8 Oct 2026 | Ramzilla + Juan Izguerra | Juan Izguerra, Ramzilla |
 | Fri, 9 Oct 2026 | Darker Than Wax x Music Is My Sanctuary | Lexis (Music Is My Sanctuary), Marco Weibel |
@@ -18,6 +17,7 @@ Système is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, wi
 | Fri, 16 Oct 2026 | Ferias | Alina (MTL), CLEO LEIGH, Ferias |
 | Sat, 17 Oct 2026 | Autobahn | AADJA, AṢKIM, h1bou |
 | Sun, 18 Oct 2026 | Shella Records x La Rama | Kris Guilty |
+| Thu, 22 Oct 2026 | Drink n Draw |  |
 
 ## Address
 

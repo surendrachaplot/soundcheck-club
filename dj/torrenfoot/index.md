@@ -1,14 +1,13 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at New City Gas, Montreal on Sat, 3 Oct 2026.
+Torren Foot is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Fortitude Music Hall, Brisbane on Thu, 15 Oct 2026.
 
-Torren Foot is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: New City Gas, Montreal on Sat 3 Oct.
+Torren Foot is a house and tech house artist based in Australia, with 53 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: The Fortitude Music Hall, Brisbane on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | New City Gas | Montreal |
 | Thu, 15 Oct 2026 | The Fortitude Music Hall | Brisbane |
 | Fri, 16 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 24 Oct 2026 | Hordern Pavilion | Sydney |

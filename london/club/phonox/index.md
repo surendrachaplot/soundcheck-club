@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 37 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Weval (DJ) All Night Long" on Sat, 3 Oct 2026.
+Phonox is a music venue in London with 36 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Insomnia London: Shirley Temper, Tino & Ned Spencer" on Thu, 8 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Weval (DJ) All Night Long | Weval |
 | Thu, 8 Oct 2026 | Insomnia London: Shirley Temper, Tino & Ned Spencer | Ned Spencer, Shirley Temper, Sophia Constantinou |
 | Fri, 9 Oct 2026 | Anish Kumar, Wallace: 4 Fridays at Phonox (9th Oct) | Anish Kumar, Wallace |
 | Sat, 10 Oct 2026 | OUTRO: Fold with SP:MC, Dismantle, Fonzo, Lady Passion | Fold, Fonzo (UK), Lady Passion |
@@ -18,6 +17,7 @@ Phonox is a music venue in London listed on soundcheck. 37 upcoming gigs, with l
 | Sat, 17 Oct 2026 | A LOVE FROM OUTER SPACE (All Day Long) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
 | Fri, 23 Oct 2026 | Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party)  | Anish Kumar |
+| Sat, 24 Oct 2026 | Mr. Scruff (6 Hour DJ Set) | Mr Scruff, Vanessa Freeman |
 
 ## Address
 

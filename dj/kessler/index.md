@@ -1,14 +1,13 @@
 # Kessler
 
-Kessler is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 3 Oct 2026.
+Kessler is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
 
-Kessler is a techno and breakbeat artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 23 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: Yamamori Tengu, Dublin on Sat 3 Oct.
+Kessler is a techno and breakbeat artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 23 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: Mandela Hall, Belfast on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Yamamori Tengu | Dublin |
 | Sat, 10 Oct 2026 | Mandela Hall | Belfast |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 

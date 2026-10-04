@@ -1,14 +1,13 @@
 # Darco
 
-Darco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volt Club Milano, Milan on Fri, 2 Oct 2026.
+Darco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Darco is a house and techno artist based in Ukraine, with 10 gigs on soundcheck across Chicago, Ibiza, Los Angeles and Mexico City and 3 more. Often billed alongside BLOND:ISH, SIEGEL and Yamagucci. Next up: Volt Club Milano, Milan on Fri 2 Oct.
+Darco is a house and techno artist based in Ukraine, with 10 gigs on soundcheck across Chicago, Ibiza, Los Angeles and Mexico City and 3 more. Often billed alongside BLOND:ISH, SIEGEL and Yamagucci. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

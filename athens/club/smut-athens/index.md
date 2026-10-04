@@ -1,14 +1,13 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision" on Sat, 3 Oct 2026.
+SMUT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Purple Night x SMUT" on Fri, 9 Oct 2026.
 
-SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, BIDOBEN, Chontane and CONCEPTUAL and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
+SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Chontane, CONCEPTUAL and DAX J and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | SUBLUNAR x SMUT with Sciahri, BIDOBEN, Hertz Collision | BIDOBEN, Hertz Collision, Sciahri |
 | Fri, 9 Oct 2026 | Purple Night x SMUT | The Dreamer, WrappeD In PlastiC |
 | Sat, 10 Oct 2026 | Coma x SMUT with DJ Nobu, Rrose, JERM | DJ Nobu, JERM, Rrose |
 | Sat, 17 Oct 2026 | SMUT x Ellen Allien x Temudo x Ther3min | Ellen Allien, Temudo, Ther3min |

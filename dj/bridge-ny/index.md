@@ -1,15 +1,13 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at House of Yes, New York City on Sat, 3 Oct 2026.
+Bridge (NY) is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Night Tales Loft, London on Fri, 16 Oct 2026.
 
-Bridge (NY) is a house and disco artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 8 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: House of Yes, New York City on Sat 3 Oct.
+Bridge (NY) is a house and disco artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 8 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Night Tales Loft, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | House of Yes | New York City |
-| Sat, 3 Oct 2026 | House of Yes | New York City |
 | Fri, 16 Oct 2026 | Night Tales Loft | London |
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |

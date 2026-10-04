@@ -1,14 +1,13 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat" on Sat, 3 Oct 2026.
+The Carpet Shop is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "AlgoRhythms" on Wed, 7 Oct 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | pressure control x SC&P: Curses, Jay Duncan & Harry James b2b Josh Bayat | Curses, Harry James, Jay Duncan, Josh Bayat |
 | Wed, 7 Oct 2026 | AlgoRhythms |  |
 | Thu, 8 Oct 2026 | Thirsty Thursdays with Sexy B*tch | Cam Joon |
 | Fri, 9 Oct 2026 | GRAVY* with JD REID, DJ Polo & Aqwea | Aqwea, DJ Polo, JD. REID |
@@ -18,6 +17,7 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gig
 | Sun, 18 Oct 2026 | If Music presents 'Left Turn' | DJ Flight |
 | Fri, 23 Oct 2026 | Kilig - All Night Long | Kilig (UK) |
 | Sat, 24 Oct 2026 | Emma-Jean Thackray & Lagoon Lurve - Movementt | Emma-Jean Thackray |
+| Sat, 31 Oct 2026 | Buss with AliA b2b Alex Nut (3 hours), Sharnie & Cam Joon | Alexander Nut, AliA, Cam Joon, Sharnie |
 
 ## Address
 

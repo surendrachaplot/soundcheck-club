@@ -1,14 +1,13 @@
 # 1morning
 
-1morning is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Oddity Club, Athens on Sat, 3 Oct 2026.
+1morning is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafeteria, Toronto on Sat, 10 Oct 2026.
 
-1morning is a techno and club artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Oddity Club, Athens on Sat 3 Oct.
+1morning is a techno and club artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Cafeteria, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Oddity Club | Athens |
 | Sat, 10 Oct 2026 | Cafeteria | Toronto |
 | Fri, 16 Oct 2026 | Signal | New York City |
 | Thu, 3 Dec 2026 | The Pickle | Miami |

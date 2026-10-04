@@ -1,14 +1,13 @@
 # Luciid
 
-Luciid is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala Groove, Madrid on Sat, 3 Oct 2026.
+Luciid is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 30 Oct 2026.
 
-Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Sala Groove, Madrid on Sat 3 Oct.
+Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sala Groove | Madrid |
 | Fri, 30 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 27 Nov 2026 | SILO | New York City |

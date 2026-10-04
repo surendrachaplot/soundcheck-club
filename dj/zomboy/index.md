@@ -1,14 +1,13 @@
 # Zomboy
 
-Zomboy is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mia Mao, Paris on Sat, 3 Oct 2026.
+Zomboy is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Boston, Chicago and Cologne and 6 more. Often billed alongside Alesso, Murdock and OGUZ. Next up: Mia Mao, Paris on Sat 3 Oct.
+Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Boston, Chicago and Cologne and 6 more. Often billed alongside Alesso, Murdock and OGUZ. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mia Mao | Paris |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played

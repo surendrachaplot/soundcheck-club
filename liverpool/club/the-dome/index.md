@@ -1,14 +1,13 @@
 # The Dome
 
-The Dome is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Mas Alto presents: Massano" on Sat, 3 Oct 2026.
+The Dome is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "The Dome Presents: Fish56Octagon" on Sat, 10 Oct 2026.
 
-The Dome is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
+The Dome is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mas Alto presents: Massano | Massano |
 | Sat, 10 Oct 2026 | The Dome Presents: Fish56Octagon | Fish56Octagon |
 | Fri, 16 Oct 2026 | Dual Damage Present: Built2Break | Dual Damage |
 | Fri, 16 Oct 2026 | Dual Damage: Built2Break | Dual Damage, Neek, Revelation |

@@ -1,14 +1,13 @@
 # Nettta
 
-Nettta is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Nettta is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 10 Oct 2026.
 
-Nettta is a trance and techno artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 2 more. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Nettta is a trance and techno artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 2 more. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | OST | Berlin |
 | Fri, 23 Oct 2026 | Südpol | Hamburg |

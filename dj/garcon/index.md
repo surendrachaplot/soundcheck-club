@@ -1,14 +1,13 @@
 # Garçon
 
-Garçon is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
+Garçon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Sun, 11 Oct 2026.
 
-Garçon is a techno and house artist based in Switzerland, with 86 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Ankali & Planeta Za, Prague on Sat 3 Oct.
+Garçon is a techno and house artist based in Switzerland, with 86 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: LAUT, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sun, 11 Oct 2026 | LAUT | Barcelona |
 | Sat, 17 Oct 2026 | essaim | Paris |
 | Fri, 30 Oct 2026 | Macadam | Nantes |

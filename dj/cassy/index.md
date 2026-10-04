@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Cassy is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Cassy is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 48 more. Often billed alongside Carlos Valdes, Anja Schneider and Edward. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -9,7 +9,6 @@ Cassy is a house and techno artist based in United Kingdom, with 171 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
-| Sat, 3 Oct 2026 | TBA | Sofia |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 17 Oct 2026 | Arca | Milan |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |

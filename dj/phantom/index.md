@@ -1,14 +1,13 @@
 # Phantom
 
-Phantom is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Under The Prom, West-wales on Sat, 3 Oct 2026.
+Phantom is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tank, Sheffield on Fri, 6 Nov 2026.
 
-Phantom is a drum & bass and jungle artist based in Serbia, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 17 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Under The Prom, West Wales on Sat 3 Oct.
+Phantom is a drum & bass and jungle artist based in Serbia, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 17 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Tank, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Under The Prom | West-wales |
 | Fri, 6 Nov 2026 | Tank | Sheffield |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |

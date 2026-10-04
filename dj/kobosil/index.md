@@ -1,14 +1,13 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Kobosil is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
-Kobosil is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Kobosil is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 13 Nov 2026 | Gianpula Main Room | Malta |

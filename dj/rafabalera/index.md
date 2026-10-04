@@ -1,14 +1,13 @@
 # Rafa Balera
 
-Rafa Balera is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 3 Oct 2026.
+Rafa Balera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
-Rafa Balera is a house and disco artist based in Brazil, with 34 gigs on soundcheck across Berlin, Lisbon and Sao Paulo. Often billed alongside Mirands, Paulete Lindacelva and From House to Disco. Next up: Edifício Martinelli, Sao Paulo on Sat 3 Oct.
+Rafa Balera is a house and disco artist based in Brazil, with 34 gigs on soundcheck across Berlin, Lisbon and Sao Paulo. Often billed alongside Mirands, Paulete Lindacelva and From House to Disco. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Edifício Martinelli | Sao Paulo |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 
 ## Recently played

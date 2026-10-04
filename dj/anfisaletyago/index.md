@@ -1,14 +1,13 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 3 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Exchange LA, Los Angeles on Sat, 10 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Klein Phönix, Istanbul on Sat 3 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Exchange LA, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 | Sat, 10 Oct 2026 | Exchange LA | Los Angeles |
 | Thu, 15 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Fri, 16 Oct 2026 | BERHTA | Washington DC |

@@ -1,14 +1,13 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 3 Oct 2026.
+Daichi Wada is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Villa, Oslo on Fri, 9 Oct 2026.
 
-Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: Ivans Pilsnerbar, Gothenburg on Sat 3 Oct.
+Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: The Villa, Oslo on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Ivans Pilsnerbar | Gothenburg |
 | Fri, 9 Oct 2026 | The Villa | Oslo |
 | Sat, 10 Oct 2026 | K-Bar Powiśle | Warsaw |
 | Thu, 15 Oct 2026 | Les Enfants Brillants | Barcelona |

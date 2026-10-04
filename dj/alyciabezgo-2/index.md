@@ -1,14 +1,13 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Alycia Bezgo is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
 
-Alycia Bezgo is a techno and trance artist based in Belgium, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside ÜBERKIKZ, BIIANCO and Helena Lauwaert. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Alycia Bezgo is a techno and trance artist based in Belgium, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside ÜBERKIKZ, BIIANCO and Helena Lauwaert. Next up: La Cité Fertile, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sun, 4 Oct 2026 | La Cité Fertile | Paris |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |

@@ -1,14 +1,13 @@
 # TOOTHTAXI
 
-TOOTHTAXI is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at M.O.T, London on Sat, 3 Oct 2026.
+TOOTHTAXI is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
-TOOTHTAXI is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and SAN.SAN. Next up: M.O.T, London on Sat 3 Oct.
+TOOTHTAXI is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and SAN.SAN. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | M.O.T | London |
 | Sat, 7 Nov 2026 | Avalon Cafe Bermondsey | London |
 
 ## Recently played

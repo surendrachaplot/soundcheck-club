@@ -1,14 +1,13 @@
 # Funken
 
-Funken is a Dub and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+Funken is a Dub and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at YSY, Berlin on Sun, 18 Oct 2026.
 
-Funken is a dub and downtempo artist, with 30 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: Madame Claude, Berlin on Sat 3 Oct.
+Funken is a dub and downtempo artist, with 30 gigs on soundcheck across Berlin. Often billed alongside Al_Massimo, Overthink 71 and Paoler. Next up: YSY, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Madame Claude | Berlin |
 | Sun, 18 Oct 2026 | YSY | Berlin |
 
 ## Recently played

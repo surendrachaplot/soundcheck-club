@@ -1,14 +1,13 @@
 # Robs (1)
 
-Robs (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
+Robs (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at B2 Rīga, Riga on Fri, 9 Oct 2026.
 
-Robs is a techno and house artist based in Italy, with 20 gigs on soundcheck across Berlin, Frankfurt, Ghent and London and 5 more. Often billed alongside Rickie (Overground), Rickie and Ancut. Next up: TBA - Secret Location, Berlin on Sat 3 Oct.
+Robs is a techno and house artist based in Italy, with 20 gigs on soundcheck across Berlin, Frankfurt, Ghent and London and 5 more. Often billed alongside Rickie (Overground), Rickie and Ancut. Next up: B2 Rīga, Riga on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Secret Location | Berlin |
 | Fri, 9 Oct 2026 | B2 Rīga | Riga |
 
 ## Recently played

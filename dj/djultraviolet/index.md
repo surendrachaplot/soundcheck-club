@@ -1,14 +1,13 @@
 # DJ Ultra Violet
 
-DJ Ultra Violet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Danger Danger, New York City on Sat, 3 Oct 2026.
+DJ Ultra Violet is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gabriela, New York City on Sun, 4 Oct 2026.
 
-DJ Ultra Violet is a house and techno artist based in United States of America, with 97 gigs on soundcheck across New York City. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: Danger Danger, New York City on Sat 3 Oct.
+DJ Ultra Violet is a house and techno artist based in United States of America, with 97 gigs on soundcheck across New York City. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: Gabriela, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Danger Danger | New York City |
 | Sun, 4 Oct 2026 | Gabriela | New York City |
 | Sun, 4 Oct 2026 | McCarren Park | New York City |
 | Thu, 22 Oct 2026 | Dead Letter No. 9 | New York City |

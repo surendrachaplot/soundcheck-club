@@ -1,14 +1,13 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "PKH Warehouse Opening Event with Trancecore, Sachsentrance, BPM, Anechoic, 44 Hertz uvm" on Fri, 2 Oct 2026.
+PKH Warehouse is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight" on Fri, 9 Oct 2026.
 
-PKH Warehouse is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Vandal, A.D.H.S., Amøn and Anechoic and 2 more. See dates, start times and who's playing.
+PKH Warehouse is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Vandal, A.D.H.S., Asem Shama and Charlotte Lion and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse Opening Event with Trancecore, Sachsentrance, BPM, Anechoic, 44 Hertz uvm | Amøn, Anechoic, Asem Shama, August Kind, BENITO (DE), Daniel Neuland, Deltapeak, FEROTONINO, Fronsi, Kizu, Martin Ka, Nettta, PADERKID, RaverPik, Sabu!, Symon Says, Tala Berg, bbymeister, jeanska, nordcorreia.mp3, phlipzee, sterni (DE) |
 | Fri, 9 Oct 2026 | TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight |  |
 | Sat, 10 Oct 2026 | PARALLAX / xXETEXx • FeelNature • 7Chakras | Adam Vandal, EMIRI TSUKUI, HypoGeo, Josephine Wedekind, TMH Tranzit |
 | Mon, 12 Oct 2026 | Festival of Lights Afterparty /w Asem Shama (All night Long) | Asem Shama |

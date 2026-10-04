@@ -1,14 +1,13 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "AX FRESH YEAR WELCOME PARTY" on Sat, 3 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM" on Thu, 8 Oct 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | AX FRESH YEAR WELCOME PARTY |  |
 | Thu, 8 Oct 2026 | JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM |  |
 | Fri, 9 Oct 2026 | VOLTEX w/ Lex Eco, Aimi, Simko, Kategia b2b Taylor Taylor | Lex Eco, Taylor Taylor |
 | Fri, 9 Oct 2026 | Future Metal Fest |  |
@@ -18,6 +17,7 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming g
 | Wed, 21 Oct 2026 | BaseYRD ADE Special | AUTOFLOWER, LUMINE, S3PPA |
 | Wed, 21 Oct 2026 | The Early Shift | Boyos Soundsystem, Mr.Lando |
 | Thu, 22 Oct 2026 | Colorize: 15 Years - ADE | ALLKNIGHT, Alex Breitling, Datskie, Estiva, Falden, Fejká, Guy Didden, Helsloot, Jordin Post, Klur, L.GU., M.O.S., Matt Fax, Pete K |
+| Fri, 23 Oct 2026 | OBSCUUR ADE with Antonym, Jim Jonathan,OnlyWithYou, KLING&KLANG, PartyPi | Antonym, KLING&KLANG, Lillie, MIMI404, OnlyWithYou |
 
 ## Address
 

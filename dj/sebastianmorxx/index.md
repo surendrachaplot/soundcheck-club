@@ -1,14 +1,13 @@
 # Sebastian Morxx
 
-Sebastian Morxx is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club M2 Miami, Miami on Sat, 3 Oct 2026.
+Sebastian Morxx is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Sebastian Morxx is a house and deep house artist based in Colombia, with 6 gigs on soundcheck across Miami and Singapore. Often billed alongside ALVA (FR), AMPRS&ND and Adam Beyer. Next up: Club M2 Miami, Miami on Sat 3 Oct.
+Sebastian Morxx is a house and deep house artist based in Colombia, with 6 gigs on soundcheck across Miami and Singapore. Often billed alongside ALVA (FR), AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club M2 Miami | Miami |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played

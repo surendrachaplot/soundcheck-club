@@ -1,14 +1,13 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
+Acid Arab is a Electro and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cross Club, Prague on Sat, 10 Oct 2026.
 
-Acid Arab is an electro and techno artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Akvárium Klub, Budapest on Sat 3 Oct.
+Acid Arab is an electro and techno artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Cross Club, Prague on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Akvárium Klub | Budapest |
 | Sat, 10 Oct 2026 | Cross Club | Prague |
 | Thu, 15 Oct 2026 | Gretchen | Berlin |
 | Fri, 16 Oct 2026 | Gretchen | Berlin |

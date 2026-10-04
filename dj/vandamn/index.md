@@ -1,14 +1,13 @@
 # Van Damn
 
-Van Damn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Livehouse, Dundee on Sat, 3 Oct 2026.
+Van Damn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Dundee on Fri, 9 Oct 2026.
 
-Van Damn is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Aberdeen, Belfast, Dundee and Edinburgh and 4 more. Often billed alongside Ben Hemsley, Mas Que Nada Brothers and Frankie Elyse. Next up: Livehouse, Dundee on Sat 3 Oct.
+Van Damn is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Aberdeen, Belfast, Dundee and Edinburgh and 4 more. Often billed alongside Ben Hemsley, Mas Que Nada Brothers and Frankie Elyse. Next up: TBA, Dundee on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Livehouse | Dundee |
 | Fri, 9 Oct 2026 | TBA | Dundee |
 
 ## Recently played

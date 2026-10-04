@@ -1,14 +1,13 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fuse, Brussels on Sat, 10 Oct 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+ÜBERKIKZ is a techno and house artist based in Russia, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Fuse, Brussels on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 10 Oct 2026 | Fuse | Brussels |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
@@ -19,6 +18,7 @@
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Fri, 11 Dec 2026 | Gate Milano | Milan |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played

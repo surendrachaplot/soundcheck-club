@@ -1,14 +1,13 @@
 # ALI3N
 
-ALI3N is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+ALI3N is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
-ALI3N is a techno and house artist based in Germany, with 52 gigs on soundcheck across Athens, Bangkok, Basel and Belgrade and 17 more. Often billed alongside Nina Farrina, Carmen Electro and MCR-T. Next up: Gotec, Karlsruhe on Sat 3 Oct.
+ALI3N is a techno and house artist based in Germany, with 52 gigs on soundcheck across Athens, Bangkok, Basel and Belgrade and 17 more. Often billed alongside Nina Farrina, Carmen Electro and MCR-T. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Gotec | Karlsruhe |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # ROCCO (FIGA)
 
-ROCCO (FIGA) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Massive, Seattle on Sat, 3 Oct 2026.
+ROCCO (FIGA) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Green Room NYC, New York City on Sat, 24 Oct 2026.
 
-ROCCO (FIGA) is a techno and house artist based in United States of America, with 24 gigs on soundcheck across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: Massive, Seattle on Sat 3 Oct.
+ROCCO (FIGA) is a techno and house artist based in United States of America, with 24 gigs on soundcheck across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: Green Room NYC, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Massive | Seattle |
 | Sat, 24 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 

@@ -8,7 +8,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
+| Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, JKS, Kim She, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
 | Sat, 10 Oct 2026 | WE ARE NOT ALONE | ALI3N, Cleric, Ellen Allien, Introversion, Mama Snake, Metaraph, OLHA, Sarah Sommers, Stephanie Sykes, Volvox |
 | Fri, 16 Oct 2026 | Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso | CYRK, Cosmo Vitelli, Giulia Gutterer, Moderna |

@@ -1,14 +1,13 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Legacy Amsterdam" on Sat, 3 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
 
-Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Kepler, Adriana Lopez, Akemiö Grey and Alex Di Stefano and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
+Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Kepler, Adriana Lopez, Alex Di Stefano and A.M. Project and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Legacy Amsterdam | Akemiö Grey, Gysèle |
 | Wed, 21 Oct 2026 | Intercell ADE Kickoff / ADE By Day |  |
 | Thu, 22 Oct 2026 | Somov at Levenslang (ADE) | Fadi Mohem, Ignez, Polygonia, Rrose, Wala |
 | Thu, 22 Oct 2026 | Intercell x Silva Bumpa pres. STERLING - ADE By Night | Kepler, Laura Meester, Prozak (IRL), Silva Bumpa, Soul Mass Transit System |
@@ -18,6 +17,7 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upco
 | Sat, 24 Oct 2026 | SLPFNK - LEVENSLANG ADE | A.M. Project, Doudou MD, Dyed Soundorom, Georgia Girl, Hugo Martinez, Sonja Moonear, Volkan Akin |
 | Sun, 25 Oct 2026 | Intercell x fumi Invites - ADE By Day | Daria Kolosova, HUJUS, Lacchesi, fumi (DE), ines isla, ÜBERKIKZ |
 | Sat, 21 Nov 2026 | KRAFT Premium Pounding Techno 21st of November 2026 | Alex Di Stefano, HOF (DE), Rachelle Grooten, TheKoosy |
+| Sat, 5 Dec 2026 | Sex-Positive Party // Winter Ball Big Edition |  |
 
 ## Address
 

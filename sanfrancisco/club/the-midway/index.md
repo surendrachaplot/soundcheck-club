@@ -1,15 +1,13 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Global Connect ft J Espinosa, Double B" on Sat, 3 Oct 2026.
+The Midway is a music venue in San Francisco/Oakland with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Audien" on Fri, 9 Oct 2026.
 
-The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including Admiral, Audien, Bag Raiders and Chromeo and 2 more. See dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
+The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 8 upcoming gigs, with line-ups including Admiral, Audien, Bag Raiders and Chromeo and 2 more. See dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Global Connect ft J Espinosa, Double B |  |
-| Sat, 3 Oct 2026 | BOLO's BLOCK AFTER HOURS |  |
 | Fri, 9 Oct 2026 | Audien | Audien |
 | Sat, 10 Oct 2026 | Tinlicker | Tinlicker |
 | Sat, 10 Oct 2026 | Polo & Pan - Americas Tour Block Party | Admiral, MALAS, Polo & Pan, Syd Gris, chungtech, starfari |

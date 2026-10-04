@@ -1,14 +1,13 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
 
-Kiernan Laveaux is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
+Kiernan Laveaux is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 | Fri, 23 Oct 2026 | House of Yes | New York City |
 | Sun, 25 Oct 2026 | public records | New York City |

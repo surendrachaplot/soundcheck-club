@@ -1,14 +1,13 @@
 # Elkka
 
-Elkka is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Elkka is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Underground, London on Sat, 10 Oct 2026.
 
-Elkka is a house and techno artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
+Elkka is a house and techno artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Village Underground, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 10 Oct 2026 | Village Underground | London |
 | Sat, 17 Oct 2026 | Vittoria Wharf Studio | London |
 | Fri, 30 Oct 2026 | Industry City | New York City |

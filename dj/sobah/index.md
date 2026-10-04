@@ -1,14 +1,13 @@
 # SOBAH
 
-SOBAH is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Digital, Newcastle on Sat, 3 Oct 2026.
+SOBAH is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Archive, Leeds on Fri, 16 Oct 2026.
 
-SOBAH is a progressive house and deep house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: Digital, Newcastle on Sat 3 Oct.
+SOBAH is a progressive house and deep house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: Archive, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Digital | Newcastle |
 | Fri, 16 Oct 2026 | Archive | Leeds |
 | Sat, 7 Nov 2026 | Digital | Newcastle |
 | Sat, 14 Nov 2026 | The Fibre Penthouse | Leeds |

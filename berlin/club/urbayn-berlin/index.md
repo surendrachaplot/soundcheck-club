@@ -1,13 +1,14 @@
 # Urbayn Berlin
 
-Urbayn Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. The next is "Heated Rivalry: The Halloween Party" on Fri, 30 Oct 2026.
+Urbayn Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Halloween Swap Market (FREE)" on Sat, 17 Oct 2026.
 
-Urbayn Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Glasbläserallee 25.
+Urbayn Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Glasbläserallee 25.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Halloween Swap Market (FREE) |  |
 | Fri, 30 Oct 2026 | Heated Rivalry: The Halloween Party |  |
 
 ## Address

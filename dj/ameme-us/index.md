@@ -1,14 +1,13 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jungle Island, Miami on Sat, 3 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Wed, 7 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Jungle Island, Miami on Sat 3 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: [UNVRS], Ibiza on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Jungle Island | Miami |
 | Wed, 7 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 16 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |

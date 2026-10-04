@@ -1,14 +1,13 @@
 # SHADEV
 
-SHADEV is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
+SHADEV is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 16 Oct 2026.
 
-SHADEV is a garage and house artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Rich Reason, T-Man (UK) and LARISHKA (UK). Next up: Mint XL, Leeds on Sat 3 Oct.
+SHADEV is a garage and house artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Rich Reason, T-Man (UK) and LARISHKA (UK). Next up: Joshua Brooks, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | Joshua Brooks | Manchester |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
 | Thu, 29 Oct 2026 | Hidden | Manchester |

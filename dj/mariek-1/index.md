@@ -1,14 +1,13 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
+Marie K (1) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 9 Oct 2026.
 
-Marie K is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Starlane Pizza Bar, London on Sat 3 Oct.
+Marie K is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: CLUB RAUM, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Starlane Pizza Bar | London |
 | Fri, 9 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |

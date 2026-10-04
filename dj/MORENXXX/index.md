@@ -1,14 +1,13 @@
 # MORENXXX
 
-MORENXXX is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Paragon, New York City on Sat, 3 Oct 2026.
+MORENXXX is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
-MORENXXX is a techno and club artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 10 more. Often billed alongside LOKA (US), Shyboi and Juliana Huxtable. Next up: Paragon, New York City on Sat 3 Oct.
+MORENXXX is a techno and club artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 10 more. Often billed alongside LOKA (US), Shyboi and Juliana Huxtable. Next up: telos.haus, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Paragon | New York City |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
 | Sat, 17 Oct 2026 | TBA - DTLA | Los Angeles |
 | Mon, 9 Nov 2026 | public records | New York City |

@@ -1,14 +1,13 @@
 # Budakid
 
-Budakid is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
+Budakid is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Budakid is a house and deep house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Bikini Club, Barcelona on Sat 3 Oct.
+Budakid is a house and deep house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bikini Club | Barcelona |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 20 Nov 2026 | Flash | Washington DC |
 | Sat, 28 Nov 2026 | The Lower Third | London |

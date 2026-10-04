@@ -1,14 +1,13 @@
 # Micah Baxter
 
-Micah Baxter is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Micah Baxter is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at XOYO, London on Sat, 17 Oct 2026.
 
-Micah Baxter is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C, Joss Dean and Cam Stockman. Next up: The Nest, Nottingham on Sat 3 Oct.
+Micah Baxter is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C, Joss Dean and Cam Stockman. Next up: XOYO, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Nest | Nottingham |
 | Sat, 17 Oct 2026 | XOYO | London |
 
 ## Recently played

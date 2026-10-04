@@ -1,14 +1,13 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
+DJ Fett Burger is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Servo, New-south-wales on Fri, 9 Oct 2026.
 
-DJ Fett Burger is a house and disco artist based in Norway, with 98 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Kater, Berlin on Fri 2 Oct.
+DJ Fett Burger is a house and disco artist based in Norway, with 98 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: The Servo, New South Wales on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Kater | Berlin |
 | Fri, 9 Oct 2026 | The Servo | New-south-wales |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Sun, 11 Oct 2026 | Ticcle | Hobart |

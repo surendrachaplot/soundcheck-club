@@ -1,14 +1,13 @@
 # PÜCH
 
-PÜCH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sala ART, Madrid on Sat, 3 Oct 2026.
+PÜCH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-PÜCH is a techno and trance artist based in Spain, with 28 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside H1pnos1s, JRG and QUINCE. Next up: Sala ART, Madrid on Sat 3 Oct.
+PÜCH is a techno and trance artist based in Spain, with 28 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside H1pnos1s, JRG and QUINCE. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Sala ART | Madrid |
 | Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 
 ## Recently played

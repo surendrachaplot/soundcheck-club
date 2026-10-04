@@ -1,14 +1,13 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 3 Oct 2026.
+DJ Stingray 313 is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaiku, Helsinki on Fri, 9 Oct 2026.
 
-DJ Stingray 313 is a techno and electro artist based in United States of America, with 248 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: PIP Den Haag, The Hague on Sat 3 Oct.
+DJ Stingray 313 is a techno and electro artist based in United States of America, with 248 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Kaiku, Helsinki on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | PIP Den Haag | The Hague |
 | Fri, 9 Oct 2026 | Kaiku | Helsinki |
 | Fri, 16 Oct 2026 | Neue Welle | Leipzig |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

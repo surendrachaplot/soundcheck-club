@@ -1,14 +1,13 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Last Arch, London on Sat, 3 Oct 2026.
+ETHICS is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cu, London on Sat, 17 Oct 2026.
 
-ETHICS is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Last Arch, London on Sat 3 Oct.
+ETHICS is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Cu, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Last Arch | London |
 | Sat, 17 Oct 2026 | Cu | London |
 | Fri, 27 Nov 2026 | Avalon Cafe Bermondsey | London |
 

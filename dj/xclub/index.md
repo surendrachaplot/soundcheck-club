@@ -1,14 +1,13 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KALT, Strasbourg on Sat, 3 Oct 2026.
+X CLUB. is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Sucre, Lyon on Sun, 4 Oct 2026.
 
-X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: KALT, Strasbourg on Sat 3 Oct.
+X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Le Sucre, Lyon on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | KALT | Strasbourg |
 | Sun, 4 Oct 2026 | Le Sucre | Lyon |
 | Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Thu, 29 Oct 2026 | TBA - Secret Location | New York City |
@@ -20,6 +19,7 @@ X CLUB. is a techno and house artist based in Australia, with 228 gigs on soundc
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
+| Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 
 ## Recently played
 

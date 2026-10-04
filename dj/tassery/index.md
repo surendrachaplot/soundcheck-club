@@ -1,14 +1,13 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
+TASSERY is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministerium Club, Lisbon on Sun, 4 Oct 2026.
 
-TASSERY is a techno and trance artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 20 more. Often billed alongside KARAH, KLOFAMA and KRUELTY. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
+TASSERY is a techno and trance artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 20 more. Often billed alongside KARAH, KLOFAMA and KRUELTY. Next up: Ministerium Club, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Indiego Glocksee | Hannover |
 | Sun, 4 Oct 2026 | Ministerium Club | Lisbon |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |

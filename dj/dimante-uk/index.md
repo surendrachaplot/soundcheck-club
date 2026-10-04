@@ -1,14 +1,13 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Munster Munch, London on Sat, 3 Oct 2026.
+Dimanté is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
-Dimanté is a techno and progressive house artist based in Ukraine, with 11 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Picep. Next up: Munster Munch, London on Sat 3 Oct.
+Dimanté is a techno and progressive house artist based in Ukraine, with 11 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Picep. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Munster Munch | London |
 | Fri, 16 Oct 2026 | TBA - EAST LONDON- announced to ticket holders on the day | London |
 
 ## Recently played

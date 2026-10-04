@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Percolate x Gradient presents Bobby. (Extended)" on Sat, 3 Oct 2026.
+Club Cheek is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Brown Excellence gets Cheeky" on Fri, 9 Oct 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alicia (UK), Alienata, Amit and Avsluta and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Percolate x Gradient presents Bobby. (Extended) | Bobby., Jhumka, Tadeusz |
 | Fri, 9 Oct 2026 | Brown Excellence gets Cheeky |  |
 | Sat, 10 Oct 2026 | Earthworm with Hagva [live], Elijah Minnnelli [live], Alicia b2b Avsluta, Gillielove, jeet+kilm | Alicia (UK), Avsluta, Elijah Minnelli, Gillielove, Hagva, jeet (UK) |
 | Fri, 16 Oct 2026 | Shoulderwork Vol. 2 - Gallegos | EEBEE, Gallegos |
@@ -18,6 +17,7 @@ Club Cheek is a music venue in London listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 30 Oct 2026 | BED |  |
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |
+| Fri, 6 Nov 2026 | Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav | Emanuel Pavlova, Nina Yamada, OFFIE MAG DJs |
 
 ## Address
 

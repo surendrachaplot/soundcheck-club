@@ -1,15 +1,13 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
+Rødhåd is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Rødhåd is a techno and house artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Ben Klock, JakoJako and Fadi Mohem. Next up: Lehmann Club, Stuttgart on Sat 3 Oct.
+Rødhåd is a techno and house artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Ben Klock, JakoJako and Fadi Mohem. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Lehmann Club | Stuttgart |
-| Sat, 3 Oct 2026 | Oddity Club | Athens |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
@@ -20,6 +18,8 @@ Rødhåd is a techno and house artist based in Germany, with 227 gigs on soundch
 | Sat, 31 Oct 2026 | fabric | London |
 | Sun, 1 Nov 2026 | The Bassement | Madrid |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
+| Fri, 20 Nov 2026 | RADION | Amsterdam |
+| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Ryan Ingleby
 
-Ryan Ingleby is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Ryan Ingleby is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
 
-Ryan Ingleby is an electro and techno artist based in United Kingdom, with 49 gigs on soundcheck across Leeds, London, Manchester and Valencia. Often billed alongside Louie G, Ethan McNamara and Ethan.. Next up: Distrikt, Leeds on Sat 3 Oct.
+Ryan Ingleby is an electro and techno artist based in United Kingdom, with 49 gigs on soundcheck across Leeds, London, Manchester and Valencia. Often billed alongside Louie G, Ethan McNamara and Ethan.. Next up: 1520, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
 
 ## Recently played

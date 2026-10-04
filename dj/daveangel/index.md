@@ -1,14 +1,13 @@
 # Dave Angel
 
-Dave Angel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WaterBear Venue, Brighton on Sat, 3 Oct 2026.
+Dave Angel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
-Dave Angel is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 6 more. Often billed alongside Alexander Koning, Remy Unger and ALNA. Next up: WaterBear Venue, Brighton on Sat 3 Oct.
+Dave Angel is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 6 more. Often billed alongside Alexander Koning, Remy Unger and ALNA. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | WaterBear Venue | Brighton |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

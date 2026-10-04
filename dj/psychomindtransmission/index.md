@@ -1,14 +1,13 @@
 # Psycho Mind Transmission
 
-Psycho Mind Transmission is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Luma, Milan on Sat, 3 Oct 2026.
+Psycho Mind Transmission is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Milan on Sat, 31 Oct 2026.
 
-Psycho Mind Transmission is an electro and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside Enrico Vivaldi, Dove Quiete and Marc Anthony Bowen. Next up: Luma, Milan on Sat 3 Oct.
+Psycho Mind Transmission is an electro and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside Enrico Vivaldi, Dove Quiete and Marc Anthony Bowen. Next up: TBA, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Luma | Milan |
 | Sat, 31 Oct 2026 | TBA | Milan |
 
 ## Recently played

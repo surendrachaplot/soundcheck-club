@@ -1,14 +1,13 @@
 # Camillionaire
 
-Camillionaire is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Sat, 3 Oct 2026.
+Camillionaire is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 15 Oct 2026.
 
-Camillionaire is a house and bass artist based in United States of America, with 42 gigs on soundcheck across California and San Francisco/Oakland. Often billed alongside Phöön, FeLine and Mood Ring. Next up: DNA Lounge, San Francisco/Oakland on Sat 3 Oct.
+Camillionaire is a house and bass artist based in United States of America, with 42 gigs on soundcheck across California and San Francisco/Oakland. Often billed alongside Phöön, FeLine and Mood Ring. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | DNA Lounge | San Francisco/Oakland |
 | Thu, 15 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Underground SF | San Francisco/Oakland |

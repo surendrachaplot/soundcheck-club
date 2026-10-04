@@ -1,6 +1,6 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
+Miss T Delight is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
 
 Miss T Delight is a techno and electro artist based in Turkey, with 24 gigs on soundcheck across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and Meriem S. Next up: Acud Macht NEU, Berlin on Sat 10 Oct.
 
@@ -9,7 +9,6 @@ Miss T Delight is a techno and electro artist based in Turkey, with 24 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Acud Macht NEU | Berlin |
-| Sun, 18 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 

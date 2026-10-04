@@ -1,14 +1,13 @@
 # The Island
 
-The Island is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "forma: Ehua, LWS, Dom Carlo & severine" on Sat, 3 Oct 2026.
+The Island is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RTN with Decoder + Jin Synth (Live)" on Fri, 9 Oct 2026.
 
-The Island is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Ceegal, Decoder, Dom Carlo and Ehua and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
+The Island is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Ceegal, Decoder, Fez the Kid and GUS and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | forma: Ehua, LWS, Dom Carlo & severine | Dom Carlo, Ehua, LWS, severine |
 | Fri, 9 Oct 2026 | RTN with Decoder + Jin Synth (Live) | Ceegal, Decoder, Jin Synth, WVRM POOL |
 | Sat, 10 Oct 2026 | PLU with Hugo Capablanca |  |
 | Fri, 23 Oct 2026 | Baile do Futuro X BAILE TRAMA w/ Kontronatura, DJ Lorrany, Gus b2b SZAL and JCVS | GUS (4), JCVS, Kontronatura, SZAL |

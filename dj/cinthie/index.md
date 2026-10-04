@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Cinthie is a house and techno artist based in Germany, with 294 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Dan Shake and Gabrielle Kwarteng. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Cinthie is a house and techno artist based in Germany, with 294 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
-| Sat, 3 Oct 2026 | Forte Antenne | Rome |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Fri, 16 Oct 2026 | Fuse | Brussels |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -20,6 +19,7 @@ Cinthie is a house and techno artist based in Germany, with 294 gigs on soundche
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
 | Sat, 7 Nov 2026 | Le Trabendo | Paris |
+| Fri, 13 Nov 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 

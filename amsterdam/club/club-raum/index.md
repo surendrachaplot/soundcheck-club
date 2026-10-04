@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Mama Snake, Roza Terenzi, Rey Colino" on Sat, 3 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Leon Vynehall, Yu Su, Marie K" on Fri, 9 Oct 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mama Snake, Roza Terenzi, Rey Colino | Mama Snake, Rey Colino, Roza Terenzi |
 | Fri, 9 Oct 2026 | Leon Vynehall, Yu Su, Marie K | Leon Vynehall, Marie K (1), Yu Su |
 | Sat, 10 Oct 2026 | Surgeon, Talismann, Polly F | Polly F, Surgeon, Talismann |
 | Fri, 16 Oct 2026 | CCL (All Night Long) | CCL |
@@ -18,6 +17,7 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, 
 | Sun, 8 Nov 2026 | ketia curates (bday bash): day party  | Aldonna, Eris Drew, Peach, ketia |
 | Fri, 13 Nov 2026 | November SPIELRAUM Weekender | DJ Masda, Efdemin, GiGi FM, John Talabot, Joya Astou, Loidis, Mac Declos, Marcal, Mareena, Nastia, OG Karin, Pelanoir, Sugar Free, The Advent, Vera Logdanidi |
 | Fri, 20 Nov 2026 | Call Super (All Night Long) | Call Super |
+| Sat, 21 Nov 2026 | RAUM Invites Pax Romana | Budino, D-Leria, Elisa Batti, Irakli, Julie, Massimiliano Pagliara, Nèna, Tammo Hesselink |
 
 ## Address
 

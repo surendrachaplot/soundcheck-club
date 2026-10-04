@@ -1,14 +1,13 @@
 # Wutu
 
-Wutu is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 3 Oct 2026.
+Wutu is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
-Wutu is an experimental and electronica artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: Time is the new space, Rotterdam on Sat 3 Oct.
+Wutu is an experimental and electronica artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Milan and 1 more. Often billed alongside Gropina, Alicia Carrera and Camille Maria. Next up: OXI, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Time is the new space | Rotterdam |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Pinch
 
-Pinch is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Pinch is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Phonox, London on Sat, 17 Oct 2026.
 
-Pinch is a dubstep and dub artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 14 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Pinch is a dubstep and dub artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 14 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Phonox, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Sat, 17 Oct 2026 | Phonox | London |
 
 ## Recently played

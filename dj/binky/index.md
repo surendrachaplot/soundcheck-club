@@ -1,14 +1,13 @@
 # BINKY
 
-BINKY is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at ESC, Montreal on Sat, 3 Oct 2026.
+BINKY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Studios, Vancouver on Thu, 22 Oct 2026.
 
-BINKY is a club and techno artist based in Canada, with 35 gigs on soundcheck across London, Montreal, Toronto and Vancouver. Often billed alongside Brendocha, EtOH and soratora. Next up: ESC, Montreal on Sat 3 Oct.
+BINKY is a club and techno artist based in Canada, with 35 gigs on soundcheck across London, Montreal, Toronto and Vancouver. Often billed alongside Brendocha, EtOH and soratora. Next up: Village Studios, Vancouver on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | ESC | Montreal |
 | Thu, 22 Oct 2026 | Village Studios | Vancouver |
 
 ## Recently played

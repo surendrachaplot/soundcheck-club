@@ -1,14 +1,13 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Prosumer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at public records, New York City on Sat, 17 Oct 2026.
 
-Prosumer is a house and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+Prosumer is a house and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: public records, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 | Sat, 17 Oct 2026 | public records | New York City |
 | Sat, 31 Oct 2026 | Massive | Seattle |
 | Fri, 13 Nov 2026 | Macadam | Nantes |

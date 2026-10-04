@@ -1,0 +1,24 @@
+# Rebecca Salvadori (2)
+
+Rebecca Salvadori (2) is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bozar, Brussels on Thu, 19 Nov 2026.
+
+Rebecca Salvadori is an experimental and electro artist based in United Kingdom, with 5 gigs on soundcheck across Bristol, Brussels, London and Milan and 1 more. Often billed alongside Eomac, KMRU and Kelman Duran. Next up: Bozar, Brussels on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Bozar | Brussels |
+
+## Recently played
+
+- Ormside Projects, London · Thu, 18 Jun 2026
+- Various Venues, Bristol, Bristol · Wed, 22 Apr 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- Triennale di Milano, Milan · Sun, 8 Mar 2026
+
+## Shares bills with
+
+Eomac, KMRU, Kelman Duran
+
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccasalvadori-2/)*

@@ -1,15 +1,13 @@
 # LAMMER
 
-LAMMER is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+LAMMER is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fi, Cologne on Fri, 9 Oct 2026.
 
-LAMMER is a techno and trance artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 29 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+LAMMER is a techno and trance artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 29 more. Often billed alongside Lisa Korver, Bella Claxton and Kyle Starkey. Next up: fi, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
-| Sat, 3 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | fi | Cologne |
 | Fri, 16 Oct 2026 | Complex Maastricht | Netherlands |
 | Sat, 17 Oct 2026 | Club Vaag | Antwerp |
@@ -20,6 +18,7 @@ LAMMER is a techno and trance artist based in Netherlands, with 121 gigs on soun
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Fri, 20 Nov 2026 | Colour Factory | London |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
+| Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
 
 ## Recently played
 

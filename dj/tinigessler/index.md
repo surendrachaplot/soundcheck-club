@@ -1,14 +1,13 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Sat, 3 Oct 2026.
+Tini Gessler is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Tini Gessler is a tech house and house artist based in Germany, with 133 gigs on soundcheck across Bali, Barcelona, Berlin and Boston and 29 more. Often billed alongside Ilario Alicante, Adam Beyer and Andrea Oliva. Next up: [UNVRS], Ibiza on Sat 3 Oct.
+Tini Gessler is a tech house and house artist based in Germany, with 133 gigs on soundcheck across Bali, Barcelona, Berlin and Boston and 29 more. Often billed alongside Ilario Alicante, Adam Beyer and Andrea Oliva. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |

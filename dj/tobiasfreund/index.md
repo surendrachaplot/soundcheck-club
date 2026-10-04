@@ -1,14 +1,13 @@
 # Tobias.
 
-Tobias. is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
+Tobias. is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
-Tobias. is a techno and experimental artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Konstantin, Edward and Yamour. Next up: Circolo Amelia, Milan on Sat 3 Oct.
+Tobias. is a techno and experimental artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Konstantin, Edward and Yamour. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Circolo Amelia | Milan |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 

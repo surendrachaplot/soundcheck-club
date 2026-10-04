@@ -1,14 +1,13 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Spartacus Potsdam, Berlin on Sat, 3 Oct 2026.
+Carluschka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
-Carluschka is a house and techno artist based in Germany, with 126 gigs on soundcheck across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Spartacus Potsdam, Berlin on Sat 3 Oct.
+Carluschka is a house and techno artist based in Germany, with 126 gigs on soundcheck across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Spartacus Potsdam | Berlin |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 

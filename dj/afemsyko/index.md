@@ -1,16 +1,17 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - CLUB MIRADOR INCEK, Ankara on Sat, 3 Oct 2026.
+Afem Syko is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at E1, London on Fri, 9 Oct 2026.
 
-Afem Syko is a techno and trance artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 49 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: TBA - CLUB MIRADOR INCEK, Ankara on Sat 3 Oct.
+Afem Syko is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 50 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: E1, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 9 Oct 2026 | E1 | London |
 | Sun, 11 Oct 2026 | TBA - El Jardín de las Artes, Zaragoza | North |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Fri, 23 Oct 2026 | Südpol | Hamburg |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |

@@ -1,14 +1,13 @@
 # DJ Frank
 
-DJ Frank is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at objekt klein a, Dresden on Sat, 3 Oct 2026.
+DJ Frank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gewölbe, Cologne on Fri, 9 Oct 2026.
 
-DJ Frank is a house and techno artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 7 more. Often billed alongside Narciss, paaradoxx and Maruhni. Next up: objekt klein a, Dresden on Sat 3 Oct.
+DJ Frank is a house and techno artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 7 more. Often billed alongside Narciss, paaradoxx and Maruhni. Next up: Gewölbe, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | objekt klein a | Dresden |
 | Fri, 9 Oct 2026 | Gewölbe | Cologne |
 
 ## Recently played

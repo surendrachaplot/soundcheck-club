@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "BRAINDANCE" on Sat, 3 Oct 2026.
+OHM is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Schallträume - from switching spaces to sonic dreams" on Sun, 4 Oct 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including aeriform, AliA, Anti Ribeiro and Asphalt DJ and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including aeriform, AliA, Anti Ribeiro and Asphalt DJ and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | BRAINDANCE | Makam, TAFKAMP |
 | Sun, 4 Oct 2026 | Schallträume - from switching spaces to sonic dreams | Audrey Danza, Ceasul, ELSA (DE), Laima Adelaide |
 | Thu, 8 Oct 2026 | Ouch | Anti Ribeiro, Dj Goodboy, FURIA MISTICA, Rafush |
 | Fri, 9 Oct 2026 | AWK SCL | Katiusha, Pariah, cheng nwsh |
@@ -18,6 +17,7 @@ OHM is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line
 | Sun, 18 Oct 2026 | subglow | CCL |
 | Fri, 23 Oct 2026 | Tempa | Beatrice M., Horsepower Productions, Jan Loup, K-LONE, Youngsta |
 | Sat, 24 Oct 2026 | Life Classics with Sanctuary | Sanctuary |
+| Thu, 29 Oct 2026 | Official Kelela Afterparty - presented by Einhundert and Plural Artist Management |  |
 
 ## Address
 

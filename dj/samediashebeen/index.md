@@ -1,14 +1,13 @@
 # Samedia Shebeen
 
-Samedia Shebeen is a Latin Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Mash House, Edinburgh on Sat, 3 Oct 2026.
+Samedia Shebeen is a Latin Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 27 Nov 2026.
 
-Samedia Shebeen is a latin bass and afro house artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Chris Astrojazz, Santa Leticia and DJ Rawzi. Next up: The Mash House, Edinburgh on Sat 3 Oct.
+Samedia Shebeen is a latin bass and afro house artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Chris Astrojazz, Santa Leticia and DJ Rawzi. Next up: People's Leisure Club, Edinburgh on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Mash House | Edinburgh |
 | Fri, 27 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played

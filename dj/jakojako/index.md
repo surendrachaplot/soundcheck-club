@@ -1,14 +1,13 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Under Club, Buenos Aires on Sat, 3 Oct 2026.
+JakoJako is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
 
-JakoJako is a techno and house artist based in Germany, with 172 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Under Club, Buenos Aires on Sat 3 Oct.
+JakoJako is a techno and house artist based in Germany, with 172 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Open Ground, Wuppertal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Under Club | Buenos Aires |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |

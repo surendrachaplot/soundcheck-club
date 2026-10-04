@@ -1,14 +1,13 @@
 # Substation
 
-Substation is a music venue in Seattle with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jam City" on Sat, 3 Oct 2026.
+Substation is a music venue in Seattle with 24 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Routine: Dublon" on Thu, 8 Oct 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 25 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 24 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Jam City |  |
 | Thu, 8 Oct 2026 | Routine: Dublon | Dublon, alexia.f |
 | Fri, 9 Oct 2026 | Routine: Sam Alfred | Sam Alfred |
 | Wed, 14 Oct 2026 | Routine x Itertainment: Safety Trance | Dj Having Sex, Safety Trance |
@@ -18,6 +17,7 @@ Substation is a music venue in Seattle listed on soundcheck. 25 upcoming gigs, w
 | Wed, 21 Oct 2026 | EQ (Seattle Hot Girl Rave) | EQ (Estratosfera + Qiri) |
 | Thu, 22 Oct 2026 | LAERZ |  |
 | Fri, 23 Oct 2026 | Sickick |  |
+| Sat, 24 Oct 2026 | Schrotthagen |  |
 
 ## Address
 

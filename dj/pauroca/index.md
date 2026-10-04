@@ -1,14 +1,13 @@
 # Pau Roca
 
-Pau Roca is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Pau Roca is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Paloma, Barcelona on Fri, 30 Oct 2026.
 
-Pau Roca is a house and broken beat artist based in Spain, with 37 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid. Often billed alongside Breixo Martinez, Dadame and Marc Gimeno. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
+Pau Roca is a house and broken beat artist based in Spain, with 37 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid. Often billed alongside Breixo Martinez, Dadame and Marc Gimeno. Next up: La Paloma, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 30 Oct 2026 | La Paloma | Barcelona |
 
 ## Recently played

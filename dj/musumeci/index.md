@@ -1,14 +1,13 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at UKOKO CLUB, Costa-rica on Sat, 3 Oct 2026.
+Musumeci is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 10 Oct 2026.
 
-Musumeci is a house and deep house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 30 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: UKOKO CLUB, Costa Rica on Sat 3 Oct.
+Musumeci is a house and deep house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 30 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Klein Phönix, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | UKOKO CLUB | Costa-rica |
 | Sat, 10 Oct 2026 | Klein Phönix | Istanbul |
 
 ## Recently played

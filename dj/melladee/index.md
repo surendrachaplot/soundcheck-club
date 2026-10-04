@@ -1,14 +1,13 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Under The Arches, Leeds on Sat, 3 Oct 2026.
+Mella Dee is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Sat, 10 Oct 2026.
 
-Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Under The Arches, Leeds on Sat 3 Oct.
+Mella Dee is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: [UNVRS], Ibiza on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Under The Arches | Leeds |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 17 Oct 2026 | Circuit | South-east |
 | Wed, 21 Oct 2026 | BRET | Amsterdam |

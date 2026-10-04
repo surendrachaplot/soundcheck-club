@@ -1,14 +1,13 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Super Flu is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
-Super Flu is a techno and house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Hive Club, Zurich on Sat 3 Oct.
+Super Flu is a techno and house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Hive Club | Zurich |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |

@@ -1,14 +1,13 @@
 # Eversines
 
-Eversines is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 3 Oct 2026.
+Eversines is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
-Eversines is a techno and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Marie K, Pieter Jansen and RDS. Next up: Starlane Pizza Bar, London on Sat 3 Oct.
+Eversines is a techno and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Marie K, Pieter Jansen and RDS. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Starlane Pizza Bar | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 

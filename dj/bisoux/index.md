@@ -1,14 +1,13 @@
 # BISOUX
 
-BISOUX is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kavka Oudaan, Antwerp on Sat, 3 Oct 2026.
+BISOUX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Vaag, Antwerp on Sat, 17 Oct 2026.
 
-BISOUX is a trance and techno artist based in Belgium, with 28 gigs on soundcheck across Antwerp, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Kavka Oudaan, Antwerp on Sat 3 Oct.
+BISOUX is a trance and techno artist based in Belgium, with 28 gigs on soundcheck across Antwerp, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Club Vaag, Antwerp on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Kavka Oudaan | Antwerp |
 | Sat, 17 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 

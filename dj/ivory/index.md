@@ -1,14 +1,13 @@
 # Ivory
 
-Ivory is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Volt Club Milano, Milan on Sat, 3 Oct 2026.
+Ivory is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mason Bar, Cyprus on Fri, 9 Oct 2026.
 
-Ivory is a techno and house artist based in Italy, with 133 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Nandu, Aera and Auggië. Next up: Volt Club Milano, Milan on Sat 3 Oct.
+Ivory is a techno and house artist based in Italy, with 133 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Nandu, Aera and Auggië. Next up: Mason Bar, Cyprus on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 9 Oct 2026 | Mason Bar | Cyprus |
 | Sat, 10 Oct 2026 | Het Sieraad | Amsterdam |
 | Thu, 22 Oct 2026 | Crane Hotel Faralda | Amsterdam |

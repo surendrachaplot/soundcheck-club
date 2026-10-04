@@ -1,15 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAW CUTS x House of Yes: DJ Minx, Bridge" on Sat, 3 Oct 2026.
+House of Yes is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "LIBRA RISING: Aluna, Darling Cool, Niara Sterling" on Sat, 10 Oct 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Aluna, Amber Valentine, Bella Mutino and Bridge (NY) and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Aluna, Amber Valentine, Darling Cool and Eli Escobar and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | RAW CUTS x House of Yes: DJ Minx, Bridge | Bridge (NY), DJ Minx |
-| Sat, 3 Oct 2026 | RAW CUTS X House of Yes: DJ Minx | Bella Mutino, Bridge (NY), DJ Minx, EREZ.JPG, JMT (2), Mac Briggs, Willy Gorgon |
 | Sat, 10 Oct 2026 | LIBRA RISING: Aluna, Darling Cool, Niara Sterling | Aluna, Darling Cool, Niara Sterling |
 | Fri, 16 Oct 2026 | Fleetmac Wood | Fleetmac Wood |
 | Sat, 17 Oct 2026 | House of Yes x I Feel present Time & Space: Kino Todo | Kino Todo |

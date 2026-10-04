@@ -1,14 +1,13 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at essaim, Paris on Sat, 3 Oct 2026.
+Sedef Adasï is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 10 Oct 2026.
 
-Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: essaim, Paris on Sat 3 Oct.
+Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Drugstore Beograd, Belgrade on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | essaim | Paris |
 | Sat, 10 Oct 2026 | Drugstore Beograd | Belgrade |
 | Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -20,6 +19,7 @@ Sedef Adasï is a techno and house artist based in Turkey, with 287 gigs on soun
 | Sat, 14 Nov 2026 | Karmen Camina | Strasbourg |
 | Fri, 20 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | FOLD | London |
+| Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

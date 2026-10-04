@@ -1,14 +1,13 @@
 # Lily C-D
 
-Lily C-D is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Lily C-D is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Lily C-D is a house and tech house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 1 more. Often billed alongside Alexandria, Jamie Fielding and Joe Roche. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Lily C-D is a house and tech house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and London and 1 more. Often billed alongside Alexandria, Jamie Fielding and Joe Roche. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 20 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |

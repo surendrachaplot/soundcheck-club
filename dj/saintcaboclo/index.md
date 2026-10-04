@@ -1,14 +1,13 @@
 # Saint Caboclo
 
-Saint Caboclo is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Moon Club, Lisbon on Sat, 3 Oct 2026.
+Saint Caboclo is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 15 Oct 2026.
 
-Saint Caboclo is a techno and baile funk artist based in Portugal, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Sinnotsin, BANU and Diego Armando. Next up: Moon Club, Lisbon on Sat 3 Oct.
+Saint Caboclo is a techno and baile funk artist based in Portugal, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Sinnotsin, BANU and Diego Armando. Next up: Ministerium Club, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Moon Club | Lisbon |
 | Thu, 15 Oct 2026 | Ministerium Club | Lisbon |
 | Fri, 16 Oct 2026 | RADION | Amsterdam |
 

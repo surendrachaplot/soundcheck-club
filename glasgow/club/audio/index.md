@@ -1,14 +1,13 @@
 # Audio
 
-Audio is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "VELA // 03" on Sat, 3 Oct 2026.
+Audio is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "D3CøD3D" on Sat, 17 Oct 2026.
 
-Audio is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including Benny Page and DJ Hybrid. See dates, start times and who's playing. 14 Midland Street, G1 4PP.
+Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Benny Page and DJ Hybrid. See dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | VELA // 03 |  |
 | Sat, 17 Oct 2026 | D3CøD3D |  |
 | Fri, 23 Oct 2026 | Jungle Testaments: Benny Page & DJ Hybrid | Benny Page, DJ Hybrid |
 | Sat, 24 Oct 2026 | Phetkore Vol.2: Nightmare Before Halloween |  |

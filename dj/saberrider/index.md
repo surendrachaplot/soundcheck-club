@@ -1,14 +1,13 @@
 # Saber Rider
 
-Saber Rider is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Romantso, Athens on Sat, 3 Oct 2026.
+Saber Rider is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
 
-Saber Rider is an electronica and bass artist based in Greece, with 32 gigs on soundcheck across Athens. Often billed alongside Poor J’Darr, Miss Trouli and A. Square. Next up: Romantso, Athens on Sat 3 Oct.
+Saber Rider is an electronica and bass artist based in Greece, with 32 gigs on soundcheck across Athens. Often billed alongside Poor J’Darr, Miss Trouli and A. Square. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Romantso | Athens |
 | Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played

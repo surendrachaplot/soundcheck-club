@@ -1,14 +1,13 @@
 # Pysh
 
-Pysh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Międzymiastowa, Krakow on Sat, 3 Oct 2026.
+Pysh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Smolna, Warsaw on Sat, 10 Oct 2026.
 
-Pysh is a techno and house artist based in Poland, with 36 gigs on soundcheck across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and Sincz. Next up: Międzymiastowa, Krakow on Sat 3 Oct.
+Pysh is a techno and house artist based in Poland, with 36 gigs on soundcheck across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and Sincz. Next up: Smolna, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Międzymiastowa | Krakow |
 | Sat, 10 Oct 2026 | Smolna | Warsaw |
 
 ## Recently played

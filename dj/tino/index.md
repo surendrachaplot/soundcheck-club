@@ -1,14 +1,13 @@
 # Tino
 
-Tino is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Colette, Birmingham on Sat, 3 Oct 2026.
+Tino is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
 
-Tino is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 13 more. Often billed alongside Garrett David, LILI and ADR (UK). Next up: Club Colette, Birmingham on Sat 3 Oct.
+Tino is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 13 more. Often billed alongside Garrett David, LILI and ADR (UK). Next up: The Vault at Gianpula Village, Malta on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Colette | Birmingham |
 | Sat, 10 Oct 2026 | The Vault at Gianpula Village | Malta |
 | Sat, 10 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |

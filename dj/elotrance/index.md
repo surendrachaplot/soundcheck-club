@@ -1,14 +1,13 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Sat, 3 Oct 2026.
+Elotrance is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Elotrance is a techno and trance artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: OST, Berlin on Sat 3 Oct.
+Elotrance is a techno and trance artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OST | Berlin |
 | Wed, 7 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Fri, 9 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |

@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE]" on Sat, 3 Oct 2026.
+Grow is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DeepDig; Stu Clark (Wolf Music) // Lenny" on Sat, 10 Oct 2026.
 
-Grow is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] | CSGRV, Tapefeed |
 | Sat, 10 Oct 2026 | DeepDig; Stu Clark (Wolf Music) // Lenny | Lenny (UK), Stu Clark, Wolf Music |
 | Fri, 16 Oct 2026 | Shedding Histories: Jawa Jones, Bror Havnas, Mimika | Bena, Chameleonas |
 | Sat, 17 Oct 2026 | Brazil + Africa Special: Joe Davis & Volta45 |  |

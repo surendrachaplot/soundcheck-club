@@ -1,14 +1,13 @@
 # Samira (NL)
 
-Samira (NL) is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Sat, 3 Oct 2026.
+Samira (NL) is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sameheads, Berlin on Fri, 30 Oct 2026.
 
-Samira (NL) is a bass and electro artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Rotterdam and 3 more. Often billed alongside Mowgli (NL), Ofra and Gamma Intel. Next up: LAUT, Barcelona on Sat 3 Oct.
+Samira (NL) is a bass and electro artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Rotterdam and 3 more. Often billed alongside Mowgli (NL), Ofra and Gamma Intel. Next up: Sameheads, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | LAUT | Barcelona |
 | Fri, 30 Oct 2026 | Sameheads | Berlin |
 
 ## Recently played

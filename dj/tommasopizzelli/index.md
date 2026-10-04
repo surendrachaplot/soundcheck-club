@@ -1,14 +1,13 @@
 # Tommaso Pizzelli
 
-Tommaso Pizzelli is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat, 3 Oct 2026.
+Tommaso Pizzelli is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Resume Valencia, Valencia on Fri, 16 Oct 2026.
 
-Tommaso Pizzelli is a tech house and house artist based in Italy, with 61 gigs on soundcheck across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Varis and Alexxx. Next up: TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat 3 Oct.
+Tommaso Pizzelli is a tech house and house artist based in Italy, with 61 gigs on soundcheck across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Varis and Alexxx. Next up: Resume Valencia, Valencia on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Secret Audiophile - C/ Badajoz 115 | Barcelona |
 | Fri, 16 Oct 2026 | Resume Valencia | Valencia |
 
 ## Recently played

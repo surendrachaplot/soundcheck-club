@@ -1,14 +1,13 @@
 # Moxie
 
-Moxie is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Azimut Club, Turin on Sat, 3 Oct 2026.
+Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Aviva Studios, Manchester on Sat, 10 Oct 2026.
 
-Moxie is a house and techno artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Azimut Club, Turin on Sat 3 Oct.
+Moxie is a house and techno artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Aviva Studios, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Azimut Club | Turin |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |

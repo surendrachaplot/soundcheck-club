@@ -1,14 +1,13 @@
 # Zaphy
 
-Zaphy is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at John Doe, Amsterdam on Sat, 3 Oct 2026.
+Zaphy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Prisma, Berlin on Tue, 6 Oct 2026.
 
-Zaphy is a techno and acid artist based in Chile, with 28 gigs on soundcheck across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Arok Shiva and DMS1N3RGY. Next up: John Doe, Amsterdam on Sat 3 Oct.
+Zaphy is a techno and acid artist based in Chile, with 28 gigs on soundcheck across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Arok Shiva and DMS1N3RGY. Next up: Prisma, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | John Doe | Amsterdam |
 | Tue, 6 Oct 2026 | Prisma | Berlin |
 | Sun, 18 Oct 2026 | EL SÓTANO | Madrid |
 

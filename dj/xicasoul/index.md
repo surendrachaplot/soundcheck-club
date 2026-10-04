@@ -1,14 +1,13 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+Xica Soul is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Harbor House DTLA, Los Angeles on Fri, 9 Oct 2026.
 
-Xica Soul is a house and disco artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
+Xica Soul is a house and disco artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: Harbor House DTLA, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Small Green Door | Los-angeles |
 | Fri, 9 Oct 2026 | Harbor House DTLA | Los Angeles |
 | Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 

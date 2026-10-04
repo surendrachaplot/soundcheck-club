@@ -1,8 +1,8 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
+Victor Ruiz is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kassa Boat, Budapest on Sat, 10 Oct 2026.
 
-Victor Ruiz is a techno and trance artist based in Brazil, with 104 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 41 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Kassa Boat, Budapest on Sat 10 Oct.
+Victor Ruiz is a techno and trance artist based in Brazil, with 105 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 42 more. Often billed alongside Alex Stein, Bart Skils and Sama' Abdulhadi. Next up: Kassa Boat, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Victor Ruiz is a techno and trance artist based in Brazil, with 104 gigs on soun
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Victor Ruiz is a techno and trance artist based in Brazil, with 104 gigs on soun
 
 ## Shares bills with
 
-Bart Skils, Alex Stein, Sama' Abdulhadi
+Alex Stein, Bart Skils, Sama' Abdulhadi
 
 *Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

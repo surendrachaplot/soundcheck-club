@@ -1,14 +1,13 @@
 # Sutsche
 
-Sutsche is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+Sutsche is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
 
-Sutsche is a techno and minimal artist, with 23 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Zurich. Often billed alongside Mimi Love, ACID FLORA and Antoine Baiser. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
+Sutsche is a techno and minimal artist, with 23 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Zurich. Often billed alongside Mimi Love, ACID FLORA and Antoine Baiser. Next up: Turtur, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Jonny Knüppel | Berlin |
 | Fri, 30 Oct 2026 | Turtur | Hamburg |
 
 ## Recently played

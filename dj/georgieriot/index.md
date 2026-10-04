@@ -1,14 +1,13 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mia Mao, Paris on Sat, 3 Oct 2026.
+Georgie Riot is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
 
-Georgie Riot is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bristol and 12 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Mia Mao, Paris on Sat 3 Oct.
+Georgie Riot is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bristol and 12 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Ice Cream Factory, Perth on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mia Mao | Paris |
 | Fri, 30 Oct 2026 | Ice Cream Factory | Perth |
 
 ## Recently played

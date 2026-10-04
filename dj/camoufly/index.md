@@ -1,14 +1,13 @@
 # camoufly
 
-camoufly is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Studios, Vancouver on Sat, 3 Oct 2026.
+camoufly is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Racket Space, Dublin on Sat, 10 Oct 2026.
 
-camoufly is a house and garage artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Village Studios, Vancouver on Sat 3 Oct.
+camoufly is a house and garage artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: The Racket Space, Dublin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Village Studios | Vancouver |
 | Sat, 10 Oct 2026 | The Racket Space | Dublin |
 | Wed, 21 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |

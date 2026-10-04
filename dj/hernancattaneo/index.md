@@ -1,14 +1,13 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Salon Amador, Medellin on Sat, 3 Oct 2026.
+Hernan Cattaneo is a Progressive House and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
 
-Hernan Cattaneo is a progressive house and house artist based in Argentina, with 145 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Salon Amador, Medellin on Sat 3 Oct.
+Hernan Cattaneo is a progressive house and house artist based in Argentina, with 145 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Salon Amador | Medellin |
 | Thu, 15 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | KOKO | London |
 | Sun, 18 Oct 2026 | Bridge Gardens | Glasgow |

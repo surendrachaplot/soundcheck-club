@@ -1,14 +1,13 @@
 # Retromigration
 
-Retromigration is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
+Retromigration is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Retromigration is a house and deep house artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Monty DJ, Bradley Zero and Cinnaman. Next up: OXI, Berlin on Sat 3 Oct.
+Retromigration is a house and deep house artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Monty DJ, Bradley Zero and Cinnaman. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OXI | Berlin |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |

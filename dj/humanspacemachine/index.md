@@ -1,14 +1,13 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 2 Oct 2026.
+Human Space Machine is a Techno and Dub Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
 
-Human Space Machine is a techno and dub techno artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Eversines, Kaap and Konduku. Next up: Lux Fragil, Lisbon on Fri 2 Oct.
+Human Space Machine is a techno and dub techno artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Eversines, Kaap and Konduku. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Lux Fragil | Lisbon |
 | Sun, 4 Oct 2026 | TBA - Spijkerkade 2 | Amsterdam |
 | Fri, 9 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |

@@ -1,14 +1,13 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura" on Sat, 3 Oct 2026.
+Circolo degli Illuminati is a music venue in Rome with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Resistance '16th Season' Opening Party" on Fri, 9 Oct 2026.
 
-Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 7 upcoming gigs, with line-ups including Allegra De Angelis, Asymptote, brokenhead and Fireground and 2 more. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
+Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 6 upcoming gigs, with line-ups including Allegra De Angelis, Asymptote, brokenhead and Fireground and 2 more. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura | Franco Cinelli, Germano Ventura |
 | Fri, 9 Oct 2026 | Resistance '16th Season' Opening Party | Asymptote, Fireground, MURINO (2) |
 | Sat, 10 Oct 2026 | MINÛ: Krol & Germano Ventura | Germano Ventura, Krol |
 | Fri, 16 Oct 2026 | LIFE ON MARS: Locklead, brokenhead & Granulized | Granulized Rhythm, Locklead, brokenhead |

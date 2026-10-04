@@ -1,14 +1,13 @@
 # Niotech
 
-Niotech is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maze Venue, Cyprus on Sat, 3 Oct 2026.
+Niotech is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
-Niotech is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: Maze Venue, Cyprus on Sat 3 Oct.
+Niotech is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Maze Venue | Cyprus |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |

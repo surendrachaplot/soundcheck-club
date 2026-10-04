@@ -1,14 +1,13 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 3 Oct 2026.
+Tommy Four Seven is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Waalhalla, Nijmegen on Sat, 10 Oct 2026.
 
-Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: Tresor.West, Dortmund Essen on Sat 3 Oct.
+Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: Waalhalla, Nijmegen on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tresor.West | Dortmund-essen |
 | Sat, 10 Oct 2026 | Waalhalla | Nijmegen |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | BRET | Amsterdam |

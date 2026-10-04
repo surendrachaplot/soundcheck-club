@@ -1,14 +1,13 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Peti Kupe, Zagreb on Sat, 3 Oct 2026.
+Bad Boombox is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mondo Open Air, Madrid on Sun, 11 Oct 2026.
 
-Bad Boombox is a techno and trance artist based in Bulgaria, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Peti Kupe, Zagreb on Sat 3 Oct.
+Bad Boombox is a techno and trance artist based in Bulgaria, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Mondo Open Air, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Peti Kupe | Zagreb |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 11 Oct 2026 | Mondo | Madrid |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |

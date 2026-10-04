@@ -1,14 +1,13 @@
 # KiNK
 
-KiNK is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
+KiNK is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Wigwam, Dublin on Fri, 9 Oct 2026.
 
-KiNK is a techno and house artist based in Bulgaria, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Dockland, Munster on Sat 3 Oct.
+KiNK is a techno and house artist based in Bulgaria, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Wigwam, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Dockland | Munster |
 | Fri, 9 Oct 2026 | Wigwam | Dublin |
 | Sat, 10 Oct 2026 | fabric | London |
 | Fri, 16 Oct 2026 | Carousel Bar & Ballroom | Sydney |

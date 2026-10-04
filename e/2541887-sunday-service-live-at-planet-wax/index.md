@@ -1,6 +1,6 @@
 # SUNDAY SERVICE LIVE at Planet Wax
 
-SUNDAY SERVICE LIVE at Planet Wax on Sun 4 Oct, London. 3 artists: Dexta, Slundarq and Uncle G. Breakbeat and Experimental. See the line-up on soundcheck.
+SUNDAY SERVICE LIVE at Planet Wax on Sun 4 Oct, London. 3 artists: Amy  B, Slundarq and Uncle G. Breakbeat and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ SUNDAY SERVICE LIVE at Planet Wax on Sun 4 Oct, London. 3 artists: Dexta, Slunda
 
 ## Line-up
 
-- Dexta
+- Amy  B
 - Slundarq
 - Uncle G
 

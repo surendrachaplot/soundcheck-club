@@ -1,14 +1,13 @@
 # NEGITIV
 
-NEGITIV is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 3 Oct 2026.
+NEGITIV is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sektor 6D, Warsaw on Fri, 9 Oct 2026.
 
-NEGITIV is a techno and hardcore artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Uebel & Gefährlich, Hamburg on Sat 3 Oct.
+NEGITIV is a techno and hardcore artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Sektor 6D, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Fri, 9 Oct 2026 | Sektor 6D | Warsaw |
 | Sat, 10 Oct 2026 | Audiodrome | Turin |

@@ -1,14 +1,13 @@
 # H93 (KR)
 
-H93 (KR) is a Club and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Waikiki Utopia, South-korea on Sat, 3 Oct 2026.
+H93 (KR) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Waikiki Utopia, South-korea on Sun, 4 Oct 2026.
 
-H93 (KR) is a club and electro artist based in South Korea, with 53 gigs on soundcheck across Seoul and South Korea. Often billed alongside TERRA (KR), AVEN (KR) and STAN MYLOR. Next up: Waikiki Utopia, South Korea on Sat 3 Oct.
+H93 (KR) is a club and electro artist based in South Korea, with 53 gigs on soundcheck across Seoul and South Korea. Often billed alongside TERRA (KR), AVEN (KR) and STAN MYLOR. Next up: Waikiki Utopia, South Korea on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Waikiki Utopia | South-korea |
 | Sun, 4 Oct 2026 | Waikiki Utopia | South-korea |
 
 ## Recently played

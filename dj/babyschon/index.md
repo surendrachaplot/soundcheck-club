@@ -1,14 +1,13 @@
 # babyschön
 
-babyschön is a House and Acid artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tell Me, Sofia on Sat, 3 Oct 2026.
+babyschön is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Doka, Amsterdam on Sat, 24 Oct 2026.
 
-babyschön is a house and acid artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: Tell Me, Sofia on Sat 3 Oct.
+babyschön is a house and acid artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: Doka, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Tell Me | Sofia |
 | Sat, 24 Oct 2026 | Doka | Amsterdam |
 | Sat, 31 Oct 2026 | The Carlton Club | Manchester |
 | Sat, 7 Nov 2026 | Night Tales Loft | London |

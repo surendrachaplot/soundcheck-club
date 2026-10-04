@@ -1,14 +1,13 @@
 # RY X
 
-RY X is a Electronica and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+RY X is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at L'Olympia, Paris on Sat, 10 Apr 2027.
 
-RY X is an electronica and ambient artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dixon, Jimi Jules and Julya Karma. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+RY X is an electronica and ambient artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dixon, Jimi Jules and Julya Karma. Next up: L'Olympia, Paris on Sat 10 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sat, 10 Apr 2027 | L'Olympia | Paris |
 
 ## Recently played

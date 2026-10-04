@@ -1,14 +1,13 @@
 # Juan Del Chambo
 
-Juan Del Chambo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Climax-Institutes, Stuttgart on Sat, 3 Oct 2026.
+Juan Del Chambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Artheater, Cologne on Sat, 10 Oct 2026.
 
-Juan Del Chambo is a techno and house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside KEN (DE), DJ PayPaul and Chaos Techno.Berlin. Next up: Climax-Institutes, Stuttgart on Sat 3 Oct.
+Juan Del Chambo is a techno and house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside KEN (DE), DJ PayPaul and Chaos Techno.Berlin. Next up: Artheater, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Climax-Institutes | Stuttgart |
 | Sat, 10 Oct 2026 | Artheater | Cologne |
 | Fri, 30 Oct 2026 | KitKatClub | Berlin |
 

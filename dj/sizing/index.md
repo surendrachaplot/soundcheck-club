@@ -1,14 +1,13 @@
 # sizing
 
-sizing is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Audiodrome, Turin on Sat, 3 Oct 2026.
+sizing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Audiodrome, Turin on Sat, 24 Oct 2026.
 
-sizing is a techno and house artist based in Italy, with 85 gigs on soundcheck across Ibiza, Malta, Milan and Turin. Often billed alongside Gandalf, Marbox and Mirko Motta. Next up: Audiodrome, Turin on Sat 3 Oct.
+sizing is a techno and house artist based in Italy, with 85 gigs on soundcheck across Ibiza, Malta, Milan and Turin. Often billed alongside Gandalf, Marbox and Mirko Motta. Next up: Audiodrome, Turin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Audiodrome | Turin |
 | Sat, 24 Oct 2026 | Audiodrome | Turin |
 
 ## Recently played

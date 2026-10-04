@@ -1,14 +1,13 @@
 # SL8R
 
-SL8R is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
+SL8R is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Jam Jar, Bristol on Sat, 10 Oct 2026.
 
-SL8R is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: Hare & Hounds, Birmingham on Sat 3 Oct.
+SL8R is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: The Jam Jar, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Hare & Hounds | Birmingham |
 | Sat, 10 Oct 2026 | The Jam Jar | Bristol |
 | Sat, 14 Nov 2026 | fabric | London |
 

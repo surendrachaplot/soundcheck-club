@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA" on Sat, 3 Oct 2026.
+Rex Club is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Tape: Maudux, PEAKSOU, Vespera, Naïs" on Wed, 7 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including 2ManyDJs, Anja Sugar, Antal and Anthea and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA | Andy4000, Busy P, DJ SWISHA, Didi Han |
 | Wed, 7 Oct 2026 | Tape: Maudux, PEAKSOU, Vespera, Naïs | Maudux, Naïs, PEAKSOU |
 | Fri, 9 Oct 2026 | The Last Dance Residency: Mamie's all night long | Mamie's |
 | Sat, 10 Oct 2026 | Rex Club presents: Bours? all night long | Bours? |
@@ -18,6 +17,7 @@ Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 | Sat, 17 Oct 2026 | Romain Garcia & Friends: CRi, Nicky Elisabeth, Pete K, Romain Garcia | CRi, Nicky Elisabeth, Pete K, Romain Garcia |
 | Wed, 21 Oct 2026 | Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar | Quazar, Vinka Wydro |
 | Fri, 23 Oct 2026 | Rex Club presents: Sama' Abdulhadi All night long | Sama' Abdulhadi |
+| Sat, 24 Oct 2026 | House Of Groove invite: Dan Ghenacia, Melody | Dan Ghenacia, Melody RA+RE |
 
 ## Address
 

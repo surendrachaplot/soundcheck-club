@@ -1,14 +1,13 @@
 # Maybe Laura
 
-Maybe Laura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cellar, London on Sat, 3 Oct 2026.
+Maybe Laura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Timber Loft, London on Sun, 4 Oct 2026.
 
-Maybe Laura is a techno and house artist based in Lithuania, with 44 gigs on soundcheck across Leeds, London and New York City. Often billed alongside Remi Mazet, Alien Communications and Secretsundaze. Next up: Cellar, London on Sat 3 Oct.
+Maybe Laura is a techno and house artist based in Lithuania, with 44 gigs on soundcheck across Leeds, London and New York City. Often billed alongside Remi Mazet, Alien Communications and Secretsundaze. Next up: The Timber Loft, London on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Cellar | London |
 | Sun, 4 Oct 2026 | The Timber Loft | London |
 | Sat, 31 Oct 2026 | East London Brewing Company | London |
 

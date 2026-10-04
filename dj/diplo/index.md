@@ -1,14 +1,13 @@
 # Diplo
 
-Diplo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
+Diplo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Savaya Bali, Bali on Thu, 8 Oct 2026.
 
-Diplo is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Charlotte de Witte, Claptone and DJ Holographic. Next up: TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat 3 Oct.
+Diplo is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Charlotte de Witte, Claptone and DJ Holographic. Next up: Savaya Bali, Bali on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - 600 Pennsylvania Ave, NW | Washington DC |
 | Thu, 8 Oct 2026 | Savaya Bali | Bali |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 

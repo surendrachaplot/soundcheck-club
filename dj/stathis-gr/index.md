@@ -1,14 +1,13 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plex, Athens on Sat, 3 Oct 2026.
+Stathis (GR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
 
-Stathis (GR) is a house and techno artist, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Chris Cruse. Next up: Plex, Athens on Sat 3 Oct.
+Stathis (GR) is a house and techno artist, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Chris Cruse. Next up: KREUZWERK, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Plex | Athens |
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 
 ## Recently played

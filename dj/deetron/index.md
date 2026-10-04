@@ -1,14 +1,13 @@
 # Deetron
 
-Deetron is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
+Deetron is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 17 Oct 2026.
 
-Deetron is a techno and house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, Armand Van Helden and SG Lewis. Next up: Frankhan Selectist, Istanbul on Sat 3 Oct.
+Deetron is a techno and house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, Armand Van Helden and SG Lewis. Next up: EL SÓTANO, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 17 Oct 2026 | EL SÓTANO | Madrid |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |

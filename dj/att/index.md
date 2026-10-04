@@ -1,14 +1,13 @@
 # ATT
 
-ATT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at [UNVRS], Ibiza on Sat, 3 Oct 2026.
+ATT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Aisotope Lounge, Tokyo on Fri, 16 Oct 2026.
 
-ATT is a techno and house artist based in Japan, with 50 gigs on soundcheck across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and Shinkawa. Next up: [UNVRS], Ibiza on Sat 3 Oct.
+ATT is a techno and house artist based in Japan, with 50 gigs on soundcheck across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and Shinkawa. Next up: Aisotope Lounge, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 16 Oct 2026 | Aisotope Lounge | Tokyo |
 | Sat, 28 Nov 2026 | R Lounge | Tokyo |
 

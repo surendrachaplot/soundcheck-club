@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "T35: Tresor Records Anniversary DAY TWO" on Sat, 3 Oct 2026.
+Tresor / Globus is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "◥◣SINGULARITY◥◣" on Mon, 5 Oct 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including Adam X, Adriana Lopez, Adriano. and Afra and 2 more. See dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Adam X, Adriana Lopez, Adriano. and Afra and 2 more. See dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | T35: Tresor Records Anniversary DAY TWO | Chloe Lula, DJ Plant Texture, Fireground, Ireen Amnes, LNS, Shawescape Renegade, Shed, Terrence Dixon, The Advent, Thomas Hoffmann |
 | Mon, 5 Oct 2026 | ◥◣SINGULARITY◥◣ |  |
 | Mon, 5 Oct 2026 | ◥◣SINGULARITY◥◣ | Elis, Inverse Element, MarcelDune, SOLE DOSI |
 | Wed, 7 Oct 2026 | Tresor New Faces hosted by In Balance | Carl Raban, Masst, SXCL, Schicktanz, Younes Jamil |
@@ -18,6 +17,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 30 upcoming gig
 | Wed, 14 Oct 2026 | Tresor New Faces hosted by Push Network | Beryll, Freigeist, MZA (FR), Mischa Beton, Preta, Vich Mind |
 | Fri, 16 Oct 2026 | Tresor meets WIGS | Afra, CEM3340, Cari Lekebusch, IMOGEN, L.F.T., TSUNIMAN, VEL (MA) |
 | Sat, 17 Oct 2026 | Tresor Klubnacht | Handmade, JSR, Katia Curie, Nastia, Natalie Robinson, Rosati, Z.I.P.P.O |
+| Mon, 19 Oct 2026 | ◥◣SINGULARITY◥◣ | Gary Beck, Lilith., Mute., Pascal Hetzel |
 
 ## Address
 

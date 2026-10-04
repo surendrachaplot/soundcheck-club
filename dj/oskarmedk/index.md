@@ -1,8 +1,8 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
+oskar med k is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
 
-oskar med k is a house and deep house artist based in Norway, with 22 gigs on soundcheck across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
+oskar med k is a house and deep house artist based in Norway, with 23 gigs on soundcheck across Barcelona, Berlin, Budapest and Chicago and 17 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ oskar med k is a house and deep house artist based in Norway, with 22 gigs on so
 | Fri, 13 Nov 2026 | Nitsa Club | Barcelona |
 | Sun, 15 Nov 2026 | Wagon | Madrid |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Sat, 2 Jan 2027 | The Forum Theatre | Melbourne |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Cinnaman • Casper Tielrooij" on Sat, 3 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "A Listening Journey: The History and Sound of Palestine with Hiba Salameh" on Thu, 8 Oct 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Cinnaman • Casper Tielrooij | Casper Tielrooij, Cinnaman |
 | Thu, 8 Oct 2026 | A Listening Journey: The History and Sound of Palestine with Hiba Salameh |  |
 | Fri, 9 Oct 2026 | Matisa • Kléo | Kléo, Matisa |
 | Sat, 10 Oct 2026 | Sansibar • LORI | Lori (1), Sansibar |
@@ -18,6 +17,7 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs
 | Thu, 22 Oct 2026 | ADE: Semi Delicious with Demi Riquísimo • Kamma • Retromigration b2b Lulah Francs | Demi Riquisimo, Kamma, Lulah Francs, Retromigration |
 | Fri, 23 Oct 2026 | ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman | Benny Rodrigues, Laura Meester, Merel Helderman |
 | Sat, 24 Oct 2026 | ADE: TraTraTrax with  b2b Pariah • Gabrielle Kwarteng • Jesse G | Gabrielle Kwarteng, Jesse G, Pariah |
+| Sat, 24 Oct 2026 | ADE:  Identified Patient b2b mad miran — All Day Long | Identified Patient, mad miran |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Malasaña, Madrid on Sat, 3 Oct 2026.
+Janeret is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Badaboum, Paris on Fri, 16 Oct 2026.
 
-Janeret is a house and minimal artist based in France, with 133 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Club Malasaña, Madrid on Sat 3 Oct.
+Janeret is a house and minimal artist based in France, with 133 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: Badaboum, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Malasaña | Madrid |
 | Fri, 16 Oct 2026 | Badaboum | Paris |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 

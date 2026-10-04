@@ -1,14 +1,13 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+Rooléh is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KOKO, London on Sat, 17 Oct 2026.
 
-Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
+Rooléh is a house and tech house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: KOKO, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 17 Oct 2026 | KOKO | London |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |

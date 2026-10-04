@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE" on Sat, 3 Oct 2026.
+Renate is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity" on Thu, 8 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 131bpm, 16 Faces, Aalia Iraki and Abibi and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 16 Faces, Aalia Iraki, Abibi and Abstraxion and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Renate Klubnacht with Fairies, Fluid Vision & CUNTCORE | 131bpm, Barbad, DJ Trade Trainer, Dj handbag, Merlin Cum, Robin Flux, SENERGI, Tania Just, Tutti Frutti, V3NÜ5 |
 | Thu, 8 Oct 2026 | Core to Core - Haram Night, saHHara – سَهّارة, Dub&Dal, Fiestuki and Haus of Audacity | 16 Faces, Abibi, Bad Puppy, DJ Putilla, Meriem S, Nora Moon, Ojos de miel |
 | Fri, 9 Oct 2026 | Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red | CHUKWU, Horkheimer, Lulu & Nell, Lux., Pschukk, Rosa Red, karete bu |
 | Sat, 10 Oct 2026 | Renate Klubnacht / Libras United w/ Nadia Wise, The Burell Connection, Triqi & Henry Weekes | Aalia Iraki, DJ CHICHI, DJ Equipment, JM Moser, Kang, Marysia Osu, Nadia Wise, The Burrell Connection, Tom Kutsche, Triqi |
@@ -18,6 +17,7 @@ Renate is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with l
 | Fri, 23 Oct 2026 | Renate Klubnacht with Niklas Wandt, Josiane & RBL.Berlin | Josiane, Luce Clandestina, Niklas Wandt |
 | Sat, 24 Oct 2026 | Renate Klubnacht with Boisha, Kedi Bounce + more tba | FANK, Kedi Bounce, Mandel, Pert (CZ), Shanda, moe. |
 | Thu, 29 Oct 2026 | House of Lunacy Halloween - The Danse Macabre |  |
+| Fri, 30 Oct 2026 | Renate Klubnacht with HABITUS x CURA Berlin | Adlas, Anna Kost, Concussion, MASCHA, Maccari, Max Dewavrin, Vale, Waldymoto |
 
 ## Address
 

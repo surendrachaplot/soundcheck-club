@@ -1,14 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
+DJ Tennis is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 309 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Dockland, Munster on Sat 3 Oct.
+DJ Tennis is a house and techno artist based in Italy, with 309 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 58 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: FOLD, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Dockland | Munster |
 | Fri, 9 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Nitsa Club | Barcelona |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -20,6 +19,7 @@ DJ Tennis is a house and techno artist based in Italy, with 309 gigs on soundche
 | Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 7 Nov 2026 | The Warehouse By IT Quarter | Cyprus |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
+| Fri, 13 Nov 2026 | Coda | Toronto |
 
 ## Recently played
 

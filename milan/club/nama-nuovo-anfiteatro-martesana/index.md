@@ -1,14 +1,13 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "fvtvristica presents Fuori Orario" on Sat, 3 Oct 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Radio Leila presents LUP" on Fri, 9 Oct 2026.
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Andromeda\Unchained, Anna Wall, ARMANDO and Aton and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Andromeda\Unchained, Anna Wall, ARMANDO and biased and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | fvtvristica presents Fuori Orario | Aton, Fybes, Niff, Pabie, SMS (IT), Sancra, Valerio Della Notte |
 | Fri, 9 Oct 2026 | Radio Leila presents LUP | Brillante, Duwe, HI LIFE, Mattia Dambrosio |
 | Sat, 10 Oct 2026 | SLATE presents Truncate LABEL SHOWCASE XV YEARS ANNIVERSARY | ARMANDO, Andromeda\Unchained, Elisa Bee, Hertz Collision, IKIIR, Ilya Blinkov, Truncate |
 | Fri, 16 Oct 2026 | Horns & Bricks | Obso |

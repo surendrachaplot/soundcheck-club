@@ -1,15 +1,13 @@
 # OTO (NY)
 
-OTO (NY) is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+OTO (NY) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
-OTO (NY) is a techno and tech house artist, with 5 gigs on soundcheck across Barcelona, New York City and South. Often billed alongside A.N.I., C-System and Chris Liebing. Next up: Complejo Embrujo, South on Sat 3 Oct.
+OTO (NY) is a techno and tech house artist, with 5 gigs on soundcheck across Barcelona, New York City and South. Often billed alongside A.N.I., C-System and Chris Liebing. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
-| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Fri, 23 Oct 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 3 Oct 2026.
+Joyhauser is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Palladium Riga, Riga on Fri, 9 Oct 2026.
 
-Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 3 Oct.
+Joyhauser is a techno and trance artist based in Belgium, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: Palladium Riga, Riga on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 9 Oct 2026 | Palladium Riga | Riga |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Wed, 21 Oct 2026 | Q-Factory | Amsterdam |

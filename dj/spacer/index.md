@@ -1,14 +1,13 @@
 # Spacer
 
-Spacer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at LAUT, Barcelona on Sat, 3 Oct 2026.
+Spacer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 14 Nov 2026.
 
-Spacer is a techno and house artist based in Spain, with 66 gigs on soundcheck across Barcelona, Copenhagen and Madrid. Often billed alongside Arildo, DAVID LOST and DJ Tennis. Next up: LAUT, Barcelona on Sat 3 Oct.
+Spacer is a techno and house artist based in Spain, with 66 gigs on soundcheck across Barcelona, Copenhagen and Madrid. Often billed alongside Arildo, DAVID LOST and DJ Tennis. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | LAUT | Barcelona |
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played

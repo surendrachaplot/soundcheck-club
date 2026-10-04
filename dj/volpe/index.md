@@ -1,14 +1,13 @@
 # Volpe
 
-Volpe is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+Volpe is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
 
-Volpe is a techno and dub techno artist based in Argentina, with 46 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 7 more. Often billed alongside Daisy Weweh, Phil Berg and ÜBERKIKZ. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
+Volpe is a techno and dub techno artist based in Argentina, with 46 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 7 more. Often billed alongside Daisy Weweh, Phil Berg and ÜBERKIKZ. Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Secret Location | Malta |
 | Sat, 10 Oct 2026 | Nomad Warehouse // Galpón Mercedes Sosa | Buenos Aires |
 
 ## Recently played

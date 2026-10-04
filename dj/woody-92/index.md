@@ -1,14 +1,13 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Club Droowning, Guangzhou on Sat, 3 Oct 2026.
+Woody92 is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at vurt., Seoul on Sat, 10 Oct 2026.
 
-Woody92 is a techno and experimental artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Loek Frey, Spekki Webu and Jeans (NL). Next up: Club Droowning, Guangzhou on Sat 3 Oct.
+Woody92 is a techno and experimental artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Loek Frey, Spekki Webu and Jeans (NL). Next up: vurt., Seoul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Club Droowning | Guangzhou |
 | Sat, 10 Oct 2026 | vurt. | Seoul |
 | Thu, 22 Oct 2026 | Oude Kerk | Amsterdam |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |

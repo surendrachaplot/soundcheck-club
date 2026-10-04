@@ -1,14 +1,13 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Sat, 3 Oct 2026.
+HiTMiLØW is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at EXIL, Zurich on Fri, 9 Oct 2026.
 
-HiTMiLØW is a techno and trance artist based in Germany, with 85 gigs on soundcheck across Barcelona, Berlin, Budapest and Cologne and 17 more. Often billed alongside Cleopard2000, Justin Tinderdate and Elotrance. Next up: OST, Berlin on Sat 3 Oct.
+HiTMiLØW is a techno and trance artist based in Germany, with 85 gigs on soundcheck across Barcelona, Berlin, Budapest and Cologne and 17 more. Often billed alongside Cleopard2000, Justin Tinderdate and Elotrance. Next up: EXIL, Zurich on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | EXIL | Zurich |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Sat, 17 Oct 2026 | Artheater | Cologne |

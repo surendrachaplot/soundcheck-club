@@ -1,14 +1,13 @@
 # Riverside (IT)
 
-Riverside (IT) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Azimut Club, Turin on Sat, 3 Oct 2026.
+Riverside (IT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Riverside (IT) is a house and tech house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Milan, Paris and Rome and 1 more. Often billed alongside Nicola Gavino, Paul Acquaviva and YOUniverse. Next up: Azimut Club, Turin on Sat 3 Oct.
+Riverside (IT) is a house and tech house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Milan, Paris and Rome and 1 more. Often billed alongside Nicola Gavino, Paul Acquaviva and YOUniverse. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Azimut Club | Turin |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played

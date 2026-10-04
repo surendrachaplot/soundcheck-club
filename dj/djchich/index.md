@@ -1,14 +1,13 @@
 # Chich
 
-Chich is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
+Chich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Culture Box, Copenhagen on Fri, 16 Oct 2026.
 
-Chich is a techno and house artist based in Luxembourg, with 26 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Malta and 4 more. Often billed alongside Marco Ramos, Industrialyzer and Miss Oana. Next up: NADA Lisbon, Lisbon on Sat 3 Oct.
+Chich is a techno and house artist based in Luxembourg, with 26 gigs on soundcheck across Amsterdam, Copenhagen, Lisbon and Malta and 4 more. Often billed alongside Marco Ramos, Industrialyzer and Miss Oana. Next up: Culture Box, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | NADA Lisbon | Lisbon |
 | Fri, 16 Oct 2026 | Culture Box | Copenhagen |
 | Thu, 22 Oct 2026 | John Doe | Amsterdam |
 

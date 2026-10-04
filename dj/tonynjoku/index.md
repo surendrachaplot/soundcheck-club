@@ -1,0 +1,24 @@
+# Tony Njoku
+
+Tony Njoku is a Dub and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+
+Tony Njoku is a dub and electronica artist based in Nigeria, with 5 gigs on soundcheck across Berlin, Edinburgh, Utrecht and Vienna. Often billed alongside Aunty Rayzor, KAVARI and ABOPF. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+
+## Recently played
+
+- Otto Wagner Areal, Vienna · Thu, 21 May 2026
+- Berghain | Panorama Bar | Säule, Berlin · Wed, 28 Jan 2026
+- TBA - various venues , Berlin · Fri, 23 Jan 2026
+- Summerhall, Edinburgh · Fri, 27 Oct 2023
+
+## Shares bills with
+
+Aunty Rayzor, KAVARI, ABOPF
+
+*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonynjoku/)*

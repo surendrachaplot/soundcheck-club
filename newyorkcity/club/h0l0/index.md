@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys" on Sat, 3 Oct 2026.
+H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ReSolute with Aurora Halal" on Fri, 9 Oct 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alec Falconer and Amelia Holt and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Alec Falconer and Amelia Holt and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys | Craic Feen, Gigi Rio, Jordan Brando, Luke Alessi, Miata Boys, William Kiss, amita |
 | Fri, 9 Oct 2026 | ReSolute with Aurora Halal | Amelia Holt, Aurora Halal, Dio Garcia, Joiah, SPRKLBB, Serrian, Seth Magoon |
 | Sat, 10 Oct 2026 | Road to Trotamundo | !NN, Alec Falconer, Bruno Limma, CAMILLA, David Berrie, Harrisôn, Kurilo, Lorenzo Slider, MANNY, Matt Foley, Max Sprauer, RAAUL, SOLANA, San Dee, Woreq |
 | Sat, 17 Oct 2026 | KEIN KLUB | Amelia Holt, Intergalactic Gary, Mike Servito, Soundstream |
@@ -18,6 +17,7 @@ H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, w
 | Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! |  |
 | Fri, 6 Nov 2026 | KEIN KLUB | Kendal, Martyn |
 | Sat, 7 Nov 2026 | PIV Records w. Prunk + Kellie Allen, MADVILLA, & More | Armii1n, Bea Trinidad, Kellie Allen, Lauren Ritter, MADVILLA, Prunk, m.O.N.R.O.E. |
+| Fri, 11 Dec 2026 | KEIN KLUB - lineup TBA |  |
 
 ## Address
 

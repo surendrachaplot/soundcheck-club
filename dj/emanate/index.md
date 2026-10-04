@@ -10,7 +10,7 @@ Emanate is a techno and tech house artist based in United States of America, wit
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | The Ohana | San Diego |
-| Fri, 16 Oct 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 16 Oct 2026 | Catch One | Los Angeles |
 | Tue, 20 Oct 2026 | Blue Summer Ibiza Boat | Ibiza |
 | Wed, 21 Oct 2026 | Escape | Amsterdam |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |

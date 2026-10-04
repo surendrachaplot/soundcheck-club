@@ -1,14 +1,13 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Bassement, Madrid on Sat, 3 Oct 2026.
+Nørbak is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-Nørbak is a techno and house artist based in Portugal, with 144 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: The Bassement, Madrid on Sat 3 Oct.
+Nørbak is a techno and house artist based in Portugal, with 144 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The Bassement | Madrid |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |

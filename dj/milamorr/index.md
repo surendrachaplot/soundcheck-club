@@ -1,14 +1,15 @@
 # Mila Morr
 
-Mila Morr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 22 Oct 2026.
+Mila Morr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 22 Oct 2026.
 
-Mila Morr is a house and techno artist based in Colombia, with 55 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Elwei, John Karam and Bttologic. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 22 Oct.
+Mila Morr is a house and techno artist based in Colombia, with 56 gigs on soundcheck across Barcelona, Ibiza and South West. Often billed alongside Elwei, John Karam and Bttologic. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sat, 31 Oct 2026 | Le Jardin Enjoy | South-west |
 
 ## Recently played
 

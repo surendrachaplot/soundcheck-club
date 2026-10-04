@@ -1,14 +1,13 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The White Hotel, Manchester on Sat, 3 Oct 2026.
+Grace Sands is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at smartbar, Chicago on Sun, 11 Oct 2026.
 
-Grace Sands is a house and deep house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: The White Hotel, Manchester on Sat 3 Oct.
+Grace Sands is a house and deep house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: smartbar, Chicago on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | The White Hotel | Manchester |
 | Sun, 11 Oct 2026 | smartbar | Chicago |
 | Sat, 17 Oct 2026 | public records | New York City |
 | Fri, 23 Oct 2026 | Pikes Ibiza | Ibiza |

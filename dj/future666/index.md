@@ -1,8 +1,8 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
+future.666 is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
 
-future.666 is a techno and trance artist based in Germany, with 231 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
+future.666 is a techno and trance artist based in Germany, with 233 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ future.666 is a techno and trance artist based in Germany, with 231 gigs on soun
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
+| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
+| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
 | Fri, 30 Oct 2026 | E1 | London |
@@ -18,7 +20,6 @@ future.666 is a techno and trance artist based in Germany, with 231 gigs on soun
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 12 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
-| Fri, 30 Apr 2027 | Haus der Visionäre | Berlin |
 
 ## Recently played
 

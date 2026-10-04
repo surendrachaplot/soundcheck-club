@@ -1,15 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 22 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 3 Oct 2026.
+DVS1 is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kingdom Nightclub, Austin on Thu, 8 Oct 2026.
 
-DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: fabric, London on Sat 3 Oct.
+DVS1 is a techno and house artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Kingdom Nightclub, Austin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | fabric | London |
-| Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 8 Oct 2026 | Kingdom Nightclub | Austin |
 | Fri, 9 Oct 2026 | Domicile | Miami |
 | Sat, 10 Oct 2026 | TBA - Los Angeles | Los Angeles |
@@ -20,6 +18,8 @@ DVS1 is a techno and house artist based in United States of America, with 326 gi
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Kaiku | Helsinki |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Fri, 30 Oct 2026 | Club Drugstore | Serbia |
+| Fri, 6 Nov 2026 | Circolo Amelia | Milan |
 
 ## Recently played
 

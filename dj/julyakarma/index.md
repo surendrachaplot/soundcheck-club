@@ -1,14 +1,13 @@
 # Julya Karma
 
-Julya Karma is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Julya Karma is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Garage, Madrid on Sun, 11 Oct 2026.
 
-Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Julya Karma is a house and techno artist, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: The Garage, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |

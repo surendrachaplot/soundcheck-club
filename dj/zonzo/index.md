@@ -1,6 +1,6 @@
 # Zonzo
 
-Zonzo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
+Zonzo is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
 Zonzo is a disco and house artist based in Italy, with 59 gigs on soundcheck across Barcelona, Berlin, Mallorca and Malta and 3 more. Often billed alongside Deckard, Sonido Tupinamba and Josep Xortó. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
@@ -9,7 +9,6 @@ Zonzo is a disco and house artist based in Italy, with 59 gigs on soundcheck acr
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - secret location | Barcelona |
-| Sat, 3 Oct 2026 | La Paloma | Barcelona |
 
 ## Recently played
 

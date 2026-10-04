@@ -1,14 +1,13 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Descent, Boston on Sat, 3 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
 
-Archie Hamilton is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Descent, Boston on Sat 3 Oct.
+Archie Hamilton is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Cova Santa, Ibiza on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Descent | Boston |
 | Tue, 6 Oct 2026 | Cova Santa | Ibiza |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

@@ -1,14 +1,13 @@
 # Index
 
-Index is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Index: TWOFACED" on Sat, 3 Oct 2026.
+Index is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Index: Vendex" on Fri, 9 Oct 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Ben Hemsley, Chantel Kavanagh, Eddie Halliwell and Kerri Chandler and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Ben Hemsley, Chantel Kavanagh, Eddie Halliwell and Kerri Chandler and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Index: TWOFACED |  |
 | Fri, 9 Oct 2026 | Index: Vendex | Vendex, Victor Krum |
 | Sat, 10 Oct 2026 | Index: Ben Hemsley | Ben Hemsley, Chantel Kavanagh |
 | Fri, 16 Oct 2026 | Index: Notion | Notion |

@@ -1,14 +1,13 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+DJ Perception is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Perception is a garage and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
+DJ Perception is a garage and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 28 Nov 2026 | Starlane Pizza Bar | London |

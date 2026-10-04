@@ -1,6 +1,6 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Olof Dreijer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Olof Dreijer is a techno and house artist based in Sweden, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
@@ -9,7 +9,6 @@ Olof Dreijer is a techno and house artist based in Sweden, with 64 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
-| Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Sat, 24 Oct 2026 | Cecil AM | Copenhagen |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 

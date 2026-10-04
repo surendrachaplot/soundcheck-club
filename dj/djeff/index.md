@@ -1,14 +1,13 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Sat, 3 Oct 2026.
+DJEFF is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Savaya Bali, Bali on Sun, 18 Oct 2026.
 
-DJEFF is an afro house and house artist based in Portugal, with 67 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Hï Ibiza, Ibiza on Sat 3 Oct.
+DJEFF is an afro house and house artist based in Portugal, with 67 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Savaya Bali, Bali on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Hï Ibiza | Ibiza |
 | Sun, 18 Oct 2026 | Savaya Bali | Bali |
 | Fri, 23 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 

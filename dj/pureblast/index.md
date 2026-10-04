@@ -1,14 +1,13 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 3 Oct 2026.
+Pureblast is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Badaboum, Paris on Sat, 17 Oct 2026.
 
-Pureblast is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, DJ Physical and Egna. Next up: Karmen Camina, Strasbourg on Sat 3 Oct.
+Pureblast is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, DJ Physical and Egna. Next up: Badaboum, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Karmen Camina | Strasbourg |
 | Sat, 17 Oct 2026 | Badaboum | Paris |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 

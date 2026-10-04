@@ -1,14 +1,13 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
+DJ Hyperdrive is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
-DJ Hyperdrive is a techno and trance artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Dockland, Munster on Sat 3 Oct.
+DJ Hyperdrive is a techno and trance artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Universe Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Dockland | Munster |
 | Sat, 17 Oct 2026 | Universe Athens | Athens |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 | Thu, 22 Oct 2026 | H7 Warehouse | Amsterdam |

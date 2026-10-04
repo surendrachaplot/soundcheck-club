@@ -1,14 +1,13 @@
 # Hertz Collision
 
-Hertz Collision is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at SMUT Athens, Athens on Sat, 3 Oct 2026.
+Hertz Collision is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
 
-Hertz Collision is a techno and acid artist based in Italy, with 28 gigs on soundcheck across Athens, Berlin, London and Los Angeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: SMUT Athens, Athens on Sat 3 Oct.
+Hertz Collision is a techno and acid artist based in Italy, with 28 gigs on soundcheck across Athens, Berlin, London and Los Angeles and 10 more. Often billed alongside ARMANDO, IKIIR and Truncate. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | SMUT Athens | Athens |
 | Sat, 10 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |

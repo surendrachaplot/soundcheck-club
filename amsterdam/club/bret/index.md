@@ -1,15 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "EASTTOWN - EXTENDED SET (18+)" on Sat, 3 Oct 2026.
+BRET is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jesse G, MARRØN, SHE/HER" on Sun, 4 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | EASTTOWN - EXTENDED SET (18+) | Easttown |
-| Sat, 3 Oct 2026 | Easttown [extended set] | Easttown, Simon Kidzoo |
 | Sun, 4 Oct 2026 | Jesse G, MARRØN, SHE/HER | Jesse G, MARRØN, SHE/HER |
 | Fri, 9 Oct 2026 | Festen, Mia Cecille b2b Zeynep, Nathan Homan | Festen, Mia Cecille, Nathan Homan, Zeynep |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
@@ -18,6 +16,8 @@ BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with 
 | Fri, 23 Oct 2026 | Ogazón invites Freddy K & Rene Wise - ADE | Freddy K, Ogazón, Rene Wise |
 | Fri, 23 Oct 2026 | Anz, SHERELLE & MALLAURY x BRET x ADE | Anz, MALLAURY, SHERELLE |
 | Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  |  |
+| Sat, 24 Oct 2026 | DAYCARE x ADE | Bastienne, Mahabe, Phara, Shaleen, Tommy Four Seven |
+| Sun, 25 Oct 2026 | SLPFNK - BRET ADE |  |
 
 ## Address
 

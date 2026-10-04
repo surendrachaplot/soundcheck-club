@@ -1,15 +1,13 @@
 # Amino
 
-Amino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Amino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Black Circle , Indiana on Fri, 16 Oct 2026.
 
-Amino is a techno and house artist based in United States of America, with 92 gigs on soundcheck across Detroit, Indiana, New York City and San Francisco/Oakland. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 3 Oct.
+Amino is a techno and house artist based in United States of America, with 92 gigs on soundcheck across Detroit, Indiana, New York City and San Francisco/Oakland. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: TBA - Black Circle , Indiana on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
-| Sat, 3 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | TBA - Black Circle  | Indiana |
 
 ## Recently played
