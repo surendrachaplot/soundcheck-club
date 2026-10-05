@@ -1,13 +1,14 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Bella Claxton is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Bella Claxton is a techno and house artist based in Australia, with 127 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 27 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Bella Claxton is a techno and house artist based in Australia, with 127 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 27 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Sat, 10 Oct 2026 | Virage | Paris |
@@ -19,7 +20,6 @@ Bella Claxton is a techno and house artist based in Australia, with 127 gigs on 
 | Sat, 7 Nov 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 20 Nov 2026 | Colour Factory | London |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
-| Mon, 28 Dec 2026 | Langley Park | Perth |
 
 ## Recently played
 

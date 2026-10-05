@@ -2,7 +2,7 @@
 
 EuroEyez is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 18 Oct 2026.
 
-EuroEyez is an experimental and pop artist, with 27 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Freestyler, NAS TEA and Brodinski. Next up: Golden Pudel Club, Hamburg on Sun 18 Oct.
+EuroEyez is an experimental and pop artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Freestyler, NAS TEA and Brodinski. Next up: Golden Pudel Club, Hamburg on Sun 18 Oct.
 
 ## Upcoming shows
 

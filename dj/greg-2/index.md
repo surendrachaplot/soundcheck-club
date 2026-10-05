@@ -1,8 +1,8 @@
 # Greg (2)
 
-Greg (2) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
+Greg (2) is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
 
-Greg is a bass and techno artist based in Mauritius, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Tatyana Jane, Busy P and Dangermami. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
+Greg is a bass and techno artist based in Mauritius, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Tatyana Jane, Busy P and Dangermami. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Greg is a bass and techno artist based in Mauritius, with 62 gigs on soundcheck 
 | Fri, 9 Oct 2026 | La Piazza, Moka | Mauritius |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
+| Fri, 23 Oct 2026 | Channel Zero | Ljubljana |
 
 ## Recently played
 

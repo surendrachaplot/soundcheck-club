@@ -1,13 +1,15 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Svetec is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gotec, Karlsruhe on Fri, 9 Oct 2026.
 
-Svetec is a techno and industrial artist based in Hungary, with 104 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 30 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
+Svetec is a techno and industrial artist based in Hungary, with 106 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 32 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Gotec, Karlsruhe on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Gotec | Karlsruhe |
+| Fri, 16 Oct 2026 | Cosmos Club Sevilla | South |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |

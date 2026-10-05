@@ -1,14 +1,13 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Ivy, Sydney on Mon, 5 Oct 2026.
+Crossy is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Crossy is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Disrupta and Kanine. Next up: The Ivy, Sydney on Mon 5 Oct.
+Crossy is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Disrupta and Kanine. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | District Cardiff | Cardiff |
 | Fri, 20 Nov 2026 | Stealth | Nottingham |

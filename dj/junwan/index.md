@@ -1,13 +1,14 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fraser Park, Sydney on Sat, 7 Nov 2026.
+Jun Wan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Jun Wan is a techno and house artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Obeido, Alilia and Ash Lauryn. Next up: Fraser Park, Sydney on Sat 7 Nov.
+Jun Wan is a techno and house artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Obeido, Alilia and Ash Lauryn. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Sat, 7 Nov 2026 | Club 77 | Sydney |
 

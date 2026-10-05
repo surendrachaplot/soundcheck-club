@@ -1,14 +1,13 @@
 # Callyy
 
-Callyy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Callyy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-Callyy is a house and disco artist based in Australia, with 55 gigs on soundcheck across Sydney. Often billed alongside Mixed Methods, Bella Backe and Said Dami. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
+Callyy is a house and disco artist based in Australia, with 55 gigs on soundcheck across Sydney. Often billed alongside Mixed Methods, Bella Backe and Said Dami. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played

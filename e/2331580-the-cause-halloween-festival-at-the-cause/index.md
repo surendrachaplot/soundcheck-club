@@ -1,6 +1,6 @@
 # The Cause: Halloween Festival at The Cause
 
-The Cause: Halloween Festival on Sat 31 Oct, London. 37 artists: Acid Sally, Adiel, Billy Jack and Blixa and 33 more. See the line-up on soundcheck.
+The Cause: Halloween Festival on Sat 31 Oct, London. 35 artists: Acid Sally, Adiel, Billy Jack and Blixa and 31 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,13 +15,13 @@ The Cause: Halloween Festival on Sat 31 Oct, London. 37 artists: Acid Sally, Adi
 - Billy Jack
 - Blixa
 - BLUMITSU
-- Cherry
 - D'vey
 - Dan Anderson
 - Deetron
 - Deselecta
 - El-B
 - Ellie Anderson
+- Ellie Stokes
 - FAFF
 - Flash Mitra
 - Frank Haag
@@ -29,16 +29,13 @@ The Cause: Halloween Festival on Sat 31 Oct, London. 37 artists: Acid Sally, Adi
 - Gabber Eleganza
 - H-Foundation
 - Hannah Holland
-- Haute Mess
 - ISAbella
 - Joe Murphy
 - Jos
 - ketia
 - KT
 - Kylie Wears Berghaus
-- Lucky Dip
 - Michelle Manetti
-- misschief
 - Modeselektor
 - Mr James
 - Nick Clev
@@ -46,6 +43,7 @@ The Cause: Halloween Festival on Sat 31 Oct, London. 37 artists: Acid Sally, Adi
 - Sam Beach
 - SLVN
 - Studio Batsumi
+- Z@p
 - Zenker Brothers
 
 *Source: [soundcheck](https://soundcheck.club/e/2331580-the-cause-halloween-festival-at-the-cause/)*

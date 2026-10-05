@@ -1,8 +1,8 @@
 # Z@p
 
-Z@p is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Z@p is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Z@p is a techno and house artist based in Uruguay, with 124 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Z@p is a techno and house artist based in Uruguay, with 125 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Z@p is a techno and house artist based in Uruguay, with 124 gigs on soundcheck a
 | Fri, 23 Oct 2026 | Ring | Seoul |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 31 Oct 2026 | The Cause | London |
 | Sat, 28 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played

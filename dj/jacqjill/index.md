@@ -1,13 +1,14 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 19 Nov 2026.
+Jacq Jill is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Area 405, Baltimore on Sun, 25 Oct 2026.
 
-Jacq Jill is a techno and house artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Los Angeles, New York City and Portland and 2 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: TRANSMISSION DC, Washington DC on Thu 19 Nov.
+Jacq Jill is a techno and house artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Baltimore, Los Angeles and New York City and 3 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: Area 405, Baltimore on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Area 405 | Baltimore |
 | Thu, 19 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played

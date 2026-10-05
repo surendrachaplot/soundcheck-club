@@ -1,14 +1,13 @@
 # Afrodisiac
 
-Afrodisiac is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Afrodisiac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-Afrodisiac is a house and techno artist, with 63 gigs on soundcheck across Berlin, Melbourne, Munich and Sydney and 1 more. Often billed alongside Baby G, Activator (AU) and DJ PGZ. Next up: OneSixOne, Melbourne on Sun 4 Oct.
+Afrodisiac is a house and techno artist, with 63 gigs on soundcheck across Berlin, Melbourne, Munich and Sydney and 1 more. Often billed alongside Baby G, Activator (AU) and DJ PGZ. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | OneSixOne | Melbourne |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played

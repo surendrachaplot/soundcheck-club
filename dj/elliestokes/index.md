@@ -1,14 +1,15 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sameheads, Berlin on Sat, 17 Oct 2026.
+Ellie Stokes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sameheads, Berlin on Sat, 17 Oct 2026.
 
-Ellie Stokes is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Sameheads, Berlin on Sat 17 Oct.
+Ellie Stokes is a house and techno artist based in United Kingdom, with 92 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Sameheads, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Sameheads | Berlin |
+| Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
 

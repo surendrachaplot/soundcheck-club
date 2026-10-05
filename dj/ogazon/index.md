@@ -1,13 +1,14 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Ogazón is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 285 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+Ogazón is a techno and house artist based in Luxembourg, with 285 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 65 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 16 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 17 Oct 2026 | Post Bar | Helsinki |
@@ -19,7 +20,6 @@ Ogazón is a techno and house artist based in Luxembourg, with 285 gigs on sound
 | Fri, 13 Nov 2026 | Plano B | Porto |
 | Sat, 14 Nov 2026 | Lx Factory | Lisbon |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
-| Sat, 21 Nov 2026 | Flash | Washington DC |
 
 ## Recently played
 

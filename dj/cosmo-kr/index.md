@@ -1,14 +1,13 @@
 # Cosmo (KR)
 
-Cosmo (KR) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Cosmo (KR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at New Guernica, Melbourne on Fri, 9 Oct 2026.
 
-Cosmo (KR) is a techno and house artist based in South Korea, with 83 gigs on soundcheck across Amsterdam, Berlin, Cologne and Detroit and 14 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: OneSixOne, Melbourne on Sun 4 Oct.
+Cosmo (KR) is a techno and house artist based in South Korea, with 83 gigs on soundcheck across Amsterdam, Berlin, Cologne and Detroit and 14 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: New Guernica, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | OneSixOne | Melbourne |
 | Fri, 9 Oct 2026 | New Guernica | Melbourne |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |

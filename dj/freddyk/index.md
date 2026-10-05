@@ -1,13 +1,14 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Under Bron, Stockholm on Fri, 9 Oct 2026.
+Freddy K is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Freddy K is a techno and house artist based in Germany, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Under Bron, Stockholm on Fri 9 Oct.
+Freddy K is a techno and house artist based in Germany, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | Under Bron | Stockholm |
 | Sat, 10 Oct 2026 | not/or/ius Club | Turin |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
@@ -19,7 +20,6 @@ Freddy K is a techno and house artist based in Germany, with 284 gigs on soundch
 | Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Fri, 20 Nov 2026 | Jasna 1 | Warsaw |
-| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sawmills, Bristol on Sat, 17 Oct 2026.
+Doudou MD is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 9 Oct 2026.
 
-Doudou MD is a house and techno artist based in Netherlands, with 225 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 49 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Sawmills, Bristol on Sat 17 Oct.
+Doudou MD is a house and techno artist based in Netherlands, with 226 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 49 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Frankhan Selectist, Istanbul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Frankhan Selectist | Istanbul |
 | Sat, 17 Oct 2026 | Sawmills | Bristol |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |

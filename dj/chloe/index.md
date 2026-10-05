@@ -1,14 +1,15 @@
 # Chloé
 
-Chloé is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Chloé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
-Chloé is a techno and house artist based in France, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 11 more. Often billed alongside Mad Rey, Belaria and Ivan Smagghe. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
+Chloé is a techno and house artist based in France, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Mad Rey, Belaria and Ivan Smagghe. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
+| Fri, 30 Oct 2026 | Gallery 1986 | Vilnius |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
 

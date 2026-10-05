@@ -1,14 +1,13 @@
 # Nick Reverse
 
-Nick Reverse is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Nick Reverse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 10 Oct 2026.
 
-Nick Reverse is a techno and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 7 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
+Nick Reverse is a techno and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 7 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 | Sat, 10 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played

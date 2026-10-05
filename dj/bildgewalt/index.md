@@ -2,7 +2,7 @@
 
 Bildgewalt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
-Bildgewalt is a techno and industrial artist, with 25 gigs on soundcheck across Berlin, Manchester and Munich. Often billed alongside Bollmann, Cøunts and FOKUS (Live). Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
+Bildgewalt is a techno and industrial artist based in Germany, with 25 gigs on soundcheck across Berlin, Manchester and Munich. Often billed alongside Bollmann, Cøunts and FOKUS (Live). Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 

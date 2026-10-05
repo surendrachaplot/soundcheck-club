@@ -2,7 +2,7 @@
 
 Vanee is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
-Vanee is a tech house and house artist, with 27 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
+Vanee is a tech house and house artist based in Venezuela, with 27 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

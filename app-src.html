@@ -3101,6 +3101,12 @@
 .dst-title{font:800 20px/22px var(--head);letter-spacing:-.015em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .dst-venue{font:500 12px/16px var(--body);opacity:.72;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .dst-arts{margin-top:4px;font:700 13px/17px var(--body);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* all the artists of a logged gig (founder, 5 Oct 2026): when the 2 lines cut the names, a plain text link ends the line: "+3 more", then "Show less". Same type as the line, no pill. */
+.dst-arts.fit{display:block;max-height:34px}
+.dst-arts.open{display:block;max-height:none;overflow:visible}
+.dst-arts span.h,.dst-artmore[hidden]{display:none}
+.dst-artmore{all:unset;font:inherit;color:inherit;cursor:pointer;text-decoration:underline;white-space:nowrap}
+.dst-artmore:focus-visible{outline:2px solid currentColor;outline-offset:2px}
 /* the note a person wrote on the gig (rule 9, restored 2 Oct 2026): ink body text under the artists, above the steps; 3 lines on the stub, whole in the full stub */
 .dst-note{margin-top:2px;font:400 13px/18px var(--body);white-space:pre-line;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .dst-full .dst-note{display:block;-webkit-line-clamp:unset;overflow:visible}
@@ -5267,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1791143269066">
+<meta name="sc-build" content="1791218442925">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5327,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">20 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">97 events</span></a></li><li><a href="/london/2026-10-10/">Sat 10 Oct <span class="c">120 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">6 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li><li><a href="/london/2026-10-08/">Thu 8 Oct <span class="c">35 events</span></a></li><li><a href="/london/2026-10-09/">Fri 9 Oct <span class="c">97 events</span></a></li><li><a href="/london/2026-10-10/">Sat 10 Oct <span class="c">121 events</span></a></li><li><a href="/london/2026-10-11/">Sun 11 Oct <span class="c">17 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5665,6 +5671,116 @@ a.dst-full-t:hover{text-decoration:underline}
       return '<div class="poster">'+genPoster(ev.title||'Event')+img+'<span class="tint"></span></div>';
     }
 
+    // ── TRACKING (Umami). Every event, its data and where it fires: TRACKING.md. ──
+    // Fire and forget: a failure is silent and nothing waits for it. NEVER personal data
+    // (no email, handle, code, search text, note text). Only the small fixed values listed there.
+    var _trkMute=false;
+    function sgTrack(name, data, n){
+      try{
+        if(_trkMute || window.__scNoGate) return;   // inside the apps this page is the hidden player: the apps send their own events
+        if(window.umami && umami.track) umami.track(name, data||{});
+        else if((n||0)<10) setTimeout(function(){ sgTrack(name, data, (n||0)+1); }, 500);   // the Umami script is deferred: wait up to 5 s for it
+      }catch(_){}
+    }
+    // The mail provider class, from the DOMAIN only (auth.js mailProvider is the same list).
+    function sgProvider(email){
+      var d=String(email||'').toLowerCase().split('@').pop()||'', n=d.split('.')[0];
+      if(n==='gmail'||n==='googlemail') return 'gmail';
+      if(n==='hotmail'||n==='live'||n==='outlook'||n==='msn') return 'outlook';
+      if(n==='yahoo'||n==='ymail') return 'yahoo';
+      if(d==='icloud.com'||d==='me.com'||d==='mac.com') return 'icloud';
+      return 'other';
+    }
+    function sgEmail(result, email){ sgTrack('signup_email',{ result:result, provider:sgProvider(email) }); }
+    // The page a person is on, as one of a few fixed words (never the URL: Umami has that already).
+    function trkPage(){
+      var r=''; try{ r=currentRoute()||''; }catch(_){}
+      if(!r) return 'home';
+      if(/^(dj|a|similar)\//.test(r)) return 'artist';
+      if(/^e\//.test(r)) return 'gig';
+      if(/^(club|v)\//.test(r)) return 'venue';
+      if(/^promoter\//.test(r)) return 'promoter';
+      if(r==='listen') return 'listen';
+      if(r==='friends'||r==='feed') return 'friends';
+      if(r==='scene'||r==='scenes'||/^(guide|areas)\//.test(r)) return 'scene';
+      if(r==='radio') return 'radio';
+      if(r==='account'||r==='upcoming'||r==='picks'||r==='diary'||/^(u|diary)\//.test(r)) return 'profile';
+      if(r==='search') return 'search';
+      return 'other';
+    }
+    // ── the player ──
+    // HOW a set was started is said by the caller (trkWant), bound to the set when the dock takes it
+    // (trkBind, from openDockUI) and SENT only when the player itself says "playing" (trkSync, called
+    // by updatePP = the one place the YouTube state, the 500 ms poll and the SoundCloud / Mixcloud
+    // widget events all report to). So `play` = a set that really started, once per set start.
+    var _trkWant=null, _trkLock=false, _trkQ={ kind:'main', from:'other' };
+    var _trkP={ key:'', src:'', secs:0, on:false, last:0, marks:{}, t:null, wait:null };
+    var TRK_MARKS=[[60,'1m'],[300,'5m'],[900,'15m'],[1800,'30m'],[3600,'60m']];
+    // kind = "main" | "row" | "lineup". The FIRST call in one tap wins (a row calls the list player, which calls this too).
+    function trkWant(kind){
+      if(_trkLock) return; _trkLock=true; Promise.resolve().then(function(){ _trkLock=false; });
+      _trkWant={ kind:kind, from:trkPage(), t:Date.now() };
+    }
+    function trkAuto(){ _trkWant={ kind:'auto', from:_trkQ.from, t:Date.now() }; }       // the queue moved on by itself
+    function trkNav(){ _trkWant={ kind:_trkQ.kind, from:_trkQ.from, t:Date.now() }; }    // next / prev / undo: the same queue
+    function trkBind(btn){
+      var w=(_trkWant && Date.now()-_trkWant.t<20000) ? _trkWant : { kind:'lineup', from:trkPage() };   // no word from the caller = a line-up row
+      _trkWant=null; btn._trk=w; btn._trkFail=0; if(w.kind!=='auto') _trkQ=w;
+      if(!_trkP.t) _trkP.t=setInterval(trkSync, 1000);
+      clearTimeout(_trkP.wait);
+      // ponytail: "timeout" = not playing 20 s after the dock took the set. It includes a browser that blocked autoplay.
+      _trkP.wait=setTimeout(function(){
+        var x=trkSet();
+        if(x && x.b===btn && _trkP.key!==x.key && !btn._trkFail && !document.hidden) sgTrack('play_fail',{ source:currentType, why:navigator.onLine===false?'network':'timeout' });
+      }, 20000);
+    }
+    function trkSet(){
+      var b=active&&active.button; if(!b || !currentType) return null;
+      var id=currentType==='yt' ? (curVideoId||'') : (b.dataset.sc||b.dataset.mc||'');
+      return id ? { b:b, id:id, key:currentType+':'+id } : null;
+    }
+    function trkPlaying(x){
+      if(!x) return false;
+      if(currentType==='yt'){
+        // PLAYING only (1), not buffering, and the video in the player is THIS set (a re-used player still plays the old one for a moment).
+        try{ if(!ytPlayer || ytPlayer.getPlayerState()!==1) return false; var d=ytPlayer.getVideoData&&ytPlayer.getVideoData(); return !(d && d.video_id && d.video_id!==x.id); }catch(_){ return false; }
+      }
+      return ppOn;
+    }
+    function trkSync(){
+      var P=_trkP, x=trkSet(), now=Date.now();
+      if(P.on) P.secs+=Math.min(90,(now-P.last)/1000);   // playing seconds only; 90 = a tab that slept
+      P.last=now;
+      if(P.key) for(var i=0;i<TRK_MARKS.length;i++){ var m=TRK_MARKS[i]; if(P.secs>=m[0] && !P.marks[m[1]]){ P.marks[m[1]]=1; sgTrack('play_time',{ mark:m[1], source:P.src }); } }
+      var playing=trkPlaying(x);
+      if(playing && x.key!==P.key){
+        var w=x.b._trk||{ kind:'lineup', from:trkPage() };
+        P.key=x.key; P.src=currentType; P.secs=0; P.marks={}; clearTimeout(P.wait);
+        sgTrack('play',{ source:P.src, from:w.from, kind:w.kind });
+      }
+      if(!x){ P.key=''; if(!active && P.t){ clearInterval(P.t); P.t=null; } }
+      P.on=playing;
+    }
+    function trkYtFail(code){ return code==='100' ? 'unavailable' : (code==='101'||code==='150') ? 'blocked' : (navigator.onLine===false ? 'network' : 'other'); }
+    var _trkRad=null, _trkRadAuto=false;   // the weekend radio's quick start has its own hidden player (radioPlayEntry)
+    // ── the actions ──
+    function trkShare(what){ sgTrack('share',{ what:what }); }
+    var _trkSxT=null;
+    // One `search` per settled query (the box searches as you type). NO query text.
+    function trkSearch(n){ var sc=_sxFilter||'all'; clearTimeout(_trkSxT); _trkSxT=setTimeout(function(){ sgTrack('search',{ scope:sc, results:n?'some':'none' }); }, 1200); }
+    // Tabs, Get tickets and Directions: one listener for all of them.
+    document.addEventListener('click',function(e){
+      try{
+        var t=e.target && e.target.closest && e.target.closest('.fp-tab[data-tab],.fp-tab[data-etab],.qchip[data-chip],a.fp-ev-tickets,a.fp-ev-dir'); if(!t) return;
+        if(t.matches('a.fp-ev-tickets')){ sgTrack('tickets'); return; }
+        if(t.matches('a.fp-ev-dir')){ sgTrack('directions'); return; }
+        if(t.classList.contains('on')) return;   // the open tab, tapped again
+        var pg=trkPage();
+        if(t.matches('.qchip')){ if(pg==='listen') sgTrack('tab',{ page:'listen', tab:t.dataset.chip }); return; }
+        sgTrack('tab',{ page:pg, tab:t.dataset.tab||t.dataset.etab });
+      }catch(_){}
+    }, true);
+
     // ── email gate ──
     // ── identity + server-side prefs (nothing user-shaped lives in localStorage) ──
     // Everyone who interacts gets an identity: real accounts via magic link,
@@ -5729,7 +5845,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(window.__scNoGate) return Promise.resolve(true);
       if(hasEmail()) return Promise.resolve(true);
       if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
-      return ensureEmailGate({ heading:'Sign up to <span class="ac">keep listening</span> and more.', body:'Enter your email and we will send you a link to set up your profile. Start saving artists, events and create your music diary with soundcheck.' });
+      return ensureEmailGate({ from:'play_gate', heading:'Sign up to <span class="ac">keep listening</span> and more.', body:'Enter your email and we will send you a link to set up your profile. Start saving artists, events and create your music diary with soundcheck.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
@@ -5755,6 +5871,7 @@ a.dst-full-t:hover{text-decoration:underline}
           '<form class="email-form"><input type="email" required placeholder="Your email" autocomplete="email" /><button type="submit" data-ic="mail">Send me a link.</button></form>'+
           '<p class="email-err" aria-live="polite"></p></div>';
         document.body.appendChild(ov);
+        sgTrack('signup_open',{ from:opts.from||'other' });
         var input=ov.querySelector('input'), submit=ov.querySelector('button[type=submit]'),
             closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'), form=ov.querySelector('form');
         setTimeout(function(){ input.focus(); },30);
@@ -5766,11 +5883,12 @@ a.dst-full-t:hover{text-decoration:underline}
         form.addEventListener('submit',async function(e){
           e.preventDefault(); errEl.textContent='';
           var email=input.value.trim().toLowerCase();
-          if(!EMAIL_RE.test(email)||email.length>254){ errEl.textContent='Enter a valid email.'; return; }
+          if(!EMAIL_RE.test(email)||email.length>254){ sgEmail('invalid', email); errEl.textContent='Enter a valid email.'; return; }
           submit.disabled=true;
           var ok=false;
           try{ var r=await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); ok=r.ok; }catch(_){}
-          if(!ok){ errEl.textContent='Couldn’t send. Try again.'; submit.disabled=false; return; }
+          if(!ok){ sgEmail('error', email); errEl.textContent='Couldn’t send. Try again.'; submit.disabled=false; return; }
+          sgEmail('sent', email); sgTrack('signup_code_view');
           try{ fetch(API_BASE+'/api/email',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); }catch(_){} // newsletter, best-effort
           _pendingEmail=email; setPref('emailGated', true); setPref('pendingEmail', email); // optimistic unblock; link OR code finishes the account
           showSignupBanner(email);
@@ -5923,7 +6041,7 @@ a.dst-full-t:hover{text-decoration:underline}
     var active=null;
     function setState(btn,ch){ var s=btn.querySelector('.state'); if(s) s.textContent=ch; }
     var ppOn=false;   /* what the icon currently says, so the poll below only repaints on a real change */
-    function updatePP(playing){ ppOn=!!playing; if(playing) clipStop();   /* a set starts: the gig clip stops (one sound at a time) */
+    function updatePP(playing){ ppOn=!!playing; try{ trkSync(); }catch(_){} if(playing) clipStop();   /* a set starts: the gig clip stops (one sound at a time) */
       var ic = playing ? PP_PAUSE : PP_PLAY, lab = playing?'Pause':'Play'; dockPP.innerHTML = ic; dockPP.setAttribute('aria-label', lab); var bk=document.getElementById('bar-knob'); if(bk){ bk.innerHTML = ic; bk.setAttribute('aria-label', lab); } try{ if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? 'playing' : 'paused'; }catch(_){} }
     // Lock-screen / notification now-playing (MediaSession): metadata + transport
     // mapped onto the dock's own controls. Foreground-only by design — no background audio.
@@ -5983,7 +6101,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // per real change. 1=PLAYING 3=BUFFERING -> pause icon; 2/0/5/-1 -> play icon.
     function startPoll(){ stopPoll(); pollTimer=setInterval(function(){ if(scrubbing) return; if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime){ pos=ytPlayer.getCurrentTime()||0; var d=ytPlayer.getDuration&&ytPlayer.getDuration(); if(d) dur=d; paintScrub(); var st=ytPlayer.getPlayerState?ytPlayer.getPlayerState():null; if(st===1||st===3){ if(!ppOn) updatePP(true); if(dock.classList.contains('yt-tucked')) ytTuck(false); } else if(st===2||st===0||st===5||st===-1){ if(ppOn) updatePP(false); } } },500); }
     function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
-    function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); }
+    function seekTo(sec, quiet){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(!quiet && active) sgTrack('player',{ action:'seek' }); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); }
       // Mixcloud answers seek() with true/false — it is not always allowed. A
       // knob that moves and changes nothing is worse than a knob that says it
       // cannot; on a refusal the bar goes read-only and stays there.
@@ -6135,6 +6253,7 @@ a.dst-full-t:hover{text-decoration:underline}
       setExpIcon(); setDockPad();
       btn.classList.add('playing'); setState(btn,'■');
       active={ button:btn };
+      try{ trkBind(btn); }catch(_){}   // tracking never stops a play
       // Don't assume we're playing — mobile browsers often block autoplay.
       // The play/pause icon is driven by the actual player state below, so
       // it stays honest: ▶ until playback truly starts, then pause.
@@ -6179,6 +6298,7 @@ a.dst-full-t:hover{text-decoration:underline}
       dockMedia.innerHTML='';
       dock.classList.remove('show','expanded'); document.body.classList.remove('has-dock','dock-collapsed');
       active=null;
+      try{ trkSync(); }catch(_){}   // stopped: the listened time of that set ends here
     }
     var SC_SKIP=360;        // 6:00 — the same start a YouTube set gets
     var SC_SKIP_MIN=600;    // …but only on something at least 10 minutes long
@@ -6223,7 +6343,8 @@ a.dst-full-t:hover{text-decoration:underline}
         scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); jumpIn(); });
         scWidget.bind(SC.Widget.Events.PAUSE,function(){ updatePP(false); });
         // End of a SoundCloud set inside a mixed (Listen) queue → the next one.
-        scWidget.bind(SC.Widget.Events.FINISH,function(){ updatePP(false); var c=scQ&&scQ[scQi]; if(c && c.scUrl && c.scUrl===btn.dataset.sc && scQ.length>1) playScQ(scQi+1); });
+        scWidget.bind(SC.Widget.Events.FINISH,function(){ updatePP(false); var c=scQ&&scQ[scQi]; if(c && c.scUrl && c.scUrl===btn.dataset.sc && scQ.length>1){ trkAuto(); playScQ(scQi+1); } });
+        scWidget.bind(SC.Widget.Events.ERROR,function(){ btn._trkFail=1; sgTrack('play_fail',{ source:'sc', why:navigator.onLine===false?'network':'unavailable' }); });
         scWidget.bind(SC.Widget.Events.READY,function(){ scWidget.getDuration(function(ms){ dur=(ms||0)/1000; paintScrub(); }); });
         scWidget.bind(SC.Widget.Events.PLAY_PROGRESS,function(e){ if(scrubbing) return; pos=(e.currentPosition||0)/1000; paintScrub(); });
         try{ scWidget.getDuration(function(ms){ if(ms){ dur=ms/1000; paintScrub(); } }); }catch(_){} // READY may have already fired
@@ -6345,7 +6466,7 @@ a.dst-full-t:hover{text-decoration:underline}
               if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING){ ytTuck(false); updatePP(true); scQErr=0; }
               else if(e.data===YT.PlayerState.PAUSED){ updatePP(false); ytTuck(true); }
               else if(e.data===YT.PlayerState.PAUSED || e.data===YT.PlayerState.CUED || e.data===YT.PlayerState.UNSTARTED) updatePP(false);
-              else if(e.data===YT.PlayerState.ENDED){ updatePP(false); if(scQ&&scQ.length>1) playScQ(scQi+1); }
+              else if(e.data===YT.PlayerState.ENDED){ updatePP(false); if(scQ&&scQ.length>1){ trkAuto(); playScQ(scQi+1); } }
             },
             // THE MISSING HALF OF PLAYBACK. There was no onError at all, so a
             // video that is deleted, private, region-blocked or has embedding
@@ -6364,6 +6485,8 @@ a.dst-full-t:hover{text-decoration:underline}
               var vid=(active&&active.button&&active.button.dataset&&active.button.dataset.yt)||'';
               var code=String((e&&e.data)||'');
               updatePP(false);
+              if(active&&active.button) active.button._trkFail=1;
+              sgTrack('play_fail',{ source:'yt', why:trkYtFail(code) });
               if(vid){
                 try{ fetch(API_BASE+'/api/youtube/dead',{method:'POST',headers:{'Content-Type':'application/json'},
                   body:JSON.stringify({videoId:vid,reason:code})}).catch(function(){}); }catch(_){}
@@ -6374,10 +6497,11 @@ a.dst-full-t:hover{text-decoration:underline}
               // and say so. scQErr resets the moment anything actually plays.
               // Same artist, another platform, before writing them off.
               var cur=(scQ&&scQ[scQi])||null;
+              trkAuto();
               playFallback(cur).then(function(ok){
                 if(ok){ showToast('Playing from '+(cur&&cur.name?cur.name:'another source')+' instead\u2026'); return; }
                 scQErr++;
-                if(scQ && scQ.length>1 && scQErr < scQ.length){ showToast('Skipping an unplayable set\u2026'); playScQ(scQi+1); }
+                if(scQ && scQ.length>1 && scQErr < scQ.length){ showToast('Skipping an unplayable set\u2026'); trkAuto(); playScQ(scQi+1); }
                 else { scQErr=0; showToast(scQ&&scQ.length>1?'No playable sets in this queue yet.':'That set is no longer playable.'); }
               });
             }
@@ -6404,7 +6528,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(e.target && e.target.closest && e.target.closest('button,a,[role="button"]')) return;
       e.preventDefault(); togglePlay();
     });
-    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
+    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); sgTrack('player',{ action:dock.classList.contains('expanded')?'expand':'minimise' }); }
     if(dockGrab){
       dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
       dockGrab.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDock(); } });
@@ -6421,15 +6545,16 @@ a.dst-full-t:hover{text-decoration:underline}
     // where it was. (Radio and Mixcloud stop without an Undo.)
     onEl('dock-close','click',function(){
       var b=active&&active.button, type=currentType, vid=curVideoId, at=Math.floor(pos||0);
+      if(b) sgTrack('player',{ action:'stop' });
       stopActive();
       var again = !b ? null
         : (type==='yt' && vid) ? function(){ playYt(b, vid, at); }
         : (type==='sc' && b.dataset.sc) ? function(){
             playSc(b);   // starts at its usual 6:00; seek back once the widget knows the length
-            var n=0, t=setInterval(function(){ if(++n>50||!active||currentType!=='sc'){ clearInterval(t); return; } if(dur>0){ clearInterval(t); if(at>5) seekTo(at); } },200);
+            var n=0, t=setInterval(function(){ if(++n>50||!active||currentType!=='sc'){ clearInterval(t); return; } if(dur>0){ clearInterval(t); if(at>5) seekTo(at, true); } },200);
           }
         : null;
-      if(again) showToastAction('Stopped','Undo',again);
+      if(again) showToastAction('Stopped','Undo',function(){ trkNav(); again(); });
     });
 
     // ── YouTube-style queue: play a list of artists as full sets in the dock, with the
@@ -6587,6 +6712,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // Play row i of an artistSetItems() list. A YouTube row starts a queue of the
     // YouTube rows, so next/prev walk sets rather than jumping between players.
     function playSetItem(items, i, slug, artist, image){
+      trkWant('row');
       var it=items[i]; if(!it) return;
       if(it.kind==='yt'){
         var ytQ=items.filter(function(x){ return x.kind==='yt'; })
@@ -6877,6 +7003,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     var scQErr=0;   // consecutive playback failures in the current queue
     async function playYtList(list, startIdx, opts){
+      try{ trkWant((list||[]).every(function(x){ return x && x.slug===list[0].slug; }) ? 'main' : 'lineup'); }catch(_){}   // one artist = their Play; many = a line-up
       // WORK ON COPIES. This function writes a videoId onto every entry it resolves,
       // and a gig line-up passes the SAME entries on every tap. After one YouTube row
       // had played, every other row carried its /api/youtube/cached id, skipped the
@@ -7025,8 +7152,8 @@ a.dst-full-t:hover{text-decoration:underline}
       var p=document.getElementById('dock-prev'), n=document.getElementById('dock-next');
       [p,n].forEach(function(b){ if(b){ b.disabled=dis; b.style.opacity=dis?'0.35':''; } });
     }
-    onEl('dock-prev','click',function(){ playAt(-1); });
-    onEl('dock-next','click',function(){ playAt(1); });
+    onEl('dock-prev','click',function(){ sgTrack('player',{ action:'prev' }); trkNav(); _trkWant.kind='skip'; playAt(-1); });   // kind "skip" = the person pressed next / prev (same on iOS and Android)
+    onEl('dock-next','click',function(){ sgTrack('player',{ action:'next' }); trkNav(); _trkWant.kind='skip'; playAt(1); });
     // Start resolving a button's YouTube id on pointerdown (fires before the
     // click), so the id is usually ready by tap time. Awaiting an already-
     // resolved promise is only a microtask, so playback still runs inside the
@@ -7054,9 +7181,9 @@ a.dst-full-t:hover{text-decoration:underline}
       btn.disabled=true; btn.classList.add('spinning');
       try{
         var r=await p; if(!r) return;
-        if(r.netErr){ showToast('YouTube request failed: '+r.netErr); return; }
-        if(r.status===404){ showToast('No sets found for '+btn.dataset.name+' yet.'); return; }
-        if(!r.ok){ showToast('YouTube error: '+(r.error||r.status)); return; }
+        if(r.netErr){ sgTrack('play_fail',{ source:'yt', why:'network' }); showToast('YouTube request failed: '+r.netErr); return; }
+        if(r.status===404){ sgTrack('play_fail',{ source:'yt', why:'unavailable' }); showToast('No sets found for '+btn.dataset.name+' yet.'); return; }
+        if(!r.ok){ sgTrack('play_fail',{ source:'yt', why:'other' }); showToast('YouTube error: '+(r.error||r.status)); return; }
         btn.dataset.yt=r.videoId; playYt(btn,r.videoId);
       }catch(err){ showToast('YouTube request failed: '+err.message); }
       finally{ btn.disabled=false; btn.classList.remove('spinning'); btn._ytP=null; }
@@ -7159,6 +7286,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var start = 0;
       try { start = broadcastPos(radio.queue.length).idx || 0; } catch (_) {}
       var q = radio.queue.slice(), st = radio.station;   // playYtList tears down radio.*
+      trkWant('lineup'); if(_trkWant) _trkWant.from='radio';
       playYtList(q, start);
       _curStation = st;                                  // ...so record the station AFTER
       if(_radRepaint) try{ _radRepaint(); }catch(_){}     // light the row that's now on air
@@ -7217,9 +7345,10 @@ a.dst-full-t:hover{text-decoration:underline}
         radioYt=new YT.Player(radioIframe,{ events:{
           onReady:function(){ radioWidgetReady=true; if(onReady) onReady(); },
           onStateChange:function(e){
+            if(e.data===YT.PlayerState.PLAYING && _trkRad){ sgTrack('play',{ source:'yt', from:'radio', kind:_trkRad }); _trkRad=null; }
             if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING) radioScPlaying=true;
             else if(e.data===YT.PlayerState.PAUSED) radioScPlaying=false;
-            else if(e.data===YT.PlayerState.ENDED){ radioScPlaying=false; if(radio.on) radioAdvance(1); }
+            else if(e.data===YT.PlayerState.ENDED){ radioScPlaying=false; if(radio.on){ _trkRadAuto=true; radioAdvance(1); } }
           }
         }});
       }
@@ -7240,6 +7369,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     function radioPlayEntry(entry){
       radio.played=0; radioScPlaying=false; // each DJ's set plays from the start, up to six minutes
+      _trkRad=_trkRadAuto?'auto':'lineup'; _trkRadAuto=false;
       var fb=document.createElement('button'); fb.dataset.name=entry.name; fb.dataset.slug=entry.slug; active={ button:fb }; bumpPlayCount();
       // Load the set into the (ideally already-unlocked) persistent player.
       // If it isn't built/ready yet, build it and play in onReady — the first
@@ -7586,11 +7716,11 @@ a.dst-full-t:hover{text-decoration:underline}
     });
     onEl('bnav-search','click',function(){ openSearch(); });
     onEl('bnav-listen','click',function(){ openListen(); });
-    onEl('bnav-log','click',function(){ if(!currentUser){ scOnboard('email'); return; } openLog(); });   // signed out, + goes to the landing — the same door as the banner and You
+    onEl('bnav-log','click',function(){ if(!currentUser){ scOnboard('email', null, 'log_gig'); return; } openLog(); });   // signed out, + goes to the landing — the same door as the banner and You
     // Signed out, "You" is the pitch, not the wizard's city step — that step
     // belongs AFTER the link is clicked, and landing on it cold asked a stranger
     // to pick a city before anything had explained what soundcheck is.
-    onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('email'); }); });
+    onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('email', null, 'you_tab'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
@@ -7821,6 +7951,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function setArtist(slug, status, name){
       if(!slug) return;
       var prev=picks.artists[slug];   // captured for rollback if the server write fails
+      if(status==='wanna_see') sgTrack('heart',{ on:'yes', from:trkPage() }); else if(status===null && prev && prev.status==='wanna_see') sgTrack('heart',{ on:'no', from:trkPage() });
       if(status===null) delete picks.artists[slug];
       else picks.artists[slug] = { name:(name||(picks.artists[slug]&&picks.artists[slug].name)||slug), status:status, t:Date.now() };
       savePicks(); afterPicksChanged(); refreshArtistButtons(slug);
@@ -7829,6 +7960,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function setEvent(id, status, meta){
       if(!id) return;
       var prev=picks.events[id];      // captured for rollback if the server write fails
+      if(status==='saved'||status==='going'||(status===null&&prev)) sgTrack('gig_save',{ what:status||'off', from:trkPage() });
       var cur=picks.events[id]||{};
       if(status===null) delete picks.events[id];
       else picks.events[id] = { title:(meta&&meta.title)||cur.title||'', venue:(meta&&meta.venue)||cur.venue||'', day:(meta&&meta.day)||cur.day||'', status:status, t:Date.now() };
@@ -7841,7 +7973,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function toggleArtist(slug, meta){
       if(!slug) return;
       if(artStatus(slug)==='wanna_see'){ setArtist(slug, null, meta&&meta.name); return; }
-      if(!hasEmail()){ ensureEmailGate().then(function(ok){ if(ok) setArtist(slug,'wanna_see',meta&&meta.name); }); return; }
+      if(!hasEmail()){ ensureEmailGate({ from:'heart' }).then(function(ok){ if(ok) setArtist(slug,'wanna_see',meta&&meta.name); }); return; }
       setArtist(slug, 'wanna_see', meta&&meta.name);
     }
     // Heart = Save. "I'm going" is the upgrade, offered on the event page button.
@@ -7854,7 +7986,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // sign-up moment as hearts); clearing/downgrading never gates.
     function setEventGated(id, status, meta){
       if(!id) return;
-      if(status && !hasEmail()){ ensureEmailGate().then(function(ok){ if(ok) setEvent(id, status, meta); }); return; }
+      if(status && !hasEmail()){ ensureEmailGate({ from:'save_gate' }).then(function(ok){ if(ok) setEvent(id, status, meta); }); return; }
       setEvent(id, status, meta);
     }
     // ponytail: Queue/Listened set-shelf UI removed (founder: "too much") — API
@@ -7942,8 +8074,8 @@ a.dst-full-t:hover{text-decoration:underline}
         // view, and it is the sunset pill, per the button rules.
         el.innerHTML='<button class="signin-btn" id="signin-btn" data-ic="signin" type="button">Sign in</button>'+
           '<button class="signup-btn" id="signup-btn" data-ic="signin" type="button">Sign up</button>';
-        document.getElementById('signin-btn').addEventListener('click',function(){ scOnboard('email','signin'); });
-        document.getElementById('signup-btn').addEventListener('click',function(){ scOnboard('email','join'); });
+        document.getElementById('signin-btn').addEventListener('click',function(){ scOnboard('email','signin','header'); });
+        document.getElementById('signup-btn').addEventListener('click',function(){ scOnboard('email','join','header'); });
       }
       paintPromo();
       frdAuthChanged();
@@ -7982,7 +8114,7 @@ a.dst-full-t:hover{text-decoration:underline}
       // The banner's "sign up" goes to the LANDING, not the little auth modal.
       // It is the one place someone is being pitched rather than gated, so it
       // gets the page that does the pitching.
-      if(k==='signup'){ scOnboard('email'); return; }
+      if(k==='signup'){ scOnboard('email', null, 'banner'); return; }
       // Signed in, so the account already carries the email a waitlist would
       // ask for. One tap records the intent against that account — no form, and
       // no new table: feedback already stores kind + user, and is queryable.
@@ -8252,7 +8384,8 @@ a.dst-full-t:hover{text-decoration:underline}
     // ONE delegated handler for every save icon in the app (cards, rows, Listen, dock).
     function lsnToggle(key, btn){
       if(!key) return;
-      if(!currentUser){ _lsnPend=key; openAuth(); return; }
+      if(!currentUser){ _lsnPend=key; openAuth('save_gate'); return; }
+      sgTrack('save_set',{ on:_lsnAdded[key]?'no':'yes', from:trkPage() });
       lsnSet(key, !_lsnAdded[key], false, btn);
     }
     document.addEventListener('click', function(e){
@@ -8262,7 +8395,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }, true);
     // Mark as heard / un-tick. Heard also happens by itself at 70% played (below).
     function lsnHeardSet(key, on){
-      if(!currentUser){ openAuth(); return; }
+      if(!currentUser){ openAuth('save_gate'); return; }
       var i=key.indexOf('|'), meta=_lsnMeta[key]||{}, body={ id:key.slice(i+1), source:key.slice(0,i), heard:!!on };
       if(on) Object.keys(meta).forEach(function(f){ if(meta[f]!=null && meta[f]!=='') body[f]=meta[f]; });
       authedFetch('/api/sets/heard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) })
@@ -8334,7 +8467,7 @@ a.dst-full-t:hover{text-decoration:underline}
         else if(act==='heard') lsnHeardSet(key, !heard);
         else if(act==='gig') openEvent(String(r.nextGig.id));
         else if(act==='artist') openArtist(r.slug);
-        else if(act==='share') doShare({ title:r.title, text:r.title, url:r.slug?location.origin+djHref(r.slug)+'#sets':r.url });
+        else if(act==='share'){ trkShare('set'); doShare({ title:r.title, text:r.title, url:r.slug?location.origin+djHref(r.slug)+'#sets':r.url }); }
         else if(act==='report') reportSet(r.slug, vid, 'youtube');
       });
     }
@@ -8424,6 +8557,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     // Play entry i of the page's list; the dock queue is the rest of the list.
     function lsnPlay(list, i){
+      trkWant('row');
       var q=list.map(function(s){
         var who={ slug:s.artistSlug||'', name:s.artistName||s.title||'Set' };
         if(s.source==='yt') return { slug:who.slug||'set', name:who.name, videoId:s.id, poster:s.thumb||'' };
@@ -8477,7 +8611,7 @@ a.dst-full-t:hover{text-decoration:underline}
       body.innerHTML=h;
       body.querySelectorAll('.qchip[data-chip]').forEach(function(b){ b.addEventListener('click', function(){ _lsnChip=b.dataset.chip; lsnPaintList(); }); });
       body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(list, +b.dataset.li); }); });
-      var si=document.getElementById('lsn-signin'); if(si) si.addEventListener('click', function(){ openAuth(); });
+      var si=document.getElementById('lsn-signin'); if(si) si.addEventListener('click', function(){ openAuth('listen'); });
       lsnNowPaint();
     }
 
@@ -8495,12 +8629,13 @@ a.dst-full-t:hover{text-decoration:underline}
 
     // sign-in modal
     var authOv=document.getElementById('auth-overlay');
-    function openAuth(){
+    function openAuth(from){
       // Don't pop the sign-in form before we know who they are — on a cold-backend
       // refresh currentUser is briefly null, and the gesture guards (if(!currentUser)
       // openAuth()) would otherwise flash it at an already-signed-in user. Wait for
       // /api/auth/me; only show it if they're genuinely signed out.
-      if(!_meLoaded){ whenAuthKnown().then(function(){ if(!currentUser) openAuth(); }); return; }
+      if(!_meLoaded){ whenAuthKnown().then(function(){ if(!currentUser) openAuth(from); }); return; }
+      if(!authOv.classList.contains('show')) sgTrack('signup_open',{ from:from||'other' });
       document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
     function closeAuth(){ authOv.classList.remove('show'); }
 
@@ -8886,13 +9021,16 @@ a.dst-full-t:hover{text-decoration:underline}
       code=(code||'').trim();
       if(!email) return 'Email missing. Start again.';
       if(code.replace(/[^a-z0-9]/gi,'').length<4) return 'Enter the code from the email.';
+      var told=false;   // one signup_code per try
       try{
         var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
         var j=await r.json().catch(function(){return {};});
-        if(!r.ok || !j.ok) return (r.status===400?'That code is wrong or has expired. Send a new one.':'Something went wrong, try again.');
+        if(!r.ok || !j.ok){ sgTrack('signup_code',{ result:r.status===400?'wrong':'error' }); return (r.status===400?'That code is wrong or has expired. Send a new one.':'Something went wrong, try again.'); }
+        told=true; sgTrack('signup_code',{ result:'ok' });
         if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
         var hadLocal=pickCount()>0;
         await loadMe(); renderAccount();
+        sgTrack('signup_done',{ method:'code', 'new':j.isNew?'yes':'no' });
         hideSignupBanner();
         setPref('pendingEmail','');
         if(currentUser && hadLocal){
@@ -8902,7 +9040,7 @@ a.dst-full-t:hover{text-decoration:underline}
           }).then(function(){ showToast('Signed in. Your picks are saved'); }).catch(function(){});
         } else { showToast('Signed in'); }
         return null;
-      }catch(_){ return 'Network error. Try again.'; }
+      }catch(_){ if(!told) sgTrack('signup_code',{ result:'error' }); return 'Network error. Try again.'; }
     }
 
     onEl('auth-code-go','click',async function(){
@@ -8921,22 +9059,23 @@ a.dst-full-t:hover{text-decoration:underline}
       e.preventDefault();
       var input=document.getElementById('auth-email'), go=document.getElementById('auth-go'), err=document.getElementById('auth-err');
       var email=input.value.trim().toLowerCase();
-      if(!EMAIL_RE.test(email)||email.length>254){ err.textContent='Enter a valid email.'; input.focus(); return; }
+      if(!EMAIL_RE.test(email)||email.length>254){ sgEmail('invalid', email); err.textContent='Enter a valid email.'; input.focus(); return; }
       go.disabled=true; err.textContent='';
       try{
         var r=await fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email }) });
-        if(!r.ok){ err.textContent='Couldn’t send. Try again.'; go.disabled=false; return; }
+        if(!r.ok){ sgEmail('error', email); err.textContent='Couldn’t send. Try again.'; go.disabled=false; return; }
+        sgEmail('sent', email); sgTrack('signup_code_view');
         document.getElementById('auth-sent-to').textContent=email;
         document.getElementById('auth-form-state').hidden=true;
         document.getElementById('auth-sent-state').hidden=false;
-      }catch(_){ err.textContent='Network error. Try again.'; }
+      }catch(_){ sgEmail('error', email); err.textContent='Network error. Try again.'; }
       finally{ go.disabled=false; }
     });
 
     onEl('signup-banner-dismiss','click', hideSignupBanner);
     onEl('signup-banner-resend','click', async function(){
       if(!_pendingEmail) return;
-      var btn=this; btn.disabled=true;
+      var btn=this; btn.disabled=true; sgTrack('signup_resend');
       try{ await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:_pendingEmail})}); showToast('Sign-in link resent to '+_pendingEmail); }
       catch(_){ showToast('Couldn’t resend. Try again.'); }
       finally{ btn.disabled=false; }
@@ -8950,8 +9089,9 @@ a.dst-full-t:hover{text-decoration:underline}
         _memToken=m[1]; // cookie is primary; never persisted client-side
         history.replaceState(null,'',location.pathname+location.search);
         // First sign-in: migrate any anonymous localStorage picks into the account.
-        var hadLocal=pickCount()>0;
+        var hadLocal=pickCount()>0, wasNew=/[?&]welcome=1(&|$)/.test(location.search);   // the server adds ?welcome=1 for an account it just made
         _meReady=loadMe().then(function(){
+          if(currentUser) sgTrack('signup_done',{ method:'link', 'new':wasNew?'yes':'no' });
           if(currentUser && hadLocal){
             authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
               body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
@@ -8995,6 +9135,7 @@ a.dst-full-t:hover{text-decoration:underline}
       window.prompt('Copy this link:', opts.url);
     }
     function shareArtist(slug, name){
+      trkShare('artist');
       // The artist's OWN page, not the page you happened to be on — the same
       // canonical-path rule shareEvent follows. A shared link must open what it
       // names on any device, signed in or not.
@@ -9002,6 +9143,7 @@ a.dst-full-t:hover{text-decoration:underline}
       doShare({ title:name||'Listen on soundcheck', text:(name||slug)+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
+      trkShare('gig');
       // Canonical, descriptive event path — NOT location.pathname+#hash (which pinned
       // the event to whatever page you were on and broke under path routing).
       var url=location.origin+SC_BASE+eventPath(eventIdOf(id), title, venue)+'/';
@@ -9050,8 +9192,9 @@ a.dst-full-t:hover{text-decoration:underline}
     // BOARD D — claim it. Handle + email, then a code. The handle is held until
     // sign-in, because /api/handle needs a session; the code creates one.
     var _inv={ handle:'', email:'' };
-    function invStepClaim(id, ev, inviter){
+    function invStepClaim(id, ev, inviter, back){
       obChrome('');
+      if(!back) sgTrack('signup_open',{ from:'invite' });
       var day=(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')||'');
       var el=obBody('<button class="ob-x" id="inv-x1" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">You&rsquo;re in'+(day?' &middot; '+esc(day):'')+'</div>'+
@@ -9074,16 +9217,16 @@ a.dst-full-t:hover{text-decoration:underline}
       function go(){
         var em=(ei.value||'').trim().toLowerCase();
         _inv.handle=(hi.value||'').trim().replace(/[^a-z0-9._-]/gi,'').toLowerCase();
-        if(!EMAIL_RE.test(em)||em.length>254){ err.textContent='That email doesn\u2019t look right.'; return; }
+        if(!EMAIL_RE.test(em)||em.length>254){ sgEmail('invalid', em); err.textContent='That email doesn\u2019t look right.'; return; }
         if(_inv.handle && _inv.handle.length<3){ err.textContent='A handle needs at least 3 characters. Or leave it blank.'; return; }
-        _inv.email=em; var b=el.querySelector('#inv-go'); b.disabled=true; err.textContent='';
+        _inv.email=em; _inv.sentFor=''; var b=el.querySelector('#inv-go'); b.disabled=true; err.textContent='';
         // pendingEmail only. emailGated is what hasEmail() reads as "this person
         // has an account", and setting it here — BEFORE the code is verified —
         // is the exact regression finishCodeSignIn's docblock warns about: it
         // silently retires the gate for someone who never finished signing up.
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:em }) })
-          .then(function(r){ if(!r.ok) throw 0; setPref('pendingEmail',em); invStepCode(id, ev, inviter); })
-          .catch(function(){ b.disabled=false; err.textContent='Couldn\u2019t send. Try again.'; });
+          .then(function(r){ if(!r.ok) throw 0; sgEmail('sent', em); setPref('pendingEmail',em); invStepCode(id, ev, inviter); })
+          .catch(function(){ if(_inv.sentFor!==em) sgEmail('error', em); b.disabled=false; err.textContent='Couldn\u2019t send. Try again.'; });
       }
       el.querySelector('#inv-x1').addEventListener('click',obClose);
       el.querySelector('#inv-go').addEventListener('click',go);
@@ -9094,6 +9237,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // and must never ship again), and one set to play while they wait.
     function invStepCode(id, ev, inviter){
       obChrome('');
+      _inv.sentFor=_inv.email; sgTrack('signup_code_view');
       var a0=((ev.artists||[])[0]||{});
       var el=obBody('<button class="ob-x" id="inv-x2" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Check your inbox</div>'+
@@ -9126,7 +9270,7 @@ a.dst-full-t:hover{text-decoration:underline}
           // started under a name you did not get. Say so, keep the auto-assigned one.
           try{
             var hr=await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:_inv.handle }) });
-            if(!hr.ok) showToast('@'+_inv.handle+' is taken. Pick another in your profile.');
+            if(!hr.ok) showToast('@'+_inv.handle+' is taken. Pick another in your profile.'); else sgTrack('signup_handle',{ result:'saved' });
             await loadMe();
           }catch(_){ }
         }
@@ -9136,13 +9280,14 @@ a.dst-full-t:hover{text-decoration:underline}
       cgo.addEventListener('click',verify);
       ci.addEventListener('keydown',function(e){ if(e.key==='Enter') verify(); });
       el.querySelector('#inv-resend').addEventListener('click',function(){
+        sgTrack('signup_resend');
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_inv.email }) })
           .then(function(){ cerr.textContent='Sent again. Check your inbox.'; }).catch(function(){});
       });
       // mapEventDetail gives artists {name, contentUrl:'/'+slug} — there is no
       // .slug on them, so reading one passed undefined into the sets lookup.
       el.querySelector('#inv-x2').addEventListener('click',obClose);
-      el.querySelector('#inv-back').addEventListener('click',function(){ invStepClaim(id, ev, inviter); });
+      el.querySelector('#inv-back').addEventListener('click',function(){ invStepClaim(id, ev, inviter, true); });
       var ip=el.querySelector('#inv-play');
       if(ip) ip.addEventListener('click',function(){ obClose(); playArtistSets(String(a0.contentUrl||'').replace(/^\//,''), a0.name); });
       setTimeout(function(){ ci.focus(); },80);
@@ -9219,6 +9364,7 @@ a.dst-full-t:hover{text-decoration:underline}
       document.body.appendChild(a); a.click(); a.remove();
     }
     function shareInvite(id, title, venue){
+      trkShare('gig');
       var t=(title||'A gig')+(venue?(' at '+venue):'');
       // The text must NOT contain the URL. navigator.share appends `url` itself,
       // so a link inside `text` renders the link twice in the message — which is
@@ -9308,8 +9454,9 @@ a.dst-full-t:hover{text-decoration:underline}
       var cl=document.getElementById('mp-clear'); if(cl) cl.addEventListener('click',function(){
         if(!pickCount())return;
         if(!confirm('Clear all '+pickCount()+' from your list?'))return;
-        Object.keys(picks.artists).forEach(function(slug){ setArtist(slug, null); });
-        Object.keys(picks.events).forEach(function(id){ setEvent(id, null); });
+        _trkMute=true;   // "clear all" is one action, not one event per pick
+        try{ Object.keys(picks.artists).forEach(function(slug){ setArtist(slug, null); });
+        Object.keys(picks.events).forEach(function(id){ setEvent(id, null); }); }finally{ _trkMute=false; }
         document.querySelectorAll('.heart.on').forEach(function(b){b.classList.remove('on');});
         openMyPicks();
       });
@@ -9589,7 +9736,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // Account = the profile page exactly + a settings gear in the corner + a
     // "Coming up" banner (previews your next show) above the tabs.
     function openAccount(initialTab){
-      if(!currentUser){ openAuth(); return; }
+      if(!currentUser){ openAuth('you_tab'); return; }
       setRoute('account');
       openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
       var handle=currentUser.handle;
@@ -10303,7 +10450,8 @@ a.dst-full-t:hover{text-decoration:underline}
       var title=dstTitle(d), venue=d.title?(d.venue||''):'';
       var eye=[dstDay(d), d.city?cityLabel(d.city):''].filter(Boolean).join(' · ');
       // The artists you caught, with the stars you gave each one (the old diary row printed "name ★4" too).
-      var arts=diaryValid(d).map(function(a){ return (a.name||a.slug)+(a.rating?' \u2605'+a.rating:''); }).join(' · ');
+      // One span per artist, so dstArtsFit can hide the ones that do not fit and count them.
+      var arts=diaryValid(d).map(function(a,i){ return '<span>'+(i?' · ':'')+esc((a.name||a.slug)+(a.rating?' \u2605'+a.rating:''))+'</span>'; }).join('');
       var note=String(d.note||'').trim();
       var poster=d.poster_url
         ? '<div class="dst-poster" style="background-image:url(\''+esc(imgUrl(d.poster_url,300))+'\')"></div>'
@@ -10313,7 +10461,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="dst-body">'+(eye?'<div class="dst-eye">'+esc(eye)+'</div>':'')+
           '<div class="dst-title">'+esc(title)+'</div>'+
           (venue?'<div class="dst-venue">'+esc(venue)+'</div>':'')+
-          (arts?'<div class="dst-arts">'+esc(arts)+'</div>':'')+
+          (arts?'<div class="dst-arts">'+arts+' <button class="dst-artmore" type="button" hidden></button></div>':'')+
           // THE NOTE. The stub redesign dropped it (founder, 2 Oct 2026: "do not remove features like this").
           // On your diary and on another person's, as the old row did. No note → nothing.
           (note?'<div class="dst-note">'+esc(note)+'</div>':'')+
@@ -10326,6 +10474,21 @@ a.dst-full-t:hover{text-decoration:underline}
           ((isMe&&id)?'<button class="dst-more" type="button" aria-haspopup="menu" aria-label="More" data-more-entry="'+id+'">'+MORE_SVG+'</button>':'<span></span>')+
           (d.gig_no!=null?'<div class="dst-no"><small>GIG</small><b>N\u00ba '+esc(String(d.gig_no))+'</b></div>':'')+
         '</div></div>';
+    }
+    // "+3 more" / "Show less" on a stub's artists line. Shown only when the 2 lines cut the names.
+    function dstArtsFit(root){
+      (root||document).querySelectorAll('.dst-arts').forEach(function(el){
+        var b=el.querySelector('.dst-artmore'), sp=el.querySelectorAll('span'); if(!b || el.classList.contains('open')) return;
+        sp.forEach(function(x){ x.classList.remove('h'); }); b.hidden=true; el.classList.add('fit');
+        if(!el.clientHeight || el.scrollHeight<=el.clientHeight+1){ el.classList.remove('fit'); return; }   // not on screen yet, or every name is on the 2 lines
+        b.hidden=false; b.setAttribute('aria-expanded','false');
+        for(var k=sp.length-1;k>0;k--){ sp[k].classList.add('h'); b.textContent='+'+(sp.length-k)+' more'; if(el.scrollHeight<=el.clientHeight+1) break; }
+      });
+    }
+    function dstArtsToggle(b){
+      var el=b.parentNode, open=el.classList.toggle('open');
+      if(open){ el.classList.remove('fit'); el.querySelectorAll('span.h').forEach(function(x){ x.classList.remove('h'); }); b.textContent='Show less'; b.setAttribute('aria-expanded','true'); }
+      else dstArtsFit(el.parentNode);
     }
     function diaryTLHTML(diary, isMe, handle){
       if(!diary.length){
@@ -10440,6 +10603,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // Share = the stub's share card (card.js): the OS share sheet where the browser
     // has one, else save the image and copy the profile link.
     async function dstShare(d, handle){
+      trkShare('stub');
       var link='https://soundcheck.club/u/'+handle;
       try{
         var r=await fetch(dstCardSrc(d,'story')); if(!r.ok) throw 0;
@@ -10822,12 +10986,15 @@ a.dst-full-t:hover{text-decoration:underline}
       var st=scope.querySelector('.dst'), handle=st?st.dataset.handle:'';
       if(st){
         if(isMe) dstFillSteps(st);
+        // Measured when the list gets a size (a hidden tab has none) and again when its width changes.
+        if(window.ResizeObserver) new ResizeObserver(function(){ dstArtsFit(st); }).observe(st); else dstArtsFit(st);
         st.addEventListener('click',function(e){
           var j=e.target.closest('.dst-mo'); if(j){
             var mh=st.querySelector('.dst-month[data-month="'+j.dataset.jump+'"]'); if(!mh) return;
             j.parentNode.querySelectorAll('.dst-mo.on').forEach(function(x){ x.classList.remove('on'); }); j.classList.add('on');
             mh.scrollIntoView({ behavior:'smooth', block:'start' }); return;
           }
+          var am=e.target.closest('.dst-artmore'); if(am){ e.stopPropagation(); dstArtsToggle(am); return; }   // the names open in place; the full stub stays shut
           var s=e.target.closest('.dst-stub'), d=s&&_diaryById[s.dataset.entry]; if(!d) return;
           var mb=e.target.closest('.dst-more');
           if(mb){ if(isMe) dstMenu(mb, d, handle, onChange); return; }
@@ -10903,6 +11070,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // Scene-card share sheet: the real PNG (/api/card — seen artists front and
     // centre), native share where the OS has it, save + copy-link everywhere else.
     function pbShareCard(p){
+      trkShare('profile');
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<img class="ob-card" style="display:block;margin:0 auto 14px" alt="Scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(p.handle)+'&cb='+Date.now())+'">'+
@@ -10994,6 +11162,7 @@ a.dst-full-t:hover{text-decoration:underline}
       '</div>';
     }
     function shareRotationCard(p){
+      trkShare('profile');
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="rc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         rotationCardHTML(p)+
@@ -11057,8 +11226,9 @@ a.dst-full-t:hover{text-decoration:underline}
       }).join('')+'</div>';
       el.querySelectorAll('.ppl-f').forEach(function(b){
         b.addEventListener('click', async function(){
-          if(!currentUser){ openAuth(); return; }
+          if(!currentUser){ openAuth('follow'); return; }
           var on=b.classList.contains('on');
+          sgTrack('follow',{ type:'user', on:on?'no':'yes' });
           // Optimistic; reverts if the call fails.
           b.classList.toggle('on', !on); b.textContent = on ? 'Follow' : 'Following'; b.disabled=true;
           try{
@@ -11528,8 +11698,9 @@ a.dst-full-t:hover{text-decoration:underline}
     function wireProfile(){
       var fb=document.getElementById('follow-btn');
       if(fb) fb.addEventListener('click',async function(){
-        if(!currentUser){ openAuth(); return; }
+        if(!currentUser){ openAuth('follow'); return; }
         var on=fb.classList.contains('following');
+        sgTrack('follow',{ type:'user', on:on?'no':'yes' });
         fb.classList.toggle('following'); fb.textContent=on?'Follow':'Following';
         // REVERT on failure. The catch used to be empty, so a failed follow
         // left the button saying "Following" forever while the server had no
@@ -11780,7 +11951,7 @@ a.dst-full-t:hover{text-decoration:underline}
       el.innerHTML= kind==='out' ? '<div class="frd-st"><b>Sign in to see your friends.</b><button class="fp-ab go" id="frd-in" data-ic="signin" type="button">Sign in</button></div>'
         : kind==='empty' ? '<div class="frd-st"><b>Nobody here yet</b><p>Follow people to see their gigs, sets and clips.</p><button class="fp-ab" id="frd-find" data-ic="search" type="button">Find people</button></div>'
         : '<div class="frd-st"><p>'+loadErr('the feed')+'</p><button class="fp-ab" id="frd-retry" data-ic="retry" type="button">Try again</button></div>';
-      el.querySelector('button').addEventListener('click', kind==='out'?function(){ scOnboard('email','signin'); }:kind==='empty'?function(){ openSearch(); }:retry);
+      el.querySelector('button').addEventListener('click', kind==='out'?function(){ scOnboard('email','signin','friends'); }:kind==='empty'?function(){ openSearch(); }:retry);
       if(kind==='empty') frdSuggest(el);
     }
     // "People you might know" (the old Feed page had it): plain text links, no pills, no counts.
@@ -11829,6 +12000,7 @@ a.dst-full-t:hover{text-decoration:underline}
       }
     }
     async function openFriends(){
+      try{ var _fd=document.getElementById('frd-dot'); sgTrack('friends_open',{ 'new':(_fd && !_fd.hidden)?'yes':'no' }); }catch(_){}
       if(currentRoute()==='feed') history.replaceState({sc:1},'',SC_BASE+'#friends'); else setRoute('friends');
       openPanel('<div class="frd"><div class="rad-hd"><h2 class="rad-h1">Friends</h2></div><div id="frd-body">'+FRD_SKEL+'</div></div>');
       // phones: its own screen with the back bar; web: the bar comes when the title scrolls away
@@ -12264,6 +12436,7 @@ a.dst-full-t:hover{text-decoration:underline}
           if(ms<=2) items.push({ type:'city', name:'Switch to soundcheck '+c.name, citySlug:c.slug, score:-10+ms, sub:'Change city' });
         });
       }
+      trkSearch(items.length);
       if(!items.length){
         el.innerHTML='<div class="empty" style="padding:20px 0">No '+(_sxFilter==='past'?'past gigs':'matches')+' for &ldquo;'+esc(q)+'&rdquo;. '+
           (_sxFilter==='past'?'Try All.':'Try an artist, venue, promoter or city.')+'</div>'; return; }
@@ -12596,6 +12769,7 @@ a.dst-full-t:hover{text-decoration:underline}
         // it came from. It used to mean their newest SOUNDCLOUD set, which started
         // a 2013 podcast for an artist whose newest set is a 2026 YouTube upload.
         function tuneInSets(){
+          trkWant('main');
           var who={ slug:slug, name:a.name||slug, popular:a.popular };
           latestSet(who).then(function(lt){
             if(lt && lt.kind==='sc' && lt.url){ playScUrl(lt.url, lt.title, lt.art, lt.src, who); return; }
@@ -12770,8 +12944,9 @@ a.dst-full-t:hover{text-decoration:underline}
     // A follow button that flips to "Following" and silently did nothing is the
     // class of bug AGENTS.md rule 14 exists for.
     async function togglePromoterFollow(p, btn){
-      if(!currentUser){ openAuth(); return; }
+      if(!currentUser){ openAuth('follow'); return; }
       var on=btn.classList.contains('on'), next=!on;
+      sgTrack('follow',{ type:'promoter', on:next?'yes':'no' });
       btn.classList.toggle('on', next);
       btn.setAttribute('aria-pressed', next?'true':'false');
       var lbl=btn.querySelector('span'); if(lbl) lbl.textContent=next?'Following':'Follow';
@@ -12788,8 +12963,9 @@ a.dst-full-t:hover{text-decoration:underline}
       }
     }
     function toggleVenueFollow(v, btn){
-      if(!currentUser){ openAuth(); return; }
+      if(!currentUser){ openAuth('follow'); return; }
       var willFollow=!btn.classList.contains('on');
+      sgTrack('follow',{ type:'venue', on:willFollow?'yes':'no' });
       var lbl=btn.querySelector('span');
       btn.classList.toggle('on', willFollow);
       if(lbl) lbl.textContent=willFollow?'Following':'Follow';
@@ -14054,7 +14230,7 @@ a.dst-full-t:hover{text-decoration:underline}
           // artist page already use, so the night, venue and bill come with it.
           var lb=document.getElementById('fp-ev-log');
           if(lb) lb.addEventListener('click',function(){
-            if(!currentUser){ openAuth(); return; }
+            if(!currentUser){ openAuth('log_gig'); return; }
             openLog({ eventId: id });
           });
         // Edit your own log of this night. openLog({eventId}) is the same entry
@@ -14285,6 +14461,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     function selectLgEvent(e){
       lgSel={ id:e.id, title:e.title, venue:e.venue, venue_slug:e.venue_slug||null, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };
+      sgTrack('log_gig',{ step:'picked' });
       lgArtists=[];   // start with nobody selected — you tap the acts you actually caught
       document.getElementById('lg-extra').style.display='';
       renderLgLineup(); renderLgEvents();
@@ -14587,7 +14764,15 @@ a.dst-full-t:hover{text-decoration:underline}
       // Both steps are one tap and neither can be skipped, so there is no Skip.
       dots.innerHTML = i<0 ? '' : OB_STEPS.map(function(_,j){ return '<i'+(j<=i?' class="on"':'')+'></i>'; }).join('');
     }
-    function scOnboard(step, mode){
+    // After a sign-in: only the steps this account still needs. An account that already has a city and a handle goes
+    // straight in (5 Oct 2026: the founder signed in to his own account and got "Are you in London?" and "Pick your handle.").
+    function obAfterSignIn(){
+      var hasCity=!!(currentUser && currentUser.prefs && currentUser.prefs.homeCity) || !!(typeof prefs!=='undefined' && prefs && prefs.homeCity);
+      var hasHandle=!!(currentUser && currentUser.handleClaimed);   // a new account has an automatic handle until the person picks one
+      if(hasCity && hasHandle){ obClose(); return; }
+      scOnboard(hasCity ? 'handle' : 'city');
+    }
+    function scOnboard(step, mode, from){
       // Only the sign-in steps work signed-out; city and handle need a user.
       var OPEN={intro:1,email:1,inbox:1,city:1};
       if(!OPEN[step] && !currentUser){ step='email'; }
@@ -14595,7 +14780,7 @@ a.dst-full-t:hover{text-decoration:underline}
       // things without six swipes. Every old entry point ('intro') lands here.
       if(step==='intro') step='email';
       obChrome(step);
-      if(step==='email') return obStepEmail(mode);
+      if(step==='email') return obStepEmail(mode, from);
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
       if(step==='handle') return obStepHandle();
@@ -14682,8 +14867,9 @@ a.dst-full-t:hover{text-decoration:underline}
                 cta:'Sign in', fine:'Get a sign-in link in your inbox.',
                 ask:'New here?', link:'Join soundcheck', to:'join' }
     };
-    function obStepEmail(mode){
+    function obStepEmail(mode, from){
       var m=OB_MODE[mode]||OB_MODE.join;
+      if(!document.querySelector('#obv.show.ob-landing')) sgTrack('signup_open',{ from:from||'other' });   // not again when the landing is already up
       var el=obBody('<div class="ob-land">'+
         // The door. On a PHONE this is hidden and the tab bar is the door —
         // it floats above the landing and every tap dismisses it, which is what
@@ -14735,11 +14921,11 @@ a.dst-full-t:hover{text-decoration:underline}
       });
       function go(){
         var em=inp.value.trim().toLowerCase();
-        if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ el.querySelector('#ob-err').textContent='Enter a valid email.'; return; }
+        if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ sgEmail('invalid', em); el.querySelector('#ob-err').textContent='Enter a valid email.'; return; }
         _ob.email=em; var b=el.querySelector('#ob-send'); b.disabled=true; el.querySelector('#ob-err').textContent='';
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:em }) })
-          .then(function(r){ if(!r.ok) throw 0; scOnboard('inbox'); })
-          .catch(function(){ b.disabled=false; el.querySelector('#ob-err').textContent='Couldn’t send. Try again.'; });
+          .then(function(r){ if(!r.ok) throw 0; sgEmail('sent', em); scOnboard('inbox'); })
+          .catch(function(){ if(!document.getElementById('ob-code')) sgEmail('error', em); b.disabled=false; el.querySelector('#ob-err').textContent='Couldn’t send. Try again.'; });
       }
       el.querySelector('#ob-send').addEventListener('click',go);
       el.querySelector('#ob-close1').addEventListener('click',obClose);
@@ -14764,6 +14950,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<button class="ob-cta" id="ob-codego" data-ic="signin" type="button">Sign in</button>'+
         '<button class="ob-alt" id="ob-resend" type="button">Send a new code</button>');
       var inp=el.querySelector('#ob-code'), busy=false;
+      sgTrack('signup_code_view');
       /**
        * THIS SCREEN WAS A DEAD END, and it is the one people actually reach
        * from "sign in".
@@ -14784,14 +14971,17 @@ a.dst-full-t:hover{text-decoration:underline}
         if(code.length<4){ el.querySelector('#ob-err').textContent='Enter the code from the email.'; return; }
         busy=true; el.querySelector('#ob-err').textContent='';
         var go=el.querySelector('#ob-codego'); if(go) go.disabled=true;
+        var told=false;
         try{
           var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email, code:code }) });
           var j=await r.json().catch(function(){return {};});
-          if(!r.ok || !j.ok){ el.querySelector('#ob-err').textContent='That code is wrong or has expired. Send a new one.'; busy=false; if(go) go.disabled=false; return; }
+          if(!r.ok || !j.ok){ sgTrack('signup_code',{ result:r.status===400?'wrong':'error' }); el.querySelector('#ob-err').textContent='That code is wrong or has expired. Send a new one.'; busy=false; if(go) go.disabled=false; return; }
+          told=true; sgTrack('signup_code',{ result:'ok' });
           if(j.token) _memToken=j.token;
           await loadMe(); renderAccount();
-          scOnboard('city');
-        }catch(_){ el.querySelector('#ob-err').textContent='Network error. Try again.'; busy=false; if(go) go.disabled=false; }
+          sgTrack('signup_done',{ method:'code', 'new':j.isNew?'yes':'no' });
+          obAfterSignIn();
+        }catch(_){ if(!told) sgTrack('signup_code',{ result:'error' }); el.querySelector('#ob-err').textContent='Network error. Try again.'; busy=false; if(go) go.disabled=false; }
       }
       el.querySelector('#ob-codego').addEventListener('click',obVerify);
       inp.addEventListener('keydown',function(e){ if(e.key==='Enter') obVerify(); });
@@ -14800,6 +14990,7 @@ a.dst-full-t:hover{text-decoration:underline}
       });
       el.querySelector('#ob-closei').addEventListener('click',obClose);
       el.querySelector('#ob-resend').addEventListener('click',function(){
+        sgTrack('signup_resend');
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email }) })
           .then(function(){ showToast('Sent again. Check your inbox.'); }).catch(function(){});
       });
@@ -14860,6 +15051,7 @@ a.dst-full-t:hover{text-decoration:underline}
         // A door. A handle is changeable from the account hub, and the last step
         // of a sign-up is not the place to trap somebody.
         '<button class="ob-alt" id="ob-h-later" type="button">Do this later</button>');
+      sgTrack('signup_handle',{ result:'shown' });
       var input=el.querySelector('#ob-h-in'), status=el.querySelector('#ob-h-status'),
           go=el.querySelector('#ob-h-go'), err=el.querySelector('#ob-h-err');
       var okHandle=null;
@@ -14887,11 +15079,12 @@ a.dst-full-t:hover{text-decoration:underline}
           if(!r.ok){ err.textContent=j.error||'Couldn’t save. Try again.'; go.disabled=false; return; }
           if(currentUser){ currentUser.handle=j.handle; currentUser.handleClaimed=true; }
           setPref('handlePrompted',1);
+          sgTrack('signup_handle',{ result:'saved' });
           try{ renderAccount(); }catch(_){}
           obClose(); showToast('You\u2019re u/'+j.handle);
         }catch(_){ err.textContent='Couldn’t save. Try again.'; go.disabled=false; }
       });
-      el.querySelector('#ob-h-later').addEventListener('click',function(){ setPref('handlePrompted',1); obClose(); });
+      el.querySelector('#ob-h-later').addEventListener('click',function(){ sgTrack('signup_handle',{ result:'skipped' }); setPref('handlePrompted',1); obClose(); });
       setTimeout(function(){ input.focus(); },80);
     }
     // Save the card PNG to the device (download; the OS drops it in Photos/Files).
@@ -14908,6 +15101,7 @@ a.dst-full-t:hover{text-decoration:underline}
       }catch(_){ showToast('Couldn’t save the card. Try again.'); }
     }
     async function shareSceneCard(handle){
+      trkShare('scene_card');
       var h=handle||(currentUser&&currentUser.handle); if(!h) return;
       var link='https://soundcheck.club/u/'+h;
       try{
@@ -14928,6 +15122,7 @@ a.dst-full-t:hover{text-decoration:underline}
 
     function openLog(prefill){
       setRoute('log');
+      sgTrack('log_gig',{ step:'open' });
       lgArtists=[]; lgSel=null; lgEventList=[]; lgClipDrop();
       lgPickedArtist=null; lgVenue=null; lgRange=null;
       lgVRev={ sound:null, crowd:null, toilets:null, wouldReturn:null, tags:[] }; _lgVRevSeq++;
@@ -15018,7 +15213,7 @@ a.dst-full-t:hover{text-decoration:underline}
       lgClipDraw(lgClip ? '<div class="lg-clip">'+dstClipHTML(lgClip)+'<button class="lg-clip-x" data-ic="x" type="button" aria-label="Remove clip"></button></div>' : LG_ADD_CLIP);
     }
     async function saveLog(){
-      if(!currentUser){ openAuth(); return; }
+      if(!currentUser){ openAuth('log_gig'); return; }
       if(!lgSel){ document.getElementById('lg-err').textContent='Pick a gig first.'; return; }
       // No artists is a valid night — plenty of bills are never published, so the
       // acts are optional and only the night itself is required.
@@ -15038,6 +15233,7 @@ a.dst-full-t:hover{text-decoration:underline}
         // failed review still told the user their rating was in. Diary message goes
         // out now (that part IS saved); the "+ rated" half only replaces it on ok.
         var logMsg = j.updated ? 'Updated your diary' : 'Logged to your diary';
+        sgTrack('log_gig',{ step:'done', clip:lgClip?'yes':'no', note:document.getElementById('lg-note').value.trim()?'yes':'no' });
         showToast(logMsg);
         if(lgSel.venue_slug && lgVRevAnswered()){
           authedFetch('/api/venue/review',{ method:'POST', headers:{'Content-Type':'application/json'},
@@ -15514,7 +15710,7 @@ a.dst-full-t:hover{text-decoration:underline}
         if(acts && !document.getElementById('shared-follow')){
           var fb=document.createElement('button'); fb.id='shared-follow'; fb.className='primary'; fb.dataset.ic='heart'; fb.textContent='Follow @'+sharedFrom;
           fb.addEventListener('click',async function(){
-            if(!currentUser){ openAuth(); return; }
+            if(!currentUser){ openAuth('follow'); return; }
             // Disable while in flight, and PUT IT BACK if the follow fails.
             // This used to set "Following" and disabled=true BEFORE the request
             // and swallow the error, so a failure left a permanently disabled
@@ -16081,6 +16277,7 @@ a.dst-full-t:hover{text-decoration:underline}
       // before the early return, or geo can quietly move you off it later.
       if(slug===currentCity){ if(userPicked){ setPref('city', slug); setPref('cityPinned', 1); } return; }
       currentCity=slug;
+      if(userPicked) sgTrack('city',{ city:slug });
       setPref('city', slug);
       // Pin it once the user has chosen deliberately, so IP geolocation can never
       // silently move them again (see applyPrefCity).
@@ -16534,7 +16731,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // Fresh account off the magic link → straight into onboarding (city step).
     if(_qs.get('welcome')==='1'){
       history.replaceState(null,'',location.pathname);
-      whenAuthKnown().then(function(){ if(currentUser) setTimeout(function(){ scOnboard('city'); },350); });
+      whenAuthKnown().then(function(){ if(currentUser) setTimeout(function(){ obAfterSignIn(); },350); });
     }
     var _qd=_qs.get('date'), _qe=_qs.get('event'), _qa=_qs.get('artist'), _qp=_qs.get('picks'), _qsd=_qs.get('d');
     var _qfrom=_qs.get('from'), _qto=_qs.get('to');

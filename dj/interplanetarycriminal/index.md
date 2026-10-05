@@ -1,13 +1,14 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 71 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 71 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | ZeyZey | Miami |
@@ -19,7 +20,6 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
-| Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 

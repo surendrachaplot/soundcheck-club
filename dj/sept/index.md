@@ -1,13 +1,14 @@
 # Sept
 
-Sept is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+Sept is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
 
-Sept is a techno and house artist based in Poland, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside DLV, Danté and Lucinee. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
+Sept is a techno and house artist based in Poland, with 107 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside DLV, Danté and Lucinee. Next up: Ciało, Wroclaw on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Ciało | Wroclaw |
 | Fri, 6 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 

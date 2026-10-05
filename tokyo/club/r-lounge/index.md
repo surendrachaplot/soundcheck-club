@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "VGM Sound Collision" on Mon, 5 Oct 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "on" on Thu, 8 Oct 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AEMI and AKIRAM EN and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including 雷庵(RYan), AEMI, AKIRAM EN and ASSIGN and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 5 Oct 2026 | VGM Sound Collision | --- mr --- |
 | Thu, 8 Oct 2026 | on | DAIY, KENJI FURUYA, MOTOKA, Yashima |
 | Sun, 11 Oct 2026 | DefDistortion #121 -THE LEGENDS COME HOME- | Relect |
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
@@ -18,6 +17,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with 
 | Sat, 17 Oct 2026 | R3FRACT presents: 1st Anniversary & Counter Attack | AKIRAM EN, Kazu, Lisa Mizuno, Mars89, Ryunosuke Urabe, TEI TEI |
 | Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
 | Sat, 24 Oct 2026 | PSY LIFE | PONTA |
+| Sun, 25 Oct 2026 | UMB 2026 東京予選 |  |
 
 ## Address
 

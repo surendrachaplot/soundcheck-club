@@ -2,7 +2,7 @@
 
 vendredear is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Poisson Volant, Paris on Thu, 29 Oct 2026.
 
-vendredear is an electro and ambient artist, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Emma DJ, TTristana and Laura Trance. Next up: Le Poisson Volant, Paris on Thu 29 Oct.
+vendredear is an electro and ambient artist based in France, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Emma DJ, TTristana and Laura Trance. Next up: Le Poisson Volant, Paris on Thu 29 Oct.
 
 ## Upcoming shows
 

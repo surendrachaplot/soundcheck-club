@@ -2,7 +2,7 @@
 
 Ellie Anderson is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
-Ellie Anderson is a house and acid artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Flash Mitra, Dave Harvey and Ellie Stokes. Next up: M.O.T, London on Fri 9 Oct.
+Ellie Anderson is a house and acid artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Flash Mitra, Ellie Stokes and Dave Harvey. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Ellie Anderson is a house and acid artist based in United Kingdom, with 34 gigs 
 
 ## Shares bills with
 
-Flash Mitra, Dave Harvey, Ellie Stokes
+Flash Mitra, Ellie Stokes, Dave Harvey
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*

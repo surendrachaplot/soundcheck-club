@@ -1,0 +1,28 @@
+# KSMBA
+
+KSMBA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+
+KSMBA is a techno and house artist based in Australia, with 78 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Garfie, Ned Bennett and Hasvat Informant. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+
+## Recently played
+
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Preston Warehouse, Melbourne · Sat, 26 Sept 2026
+- Chinese Laundry, Sydney · Fri, 10 Jul 2026
+- The Prince Consort, Brisbane · Sat, 24 Jan 2026
+- Sub Club Melbourne, Melbourne · Sat, 6 Sept 2025
+- Oxford Art Factory, Sydney · Fri, 5 Sept 2025
+- Collingwood Children's Farm, Melbourne · Sat, 19 Jul 2025
+
+## Shares bills with
+
+Garfie, Ned Bennett, Hasvat Informant
+
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksmba/)*

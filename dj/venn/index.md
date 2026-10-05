@@ -1,14 +1,15 @@
 # VENN
 
-VENN is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+VENN is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
-VENN is a techno and tech house artist based in Canada, with 15 gigs on soundcheck across Toronto. Often billed alongside B-Format, Barbosa and D.O.J. Next up: TBA, Toronto on Sat 3 Oct.
+VENN is a techno and tech house artist based in Canada, with 16 gigs on soundcheck across Toronto. Often billed alongside DURDENHAUER, KILL 9 1 and NYCO (NL). Next up: TBA, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Toronto |
+| Sat, 10 Oct 2026 | TBA | Toronto |
 | Fri, 30 Oct 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
@@ -24,6 +25,6 @@ VENN is a techno and tech house artist based in Canada, with 15 gigs on soundche
 
 ## Shares bills with
 
-B-Format, Barbosa, D.O.J
+DURDENHAUER, KILL 9 1, NYCO (NL)
 
 *Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venn/)*
