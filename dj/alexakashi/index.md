@@ -1,6 +1,6 @@
 # Alex Akashi
 
-Alex Akashi is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gate Milano, Milan on Sat, 24 Oct 2026.
+Alex Akashi is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Gate Milano, Milan on Sat, 24 Oct 2026.
 
 Alex Akashi is an electronic artist based in Italy, with 3 gigs on soundcheck across Milan. Often billed alongside Andrea Isella and Neon Graveyard. Next up: Gate Milano, Milan on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Alex Akashi is an electronic artist based in Italy, with 3 gigs on soundcheck ac
 
 Andrea Isella, Neon Graveyard
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexakashi/)*

@@ -1,6 +1,6 @@
 # Chesney
 
-Chesney is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Yachtklub, Frankfurt on Fri, 16 Oct 2026.
+Chesney is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Yachtklub, Frankfurt on Fri, 16 Oct 2026.
 
 Chesney is a funk / soul and disco artist, with 3 gigs on soundcheck across Berlin, Frankfurt and Paris. Often billed alongside Adriano Guglielmo, Jan B and Kez Ym. Next up: Yachtklub, Frankfurt on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Chesney is a funk / soul and disco artist, with 3 gigs on soundcheck across Berl
 
 Adriano Guglielmo, Jan B, Kez Ym
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesney/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesney/)*

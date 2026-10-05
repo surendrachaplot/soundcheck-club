@@ -1,14 +1,15 @@
 # XipNoize
 
-XipNoize is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat, 10 Oct 2026.
+XipNoize is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat, 10 Oct 2026.
 
-XipNoize is a house and techno artist based in Spain, with 41 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat 10 Oct.
+XipNoize is a house and techno artist based in Spain, with 42 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto | Porto |
+| Sat, 10 Oct 2026 | One One Five Showroom | Porto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ XipNoize is a house and techno artist based in Spain, with 41 gigs on soundcheck
 
 Gabo Oliveira, PAZ WAZ HERE, NOBODYISALICE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

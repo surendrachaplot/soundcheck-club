@@ -1,14 +1,15 @@
 # Jasper Miles
 
-Jasper Miles is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 23 Oct 2026.
+Jasper Miles is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 23 Oct 2026.
 
-Jasper Miles is a deep house and disco artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside Chucheewa, Emil LP and Julius Myles. Next up: Collingwood Basement, Melbourne on Fri 23 Oct.
+Jasper Miles is a deep house and disco artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Chucheewa, Emil LP and Eric Duncan. Next up: Collingwood Basement, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Collingwood Basement | Melbourne |
+| Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Jasper Miles is a deep house and disco artist based in Australia, with 3 gigs on
 
 ## Shares bills with
 
-Chucheewa, Emil LP, Julius Myles
+Chucheewa, Emil LP, Eric Duncan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspermiles/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspermiles/)*

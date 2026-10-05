@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Civic Underground, Sydney on Fri, 16 Oct 2026.
+Tour-Maubourg is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Civic Underground, Sydney on Fri, 16 Oct 2026.
 
 Tour-Maubourg is a house and deep house artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Civic Underground, Sydney on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Tour-Maubourg is a house and deep house artist based in France, with 60 gigs on 
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

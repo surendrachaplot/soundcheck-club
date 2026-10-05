@@ -1,6 +1,6 @@
 # Toxido Mask
 
-Toxido Mask is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
+Toxido Mask is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ikii, Berlin on Tue, 6 Oct 2026.
 
 Toxido Mask is a techno and ambient artist based in Germany, with 56 gigs on soundcheck across Bangkok, Barcelona, Berlin and Leipzig and 4 more. Often billed alongside MAEDON, Ario and CONCEPTUAL. Next up: Ikii, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Toxido Mask is a techno and ambient artist based in Germany, with 56 gigs on sou
 
 MAEDON, Ario, CONCEPTUAL
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxidomask/)*

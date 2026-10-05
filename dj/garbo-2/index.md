@@ -1,6 +1,6 @@
 # Garbo (2)
 
-Garbo (2) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Prince Bishop Cruiser, Newcastle on Sat, 10 Oct 2026.
+Garbo (2) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Prince Bishop Cruiser, Newcastle on Sat, 10 Oct 2026.
 
 Garbo is a house and progressive house artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Liverpool, Manchester and Newcastle. Often billed alongside Allius, TriForm and Weston. Next up: Prince Bishop Cruiser, Newcastle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Garbo is a house and progressive house artist based in United Kingdom, with 14 g
 
 Allius, TriForm, Weston
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garbo-2/)*

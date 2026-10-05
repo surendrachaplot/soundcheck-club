@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
+Budino is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
 
 Budino is a house and techno artist based in Italy, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Budino is a house and techno artist based in Italy, with 160 gigs on soundcheck 
 
 Massimiliano Pagliara, Gabrielle Kwarteng, Cormac
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

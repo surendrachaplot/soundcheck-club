@@ -1,8 +1,8 @@
 # Mark EG
 
-Mark EG is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Mark EG is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-Mark EG is a trance and techno artist, with 14 gigs on soundcheck across Birmingham, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Dougal, Pete Monsoon and Scott Brown. Next up: Marshall Arena, South East on Sat 7 Nov.
+Mark EG is a trance and techno artist based in United Kingdom, with 14 gigs on soundcheck across Birmingham, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Dougal, Pete Monsoon and Scott Brown. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mark EG is a trance and techno artist, with 14 gigs on soundcheck across Birming
 
 Dougal, Pete Monsoon, Scott Brown
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markeg/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markeg/)*

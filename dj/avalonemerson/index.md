@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Avalon Emerson is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,17 +21,17 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Potato Head Beach Club, Bali · Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Sleeping Village, Chicago · Tue, 15 Sept 2026
 - Fortune Sound Club, Vancouver · Thu, 6 Aug 2026
 - MS Artville, Hamburg · Sat, 18 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 
-Sedef Adasï, BASHKKA, Aurora Halal
+Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

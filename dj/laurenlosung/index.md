@@ -1,14 +1,15 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Lauren Lo Sung is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 25 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 14 Nov 2026 | Complex Maastricht | Netherlands |
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
@@ -26,4 +27,4 @@ Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 10
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

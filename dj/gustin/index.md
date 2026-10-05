@@ -1,6 +1,6 @@
 # Gustin
 
-Gustin is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+Gustin is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
 Gustin is a progressive house and electronica artist based in Ireland, with 18 gigs on soundcheck across Amsterdam, Buenos Aires, Dublin and Ibiza and 2 more. Often billed alongside Callecat, Pablo Pegar and Around Us. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Gustin is a progressive house and electronica artist based in Ireland, with 18 g
 
 Callecat, Pablo Pegar, Around Us
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*

@@ -1,6 +1,6 @@
 # Dominetrix
 
-Dominetrix is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+Dominetrix is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
 Dominetrix is an electronic artist, with 3 gigs on soundcheck across Barcelona and Vilnius. Often billed alongside Bruno (ES), ERRANT and Gabs Terry. Next up: Elastica, Vilnius on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Dominetrix is an electronic artist, with 3 gigs on soundcheck across Barcelona a
 
 Bruno (ES), ERRANT, Gabs Terry
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*

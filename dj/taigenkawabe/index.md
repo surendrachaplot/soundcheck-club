@@ -1,6 +1,6 @@
 # Taigen Kawabe
 
-Taigen Kawabe is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at rake?raka?, Osaka on Mon, 5 Oct 2026.
+Taigen Kawabe is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at rake?raka?, Osaka on Mon, 5 Oct 2026.
 
 Taigen Kawabe is an experimental and techno artist based in Japan, with 47 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC and NTsKi. Next up: rake?raka?, Osaka on Mon 5 Oct.
 
@@ -28,4 +28,4 @@ Taigen Kawabe is an experimental and techno artist based in Japan, with 47 gigs 
 
 Foodman, HSC (1), NTsKi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*

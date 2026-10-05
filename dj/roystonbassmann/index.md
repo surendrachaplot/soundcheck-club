@@ -1,6 +1,6 @@
 # Royston Bassmann
 
-Royston Bassmann is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Royston Bassmann is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
 Royston Bassmann is an electro and tech house artist based in Germany, with 4 gigs on soundcheck across Amsterdam, Berlin and Melbourne. Often billed alongside Kithers, Andy Luff and Bex. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Royston Bassmann is an electro and tech house artist based in Germany, with 4 gi
 
 Kithers, Andy Luff, Bex
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roystonbassmann/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roystonbassmann/)*

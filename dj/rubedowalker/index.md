@@ -1,6 +1,6 @@
 # Rubedo Walker
 
-Rubedo Walker is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Rubedo Walker is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Rubedo Walker is a club and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Ben Jammin, Huck Finn and Solartrak. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Rubedo Walker is a club and tech house artist based in United Kingdom, with 5 gi
 
 Ben Jammin, Huck Finn, Solartrak
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubedowalker/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubedowalker/)*

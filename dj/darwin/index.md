@@ -1,14 +1,13 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
 
-Darwin is a techno and bass artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Darwin is a techno and bass artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: YuYu Cine Club, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | YuYu Cine Club | Mexico City |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | De Sering | Amsterdam |
@@ -33,4 +32,4 @@ Darwin is a techno and bass artist based in Germany, with 168 gigs on soundcheck
 
 Esposito, Carré, CCL
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

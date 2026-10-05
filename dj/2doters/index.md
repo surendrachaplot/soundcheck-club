@@ -1,6 +1,6 @@
 # 2Doters
 
-2Doters is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
+2Doters is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
 
 2Doters is a progressive house and afrobeat artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Parra Vie, HUGØ and Ebz. Next up: Maya Marylebone, London on Sat 10 Oct.
 
@@ -20,4 +20,4 @@
 
 Parra Vie, HUGØ, Ebz
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2doters/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2doters/)*

@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Breakfast Club #520 (28hr Daylight Savings Edition)" on Sun, 4 Oct 2026.
+OneSixOne is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Breakfast Club #520 (28hr Daylight Savings Edition)" on Sun, 4 Oct 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Trace, Afrodisiac, Amber Ferraro and bellxsxs and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -23,4 +23,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, 
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

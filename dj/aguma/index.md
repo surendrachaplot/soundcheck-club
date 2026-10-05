@@ -1,6 +1,6 @@
 # Aguma
 
-Aguma is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at White Wall Studio, Montreal on Sat, 24 Oct 2026.
+Aguma is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at White Wall Studio, Montreal on Sat, 24 Oct 2026.
 
 Aguma is a techno and ambient artist based in Canada, with 4 gigs on soundcheck across Montreal. Often billed alongside Safia Nihil, Bless You and Dog Bless You. Next up: White Wall Studio, Montreal on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Aguma is a techno and ambient artist based in Canada, with 4 gigs on soundcheck 
 
 Safia Nihil, Bless You, Dog Bless You
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguma/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguma/)*

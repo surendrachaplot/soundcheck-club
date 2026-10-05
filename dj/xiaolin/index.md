@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Xiaolin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Xiaolin is a house and techno artist, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Sunsiaré, Mr. Ho and Rødhåd. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Xiaolin is a house and techno artist, with 81 gigs on soundcheck across Amsterda
 
 Sunsiaré, Mr. Ho, Rødhåd
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

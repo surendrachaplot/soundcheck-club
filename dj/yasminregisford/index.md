@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+Yasmin Regisford is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
 
 Yasmin Regisford is a techno and trance artist based in France, with 70 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 22 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Lofi, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Yasmin Regisford is a techno and trance artist based in France, with 70 gigs on 
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

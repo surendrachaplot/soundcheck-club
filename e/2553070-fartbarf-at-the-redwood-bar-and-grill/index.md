@@ -1,0 +1,11 @@
+# Fartbarf at The Redwood Bar And Grill
+
+Fartbarf at The Redwood Bar And Grill on Fri 23 Oct, Los Angeles. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | The Redwood Bar And Grill |
+| City | Los Angeles |
+
+*Source: [soundcheck](https://soundcheck.club/e/2553070-fartbarf-at-the-redwood-bar-and-grill/)*

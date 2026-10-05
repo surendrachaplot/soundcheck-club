@@ -1,8 +1,8 @@
 # Tangela
 
-Tangela is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Unmute, Hanoi on Sat, 10 Oct 2026.
+Tangela is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Unmute, Hanoi on Sat, 10 Oct 2026.
 
-Tangela is a techno and house artist based in Australia, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside amuwa, Kia (AU) and Andy Garvey. Next up: Unmute, Hanoi on Sat 10 Oct.
+Tangela is a techno and house artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside amuwa, Command D and Kia (AU). Next up: Unmute, Hanoi on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tangela is a techno and house artist based in Australia, with 120 gigs on soundc
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unmute | Hanoi |
 | Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
+| Sat, 31 Oct 2026 | Haven | Byron-bay |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Tangela is a techno and house artist based in Australia, with 120 gigs on soundc
 
 ## Shares bills with
 
-amuwa, Kia (AU), Andy Garvey
+amuwa, Command D (1), Kia (AU)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

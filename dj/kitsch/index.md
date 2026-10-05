@@ -1,6 +1,6 @@
 # Kitsch
 
-Kitsch is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
+Kitsch is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Two Tribes CAMPFIRE, London on Fri, 16 Oct 2026.
 
 Kitsch is a hardcore and house artist, with 29 gigs on soundcheck across London, Los Angeles, Manchester and San Francisco/Oakland. Often billed alongside Faded Society, tasha.mp4 and L J Shellings. Next up: Two Tribes CAMPFIRE, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kitsch is a hardcore and house artist, with 29 gigs on soundcheck across London,
 
 Faded Society, tasha.mp4, L J Shellings
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsch/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsch/)*

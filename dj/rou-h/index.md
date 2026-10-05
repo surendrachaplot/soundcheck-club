@@ -1,6 +1,6 @@
 # ROU-H
 
-ROU-H is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
+ROU-H is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
 
 ROU-H is a house and electronica artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Sandwavv, Dameer and MNSA. Next up: Pamenar Café, Toronto on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ ROU-H is a house and electronica artist based in Canada, with 5 gigs on soundche
 
 Sandwavv, Dameer, MNSA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rou-h/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rou-h/)*

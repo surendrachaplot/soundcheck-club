@@ -1,6 +1,6 @@
 # ELshus
 
-ELshus is a Jungle and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tola, London on Fri, 16 Oct 2026.
+ELshus is a Jungle and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tola, London on Fri, 16 Oct 2026.
 
 ELshus is a jungle and jazz artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Abby Daze, Arnie Wrong and Freshta. Next up: Tola, London on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ ELshus is a jungle and jazz artist based in United Kingdom, with 3 gigs on sound
 
 Abby Daze, Arnie Wrong, Freshta
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elshus/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elshus/)*

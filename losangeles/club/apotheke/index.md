@@ -1,18 +1,17 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 4 Oct 2026.
+Apotheke is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 11 Oct 2026.
 
-Apotheke is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Jordan Bernardo and Patrick Loda. See dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
+Apotheke is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Sunday Sessions LA (Vinyl Only) Open Air | Jordan Bernardo, Patrick Loda |
 | Sun, 11 Oct 2026 | Sunday Sessions LA (Vinyl Only) Open Air |  |
 
 ## Address
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

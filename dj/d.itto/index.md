@@ -1,6 +1,6 @@
 # D.ITTO
 
-D.ITTO is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Handlebar, Toronto on Sat, 10 Oct 2026.
+D.ITTO is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Handlebar, Toronto on Sat, 10 Oct 2026.
 
 D.ITTO is a club and hip-hop artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, 9MAGICFOREVER1 and Aji. Next up: Handlebar, Toronto on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ D.ITTO is a club and hip-hop artist based in Canada, with 4 gigs on soundcheck a
 
 999ADJ, 9MAGICFOREVER1, Aji (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.itto/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.itto/)*

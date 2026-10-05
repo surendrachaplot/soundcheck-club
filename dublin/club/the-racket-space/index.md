@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Cailín x Sarah Lennox x SEMAE" on Fri, 9 Oct 2026.
+The Racket Space is a music venue in Dublin with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Cailín x Sarah Lennox x SEMAE" on Fri, 9 Oct 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Cailín and camoufly and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 13 upcoming gi
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

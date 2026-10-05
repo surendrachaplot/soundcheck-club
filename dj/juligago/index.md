@@ -1,13 +1,14 @@
 # Juli Gago
 
-Juli Gago is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Juli Gago is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club der Visionaere, Berlin on Tue, 6 Oct 2026.
 
-Juli Gago is a house and tech house artist based in Argentina, with 14 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Clemente (DE), Juan Ferreyra and Nacho Carbajal. Next up: Kater, Berlin on Sat 24 Oct.
+Juli Gago is a house and tech house artist based in Argentina, with 15 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Clemente (DE), Juan Ferreyra and Nacho Carbajal. Next up: Club der Visionaere, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 6 Oct 2026 | Club der Visionaere | Berlin |
 | Sat, 24 Oct 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Juli Gago is a house and tech house artist based in Argentina, with 14 gigs on s
 
 Clemente (DE), Juan Ferreyra, Nacho Carbajal
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juligago/)*

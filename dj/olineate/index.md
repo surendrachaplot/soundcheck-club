@@ -1,6 +1,6 @@
 # Oli Neate
 
-Oli Neate is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
+Oli Neate is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
 Oli Neate is a downtempo and electronica artist based in South Africa, with 5 gigs on soundcheck across Amsterdam, Berlin and Copenhagen. Often billed alongside ANNÆLIX, Alissa and Anaté. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Oli Neate is a downtempo and electronica artist based in South Africa, with 5 gi
 
 ANNÆLIX, Alissa, Anaté
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*

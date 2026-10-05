@@ -1,6 +1,6 @@
 # Ouri
 
-Ouri is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+Ouri is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 Ouri is an experimental and club artist based in Canada, with 21 gigs on soundcheck across Berlin, Brussels, Los Angeles and Mexico City and 10 more. Often billed alongside Valentina Magaletti, Bby Eco and Chinnamasta. Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Ouri is an experimental and club artist based in Canada, with 21 gigs on soundch
 
 Valentina Magaletti, Bby Eco, Chinnamasta
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*

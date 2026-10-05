@@ -1,8 +1,8 @@
 # TAPCUE
 
-TAPCUE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
+TAPCUE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
 
-TAPCUE is a techno and house artist, with 4 gigs on soundcheck across Copenhagen, Prague and Vienna. Often billed alongside MIKLEI, NAT(SK) and SPACER (SK). Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
+TAPCUE is a techno and house artist, with 4 gigs on soundcheck across Copenhagen, Prague and Vienna. Often billed alongside MIKLEI, NAT (SK) and SPACER (SK). Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ TAPCUE is a techno and house artist, with 4 gigs on soundcheck across Copenhagen
 
 ## Shares bills with
 
-MIKLEI, NAT(SK), SPACER (SK)
+MIKLEI, NAT (SK), SPACER (SK)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapcue/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapcue/)*

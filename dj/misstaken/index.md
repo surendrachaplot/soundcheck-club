@@ -1,6 +1,6 @@
 # MISSTAKEN
 
-MISSTAKEN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+MISSTAKEN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 MISSTAKEN is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Stinny Stone, Cobb Douglas and Kichta. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ MISSTAKEN is a techno and trance artist based in Germany, with 5 gigs on soundch
 
 Stinny Stone, Cobb Douglas, Kichta
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*

@@ -1,14 +1,13 @@
 # Mazko A
 
-Mazko A is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at feedbk, New York City on Sat, 3 Oct 2026.
+Mazko A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Flash, Washington DC on Fri, 9 Oct 2026.
 
-Mazko A is a house and techno artist, with 31 gigs on soundcheck across Los Angeles, New York City, Warsaw and Washington DC. Often billed alongside Kurilo, Ramos and Taiga. Next up: feedbk, New York City on Sat 3 Oct.
+Mazko A is a house and techno artist, with 31 gigs on soundcheck across Los Angeles, New York City, Warsaw and Washington DC. Often billed alongside Kurilo, Ramos and Taiga. Next up: Flash, Washington DC on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | feedbk | New York City |
 | Fri, 9 Oct 2026 | Flash | Washington DC |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mazko A is a house and techno artist, with 31 gigs on soundcheck across Los Ange
 
 Kurilo, Ramos (2), Taiga
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*

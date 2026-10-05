@@ -1,6 +1,6 @@
 # Hoedus
 
-Hoedus is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
+Hoedus is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
 
 Hoedus is a techno and ambient artist, with 4 gigs on soundcheck across Milan and Rome. Often billed alongside AMANDA LEAN, D-Leria and Efdemin. Next up: DURO, Milan on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Hoedus is a techno and ambient artist, with 4 gigs on soundcheck across Milan an
 
 AMANDA LEAN, D-Leria, Efdemin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoedus/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoedus/)*

@@ -1,8 +1,8 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ancient World, Adelaide on Fri, 9 Oct 2026.
+GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ancient World, Adelaide on Fri, 9 Oct 2026.
 
-GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Ancient World, Adelaide on Fri 9 Oct.
+GiGi FM is a techno and house artist, with 175 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Ancient World, Adelaide on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,17 +23,17 @@ GiGi FM is a techno and house artist, with 174 gigs on soundcheck across Adelaid
 
 ## Recently played
 
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Tender, Melbourne · Fri, 2 Oct 2026
 - RASA, Singapore · Sat, 26 Sept 2026
 - Flux, Istanbul · Sat, 15 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
-- RADION, Amsterdam · Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Altinbas, Polygonia, DVS1
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

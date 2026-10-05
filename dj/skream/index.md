@@ -1,15 +1,13 @@
 # Skream
 
-Skream is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Skream is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Club 69, Glasgow on Thu, 8 Oct 2026.
 
-Skream is a house and techno artist based in United Kingdom, with 224 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 61 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Skream is a house and techno artist based in United Kingdom, with 224 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 61 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Club 69, Glasgow on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Thu, 8 Oct 2026 | Club 69 | Glasgow |
 | Fri, 9 Oct 2026 | TBA | Dundee |
 | Sat, 10 Oct 2026 | Cabaret Voltaire | Edinburgh |
@@ -20,6 +18,7 @@ Skream is a house and techno artist based in United Kingdom, with 224 gigs on so
 | Sat, 7 Nov 2026 | Lincoln Factory | Detroit |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
+| Fri, 27 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -36,4 +35,4 @@ Skream is a house and techno artist based in United Kingdom, with 224 gigs on so
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

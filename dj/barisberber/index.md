@@ -1,6 +1,6 @@
 # BARIŞ BERBER
 
-BARIŞ BERBER is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+BARIŞ BERBER is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 BARIŞ BERBER is a techno and deep house artist based in Turkey, with 4 gigs on soundcheck across Amsterdam and Frankfurt. Often billed alongside Joris Turenhout, AKA AKA and Albin Brezlan. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ BARIŞ BERBER is a techno and deep house artist based in Turkey, with 4 gigs on 
 
 Joris Turenhout, AKA AKA, Albin Brezlan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barisberber/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barisberber/)*

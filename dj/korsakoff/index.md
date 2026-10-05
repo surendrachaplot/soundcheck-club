@@ -1,6 +1,6 @@
 # Korsakoff
 
-Korsakoff is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Korsakoff is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 Korsakoff is a hardcore and gabber artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona, Dortmund Essen and Frankfurt and 9 more. Often billed alongside Angerfist, Mad Dog and The Dark Horror. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Korsakoff is a hardcore and gabber artist based in Netherlands, with 20 gigs on 
 
 Angerfist, Mad Dog, The Dark Horror
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*

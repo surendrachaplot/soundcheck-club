@@ -1,6 +1,6 @@
 # LiaRako
 
-LiaRako is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WOMB, Tokyo on Thu, 8 Oct 2026.
+LiaRako is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at WOMB, Tokyo on Thu, 8 Oct 2026.
 
 LiaRako is a techno and house artist based in Japan, with 107 gigs on soundcheck across Chubu and Tokyo. Often billed alongside WAKA XINXI, Hackmarkt and AiMii. Next up: WOMB, Tokyo on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ LiaRako is a techno and house artist based in Japan, with 107 gigs on soundcheck
 
 WAKA XINXI, Hackmarkt, AiMii
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liarako/)*

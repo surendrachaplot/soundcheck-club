@@ -1,6 +1,6 @@
 # Zean
 
-Zean is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
+Zean is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Heim Shanghai, Shanghai on Wed, 30 Sept 2026.
 
 Zean is a bass and drum & bass artist, with 6 gigs on soundcheck across Shanghai, Shenzhen and Tokyo. Often billed alongside DJ EBP, chuan and 10000 (CN). Next up: Heim Shanghai, Shanghai on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ Zean is a bass and drum & bass artist, with 6 gigs on soundcheck across Shanghai
 
 DJ EBP, chuan, 10000 (CN)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zean/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zean/)*

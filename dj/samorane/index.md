@@ -1,6 +1,6 @@
 # Samo Rane
 
-Samo Rane is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
+Samo Rane is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
 
 Samo Rane is a techno and tech house artist based in Iran, with 5 gigs on soundcheck across Berlin. Often billed alongside Hypnotic Black Magic, AGILY and Abriss Andrej. Next up: Sensorium, Berlin on Wed 28 Oct.
 
@@ -21,4 +21,4 @@ Samo Rane is a techno and tech house artist based in Iran, with 5 gigs on soundc
 
 Hypnotic Black Magic, AGILY, Abriss Andrej
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samorane/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samorane/)*

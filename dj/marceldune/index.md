@@ -1,8 +1,8 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 5 Oct 2026.
+MarcelDune is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 5 Oct 2026.
 
-MarcelDune is a techno and house artist based in Greece, with 65 gigs on soundcheck across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: Tresor / Globus, Berlin on Mon 5 Oct.
+MarcelDune is a techno and house artist based in Greece, with 66 gigs on soundcheck across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: Tresor / Globus, Berlin on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MarcelDune is a techno and house artist based in Greece, with 65 gigs on soundch
 | --- | --- | --- |
 | Mon, 5 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 16 Oct 2026 | Mia Mao | Paris |
+| Sat, 19 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MarcelDune is a techno and house artist based in Greece, with 65 gigs on soundch
 
 Amphia, RayRay, ASHTREY
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

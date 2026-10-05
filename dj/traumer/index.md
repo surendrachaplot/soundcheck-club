@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
+Traumer is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
 
 Traumer is a house and techno artist based in France, with 317 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
 
@@ -34,4 +34,4 @@ Traumer is a house and techno artist based in France, with 317 gigs on soundchec
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

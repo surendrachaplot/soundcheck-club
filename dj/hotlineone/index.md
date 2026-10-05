@@ -1,6 +1,6 @@
 # Hotline one
 
-Hotline one is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+Hotline one is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 Hotline one is a disco and house artist based in France, with 4 gigs on soundcheck across Berlin and Paris. Often billed alongside ASA 808, BAB MUSIQUE and Chinau. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Hotline one is a disco and house artist based in France, with 4 gigs on soundche
 
 ASA 808, BAB MUSIQUE, Chinau
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlineone/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlineone/)*

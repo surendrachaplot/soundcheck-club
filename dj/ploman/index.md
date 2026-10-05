@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at VENT, Tokyo on Sat, 10 Oct 2026.
+PLO Man is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at VENT, Tokyo on Sat, 10 Oct 2026.
 
 PLO Man is a techno and house artist based in Germany, with 164 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 38 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: VENT, Tokyo on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ PLO Man is a techno and house artist based in Germany, with 164 gigs on soundche
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

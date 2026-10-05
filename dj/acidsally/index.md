@@ -1,6 +1,6 @@
 # Acid Sally
 
-Acid Sally is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Acid Sally is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Acid Sally is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across Detroit and London. Often billed alongside Detroit In Effect, Hannah Holland and Joe Murphy. Next up: The Cause, London on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Acid Sally is an electronic artist based in United Kingdom, with 3 gigs on sound
 
 Detroit In Effect, Hannah Holland, Joe Murphy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsally/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsally/)*

@@ -1,6 +1,6 @@
 # Balanca
 
-Balanca is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Cyprus on Sat, 17 Oct 2026.
+Balanca is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Cyprus on Sat, 17 Oct 2026.
 
 Balanca is a techno and ambient artist, with 3 gigs on soundcheck across Cyprus, Leipzig and Tokyo. Often billed alongside Current Location, Cylindric and D-Leria. Next up: TBA, Cyprus on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Balanca is a techno and ambient artist, with 3 gigs on soundcheck across Cyprus,
 
 Current Location, Cylindric, D-Leria
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balanca/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balanca/)*

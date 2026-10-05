@@ -1,6 +1,6 @@
 # TAISEI
 
-TAISEI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at SHeLTeR, Tokyo on Tue, 6 Oct 2026.
+TAISEI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at SHeLTeR, Tokyo on Tue, 6 Oct 2026.
 
 TAISEI is a techno and house artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside PHILLY (JP), RYO2 and TRID3NT. Next up: SHeLTeR, Tokyo on Tue 6 Oct.
 
@@ -21,4 +21,4 @@ TAISEI is a techno and house artist based in Japan, with 5 gigs on soundcheck ac
 
 PHILLY (JP), RYO2, TRID3NT
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisei/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisei/)*

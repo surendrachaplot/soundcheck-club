@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Buit: Kinetic + oma totem" on Fri, 9 Oct 2026.
+LAUT is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Buit: Kinetic + oma totem" on Fri, 9 Oct 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Binomi, Black Devil Disco Club, BLNDFLD and formica (ES) and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with 
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

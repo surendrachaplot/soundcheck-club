@@ -1,14 +1,13 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Loidis is a Techno and Minimal artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Loidis is a techno and minimal artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Loidis is a techno and minimal artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 6 Nov 2026 | Fuse | Brussels |
@@ -31,4 +30,4 @@ Loidis is a techno and minimal artist based in United States of America, with 65
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

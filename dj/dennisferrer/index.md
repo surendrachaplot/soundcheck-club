@@ -1,15 +1,13 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Chinois Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Dennis Ferrer is a house and tech house artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 28 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Dennis Ferrer is a house and tech house artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 28 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Chinois Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Club Space Miami | Miami |
 | Sat, 31 Oct 2026 | Balboa Park | San Diego |
@@ -32,4 +30,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

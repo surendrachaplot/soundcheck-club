@@ -1,6 +1,6 @@
 # Diplo
 
-Diplo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Savaya Bali, Bali on Thu, 8 Oct 2026.
+Diplo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Savaya Bali, Bali on Thu, 8 Oct 2026.
 
 Diplo is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Charlotte de Witte, Claptone and DJ Holographic. Next up: Savaya Bali, Bali on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Diplo is a house and techno artist based in United States of America, with 89 gi
 
 Charlotte de Witte, Claptone, DJ Holographic
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

@@ -1,6 +1,6 @@
 # Scar XL
 
-Scar XL is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Off The Cuff, London on Fri, 9 Oct 2026.
+Scar XL is a Trance and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Off The Cuff, London on Fri, 9 Oct 2026.
 
 Scar XL is a trance and gabber artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and London. Often billed alongside Takenbymarshall, AC (dot robot) and Arexibo. Next up: Off The Cuff, London on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Scar XL is a trance and gabber artist based in United Kingdom, with 4 gigs on so
 
 Takenbymarshall, AC (dot robot), Arexibo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarxl/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarxl/)*

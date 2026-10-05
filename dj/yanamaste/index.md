@@ -1,6 +1,6 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Fri, 9 Oct 2026.
+Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kompass Klub, Ghent on Fri, 9 Oct 2026.
 
 Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Kompass Klub, Ghent on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist based in Georgia, with 230 gigs on soundc
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

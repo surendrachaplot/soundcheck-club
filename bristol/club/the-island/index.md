@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RTN with Decoder + Jin Synth (Live)" on Fri, 9 Oct 2026.
+The Island is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "RTN with Decoder + Jin Synth (Live)" on Fri, 9 Oct 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Ceegal, Decoder, Fez the Kid and GUS and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -18,4 +18,4 @@ The Island is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, wi
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

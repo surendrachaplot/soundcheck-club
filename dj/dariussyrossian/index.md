@@ -1,16 +1,13 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Darius Syrossian is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Darius Syrossian is a house and tech house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Darius Syrossian is a house and tech house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Thu, 22 Oct 2026 | Oliva | Amsterdam |
 | Fri, 23 Oct 2026 | Jimmy Woo | Amsterdam |
 | Sat, 24 Oct 2026 | Sankeys | Manchester |
@@ -18,6 +15,7 @@ Darius Syrossian is a house and tech house artist based in United Kingdom, with 
 
 ## Recently played
 
+- TBA - Secret location announced only to ticket holders, Ibiza · Sun, 4 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - IDRA, Manchester · Sat, 26 Sept 2026
@@ -25,10 +23,9 @@ Darius Syrossian is a house and tech house artist based in United Kingdom, with 
 - Amnesia Milano, Milan · Sat, 12 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
 - Cova Santa, Ibiza · Tue, 8 Sept 2026
-- 77, London · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Olive F, Prunk, GW Harrison
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*

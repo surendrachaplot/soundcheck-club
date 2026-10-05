@@ -1,8 +1,8 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Lewis Taylor is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Lewis Taylor is a house and tech house artist based in United Kingdom, with 47 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 14 more. Often billed alongside Harry Robson, Ellia Jaya and Gaskin. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Lewis Taylor is a house and tech house artist based in United Kingdom, with 48 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 15 more. Often billed alongside Harry Robson, Ellia Jaya and Gaskin. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 47 g
 | Sat, 31 Oct 2026 | Oran Mor | Glasgow |
 | Thu, 12 Nov 2026 | The Loft | Manchester |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 14 Nov 2026 | Complex Maastricht | Netherlands |
 | Sun, 22 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
@@ -31,4 +32,4 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 47 g
 
 Harry Robson, Ellia Jaya, Gaskin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

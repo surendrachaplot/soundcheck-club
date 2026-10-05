@@ -1,6 +1,6 @@
 # logxlogxlogx
 
-logxlogxlogx is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Brasserie Gallia, Paris on Fri, 9 Oct 2026.
+logxlogxlogx is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Brasserie Gallia, Paris on Fri, 9 Oct 2026.
 
 logxlogxlogx is an idm and electro artist based in Poland, with 4 gigs on soundcheck across Paris and Utrecht. Often billed alongside Delskiz and Kermit Dee. Next up: Brasserie Gallia, Paris on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ logxlogxlogx is an idm and electro artist based in Poland, with 4 gigs on soundc
 
 Delskiz, Kermit Dee
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logxlogxlogx/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logxlogxlogx/)*

@@ -1,18 +1,18 @@
 # Aphex Twink
 
-Aphex Twink is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Boombox, Miami on Sun, 4 Oct 2026.
+Aphex Twink is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Aphex Twink is a techno and club artist based in United States of America, with 12 gigs on soundcheck across Brussels, London and Miami. Often billed alongside Lady Narcisse, GRUE5OME and B0YG1RL. Next up: The Boombox, Miami on Sun 4 Oct.
+Aphex Twink is a techno and club artist based in United States of America, with 12 gigs on soundcheck across Brussels, London and Miami. Often billed alongside Lady Narcisse, GRUE5OME and B0YG1RL. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | The Boombox | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- The Boombox, Miami · Sun, 4 Oct 2026
 - Nashaz, Brussels · Fri, 18 Sept 2026
 - Camp Owaissa Bauer, Miami · Fri, 8 May 2026
 - Chez Jacques, Brussels · Fri, 17 Apr 2026
@@ -20,10 +20,9 @@ Aphex Twink is a techno and club artist based in United States of America, with 
 - Supernatural Haus, Miami · Sun, 18 Jan 2026
 - The Boombox, Miami · Fri, 28 Nov 2025
 - Miami Roller Rink, Miami · Fri, 3 Oct 2025
-- Miami Roller Rink, Miami · Wed, 25 Jun 2025
 
 ## Shares bills with
 
 Lady Narcisse, GRUE5OME, B0YG1RL
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphextwink/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphextwink/)*

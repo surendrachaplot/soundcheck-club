@@ -1,6 +1,6 @@
 # Alcala
 
-Alcala is a Reggaeton and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 16 Oct 2026.
+Alcala is a Reggaeton and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Onyx Room at House of Yes, New York City on Fri, 16 Oct 2026.
 
 Alcala is a reggaeton and electro artist, with 3 gigs on soundcheck across Mexico City and New York City. Often billed alongside Alex Oxley, Fortier and Milothicc. Next up: The Onyx Room at House of Yes, New York City on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Alcala is a reggaeton and electro artist, with 3 gigs on soundcheck across Mexic
 
 Alex Oxley, Fortier, Milothicc
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcala/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcala/)*

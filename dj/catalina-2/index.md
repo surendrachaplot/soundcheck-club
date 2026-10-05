@@ -1,6 +1,6 @@
 # Catalina (2)
 
-Catalina (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
+Catalina (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat, 10 Oct 2026.
 
 Catalina is an electronica and electro artist, with 4 gigs on soundcheck across Barcelona. Often billed alongside COULIN, Ana Alves and Bojak. Next up: TBA - Jardins de Magalí (Carrer del Vallespir, 194, Les Corts, 08014 Barcelelona), Barcelona on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Catalina is an electronica and electro artist, with 4 gigs on soundcheck across 
 
 COULIN, Ana Alves, Bojak
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina-2/)*

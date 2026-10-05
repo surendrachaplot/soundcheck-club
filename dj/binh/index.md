@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
+Binh is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
 
-Binh is a techno and house artist based in Germany, with 208 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 45 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Gaffe, London on Fri 9 Oct.
+Binh is a techno and house artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 45 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Gaffe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Binh is a techno and house artist based in Germany, with 208 gigs on soundcheck 
 | Sat, 31 Oct 2026 | essaim | Paris |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | Robert Johnson | Hesse |
+| Sun, 6 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 12 Dec 2026 | fabric | London |
 
 ## Recently played
@@ -35,4 +36,4 @@ Binh is a techno and house artist based in Germany, with 208 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

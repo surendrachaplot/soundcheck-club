@@ -1,6 +1,6 @@
 # MMS (2)
 
-MMS (2) is a House and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Buff Club, Glasgow on Fri, 9 Oct 2026.
+MMS (2) is a House and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Buff Club, Glasgow on Fri, 9 Oct 2026.
 
 MMS is a house and drum & bass artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ANGELDOOF, Justyyna and djsmuz. Next up: The Buff Club, Glasgow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ MMS is a house and drum & bass artist based in United Kingdom, with 9 gigs on so
 
 ANGELDOOF, Justyyna, djsmuz
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*

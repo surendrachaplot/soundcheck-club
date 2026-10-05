@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hausi Vol. 7" on Mon, 5 Oct 2026.
+Toldi Klub is a music venue in Budapest with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Hausi Vol. 7" on Mon, 5 Oct 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, with line-ups including Atashi, BELLITTA, Bencsama and Dorota and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -23,4 +23,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 11 upcoming gigs, 
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

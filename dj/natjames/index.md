@@ -1,6 +1,6 @@
 # Nat James
 
-Nat James is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Nat James is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Nat James is a minimal and electro artist, with 4 gigs on soundcheck across New South Wales and Sydney. Often billed alongside Aarti Jadu, Alec Sander and Azzawi. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Nat James is a minimal and electro artist, with 4 gigs on soundcheck across New 
 
 Aarti Jadu, Alec Sander, Azzawi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natjames/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natjames/)*

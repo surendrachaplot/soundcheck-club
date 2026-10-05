@@ -1,6 +1,6 @@
 # jauwshewuh
 
-jauwshewuh is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
+jauwshewuh is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
 
 jauwshewuh is an electronica and techno artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside g.io, ARCHANGEL (US) and Bodegaparty. Next up: Trans-Pecos, New York City on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ jauwshewuh is an electronica and techno artist based in United States of America
 
 g.io, ARCHANGEL (US), Bodegaparty
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jauwshewuh/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jauwshewuh/)*

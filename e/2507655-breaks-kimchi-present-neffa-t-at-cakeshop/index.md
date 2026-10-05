@@ -1,6 +1,6 @@
 # Breaks & Kimchi present Neffa-T at Cakeshop
 
-Breaks & Kimchi present Neffa-T at Cakeshop on Fri 6 Nov, Seoul. 5 artists: MOONICE, Neffa-T, Nimvy and Tabris and 1 more. Breakbeat and Grime. See the line-up on soundcheck.
+Breaks & Kimchi present Neffa-T at Cakeshop on Fri 6 Nov, Seoul. 6 artists: HASHTAGPOPE, MOONICE, Neffa-T and Nimvy and 2 more. Breakbeat and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Breaks & Kimchi present Neffa-T at Cakeshop on Fri 6 Nov, Seoul. 5 artists: MOON
 
 ## Line-up
 
+- HASHTAGPOPE
 - MOONICE
 - Neffa-T
 - Nimvy

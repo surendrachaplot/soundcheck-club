@@ -1,6 +1,6 @@
 # Joey Hertz
 
-Joey Hertz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarters, Brighton on Sat, 17 Oct 2026.
+Joey Hertz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Quarters, Brighton on Sat, 17 Oct 2026.
 
 Joey Hertz is a house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton. Often billed alongside Charmain Love, Davey B and Jody Wisternoff. Next up: Quarters, Brighton on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Joey Hertz is a house and tech house artist based in United Kingdom, with 4 gigs
 
 Charmain Love, Davey B, Jody Wisternoff
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyhertz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyhertz/)*

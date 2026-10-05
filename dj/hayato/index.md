@@ -1,13 +1,14 @@
 # Hayato
 
-Hayato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at VENT, Tokyo on Fri, 16 Oct 2026.
+Hayato is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at WOMB, Tokyo on Thu, 15 Oct 2026.
 
-Hayato is a house and techno artist based in Japan, with 157 gigs on soundcheck across London, Osaka, Seoul and Tokyo. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: VENT, Tokyo on Fri 16 Oct.
+Hayato is a house and techno artist based in Japan, with 158 gigs on soundcheck across London, Osaka, Seoul and Tokyo. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: WOMB, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | VENT | Tokyo |
 | Fri, 16 Oct 2026 | Aoyama Hachi | Tokyo |
 
@@ -26,4 +27,4 @@ Hayato is a house and techno artist based in Japan, with 157 gigs on soundcheck 
 
 Sota Shimada, Hayato Iwaki, AMANE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*

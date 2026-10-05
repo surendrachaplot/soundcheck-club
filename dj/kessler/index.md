@@ -1,6 +1,6 @@
 # Kessler
 
-Kessler is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+Kessler is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
 
 Kessler is a techno and breakbeat artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 23 more. Often billed alongside Koboro, Sally C and DJ BORING. Next up: Mandela Hall, Belfast on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kessler is a techno and breakbeat artist based in United Kingdom, with 86 gigs o
 
 Koboro, Sally C, DJ BORING
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessler/)*

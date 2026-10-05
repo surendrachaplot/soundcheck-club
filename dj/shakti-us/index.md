@@ -1,6 +1,6 @@
 # Shakti (US)
 
-Shakti (US) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
+Shakti (US) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
 
 Shakti (US) is a techno and industrial artist, with 5 gigs on soundcheck across Detroit. Often billed alongside Remnant, Augustus Williams and Brent Shay. Next up: Tangent Gallery, Detroit on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Shakti (US) is a techno and industrial artist, with 5 gigs on soundcheck across 
 
 Remnant, Augustus Williams, Brent Shay
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-us/)*

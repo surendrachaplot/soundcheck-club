@@ -1,13 +1,14 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+Toma Kami is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Left Bank, Tbilisi on Fri, 9 Oct 2026.
 
-Toma Kami is a techno and bass artist based in France, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
+Toma Kami is a techno and bass artist based in France, with 94 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Left Bank, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Left Bank | Tbilisi |
 | Fri, 16 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 30 Oct 2026 | OHM | Berlin |
 
@@ -26,4 +27,4 @@ Toma Kami is a techno and bass artist based in France, with 93 gigs on soundchec
 
 ojoo, Ehua, re:ni
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*

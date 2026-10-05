@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "AMSTERDOOM Schranz Night - ANÍBAL SANTOS + WØLKE + Chamo + ST3L4R + FIRE ITSELF" on Fri, 9 Oct 2026.
+Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "AMSTERDOOM Schranz Night - ANÍBAL SANTOS + WØLKE + Chamo + ST3L4R + FIRE ITSELF" on Fri, 9 Oct 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Atrâm, Chamo, LPV and Nita Key and 2 more. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -20,4 +20,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

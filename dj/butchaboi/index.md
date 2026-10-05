@@ -1,13 +1,14 @@
 # BUTCHABOI
 
-BUTCHABOI is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Eiger Studios, Leeds on Sat, 28 Nov 2026.
+BUTCHABOI is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Off The Square, Manchester on Fri, 23 Oct 2026.
 
-BUTCHABOI is a bass and garage artist based in United Kingdom, with 20 gigs on soundcheck across Leeds, Manchester and Nottingham. Often billed alongside FXCKBOUT, KABOCANA and LARISHKA (UK). Next up: Eiger Studios, Leeds on Sat 28 Nov.
+BUTCHABOI is a bass and garage artist based in United Kingdom, with 21 gigs on soundcheck across Leeds, Manchester and Nottingham. Often billed alongside FXCKBOUT, KABOCANA and LARISHKA (UK). Next up: Off The Square, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Off The Square | Manchester |
 | Sat, 28 Nov 2026 | Eiger Studios | Leeds |
 
 ## Recently played
@@ -25,4 +26,4 @@ BUTCHABOI is a bass and garage artist based in United Kingdom, with 20 gigs on s
 
 FXCKBOUT, KABOCANA, LARISHKA (UK)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchaboi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butchaboi/)*

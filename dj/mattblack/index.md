@@ -1,6 +1,6 @@
 # Matt Black
 
-Matt Black is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
+Matt Black is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
 
 Matt Black is a club and drum & bass artist, with 5 gigs on soundcheck across Amsterdam, Ibiza, London and New York City and 1 more. Often billed alongside Billain, DJ Pierre and DJ Snuff. Next up: Het Dorp, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ Matt Black is a club and drum & bass artist, with 5 gigs on soundcheck across Am
 
 Billain, DJ Pierre, DJ Snuff
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattblack/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattblack/)*

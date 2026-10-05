@@ -1,6 +1,6 @@
 # UV400
 
-UV400 is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+UV400 is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
 UV400 is a hardcore artist, with 5 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Alliezz, Dj Wifi and Florelle. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
@@ -21,4 +21,4 @@ UV400 is a hardcore artist, with 5 gigs on soundcheck across Berlin and Frankfur
 
 Alliezz, Dj Wifi (3), Florelle
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uv400/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uv400/)*

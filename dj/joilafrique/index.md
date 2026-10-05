@@ -1,6 +1,6 @@
 # Joi La Frique
 
-Joi La Frique is a Funk / Soul and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, North on Sat, 7 Nov 2026.
+Joi La Frique is a Funk / Soul and Jazz artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, North on Sat, 7 Nov 2026.
 
 Joi La Frique is a funk / soul and jazz artist based in United Kingdom, with 91 gigs on soundcheck across Cardiff, Copenhagen, Leeds and Liverpool and 5 more. Often billed alongside Nonna Fab, Wow & Flutter and Hames. Next up: TBA, North on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Joi La Frique is a funk / soul and jazz artist based in United Kingdom, with 91 
 
 Nonna Fab, Wow & Flutter, Hames
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joilafrique/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joilafrique/)*

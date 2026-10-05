@@ -1,6 +1,6 @@
 # YAMA(JP/OSK)
 
-YAMA(JP/OSK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Area_osaka, Osaka on Fri, 9 Oct 2026.
+YAMA(JP/OSK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Area_osaka, Osaka on Fri, 9 Oct 2026.
 
 YAMA(JP/OSK) is a house and techno artist based in Japan, with 94 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Kyoto and 3 more. Often billed alongside DJ KAZUMA, imus and DANA NADA. Next up: Area_osaka, Osaka on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ YAMA(JP/OSK) is a house and techno artist based in Japan, with 94 gigs on soundc
 
 DJ KAZUMA, imus, DANA NADA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*

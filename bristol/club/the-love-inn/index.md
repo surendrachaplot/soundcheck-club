@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "TBH [all night long]" on Wed, 7 Oct 2026.
+The Love Inn is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "TBH [all night long]" on Wed, 7 Oct 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Andy Martin, AVA, Azumei and Caragh and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -23,4 +23,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs,
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

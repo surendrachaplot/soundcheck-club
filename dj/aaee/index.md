@@ -1,6 +1,6 @@
 # AÆE
 
-AÆE is a Garage and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+AÆE is a Garage and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 AÆE is a garage and baile funk artist based in United Kingdom, with 29 gigs on soundcheck across Bristol. Often billed alongside Lolli, Fonzo and Bakey. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ AÆE is a garage and baile funk artist based in United Kingdom, with 29 gigs on 
 
 Lolli, Fonzo, Bakey
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaee/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaee/)*

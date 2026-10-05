@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "𝓥𝓮𝓻𝔂 𝓢𝓹𝓮𝓬𝓲𝓪𝓵 𝓖𝓾𝓮𝓼𝓽 b2b 𝓜𝓸𝓸𝓹𝓲𝓮 (All Night!)" on Mon, 5 Oct 2026.
+Miscellania is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "𝓥𝓮𝓻𝔂 𝓢𝓹𝓮𝓬𝓲𝓪𝓵 𝓖𝓾𝓮𝓼𝓽 b2b 𝓜𝓸𝓸𝓹𝓲𝓮 (All Night!)" on Mon, 5 Oct 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ATARANGI, Ayebatonye, Ed Kent and Merve and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -22,4 +22,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs,
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

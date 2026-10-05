@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery" on Fri, 9 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery" on Fri, 9 Oct 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Acidnena, Adame DJ, Aleman Beatz and amil raja and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

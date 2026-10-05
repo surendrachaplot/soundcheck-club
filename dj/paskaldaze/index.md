@@ -1,6 +1,6 @@
 # Paskal Daze
 
-Paskal Daze is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
+Paskal Daze is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 16 Oct 2026.
 
 Paskal Daze is a house and electro artist based in Canada, with 4 gigs on soundcheck across Montreal. Often billed alongside Bob Sinclar, Gorgon City and SHEE. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Paskal Daze is a house and electro artist based in Canada, with 4 gigs on soundc
 
 Bob Sinclar, Gorgon City, SHEE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paskaldaze/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paskaldaze/)*

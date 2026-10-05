@@ -1,6 +1,6 @@
 # Kosei Okumura
 
-Kosei Okumura is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at VENT, Tokyo on Fri, 9 Oct 2026.
+Kosei Okumura is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at VENT, Tokyo on Fri, 9 Oct 2026.
 
 Kosei Okumura is a techno and industrial artist based in Japan, with 4 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside the2$, tnseei and Aöcram. Next up: VENT, Tokyo on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Kosei Okumura is a techno and industrial artist based in Japan, with 4 gigs on s
 
 the2$, tnseei, Aöcram
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koseiokumura/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koseiokumura/)*

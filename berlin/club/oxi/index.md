@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 6 Oct 2026.
+OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 6 Oct 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including Aero, Alexa Fluor, Amo (IT) and Ana Molina and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -15,7 +15,7 @@ OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line
 | Tue, 13 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Gabrielle (DE), Keepsakes, Majdolen, X Tin |
 | Fri, 16 Oct 2026 | Toy Tonics presents ITALOMANIA | Boogie Rookie, Delfonic, Marco Ohboy, Moretz, Niklas Wandt, Rollover Djs |
 | Sat, 17 Oct 2026 | CLASH |  |
-| Sat, 17 Oct 2026 | OXI GROOVE AFFAIR | ATTA (GER), Andrea Zadro, Dj handbag, Iron Curtis, Luca Garcia, Sven von Thülen, Trent Voyage |
+| Sat, 17 Oct 2026 | OXI GROOVE AFFAIR | ATTA (GER), Andrea Zadro, Dj handbag, Harrison BDP, Iron Curtis, Luca Garcia, Sven von Thülen, Trent Voyage |
 | Tue, 20 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | CALiACRA, DJ Sun, LPV, New Frames |
 | Thu, 22 Oct 2026 | THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ | Lisatrix, Maurice Werner, NIKØ, lisa tba |
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

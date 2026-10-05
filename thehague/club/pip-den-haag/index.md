@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Lobster invites JEANS" on Sat, 10 Oct 2026.
+PIP Den Haag is a music venue in The Hague with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Lobster invites JEANS" on Sat, 10 Oct 2026.
 
 PIP Den Haag is a music venue in The Hague listed on soundcheck. 8 upcoming gigs, with line-ups including BäRK (NE), Boudi, brAque and DJ VamPire and 2 more. See dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -21,4 +21,4 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 8 upcoming gigs
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

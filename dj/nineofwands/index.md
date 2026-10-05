@@ -1,14 +1,15 @@
 # Nine of Wands
 
-Nine of Wands is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Fri, 9 Oct 2026.
+Nine of Wands is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Sound Lounge at Percy, Philadelphia on Fri, 9 Oct 2026.
 
-Nine of Wands is a techno and experimental artist based in United States of America, with 12 gigs on soundcheck across Philadelphia. Often billed alongside Vicenta, human plushie and 6LOV3. Next up: The Sound Lounge at Percy, Philadelphia on Fri 9 Oct.
+Nine of Wands is a techno and experimental artist based in United States of America, with 13 gigs on soundcheck across Philadelphia. Often billed alongside 6LOV3, Vicenta and human plushie. Next up: The Sound Lounge at Percy, Philadelphia on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Sound Lounge at Percy | Philadelphia |
+| Sat, 24 Oct 2026 | TBA - NAMELESS | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nine of Wands is a techno and experimental artist based in United States of Amer
 
 ## Shares bills with
 
-Vicenta, human plushie, 6LOV3
+6LOV3, Vicenta, human plushie
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*

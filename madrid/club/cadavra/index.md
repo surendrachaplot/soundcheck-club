@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Stojche & Tremul at Anfang" on Thu, 8 Oct 2026.
+Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Stojche & Tremul at Anfang" on Thu, 8 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including 2garlics, Abdulla A., Andy Martin and Anna Wall and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

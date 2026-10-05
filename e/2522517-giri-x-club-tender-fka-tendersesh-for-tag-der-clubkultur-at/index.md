@@ -1,6 +1,6 @@
 # Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur at Giri
 
-Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur on Wed 7 Oct, Berlin. 3 artists: Bakläxa, Fukinsei and Posture. See the line-up on soundcheck.
+Giri x Club Tender (fka Tendersesh) for Tag Der Clubkultur on Wed 7 Oct, Berlin. 3 artists: Bakläxa, Fukinsei and Posture. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

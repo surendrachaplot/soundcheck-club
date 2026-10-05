@@ -1,6 +1,6 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Nü Androids presents: Samantha Loveridge" on Sat, 17 Oct 2026.
+Vera Cocina & بار is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Nü Androids presents: Samantha Loveridge" on Sat, 17 Oct 2026.
 
 Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Wann, Andhim and Samantha Loveridge. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
@@ -17,4 +17,4 @@ Vera Cocina & بار is a music venue in Washington DC listed on soundcheck. 4 u
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

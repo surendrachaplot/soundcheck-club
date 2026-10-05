@@ -1,8 +1,8 @@
 # DRUMA
 
-DRUMA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 8 Oct 2026.
+DRUMA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 8 Oct 2026.
 
-DRUMA is a house and disco artist, with 42 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Shaneo, Burna UK and Hobbes. Next up: The Berkeley Suite, Glasgow on Thu 8 Oct.
+DRUMA is a house and disco artist based in United Kingdom, with 42 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Shaneo, Burna UK and Hobbes. Next up: The Berkeley Suite, Glasgow on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DRUMA is a house and disco artist, with 42 gigs on soundcheck across Edinburgh a
 
 Shaneo, Burna UK, Hobbes
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druma/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druma/)*

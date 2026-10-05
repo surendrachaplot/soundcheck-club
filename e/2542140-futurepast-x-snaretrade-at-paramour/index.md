@@ -1,6 +1,6 @@
 # Futurepast x Snaretrade at Paramour
 
-Futurepast x Snaretrade at Paramour on Sat 17 Oct, Brussels. 4 artists: Camiflage, Mogus, RIET and T.A.M.22. Techno and House. See the line-up on soundcheck.
+Futurepast x Snaretrade at Paramour on Sat 17 Oct, Brussels. 5 artists: Camiflage, Mel (FR), Mogus and RIET and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Futurepast x Snaretrade at Paramour on Sat 17 Oct, Brussels. 4 artists: Camiflag
 ## Line-up
 
 - Camiflage
+- Mel (FR)
 - Mogus
 - RIET
 - T.A.M.22

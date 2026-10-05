@@ -1,15 +1,13 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+MiNNA is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-MiNNA is a house and disco artist based in United Kingdom, with 151 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 24 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+MiNNA is a house and disco artist based in United Kingdom, with 151 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 24 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Colour Factory | London |
 | Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
@@ -33,4 +31,4 @@ MiNNA is a house and disco artist based in United Kingdom, with 151 gigs on soun
 
 Kirollus, Dan Shake, Horse Meat Disco
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

@@ -1,6 +1,6 @@
 # Schierke
 
-Schierke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
+Schierke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Berlin on Fri, 16 Oct 2026.
 
 Schierke is a techno and trance artist based in Spain, with 4 gigs on soundcheck across Barcelona, Berlin and Budapest. Often billed alongside SLYM, szoliver and Adlas. Next up: TBA, Berlin on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Schierke is a techno and trance artist based in Spain, with 4 gigs on soundcheck
 
 SLYM, szoliver, Adlas
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schierke/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schierke/)*

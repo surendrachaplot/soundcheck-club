@@ -1,6 +1,6 @@
 # Anti Ribeiro
 
-Anti Ribeiro is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Thu, 8 Oct 2026.
+Anti Ribeiro is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OHM, Berlin on Thu, 8 Oct 2026.
 
 Anti Ribeiro is a club and baile funk artist based in Brazil, with 3 gigs on soundcheck across Berlin, Brussels and Mexico City. Often billed alongside Babybruise, Bieu and Brujx Dmazapan. Next up: OHM, Berlin on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ Anti Ribeiro is a club and baile funk artist based in Brazil, with 3 gigs on sou
 
 Babybruise, Bieu, Brujx Dmazapan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*

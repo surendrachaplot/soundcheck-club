@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ijver, Amsterdam on Fri, 23 Oct 2026.
+Michael Mayer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
 Michael Mayer is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Michael Mayer is a techno and house artist based in Germany, with 84 gigs on sou
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

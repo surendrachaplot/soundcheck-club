@@ -1,6 +1,6 @@
 # HUGØ
 
-HUGØ is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
+HUGØ is a Progressive House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
 
 HUGØ is a progressive house and afrobeat artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside 2Doters, Parra Vie and Altayef. Next up: Maya Marylebone, London on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ HUGØ is a progressive house and afrobeat artist based in United Kingdom, with 4
 
 2Doters, Parra Vie, Altayef
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-UK/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-UK/)*

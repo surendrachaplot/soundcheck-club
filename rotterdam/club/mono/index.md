@@ -1,6 +1,6 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Link Up" on Fri, 9 Oct 2026.
+Mono is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Link Up" on Fri, 9 Oct 2026.
 
 Mono is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Hey Bony and Jesse Maas. See dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
@@ -16,4 +16,4 @@ Mono is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, with l
 
 Vijverhofstraat 15, 3032 SB Rotterdam, Rotterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*

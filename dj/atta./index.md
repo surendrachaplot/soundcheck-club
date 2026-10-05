@@ -1,6 +1,6 @@
 # ATTA.
 
-ATTA. is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+ATTA. is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
 
 ATTA. is a trance and techno artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow, Leeds and Manchester. Often billed alongside BRNE, Cleopard2000 and Costy. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ ATTA. is a trance and techno artist based in United Kingdom, with 3 gigs on soun
 
 BRNE, Cleopard2000, Costy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atta./)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atta./)*

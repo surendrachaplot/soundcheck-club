@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at New City Gas, Montreal on Sat, 10 Oct 2026.
+Oliver Heldens is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at New City Gas, Montreal on Sat, 10 Oct 2026.
 
 Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: New City Gas, Montreal on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs o
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

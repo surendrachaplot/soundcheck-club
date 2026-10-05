@@ -1,6 +1,6 @@
 # Foly
 
-Foly is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Minimal Bar, Berlin on Tue, 6 Oct 2026.
+Foly is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Minimal Bar, Berlin on Tue, 6 Oct 2026.
 
 Foly is a minimal techno and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Noxumi. Next up: Minimal Bar, Berlin on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ Foly is a minimal techno and tech house artist based in Germany, with 4 gigs on 
 
 Noxumi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foly/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foly/)*

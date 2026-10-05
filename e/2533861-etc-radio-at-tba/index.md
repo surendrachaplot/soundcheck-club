@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Fri 30 Oct, Chicago. 1 artist: m50. Ambient and Acid. See the line-up on soundcheck.
+etc radio at TBA on Fri 30 Oct, Chicago. 2 artists: m50 and Trash Panda QC. Ambient and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ etc radio at TBA on Fri 30 Oct, Chicago. 1 artist: m50. Ambient and Acid. See th
 ## Line-up
 
 - m50
+- Trash Panda QC
 
 *Source: [soundcheck](https://soundcheck.club/e/2533861-etc-radio-at-tba/)*

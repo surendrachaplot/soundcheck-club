@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ADE 26: Melodic Deep - Ten Years In Motion Club Train" on Thu, 22 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ADE 26: Melodic Deep - Ten Years In Motion Club Train" on Thu, 22 Oct 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Javier Anxiety, Yulia Niko, Albin Brezlan and Andrew Rayel and 2 more. See dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -8,7 +8,7 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | ADE 26: Melodic Deep - Ten Years In Motion Club Train | Ape Drums, Ede, Fairplay, Floyd Lavine, Glowal, Ivan Masa, KENZA KAYATI, Laolu, Megatronic, Yulia Niko |
+| Thu, 22 Oct 2026 | ADE 26: Melodic Deep - Ten Years In Motion Club Train | Ape Drums, Ede, Fairplay, Floyd Lavine, Glowal, Ivan Masa, KENZA KAYATI, Laolu, Megatronic, No Rush (IT), OSFUR, VIEL (IT), Yulia Niko |
 | Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Van Moon, ZARE |
 | Fri, 23 Oct 2026 | ALL ABOARD (CLUB TRAIN) |  |
 | Fri, 23 Oct 2026 | CLUB TRAIN feat. GALACTICA,Eat The Beat, Deeperfect, EAR/WAX,SEVENEIGHT | Caelestis, David Maters, Fabio Monesi, Gianni Di Bernardo, Iva (NL), Joris Turenhout, Luca Agnelli, Mattia Trani, Ninetree, Riverside (IT), Robert De Neer, SANEM, SANTØS, Simone Liberali, Stefano Noferini, Supernova, V111, Vale.T, rebrånded |
@@ -20,4 +20,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

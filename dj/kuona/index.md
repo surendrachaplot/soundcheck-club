@@ -1,6 +1,6 @@
 # Kuona
 
-Kuona is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at EXIL, Zurich on Fri, 16 Oct 2026.
+Kuona is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at EXIL, Zurich on Fri, 16 Oct 2026.
 
 Kuona is a techno artist based in Switzerland, with 4 gigs on soundcheck across Zurich. Often billed alongside Fadi Mohem, Ben Sims and D.Dan. Next up: EXIL, Zurich on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Kuona is a techno artist based in Switzerland, with 4 gigs on soundcheck across 
 
 Fadi Mohem, Ben Sims, D.Dan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*

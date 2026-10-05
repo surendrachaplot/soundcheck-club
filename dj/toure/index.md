@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
+Touré is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Loft, Manchester on Fri, 16 Oct 2026.
 
 Touré is a house and electro artist based in United Kingdom, with 41 gigs on soundcheck across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: The Loft, Manchester on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Touré is a house and electro artist based in United Kingdom, with 41 gigs on so
 
 Larushkin, Sleepy Jean, Antoin KMA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

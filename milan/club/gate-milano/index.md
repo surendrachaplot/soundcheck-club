@@ -1,6 +1,6 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ØTTA & Pegassi" on Fri, 9 Oct 2026.
+Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ØTTA & Pegassi" on Fri, 9 Oct 2026.
 
 Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Akashi, ARMANDO, Ben Klock and Beste Hira and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
@@ -23,4 +23,4 @@ Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, wi
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

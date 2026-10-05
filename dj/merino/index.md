@@ -1,6 +1,6 @@
 # Merino
 
-Merino is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
+Merino is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
 Merino is a techno and acid artist based in Colombia, with 21 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Agonis, Ali-Az and Kevin Matto. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Merino is a techno and acid artist based in Colombia, with 21 gigs on soundcheck
 
 Agonis, Ali-Az, Kevin Matto
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*

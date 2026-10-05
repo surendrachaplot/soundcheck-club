@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Sunday Bliss: Elephantglasses, KATA, Blvck Truffle" on Sun, 4 Oct 2026.
+Jupiter Disco is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie" on Wed, 7 Oct 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Balam and BbbBbBB and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Balam and BbbBbBB and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses |
 | Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago (US), Pedestrian Access |
 | Thu, 8 Oct 2026 | PluggedIN: bbbBbBB, Day Cart, HumanbIAN | BbbBbBB (2), Day Cart, HumanbIAN |
 | Fri, 9 Oct 2026 | GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege | HONEY B, Pretty Privilege, Tom Marsi |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 20 upcomin
 | Thu, 15 Oct 2026 | Ardio presents: Ardio + Cutbird | Ardio Zemog |
 | Fri, 16 Oct 2026 | Natural Selections: Balam, Mona Matsuoka, Carlo Sine, Loren Berrier | Balam, Carlo Sine, Loren Berrier, Mona Matsuoka |
 | Sat, 17 Oct 2026 | HunnyBunny + Jeremy Giros | HunnyBunny, Jeremy Giros |
+| Sun, 18 Oct 2026 | Sidera Invites: JESSXO, espurr, Brooke Steele, steele deficiency | Brooke Steele, JESSXO, espurr, steele deficiency |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

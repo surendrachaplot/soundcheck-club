@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
+Jimi Jules is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
 
 Jimi Jules is a house and techno artist based in Switzerland, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Nitsa Club, Barcelona on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Jimi Jules is a house and techno artist based in Switzerland, with 198 gigs on s
 
 Dixon, Âme, Trikk
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HGM 'CONNECTED' - Jubilee Edition w/PHILER & JAN BLUMINGDALE" on Thu, 8 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "HGM 'CONNECTED' - Jubilee Edition w/PHILER & JAN BLUMINGDALE" on Thu, 8 Oct 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcoming gigs, with line-ups including Chamelio 3000, Denno Matini, E-PUNK and Michael Clash Gottschalk and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -23,4 +23,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

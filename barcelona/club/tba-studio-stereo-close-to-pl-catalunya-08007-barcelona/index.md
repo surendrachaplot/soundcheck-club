@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq" on Thu, 8 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq" on Thu, 8 Oct 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Adria (ES), Adrian Grösser, Alex Garcia and Alvaro Medina and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 23 Oct 2026 | Studio Stereo x Cupula Recordings pres. Nizar Sarakbi | Adria (ES), Nizar Sarakbi, Pau Rosés, Priorat |
 | Sat, 24 Oct 2026 | Studio Stereo x Pa'volar pres. Phil Evans | Bustins, Friascut, Phil Evans |
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

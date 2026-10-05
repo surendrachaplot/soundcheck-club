@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+LESSSS is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
 LESSSS is a techno and hardcore artist based in France, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ LESSSS is a techno and hardcore artist based in France, with 165 gigs on soundch
 
 Azyr, Basswell, Charlie Sparks
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

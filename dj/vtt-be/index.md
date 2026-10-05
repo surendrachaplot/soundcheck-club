@@ -1,6 +1,6 @@
 # VTT (BE)
 
-VTT (BE) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Atelier 210, Brussels on Fri, 9 Oct 2026.
+VTT (BE) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Atelier 210, Brussels on Fri, 9 Oct 2026.
 
 VTT (BE) is a house and electro artist based in Vietnam, with 62 gigs on soundcheck across Antwerp, Brussels and Paris. Often billed alongside Fais Le Beau, Ava Eva and Kathleen C. Next up: Atelier 210, Brussels on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ VTT (BE) is a house and electro artist based in Vietnam, with 62 gigs on soundch
 
 Fais Le Beau, Ava Eva, Kathleen C
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtt-be/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtt-be/)*

@@ -1,6 +1,6 @@
 # Fame Diet
 
-Fame Diet is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Wych, Toronto on Fri, 9 Oct 2026.
+Fame Diet is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Wych, Toronto on Fri, 9 Oct 2026.
 
 Fame Diet is an electronica and techno artist, with 3 gigs on soundcheck across Toronto. Often billed alongside Gruve Collective, LeeLee Mishi and Ruzter. Next up: The Wych, Toronto on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Fame Diet is an electronica and techno artist, with 3 gigs on soundcheck across 
 
 Gruve Collective, LeeLee Mishi, Ruzter
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/famediet/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/famediet/)*

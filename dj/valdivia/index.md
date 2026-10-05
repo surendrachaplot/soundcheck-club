@@ -1,6 +1,6 @@
 # Valdivia
 
-Valdivia is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 22 Oct 2026.
+Valdivia is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 22 Oct 2026.
 
 Valdivia is an electro and house artist, with 4 gigs on soundcheck across Barcelona and Rome. Often billed alongside BERNOUT, Crisalide and Andrea Merea. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Valdivia is an electro and house artist, with 4 gigs on soundcheck across Barcel
 
 BERNOUT, Crisalide, Andrea Merea
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdivia/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdivia/)*

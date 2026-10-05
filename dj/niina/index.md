@@ -1,6 +1,6 @@
 # niina
 
-niina is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Village Underground Lisboa, Lisbon on Fri, 9 Oct 2026.
+niina is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Village Underground Lisboa, Lisbon on Fri, 9 Oct 2026.
 
 niina is an electronic artist based in United Kingdom, with 4 gigs on soundcheck across Lisbon and London. Often billed alongside Ash Lauryn, Gemi (UK) and Jacana People. Next up: Village Underground Lisboa, Lisbon on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ niina is an electronic artist based in United Kingdom, with 4 gigs on soundcheck
 
 Ash Lauryn, Gemi (UK), Jacana People
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niina/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niina/)*

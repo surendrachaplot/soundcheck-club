@@ -1,6 +1,6 @@
 # vurtnight Toki Fuko Live at vurt.
 
-vurtnight Toki Fuko Live at vurt. on Fri 16 Oct, Seoul. 1 artist: Toki Fuko. Techno. See the line-up on soundcheck.
+vurtnight Toki Fuko Live at vurt. on Fri 16 Oct, Seoul. 3 artists: GOBI, SJK and Toki Fuko. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ vurtnight Toki Fuko Live at vurt. on Fri 16 Oct, Seoul. 1 artist: Toki Fuko. Tec
 
 ## Line-up
 
+- GOBI
+- SJK (1)
 - Toki Fuko
 
 *Source: [soundcheck](https://soundcheck.club/e/2540214-vurtnight-toki-fuko-live-at-vurt/)*

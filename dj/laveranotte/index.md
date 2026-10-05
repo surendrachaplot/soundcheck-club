@@ -1,18 +1,18 @@
 # La Vera Notte
 
-La Vera Notte is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Ministerium Club, Lisbon on Sun, 4 Oct 2026.
+La Vera Notte is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Armazém 124, Oliveira de Azeméis, Porto on Sat, 17 Oct 2026.
 
-La Vera Notte is a techno and industrial artist based in Spain, with 15 gigs on soundcheck across Lisbon, London, Madrid and Naples and 2 more. Often billed alongside Dani Rodriguez, Dres Codex and GAIVEU. Next up: Ministerium Club, Lisbon on Sun 4 Oct.
+La Vera Notte is a techno and industrial artist based in Spain, with 15 gigs on soundcheck across Lisbon, London, Madrid and Naples and 2 more. Often billed alongside Dani Rodriguez, Dres Codex and GAIVEU. Next up: Armazém 124, Oliveira de Azeméis, Porto on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Ministerium Club | Lisbon |
 | Sat, 17 Oct 2026 | Armazém 124, Oliveira de Azeméis | Porto |
 
 ## Recently played
 
+- Ministerium Club, Lisbon · Sun, 4 Oct 2026
 - E1, London · Fri, 4 Sept 2026
 - Ministerium Club, Lisbon · Thu, 20 Aug 2026
 - Village Underground Lisboa, Lisbon · Sat, 13 Dec 2025
@@ -20,10 +20,9 @@ La Vera Notte is a techno and industrial artist based in Spain, with 15 gigs on 
 - Fire, London · Fri, 9 May 2025
 - Nexus, Paris · Fri, 4 Apr 2025
 - E1, London · Fri, 10 Jan 2025
-- Ministerium Club, Lisbon · Thu, 17 Oct 2024
 
 ## Shares bills with
 
 Dani Rodriguez, Dres Codex, GAIVEU
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laveranotte/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laveranotte/)*

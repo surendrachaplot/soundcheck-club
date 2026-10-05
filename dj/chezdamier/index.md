@@ -1,22 +1,20 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Chez Damier is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Paloma, Barcelona on Fri, 9 Oct 2026.
 
-Chez Damier is a house and deep house artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Chez Damier is a house and techno artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: La Paloma, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Sun, 4 Oct 2026 | Pikes Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | La Paloma | Barcelona |
 | Sat, 10 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
 
+- Pikes Ibiza, Ibiza · Sun, 4 Oct 2026
 - Nido Marseille, Marseille · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
@@ -24,10 +22,9 @@ Chez Damier is a house and deep house artist based in United States of America, 
 - SAGE, Berlin · Sat, 5 Sept 2026
 - Container Brewing, Vancouver · Sat, 29 Aug 2026
 - Tokonoma Club, Frankfurt · Sat, 15 Aug 2026
-- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

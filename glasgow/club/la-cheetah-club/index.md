@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KEEP ON with OOFT! & David Barbarossa" on Sun, 4 Oct 2026.
+La Cheetah Club is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "CLUB CUT: WAX ONLY" on Tue, 6 Oct 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Amizl, Baron Von Trax, Bonzai Bonner and Brody James and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including Amizl, Baron Von Trax, Bonzai Bonner and Brody James and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 | Tue, 6 Oct 2026 | CLUB CUT: WAX ONLY | Brody James, SMK (1), Surplus |
 | Thu, 8 Oct 2026 | Sequence: Chapter Two | JHNSSN, Johnny Greig, LAZLO |
 | Fri, 9 Oct 2026 | Hawd That 008 // DJ ADHD | DJ ADHD, Work Coach, fergusmcnally |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gi
 | Tue, 13 Oct 2026 | CLUB CUT | Danse Atmos, PASO |
 | Thu, 15 Oct 2026 | FTS X WEE GEM ZINE: Brown Excellence | Brown Excellence |
 | Fri, 16 Oct 2026 | Ezup | Ferrie, Jay Celino |
+| Sat, 17 Oct 2026 | DOOZY / Baron Von Trax | Baron Von Trax |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

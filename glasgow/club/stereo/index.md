@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KRYLA" on Fri, 9 Oct 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "KRYLA" on Fri, 9 Oct 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Acido Cielo, Babyjaii, CLO and Creep-P and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Acido Cielo, Babyjaii, CLO and Creep-P and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with 
 | Thu, 22 Oct 2026 | BSOUND - ALL NITE | Soretsia, Spinefluid, eurokels, hubey |
 | Fri, 23 Oct 2026 | Aladji x Chicago Footwork Scotland x Stereo: DJ Slugo & username | DJ Slugo, SOFSOF, saparilla |
 | Sat, 24 Oct 2026 | Kylie Wears Berghaus | Kylie Wears Berghaus |
-| Fri, 30 Oct 2026 | Subcity Radio: Halloween |  |
+| Fri, 30 Oct 2026 | Subcity Radio Halloween: Midnight Zone |  |
 | Sat, 31 Oct 2026 | Scandalween | Babyjaii, Rahul.mp3 |
-| Fri, 6 Nov 2026 | Ghouls Club | Creep-P |
+| Thu, 5 Nov 2026 | GTE GAFF 3 |  |
 
 ## Address
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

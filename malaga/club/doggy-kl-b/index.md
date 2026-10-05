@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Groove Mates: Onemas invites Nitrile Affair" on Fri, 9 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Groove Mates: Onemas invites Nitrile Affair" on Fri, 9 Oct 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -21,4 +21,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming gigs, wi
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

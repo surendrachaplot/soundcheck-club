@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
+Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at FOLD, London on Fri, 9 Oct 2026.
 
 Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: FOLD, London on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Tiga is a techno and house artist based in Canada, with 124 gigs on soundcheck a
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

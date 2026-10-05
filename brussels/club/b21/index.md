@@ -1,6 +1,6 @@
 # B21
 
-B21 is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DISSIDENTS X B21 w/ Valma, Jadevil, Jawska, Nu Roth, Viudark b2b Whysee" on Fri, 9 Oct 2026.
+B21 is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "DISSIDENTS X B21 w/ Valma, Jadevil, Jawska, Nu Roth, Viudark b2b Whysee" on Fri, 9 Oct 2026.
 
 B21 is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Echo/Dawn, elsa winner, Fake Moss and Holiness and 1 more. See dates, start times and who's playing. Rue de Belgrade, 21 1190 Forest.
 
@@ -17,4 +17,4 @@ B21 is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with lin
 
 Rue de Belgrade, 21 1190 Forest, Brussels
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/b21/)*

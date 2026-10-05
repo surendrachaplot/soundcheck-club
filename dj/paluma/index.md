@@ -1,6 +1,6 @@
 # Paluma
 
-Paluma is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Paluma is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
 Paluma is a tech house and techno artist based in Brazil, with 6 gigs on soundcheck across Brisbane and Sydney. Often billed alongside Justin Muscat, Caleb Jackson and Callyy. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Paluma is a tech house and techno artist based in Brazil, with 6 gigs on soundch
 
 Justin Muscat, Caleb Jackson, Callyy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paluma/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paluma/)*

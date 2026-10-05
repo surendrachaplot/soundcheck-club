@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
+Max Dean is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Max Dean is a house and tech house artist based in United Kingdom, with 235 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 41 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
@@ -35,4 +35,4 @@ Max Dean is a house and tech house artist based in United Kingdom, with 235 gigs
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

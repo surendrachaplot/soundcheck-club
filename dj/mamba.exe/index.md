@@ -1,8 +1,8 @@
 # mamba.exe
 
-mamba.exe is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
+mamba.exe is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Soup, Manchester on Thu, 15 Oct 2026.
 
-mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 42 gigs on soundcheck across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: Soup, Manchester on Thu 15 Oct.
+mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 43 gigs on soundcheck across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: Soup, Manchester on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 42 gi
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Soup | Manchester |
 | Sat, 24 Oct 2026 | The Yard | Manchester |
+| Fri, 30 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 42 gi
 
 FOULMOUTH, Plan T, Korzi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*

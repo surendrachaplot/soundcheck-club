@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Doss & Friends" on Thu, 8 Oct 2026.
+Paragon is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Doss & Friends" on Thu, 8 Oct 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including AK (US), Ashley Venom, BLAIZE and Boris and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 14 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

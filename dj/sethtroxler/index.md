@@ -1,14 +1,13 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Seth Troxler is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 320 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Empire Polo Club | Palm-springs |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | BRET | Amsterdam |
@@ -20,9 +19,11 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | BERHTA | Washington DC |
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Ironworks, London · Sat, 3 Oct 2026
 - T7 Paris, Paris · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 - DC-10, Ibiza · Mon, 28 Sept 2026
 - Volt Club Milano, Milan · Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
-- Sophie Festival, Malaga · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

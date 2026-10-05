@@ -1,6 +1,6 @@
 # Leila
 
-Leila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ormside Projects, London on Sat, 17 Oct 2026.
+Leila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ormside Projects, London on Sat, 17 Oct 2026.
 
 Leila is a house and techno artist based in United Kingdom, with 4 gigs on soundcheck across Berlin, Edinburgh, London and Paris. Often billed alongside Bamela Paywatch, Best Boy Electric and Carly Zeng. Next up: Ormside Projects, London on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Leila is a house and techno artist based in United Kingdom, with 4 gigs on sound
 
 Bamela Paywatch, Best Boy Electric, Carly Zeng
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leila/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leila/)*

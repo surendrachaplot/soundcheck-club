@@ -1,14 +1,15 @@
 # Olita (UK)
 
-Olita (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
+Olita (UK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
 
-Olita (UK) is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: 1520, Manchester on Fri 30 Oct.
+Olita (UK) is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Antwerp, Berlin, Birmingham and London and 6 more. Often billed alongside Sam Bangura, Neb Spook and Harry McCanna. Next up: 1520, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
+| Sat, 28 Nov 2026 | Algha's Plantroom | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Olita (UK) is a house and techno artist based in United Kingdom, with 65 gigs on
 
 Sam Bangura, Neb Spook, Harry McCanna
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olitauk/)*

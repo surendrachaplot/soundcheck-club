@@ -1,6 +1,6 @@
 # Siberialist
 
-Siberialist is a Reggaeton and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Siberialist is a Reggaeton and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Siberialist is a reggaeton and bass artist, with 5 gigs on soundcheck across Krakow and Warsaw. Often billed alongside DiV4, MIFI77 and dj neurospicy. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Siberialist is a reggaeton and bass artist, with 5 gigs on soundcheck across Kra
 
 DiV4, MIFI77, dj neurospicy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*

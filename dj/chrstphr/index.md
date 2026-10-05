@@ -1,6 +1,6 @@
 # CHRSTPHR
 
-CHRSTPHR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 10 Oct 2026.
+CHRSTPHR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 10 Oct 2026.
 
 CHRSTPHR is a house and tech house artist based in Hungary, with 3 gigs on soundcheck across Budapest and Ibiza. Often billed alongside Alle Farben, Noel Holler and Special Guest (US). Next up: Dojo Boutique Club, Budapest on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ CHRSTPHR is a house and tech house artist based in Hungary, with 3 gigs on sound
 
 Alle Farben, Noel Holler, Special Guest (US)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrstphr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrstphr/)*

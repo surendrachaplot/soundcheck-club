@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Riktus presents: GAIVEU All Night Long #2" on Sun, 4 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Ministerium Club // Raresh" on Fri, 9 Oct 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including Antilope, ANÍBAL, Banditst4r and Daox and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including Antilope, ANÍBAL, Banditst4r and Daox and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
 | Fri, 9 Oct 2026 | Ministerium Club // Raresh | Raresh |
 | Sat, 10 Oct 2026 | Ministerium Club // Francisca Urbano, Worm Class & Tiago | Francisca Urbano, Tíago, Worm Class |
 | Thu, 15 Oct 2026 | Riktus Invites BALAGAN | ANÍBAL, Djooke, GADDAM, Madson Carpenter, Saint Caboclo, pavvvvvvlo |
@@ -21,4 +20,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

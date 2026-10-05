@@ -1,6 +1,6 @@
 # Asōka
 
-Asōka is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
+Asōka is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
 
 Asōka is an electronic artist, with 4 gigs on soundcheck across Berlin, Hamburg and Schleswig Holstein. Often billed alongside Alex.Do, Audae and Boeckmann. Next up: Luna Club, Schleswig Holstein on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Asōka is an electronic artist, with 4 gigs on soundcheck across Berlin, Hamburg
 
 Alex.Do, Audae, Boeckmann
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asoka/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asoka/)*

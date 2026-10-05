@@ -1,14 +1,13 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+ANOTR is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat, 10 Oct 2026.
 
-ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: TBA, Central on Fri 2 Oct.
+ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: TBA - Passeio Marítimo de Algés, Portugal, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Fri, 30 Oct 2026 | Ace*Mission Studios - Under The 6th Street Bridge | Los Angeles |
@@ -30,4 +29,4 @@ ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on so
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

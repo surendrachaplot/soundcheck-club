@@ -1,6 +1,6 @@
 # Mr. Stampftech
 
-Mr. Stampftech is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 15 Oct 2026.
+Mr. Stampftech is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 15 Oct 2026.
 
 Mr. Stampftech is a hardcore and acid artist, with 4 gigs on soundcheck across Munich. Often billed alongside aufleguan, midimal and Fej:tal. Next up: Bahnwärter Thiel, Munich on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Mr. Stampftech is a hardcore and acid artist, with 4 gigs on soundcheck across M
 
 aufleguan, midimal, Fej:tal
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.stampftech/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.stampftech/)*

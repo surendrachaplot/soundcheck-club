@@ -1,6 +1,6 @@
 # EVER (2)
 
-EVER (2) is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Worm, Rotterdam on Fri, 9 Oct 2026.
+EVER (2) is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Worm, Rotterdam on Fri, 9 Oct 2026.
 
 EVER is a bass and breakbeat artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Bongoat, Burchhhha and Candy Coup. Next up: Worm, Rotterdam on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ EVER is a bass and breakbeat artist based in Netherlands, with 4 gigs on soundch
 
 Bongoat, Burchhhha, Candy Coup
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ever-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ever-2/)*

@@ -1,13 +1,14 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Groovetank Live, London on Sat, 12 Dec 2026.
+SONI LOBO is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
-SONI LOBO is a techno and minimal techno artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside D LAI, Dimanté and Any Koh. Next up: Groovetank Live, London on Sat 12 Dec.
+SONI LOBO is a techno and ebm artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside D LAI, Dimanté and Any Koh. Next up: Omeara, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Omeara | London |
 | Sat, 12 Dec 2026 | Groovetank Live | London |
 
 ## Recently played
@@ -21,4 +22,4 @@ SONI LOBO is a techno and minimal techno artist based in United Kingdom, with 5 
 
 D LAI, Dimanté, Any Koh
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

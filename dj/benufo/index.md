@@ -1,8 +1,8 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 9 Oct 2026.
+Ben UFO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 9 Oct 2026.
 
-Ben UFO is a techno and house artist based in United Kingdom, with 238 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 60 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 9 Oct.
+Ben UFO is a techno and house artist based in United Kingdom, with 239 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 60 more. Often billed alongside Helena Hauff, Ogazón and Avalon Emerson. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -19,17 +19,17 @@ Ben UFO is a techno and house artist based in United Kingdom, with 238 gigs on s
 
 ## Recently played
 
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Art Club, Houston · Fri, 25 Sept 2026
 - Art Club, Houston · Fri, 25 Sept 2026
-- Holocene, Portland · Sat, 19 Sept 2026
-- TBA, Toronto · Fri, 11 Sept 2026
 
 ## Shares bills with
 
-Helena Hauff, Ogazón, Pangaea
+Helena Hauff, Ogazón, Avalon Emerson
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

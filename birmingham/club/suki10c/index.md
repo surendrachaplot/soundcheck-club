@@ -1,6 +1,6 @@
 # Suki10c
 
-Suki10c is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Burden - Suki10c - BIRMINGHAM" on Fri, 9 Oct 2026.
+Suki10c is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Burden - Suki10c - BIRMINGHAM" on Fri, 9 Oct 2026.
 
 Suki10c is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Von Martin, Burden, Creep-P and Dr4kken and 2 more. See dates, start times and who's playing. 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom.
 
@@ -19,4 +19,4 @@ Suki10c is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, wi
 
 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom, Birmingham
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*

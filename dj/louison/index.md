@@ -1,14 +1,13 @@
 # Louison
 
-Louison is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France, South-east on Sat, 3 Oct 2026.
+Louison is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
-Louison is a house and techno artist based in France, with 52 gigs on soundcheck across Barcelona, Brussels, Lisbon and Lyon and 9 more. Often billed alongside Maco Maria, Jolly (FR) and LAMALICE. Next up: TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France, South East on Sat 3 Oct.
+Louison is a house and techno artist based in France, with 52 gigs on soundcheck across Barcelona, Brussels, Lisbon and Lyon and 9 more. Often billed alongside Maco Maria, Jolly (FR) and LAMALICE. Next up: Macadam, Nantes on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France | South-east |
 | Sun, 18 Oct 2026 | Macadam | Nantes |
 
 ## Recently played
@@ -26,4 +25,4 @@ Louison is a house and techno artist based in France, with 52 gigs on soundcheck
 
 Maco Maria, Jolly (FR), LAMALICE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*

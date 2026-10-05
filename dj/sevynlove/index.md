@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at BASEMENT, New York City on Sat, 31 Oct 2026.
+Sevyn Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at BASEMENT, New York City on Sat, 31 Oct 2026.
 
 Sevyn Love is a techno and house artist based in United States of America, with 76 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJPT, LOKA (US) and DJ DEADNAME. Next up: BASEMENT, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sevyn Love is a techno and house artist based in United States of America, with 
 
 DJPT, LOKA (US), DJ DEADNAME
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

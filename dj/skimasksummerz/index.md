@@ -1,14 +1,15 @@
 # $kiMa$k $ummerz
 
-$kiMa$k $ummerz is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nonsense Bar, North-rhine-westphalia on Sat, 10 Oct 2026.
+$kiMa$k $ummerz is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Nonsense Bar, North-rhine-westphalia on Sat, 10 Oct 2026.
 
-$kiMa$k $ummerz is a techno and progressive house artist based in Germany, with 6 gigs on soundcheck across Düsseldorf and North Rhine Westphalia. Often billed alongside Marco Vone. Next up: Nonsense Bar, North Rhine Westphalia on Sat 10 Oct.
+$kiMa$k $ummerz is a progressive house and techno artist based in Germany, with 7 gigs on soundcheck across Düsseldorf and North Rhine Westphalia. Often billed alongside Marco Vone. Next up: Nonsense Bar, North Rhine Westphalia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Nonsense Bar | North-rhine-westphalia |
+| Sat, 10 Oct 2026 | Nonsense Bar MG | Düsseldorf |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ $kiMa$k $ummerz is a techno and progressive house artist based in Germany, with 
 
 Marco Vone
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skimasksummerz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skimasksummerz/)*

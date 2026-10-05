@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
+Rene Wise is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 9 Oct 2026.
 
 Rene Wise is a techno and house artist based in United Kingdom, with 257 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Lux Fragil, Lisbon on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 257 gigs on
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

@@ -1,15 +1,13 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Halle Tropisme, Montpellier on Sun, 4 Oct 2026.
+Daniel Avery is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 528 Ibiza, Ibiza on Tue, 6 Oct 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Halle Tropisme, Montpellier on Sun 4 Oct.
+Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: 528 Ibiza, Ibiza on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Halle Tropisme | Montpellier |
-| Sun, 4 Oct 2026 | Halle Tropisme | Montpellier |
 | Tue, 6 Oct 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | DURO | Milan |
@@ -20,20 +18,21 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs
 | Sun, 15 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 19 Dec 2026 | TBA | Greece |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
+| Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 
 ## Recently played
 
+- Halle Tropisme, Montpellier · Sun, 4 Oct 2026
+- Halle Tropisme, Montpellier · Sun, 4 Oct 2026
 - KALT, Strasbourg · Sat, 26 Sept 2026
 - Elsewhere, New York City · Wed, 23 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - The Independent, San Francisco/Oakland · Fri, 18 Sept 2026
 - El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
 - El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
-- The Cause, London · Sat, 12 Sept 2026
-- Renate, Berlin · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,14 +1,13 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DOMINGO 04 OUT - LA SOUL / ENGINEER / DE.ROY / BONUS BASS" on Sun, 4 Oct 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "4th Anniversary Pedro Tabuada Invites Guta" on Wed, 7 Oct 2026.
 
-Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Alfonsvs, Luís Afonso and Pedro Tabuada. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
+Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Alfonsvs, Luís Afonso and Pedro Tabuada. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | DOMINGO 04 OUT - LA SOUL / ENGINEER / DE.ROY / BONUS BASS |  |
 | Wed, 7 Oct 2026 | 4th Anniversary Pedro Tabuada Invites Guta | Pedro Tabuada |
 | Sun, 11 Oct 2026 | DOMINGO 11 OUT - PEDRO TABUADA / VINCE PARIS / PAUL KINGS |  |
 | Wed, 14 Oct 2026 | 4th Anniversary Alfonsvs Invites Luis Afonso | Alfonsvs, Luís Afonso |
@@ -21,4 +20,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

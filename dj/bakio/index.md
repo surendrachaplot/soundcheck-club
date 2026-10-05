@@ -1,6 +1,6 @@
 # Bakio
 
-Bakio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
+Bakio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Veronica Schip, Amsterdam on Sat, 10 Oct 2026.
 
 Bakio is a techno and house artist, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Mia Cecille, Bella Tazza and Hannecart. Next up: Veronica Schip, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Bakio is a techno and house artist, with 9 gigs on soundcheck across Amsterdam. 
 
 Mia Cecille, Bella Tazza, Hannecart
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bakio/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bakio/)*

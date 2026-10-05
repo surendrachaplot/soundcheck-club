@@ -1,6 +1,6 @@
 # BREATHE: Make A Dance at Sub Club
 
-BREATHE: Make A Dance at Sub Club on Fri 23 Oct, Glasgow. 1 artist: Make A Dance. House and Electronica. See the line-up on soundcheck.
+BREATHE: Make A Dance at Sub Club on Fri 23 Oct, Glasgow. 3 artists: Elk, Make A Dance and Peacock. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ BREATHE: Make A Dance at Sub Club on Fri 23 Oct, Glasgow. 1 artist: Make A Dance
 
 ## Line-up
 
+- Elk
 - Make A Dance
+- Peacock
 
 *Source: [soundcheck](https://soundcheck.club/e/2348593-breathe-make-a-dance-at-sub-club/)*

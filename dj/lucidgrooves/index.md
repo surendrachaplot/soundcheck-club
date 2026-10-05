@@ -1,6 +1,6 @@
 # Lucid Grooves
 
-Lucid Grooves is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Datcha, Montreal on Thu, 8 Oct 2026.
+Lucid Grooves is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bar Datcha, Montreal on Thu, 8 Oct 2026.
 
 Lucid Grooves is a techno and electro artist, with 4 gigs on soundcheck across Montreal. Often billed alongside Badgalquirit, Destiny (CA) and James Benjamin. Next up: Bar Datcha, Montreal on Thu 8 Oct.
 
@@ -20,4 +20,4 @@ Lucid Grooves is a techno and electro artist, with 4 gigs on soundcheck across M
 
 Badgalquirit, Destiny (CA), James Benjamin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidgrooves/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidgrooves/)*

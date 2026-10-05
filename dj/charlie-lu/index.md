@@ -1,6 +1,6 @@
 # charli/e
 
-charli/e is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Amp, Munster on Sat, 24 Oct 2026.
+charli/e is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Amp, Munster on Sat, 24 Oct 2026.
 
 charli/e is a house and tech house artist, with 29 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munster and 1 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Amp, Munster on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ charli/e is a house and tech house artist, with 29 gigs on soundcheck across Ber
 
 Beqqi, Aimé You, ALKARLINE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-lu/)*

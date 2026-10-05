@@ -1,14 +1,13 @@
 # Exos
 
-Exos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Exos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Warehouse, Paris on Sat, 31 Oct 2026.
 
-Exos is a techno and house artist based in Iceland, with 61 gigs on soundcheck across Athens, Austin, Bali and Bangkok and 30 more. Often billed alongside SHDW, BLACK ANTHEM RESTORE and Kameliia. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
+Exos is a techno and house artist based in Iceland, with 61 gigs on soundcheck across Athens, Austin, Bali and Bangkok and 30 more. Often billed alongside SHDW, BLACK ANTHEM RESTORE and Kameliia. Next up: TBA - Secret Warehouse, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
 | Thu, 12 Aug 2027 | Hellissandur, Iceland | Iceland |
 
@@ -27,4 +26,4 @@ Exos is a techno and house artist based in Iceland, with 61 gigs on soundcheck a
 
 SHDW, BLACK ANTHEM RESTORE, Kameliia
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*

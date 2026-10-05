@@ -1,13 +1,14 @@
 # BETHANY (1)
 
-BETHANY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
+BETHANY (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Glamorama, Melbourne on Sat, 10 Oct 2026.
 
-BETHANY is a house and techno artist based in Australia, with 26 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside HAUSWiFE, JOVE and Champagnemuma. Next up: Lakeside Pavilion, Melbourne on Sat 24 Oct.
+BETHANY is a house and techno artist based in Australia, with 27 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside HAUSWiFE, JOVE and Champagnemuma. Next up: Glamorama, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Glamorama | Melbourne |
 | Sat, 24 Oct 2026 | Lakeside Pavilion | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ BETHANY is a house and techno artist based in Australia, with 26 gigs on soundch
 
 HAUSWiFE, JOVE, Champagnemuma
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethany-1/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethany-1/)*

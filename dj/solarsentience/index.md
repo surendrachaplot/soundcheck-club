@@ -1,6 +1,6 @@
 # Solar Sentience
 
-Solar Sentience is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beachaven Complex, Malta on Sun, 11 Oct 2026.
+Solar Sentience is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Beachaven Complex, Malta on Sun, 11 Oct 2026.
 
 Solar Sentience is a progressive house and deep house artist based in Malta, with 5 gigs on soundcheck across Malta. Often billed alongside Boxer, Nour (UK) and Alex Taliana. Next up: Beachaven Complex, Malta on Sun 11 Oct.
 
@@ -21,4 +21,4 @@ Solar Sentience is a progressive house and deep house artist based in Malta, wit
 
 Boxer, Nour (UK), Alex Taliana
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarsentience/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarsentience/)*

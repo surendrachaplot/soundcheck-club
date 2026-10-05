@@ -1,6 +1,6 @@
 # Quimera
 
-Quimera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+Quimera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
 Quimera is a techno and house artist, with 4 gigs on soundcheck across Rio De Janeiro and Sao Paulo. Often billed alongside Alírio, Cashu and Clementaum. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Quimera is a techno and house artist, with 4 gigs on soundcheck across Rio De Ja
 
 Alírio, Cashu, Clementaum
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimera/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quimera/)*

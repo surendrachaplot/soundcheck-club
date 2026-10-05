@@ -1,6 +1,6 @@
 # Lil' Minx
 
-Lil' Minx is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at renae, Manchester on Thu, 8 Oct 2026.
+Lil' Minx is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at renae, Manchester on Thu, 8 Oct 2026.
 
 Lil' Minx is a broken beat and house artist based in United Kingdom, with 16 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside Laura Jackson, Mr Scruff and Timo-G. Next up: renae, Manchester on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Lil' Minx is a broken beat and house artist based in United Kingdom, with 16 gig
 
 Laura Jackson, Mr Scruff, Timo-G
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilminx/)*

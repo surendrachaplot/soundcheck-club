@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a Deep House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OCZKI, Warsaw on Fri, 9 Oct 2026.
+Lane 8 is a Deep House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OCZKI, Warsaw on Fri, 9 Oct 2026.
 
 Lane 8 is a deep house and progressive house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Eli Brown and Kaskade. Next up: OCZKI, Warsaw on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Lane 8 is a deep house and progressive house artist based in United States of Am
 
 Sultan + Shepard, Eli Brown, Kaskade
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

@@ -1,6 +1,6 @@
 # core-d
 
-core-d is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
+core-d is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ciało, Wroclaw on Fri, 16 Oct 2026.
 
 core-d is an electronic artist, with 3 gigs on soundcheck across Prague, Warsaw and Wroclaw. Often billed alongside Maryolkah, acheless and AINUR UNX. Next up: Ciało, Wroclaw on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ core-d is an electronic artist, with 3 gigs on soundcheck across Prague, Warsaw 
 
 Maryolkah, acheless, AINUR UNX
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/core-d/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/core-d/)*

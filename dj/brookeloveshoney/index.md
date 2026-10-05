@@ -1,6 +1,6 @@
 # brookeloveshoney
 
-brookeloveshoney is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Sat, 17 Oct 2026.
+brookeloveshoney is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Ivy, Sydney on Sat, 17 Oct 2026.
 
 brookeloveshoney is a techno and trance artist based in Australia, with 4 gigs on soundcheck across Sydney. Often billed alongside 777serena, AEREA and AKEYLAH. Next up: The Ivy, Sydney on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ brookeloveshoney is a techno and trance artist based in Australia, with 4 gigs o
 
 777serena, AEREA, AKEYLAH
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brookeloveshoney/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brookeloveshoney/)*

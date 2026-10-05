@@ -1,14 +1,13 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Jhobei is a House and Electro artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: TBA, Central on Fri 2 Oct.
+Jhobei is a house and electro artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -33,4 +32,4 @@ Jhobei is a house and electro artist based in United Kingdom, with 75 gigs on so
 
 B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

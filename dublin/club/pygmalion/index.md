@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Pyg presents KILIMANJARO" on Sat, 10 Oct 2026.
+Pygmalion is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Pyg presents KILIMANJARO" on Sat, 10 Oct 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Deep Dish, KILIMANJARO, LF SYSTEM and Matador and 1 more. See dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -17,4 +17,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

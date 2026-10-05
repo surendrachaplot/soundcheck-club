@@ -1,6 +1,6 @@
 # Rachelle Grooten
 
-Rachelle Grooten is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Rachelle Grooten is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Rachelle Grooten is an acid and techno artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Alex Di Stefano, Capricious and Goro. Next up: Levenslang Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Rachelle Grooten is an acid and techno artist based in Netherlands, with 4 gigs 
 
 Alex Di Stefano, Capricious, Goro (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachellegrooten/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachellegrooten/)*

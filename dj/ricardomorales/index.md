@@ -1,6 +1,6 @@
 # Ricardo Morales
 
-Ricardo Morales is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
+Ricardo Morales is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 10 Oct 2026.
 
 Ricardo Morales is a techno and dub techno artist, with 37 gigs on soundcheck across Madrid. Often billed alongside Nöle, Unkle Fon and Bas Mooy. Next up: Lasociaciøn, Madrid on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Ricardo Morales is a techno and dub techno artist, with 37 gigs on soundcheck ac
 
 Nöle, Unkle Fon, Bas Mooy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardomorales/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardomorales/)*

@@ -1,13 +1,14 @@
 # The Snatcha
 
-The Snatcha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rolling Stock, London on Sat, 7 Nov 2026.
+The Snatcha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Rolling Stock, London on Sat, 7 Nov 2026.
 
-The Snatcha is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across London and Paris. Often billed alongside DJ Black Moses, Caren G. and Ryan Pamatmat. Next up: Rolling Stock, London on Sat 7 Nov.
+The Snatcha is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across London and Paris. Often billed alongside DJ Black Moses, Caren G. and Ryan Pamatmat. Next up: Rolling Stock, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Rolling Stock | London |
 | Sat, 7 Nov 2026 | Rolling Stock | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ The Snatcha is a techno and house artist based in United Kingdom, with 14 gigs o
 
 DJ Black Moses, Caren G., Ryan Pamatmat
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesnatcha/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesnatcha/)*

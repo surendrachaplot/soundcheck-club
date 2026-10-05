@@ -1,6 +1,6 @@
 # Lerosa
 
-Lerosa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawn Shop, Dublin on Wed, 7 Oct 2026.
+Lerosa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawn Shop, Dublin on Wed, 7 Oct 2026.
 
 Lerosa is a techno and electro artist based in Ireland, with 7 gigs on soundcheck across Dublin and Lisbon. Often billed alongside Eliza, Andre Cascais and Ayolxi. Next up: Pawn Shop, Dublin on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Lerosa is a techno and electro artist based in Ireland, with 7 gigs on soundchec
 
 Eliza, Andre Cascais, Ayolxi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*

@@ -1,8 +1,8 @@
 # Kaw (1)
 
-Kaw (1) is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cafe & Bar Extrawelt, Tokyo on Sat, 17 Oct 2026.
+Kaw (1) is a Electro and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cafe & Bar Extrawelt, Tokyo on Sat, 17 Oct 2026.
 
-Kaw is an electro and experimental artist based in Japan, with 90 gigs on soundcheck across Tokyo. Often billed alongside Nao.Ichikawa, MOTOKA and COSMOGANG. Next up: Cafe & Bar Extrawelt, Tokyo on Sat 17 Oct.
+Kaw is an electro and experimental artist based in Japan, with 91 gigs on soundcheck across Tokyo. Often billed alongside Nao.Ichikawa, MOTOKA and COSMOGANG. Next up: Cafe & Bar Extrawelt, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaw is an electro and experimental artist based in Japan, with 90 gigs on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Cafe & Bar Extrawelt | Tokyo |
 | Thu, 19 Nov 2026 | Cafe & Bar Extrawelt | Tokyo |
+| Sat, 19 Dec 2026 | Cafe & Bar Extrawelt | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kaw is an electro and experimental artist based in Japan, with 90 gigs on soundc
 
 Nao.Ichikawa, MOTOKA, COSMOGANG
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaw-1/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaw-1/)*

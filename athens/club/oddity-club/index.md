@@ -1,6 +1,6 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "303 Rave x Vinka Wydro at Oddity Athens" on Sat, 10 Oct 2026.
+Oddity Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "303 Rave x Vinka Wydro at Oddity Athens" on Sat, 10 Oct 2026.
 
 Oddity Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including Aida Arko, Alisa Murphy, Blame The Mono and Christian Cambas and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
@@ -18,4 +18,4 @@ Oddity Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, wi
 
 Iraklidon 61, Athina 118 54, Athens
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*

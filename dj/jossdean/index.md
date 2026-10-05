@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
+Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
@@ -32,4 +32,4 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 89 gigs
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

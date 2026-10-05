@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 21 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Queen! feat. Derrick Carter - Michael Serafini - Sassmouth" on Sun, 4 Oct 2026.
+smartbar is a music venue in Chicago with 20 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Objekt - Kia - Madeline" on Fri, 9 Oct 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 21 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Czboogie and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Queen! feat. Derrick Carter - Michael Serafini - Sassmouth | Derrick Carter, Michael Serafini, Sassmouth |
 | Fri, 9 Oct 2026 | Objekt - Kia - Madeline | Kia (AU), Madeline (Chi), Objekt |
 | Sat, 10 Oct 2026 | Format presents Wata Igarashi - Brenda - Shanti | Brenda, Shanti, Wata Igarashi |
 | Sun, 11 Oct 2026 | Queen! feat. Derrick Carter - Grace Sands - Michael Serafini | Derrick Carter, Grace Sands, Michael Serafini |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 21 upcoming gigs, wit
 | Fri, 23 Oct 2026 | Lake Effect feat. MUSCLECARS - DJ Heather | DJ Heather, MUSCLECARS |
 | Sat, 24 Oct 2026 | DJ Seinfeld - Shaun J Wright - Valeria Fride | DJ Seinfeld, Shaun J. Wright, Valeria Fride |
 | Sun, 25 Oct 2026 | Queen! feat. Derrick Carter - Michael Serafini - Soundstream | Derrick Carter, Michael Serafini, Soundstream |
+| Fri, 30 Oct 2026 | Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni | DJ Spinn, Nanoos |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

@@ -1,6 +1,6 @@
 # Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL at Hidden
 
-Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL at Hidden on Fri 30 Oct, Manchester. 7 artists: Amoss, Enei, Envy and JAZ IMSKY and 3 more. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL at Hidden on Fri 30 Oct, Manchester. 13 artists: Amoss, EN:VY, Enei and JAZ IMSKY and 9 more. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,17 @@ Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL at Hidden on Fri 30 Oct
 ## Line-up
 
 - Amoss
+- EN:VY
 - Enei
-- Envy
 - JAZ IMSKY
 - Kasra
+- mamba.exe
+- Rich Reason
+- SALÓ
 - Samurai Breaks
+- Sexy Lady Massive
+- Sparkz (NL)
 - Sully
+- T-Man (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2527538-hit-run-x-critical-sound-x-gash-mcr-halloween-special-at-hid/)*

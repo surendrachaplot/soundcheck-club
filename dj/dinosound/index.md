@@ -1,6 +1,6 @@
 # Dinosound
 
-Dinosound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 12 x 12, Bangkok on Sat, 10 Oct 2026.
+Dinosound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 12 x 12, Bangkok on Sat, 10 Oct 2026.
 
 Dinosound is a house and techno artist based in Thailand, with 24 gigs on soundcheck across Bangkok. Often billed alongside Tada, Ani Phoebe and DJ TADA. Next up: 12 x 12, Bangkok on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dinosound is a house and techno artist based in Thailand, with 24 gigs on soundc
 
 Tada, Ani Phoebe, DJ TADA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosound/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosound/)*

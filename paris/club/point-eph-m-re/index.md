@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DALF records Take Over" on Sat, 10 Oct 2026.
+Point Ephémère is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "DALF records Take Over" on Sat, 10 Oct 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Daviaa, Erna (FR), MALAISE VAGAL and nextdimensional and 2 more. See dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -15,4 +15,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 2 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

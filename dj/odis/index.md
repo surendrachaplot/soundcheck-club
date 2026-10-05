@@ -1,6 +1,6 @@
 # Odis
 
-Odis is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Laska V21, Riga on Fri, 9 Oct 2026.
+Odis is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Laska V21, Riga on Fri, 9 Oct 2026.
 
 Odis is a house and breakbeat artist based in Belarus, with 5 gigs on soundcheck across Oslo and Riga. Often billed alongside SIRDSAPES, Casablanca 303 and Dragan Zaranoff. Next up: Laska V21, Riga on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Odis is a house and breakbeat artist based in Belarus, with 5 gigs on soundcheck
 
 SIRDSAPES, Casablanca 303, Dragan Zaranoff
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odis/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odis/)*

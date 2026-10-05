@@ -1,6 +1,6 @@
 # Paramour
 
-Paramour is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Drum & Beer #43: Gobs Bday Bash with Bop" on Fri, 9 Oct 2026.
+Paramour is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Drum & Beer #43: Gobs Bday Bash with Bop" on Fri, 9 Oct 2026.
 
 Paramour is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Bop, Camiflage, Cellarman and Hiraeth and 2 more. See dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
 
@@ -9,10 +9,10 @@ Paramour is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Drum & Beer #43: Gobs Bday Bash with Bop | Bop, Cellarman, Hiraeth, VIKI |
-| Sat, 17 Oct 2026 | Futurepast x Snaretrade | Camiflage, Mogus, RIET, T.A.M.22 |
+| Sat, 17 Oct 2026 | Futurepast x Snaretrade | Camiflage, Mel (FR), Mogus, RIET, T.A.M.22 |
 
 ## Address
 
 104 Rue d'Arlon, 1000 Buxelles, Brussels
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*

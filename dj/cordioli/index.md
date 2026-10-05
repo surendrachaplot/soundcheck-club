@@ -1,6 +1,6 @@
 # Cordioli
 
-Cordioli is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Cordioli is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Cordioli is an afro house and house artist based in Brazil, with 3 gigs on soundcheck across London. Often billed alongside Alan Dixon, CAPTNNN' and GENNARO. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -19,4 +19,4 @@ Cordioli is an afro house and house artist based in Brazil, with 3 gigs on sound
 
 Alan Dixon, CAPTNNN', GENNARO
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cordioli/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cordioli/)*

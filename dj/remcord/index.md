@@ -1,6 +1,6 @@
 # Remcord
 
-Remcord is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
+Remcord is a Electronica and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at La Terrrazza, Barcelona on Sun, 11 Oct 2026.
 
 Remcord is an electronica and minimal techno artist based in France, with 19 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside Mira, Caleesi and Mila Stern. Next up: La Terrrazza, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Remcord is an electronica and minimal techno artist based in France, with 19 gig
 
 Mira, Caleesi, Mila Stern
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remcord/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remcord/)*

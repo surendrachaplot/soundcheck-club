@@ -1,6 +1,6 @@
 # Hamish
 
-Hamish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
+Hamish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
 Hamish is a tech house and house artist, with 5 gigs on soundcheck across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Arrosa, Blanch and Cecilia Tosh. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Hamish is a tech house and house artist, with 5 gigs on soundcheck across Berlin
 
 Arrosa, Blanch, Cecilia Tosh
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamish/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamish/)*

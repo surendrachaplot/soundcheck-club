@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "REVOLVER BANDROOM: TRACK WALK 3" on Fri, 9 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 20 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "REVOLVER BANDROOM: TRACK WALK 3" on Fri, 9 Oct 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcoming gigs, with line-ups including 1NN3R53LF, ADMINISTRATOR, Alex Wann and Amity and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 20 upcoming gigs, with line-ups including 1NN3R53LF, ADMINISTRATOR, Alex Wann and Amity and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

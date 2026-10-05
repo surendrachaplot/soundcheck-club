@@ -1,6 +1,6 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
+TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OST, Berlin on Fri, 9 Oct 2026.
 
 TRIPTYKH is a techno and industrial artist based in United States of America, with 51 gigs on soundcheck across Antwerp, Auckland, Austin and Barcelona and 30 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: OST, Berlin on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, wi
 
 Aiden (DE), Kobosil, Ornella
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

@@ -1,6 +1,6 @@
 # LM
 
-LM is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Switch Bar, Barcelona on Wed, 7 Oct 2026.
+LM is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Switch Bar, Barcelona on Wed, 7 Oct 2026.
 
 LM is a house and tech house artist based in Venezuela, with 147 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Brieela, Baffa and ildec. Next up: Switch Bar, Barcelona on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ LM is a house and tech house artist based in Venezuela, with 147 gigs on soundch
 
 Brieela, Baffa, ildec
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

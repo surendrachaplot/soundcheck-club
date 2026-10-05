@@ -1,8 +1,8 @@
 # Limestone Cowboy
 
-Limestone Cowboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Stan's, Queensland on Thu, 8 Oct 2026.
+Limestone Cowboy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Stan's, Queensland on Thu, 8 Oct 2026.
 
-Limestone Cowboy is a house and disco artist based in Australia, with 4 gigs on soundcheck across Brisbane and Queensland. Often billed alongside WAHL, Rahaan and Rich Medina. Next up: Stan's, Queensland on Thu 8 Oct.
+Limestone Cowboy is a house and disco artist based in Australia, with 4 gigs on soundcheck across Brisbane and Queensland. Often billed alongside WAHL, DJ rahaan and Rich Medina. Next up: Stan's, Queensland on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Limestone Cowboy is a house and disco artist based in Australia, with 4 gigs on 
 
 ## Shares bills with
 
-WAHL, Rahaan, Rich Medina
+WAHL, DJ rahaan, Rich Medina
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limestonecowboy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limestonecowboy/)*

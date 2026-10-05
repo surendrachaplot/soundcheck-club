@@ -1,6 +1,6 @@
 # Talia Dorr
 
-Talia Dorr is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+Talia Dorr is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
 Talia Dorr is a house and techno artist based in Germany, with 89 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Carl Bergé, Pauly and DJ Babyblade. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Talia Dorr is a house and techno artist based in Germany, with 89 gigs on soundc
 
 Carl Bergé, Pauly, DJ Babyblade
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*

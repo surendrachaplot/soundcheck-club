@@ -1,6 +1,6 @@
 # Mark Reeder
 
-Mark Reeder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Liquid Club, Malta on Fri, 16 Oct 2026.
+Mark Reeder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Liquid Club, Malta on Fri, 16 Oct 2026.
 
 Mark Reeder is a techno and electronica artist based in United Kingdom, with 5 gigs on soundcheck across Berlin and Malta. Often billed alongside Justin Anastasi, Aamir and Barbara Preisinger. Next up: Liquid Club, Malta on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Mark Reeder is a techno and electronica artist based in United Kingdom, with 5 g
 
 Justin Anastasi, Aamir, Barbara Preisinger
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeder/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeder/)*

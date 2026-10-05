@@ -1,6 +1,6 @@
 # Concepción Huerta
 
-Concepción Huerta is a Experimental and Drone artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
+Concepción Huerta is a Experimental and Drone artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Beatrixgebouw, Utrecht on Thu, 1 Oct 2026.
 
 Concepción Huerta is an experimental and drone artist based in Mexico, with 31 gigs on soundcheck across Barcelona, Berlin, London and Mexico City and 4 more. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Turning Torso. Next up: Beatrixgebouw, Utrecht on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Concepción Huerta is an experimental and drone artist based in Mexico, with 31 
 
 Abul Mogard, Rafael Anton Irisarri, Turning Torso
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*

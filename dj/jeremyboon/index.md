@@ -1,6 +1,6 @@
 # Jeremy Boon
 
-Jeremy Boon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
+Jeremy Boon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat, 17 Oct 2026.
 
 Jeremy Boon is a house and disco artist, with 5 gigs on soundcheck across Singapore. Often billed alongside Aldrin, Brendon P and DONN. Next up: El Chido, RF at Pullman Singapore Hill Street, Singapore on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Jeremy Boon is a house and disco artist, with 5 gigs on soundcheck across Singap
 
 Aldrin, Brendon P, DONN
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyboon/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyboon/)*

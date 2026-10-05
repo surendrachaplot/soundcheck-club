@@ -1,13 +1,14 @@
 # Nightchou
 
-Nightchou is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Le 211, Paris on Sat, 7 Nov 2026.
+Nightchou is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
-Nightchou is a house and disco artist based in France, with 48 gigs on soundcheck across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Adri and Arp Frique. Next up: Le 211, Paris on Sat 7 Nov.
+Nightchou is a house and disco artist based in France, with 49 gigs on soundcheck across Milan, Nantes and Paris. Often billed alongside Romain Dafalgang, Adri and Arp Frique. Next up: Mia Mao, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | Le 211 | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nightchou is a house and disco artist based in France, with 48 gigs on soundchec
 
 Romain Dafalgang, Adri, Arp Frique
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightchou/)*

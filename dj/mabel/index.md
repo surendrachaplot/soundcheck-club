@@ -1,8 +1,8 @@
 # Mabel
 
-Mabel is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Mabel is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
-Mabel is a techno and trance artist based in Australia, with 114 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Carriageworks, Sydney on Sat 10 Oct.
+Mabel is a techno and trance artist based in Australia, with 115 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mabel is a techno and trance artist based in Australia, with 114 gigs on soundch
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 | Sat, 17 Oct 2026 | Solace | Melbourne |
 | Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
+| Sat, 31 Oct 2026 | Haven | Byron-bay |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 19 Dec 2026 | ark (Melb) | Melbourne |
@@ -30,4 +31,4 @@ Mabel is a techno and trance artist based in Australia, with 114 gigs on soundch
 
 suki, Hannah D, Ricky Nord
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

@@ -1,6 +1,6 @@
 # Gabrielle (DE)
 
-Gabrielle (DE) is a Techno and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
+Gabrielle (DE) is a Techno and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 58 gigs on soundcheck across Berlin, London and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Gabrielle (DE) is a techno and drum & bass artist based in Germany, with 58 gigs
 
 ATR DJ-TEAM, JOTAno, GLASSBASS
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielle-de/)*

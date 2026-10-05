@@ -1,6 +1,6 @@
 # Peverell
 
-Peverell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pilgrim, Newcastle on Sat, 24 Oct 2026.
+Peverell is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pilgrim, Newcastle on Sat, 24 Oct 2026.
 
 Peverell is a house and disco artist based in United Kingdom, with 4 gigs on soundcheck across Ibiza and Newcastle. Often billed alongside Chus & Ceballos, Claptone and Ethan Gray. Next up: Pilgrim, Newcastle on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Peverell is a house and disco artist based in United Kingdom, with 4 gigs on sou
 
 Chus & Ceballos, Claptone, Ethan Gray
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peverell/)*

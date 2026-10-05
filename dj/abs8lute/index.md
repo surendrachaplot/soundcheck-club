@@ -1,6 +1,6 @@
 # abs8lute
 
-abs8lute is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+abs8lute is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 abs8lute is a techno and electro artist based in France, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Lea Occhi, Fadi Mohem and Beste Hira. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ abs8lute is a techno and electro artist based in France, with 96 gigs on soundch
 
 Lea Occhi, Fadi Mohem, Beste Hira
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*

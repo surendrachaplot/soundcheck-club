@@ -1,8 +1,8 @@
 # Franco Strato
 
-Franco Strato is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
+Franco Strato is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
 
-Franco Strato is a house and disco artist based in Argentina, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, da Graca Brothers and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
+Franco Strato is a house and disco artist based in Argentina, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Franco Strato is a house and disco artist based in Argentina, with 19 gigs on so
 
 ## Shares bills with
 
-Javier Anxiety, da Graca Brothers, Ana Molina
+Javier Anxiety, Eva Crystaltips, Luca Olivotto
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*

@@ -1,6 +1,6 @@
 # Qncc
 
-Qncc is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "QNCC x PFLAG NYC: Picture Day" on Tue, 6 Oct 2026.
+Qncc is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "QNCC x PFLAG NYC: Picture Day" on Tue, 6 Oct 2026.
 
 Qncc is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, BASSBEAR!!, Kim Ann Foxman and Lauren Murada and 2 more. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
@@ -17,4 +17,4 @@ Qncc is a music venue in New York City listed on soundcheck. 4 upcoming gigs, wi
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

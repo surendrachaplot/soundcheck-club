@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 288 gig
 
 aalice, Steffi, Freddy K
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

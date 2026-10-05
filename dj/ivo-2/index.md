@@ -1,6 +1,6 @@
 # IVO (2)
 
-IVO (2) is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+IVO (2) is a EBM and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
 IVO is an ebm and house artist based in Poland, with 4 gigs on soundcheck across Prague. Often billed alongside Refrig, 3TB and DEST. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ IVO is an ebm and house artist based in Poland, with 4 gigs on soundcheck across
 
 Refrig, 3TB (1), DEST (4)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivo-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivo-2/)*

@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at block., Dublin on Fri, 9 Oct 2026.
+Enzo Siragusa is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at block., Dublin on Fri, 9 Oct 2026.
 
 Enzo Siragusa is a house and tech house artist based in United Kingdom, with 198 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: block., Dublin on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 198
 
 Laidlaw, Traumer, Rossi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

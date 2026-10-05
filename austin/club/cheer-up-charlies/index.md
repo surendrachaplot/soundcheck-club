@@ -1,0 +1,17 @@
+# Cheer Up Charlies
+
+Cheer Up Charlies is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "NITE SCHOOL: XTR HUMAN, Vali S.C., Vio Flesh, Death Palmz" on Fri, 9 Oct 2026.
+
+Cheer Up Charlies is a music venue in Austin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 900 Red River St, Austin, TX 78701, United States.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Fri, 9 Oct 2026 | NITE SCHOOL: XTR HUMAN, Vali S.C., Vio Flesh, Death Palmz |  |
+
+## Address
+
+900 Red River St, Austin, TX 78701, United States, Austin
+
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/cheer-up-charlies/)*

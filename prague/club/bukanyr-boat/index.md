@@ -1,8 +1,8 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Spank - djs Ondrej K, Identic, Ian Oskadev" on Fri, 9 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Spank - djs Ondrej K, Identic, Ian Oskadev" on Fri, 9 Oct 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 7 upcoming gigs, with line-ups including aros, Biodan, Blackloud and Cubik and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including aros, Biodan, Blackloud and Cubik and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 7 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Spank - djs Ondrej K, Identic, Ian Oskadev | Ian Oskadev, Identic, Ondrej K |
 | Sat, 10 Oct 2026 | Sexy Beats - djs Lumiere, Mill, Rody | Lumiere |
+| Fri, 16 Oct 2026 | Karate Club: INTIMATE SESSION | Dj Ojojo, Misha Jaru, NairLess, S.Tian |
 | Sat, 17 Oct 2026 | House Madness - djs Manntracs, Olinství, Olga Zhaldak | Manntracs, Olga Zhaldak, Olinstvi |
 | Fri, 23 Oct 2026 | Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon | Cubik, Da Moon, Filburt, Padsingers |
 | Sat, 24 Oct 2026 | wnchnz, Gambo, Phillz | wnchnz |
@@ -20,4 +21,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 7 upcoming gigs, w
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

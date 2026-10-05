@@ -1,8 +1,8 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
+Kaufmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
 
-Kaufmann is a techno and house artist based in Germany, with 148 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
+Kaufmann is a techno and house artist based in Germany, with 149 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,14 @@ Kaufmann is a techno and house artist based in Germany, with 148 gigs on soundch
 | Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
+- Revolver Upstairs, Melbourne · Sun, 4 Oct 2026
 - Silent Studios, Auckland · Sat, 3 Oct 2026
 - Electric Circus, Adelaide · Fri, 2 Oct 2026
 - TBA - Wee Jasper, Sydney · Fri, 25 Sept 2026
@@ -25,10 +27,9 @@ Kaufmann is a techno and house artist based in Germany, with 148 gigs on soundch
 - Tereza-Joanne Boat, London · Fri, 4 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
-- Zürichsee, Zurich · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Leon Licht, Memo., ADAMN
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

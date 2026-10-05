@@ -1,6 +1,6 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
+Melody RA+RE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
 
 Melody RA+RE is a house and electro artist based in France, with 127 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Aviva Studios, Manchester on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Melody RA+RE is a house and electro artist based in France, with 127 gigs on sou
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

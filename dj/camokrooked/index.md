@@ -1,6 +1,6 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Ivy, Sydney on Mon, 5 Oct 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Ivy, Sydney on Mon, 5 Oct 2026.
 
 Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: The Ivy, Sydney on Mon 5 Oct.
 
@@ -30,4 +30,4 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 80 gigs o
 
 Mefjus, Disrupta, Kanine
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

@@ -1,6 +1,6 @@
 # Triff
 
-Triff is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
+Triff is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 11 Oct 2026.
 
 Triff is a house and minimal techno artist based in United Kingdom, with 4 gigs on soundcheck across Boston and London. Often billed alongside LUUD, Myriam and A.T.A.. Next up: Starlane Pizza Bar, London on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Triff is a house and minimal techno artist based in United Kingdom, with 4 gigs 
 
 LUUD, Myriam, A.T.A.
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triff/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triff/)*

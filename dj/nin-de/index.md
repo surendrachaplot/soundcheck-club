@@ -1,13 +1,14 @@
 # N:in (DE)
 
-N:in (DE) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+N:in (DE) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 11 Oct 2026.
 
-N:in (DE) is a techno and bass artist based in Germany, with 50 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Christian Kluge, Laetizia and Ivaldo Gino. Next up: Renate, Berlin on Sat 7 Nov.
+N:in (DE) is a techno and bass artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Christian Kluge, Laetizia and Ivaldo Gino. Next up: Golden Pudel Club, Hamburg on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Golden Pudel Club | Hamburg |
 | Sat, 7 Nov 2026 | Renate | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ N:in (DE) is a techno and bass artist based in Germany, with 50 gigs on soundche
 
 Christian Kluge, Laetizia, Ivaldo Gino
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*

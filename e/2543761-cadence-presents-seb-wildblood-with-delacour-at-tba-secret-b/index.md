@@ -1,6 +1,6 @@
 # Cadence presents: Seb Wildblood with DELACOUR at TBA - Secret Bowery Loft (Manhattan)
 
-Cadence presents: Seb Wildblood with DELACOUR at TBA - Secret Bowery Loft (Manhattan) on Sat 14 Nov, New York State. 3 artists: DELACOUR, Elkind and Seb Wildblood. See the line-up on soundcheck.
+Cadence presents: Seb Wildblood with DELACOUR at TBA - Secret Bowery Loft (Manhattan) on Sat 14 Nov, New York State. 3 artists: DELACOUR, Elkind and Seb Wildblood. Deep House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

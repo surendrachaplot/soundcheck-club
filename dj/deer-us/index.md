@@ -1,6 +1,6 @@
 # Deer (US)
 
-Deer (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Thu, 29 Oct 2026.
+Deer (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 Deer (US) is a house and techno artist based in United States of America, with 4 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Asymmetry, Ejé (US) and HIDRA. Next up: Madarae San Francisco, San Francisco/Oakland on Thu 29 Oct.
 
@@ -20,4 +20,4 @@ Deer (US) is a house and techno artist based in United States of America, with 4
 
 Asymmetry, Ejé (US), HIDRA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deer-us/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deer-us/)*

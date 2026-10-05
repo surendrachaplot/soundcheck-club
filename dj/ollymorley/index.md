@@ -1,6 +1,6 @@
 # Olly Morley
 
-Olly Morley is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+Olly Morley is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
 Olly Morley is a house artist, with 4 gigs on soundcheck across London. Often billed alongside Tom Da Silva, George Wight and James Lavelle. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ Olly Morley is a house artist, with 4 gigs on soundcheck across London. Often bi
 
 Tom Da Silva, George Wight, James Lavelle (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollymorley/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollymorley/)*

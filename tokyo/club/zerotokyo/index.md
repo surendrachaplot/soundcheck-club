@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ACT - HIPHOP / R&B / HOUSE / UKG / BASS -" on Thu, 8 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ACT - HIPHOP / R&B / HOUSE / UKG / BASS -" on Thu, 8 Oct 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including akii, Anfisa Letyago, AVALON and Axwell and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

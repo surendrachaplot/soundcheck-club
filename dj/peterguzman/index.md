@@ -1,6 +1,6 @@
 # Peter Guzman
 
-Peter Guzman is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aire Miami, Miami on Sat, 10 Oct 2026.
+Peter Guzman is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Aire Miami, Miami on Sat, 10 Oct 2026.
 
 Peter Guzman is an afro house and house artist, with 4 gigs on soundcheck across London and Miami. Often billed alongside ANDREATENS, Cami di Marzo and Chambord. Next up: Aire Miami, Miami on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Peter Guzman is an afro house and house artist, with 4 gigs on soundcheck across
 
 ANDREATENS, Cami di Marzo, Chambord
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguzman/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguzman/)*

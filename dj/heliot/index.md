@@ -1,6 +1,6 @@
 # HELIOT
 
-HELIOT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
+HELIOT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
 
 HELIOT is a techno and house artist based in Japan, with 12 gigs on soundcheck across London and Tokyo. Often billed alongside Monna Lisa, Arao and Bundo. Next up: Aoyama Hachi, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ HELIOT is a techno and house artist based in Japan, with 12 gigs on soundcheck a
 
 Monna Lisa, Arao, Bundo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heliot/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heliot/)*

@@ -1,13 +1,14 @@
 # S.Tian
 
-S.Tian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
+S.Tian is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 16 Oct 2026.
 
-S.Tian is a techno and house artist based in Czech Republic, with 61 gigs on soundcheck across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
+S.Tian is a techno and house artist based in Czech Republic, with 62 gigs on soundcheck across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Bukanyr Boat, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bukanyr Boat | Prague |
 | Fri, 23 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ S.Tian is a techno and house artist based in Czech Republic, with 61 gigs on sou
 
 Misha Jaru, Fatty M, Feenicks
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*

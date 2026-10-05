@@ -1,6 +1,6 @@
 # ADJK
 
-ADJK is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mason Bar, Cyprus on Fri, 16 Oct 2026.
+ADJK is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mason Bar, Cyprus on Fri, 16 Oct 2026.
 
 ADJK is an electronic artist, with 3 gigs on soundcheck across Barcelona and Cyprus. Often billed alongside INAN BATMAN and Keyblow. Next up: Mason Bar, Cyprus on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ ADJK is an electronic artist, with 3 gigs on soundcheck across Barcelona and Cyp
 
 INAN BATMAN, Keyblow
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adjk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adjk/)*

@@ -1,6 +1,6 @@
 # Sub Hour
 
-Sub Hour is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+Sub Hour is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 Sub Hour is a techno and electro artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Sann Ku, ACID DRIFT and Alviker. Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Sub Hour is a techno and electro artist based in Spain, with 5 gigs on soundchec
 
 Sann Ku, ACID DRIFT, Alviker
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subhour/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subhour/)*

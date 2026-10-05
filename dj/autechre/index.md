@@ -1,14 +1,13 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Block 33, Thessaloniki on Sun, 4 Oct 2026.
+Autechre is a IDM and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Toplocentrala, Sofia on Tue, 6 Oct 2026.
 
-Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Block 33, Thessaloniki on Sun 4 Oct.
+Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Toplocentrala, Sofia on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Block 33 | Thessaloniki |
 | Tue, 6 Oct 2026 | Toplocentrala | Sofia |
 | Wed, 7 Oct 2026 | Club Guesthouse | Bucharest |
 | Wed, 7 Oct 2026 | Cukrarna Gallery | Ljubljana |
@@ -20,9 +19,11 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 | Thu, 15 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
 | Fri, 16 Oct 2026 | L'Aéronef | Lille |
 | Tue, 20 Oct 2026 | Vicar Street | Dublin |
+| Sat, 24 Oct 2026 | Magazine London | London |
 
 ## Recently played
 
+- Block 33, Thessaloniki · Sun, 4 Oct 2026
 - Universe Athens, Athens · Sat, 3 Oct 2026
 - Ložionica, Belgrade · Thu, 1 Oct 2026
 - Planet.tt Gasometer, Vienna · Tue, 29 Sept 2026
@@ -30,10 +31,9 @@ Autechre is an idm and techno artist based in United Kingdom, with 58 gigs on so
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
 - Rote Fabrik, Zurich · Fri, 25 Sept 2026
 - Yogibo Meta Valley, Osaka · Thu, 5 Feb 2026
-- Zepp Tokyo, Tokyo · Wed, 4 Feb 2026
 
 ## Shares bills with
 
 Mark Broom, HiTech, ojoo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

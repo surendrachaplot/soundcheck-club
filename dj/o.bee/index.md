@@ -1,6 +1,6 @@
 # O.BEE
 
-O.BEE is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+O.BEE is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
 O.BEE is a house and techno artist based in Turkey, with 215 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 29 more. Often billed alongside Tomas Station, Jonny Rock and Konstantin. Next up: fabric, London on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ O.BEE is a house and techno artist based in Turkey, with 215 gigs on soundcheck 
 
 Tomas Station, Jonny Rock, Konstantin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.bee/)*

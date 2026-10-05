@@ -1,6 +1,6 @@
 # G-Spot
 
-G-Spot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+G-Spot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
 
 G-Spot is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across Leeds and London. Often billed alongside Benebe, Kafn and Drastic Shuffle. Next up: The Hifi Club, Leeds on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ G-Spot is a techno and house artist based in United Kingdom, with 4 gigs on soun
 
 Benebe, Kafn, Drastic Shuffle
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-spot/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g-spot/)*

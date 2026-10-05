@@ -1,6 +1,6 @@
 # Golden Record NYC presents tINI, Anthea & Ciel at TBA - East Williamsburg
 
-Golden Record NYC presents tINI, Anthea & Ciel at TBA - East Williamsburg on Fri 4 Dec, New York City. 3 artists: Anthea, Ciel and tINI. See the line-up on soundcheck.
+Golden Record NYC presents tINI, Anthea & Ciel at TBA - East Williamsburg on Fri 4 Dec, New York City. 3 artists: Anthea, Ciel and tINI. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

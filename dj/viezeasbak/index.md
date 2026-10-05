@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Vieze Asbak is a Techno and Hardcore artist with 19 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 Vieze Asbak is a techno and hardcore artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 111 gigs 
 
 KLOFAMA, KRUELTY, Restricted
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

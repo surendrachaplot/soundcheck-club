@@ -1,6 +1,6 @@
 # Ellich
 
-Ellich is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 9 Oct 2026.
+Ellich is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 9 Oct 2026.
 
 Ellich is an electro and house artist based in Croatia, with 4 gigs on soundcheck across Barcelona. Often billed alongside Alvaro Medina, Andrea Zarco and DJ Gamba. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Ellich is an electro and house artist based in Croatia, with 4 gigs on soundchec
 
 Alvaro Medina, Andrea Zarco, DJ Gamba
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellich/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellich/)*

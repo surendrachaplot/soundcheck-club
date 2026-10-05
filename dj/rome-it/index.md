@@ -1,14 +1,13 @@
 # Rome (IT)
 
-Rome (IT) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Downtown Las Vegas Event Center , Las-vegas on Sat, 3 Oct 2026.
+Rome (IT) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Rome (IT) is a house and techno artist, with 21 gigs on soundcheck across Amsterdam, Berlin, Brussels and Las Vegas and 9 more. Often billed alongside Lorenzo (IT), Always Late and Antonio Aiello. Next up: TBA - Downtown Las Vegas Event Center , Las Vegas on Sat 3 Oct.
+Rome (IT) is a house and techno artist, with 21 gigs on soundcheck across Amsterdam, Berlin, Brussels and Las Vegas and 9 more. Often billed alongside Lorenzo (IT), Always Late and Antonio Aiello. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Downtown Las Vegas Event Center  | Las-vegas |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
@@ -26,4 +25,4 @@ Rome (IT) is a house and techno artist, with 21 gigs on soundcheck across Amster
 
 Lorenzo (IT), Always Late, Antonio Aiello
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rome-it/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rome-it/)*

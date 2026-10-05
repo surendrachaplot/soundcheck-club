@@ -1,14 +1,15 @@
 # Be Lion
 
-Be Lion is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
+Be Lion is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Firebird Rooftop, Amsterdam on Thu, 22 Oct 2026.
 
-Be Lion is a tech house and minimal artist, with 11 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Ìngryd Gobbo, Hris East and Sanne Dammers. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
+Be Lion is a tech house and minimal artist, with 12 gigs on soundcheck across Amsterdam, Ibiza and Netherlands. Often billed alongside Ìngryd Gobbo, Hris East and JØASE. Next up: Firebird Rooftop, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Firebird Rooftop | Amsterdam |
+| Fri, 23 Oct 2026 | Club Royal | Netherlands |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Be Lion is a tech house and minimal artist, with 11 gigs on soundcheck across Am
 
 ## Shares bills with
 
-Ìngryd Gobbo, Hris East, Sanne Dammers
+Ìngryd Gobbo, Hris East, JØASE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*

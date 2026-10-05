@@ -1,6 +1,6 @@
 # Stay Chris
 
-Stay Chris is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
+Stay Chris is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
 
 Stay Chris is an electronic artist, with 4 gigs on soundcheck across Barcelona and South West. Often billed alongside Mila Morr, Alice Youngling and Andrea Love. Next up: Le Jardin Enjoy, South West on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Stay Chris is an electronic artist, with 4 gigs on soundcheck across Barcelona a
 
 Mila Morr, Alice Youngling, Andrea Love
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staychris/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staychris/)*

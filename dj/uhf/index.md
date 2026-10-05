@@ -1,6 +1,6 @@
 # Uhf
 
-Uhf is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Specka, Madrid on Sat, 10 Oct 2026.
+Uhf is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Specka, Madrid on Sat, 10 Oct 2026.
 
 Uhf is an electro and ebm artist based in Spain, with 4 gigs on soundcheck across Madrid and Valencia. Often billed alongside Anthony Rother, David Ponziano and Jauzas The Shining. Next up: Specka, Madrid on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Uhf is an electro and ebm artist based in Spain, with 4 gigs on soundcheck acros
 
 Anthony Rother, David Ponziano, Jauzas The Shining
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uhf/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uhf/)*

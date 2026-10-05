@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Faster Horses is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 250 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Faster Horses is a techno and trance artist based in United Kingdom, with 251 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside Azyr, Leaha and Kander. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 250 gi
 
 Azyr, Leaha, Kander
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

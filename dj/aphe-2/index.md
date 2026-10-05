@@ -1,6 +1,6 @@
 # APHE (2)
 
-APHE (2) is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Goethebunker, Dortmund-essen on Fri, 16 Oct 2026.
+APHE (2) is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Goethebunker, Dortmund-essen on Fri, 16 Oct 2026.
 
 APHE is a minimal techno and techno artist based in Germany, with 3 gigs on soundcheck across Berlin, Dortmund Essen and Hamburg. Often billed alongside Muttiah Ashnim, TiM TASTE and Benjamin Knows. Next up: Goethebunker, Dortmund Essen on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ APHE is a minimal techno and techno artist based in Germany, with 3 gigs on soun
 
 Muttiah Ashnim, TiM TASTE, Benjamin Knows
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphe-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphe-2/)*

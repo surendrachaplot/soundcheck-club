@@ -1,13 +1,14 @@
 # The Silentist
 
-The Silentist is a Dub Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 21 Nov 2026.
+The Silentist is a Dub Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 21 Nov 2026.
 
-The Silentist is a dub techno and deep house artist, with 17 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Giovane Filippo, tanggero and Frissonn. Next up: Waterhouse Studios, Amsterdam on Sat 21 Nov.
+The Silentist is a dub techno and deep house artist, with 18 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Giovane Filippo, tanggero and Frissonn. Next up: Waterhouse Studios, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Waterhouse Studios | Amsterdam |
 | Sat, 21 Nov 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ The Silentist is a dub techno and deep house artist, with 17 gigs on soundcheck 
 
 Giovane Filippo, tanggero, Frissonn
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilentist/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilentist/)*

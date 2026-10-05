@@ -1,6 +1,6 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Natalia Roth is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Natalia Roth is a house and tech house artist based in Puerto Rico, with 141 gigs on soundcheck across Amsterdam, Barcelona, Boston and Chicago and 15 more. Often billed alongside Ms. Mada, Danyelino and Jamie Jones. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Natalia Roth is a house and tech house artist based in Puerto Rico, with 141 gig
 
 Ms. Mada, Danyelino, Jamie Jones
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

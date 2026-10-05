@@ -1,6 +1,6 @@
 # Tomma
 
-Tomma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Tomma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
 Tomma is a house and techno artist based in Georgia, with 70 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and SUMO. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Tomma is a house and techno artist based in Georgia, with 70 gigs on soundcheck 
 
 Gio Shengelia, Bekuchi, SUMO
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*

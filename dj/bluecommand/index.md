@@ -1,6 +1,6 @@
 # Bluecommand
 
-Bluecommand is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 9 Oct 2026.
+Bluecommand is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 9 Oct 2026.
 
 Bluecommand is a techno and electronica artist based in Mexico, with 131 gigs on soundcheck across Amsterdam, Berlin, Mexico City and Tbilisi. Often billed alongside Phanta, Ranma Entero and Octoptic. Next up: YuYu Cine Club, Mexico City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Bluecommand is a techno and electronica artist based in Mexico, with 131 gigs on
 
 Phanta, Ranma Entero, Octoptic
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommand/)*

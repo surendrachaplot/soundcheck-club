@@ -1,6 +1,6 @@
 # OXI GROOVE AFFAIR at OXI
 
-OXI GROOVE AFFAIR on Sat 17 Oct, Berlin. 7 artists: Andrea Zadro, ATTA (GER), Dj handbag and Iron Curtis and 3 more. House and Disco. See the line-up on soundcheck.
+OXI GROOVE AFFAIR on Sat 17 Oct, Berlin. 8 artists: Andrea Zadro, ATTA (GER), Dj handbag and Harrison BDP and 4 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ OXI GROOVE AFFAIR on Sat 17 Oct, Berlin. 7 artists: Andrea Zadro, ATTA (GER), Dj
 - Andrea Zadro
 - ATTA (GER)
 - Dj handbag
+- Harrison BDP
 - Iron Curtis
 - Luca Garcia
 - Sven von Thülen

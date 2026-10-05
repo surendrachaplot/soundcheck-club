@@ -1,6 +1,6 @@
 # Hiro (JP)
 
-Hiro (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at R Lounge, Tokyo on Thu, 15 Oct 2026.
+Hiro (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at R Lounge, Tokyo on Thu, 15 Oct 2026.
 
 Hiro (JP) is a house and techno artist based in Japan, with 4 gigs on soundcheck across Prague and Tokyo. Often billed alongside AMANE, ASCENDER and ATAMI. Next up: R Lounge, Tokyo on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ Hiro (JP) is a house and techno artist based in Japan, with 4 gigs on soundcheck
 
 AMANE, ASCENDER, ATAMI
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro-jp/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro-jp/)*

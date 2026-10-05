@@ -1,14 +1,13 @@
 # Anthony Romano
 
-Anthony Romano is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Anthony Romano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at SILO, New York City on Thu, 8 Oct 2026.
 
-Anthony Romano is a house and tech house artist based in United States of America, with 32 gigs on soundcheck across New York City. Often billed alongside LEFTI, James Patterson and Rich Furniss. Next up: Wollman Rink, New York City on Fri 2 Oct.
+Anthony Romano is a house and tech house artist based in United States of America, with 32 gigs on soundcheck across New York City. Often billed alongside LEFTI, James Patterson and Rich Furniss. Next up: SILO, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Thu, 8 Oct 2026 | SILO | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Anthony Romano is a house and tech house artist based in United States of Americ
 
 LEFTI, James Patterson, Rich Furniss
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyromano/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyromano/)*

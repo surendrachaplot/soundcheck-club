@@ -1,6 +1,6 @@
 # Kev Blundy
 
-Kev Blundy is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Golden Jubilee & Yacht Club, London on Sat, 10 Apr 2027.
+Kev Blundy is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Golden Jubilee & Yacht Club, London on Sat, 10 Apr 2027.
 
 Kev Blundy is an electronic artist, with 4 gigs on soundcheck across London. Often billed alongside 4D (UK), Adrian Mega and Andrew Sharpe. Next up: Golden Jubilee & Yacht Club, London on Sat 10 Apr.
 
@@ -20,4 +20,4 @@ Kev Blundy is an electronic artist, with 4 gigs on soundcheck across London. Oft
 
 4D (UK), Adrian Mega, Andrew Sharpe
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevblundy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevblundy/)*

@@ -1,6 +1,6 @@
 # Cristian Tamborrini
 
-Cristian Tamborrini is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
+Cristian Tamborrini is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Das Viertel, Basel on Sat, 10 Oct 2026.
 
 Cristian Tamborrini is a house artist based in Switzerland, with 3 gigs on soundcheck across Basel. Often billed alongside Fred Linger, Fabio Tamborrini and DJ Gregory. Next up: Das Viertel, Basel on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Cristian Tamborrini is a house artist based in Switzerland, with 3 gigs on sound
 
 Fred Linger, Fabio Tamborrini, DJ Gregory
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiantamborrini/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiantamborrini/)*

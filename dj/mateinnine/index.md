@@ -1,6 +1,6 @@
 # mate in nine
 
-mate in nine is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Tijuana on Sat, 10 Oct 2026.
+mate in nine is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Tijuana on Sat, 10 Oct 2026.
 
 mate in nine is an electronic artist, with 5 gigs on soundcheck across Berlin and Tijuana. Often billed alongside DJ Halloumi, Dela Nesto and Dynamic Range. Next up: TBA, Tijuana on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ mate in nine is an electronic artist, with 5 gigs on soundcheck across Berlin an
 
 DJ Halloumi, Dela Nesto, Dynamic Range
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateinnine/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateinnine/)*

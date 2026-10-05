@@ -1,14 +1,15 @@
 # Di Linh
 
-Di Linh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
+Di Linh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Factory 47, Hanoi on Fri, 9 Oct 2026.
 
-Di Linh is a house and techno artist based in Vietnam, with 35 gigs on soundcheck across Bali, Bangkok, Berlin and Geneva and 12 more. Often billed alongside Ouissam, Saint Guel and Ruede Hagelstein. Next up: Factory 47, Hanoi on Fri 9 Oct.
+Di Linh is a house and techno artist based in Vietnam, with 36 gigs on soundcheck across Bali, Bangkok, Berlin and Geneva and 12 more. Often billed alongside Ouissam, Saint Guel and Ruede Hagelstein. Next up: Factory 47, Hanoi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Factory 47 | Hanoi |
+| Sat, 24 Oct 2026 | Pisco Bar | Kuala Lumpur |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Di Linh is a house and techno artist based in Vietnam, with 35 gigs on soundchec
 
 Ouissam, Saint Guel, Ruede Hagelstein
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

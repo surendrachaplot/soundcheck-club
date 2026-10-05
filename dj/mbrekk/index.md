@@ -1,6 +1,6 @@
 # MBREKK
 
-MBREKK is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+MBREKK is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 MBREKK is an electronic artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Augsburg, Berlin and Munich. Often billed alongside 9LALEY, NAGINI and Praun. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ MBREKK is an electronic artist based in Germany, with 18 gigs on soundcheck acro
 
 9LALEY, NAGINI, Praun
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*

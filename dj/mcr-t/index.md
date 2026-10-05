@@ -1,8 +1,8 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at block., Dublin on Fri, 16 Oct 2026.
+MCR-T is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at block., Dublin on Fri, 16 Oct 2026.
 
-MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: block., Dublin on Fri 16 Oct.
+MCR-T is a techno and house artist based in Germany, with 270 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: block., Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Roxy | Prague |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Fri, 5 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -34,4 +35,4 @@ MCR-T is a techno and house artist based in Germany, with 269 gigs on soundcheck
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

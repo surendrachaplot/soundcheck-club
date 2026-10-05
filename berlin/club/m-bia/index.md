@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "SHØCC pres. Karamustan + Festival of Lights Clubnight" on Fri, 9 Oct 2026.
+M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "SHØCC pres. Karamustan + Festival of Lights Clubnight" on Fri, 9 Oct 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Allexandra, Azura, Basstronauten and Bliss and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

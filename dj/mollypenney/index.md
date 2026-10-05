@@ -1,6 +1,6 @@
 # Molly Penney
 
-Molly Penney is a R&B and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
+Molly Penney is a R&B and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
 
 Molly Penney is a r&b and electro artist based in United Kingdom, with 4 gigs on soundcheck across Bristol, Edinburgh and London. Often billed alongside Chickie, HOLY C and Huns N' Roses. Next up: The Bongo Club, Edinburgh on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Molly Penney is a r&b and electro artist based in United Kingdom, with 4 gigs on
 
 Chickie, HOLY C, Huns N' Roses
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*

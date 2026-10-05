@@ -1,14 +1,13 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Riot London October" on Sun, 4 Oct 2026.
+Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "GRIP [ XXX SPORTS NIGHT ]" on Thu, 15 Oct 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Riot London October | CHEZA LUCINA |
 | Thu, 15 Oct 2026 | GRIP [ XXX SPORTS NIGHT ] |  |
 | Fri, 16 Oct 2026 | HUNTER: LOADING ZONE - LONDON LEATHER WEEKEND | ewing |
 | Sat, 17 Oct 2026 | Slimelight Halloween feat Qual Live | Dj.Malefica, Ricardo Castro, Steve Weeks |
@@ -23,4 +22,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming gigs, 
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

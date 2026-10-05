@@ -1,6 +1,6 @@
 # Pppainterrr
 
-Pppainterrr is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
+Pppainterrr is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 11 Oct 2026.
 
 Pppainterrr is an ambient and experimental artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Evalyn, Reinartz and Sióg. Next up: ciao ciao Bar, Berlin on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Pppainterrr is an ambient and experimental artist, with 4 gigs on soundcheck acr
 
 Evalyn, Reinartz, Sióg
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pppainterrr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pppainterrr/)*

@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
+tINI is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Loft, Manchester on Fri, 9 Oct 2026.
 
 tINI is a house and techno artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: The Loft, Manchester on Fri 9 Oct.
 
@@ -36,4 +36,4 @@ tINI is a house and techno artist based in Germany, with 246 gigs on soundcheck 
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

@@ -1,6 +1,6 @@
 # Diffuse Reality
 
-Diffuse Reality is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+Diffuse Reality is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 Diffuse Reality is a techno and minimal techno artist, with 3 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Squaric, Adriana Lopez and Alien Rain. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Diffuse Reality is a techno and minimal techno artist, with 3 gigs on soundcheck
 
 Squaric, Adriana Lopez, Alien Rain
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diffusereality/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diffusereality/)*

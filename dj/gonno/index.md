@@ -1,6 +1,6 @@
 # Gonno
 
-Gonno is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Love Inn, Bristol on Fri, 9 Oct 2026.
+Gonno is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Love Inn, Bristol on Fri, 9 Oct 2026.
 
 Gonno is a house and techno artist based in Japan, with 126 gigs on soundcheck across Bali, Bangkok, Berlin and Bristol and 20 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: The Love Inn, Bristol on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ Gonno is a house and techno artist based in Japan, with 126 gigs on soundcheck a
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

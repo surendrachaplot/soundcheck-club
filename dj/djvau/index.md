@@ -1,6 +1,6 @@
 # dj vau
 
-dj vau is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
+dj vau is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
 
 dj vau is a techno and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside ALINA, Wendy Bkz and sohrab.. Next up: FOLD, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ dj vau is a techno and tech house artist based in Germany, with 5 gigs on soundc
 
 ALINA (3), Wendy Bkz, sohrab.
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvau/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvau/)*

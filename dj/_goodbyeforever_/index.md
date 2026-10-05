@@ -1,8 +1,8 @@
 # _goodbyeforever_
 
-_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Blvck Water, Osaka on Fri, 9 Oct 2026.
+_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Blvck Water, Osaka on Fri, 9 Oct 2026.
 
-_goodbyeforever_ is a techno and hardcore artist based in Japan, with 72 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and Liza. Next up: Blvck Water, Osaka on Fri 9 Oct.
+_goodbyeforever_ is a techno and hardcore artist based in Japan, with 72 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Blvck Water, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ _goodbyeforever_ is a techno and hardcore artist based in Japan, with 72 gigs on
 
 ## Shares bills with
 
-FENGX2, ZAGUN, Liza
+FENGX2, ZAGUN, 死者蘇生CH
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*

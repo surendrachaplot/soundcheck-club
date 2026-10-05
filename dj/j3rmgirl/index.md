@@ -1,6 +1,6 @@
 # J3rmgirl
 
-J3rmgirl is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+J3rmgirl is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 J3rmgirl is a jungle and hardcore artist, with 4 gigs on soundcheck across Chicago. Often billed alongside Absono, DJ GayBash! and Flapjack. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ J3rmgirl is a jungle and hardcore artist, with 4 gigs on soundcheck across Chica
 
 Absono, DJ GayBash!, Flapjack
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j3rmgirl/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j3rmgirl/)*

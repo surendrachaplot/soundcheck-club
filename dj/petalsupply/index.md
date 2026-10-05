@@ -1,13 +1,14 @@
 # Petal Supply
 
-Petal Supply is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
+Petal Supply is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
-Petal Supply is a club and pop artist based in Canada, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN and Ard1n. Next up: Elsewhere, New York City on Sat 31 Oct.
+Petal Supply is a club and pop artist based in Canada, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN and Outback. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Collectif MTL | Montreal |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Petal Supply is a club and pop artist based in Canada, with 62 gigs on soundchec
 
 ## Shares bills with
 
-umru, HVN (1), Ard1n
+umru, HVN (1), Outback
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*

@@ -1,6 +1,6 @@
 # Jacob Stoy
 
-Jacob Stoy is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Morphine Raum, Berlin on Wed, 7 Oct 2026.
+Jacob Stoy is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Morphine Raum, Berlin on Wed, 7 Oct 2026.
 
 Jacob Stoy is a club and breakbeat artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Carl Suspect, Alessandro Adriani and Conrad Kaden. Next up: Morphine Raum, Berlin on Wed 7 Oct.
 
@@ -20,4 +20,4 @@ Jacob Stoy is a club and breakbeat artist based in Germany, with 4 gigs on sound
 
 Carl Suspect, Alessandro Adriani, Conrad Kaden
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobstoy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobstoy/)*

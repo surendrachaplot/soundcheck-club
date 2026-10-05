@@ -1,6 +1,6 @@
 # Aurory
 
-Aurory is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Apophis Club, Milan on Sat, 17 Oct 2026.
+Aurory is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Apophis Club, Milan on Sat, 17 Oct 2026.
 
 Aurory is an electronica and techno artist based in Italy, with 3 gigs on soundcheck across Milan. Often billed alongside Asal, Laser and Milano. Next up: Apophis Club, Milan on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ Aurory is an electronica and techno artist based in Italy, with 3 gigs on soundc
 
 Asal, Laser, Milano
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurory/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurory/)*

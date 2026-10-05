@@ -1,6 +1,6 @@
 # Record Turnover
 
-Record Turnover is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
+Record Turnover is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mesteren & Lærlingen, Copenhagen on Sat, 10 Oct 2026.
 
 Record Turnover is a breakbeat and electro artist based in Sweden, with 4 gigs on soundcheck across Berlin, Copenhagen and Warsaw. Often billed alongside Bette Davis Eyes, Bungalovv and CUNT REMEMBER. Next up: Mesteren & Lærlingen, Copenhagen on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Record Turnover is a breakbeat and electro artist based in Sweden, with 4 gigs o
 
 Bette Davis Eyes, Bungalovv, CUNT REMEMBER
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recordturnover/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recordturnover/)*

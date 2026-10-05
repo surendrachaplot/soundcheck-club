@@ -1,6 +1,6 @@
 # FlowState
 
-FlowState is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+FlowState is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
 FlowState is a house and garage artist, with 3 gigs on soundcheck across Amsterdam, London and Sheffield. Often billed alongside Angie (FR), CIS and DJ IP. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ FlowState is a house and garage artist, with 3 gigs on soundcheck across Amsterd
 
 Angie (FR), CIS (3), DJ IP
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowstate-uk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowstate-uk/)*

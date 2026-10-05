@@ -1,13 +1,14 @@
 # OSFUR
 
-OSFUR is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+OSFUR is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
 
-OSFUR is a house and afro house artist based in France, with 12 gigs on soundcheck across Amsterdam, Bangkok, Ibiza and London and 2 more. Often billed alongside UVITA, ARYMÉ and Amine K. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
+OSFUR is a house and afro house artist based in France, with 13 gigs on soundcheck across Amsterdam, Bangkok, Ibiza and London and 2 more. Often billed alongside UVITA, KENZA KAYATI and No Rush (IT). Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | The Cruise Club | Amsterdam |
 
@@ -24,6 +25,6 @@ OSFUR is a house and afro house artist based in France, with 12 gigs on soundche
 
 ## Shares bills with
 
-UVITA, ARYMÉ, Amine K
+UVITA, KENZA KAYATI, No Rush (IT)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osfur/)*

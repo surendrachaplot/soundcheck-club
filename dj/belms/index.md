@@ -1,6 +1,6 @@
 # Belms
 
-Belms is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Rainbow Pub, Birmingham on Sat, 31 Oct 2026.
+Belms is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Rainbow Pub, Birmingham on Sat, 31 Oct 2026.
 
 Belms is a progressive house and deep house artist based in United Kingdom, with 3 gigs on soundcheck across Birmingham and London. Often billed alongside Igor Carmo, Tris (UK) and Ann LoV. Next up: The Rainbow Pub, Birmingham on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Belms is a progressive house and deep house artist based in United Kingdom, with
 
 Igor Carmo, Tris (UK), Ann LoV
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belms/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belms/)*

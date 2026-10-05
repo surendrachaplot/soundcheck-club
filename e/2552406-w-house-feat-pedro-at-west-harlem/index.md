@@ -1,6 +1,6 @@
 # W×HOUSE feat Pedro at West Harlem
 
-W×HOUSE feat Pedro at West Harlem on Fri 9 Oct, Kyoto. 3 artists: droove, kentaroshark and KOTSU. House. See the line-up on soundcheck.
+W×HOUSE feat Pedro at West Harlem on Fri 9 Oct, Kyoto. 4 artists: droove, kentaroshark, KOTSU and Pedro D. Saiz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ W×HOUSE feat Pedro at West Harlem on Fri 9 Oct, Kyoto. 3 artists: droove, kenta
 - droove
 - kentaroshark
 - KOTSU
+- Pedro D. Saiz
 
 *Source: [soundcheck](https://soundcheck.club/e/2552406-w-house-feat-pedro-at-west-harlem/)*

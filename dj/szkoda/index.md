@@ -1,6 +1,6 @@
 # szkoda
 
-szkoda is a Bass and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+szkoda is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
 szkoda is a bass and latin bass artist based in Poland, with 27 gigs on soundcheck across Poland and Warsaw. Often billed alongside dd (PL), Taan and ALLG. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
@@ -9,10 +9,10 @@ szkoda is a bass and latin bass artist based in Poland, with 27 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
-| Sun, 4 Oct 2026 | OCZKI | Warsaw |
 
 ## Recently played
 
+- OCZKI, Warsaw · Sun, 4 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Jasna 1, Warsaw · Sat, 9 May 2026
 - K-Bar Powiśle, Warsaw · Fri, 24 Apr 2026
@@ -20,10 +20,9 @@ szkoda is a bass and latin bass artist based in Poland, with 27 gigs on soundche
 - Mastak, Warsaw · Fri, 17 Oct 2025
 - Carhartt WIP Store, Warsaw · Thu, 28 Aug 2025
 - K-Bar Powiśle, Warsaw · Thu, 24 Jul 2025
-- BarKa, Warsaw · Thu, 12 Jun 2025
 
 ## Shares bills with
 
 dd (PL), Taan, ALLG
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szkoda/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szkoda/)*

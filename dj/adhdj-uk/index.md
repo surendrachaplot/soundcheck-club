@@ -1,6 +1,6 @@
 # ADHDj (UK)
 
-ADHDj (UK) is a Dub Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at radial, London on Fri, 13 Nov 2026.
+ADHDj (UK) is a Dub Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at radial, London on Fri, 13 Nov 2026.
 
 ADHDj (UK) is a dub techno and garage artist, with 4 gigs on soundcheck across London and Manchester. Often billed alongside Miki (London), CEEKAY and Chopper. Next up: radial, London on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ ADHDj (UK) is a dub techno and garage artist, with 4 gigs on soundcheck across L
 
 Miki (London), CEEKAY, Chopper
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhdj-uk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhdj-uk/)*

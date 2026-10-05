@@ -1,6 +1,6 @@
 # Be.Bab
 
-Be.Bab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Be.Bab is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 Be.Bab is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Alex Iso, Ana Ritovski and Axxi Oma. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ Be.Bab is a house and techno artist based in Germany, with 3 gigs on soundcheck 
 
 Alex Iso, Ana Ritovski, Axxi Oma
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/be.bab/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/be.bab/)*

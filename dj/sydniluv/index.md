@@ -1,6 +1,6 @@
 # SYDNI LUV
 
-SYDNI LUV is a Afro House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 23 Oct 2026.
+SYDNI LUV is a Afro House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 23 Oct 2026.
 
 SYDNI LUV is an afro house and afrobeats artist based in Nigeria, with 4 gigs on soundcheck across London and New York City. Often billed alongside AQUTIE, Donis and SAY3. Next up: Jolene Sound Room Brooklyn, New York City on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ SYDNI LUV is an afro house and afrobeats artist based in Nigeria, with 4 gigs on
 
 AQUTIE, Donis, SAY3
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydniluv/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydniluv/)*

@@ -1,14 +1,15 @@
 # Raf & Rod
 
-Raf & Rod is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat, 10 Oct 2026.
+Raf & Rod is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat, 10 Oct 2026.
 
-Raf & Rod are a house and electro duo based in Brazil, with 47 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Omar M, Sampol and DJ Gamba. Next up: TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat 10 Oct.
+Raf & Rod are a house and techno duo based in Brazil, with 48 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Omar M, Sampol and XipNoize. Next up: TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto, Porto on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - Oneonefive. - Pátio do Bolhão, 4000-226 Porto | Porto |
+| Sat, 10 Oct 2026 | One One Five Showroom | Porto |
 | Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
@@ -25,6 +26,6 @@ Raf & Rod are a house and electro duo based in Brazil, with 47 gigs on soundchec
 
 ## Shares bills with
 
-Omar M, Sampol, DJ Gamba
+Omar M, Sampol, XipNoize
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*

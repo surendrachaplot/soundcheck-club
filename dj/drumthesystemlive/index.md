@@ -1,6 +1,6 @@
 # DRUM THE SYSTEM live
 
-DRUM THE SYSTEM live is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
+DRUM THE SYSTEM live is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
 
 DRUM THE SYSTEM live is an electronic artist based in Italy, with 31 gigs on soundcheck across Milan. Often billed alongside Dolce Potente, Atmosphreal and Waldo. Next up: Tempio del Futuro Perduto, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DRUM THE SYSTEM live is an electronic artist based in Italy, with 31 gigs on sou
 
 Dolce Potente, Atmosphreal, Waldo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumthesystemlive/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumthesystemlive/)*

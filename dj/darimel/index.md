@@ -1,6 +1,6 @@
 # Darimel
 
-Darimel is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Locke, Hamburg on Thu, 22 Oct 2026.
+Darimel is a Garage and Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Locke, Hamburg on Thu, 22 Oct 2026.
 
 Darimel is a garage and grime artist based in Germany, with 3 gigs on soundcheck across Hamburg. Often billed alongside Max Reflex, Mechanick and Nikkel. Next up: Locke, Hamburg on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Darimel is a garage and grime artist based in Germany, with 3 gigs on soundcheck
 
 Max Reflex, Mechanick, Nikkel
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darimel/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darimel/)*

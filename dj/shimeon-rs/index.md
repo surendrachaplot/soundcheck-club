@@ -1,6 +1,6 @@
 # Shimeon
 
-Shimeon is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Klub 20/44, Belgrade on Sat, 10 Oct 2026.
+Shimeon is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Klub 20/44, Belgrade on Sat, 10 Oct 2026.
 
 Shimeon is an electro and pop artist, with 4 gigs on soundcheck across Belgrade. Often billed alongside Chokey. Next up: Klub 20/44, Belgrade on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Shimeon is an electro and pop artist, with 4 gigs on soundcheck across Belgrade.
 
 Chokey
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimeon-rs/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimeon-rs/)*

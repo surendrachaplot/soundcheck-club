@@ -1,6 +1,6 @@
 # anise
 
-anise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
+anise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bsmt 254, Toronto on Thu, 22 Oct 2026.
 
 anise is a techno and house artist based in Canada, with 23 gigs on soundcheck across Montreal, Singapore and Toronto. Often billed alongside Chafic, Daragma and Negin. Next up: Bsmt 254, Toronto on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ anise is a techno and house artist based in Canada, with 23 gigs on soundcheck a
 
 Chafic, Daragma, Negin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*

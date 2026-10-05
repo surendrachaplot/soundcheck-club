@@ -1,6 +1,6 @@
 # NINNIDSLVX
 
-NINNIDSLVX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Cieloterra, Rome on Fri, 9 Oct 2026.
+NINNIDSLVX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Cieloterra, Rome on Fri, 9 Oct 2026.
 
 NINNIDSLVX is a techno and trance artist based in Italy, with 5 gigs on soundcheck across Budapest, Malta, Milan and Rome and 1 more. Often billed alongside CHVZ, DOCTOR MÜCKE and EDJM. Next up: Cieloterra, Rome on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ NINNIDSLVX is a techno and trance artist based in Italy, with 5 gigs on soundche
 
 CHVZ, DOCTOR MÜCKE, EDJM
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*

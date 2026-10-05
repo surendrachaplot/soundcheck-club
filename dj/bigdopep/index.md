@@ -1,6 +1,6 @@
 # Big Dope P
 
-Big Dope P is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+Big Dope P is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 Big Dope P is a footwork and ghetto tech artist based in France, with 41 gigs on soundcheck across Barcelona, Brussels, Bucharest and Edinburgh and 10 more. Often billed alongside Seb (Tropical Waste), CRAIC DAVID and sohotsospicy. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Big Dope P is a footwork and ghetto tech artist based in France, with 41 gigs on
 
 Seb (Tropical Waste), CRAIC DAVID, sohotsospicy
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdopep/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigdopep/)*

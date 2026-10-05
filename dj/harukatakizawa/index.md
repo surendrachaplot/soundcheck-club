@@ -1,6 +1,6 @@
 # Haruka Takizawa
 
-Haruka Takizawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
+Haruka Takizawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 11 Oct 2026.
 
 Haruka Takizawa is a techno and house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside HELIOT, Hackmarkt and Hunny. Next up: Aoyama Hachi, Tokyo on Sun 11 Oct.
 
@@ -20,4 +20,4 @@ Haruka Takizawa is a techno and house artist based in Japan, with 4 gigs on soun
 
 HELIOT, Hackmarkt, Hunny
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harukatakizawa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harukatakizawa/)*

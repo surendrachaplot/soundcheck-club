@@ -1,6 +1,6 @@
 # doctor doms
 
-doctor doms is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
+doctor doms is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
 
 doctor doms is a techno and trance artist based in Germany, with 67 gigs on soundcheck across Berlin and Marseille. Often billed alongside OM (COL), VO227 and Rudy Zigliara. Next up: Madame Claude, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ doctor doms is a techno and trance artist based in Germany, with 67 gigs on soun
 
 OM (COL), VO227, Rudy Zigliara
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

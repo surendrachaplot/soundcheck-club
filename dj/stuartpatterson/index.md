@@ -1,15 +1,13 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Stuart Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Omeara, London on Sat, 10 Oct 2026.
 
-Stuart Patterson is a house and disco artist based in United Kingdom, with 69 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Stuart Patterson is a house and disco artist based in United Kingdom, with 69 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: Omeara, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 10 Oct 2026 | Omeara | London |
 | Fri, 1 Jan 2027 | The Light Bar | London |
 
@@ -28,4 +26,4 @@ Stuart Patterson is a house and disco artist based in United Kingdom, with 69 gi
 
 Terry Farley, JARVIS, Tito Pulpo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*

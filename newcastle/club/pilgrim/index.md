@@ -1,6 +1,6 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Myles Sanko" on Thu, 8 Oct 2026.
+Pilgrim is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Myles Sanko" on Thu, 8 Oct 2026.
 
 Pilgrim is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, with line-ups including Michael Gray and Peverell. See dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
@@ -23,4 +23,4 @@ Pilgrim is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, wi
 
 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF, Newcastle
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*

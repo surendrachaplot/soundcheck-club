@@ -1,8 +1,8 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Uhaul Dyke Rave: Take The Wheel" on Fri, 9 Oct 2026.
+Distillery N17 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Uhaul Dyke Rave: Take The Wheel" on Fri, 9 Oct 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Pits, Adrien Calvet, Alba Heidari and Amotik and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Acid Steve, Adam Pits, Adrien Calvet and Alba Heidari and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Distillery N17 is a music venue in London listed on soundcheck. 12 upcoming gigs
 | Sat, 24 Oct 2026 | Noise Orchestra x Minus Pink | Amotik, Antonio De Angelis, Pre Silent, RayRay, SBBS, Varanasi |
 | Fri, 30 Oct 2026 | INFERNO'WEEN | Goddess II, Lewis G. Burton, Nadine Noor, Oluwafemi |
 | Fri, 6 Nov 2026 | Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System | Roots Sensation, Vedic Roots |
+| Sat, 7 Nov 2026 | Audio 23 | Acid Steve, MIRO (DE) |
 | Sat, 21 Nov 2026 | Down The Spiral Vol.2 | Chris Liberator, Jerome Hill |
-| Fri, 27 Nov 2026 | INFERNO |  |
 
 ## Address
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

@@ -1,6 +1,6 @@
 # Leskus
 
-Leskus is a Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
+Leskus is a Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
 
 Leskus is a techno artist based in Germany, with 5 gigs on soundcheck across Budapest, Frankfurt and Hannover. Often billed alongside Tarkan, Kabay and Parallx. Next up: WDM, Hannover on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Leskus is a techno artist based in Germany, with 5 gigs on soundcheck across Bud
 
 Tarkan, Kabay, Parallx
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*

@@ -1,6 +1,6 @@
 # Sabaco Music & Cafe
 
-Sabaco Music & Cafe is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hardonize 54" on Sat, 10 Oct 2026.
+Sabaco Music & Cafe is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Hardonize 54" on Sat, 10 Oct 2026.
 
 Sabaco Music & Cafe is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including ron3lyscript and YU-S-KE. See dates, start times and who's playing. 2-1-19 Nishi-waseda, Shinjuku-ku, Tokyo, 162-0051 Japan.
 
@@ -17,4 +17,4 @@ Sabaco Music & Cafe is a music venue in Tokyo listed on soundcheck. 4 upcoming g
 
 2-1-19 Nishi-waseda, Shinjuku-ku, Tokyo, 162-0051 Japan, Tokyo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sabaco-music-cafe/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sabaco-music-cafe/)*

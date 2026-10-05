@@ -1,6 +1,6 @@
 # Purity Filter
 
-Purity Filter is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Chicago on Sat, 10 Oct 2026.
+Purity Filter is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Chicago on Sat, 10 Oct 2026.
 
 Purity Filter is a trance and hardcore artist based in United States of America, with 21 gigs on soundcheck across Brighton, Chicago, Denver and London and 7 more. Often billed alongside LUNAx3, VAPERROR and Vertigoaway. Next up: TBA, Chicago on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Purity Filter is a trance and hardcore artist based in United States of America,
 
 LUNAx3, VAPERROR, Vertigoaway
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purityfilter/)*

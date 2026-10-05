@@ -1,6 +1,6 @@
 # Elleyza
 
-Elleyza is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+Elleyza is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 Elleyza is an electronic artist based in Germany, with 4 gigs on soundcheck across Munich. Often billed alongside 9LALEY, Listenblondie and 7IMMY. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Elleyza is an electronic artist based in Germany, with 4 gigs on soundcheck acro
 
 9LALEY, Listenblondie, 7IMMY
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleyza/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleyza/)*

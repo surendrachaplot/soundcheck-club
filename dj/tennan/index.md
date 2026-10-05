@@ -1,6 +1,6 @@
 # Tennan
 
-Tennan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
+Tennan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
 
 Tennan is a tech house and house artist based in United Kingdom, with 4 gigs on soundcheck across Osaka. Often billed alongside DMITRI ABSINTHE, MAX PELA and YUUKI YOSHIYAMA. Next up: W Osaka, Osaka on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Tennan is a tech house and house artist based in United Kingdom, with 4 gigs on 
 
 DMITRI ABSINTHE, MAX PELA, YUUKI YOSHIYAMA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tennan/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tennan/)*

@@ -1,6 +1,6 @@
 # Molis
 
-Molis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Rotunde, Bochum on Fri, 16 Oct 2026.
+Molis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Rotunde, Bochum on Fri, 16 Oct 2026.
 
 Molis is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Bochum, Cologne and Düsseldorf. Often billed alongside Bambi (Menage a Trois), DJ HÖRDE and DJ Räucherlaks. Next up: Rotunde, Bochum on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Molis is a techno and trance artist based in Germany, with 4 gigs on soundcheck 
 
 Bambi (Menage a Trois), DJ HÖRDE, DJ Räucherlaks
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molis/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molis/)*

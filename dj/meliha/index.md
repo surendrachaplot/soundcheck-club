@@ -1,6 +1,6 @@
 # Meliha
 
-Meliha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
+Meliha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
 
 Meliha is a techno and house artist based in Malaysia, with 108 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Meliha is a techno and house artist based in Malaysia, with 108 gigs on soundche
 
 Obadius, Biscuit (MY), OtherKind
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*

@@ -1,6 +1,6 @@
 # 5ToK3
 
-5ToK3 is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Sultan Room, New York City on Mon, 5 Oct 2026.
+5ToK3 is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Sultan Room, New York City on Mon, 5 Oct 2026.
 
 5ToK3 is an experimental and electro artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside DBL_BBL, Crew Called Self and Ben The Glorious Bastard. Next up: The Sultan Room, New York City on Mon 5 Oct.
 
@@ -20,4 +20,4 @@
 
 DBL_BBL, Crew Called Self, Ben The Glorious Bastard
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5tok3/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5tok3/)*

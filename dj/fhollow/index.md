@@ -1,6 +1,6 @@
 # F.HOLLOW
 
-F.HOLLOW is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Wigwam, Dublin on Sat, 14 Nov 2026.
+F.HOLLOW is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Wigwam, Dublin on Sat, 14 Nov 2026.
 
 F.HOLLOW is a techno and electro artist based in Portugal, with 4 gigs on soundcheck across Dublin. Often billed alongside ALPER SKR, BRANDI and Boyd Schidt. Next up: Wigwam, Dublin on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ F.HOLLOW is a techno and electro artist based in Portugal, with 4 gigs on soundc
 
 ALPER SKR, BRANDI, Boyd Schidt
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhollow/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhollow/)*

@@ -1,8 +1,8 @@
 # Living Code
 
-Living Code is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
+Living Code is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
 
-Living Code is an electronic artist based in Italy, with 17 gigs on soundcheck across Barcelona, Berlin, Brussels and Milan. Often billed alongside B.bby, Myrcene and Acidgigi. Next up: Casa Androna, Barcelona on Sat 24 Oct.
+Living Code is an experimental and ambient artist based in Italy, with 17 gigs on soundcheck across Barcelona, Berlin, Brussels and Milan. Often billed alongside B.bby, Myrcene and Acidgigi. Next up: Casa Androna, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Living Code is an electronic artist based in Italy, with 17 gigs on soundcheck a
 
 B.bby, Myrcene, Acidgigi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livingcode/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livingcode/)*

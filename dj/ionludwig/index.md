@@ -1,14 +1,15 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Ion Ludwig is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
-Ion Ludwig is a minimal and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: Yellow House, Amsterdam on Thu 22 Oct.
+Ion Ludwig is a minimal and house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Yellow House | Amsterdam |
+| Sat, 24 Oct 2026 | BRET | Amsterdam |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ion Ludwig is a minimal and house artist based in Germany, with 86 gigs on sound
 
 Rhadoo, Aline (CH), BILA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

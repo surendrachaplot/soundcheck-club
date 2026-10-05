@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Benji King is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Benji King is a house and tech house artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Dublin and 7 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Benji King is a house and tech house artist based in United Kingdom, with 81 gig
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

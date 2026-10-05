@@ -1,6 +1,6 @@
 # The Dreamers EP39 at Enter Shibuya
 
-The Dreamers EP39 at Enter Shibuya on Sat 10 Oct, Tokyo. 3 artists: Louis Shannon, Manaha and Rickey Shannon. House and Tech House. See the line-up on soundcheck.
+The Dreamers EP39 at Enter Shibuya on Sat 10 Oct, Tokyo. 4 artists: EIGHT, Louis Shannon, Manaha and Rickey Shannon. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Dreamers EP39 at Enter Shibuya on Sat 10 Oct, Tokyo. 3 artists: Louis Shanno
 
 ## Line-up
 
+- EIGHT
 - Louis Shannon
 - Manaha
 - Rickey Shannon

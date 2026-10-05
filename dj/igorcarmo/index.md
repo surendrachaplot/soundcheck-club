@@ -1,6 +1,6 @@
 # Igor Carmo
 
-Igor Carmo is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Rainbow Pub, Birmingham on Sat, 31 Oct 2026.
+Igor Carmo is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Rainbow Pub, Birmingham on Sat, 31 Oct 2026.
 
 Igor Carmo is a progressive house and deep house artist based in Portugal, with 4 gigs on soundcheck across Birmingham. Often billed alongside Belms, Hilsdon and Ben Elding. Next up: The Rainbow Pub, Birmingham on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Igor Carmo is a progressive house and deep house artist based in Portugal, with 
 
 Belms, Hilsdon, Ben Elding
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igorcarmo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igorcarmo/)*

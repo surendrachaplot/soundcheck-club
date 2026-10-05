@@ -1,6 +1,6 @@
 # Warren Scott
 
-Warren Scott is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
+Warren Scott is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
 
 Warren Scott is a techno and progressive house artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Femmebot Grooves, MAD Beats and Nick Mason. Next up: Nicholas Groente & Fruit, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Warren Scott is a techno and progressive house artist based in United Kingdom, w
 
 Femmebot Grooves, MAD Beats, Nick Mason
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenscott/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenscott/)*

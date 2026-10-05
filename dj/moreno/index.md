@@ -1,6 +1,6 @@
 # Moreno
 
-Moreno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
+Moreno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
 
 Moreno is a house and deep house artist, with 5 gigs on soundcheck across Bangkok, Berlin, Mexico City and Miami and 1 more. Often billed alongside Bonilla, CARGO x IGOR and Cortazar. Next up: Panke, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Moreno is a house and deep house artist, with 5 gigs on soundcheck across Bangko
 
 Bonilla, CARGO x IGOR, Cortazar
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno/)*

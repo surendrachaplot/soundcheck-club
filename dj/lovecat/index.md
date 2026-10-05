@@ -1,13 +1,14 @@
 # LOVECAT
 
-LOVECAT is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+LOVECAT is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 10 Oct 2026.
 
-LOVECAT is a techno and experimental artist based in United Kingdom, with 29 gigs on soundcheck across Athens, Leeds and London. Often billed alongside JONE OF ARX, TEDESCO and HASZNAT. Next up: Colour Factory, London on Sat 31 Oct.
+LOVECAT is a techno and experimental artist based in United Kingdom, with 30 gigs on soundcheck across Athens, Leeds and London. Often billed alongside JONE OF ARX, TEDESCO and HASZNAT. Next up: TBA - Secret East London Location, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - Secret East London Location | London |
 | Sat, 31 Oct 2026 | Colour Factory | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ LOVECAT is a techno and experimental artist based in United Kingdom, with 29 gig
 
 JONE OF ARX, TEDESCO, HASZNAT
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecat/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovecat/)*

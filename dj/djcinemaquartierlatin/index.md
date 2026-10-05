@@ -1,6 +1,6 @@
 # DJ Cinéma Quartier Latin
 
-DJ Cinéma Quartier Latin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
+DJ Cinéma Quartier Latin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
 
 DJ Cinéma Quartier Latin is a house and techno artist based in Canada, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Buenos Aires and 12 more. Often billed alongside dj poolboi, Shaolin Cowboy and sunflwr. Next up: Lark, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ Cinéma Quartier Latin is a house and techno artist based in Canada, with 33 
 
 dj poolboi, Shaolin Cowboy, sunflwr
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcinemaquartierlatin/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcinemaquartierlatin/)*

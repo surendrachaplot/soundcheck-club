@@ -1,6 +1,6 @@
 # Gabriel De Castro
 
-Gabriel De Castro is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Sydney on Sat, 10 Oct 2026.
+Gabriel De Castro is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Sydney on Sat, 10 Oct 2026.
 
 Gabriel De Castro is a house and garage artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Anita B Queen, Bakey and Capo Lee. Next up: TBA, Sydney on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Gabriel De Castro is a house and garage artist based in Australia, with 3 gigs o
 
 Anita B Queen, Bakey, Capo Lee
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieldecastro/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieldecastro/)*

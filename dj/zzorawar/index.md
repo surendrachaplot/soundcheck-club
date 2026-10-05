@@ -1,6 +1,6 @@
 # ZZORAWAR
 
-ZZORAWAR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
+ZZORAWAR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
 
 ZZORAWAR is a tech house and house artist based in Canada, with 9 gigs on soundcheck across New York City and Toronto. Often billed alongside Singhara, Mrii and Anvaya. Next up: 1444 Dupont, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ZZORAWAR is a tech house and house artist based in Canada, with 9 gigs on soundc
 
 Singhara, Mrii, Anvaya
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzorawar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzorawar/)*

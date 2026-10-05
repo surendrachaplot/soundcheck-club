@@ -1,6 +1,6 @@
 # Sounds of Harris
 
-Sounds of Harris is a Disco and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Babble, Brighton on Sat, 31 Oct 2026.
+Sounds of Harris is a Disco and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Babble, Brighton on Sat, 31 Oct 2026.
 
 Sounds of Harris is a disco and tech house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and London. Often billed alongside Tom Ayres, Bil-Sol and Corvair. Next up: Babble, Brighton on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Sounds of Harris is a disco and tech house artist based in United Kingdom, with 
 
 Tom Ayres, Bil-Sol, Corvair
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsofharris/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsofharris/)*

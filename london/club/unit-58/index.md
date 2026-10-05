@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Arise festival: London edition + Bobby Beethoven" on Fri, 9 Oct 2026.
+Unit 58 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Arise festival: London edition + Bobby Beethoven" on Fri, 9 Oct 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including acidhousewife3000, Al Gray, BJ Holy and bod [包家巷] and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -17,4 +17,4 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

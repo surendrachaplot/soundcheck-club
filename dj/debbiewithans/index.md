@@ -1,6 +1,6 @@
 # Debbie with an 'S'
 
-Debbie with an 'S' is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+Debbie with an 'S' is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
 
 Debbie with an 'S' is an italo disco and house artist, with 3 gigs on soundcheck across Hong Kong and Taipei. Often billed alongside F.G.D., Jamiie and L-CC. Next up: Pawnshop, Taipei on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Debbie with an 'S' is an italo disco and house artist, with 3 gigs on soundcheck
 
 F.G.D., Jamiie (2), L-CC
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiewithans/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiewithans/)*

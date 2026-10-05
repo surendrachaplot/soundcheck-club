@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon" on Sun, 4 Oct 2026.
+Système is a music venue in Montreal with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Ramzilla + Juan Izguerra" on Thu, 8 Oct 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 17 upcoming gigs, with line-ups including AṢKIM, AADJA, Adam Solomon and Alina (MTL) and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 16 upcoming gigs, with line-ups including AṢKIM, AADJA, Alina (MTL) and Ana Luisa and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Hypnotic Mindscapes: Cosmic JD, Aline Setton & Adam Solomon | Adam Solomon, Aline Setton, Cosmic JD |
 | Thu, 8 Oct 2026 | Ramzilla + Juan Izguerra | Juan Izguerra, Ramzilla |
 | Fri, 9 Oct 2026 | Darker Than Wax x Music Is My Sanctuary | Lexis (Music Is My Sanctuary), Marco Weibel |
 | Sat, 10 Oct 2026 | Exploria | Evita, Flørist, Percwerk |
@@ -18,9 +17,10 @@ Système is a music venue in Montreal listed on soundcheck. 17 upcoming gigs, wi
 | Sat, 17 Oct 2026 | Autobahn | AADJA, AṢKIM, h1bou |
 | Sun, 18 Oct 2026 | Shella Records x La Rama | Kris Guilty |
 | Thu, 22 Oct 2026 | Drink n Draw |  |
+| Thu, 22 Oct 2026 | Narrativ | Asha (4), Metizo, Moaad BKR |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

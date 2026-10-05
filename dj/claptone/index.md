@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
+Claptone is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
-Claptone is a house and tech house artist based in Germany, with 240 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Santa Monica Pier, Los Angeles on Sat 3 Oct.
+Claptone is a house and tech house artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 | Fri, 9 Oct 2026 | Marina Bay Sands | Singapore |
 | Fri, 9 Oct 2026 | Mi Pueblito Afroantillano | Panama |
 | Sun, 11 Oct 2026 | Chinois Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Claptone is a house and tech house artist based in Germany, with 240 gigs on sou
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
+| Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -36,4 +36,4 @@ Claptone is a house and tech house artist based in Germany, with 240 gigs on sou
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

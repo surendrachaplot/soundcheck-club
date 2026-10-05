@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 10 Oct 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: La Cheetah Club, Glasgow on Sat 10 Oct.
 
@@ -35,4 +35,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

@@ -1,6 +1,6 @@
 # Cara Murphy
 
-Cara Murphy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OneSixOne, Melbourne on Thu, 22 Oct 2026.
+Cara Murphy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OneSixOne, Melbourne on Thu, 22 Oct 2026.
 
 Cara Murphy is a house and deep house artist based in Australia, with 199 gigs on soundcheck across Amsterdam and Melbourne. Often billed alongside Agent 86, Jay Ramon and BoyBlewe. Next up: OneSixOne, Melbourne on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Cara Murphy is a house and deep house artist based in Australia, with 199 gigs o
 
 Agent 86, Jay Ramon, BoyBlewe
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caramurphy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caramurphy/)*

@@ -1,6 +1,6 @@
 # Formella
 
-Formella is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
+Formella is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at OHM, Berlin on Sat, 10 Oct 2026.
 
 Formella is a bass and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, yungfya and Sabine Hoffmann. Next up: OHM, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Formella is a bass and techno artist based in United Kingdom, with 57 gigs on so
 
 Dangermami, yungfya, Sabine Hoffmann
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*

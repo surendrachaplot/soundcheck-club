@@ -1,14 +1,13 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jive Turkeys Detroit annual fundraiser" on Sun, 4 Oct 2026.
+TV Lounge is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "JMT • Full Force" on Sat, 10 Oct 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Al Ester, Ashton Swinton, Ataxia and Brent Shay and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Brent Shay, Bruce Bailey, Disc Jockey George and DJ Bone and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Jive Turkeys Detroit annual fundraiser | Al Ester, Ashton Swinton, Ataxia, Bruce Bailey, Chris Wilson, Detroit Techno Militia 2x4, Disc Jockey George, Donna Gardner, Eddie Fowlkes, Mister Joshooa, RIRKIN, Stacey Hotwaxx Hale, Stevano, Tony Dennis, Tony Foster, Tylr, Zoe Talley, dej.y, something blue |
 | Sat, 10 Oct 2026 | JMT • Full Force | JMT (2), Just Shacoi, Planet KaiA, Sheefy McFly |
 | Sat, 17 Oct 2026 | Hear Here • sillygirlcarmen, Disc Jockey George, & KRW | Disc Jockey George, KRW (1), sillygirlcarmen |
 | Fri, 23 Oct 2026 | Dilemmas B Day Bash | Brent Shay, DJ Seoul, Sinister Dosage |
@@ -19,4 +18,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

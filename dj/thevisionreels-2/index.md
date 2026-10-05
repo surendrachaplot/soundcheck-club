@@ -1,6 +1,6 @@
 # The Vision Reels (2)
 
-The Vision Reels (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
+The Vision Reels (2) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Todmorden Unitarian Church, North on Fri, 9 Oct 2026.
 
 The Vision Reels is an electronic artist, with 4 gigs on soundcheck across Manchester, North and Prague. Often billed alongside colell, Esmé and HØLEIGH. Next up: Todmorden Unitarian Church, North on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ The Vision Reels is an electronic artist, with 4 gigs on soundcheck across Manch
 
 colell, Esmé, HØLEIGH
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thevisionreels-2/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thevisionreels-2/)*

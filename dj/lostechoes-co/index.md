@@ -1,6 +1,6 @@
 # lost echoes (CO)
 
-lost echoes (CO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+lost echoes (CO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
 lost echoes (CO) is a techno and house artist, with 4 gigs on soundcheck across Bogot, Copenhagen, Leipzig and Manchester. Often billed alongside JESUZ X, LOLSNAKE and VINVAR. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ lost echoes (CO) is a techno and house artist, with 4 gigs on soundcheck across 
 
 JESUZ X, LOLSNAKE, VINVAR
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostechoes-co/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostechoes-co/)*

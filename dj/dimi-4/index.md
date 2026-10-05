@@ -1,6 +1,6 @@
 # DIMI (4)
 
-DIMI (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
+DIMI (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
 
 DIMI is a techno and house artist, with 4 gigs on soundcheck across Melbourne, Milan and The Hague. Often billed alongside Haseeb Iqbal, KC and LNR (UK). Next up: TBA, Melbourne on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ DIMI is a techno and house artist, with 4 gigs on soundcheck across Melbourne, M
 
 Haseeb Iqbal, KC, LNR (UK)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimi-4/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimi-4/)*

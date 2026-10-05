@@ -1,6 +1,6 @@
 # musican't
 
-musican't is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 30 Oct 2026.
+musican't is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 30 Oct 2026.
 
 musican't is a techno and tech house artist based in Poland, with 4 gigs on soundcheck across Newcastle. Next up: The Lubber Fiend, Newcastle on Fri 30 Oct.
 
@@ -16,4 +16,4 @@ musican't is a techno and tech house artist based in Poland, with 4 gigs on soun
 - Ernest, Newcastle · Tue, 24 Feb 2026
 - Ernest, Newcastle · Tue, 13 Jan 2026
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musicant/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musicant/)*

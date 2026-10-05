@@ -1,6 +1,6 @@
 # Caspar (BE)
 
-Caspar (BE) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - in the Red Sea, Egypt on Fri, 7 May 2027.
+Caspar (BE) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - in the Red Sea, Egypt on Fri, 7 May 2027.
 
 Caspar (BE) is a house and deep house artist, with 4 gigs on soundcheck across Brussels, Cardiff and Egypt. Often billed alongside 4am Kru, AMARE and Biesmans. Next up: TBA - in the Red Sea, Egypt on Fri 7 May.
 
@@ -20,4 +20,4 @@ Caspar (BE) is a house and deep house artist, with 4 gigs on soundcheck across B
 
 4am Kru, AMARE, Biesmans
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casparbe/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casparbe/)*

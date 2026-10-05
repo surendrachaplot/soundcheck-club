@@ -1,6 +1,6 @@
 # INTERGALACTIC: PLANETFALL at Ooba Camping Village
 
-INTERGALACTIC: PLANETFALL at Ooba Camping Village on Fri 16 Oct, Tokyo. 23 artists: Anapol, avion__, Daniel Merlot and Demsky and 19 more. Breakbeat and Techno. See the line-up on soundcheck.
+INTERGALACTIC: PLANETFALL at Ooba Camping Village on Fri 16 Oct, Tokyo. 24 artists: Anapol, avion__, Daniel Merlot and Demsky and 20 more. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,6 +28,7 @@ INTERGALACTIC: PLANETFALL at Ooba Camping Village on Fri 16 Oct, Tokyo. 23 artis
 - Rhadewa
 - Rickey Shannon
 - Santamaria
+- Spicy Sofi
 - SuperUser
 - Takumi's Afterparty
 - TECSTONE

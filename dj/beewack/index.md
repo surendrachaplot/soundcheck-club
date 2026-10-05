@@ -1,8 +1,8 @@
 # beewack
 
-beewack is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
+beewack is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
-beewack is a house and disco artist based in United States of America, with 112 gigs on soundcheck across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
+beewack is a house and disco artist based in United States of America, with 113 gigs on soundcheck across Athens, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Planet B, Benjamin Roeder and Honey Bun. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ beewack is a house and disco artist based in United States of America, with 112 
 
 ## Recently played
 
+- public records, New York City · Sun, 4 Oct 2026
 - Good Room, New York City · Sat, 12 Sept 2026
 - public records, New York City · Sat, 22 Aug 2026
 - Outer Heaven, New York City · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ beewack is a house and disco artist based in United States of America, with 112 
 - Bogart House, New York City · Sat, 4 Jul 2026
 - Dead Letter No. 9, New York City · Fri, 3 Jul 2026
 - TRANSMISSION DC, Washington DC · Sun, 14 Jun 2026
-- TBA - Secret Location, New York City · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Planet B, Benjamin Roeder, Honey Bun
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beewack/)*

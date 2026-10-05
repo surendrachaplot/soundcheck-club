@@ -1,13 +1,14 @@
 # miranda ku
 
-miranda ku is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+miranda ku is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Pawnshop, Taipei on Sat, 10 Oct 2026.
 
-miranda ku is a techno and minimal artist, with 4 gigs on soundcheck across Seoul, Taipei and Tokyo. Often billed alongside Blackship, Cristian Marras and Gemnital. Next up: Pawnshop, Taipei on Sun 1 Nov.
+miranda ku is a techno and minimal artist, with 5 gigs on soundcheck across Seoul, Taipei and Tokyo. Often billed alongside Sai.ph, Blackship and Bo Yin. Next up: Pawnshop, Taipei on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Pawnshop | Taipei |
 | Sun, 1 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
@@ -18,6 +19,6 @@ miranda ku is a techno and minimal artist, with 4 gigs on soundcheck across Seou
 
 ## Shares bills with
 
-Blackship, Cristian Marras, Gemnital
+Sai.ph, Blackship, Bo Yin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miranda-ku/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miranda-ku/)*

@@ -1,6 +1,6 @@
 # BlackWorks Halloween The Purgatory at La Cubierta de Leganés
 
-BlackWorks Halloween The Purgatory at La Cubierta de Leganés on Fri 30 Oct, Madrid. 14 artists: 6EJOU, A.N.I., Aiden (DE) and Ben Techy and 10 more. Techno. See the line-up on soundcheck.
+BlackWorks Halloween The Purgatory at La Cubierta de Leganés on Fri 30 Oct, Madrid. 15 artists: 6EJOU, A.N.I., Aiden (DE) and Angerfist and 11 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BlackWorks Halloween The Purgatory at La Cubierta de Leganés on Fri 30 Oct, Mad
 - 6EJOU
 - A.N.I.
 - Aiden (DE)
+- Angerfist
 - Ben Techy
 - Dexphase
 - KARAH

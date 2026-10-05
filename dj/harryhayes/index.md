@@ -1,8 +1,8 @@
 # Harry Hayes
 
-Harry Hayes is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Yes, Manchester on Sat, 10 Oct 2026.
+Harry Hayes is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Yes, Manchester on Sat, 10 Oct 2026.
 
-Harry Hayes is a house and garage artist based in Australia, with 25 gigs on soundcheck across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Mike McCaskill and Mimi J. Next up: Yes, Manchester on Sat 10 Oct.
+Harry Hayes is a house and garage artist based in Australia, with 26 gigs on soundcheck across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Memphis LK and Mike McCaskill. Next up: Yes, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,17 +15,17 @@ Harry Hayes is a house and garage artist based in Australia, with 25 gigs on sou
 
 ## Recently played
 
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
+- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Civic Underground, Sydney · Sat, 12 Sept 2026
 - Glamorama, Melbourne · Fri, 26 Jun 2026
 - The Ivy, Sydney · Sun, 7 Jun 2026
 - Pleasure Club, Sydney · Sun, 25 Jan 2026
 - Pleasure Club, Sydney · Sun, 25 Jan 2026
 - The Lass O'Gowrie Hotel, Sydney · Sat, 22 Nov 2025
-- Sydney Glass Island, Sydney · Sat, 4 Oct 2025
-- Sub Club Melbourne, Melbourne · Thu, 25 Sept 2025
 
 ## Shares bills with
 
-LUPO.THEBOY, Mike McCaskill, Mimi J
+LUPO.THEBOY, Memphis LK, Mike McCaskill
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*

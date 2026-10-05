@@ -1,6 +1,6 @@
 # Napirelly
 
-Napirelly is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at vurt., Seoul on Sat, 24 Oct 2026.
+Napirelly is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at vurt., Seoul on Sat, 24 Oct 2026.
 
 Napirelly is a techno and tech house artist, with 5 gigs on soundcheck across Bali, Bangkok and Seoul. Often billed alongside Bagvs, Brasi and Carlos Bros. Next up: vurt., Seoul on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Napirelly is a techno and tech house artist, with 5 gigs on soundcheck across Ba
 
 Bagvs, Brasi, Carlos Bros
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*

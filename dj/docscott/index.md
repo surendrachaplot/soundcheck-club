@@ -1,6 +1,6 @@
 # Doc Scott
 
-Doc Scott is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+Doc Scott is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 26 more. Often billed alongside Goldie, Ant TC1 and Grooverider. Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Doc Scott is a drum & bass and jungle artist based in United Kingdom, with 106 g
 
 Goldie, Ant TC1, Grooverider
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docscott/)*

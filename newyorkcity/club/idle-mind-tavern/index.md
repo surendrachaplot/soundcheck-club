@@ -1,6 +1,6 @@
 # Idle Mind Tavern
 
-Idle Mind Tavern is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Not So Fast, BBflics, The Herrera Brothers, Coneja" on Sat, 10 Oct 2026.
+Idle Mind Tavern is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Not So Fast, BBflics, The Herrera Brothers, Coneja" on Sat, 10 Oct 2026.
 
 Idle Mind Tavern is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 623 Manhattan Ave, Brooklyn, NY 11222.
 
@@ -17,4 +17,4 @@ Idle Mind Tavern is a music venue in New York City listed on soundcheck. 4 upcom
 
 623 Manhattan Ave, Brooklyn, NY 11222, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/idle-mind-tavern/)*

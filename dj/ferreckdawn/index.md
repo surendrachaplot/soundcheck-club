@@ -1,15 +1,13 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Ferreck Dawn is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Ferreck Dawn is a house and tech house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 24 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Ferreck Dawn is a house and tech house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 24 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
-| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Sat, 31 Oct 2026 | Complex Maastricht | Netherlands |
@@ -30,4 +28,4 @@ Ferreck Dawn is a house and tech house artist based in Netherlands, with 93 gigs
 
 Claptone, Sam Divine, Todd Terry
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

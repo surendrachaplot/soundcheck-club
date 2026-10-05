@@ -1,14 +1,13 @@
 # Plastician
 
-Plastician is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Plastician is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Dolphin, Philadelphia on Thu, 8 Oct 2026.
 
-Plastician is a dubstep and bass artist based in United Kingdom, with 77 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 17 more. Often billed alongside Skream, Just Jane and Oneman. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+Plastician is a dubstep and bass artist based in United Kingdom, with 77 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 17 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Dolphin, Philadelphia on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Thu, 8 Oct 2026 | The Dolphin | Philadelphia |
 | Fri, 9 Oct 2026 | The Black Box | Denver |
 | Sat, 10 Oct 2026 | TBA | San Francisco/Oakland |
@@ -31,4 +30,4 @@ Plastician is a dubstep and bass artist based in United Kingdom, with 77 gigs on
 
 Skream, Just Jane, Oneman
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

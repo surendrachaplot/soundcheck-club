@@ -1,6 +1,6 @@
 # wilson.solidarity
 
-wilson.solidarity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+wilson.solidarity is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 wilson.solidarity is a house and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Apolonia, Borella and Ciao 3lla. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ wilson.solidarity is a house and techno artist based in Germany, with 4 gigs on 
 
 Apolonia, Borella, Ciao 3lla
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilson.solidarity/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilson.solidarity/)*

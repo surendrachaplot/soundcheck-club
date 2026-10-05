@@ -1,6 +1,6 @@
 # Rikki Humphrey
 
-Rikki Humphrey is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parkinsons Books, Liverpool on Sat, 31 Oct 2026.
+Rikki Humphrey is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Parkinsons Books, Liverpool on Sat, 31 Oct 2026.
 
 Rikki Humphrey is a house and experimental artist, with 5 gigs on soundcheck across Cardiff, Liverpool and Manchester. Often billed alongside 4D (UK), Angus Jefford and Asphalt Layer. Next up: Parkinsons Books, Liverpool on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Rikki Humphrey is a house and experimental artist, with 5 gigs on soundcheck acr
 
 4D (UK), Angus Jefford, Asphalt Layer
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkihumphrey/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikkihumphrey/)*

@@ -1,6 +1,6 @@
 # Sven Tasnadi
 
-Sven Tasnadi is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Sven Tasnadi is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Sven Tasnadi is a techno and psytrance artist based in Germany, with 5 gigs on soundcheck across Berlin, Leipzig and Zurich. Often billed alongside AMARE, Adi Dassler and Albrecht Wassersleben. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Sven Tasnadi is a techno and psytrance artist based in Germany, with 5 gigs on s
 
 AMARE, Adi Dassler, Albrecht Wassersleben
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sventasnadi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sventasnadi/)*

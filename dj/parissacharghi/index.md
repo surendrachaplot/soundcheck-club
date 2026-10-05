@@ -1,6 +1,6 @@
 # Parissa Charghi
 
-Parissa Charghi is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Parissa Charghi is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
 
 Parissa Charghi is a hip-hop and experimental artist based in Germany, with 4 gigs on soundcheck across Düsseldorf, Hamburg, Vienna and Wuppertal. Often billed alongside 909 RACING TEAM, Anni Herzer and Beatrice M.. Next up: Open Ground, Wuppertal on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Parissa Charghi is a hip-hop and experimental artist based in Germany, with 4 gi
 
 909 RACING TEAM, Anni Herzer, Beatrice M.
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parissacharghi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parissacharghi/)*

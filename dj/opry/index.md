@@ -1,6 +1,6 @@
 # OPRY
 
-OPRY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
+OPRY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
 
 OPRY is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow. Often billed alongside A-TØN and Mass Medium / Club Caviar. Next up: The Marlborough Red Room, Glasgow on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ OPRY is a techno and house artist based in United Kingdom, with 4 gigs on soundc
 
 A-TØN, Mass Medium / Club Caviar
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opry/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opry/)*

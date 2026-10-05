@@ -1,6 +1,6 @@
 # Zahn Walker
 
-Zahn Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Silent Studios, Auckland on Sat, 17 Oct 2026.
+Zahn Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Silent Studios, Auckland on Sat, 17 Oct 2026.
 
 Zahn Walker is a tech house and house artist based in New Zealand, with 6 gigs on soundcheck across Auckland. Often billed alongside Logan Baker, Connor Tomoana and Cosmjn. Next up: Silent Studios, Auckland on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Zahn Walker is a tech house and house artist based in New Zealand, with 6 gigs o
 
 Logan Baker, Connor Tomoana, Cosmjn
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnwalker/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnwalker/)*

@@ -1,6 +1,6 @@
 # John Dimas
 
-John Dimas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 10 Oct 2026.
+John Dimas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 10 Oct 2026.
 
 John Dimas is a house and techno artist based in Albania, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 16 more. Often billed alongside Dimas, Vithz and Anthea. Next up: Audiofficina - HI-FI Corner, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ John Dimas is a house and techno artist based in Albania, with 38 gigs on soundc
 
 Dimas, Vithz, Anthea
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndimas/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndimas/)*

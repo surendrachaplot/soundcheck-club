@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 23 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 9 Oct 2026.
+Dusky is a House and Techno artist with 23 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 9 Oct 2026.
 
 Dusky is a house and techno artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: Tigres de la Noche, Washington DC on Fri 9 Oct.
 
@@ -23,6 +23,7 @@ Dusky is a house and techno artist based in United Kingdom, with 105 gigs on sou
 
 ## Recently played
 
+- TBA - Bloom Bar Indy, Indiana · Sun, 4 Oct 2026
 - Newspeak, Montreal · Sat, 3 Oct 2026
 - Elsewhere, New York City · Fri, 2 Oct 2026
 - UNO MALTA, Malta · Thu, 24 Sept 2026
@@ -30,10 +31,9 @@ Dusky is a house and techno artist based in United Kingdom, with 105 gigs on sou
 - Lab11, Birmingham · Sat, 5 Sept 2026
 - Landesmuseum, Zurich · Thu, 16 Jul 2026
 - Steelyard Kelham, Sheffield · Sat, 20 Jun 2026
-- Dedaena, Tbilisi · Sun, 31 May 2026
 
 ## Shares bills with
 
 Dan Shake, Denham Audio, Junior Simba
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

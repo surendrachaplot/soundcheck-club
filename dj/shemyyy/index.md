@@ -1,6 +1,6 @@
 # SHEMYYY
 
-SHEMYYY is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Freight Brixton, London on Sun, 25 Oct 2026.
+SHEMYYY is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Freight Brixton, London on Sun, 25 Oct 2026.
 
 SHEMYYY is an electro and electronica artist, with 4 gigs on soundcheck across London. Often billed alongside DotTV, HASZNAT and Heartcoregirl. Next up: Freight Brixton, London on Sun 25 Oct.
 
@@ -20,4 +20,4 @@ SHEMYYY is an electro and electronica artist, with 4 gigs on soundcheck across L
 
 DotTV, HASZNAT, Heartcoregirl
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemyyy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemyyy/)*

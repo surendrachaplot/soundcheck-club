@@ -1,6 +1,6 @@
 # ENiGMA Dubz
 
-ENiGMA Dubz is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Alternity, Toronto on Fri, 20 Nov 2026.
+ENiGMA Dubz is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Alternity, Toronto on Fri, 20 Nov 2026.
 
 ENiGMA Dubz is a dubstep and drum & bass artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, Birmingham, Bristol and Denver and 12 more. Often billed alongside Caspa, DASEPLATE and Deep Tempo. Next up: Alternity, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ENiGMA Dubz is a dubstep and drum & bass artist based in United Kingdom, with 21
 
 Caspa, DASEPLATE, Deep Tempo
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*

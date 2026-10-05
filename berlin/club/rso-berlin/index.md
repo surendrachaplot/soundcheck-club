@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y" on Sat, 3 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live" on Fri, 9 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Justine Perry, AEREA, Alfred Czital and ALI3N and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Justine Perry, AEREA, Alfred Czital and ALI3N and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, JKS, Kim She, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
 | Sat, 10 Oct 2026 | WE ARE NOT ALONE | ALI3N, Cleric, Ellen Allien, Introversion, Mama Snake, Metaraph, OLHA, Sarah Sommers, Stephanie Sykes, Volvox |
 | Fri, 16 Oct 2026 | Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso | CYRK, Cosmo Vitelli, Giulia Gutterer, Moderna |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
 | Sat, 31 Oct 2026 | BCCO Halloween | AEREA, ASEC, Bailey Ibbs, Benabou, DJ Hyperdrive, Elnur, FENIM0RE, Luigi Madonna, Luxi Villar, Mac Declos, Matrixxman, Mython, PAU (6), SALIMATA, SELESSA T., future.666 |
 | Fri, 6 Nov 2026 | TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH | Funk Tribu, KARISH, Linds, Supergloss |
+| Fri, 13 Nov 2026 | Sachsentrance | Anna Ullrich, DJ GUESTLIST, RaverPik, Sabu!, The Jakob Sister, snoritz |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

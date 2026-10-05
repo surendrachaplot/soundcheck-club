@@ -1,17 +1,18 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Les Lionnes, Paris on Sun, 4 Oct 2026.
+Alex From Tokyo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Potato Head Beach Club, Bali on Fri, 16 Oct 2026.
 
-Alex From Tokyo is a house and disco artist based in France, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: Les Lionnes, Paris on Sun 4 Oct.
+Alex From Tokyo is a house and disco artist based in France, with 53 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 11 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: Potato Head Beach Club, Bali on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Les Lionnes | Paris |
+| Fri, 16 Oct 2026 | Potato Head Beach Club | Bali |
 
 ## Recently played
 
+- Les Lionnes, Paris · Sun, 4 Oct 2026
 - Room 86, London · Wed, 23 Sept 2026
 - Bar Franca, Los Angeles · Thu, 30 Jul 2026
 - Virage, Paris · Sun, 28 Jun 2026
@@ -19,10 +20,9 @@ Alex From Tokyo is a house and disco artist based in France, with 52 gigs on sou
 - Pamela Club, Paris · Wed, 24 Jun 2026
 - Sacré, Paris · Sat, 30 May 2026
 - DJ Bar Bridge, Tokyo · Fri, 22 May 2026
-- Aoyama Tunnel, Tokyo · Fri, 15 May 2026
 
 ## Shares bills with
 
 Man Called Dylan, JPYE, Budino
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*

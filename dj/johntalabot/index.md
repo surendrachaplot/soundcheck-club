@@ -1,14 +1,13 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Hertz, Seoul on Sun, 4 Oct 2026.
+John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Greece on Sat, 10 Oct 2026.
 
-John Talabot is a house and techno artist based in Spain, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: Hertz, Seoul on Sun 4 Oct.
+John Talabot is a house and techno artist based in Spain, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: TBA, Greece on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Hertz | Seoul |
 | Sat, 10 Oct 2026 | TBA | Greece |
 | Sat, 17 Oct 2026 | FOLD | London |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
@@ -21,6 +20,7 @@ John Talabot is a house and techno artist based in Spain, with 184 gigs on sound
 
 ## Recently played
 
+- Hertz, Seoul · Sun, 4 Oct 2026
 - VENT, Tokyo · Sat, 3 Oct 2026
 - The Observatory, Ho-chi-minh-city · Fri, 2 Oct 2026
 - Plano B, Porto · Fri, 25 Sept 2026
@@ -28,10 +28,9 @@ John Talabot is a house and techno artist based in Spain, with 184 gigs on sound
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Nowadays, New York City · Sat, 12 Sept 2026
 - Place Poelaertplein, Brussels · Sat, 29 Aug 2026
-- The Cause, London · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 mad miran, Nicolas Lutz, Christian AB
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

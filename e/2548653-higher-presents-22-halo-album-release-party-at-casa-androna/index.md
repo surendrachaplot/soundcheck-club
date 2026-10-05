@@ -1,6 +1,6 @@
 # Higher presents 22° Halo - Album Release Party at Casa Androna
 
-Higher presents 22° Halo - Album Release Party at Casa Androna on Sat 24 Oct, Barcelona. 4 artists: B.bby, Living Code, Philip Kylberg and SEIYA. See the line-up on soundcheck.
+Higher presents 22° Halo - Album Release Party at Casa Androna on Sat 24 Oct, Barcelona. 4 artists: B.bby, Living Code, Philip Kylberg and SEIYA. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

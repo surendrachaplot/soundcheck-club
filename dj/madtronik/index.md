@@ -1,6 +1,6 @@
 # Madtronik
 
-Madtronik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+Madtronik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
 
 Madtronik is a techno and acid artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside 69DB, Ixindamix and Antonio De Angelis. Next up: Distillery N17, London on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Madtronik is a techno and acid artist based in United Kingdom, with 6 gigs on so
 
 69DB, Ixindamix, Antonio De Angelis
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madtronik/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madtronik/)*

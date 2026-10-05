@@ -1,14 +1,15 @@
 # Meedy
 
-Meedy is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
+Meedy is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 16 Oct 2026.
 
-Meedy is an afro house and afro tech artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, London, Miami and New York City and 3 more. Often billed alongside pizzi, Niara Sterling and Nativesun. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
+Meedy is an afro house and afro tech artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, London, Miami and New York City and 3 more. Often billed alongside pizzi, Niara Sterling and Nativesun. Next up: 99 Scott Ave, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | 99 Scott Ave | New York City |
+| Sat, 24 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Parallel | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Meedy is an afro house and afro tech artist based in United States of America, w
 
 pizzi, Niara Sterling, Nativesun
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meedy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meedy/)*

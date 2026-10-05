@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sydenham Underpass, Christchurch on Fri, 9 Oct 2026.
+Unglued is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sydenham Underpass, Christchurch on Fri, 9 Oct 2026.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Auckland, Berlin and Boston and 23 more. Often billed alongside Degs, Whiney and Metrik. Next up: Sydenham Underpass, Christchurch on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, with 54 gigs
 
 Degs, Whiney, Metrik
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

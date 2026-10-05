@@ -1,6 +1,6 @@
 # Aileron
 
-Aileron is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+Aileron is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
 
 Aileron is a techno and trance artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow. Often billed alongside AXION, COURTEZ and Cirkle. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Aileron is a techno and trance artist based in United Kingdom, with 3 gigs on so
 
 AXION, COURTEZ, Cirkle
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aileron/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aileron/)*

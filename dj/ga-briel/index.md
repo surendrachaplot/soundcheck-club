@@ -1,6 +1,6 @@
 # Ga-briel
 
-Ga-briel is a Jazz and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
+Ga-briel is a Jazz and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
 
 Ga-briel is a jazz and club artist based in United Kingdom, with 3 gigs on soundcheck across Leeds. Often billed alongside Harry Rook, Prawn Posture and Lucy Locket. Next up: Hyde Park Book Club, Leeds on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Ga-briel is a jazz and club artist based in United Kingdom, with 3 gigs on sound
 
 Harry Rook, Prawn Posture, Lucy Locket
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ga-briel/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ga-briel/)*

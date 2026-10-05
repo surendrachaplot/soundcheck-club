@@ -1,18 +1,17 @@
 # KEYBAR
 
-KEYBAR is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "JUNGLE DUB HOUSE: NYC Drum & Bass Sunset Sundays: Electronic Music Week Session" on Sun, 4 Oct 2026.
+KEYBAR is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR" on Sat, 10 Oct 2026.
 
-KEYBAR is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Damon Bradley, DJ Paul C and Jahveri. See dates, start times and who's playing. 143 Troutman Street, Brooklyn, NY 11206.
+KEYBAR is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Damon Bradley and Jahveri. See dates, start times and who's playing. 143 Troutman Street, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | JUNGLE DUB HOUSE: NYC Drum & Bass Sunset Sundays: Electronic Music Week Session | DJ Paul C |
 | Sat, 10 Oct 2026 | Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR | Damon Bradley, Jahveri |
 
 ## Address
 
 143 Troutman Street, Brooklyn, NY 11206, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/keybar/)*

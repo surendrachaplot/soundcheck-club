@@ -1,6 +1,6 @@
 # Audiation welcomes Daniel Bell at Vibehaus ATX
 
-Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 2 artists: Brett Johnson and Daniel Bell. Minimal and Deep House. See the line-up on soundcheck.
+Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 3 artists: Brad Duke, Brett Johnson and Daniel Bell. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 2 artists: 
 
 ## Line-up
 
+- Brad Duke
 - Brett Johnson
 - Daniel Bell
 

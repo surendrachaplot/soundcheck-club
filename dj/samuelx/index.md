@@ -1,6 +1,6 @@
 # Samuelx
 
-Samuelx is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
+Samuelx is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
 Samuelx is a techno and pop artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside ASTER (DJ), Cure2 and Tasheff. Next up: Mood Ring, New York City on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ Samuelx is a techno and pop artist based in United States of America, with 6 gig
 
 ASTER (DJ), Cure2, Tasheff
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*

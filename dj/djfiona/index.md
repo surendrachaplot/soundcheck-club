@@ -1,6 +1,6 @@
 # DJ Fiona
 
-DJ Fiona is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
+DJ Fiona is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Madame Claude, Berlin on Fri, 9 Oct 2026.
 
 DJ Fiona is a house and progressive house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Heshumi, Holywanderer and OatMilk. Next up: Madame Claude, Berlin on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ DJ Fiona is a house and progressive house artist based in Germany, with 5 gigs o
 
 Heshumi, Holywanderer, OatMilk
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfiona/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfiona/)*

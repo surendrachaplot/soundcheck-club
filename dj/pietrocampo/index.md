@@ -1,6 +1,6 @@
 # Pietro Campo
 
-Pietro Campo is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beest Boulders Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Pietro Campo is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Beest Boulders Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Pietro Campo is a techno and downtempo artist based in Italy, with 4 gigs on soundcheck across Amsterdam and Rome. Often billed alongside Carola, m.s.moore and Alex Coma. Next up: Beest Boulders Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Pietro Campo is a techno and downtempo artist based in Italy, with 4 gigs on sou
 
 Carola (2), m.s.moore, Alex Coma
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrocampo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrocampo/)*

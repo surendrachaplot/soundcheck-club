@@ -1,6 +1,6 @@
 # SiSeN
 
-SiSeN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
+SiSeN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tsumagoi Bokujo Aisai no Kane, Kanto on Thu, 8 Oct 2026.
 
 SiSeN is a techno and industrial artist based in Japan, with 52 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Takuya Angel, CHIKA and andro (GOTHIKA). Next up: Tsumagoi Bokujo Aisai no Kane, Kanto on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ SiSeN is a techno and industrial artist based in Japan, with 52 gigs on soundche
 
 Takuya Angel, CHIKA, andro (GOTHIKA)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisen/)*

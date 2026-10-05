@@ -1,6 +1,6 @@
 # shakesbiier
 
-shakesbiier is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
+shakesbiier is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
 shakesbiier is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Andara Nox, Anna Hoeber and April (UK). Next up: Sensorium, Berlin on Wed 7 Oct.
 
@@ -15,4 +15,4 @@ shakesbiier is a techno and trance artist based in Germany, with 2 gigs on sound
 
 Andara Nox, Anna Hoeber, April (UK)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakesbiier/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakesbiier/)*

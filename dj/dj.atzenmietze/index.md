@@ -1,6 +1,6 @@
 # Dj.Atzenmietze
 
-Dj.Atzenmietze is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+Dj.Atzenmietze is a Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
 Dj.Atzenmietze is a hardcore artist, with 3 gigs on soundcheck across Berlin. Often billed alongside DJ Steuerhinterziehung, Bélavie and Marcie. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
@@ -19,4 +19,4 @@ Dj.Atzenmietze is a hardcore artist, with 3 gigs on soundcheck across Berlin. Of
 
 DJ Steuerhinterziehung, Bélavie, Marcie (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.atzenmietze/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.atzenmietze/)*

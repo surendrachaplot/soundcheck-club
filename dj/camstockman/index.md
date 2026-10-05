@@ -1,14 +1,13 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at 528 Ibiza, Ibiza on Sun, 4 Oct 2026.
+Cam Stockman is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Tommy Phillips, Gaskin and Jamback. Next up: 528 Ibiza, Ibiza on Sun 4 Oct.
+Cam Stockman is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Tommy Phillips, Gaskin and Jamback. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Thu, 15 Oct 2026 | Sub Club | Glasgow |
 | Fri, 16 Oct 2026 | Cabaret Voltaire | Edinburgh |
@@ -20,9 +19,11 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 73 g
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Coda | Toronto |
+| Sat, 5 Dec 2026 | Descent | Boston |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza · Sun, 4 Oct 2026
 - The Nest, Nottingham · Sat, 3 Oct 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
 - [UNVRS], Ibiza · Wed, 23 Sept 2026
@@ -30,10 +31,9 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 73 g
 - Electric Studios, Sheffield · Fri, 18 Sept 2026
 - Mint Warehouse, Leeds · Sun, 30 Aug 2026
 - Mint Warehouse, Leeds · Sun, 30 Aug 2026
-- 93 Feet East, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Tommy Phillips, Gaskin, Jamback
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

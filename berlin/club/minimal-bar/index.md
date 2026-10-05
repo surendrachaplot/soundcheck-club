@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "lazy.sunday mit Mario Lauriano" on Sun, 4 Oct 2026.
+Minimal Bar is a music venue in Berlin with 85 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "manic.monday mit Hunscha" on Mon, 5 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CL-ljud and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | lazy.sunday mit Mario Lauriano | Mario Lauriano |
 | Mon, 5 Oct 2026 | manic.monday mit Hunscha |  |
 | Tue, 6 Oct 2026 | go.play mit Foly | Foly |
 | Wed, 7 Oct 2026 | mittendrin mit Gazztel |  |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, w
 | Sun, 11 Oct 2026 | lazy.sunday mit Yakov | Yakov |
 | Mon, 12 Oct 2026 | manic.monday mit VALENCE  | VALENCE |
 | Tue, 13 Oct 2026 | go.play mit Pablo Cornejo (Chile) | Pablo Cornejo |
+| Wed, 14 Oct 2026 | mittendrin mit Beshy | Beshy |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

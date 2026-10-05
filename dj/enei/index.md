@@ -1,8 +1,8 @@
 # Enei
 
-Enei is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 23 Oct 2026.
+Enei is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 23 Oct 2026.
 
-Enei is a drum & bass and jungle artist based in Russia, with 54 gigs on soundcheck across Amsterdam, Berlin, Boston and Brighton and 22 more. Often billed alongside Kasra, Jakes and Envy. Next up: Le Rex de Toulouse, Toulouse on Fri 23 Oct.
+Enei is a drum & bass and jungle artist based in Russia, with 54 gigs on soundcheck across Amsterdam, Berlin, Boston and Brighton and 22 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: Le Rex de Toulouse, Toulouse on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Enei is a drum & bass and jungle artist based in Russia, with 54 gigs on soundch
 
 ## Shares bills with
 
-Kasra, Jakes, Envy
+Kasra, Jakes, EN:VY
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*

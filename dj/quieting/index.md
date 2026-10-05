@@ -1,6 +1,6 @@
 # Quieting
 
-Quieting is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Quarry, Liverpool on Fri, 30 Oct 2026.
+Quieting is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Quarry, Liverpool on Fri, 30 Oct 2026.
 
 Quieting is an experimental and electronica artist based in United Kingdom, with 4 gigs on soundcheck across Liverpool and London. Often billed alongside Dhangsha, Paula Salurand and Rrose. Next up: Quarry, Liverpool on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Quieting is an experimental and electronica artist based in United Kingdom, with
 
 Dhangsha, Paula Salurand, Rrose
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quieting/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quieting/)*

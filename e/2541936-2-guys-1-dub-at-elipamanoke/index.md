@@ -1,11 +1,18 @@
 # 2 Guys 1 Dub at elipamanoke
 
-2 Guys 1 Dub at elipamanoke on Sat 10 Oct, Leipzig. Drum & Bass. See the line-up on soundcheck.
+2 Guys 1 Dub at elipamanoke on Sat 10 Oct, Leipzig. 4 artists: Grawinkel, Hemilotl, Stella and Tr One. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 10 Oct 2026 |
 | Venue | elipamanoke |
 | City | Leipzig |
+
+## Line-up
+
+- Grawinkel
+- Hemilotl
+- Stella (2)
+- Tr One
 
 *Source: [soundcheck](https://soundcheck.club/e/2541936-2-guys-1-dub-at-elipamanoke/)*

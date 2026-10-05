@@ -1,14 +1,15 @@
 # Karolanne
 
-Karolanne is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Promenaden Eck, Berlin on Fri, 9 Oct 2026.
+Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Promenaden Eck, Berlin on Fri, 9 Oct 2026.
 
-Karolanne is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Levandream, Alexis Alien and BIJI ON DECKS. Next up: Promenaden Eck, Berlin on Fri 9 Oct.
+Karolanne is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Levandream, RichBeat and ASTRANA. Next up: Promenaden Eck, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Promenaden Eck | Berlin |
+| Fri, 13 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Karolanne is a techno and trance artist based in Germany, with 3 gigs on soundch
 
 ## Shares bills with
 
-Levandream, Alexis Alien, BIJI ON DECKS
+Levandream, RichBeat, ASTRANA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*

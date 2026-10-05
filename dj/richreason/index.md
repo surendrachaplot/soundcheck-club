@@ -1,8 +1,8 @@
 # Rich Reason
 
-Rich Reason is a Garage and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
+Rich Reason is a Garage and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
 
-Rich Reason is a garage and disco artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bristol, Istanbul and Leeds and 4 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Şahika, Istanbul on Fri 23 Oct.
+Rich Reason is a garage and disco artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Bristol, Istanbul and Leeds and 4 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Şahika, Istanbul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Rich Reason is a garage and disco artist based in United Kingdom, with 172 gigs 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Şahika | Istanbul |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
+| Thu, 29 Oct 2026 | Yes | Manchester |
+| Fri, 30 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Rich Reason is a garage and disco artist based in United Kingdom, with 172 gigs 
 
 LARISHKA (UK), T-Man (UK), Chunky
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*

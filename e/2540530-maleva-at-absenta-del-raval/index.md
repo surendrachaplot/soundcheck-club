@@ -1,6 +1,6 @@
 # Maleva at Absenta del Raval
 
-Maleva at Absenta del Raval on Fri 16 Oct, Barcelona. 1 artist: Cucumelo. Tech House and Reggaeton. See the line-up on soundcheck.
+Maleva at Absenta del Raval on Fri 16 Oct, Barcelona. 2 artists: Cucumelo and Fera. Tech House and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Maleva at Absenta del Raval on Fri 16 Oct, Barcelona. 1 artist: Cucumelo. Tech H
 ## Line-up
 
 - Cucumelo
+- Fera
 
 *Source: [soundcheck](https://soundcheck.club/e/2540530-maleva-at-absenta-del-raval/)*

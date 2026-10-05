@@ -1,8 +1,8 @@
 # Mary-chan
 
-Mary-chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Azumaya, Tokyo on Tue, 6 Oct 2026.
+Mary-chan is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Azumaya, Tokyo on Tue, 6 Oct 2026.
 
-Mary-chan is a house and techno artist based in Japan, with 47 gigs on soundcheck across Seoul and Tokyo. Often billed alongside AY, O.Goo and Chrumi. Next up: Azumaya, Tokyo on Tue 6 Oct.
+Mary-chan is a house and techno artist based in Japan, with 48 gigs on soundcheck across Seoul and Tokyo. Often billed alongside AY, O.Goo and TAKUTO. Next up: Azumaya, Tokyo on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mary-chan is a house and techno artist based in Japan, with 47 gigs on soundchec
 | --- | --- | --- |
 | Tue, 6 Oct 2026 | Azumaya | Tokyo |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
+| Sun, 25 Oct 2026 | Tabula Rasa | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mary-chan is a house and techno artist based in Japan, with 47 gigs on soundchec
 
 ## Shares bills with
 
-AY (10), O.Goo, Chrumi
+AY (10), O.Goo, TAKUTO (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*

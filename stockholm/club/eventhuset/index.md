@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DJ Godfather >> Psykoterapi >> OSO >> Nous Klear at BRONX Sthlm" on Sat, 10 Oct 2026.
+Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "DJ Godfather >> Psykoterapi >> OSO >> Nous Klear at BRONX Sthlm" on Sat, 10 Oct 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -21,4 +21,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, 
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

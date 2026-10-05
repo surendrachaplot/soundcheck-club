@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Logan D is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Logan D is a drum & bass and jungle artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 9 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 48 gigs
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

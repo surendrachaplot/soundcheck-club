@@ -1,6 +1,6 @@
 # p44olo
 
-p44olo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Weekend, Berlin on Fri, 30 Oct 2026.
+p44olo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Weekend, Berlin on Fri, 30 Oct 2026.
 
 p44olo is a house and electro artist, with 4 gigs on soundcheck across Berlin. Often billed alongside MIKA G, Enis Asfah and A.M.. Next up: Weekend, Berlin on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ p44olo is a house and electro artist, with 4 gigs on soundcheck across Berlin. O
 
 MIKA G, Enis Asfah, A.M. (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p44olo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p44olo/)*

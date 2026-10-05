@@ -1,6 +1,6 @@
 # Mark Ambrose
 
-Mark Ambrose is a Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Mark Ambrose is a Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
 Mark Ambrose is a minimal techno artist, with 4 gigs on soundcheck across Amsterdam, Barcelona and Bucharest. Often billed alongside Aubrey, Central and Deckard. Next up: ingang, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Mark Ambrose is a minimal techno artist, with 4 gigs on soundcheck across Amster
 
 Aubrey, Central, Deckard
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markambrose/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markambrose/)*

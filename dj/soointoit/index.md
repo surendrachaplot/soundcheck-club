@@ -1,14 +1,13 @@
 # Soo Intoit
 
-Soo Intoit is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Soo Intoit is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sugar Hill Disco, New York City on Tue, 6 Oct 2026.
 
-Soo Intoit is a techno and club artist based in United States of America, with 112 gigs on soundcheck across Boston, Chicago, New York City and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+Soo Intoit is a techno and club artist based in United States of America, with 112 gigs on soundcheck across Boston, Chicago, New York City and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: Sugar Hill Disco, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Tue, 6 Oct 2026 | Sugar Hill Disco | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Soo Intoit is a techno and club artist based in United States of America, with 1
 
 Xana 101, Sailor Malice, Sp3cial K
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*

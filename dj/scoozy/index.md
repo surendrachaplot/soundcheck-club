@@ -1,6 +1,6 @@
 # Scoozy
 
-Scoozy is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
+Scoozy is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
 
 Scoozy is a house and trance artist based in Germany, with 4 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Talia Dorr, 3LEEZA and 5euroGoldi. Next up: Südpol, Hamburg on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Scoozy is a house and trance artist based in Germany, with 4 gigs on soundcheck 
 
 Talia Dorr, 3LEEZA, 5euroGoldi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scoozy/)*

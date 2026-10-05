@@ -1,6 +1,6 @@
 # Pins 'N Needles
 
-Pins 'N Needles is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
+Pins 'N Needles is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
 
 Pins 'N Needles is a tech house and techno artist, with 4 gigs on soundcheck across Melbourne. Often billed alongside Bex, Activator (AU) and Bambi (FR). Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Pins 'N Needles is a tech house and techno artist, with 4 gigs on soundcheck acr
 
 Bex, Activator (AU), Bambi (FR)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinsnneedles/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinsnneedles/)*

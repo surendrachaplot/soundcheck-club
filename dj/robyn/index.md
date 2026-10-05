@@ -1,6 +1,6 @@
 # Robyn
 
-Robyn is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Robyn is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Robyn is an electro and house artist based in Sweden, with 5 gigs on soundcheck across Berlin, London, Paris and San Francisco/Oakland and 1 more. Often billed alongside Kelela, ALISHA and Airwolf Paradise. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Robyn is an electro and house artist based in Sweden, with 5 gigs on soundcheck 
 
 Kelela, ALISHA, Airwolf Paradise
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robyn/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robyn/)*

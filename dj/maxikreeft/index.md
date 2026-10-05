@@ -1,6 +1,6 @@
 # Maxi Kreeft
 
-Maxi Kreeft is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri, 9 Oct 2026.
+Maxi Kreeft is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri, 9 Oct 2026.
 
 Maxi Kreeft is a house artist, with 5 gigs on soundcheck across Hamburg. Often billed alongside Alith Berndarn and Wachtigall. Next up: Café Rosa & bar Blau by Kultur&gut, Hamburg on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Maxi Kreeft is a house artist, with 5 gigs on soundcheck across Hamburg. Often b
 
 Alith Berndarn, Wachtigall
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxikreeft/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxikreeft/)*

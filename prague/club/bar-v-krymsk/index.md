@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "MARS" on Thu, 8 Oct 2026.
+Bar v Krymský is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "MARS" on Thu, 8 Oct 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Cubik, Diome, Dj Wash! and Javas and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
 
@@ -23,4 +23,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 11 upcoming gigs
 
 Krymská 21, Praha, Prague
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

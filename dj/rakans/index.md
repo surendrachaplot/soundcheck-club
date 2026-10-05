@@ -1,13 +1,14 @@
 # Rakans
 
-Rakans is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Rakans is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at FLUCC, Vienna on Sat, 7 Nov 2026.
 
-Rakans is a techno and house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: OST, Berlin on Thu 31 Dec.
+Rakans is a techno and house artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: FLUCC, Vienna on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | FLUCC | Vienna |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rakans is a techno and house artist based in Germany, with 105 gigs on soundchec
 
 VINVAR, Deepneue, The Lady Machine
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

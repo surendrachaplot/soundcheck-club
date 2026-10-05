@@ -1,14 +1,13 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "La Onda X 42M (LUMIÈRE, Alyhas B2B Luke Seager, Agus Barbei)" on Sun, 4 Oct 2026.
+42 Marches is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Daniel Wang X Les Yeux Orange X Boogie Frizzante" on Fri, 9 Oct 2026.
 
-42 Marches is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including AGUSTIN BARBEI, Alyhas, Anas. and Barée Masse and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
+42 Marches is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including AGUSTIN BARBEI, Anas., Barée Masse and Charonne and 2 more. See dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | La Onda X 42M (LUMIÈRE, Alyhas B2B Luke Seager, Agus Barbei) | AGUSTIN BARBEI, Alyhas, Luke Seager, Lumiere |
 | Fri, 9 Oct 2026 | Daniel Wang X Les Yeux Orange X Boogie Frizzante | Daniel Wang, Les Yeux Orange, Luksek |
 | Fri, 16 Oct 2026 | Night + After - Deepsea Grooves Invite Sibil B2b Charonne | AGUSTIN BARBEI, Barée Masse, Charonne, Sibil (1) |
 | Sat, 31 Oct 2026 | Cyberpunk Halloween | Anas., Chtak., Djé Djé from the block, Spicy Sofi, Vigilance Zero |
@@ -17,4 +16,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

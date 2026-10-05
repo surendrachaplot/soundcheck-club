@@ -1,6 +1,6 @@
 # CHILDISH BAMBINO
 
-CHILDISH BAMBINO is a Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
+CHILDISH BAMBINO is a Bass and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
 
 CHILDISH BAMBINO is a bass and footwork artist based in Turkey, with 4 gigs on soundcheck across Berlin. Often billed alongside KaraKara, Comf and Forward Sisters. Next up: Acud Macht NEU, Berlin on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ CHILDISH BAMBINO is a bass and footwork artist based in Turkey, with 4 gigs on s
 
 KaraKara, Comf, Forward Sisters
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childishbambino/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childishbambino/)*

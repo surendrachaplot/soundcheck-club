@@ -1,8 +1,8 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "HOUSE QUEENS" on Thu, 8 Oct 2026.
+Tausend is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "HOUSE QUEENS" on Thu, 8 Oct 2026.
 
-Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bombata, Carla Valenti, LIZZN and Mambi Dexter and 1 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
+Tausend is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Bombata, Carla Valenti, Butterhands and LIZZN and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
 ## What's on
 
@@ -12,10 +12,12 @@ Tausend is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with l
 | Fri, 9 Oct 2026 | Tausend House: Carla Valenti | Carla Valenti |
 | Sat, 10 Oct 2026 | Tausend House: Tommes K. Brandt | Tommes K. Brandt |
 | Wed, 14 Oct 2026 | Tausend Live: Olla & The Groove Markers |  |
+| Thu, 15 Oct 2026 | Tausend Electronica: Butterhands | Butterhands |
+| Sat, 17 Oct 2026 | Tausend House: Shir Khan | Shir Khan |
 | Fri, 23 Oct 2026 | The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler | Bombata, Mambi Dexter |
 
 ## Address
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

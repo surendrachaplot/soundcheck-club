@@ -1,6 +1,6 @@
 # jb sport
 
-jb sport is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Greyhound, London on Fri, 13 Nov 2026.
+jb sport is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Greyhound, London on Fri, 13 Nov 2026.
 
 jb sport is a techno and dub techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside FRNTLEFT, flxclxc and DJ Tutorial. Next up: The Greyhound, London on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ jb sport is a techno and dub techno artist based in United Kingdom, with 4 gigs 
 
 FRNTLEFT, flxclxc, DJ Tutorial
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jbsport/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jbsport/)*

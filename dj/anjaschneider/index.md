@@ -1,6 +1,6 @@
 # Anja Schneider
 
-Anja Schneider is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Berliner Dom, Berlin on Thu, 15 Oct 2026.
+Anja Schneider is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Berliner Dom, Berlin on Thu, 15 Oct 2026.
 
 Anja Schneider is a techno and house artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Berliner Dom, Berlin on Thu 15 Oct.
 
@@ -31,4 +31,4 @@ Anja Schneider is a techno and house artist based in Germany, with 145 gigs on s
 
 Radio Slave, Cassy, Foolik
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*

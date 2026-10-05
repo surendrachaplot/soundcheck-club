@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
+Martin Ka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Odonien, Cologne on Sat, 14 Nov 2026.
 
 Martin Ka is a techno and house artist based in Germany, with 66 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Odonien, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Martin Ka is a techno and house artist based in Germany, with 66 gigs on soundch
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

@@ -1,6 +1,6 @@
 # Greta Los
 
-Greta Los is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Greta Los is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 Greta Los is a house and dub artist based in Italy, with 4 gigs on soundcheck across Barcelona, Brussels and Naples. Often billed alongside Adi, Ale Hope and Anna Wall. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -20,4 +20,4 @@ Greta Los is a house and dub artist based in Italy, with 4 gigs on soundcheck ac
 
 Adi, Ale Hope, Anna Wall
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalos/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalos/)*

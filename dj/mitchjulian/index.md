@@ -1,6 +1,6 @@
 # Mitch Julian
 
-Mitch Julian is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chin Chin Club, Amsterdam on Fri, 23 Oct 2026.
+Mitch Julian is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chin Chin Club, Amsterdam on Fri, 23 Oct 2026.
 
 Mitch Julian is a house and tech house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside ROOX, Cees and Chopper. Next up: Chin Chin Club, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Mitch Julian is a house and tech house artist based in Netherlands, with 8 gigs 
 
 ROOX, Cees, Chopper
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchjulian/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchjulian/)*

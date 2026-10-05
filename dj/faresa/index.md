@@ -1,6 +1,6 @@
 # Farès A.
 
-Farès A. is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Farès A. is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Farès A. is an electronic artist, with 5 gigs on soundcheck across Berlin, Paris and Tunisia. Often billed alongside Chtak., HearThug and Lowris. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Farès A. is an electronic artist, with 5 gigs on soundcheck across Berlin, Pari
 
 Chtak., HearThug, Lowris
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faresa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faresa/)*

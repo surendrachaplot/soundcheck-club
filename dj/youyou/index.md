@@ -1,6 +1,6 @@
 # youyou
 
-youyou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
+youyou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
 youyou is a techno and electro artist based in Algeria, with 5 gigs on soundcheck across Bristol, London and New York City. Often billed alongside Berwick (Live), DJ ADHD and EDFX. Next up: Planet Wax, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ youyou is a techno and electro artist based in Algeria, with 5 gigs on soundchec
 
 Berwick (Live), DJ ADHD, EDFX (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou/)*

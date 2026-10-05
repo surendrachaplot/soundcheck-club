@@ -1,6 +1,6 @@
 # Felis Beātus
 
-Felis Beātus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Felis Beātus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
 Felis Beātus is a house and deep house artist based in Brazil, with 5 gigs on soundcheck across Miami, Tampa Bay and Washington DC. Often billed alongside Diana NC, Hugh Malo and MAXIMILIANO (US). Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Felis Beātus is a house and deep house artist based in Brazil, with 5 gigs on s
 
 Diana NC, Hugh Malo, MAXIMILIANO (US)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*

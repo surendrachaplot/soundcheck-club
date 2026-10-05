@@ -1,13 +1,14 @@
 # caLLy
 
-caLLy is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+caLLy is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
 
-caLLy is a minimal and minimal techno artist, with 30 gigs on soundcheck across Barcelona, Bucharest, Geneva and Ibiza and 5 more. Often billed alongside Gescu, BILA and Mihigh. Next up: Marshall Arena, South East on Sat 7 Nov.
+caLLy is a minimal and minimal techno artist, with 31 gigs on soundcheck across Barcelona, Bucharest, Geneva and Ibiza and 5 more. Often billed alongside Gescu, BILA and Mihigh. Next up: The Old Firestation, South East on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Old Firestation | South-east |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
 
 ## Recently played
@@ -25,4 +26,4 @@ caLLy is a minimal and minimal techno artist, with 30 gigs on soundcheck across 
 
 Gescu, BILA, Mihigh
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cally/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cally/)*

@@ -1,6 +1,6 @@
 # Ploy
 
-Ploy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 17 Oct 2026.
+Ploy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 17 Oct 2026.
 
 Ploy is a techno and house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: Radio Radio, Amsterdam on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Ploy is a techno and house artist based in United Kingdom, with 128 gigs on soun
 
 Batu, Parris, Ayesha
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

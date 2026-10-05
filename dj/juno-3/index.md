@@ -1,6 +1,6 @@
 # JUNO (3)
 
-JUNO (3) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at OST, Berlin on Sat, 10 Oct 2026.
+JUNO (3) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at OST, Berlin on Sat, 10 Oct 2026.
 
 JUNO is a techno and acid artist based in United Kingdom, with 5 gigs on soundcheck across Belgrade and Berlin. Often billed alongside ACIDG, AGAINS7 and ANASTASÍA. Next up: OST, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ JUNO is a techno and acid artist based in United Kingdom, with 5 gigs on soundch
 
 ACIDG, AGAINS7, ANASTASÍA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-3/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-3/)*

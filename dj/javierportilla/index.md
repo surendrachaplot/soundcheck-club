@@ -1,6 +1,6 @@
 # Javier Portilla
 
-Javier Portilla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
+Javier Portilla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 9 Oct 2026.
 
 Javier Portilla is a trance and techno artist, with 5 gigs on soundcheck across Barcelona, Berlin and Zurich. Often billed alongside Martin Cozar, Adi Dassler and Da Simurgh. Next up: Der Weiße Hase, Berlin on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Javier Portilla is a trance and techno artist, with 5 gigs on soundcheck across 
 
 Martin Cozar, Adi Dassler, Da Simurgh
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierportilla/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierportilla/)*

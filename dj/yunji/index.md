@@ -1,6 +1,6 @@
 # YUNJI
 
-YUNJI is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cakeshop, Seoul on Fri, 9 Oct 2026.
+YUNJI is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cakeshop, Seoul on Fri, 9 Oct 2026.
 
 YUNJI is a club and house artist based in South Korea, with 34 gigs on soundcheck across Barcelona, London, Paris and Seoul and 3 more. Often billed alongside Coziest, 2SPADE and Better. Next up: Cakeshop, Seoul on Fri 9 Oct.
 
@@ -13,6 +13,7 @@ YUNJI is a club and house artist based in South Korea, with 34 gigs on soundchec
 
 ## Recently played
 
+- Space Nodeul K, Seoul · Sun, 4 Oct 2026
 - Bolero, Seoul · Fri, 24 Jul 2026
 - Paral•lel 62, Barcelona · Wed, 24 Jun 2026
 - Colour Factory, London · Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ YUNJI is a club and house artist based in South Korea, with 34 gigs on soundchec
 - UNDERCITY, Seoul · Fri, 13 Feb 2026
 - Grain Haus, Seoul · Sat, 7 Feb 2026
 - Cakeshop, Seoul · Sat, 17 Jan 2026
-- UNDERCITY, Seoul · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Coziest, 2SPADE, Better
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunji/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunji/)*

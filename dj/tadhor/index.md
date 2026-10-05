@@ -1,6 +1,6 @@
 # tadhor
 
-tadhor is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at PINK, Manchester on Fri, 6 Nov 2026.
+tadhor is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at PINK, Manchester on Fri, 6 Nov 2026.
 
 tadhor is an experimental and ambient artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Rosabella, Adrian Steele and KD22LR. Next up: PINK, Manchester on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ tadhor is an experimental and ambient artist based in United Kingdom, with 4 gig
 
 Rosabella, Adrian Steele, KD22LR
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhor/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhor/)*

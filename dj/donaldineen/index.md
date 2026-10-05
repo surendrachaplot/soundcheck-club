@@ -1,6 +1,6 @@
 # Donal Dineen
 
-Donal Dineen is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+Donal Dineen is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 Donal Dineen is a club and experimental artist based in Ireland, with 3 gigs on soundcheck across Dublin. Often billed alongside Alba, Billy Scurry and Chord Memory. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Donal Dineen is a club and experimental artist based in Ireland, with 3 gigs on 
 
 Alba (2), Billy Scurry, Chord Memory
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldineen/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldineen/)*

@@ -1,13 +1,14 @@
 # Ezekiel
 
-Ezekiel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
+Ezekiel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Skin Club, Madrid on Sat, 10 Oct 2026.
 
-Ezekiel is a techno and house artist based in Spain, with 5 gigs on soundcheck across London and Madrid. Often billed alongside Daddy Squad, Buday and Cardiac. Next up: Skin Club, Madrid on Sat 21 Nov.
+Ezekiel is a techno and house artist based in Spain, with 6 gigs on soundcheck across London and Madrid. Often billed alongside Daddy Squad, Buday and Cardiac. Next up: Skin Club, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Skin Club | Madrid |
 | Sat, 21 Nov 2026 | Skin Club | Madrid |
 
 ## Recently played
@@ -21,4 +22,4 @@ Ezekiel is a techno and house artist based in Spain, with 5 gigs on soundcheck a
 
 Daddy Squad, Buday, Cardiac
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*

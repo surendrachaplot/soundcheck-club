@@ -1,6 +1,6 @@
 # Nyokabi Kariũki
 
-Nyokabi Kariũki is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Kölner Philharmonie, Cologne on Thu, 26 Nov 2026.
+Nyokabi Kariũki is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Kölner Philharmonie, Cologne on Thu, 26 Nov 2026.
 
 Nyokabi Kariũki is an experimental and downtempo artist based in Kenya, with 4 gigs on soundcheck across Berlin, Cologne, The Hague and Utrecht. Often billed alongside AKA HEX, Able Noise and Aho Ssan. Next up: Kölner Philharmonie, Cologne on Thu 26 Nov.
 
@@ -20,4 +20,4 @@ Nyokabi Kariũki is an experimental and downtempo artist based in Kenya, with 4 
 
 AKA HEX, Able Noise, Aho Ssan
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyokabikariuki/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyokabikariuki/)*

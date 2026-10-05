@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Circolo Amelia, Milan on Sat, 10 Oct 2026.
+Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Circolo Amelia, Milan on Sat, 10 Oct 2026.
 
 Noizar is a techno and house artist based in Ukraine, with 119 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Shakolin, Karine and Marie K. Next up: Circolo Amelia, Milan on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist based in Ukraine, with 119 gigs on soundchec
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

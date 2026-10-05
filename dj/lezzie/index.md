@@ -1,6 +1,6 @@
 # Lezzie
 
-Lezzie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Selva NYC, New York City on Tue, 6 Oct 2026.
+Lezzie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Selva NYC, New York City on Tue, 6 Oct 2026.
 
 Lezzie is a techno and club artist, with 4 gigs on soundcheck across New York City. Often billed alongside LYDO, elle xxo and sola system. Next up: Selva NYC, New York City on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ Lezzie is a techno and club artist, with 4 gigs on soundcheck across New York Ci
 
 LYDO, elle xxo, sola system
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzie/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezzie/)*

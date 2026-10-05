@@ -1,6 +1,6 @@
 # THE PARTYSANS RAVE: BELLA CIAO at Dalston Den
 
-THE PARTYSANS RAVE: BELLA CIAO at Dalston Den on Sat 10 Oct, London. 1 artist: Takenbymarshall. See the line-up on soundcheck.
+THE PARTYSANS RAVE: BELLA CIAO at Dalston Den on Sat 10 Oct, London. 2 artists: Edge <3 and Takenbymarshall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ THE PARTYSANS RAVE: BELLA CIAO at Dalston Den on Sat 10 Oct, London. 1 artist: T
 
 ## Line-up
 
+- Edge <3
 - Takenbymarshall
 
 *Source: [soundcheck](https://soundcheck.club/e/2551295-the-partysans-rave-bella-ciao-at-dalston-den/)*

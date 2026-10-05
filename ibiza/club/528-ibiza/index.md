@@ -1,18 +1,17 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Heavy House Society vs TSZR / Beatport Live" on Sun, 4 Oct 2026.
+528 Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. The next is "PIKES PRESENTS AT 528 CLOSING WITH LAYO & BUSHWACKA" on Tue, 6 Oct 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Boss Priester, Cam Stockman, Daniel Avery and Jennifer Loveless and 2 more. See dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including Daniel Avery, Jennifer Loveless and Layo & Bushwacka!. See dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Heavy House Society vs TSZR / Beatport Live | Boss Priester, Cam Stockman, Job de Jong, Kim April, Mad.Again (2), Sidney Charles |
 | Tue, 6 Oct 2026 | PIKES PRESENTS AT 528 CLOSING WITH LAYO & BUSHWACKA | Daniel Avery, Jennifer Loveless, Layo & Bushwacka! |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

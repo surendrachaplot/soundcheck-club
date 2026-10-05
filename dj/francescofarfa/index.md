@@ -1,8 +1,8 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Francesco Farfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
 
-Francesco Farfa is a house and techno artist based in Italy, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
+Francesco Farfa is a house and techno artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Francesco Farfa is a house and techno artist based in Italy, with 88 gigs on sou
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Discoteca Paradiso | Naples |
 | Sat, 31 Oct 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 14 Nov 2026 | Fabriketa | Sao Paulo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Francesco Farfa is a house and techno artist based in Italy, with 88 gigs on sou
 
 Janina, Alex Picone, Ale Carniel
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

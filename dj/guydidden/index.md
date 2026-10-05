@@ -1,6 +1,6 @@
 # Guy Didden
 
-Guy Didden is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Guy Didden is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 Guy Didden is an electronica and progressive house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Datskie, Estiva and Falden. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Guy Didden is an electronica and progressive house artist based in Netherlands, 
 
 Datskie, Estiva, Falden
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guydidden/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guydidden/)*

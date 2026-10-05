@@ -1,6 +1,6 @@
 # SLUTZ
 
-SLUTZ is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
+SLUTZ is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 14 Oct 2026.
 
 SLUTZ is an electronica and electro artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Alive Girl, DEV and DJ Delish. Next up: Bossa Nova Civic Club, New York City on Wed 14 Oct.
 
@@ -20,4 +20,4 @@ SLUTZ is an electronica and electro artist based in United States of America, wi
 
 Alive Girl, DEV, DJ Delish
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slutz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slutz/)*

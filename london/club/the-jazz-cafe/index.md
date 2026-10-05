@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 52 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "DJ Krush" on Tue, 6 Oct 2026.
+The Jazz Cafe is a music venue in London with 52 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "DJ Krush" on Tue, 6 Oct 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming gigs, with line-ups including AMARI, Clara Rosa, Crackazat and DJ Krush and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming gigs,
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

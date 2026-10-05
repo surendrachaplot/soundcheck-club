@@ -1,6 +1,6 @@
 # Føggeist
 
-Føggeist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
+Føggeist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
 
 Føggeist is a techno and trance artist based in Spain, with 3 gigs on soundcheck across Barcelona and Bucharest. Often billed alongside Gabela, SZABØ and DANCE DIVINE. Next up: Nether Club, Bucharest on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Føggeist is a techno and trance artist based in Spain, with 3 gigs on soundchec
 
 Gabela, SZABØ, DANCE DIVINE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foggeist/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foggeist/)*

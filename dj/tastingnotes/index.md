@@ -1,6 +1,6 @@
 # Tasting Notes
 
-Tasting Notes is a Minimal Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Minimal Bar, Berlin on Sun, 15 Nov 2026.
+Tasting Notes is a Minimal Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Minimal Bar, Berlin on Sun, 15 Nov 2026.
 
 Tasting Notes is a minimal techno and bass artist, with 4 gigs on soundcheck across Berlin, Copenhagen and Washington DC. Often billed alongside Alyssa (Mtl), Djoser and Kabir. Next up: Minimal Bar, Berlin on Sun 15 Nov.
 
@@ -20,4 +20,4 @@ Tasting Notes is a minimal techno and bass artist, with 4 gigs on soundcheck acr
 
 Alyssa (Mtl), Djoser, Kabir
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tastingnotes/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tastingnotes/)*

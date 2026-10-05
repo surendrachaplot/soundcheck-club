@@ -1,6 +1,6 @@
 # KhoMha
 
-KhoMha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+KhoMha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 KhoMha is a techno and trance artist, with 4 gigs on soundcheck across Medellin, Miami, San Francisco/Oakland and Toronto. Often billed alongside Diossa, AISHA and ANNA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ KhoMha is a techno and trance artist, with 4 gigs on soundcheck across Medellin,
 
 Diossa, AISHA, ANNA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khomha/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khomha/)*

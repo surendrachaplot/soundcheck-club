@@ -1,13 +1,14 @@
 # Simon TK
 
-Simon TK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Miscellania, Melbourne on Fri, 16 Oct 2026.
+Simon TK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 10 Oct 2026.
 
-Simon TK is a house and techno artist based in Australia, with 38 gigs on soundcheck across Bangkok, Berlin, Hobart and Hong Kong and 3 more. Often billed alongside Hannah D, Edd Fisher and Activator (AU). Next up: Miscellania, Melbourne on Fri 16 Oct.
+Simon TK is a house and techno artist based in Australia, with 39 gigs on soundcheck across Bangkok, Berlin, Hobart and Hong Kong and 3 more. Often billed alongside Hannah D, Edd Fisher and Activator (AU). Next up: Angel Music Bar, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 16 Oct 2026 | Miscellania | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Simon TK is a house and techno artist based in Australia, with 38 gigs on soundc
 
 Hannah D, Edd Fisher, Activator (AU)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*

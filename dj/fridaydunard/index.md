@@ -1,6 +1,6 @@
 # Friday Dunard
 
-Friday Dunard is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Open Ground, Wuppertal on Sat, 31 Oct 2026.
+Friday Dunard is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Open Ground, Wuppertal on Sat, 31 Oct 2026.
 
 Friday Dunard is an electronic artist based in Germany, with 3 gigs on soundcheck across Cologne and Wuppertal. Often billed alongside DJ Brom, BROM and Belia Winnewisser. Next up: Open Ground, Wuppertal on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Friday Dunard is an electronic artist based in Germany, with 3 gigs on soundchec
 
 DJ Brom, BROM, Belia Winnewisser
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridaydunard/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fridaydunard/)*

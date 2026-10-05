@@ -1,6 +1,6 @@
 # DJ Hitwave
 
-DJ Hitwave is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
+DJ Hitwave is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
 DJ Hitwave is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside April (UK), BIJI ON DECKS and BOOTHBUNNY. Next up: Sensorium, Berlin on Wed 7 Oct.
 
@@ -19,4 +19,4 @@ DJ Hitwave is a techno and trance artist based in Germany, with 3 gigs on soundc
 
 April (UK), BIJI ON DECKS, BOOTHBUNNY
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*

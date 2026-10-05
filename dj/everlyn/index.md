@@ -1,6 +1,6 @@
 # Everlyn
 
-Everlyn is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Everlyn is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
 Everlyn is an electronic artist, with 3 gigs on soundcheck across Athens. Often billed alongside Alexander Skancke, Anatolian Weapons and Anna Vs June. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Everlyn is an electronic artist, with 3 gigs on soundcheck across Athens. Often 
 
 Alexander Skancke, Anatolian Weapons, Anna Vs June
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/everlyn/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/everlyn/)*

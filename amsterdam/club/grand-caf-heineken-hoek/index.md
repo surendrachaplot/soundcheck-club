@@ -1,8 +1,8 @@
 # Grand Café Heineken Hoek
 
-Grand Café Heineken Hoek is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Showcase Kokolores x ADE" on Wed, 21 Oct 2026.
+Grand Café Heineken Hoek is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Showcase Kokolores x ADE" on Wed, 21 Oct 2026.
 
-Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Angelo Ferreri, Becking, Black Legend and Charlie Brown and 2 more. See dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
+Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Bohemien, Angelo Ferreri, Becking and Black Legend and 2 more. See dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
 
 ## What's on
 
@@ -15,11 +15,12 @@ Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 9 
 | Thu, 22 Oct 2026 | ApuliArt DJ School ADE Showcase | Gabriele Congedo |
 | Fri, 23 Oct 2026 | HouseU Party Amsterdam ADE |  |
 | Fri, 23 Oct 2026 | HouseU Amsterdam x ADE | Angelo Ferreri, Mattei & Omich, ROOG |
+| Fri, 23 Oct 2026 | HOUSEYOUNITE PRESENTS DROP & CONNECT x ADE | David Penn |
+| Fri, 23 Oct 2026 | DEEPINTHERHYTHM x ADE |  |
 | Sat, 24 Oct 2026 | STARGUARDZ x ADE | Erick E |
-| Sat, 24 Oct 2026 | Only 4DJS x ADE | Richard Earnshaw, Steve Taylor |
 
 ## Address
 
 Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*

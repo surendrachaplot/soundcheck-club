@@ -1,6 +1,6 @@
 # Luca Dioguardi
 
-Luca Dioguardi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+Luca Dioguardi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
 
 Luca Dioguardi is a house and electronica artist based in Spain, with 4 gigs on soundcheck across Bali, Brisbane and Melbourne. Often billed alongside DHC, DONALD - BIIG_DONNY and Foxtrot. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Luca Dioguardi is a house and electronica artist based in Spain, with 4 gigs on 
 
 DHC, DONALD - BIIG_DONNY, Foxtrot (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadioguardi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadioguardi/)*

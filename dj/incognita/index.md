@@ -1,6 +1,6 @@
 # INCOGNITA
 
-INCOGNITA is a Club and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Vers, Toronto on Sat, 17 Oct 2026.
+INCOGNITA is a Club and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Vers, Toronto on Sat, 17 Oct 2026.
 
 INCOGNITA is a club and amapiano artist, with 21 gigs on soundcheck across Montreal and Toronto. Often billed alongside Chissmiss Cherry, INTROSPKT and Ace Dillinger. Next up: TBA - Vers, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ INCOGNITA is a club and amapiano artist, with 21 gigs on soundcheck across Montr
 
 Chissmiss Cherry, INTROSPKT, Ace Dillinger
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/incognita/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/incognita/)*

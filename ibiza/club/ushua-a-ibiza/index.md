@@ -1,6 +1,6 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY" on Mon, 5 Oct 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY" on Mon, 5 Oct 2026.
 
 Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Butch (JP) and David Guetta and 2 more. See dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
@@ -15,4 +15,4 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, 
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

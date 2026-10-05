@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Disco Tehran Anniversary Party" on Sun, 4 Oct 2026.
+Elsewhere is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Ali RQ and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Disco Tehran Anniversary Party | Arjun Shah, MIRZA, Marco Weibel, Omer Mil, Willy Soul |
 | Fri, 16 Oct 2026 | Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee | JACK MARLOW, Marsolo, Natalia Roth |
 | Fri, 16 Oct 2026 | MIRCHI: Halla, Krithi, MAIYA | Krithi, MAIYA |
 | Sat, 17 Oct 2026 | Tye Turner + ZABAAN presents CLUB CHUTIYA: SRI, ANA.GHA, LILLA, YUVI | LILLA, SRI (1), Tye Turner, YUVI (UA) |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in New York City listed on soundcheck. 16 upcoming gi
 | Sat, 31 Oct 2026 | Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more | Ali RQ, Cannelle, EQ (Estratosfera + Qiri), Isla Den, Petal Supply, RICO RICA |
 | Fri, 6 Nov 2026 | AEREA, Alex Farell | AEREA, Alex Farell |
 | Sat, 7 Nov 2026 | Flava D, Smokey Bubblin' B | Flava D, Smokey Bubblin' B |
+| Fri, 13 Nov 2026 | Cut Copy (dj), Disco Bambino, Kristine Barilli | Cut Copy, Kristine Barilli |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

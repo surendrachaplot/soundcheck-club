@@ -1,6 +1,6 @@
 # Moskalus
 
-Moskalus is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Twist Bar, Prague on Fri, 23 Oct 2026.
+Moskalus is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Twist Bar, Prague on Fri, 23 Oct 2026.
 
 Moskalus is an electronica and latin bass artist, with 5 gigs on soundcheck across Berlin, Hong Kong and Prague. Often billed alongside Mystigrix, C4RLOTTA and Chep. Next up: Twist Bar, Prague on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Moskalus is an electronica and latin bass artist, with 5 gigs on soundcheck acro
 
 Mystigrix, C4RLOTTA, Chep
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moskalus-us/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moskalus-us/)*

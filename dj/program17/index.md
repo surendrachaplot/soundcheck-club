@@ -1,6 +1,6 @@
 # program17
 
-program17 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
+program17 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
 
 program17 is a techno and acid artist, with 4 gigs on soundcheck across Chicago and Detroit. Often billed alongside Augustus Williams, Acidpimp and Rebecca Goldberg. Next up: TBA, Chicago on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ program17 is a techno and acid artist, with 4 gigs on soundcheck across Chicago 
 
 Augustus Williams, Acidpimp, Rebecca Goldberg
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/program17/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/program17/)*

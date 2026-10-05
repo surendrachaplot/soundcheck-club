@@ -1,6 +1,6 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "An Interplanetary Night" on Fri, 9 Oct 2026.
+Bimhuis is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "An Interplanetary Night" on Fri, 9 Oct 2026.
 
 Bimhuis is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Arsenal Mikebe and Martyn. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -21,4 +21,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, wit
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

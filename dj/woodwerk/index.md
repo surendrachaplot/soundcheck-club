@@ -1,6 +1,6 @@
 # Woodwerk
 
-Woodwerk is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at The Greyhound, London on Fri, 16 Oct 2026.
+Woodwerk is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at The Greyhound, London on Fri, 16 Oct 2026.
 
 Woodwerk is a tech house and minimal artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Terry Cotta, D.G. and FIDDI. Next up: The Greyhound, London on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Woodwerk is a tech house and minimal artist based in United Kingdom, with 5 gigs
 
 Terry Cotta, D.G., FIDDI
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodwerk/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodwerk/)*

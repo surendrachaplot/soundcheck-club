@@ -1,6 +1,6 @@
 # Hotswing
 
-Hotswing is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+Hotswing is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
 Hotswing is a tech house and house artist based in Italy, with 5 gigs on soundcheck across Amsterdam, Frankfurt and Naples. Often billed alongside Alex Bohemien, Angelo Ferreri and Antonio Memoli. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Hotswing is a tech house and house artist based in Italy, with 5 gigs on soundch
 
 Alex Bohemien, Angelo Ferreri, Antonio Memoli
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotswing/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotswing/)*

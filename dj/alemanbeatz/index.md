@@ -1,6 +1,6 @@
 # Aleman Beatz
 
-Aleman Beatz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
+Aleman Beatz is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 9 Oct 2026.
 
 Aleman Beatz is a techno and electronica artist based in Spain, with 5 gigs on soundcheck across Barcelona and Madrid. Often billed alongside John Heaven, Nile Fee and 99jakes. Next up: Razzmatazz, Barcelona on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Aleman Beatz is a techno and electronica artist based in Spain, with 5 gigs on s
 
 John Heaven, Nile Fee, 99jakes
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemanbeatz/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alemanbeatz/)*

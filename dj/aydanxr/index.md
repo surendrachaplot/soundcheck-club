@@ -1,6 +1,6 @@
 # Aydan XR
 
-Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Story Toronto, Toronto on Fri, 6 Nov 2026.
+Aydan XR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Story Toronto, Toronto on Fri, 6 Nov 2026.
 
 Aydan XR is a house and tech house artist based in Canada, with 4 gigs on soundcheck across Toronto. Often billed alongside Chloe J, Amoosh and Brian Johnson. Next up: Story Toronto, Toronto on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Aydan XR is a house and tech house artist based in Canada, with 4 gigs on soundc
 
 Chloe J, Amoosh, Brian Johnson
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aydanxr/)*

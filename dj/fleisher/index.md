@@ -1,8 +1,8 @@
 # Fleisher
 
-Fleisher is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Blvck Water, Osaka on Sat, 10 Oct 2026.
+Fleisher is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Blvck Water, Osaka on Sat, 10 Oct 2026.
 
-Fleisher is a techno and drum & bass artist, with 3 gigs on soundcheck across Berlin, New York City and Osaka. Often billed alongside ACID FLORA, AFAR and AVEM. Next up: Blvck Water, Osaka on Sat 10 Oct.
+Fleisher is a techno and industrial artist, with 3 gigs on soundcheck across Berlin, New York City and Osaka. Often billed alongside ACID FLORA, AFAR and AVEM. Next up: Blvck Water, Osaka on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Fleisher is a techno and drum & bass artist, with 3 gigs on soundcheck across Be
 
 ACID FLORA, AFAR, AVEM
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleisher/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleisher/)*

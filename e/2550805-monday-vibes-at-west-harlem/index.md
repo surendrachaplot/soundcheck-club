@@ -1,6 +1,6 @@
 # Monday Vibes at West Harlem
 
-Monday Vibes at West Harlem on Mon 5 Oct, Kyoto. 3 artists: EUREKA, Mario Kassian and Matthias Abe. House and Downtempo. See the line-up on soundcheck.
+Monday Vibes at West Harlem on Mon 5 Oct, Kyoto. 4 artists: Deejay Energy, EUREKA, Mario Kassian and Matthias Abe. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Monday Vibes at West Harlem on Mon 5 Oct, Kyoto. 3 artists: EUREKA, Mario Kassia
 
 ## Line-up
 
+- Deejay Energy
 - EUREKA
 - Mario Kassian
 - Matthias Abe

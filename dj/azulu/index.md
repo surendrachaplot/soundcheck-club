@@ -1,6 +1,6 @@
 # AZULU
 
-AZULU is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+AZULU is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 AZULU is a baile funk and house artist based in Austria, with 4 gigs on soundcheck across Berlin. Often billed alongside Schlecksi, Brian Ring and David Baguetta. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ AZULU is a baile funk and house artist based in Austria, with 4 gigs on soundche
 
 Schlecksi, Brian Ring, David Baguetta
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azulu/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azulu/)*

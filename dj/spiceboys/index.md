@@ -1,6 +1,6 @@
 # Spice Boys
 
-Spice Boys is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Beate Uwe, Berlin on Fri, 6 Nov 2026.
+Spice Boys is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Beate Uwe, Berlin on Fri, 6 Nov 2026.
 
 Spice Boys is a house and italo disco artist, with 4 gigs on soundcheck across Berlin, Liverpool and London. Often billed alongside Carpenter Effect, Zylenth and DJ XZAN. Next up: Beate Uwe, Berlin on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Spice Boys is a house and italo disco artist, with 4 gigs on soundcheck across B
 
 Carpenter Effect, Zylenth, DJ XZAN
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiceboys/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spiceboys/)*

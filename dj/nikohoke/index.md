@@ -1,13 +1,14 @@
 # Niko Hoke
 
-Niko Hoke is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - BluePoint Liege, Belgium on Fri, 30 Oct 2026.
+Niko Hoke is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
-Niko Hoke is a trance and techno artist based in Belgium, with 19 gigs on soundcheck across Belgium and Brussels. Often billed alongside BISOUX, John Gilliot and Maëlle. Next up: TBA - BluePoint Liege, Belgium on Fri 30 Oct.
+Niko Hoke is a trance and techno artist based in Belgium, with 20 gigs on soundcheck across Belgium and Brussels. Often billed alongside ATARAXY, BISOUX and John Gilliot. Next up: Usquare, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Usquare | Brussels |
 | Fri, 30 Oct 2026 | TBA - BluePoint Liege | Belgium |
 
 ## Recently played
@@ -23,6 +24,6 @@ Niko Hoke is a trance and techno artist based in Belgium, with 19 gigs on soundc
 
 ## Shares bills with
 
-BISOUX, John Gilliot, Maëlle
+ATARAXY, BISOUX, John Gilliot
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*

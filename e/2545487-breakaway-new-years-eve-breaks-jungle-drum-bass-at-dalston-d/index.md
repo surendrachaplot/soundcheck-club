@@ -1,6 +1,6 @@
-# Breakaway: New Years Eve -- Breaks / Jungle / Drum & Bass at Dalston Den
+# Breakaway: New Years Eve - Breaks / Jungle / Drum & Bass at Dalston Den
 
-Breakaway: New Years Eve -- Breaks / Jungle / Drum & Bass at Dalston Den on Thu 31 Dec, London. Drum & Bass and Jungle. See the line-up on soundcheck.
+Breakaway: New Years Eve - Breaks / Jungle / Drum & Bass at Dalston Den on Thu 31 Dec, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

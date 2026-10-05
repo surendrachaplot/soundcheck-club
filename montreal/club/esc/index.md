@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "1460BPM x ESC" on Fri, 9 Oct 2026.
+ESC is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "1460BPM x ESC" on Fri, 9 Oct 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including Badgalquirit, Cabanne, Casa Kobrae and CrisseMarqueur and 2 more. See dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -19,4 +19,4 @@ ESC is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with lin
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

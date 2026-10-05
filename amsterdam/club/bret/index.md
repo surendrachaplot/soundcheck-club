@@ -1,26 +1,26 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Jesse G, MARRØN, SHE/HER" on Sun, 4 Oct 2026.
+BRET is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Festen, Mia Cecille b2b Zeynep, Nathan Homan" on Fri, 9 Oct 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Jesse G, MARRØN, SHE/HER | Jesse G, MARRØN, SHE/HER |
 | Fri, 9 Oct 2026 | Festen, Mia Cecille b2b Zeynep, Nathan Homan | Festen, Mia Cecille, Nathan Homan, Zeynep |
 | Wed, 21 Oct 2026 | Lobster Invites - Free ADE Event | Kyra Khaldi, Lobster (NL), Mella Dee, Samuel Deep |
 | Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
 | Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
 | Fri, 23 Oct 2026 | Ogazón invites Freddy K & Rene Wise - ADE | Freddy K, Ogazón, Rene Wise |
 | Fri, 23 Oct 2026 | Anz, SHERELLE & MALLAURY x BRET x ADE | Anz, MALLAURY, SHERELLE |
-| Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  |  |
+| Sat, 24 Oct 2026 | ADE - VBX - SATURDAY DAY  | Cap, Desyn, Grant Dell, H-Foundation, Hannecart, Ion Ludwig, Mayell |
 | Sat, 24 Oct 2026 | DAYCARE x ADE | Bastienne, Mahabe, Phara, Shaleen, Tommy Four Seven |
 | Sun, 25 Oct 2026 | SLPFNK - BRET ADE |  |
+| Sun, 25 Oct 2026 | ADE Sunday with Joseph Capriati | Cristina Lazic, Joseph Capriati |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

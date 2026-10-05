@@ -1,6 +1,6 @@
 # Xavi BCN
 
-Xavi BCN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+Xavi BCN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 Xavi BCN is a techno and hardcore artist based in Spain, with 15 gigs on soundcheck across Barcelona, Madrid and Tokyo. Often billed alongside Ricardo F, Ruben XXL and BreakStyle. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Xavi BCN is a techno and hardcore artist based in Spain, with 15 gigs on soundch
 
 Ricardo F, Ruben XXL, BreakStyle
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*

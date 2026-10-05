@@ -1,18 +1,18 @@
 # ELSA (DE)
 
-ELSA (DE) is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at OHM, Berlin on Sun, 4 Oct 2026.
+ELSA (DE) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
-ELSA (DE) is a techno and dub techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt and Stuttgart. Often billed alongside Ceasul, Tobi Lack and Audrey Danza. Next up: OHM, Berlin on Sun 4 Oct.
+ELSA (DE) is a techno and dub techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt and Stuttgart. Often billed alongside Ceasul, Tobi Lack and Audrey Danza. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | OHM | Berlin |
 | Fri, 9 Oct 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
+- OHM, Berlin · Sun, 4 Oct 2026
 - Romantica, Stuttgart · Sat, 26 Sept 2026
 - Sunny High, Stuttgart · Sat, 12 Sept 2026
 - Tanzhaus West, Frankfurt · Fri, 14 Aug 2026
@@ -25,4 +25,4 @@ ELSA (DE) is a techno and dub techno artist based in Germany, with 9 gigs on sou
 
 Ceasul, Tobi Lack, Audrey Danza
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*

@@ -1,6 +1,6 @@
 # Combo
 
-Combo is a Jazz and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at 88block, Tokyo on Fri, 9 Oct 2026.
+Combo is a Jazz and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at 88block, Tokyo on Fri, 9 Oct 2026.
 
 Combo is a jazz and techno artist based in Sweden, with 3 gigs on soundcheck across Melbourne, Tokyo and Turin. Often billed alongside Clifford, Ernest and Ghosty. Next up: 88block, Tokyo on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Combo is a jazz and techno artist based in Sweden, with 3 gigs on soundcheck acr
 
 Clifford (2), Ernest, Ghosty (1)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/combo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/combo/)*

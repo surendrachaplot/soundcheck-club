@@ -1,8 +1,8 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM" on Thu, 8 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM" on Thu, 8 Oct 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including a51d_with_f, Alex Breitling, ALLKNIGHT and Alycia Bezgo and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 14 upcoming g
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

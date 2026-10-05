@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST)" on Sun, 4 Oct 2026.
+The Greyhound is a music venue in London with 18 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Start Here (Free Entry)" on Thu, 8 Oct 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) | Azire, Vlad Ioachimescu |
 | Thu, 8 Oct 2026 | Start Here (Free Entry) | MF Ceól, Make Money Mafia, VXRGO, karishma, ŌKAMI |
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 19 upcoming gigs,
 | Fri, 30 Oct 2026 | TWO STEP 004 - HALLOWEEN DANCE |  |
 | Sat, 31 Oct 2026 | Slipped Disc ☾ Halloween Party | A.L.F, FITS ME FUNNY, Helios Manoeuvres, Sedex, Stresshead |
 | Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May, Miles J Paralysis |
+| Wed, 11 Nov 2026 | H31R |  |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

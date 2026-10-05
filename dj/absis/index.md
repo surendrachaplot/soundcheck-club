@@ -1,14 +1,15 @@
 # ABSIS
 
-ABSIS is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
+ABSIS is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
 
-ABSIS is a techno and dub techno artist based in Spain, with 60 gigs on soundcheck across Barcelona, Lisbon, New York City and Porto. Often billed alongside Mod.1, Cyklos and Patrick Russell. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
+ABSIS is a techno and dub techno artist based in Spain, with 61 gigs on soundcheck across Barcelona, Lisbon, New York City and Porto and 1 more. Often billed alongside Mod.1, Cyklos and Patrick Russell. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Konvent de Cal Rosal | Barcelona |
+| Fri, 6 Nov 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ABSIS is a techno and dub techno artist based in Spain, with 60 gigs on soundche
 
 Mod.1, Cyklos, Patrick Russell
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absis/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/absis/)*

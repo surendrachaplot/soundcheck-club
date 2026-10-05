@@ -1,6 +1,6 @@
 # DJ Aleksi
 
-DJ Aleksi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Post Bar, Helsinki on Fri, 6 Nov 2026.
+DJ Aleksi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Post Bar, Helsinki on Fri, 6 Nov 2026.
 
 DJ Aleksi is a house and techno artist based in Finland, with 57 gigs on soundcheck across Amsterdam, Copenhagen, Helsinki and Prague and 2 more. Often billed alongside Handshaking, HiToshi and Hanna Ojanen. Next up: Post Bar, Helsinki on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Aleksi is a house and techno artist based in Finland, with 57 gigs on soundch
 
 Handshaking, HiToshi, Hanna Ojanen
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*

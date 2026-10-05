@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Lost Track of Time presents: The Enchanted Forest" on Fri, 9 Oct 2026.
+Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Lost Track of Time presents: The Enchanted Forest" on Fri, 9 Oct 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including C.A.R., Dan Shake, Eksman and Faster Horses and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

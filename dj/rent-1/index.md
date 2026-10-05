@@ -1,6 +1,6 @@
 # Rent (1)
 
-Rent (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at FLUCC, Vienna on Tue, 6 Oct 2026.
+Rent (1) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at FLUCC, Vienna on Tue, 6 Oct 2026.
 
 Rent is an electronic artist based in Austria, with 4 gigs on soundcheck across Vienna. Often billed alongside Angel D'lite, Bapari and Brother of Set. Next up: FLUCC, Vienna on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ Rent is an electronic artist based in Austria, with 4 gigs on soundcheck across 
 
 Angel D'lite, Bapari, Brother of Set
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rent-1/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rent-1/)*

@@ -1,6 +1,6 @@
 # Dudster
 
-Dudster is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
+Dudster is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
 
 Dudster is a minimal and electronica artist, with 3 gigs on soundcheck across Malaga. Often billed alongside Moruki. Next up: Doggy Klœb, Malaga on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Dudster is a minimal and electronica artist, with 3 gigs on soundcheck across Ma
 
 Moruki
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudster/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudster/)*

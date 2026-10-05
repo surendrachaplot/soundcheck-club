@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "KOLLEKTIV: THE REALM" on Sat, 10 Oct 2026.
+2ten is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "KOLLEKTIV: THE REALM" on Sat, 10 Oct 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Emex, George Apergis, Marthe and Mikele and 2 more. See dates, start times and who's playing. Ermou 135, Athens.
 
@@ -15,4 +15,4 @@
 
 Ermou 135, Athens, Athens
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

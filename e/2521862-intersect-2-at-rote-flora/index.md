@@ -1,6 +1,6 @@
 # INTERSECT #2 at Rote Flora
 
-INTERSECT #2 at Rote Flora on Sat 17 Oct, Hamburg. 1 artist: Val Vashar. Techno and Psytrance. See the line-up on soundcheck.
+INTERSECT #2 at Rote Flora on Sat 17 Oct, Hamburg. 2 artists: Rod Hurts and Val Vashar. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INTERSECT #2 at Rote Flora on Sat 17 Oct, Hamburg. 1 artist: Val Vashar. Techno 
 
 ## Line-up
 
+- Rod Hurts
 - Val Vashar
 
 *Source: [soundcheck](https://soundcheck.club/e/2521862-intersect-2-at-rote-flora/)*

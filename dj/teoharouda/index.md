@@ -1,6 +1,6 @@
 # Teo Harouda
 
-Teo Harouda is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Depo Klub, Zagreb on Sat, 24 Oct 2026.
+Teo Harouda is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Depo Klub, Zagreb on Sat, 24 Oct 2026.
 
 Teo Harouda is an electronic artist, with 5 gigs on soundcheck across Amsterdam, Ibiza, London and Zagreb. Often billed alongside Teychee, Robin Hastings and Gina Demarchi. Next up: Depo Klub, Zagreb on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Teo Harouda is an electronic artist, with 5 gigs on soundcheck across Amsterdam,
 
 Teychee, Robin Hastings, Gina Demarchi
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teoharouda/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teoharouda/)*

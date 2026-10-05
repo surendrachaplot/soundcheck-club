@@ -1,6 +1,6 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Red Bar, Tokyo on Sat, 10 Oct 2026.
+Tom Peters is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Red Bar, Tokyo on Sat, 10 Oct 2026.
 
 Tom Peters is a techno and house artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Red Bar, Tokyo on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Tom Peters is a techno and house artist based in Germany, with 108 gigs on sound
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

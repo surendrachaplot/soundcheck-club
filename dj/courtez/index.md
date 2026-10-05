@@ -1,6 +1,6 @@
 # COURTEZ
 
-COURTEZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
+COURTEZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
 
 COURTEZ is a trance and techno artist, with 3 gigs on soundcheck across Glasgow. Often billed alongside SAPHOS, ANGELDOOF and Aileron. Next up: Nico's Bar, Glasgow on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ COURTEZ is a trance and techno artist, with 3 gigs on soundcheck across Glasgow.
 
 SAPHOS, ANGELDOOF, Aileron
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtez/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtez/)*

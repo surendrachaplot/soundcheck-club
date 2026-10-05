@@ -1,6 +1,6 @@
 # George Wight
 
-George Wight is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+George Wight is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
 George Wight is a house and garage artist, with 12 gigs on soundcheck across London. Often billed alongside Tom Da Silva, Jude Lenihan and James Lavelle. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ George Wight is a house and garage artist, with 12 gigs on soundcheck across Lon
 
 Tom Da Silva, Jude Lenihan, James Lavelle (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgewight/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgewight/)*

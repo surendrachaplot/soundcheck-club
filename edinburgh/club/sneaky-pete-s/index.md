@@ -1,14 +1,14 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Postal: ZO3" on Sun, 4 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 27 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "RARE Club // Ben2Ben" on Tue, 6 Oct 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including ACHIRĀ, BORLEY, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 27 upcoming gigs, with line-ups including ACHIRĀ, BORLEY, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Postal: ZO3 | ZO3 (1) |
+| Tue, 6 Oct 2026 | RARE Club // Ben2Ben |  |
 | Wed, 7 Oct 2026 | Andromeda Returns: IZP Vol.2 | Caspar, IZP (1) |
 | Thu, 8 Oct 2026 | Morrison Street with Mass Medium / Club Caviar  |  |
 | Fri, 9 Oct 2026 | mantle: ophélie 𖦹 Feena | Feena, ophélie |
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 26 upcoming gi
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

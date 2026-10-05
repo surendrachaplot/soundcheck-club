@@ -1,14 +1,15 @@
 # Twaankalu
 
-Twaankalu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mood Ring, New York City on Sat, 17 Oct 2026.
+Twaankalu is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Mood Ring, New York City on Sat, 17 Oct 2026.
 
-Twaankalu is a club and house artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Petal, Daniro and Devin Hudson. Next up: Mood Ring, New York City on Sat 17 Oct.
+Twaankalu is a club and house artist based in United States of America, with 17 gigs on soundcheck across Baltimore and New York City. Often billed alongside Petal, Daniro and Devin Hudson. Next up: Mood Ring, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Mood Ring | New York City |
+| Fri, 23 Oct 2026 | The Compound | Baltimore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Twaankalu is a club and house artist based in United States of America, with 16 
 
 Petal, Daniro, Devin Hudson
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*

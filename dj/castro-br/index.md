@@ -1,6 +1,6 @@
 # Castrø
 
-Castrø is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Gare Porto, Porto on Fri, 9 Oct 2026.
+Castrø is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Gare Porto, Porto on Fri, 9 Oct 2026.
 
 Castrø is an electronica and techno artist, with 3 gigs on soundcheck across Porto. Often billed alongside Centrific, KØLPØS and Ricardo P.. Next up: Gare Porto, Porto on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Castrø is an electronica and techno artist, with 3 gigs on soundcheck across Po
 
 Centrific, KØLPØS, Ricardo P.
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castro-br/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castro-br/)*

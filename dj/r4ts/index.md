@@ -1,6 +1,6 @@
 # R4TS
 
-R4TS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
+R4TS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
 R4TS is a techno and hardcore artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, MVCHE and Maul. Next up: TBA, Toronto on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ R4TS is a techno and hardcore artist based in Canada, with 28 gigs on soundcheck
 
 KILL 9 1, MVCHE, Maul (2)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*

@@ -1,6 +1,6 @@
 # Ross Whisper
 
-Ross Whisper is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at WaV, Liverpool on Sat, 17 Oct 2026.
+Ross Whisper is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at WaV, Liverpool on Sat, 17 Oct 2026.
 
 Ross Whisper is a disco and house artist based in United Kingdom, with 4 gigs on soundcheck across Brighton, Ibiza, Liverpool and London. Often billed alongside CENTRL, Dimitri From Paris and Jeff Straw. Next up: WaV, Liverpool on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Ross Whisper is a disco and house artist based in United Kingdom, with 4 gigs on
 
 CENTRL, Dimitri From Paris, Jeff Straw
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswhisper/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswhisper/)*

@@ -1,15 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sun, 4 Oct 2026.
+Supergloss is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Smoke & Mirrors, Chicago on Fri, 9 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Kømplex Lisbon, Lisbon on Sun 4 Oct.
+Supergloss is a techno and trance artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Smoke & Mirrors, Chicago on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
-| Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
 | Fri, 9 Oct 2026 | Smoke & Mirrors | Chicago |
 | Sat, 10 Oct 2026 | Red Rocks Amphitheatre | Colorado |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
@@ -20,20 +18,21 @@ Supergloss is a techno and trance artist based in Germany, with 217 gigs on soun
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
+- Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
+- Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - Nitsa Club, Barcelona · Sat, 26 Sept 2026
 - La Cité Fertile, Paris · Sun, 20 Sept 2026
 - FOLD, London · Sat, 19 Sept 2026
 - 888 Garage, San Francisco/Oakland · Sun, 13 Sept 2026
 - Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
-- Factory Town, Miami · Sun, 6 Sept 2026
-- Industry City, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

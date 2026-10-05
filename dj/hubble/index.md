@@ -1,6 +1,6 @@
 # Hubble
 
-Hubble is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at TBA - Casa Diva' (Sardara), Sardinia on Sat, 10 Oct 2026.
+Hubble is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA - Casa Diva' (Sardara), Sardinia on Sat, 10 Oct 2026.
 
 Hubble is a house and techno artist, with 33 gigs on soundcheck across Austin, Berlin, Paris and Prague and 2 more. Often billed alongside Akatana, Cez and Lenny Mailleau. Next up: TBA - Casa Diva' (Sardara), Sardinia on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Hubble is a house and techno artist, with 33 gigs on soundcheck across Austin, B
 
 Akatana, Cez (1), Lenny Mailleau
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hubble/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hubble/)*

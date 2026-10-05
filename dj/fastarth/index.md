@@ -1,6 +1,6 @@
 # FastArth
 
-FastArth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
+FastArth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
 
 FastArth is a house and disco artist, with 3 gigs on soundcheck across Lisbon. Often billed alongside SEN10ZA. Next up: Bar Badassery, Lisbon on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ FastArth is a house and disco artist, with 3 gigs on soundcheck across Lisbon. O
 
 SEN10ZA
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fastarth/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fastarth/)*

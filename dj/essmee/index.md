@@ -1,6 +1,6 @@
 # ESSMEE
 
-ESSMEE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sensorium, Berlin on Fri, 9 Oct 2026.
+ESSMEE is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sensorium, Berlin on Fri, 9 Oct 2026.
 
 ESSMEE is a techno and experimental artist based in Germany, with 3 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Behrooz Moosavi, FACONTI and Juta. Next up: Sensorium, Berlin on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ ESSMEE is a techno and experimental artist based in Germany, with 3 gigs on soun
 
 Behrooz Moosavi, FACONTI, Juta
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essmee/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essmee/)*

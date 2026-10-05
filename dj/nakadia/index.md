@@ -1,8 +1,8 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
+Nakadia is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
 
-Nakadia is a techno and tech house artist based in Thailand, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Joule, Osaka on Fri 9 Oct.
+Nakadia is a techno and tech house artist based in Thailand, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Joule, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nakadia is a techno and tech house artist based in Thailand, with 88 gigs on sou
 | Sat, 10 Oct 2026 | Z Maruyama | Tokyo |
 | Fri, 23 Oct 2026 | Meet Berlage | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
+| Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Nakadia is a techno and tech house artist based in Thailand, with 88 gigs on sou
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

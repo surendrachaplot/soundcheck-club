@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Parkside Studios, Hesse on Sat, 10 Oct 2026.
+Locke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Parkside Studios, Hesse on Sat, 10 Oct 2026.
 
 Locke is a house and techno artist based in Greece, with 22 gigs on soundcheck across Athens, Detroit, Hesse and Mexico City. Often billed alongside Lex (GR), Chevy and Nikolas Gale. Next up: Parkside Studios, Hesse on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Locke is a house and techno artist based in Greece, with 22 gigs on soundcheck a
 
 Lex (GR), Chevy, Nikolas Gale
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locke/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locke/)*

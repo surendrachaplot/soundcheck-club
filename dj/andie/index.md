@@ -1,13 +1,14 @@
 # Andie
 
-Andie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Vino Disco, Montreal on Sat, 17 Oct 2026.
+Andie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Sans Soleil, Montreal on Mon, 12 Oct 2026.
 
-Andie is a house and disco artist based in Canada, with 33 gigs on soundcheck across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Vino Disco, Montreal on Sat 17 Oct.
+Andie is a house and disco artist based in Canada, with 34 gigs on soundcheck across Montreal and Tokyo. Often billed alongside BisouBizou, Ferias and Alina (MTL). Next up: Sans Soleil, Montreal on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 12 Oct 2026 | Sans Soleil | Montreal |
 | Sat, 17 Oct 2026 | Vino Disco | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andie is a house and disco artist based in Canada, with 33 gigs on soundcheck ac
 
 BisouBizou, Ferias, Alina (MTL)
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andie/)*

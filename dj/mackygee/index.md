@@ -1,6 +1,6 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
+Macky Gee is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
 
 Macky Gee is a drum & bass and bass artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Basstripper, Logan D and b-line. Next up: Kompass Klub, Ghent on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, with 23 gigs
 
 Basstripper, Logan D, b-line
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

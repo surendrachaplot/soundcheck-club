@@ -1,6 +1,6 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 10 Oct 2026.
+Marie Malarie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 10 Oct 2026.
 
 Marie Malarie is a house and techno artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Cobalt Studios, Newcastle on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Marie Malarie is a house and techno artist based in United Kingdom, with 131 gig
 
 Byron Yeates, FAFF, Angel D'lite
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*

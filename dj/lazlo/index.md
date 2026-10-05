@@ -1,6 +1,6 @@
 # LAZLO
 
-LAZLO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
+LAZLO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 8 Oct 2026.
 
 LAZLO is a techno and trance artist based in United Kingdom, with 85 gigs on soundcheck across Berlin, Dundee, Edinburgh and Galway and 3 more. Often billed alongside Quail, DDSIX and Schism. Next up: La Cheetah Club, Glasgow on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ LAZLO is a techno and trance artist based in United Kingdom, with 85 gigs on sou
 
 Quail, DDSIX, Schism
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*

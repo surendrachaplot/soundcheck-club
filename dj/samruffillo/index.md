@@ -1,6 +1,6 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at KABUL à GoGo, Utrecht on Fri, 9 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at KABUL à GoGo, Utrecht on Fri, 9 Oct 2026.
 
 Sam Ruffillo is a house and disco artist based in Italy, with 113 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 34 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: KABUL à GoGo, Utrecht on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Sam Ruffillo is a house and disco artist based in Italy, with 113 gigs on soundc
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

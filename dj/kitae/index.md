@@ -1,13 +1,14 @@
 # KITAE
 
-KITAE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at EL SÓTANO, Madrid on Thu, 15 Oct 2026.
+KITAE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Araña Club, Madrid on Sun, 11 Oct 2026.
 
-KITAE is a techno and house artist based in Spain, with 54 gigs on soundcheck across Madrid. Often billed alongside Pulpix, Reitze and KLOE. Next up: EL SÓTANO, Madrid on Thu 15 Oct.
+KITAE is a techno and house artist based in Spain, with 55 gigs on soundcheck across Madrid. Often billed alongside Pulpix, Reitze and KLOE. Next up: Araña Club, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Araña Club | Madrid |
 | Thu, 15 Oct 2026 | EL SÓTANO | Madrid |
 | Sat, 24 Oct 2026 | Sala Cocó | Madrid |
 
@@ -26,4 +27,4 @@ KITAE is a techno and house artist based in Spain, with 54 gigs on soundcheck ac
 
 Pulpix, Reitze, KLOE
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*

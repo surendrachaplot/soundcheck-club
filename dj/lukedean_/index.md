@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
+Luke Dean_ is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Amnesia Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Luke Dean_ is a house and tech house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 30 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Mon 5 Oct.
 
@@ -32,4 +32,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 113 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

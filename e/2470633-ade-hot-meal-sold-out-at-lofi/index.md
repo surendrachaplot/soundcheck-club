@@ -1,0 +1,24 @@
+# ADE - Hot Meal [sold out] at Lofi
+
+ADE - Hot Meal [sold out] at Lofi on Thu 22 Oct, Amsterdam. 10 artists: Bad Boombox, Dr. G, Gusted and Janis Zielinski and 6 more. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 22 Oct 2026 |
+| Venue | Lofi |
+| City | Amsterdam |
+
+## Line-up
+
+- Bad Boombox
+- Dr. G
+- Gusted
+- Janis Zielinski
+- Jessie Dols
+- lizaliza
+- Mija
+- Mischluft
+- MRD (NO)
+- Ollie Lishman
+
+*Source: [soundcheck](https://soundcheck.club/e/2470633-ade-hot-meal-sold-out-at-lofi/)*

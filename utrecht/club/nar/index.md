@@ -1,14 +1,13 @@
 # NAR
 
-NAR is a music venue in Utrecht with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "WEERD" on Sun, 4 Oct 2026.
+NAR is a music venue in Utrecht with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "DE DANSVLOER / Ays (all night long)" on Thu, 8 Oct 2026.
 
-NAR is a music venue in Utrecht listed on soundcheck. 3 upcoming gigs, with line-ups including Ays (NL), I-F, Mowgli (NL) and Nuno dos Santos and 1 more. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
+NAR is a music venue in Utrecht listed on soundcheck. 2 upcoming gigs, with line-ups including Ays (NL), I-F and Mowgli (NL). See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | WEERD | Nuno dos Santos, Vasco |
 | Thu, 8 Oct 2026 | DE DANSVLOER / Ays (all night long) | Ays (NL) |
 | Fri, 23 Oct 2026 | Intergalactic FM | I-F, Mowgli (NL) |
 
@@ -16,4 +15,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 3 upcoming gigs, with line
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

@@ -1,6 +1,6 @@
 # CON.R
 
-CON.R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
+CON.R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Mirage, Hanoi on Fri, 13 Nov 2026.
 
 CON.R is a house and techno artist, with 4 gigs on soundcheck across Dublin and Hanoi. Often billed alongside Recipes, Ayolxi and DJRIPT. Next up: Mirage, Hanoi on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ CON.R is a house and techno artist, with 4 gigs on soundcheck across Dublin and 
 
 Recipes, Ayolxi, DJRIPT
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*

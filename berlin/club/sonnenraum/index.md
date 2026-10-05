@@ -1,14 +1,13 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar" on Sun, 4 Oct 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "XJAZZ Funeral Party" on Fri, 9 Oct 2026.
 
-Sonnenraum is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Allynx, Cinthie, Daniel Best and Delfonic and 2 more. See dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
+Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Allynx, Daniel Best, Delfonic and Dragana and 2 more. See dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar | Cinthie, Introspekt, Jennifer Loveless, Konduku, Mohajer, Rachel Noon, Sansibar |
 | Fri, 9 Oct 2026 | XJAZZ Funeral Party | Allynx, Daniel Best, Delfonic, Eddy Ramich, Àbáse |
 | Sun, 11 Oct 2026 | Witching Hour | Dragana, Justin Shaffer, Margaret Dygas |
 | Fri, 6 Nov 2026 | Uche Yara |  |
@@ -17,4 +16,4 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

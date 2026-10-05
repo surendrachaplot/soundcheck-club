@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Throwback Cruise - 80s, 90s & 2000s Party" on Sat, 10 Oct 2026.
+Inception Boat is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Throwback Cruise - 80s, 90s & 2000s Party" on Sat, 10 Oct 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, with line-ups including Miguel Campbell. See dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -19,4 +19,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 6 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "ONDULATION by ATOEM #2" on Thu, 8 Oct 2026.
+La Station - Gare des Mines is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "ONDULATION by ATOEM #2" on Thu, 8 Oct 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including 300SkullsAndCounting, A.Litique, Claude Murder and Corbeille Dallas and 2 more. See dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 12 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

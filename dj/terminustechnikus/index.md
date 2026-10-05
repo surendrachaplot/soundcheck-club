@@ -1,6 +1,6 @@
 # TerminusTechnikus
 
-TerminusTechnikus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+TerminusTechnikus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
 TerminusTechnikus is a techno and trance artist based in Czech Republic, with 54 gigs on soundcheck across Prague. Often billed alongside Zuzana Hakl, Epoché and mata rubia. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ TerminusTechnikus is a techno and trance artist based in Czech Republic, with 54
 
 Zuzana Hakl, Epoché, mata rubia
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminustechnikus/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminustechnikus/)*

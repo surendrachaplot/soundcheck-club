@@ -1,6 +1,6 @@
 # Witching Hours at TBA - DTLA
 
-Witching Hours at TBA - DTLA on Fri 23 Oct, Los Angeles. 1 artist: Kittamami. House and Tech House. See the line-up on soundcheck.
+Witching Hours at TBA - DTLA on Fri 23 Oct, Los Angeles. 2 artists: Alienatrix and Kittamami. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Witching Hours at TBA - DTLA on Fri 23 Oct, Los Angeles. 1 artist: Kittamami. Ho
 
 ## Line-up
 
+- Alienatrix
 - Kittamami
 
 *Source: [soundcheck](https://soundcheck.club/e/2544274-witching-hours-at-tba-dtla/)*

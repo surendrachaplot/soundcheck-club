@@ -1,6 +1,6 @@
 # Convoluted Mental Mirror
 
-Convoluted Mental Mirror is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Convoluted Mental Mirror is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Convoluted Mental Mirror is an electronic artist based in Spain, with 4 gigs on soundcheck across Barcelona, Lisbon and Madrid. Often billed alongside Andrae Durden, Emilia Grima and Jan Swam. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Convoluted Mental Mirror is an electronic artist based in Spain, with 4 gigs on 
 
 Andrae Durden, Emilia Grima, Jan Swam
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convolutedmentalmirror/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convolutedmentalmirror/)*

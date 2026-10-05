@@ -1,6 +1,6 @@
 # Rumble In The Jungle at Suns Shimokitazawa
 
-Rumble In The Jungle at Suns Shimokitazawa on Fri 30 Oct, Tokyo. 3 artists: Dazegxd, HALU(Tribal Connection) and 反核機動隊. See the line-up on soundcheck.
+Rumble In The Jungle at Suns Shimokitazawa on Fri 30 Oct, Tokyo. 3 artists: Dazegxd, HALU(Tribal Connection) and 反核機動隊. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

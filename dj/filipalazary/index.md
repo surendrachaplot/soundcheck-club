@@ -1,6 +1,6 @@
 # Filipa Lazary
 
-Filipa Lazary is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Filipa Lazary is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Filipa Lazary is an electronic artist based in Spain, with 3 gigs on soundcheck across Greece and Ibiza. Often billed alongside 22, Akaj and Alex Dima. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -20,4 +20,4 @@ Filipa Lazary is an electronic artist based in Spain, with 3 gigs on soundcheck 
 
 22 (1), Akaj, Alex Dima
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filipalazary/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filipalazary/)*

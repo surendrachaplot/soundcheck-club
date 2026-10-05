@@ -1,6 +1,6 @@
 # Mona Sage
 
-Mona Sage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
+Mona Sage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
 
 Mona Sage is a techno and trance artist based in France, with 19 gigs on soundcheck across Berlin, Copenhagen and London. Often billed alongside Manni Dee, S Ruston and Gloria Rose. Next up: NUMBER 90 LONDON, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mona Sage is a techno and trance artist based in France, with 19 gigs on soundch
 
 Manni Dee, S Ruston, Gloria Rose
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monasage/)*

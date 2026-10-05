@@ -1,6 +1,6 @@
 # DJ Rap
 
-DJ Rap is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+DJ Rap is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
 DJ Rap is a drum & bass and jungle artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, Ray Keith and DJ Hype. Next up: Outernet Live, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Rap is a drum & bass and jungle artist based in United States of America, wit
 
 Nicky Blackmarket, Ray Keith, DJ Hype
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*

@@ -1,6 +1,6 @@
 # Lefen
 
-Lefen is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lefen is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Lefen is an electronic artist based in Greece, with 4 gigs on soundcheck across Athens and Greece. Often billed alongside 22, Akaj and Irene Kimova. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ Lefen is an electronic artist based in Greece, with 4 gigs on soundcheck across 
 
 22 (1), Akaj, Irene Kimova
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lefen/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lefen/)*

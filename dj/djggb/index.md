@@ -1,6 +1,6 @@
 # DJ GGB
 
-DJ GGB is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Brixton Jamm, London on Fri, 23 Oct 2026.
+DJ GGB is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Brixton Jamm, London on Fri, 23 Oct 2026.
 
 DJ GGB is an afro house and deep house artist, with 3 gigs on soundcheck across London. Often billed alongside DJ Truce, N Fostell and Shenin Amara. Next up: Brixton Jamm, London on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ DJ GGB is an afro house and deep house artist, with 3 gigs on soundcheck across 
 
 DJ Truce, N Fostell, Shenin Amara
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djggb/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djggb/)*

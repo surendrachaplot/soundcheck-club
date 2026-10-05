@@ -1,6 +1,6 @@
 # Tham
 
-Tham is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Tham is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
 Tham is a techno and trance artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Tham is a techno and trance artist based in Germany, with 157 gigs on soundcheck
 
 Acierate, CARAVEL, Vendex
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

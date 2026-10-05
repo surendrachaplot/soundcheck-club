@@ -1,6 +1,6 @@
 # Subwerk Club
 
-Subwerk Club is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "Hard Techno with PENELOPE (weareone) - by Rave Times" on Fri, 9 Oct 2026.
+Subwerk Club is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "Hard Techno with PENELOPE (weareone) - by Rave Times" on Fri, 9 Oct 2026.
 
 Subwerk Club is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including Abyss. See dates, start times and who's playing. 2, 1 และ 2/3 Decho Rd, Suriya Wong, Suriyawong, 10500.
 
@@ -9,10 +9,10 @@ Subwerk Club is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Hard Techno with PENELOPE (weareone) - by Rave Times | Abyss |
-| Sat, 10 Oct 2026 | Hard Techno with PENELOPE (weareone) - by Rave Times |  |
+| Sat, 10 Oct 2026 | Hard Techno with Kasat Ka (Cult)  - by Rave Times |  |
 
 ## Address
 
 2, 1 และ 2/3 Decho Rd, Suriya Wong, Suriyawong, 10500, Bangkok
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/subwerk-club/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/subwerk-club/)*

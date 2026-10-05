@@ -1,6 +1,6 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at control, Bucharest on Fri, 9 Oct 2026.
+Rey Colino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at control, Bucharest on Fri, 9 Oct 2026.
 
 Rey Colino is a techno and house artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: control, Bucharest on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Rey Colino is a techno and house artist based in Belgium, with 109 gigs on sound
 
 Spray, Roza Terenzi, Eversines
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*

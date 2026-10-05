@@ -1,6 +1,6 @@
 # Vandel
 
-Vandel is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Vandel is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Vandel is a house artist based in Colombia, with 4 gigs on soundcheck across Berlin, Colombia, Lisbon and Paris. Often billed alongside Jus-Ed, Afshin and Ancient Methods. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -20,4 +20,4 @@ Vandel is a house artist based in Colombia, with 4 gigs on soundcheck across Ber
 
 Jus-Ed, Afshin, Ancient Methods
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandelklang/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandelklang/)*

@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 12 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. The next is "O'Flynn, Duskus, YOON" on Fri, 9 Oct 2026.
+Hangaren is a music venue in Copenhagen with 12 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. The next is "O'Flynn, Duskus, YOON" on Fri, 9 Oct 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 12 upcoming gigs, with line-ups including AELVA K, Baime, CAIVA and Cara Elizabeth and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -16,11 +16,11 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 12 upcoming gigs, 
 | Fri, 6 Nov 2026 | fumi, Sylvia, David Garset, Milo Makua | David Garset, Milo Makua, Sylvia (ES), fumi (DE) |
 | Sat, 7 Nov 2026 |  Cassie Raptor, Kardinal Bertram, LMN | Cassie Raptor, Kardinal Bertram, LMN (1) |
 | Fri, 13 Nov 2026 | Oliver Koletzki, Rexie Lex, Baime | Baime, Oliver Koletzki, Rexie Lex |
-| Sat, 14 Nov 2026 | Miley Serious | Miley Serious |
+| Sat, 14 Nov 2026 | Miley Serious, Dirty Plates, Vincent's older sister | Dirty Plates, Miley Serious, Vincent's Older Sister |
 | Fri, 20 Nov 2026 | MCR-T | MCR-T |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

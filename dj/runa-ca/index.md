@@ -1,18 +1,18 @@
 # Runa
 
-Runa is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Runa is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at TBA, Montreal on Sat, 24 Oct 2026.
 
-Runa is a techno and bass artist based in Canada, with 51 gigs on soundcheck across Montreal, Tokyo and Toronto. Often billed alongside Asha, MIASALAV and James Benjamin. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
+Runa is a techno and bass artist based in Canada, with 51 gigs on soundcheck across Montreal, Tokyo and Toronto. Often billed alongside Asha, MIASALAV and James Benjamin. Next up: TBA, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 24 Oct 2026 | TBA | Montreal |
 
 ## Recently played
 
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 4 Oct 2026
 - Société des arts technologiques, Montreal · Fri, 14 Aug 2026
 - TBA - mile ex, Montreal · Sat, 8 Aug 2026
 - Barbossa, Montreal · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Runa is a techno and bass artist based in Canada, with 51 gigs on soundcheck acr
 - Système, Montreal · Thu, 7 May 2026
 - La Récré, Montreal · Fri, 24 Apr 2026
 - NWHR, Montreal · Fri, 10 Apr 2026
-- Bar Datcha, Montreal · Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Asha (4), MIASALAV, James Benjamin
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runa-ca/)*

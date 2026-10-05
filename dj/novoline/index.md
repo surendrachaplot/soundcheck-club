@@ -1,6 +1,6 @@
 # Novo Line
 
-Novo Line is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 4 Oct 2026. Next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Novo Line is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 5 Oct 2026. Next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
 Novo Line is a new wave and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside André Uhl, Antonio Barbetta and Charlotte Simon. Next up: Sameheads, Berlin on Thu 8 Oct.
 
@@ -20,4 +20,4 @@ Novo Line is a new wave and techno artist based in Germany, with 4 gigs on sound
 
 André Uhl, Antonio Barbetta, Charlotte Simon
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novoline/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novoline/)*

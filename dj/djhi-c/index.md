@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 4 Oct 2026. Next at Move, West-wales on Fri, 9 Oct 2026.
+DJ HI-C is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 5 Oct 2026. Next at Move, West-wales on Fri, 9 Oct 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 77 gigs on soundcheck across Amsterdam, Athens, Hong Kong and Kyoto and 8 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Move, West Wales on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ DJ HI-C is a techno and house artist based in Japan, with 77 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Sun, 4 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Mon, 5 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
